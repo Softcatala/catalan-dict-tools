@@ -108,7 +108,7 @@ while (my $line = <$fh>) {
 		# Tot correcte
 	    } elsif ($value =~ /^lt/) {
 		# Falta en Hunspell
-		print $ofh "$key/Z\n";
+		print $ofh "$key/Z\n";       ### Però /C si és imperatiu!! O bé les dues coses.
 	    } elsif ($value =~ /^hunspell/) {
 		# Falta en LT !!! Error.
 		print $ofh "$key $value FALTA EN LT!!!\n";
