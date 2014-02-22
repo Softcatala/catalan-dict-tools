@@ -51,6 +51,9 @@ while (my $line = <$fh>) {
 	my $categoria = $2;
 	my $model = $3;
 	my $formabase = "";
+	if ($infinitiu =~ /^(anar|estar|dar|donar)$/) {
+	    next;
+	}
 	open( my $modelfh,  "<:encoding(UTF-8)", $modelsdir.$model.".model" );
 	while (my $modelline = <$modelfh>) {
 	    if ($modelline =~ /^(.+) (.+) (.+) (.+) #.*$/) {
@@ -86,23 +89,29 @@ while (my $line = <$fh>) {
 		my $forma = $formabase;
 		$forma =~ s/$lleva[$i]$/$afignet[$i]/;
 		if (exists($formes{$forma})) {
-		    $formes{$forma}="lt-hunspell";
+		    if ($formes{$forma} =~ /^lt/) {
+			$formes{$forma}="lt-hunspell";
+		    }
 		} else {
-		    $formes{$forma}="hunspell";
+		    $formes{$forma}="hunspell ".$lleva[$i]." ".$afig[$i]." ".$acabaen[$i];
 		}
+
 	    }
 	}
 
 
 	while ( my ($key, $value) = each(%formes) ) {
+	    if ($formabase =~ /^aguava$/) {
+		print $ofh "$key $value\n";
+	    }
 	    if ($value =~ /lt-hunspell/) {
 		# Tot correcte
-	    } elsif ($value =~ /lt/) {
+	    } elsif ($value =~ /^lt/) {
 		# Falta en Hunspell
 		print $ofh "$key/Z\n";
-	    } elsif ($value =~ /hunspell/) {
+	    } elsif ($value =~ /^hunspell/) {
 		# Falta en LT !!! Error.
-		print $ofh "$key FALTA EN LT!!!\n";
+		print $ofh "$key $value FALTA EN LT!!!\n";
 	    }
 	}
 	print $ofh "$formabase/A\n";

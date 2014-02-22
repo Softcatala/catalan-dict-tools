@@ -546,9 +546,9 @@ REGLA A SFX+ Primera conjugació regular
 013     l·lava l/Z         l·lava           #    vacil ( < vacil·lar)
 013     nnava  n/Z         nnava            #    nan ( < nannar)
 013     ava    i/Z         eava             #    crei
-013     ava    i/Z         [^aeo]iava       #    guii, esquii, estudii
+013     ava    i/Z         [^aeou]iava      #    guii, esquii, estudii
 013     iava   i/Z         [aeo]iava        #    espai, remei, enjoi
-013     iava   i/Z         [^gq]uiava       #    alui (aluiar)
+013     iava   i/Z         [^gq]uiava       #    alui (aluiar), crui (cruiava)
 013     ava    u/Z         oava             #    incou, encau
 013     ava    u/Z         [^aeioqg]uava    #    suu
 013     uava   u/Z         [aeo]uava        #    encau, encreu, pou
@@ -563,7 +563,7 @@ REGLA A SFX+ Primera conjugació regular
 013     gava   g/Z         gava             #    porg
 013     lava   l/Z         [^·]lava         #    bel
 013     mava   m/Z         mava             #    estim
-013     nava   n/Z         [^ein]nava       #    man
+013     nava   n/Z         [^eiïn]nava       #    man
 013     pava   p/Z         pava             #    sop
 013     rava   r/Z         rava             #    par, err
 013     sava   s/Z         [^aeious]sava    #    espols, eclips
@@ -613,7 +613,7 @@ REGLA A SFX+ Primera conjugació regular
 000     ava    àvem/Z      ava              # 4. cantàvem
 000     ava    àveu/Z      ava              # 5. cantàveu
 000     ava    aven/Z      ava              # 6. cantaven
-000     ava    í/Z         [^cçgij]ava      # 1. cantí - indicatiu perfet <IPE>
+000     ava    í/Z         [^cçgiju]ava     # 1. cantí - indicatiu perfet <IPE>
 000     cava   quí/Z       cava             #    cerquí
 000     uava   üí/Z        [gq]uava         #    adeqüí, enaigüí, desaigüí
 000     çava   cí/Z        çava             #    cací
@@ -642,10 +642,10 @@ REGLA A SFX+ Primera conjugació regular
 000     ava    arien/Z     ava              # 6. cantarien
 000     ava    i/Z         [^cçgjieou]ava   # 1. canti - subjuntiu present <SPR>
 000     ava    ï/Z         [^aeiou][eio]ava #    canviï, suï
-000     iava   ï/Z         [aeiou]iava      #    desmaï
+000     iava   ï/Z         [aeio]iava      #    desmaï
 000     ava    ï/Z         [gq]uiava        #    esquiï
 000     iava   ï/Z         [^gq]uiava       #
-000     uava   üi/Z        [gq]uava         #    enaigüi, adeqüi
+000     uava   üi/Z        ..[gq]uava       #    enaigüi, adeqüi // però aguï
 000     ava    i/Z         [eoia]uava       #    creui, poui, estiui, desencaui
 000     uava   uï/Z        [^eoiagq]uava    #    evacuï
 000     cava   qui/Z       cava             #    cerqui
@@ -662,10 +662,10 @@ REGLA A SFX+ Primera conjugació regular
 008     java   ge/Z        java             #    venge 
 000     ava    is/Z        [^cçgjieou]ava   # 2. cantis
 000     ava    ïs/Z        [^aeiou][eio]ava #    canviïs, suïs
-000     iava   ïs/Z        [aeiou]iava      #    desmaïs
+000     iava   ïs/Z        [aeio]iava       #    desmaïs
 000     ava    ïs/Z        [gq]uiava        #    esquiïs
-000     iava   ïs/Z        [^gq]uiava       #
-000     uava   üis/Z       [gq]uava         #    enaigüis, adeqüis
+000     iava   ïs/Z        [^gq]uiava       #    aparroquiïs
+000     uava   üis/Z       ..[gq]uava       #    enaigüis, adeqüis // però aguïs
 000     ava    is/Z        [eoia]uava       #    creuis, pouis, estiuis, desencauis
 000     uava   uïs/Z       [^eoiagq]uava    #    evacuïs
 000     cava   quis/Z      cava             #    cerquis
@@ -682,10 +682,10 @@ REGLA A SFX+ Primera conjugació regular
 008     java   ges/Z       java             #    venges
 000     ava    i/Z         [^cçgjieou]ava   # 3. canti
 000     ava    ï/Z         [^aeiou][eio]ava #    suï
-000     iava   ï/Z         [aeiou]iava      #    desmaï
+000     iava   ï/Z         [aeio]iava       #    desmaï
 000     ava    ï/Z         [gq]uiava        #    esquiï
 000     iava   ï/Z         [^gq]uiava       #
-000     uava   üi/Z        [gq]uava         #    enaigüi, adeqüi
+000     uava   üi/Z        ..[gq]uava       #    enaigüi, adeqüi // però aguï
 000     ava    i/Z         [eoia]uava       #    creui, poui, estiui, desencaui
 000     uava   uï/Z        [^eoiagq]uava    #    evacuï
 000     cava   qui/Z       cava             #    cerqui
@@ -718,10 +718,10 @@ REGLA A SFX+ Primera conjugació regular
 000     java   geu/Z       java             #    vengeu
 000     ava    in/Z        [^cçgjieou]ava   # 6. cantin
 000     ava    ïn/Z        [^aeiou][eio]ava #    canviïn, suïn
-000     iava   ïn/Z        [aeiou]iava      #    desmaïn
+000     iava   ïn/Z        [aeio]iava       #    desmaïn
 000     ava    ïn/Z        [gq]uiava        #    esquiïn
 000     iava   ïn/Z        [^gq]uiava       #
-000     uava   üin/Z       [gq]uava         #    enaigüin, adeqüin
+000     uava   üin/Z       ..[gq]uava       #    enaigüin, adeqüin //// però aguïn
 000     ava    in/Z        [eoia]uava       #    creuin, pouin, estiuin, desencauin
 000     uava   uïn/Z       [^eoiagq]uava    #    evacuïn
 000     cava   quin/Z      cava             #    cerquin
@@ -835,10 +835,10 @@ REGLA A SFX+ Primera conjugació regular
 000     ava    a/D         ava              # 2. canta - imperatiu <IMP>
 000     ava    i/D         [^cçgjeiou]ava   # 3. canti
 000     ava    ï/D         [^aeiou][eio]ava #    canviï, suï
-000     iava   ï/D         [aeiou]iava      #    desmaï
+000     iava   ï/D         [aeio]iava       #    desmaï
 000     ava    ï/D         [gq]uiava        #    esquiï
 000     iava   ï/D         [^gq]uiava       #
-000     uava   üi/D        [gq]uava         #    enaigüi, adeqüi
+000     uava   üi/D        ..[gq]uava       #    enaigüi, adeqüi
 000     ava    i/D         [eoia]uava       #    creui, poui, estiui, desencaui
 000     uava   uï/D        [^eoiagq]uava    #    evacuï
 000     cava   qui/D       cava             #    cerqui
@@ -872,13 +872,13 @@ REGLA A SFX+ Primera conjugació regular
 001     ava    au/C        ava              #    cantau
 000     ava    in/C        [^cçgjeiou]ava   # 6. cantin
 000     ava    ïn/C        [^aeiou][eio]ava #    canviïn, suïn
-000     iava   ïn/C        [aeiou]iava      #    desmaïn
+000     iava   ïn/C        [aeio]iava       #    desmaïn
 000     ava    ïn/C        [gq]uiava        #    esquiïn
 000     iava   ïn/C        [^gq]uiava       #
-000     guava  güin/C      guava            #    enaigüin
-000     uava   üin/Z       [gq]uava         #    enaigüin, adeqüin
-000     ava    in/Z        [eoia]uava       #    creuin, pouin, estiuin, desencauin
-000     uava   uïn/Z       [^eoiagq]uava    #    evacuïn
+//000     guava  güin/C      guava            #    enaigüin
+000     uava   üin/C       ..[gq]uava       #    enaigüin, adeqüin
+000     ava    in/C        [eoia]uava       #    creuin, pouin, estiuin, desencauin
+000     uava   uïn/C       [^eoiagq]uava    #    evacuïn
 000     cava   quin/C      cava             #    cerquin
 000     çava   cin/C       çava             #    cacin
 000     gava   guin/C      gava             #    porguin
