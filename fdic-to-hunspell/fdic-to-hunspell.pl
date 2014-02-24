@@ -15,25 +15,20 @@ my $regles = "regles.hunspell";
 # Llegeix afixos 
 open( my $fh,  "<:encoding(UTF-8)", $regles );
 my $inregla = 0;
-my @acabaen;
-my @lleva;
-my @afig;
-my @afignet;
-
+my @regles;
+my $spfx;
+my $regla ="";
 while (my $line = <$fh>) {
     chomp($line);
-    if ($line =~ /^REGLA A /) {
+    if ($line =~ /^REGLA (.) ([SP]FX)/) {
+	$regla = $1;
+	$spfx =$2;
 	$inregla = 1;
     } elsif ($line =~ /^\/REGLA/) {
 	$inregla = 0;
     } elsif ($inregla) {
 	if ($line =~ /^(...)\s+([^\s]+)\s+([^\s]+)\s+([^\s]+)\s*/) {
-	    push (@acabaen, $4);
-	    push (@lleva, $2);
-	    push (@afig, $3);
-	    my $afig_net = $3;
-	    $afig_net =~ s/\/.+$//; # aven/Z > aven
-	    push (@afignet, $afig_net);
+	    push (@regles, "$spfx $regla $2 $3 $4");
 	}
     }
 }
@@ -46,11 +41,12 @@ my %formes = ();
 while (my $line = <$fh>) {
     chomp($line);
 
-    if ($line =~ /^(.+ar)=categories:(.+?);model:(.+?);/) {
-	my $infinitiu = $1;
-	my $categoria = $2;
-	my $model = $3;
-	my $formabase = "";
+    if ($line =~ /^(.+)(er|re)=categories:(.+?);model:(.+?);/) {
+	my $infinitiu = $1.$2;
+	my $terminacio = $2;
+	my $categoria = $3;
+	my $model = $4;
+	my @entradesHunspell;
 	if ($infinitiu =~ /^(anar|estar|dar|donar)$/) {
 	    next;
 	}
@@ -70,10 +66,28 @@ while (my $line = <$fh>) {
 		if ($afegeix !~ /^0$/) {
 		    $forma .= $afegeix;
 		}
+		if ($terminacio =~ /^ar$/) { # 1a conjugació
+		    if ($postag =~ /VMII1S00/) { push(@entradesHunspell, $forma."/A"); } #cantava/A
+		} elsif ($terminacio =~ /^(er|re)$/) { #2a conjugació
+		    #if ($postag =~ /VMN00000/) { 
+		#	if ($forma =~ /[aeiou]$/) { push(@entradesHunspell, $forma."/D"); } #batre/D
+		#	else { push(@entradesHunspell, $forma."/C"); } #conèixer/C
+		#    }
+		    if ($postag =~ /VMII1S00/) { push(@entradesHunspell, $forma."/O"); } #batia/O
+		    if ($postag =~ /VMIP3S00/) { push(@entradesHunspell, $forma."/S"); } #bat/O
+		    if ($postag =~ /VMSI1S01/) { 
+			if ($forma =~ /gués$/) { push(@entradesHunspell, $forma."/Q"); } #coneguésQ
+			else { push(@entradesHunspell, $forma."/P"); } #batés/P o Q
+		    }
+		    if ($postag =~ /VMG00000/) { push(@entradesHunspell, $forma."/R"); } #batent/R
+		    if ($postag =~ /VMIF1S00/) { push(@entradesHunspell, $forma."/T"); } #batré/T
+		    if ($postag =~ /VMP00SM0/) { 
+			if ($forma =~ /ut$/) { push(@entradesHunspell, $forma."/B"); } #batut/B
+			else { push(@entradesHunspell, $forma."/J"); } #emès/J
+		    }
 
-		if ($postag =~ /VMII1S00/) {
-		    $formabase = $forma;
 		}
+
 		if (!exists($formes{$forma})) {
 		    $formes{$forma}="lt"; #existeix en LanguageTool
 		}
@@ -83,27 +97,39 @@ while (my $line = <$fh>) {
 	}
 	close ($modelfh);
 	# Crea les formes amb els afixos Hunspell i compara
-	for my $i (0 .. $#acabaen)
-	{
-	    if ($formabase =~ /$acabaen[$i]$/) {
-		my $forma = $formabase;
-		$forma =~ s/$lleva[$i]$/$afignet[$i]/;
-		if (exists($formes{$forma})) {
-		    if ($formes{$forma} =~ /^lt/) {
-			$formes{$forma}="lt-hunspell";
+	foreach (@entradesHunspell) {
+	    print $ofh "$_\n";
+	    $_ =~ /^(.+)\/(.)/;
+	    my $formabase = $1;
+	    my $lletraregla = $2;
+	    for my $regla (@regles) {
+		if ($regla =~ /^[SP]FX $lletraregla (.+) (.+) (.+)$/) {
+		    my $acabaen = $3;
+		    my $lleva = $1;
+		    my $afig = $2;
+		    my $afignet = $afig;
+		    $lleva =~ s/0$//; # elimina 0
+		    $afignet =~ s/\/.+$//;  # cantava/A > cantava
+		    if ($formabase =~ /$acabaen$/) {
+			my $forma = $formabase;
+			if ($lleva =~ /.+/) {
+			    $forma =~ s/$lleva$/$afignet/;
+			} else {
+			    $forma = $forma.$afignet;
+			}
+			if (exists($formes{$forma})) {
+			    if ($formes{$forma} =~ /^lt/) {
+				$formes{$forma}="lt-hunspell";
+			    }
+			} else {
+			    $formes{$forma}="hunspell ".$lleva." ".$afig." ".$acabaen;
+			}
 		    }
-		} else {
-		    $formes{$forma}="hunspell ".$lleva[$i]." ".$afig[$i]." ".$acabaen[$i];
 		}
-
 	    }
 	}
 
-
 	while ( my ($key, $value) = each(%formes) ) {
-	    if ($formabase =~ /^aguava$/) {
-		print $ofh "$key $value\n";
-	    }
 	    if ($value =~ /lt-hunspell/) {
 		# Tot correcte
 	    } elsif ($value =~ /^lt/) {
@@ -114,13 +140,13 @@ while (my $line = <$fh>) {
 		print $ofh "$key $value FALTA EN LT!!!\n";
 	    }
 	}
-	print $ofh "$formabase/A\n";
+	
 	#Buida el hash
 	for (keys %formes)
 	{
 	    delete $formes{$_};
 	}
-
+	@entradesHunspell = 0;
     }
 }
 close ($ofh);

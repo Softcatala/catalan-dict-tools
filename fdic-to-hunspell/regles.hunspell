@@ -1213,7 +1213,7 @@ REGLA R SFX+ Formes de la segona conjugació semblants al gerundi
 REGLA S SFX+ Formes de la segona conjugació semblants a "plaus", "absols", etc.
 000     0      s/Z         [^nçx]           # 2. plaus, absols      <IPR>
 000     ç      ces/Z       ç                #    torces
-000     0      es/Z        x                #    torces
+000     0      es/Z        x                #    coneixes
 000     0      s/Z         [^èé]n           #    prens
 000     èn     ens/Z       èn               #    aprens
 000     én     ens/Z       én               #    entens
