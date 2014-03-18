@@ -130,8 +130,8 @@ sub desplega_femeni_amb_guionet {
 	    $found=1;
 	}
 	else {
-	    my $nTerm_fem=unac_string($term_fem);
-	    my $nMot_masc=unac_string($mot_masc);
+	    my $nTerm_fem=&unac_string($term_fem);
+	    my $nMot_masc=&unac_string($mot_masc);
 	    $nTerm_fem =~ /^(.).*$/;
 	    my $firstLetterTerm=$1;
             #La terminació femenina s'ha d'afegir a partir de la vocal tònica.
