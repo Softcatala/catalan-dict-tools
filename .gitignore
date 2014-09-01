@@ -1,3 +1,7 @@
 *~
-*.txt
+*-lt.txt
+lt-ordenacions/*.txt
+lt-separat-reordenat/*.txt
+lt-separat/*.txt
+compara/*.txt
 #*

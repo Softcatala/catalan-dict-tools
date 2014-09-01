@@ -1,0 +1,4500 @@
+podent/R
+pogut/B
+pot/S
+podia/O
+podré/T
+pogués/Q
+poten hunspell  en/Z [^nç] FALTA EN LT!!!
+poga hunspell gués ga/Z gués FALTA EN LT!!!
+pugueu/Z
+puguin/Z
+pugues/Z
+pogut/Z
+puguem/Z
+pogueu hunspell és eu/Z és FALTA EN LT!!!
+pot/Z
+poguen hunspell és en/Z és FALTA EN LT!!!
+puc/Z
+poden/Z
+poguin hunspell és in/Z és FALTA EN LT!!!
+pogues hunspell és es/Z és FALTA EN LT!!!
+puga/Z
+pugui/Z
+pogui hunspell és i/Z és FALTA EN LT!!!
+poder/Z
+poguem hunspell és em/Z és FALTA EN LT!!!
+puguen/Z
+poguis hunspell és is/Z és FALTA EN LT!!!
+poc hunspell gués c/Z gués FALTA EN LT!!!
+puguis/Z
+desmereixent/R
+desmerescut/B
+desmereix/S
+desmereixia/O
+desmereixeré/T
+desmereixés/P
+desmeresqués/P
+desmereixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+desmeresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+desmeresca/Z
+desmeresc/Z
+desmereixera hunspell és era/Z és FALTA EN LT!!!
+desmerescut/Z
+desmeréixer/Z
+desmereix/Z
+desmerèixer/Z
+mereixent/R
+merescut/B
+mereix/S
+mereixia/O
+mereixeré/T
+mereixés/P
+meresqués/P
+mereix/Z
+mereixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+merèixer/Z
+meresc/Z
+meréixer/Z
+meresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+merescut/Z
+meresca/Z
+mereixera hunspell és era/Z és FALTA EN LT!!!
+coent/R
+cogut/B
+cuit/J
+cou/S
+coïa/O
+couré/T
+cogués/Q
+cogut/Z
+cuitos hunspell  os [^s] FALTA EN LT!!!
+cuits/Z
+cou/Z
+cuit/Z
+coure/Z
+esprement/R
+espremut/B
+esprem/S
+espremia/O
+espremeré/T
+espremés/P
+esprem/Z
+esprémer/Z
+espremut/Z
+prement/R
+premut/B
+prem/S
+premia/O
+premeré/T
+premés/P
+premut/Z
+prem/Z
+prémer/Z
+terratrement/R
+terratremut/B
+terratrem/S
+terratremia/O
+terratremeré/T
+terratremés/P
+terratrem/Z
+terratremut/Z
+terratrémer/Z
+trement/R
+tremut/B
+trem/S
+tremia/O
+tremeré/T
+tremés/P
+tremut/Z
+trémer/Z
+trem/Z
+tement/R
+temut/B
+tem/S
+temia/O
+temeré/T
+temés/P
+temut/Z
+tem/Z
+témer/Z
+noment/R
+nomut/B
+nom/S
+nomia/O
+nomeré/T
+només/P
+nòmer/Z
+nomut/Z
+nom/Z
+aprehenent/R
+aprehès/J
+aprehés/J
+aprehèn/S
+aprehén/S
+aprehenia/O
+aprehendré/T
+aprehengués/Q
+aprehén/Z
+aprehendre/Z
+aprehèn/Z
+aprehès/Z
+aprenent/R
+après/J
+aprés/J
+aprèn/S
+aprén/S
+aprenia/O
+aprendré/T
+aprengués/Q
+après/Z
+aprén/Z
+aprèn/Z
+aprendre/Z
+comprenent/R
+comprès/J
+comprés/J
+comprèn/S
+comprén/S
+comprenia/O
+comprendré/T
+comprengués/Q
+comprès/Z
+comprendre/Z
+comprén/Z
+comprèn/Z
+corprenent/R
+corprès/J
+corprés/J
+corprèn/S
+corprén/S
+corprenia/O
+corprendré/T
+corprengués/Q
+corprèn/Z
+corprès/Z
+corprén/Z
+corprendre/Z
+defenent/R
+defès/J
+defés/J
+defèn/S
+defén/S
+defenia/O
+defendré/T
+defengués/Q
+defén/Z
+defendre/Z
+defès/Z
+defèn/Z
+depenent/R
+depès/J
+depés/J
+depèn/S
+depén/S
+depenia/O
+dependré/T
+depengués/Q
+depès/Z
+depèn/Z
+dependre/Z
+depén/Z
+deprenent/R
+deprès/J
+deprés/J
+deprèn/S
+deprén/S
+deprenia/O
+deprendré/T
+deprengués/Q
+deprèn/Z
+deprès/Z
+deprendre/Z
+deprén/Z
+desaprenent/R
+desaprès/J
+desaprés/J
+desaprèn/S
+desaprén/S
+desaprenia/O
+desaprendré/T
+desaprengués/Q
+desaprès/Z
+desaprén/Z
+desaprendre/Z
+desaprèn/Z
+despenent/R
+despès/J
+despés/J
+despèn/S
+despén/S
+despenia/O
+despendré/T
+despengués/Q
+despès/Z
+despén/Z
+despèn/Z
+despendre/Z
+desprenent/R
+desprès/J
+després/J
+desprèn/S
+desprén/S
+desprenia/O
+desprendré/T
+desprengués/Q
+desprès/Z
+desprèn/Z
+desprendre/Z
+desprén/Z
+emprenent/R
+emprès/J
+emprés/J
+emprèn/S
+emprén/S
+emprenia/O
+emprendré/T
+emprengués/Q
+emprès/Z
+emprén/Z
+emprendre/Z
+emprèn/Z
+expenent/R
+expès/J
+expés/J
+expèn/S
+expén/S
+expenia/O
+expendré/T
+expengués/Q
+expén/Z
+expèn/Z
+expès/Z
+expendre/Z
+malprenent/R
+malprès/J
+malprés/J
+malprèn/S
+malprén/S
+malprenia/O
+malprendré/T
+malprengués/Q
+malprèn/Z
+malprén/Z
+malprendre/Z
+malprès/Z
+mamprenent/R
+mamprès/J
+mamprés/J
+mamprèn/S
+mamprén/S
+mamprenia/O
+mamprendré/T
+mamprengués/Q
+mamprèn/Z
+mamprén/Z
+mamprendre/Z
+mamprès/Z
+ofenent/R
+ofès/J
+ofés/J
+ofèn/S
+ofén/S
+ofenia/O
+ofendré/T
+ofengués/Q
+ofén/Z
+ofendre/Z
+ofèn/Z
+ofès/Z
+reprenent/R
+reprès/J
+représ/J
+reprèn/S
+reprén/S
+reprenia/O
+reprendré/T
+reprengués/Q
+reprendre/Z
+reprès/Z
+reprèn/Z
+reprén/Z
+salprenent/R
+salprès/J
+salprés/J
+salprèn/S
+salprén/S
+salprenia/O
+salprendré/T
+salprengués/Q
+salprendre/Z
+salprèn/Z
+salprès/Z
+salprén/Z
+sobreprenent/R
+sobreprès/J
+sobreprés/J
+sobreprèn/S
+sobreprén/S
+sobreprenia/O
+sobreprendré/T
+sobreprengués/Q
+sobreprén/Z
+sobreprendre/Z
+sobreprèn/Z
+sobreprès/Z
+sorprenent/R
+sorprès/J
+sorprés/J
+sorprèn/S
+sorprén/S
+sorprenia/O
+sorprendré/T
+sorprengués/Q
+sorprendre/Z
+sorprèn/Z
+sorprès/Z
+sorprén/Z
+suspenent/R
+suspès/J
+suspés/J
+suspèn/S
+suspén/S
+suspenia/O
+suspendré/T
+suspengués/Q
+suspén/Z
+suspendre/Z
+suspès/Z
+suspèn/Z
+ullprenent/R
+ullprès/J
+ullprés/J
+ullprèn/S
+ullprén/S
+ullprenia/O
+ullprendré/T
+ullprengués/Q
+ullprén/Z
+ullprèn/Z
+ullprès/Z
+ullprendre/Z
+havent/R
+hagut/B
+hau/S
+heu/S
+havia/O
+hauré/T
+hagués/Q
+hegui/Z
+haver/Z
+haure/Z
+heguin/Z
+hau/Z
+heure/Z
+hagut/Z
+heguis/Z
+heu/Z
+hec/Z
+convencent/R
+convençut/B
+convenç/S
+convencia/O
+convenceré/T
+convencés/P
+convéncer/Z
+convençut/Z
+convenç/Z
+convèncer/Z
+revencent/R
+revençut/B
+revenç/S
+revencia/O
+revenceré/T
+revencés/P
+revèncer/Z
+revéncer/Z
+revenç/Z
+revençut/Z
+vencent/R
+vençut/B
+venç/S
+vencia/O
+venceré/T
+vencés/P
+véncer/Z
+vençut/Z
+venç/Z
+vèncer/Z
+cloent/R
+clos/J
+clou/S
+cloïa/O
+clouré/T
+clogués/Q
+cloure/Z
+clos/Z
+clou/Z
+acorrent/R
+acorregut/B
+acorre/S
+acorria/O
+acorreré/T
+acorregués/Q
+acórrega/Z
+acorrs/Z
+acorr/Z
+acorri/Z
+acorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+acorre/Z
+acórrec/Z
+acorregues hunspell és es/Z és FALTA EN LT!!!
+acorrega hunspell gués ga/Z gués FALTA EN LT!!!
+acorro/Z
+acorreguis hunspell és is/Z és FALTA EN LT!!!
+acorren/Z
+acorrec hunspell gués c/Z gués FALTA EN LT!!!
+acorregut/Z
+acorris/Z
+acórrer/Z
+acorregui hunspell és i/Z és FALTA EN LT!!!
+acórregues/Z
+acorreguin hunspell és in/Z és FALTA EN LT!!!
+acorreguen hunspell és en/Z és FALTA EN LT!!!
+acórreguen/Z
+acorrin/Z
+concorrent/R
+concorregut/B
+concorre/S
+concorria/O
+concorreré/T
+concorregués/Q
+concorri/Z
+concorrs/Z
+concorregui hunspell és i/Z és FALTA EN LT!!!
+concorren/Z
+concorre/Z
+concorregues hunspell és es/Z és FALTA EN LT!!!
+concorr/Z
+concorro/Z
+concórrer/Z
+concorris/Z
+concorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+concorrin/Z
+concorreguis hunspell és is/Z és FALTA EN LT!!!
+concorreguen hunspell és en/Z és FALTA EN LT!!!
+concórregues/Z
+concórrega/Z
+concorrega hunspell gués ga/Z gués FALTA EN LT!!!
+concórreguen/Z
+concórrec/Z
+concorregut/Z
+concorreguin hunspell és in/Z és FALTA EN LT!!!
+concorrec hunspell gués c/Z gués FALTA EN LT!!!
+corrent/R
+corregut/B
+corre/S
+corria/O
+correré/T
+corregués/Q
+córrega/Z
+corregui hunspell és i/Z és FALTA EN LT!!!
+corro/Z
+correguen hunspell és en/Z és FALTA EN LT!!!
+corri/Z
+correguin hunspell és in/Z és FALTA EN LT!!!
+córreguen/Z
+corrin/Z
+córrec/Z
+correga hunspell gués ga/Z gués FALTA EN LT!!!
+corregues hunspell és es/Z és FALTA EN LT!!!
+corre/Z
+corr/Z
+corrs/Z
+córregues/Z
+corren/Z
+correguis hunspell és is/Z és FALTA EN LT!!!
+correc hunspell gués c/Z gués FALTA EN LT!!!
+corregut/Z
+corris/Z
+correen hunspell  en/Z [^nç] FALTA EN LT!!!
+córrer/Z
+decorrent/R
+decorregut/B
+decorre/S
+decorria/O
+decorreré/T
+decorregués/Q
+decorri/Z
+decórreguen/Z
+decorregui hunspell és i/Z és FALTA EN LT!!!
+decorreguin hunspell és in/Z és FALTA EN LT!!!
+decorregues hunspell és es/Z és FALTA EN LT!!!
+decorrs/Z
+decórrec/Z
+decorro/Z
+decorregut/Z
+decorrec hunspell gués c/Z gués FALTA EN LT!!!
+decorreguis hunspell és is/Z és FALTA EN LT!!!
+decorren/Z
+decórrega/Z
+decorr/Z
+decórrer/Z
+decórregues/Z
+decorris/Z
+decorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+decorreguen hunspell és en/Z és FALTA EN LT!!!
+decorre/Z
+decorrin/Z
+decorrega hunspell gués ga/Z gués FALTA EN LT!!!
+descorrent/R
+descorregut/B
+descorre/S
+descorria/O
+descorreré/T
+descorregués/Q
+descórrer/Z
+descorreguis hunspell és is/Z és FALTA EN LT!!!
+descorrs/Z
+descórreguen/Z
+descorr/Z
+descorreguin hunspell és in/Z és FALTA EN LT!!!
+descórrec/Z
+descorreguen hunspell és en/Z és FALTA EN LT!!!
+descorrin/Z
+descorrec hunspell gués c/Z gués FALTA EN LT!!!
+descorregut/Z
+descorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+descorri/Z
+descorro/Z
+descórregues/Z
+descorren/Z
+descorre/Z
+descórrega/Z
+descorrega hunspell gués ga/Z gués FALTA EN LT!!!
+descorris/Z
+descorregues hunspell és es/Z és FALTA EN LT!!!
+descorregui hunspell és i/Z és FALTA EN LT!!!
+discorrent/R
+discorregut/B
+discorre/S
+discorria/O
+discorreré/T
+discorregués/Q
+discorrec hunspell gués c/Z gués FALTA EN LT!!!
+discorregui hunspell és i/Z és FALTA EN LT!!!
+discorris/Z
+discorr/Z
+discorren/Z
+discórregues/Z
+discorreguen hunspell és en/Z és FALTA EN LT!!!
+discorrs/Z
+discorregues hunspell és es/Z és FALTA EN LT!!!
+discorreguin hunspell és in/Z és FALTA EN LT!!!
+discorri/Z
+discórrega/Z
+discorrega hunspell gués ga/Z gués FALTA EN LT!!!
+discorrin/Z
+discorregut/Z
+discórrer/Z
+discórreguen/Z
+discorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+discorre/Z
+discorro/Z
+discórrec/Z
+discorreguis hunspell és is/Z és FALTA EN LT!!!
+encorrent/R
+encorregut/B
+encorre/S
+encorria/O
+encorreré/T
+encorregués/Q
+encorreguen hunspell és en/Z és FALTA EN LT!!!
+encorre/Z
+encórrer/Z
+encorregui hunspell és i/Z és FALTA EN LT!!!
+encórrec/Z
+encorri/Z
+encorregut/Z
+encorrega hunspell gués ga/Z gués FALTA EN LT!!!
+encorren/Z
+encorrin/Z
+encórrega/Z
+encorrs/Z
+encorrec hunspell gués c/Z gués FALTA EN LT!!!
+encórreguen/Z
+encórregues/Z
+encorr/Z
+encorro/Z
+encorris/Z
+encorreguin hunspell és in/Z és FALTA EN LT!!!
+encorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+encorregues hunspell és es/Z és FALTA EN LT!!!
+encorreguis hunspell és is/Z és FALTA EN LT!!!
+escorrent/R
+escorregut/B
+escorre/S
+escorria/O
+escorreré/T
+escorregués/Q
+escorrs/Z
+escorregui hunspell és i/Z és FALTA EN LT!!!
+escórrer/Z
+escorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+escorren/Z
+escorre/Z
+escorreguen hunspell és en/Z és FALTA EN LT!!!
+escórreguen/Z
+escorris/Z
+escorri/Z
+escorregues hunspell és es/Z és FALTA EN LT!!!
+escórrec/Z
+escorregut/Z
+escórregues/Z
+escórrega/Z
+escorro/Z
+escorreguin hunspell és in/Z és FALTA EN LT!!!
+escorrin/Z
+escorrega hunspell gués ga/Z gués FALTA EN LT!!!
+escorrec hunspell gués c/Z gués FALTA EN LT!!!
+escorr/Z
+escorreguis hunspell és is/Z és FALTA EN LT!!!
+incorrent/R
+incorregut/B
+incorre/S
+incorria/O
+incorreré/T
+incorregués/Q
+incórrer/Z
+incorregui hunspell és i/Z és FALTA EN LT!!!
+incorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+incórreguen/Z
+incorre/Z
+incorrega hunspell gués ga/Z gués FALTA EN LT!!!
+incorreguis hunspell és is/Z és FALTA EN LT!!!
+incorregut/Z
+incorrin/Z
+incorro/Z
+incorreguen hunspell és en/Z és FALTA EN LT!!!
+incorrec hunspell gués c/Z gués FALTA EN LT!!!
+incorreguin hunspell és in/Z és FALTA EN LT!!!
+incorris/Z
+incorri/Z
+incórrega/Z
+incórrec/Z
+incorren/Z
+incorr/Z
+incorrs/Z
+incórregues/Z
+incorregues hunspell és es/Z és FALTA EN LT!!!
+ocorrent/R
+ocorregut/B
+ocorre/S
+ocorria/O
+ocorreré/T
+ocorregués/Q
+ocorren/Z
+ocorreguen hunspell és en/Z és FALTA EN LT!!!
+ocorro/Z
+ocorregut/Z
+ocórrec/Z
+ocorris/Z
+ocorreguin hunspell és in/Z és FALTA EN LT!!!
+ocorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+ocorri/Z
+ocórrer/Z
+ocorrega hunspell gués ga/Z gués FALTA EN LT!!!
+ocorre/Z
+ocorrs/Z
+ocorregues hunspell és es/Z és FALTA EN LT!!!
+ocorregui hunspell és i/Z és FALTA EN LT!!!
+ocorrec hunspell gués c/Z gués FALTA EN LT!!!
+ocorr/Z
+ocorrin/Z
+ocórrega/Z
+ocórregues/Z
+ocórreguen/Z
+ocorreguis hunspell és is/Z és FALTA EN LT!!!
+recorrent/R
+recorregut/B
+recorre/S
+recorria/O
+recorreré/T
+recorregués/Q
+recorreguen hunspell és en/Z és FALTA EN LT!!!
+recorreguis hunspell és is/Z és FALTA EN LT!!!
+recórreguen/Z
+recorreguin hunspell és in/Z és FALTA EN LT!!!
+recorregues hunspell és es/Z és FALTA EN LT!!!
+recorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+recorris/Z
+recórrer/Z
+recorrs/Z
+recorrin/Z
+recórregues/Z
+recórrega/Z
+recorren/Z
+recorr/Z
+recorro/Z
+recorrec hunspell gués c/Z gués FALTA EN LT!!!
+recorri/Z
+recórrec/Z
+recorregui hunspell és i/Z és FALTA EN LT!!!
+recorre/Z
+recorregut/Z
+recorrega hunspell gués ga/Z gués FALTA EN LT!!!
+socorrent/R
+socorregut/B
+socorre/S
+socorria/O
+socorreré/T
+socorregués/Q
+socorr/Z
+socorregues hunspell és es/Z és FALTA EN LT!!!
+socorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+socorreguis hunspell és is/Z és FALTA EN LT!!!
+socorrec hunspell gués c/Z gués FALTA EN LT!!!
+socorris/Z
+socórrega/Z
+socorrs/Z
+socorren/Z
+socorreguin hunspell és in/Z és FALTA EN LT!!!
+socórrer/Z
+socorrega hunspell gués ga/Z gués FALTA EN LT!!!
+socórreguen/Z
+socorre/Z
+socórregues/Z
+socorro/Z
+socorri/Z
+socorregut/Z
+socórrec/Z
+socorrin/Z
+socorreguen hunspell és en/Z és FALTA EN LT!!!
+socorregui hunspell és i/Z és FALTA EN LT!!!
+transcorrent/R
+transcorregut/B
+transcorre/S
+transcorria/O
+transcorreré/T
+transcorregués/Q
+transcorregut/Z
+transcorreguin hunspell és in/Z és FALTA EN LT!!!
+transcórrec/Z
+transcorrega hunspell gués ga/Z gués FALTA EN LT!!!
+transcorrs/Z
+transcorris/Z
+transcorregui hunspell és i/Z és FALTA EN LT!!!
+transcórregues/Z
+transcórrega/Z
+transcorren/Z
+transcorreguen hunspell és en/Z és FALTA EN LT!!!
+transcorregues hunspell és es/Z és FALTA EN LT!!!
+transcórrer/Z
+transcorro/Z
+transcorrin/Z
+transcorreen hunspell  en/Z [^nç] FALTA EN LT!!!
+transcorre/Z
+transcorreguis hunspell és is/Z és FALTA EN LT!!!
+transcórreguen/Z
+transcorrec hunspell gués c/Z gués FALTA EN LT!!!
+transcorr/Z
+transcorri/Z
+romanent/R
+romàs/J
+roman/S
+romania/O
+romandré/T
+romangués/Q
+romandre/Z
+romàs/Z
+roman/Z
+benveient/R
+benvist/J
+benveu/S
+benveia/O
+benveuré/T
+benveiés/P
+benvés/P
+benvem hunspell és em/Z és FALTA EN LT!!!
+benvesses hunspell és esses/Z és FALTA EN LT!!!
+benviu/Z
+benveja/Z
+benvessen hunspell és essen/Z és FALTA EN LT!!!
+benveig/Z
+benvegis/Z
+benví hunspell és í/Z és FALTA EN LT!!!
+benveií hunspell és í/Z és FALTA EN LT!!!
+benven hunspell és en/Z és FALTA EN LT!!!
+benvist/Z
+benvegeu/Z
+benvéu/Z
+benvegi/Z
+benveges/Z
+benveem/Z
+benveis/Z
+benvis hunspell és is/Z és FALTA EN LT!!!
+benveent/Z
+benvin hunspell és in/Z és FALTA EN LT!!!
+benveiis hunspell és is/Z és FALTA EN LT!!!
+benvo hunspell és o/Z [^c]és FALTA EN LT!!!
+benva hunspell és a/Z [^cgu]és FALTA EN LT!!!
+benveim/Z
+benvéssem hunspell és éssem/Z és FALTA EN LT!!!
+benvegin/Z
+benvegem/Z
+benveiera hunspell és era/Z és FALTA EN LT!!!
+benveeu/Z
+benvi hunspell és i/Z és FALTA EN LT!!!
+benvésseu hunspell és ésseu/Z és FALTA EN LT!!!
+benvists/Z
+benveiin hunspell és in/Z és FALTA EN LT!!!
+benves hunspell és es/Z és FALTA EN LT!!!
+benvé hunspell és é/Z és FALTA EN LT!!!
+benveii hunspell és i/Z és FALTA EN LT!!!
+benveio hunspell és o/Z [^c]és FALTA EN LT!!!
+benvegen/Z
+benveure/Z
+entreveient/R
+entrevist/J
+entreveu/S
+entreveia/O
+entreveuré/T
+entreveiés/P
+entrevés/P
+entreveii hunspell és i/Z és FALTA EN LT!!!
+entreviu/Z
+entrevegin/Z
+entreveiera hunspell és era/Z és FALTA EN LT!!!
+entreveges/Z
+entrevo hunspell és o/Z [^c]és FALTA EN LT!!!
+entreveiis hunspell és is/Z és FALTA EN LT!!!
+entreveim/Z
+entrevésseu hunspell és ésseu/Z és FALTA EN LT!!!
+entrevéssem hunspell és éssem/Z és FALTA EN LT!!!
+entreveio hunspell és o/Z [^c]és FALTA EN LT!!!
+entrevist/Z
+entreva hunspell és a/Z [^cgu]és FALTA EN LT!!!
+entreveig/Z
+entreves hunspell és es/Z és FALTA EN LT!!!
+entreveure/Z
+entrevegem/Z
+entrevists/Z
+entreveis/Z
+entreveeu/Z
+entrevi hunspell és i/Z és FALTA EN LT!!!
+entrevin hunspell és in/Z és FALTA EN LT!!!
+entrevéu/Z
+entreveent/Z
+entrevé hunspell és é/Z és FALTA EN LT!!!
+entreven hunspell és en/Z és FALTA EN LT!!!
+entrevegen/Z
+entreveiin hunspell és in/Z és FALTA EN LT!!!
+entrevegis/Z
+entreveem/Z
+entrevegi/Z
+entreví hunspell és í/Z és FALTA EN LT!!!
+entrevegeu/Z
+entrevem hunspell és em/Z és FALTA EN LT!!!
+entrevis hunspell és is/Z és FALTA EN LT!!!
+entreveja/Z
+entrevesses hunspell és esses/Z és FALTA EN LT!!!
+entrevessen hunspell és essen/Z és FALTA EN LT!!!
+entreveií hunspell és í/Z és FALTA EN LT!!!
+malveient/R
+malvist/J
+malveu/S
+malveia/O
+malveuré/T
+malveiés/P
+malvés/P
+malveja/Z
+malvist/Z
+malvists/Z
+malvéssem hunspell és éssem/Z és FALTA EN LT!!!
+malveiis hunspell és is/Z és FALTA EN LT!!!
+malvegin/Z
+malviu/Z
+malvin hunspell és in/Z és FALTA EN LT!!!
+malveiera hunspell és era/Z és FALTA EN LT!!!
+malvéu/Z
+malvessen hunspell és essen/Z és FALTA EN LT!!!
+malví hunspell és í/Z és FALTA EN LT!!!
+malvegeu/Z
+malveure/Z
+malves hunspell és es/Z és FALTA EN LT!!!
+malveges/Z
+malvesses hunspell és esses/Z és FALTA EN LT!!!
+malvo hunspell és o/Z [^c]és FALTA EN LT!!!
+malveem/Z
+malvem hunspell és em/Z és FALTA EN LT!!!
+malveig/Z
+malveií hunspell és í/Z és FALTA EN LT!!!
+malveent/Z
+malvésseu hunspell és ésseu/Z és FALTA EN LT!!!
+malvis hunspell és is/Z és FALTA EN LT!!!
+malvi hunspell és i/Z és FALTA EN LT!!!
+malvegis/Z
+malveio hunspell és o/Z [^c]és FALTA EN LT!!!
+malva hunspell és a/Z [^cgu]és FALTA EN LT!!!
+malven hunspell és en/Z és FALTA EN LT!!!
+malveis/Z
+malvegen/Z
+malvegi/Z
+malveeu/Z
+malveim/Z
+malvé hunspell és é/Z és FALTA EN LT!!!
+malvegem/Z
+malveiin hunspell és in/Z és FALTA EN LT!!!
+malveii hunspell és i/Z és FALTA EN LT!!!
+preveient/R
+previst/J
+preveu/S
+preveia/O
+preveuré/T
+preveiés/P
+prevés/P
+prevesses hunspell és esses/Z és FALTA EN LT!!!
+prevegi/Z
+preven hunspell és en/Z és FALTA EN LT!!!
+previs hunspell és is/Z és FALTA EN LT!!!
+prevésseu hunspell és ésseu/Z és FALTA EN LT!!!
+preveio hunspell és o/Z [^c]és FALTA EN LT!!!
+preveure/Z
+preveiera hunspell és era/Z és FALTA EN LT!!!
+prevegis/Z
+prevéssem hunspell és éssem/Z és FALTA EN LT!!!
+prevegeu/Z
+previu/Z
+preveii hunspell és i/Z és FALTA EN LT!!!
+prevéu/Z
+preveiin hunspell és in/Z és FALTA EN LT!!!
+preves hunspell és es/Z és FALTA EN LT!!!
+previst/Z
+preveig/Z
+prevists/Z
+previ hunspell és i/Z és FALTA EN LT!!!
+prevem hunspell és em/Z és FALTA EN LT!!!
+prevé hunspell és é/Z és FALTA EN LT!!!
+preveiis hunspell és is/Z és FALTA EN LT!!!
+preveií hunspell és í/Z és FALTA EN LT!!!
+preveent/Z
+preveim/Z
+prevegem/Z
+preveem/Z
+preveis/Z
+preveges/Z
+previn hunspell és in/Z és FALTA EN LT!!!
+preveja/Z
+preva hunspell és a/Z [^cgu]és FALTA EN LT!!!
+preví hunspell és í/Z és FALTA EN LT!!!
+prevegen/Z
+prevessen hunspell és essen/Z és FALTA EN LT!!!
+prevegin/Z
+preveeu/Z
+prevo hunspell és o/Z [^c]és FALTA EN LT!!!
+reveient/R
+revist/J
+reveu/S
+reveia/O
+reveuré/T
+reveiés/P
+revés/P
+revesses hunspell és esses/Z és FALTA EN LT!!!
+reveis/Z
+reveiin hunspell és in/Z és FALTA EN LT!!!
+revin hunspell és in/Z és FALTA EN LT!!!
+reveig/Z
+reví hunspell és í/Z és FALTA EN LT!!!
+revegin/Z
+reveeu/Z
+revésseu hunspell és ésseu/Z és FALTA EN LT!!!
+revéu/Z
+reveure/Z
+reveii hunspell és i/Z és FALTA EN LT!!!
+revi hunspell és i/Z és FALTA EN LT!!!
+reveií hunspell és í/Z és FALTA EN LT!!!
+revegen/Z
+revist/Z
+revéssem hunspell és éssem/Z és FALTA EN LT!!!
+revis hunspell és is/Z és FALTA EN LT!!!
+reveio hunspell és o/Z [^c]és FALTA EN LT!!!
+revegem/Z
+revegi/Z
+revem hunspell és em/Z és FALTA EN LT!!!
+reveja/Z
+reviu/Z
+revegis/Z
+reveiera hunspell és era/Z és FALTA EN LT!!!
+revegeu/Z
+revo hunspell és o/Z [^c]és FALTA EN LT!!!
+reveem/Z
+revessen hunspell és essen/Z és FALTA EN LT!!!
+revé hunspell és é/Z és FALTA EN LT!!!
+revists/Z
+reves hunspell és es/Z és FALTA EN LT!!!
+reveim/Z
+reva hunspell és a/Z [^cgu]és FALTA EN LT!!!
+reveiis hunspell és is/Z és FALTA EN LT!!!
+reveent/Z
+reveges/Z
+reven hunspell és en/Z és FALTA EN LT!!!
+convivint/R
+conviscut/B
+conviu/S
+convivia/O
+conviuré/T
+convisqués/P
+conviu/Z
+convisca/Z
+convisc/Z
+convisquo hunspell és o/Z [^c]és FALTA EN LT!!!
+conviscut/Z
+conviure/Z
+desvivint/R
+desviscut/B
+desviu/S
+desvivia/O
+desviuré/T
+desvisqués/P
+desvisc/Z
+desviu/Z
+desviure/Z
+desvisquo hunspell és o/Z [^c]és FALTA EN LT!!!
+desvisca/Z
+desviscut/Z
+malvivint/R
+malviscut/B
+malviu/S
+malvivia/O
+malviuré/T
+malvisqués/P
+malvisquo hunspell és o/Z [^c]és FALTA EN LT!!!
+malviu/Z
+malviure/Z
+malviscut/Z
+malvisca/Z
+malvisc/Z
+pervivint/R
+perviscut/B
+perviu/S
+pervivia/O
+perviuré/T
+pervisqués/P
+pervisquo hunspell és o/Z [^c]és FALTA EN LT!!!
+perviure/Z
+pervisca/Z
+perviscut/Z
+perviu/Z
+pervisc/Z
+revivint/R
+reviscut/B
+reviu/S
+revivia/O
+reviuré/T
+revisqués/P
+revisca/Z
+revisc/Z
+revisquo hunspell és o/Z [^c]és FALTA EN LT!!!
+reviscut/Z
+reviure/Z
+reviu/Z
+sobrevivint/R
+sobreviscut/B
+sobreviu/S
+sobrevivia/O
+sobreviuré/T
+sobrevisqués/P
+sobrevisca/Z
+sobrevisquo hunspell és o/Z [^c]és FALTA EN LT!!!
+sobreviu/Z
+sobreviscut/Z
+sobrevisc/Z
+sobreviure/Z
+vivint/R
+viscut/B
+viu/S
+vivia/O
+viuré/T
+visqués/P
+visca/Z
+viscut/Z
+visquo hunspell és o/Z [^c]és FALTA EN LT!!!
+visc/Z
+viu/Z
+viure/Z
+subjaient/R
+subjagut/B
+subjau/S
+subjeia/O
+subjauré/T
+subjagués/Q
+subjagut/Z
+subjeis/Z
+subjaure/Z
+subjau/Z
+subjeim/Z
+ajaient/R
+ajagut/B
+ajau/S
+ajeu/S
+ajeia/O
+ajauré/T
+ajagués/Q
+ajaeu/Z
+ajaent/Z
+ajagut/Z
+ajegui/Z
+ajau/Z
+ajeim/Z
+ajeguis/Z
+ajeis/Z
+ajec/Z
+ajaem/Z
+ajaure/Z
+ajeure/Z
+ajeu/Z
+ajeguin/Z
+jaient/R
+jagut/B
+jau/S
+jeu/S
+jeia/O
+jauré/T
+jagués/Q
+jeis/Z
+jaent/Z
+jec/Z
+jau/Z
+jaure/Z
+jeure/Z
+jaeu/Z
+jeguin/Z
+jeguis/Z
+jeim/Z
+jaem/Z
+jegui/Z
+jagut/Z
+jeu/Z
+dolent/R
+dolgut/B
+dol/S
+dolia/O
+doldré/T
+dolgués/Q
+doler/Z
+dolgut/Z
+dol/Z
+doldre/Z
+condolent/R
+condolgut/B
+condol/S
+condolia/O
+condoldré/T
+condolgués/Q
+condoldre/Z
+condol/Z
+condolgut/Z
+olent/R
+olgut/B
+ol/S
+olia/O
+oldré/T
+olgués/Q
+olgut/Z
+ol/Z
+oldre/Z
+asseient/R
+assegut/B
+asseu/S
+asseia/O
+asseuré/T
+assegués/Q
+assegut/Z
+asseis/Z
+asseeu/Z
+asseent/Z
+asseem/Z
+asseim/Z
+asseure/Z
+asseu/Z
+creient/R
+cregut/B
+creu/S
+creia/O
+creuré/T
+cregués/Q
+creem/Z
+creis/Z
+creu/Z
+creim/Z
+creent/Z
+creure/Z
+cregut/Z
+creeu/Z
+descreient/R
+descregut/B
+descreu/S
+descreia/O
+descreuré/T
+descregués/Q
+descreeu/Z
+descreem/Z
+descreent/Z
+descreu/Z
+descregut/Z
+descreis/Z
+descreure/Z
+descreim/Z
+menyscreient/R
+menyscregut/B
+menyscreu/S
+menyscreia/O
+menyscreuré/T
+menyscregués/Q
+menyscreis/Z
+menyscreim/Z
+menyscregut/Z
+menyscreu/Z
+menyscreeu/Z
+menyscreure/Z
+menyscreem/Z
+menyscreent/Z
+resseient/R
+ressegut/B
+resseu/S
+resseia/O
+resseuré/T
+ressegués/Q
+resseeu/Z
+resseu/Z
+resseis/Z
+resseim/Z
+resseure/Z
+ressegut/Z
+resseem/Z
+resseent/Z
+seient/R
+segut/B
+seu/S
+seia/O
+seuré/T
+segués/Q
+seem/Z
+seure/Z
+seu/Z
+seim/Z
+seent/Z
+seis/Z
+seeu/Z
+segut/Z
+sobreseient/R
+sobresegut/B
+sobreseu/S
+sobreseia/O
+sobreseuré/T
+sobresegués/Q
+sobreseent/Z
+sobreseem/Z
+sobreseure/Z
+sobresegut/Z
+sobreseim/Z
+sobreseu/Z
+sobreseis/Z
+sobreseeu/Z
+absolent/R
+absolt/J
+absol/S
+absolia/O
+absoldré/T
+absolgués/Q
+absoltos hunspell  os [^s] FALTA EN LT!!!
+absoldre/Z
+absolts/Z
+absolt/Z
+absol/Z
+autodissolent/R
+autodissolt/J
+autodissol/S
+autodissolia/O
+autodissoldré/T
+autodissolgués/Q
+autodissolt/Z
+autodissolts/Z
+autodissoldre/Z
+autodissoltos hunspell  os [^s] FALTA EN LT!!!
+autodissol/Z
+colent/R
+colt/J
+col/S
+colia/O
+coldré/T
+colgués/Q
+colts/Z
+coltos hunspell  os [^s] FALTA EN LT!!!
+coldre/Z
+colt/Z
+col/Z
+dissolent/R
+dissolt/J
+dissol/S
+dissolia/O
+dissoldré/T
+dissolgués/Q
+dissoltos hunspell  os [^s] FALTA EN LT!!!
+dissoldre/Z
+dissol/Z
+dissolts/Z
+dissolt/Z
+exsolent/R
+exsolt/J
+exsol/S
+exsolia/O
+exsoldré/T
+exsolgués/Q
+exsoltos hunspell  os [^s] FALTA EN LT!!!
+exsoldre/Z
+exsol/Z
+exsolts/Z
+exsolt/Z
+reabsolent/R
+reabsolt/J
+reabsol/S
+reabsolia/O
+reabsoldré/T
+reabsolgués/Q
+reabsoldre/Z
+reabsol/Z
+reabsolt/Z
+reabsolts/Z
+reabsoltos hunspell  os [^s] FALTA EN LT!!!
+resolent/R
+resolt/J
+resol/S
+resolia/O
+resoldré/T
+resolgués/Q
+resol/Z
+resolt/Z
+resoldre/Z
+resolts/Z
+resoltos hunspell  os [^s] FALTA EN LT!!!
+revolent/R
+revolt/J
+revol/S
+revolia/O
+revoldré/T
+revolgués/Q
+revoldre/Z
+revol/Z
+revolt/Z
+revolts/Z
+revoltos hunspell  os [^s] FALTA EN LT!!!
+tolent/R
+tolt/J
+tol/S
+tolia/O
+toldré/T
+tolgués/Q
+tolt/Z
+tol/Z
+toltos hunspell  os [^s] FALTA EN LT!!!
+tolts/Z
+toldre/Z
+naixent/R
+nascut/B
+naix/S
+neix/S
+naixia/O
+naixeré/T
+naixés/P
+nasqués/P
+nesquin/Z
+néixer/Z
+neixo/Z
+naixessen hunspell és essen/Z és FALTA EN LT!!!
+neixin/Z
+nasca/Z
+nasquis hunspell és is/Z és FALTA EN LT!!!
+nesc/Z
+nesqui/Z
+nesquis/Z
+naixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+naix/Z
+naixesses hunspell és esses/Z és FALTA EN LT!!!
+nascut/Z
+nasc/Z
+nasquo hunspell és o/Z [^c]és FALTA EN LT!!!
+nàixer/Z
+neix/Z
+neixis/Z
+neixi/Z
+nasqui hunspell és i/Z és FALTA EN LT!!!
+naixéssem hunspell és éssem/Z és FALTA EN LT!!!
+nasquin hunspell és in/Z és FALTA EN LT!!!
+naixera hunspell és era/Z és FALTA EN LT!!!
+naixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+renaixent/R
+renascut/B
+renaix/S
+reneix/S
+renaixia/O
+renaixeré/T
+renaixés/P
+renasqués/P
+reneixin/Z
+reneixi/Z
+reneixo/Z
+renasquin hunspell és in/Z és FALTA EN LT!!!
+renesc/Z
+renaixéssem hunspell és éssem/Z és FALTA EN LT!!!
+renasca/Z
+renaixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+renasquo hunspell és o/Z [^c]és FALTA EN LT!!!
+renaixessen hunspell és essen/Z és FALTA EN LT!!!
+renasquis hunspell és is/Z és FALTA EN LT!!!
+renàixer/Z
+renesquin/Z
+reneix/Z
+renaixera hunspell és era/Z és FALTA EN LT!!!
+renesqui/Z
+renéixer/Z
+renasc/Z
+renaixesses hunspell és esses/Z és FALTA EN LT!!!
+renascut/Z
+renesquis/Z
+renaix/Z
+renaixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+reneixis/Z
+renasqui hunspell és i/Z és FALTA EN LT!!!
+sobrenaixent/R
+sobrenascut/B
+sobrenaix/S
+sobreneix/S
+sobrenaixia/O
+sobrenaixeré/T
+sobrenaixés/P
+sobrenasqués/P
+sobreneixo/Z
+sobrenesquis/Z
+sobreneix/Z
+sobrenaixessen hunspell és essen/Z és FALTA EN LT!!!
+sobrenascut/Z
+sobrenaix/Z
+sobrenasquis hunspell és is/Z és FALTA EN LT!!!
+sobrenasqui hunspell és i/Z és FALTA EN LT!!!
+sobrenaixera hunspell és era/Z és FALTA EN LT!!!
+sobrenaixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+sobrenesc/Z
+sobrenasquo hunspell és o/Z [^c]és FALTA EN LT!!!
+sobrenàixer/Z
+sobrenaixesses hunspell és esses/Z és FALTA EN LT!!!
+sobreneixis/Z
+sobrenesquin/Z
+sobrenaixéssem hunspell és éssem/Z és FALTA EN LT!!!
+sobrenesqui/Z
+sobreneixin/Z
+sobreneixi/Z
+sobrenasc/Z
+sobrenasca/Z
+sobrenéixer/Z
+sobrenaixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+sobrenasquin hunspell és in/Z és FALTA EN LT!!!
+adscrivint/R
+adscrit/J
+adscriu/S
+adscrivia/O
+adscriuré/T
+adscrigués/Q
+adscrivís/P
+adscrivisses/Z
+adscrivissen/Z
+adscrivira/Z
+adscrivíreu/Z
+adscrivísseu/Z
+adscriure/Z
+adscrivís/Z
+adscrivírem/Z
+adscriviren/Z
+adscrivíssim/Z
+adscrivíssem/Z
+adscritos hunspell  os [^s] FALTA EN LT!!!
+adscrivissin/Z
+adscriu/Z
+adscrivissis/Z
+adscrits/Z
+adscrit/Z
+adscrivíssiu/Z
+adscriví/Z
+adscrivires/Z
+circumscrivint/R
+circumscrit/J
+circumscriu/S
+circumscrivia/O
+circumscriuré/T
+circumscrigués/Q
+circumscrivís/P
+circumscrivíssim/Z
+circumscrit/Z
+circumscrivissis/Z
+circumscrivires/Z
+circumscrivira/Z
+circumscriu/Z
+circumscritos hunspell  os [^s] FALTA EN LT!!!
+circumscriure/Z
+circumscrivíssiu/Z
+circumscrivís/Z
+circumscrivissin/Z
+circumscrivíssem/Z
+circumscriví/Z
+circumscriviren/Z
+circumscrivissen/Z
+circumscrivírem/Z
+circumscrits/Z
+circumscrivisses/Z
+circumscrivísseu/Z
+circumscrivíreu/Z
+descrivint/R
+descrit/J
+descriu/S
+descrivia/O
+descriuré/T
+descrigués/Q
+descrivís/P
+descrits/Z
+descritos hunspell  os [^s] FALTA EN LT!!!
+descrivírem/Z
+descrivíssim/Z
+descrivira/Z
+descrivíreu/Z
+descrivissen/Z
+descrivissis/Z
+descrit/Z
+descriure/Z
+descrivissin/Z
+descrivís/Z
+descriví/Z
+descrivisses/Z
+descrivíssem/Z
+descriu/Z
+descriviren/Z
+descrivires/Z
+descrivísseu/Z
+descrivíssiu/Z
+escrivint/R
+escrit/J
+escriu/S
+escrivia/O
+escriuré/T
+escrigués/Q
+escrivís/P
+escrivíssem/Z
+escriviren/Z
+escrivíreu/Z
+escritos hunspell  os [^s] FALTA EN LT!!!
+escrivísseu/Z
+escrivíssim/Z
+escrivires/Z
+escrivírem/Z
+escrivisses/Z
+escriví/Z
+escrits/Z
+escrivíssiu/Z
+escrivira/Z
+escrivissis/Z
+escrivissin/Z
+escrivís/Z
+escrit/Z
+escrivissen/Z
+escriu/Z
+escriure/Z
+inscrivint/R
+inscrit/J
+inscriu/S
+inscrivia/O
+inscriuré/T
+inscrigués/Q
+inscrivís/P
+inscrivisses/Z
+inscriure/Z
+inscrivira/Z
+inscrivíssiu/Z
+inscriví/Z
+inscrivíssem/Z
+inscriviren/Z
+inscriu/Z
+inscrivissin/Z
+inscrivíssim/Z
+inscritos hunspell  os [^s] FALTA EN LT!!!
+inscrivís/Z
+inscrivíreu/Z
+inscrits/Z
+inscrivissis/Z
+inscrivísseu/Z
+inscrit/Z
+inscrivírem/Z
+inscrivissen/Z
+inscrivires/Z
+prescrivint/R
+prescrit/J
+prescriu/S
+prescrivia/O
+prescriuré/T
+prescrigués/Q
+prescrivís/P
+prescrits/Z
+prescrivíssiu/Z
+prescrivírem/Z
+prescriví/Z
+prescriviren/Z
+prescriure/Z
+prescrivires/Z
+prescrivira/Z
+prescritos hunspell  os [^s] FALTA EN LT!!!
+prescrivissen/Z
+prescrivíssim/Z
+prescriu/Z
+prescrivís/Z
+prescrivissis/Z
+prescrivissin/Z
+prescrivisses/Z
+prescrivíssem/Z
+prescrit/Z
+prescrivíreu/Z
+prescrivísseu/Z
+proscrivint/R
+proscrit/J
+proscriu/S
+proscrivia/O
+proscriuré/T
+proscrigués/Q
+proscrivís/P
+proscrivires/Z
+proscrivíreu/Z
+proscriu/Z
+proscrit/Z
+proscritos hunspell  os [^s] FALTA EN LT!!!
+proscrivísseu/Z
+proscrivís/Z
+proscrits/Z
+proscriviren/Z
+proscrivira/Z
+proscrivíssiu/Z
+proscrivissis/Z
+proscrivisses/Z
+proscrivissin/Z
+proscrivírem/Z
+proscriví/Z
+proscrivissen/Z
+proscriure/Z
+proscrivíssim/Z
+proscrivíssem/Z
+reescrivint/R
+reescrit/J
+reescriu/S
+reescrivia/O
+reescriuré/T
+reescrigués/Q
+reescrivís/P
+reescrivírem/Z
+reescrivissin/Z
+reescrivissis/Z
+reescrit/Z
+reescrivíssiu/Z
+reescriu/Z
+reescrivís/Z
+reescriviren/Z
+reescrivíssim/Z
+reescrivíssem/Z
+reescrivísseu/Z
+reescriure/Z
+reescrivissen/Z
+reescrivires/Z
+reescrits/Z
+reescrivíreu/Z
+reescrivira/Z
+reescritos hunspell  os [^s] FALTA EN LT!!!
+reescriví/Z
+reescrivisses/Z
+sobreescrivint/R
+sobreescrit/J
+sobreescriu/S
+sobreescrivia/O
+sobreescriuré/T
+sobreescrigués/Q
+sobreescrivís/P
+sobreescrivíreu/Z
+sobreescriviren/Z
+sobreescrivissis/Z
+sobreescrivíssiu/Z
+sobreescrivísseu/Z
+sobreescrivíssem/Z
+sobreescrivíssim/Z
+sobreescrivissin/Z
+sobreescrit/Z
+sobreescrivires/Z
+sobreescriví/Z
+sobreescrivírem/Z
+sobreescrivís/Z
+sobreescrivissen/Z
+sobreescriu/Z
+sobreescritos hunspell  os [^s] FALTA EN LT!!!
+sobreescrivisses/Z
+sobreescrivira/Z
+sobreescrits/Z
+sobreescriure/Z
+sotaescrivint/R
+sotaescrit/J
+sotaescriu/S
+sotaescrivia/O
+sotaescriuré/T
+sotaescrigués/Q
+sotaescrivís/P
+sotaescrivira/Z
+sotaescriure/Z
+sotaescritos hunspell  os [^s] FALTA EN LT!!!
+sotaescrivíssem/Z
+sotaescrivísseu/Z
+sotaescrivíreu/Z
+sotaescrivissin/Z
+sotaescrit/Z
+sotaescrivissen/Z
+sotaescrivíssim/Z
+sotaescriviren/Z
+sotaescriu/Z
+sotaescrivisses/Z
+sotaescrivires/Z
+sotaescrivís/Z
+sotaescrivissis/Z
+sotaescrits/Z
+sotaescrivírem/Z
+sotaescriví/Z
+sotaescrivíssiu/Z
+subscrivint/R
+subscrit/J
+subscriu/S
+subscrivia/O
+subscriuré/T
+subscrigués/Q
+subscrivís/P
+subscrivisses/Z
+subscrivíssim/Z
+subscrivíssem/Z
+subscrivísseu/Z
+subscrits/Z
+subscriu/Z
+subscrit/Z
+subscriviren/Z
+subscrivís/Z
+subscrivírem/Z
+subscrivíssiu/Z
+subscrivira/Z
+subscrivissin/Z
+subscritos hunspell  os [^s] FALTA EN LT!!!
+subscrivissis/Z
+subscrivissen/Z
+subscrivíreu/Z
+subscrivires/Z
+subscriure/Z
+subscriví/Z
+transcrivint/R
+transcrit/J
+transcriu/S
+transcrivia/O
+transcriuré/T
+transcrigués/Q
+transcrivís/P
+transcriu/Z
+transcriviren/Z
+transcrivísseu/Z
+transcrit/Z
+transcrivís/Z
+transcrivíssim/Z
+transcrivissin/Z
+transcrivissis/Z
+transcrivíssiu/Z
+transcritos hunspell  os [^s] FALTA EN LT!!!
+transcrivíreu/Z
+transcriure/Z
+transcrivires/Z
+transcrivissen/Z
+transcrivisses/Z
+transcrits/Z
+transcrivírem/Z
+transcrivira/Z
+transcriví/Z
+transcrivíssem/Z
+hàgim/Z
+has/Z
+havent/Z
+havia/Z
+haver/Z
+haurien/Z
+hagué/Z
+haguéreu/Z
+havíeu/Z
+havem/Z
+haguéssem/Z
+haurem/Z
+haig/Z
+hagudes/Z
+haguérem/Z
+hauria/Z
+haurà/Z
+hem/Z
+haguessin/Z
+hàgem/Z
+hàgiu/Z
+havies/Z
+haja/Z
+haguera/Z
+hagen/Z
+hauríeu/Z
+han/Z
+hauré/Z
+haguéssim/Z
+hagués/Z
+hages/Z
+hauríem/Z
+hagut/Z
+hagin/Z
+haguí/Z
+hagueren/Z
+hagis/Z
+haguésseu/Z
+haguéssiu/Z
+ha/Z
+haguessis/Z
+hauran/Z
+hagueres/Z
+havien/Z
+havíem/Z
+haguesses/Z
+haveu/Z
+hauries/Z
+he/Z
+hauràs/Z
+heu/Z
+haguda/Z
+haureu/Z
+haguessen/Z
+hagi/Z
+haguts/Z
+hàgeu/Z
+metent/R
+mes/J
+met/S
+metia/O
+metré/T
+metés/P
+metre/Z
+met/Z
+mes/Z
+molent/R
+mòlt/J
+mol/S
+molia/O
+moldré/T
+molgués/Q
+mol/Z
+mòlts/Z
+mòltos hunspell  os [^s] FALTA EN LT!!!
+moldre/Z
+mòlt/Z
+remolent/R
+remòlt/J
+remol/S
+remolia/O
+remoldré/T
+remolgués/Q
+remòlts/Z
+remol/Z
+remoldre/Z
+remòlt/Z
+remòltos hunspell  os [^s] FALTA EN LT!!!
+sóc/Z
+som/Z
+seràs/Z
+sigudes/Z
+sent/Z
+siguem/Z
+sigues/Z
+siguis/Z
+sigut/Z
+serà/Z
+fossis/Z
+eres/Z
+érem/Z
+estat/Z
+seré/Z
+estades/Z
+fossin/Z
+series/Z
+són/Z
+siguts/Z
+sereu/Z
+fóssiu/Z
+ser/Z
+estada/Z
+fores/Z
+sigui/Z
+fos/Z
+siguin/Z
+siga/Z
+fósseu/Z
+seria/Z
+fóreu/Z
+fórem/Z
+éreu/Z
+seríem/Z
+essent/Z
+fóra/Z
+siguen/Z
+era/Z
+fóssim/Z
+fossen/Z
+siguda/Z
+sou/Z
+estats/Z
+fou/Z
+fosses/Z
+fóssem/Z
+só/Z
+és/Z
+seran/Z
+foren/Z
+ésser/Z
+serem/Z
+ets/Z
+sigueu/Z
+fui/Z
+esser/Z
+serien/Z
+seríeu/Z
+eren/Z
+apercebent/R
+apercebut/B
+apercep/S
+apercebia/O
+apercebré/T
+apercebés/P
+apercebre/Z
+apercepen hunspell  en/Z [^nç] FALTA EN LT!!!
+apercep/Z
+apercebut/Z
+concebent/R
+concebut/B
+concep/S
+concebia/O
+concebré/T
+concebés/P
+concep/Z
+concebut/Z
+concepen hunspell  en/Z [^nç] FALTA EN LT!!!
+concebre/Z
+decebent/R
+decebut/B
+decep/S
+decebia/O
+decebré/T
+decebés/P
+decepen hunspell  en/Z [^nç] FALTA EN LT!!!
+decebre/Z
+decebut/Z
+decep/Z
+percebent/R
+percebut/B
+percep/S
+percebia/O
+percebré/T
+percebés/P
+percepen hunspell  en/Z [^nç] FALTA EN LT!!!
+percep/Z
+percebut/Z
+percebre/Z
+preconcebent/R
+preconcebut/B
+preconcep/S
+preconcebia/O
+preconcebré/T
+preconcebés/P
+preconcebre/Z
+preconcep/Z
+preconcebut/Z
+preconcepen hunspell  en/Z [^nç] FALTA EN LT!!!
+rebent/R
+rebut/B
+rep/S
+rebia/O
+rebré/T
+rebés/P
+rebre/Z
+rep/Z
+rebut/Z
+repen hunspell  en/Z [^nç] FALTA EN LT!!!
+fument/R
+fumut/B
+fum/S
+fumia/O
+fumeré/T
+fumés/P
+fum/Z
+fumut/Z
+fúmer/Z
+calent/R
+calgut/B
+cal/S
+calgueren/Z
+calguera/Z
+calguessin/Z
+calguessen/Z
+calia/Z
+calguen/Z
+calgui/Z
+caldrà/Z
+calien/Z
+caler/Z
+caldre/Z
+caldran/Z
+calgué/Z
+cal/Z
+cals hunspell  s/Z [^nçx] FALTA EN LT!!!
+caldria/Z
+calem hunspell ent em/Z ent FALTA EN LT!!!
+caleu hunspell ent eu/Z ent FALTA EN LT!!!
+calguin/Z
+caldrien/Z
+calgut/Z
+calgués/Z
+calga/Z
+voré/T
+vore/Z
+admetent/R
+admès/J
+admés/J
+admet/S
+admetia/O
+admetré/T
+admetés/P
+admet/Z
+admetre/Z
+admès/Z
+arremetent/R
+arremès/J
+arremés/J
+arremet/S
+arremetia/O
+arremetré/T
+arremetés/P
+arremetre/Z
+arremès/Z
+arremet/Z
+cometent/R
+comès/J
+comés/J
+comet/S
+cometia/O
+cometré/T
+cometés/P
+comet/Z
+comès/Z
+cometre/Z
+comprometent/R
+compromès/J
+compromés/J
+compromet/S
+comprometia/O
+comprometré/T
+comprometés/P
+comprometre/Z
+compromet/Z
+compromès/Z
+demetent/R
+demès/J
+demés/J
+demet/S
+demetia/O
+demetré/T
+demetés/P
+demetre/Z
+demès/Z
+demet/Z
+descomprometent/R
+descompromès/J
+descompromés/J
+descompromet/S
+descomprometia/O
+descomprometré/T
+descomprometés/P
+descompromès/Z
+descompromet/Z
+descomprometre/Z
+emetent/R
+emès/J
+emés/J
+emet/S
+emetia/O
+emetré/T
+emetés/P
+emetre/Z
+emet/Z
+emès/Z
+entremetent/R
+entremès/J
+entremés/J
+entremet/S
+entremetia/O
+entremetré/T
+entremetés/P
+entremès/Z
+entremetre/Z
+entremet/Z
+escometent/R
+escomès/J
+escomés/J
+escomet/S
+escometia/O
+escometré/T
+escometés/P
+escometre/Z
+escomès/Z
+escomet/Z
+fideïcometent/R
+fideïcomès/J
+fideïcomés/J
+fideïcomet/S
+fideïcometia/O
+fideïcometré/T
+fideïcometés/P
+fideïcomès/Z
+fideïcometre/Z
+fideïcomet/Z
+malmetent/R
+malmès/J
+malmés/J
+malmet/S
+malmetia/O
+malmetré/T
+malmetés/P
+malmetre/Z
+malmet/Z
+malmès/Z
+manumetent/R
+manumès/J
+manumés/J
+manumet/S
+manumetia/O
+manumetré/T
+manumetés/P
+manumès/Z
+manumet/Z
+manumetre/Z
+ometent/R
+omès/J
+omés/J
+omet/S
+ometia/O
+ometré/T
+ometés/P
+ometre/Z
+omès/Z
+omet/Z
+permetent/R
+permès/J
+permés/J
+permet/S
+permetia/O
+permetré/T
+permetés/P
+permet/Z
+permès/Z
+permetre/Z
+prometent/R
+promès/J
+promés/J
+promet/S
+prometia/O
+prometré/T
+prometés/P
+promet/Z
+prometre/Z
+promès/Z
+readmetent/R
+readmès/J
+readmés/J
+readmet/S
+readmetia/O
+readmetré/T
+readmetés/P
+readmetre/Z
+readmès/Z
+readmet/Z
+reemetent/R
+reemès/J
+reemés/J
+reemet/S
+reemetia/O
+reemetré/T
+reemetés/P
+reemès/Z
+reemetre/Z
+reemet/Z
+remetent/R
+remès/J
+remés/J
+remet/S
+remetia/O
+remetré/T
+remetés/P
+remetre/Z
+remet/Z
+remès/Z
+retransmetent/R
+retransmès/J
+retransmés/J
+retransmet/S
+retransmetia/O
+retransmetré/T
+retransmetés/P
+retransmetre/Z
+retransmet/Z
+retransmès/Z
+sotmetent/R
+sotmès/J
+sotmés/J
+sotmet/S
+sotmetia/O
+sotmetré/T
+sotmetés/P
+sotmetre/Z
+sotmès/Z
+sotmet/Z
+trametent/R
+tramès/J
+tramés/J
+tramet/S
+trametia/O
+trametré/T
+trametés/P
+tramès/Z
+trametre/Z
+tramet/Z
+transmetent/R
+transmès/J
+transmés/J
+transmet/S
+transmetia/O
+transmetré/T
+transmetés/P
+transmetre/Z
+transmet/Z
+transmès/Z
+llegut/B
+lleu/S
+lleien/Z
+lleguen/Z
+lleuran/Z
+lleguts hunspell  s t FALTA EN LT!!!
+lleguin/Z
+lleguessin/Z
+llegut/Z
+lleguda hunspell t da t FALTA EN LT!!!
+lleus hunspell  s/Z [^nçx] FALTA EN LT!!!
+llega/Z
+llegués/Z
+lleure/Z
+lleuria/Z
+lleguessen/Z
+lleguera/Z
+llegueren/Z
+llegui/Z
+lleurà/Z
+llegudes hunspell t des t FALTA EN LT!!!
+llegué/Z
+lleia/Z
+lleurien/Z
+lleu/Z
+abatent/R
+abatut/B
+abat/S
+abatia/O
+abatré/T
+abatés/P
+abatut/Z
+abatre/Z
+abat/Z
+aiguabatent/R
+aiguabatut/B
+aiguabat/S
+aiguabatia/O
+aiguabatré/T
+aiguabatés/P
+aiguabat/Z
+aiguabatut/Z
+aiguabatre/Z
+alabatent/R
+alabatut/B
+alabat/S
+alabatia/O
+alabatré/T
+alabatés/P
+alabatre/Z
+alabatut/Z
+alabat/Z
+batent/R
+batut/B
+bat/S
+batia/O
+batré/T
+batés/P
+batut/Z
+batre/Z
+bat/Z
+botent/R
+botut/B
+bot/S
+botia/O
+botré/T
+botés/P
+bot/Z
+botre/Z
+botut/Z
+combatent/R
+combatut/B
+combat/S
+combatia/O
+combatré/T
+combatés/P
+combat/Z
+combatre/Z
+combatut/Z
+contrabatent/R
+contrabatut/B
+contrabat/S
+contrabatia/O
+contrabatré/T
+contrabatés/P
+contrabatut/Z
+contrabatre/Z
+contrabat/Z
+corrompent/R
+corromput/B
+corromp/S
+corrompia/O
+corrompré/T
+corrompés/P
+corromput/Z
+corromp/Z
+corrompre/Z
+debatent/R
+debatut/B
+debat/S
+debatia/O
+debatré/T
+debatés/P
+debat/Z
+debatut/Z
+debatre/Z
+entrebatent/R
+entrebatut/B
+entrebat/S
+entrebatia/O
+entrebatré/T
+entrebatés/P
+entrebatut/Z
+entrebatre/Z
+entrebat/Z
+esbatent/R
+esbatut/B
+esbat/S
+esbatia/O
+esbatré/T
+esbatés/P
+esbat/Z
+esbatut/Z
+esbatre/Z
+fotent/R
+fotut/B
+fot/S
+fotia/O
+fotré/T
+fotés/P
+fotre/Z
+fotut/Z
+fot/Z
+interrompent/R
+interromput/B
+interromp/S
+interrompia/O
+interrompré/T
+interrompés/P
+interromput/Z
+interrompre/Z
+interromp/Z
+irrompent/R
+irromput/B
+irromp/S
+irrompia/O
+irrompré/T
+irrompés/P
+irromput/Z
+irromp/Z
+irrompre/Z
+perdent/R
+perdut/B
+perd/S
+perdia/O
+perdré/T
+perdés/P
+perdre/Z
+perd/Z
+perdut/Z
+pernabatent/R
+pernabatut/B
+pernabat/S
+pernabatia/O
+pernabatré/T
+pernabatés/P
+pernabatre/Z
+pernabat/Z
+pernabatut/Z
+prorrompent/R
+prorromput/B
+prorromp/S
+prorrompia/O
+prorrompré/T
+prorrompés/P
+prorromp/Z
+prorromput/Z
+prorrompre/Z
+rebatent/R
+rebatut/B
+rebat/S
+rebatia/O
+rebatré/T
+rebatés/P
+rebat/Z
+rebatut/Z
+rebatre/Z
+rebotent/R
+rebotut/B
+rebot/S
+rebotia/O
+rebotré/T
+rebotés/P
+rebot/Z
+rebotut/Z
+rebotre/Z
+retent/R
+retut/B
+ret/S
+retia/O
+retré/T
+retés/P
+retre/Z
+retut/Z
+ret/Z
+rompent/R
+romput/B
+romp/S
+rompia/O
+rompré/T
+rompés/P
+romput/Z
+romp/Z
+rompre/Z
+sobatent/R
+sobatut/B
+sobat/S
+sobatia/O
+sobatré/T
+sobatés/P
+sobatut/Z
+sobat/Z
+sobatre/Z
+sotbatent/R
+sotbatut/B
+sotbat/S
+sotbatia/O
+sotbatré/T
+sotbatés/P
+sotbat/Z
+sotbatut/Z
+sotbatre/Z
+aparut/B
+apar/S
+apareré/T
+aparés/P
+aparíeu/Z
+aparíem/Z
+aparer/Z
+apar/Z
+aparut/Z
+abstraient/R
+abstret/J
+abstrau/S
+abstreu/S
+abstreia/O
+abstrauré/T
+abstragués/Q
+abstraem/Z
+abstraent/Z
+abstreu/Z
+abstrets/Z
+abstreim/Z
+abstreguen/Z
+abstreguis/Z
+abstregui/Z
+abstrec/Z
+abstret/Z
+abstreis/Z
+abstregues/Z
+abstretos hunspell  os [^s] FALTA EN LT!!!
+abstreguin/Z
+abstrega/Z
+abstraeu/Z
+abstraure/Z
+abstrau/Z
+abstreure/Z
+atraient/R
+atret/J
+atrau/S
+atreu/S
+atreia/O
+atrauré/T
+atragués/Q
+atreguis/Z
+atraure/Z
+atret/Z
+atreguin/Z
+atraent/Z
+atregues/Z
+atregui/Z
+atreure/Z
+atrets/Z
+atretos hunspell  os [^s] FALTA EN LT!!!
+atreis/Z
+atreu/Z
+atrau/Z
+atraem/Z
+atrec/Z
+atreguen/Z
+atreim/Z
+atraeu/Z
+atrega/Z
+bestraient/R
+bestret/J
+bestrau/S
+bestreu/S
+bestreia/O
+bestrauré/T
+bestragués/Q
+bestrec/Z
+bestrets/Z
+bestrau/Z
+bestraure/Z
+bestraem/Z
+bestreguin/Z
+bestregui/Z
+bestraeu/Z
+bestrega/Z
+bestreu/Z
+bestretos hunspell  os [^s] FALTA EN LT!!!
+bestregues/Z
+bestraent/Z
+bestreguis/Z
+bestreure/Z
+bestreim/Z
+bestreis/Z
+bestreguen/Z
+bestret/Z
+contraient/R
+contret/J
+contrau/S
+contreu/S
+contreia/O
+contrauré/T
+contragués/Q
+contregui/Z
+contrets/Z
+contreguis/Z
+contretos hunspell  os [^s] FALTA EN LT!!!
+contreis/Z
+contreure/Z
+contraeu/Z
+contreguin/Z
+contraure/Z
+contreguen/Z
+contraem/Z
+contraent/Z
+contrec/Z
+contrega/Z
+contreu/Z
+contret/Z
+contreim/Z
+contregues/Z
+contrau/Z
+detraient/R
+detret/J
+detrau/S
+detreu/S
+detreia/O
+detrauré/T
+detragués/Q
+detrega/Z
+detraent/Z
+detreguin/Z
+detreis/Z
+detrau/Z
+detregui/Z
+detreu/Z
+detretos hunspell  os [^s] FALTA EN LT!!!
+detraeu/Z
+detraem/Z
+detrec/Z
+detrets/Z
+detreure/Z
+detreguis/Z
+detreguen/Z
+detret/Z
+detraure/Z
+detreim/Z
+detregues/Z
+distraient/R
+distret/J
+distrau/S
+distreu/S
+distreia/O
+distrauré/T
+distragués/Q
+distret/Z
+distrec/Z
+distreure/Z
+distreu/Z
+distraure/Z
+distreguen/Z
+distrega/Z
+distraent/Z
+distretos hunspell  os [^s] FALTA EN LT!!!
+distreguin/Z
+distregues/Z
+distreis/Z
+distraeu/Z
+distrau/Z
+distraem/Z
+distreim/Z
+distregui/Z
+distreguis/Z
+distrets/Z
+extraient/R
+extret/J
+extrau/S
+extreu/S
+extreia/O
+extrauré/T
+extragués/Q
+extraem/Z
+extrau/Z
+extraent/Z
+extraeu/Z
+extretos hunspell  os [^s] FALTA EN LT!!!
+extrec/Z
+extreure/Z
+extrega/Z
+extreguen/Z
+extreu/Z
+extreim/Z
+extreis/Z
+extreguis/Z
+extregui/Z
+extreguin/Z
+extret/Z
+extrets/Z
+extraure/Z
+extregues/Z
+retraient/R
+retret/J
+retrau/S
+retreu/S
+retreia/O
+retrauré/T
+retragués/Q
+retraent/Z
+retraem/Z
+retreim/Z
+retreu/Z
+retreguen/Z
+retrec/Z
+retret/Z
+retrau/Z
+retretos hunspell  os [^s] FALTA EN LT!!!
+retregui/Z
+retrega/Z
+retreguis/Z
+retregues/Z
+retraure/Z
+retrets/Z
+retreure/Z
+retreguin/Z
+retreis/Z
+retraeu/Z
+retrotraient/R
+retrotret/J
+retrotrau/S
+retrotreu/S
+retrotreia/O
+retrotrauré/T
+retrotragués/Q
+retrotraent/Z
+retrotreure/Z
+retrotreu/Z
+retrotrau/Z
+retrotretos hunspell  os [^s] FALTA EN LT!!!
+retrotregues/Z
+retrotraeu/Z
+retrotregui/Z
+retrotrets/Z
+retrotreguen/Z
+retrotrec/Z
+retrotreguin/Z
+retrotraem/Z
+retrotraure/Z
+retrotrega/Z
+retrotreim/Z
+retrotreguis/Z
+retrotret/Z
+retrotreis/Z
+sostraient/R
+sostret/J
+sostrau/S
+sostreu/S
+sostreia/O
+sostrauré/T
+sostragués/Q
+sostrega/Z
+sostraeu/Z
+sostraent/Z
+sostreguin/Z
+sostregues/Z
+sostreure/Z
+sostraure/Z
+sostrec/Z
+sostrau/Z
+sostraem/Z
+sostreim/Z
+sostrets/Z
+sostregui/Z
+sostreis/Z
+sostretos hunspell  os [^s] FALTA EN LT!!!
+sostret/Z
+sostreu/Z
+sostreguen/Z
+sostreguis/Z
+traient/R
+tret/J
+trau/S
+treu/S
+treia/O
+trauré/T
+tragués/Q
+treure/Z
+treguen/Z
+traeu/Z
+trau/Z
+treim/Z
+trega/Z
+traem/Z
+trec/Z
+tregui/Z
+traent/Z
+trets/Z
+tregues/Z
+treguin/Z
+treis/Z
+tret/Z
+tretos hunspell  os [^s] FALTA EN LT!!!
+treguis/Z
+traure/Z
+treu/Z
+sabent/R
+sabut/B
+sap/S
+sabia/O
+sabré/T
+sabés/P
+saba hunspell és a/Z [^cgu]és FALTA EN LT!!!
+sàpiga/Z
+sàpia/Z
+saber/Z
+sé/Z
+sap/Z
+sabi hunspell és i/Z és FALTA EN LT!!!
+sabo hunspell és o/Z [^c]és FALTA EN LT!!!
+sàpien/Z
+sapigueu/Z
+sàpigues/Z
+sapiem/Z
+sabut/Z
+sapen hunspell  en/Z [^nç] FALTA EN LT!!!
+sabis hunspell és is/Z és FALTA EN LT!!!
+sapieu/Z
+sàpiguen/Z
+sabin hunspell és in/Z és FALTA EN LT!!!
+sapiguem/Z
+sabes hunspell és es/Z és FALTA EN LT!!!
+sàpies/Z
+atenent/R
+atès/J
+atés/J
+atén/S
+atenia/O
+atendré/T
+atengués/Q
+atendre/Z
+atén/Z
+atès/Z
+contenent/R
+contès/J
+contés/J
+contén/S
+contenia/O
+contendré/T
+contengués/Q
+contendre/Z
+contén/Z
+contès/Z
+desatenent/R
+desatès/J
+desatés/J
+desatén/S
+desatenia/O
+desatendré/T
+desatengués/Q
+desatès/Z
+desatén/Z
+desatendre/Z
+desentenent/R
+desentès/J
+desentés/J
+desentén/S
+desentenia/O
+desentendré/T
+desentengués/Q
+desentén/Z
+desentendre/Z
+desentès/Z
+distenent/R
+distès/J
+distés/J
+distén/S
+distenia/O
+distendré/T
+distengués/Q
+distendre/Z
+distén/Z
+distès/Z
+encenent/R
+encès/J
+encés/J
+encén/S
+encenia/O
+encendré/T
+encengués/Q
+encendre/Z
+encès/Z
+encén/Z
+entenent/R
+entès/J
+entés/J
+entén/S
+entenia/O
+entendré/T
+entengués/Q
+entès/Z
+entendre/Z
+entén/Z
+estenent/R
+estès/J
+estés/J
+estén/S
+estenia/O
+estendré/T
+estengués/Q
+estès/Z
+estendre/Z
+estén/Z
+malentenent/R
+malentès/J
+malentés/J
+malentén/S
+malentenia/O
+malentendré/T
+malentengués/Q
+malentès/Z
+malentén/Z
+malentendre/Z
+pretenent/R
+pretès/J
+pretés/J
+pretén/S
+pretenia/O
+pretendré/T
+pretengués/Q
+pretén/Z
+pretès/Z
+pretendre/Z
+sobreentenent/R
+sobreentès/J
+sobreentés/J
+sobreentén/S
+sobreentenia/O
+sobreentendré/T
+sobreentengués/Q
+sobreentès/Z
+sobreentén/Z
+sobreentendre/Z
+carvenent/R
+carvenut/B
+carvèn/S
+carvén/S
+carvenia/O
+carvendré/T
+carvengués/Q
+carvenut/Z
+carvendre/Z
+carvén/Z
+carvèn/Z
+malvenent/R
+malvenut/B
+malvèn/S
+malvén/S
+malvenia/O
+malvendré/T
+malvengués/Q
+malvèn/Z
+malvendre/Z
+malvén/Z
+malvenut/Z
+retrovenent/R
+retrovenut/B
+retrovèn/S
+retrovén/S
+retrovenia/O
+retrovendré/T
+retrovengués/Q
+retrovèn/Z
+retrovenut/Z
+retrovendre/Z
+retrovén/Z
+solent/R
+solgut/B
+sol/S
+solia/O
+soldré/T
+solgués/Q
+sol/Z
+soler/Z
+solgut/Z
+enfonent/R
+enfús/J
+enfon/S
+enfonia/O
+enfondré/T
+enfongués/Q
+enfon/Z
+enfús/Z
+enfondre/Z
+recoent/R
+recuit/J
+recou/S
+recoïa/O
+recouré/T
+recogués/Q
+recuits/Z
+recuitos hunspell  os [^s] FALTA EN LT!!!
+recoure/Z
+recou/Z
+recuit/Z
+commovent/R
+commogut/B
+commòs/J
+commou/S
+commovia/O
+commouré/T
+commogués/Q
+commòs/Z
+commou/Z
+commoure/Z
+commogut/Z
+acreixent/R
+acrescut/B
+acreix/S
+acreixia/O
+acreixeré/T
+acreixés/P
+acresqués/P
+acresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+acreixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+acreixera hunspell és era/Z és FALTA EN LT!!!
+acrescut/Z
+acréixer/Z
+acreix/Z
+acresc/Z
+acreixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+acreixéssem hunspell és éssem/Z és FALTA EN LT!!!
+acreixesses hunspell és esses/Z és FALTA EN LT!!!
+acresca/Z
+acreixessen hunspell és essen/Z és FALTA EN LT!!!
+creixent/R
+crescut/B
+creix/S
+creixia/O
+creixeré/T
+creixés/P
+cresqués/P
+creixera hunspell és era/Z és FALTA EN LT!!!
+crescut/Z
+creixessen hunspell és essen/Z és FALTA EN LT!!!
+créixer/Z
+cresca/Z
+creixéssem hunspell és éssem/Z és FALTA EN LT!!!
+cresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+cresc/Z
+creix/Z
+creixesses hunspell és esses/Z és FALTA EN LT!!!
+creixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+creixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+decreixent/R
+decrescut/B
+decreix/S
+decreixia/O
+decreixeré/T
+decreixés/P
+decresqués/P
+decreixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+decreixera hunspell és era/Z és FALTA EN LT!!!
+decresca/Z
+decréixer/Z
+decreixessen hunspell és essen/Z és FALTA EN LT!!!
+decreixesses hunspell és esses/Z és FALTA EN LT!!!
+decreixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+decreixéssem hunspell és éssem/Z és FALTA EN LT!!!
+decrescut/Z
+decresc/Z
+decreix/Z
+decresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+recreixent/R
+recrescut/B
+recreix/S
+recreixia/O
+recreixeré/T
+recreixés/P
+recresqués/P
+recrescut/Z
+recréixer/Z
+recreixesses hunspell és esses/Z és FALTA EN LT!!!
+recreixera hunspell és era/Z és FALTA EN LT!!!
+recreix/Z
+recresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+recreixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+recreixessen hunspell és essen/Z és FALTA EN LT!!!
+recreixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+recresc/Z
+recreixéssem hunspell és éssem/Z és FALTA EN LT!!!
+recresca/Z
+sobrecreixent/R
+sobrecrescut/B
+sobrecreix/S
+sobrecreixia/O
+sobrecreixeré/T
+sobrecreixés/P
+sobrecresqués/P
+sobrecréixer/Z
+sobrecresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+sobrecreixesses hunspell és esses/Z és FALTA EN LT!!!
+sobrecreixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+sobrecreixera hunspell és era/Z és FALTA EN LT!!!
+sobrecreixéssem hunspell és éssem/Z és FALTA EN LT!!!
+sobrecreix/Z
+sobrecreixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+sobrecreixessen hunspell és essen/Z és FALTA EN LT!!!
+sobrecresca/Z
+sobrecrescut/Z
+sobrecresc/Z
+component/R
+compost/J
+compon/S
+componia/O
+compondré/T
+compongués/Q
+compon/Z
+compost/Z
+compondre/Z
+composts/Z
+corresponent/R
+correspost/J
+correspon/S
+corresponia/O
+correspondré/T
+correspongués/Q
+correspon/Z
+corresposts/Z
+correspost/Z
+correspondre/Z
+descomponent/R
+descompost/J
+descompon/S
+descomponia/O
+descompondré/T
+descompongués/Q
+descompon/Z
+descomposts/Z
+descompost/Z
+descompondre/Z
+desponent/R
+despost/J
+despon/S
+desponia/O
+despondré/T
+despongués/Q
+desposts/Z
+despondre/Z
+despon/Z
+despost/Z
+fotocomponent/R
+fotocompost/J
+fotocompon/S
+fotocomponia/O
+fotocompondré/T
+fotocompongués/Q
+fotocompon/Z
+fotocomposts/Z
+fotocompondre/Z
+fotocompost/Z
+ponent/R
+post/J
+pon/S
+ponia/O
+pondré/T
+pongués/Q
+posts/Z
+pon/Z
+post/Z
+pondre/Z
+recomponent/R
+recompost/J
+recompon/S
+recomponia/O
+recompondré/T
+recompongués/Q
+recompondre/Z
+recompon/Z
+recomposts/Z
+recompost/Z
+responent/R
+respost/J
+respon/S
+responia/O
+respondré/T
+respongués/Q
+respost/Z
+respon/Z
+respondre/Z
+resposts/Z
+trasponent/R
+traspost/J
+traspon/S
+trasponia/O
+traspondré/T
+traspongués/Q
+traspost/Z
+trasposts/Z
+traspondre/Z
+traspon/Z
+fent/R
+fet/J
+fa/S
+feia/O
+faré/T
+fes/P
+faceu/Z
+féssiu/Z
+fets/Z
+feren/Z
+faci/Z
+fessen/Z
+faça/Z
+fiu/Z
+fé/Z
+fesses/Z
+férem/Z
+facem/Z
+fetos hunspell  os [^s] FALTA EN LT!!!
+féu/Z
+fer/Z
+facin/Z
+faces/Z
+fa/Z
+facis/Z
+fes/Z
+fessin/Z
+féssim/Z
+fet/Z
+faig/Z
+facen/Z
+fésseu/Z
+feres/Z
+fan/Z
+feim/Z
+faç/Z
+fessis/Z
+féreu/Z
+féssem/Z
+fera/Z
+faen hunspell  en/Z [^nç] FALTA EN LT!!!
+feis/Z
+cernent/R
+cernut/B
+cern/S
+cernia/O
+cerndré/T
+cernés/P
+cern/Z
+cerndre/Z
+cernut/Z
+fenyent/R
+fengut/B
+fenyut/B
+feny/S
+fenyia/O
+fenyeré/T
+fengués/Q
+fenyés/P
+fényer/Z
+feny/Z
+fènyer/Z
+fengut/Z
+fenyut/Z
+ireixent/R
+irescut/B
+ireix/S
+ireixia/O
+ireixeré/T
+ireixés/P
+iresqués/P
+iresquo hunspell és o/Z [^c]és FALTA EN LT!!!
+irescut/Z
+ireixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+ireixesses hunspell és esses/Z és FALTA EN LT!!!
+ireixessen hunspell és essen/Z és FALTA EN LT!!!
+ireixera hunspell és era/Z és FALTA EN LT!!!
+iresc/Z
+irèixer/Z
+ireixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+iresca/Z
+ireix/Z
+ireixéssem hunspell és éssem/Z és FALTA EN LT!!!
+bevent/R
+begut/B
+beu/S
+bevia/O
+beuré/T
+begués/Q
+begut/Z
+beure/Z
+beu/Z
+devent/R
+degut/B
+deu/S
+devia/O
+deuré/T
+degués/Q
+deu/Z
+degut/Z
+deure/Z
+embevent/R
+embegut/B
+embeu/S
+embevia/O
+embeuré/T
+embegués/Q
+embeu/Z
+embeure/Z
+embegut/Z
+entreplovent/R
+entreplogut/B
+entreplou/S
+entreplovia/O
+entreplouré/T
+entreplogués/Q
+entreploure/Z
+entreplou/Z
+entreplogut/Z
+movent/R
+mogut/B
+mou/S
+movia/O
+mouré/T
+mogués/Q
+moure/Z
+mogut/Z
+mou/Z
+plovent/R
+plogut/B
+plou/S
+plovia/O
+plouré/T
+plogués/Q
+plogut/Z
+plou/Z
+ploure/Z
+promovent/R
+promogut/B
+promou/S
+promovia/O
+promouré/T
+promogués/Q
+promoure/Z
+promou/Z
+promogut/Z
+rebevent/R
+rebegut/B
+rebeu/S
+rebevia/O
+rebeuré/T
+rebegués/Q
+rebegut/Z
+rebeu/Z
+rebeure/Z
+removent/R
+remogut/B
+remou/S
+removia/O
+remouré/T
+remogués/Q
+remou/Z
+remoure/Z
+remogut/Z
+somovent/R
+somogut/B
+somou/S
+somovia/O
+somouré/T
+somogués/Q
+somoure/Z
+somogut/Z
+somou/Z
+revenent/R
+revenut/B
+revèn/S
+revén/S
+revenia/O
+revendré/T
+revengués/Q
+revén/Z
+revendre/Z
+revèn/Z
+revenut/Z
+contrafent/R
+contrafet/J
+contrafà/S
+contrafeia/O
+contrafaré/T
+contrafés/P
+contrafaç/Z
+contrafàen hunspell  en/Z [^nç] FALTA EN LT!!!
+contrafaça/Z
+contrafer/Z
+contrafaig/Z
+contrafacis/Z
+contrafis hunspell és is/Z és FALTA EN LT!!!
+contrafan/Z
+contrafaceu/Z
+contrafeim/Z
+contrafo hunspell és o/Z [^c]és FALTA EN LT!!!
+contrafacin/Z
+contrafen hunspell és en/Z és FALTA EN LT!!!
+contrafeis/Z
+contrafetos hunspell  os [^s] FALTA EN LT!!!
+contrafà/Z
+contrafin hunspell és in/Z és FALTA EN LT!!!
+contrafi hunspell és i/Z és FALTA EN LT!!!
+contrafaces/Z
+contrafacem/Z
+contrafí hunspell és í/Z és FALTA EN LT!!!
+contrafet/Z
+contrafes hunspell és es/Z és FALTA EN LT!!!
+contrafiu/Z
+contraféu/Z
+contrafets/Z
+contrafaci/Z
+contrafacen/Z
+contrafa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+desfent/R
+desfet/J
+desfà/S
+desfeia/O
+desfaré/T
+desfés/P
+desfis hunspell és is/Z és FALTA EN LT!!!
+desfan/Z
+desfí hunspell és í/Z és FALTA EN LT!!!
+desfo hunspell és o/Z [^c]és FALTA EN LT!!!
+desfacin/Z
+desfin hunspell és in/Z és FALTA EN LT!!!
+desfetos hunspell  os [^s] FALTA EN LT!!!
+desfaci/Z
+desfacis/Z
+desfes hunspell és es/Z és FALTA EN LT!!!
+desfeim/Z
+desfaceu/Z
+desfaces/Z
+desféu/Z
+desfà/Z
+desfacen/Z
+desfen hunspell és en/Z és FALTA EN LT!!!
+desfacem/Z
+desfaig/Z
+desfiu/Z
+desfi hunspell és i/Z és FALTA EN LT!!!
+desfet/Z
+desfa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+desfer/Z
+desfets/Z
+desfeis/Z
+desfàen hunspell  en/Z [^nç] FALTA EN LT!!!
+desfaça/Z
+desfaç/Z
+estrafent/R
+estrafet/J
+estrafà/S
+estrafeia/O
+estrafaré/T
+estrafés/P
+estrafen hunspell és en/Z és FALTA EN LT!!!
+estrafiu/Z
+estrafo hunspell és o/Z [^c]és FALTA EN LT!!!
+estrafis hunspell és is/Z és FALTA EN LT!!!
+estrafacem/Z
+estrafàen hunspell  en/Z [^nç] FALTA EN LT!!!
+estrafeis/Z
+estrafan/Z
+estrafets/Z
+estrafa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+estrafà/Z
+estrafaci/Z
+estrafin hunspell és in/Z és FALTA EN LT!!!
+estrafacin/Z
+estrafaça/Z
+estrafetos hunspell  os [^s] FALTA EN LT!!!
+estraféu/Z
+estrafacis/Z
+estrafi hunspell és i/Z és FALTA EN LT!!!
+estrafacen/Z
+estrafaces/Z
+estrafí hunspell és í/Z és FALTA EN LT!!!
+estrafeim/Z
+estrafaç/Z
+estrafaig/Z
+estrafet/Z
+estrafes hunspell és es/Z és FALTA EN LT!!!
+estrafaceu/Z
+estrafer/Z
+liqüefent/R
+liqüefet/J
+liqüefà/S
+liqüefeia/O
+liqüefaré/T
+liqüefés/P
+liqüefacen/Z
+liqüefo hunspell és o/Z [^c]és FALTA EN LT!!!
+liqüefacis/Z
+liqüefin hunspell és in/Z és FALTA EN LT!!!
+liqüefiu/Z
+liqüefi hunspell és i/Z és FALTA EN LT!!!
+liqüefet/Z
+liqüefis hunspell és is/Z és FALTA EN LT!!!
+liqüefan/Z
+liqüefen hunspell és en/Z és FALTA EN LT!!!
+liqüeféu/Z
+liqüefa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+liqüefaç/Z
+liqüefaci/Z
+liqüefacem/Z
+liqüefets/Z
+liqüefaça/Z
+liqüefaceu/Z
+liqüefetos hunspell  os [^s] FALTA EN LT!!!
+liqüefí hunspell és í/Z és FALTA EN LT!!!
+liqüefeim/Z
+liqüefàen hunspell  en/Z [^nç] FALTA EN LT!!!
+liqüefà/Z
+liqüefaces/Z
+liqüefacin/Z
+liqüefes hunspell és es/Z és FALTA EN LT!!!
+liqüefer/Z
+liqüefeis/Z
+liqüefaig/Z
+perfent/R
+perfet/J
+perfà/S
+perfeia/O
+perfaré/T
+perfés/P
+perfaç/Z
+perfaceu/Z
+perfeis/Z
+perfo hunspell és o/Z [^c]és FALTA EN LT!!!
+perfaça/Z
+perfes hunspell és es/Z és FALTA EN LT!!!
+perfàen hunspell  en/Z [^nç] FALTA EN LT!!!
+perfeim/Z
+perfiu/Z
+perfet/Z
+perfà/Z
+perfacis/Z
+perfen hunspell és en/Z és FALTA EN LT!!!
+perfis hunspell és is/Z és FALTA EN LT!!!
+perfí hunspell és í/Z és FALTA EN LT!!!
+perfaces/Z
+perfa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+perfan/Z
+perfets/Z
+perféu/Z
+perfaig/Z
+perfacem/Z
+perfaci/Z
+perfacen/Z
+perfi hunspell és i/Z és FALTA EN LT!!!
+perfer/Z
+perfetos hunspell  os [^s] FALTA EN LT!!!
+perfacin/Z
+perfin hunspell és in/Z és FALTA EN LT!!!
+rarefent/R
+rarefet/J
+rarefà/S
+rarefeia/O
+rarefaré/T
+rarefés/P
+rarefaç/Z
+rarefen hunspell és en/Z és FALTA EN LT!!!
+rarefi hunspell és i/Z és FALTA EN LT!!!
+rarefeim/Z
+rarefà/Z
+rarefis hunspell és is/Z és FALTA EN LT!!!
+rarefaci/Z
+rarefo hunspell és o/Z [^c]és FALTA EN LT!!!
+rarefa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+rarefaig/Z
+rarefí hunspell és í/Z és FALTA EN LT!!!
+rarefet/Z
+rarefaceu/Z
+rarefeis/Z
+rarefer/Z
+rarefacis/Z
+rarefacen/Z
+rarefacin/Z
+rarefaces/Z
+rarefàen hunspell  en/Z [^nç] FALTA EN LT!!!
+rarefets/Z
+rarefiu/Z
+rarefetos hunspell  os [^s] FALTA EN LT!!!
+rarefaça/Z
+rarefin hunspell és in/Z és FALTA EN LT!!!
+rarefes hunspell és es/Z és FALTA EN LT!!!
+rarefan/Z
+rarefacem/Z
+rareféu/Z
+refent/R
+refet/J
+refà/S
+refeia/O
+refaré/T
+refés/P
+refi hunspell és i/Z és FALTA EN LT!!!
+refàen hunspell  en/Z [^nç] FALTA EN LT!!!
+refeim/Z
+refets/Z
+refin hunspell és in/Z és FALTA EN LT!!!
+refetos hunspell  os [^s] FALTA EN LT!!!
+refacin/Z
+refa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+refo hunspell és o/Z [^c]és FALTA EN LT!!!
+refaci/Z
+refí hunspell és í/Z és FALTA EN LT!!!
+refaça/Z
+reféu/Z
+refan/Z
+refacem/Z
+refiu/Z
+refet/Z
+refaç/Z
+refacen/Z
+refis hunspell és is/Z és FALTA EN LT!!!
+refer/Z
+refaces/Z
+refes hunspell és es/Z és FALTA EN LT!!!
+refacis/Z
+refà/Z
+refaig/Z
+refaceu/Z
+refen hunspell és en/Z és FALTA EN LT!!!
+refeis/Z
+satisfent/R
+satisfet/J
+satisfà/S
+satisfeia/O
+satisfaré/T
+satisfés/P
+satisfeis/Z
+satisfacis/Z
+satisfacin/Z
+satisfo hunspell és o/Z [^c]és FALTA EN LT!!!
+satisfaces/Z
+satisfacem/Z
+satisfet/Z
+satisfacen/Z
+satisfiu/Z
+satisfen hunspell és en/Z és FALTA EN LT!!!
+satisfetos hunspell  os [^s] FALTA EN LT!!!
+satisféu/Z
+satisfin hunspell és in/Z és FALTA EN LT!!!
+satisfaig/Z
+satisfaceu/Z
+satisfaci/Z
+satisfi hunspell és i/Z és FALTA EN LT!!!
+satisfer/Z
+satisfes hunspell és es/Z és FALTA EN LT!!!
+satisfets/Z
+satisfí hunspell és í/Z és FALTA EN LT!!!
+satisfa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+satisfà/Z
+satisfàen hunspell  en/Z [^nç] FALTA EN LT!!!
+satisfan/Z
+satisfaça/Z
+satisfeim/Z
+satisfis hunspell és is/Z és FALTA EN LT!!!
+satisfaç/Z
+junyent/R
+junyut/B
+juny/S
+junyia/O
+junyeré/T
+junyés/P
+junyut/Z
+júnyer/Z
+juny/Z
+caient/R
+caigut/B
+cau/S
+queia/O
+cauré/T
+caigués/Q
+caeu/Z
+queim/Z
+caure/Z
+cau/Z
+caent/Z
+queis/Z
+caem/Z
+caigut/Z
+decaient/R
+decaigut/B
+decau/S
+dequeia/O
+decauré/T
+decaigués/Q
+decau/Z
+decaem/Z
+decaigut/Z
+dequeis/Z
+decaure/Z
+dequeim/Z
+decaent/Z
+decaeu/Z
+escaient/R
+escaigut/B
+escau/S
+esqueia/O
+escauré/T
+escaigués/Q
+escaigut/Z
+escaem/Z
+esqueim/Z
+escaent/Z
+escau/Z
+escaure/Z
+esqueis/Z
+escaeu/Z
+recaient/R
+recaigut/B
+recau/S
+requeia/O
+recauré/T
+recaigués/Q
+recaure/Z
+recau/Z
+recaent/Z
+recaigut/Z
+recaeu/Z
+requeis/Z
+recaem/Z
+requeim/Z
+raent/R
+ragut/B
+ras/J
+rau/S
+raïa/O
+rauré/T
+ragués/Q
+ras/Z
+raure/Z
+ragut/Z
+rau/Z
+venent/R
+vengut/B
+venut/B
+ven/S
+venia/O
+vendré/T
+vengués/Q
+ven/Z
+vendre/Z
+venut/Z
+vengut/Z
+autoexcloent/R
+autoexclòs/J
+autoexclou/S
+autoexcloïa/O
+autoexclouré/T
+autoexclogués/Q
+autoexcloure/Z
+autoexclòs/Z
+autoexclou/Z
+concloent/R
+conclòs/J
+conclou/S
+concloïa/O
+conclouré/T
+conclogués/Q
+conclou/Z
+concloure/Z
+conclòs/Z
+descloent/R
+desclòs/J
+desclou/S
+descloïa/O
+desclouré/T
+desclogués/Q
+descloure/Z
+desclou/Z
+desclòs/Z
+encloent/R
+enclòs/J
+enclou/S
+encloïa/O
+enclouré/T
+enclogués/Q
+encloure/Z
+enclou/Z
+enclòs/Z
+excloent/R
+exclòs/J
+exclou/S
+excloïa/O
+exclouré/T
+exclogués/Q
+exclòs/Z
+excloure/Z
+exclou/Z
+incloent/R
+inclòs/J
+inclou/S
+incloïa/O
+inclouré/T
+inclogués/Q
+incloure/Z
+inclou/Z
+inclòs/Z
+ocloent/R
+oclòs/J
+oclou/S
+ocloïa/O
+oclouré/T
+oclogués/Q
+ocloure/Z
+oclou/Z
+oclòs/Z
+recloent/R
+reclòs/J
+reclou/S
+recloïa/O
+reclouré/T
+reclogués/Q
+reclòs/Z
+recloure/Z
+reclou/Z
+confonent/R
+confós/J
+confon/S
+confonia/O
+confondré/T
+confongués/Q
+confondre/Z
+confon/Z
+confós/Z
+corfonent/R
+corfós/J
+corfon/S
+corfonia/O
+corfondré/T
+corfongués/Q
+corfondre/Z
+corfon/Z
+corfós/Z
+difonent/R
+difós/J
+difon/S
+difonia/O
+difondré/T
+difongués/Q
+difondre/Z
+difós/Z
+difon/Z
+infonent/R
+infós/J
+infon/S
+infonia/O
+infondré/T
+infongués/Q
+infondre/Z
+infós/Z
+infon/Z
+marfonent/R
+marfós/J
+marfon/S
+marfonia/O
+marfondré/T
+marfongués/Q
+marfondre/Z
+marfon/Z
+marfós/Z
+perfonent/R
+perfós/J
+perfon/S
+perfonia/O
+perfondré/T
+perfongués/Q
+perfós/Z
+perfondre/Z
+perfon/Z
+radiodifonent/R
+radiodifós/J
+radiodifon/S
+radiodifonia/O
+radiodifondré/T
+radiodifongués/Q
+radiodifon/Z
+radiodifondre/Z
+radiodifós/Z
+refonent/R
+refós/J
+refon/S
+refonia/O
+refondré/T
+refongués/Q
+refon/Z
+refós/Z
+refondre/Z
+retonent/R
+retós/J
+reton/S
+retonia/O
+retondré/T
+retongués/Q
+retós/Z
+reton/Z
+retondre/Z
+transfonent/R
+transfós/J
+transfon/S
+transfonia/O
+transfondré/T
+transfongués/Q
+transfon/Z
+transfós/Z
+transfondre/Z
+complaent/R
+complagut/B
+complau/S
+complaïa/O
+complauré/T
+complagués/Q
+complagut/Z
+complau/Z
+complaure/Z
+descomplaent/R
+descomplagut/B
+descomplau/S
+descomplaïa/O
+descomplauré/T
+descomplagués/Q
+descomplagut/Z
+descomplaure/Z
+descomplau/Z
+desplaent/R
+desplagut/B
+desplau/S
+desplaïa/O
+desplauré/T
+desplagués/Q
+desplau/Z
+desplagut/Z
+desplaure/Z
+noent/R
+nogut/B
+nou/S
+noïa/O
+nouré/T
+nogués/Q
+nou/Z
+nogut/Z
+noure/Z
+plaent/R
+plagut/B
+plau/S
+plaïa/O
+plauré/T
+plagués/Q
+plau/Z
+plagut/Z
+plaure/Z
+fenent/R
+fes/J
+fen/S
+fenia/O
+fendré/T
+fengués/Q
+fes/Z
+fen/Z
+fendre/Z
+fonent/R
+fos/J
+fon/S
+fonia/O
+fondré/T
+fongués/Q
+fon/Z
+fondre/Z
+fos/Z
+prenent/R
+pres/J
+pren/S
+prenia/O
+prendré/T
+prengués/Q
+prendre/Z
+pres/Z
+pren/Z
+tonent/R
+tos/J
+ton/S
+tonia/O
+tondré/T
+tongués/Q
+tondre/Z
+ton/Z
+tos/Z
+apareixent/R
+aparegut/B
+apareix/S
+apareixia/O
+apareixeré/T
+aparegués/Q
+aparegut/Z
+apareix/Z
+aparéixer/Z
+aparèixer/Z
+compareixent/R
+comparegut/B
+compareix/S
+compareixia/O
+compareixeré/T
+comparegués/Q
+comparegut/Z
+comparéixer/Z
+compareix/Z
+comparèixer/Z
+coneixent/R
+conegut/B
+coneix/S
+coneixia/O
+coneixeré/T
+conegués/Q
+conegut/Z
+conèixer/Z
+conéixer/Z
+coneix/Z
+desapareixent/R
+desaparegut/B
+desapareix/S
+desapareixia/O
+desapareixeré/T
+desaparegués/Q
+desaparéixer/Z
+desapareix/Z
+desaparegut/Z
+desaparèixer/Z
+desconeixent/R
+desconegut/B
+desconeix/S
+desconeixia/O
+desconeixeré/T
+desconegués/Q
+desconegut/Z
+desconéixer/Z
+desconeix/Z
+desconèixer/Z
+pareixent/R
+paregut/B
+pareix/S
+pareixia/O
+pareixeré/T
+paregués/Q
+paréixer/Z
+pareix/Z
+parèixer/Z
+paregut/Z
+reapareixent/R
+reaparegut/B
+reapareix/S
+reapareixia/O
+reapareixeré/T
+reaparegués/Q
+reapareix/Z
+reaparèixer/Z
+reaparéixer/Z
+reaparegut/Z
+reconeixent/R
+reconegut/B
+reconeix/S
+reconeixia/O
+reconeixeré/T
+reconegués/Q
+reconegut/Z
+reconeix/Z
+reconèixer/Z
+reconéixer/Z
+atenyent/R
+atès/J
+atés/J
+ateny/S
+atenyia/O
+atenyeré/T
+atenyés/P
+ateny/Z
+atényer/Z
+atènyer/Z
+atès/Z
+empenyent/R
+empès/J
+empés/J
+empeny/S
+empenyia/O
+empenyeré/T
+empenyés/P
+empeny/Z
+empès/Z
+empényer/Z
+empènyer/Z
+espenyent/R
+espès/J
+espés/J
+espeny/S
+espenyia/O
+espenyeré/T
+espenyés/P
+espènyer/Z
+espès/Z
+espényer/Z
+espeny/Z
+malvolent/R
+malvolgut/B
+malvol/S
+malvolia/O
+malvoldré/T
+malvolgués/Q
+malvullgueu/Z
+malvulguin/Z
+malvullgues/Z
+malvoler/Z
+malvulgueu/Z
+malvulga/Z
+malvolga hunspell gués ga/Z gués FALTA EN LT!!!
+malvolgueu hunspell és eu/Z és FALTA EN LT!!!
+malvol/Z
+malvullguem/Z
+malvolguin hunspell és in/Z és FALTA EN LT!!!
+malvolgui hunspell és i/Z és FALTA EN LT!!!
+malvolguen hunspell és en/Z és FALTA EN LT!!!
+malvulgues/Z
+malvullguen/Z
+malvulguem/Z
+malvullga/Z
+malvulguis/Z
+malvulgui/Z
+malvolc hunspell gués c/Z gués FALTA EN LT!!!
+malvull/Z
+malvolgues hunspell és es/Z és FALTA EN LT!!!
+malvolgut/Z
+malvolguis hunspell és is/Z és FALTA EN LT!!!
+malvulguen/Z
+malvolguem hunspell és em/Z és FALTA EN LT!!!
+volent/R
+volgut/B
+vol/S
+volia/O
+voldré/T
+volgués/Q
+volguen hunspell és en/Z és FALTA EN LT!!!
+vullga/Z
+vulga/Z
+vulgues/Z
+volguis hunspell és is/Z és FALTA EN LT!!!
+volgueu hunspell és eu/Z és FALTA EN LT!!!
+vulgueu/Z
+volgui hunspell és i/Z és FALTA EN LT!!!
+vol/Z
+volgues hunspell és es/Z és FALTA EN LT!!!
+volga hunspell gués ga/Z gués FALTA EN LT!!!
+vulgui/Z
+vullguen/Z
+vulguis/Z
+vull/Z
+vullguem/Z
+volc hunspell gués c/Z gués FALTA EN LT!!!
+volguin hunspell és in/Z és FALTA EN LT!!!
+vulguin/Z
+vulguem/Z
+volguem hunspell és em/Z és FALTA EN LT!!!
+vulguen/Z
+vullgues/Z
+voler/Z
+vullgueu/Z
+volgut/Z
+veient/R
+vist/J
+veu/S
+veia/O
+veuré/T
+veiés/P
+vessis/Z
+veja/Z
+veiera hunspell és era/Z és FALTA EN LT!!!
+vera/Z
+veent/Z
+vegen/Z
+vet/Z
+veure/Z
+veges/Z
+ves/Z
+veio hunspell és o/Z [^c]és FALTA EN LT!!!
+véssim/Z
+vegis/Z
+vegin/Z
+vérem/Z
+veres/Z
+veim/Z
+vists/Z
+veig/Z
+véreu/Z
+veií hunspell és í/Z és FALTA EN LT!!!
+véu/Z
+veem/Z
+veren/Z
+vessin/Z
+veiis hunspell és is/Z és FALTA EN LT!!!
+veii hunspell és i/Z és FALTA EN LT!!!
+veu/Z
+vegem/Z
+veis/Z
+veeu/Z
+vegi/Z
+véssiu/Z
+veg/Z
+veiin hunspell és in/Z és FALTA EN LT!!!
+viu/Z
+vist/Z
+vegeu/Z
+complanyent/R
+complangut/B
+complanyut/B
+complany/S
+complanyia/O
+complanyeré/T
+complangués/Q
+complanyés/P
+complangut/Z
+complany/Z
+complanyut/Z
+complànyer/Z
+pertanyent/R
+pertangut/B
+pertanyut/B
+pertany/S
+pertanyia/O
+pertanyeré/T
+pertangués/Q
+pertanyés/P
+pertanyut/Z
+pertany/Z
+pertànyer/Z
+pertangut/Z
+planyent/R
+plangut/B
+planyut/B
+plany/S
+planyia/O
+planyeré/T
+plangués/Q
+planyés/P
+plànyer/Z
+planyut/Z
+plany/Z
+plangut/Z
+paixent/R
+pascut/B
+paix/S
+peix/S
+paixia/O
+paixeré/T
+paixés/P
+pasqués/P
+peixo/Z
+pasqui hunspell és i/Z és FALTA EN LT!!!
+paixesses hunspell és esses/Z és FALTA EN LT!!!
+paixessen hunspell és essen/Z és FALTA EN LT!!!
+pesc/Z
+paixo hunspell és o/Z [^c]és FALTA EN LT!!!
+paixéssem hunspell és éssem/Z és FALTA EN LT!!!
+peixi/Z
+pesquin/Z
+paixera hunspell és era/Z és FALTA EN LT!!!
+pasquis hunspell és is/Z és FALTA EN LT!!!
+paixésseu hunspell és ésseu/Z és FALTA EN LT!!!
+peixin/Z
+pesqui/Z
+pasquin hunspell és in/Z és FALTA EN LT!!!
+paixa hunspell és a/Z [^cgu]és FALTA EN LT!!!
+pesquis/Z
+pasc/Z
+pasca/Z
+peix/Z
+paix/Z
+péixer/Z
+pascut/Z
+peixis/Z
+pasquo hunspell és o/Z [^c]és FALTA EN LT!!!
+cabent/R
+cabut/B
+cap/S
+cabia/O
+cabré/T
+cabés/P
+capen hunspell  en/Z [^nç] FALTA EN LT!!!
+cabis hunspell és is/Z és FALTA EN LT!!!
+cap/Z
+cabes hunspell és es/Z és FALTA EN LT!!!
+cabi hunspell és i/Z és FALTA EN LT!!!
+cabre/Z
+caba hunspell és a/Z [^cgu]és FALTA EN LT!!!
+càpies/Z
+càpiguen/Z
+cabin hunspell és in/Z és FALTA EN LT!!!
+cabut/Z
+càpien/Z
+càpia/Z
+caber/Z
+capiguem/Z
+capigueu/Z
+càpiga/Z
+càpigues/Z
+equivalent/R
+equivalgut/B
+equival/S
+equivalia/O
+equivaldré/T
+equivalgués/Q
+equival/Z
+equivaler/Z
+equivalgut/Z
+equivaldre/Z
+prevalent/R
+prevalgut/B
+preval/S
+prevalia/O
+prevaldré/T
+prevalgués/Q
+prevaldre/Z
+prevalgut/Z
+preval/Z
+prevaler/Z
+sobrevalent/R
+sobrevalgut/B
+sobreval/S
+sobrevalia/O
+sobrevaldré/T
+sobrevalgués/Q
+sobreval/Z
+sobrevaler/Z
+sobrevaldre/Z
+sobrevalgut/Z
+valent/R
+valgut/B
+val/S
+valia/O
+valdré/T
+valgués/Q
+val/Z
+valgut/Z
+valdre/Z
+valer/Z
+colltorcent/R
+colltorçut/B
+colltorç/S
+colltorcia/O
+colltorceré/T
+colltorcés/P
+colltorç/Z
+colltòrcer/Z
+colltorçut/Z
+contorcent/R
+contorçut/B
+contorç/S
+contorcia/O
+contorceré/T
+contorcés/P
+contorç/Z
+contòrcer/Z
+contorçut/Z
+destorcent/R
+destorçut/B
+destorç/S
+destorcia/O
+destorceré/T
+destorcés/P
+destorçut/Z
+destorç/Z
+destòrcer/Z
+distorcent/R
+distorçut/B
+distorç/S
+distorcia/O
+distorceré/T
+distorcés/P
+distòrcer/Z
+distorçut/Z
+distorç/Z
+estorcent/R
+estorçut/B
+estorç/S
+estorcia/O
+estorceré/T
+estorcés/P
+estorçut/Z
+estorç/Z
+estòrcer/Z
+retorcent/R
+retorçut/B
+retorç/S
+retorcia/O
+retorceré/T
+retorcés/P
+retorç/Z
+retorçut/Z
+retòrcer/Z
+torcent/R
+torçut/B
+torç/S
+torcia/O
+torceré/T
+torcés/P
+tòrcer/Z
+torç/Z
+torçut/Z
+constrenyent/R
+constret/J
+constreny/S
+constrenyia/O
+constrenyeré/T
+constrenyés/P
+constret/Z
+constretos hunspell  os [^s] FALTA EN LT!!!
+constrényer/Z
+constreny/Z
+constrènyer/Z
+constrets/Z
+destrenyent/R
+destret/J
+destreny/S
+destrenyia/O
+destrenyeré/T
+destrenyés/P
+destrènyer/Z
+destrets/Z
+destreny/Z
+destret/Z
+destrényer/Z
+destretos hunspell  os [^s] FALTA EN LT!!!
+estrenyent/R
+estret/J
+estreny/S
+estrenyia/O
+estrenyeré/T
+estrenyés/P
+estret/Z
+estrényer/Z
+estrènyer/Z
+estrets/Z
+estreny/Z
+estretos hunspell  os [^s] FALTA EN LT!!!
+restrenyent/R
+restret/J
+restreny/S
+restrenyia/O
+restrenyeré/T
+restrenyés/P
+restret/Z
+restrènyer/Z
+restrets/Z
+restreny/Z
+restretos hunspell  os [^s] FALTA EN LT!!!
+restrényer/Z
+rient/R
+rigut/B
+riu/S
+reia/O
+riuré/T
+rigués/Q
+reim/Z
+ristes/Z
+rigut/Z
+rist/Z
+riu/Z
+rists/Z
+rista/Z
+riure/Z
+reis/Z
+somrient/R
+somrigut/B
+somriu/S
+somreia/O
+somriuré/T
+somrigués/Q
+somreis/Z
+somriu/Z
+somriure/Z
+somrists/Z
+somrista/Z
+somrist/Z
+somreim/Z
+somrigut/Z
+somristes/Z
