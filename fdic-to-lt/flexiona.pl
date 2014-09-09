@@ -19,8 +19,8 @@ my $numAccepcio;
 my $tagbefore;
 my $tagafter;
 my $excepcions;
-my $carac="[a-zA-ZàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑ·0-9'\-]";
-my $nocarac="[^a-zA-ZàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑ·0-9'\-]";
+my $carac="[a-zA-ZêàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑ·0-9'\-]";
+my $nocarac="[^a-zA-ZêàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑ·0-9'\-]";
 
 open( my $fh,  "<:encoding(UTF-8)", $f1 );
 open( my $ofh, ">:encoding(UTF-8)", $out );
