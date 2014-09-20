@@ -1078,6 +1078,7 @@ assitiar=categories: V;model:crear;fonts:LT
 associar=categories: V;model:crear;fonts:LT
 atiar=categories: V;model:crear;fonts:LT
 atrofiar=categories: V;model:crear;fonts:LT
+auspiciar=categories: V;model:crear;fonts:LT
 autografiar=categories: V;model:crear;fonts:LT
 auxiliar=categories: V;model:crear;fonts:LT
 avariar=categories: V;model:crear;fonts:LT
