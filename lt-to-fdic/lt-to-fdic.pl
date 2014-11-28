@@ -65,8 +65,10 @@ while ( my $line = <$fh> ) {
         if ( $lemma !~ /^$prevLemma$/ ) {    #s'acaba el lema
 	
 	    $numAccepcio="";
-	    if ($prevLemma =~ /([0-9])$/) {
-		$numAccepcio = $1;
+	    if ($prevLemma !~ /^MP3$/) {  #Excepcions: el número forma part de la paraula
+		if ($prevLemma =~ /([0-9])$/) {
+		    $numAccepcio = $1;
+		}
 	    }
 
 	    escriuFormatDiccionari();
