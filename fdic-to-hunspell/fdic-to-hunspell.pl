@@ -41,14 +41,14 @@ my %formes = ();
 while (my $line = <$fh>) {
     chomp($line);
 
-#    if ($line =~ /^(.+)(ar)=categories:(.+?);model:(.+?);/) { #er|re
-    if ($line =~ /^(.+)(er|er|ar)=categories:(.+?);model:(.+?);/) { 
+#    if ($line =~ /^(.+)(er|er|ar)=categories:(.+?);model:(.+?);/) { #er|re
+    if ($line =~ /^(.+)(er|er|ar|ir)=categories:(.+?);model:(.+?);/) { 
 	my $infinitiu = $1.$2;
 	my $terminacio = $2;
 	my $categoria = $3;
 	my $model = $4;
 	my @entradesHunspell;
-	if ($infinitiu =~ /^(anar|estar|dar|donar|poder|merèixer|desmerèixer|.*córrer|.*n[àé]ixer|saber|.*créixer|.*fer|.*voler|péixer|irèixer)$/) {
+	if ($infinitiu =~ /^(anar|estar|dar|donar|poder|merèixer|desmerèixer|.*córrer|.*n[àé]ixer|saber|.*créixer|.*fer|.*voler|péixer|irèixer|.*c?obrir|.*[tv]enir|pruir|.*imprimir|.*eixir|.*cosir|.*argüir|.*morir|.*fugir|.*dir|.*sortir|.*collir|.*dormir|ajupir|.*bullir|.*sentir|.*munyir|grunyir|funyir|punyir|retrunyir|tossir|.*cruixir|pudir|.*omplir|escopir)$/) {
 	    next;
 	}
 	open( my $modelfh,  "<:encoding(UTF-8)", $modelsdir.$model.".model" );
@@ -87,8 +87,11 @@ while (my $line = <$fh>) {
 			elsif ($forma =~ /et$/) { push(@entradesHunspell, $forma."/F"); } #estret/F
 			else { push(@entradesHunspell, $forma."/J"); } #emès/J
 		    }
-
+		} elsif ($terminacio =~ /^ir$/) { #3a conjugació
+		    if ($postag =~ /VMIF1S00/) { push(@entradesHunspell, $forma."/M"); } #compartiré/MN
+		    if ($postag =~ /VMIF1S00/) { push(@entradesHunspell, $forma."/N"); } #compartiré/MN
 		}
+		
 
 		if (!exists($formes{$forma})) {
 		    $formes{$forma}="lt"; #existeix en LanguageTool
