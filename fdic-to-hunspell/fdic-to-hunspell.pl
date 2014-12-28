@@ -41,13 +41,14 @@ my %formes = ();
 while (my $line = <$fh>) {
     chomp($line);
 
-    if ($line =~ /^(.+)(er|re)=categories:(.+?);model:(.+?);/) {
+#    if ($line =~ /^(.+)(ar)=categories:(.+?);model:(.+?);/) { #er|re
+    if ($line =~ /^(.+)(er|er|ar)=categories:(.+?);model:(.+?);/) { 
 	my $infinitiu = $1.$2;
 	my $terminacio = $2;
 	my $categoria = $3;
 	my $model = $4;
 	my @entradesHunspell;
-	if ($infinitiu =~ /^(anar|estar|dar|donar)$/) {
+	if ($infinitiu =~ /^(anar|estar|dar|donar|poder|merèixer|desmerèixer|.*córrer|.*n[àé]ixer|saber|.*créixer|.*fer|.*voler|péixer|irèixer)$/) {
 	    next;
 	}
 	open( my $modelfh,  "<:encoding(UTF-8)", $modelsdir.$model.".model" );
@@ -76,13 +77,14 @@ while (my $line = <$fh>) {
 		    if ($postag =~ /VMII1S00/) { push(@entradesHunspell, $forma."/O"); } #batia/O
 		    if ($postag =~ /VMIP3S00/) { push(@entradesHunspell, $forma."/S"); } #bat/O
 		    if ($postag =~ /VMSI1S01/) { 
-			if ($forma =~ /gués$/) { push(@entradesHunspell, $forma."/Q"); } #coneguésQ
-			else { push(@entradesHunspell, $forma."/P"); } #batés/P o Q
+			if ($forma =~ /[qg]ués$/) { push(@entradesHunspell, $forma."/Q"); } #conegués/Q desmeresqués/Q
+			else { push(@entradesHunspell, $forma."/P"); } #batés/P desmereixés/P
 		    }
 		    if ($postag =~ /VMG00000/) { push(@entradesHunspell, $forma."/R"); } #batent/R
 		    if ($postag =~ /VMIF1S00/) { push(@entradesHunspell, $forma."/T"); } #batré/T
 		    if ($postag =~ /VMP00SM0/) { 
 			if ($forma =~ /ut$/) { push(@entradesHunspell, $forma."/B"); } #batut/B
+			elsif ($forma =~ /et$/) { push(@entradesHunspell, $forma."/F"); } #estret/F
 			else { push(@entradesHunspell, $forma."/J"); } #emès/J
 		    }
 
@@ -122,7 +124,8 @@ while (my $line = <$fh>) {
 				$formes{$forma}="lt-hunspell";
 			    }
 			} else {
-			    $formes{$forma}="hunspell ".$lleva." ".$afig." ".$acabaen;
+			    #$formes{$forma}="hunspell ".$lleva." ".$afig." ".$acabaen;
+			    $formes{$forma}="hunspell REGLA: ".$regla;
 			}
 		    }
 		}
@@ -135,6 +138,7 @@ while (my $line = <$fh>) {
 	    } elsif ($value =~ /^lt/) {
 		# Falta en Hunspell
 		print $ofh "$key/Z\n";       ### Però /C si és imperatiu!! O bé les dues coses.
+		# Z si comença amb vocal, C infinitiu, gerundi, imperatiu??
 	    } elsif ($value =~ /^hunspell/) {
 		# Falta en LT !!! Error.
 		print $ofh "$key $value FALTA EN LT!!!\n";
