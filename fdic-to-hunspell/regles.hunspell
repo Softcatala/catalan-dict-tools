@@ -482,6 +482,7 @@ REGLA K SFX+ Quatre formes amb canvi d'accent (accent greu)
 000     oli    òlia        oli              # caducifòlia
 000     ogen   ògena       ogen             # exògena
 000     ogin   ògina       ogin             # misògina
+000     òleg   òloga       òleg             # micòloga
 000     0      s           [aeiou]          # partidaris     <MPL>
 000     ogen   ògens       ogen             # exògens
 000     ogin   ògins       ogin             # misògins
@@ -493,6 +494,7 @@ REGLA K SFX+ Quatre formes amb canvi d'accent (accent greu)
 000     oli    òlies       oli              # caducifòlies
 000     ogen   ògenes      ogen             # exògenes
 000     ogin   ògines      ogin             # misògines
+000     òleg   òlogues     òleg             # micòlogues
 /REGLA
 
 REGLA L SFX+ Quatre formes amb canvi d'accent (accent agut)
