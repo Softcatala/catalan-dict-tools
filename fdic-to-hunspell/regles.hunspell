@@ -484,10 +484,9 @@ REGLA K SFX+ Quatre formes amb canvi d'accent (accent greu), o canvi de vocal
 000     ogin   ògina       ogin             # misògina
 000     òleg   òloga       òleg             # micòloga
 000     eu     ea          eu               # europea
-000     0      s           [aeiou]          # partidaris     <MPL>
+000     0      s           [aeioug]         # partidaris     <MPL>
 000     ogen   ògens       ogen             # exògens
 000     ogin   ògins       ogin             # misògins
-000     0      s           òleg             # micòlogs 
 000     ari    àries       ari              # partidàries    <FPL>
 000     adi    àdies       adi              # accàdies
 000     aci    àcies       aci              # acantàcies
@@ -507,6 +506,7 @@ REGLA L SFX+ Quatre formes amb canvi d'accent (accent agut)
 000     igen   ígena       igen             # fumígena
 000     agen   àgena       agen             # mutàgena
 000     umen   úmena       umen             # energúmena
+000     ici    ícia        ici              # subreptícia
 000     0      s           i                # abissinis     <MPL>
 000     igin   ígins       igin             # perígins
 000     igen   ígens       igen             # fumígens
@@ -518,6 +518,7 @@ REGLA L SFX+ Quatre formes amb canvi d'accent (accent agut)
 000     igen   ígenes      igen             # fumígenes
 000     agen   àgenes      agen             # mutàgenes
 000     umen   úmenes      umen             # energúmenes
+000     ici    ícies       ici              # subreptícies
 /REGLA
 
 // ==========================================================================
