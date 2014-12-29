@@ -76,7 +76,7 @@ SFX 01 r ren/_Z ar
 SFX 01 r ssin/_Z ar
 SFX 01 ar essen/_Z ar
 SFX 01 r ssen/_Z ar
-SFX 01 r 0/_C ar
+SFX 01 r 0/_D ar
 SFX 01 ar e/_D ar
 SFX 01 ar i/_D ar
 SFX 01 ar em/_C ar
@@ -162,7 +162,7 @@ SFX 02 r ren/_Z ar
 SFX 02 r ssin/_Z ar
 SFX 02 ar essen/_Z ar
 SFX 02 r ssen/_Z ar
-SFX 02 r 0/_C ar
+SFX 02 r 0/_D ar
 SFX 02 ar e/_D ar
 SFX 02 ar i/_D ar
 SFX 02 ar em/_C ar
@@ -320,7 +320,7 @@ SFX 04 r ren/_Z ar
 SFX 04 r ssin/_Z ar
 SFX 04 ar essen/_Z ar
 SFX 04 r ssen/_Z ar
-SFX 04 r 0/_C ar
+SFX 04 r 0/_D ar
 SFX 04 ar e/_D ar
 SFX 04 ar i/_D ar
 SFX 04 ar em/_C ar
@@ -406,7 +406,7 @@ SFX 05 r ren/_Z ar
 SFX 05 r ssin/_Z ar
 SFX 05 ar essen/_Z ar
 SFX 05 r ssen/_Z ar
-SFX 05 r 0/_C ar
+SFX 05 r 0/_D ar
 SFX 05 ar e/_D ar
 SFX 05 ar i/_D ar
 SFX 05 ar em/_C ar
@@ -775,7 +775,7 @@ SFX 09 r ren/_Z ar
 SFX 09 r ssin/_Z ar
 SFX 09 ar essen/_Z ar
 SFX 09 r ssen/_Z ar
-SFX 09 r 0/_C ar
+SFX 09 r 0/_D ar
 SFX 09 ar e/_D ar
 SFX 09 ar i/_D ar
 SFX 09 ar em/_C ar
@@ -940,7 +940,7 @@ SFX 0B r ren/_Z ar
 SFX 0B r ssin/_Z ar
 SFX 0B ar essen/_Z ar
 SFX 0B r ssen/_Z ar
-SFX 0B r 0/_C ar
+SFX 0B r 0/_D ar
 SFX 0B ar e/_D ar
 SFX 0B ar i/_D ar
 SFX 0B ar em/_C ar
@@ -1309,7 +1309,7 @@ SFX 0F ir esca/_D ir
 SFX 0F r sca/_D ir
 SFX 0F ir esqui/_D ir
 SFX 0F ir eixi/_D ir
-SFX 0F r 0/_C ir
+SFX 0F r 0/_D ir
 SFX 0F r m/_C ir
 SFX 0F r guem/_C ir
 SFX 0F r u/_C ir
@@ -1396,7 +1396,7 @@ SFX 10 r ren/_Z ar
 SFX 10 r ssin/_Z ar
 SFX 10 uar üessen/_Z ar
 SFX 10 r ssen/_Z ar
-SFX 10 r 0/_C ar
+SFX 10 r 0/_D ar
 SFX 10 uar üe/_D ar
 SFX 10 uar üi/_D ar
 SFX 10 uar üem/_C ar
@@ -1555,7 +1555,7 @@ SFX 12 r ren/_Z ar
 SFX 12 r ssin/_Z ar
 SFX 12 ar essen/_Z ar
 SFX 12 r ssen/_Z ar
-SFX 12 r 0/_C ar
+SFX 12 r 0/_D ar
 SFX 12 ar e/_D ar
 SFX 12 ar i/_D ar
 SFX 12 ar em/_C ar
@@ -1641,7 +1641,7 @@ SFX 13 r ren/_Z ar
 SFX 13 r ssin/_Z ar
 SFX 13 ar essen/_Z ar
 SFX 13 r ssen/_Z ar
-SFX 13 r 0/_C ar
+SFX 13 r 0/_D ar
 SFX 13 ar e/_D ar
 SFX 13 ar i/_D ar
 SFX 13 ar em/_C ar
@@ -2039,7 +2039,7 @@ SFX 17 r ren/_Z ar
 SFX 17 r ssin/_Z ar
 SFX 17 uar üessen/_Z ar
 SFX 17 r ssen/_Z ar
-SFX 17 r 0/_C ar
+SFX 17 r 0/_D ar
 SFX 17 uar üe/_D ar
 SFX 17 ar ï/_D ar
 SFX 17 uar üem/_C ar
@@ -2243,7 +2243,7 @@ SFX 19 r ren/_Z ar
 SFX 19 r ssin/_Z ar
 SFX 19 ar essen/_Z ar
 SFX 19 r ssen/_Z ar
-SFX 19 r 0/_C ar
+SFX 19 r 0/_D ar
 SFX 19 ar e/_D ar
 SFX 19 ar i/_D ar
 SFX 19 ar em/_C ar
@@ -2329,7 +2329,7 @@ SFX 1A r ren/_Z ar
 SFX 1A r ssin/_Z ar
 SFX 1A ar essen/_Z ar
 SFX 1A r ssen/_Z ar
-SFX 1A r 0/_C ar
+SFX 1A r 0/_D ar
 SFX 1A ar e/_D ar
 SFX 1A ar i/_D ar
 SFX 1A ar em/_C ar
@@ -2645,7 +2645,7 @@ SFX 1E r ren/_Z ar
 SFX 1E r ssin/_Z ar
 SFX 1E ar essen/_Z ar
 SFX 1E r ssen/_Z ar
-SFX 1E r 0/_C ar
+SFX 1E r 0/_D ar
 SFX 1E ar e/_D ar
 SFX 1E ar i/_D ar
 SFX 1E ar em/_C ar
@@ -2731,7 +2731,7 @@ SFX 1F r ren/_Z ar
 SFX 1F r ssin/_Z ar
 SFX 1F car quessen/_Z ar
 SFX 1F r ssen/_Z ar
-SFX 1F r 0/_C ar
+SFX 1F r 0/_D ar
 SFX 1F car que/_D ar
 SFX 1F car qui/_D ar
 SFX 1F car quem/_C ar
@@ -3114,7 +3114,7 @@ SFX 24 r ren/_Z ar
 SFX 24 r ssin/_Z ar
 SFX 24 ar essen/_Z ar
 SFX 24 r ssen/_Z ar
-SFX 24 r 0/_C ar
+SFX 24 r 0/_D ar
 SFX 24 ar e/_D ar
 SFX 24 ar i/_D ar
 SFX 24 ar em/_C ar
@@ -3222,7 +3222,7 @@ SFX 25 ir esca/_D ir
 SFX 25 r sca/_D ir
 SFX 25 ir esqui/_D ir
 SFX 25 ir eixi/_D ir
-SFX 25 r 0/_C ir
+SFX 25 r 0/_D ir
 SFX 25 r m/_C ir
 SFX 25 r guem/_C ir
 SFX 25 r u/_C ir
@@ -3411,7 +3411,7 @@ SFX 28 r ren/_Z ar
 SFX 28 r ssin/_Z ar
 SFX 28 ar essen/_Z ar
 SFX 28 r ssen/_Z ar
-SFX 28 r 0/_C ar
+SFX 28 r 0/_D ar
 SFX 28 ar e/_D ar
 SFX 28 ar i/_D ar
 SFX 28 ar em/_C ar
@@ -3497,7 +3497,7 @@ SFX 29 r ren/_Z ar
 SFX 29 r ssin/_Z ar
 SFX 29 ar essen/_Z ar
 SFX 29 r ssen/_Z ar
-SFX 29 r 0/_C ar
+SFX 29 r 0/_D ar
 SFX 29 ar e/_D ar
 SFX 29 ar i/_D ar
 SFX 29 ar em/_C ar
@@ -3898,7 +3898,7 @@ SFX 2E r ren/_Z ar
 SFX 2E r ssin/_Z ar
 SFX 2E çar cessen/_Z ar
 SFX 2E r ssen/_Z ar
-SFX 2E r 0/_C ar
+SFX 2E r 0/_D ar
 SFX 2E çar ce/_D ar
 SFX 2E çar ci/_D ar
 SFX 2E çar cem/_C ar
@@ -4416,7 +4416,7 @@ SFX 35 r ren/_Z ar
 SFX 35 r ssin/_Z ar
 SFX 35 ar essen/_Z ar
 SFX 35 r ssen/_Z ar
-SFX 35 r 0/_C ar
+SFX 35 r 0/_D ar
 SFX 35 ar e/_D ar
 SFX 35 ar i/_D ar
 SFX 35 ar em/_C ar
@@ -4568,7 +4568,7 @@ SFX 37 r ren/_Z ir
 SFX 37 r ssen/_Z ir
 SFX 37 gir ig/_C ir
 SFX 37 gir ja/_D ir
-SFX 37 r 0/_C ir
+SFX 37 r 0/_D ir
 SFX 37 r m/_C ir
 SFX 37 r guem/_C ir
 SFX 37 r u/_C ir
@@ -4884,7 +4884,7 @@ SFX 3B r ren/_Z ar
 SFX 3B r ssin/_Z ar
 SFX 3B ar essen/_Z ar
 SFX 3B r ssen/_Z ar
-SFX 3B r 0/_C ar
+SFX 3B r 0/_D ar
 SFX 3B ar e/_D ar
 SFX 3B ar i/_D ar
 SFX 3B ar em/_C ar
@@ -5264,7 +5264,7 @@ SFX 40 r ren/_Z ar
 SFX 40 r ssin/_Z ar
 SFX 40 ar essen/_Z ar
 SFX 40 r ssen/_Z ar
-SFX 40 r 0/_C ar
+SFX 40 r 0/_D ar
 SFX 40 ar e/_D ar
 SFX 40 ar ï/_D ar
 SFX 40 ar em/_C ar
@@ -5341,7 +5341,7 @@ SFX 41 r ren/_Z ir
 SFX 41 r ssen/_Z ir
 SFX 41 ir 0/_C ir
 SFX 41 ir a/_D ir
-SFX 41 r 0/_C ir
+SFX 41 r 0/_D ir
 SFX 41 r m/_C ir
 SFX 41 r guem/_C ir
 SFX 41 r u/_C ir
@@ -5411,7 +5411,7 @@ SFX 42 r ren/_Z ar
 SFX 42 r ssin/_Z ar
 SFX 42 ar essen/_Z ar
 SFX 42 r ssen/_Z ar
-SFX 42 r 0/_C ar
+SFX 42 r 0/_D ar
 SFX 42 ar em/_C ar
 SFX 42 r u/_C ar
 SFX 42 ar eu/_C ar
@@ -5980,7 +5980,7 @@ SFX 49 r ren/_Z ir
 SFX 49 r ssen/_Z ir
 SFX 49 ir 0/_C ir
 SFX 49 ir a/_D ir
-SFX 49 r 0/_C ir
+SFX 49 r 0/_D ir
 SFX 49 r m/_C ir
 SFX 49 r guem/_C ir
 SFX 49 r u/_C ir
@@ -6230,7 +6230,7 @@ SFX 4C r ren/_Z ar
 SFX 4C r ssin/_Z ar
 SFX 4C jar gessen/_Z ar
 SFX 4C r ssen/_Z ar
-SFX 4C r 0/_C ar
+SFX 4C r 0/_D ar
 SFX 4C jar ge/_D ar
 SFX 4C jar gi/_D ar
 SFX 4C jar gem/_C ar
@@ -6490,7 +6490,7 @@ SFX 4F r ren/_Z ar
 SFX 4F r ssin/_Z ar
 SFX 4F ar essen/_Z ar
 SFX 4F r ssen/_Z ar
-SFX 4F r 0/_C ar
+SFX 4F r 0/_D ar
 SFX 4F ar e/_D ar
 SFX 4F ar i/_D ar
 SFX 4F ar em/_C ar
@@ -6782,7 +6782,7 @@ SFX 52 r ren/_Z ar
 SFX 52 r ssin/_Z ar
 SFX 52 jar gessen/_Z ar
 SFX 52 r ssen/_Z ar
-SFX 52 r 0/_C ar
+SFX 52 r 0/_D ar
 SFX 52 jar ge/_D ar
 SFX 52 jar gi/_D ar
 SFX 52 jar gem/_C ar
@@ -7050,7 +7050,7 @@ SFX 55 r ren/_Z ar
 SFX 55 r ssin/_Z ar
 SFX 55 ar essen/_Z ar
 SFX 55 r ssen/_Z ar
-SFX 55 r 0/_C ar
+SFX 55 r 0/_D ar
 SFX 55 ar e/_D ar
 SFX 55 iar ï/_D ar
 SFX 55 ar em/_C ar
@@ -7564,7 +7564,7 @@ SFX 5B ir 0/_C ir
 SFX 5B ir esca/_D ir
 SFX 5B r sca/_D ir
 SFX 5B ir esqui/_D ir
-SFX 5B r 0/_C ir
+SFX 5B r 0/_D ir
 SFX 5B ir eixi/_D ir
 SFX 5B r m/_C ir
 SFX 5B r guem/_C ir
@@ -8184,7 +8184,7 @@ SFX 63 r ren/_Z ar
 SFX 63 r ssin/_Z ar
 SFX 63 ar essen/_Z ar
 SFX 63 r ssen/_Z ar
-SFX 63 r 0/_C ar
+SFX 63 r 0/_D ar
 SFX 63 ar e/_D ar
 SFX 63 ar ï/_D ar
 SFX 63 ar em/_C ar
@@ -8387,7 +8387,7 @@ SFX 65 r ren/_Z ar
 SFX 65 r ssin/_Z ar
 SFX 65 ar essen/_Z ar
 SFX 65 r ssen/_Z ar
-SFX 65 r 0/_C ar
+SFX 65 r 0/_D ar
 SFX 65 ar e/_D ar
 SFX 65 ar i/_D ar
 SFX 65 ar em/_C ar
@@ -8473,7 +8473,7 @@ SFX 66 r ren/_Z ar
 SFX 66 r ssin/_Z ar
 SFX 66 jar gessen/_Z ar
 SFX 66 r ssen/_Z ar
-SFX 66 r 0/_C ar
+SFX 66 r 0/_D ar
 SFX 66 jar ge/_D ar
 SFX 66 jar gi/_D ar
 SFX 66 jar gem/_C ar
@@ -8581,7 +8581,7 @@ SFX 67 ir esca/_D ir
 SFX 67 r sca/_D ir
 SFX 67 ir esqui/_D ir
 SFX 67 ir eixi/_D ir
-SFX 67 r 0/_C ir
+SFX 67 r 0/_D ir
 SFX 67 r m/_C ir
 SFX 67 r guem/_C ir
 SFX 67 r u/_C ir
@@ -8801,7 +8801,7 @@ SFX 6A r ren/_Z ir
 SFX 6A r ssen/_Z ir
 SFX 6A ir 0/_C ir
 SFX 6A orir uira/_D ir
-SFX 6A r 0/_C ir
+SFX 6A r 0/_D ir
 SFX 6A r m/_C ir
 SFX 6A r u/_C ir
 SFX 6A orir uiren/_C ir
@@ -9062,7 +9062,7 @@ SFX 6D r ren/_Z ar
 SFX 6D r ssin/_Z ar
 SFX 6D ar essen/_Z ar
 SFX 6D r ssen/_Z ar
-SFX 6D r 0/_C ar
+SFX 6D r 0/_D ar
 SFX 6D ar e/_D ar
 SFX 6D ar i/_D ar
 SFX 6D ar em/_C ar
@@ -9141,10 +9141,10 @@ SFX 6E ir ísseu/_Z ir
 SFX 6E r ssin/_Z ir
 SFX 6E r ren/_Z ir
 SFX 6E r ssen/_Z ir
-SFX 6E r 0/_C ir
+SFX 6E r 0/_D ir
 SFX 6E ir e/_D ir
 SFX 6E obrir òbriga/_D ir
-SFX 6E r 0/_C ir
+SFX 6E r 0/_D ir
 SFX 6E r m/_C ir
 SFX 6E r guem/_C ir
 SFX 6E r u/_C ir
@@ -9398,7 +9398,7 @@ SFX 71 r ren/_Z ar
 SFX 71 r ssin/_Z ar
 SFX 71 ar essen/_Z ar
 SFX 71 r ssen/_Z ar
-SFX 71 r 0/_C ar
+SFX 71 r 0/_D ar
 SFX 71 ar e/_D ar
 SFX 71 ar i/_D ar
 SFX 71 ar em/_C ar
@@ -9575,10 +9575,10 @@ SFX 73 ir ísseu/_Z ir
 SFX 73 r ssin/_Z ir
 SFX 73 r ren/_Z ir
 SFX 73 r ssen/_Z ir
-SFX 73 r 0/_C ir
+SFX 73 r 0/_D ir
 SFX 73 ir e/_D ir
 SFX 73 omplir òmpliga/_D ir
-SFX 73 r 0/_C ir
+SFX 73 r 0/_D ir
 SFX 73 r m/_C ir
 SFX 73 r guem/_C ir
 SFX 73 r u/_C ir
@@ -9662,7 +9662,7 @@ SFX 74 r ren/_Z ar
 SFX 74 r ssin/_Z ar
 SFX 74 ar essen/_Z ar
 SFX 74 r ssen/_Z ar
-SFX 74 r 0/_C ar
+SFX 74 r 0/_D ar
 SFX 74 ar e/_D ar
 SFX 74 ar i/_D ar
 SFX 74 ar em/_C ar
@@ -9866,7 +9866,7 @@ SFX 76 r x/_C ir
 SFX 76 ir esca/_D ir
 SFX 76 r sca/_D ir
 SFX 76 ir esqui/_D ir
-SFX 76 r 0/_C ir
+SFX 76 r 0/_D ir
 SFX 76 ir eixi/_D ir
 SFX 76 r m/_C ir
 SFX 76 r guem/_C ir
@@ -10137,7 +10137,7 @@ SFX 79 r ren/_Z ar
 SFX 79 r ssin/_Z ar
 SFX 79 ar uessen/_Z ar
 SFX 79 r ssen/_Z ar
-SFX 79 r 0/_C ar
+SFX 79 r 0/_D ar
 SFX 79 ar ue/_D ar
 SFX 79 ar ui/_D ar
 SFX 79 ar uem/_C ar
@@ -10401,7 +10401,7 @@ SFX 7C r ren/_Z ir
 SFX 7C r ssen/_Z ir
 SFX 7C dir t/_C ir
 SFX 7C ir a/_D ir
-SFX 7C r 0/_C ir
+SFX 7C r 0/_D ir
 SFX 7C r m/_C ir
 SFX 7C r u/_C ir
 SFX 7C ir en/_C ir
@@ -12379,7 +12379,7 @@ SFX 93 r ren/_Z ar
 SFX 93 r ssin/_Z ar
 SFX 93 car quessen/_Z ar
 SFX 93 r ssen/_Z ar
-SFX 93 r 0/_C ar
+SFX 93 r 0/_D ar
 SFX 93 car que/_D ar
 SFX 93 car qui/_D ar
 SFX 93 car quem/_C ar
@@ -12465,7 +12465,7 @@ SFX 94 r ren/_Z ar
 SFX 94 r ssin/_Z ar
 SFX 94 ar essen/_Z ar
 SFX 94 r ssen/_Z ar
-SFX 94 r 0/_C ar
+SFX 94 r 0/_D ar
 SFX 94 ar e/_D ar
 SFX 94 ar i/_D ar
 SFX 94 ar em/_C ar

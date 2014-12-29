@@ -35,8 +35,18 @@ foreach my $file (@files) {
 	    my $condiciofinal = $3;
 	    my $postag = $4;
 	    my $afixos="";
+	    my $forma=$infinitiu;
+	    if ($forma =~ /^(.*)$trau$/) {
+		$forma = $1;
+	    }
+	    else {
+		print $ofh "!!!!ERROR en $forma\n";
+	    }
+	    if ($afegeix !~ /^0$/) {
+		$forma .= $afegeix;
+	    }
 	    if ($postag =~ /^V.N.*$/) {
-		if ($afegeix =~ /[^e]$/) {
+		if ($forma =~ /[^e]$/) {
 		    $afixos="_C_Y_V"; #infinitiu acabat en consonant
 		} else {
 		    $afixos="_D_Y_V"; #infinitiu acabat en vocal
@@ -50,7 +60,7 @@ foreach my $file (@files) {
 	    } elsif ($postag =~ /^V.P..P..$/) {
 		$afixos="_Y"; #participi P
 	    } elsif ($postag =~ /^V.M.*$/) {
-		if ($afegeix =~ /[aeiï]$/) {
+		if ($forma =~ /[aeiï]$/) {
 		    $afixos="_D"; #imperatiu acabat en vocal: a, e, i, ï 
 		} else {
 		    $afixos="_C"; #imperatiu acabat en consonat o u
