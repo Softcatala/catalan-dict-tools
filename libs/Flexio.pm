@@ -159,7 +159,7 @@ sub desplega_femeni_amb_guionet {
 # Retorna 1 si un mot masculí s'ha d'apostrofar
 sub apostrofa_masculi {
     my $mot = $_[0];
-    if ($mot =~ /^h?[aeiouàèéíòóú]/ && $mot !~ /^(h?[ui][aeioàèéóòu].+|[aeio]|host|$hacaspirada)$/) {
+    if ($mot =~ /^h?[aeiouàèéíòóú]/i && $mot !~ /^(h?[ui][aeioàèéóòu].+|[aeio]|host|$hacaspirada)$/i) {
 	return 1;
     }
     return 0;
@@ -170,8 +170,8 @@ sub apostrofa_masculi {
 # Retorna 1 si un mot femení s'ha d'apostrofar amb "l'"
 sub apostrofa_femeni {
     my $mot = $_[0];
-    if ($mot =~ /^(h?[aeoàèéíòóú].*|h?[ui][^aeiouàèéíòóúüï]+([aeiou]s?|[ei]n)|urbs|URSS|UJI|11a)$/ 
-	&& $mot !~ /^(ouija|host|ira|inxa|[aeiou]|efa|hac|ela|ema|en|ena|ene|er|erra|erre|essa|una|$hacaspirada)$/) {
+    if ($mot =~ /^(h?[aeoàèéíòóú].*|h?[ui][^aeiouàèéíòóúüï]+([aeiou]s?|[ei]n)|urbs|URSS|UJI|11a)$/i 
+	&& $mot !~ /^(ouija|host|ira|inxa|[aeiou]|efa|hac|ela|ema|en|ena|ene|er|erra|erre|essa|una|$hacaspirada)$/i) {
 	return 1;
     }
     return 0;
