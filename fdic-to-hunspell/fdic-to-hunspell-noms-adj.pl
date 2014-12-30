@@ -175,7 +175,11 @@ while ( my $line = <$fh> ) {
 	my $trobat=0;
 	foreach my $lletraregla (@lletresregla) {
 	    if (&genera_formes_regla_hunspell($mot_masc, $lletraregla) =~ /^$resultat$/) {
-		print $ofh "$mot_masc/_$lletraregla\n";
+		my $apostrofacions="";
+		if ($mot_masc =~ /^h?[aeiou]/ && $mot_masc !~ /^h?iu[aeo]/) {
+		    $apostrofacions="_V_Y";
+		}
+		print $ofh "$mot_masc/_$lletraregla$apostrofacions\n";
 		$trobat=1;
 		last;
 	    }
@@ -426,11 +430,16 @@ while ( my $line = <$fh> ) {
 	    my $trobat=0;
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
-		    print $ofh "$singular/_$lletraregla\n";
+		    my $apostrofacions="";
+		    if ($singular =~ /^h?[aeiou]/ && $singular !~ /^h?iu[aeo]/) {
+			$apostrofacions="_V_Y";
+		    }
+		    print $ofh "$singular/_$lletraregla$apostrofacions\n";
 		    $trobat=1;
 		    last;
 		}
 	    }
+
 	    if (!$trobat) {
 		print $ofh "NO TROBAT: $resultat\n";
 	    }
