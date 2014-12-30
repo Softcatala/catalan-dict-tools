@@ -454,7 +454,18 @@ while ( my $line = <$fh> ) {
 		print $ofh "NO TROBAT: $resultat\n";
 	    }
 	} else {
-	    print $ofh "$singular\n";
+	    my $apostrofacions="/";
+	    if ($categoria =~ /F/ && $categoria !~ /[MP]/) {
+		if (Flexio::apostrofa_femeni($singular)) {
+		    $apostrofacions.="_V";
+		}
+		if (Flexio::apostrofa_masculi($singular)) {
+		    $apostrofacions.="_Y";
+		}
+	    } elsif (Flexio::apostrofa_masculi($singular) && $categoria !~ /P/) {
+		$apostrofacions="_V_Y";
+	    }
+	    print $ofh "$singular"."$apostrofacions\n";
 	}
     }
     else 
