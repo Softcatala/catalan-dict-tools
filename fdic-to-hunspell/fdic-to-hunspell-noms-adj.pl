@@ -32,7 +32,7 @@ my $spfx;
 my $regla ="";
 while (my $line = <$fh>) {
     chomp($line);
-    if ($line =~ /^REGLA (.) ([SP]FX)/) {
+    if ($line =~ /^REGLA ([EIGFBHJKL]) ([SP]FX)/) {
 	$regla = $1;
 	$spfx =$2;
 	$inregla = 1;
