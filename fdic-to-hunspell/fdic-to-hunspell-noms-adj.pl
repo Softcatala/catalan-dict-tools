@@ -385,14 +385,14 @@ while ( my $line = <$fh> ) {
 	    $resultat.= $singular;		 
 	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
 	    #print $ofh "$plural $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";		
+	    if ($singular2 =~ /.+/) {
+		#print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
+		$resultat.= " ".$singular2;
+	    }	    
 	    $resultat.= " ".$plural;
 	    if ($plural2 =~ /.+/) {
 		#print $ofh "$plural2 $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";
 		$resultat.= " ".$plural2;
-	    }
-	    if ($singular2 =~ /.+/) {
-		#print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
-		$resultat.= " ".$singular2;
 	    }
 	}
 	elsif ( $categoria =~ /FI/ ) {

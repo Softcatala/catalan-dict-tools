@@ -484,6 +484,7 @@ REGLA K SFX+ Quatre formes amb canvi d'accent (accent greu), o canvi de vocal
 000     ogin   ògina       ogin             # misògina
 000     òleg   òloga       òleg             # micòloga
 000     eu     ea          eu               # europea
+000     ani    ània        ani              # mediterrània
 000     0      s           [aeioug]         # partidaris     <MPL>
 000     ogen   ògens       ogen             # exògens
 000     ogin   ògins       ogin             # misògins
@@ -497,6 +498,7 @@ REGLA K SFX+ Quatre formes amb canvi d'accent (accent greu), o canvi de vocal
 000     ogin   ògines      ogin             # misògines
 000     òleg   òlogues     òleg             # micòlogues
 000     eu     ees         eu               # europees
+000     ani    ànies       ani              # mediterrànies
 /REGLA
 
 REGLA L SFX+ Quatre formes amb canvi d'accent (accent agut)
