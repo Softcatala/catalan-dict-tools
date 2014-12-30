@@ -434,7 +434,14 @@ while ( my $line = <$fh> ) {
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
 		    my $apostrofacions="";
-		    if (Flexio::apostrofa_masculi($singular)) {
+		    if ($categoria =~ /F/ && $categoria !~ /M/) {
+			if (Flexio::apostrofa_femeni($singular)) {
+			    $apostrofacions.="_V";
+			}
+			if (Flexio::apostrofa_masculi($singular)) {
+			    $apostrofacions.="_Y";
+			}
+		    } elsif (Flexio::apostrofa_masculi($singular)) {
 			$apostrofacions="_V_Y";
 		    }
 		    print $ofh "$singular/_$lletraregla$apostrofacions\n";
