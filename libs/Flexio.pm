@@ -2,7 +2,7 @@ package Flexio;
 use utf8;
 use Text::Unaccent::PurePerl qw(unac_string);
 
-
+my $hacaspirada = "Haarlem|Harlem|Haifa|haikus?|haima|haimes|halar|hall.*|Halloweens?|Hamada|Hamas|Hamàs|hamilton.*|Hamlet.*|Hammond|Hampton|handicaps?|Hannover|Hanoi|Hans|Hansa|hardware|harolds?|Harrison|harrods?|harry|Hartmann?|Haruki|Harvard|Harz|Havilland|hawai.*|hawk.*|Haydn|Hayworth|Heard|hearst|Heathrow|heav.*|hegel.*|Heidelberg|Heide[gn].*|Heilig.*|hein.*|Heisen.*|Heitz|Helen|Heming.*|henna|hennes|Henry|Hepburn|herbert.*|Herder|Hereford|Hesse|Hessen|Hezboll.+|high.*|hilbert.*|Hilda|hinden.*|hinterlands?|Hitch.*|hitler.*|hobby|hobbies|Hohen.*|holdings?|hollywood.*|Holmes.*|Holstein|Hong|hongk.+|Honolu.+|Honsh[uū]|h[òo]bbits?|hoover.*|hopkins|Hork.*|horst|H[ou]f.*|Houston|Howard|Hubble|humbold.*|Hume|hunting.*|husseinit.+|Higgs|high|Hill|Himmler|hip-hop|hippies|hippy|Hirado|His|Hubei|Hudson|Hunter|Husserl|Utah";
 
 # Genera el plural a partir del singular.
 # En alguns casos cal saber el gènere.
@@ -159,7 +159,7 @@ sub desplega_femeni_amb_guionet {
 # Retorna 1 si un mot masculí s'ha d'apostrofar
 sub apostrofa_masculi {
     my $mot = $_[0];
-    if ($mot =~ /^h?[aeiouàèéíòóú]/ && $mot !~ /^(h?[ui][aeioàèéóòu].+|[aeio]|host)$/) {
+    if ($mot =~ /^h?[aeiouàèéíòóú]/ && $mot !~ /^(h?[ui][aeioàèéóòu].+|[aeio]|host|$hacaspirada)$/) {
 	return 1;
     }
     return 0;
@@ -170,7 +170,8 @@ sub apostrofa_masculi {
 # Retorna 1 si un mot femení s'ha d'apostrofar amb "l'"
 sub apostrofa_femeni {
     my $mot = $_[0];
-    if ($mot =~ /^(h?[aeoàèéíòóú].*|h?[ui][^aeiouàèéíòóúüï]+([aeiou]s?|[ei]n)|urbs|URSS|UJI|11a)$/ && $mot !~ /^(ouija|host|ira|inxa|[aeiou]|efa|hac|ela|ema|en|ena|ene|er|erra|erre|essa|una)$/) {
+    if ($mot =~ /^(h?[aeoàèéíòóú].*|h?[ui][^aeiouàèéíòóúüï]+([aeiou]s?|[ei]n)|urbs|URSS|UJI|11a)$/ 
+	&& $mot !~ /^(ouija|host|ira|inxa|[aeiou]|efa|hac|ela|ema|en|ena|ene|er|erra|erre|essa|una|$hacaspirada)$/) {
 	return 1;
     }
     return 0;
