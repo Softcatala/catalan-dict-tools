@@ -176,7 +176,7 @@ while ( my $line = <$fh> ) {
 	foreach my $lletraregla (@lletresregla) {
 	    if (&genera_formes_regla_hunspell($mot_masc, $lletraregla) =~ /^$resultat$/) {
 		my $apostrofacions="";
-		if (&apostrofa_masculi($mot_masc)) {
+		if (Flexio::apostrofa_masculi($mot_masc)) {
 		    $apostrofacions="_V_Y";
 		}
 		print $ofh "$mot_masc/_$lletraregla$apostrofacions\n";
@@ -431,7 +431,7 @@ while ( my $line = <$fh> ) {
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
 		    my $apostrofacions="";
-		    if (&apostrofa_masculi($singular)) {
+		    if (Flexio::apostrofa_masculi($singular)) {
 			$apostrofacions="_V_Y";
 		    }
 		    print $ofh "$singular/_$lletraregla$apostrofacions\n";
