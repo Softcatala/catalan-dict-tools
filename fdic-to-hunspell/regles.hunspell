@@ -277,6 +277,7 @@ REGLA D SFX+ Pronoms personals enclítics darrere vocal
 // ==========================================================================
 
 REGLA E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ i [aeou]ig
+201     èn     én/VY       èn               # aerotrén (AVL)
 000     0      s           [^ans]           # homes  <PLU>
 000     0      s           [^íéè]n			    # cànon
 000     ín     ins         ín               # isospín
@@ -297,6 +298,7 @@ REGLA E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ i
 
 // NOTA: totes les paraules que segueixen la regla I són masculines
 REGLA I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
+201     ès     és/VY       ès               # benentés (AVL)
 000     0      os          [^s]             # guixos  <PLU>
 000     0      os          [^àèéíòóú]s      # gasos, cursos
 000     às     asos        às               # biogasos
@@ -313,7 +315,7 @@ REGLA I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
 /REGLA
 
 REGLA G SFX+ Plurals afegint ns
-201     è      é           è                # benzé (AVL)
+201     è      é/VY        è                # benzé (AVL)
 000     0      ns          a                # pans  <PLU>
 000     0      ns          e                # blens
 000     0      ns          i                # brins
@@ -357,6 +359,7 @@ REGLA F SFX+ Quatre formes afegint a/s/es (sense o, però també foscos)
 /REGLA
 
 REGLA B SFX+ Quatre formes amb canvi t > d, u > v, c > g, s > ss
+201     ès     és/VY       ès               # espés (AVL), admet article i de apostrofats
 000     t      da          t                # abalida - canvi t > d   <FEM>
 000     u      va          u                # nova    - canvi u > v
 000     c      ga          c                # antiga  - canvi c > g
@@ -405,7 +408,7 @@ REGLA B SFX+ Quatre formes amb canvi t > d, u > v, c > g, s > ss
 /REGLA
 
 REGLA H SFX+ Quatre formes afegint ns
-201     è      é           è                # cinquanta-uné (AVL)
+201     è      é/VY        è                # cinquanta-uné (AVL)
 000     0      na          [aeiou]          # plana, plena, fina, bona, bruna   <FEM>
 000     à      ana         à                # forana
 000     è      ena         è                # amena
