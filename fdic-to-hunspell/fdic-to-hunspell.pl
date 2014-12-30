@@ -4,6 +4,7 @@ use warnings;
 use autodie;
 use utf8;
 use Encode qw(decode);
+require "../libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
@@ -55,7 +56,7 @@ while (my $line = <$fh>) {
 		    if ($afegeix !~ /^0$/) {
 			$forma .= $afegeix;
 		    }
-		    if ($postag =~ /^V.P..SF.$/) {
+		    if ($postag =~ /^V.P..SF.$/ && Flexio::apostrofa_femeni($forma)) {
 			print $ofh "$forma/_V\n"
 		    }
 		}

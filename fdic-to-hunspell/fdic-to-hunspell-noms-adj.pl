@@ -187,6 +187,9 @@ while ( my $line = <$fh> ) {
 	if (!$trobat) {
 	    print $ofh "NO TROBAT: $resultat\n";
 	}
+	if (Flexio::apostrofa_femeni($mot_fem)) {
+	    print $ofh "$mot_fem/_V\n";
+	}
 
     }
     

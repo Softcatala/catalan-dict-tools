@@ -166,4 +166,15 @@ sub apostrofa_masculi {
 }
 
 
+
+# Retorna 1 si un mot femení s'ha d'apostrofar amb "l'"
+sub apostrofa_femeni {
+    my $mot = $_[0];
+    if ($mot =~ /^(h?[aeoàèéíòóú].*|h?[ui][^aeiouàèéíòóúüï]+([aeiou]s?|[ei]n)|urbs|URSS|UJI|11a)$/ && $mot !~ /^(ouija|host|ira|inxa|[aeiou]|efa|hac|ela|ema|en|ena|ene|er|erra|erre|essa|una)$/) {
+	return 1;
+    }
+    return 0;
+}
+
+
 1;
