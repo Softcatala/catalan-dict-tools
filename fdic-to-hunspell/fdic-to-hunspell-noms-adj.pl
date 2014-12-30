@@ -176,7 +176,7 @@ while ( my $line = <$fh> ) {
 	foreach my $lletraregla (@lletresregla) {
 	    if (&genera_formes_regla_hunspell($mot_masc, $lletraregla) =~ /^$resultat$/) {
 		my $apostrofacions="";
-		if ($mot_masc =~ /^h?[aeiou]/ && $mot_masc !~ /^h?iu[aeo]/) {
+		if (&apostrofa_masculi($mot_masc)) {
 		    $apostrofacions="_V_Y";
 		}
 		print $ofh "$mot_masc/_$lletraregla$apostrofacions\n";
@@ -431,7 +431,7 @@ while ( my $line = <$fh> ) {
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
 		    my $apostrofacions="";
-		    if ($singular =~ /^h?[aeiou]/ && $singular !~ /^h?iu[aeo]/) {
+		    if (&apostrofa_masculi($singular)) {
 			$apostrofacions="_V_Y";
 		    }
 		    print $ofh "$singular/_$lletraregla$apostrofacions\n";
@@ -485,3 +485,4 @@ sub genera_formes_regla_hunspell {
     }
     return $formesresultants;
 }
+

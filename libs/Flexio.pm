@@ -156,5 +156,14 @@ sub desplega_femeni_amb_guionet {
     return ($mot_fem, $trobat);
 }
 
+# Retorna 1 si un mot masculí s'ha d'apostrofar
+sub apostrofa_masculi {
+    my $mot = $_[0];
+    if ($mot =~ /^h?[aeiouàèéíòóú]/ && $mot !~ /^(h?[ui][aeioàèéóòu].+|[aeio]|host)$/) {
+	return 1;
+    }
+    return 0;
+}
+
 
 1;
