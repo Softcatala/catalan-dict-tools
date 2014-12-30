@@ -191,7 +191,7 @@ while ( my $line = <$fh> ) {
     #
 
     elsif ( $line =~ /^([^#].*)=categories: (.+?);/ ) {
-=pod
+
 	$categoria = $2;
 	my $entrada = $1;
 	my $singular = "";
@@ -282,112 +282,161 @@ while ( my $line = <$fh> ) {
 
 	#noms
     	if ( $categoria =~ /I$/ ) {
-	    if ($categoria =~ /MF/) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
-		}
+	    $resultat.= $singular;
+	    if ($singular2 =~ /.+/) {
+		$resultat.= " ".$singular2;
 	    }
+=pod
+		if ($categoria =~ /MF/) {
+	    print $ofh "$singular $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
+	    if ($singular2 =~ /.+/) {
+	    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
+	    }
+	}
 	    elsif ($categoria =~ /F/) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."FN"."$tagafter\n";
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."FN"."$tagafter\n";
-		}
-	    } elsif ($categoria =~ /M/) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
-		}
-	    } else {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
-		}
+	    print $ofh "$singular $singular$numAccepcio $tagbefore"."FN"."$tagafter\n";
+	    if ($singular2 =~ /.+/) {
+	    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."FN"."$tagafter\n";
 	    }
+    } elsif ($categoria =~ /M/) {
+	    print $ofh "$singular $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
+	    if ($singular2 =~ /.+/) {
+	    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
+    }
+} else {
+	    print $ofh "$singular $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
+	    if ($singular2 =~ /.+/) {
+	    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
+	    }
+	    }
+=cut
 	}
     	elsif ( $categoria =~ /^(MF|A|AA|AO)$/ ) {
        	    if ( $singular =~ $plural ) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
+		$resultat.= $singular;
+		#print $ofh "$singular $singular$numAccepcio $tagbefore"."CN"."$tagafter\n";
 	    }
 	    else {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."CS"."$tagafter\n";
+		$resultat.= $singular;
+		#print $ofh "$singular $singular$numAccepcio $tagbefore"."CS"."$tagafter\n";
 		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."CS"."$tagafter\n";
+		    #print $ofh "$singular2 $singular$numAccepcio $tagbefore"."CS"."$tagafter\n";
+		    $resultat.= " ".$singular2;
 		}
 		if ($femeniplural =~ /^$/) {
 		    $femeniplural = Flexio::plural($singular, "F");
 		}
 		if ($plural =~ /$femeniplural/) {
-		    print $ofh "$plural $singular$numAccepcio $tagbefore"."CP"."$tagafter\n";
+		    #print $ofh "$plural $singular$numAccepcio $tagbefore"."CP"."$tagafter\n";
+		    $resultat.= " ".$plural;
 		    if ($plural2 =~ /.+/) {
-			print $ofh "$plural2 $singular$numAccepcio $tagbefore"."CP"."$tagafter\n";
+			$resultat.= " ".$plural2;
+			#print $ofh "$plural2 $singular$numAccepcio $tagbefore"."CP"."$tagafter\n";
 		    }
 		} else {
-		    print $ofh "$plural $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";
-		    print $ofh "$femeniplural $singular$numAccepcio $tagbefore"."FP"."$tagafter\n"; #sequaces
+		    #print $ofh "$plural $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";
+		    #print $ofh "$femeniplural $singular$numAccepcio $tagbefore"."FP"."$tagafter\n"; #sequaces
+		    $resultat.= " ".$plural;
+		    $resultat.= " ".$femeniplural;
 		}
 		# forma femenina extra
 		if ($femenisingular2 =~ /.+/) {
-		    print $ofh "$femenisingular2 $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
+		    #print $ofh "$femenisingular2 $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
+		    $resultat.= " ".$femenisingular2;
 		    my $femeniplural2=Flexio::plural($femenisingular2,"F");
-		    print $ofh "$femeniplural2 $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
+		    $resultat.= " ".$femeniplural2;
+		    #print $ofh "$femeniplural2 $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
 		}
 	    }
 	} 
     	elsif ( $categoria =~ /MS/ ) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
-		}
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
+	    $resultat.= $singular;
+	    if ($singular2 =~ /.+/) {
+		#print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
+		$resultat.= " ".$singular2;
+	    }
 	}
     	elsif ( $categoria =~ /MP/ ) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";
-		if ($plural2 =~ /.+/) {
-		    print $ofh "$plural2 $singular$numAccepcio $tagbefore"."MP"."$tagafter\n"; ## ???
-		}
+	    $resultat.= $singular;
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";
+	    if ($plural2 =~ /.+/) {
+		$resultat.= " ".$plural2;
+		#print $ofh "$plural2 $singular$numAccepcio $tagbefore"."MP"."$tagafter\n"; ## ???
+	    }
 	}
     	elsif ( $categoria =~ /FS/ ) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
+	    $resultat.= $singular;
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
 	}
     	elsif ( $categoria =~ /FP/ ) {
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
+	    $resultat.= $singular;
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
 	}
-	elsif ( $categoria =~ /MI/ ) {		
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
-		}
+	elsif ( $categoria =~ /MI/ ) {
+	    $resultat.= $singular;
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
+	    if ($singular2 =~ /.+/) {
+		$resultat.= " ".$singular2;
+		#print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MN"."$tagafter\n";
+	    }
 	}
-	elsif ( $categoria =~ /M/ ) {		 
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
-		print $ofh "$plural $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";		
-		if ($plural2 =~ /.+/) {
-		    print $ofh "$plural2 $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";
-		}
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
-		}
+	elsif ( $categoria =~ /M/ ) {
+	    $resultat.= $singular;		 
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
+	    #print $ofh "$plural $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";		
+	    $resultat.= " ".$plural;
+	    if ($plural2 =~ /.+/) {
+		#print $ofh "$plural2 $singular$numAccepcio $tagbefore"."MP"."$tagafter\n";
+		$resultat.= " ".$plural2;
+	    }
+	    if ($singular2 =~ /.+/) {
+		#print $ofh "$singular2 $singular$numAccepcio $tagbefore"."MS"."$tagafter\n";
+		$resultat.= " ".$singular2;
+	    }
 	}
-	elsif ( $categoria =~ /FI/ ) {		
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."FN"."$tagafter\n";
+	elsif ( $categoria =~ /FI/ ) {
+	    $resultat.= $singular;		
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."FN"."$tagafter\n";
 	}
-	elsif ( $categoria =~ /F/ ) {		 
-		print $ofh "$singular $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
-		if ($singular2 =~ /.+/) {
-		    print $ofh "$singular2 $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
-		}
+	elsif ( $categoria =~ /F/ ) {
+	    $resultat.= $singular;		 
+	    #print $ofh "$singular $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
+	    if ($singular2 =~ /.+/) {
+		#print $ofh "$singular2 $singular$numAccepcio $tagbefore"."FS"."$tagafter\n";
+		$resultat.= " ".$singular2;
+	    }
 #		if ($femeniplural !~ /.+/) {
 #		    $femeniplural = Flexio::plural($singular, "F"); #Atenció: forests (no forestos)
 #		}
-		print $ofh "$plural $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
-		if ($plural2 =~ /.+/) {
-		    print $ofh "$plural2 $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
-		} elsif ($singular2 =~ /.+/) {
-		    my $femeniplural2=Flexio::plural($singular2, "F", "F");
-		    print $ofh "$singular2 $femeniplural2$numAccepcio $tagbefore"."FP"."$tagafter\n"; #???
-		}		
-	} 
-=cut
+	    #print $ofh "$plural $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
+	    $resultat.= " ".$plural;
+	    if ($plural2 =~ /.+/) {
+		#print $ofh "$plural2 $singular$numAccepcio $tagbefore"."FP"."$tagafter\n";
+		$resultat.= " ".$plural2;
+	    } elsif ($singular2 =~ /.+/) {
+		my $femeniplural2=Flexio::plural($singular2, "F", "F");
+		#print $ofh "$femeniplural2 $singular2$numAccepcio $tagbefore"."FP"."$tagafter\n"; #???
+		$resultat .= " ".$femeniplural2;
+	    }		
+	}
+
+	if ($resultat =~ / /) {
+	    my @lletresregla = ("E","I","G");
+	    my $trobat=0;
+	    foreach my $lletraregla (@lletresregla) {
+		if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
+		    print $ofh "$singular/_$lletraregla\n";
+		    $trobat=1;
+		    last;
+		}
+	    }
+	    if (!$trobat) {
+		print $ofh "NO TROBAT: $resultat\n";
+	    }
+	} else {
+	    print $ofh "$singular\n";
+	}
     }
     else 
     {
