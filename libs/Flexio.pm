@@ -162,6 +162,9 @@ sub apostrofa_masculi {
     if ($mot =~ /^h?[aeiouàèéíòóú]/i && $mot !~ /^(h?[ui][aeioàèéóòu].+|[aeio]|host|$hacaspirada)$/i) {
 	return 1;
     }
+    if ($mot =~ /^(ió|ions|ionitza.+|h?uix.+|Iowa|Uialfàs)/) {
+	return 1;
+    }
     return 0;
 }
 
