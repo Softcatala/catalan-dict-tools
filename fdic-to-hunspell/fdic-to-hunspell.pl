@@ -37,7 +37,11 @@ while (my $line = <$fh>) {
 	my $model = $4;
 
 	#infinitiu amb el seu model
-	print $ofh "$infinitiu/$sufixos{$model}\n";
+	my $apostrofainfinitiu = "";
+	if ( Flexio::apostrofa_masculi($infinitiu) ) {
+	    $apostrofainfinitiu = "_V";
+	}
+	print $ofh "$infinitiu/$sufixos{$model}$apostrofainfinitiu\n";
 	# participi femení singular amb l'
 	if ($infinitiu =~ /^h?[aeo]/) {
 	    open( my $modelfh,  "<:encoding(UTF-8)", $modelsdir.$model.".model" );

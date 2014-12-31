@@ -1,6 +1,6 @@
 # Model de conjugació: aïnar
 SFX 01 Y 84
-SFX 01 r r/_C_Y_V ar
+SFX 01 r r/_C_Y ar
 SFX 01 r nt/_C ar
 SFX 01 r t/_V_Y ar
 SFX 01 r da/_Y ar
@@ -86,7 +86,7 @@ SFX 01 ar en/_C ar
 SFX 01 ar in/_C ar
 # Model de conjugació: abalisar
 SFX 02 Y 84
-SFX 02 r r/_C_Y_V ar
+SFX 02 r r/_C_Y ar
 SFX 02 r nt/_C ar
 SFX 02 r t/_V_Y ar
 SFX 02 r da/_Y ar
@@ -172,7 +172,7 @@ SFX 02 ar en/_C ar
 SFX 02 ar in/_C ar
 # Model de conjugació: abatre
 SFX 03 Y 70
-SFX 03 e e/_D_Y_V re
+SFX 03 e e/_D_Y re
 SFX 03 re ent/_C re
 SFX 03 re ut/_V_Y re
 SFX 03 re uda/_Y re
@@ -244,7 +244,7 @@ SFX 03 re en/_C re
 SFX 03 re in/_C re
 # Model de conjugació: abominar
 SFX 04 Y 84
-SFX 04 r r/_C_Y_V ar
+SFX 04 r r/_C_Y ar
 SFX 04 r nt/_C ar
 SFX 04 r t/_V_Y ar
 SFX 04 r da/_Y ar
@@ -330,7 +330,7 @@ SFX 04 ar en/_C ar
 SFX 04 ar in/_C ar
 # Model de conjugació: abrusar
 SFX 05 Y 84
-SFX 05 r r/_C_Y_V ar
+SFX 05 r r/_C_Y ar
 SFX 05 r nt/_C ar
 SFX 05 r t/_V_Y ar
 SFX 05 r da/_Y ar
@@ -416,7 +416,7 @@ SFX 05 ar en/_C ar
 SFX 05 ar in/_C ar
 # Model de conjugació: absoldre
 SFX 06 Y 69
-SFX 06 e e/_D_Y_V re
+SFX 06 e e/_D_Y re
 SFX 06 dre ent/_C re
 SFX 06 dre t/_V_Y re
 SFX 06 dre ta/_Y re
@@ -487,8 +487,8 @@ SFX 06 dre guen/_C re
 SFX 06 dre guin/_C re
 # Model de conjugació: abstenir
 SFX 07 Y 112
-SFX 07 r r/_C_Y_V ir
-SFX 07 enir indre/_D_Y_V ir
+SFX 07 r r/_C_Y ir
+SFX 07 enir indre/_D_Y ir
 SFX 07 r nt/_C ir
 SFX 07 enir ingut/_V_Y ir
 SFX 07 ir gut/_V_Y ir
@@ -601,8 +601,8 @@ SFX 07 ir guin/_C ir
 SFX 07 enir inguin/_C ir
 # Model de conjugació: abstreure
 SFX 08 Y 96
-SFX 08 eure aure/_D_Y_V re
-SFX 08 e e/_D_Y_V re
+SFX 08 eure aure/_D_Y re
+SFX 08 e e/_D_Y re
 SFX 08 eure aient/_C re
 SFX 08 eure aent/_C re
 SFX 08 ure t/_V_Y re
@@ -699,7 +699,7 @@ SFX 08 eure aguin/_C re
 SFX 08 ure guin/_C re
 # Model de conjugació: aburgesar
 SFX 09 Y 84
-SFX 09 r r/_C_Y_V ar
+SFX 09 r r/_C_Y ar
 SFX 09 r nt/_C ar
 SFX 09 r t/_V_Y ar
 SFX 09 r da/_Y ar
@@ -785,7 +785,7 @@ SFX 09 ar en/_C ar
 SFX 09 ar in/_C ar
 # Model de conjugació: acórrer
 SFX 0A Y 77
-SFX 0A r r/_C_Y_V er
+SFX 0A r r/_C_Y er
 SFX 0A órrer orrent/_C er
 SFX 0A órrer orregut/_V_Y er
 SFX 0A órrer orreguda/_Y er
@@ -864,7 +864,7 @@ SFX 0A r guen/_C er
 SFX 0A órrer orrin/_C er
 # Model de conjugació: acarnissar
 SFX 0B Y 84
-SFX 0B r r/_C_Y_V ar
+SFX 0B r r/_C_Y ar
 SFX 0B r nt/_C ar
 SFX 0B r t/_V_Y ar
 SFX 0B r da/_Y ar
@@ -950,7 +950,7 @@ SFX 0B ar en/_C ar
 SFX 0B ar in/_C ar
 # Model de conjugació: acollir
 SFX 0C Y 70
-SFX 0C r r/_C_Y_V ir
+SFX 0C r r/_C_Y ir
 SFX 0C r nt/_C ir
 SFX 0C r t/_V_Y ir
 SFX 0C r da/_Y ir
@@ -1022,7 +1022,7 @@ SFX 0C ollir ullen/_C ir
 SFX 0C ollir ullin/_C ir
 # Model de conjugació: acomplir
 SFX 0D Y 94
-SFX 0D r r/_C_Y_V ir
+SFX 0D r r/_C_Y ir
 SFX 0D r nt/_C ir
 SFX 0D ir ert/_V_Y ir
 SFX 0D r t/_V_Y ir
@@ -1118,7 +1118,7 @@ SFX 0D ir esquin/_C ir
 SFX 0D ir eixin/_C ir
 # Model de conjugació: acréixer
 SFX 0E Y 91
-SFX 0E r r/_C_Y_V er
+SFX 0E r r/_C_Y er
 SFX 0E éixer eixent/_C er
 SFX 0E éixer escut/_V_Y er
 SFX 0E éixer escuda/_Y er
@@ -1211,7 +1211,7 @@ SFX 0E éixer esquin/_C er
 SFX 0E éixer eixin/_C er
 # Model de conjugació: acudir
 SFX 0F Y 108
-SFX 0F r r/_C_Y_V ir
+SFX 0F r r/_C_Y ir
 SFX 0F r nt/_C ir
 SFX 0F r t/_V_Y ir
 SFX 0F r da/_Y ir
@@ -1321,7 +1321,7 @@ SFX 0F ir eixin/_C ir
 SFX 0F r n/_C ir
 # Model de conjugació: adequar
 SFX 10 Y 83
-SFX 10 r r/_C_Y_V ar
+SFX 10 r r/_C_Y ar
 SFX 10 r nt/_C ar
 SFX 10 r t/_V_Y ar
 SFX 10 r da/_Y ar
@@ -1406,7 +1406,7 @@ SFX 10 uar üen/_C ar
 SFX 10 uar üin/_C ar
 # Model de conjugació: admetre
 SFX 11 Y 71
-SFX 11 e e/_D_Y_V re
+SFX 11 e e/_D_Y re
 SFX 11 re ent/_C re
 SFX 11 etre ès/_V_Y re
 SFX 11 etre és/_V_Y re
@@ -1479,7 +1479,7 @@ SFX 11 re en/_C re
 SFX 11 re in/_C re
 # Model de conjugació: adobassar
 SFX 12 Y 84
-SFX 12 r r/_C_Y_V ar
+SFX 12 r r/_C_Y ar
 SFX 12 r nt/_C ar
 SFX 12 r t/_V_Y ar
 SFX 12 r da/_Y ar
@@ -1565,7 +1565,7 @@ SFX 12 ar en/_C ar
 SFX 12 ar in/_C ar
 # Model de conjugació: adossar
 SFX 13 Y 84
-SFX 13 r r/_C_Y_V ar
+SFX 13 r r/_C_Y ar
 SFX 13 r nt/_C ar
 SFX 13 r t/_V_Y ar
 SFX 13 r da/_Y ar
@@ -1651,7 +1651,7 @@ SFX 13 ar en/_C ar
 SFX 13 ar in/_C ar
 # Model de conjugació: adscriure
 SFX 14 Y 91
-SFX 14 e e/_D_Y_V re
+SFX 14 e e/_D_Y re
 SFX 14 ure vint/_C re
 SFX 14 ure t/_V_Y re
 SFX 14 ure ta/_Y re
@@ -1744,8 +1744,8 @@ SFX 14 ure guen/_C re
 SFX 14 ure guin/_C re
 # Model de conjugació: advenir
 SFX 15 Y 108
-SFX 15 r r/_C_Y_V ir
-SFX 15 enir indre/_D_Y_V ir
+SFX 15 r r/_C_Y ir
+SFX 15 enir indre/_D_Y ir
 SFX 15 r nt/_C ir
 SFX 15 enir ingut/_V_Y ir
 SFX 15 ir gut/_V_Y ir
@@ -1854,7 +1854,7 @@ SFX 15 ir guin/_C ir
 SFX 15 enir inguin/_C ir
 # Model de conjugació: afegir
 SFX 16 Y 107
-SFX 16 r r/_C_Y_V ir
+SFX 16 r r/_C_Y ir
 SFX 16 r nt/_C ir
 SFX 16 r t/_V_Y ir
 SFX 16 r da/_Y ir
@@ -1963,7 +1963,7 @@ SFX 16 egir igin/_C ir
 SFX 16 ir eixin/_C ir
 # Model de conjugació: aguar
 SFX 17 Y 84
-SFX 17 r r/_C_Y_V ar
+SFX 17 r r/_C_Y ar
 SFX 17 r nt/_C ar
 SFX 17 r t/_V_Y ar
 SFX 17 r da/_Y ar
@@ -2071,7 +2071,7 @@ SFX 18 anar vàgeu/_Z ar
 SFX 18 anar vàgiu/_Z ar
 SFX 18 anar vagen/_Z ar
 SFX 18 anar vagin/_Z ar
-SFX 18 r r/_C_Y_V ar
+SFX 18 r r/_C_Y ar
 SFX 18 r nt/_C ar
 SFX 18 r t/_V_Y ar
 SFX 18 r da/_Y ar
@@ -2167,7 +2167,7 @@ SFX 18 anar vagen/_C ar
 SFX 18 anar vagin/_C ar
 # Model de conjugació: anquilosar
 SFX 19 Y 84
-SFX 19 r r/_C_Y_V ar
+SFX 19 r r/_C_Y ar
 SFX 19 r nt/_C ar
 SFX 19 r t/_V_Y ar
 SFX 19 r da/_Y ar
@@ -2253,7 +2253,7 @@ SFX 19 ar en/_C ar
 SFX 19 ar in/_C ar
 # Model de conjugació: anul·lar
 SFX 1A Y 84
-SFX 1A r r/_C_Y_V ar
+SFX 1A r r/_C_Y ar
 SFX 1A r nt/_C ar
 SFX 1A r t/_V_Y ar
 SFX 1A r da/_Y ar
@@ -2339,7 +2339,7 @@ SFX 1A ar en/_C ar
 SFX 1A ar in/_C ar
 # Model de conjugació: aparer
 SFX 1B Y 64
-SFX 1B r r/_C_Y_V er
+SFX 1B r r/_C_Y er
 SFX 1B er ut/_V_Y er
 SFX 1B er uda/_Y er
 SFX 1B er uts/_Y er
@@ -2405,7 +2405,7 @@ SFX 1B r n/_C er
 SFX 1B er in/_C er
 # Model de conjugació: apercebre
 SFX 1C Y 70
-SFX 1C e e/_D_Y_V re
+SFX 1C e e/_D_Y re
 SFX 1C re ent/_C re
 SFX 1C re ut/_V_Y re
 SFX 1C re uda/_Y re
@@ -2477,7 +2477,7 @@ SFX 1C re en/_C re
 SFX 1C re in/_C re
 # Model de conjugació: argüir
 SFX 1D Y 90
-SFX 1D r r/_C_Y_V ir
+SFX 1D r r/_C_Y ir
 SFX 1D r nt/_C ir
 SFX 1D üir uït/_V_Y ir
 SFX 1D üir uïda/_Y ir
@@ -2569,7 +2569,7 @@ SFX 1D ir esquin/_C ir
 SFX 1D ir eixin/_C ir
 # Model de conjugació: arrasar
 SFX 1E Y 84
-SFX 1E r r/_C_Y_V ar
+SFX 1E r r/_C_Y ar
 SFX 1E r nt/_C ar
 SFX 1E r t/_V_Y ar
 SFX 1E r da/_Y ar
@@ -2655,7 +2655,7 @@ SFX 1E ar en/_C ar
 SFX 1E ar in/_C ar
 # Model de conjugació: assecar
 SFX 1F Y 84
-SFX 1F r r/_C_Y_V ar
+SFX 1F r r/_C_Y ar
 SFX 1F r nt/_C ar
 SFX 1F r t/_V_Y ar
 SFX 1F r da/_Y ar
@@ -2741,7 +2741,7 @@ SFX 1F car quen/_C ar
 SFX 1F car quin/_C ar
 # Model de conjugació: asseure
 SFX 20 Y 78
-SFX 20 e e/_D_Y_V re
+SFX 20 e e/_D_Y re
 SFX 20 ure ient/_C re
 SFX 20 ure ent/_C re
 SFX 20 ure gut/_V_Y re
@@ -2821,8 +2821,8 @@ SFX 20 ure guen/_C re
 SFX 20 ure guin/_C re
 # Model de conjugació: atènyer
 SFX 21 Y 72
-SFX 21 r r/_C_Y_V er
-SFX 21 ènyer ényer/_C_Y_V er
+SFX 21 r r/_C_Y er
+SFX 21 ènyer ényer/_C_Y er
 SFX 21 ènyer enyent/_C er
 SFX 21 nyer s/_V_Y er
 SFX 21 ènyer és/_V_Y er
@@ -2895,7 +2895,7 @@ SFX 21 ènyer enyen/_C er
 SFX 21 ènyer enyin/_C er
 # Model de conjugació: atendre
 SFX 22 Y 70
-SFX 22 e e/_D_Y_V re
+SFX 22 e e/_D_Y re
 SFX 22 dre ent/_C re
 SFX 22 endre ès/_V_Y re
 SFX 22 endre és/_V_Y re
@@ -2967,7 +2967,7 @@ SFX 22 dre guen/_C re
 SFX 22 dre guin/_C re
 # Model de conjugació: beure
 SFX 23 Y 69
-SFX 23 e e/_D_Y_V re
+SFX 23 e e/_D_Y re
 SFX 23 ure vent/_C re
 SFX 23 ure gut/_V_Y re
 SFX 23 ure guda/_Y re
@@ -3038,7 +3038,7 @@ SFX 23 ure guen/_C re
 SFX 23 ure guin/_C re
 # Model de conjugació: bressar
 SFX 24 Y 84
-SFX 24 r r/_C_Y_V ar
+SFX 24 r r/_C_Y ar
 SFX 24 r nt/_C ar
 SFX 24 r t/_V_Y ar
 SFX 24 r da/_Y ar
@@ -3124,7 +3124,7 @@ SFX 24 ar en/_C ar
 SFX 24 ar in/_C ar
 # Model de conjugació: brunzir
 SFX 25 Y 108
-SFX 25 r r/_C_Y_V ir
+SFX 25 r r/_C_Y ir
 SFX 25 r nt/_C ir
 SFX 25 r t/_V_Y ir
 SFX 25 r da/_Y ir
@@ -3234,8 +3234,8 @@ SFX 25 ir eixin/_C ir
 SFX 25 r n/_C ir
 # Model de conjugació: cabre
 SFX 26 Y 71
-SFX 26 re er/_C_Y_V re
-SFX 26 e e/_D_Y_V re
+SFX 26 re er/_C_Y re
+SFX 26 e e/_D_Y re
 SFX 26 re ent/_C re
 SFX 26 re ut/_V_Y re
 SFX 26 re uda/_Y re
@@ -3307,8 +3307,8 @@ SFX 26 abre àpiguen/_C re
 SFX 26 abre àpien/_C re
 # Model de conjugació: caldre
 SFX 27 Y 26
-SFX 27 e e/_D_Y_V re
-SFX 27 dre er/_C_Y_V re
+SFX 27 e e/_D_Y re
+SFX 27 dre er/_C_Y re
 SFX 27 dre ent/_C re
 SFX 27 dre gut/_V_Y re
 SFX 27 dre guda/_Y re
@@ -3335,7 +3335,7 @@ SFX 27 dre gueren/_Z re
 SFX 27 dre guessen/_Z re
 # Model de conjugació: cantar
 SFX 28 Y 84
-SFX 28 r r/_C_Y_V ar
+SFX 28 r r/_C_Y ar
 SFX 28 r nt/_C ar
 SFX 28 r t/_V_Y ar
 SFX 28 r da/_Y ar
@@ -3421,7 +3421,7 @@ SFX 28 ar en/_C ar
 SFX 28 ar in/_C ar
 # Model de conjugació: capbussar
 SFX 29 Y 84
-SFX 29 r r/_C_Y_V ar
+SFX 29 r r/_C_Y ar
 SFX 29 r nt/_C ar
 SFX 29 r t/_V_Y ar
 SFX 29 r da/_Y ar
@@ -3507,7 +3507,7 @@ SFX 29 ar en/_C ar
 SFX 29 ar in/_C ar
 # Model de conjugació: caure
 SFX 2A Y 78
-SFX 2A e e/_D_Y_V re
+SFX 2A e e/_D_Y re
 SFX 2A ure ient/_C re
 SFX 2A ure ent/_C re
 SFX 2A ure igut/_V_Y re
@@ -3587,7 +3587,7 @@ SFX 2A ure iguen/_C re
 SFX 2A ure iguin/_C re
 # Model de conjugació: cerndre
 SFX 2B Y 70
-SFX 2B e e/_D_Y_V re
+SFX 2B e e/_D_Y re
 SFX 2B dre ent/_C re
 SFX 2B dre ut/_V_Y re
 SFX 2B dre uda/_Y re
@@ -3659,7 +3659,7 @@ SFX 2B dre en/_C re
 SFX 2B dre in/_C re
 # Model de conjugació: cloure
 SFX 2C Y 69
-SFX 2C e e/_D_Y_V re
+SFX 2C e e/_D_Y re
 SFX 2C ure ent/_C re
 SFX 2C ure s/_V_Y re
 SFX 2C ure sa/_Y re
@@ -3730,7 +3730,7 @@ SFX 2C ure guen/_C re
 SFX 2C ure guin/_C re
 # Model de conjugació: cobrir
 SFX 2D Y 90
-SFX 2D r r/_C_Y_V ir
+SFX 2D r r/_C_Y ir
 SFX 2D r nt/_C ir
 SFX 2D rir ert/_V_Y ir
 SFX 2D rir erta/_Y ir
@@ -3822,7 +3822,7 @@ SFX 2D ir esquin/_C ir
 SFX 2D ir eixin/_C ir
 # Model de conjugació: començar
 SFX 2E Y 84
-SFX 2E r r/_C_Y_V ar
+SFX 2E r r/_C_Y ar
 SFX 2E r nt/_C ar
 SFX 2E r t/_V_Y ar
 SFX 2E r da/_Y ar
@@ -3908,7 +3908,7 @@ SFX 2E çar cen/_C ar
 SFX 2E çar cin/_C ar
 # Model de conjugació: commoure
 SFX 2F Y 73
-SFX 2F e e/_D_Y_V re
+SFX 2F e e/_D_Y re
 SFX 2F ure vent/_C re
 SFX 2F ure gut/_V_Y re
 SFX 2F oure òs/_V_Y re
@@ -3983,7 +3983,7 @@ SFX 2F ure guen/_C re
 SFX 2F ure guin/_C re
 # Model de conjugació: complaure
 SFX 30 Y 69
-SFX 30 e e/_D_Y_V re
+SFX 30 e e/_D_Y re
 SFX 30 ure ent/_C re
 SFX 30 ure gut/_V_Y re
 SFX 30 ure guda/_Y re
@@ -4054,7 +4054,7 @@ SFX 30 ure guen/_C re
 SFX 30 ure guin/_C re
 # Model de conjugació: compondre
 SFX 31 Y 70
-SFX 31 e e/_D_Y_V re
+SFX 31 e e/_D_Y re
 SFX 31 dre ent/_C re
 SFX 31 ndre st/_V_Y re
 SFX 31 ndre sta/_Y re
@@ -4126,8 +4126,8 @@ SFX 31 dre guen/_C re
 SFX 31 dre guin/_C re
 # Model de conjugació: conèixer
 SFX 32 Y 70
-SFX 32 r r/_C_Y_V er
-SFX 32 èixer éixer/_C_Y_V er
+SFX 32 r r/_C_Y er
+SFX 32 èixer éixer/_C_Y er
 SFX 32 èixer eixent/_C er
 SFX 32 èixer egut/_V_Y er
 SFX 32 èixer eguda/_Y er
@@ -4198,7 +4198,7 @@ SFX 32 èixer eguen/_C er
 SFX 32 èixer eguin/_C er
 # Model de conjugació: concloure
 SFX 33 Y 69
-SFX 33 e e/_D_Y_V re
+SFX 33 e e/_D_Y re
 SFX 33 ure ent/_C re
 SFX 33 oure òs/_V_Y re
 SFX 33 ure sa/_Y re
@@ -4269,7 +4269,7 @@ SFX 33 ure guen/_C re
 SFX 33 ure guin/_C re
 # Model de conjugació: condoldre
 SFX 34 Y 69
-SFX 34 e e/_D_Y_V re
+SFX 34 e e/_D_Y re
 SFX 34 dre ent/_C re
 SFX 34 dre gut/_V_Y re
 SFX 34 dre guda/_Y re
@@ -4340,7 +4340,7 @@ SFX 34 dre guen/_C re
 SFX 34 dre guin/_C re
 # Model de conjugació: confessar
 SFX 35 Y 84
-SFX 35 r r/_C_Y_V ar
+SFX 35 r r/_C_Y ar
 SFX 35 r nt/_C ar
 SFX 35 r t/_V_Y ar
 SFX 35 r da/_Y ar
@@ -4426,7 +4426,7 @@ SFX 35 ar en/_C ar
 SFX 35 ar in/_C ar
 # Model de conjugació: confondre
 SFX 36 Y 69
-SFX 36 e e/_D_Y_V re
+SFX 36 e e/_D_Y re
 SFX 36 dre ent/_C re
 SFX 36 ondre ós/_V_Y re
 SFX 36 ndre sa/_Y re
@@ -4497,7 +4497,7 @@ SFX 36 dre guen/_C re
 SFX 36 dre guin/_C re
 # Model de conjugació: confugir
 SFX 37 Y 77
-SFX 37 r r/_C_Y_V ir
+SFX 37 r r/_C_Y ir
 SFX 37 r nt/_C ir
 SFX 37 r t/_V_Y ir
 SFX 37 gir it/_V_Y ir
@@ -4576,8 +4576,8 @@ SFX 37 ir en/_C ir
 SFX 37 r n/_C ir
 # Model de conjugació: constrènyer
 SFX 38 Y 71
-SFX 38 r r/_C_Y_V er
-SFX 38 ènyer ényer/_C_Y_V er
+SFX 38 r r/_C_Y er
+SFX 38 ènyer ényer/_C_Y er
 SFX 38 ènyer enyent/_C er
 SFX 38 ènyer et/_V_Y er
 SFX 38 ènyer eta/_Y er
@@ -4649,7 +4649,7 @@ SFX 38 ènyer enyen/_C er
 SFX 38 ènyer enyin/_C er
 # Model de conjugació: contradir
 SFX 39 Y 75
-SFX 39 r r/_C_Y_V ir
+SFX 39 r r/_C_Y ir
 SFX 39 r ent/_C ir
 SFX 39 r t/_V_Y ir
 SFX 39 r ta/_Y ir
@@ -4726,7 +4726,7 @@ SFX 39 r guen/_C ir
 SFX 39 r guin/_C ir
 # Model de conjugació: contrafer
 SFX 3A Y 80
-SFX 3A r r/_C_Y_V er
+SFX 3A r r/_C_Y er
 SFX 3A r nt/_C er
 SFX 3A r t/_V_Y er
 SFX 3A r ta/_Y er
@@ -4808,7 +4808,7 @@ SFX 3A er acen/_C er
 SFX 3A er acin/_C er
 # Model de conjugació: contrapesar
 SFX 3B Y 84
-SFX 3B r r/_C_Y_V ar
+SFX 3B r r/_C_Y ar
 SFX 3B r nt/_C ar
 SFX 3B r t/_V_Y ar
 SFX 3B r da/_Y ar
@@ -4894,8 +4894,8 @@ SFX 3B ar en/_C ar
 SFX 3B ar in/_C ar
 # Model de conjugació: convèncer
 SFX 3C Y 71
-SFX 3C r r/_C_Y_V er
-SFX 3C èncer éncer/_C_Y_V er
+SFX 3C r r/_C_Y er
+SFX 3C èncer éncer/_C_Y er
 SFX 3C èncer encent/_C er
 SFX 3C èncer ençut/_V_Y er
 SFX 3C èncer ençuda/_Y er
@@ -4967,7 +4967,7 @@ SFX 3C èncer encen/_C er
 SFX 3C èncer encin/_C er
 # Model de conjugació: conviure
 SFX 3D Y 69
-SFX 3D e e/_D_Y_V re
+SFX 3D e e/_D_Y re
 SFX 3D ure vint/_C re
 SFX 3D ure scut/_V_Y re
 SFX 3D ure scuda/_Y re
@@ -5038,7 +5038,7 @@ SFX 3D ure squen/_C re
 SFX 3D ure squin/_C re
 # Model de conjugació: cosir
 SFX 3E Y 73
-SFX 3E r r/_C_Y_V ir
+SFX 3E r r/_C_Y ir
 SFX 3E r nt/_C ir
 SFX 3E r t/_V_Y ir
 SFX 3E r da/_Y ir
@@ -5113,7 +5113,7 @@ SFX 3E osir usen/_C ir
 SFX 3E osir usin/_C ir
 # Model de conjugació: coure
 SFX 3F Y 73
-SFX 3F e e/_D_Y_V re
+SFX 3F e e/_D_Y re
 SFX 3F ure ent/_C re
 SFX 3F ure gut/_V_Y re
 SFX 3F oure uit/_V_Y re
@@ -5188,7 +5188,7 @@ SFX 3F ure guen/_C re
 SFX 3F ure guin/_C re
 # Model de conjugació: crear
 SFX 40 Y 84
-SFX 40 r r/_C_Y_V ar
+SFX 40 r r/_C_Y ar
 SFX 40 r nt/_C ar
 SFX 40 r t/_V_Y ar
 SFX 40 r da/_Y ar
@@ -5274,7 +5274,7 @@ SFX 40 ar en/_C ar
 SFX 40 ar ïn/_C ar
 # Model de conjugació: cruixir
 SFX 41 Y 73
-SFX 41 r r/_C_Y_V ir
+SFX 41 r r/_C_Y ir
 SFX 41 r nt/_C ir
 SFX 41 r t/_V_Y ir
 SFX 41 r da/_Y ir
@@ -5349,7 +5349,7 @@ SFX 41 ir en/_C ir
 SFX 41 r n/_C ir
 # Model de conjugació: dar
 SFX 42 Y 66
-SFX 42 r r/_C_Y_V ar
+SFX 42 r r/_C_Y ar
 SFX 42 r nt/_C ar
 SFX 42 r t/_V_Y ar
 SFX 42 r da/_Y ar
@@ -5417,7 +5417,7 @@ SFX 42 r u/_C ar
 SFX 42 ar eu/_C ar
 # Model de conjugació: descosir
 SFX 43 Y 73
-SFX 43 r r/_C_Y_V ir
+SFX 43 r r/_C_Y ir
 SFX 43 r nt/_C ir
 SFX 43 r t/_V_Y ir
 SFX 43 r da/_Y ir
@@ -5492,7 +5492,7 @@ SFX 43 osir usen/_C ir
 SFX 43 osir usin/_C ir
 # Model de conjugació: deseixir
 SFX 44 Y 86
-SFX 44 r r/_C_Y_V ir
+SFX 44 r r/_C_Y ir
 SFX 44 r nt/_C ir
 SFX 44 r t/_V_Y ir
 SFX 44 r da/_Y ir
@@ -5580,8 +5580,8 @@ SFX 44 eixir isquen/_C ir
 SFX 44 eixir ixin/_C ir
 # Model de conjugació: desmerèixer
 SFX 45 Y 96
-SFX 45 r r/_C_Y_V er
-SFX 45 èixer éixer/_C_Y_V er
+SFX 45 r r/_C_Y er
+SFX 45 èixer éixer/_C_Y er
 SFX 45 èixer eixent/_C er
 SFX 45 èixer escut/_V_Y er
 SFX 45 èixer escuda/_Y er
@@ -5678,7 +5678,7 @@ SFX 45 èixer esquin/_C er
 SFX 45 èixer eixin/_C er
 # Model de conjugació: dir
 SFX 46 Y 75
-SFX 46 r r/_C_Y_V ir
+SFX 46 r r/_C_Y ir
 SFX 46 r ent/_C ir
 SFX 46 r t/_V_Y ir
 SFX 46 r ta/_Y ir
@@ -5755,8 +5755,8 @@ SFX 46 r guen/_C ir
 SFX 46 r guin/_C ir
 # Model de conjugació: doldre
 SFX 47 Y 70
-SFX 47 e e/_D_Y_V re
-SFX 47 dre er/_C_Y_V re
+SFX 47 e e/_D_Y re
+SFX 47 dre er/_C_Y re
 SFX 47 dre ent/_C re
 SFX 47 dre gut/_V_Y re
 SFX 47 dre guda/_Y re
@@ -5827,7 +5827,7 @@ SFX 47 dre guen/_C re
 SFX 47 dre guin/_C re
 # Model de conjugació: donar
 SFX 48 Y 84
-SFX 48 r r/_C_Y_V ar
+SFX 48 r r/_C_Y ar
 SFX 48 r nt/_C ar
 SFX 48 r t/_V_Y ar
 SFX 48 r da/_Y ar
@@ -5913,7 +5913,7 @@ SFX 48 ar en/_C ar
 SFX 48 ar in/_C ar
 # Model de conjugació: dormir
 SFX 49 Y 73
-SFX 49 r r/_C_Y_V ir
+SFX 49 r r/_C_Y ir
 SFX 49 r nt/_C ir
 SFX 49 r t/_V_Y ir
 SFX 49 r da/_Y ir
@@ -5988,7 +5988,7 @@ SFX 49 ir en/_C ir
 SFX 49 r n/_C ir
 # Model de conjugació: dur
 SFX 4A Y 81
-SFX 4A r r/_C_Y_V ur
+SFX 4A r r/_C_Y ur
 SFX 4A r ent/_C ur
 SFX 4A r t/_V_Y ur
 SFX 4A r it/_V_Y ur
@@ -6071,7 +6071,7 @@ SFX 4A r guen/_C ur
 SFX 4A r guin/_C ur
 # Model de conjugació: endur
 SFX 4B Y 81
-SFX 4B r r/_C_Y_V ur
+SFX 4B r r/_C_Y ur
 SFX 4B r ent/_C ur
 SFX 4B r t/_V_Y ur
 SFX 4B r it/_V_Y ur
@@ -6154,7 +6154,7 @@ SFX 4B r guen/_C ur
 SFX 4B r guin/_C ur
 # Model de conjugació: enfastijar
 SFX 4C Y 84
-SFX 4C r r/_C_Y_V ar
+SFX 4C r r/_C_Y ar
 SFX 4C r nt/_C ar
 SFX 4C r t/_V_Y ar
 SFX 4C r da/_Y ar
@@ -6240,7 +6240,7 @@ SFX 4C jar gen/_C ar
 SFX 4C jar gin/_C ar
 # Model de conjugació: enfondre
 SFX 4D Y 69
-SFX 4D e e/_D_Y_V re
+SFX 4D e e/_D_Y re
 SFX 4D dre ent/_C re
 SFX 4D ondre ús/_V_Y re
 SFX 4D ondre usa/_Y re
@@ -6311,7 +6311,7 @@ SFX 4D dre guen/_C re
 SFX 4D dre guin/_C re
 # Model de conjugació: engolir
 SFX 4E Y 101
-SFX 4E r r/_C_Y_V ir
+SFX 4E r r/_C_Y ir
 SFX 4E r nt/_C ir
 SFX 4E r t/_V_Y ir
 SFX 4E r da/_Y ir
@@ -6414,7 +6414,7 @@ SFX 4E ir esquin/_C ir
 SFX 4E ir eixin/_C ir
 # Model de conjugació: entravessar
 SFX 4F Y 84
-SFX 4F r r/_C_Y_V ar
+SFX 4F r r/_C_Y ar
 SFX 4F r nt/_C ar
 SFX 4F r t/_V_Y ar
 SFX 4F r da/_Y ar
@@ -6500,7 +6500,7 @@ SFX 4F ar en/_C ar
 SFX 4F ar in/_C ar
 # Model de conjugació: entrelluir
 SFX 50 Y 111
-SFX 50 r r/_C_Y_V ir
+SFX 50 r r/_C_Y ir
 SFX 50 r nt/_C ir
 SFX 50 ir ït/_V_Y ir
 SFX 50 ir ïda/_Y ir
@@ -6613,7 +6613,7 @@ SFX 50 ir eixin/_C ir
 SFX 50 ir ïn/_C ir
 # Model de conjugació: entreveure
 SFX 51 Y 91
-SFX 51 e e/_D_Y_V re
+SFX 51 e e/_D_Y re
 SFX 51 ure ient/_C re
 SFX 51 ure ent/_C re
 SFX 51 eure ist/_V_Y re
@@ -6706,7 +6706,7 @@ SFX 51 ure gen/_C re
 SFX 51 ure gin/_C re
 # Model de conjugació: envejar
 SFX 52 Y 84
-SFX 52 r r/_C_Y_V ar
+SFX 52 r r/_C_Y ar
 SFX 52 r nt/_C ar
 SFX 52 r t/_V_Y ar
 SFX 52 r da/_Y ar
@@ -6792,7 +6792,7 @@ SFX 52 jar gen/_C ar
 SFX 52 jar gin/_C ar
 # Model de conjugació: escollir
 SFX 53 Y 108
-SFX 53 r r/_C_Y_V ir
+SFX 53 r r/_C_Y ir
 SFX 53 r nt/_C ir
 SFX 53 r t/_V_Y ir
 SFX 53 r da/_Y ir
@@ -6902,7 +6902,7 @@ SFX 53 ir eixin/_C ir
 SFX 53 ollir ullin/_C ir
 # Model de conjugació: escopir
 SFX 54 Y 70
-SFX 54 r r/_C_Y_V ir
+SFX 54 r r/_C_Y ir
 SFX 54 r nt/_C ir
 SFX 54 r t/_V_Y ir
 SFX 54 r da/_Y ir
@@ -6974,7 +6974,7 @@ SFX 54 opir upen/_C ir
 SFX 54 opir upin/_C ir
 # Model de conjugació: esglaiar
 SFX 55 Y 84
-SFX 55 r r/_C_Y_V ar
+SFX 55 r r/_C_Y ar
 SFX 55 r nt/_C ar
 SFX 55 r t/_V_Y ar
 SFX 55 r da/_Y ar
@@ -7060,7 +7060,7 @@ SFX 55 ar en/_C ar
 SFX 55 iar ïn/_C ar
 # Model de conjugació: estar
 SFX 56 Y 74
-SFX 56 r r/_C_Y_V ar
+SFX 56 r r/_C_Y ar
 SFX 56 r nt/_C ar
 SFX 56 r t/_V_Y ar
 SFX 56 r da/_Y ar
@@ -7136,8 +7136,8 @@ SFX 56 ar iguen/_C ar
 SFX 56 ar iguin/_C ar
 # Model de conjugació: fènyer
 SFX 57 Y 110
-SFX 57 r r/_C_Y_V er
-SFX 57 ènyer ényer/_C_Y_V er
+SFX 57 r r/_C_Y er
+SFX 57 ènyer ényer/_C_Y er
 SFX 57 ènyer enyent/_C er
 SFX 57 ènyer engut/_V_Y er
 SFX 57 ènyer enyut/_V_Y er
@@ -7248,7 +7248,7 @@ SFX 57 ènyer enguin/_C er
 SFX 57 ènyer enyin/_C er
 # Model de conjugació: fúmer
 SFX 58 Y 70
-SFX 58 r r/_C_Y_V er
+SFX 58 r r/_C_Y er
 SFX 58 úmer ument/_C er
 SFX 58 úmer umut/_V_Y er
 SFX 58 úmer umuda/_Y er
@@ -7320,7 +7320,7 @@ SFX 58 úmer umen/_C er
 SFX 58 úmer umin/_C er
 # Model de conjugació: fendre
 SFX 59 Y 69
-SFX 59 e e/_D_Y_V re
+SFX 59 e e/_D_Y re
 SFX 59 dre ent/_C re
 SFX 59 ndre s/_V_Y re
 SFX 59 ndre sa/_Y re
@@ -7391,7 +7391,7 @@ SFX 59 dre guen/_C re
 SFX 59 dre guin/_C re
 # Model de conjugació: fer
 SFX 5A Y 80
-SFX 5A r r/_C_Y_V er
+SFX 5A r r/_C_Y er
 SFX 5A r nt/_C er
 SFX 5A r t/_V_Y er
 SFX 5A r ta/_Y er
@@ -7473,7 +7473,7 @@ SFX 5A er acen/_C er
 SFX 5A er acin/_C er
 # Model de conjugació: ferir
 SFX 5B Y 101
-SFX 5B r r/_C_Y_V ir
+SFX 5B r r/_C_Y ir
 SFX 5B r nt/_C ir
 SFX 5B r t/_V_Y ir
 SFX 5B r da/_Y ir
@@ -7576,7 +7576,7 @@ SFX 5B r n/_C ir
 SFX 5B ir eixin/_C ir
 # Model de conjugació: haver
 SFX 5C Y 73
-SFX 5C r r/_C_Y_V er
+SFX 5C r r/_C_Y er
 SFX 5C r nt/_C er
 SFX 5C ver gut/_V_Y er
 SFX 5C ver guda/_Y er
@@ -7651,9 +7651,9 @@ SFX 5C ver gueren/_Z er
 SFX 5C ver guessen/_Z er
 # Model de conjugació: heure
 SFX 5D Y 82
-SFX 5D eure aure/_D_Y_V re
-SFX 5D eure aver/_C_Y_V re
-SFX 5D e e/_D_Y_V re
+SFX 5D eure aure/_D_Y re
+SFX 5D eure aver/_C_Y re
+SFX 5D e e/_D_Y re
 SFX 5D eure avent/_C re
 SFX 5D eure agut/_V_Y re
 SFX 5D eure aguda/_Y re
@@ -7735,7 +7735,7 @@ SFX 5D eure aguin/_C re
 SFX 5D ure guin/_C re
 # Model de conjugació: imprimir
 SFX 5E Y 91
-SFX 5E r r/_C_Y_V ir
+SFX 5E r r/_C_Y ir
 SFX 5E r nt/_C ir
 SFX 5E imir ès/_V_Y ir
 SFX 5E imir és/_V_Y ir
@@ -7828,7 +7828,7 @@ SFX 5E ir esquin/_C ir
 SFX 5E ir eixin/_C ir
 # Model de conjugació: irèixer
 SFX 5F Y 91
-SFX 5F r r/_C_Y_V er
+SFX 5F r r/_C_Y er
 SFX 5F èixer eixent/_C er
 SFX 5F èixer escut/_V_Y er
 SFX 5F èixer escuda/_Y er
@@ -7921,7 +7921,7 @@ SFX 5F èixer esquin/_C er
 SFX 5F èixer eixin/_C er
 # Model de conjugació: júnyer
 SFX 60 Y 70
-SFX 60 r r/_C_Y_V er
+SFX 60 r r/_C_Y er
 SFX 60 únyer unyent/_C er
 SFX 60 únyer unyut/_V_Y er
 SFX 60 únyer unyuda/_Y er
@@ -7993,8 +7993,8 @@ SFX 60 únyer unyen/_C er
 SFX 60 únyer unyin/_C er
 # Model de conjugació: jeure
 SFX 61 Y 90
-SFX 61 eure aure/_D_Y_V re
-SFX 61 e e/_D_Y_V re
+SFX 61 eure aure/_D_Y re
+SFX 61 e e/_D_Y re
 SFX 61 eure aient/_C re
 SFX 61 eure aent/_C re
 SFX 61 eure agut/_V_Y re
@@ -8085,7 +8085,7 @@ SFX 61 eure aguin/_C re
 SFX 61 ure guin/_C re
 # Model de conjugació: lleure
 SFX 62 Y 21
-SFX 62 e e/_D_Y_V re
+SFX 62 e e/_D_Y re
 SFX 62 ure gut/_V_Y re
 SFX 62 re 0/_Z re
 SFX 62 re en/_Z re
@@ -8108,7 +8108,7 @@ SFX 62 ure gueren/_Z re
 SFX 62 ure guessen/_Z re
 # Model de conjugació: lloar
 SFX 63 Y 84
-SFX 63 r r/_C_Y_V ar
+SFX 63 r r/_C_Y ar
 SFX 63 r nt/_C ar
 SFX 63 r t/_V_Y ar
 SFX 63 r da/_Y ar
@@ -8194,7 +8194,7 @@ SFX 63 ar en/_C ar
 SFX 63 ar ïn/_C ar
 # Model de conjugació: lluir
 SFX 64 Y 111
-SFX 64 r r/_C_Y_V ir
+SFX 64 r r/_C_Y ir
 SFX 64 r nt/_C ir
 SFX 64 ir ït/_V_Y ir
 SFX 64 ir ïda/_Y ir
@@ -8307,7 +8307,7 @@ SFX 64 ir eixin/_C ir
 SFX 64 ir ïn/_C ir
 # Model de conjugació: matar
 SFX 65 Y 88
-SFX 65 r r/_C_Y_V ar
+SFX 65 r r/_C_Y ar
 SFX 65 r nt/_C ar
 SFX 65 r t/_V_Y ar
 SFX 65 atar ort/_V_Y ar
@@ -8397,7 +8397,7 @@ SFX 65 ar en/_C ar
 SFX 65 ar in/_C ar
 # Model de conjugació: menjar
 SFX 66 Y 84
-SFX 66 r r/_C_Y_V ar
+SFX 66 r r/_C_Y ar
 SFX 66 r nt/_C ar
 SFX 66 r t/_V_Y ar
 SFX 66 r da/_Y ar
@@ -8483,7 +8483,7 @@ SFX 66 jar gen/_C ar
 SFX 66 jar gin/_C ar
 # Model de conjugació: mentir
 SFX 67 Y 108
-SFX 67 r r/_C_Y_V ir
+SFX 67 r r/_C_Y ir
 SFX 67 r nt/_C ir
 SFX 67 r t/_V_Y ir
 SFX 67 r da/_Y ir
@@ -8593,7 +8593,7 @@ SFX 67 ir eixin/_C ir
 SFX 67 r n/_C ir
 # Model de conjugació: metre
 SFX 68 Y 70
-SFX 68 e e/_D_Y_V re
+SFX 68 e e/_D_Y re
 SFX 68 re ent/_C re
 SFX 68 tre s/_V_Y re
 SFX 68 tre sa/_Y re
@@ -8665,7 +8665,7 @@ SFX 68 re en/_C re
 SFX 68 re in/_C re
 # Model de conjugació: moldre
 SFX 69 Y 69
-SFX 69 e e/_D_Y_V re
+SFX 69 e e/_D_Y re
 SFX 69 dre ent/_C re
 SFX 69 oldre òlt/_V_Y re
 SFX 69 oldre òlta/_Y re
@@ -8736,7 +8736,7 @@ SFX 69 dre guen/_C re
 SFX 69 dre guin/_C re
 # Model de conjugació: morir
 SFX 6A Y 70
-SFX 6A r r/_C_Y_V ir
+SFX 6A r r/_C_Y ir
 SFX 6A r nt/_C ir
 SFX 6A ir t/_V_Y ir
 SFX 6A ir ta/_Y ir
@@ -8808,8 +8808,8 @@ SFX 6A orir uiren/_C ir
 SFX 6A r n/_C ir
 # Model de conjugació: néixer
 SFX 6B Y 104
-SFX 6B éixer àixer/_C_Y_V er
-SFX 6B r r/_C_Y_V er
+SFX 6B éixer àixer/_C_Y er
+SFX 6B r r/_C_Y er
 SFX 6B éixer aixent/_C er
 SFX 6B éixer ascut/_V_Y er
 SFX 6B éixer ascuda/_Y er
@@ -8914,7 +8914,7 @@ SFX 6B éixer aixin/_C er
 SFX 6B éixer eixin/_C er
 # Model de conjugació: nòmer
 SFX 6C Y 70
-SFX 6C r r/_C_Y_V er
+SFX 6C r r/_C_Y er
 SFX 6C òmer oment/_C er
 SFX 6C òmer omut/_V_Y er
 SFX 6C òmer omuda/_Y er
@@ -8986,7 +8986,7 @@ SFX 6C òmer omen/_C er
 SFX 6C òmer omin/_C er
 # Model de conjugació: nannar
 SFX 6D Y 84
-SFX 6D r r/_C_Y_V ar
+SFX 6D r r/_C_Y ar
 SFX 6D r nt/_C ar
 SFX 6D r t/_V_Y ar
 SFX 6D r da/_Y ar
@@ -9072,7 +9072,7 @@ SFX 6D ar en/_C ar
 SFX 6D ar in/_C ar
 # Model de conjugació: obrir
 SFX 6E Y 78
-SFX 6E r r/_C_Y_V ir
+SFX 6E r r/_C_Y ir
 SFX 6E r nt/_C ir
 SFX 6E rir ert/_V_Y ir
 SFX 6E rir erta/_Y ir
@@ -9152,7 +9152,7 @@ SFX 6E obrir òbriguen/_C ir
 SFX 6E r n/_C ir
 # Model de conjugació: ofendre
 SFX 6F Y 72
-SFX 6F e e/_D_Y_V re
+SFX 6F e e/_D_Y re
 SFX 6F dre ent/_C re
 SFX 6F endre ès/_V_Y re
 SFX 6F endre és/_V_Y re
@@ -9226,7 +9226,7 @@ SFX 6F dre guen/_C re
 SFX 6F dre guin/_C re
 # Model de conjugació: oferir
 SFX 70 Y 94
-SFX 70 r r/_C_Y_V ir
+SFX 70 r r/_C_Y ir
 SFX 70 r nt/_C ir
 SFX 70 r t/_V_Y ir
 SFX 70 ir t/_V_Y ir
@@ -9322,7 +9322,7 @@ SFX 70 ir esquin/_C ir
 SFX 70 ir eixin/_C ir
 # Model de conjugació: ofrenar
 SFX 71 Y 84
-SFX 71 r r/_C_Y_V ar
+SFX 71 r r/_C_Y ar
 SFX 71 r nt/_C ar
 SFX 71 r t/_V_Y ar
 SFX 71 r da/_Y ar
@@ -9408,7 +9408,7 @@ SFX 71 ar en/_C ar
 SFX 71 ar in/_C ar
 # Model de conjugació: oir
 SFX 72 Y 92
-SFX 72 r r/_C_Y_V ir
+SFX 72 r r/_C_Y ir
 SFX 72 r nt/_C ir
 SFX 72 ir ït/_V_Y ir
 SFX 72 ir ïda/_Y ir
@@ -9502,7 +9502,7 @@ SFX 72 ir esquin/_C ir
 SFX 72 ir eixin/_C ir
 # Model de conjugació: omplir
 SFX 73 Y 82
-SFX 73 r r/_C_Y_V ir
+SFX 73 r r/_C_Y ir
 SFX 73 r nt/_C ir
 SFX 73 ir ert/_V_Y ir
 SFX 73 r t/_V_Y ir
@@ -9586,7 +9586,7 @@ SFX 73 omplir òmpliguen/_C ir
 SFX 73 r n/_C ir
 # Model de conjugació: ordenar
 SFX 74 Y 84
-SFX 74 r r/_C_Y_V ar
+SFX 74 r r/_C_Y ar
 SFX 74 r nt/_C ar
 SFX 74 r t/_V_Y ar
 SFX 74 r da/_Y ar
@@ -9672,7 +9672,7 @@ SFX 74 ar en/_C ar
 SFX 74 ar in/_C ar
 # Model de conjugació: péixer
 SFX 75 Y 102
-SFX 75 r r/_C_Y_V er
+SFX 75 r r/_C_Y er
 SFX 75 éixer aixent/_C er
 SFX 75 éixer ascut/_V_Y er
 SFX 75 éixer ascuda/_Y er
@@ -9776,7 +9776,7 @@ SFX 75 éixer aixin/_C er
 SFX 75 éixer eixin/_C er
 # Model de conjugació: penedir
 SFX 76 Y 100
-SFX 76 r r/_C_Y_V ir
+SFX 76 r r/_C_Y ir
 SFX 76 r nt/_C ir
 SFX 76 r t/_V_Y ir
 SFX 76 r da/_Y ir
@@ -9878,7 +9878,7 @@ SFX 76 r n/_C ir
 SFX 76 ir eixin/_C ir
 # Model de conjugació: pertànyer
 SFX 77 Y 110
-SFX 77 r r/_C_Y_V er
+SFX 77 r r/_C_Y er
 SFX 77 ànyer anyent/_C er
 SFX 77 ànyer angut/_V_Y er
 SFX 77 ànyer anyut/_V_Y er
@@ -9990,7 +9990,7 @@ SFX 77 ànyer anguin/_C er
 SFX 77 ànyer anyin/_C er
 # Model de conjugació: poder
 SFX 78 Y 69
-SFX 78 r r/_C_Y_V er
+SFX 78 r r/_C_Y er
 SFX 78 r nt/_C er
 SFX 78 der gut/_V_Y er
 SFX 78 der guda/_Y er
@@ -10061,7 +10061,7 @@ SFX 78 oder uguen/_C er
 SFX 78 oder uguin/_C er
 # Model de conjugació: pregar
 SFX 79 Y 84
-SFX 79 r r/_C_Y_V ar
+SFX 79 r r/_C_Y ar
 SFX 79 r nt/_C ar
 SFX 79 r t/_V_Y ar
 SFX 79 r da/_Y ar
@@ -10147,8 +10147,8 @@ SFX 79 ar uen/_C ar
 SFX 79 ar uin/_C ar
 # Model de conjugació: prevenir
 SFX 7A Y 109
-SFX 7A r r/_C_Y_V ir
-SFX 7A enir indre/_D_Y_V ir
+SFX 7A r r/_C_Y ir
+SFX 7A enir indre/_D_Y ir
 SFX 7A r nt/_C ir
 SFX 7A enir ingut/_V_Y ir
 SFX 7A ir gut/_V_Y ir
@@ -10258,7 +10258,7 @@ SFX 7A ir guin/_C ir
 SFX 7A enir inguin/_C ir
 # Model de conjugació: pruir
 SFX 7B Y 76
-SFX 7B r r/_C_Y_V ir
+SFX 7B r r/_C_Y ir
 SFX 7B r nt/_C ir
 SFX 7B ir ït/_V_Y ir
 SFX 7B ir ïda/_Y ir
@@ -10336,7 +10336,7 @@ SFX 7B ir en/_C ir
 SFX 7B ir ïn/_C ir
 # Model de conjugació: pudir
 SFX 7C Y 70
-SFX 7C r r/_C_Y_V ir
+SFX 7C r r/_C_Y ir
 SFX 7C r nt/_C ir
 SFX 7C r t/_V_Y ir
 SFX 7C r da/_Y ir
@@ -10408,7 +10408,7 @@ SFX 7C ir en/_C ir
 SFX 7C r n/_C ir
 # Model de conjugació: raure
 SFX 7D Y 73
-SFX 7D e e/_D_Y_V re
+SFX 7D e e/_D_Y re
 SFX 7D ure ent/_C re
 SFX 7D ure gut/_V_Y re
 SFX 7D ure s/_V_Y re
@@ -10483,7 +10483,7 @@ SFX 7D ure guen/_C re
 SFX 7D ure guin/_C re
 # Model de conjugació: recoure
 SFX 7E Y 69
-SFX 7E e e/_D_Y_V re
+SFX 7E e e/_D_Y re
 SFX 7E ure ent/_C re
 SFX 7E oure uit/_V_Y re
 SFX 7E oure uita/_Y re
@@ -10554,7 +10554,7 @@ SFX 7E ure guen/_C re
 SFX 7E ure guin/_C re
 # Model de conjugació: reeixir
 SFX 7F Y 98
-SFX 7F r r/_C_Y_V ir
+SFX 7F r r/_C_Y ir
 SFX 7F r nt/_C ir
 SFX 7F r t/_V_Y ir
 SFX 7F r da/_Y ir
@@ -10654,7 +10654,7 @@ SFX 7F eixir ïsquen/_C ir
 SFX 7F eixir ïxin/_C ir
 # Model de conjugació: renyir
 SFX 80 Y 101
-SFX 80 r r/_C_Y_V ir
+SFX 80 r r/_C_Y ir
 SFX 80 r nt/_C ir
 SFX 80 r t/_V_Y ir
 SFX 80 r da/_Y ir
@@ -10757,7 +10757,7 @@ SFX 80 ir esquin/_C ir
 SFX 80 ir eixin/_C ir
 # Model de conjugació: revendre
 SFX 81 Y 71
-SFX 81 e e/_D_Y_V re
+SFX 81 e e/_D_Y re
 SFX 81 dre ent/_C re
 SFX 81 dre ut/_V_Y re
 SFX 81 dre uda/_Y re
@@ -10830,8 +10830,8 @@ SFX 81 dre guen/_C re
 SFX 81 dre guin/_C re
 # Model de conjugació: revenir
 SFX 82 Y 109
-SFX 82 r r/_C_Y_V ir
-SFX 82 enir indre/_D_Y_V ir
+SFX 82 r r/_C_Y ir
+SFX 82 enir indre/_D_Y ir
 SFX 82 r nt/_C ir
 SFX 82 enir ingut/_V_Y ir
 SFX 82 ir gut/_V_Y ir
@@ -10941,7 +10941,7 @@ SFX 82 ir guin/_C ir
 SFX 82 enir inguin/_C ir
 # Model de conjugació: riure
 SFX 83 Y 78
-SFX 83 e e/_D_Y_V re
+SFX 83 e e/_D_Y re
 SFX 83 ure ent/_C re
 SFX 83 ure gut/_V_Y re
 SFX 83 ure st/_V_Y re
@@ -11021,7 +11021,7 @@ SFX 83 ure guen/_C re
 SFX 83 ure guin/_C re
 # Model de conjugació: romandre
 SFX 84 Y 69
-SFX 84 e e/_D_Y_V re
+SFX 84 e e/_D_Y re
 SFX 84 dre ent/_C re
 SFX 84 andre às/_V_Y re
 SFX 84 ndre sa/_Y re
@@ -11092,7 +11092,7 @@ SFX 84 dre guen/_C re
 SFX 84 dre guin/_C re
 # Model de conjugació: saber
 SFX 85 Y 73
-SFX 85 r r/_C_Y_V er
+SFX 85 r r/_C_Y er
 SFX 85 r nt/_C er
 SFX 85 er ut/_V_Y er
 SFX 85 er uda/_Y er
@@ -11167,9 +11167,9 @@ SFX 85 aber àpiguen/_C er
 SFX 85 aber àpien/_C er
 # Model de conjugació: ser
 SFX 86 Y 83
-SFX 86 r r/_C_Y_V er
-SFX 86 ser ésser/_C_Y_V er
-SFX 86 ser esser/_C_Y_V er
+SFX 86 r r/_C_Y er
+SFX 86 ser ésser/_C_Y er
+SFX 86 ser esser/_C_Y er
 SFX 86 ser essent/_C er
 SFX 86 r nt/_C er
 SFX 86 ser estat/_V_Y er
@@ -11252,7 +11252,7 @@ SFX 86 er iguen/_C er
 SFX 86 er iguin/_C er
 # Model de conjugació: servir
 SFX 87 Y 90
-SFX 87 r r/_C_Y_V ir
+SFX 87 r r/_C_Y ir
 SFX 87 r nt/_C ir
 SFX 87 r t/_V_Y ir
 SFX 87 r da/_Y ir
@@ -11344,7 +11344,7 @@ SFX 87 ir esquin/_C ir
 SFX 87 ir eixin/_C ir
 # Model de conjugació: sofrir
 SFX 88 Y 94
-SFX 88 r r/_C_Y_V ir
+SFX 88 r r/_C_Y ir
 SFX 88 r nt/_C ir
 SFX 88 rir ert/_V_Y ir
 SFX 88 r t/_V_Y ir
@@ -11440,7 +11440,7 @@ SFX 88 ir esquin/_C ir
 SFX 88 ir eixin/_C ir
 # Model de conjugació: soler
 SFX 89 Y 69
-SFX 89 r r/_C_Y_V er
+SFX 89 r r/_C_Y er
 SFX 89 r nt/_C er
 SFX 89 er gut/_V_Y er
 SFX 89 er guda/_Y er
@@ -11511,7 +11511,7 @@ SFX 89 er guen/_C er
 SFX 89 er guin/_C er
 # Model de conjugació: sortir
 SFX 8A Y 70
-SFX 8A r r/_C_Y_V ir
+SFX 8A r r/_C_Y ir
 SFX 8A r nt/_C ir
 SFX 8A r t/_V_Y ir
 SFX 8A r da/_Y ir
@@ -11583,7 +11583,7 @@ SFX 8A ortir urten/_C ir
 SFX 8A ortir urtin/_C ir
 # Model de conjugació: subjaure
 SFX 8B Y 74
-SFX 8B e e/_D_Y_V re
+SFX 8B e e/_D_Y re
 SFX 8B ure ient/_C re
 SFX 8B ure gut/_V_Y re
 SFX 8B ure guda/_Y re
@@ -11659,7 +11659,7 @@ SFX 8B ure guen/_C re
 SFX 8B ure guin/_C re
 # Model de conjugació: témer
 SFX 8C Y 70
-SFX 8C r r/_C_Y_V er
+SFX 8C r r/_C_Y er
 SFX 8C émer ement/_C er
 SFX 8C émer emut/_V_Y er
 SFX 8C émer emuda/_Y er
@@ -11731,7 +11731,7 @@ SFX 8C émer emen/_C er
 SFX 8C émer emin/_C er
 # Model de conjugació: tòrcer
 SFX 8D Y 70
-SFX 8D r r/_C_Y_V er
+SFX 8D r r/_C_Y er
 SFX 8D òrcer orcent/_C er
 SFX 8D òrcer orçut/_V_Y er
 SFX 8D òrcer orçuda/_Y er
@@ -11803,7 +11803,7 @@ SFX 8D òrcer orcen/_C er
 SFX 8D òrcer orcin/_C er
 # Model de conjugació: teixir
 SFX 8E Y 107
-SFX 8E r r/_C_Y_V ir
+SFX 8E r r/_C_Y ir
 SFX 8E r nt/_C ir
 SFX 8E r t/_V_Y ir
 SFX 8E r da/_Y ir
@@ -11912,8 +11912,8 @@ SFX 8E eixir ixin/_C ir
 SFX 8E ir eixin/_C ir
 # Model de conjugació: tenir
 SFX 8F Y 113
-SFX 8F r r/_C_Y_V ir
-SFX 8F enir indre/_D_Y_V ir
+SFX 8F r r/_C_Y ir
+SFX 8F enir indre/_D_Y ir
 SFX 8F r nt/_C ir
 SFX 8F enir ingut/_V_Y ir
 SFX 8F ir gut/_V_Y ir
@@ -12027,7 +12027,7 @@ SFX 8F ir guin/_C ir
 SFX 8F enir inguin/_C ir
 # Model de conjugació: tenyir
 SFX 90 Y 107
-SFX 90 r r/_C_Y_V ir
+SFX 90 r r/_C_Y ir
 SFX 90 r nt/_C ir
 SFX 90 r t/_V_Y ir
 SFX 90 r da/_Y ir
@@ -12136,7 +12136,7 @@ SFX 90 enyir inyin/_C ir
 SFX 90 ir eixin/_C ir
 # Model de conjugació: tossir
 SFX 91 Y 73
-SFX 91 r r/_C_Y_V ir
+SFX 91 r r/_C_Y ir
 SFX 91 r nt/_C ir
 SFX 91 r t/_V_Y ir
 SFX 91 r da/_Y ir
@@ -12211,7 +12211,7 @@ SFX 91 ossir ussen/_C ir
 SFX 91 ossir ussin/_C ir
 # Model de conjugació: traduir
 SFX 92 Y 90
-SFX 92 r r/_C_Y_V ir
+SFX 92 r r/_C_Y ir
 SFX 92 r nt/_C ir
 SFX 92 ir ït/_V_Y ir
 SFX 92 ir ïda/_Y ir
@@ -12303,7 +12303,7 @@ SFX 92 ir esquin/_C ir
 SFX 92 ir eixin/_C ir
 # Model de conjugació: trencar
 SFX 93 Y 84
-SFX 93 r r/_C_Y_V ar
+SFX 93 r r/_C_Y ar
 SFX 93 r nt/_C ar
 SFX 93 r t/_V_Y ar
 SFX 93 r da/_Y ar
@@ -12389,7 +12389,7 @@ SFX 93 car quen/_C ar
 SFX 93 car quin/_C ar
 # Model de conjugació: uïssar
 SFX 94 Y 84
-SFX 94 r r/_C_Y_V ar
+SFX 94 r r/_C_Y ar
 SFX 94 r nt/_C ar
 SFX 94 r t/_V_Y ar
 SFX 94 r da/_Y ar
@@ -12475,8 +12475,8 @@ SFX 94 ar en/_C ar
 SFX 94 ar in/_C ar
 # Model de conjugació: valer
 SFX 95 Y 70
-SFX 95 er dre/_D_Y_V er
-SFX 95 r r/_C_Y_V er
+SFX 95 er dre/_D_Y er
+SFX 95 r r/_C_Y er
 SFX 95 r nt/_C er
 SFX 95 er gut/_V_Y er
 SFX 95 er guda/_Y er
@@ -12547,7 +12547,7 @@ SFX 95 er guen/_C er
 SFX 95 er guin/_C er
 # Model de conjugació: vendre
 SFX 96 Y 69
-SFX 96 e e/_D_Y_V re
+SFX 96 e e/_D_Y re
 SFX 96 dre ent/_C re
 SFX 96 dre ut/_V_Y re
 SFX 96 dre uda/_Y re
@@ -12618,8 +12618,8 @@ SFX 96 dre guen/_C re
 SFX 96 dre guin/_C re
 # Model de conjugació: venir
 SFX 97 Y 108
-SFX 97 r r/_C_Y_V ir
-SFX 97 enir indre/_D_Y_V ir
+SFX 97 r r/_C_Y ir
+SFX 97 enir indre/_D_Y ir
 SFX 97 r nt/_C ir
 SFX 97 enir ingut/_V_Y ir
 SFX 97 ir gut/_V_Y ir
@@ -12728,7 +12728,7 @@ SFX 97 enir énguin/_C ir
 SFX 97 enir inguin/_C ir
 # Model de conjugació: vestir
 SFX 98 Y 101
-SFX 98 r r/_C_Y_V ir
+SFX 98 r r/_C_Y ir
 SFX 98 r nt/_C ir
 SFX 98 r t/_V_Y ir
 SFX 98 r da/_Y ir
@@ -12831,7 +12831,7 @@ SFX 98 ir esquin/_C ir
 SFX 98 ir eixin/_C ir
 # Model de conjugació: veure
 SFX 99 Y 94
-SFX 99 e e/_D_Y_V re
+SFX 99 e e/_D_Y re
 SFX 99 ure ient/_C re
 SFX 99 ure ent/_C re
 SFX 99 eure ist/_V_Y re
@@ -12927,7 +12927,7 @@ SFX 99 ure gen/_C re
 SFX 99 ure gin/_C re
 # Model de conjugació: voler
 SFX 9A Y 80
-SFX 9A r r/_C_Y_V er
+SFX 9A r r/_C_Y er
 SFX 9A r nt/_C er
 SFX 9A er gut/_V_Y er
 SFX 9A er guda/_Y er
@@ -13009,7 +13009,7 @@ SFX 9A oler ullguen/_C er
 SFX 9A oler ulguin/_C er
 # Model de conjugació: vore
 SFX 9B Y 13
-SFX 9B e e/_D_Y_V re
+SFX 9B e e/_D_Y re
 SFX 9B e é/_Z re
 SFX 9B e às/_Z re
 SFX 9B e à/_Z re

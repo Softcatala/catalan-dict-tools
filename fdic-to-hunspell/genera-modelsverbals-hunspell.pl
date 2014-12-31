@@ -47,9 +47,9 @@ foreach my $file (@files) {
 	    }
 	    if ($postag =~ /^V.N.*$/) {
 		if ($forma =~ /[^e]$/) {
-		    $afixos="_C_Y_V"; #infinitiu acabat en consonant
+		    $afixos="_C_Y"; #infinitiu acabat en consonant
 		} else {
-		    $afixos="_D_Y_V"; #infinitiu acabat en vocal
+		    $afixos="_D_Y"; #infinitiu acabat en vocal
 		}
 	    } elsif ($postag =~ /^V.G.*$/) {
 		$afixos="_C"; #gerundi
