@@ -19,9 +19,6 @@ my $numAccepcio;
 my $tagbefore;
 my $tagafter;
 my $excepcions;
-my $carac="[a-zA-ZûêàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑ·0-9'\-]";
-my $nocarac="[^a-zA-ZûêàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑ·0-9'\-]";
-
 
 # Llegeix afixos 
 my $regles = "regles.hunspell";
@@ -61,7 +58,7 @@ while ( my $line = <$fh> ) {
     # A partir de dues formes, masculí i femení. Ex.: valencià -ana. 
     #
     
-    if ( $line =~ /^($carac+) ($carac+)(.*)=categories: (.+?);/ ) {
+    if ( $line =~ /^($Flexio::carac+) ($Flexio::carac+)(.*)=categories: (.+?);/ ) {
 	$mot_masc=$1;
 	$excepcions=$3;
 	$categoria=$4;
@@ -210,7 +207,7 @@ while ( my $line = <$fh> ) {
 	$numAccepcio = "";
 
         #forma bàsica primera
-	if ($entrada =~ /^($carac+)/)
+	if ($entrada =~ /^($Flexio::carac+)/)
 	{
 	    $singular = $1;
 	    $numAccepcio = "";
