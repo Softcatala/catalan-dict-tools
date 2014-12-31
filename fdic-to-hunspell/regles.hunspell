@@ -361,6 +361,7 @@ REGLA F SFX+ Quatre formes afegint a/s/es (sense o, però també foscos)
 000     0      s           [^asçx]          # verds  <MPL>
 000     a      es          a                # poetes ???
 000     0      os          [sx][ct]         # foscos
+000     0      os          ç                # feliços
 000     0      es          [^aeocçgsux]     # verdes <FPL>
 000     a      es          a                # poetes
 000     0      s           e                # pobres

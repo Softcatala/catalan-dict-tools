@@ -4487,7 +4487,7 @@ NO TROBAT: atropurpuri atropurpúria atropurpuris atropurpúries
 atropurpúria/_V
 atropínic/_F_V_Y
 atropínica/_V
-NO TROBAT: atroç atroços atroces
+atroç/_F_V_Y
 atrèptic/_F_V_Y
 atrèptica/_V
 atrèsic/_F_V_Y
@@ -4549,7 +4549,7 @@ atòpic/_F_V_Y
 atòpica/_V
 audaciós/_J_V_Y
 audaciosa/_V
-NO TROBAT: audaç audaços audaces
+audaç/_F_V_Y
 audible/_E_V_Y
 audiogènic/_F_V_Y
 audiogènica/_V
@@ -6429,7 +6429,7 @@ capafontí/_H
 capalt/_F
 caparrut/_B
 capavallós/_J
-NO TROBAT: capaç capaços capaces
+capaç/_F
 capbaix/_J
 capblanc/_F
 capbrevador/_F
@@ -7877,7 +7877,7 @@ contrit/_F
 controlable/_E
 controvertible/_E
 contràctil/_E
-NO TROBAT: contumaç contumaços contumaces
+contumaç/_F
 contumeliós/_J
 contundent/_E
 contístic/_F
@@ -9742,7 +9742,7 @@ NO TROBAT: efesi efèsia efesis efèsies
 efèsia/_V
 eficacíssim/_F_V_Y
 eficacíssima/_V
-NO TROBAT: eficaç eficaços eficaces
+eficaç/_F_V_Y
 eficient/_E_V_Y
 eflorescent/_E_V_Y
 efluent/_E_V_Y
@@ -12868,7 +12868,7 @@ falsificable/_E
 falsiós/_J
 falsíssim/_F
 fal·laciós/_J
-NO TROBAT: fal·laç fal·laços fal·laces
+fal·laç/_F
 fal·lible/_E
 fal·liforme/_E
 fal·lòcrata/_E
@@ -13013,7 +13013,7 @@ felicià/_H
 felicíssim/_F
 feliuenc/_F
 feliuà/_H
-NO TROBAT: feliç feliços felices
+feliç/_F
 felló/_H
 felsític/_F
 feltrat/_B
@@ -13048,7 +13048,7 @@ fenòlic/_F
 fenòzig/_F
 fer/_F
 feral/_E
-NO TROBAT: feraç feraços feraces
+feraç/_F
 ferecraci/_E
 ferecràtic/_F
 ferest/_F
@@ -13065,7 +13065,7 @@ fermiònic/_F
 fermíssim/_F
 ferocíssim/_F
 ferotge/_E
-NO TROBAT: feroç feroços feroces
+feroç/_F
 feroès/_J
 ferralític/_F
 ferrandí/_H
@@ -13679,7 +13679,7 @@ ftàlic/_F
 fuent/_E
 fuenterroblenc/_F
 fugat/_B
-NO TROBAT: fugaç fugaços fugaces
+fugaç/_F
 fugisser/_F
 fugitiu/_B
 ful/_F
@@ -15894,7 +15894,7 @@ incandescent/_E_V_Y
 incansable/_E_V_Y
 incantable/_E_V_Y
 incanviable/_E_V_Y
-NO TROBAT: incapaç incapaços incapaces
+incapaç/_F_V_Y
 incasable/_E_V_Y
 incaut/_F_V_Y
 incedible/_E_V_Y
@@ -16202,7 +16202,7 @@ ineducable/_E_V_Y
 ineducat/_B_V_Y
 inefable/_E_V_Y
 inefectiu/_B_V_Y
-NO TROBAT: ineficaç ineficaços ineficaces
+ineficaç/_F_V_Y
 ineficient/_E_V_Y
 inelegant/_E_V_Y
 inelegible/_E_V_Y
@@ -16300,7 +16300,7 @@ infectant/_E_V_Y
 infecte/_F_V_Y
 infectiu/_B_V_Y
 infecund/_F_V_Y
-NO TROBAT: infeliç infeliços infelices
+infeliç/_F_V_Y
 inferent/_E_V_Y
 inferible/_E_V_Y
 inferior/_E_V_Y
@@ -17860,7 +17860,7 @@ longistil/_F
 longitudinal/_E
 longobard/_F
 longànime/_E
-NO TROBAT: loquaç loquaços loquaces
+loquaç/_F
 lorenès/_J
 loriguillà/_H
 lorrat/_B
@@ -19258,7 +19258,7 @@ moravià/_H
 morbil·lós/_J
 morbífic/_F
 morbós/_J
-NO TROBAT: mordaç mordaços mordaces
+mordaç/_F
 mordicant/_E
 mordovià/_H
 mordvà/_H
@@ -21893,7 +21893,7 @@ personalíssim/_F
 personificable/_E
 perspectiu/_B
 perspectivista/_E
-NO TROBAT: perspicaç perspicaços perspicaces
+perspicaç/_F
 NO TROBAT: perspicu perspícua perspicus perspícues
 perspiratori/_K
 persuasible/_E
@@ -21901,7 +21901,7 @@ persuasiu/_B
 persulfúric/_E
 persà/_H
 pertanyent/_E
-NO TROBAT: pertinaç pertinaços pertinaces
+pertinaç/_F
 pertinent/_E
 pertorbable/_E
 pertorbador/_F
@@ -22713,7 +22713,7 @@ preconciliar/_E
 preconitzador/_F
 preconstitucional/_E
 precordial/_E
-NO TROBAT: precoç precoços precoces
+precoç/_F
 precristià/_H
 precuinat/_B
 precursor/_F
@@ -22937,7 +22937,7 @@ problemàtic/_F
 probàtica/_E
 procariota/_E
 procariòtic/_F
-NO TROBAT: procaç procaços procaces
+procaç/_F
 procedent/_E
 procedimental/_E
 procel·lós/_J
@@ -23271,7 +23271,7 @@ pufí/_G
 pugenc/_F
 pugetà/_H
 pugilístic/_F
-NO TROBAT: pugnaç pugnaços pugnaces
+pugnaç/_F
 puigbaladonenc/_F
 puigcerdanenc/_F
 puigcerdanès/_J
@@ -23676,7 +23676,7 @@ ranxer/_F
 raonable/_E
 raonador/_F
 rapacíssim/_F
-NO TROBAT: rapaç rapaços rapaces
+rapaç/_F
 raper/_F
 rapidor/_F
 rapidíssim/_F
@@ -24740,7 +24740,7 @@ safrà
 safàvida/_E
 safè/_H
 safèvida/_E
-NO TROBAT: sagaç sagaços sagaces
+sagaç/_F
 saginós/_J
 sagital/_E
 sagitat/_B
@@ -24770,7 +24770,7 @@ salafista/_E
 salamandrí/_H
 salarial/_E
 salassenc/_F
-NO TROBAT: salaç salaços salaces
+salaç/_F
 saldable/_E
 saldenc/_F
 salellès/_J
@@ -25295,7 +25295,7 @@ septuagenari/_K
 septuagèsim/_F
 septífrag/_F
 sepulcral/_E
-NO TROBAT: sequaç sequaços sequaces
+sequaç/_F
 sequerol/_F
 sequerut/_B
 sequier/_F
@@ -26176,7 +26176,7 @@ suspens/_J
 suspensiu/_B
 suspensor/_F
 suspensívor/_F
-NO TROBAT: suspicaç suspicaços suspicaces
+suspicaç/_F
 susquedenc/_F
 sustentable/_E
 sustentacular/_E
@@ -26493,7 +26493,7 @@ temptatiu/_B
 temptejant/_E
 temàtic/_F
 tenasser/_E
-NO TROBAT: tenaç tenaços tenaces
+tenaç/_F
 tendencial/_E
 tendenciós/_J
 tendent/_E
@@ -27960,7 +27960,7 @@ vellós/_J
 vellús/_B
 velocíssim/_F
 velocístic/_F
-NO TROBAT: veloç veloços veloces
+veloç/_F
 velutina/_E
 vel·leià/_H
 vel·leïtós/_J
@@ -28012,7 +28012,7 @@ venós/_J
 veolí/_H
 vepse/_F
 ver/_F
-NO TROBAT: veraç veraços veraces
+veraç/_F
 verbal/_E
 verbalista/_E
 verbalitzador/_F
@@ -28338,7 +28338,7 @@ viu/_B
 viudal/_E
 viudo/_F
 vivander/_F
-NO TROBAT: vivaç vivaços vivaces
+vivaç/_F
 vivencial/_E
 vivenenc/_F
 vivent/_E
@@ -28400,7 +28400,7 @@ vomitiu/_B
 vomitori/_K
 voraginós/_J
 vorassequià/_H
-NO TROBAT: voraç voraços voraces
+voraç/_F
 vorer/_F
 vorà/_H
 votant/_E

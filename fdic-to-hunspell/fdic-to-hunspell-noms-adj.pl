@@ -429,7 +429,7 @@ while ( my $line = <$fh> ) {
 	}
 
 	if ($resultat =~ / /) {
-	    my @lletresregla = ("E", "I", "G", "i");
+	    my @lletresregla = ("E", "I", "G", "i", "F");
 	    my $trobat=0;
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
