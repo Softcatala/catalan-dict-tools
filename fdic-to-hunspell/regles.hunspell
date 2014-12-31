@@ -1300,7 +1300,7 @@ REGLA U SFX+ Formes pures dels verbs en -ir, a partir d'IPR3 (p.e. sent)
 
 // Prefixos
 
-REGLA V PFX Article prefixat no combinable
+REGLA _V PFX Article prefixat no combinable
 // no es pot combinar, per evitar "l'homes"
 000     0      l'          [1aàeèéiíoòóhuú]  # l'home
 000     0      L'          [1aàeèéiíoòóhuú]  # L'home
@@ -1364,14 +1364,14 @@ REGLA V PFX Article prefixat no combinable
 000     h      S'H         h                # S'Hora
 /REGLA
 
-REGLA W PFX Article personal
+REGLA _W PFX Article personal
 000     0      n'          [AÀEÈÉIÍOÒÓHUÚ]  # n'Arnau
 000     0      l'          [AÀEÈÉIÍOÒÓHUÚ]  # l'Arnau
 000     0      N'          [AÀEÈÉIÍOÒÓHUÚ]  # N'Arnau
 000     0      L'          [AÀEÈÉIÍOÒÓHUÚ]  # L'Arnau
 /REGLA
 
-REGLA Y PFX+ Preposició "de" apostrofada
+REGLA _Y PFX+ Preposició "de" apostrofada
 // es pot combinar per permetre "d'homes", "d'anar-se'n", etc.
 000     0      d'          [1aàeèéiíoòóhuúAÀEÈÉIÍOÒÓHUÚ]  # d'algú, d'Algaida, d'11
 000     0      D'          [1aàeèéiíoòóhuúAÀEÈÉIÍOÒÓHUÚ]  # d'Algú, D'Algaida, D'11
@@ -1403,7 +1403,7 @@ REGLA Y PFX+ Preposició "de" apostrofada
 000     h      D'H         h                # D'Hora
 /REGLA
 
-REGLA Z PFX+ Pronoms personals prefixats
+REGLA _Z PFX+ Pronoms personals prefixats
 // es poden combinar amb els sufixos que generen les formes verbals
 000     0      n'          [aàeèéiíoòóhuú]  # n'abillo
 000     0      m'          [aàeèéiíoòóhuú]  # m'abillo
