@@ -3,14 +3,15 @@ use warnings;
 use autodie;
 use utf8;
 use Switch;
-require "../libs/Flexio.pm";
+require "libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
-my $arxiucategoria = $ARGV[0];  # adjectius, noms
+#my $arxiucategoria = $ARGV[0];  # adjectius, noms
 
-my $f1   = "../lt-to-fdic/".$arxiucategoria."-fdic.txt";
-my $out  = $arxiucategoria."-lt.txt";
+my $f1   = $ARGV[0]; # "../lt-to-fdic/".$arxiucategoria."-fdic.txt";
+my $out  = $ARGV[1]; # $arxiucategoria."-lt.txt";
+
 my $out2 = "mots_no_processats.txt";
 
 my $mot_masc;

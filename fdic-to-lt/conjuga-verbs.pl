@@ -6,9 +6,9 @@ use utf8;
 
 binmode( STDOUT, ":utf8" );
 
-my $f1   = "../lt-to-fdic/verbs-fdic.txt";
-my $out  = "verbs-lt.txt";
-my $modelsdir = "../lt-to-fdic/models-verbals/";
+my $f1   = $ARGV[0]; # "../lt-to-fdic/verbs-fdic.txt";
+my $out  = $ARGV[1]; #"verbs-lt.txt";
+my $modelsdir = $ARGV[2]; #"../lt-to-fdic/models-verbals/";
 
 open( my $fh,  "<:encoding(UTF-8)", $f1 );
 open( my $ofh, ">:encoding(UTF-8)", $out );
