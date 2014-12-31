@@ -80,7 +80,7 @@ while ( my $line = <$fh> ) {
 
 	my $fp="";
 	my $mp=""; my $ms2=""; my $mp2="";
-	my $fs2="";
+	my $fs2=""; my $fp2="";
 		
 	
 	$mp=Flexio::plural($mot_masc, "M");
@@ -157,7 +157,7 @@ while ( my $line = <$fh> ) {
 	if ($fs2 =~ /.+/) {
 	    #print $ofh "$fs2 $mot_masc$numAccepcio $tagbefore"."FS"."$tagafter\n";
 	    $resultat.=" ".$fs2;
-	    my $fp2=Flexio::plural($fs2,"F");
+	    $fp2=Flexio::plural($fs2,"F");
 	    $resultat.=" ".$fp2;
 	    #print $ofh "$fp2 $mot_masc$numAccepcio $tagbefore"."FP"."$tagafter\n";
 	}
@@ -177,15 +177,84 @@ while ( my $line = <$fh> ) {
 		    $apostrofacions="_V_Y";
 		}
 		print $ofh "$mot_masc/_$lletraregla$apostrofacions\n";
+		# Apostrofació del femení singular
+		if (Flexio::apostrofa_femeni($mot_fem)) {
+		    print $ofh "$mot_fem/_V_Y\n";
+		}
+		if (Flexio::apostrofa_femeni($fs2)) {
+		    print $ofh "$fs2/_V_Y\n";
+		}
 		$trobat=1;
 		last;
 	    }
 	}
 	if (!$trobat) {
-	    print $ofh "NO TROBAT: $resultat\n";
-	}
-	if (Flexio::apostrofa_femeni($mot_fem)) {
-	    print $ofh "$mot_fem/_V\n";
+	    #print $ofh "NO TROBAT: $resultat\n";
+	    #Escriu totes les formes una per una $mot_masc, $mot_fem, $ms2, $fs2, $mp1, $mp2, $fp1, $fp2
+	    # MS1
+	    if (Flexio::apostrofa_masculi($mot_masc)) {
+		print $ofh "$mot_masc/_V_Y\n";
+	    } else {
+		print $ofh "$mot_masc\n";
+	    }
+	    # MS2
+	    if ($ms2 =~ /.+/) {
+		if (Flexio::apostrofa_masculi($ms2)) {
+		    print $ofh "$ms2/_V_Y\n";
+		} else {
+		    print $ofh "$ms2\n";
+		}
+	    }
+	    # FS1
+	    if (Flexio::apostrofa_femeni($mot_fem)) {
+		print $ofh "$mot_fem/_V_Y\n";
+	    } elsif (Flexio::apostrofa_masculi($mot_fem)) {
+		print $ofh "$mot_fem/_Y\n";
+	    } else {
+		print $ofh "$mot_fem\n";
+	    }
+            # FS2
+	    if ($fs2 =~ /.+/) {
+		if (Flexio::apostrofa_femeni($fs2)) {
+		    print $ofh "$fs2/_V_Y\n";
+		} elsif (Flexio::apostrofa_masculi($fs2)) {
+		    print $ofh "$fs2/_Y\n";
+		} else {
+		    print $ofh "$fs2\n";
+		}
+	    }
+	    # MP
+	    if ($mp =~ /.+/) {
+		if (Flexio::apostrofa_masculi($mp)) {
+		    print $ofh "$mp/_Y\n";
+		} else {
+		    print $ofh "$mp\n";
+		}
+	    }
+            # MP2
+	    if ($mp2 =~ /.+/) {
+		if (Flexio::apostrofa_masculi($mp2)) {
+		    print $ofh "$mp2/_Y\n";
+		} else {
+		    print $ofh "$mp2\n";
+		}
+	    }
+           # FP
+	    if ($fp =~ /.+/) {
+		if (Flexio::apostrofa_masculi($fp)) {
+		    print $ofh "$fp/_Y\n";
+		} else {
+		    print $ofh "$fp\n";
+		}
+	    }
+            # FP2
+	    if ($fp2 =~ /.+/) {
+		if (Flexio::apostrofa_masculi($fp2)) {
+		    print $ofh "$fp2/_Y\n";
+		} else {
+		    print $ofh "$fp2\n";
+		}
+	    }
 	}
 
     }
