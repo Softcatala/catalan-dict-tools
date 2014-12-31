@@ -585,7 +585,7 @@ for my $arxiucategoria (@categories) {
 			print $ofh "$plural2$apostrofacions\n";
 		    }
 		     # FEMENIPLURAL
-		    if ($femeniplural =~ /.+/) {
+		    if ($femeniplural =~ /.+/ && $femeniplural !~ /^$plural$/) {
 			$apostrofacions="";
 			if (Flexio::apostrofa_masculi($femeniplural)) {
 			    $apostrofacions.="_Y";
