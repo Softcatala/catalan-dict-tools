@@ -96,7 +96,7 @@ FIRST q/Q j/J w/W x/X y/Y z/Z h/H à/À è/È é/É í/Í ï/Ï ò/Ò ó/Ó ú/�
 // ==========================================================================
 
 // (combinable: p.e. "d'anar-hi")
-REGLA C SFX+ Pronoms personals enclítics darrere consonant
+REGLA _C SFX+ Pronoms personals enclítics darrere consonant
 000     0      -ne         .                # posar-ne
 000     0      -me         .                # posar-me
 000     0      -nos        .                # posar-nos
@@ -184,7 +184,7 @@ REGLA C SFX+ Pronoms personals enclítics darrere consonant
 000     0      -li-les     .                # posar-li-les
 /REGLA
 
-REGLA D SFX+ Pronoms personals enclítics darrere vocal
+REGLA _D SFX+ Pronoms personals enclítics darrere vocal
 000     0      'n          .                # posa'n
 000     0      'm          .                # posa'm
 000     0      'ns         .                # posa'ns
@@ -276,8 +276,8 @@ REGLA D SFX+ Pronoms personals enclítics darrere vocal
 // Formació de plurals
 // ==========================================================================
 
-REGLA E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ i [aeou]ig
-201     èn     én/VY       èn               # aerotrén (AVL)
+REGLA _E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ i [aeou]ig
+201     èn     én/_V_Y     èn               # aerotrén (AVL)
 000     0      s           [^ans]           # homes  <PLU>
 000     0      s           [^íéè]n			    # cànon
 000     ín     ins         ín               # isospín
@@ -297,8 +297,8 @@ REGLA E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ i
 //       car generaria formes incorrectes (com "postos")
 
 // NOTA: totes les paraules que segueixen la regla I són masculines
-REGLA I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
-201     ès     és/VY       ès               # benentés (AVL)
+REGLA _I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
+201     ès     és/_V_Y     ès               # benentés (AVL)
 000     0      os          [^s]             # guixos  <PLU>
 000     0      os          [^àèéíòóú]s      # gasos, cursos
 000     às     asos        às               # biogasos
@@ -315,8 +315,8 @@ REGLA I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
 /REGLA
 
 // NOTA: Similar a la regla I, però amb canvi s > ss
-REGLA i SFX+ Plurals afegint o (eventualment amb canvi d'accent)
-201     ès     és/VY       ès               # benentés (AVL)
+REGLA _i SFX+ Plurals afegint o (eventualment amb canvi d'accent)
+201     ès     és/_V_Y       ès               # benentés (AVL)
 000     às     assos       às               # bordegassos <PLU>
 000     ès     essos       ès               # 
 000     és     essos       és               # 
@@ -331,8 +331,8 @@ REGLA i SFX+ Plurals afegint o (eventualment amb canvi d'accent)
 /REGLA
 
 
-REGLA G SFX+ Plurals afegint ns
-201     è      é/VY        è                # benzé (AVL)
+REGLA _G SFX+ Plurals afegint ns
+201     è      é/_V_Y        è                # benzé (AVL)
 000     0      ns          a                # pans  <PLU>
 000     0      ns          e                # blens
 000     0      ns          i                # brins
@@ -354,7 +354,7 @@ REGLA G SFX+ Plurals afegint ns
 // Quatre formes (femení, masculí plural, femení plural)
 // ==========================================================================
 
-REGLA F SFX+ Quatre formes afegint a/s/es (sense o, però també foscos)
+REGLA _F SFX+ Quatre formes afegint a/s/es (sense o, però també foscos)
 000     0      a           [^eosxç]         # verda  <FEM>
 000     e      a           e                # altra
 000     o      a           o                # fonda
@@ -376,8 +376,8 @@ REGLA F SFX+ Quatre formes afegint a/s/es (sense o, però també foscos)
 000     u      ües         [gq]u            # ambigües
 /REGLA
 
-REGLA B SFX+ Quatre formes amb canvi t > d, u > v, c > g, s > ss
-201     ès     és/VY       ès               # espés (AVL), admet article i de apostrofats
+REGLA _B SFX+ Quatre formes amb canvi t > d, u > v, c > g, s > ss
+201     ès     és/_V_Y       ès               # espés (AVL), admet article i de apostrofats
 000     t      da          t                # abalida - canvi t > d   <FEM>
 000     u      va          u                # nova    - canvi u > v
 000     c      ga          c                # antiga  - canvi c > g
@@ -425,8 +425,8 @@ REGLA B SFX+ Quatre formes amb canvi t > d, u > v, c > g, s > ss
 000     ús     üsses       [aeoi]ús         #
 /REGLA
 
-REGLA H SFX+ Quatre formes afegint ns
-201     è      é/VY        è                # cinquanta-uné (AVL)
+REGLA _H SFX+ Quatre formes afegint ns
+201     è      é/_V_Y        è                # cinquanta-uné (AVL)
 000     0      na          [aeiou]          # plana, plena, fina, bona, bruna   <FEM>
 000     à      ana         à                # forana
 000     è      ena         è                # amena
@@ -462,8 +462,8 @@ REGLA H SFX+ Quatre formes afegint ns
 000     ú      unes        ú                # dejunes
 /REGLA
 
-REGLA J SFX+ Quatre formes afegint a/os/es
-201     ès     és/VY       ès               # ofés (AVL), admet article i de apostrofats
+REGLA _J SFX+ Quatre formes afegint a/os/es
+201     ès     és/_V_Y       ès               # ofés (AVL), admet article i de apostrofats
 000     0      a           [^s]             # dolça, laxa    <FEM>
 000     0      a           [^àèéíòóú]s      # agradosa
 000     às     asa         às               # 
@@ -494,7 +494,7 @@ REGLA J SFX+ Quatre formes afegint a/os/es
 000     ús     uses        ús               # 
 /REGLA
 
-REGLA K SFX+ Quatre formes amb canvi d'accent (accent greu), o canvi de vocal
+REGLA _K SFX+ Quatre formes amb canvi d'accent (accent greu), o canvi de vocal
 000     ari    ària        ari              # partidària     <FEM>
 000     aci    àcia        aci              # acantàcia
 000     adi    àdia        adi              # accàdia
@@ -522,7 +522,7 @@ REGLA K SFX+ Quatre formes amb canvi d'accent (accent greu), o canvi de vocal
 000     ani    ànies       ani              # mediterrànies
 /REGLA
 
-REGLA L SFX+ Quatre formes amb canvi d'accent (accent agut)
+REGLA _L SFX+ Quatre formes amb canvi d'accent (accent agut)
 000     ini    ínia        ini              # abissínia     <FEM>
 000     igi    ígia        igi              # frígia
 000     igin   ígina       igin             # perígina

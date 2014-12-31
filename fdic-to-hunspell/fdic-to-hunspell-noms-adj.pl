@@ -16,7 +16,7 @@ my $spfx;
 my $regla ="";
 while (my $line = <$fh>) {
     chomp($line);
-    if ($line =~ /^REGLA ([EIiGFBHJKL]) ([SP]FX)/) {
+    if ($line =~ /^REGLA (_[EIiGFBHJKL]) ([SP]FX)/) {
 	$regla = $1;
 	$spfx =$2;
 	$inregla = 1;
@@ -171,7 +171,7 @@ for my $arxiucategoria (@categories) {
 		$resultat.=" ***POSSIBLE ERROR*** $line\n";
 	    }
 	    
-	    my @lletresregla = ("F","B","H", "J", "K", "L");
+	    my @lletresregla = ("_F","_B","_H", "_J", "_K", "_L");
 	    my $trobat=0;
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($mot_masc, $lletraregla) =~ /^$resultat$/) {
@@ -179,7 +179,7 @@ for my $arxiucategoria (@categories) {
 		    if (Flexio::apostrofa_masculi($mot_masc)) {
 			$apostrofacions="_V_Y";
 		    }
-		    print $ofh "$mot_masc/_$lletraregla$apostrofacions\n";
+		    print $ofh "$mot_masc/$lletraregla$apostrofacions\n";
 		    # Apostrofació del femení singular
 		    if (Flexio::apostrofa_femeni($mot_fem)) {
 			print $ofh "$mot_fem/_V_Y\n";
@@ -499,7 +499,7 @@ for my $arxiucategoria (@categories) {
 	    }
 
 	    if ($resultat =~ / /) {
-		my @lletresregla = ("E", "I", "G", "i", "F");
+		my @lletresregla = ("_E", "_I", "_G", "_i", "_F");
 		my $trobat=0;
 		foreach my $lletraregla (@lletresregla) {
 		    if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
@@ -514,7 +514,7 @@ for my $arxiucategoria (@categories) {
 			} elsif (Flexio::apostrofa_masculi($singular)) {
 			    $apostrofacions="_V_Y";
 			}
-			print $ofh "$singular/_$lletraregla$apostrofacions\n";
+			print $ofh "$singular/$lletraregla$apostrofacions\n";
 			$trobat=1;
 			last;
 		    }
