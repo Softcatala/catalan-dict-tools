@@ -32,7 +32,7 @@ my $spfx;
 my $regla ="";
 while (my $line = <$fh>) {
     chomp($line);
-    if ($line =~ /^REGLA ([EIGFBHJKL]) ([SP]FX)/) {
+    if ($line =~ /^REGLA ([EIiGFBHJKL]) ([SP]FX)/) {
 	$regla = $1;
 	$spfx =$2;
 	$inregla = 1;
@@ -429,7 +429,7 @@ while ( my $line = <$fh> ) {
 	}
 
 	if ($resultat =~ / /) {
-	    my @lletresregla = ("E","I","G");
+	    my @lletresregla = ("E", "I", "G", "i");
 	    my $trobat=0;
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {

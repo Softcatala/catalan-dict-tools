@@ -314,6 +314,23 @@ REGLA I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
 000     ús     üsos        [aeoi]ús         #
 /REGLA
 
+// NOTA: Similar a la regla I, però amb canvi s > ss
+REGLA i SFX+ Plurals afegint o (eventualment amb canvi d'accent)
+201     ès     és/VY       ès               # benentés (AVL)
+000     às     assos       às               # bordegassos <PLU>
+000     ès     essos       ès               # 
+000     és     essos       és               # 
+000     ís     issos       [^aeou]ís        # 
+000     ís     ïssos       [aeo]ís          # suïssos
+000     ís     issos       [gq]uís          #
+000     ís     ïssos       [^gq]uís         #
+000     òs     ossos       òs               # 
+000     ós     ossos       ós               # 
+000     ús     ussos       [^aeoi]ús        #
+000     ús     üssos       [aeoi]ús         #
+/REGLA
+
+
 REGLA G SFX+ Plurals afegint ns
 201     è      é/VY        è                # benzé (AVL)
 000     0      ns          a                # pans  <PLU>
