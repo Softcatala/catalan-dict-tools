@@ -161,10 +161,10 @@ sub desplega_femeni_amb_guionet {
 # Retorna 1 si un mot masculí s'ha d'apostrofar
 sub apostrofa_masculi {
     my $mot = $_[0];
-    if ($mot =~ /^h?[aeiouàèéíòóú]/i && $mot !~ /^(h?[ui][aeioàèéóòu].+|[aeio]|host|$hacaspirada)$/i) {
+    if ($mot =~ /^h?[aeiouàèéíòóú]/i && $mot !~ /^(h?[ui][aeioàèéóòu].*|[aeio]|host|$hacaspirada)$/i) {
 	return 1;
     }
-    if ($mot =~ /^(ió|ions|ionitza.+|h?uix.+|Iowa|Uialfàs)/) {
+    if ($mot =~ /^(ió|ions|ionitza.+|h?uix.+|Iowa|Uialfàs|Iu)$/) {
 	return 1;
     }
     return 0;
