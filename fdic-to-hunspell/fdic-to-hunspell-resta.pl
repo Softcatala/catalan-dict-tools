@@ -29,6 +29,23 @@ foreach my $file (@files) {
 		    $apostrofacions.="_Y";
 		}
 	    }
+            # apostrofa el > l'
+	    if ($postag =~ /^(NPMS.*)$/) {
+		if (Flexio::apostrofa_masculi($forma)) {
+		    $apostrofacions.="_V";
+		}
+	    }
+	    if ($postag =~ /^RG$/ && $forma =~ /ment$/ ) {
+		if (Flexio::apostrofa_masculi($forma)) {
+		    $apostrofacions.="_V";
+		}
+	    }
+	    # apostrofa la > l'
+	    if ($postag =~ /^(NPFS.*)$/) {
+		if (Flexio::apostrofa_femeni($forma)) {
+		    $apostrofacions.="_V";
+		}
+	    }
 	    $apostrofacions =~ s/^(.+)$/\/$1/;
 	    print $ofh "$forma$apostrofacions\n";
 	}
