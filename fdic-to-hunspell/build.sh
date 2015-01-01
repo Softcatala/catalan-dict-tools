@@ -1,4 +1,6 @@
 #!/bin/bash
+perl genera-afixos-hunspell.pl
+perl genera-modelsverbals-hunspell.pl
 perl fdic-to-hunspell-verbs.pl
 perl fdic-to-hunspell-noms-adj.pl
 perl fdic-to-hunspell-resta.pl
