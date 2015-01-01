@@ -19,7 +19,7 @@ foreach my $file (@files) {
     LINE: while (my $line = <$fh>) {
 	if ($line =~ /^(.+) (.+) (.+)$/) {
 	    my $forma = $1;
-	    if ($forma =~ /^['-].*/) { next LINE; }
+	    if ($forma =~ /^['-]|['-]$/) { next LINE; }
 	    my $lema = $2;
 	    my $postag = $3;
 	    my $apostrofacions="";
