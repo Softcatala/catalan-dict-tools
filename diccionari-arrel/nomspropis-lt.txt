@@ -2275,7 +2275,6 @@ Baden-Baden Baden-Baden NPCNSP0
 Baden-Baden Baden-Baden NPMSG00
 Baden-Württemberg Baden-Württemberg NPCNSP0
 Baden-Württemberg Baden-Württemberg NPCSG00
-Baden-Württemberg Baden-Württemberg NPMSG00
 Badenes Badenes NPCNSP0
 Badgastein Badgastein NPCSG00
 Badia Badia NPCNSP0
