@@ -9,7 +9,7 @@ use Encode qw(decode);
 binmode( STDOUT, ":utf8" );
 
 
-my $modelsdir = "../lt-to-fdic/models-verbals/";
+my $modelsdir = "../diccionari-arrel/models-verbals/";
 my @files = glob($modelsdir."*.model");
 my $modelscount = 0;
 my $afffile = "modelsverbals.aff";

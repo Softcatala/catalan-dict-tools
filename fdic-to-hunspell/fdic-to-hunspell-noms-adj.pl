@@ -36,7 +36,7 @@ my @categories = ('adjectius', 'noms');
 
 for my $arxiucategoria (@categories) {
 
-    my $f1   = "../lt-to-fdic/".$arxiucategoria."-fdic.txt";
+    my $f1   = "../diccionari-arrel/".$arxiucategoria."-fdic.txt";
     my $out  = $arxiucategoria."-hunspell.dic";
     my $out2 = "mots_no_processats.txt";
 

@@ -8,9 +8,9 @@ require "../libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
-my $f1   = "../lt-to-fdic/verbs-fdic.txt";
+my $f1   = "../diccionari-arrel/verbs-fdic.txt";
 my $out  = "verbs-hunspell.dic";
-my $modelsdir = "../lt-to-fdic/models-verbals/";
+my $modelsdir = "../diccionari-arrel/models-verbals/";
 
 my @files = glob($modelsdir."*.model");
 my $modelscount = 0;
