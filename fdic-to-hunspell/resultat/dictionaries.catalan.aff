@@ -1,5 +1,6 @@
 SET UTF-8
 FLAG long
+FULLSTRIP
 WORDCHARS ·-'
 TRY easirtocnlumdpgvfbqjwxyzhàèéíïòóúüç·-'
 
