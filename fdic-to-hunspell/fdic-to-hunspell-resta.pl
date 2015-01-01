@@ -24,13 +24,18 @@ foreach my $file (@files) {
 	    my $postag = $3;
 	    my $apostrofacions="";
 	    # apostrofa d'
-	    if ($postag =~ /^(RG.*|NP.*|DD.*)$/) {
+	    if ($postag =~ /^(RG.*|NP.*|D[DI].*)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
 		    $apostrofacions.="_Y";
 		}
 	    }
             # apostrofa el > l'
 	    if ($postag =~ /^(NPMS.*)$/) {
+		if (Flexio::apostrofa_masculi($forma)) {
+		    $apostrofacions.="_V";
+		}
+	    }
+	    if ($forma =~ /^(un|una)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
 		    $apostrofacions.="_V";
 		}
