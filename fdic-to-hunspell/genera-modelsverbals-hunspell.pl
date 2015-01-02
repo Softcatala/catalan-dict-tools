@@ -25,7 +25,7 @@ foreach my $file (@files) {
     my @lines = <$modelfh>;
     my $numlines = @lines;
     close ($modelfh);
-    print $ofh "# Model de conjugació: $infinitiu\n";
+    print $ofh "\n# Model de conjugació: $infinitiu\n";
     print $ofh "SFX $sufix Y $numlines\n";
     open( $modelfh,  "<:encoding(UTF-8)", $file );
     while (my $modelline = <$modelfh>) {
