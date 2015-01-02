@@ -1302,8 +1302,8 @@ REGLA U SFX+ Formes pures dels verbs en -ir, a partir d'IPR3 (p.e. sent)
 
 REGLA _V PFX Article prefixat no combinable
 // no es pot combinar, per evitar "l'homes"
-000     0      l'          [1aàeèéiíoòóhuú]  # l'home
-000     0      L'          [1aàeèéiíoòóhuú]  # L'home
+000     0      l'          [1aàeèéiíoòóhuú] # l'home
+000     0      L'          [1aàeèéiíoòóhuú] # L'home
 000     0      l'          [AÀEÈÉIÍOÒÓHUÚ]  # l'Home
 000     0      L'          [AÀEÈÉIÍOÒÓHUÚ]  # L'Alcúdia
 000     0      s'          [aàeèéiíoòóhuú]  # s'home
