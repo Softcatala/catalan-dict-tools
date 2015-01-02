@@ -1,0 +1,6 @@
+Si la substitució en la regla hunspell és de tota la paraula, no va bé. 
+Per ex.: ser és.  FET
+
+d'un... FET
+
+combinacions de pronoms febles: se'l, m'ho, etc. FET
