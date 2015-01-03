@@ -3,6 +3,7 @@ use strict;
 use warnings;
 use autodie;
 use utf8;
+no locale;
 use Encode qw(decode);
 require "../libs/Flexio.pm";
 
@@ -13,6 +14,7 @@ my $out  = "verbs-hunspell.dic";
 my $modelsdir = "../diccionari-arrel/models-verbals/";
 
 my @files = glob($modelsdir."*.model");
+@files = sort(@files);
 my $modelscount = 0;
 my %sufixos = ();
 #llegeix nom dels models i assigna sufix hexadeximal 01..9B

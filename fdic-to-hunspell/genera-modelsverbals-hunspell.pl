@@ -4,13 +4,14 @@ use warnings;
 use autodie;
 use utf8;
 use Encode qw(decode);
-
+no locale;
 
 binmode( STDOUT, ":utf8" );
 
 
 my $modelsdir = "../diccionari-arrel/models-verbals/";
 my @files = glob($modelsdir."*.model");
+@files = sort (@files);
 my $modelscount = 0;
 my $afffile = "modelsverbals.aff";
 open( my $ofh, ">:encoding(UTF-8)", $afffile );
