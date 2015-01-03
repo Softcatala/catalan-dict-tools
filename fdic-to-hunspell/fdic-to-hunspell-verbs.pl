@@ -43,8 +43,13 @@ while (my $line = <$fh>) {
 	if ( Flexio::apostrofa_masculi($infinitiu) ) {
 	    $apostrofainfinitiu = "_V";
 	}
-	print $ofh "$infinitiu/$sufixos{$model}$apostrofainfinitiu\n";
-	# participi femení singular amb l'
+	if ($model =~ /^cantar$/ && !Flexio::apostrofa_masculi($infinitiu)) {
+	    print $ofh "$infinitiu/00\n"; # model especial sense apostrofació: cantar, iodar, halar, etc.
+	} else {
+	    print $ofh "$infinitiu/$sufixos{$model}$apostrofainfinitiu\n";
+	}
+	
+        # participi femení singular amb l'
 	if ($infinitiu =~ /^h?[aeo]/) {
 	    open( my $modelfh,  "<:encoding(UTF-8)", $modelsdir.$model.".model" );
 	    while (my $modelline = <$modelfh>) {
