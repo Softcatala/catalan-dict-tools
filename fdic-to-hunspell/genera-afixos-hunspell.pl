@@ -5,8 +5,8 @@ use utf8;
 
 
 # Llegeix afixos 
-my $regles = "regles.hunspell";
-my $fitxereixida = "afixos-no-verbs.aff";
+my $regles = $ARGV[0];
+my $fitxereixida = $ARGV[1];
 open( my $ofh,  ">:encoding(UTF-8)", $fitxereixida );
 open( my $fh,  "<:encoding(UTF-8)", $regles );
 my $inregla = 0;
@@ -25,7 +25,7 @@ while (my $line = <$fh>) {
 	$combina =~ s/^$/N/;
 	$combina =~ s/^\+$/Y/;
     } elsif ($line =~ /^\/REGLA/ && $inregla) {
-	print $ofh "$spfx $regla $combina $compta\n";
+	print $ofh "\n$spfx $regla $combina $compta\n";
 	for my $liniaregla (@regles) {
 	    print $ofh "$liniaregla\n";
 	}

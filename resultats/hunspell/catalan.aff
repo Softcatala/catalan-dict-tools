@@ -55,6 +55,7 @@ REP ú Ú
 REP ü Ü
 
 
+
 SFX _C Y 85
 SFX _C 0 -ne .
 SFX _C 0 -me .
@@ -141,6 +142,7 @@ SFX _C 0 -li'l .
 SFX _C 0 -li'ls .
 SFX _C 0 -li-la .
 SFX _C 0 -li-les .
+
 SFX _D Y 85
 SFX _D 0 'n .
 SFX _D 0 'm .
@@ -227,6 +229,7 @@ SFX _D 0 -li'l .
 SFX _D 0 -li'ls .
 SFX _D 0 -li-la .
 SFX _D 0 -li-les .
+
 SFX _E Y 15
 SFX _E èn én/_V_Y èn
 SFX _E 0 s [^ans]
@@ -243,6 +246,7 @@ SFX _E ca ques ca
 SFX _E ça ces ça
 SFX _E ga gues ga
 SFX _E ja ges ja
+
 SFX _I Y 14
 SFX _I ès és/_V_Y ès
 SFX _I 0 os [^s]
@@ -258,6 +262,7 @@ SFX _I òs osos òs
 SFX _I ós osos ós
 SFX _I ús usos [^aeoi]ús
 SFX _I ús üsos [aeoi]ús
+
 SFX _i Y 12
 SFX _i ès és/_V_Y ès
 SFX _i às assos às
@@ -271,6 +276,7 @@ SFX _i òs ossos òs
 SFX _i ós ossos ós
 SFX _i ús ussos [^aeoi]ús
 SFX _i ús üssos [aeoi]ús
+
 SFX _G Y 16
 SFX _G è é/_V_Y è
 SFX _G 0 ns a
@@ -288,6 +294,7 @@ SFX _G í ïns [aeo]í
 SFX _G ò ons ò
 SFX _G ó ons ó
 SFX _G ú uns ú
+
 SFX _F Y 19
 SFX _F 0 a [^eosxç]
 SFX _F e a e
@@ -308,6 +315,7 @@ SFX _F ç ces ç
 SFX _F g gues g
 SFX _F 0 es [^gq]u
 SFX _F u ües [gq]u
+
 SFX _B Y 46
 SFX _B ès és/_V_Y ès
 SFX _B t da t
@@ -355,6 +363,7 @@ SFX _B òs osses òs
 SFX _B ós osses ós
 SFX _B ús usses [^aeoi]ús
 SFX _B ús üsses [aeoi]ús
+
 SFX _H Y 34
 SFX _H è é/_V_Y è
 SFX _H 0 na [aeiou]
@@ -390,6 +399,7 @@ SFX _H í ïnes [aeo]í
 SFX _H ò ones ò
 SFX _H ó ones ó
 SFX _H ú unes ú
+
 SFX _J Y 29
 SFX _J ès és/_V_Y ès
 SFX _J 0 a [^s]
@@ -420,6 +430,7 @@ SFX _J ís ises ís
 SFX _J òs oses òs
 SFX _J ós oses ós
 SFX _J ús uses ús
+
 SFX _K Y 25
 SFX _K ari ària ari
 SFX _K aci àcia aci
@@ -446,6 +457,7 @@ SFX _K ogin ògines ogin
 SFX _K òleg òlogues òleg
 SFX _K eu ees eu
 SFX _K ani ànies ani
+
 SFX _L Y 19
 SFX _L ini ínia ini
 SFX _L igi ígia igi
@@ -466,6 +478,7 @@ SFX _L igen ígenes igen
 SFX _L agen àgenes agen
 SFX _L umen úmenes umen
 SFX _L ici ícies ici
+
 PFX _V N 60
 PFX _V 0 l' [1aàeèéiíoòóhuú]
 PFX _V 0 L' [1aàeèéiíoòóhuú]
@@ -527,11 +540,13 @@ PFX _V h l'H h
 PFX _V h L'H h
 PFX _V h s'H h
 PFX _V h S'H h
+
 PFX _W N 4
 PFX _W 0 n' [AÀEÈÉIÍOÒÓHUÚ]
 PFX _W 0 l' [AÀEÈÉIÍOÒÓHUÚ]
 PFX _W 0 N' [AÀEÈÉIÍOÒÓHUÚ]
 PFX _W 0 L' [AÀEÈÉIÍOÒÓHUÚ]
+
 PFX _Y Y 28
 PFX _Y 0 d' [1aàeèéiíoòóhuúAÀEÈÉIÍOÒÓHUÚ]
 PFX _Y 0 D' [1aàeèéiíoòóhuúAÀEÈÉIÍOÒÓHUÚ]
@@ -561,6 +576,7 @@ PFX _Y ú d'Ú ú
 PFX _Y ú D'Ú ú
 PFX _Y h d'H h
 PFX _Y h D'H h
+
 PFX _Z Y 5
 PFX _Z 0 n' [aàeèéiíoòóhuú]
 PFX _Z 0 m' [aàeèéiíoòóhuú]

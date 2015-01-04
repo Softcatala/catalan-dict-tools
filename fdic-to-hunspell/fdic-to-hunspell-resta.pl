@@ -3,15 +3,15 @@ use warnings;
 use autodie;
 use utf8;
 use Switch;
-require "../libs/Flexio.pm";
+require "libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
 
-my $diccionariarrel = "../diccionari-arrel/";
+my $diccionariarrel = $ARGV[0]."/";
 my @files = glob($diccionariarrel."*-lt.txt");
 
-my $outputfile = "resta-mots.dic";
+my $outputfile = $ARGV[1]; #"resta-mots.dic";
 open( my $ofh,  ">:encoding(UTF-8)", $outputfile );
 
 foreach my $file (@files) {

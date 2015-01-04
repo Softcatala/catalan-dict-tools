@@ -9,11 +9,11 @@ no locale;
 binmode( STDOUT, ":utf8" );
 
 
-my $modelsdir = "../diccionari-arrel/models-verbals/";
+my $modelsdir = $ARGV[0]."/";
 my @files = glob($modelsdir."*.model");
 @files = sort (@files);
 my $modelscount = 0;
-my $afffile = "modelsverbals.aff";
+my $afffile = $ARGV[1];
 open( my $ofh, ">:encoding(UTF-8)", $afffile );
 foreach my $file (@files) {
     next if ($file !~ /\.model$/);

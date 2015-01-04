@@ -3,12 +3,16 @@ use warnings;
 use autodie;
 use utf8;
 use Switch;
-require "../libs/Flexio.pm";
+require "libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
+
+my $dir_entrada=$ARGV[0];
+my $dir_eixida=$ARGV[1];
+
 # Llegeix afixos 
-my $regles = "regles.hunspell";
+my $regles = $ARGV[2]; #"regles.hunspell";
 open( my $fh,  "<:encoding(UTF-8)", $regles );
 my $inregla = 0;
 my @regles;
@@ -36,9 +40,9 @@ my @categories = ('adjectius', 'noms');
 
 for my $arxiucategoria (@categories) {
 
-    my $f1   = "../diccionari-arrel/".$arxiucategoria."-fdic.txt";
-    my $out  = $arxiucategoria."-hunspell.dic";
-    my $out2 = "mots_no_processats.txt";
+    my $f1   = $dir_entrada."/".$arxiucategoria."-fdic.txt";
+    my $out  = $dir_eixida."/".$arxiucategoria.".dic";
+    my $out2 = $dir_eixida."/"."mots_no_processats.txt";
 
     my $mot_masc;
     my $mot_fem;

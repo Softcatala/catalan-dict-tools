@@ -5,13 +5,13 @@ use autodie;
 use utf8;
 no locale;
 use Encode qw(decode);
-require "../libs/Flexio.pm";
+require "libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
-my $f1   = "../diccionari-arrel/verbs-fdic.txt";
-my $out  = "verbs-hunspell.dic";
-my $modelsdir = "../diccionari-arrel/models-verbals/";
+my $f1   = $ARGV[0]; #"diccionari-arrel/verbs-fdic.txt";
+my $out  = $ARGV[1]; #"verbs-hunspell.dic";
+my $modelsdir = $ARGV[2]."/"; #"diccionari-arrel/models-verbals/";
 
 my @files = glob($modelsdir."*.model");
 @files = sort(@files);
