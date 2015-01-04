@@ -3,16 +3,18 @@ use warnings;
 use autodie;
 use utf8;
 use Switch;
-require "../libs/Flexio.pm";
+require "libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
 my $arxiucategoria = $ARGV[0];  # adjectius, noms
+my $dir_entrada = $ARGV[1];
 
-my $f1   = "../lt-ordenacions/ordenats-".$arxiucategoria.".txt";
-#my $out  = "models_flexio_nominal.txt";
-my $out2 = "mots_no_processats.txt";
-my $out3 = $arxiucategoria."-fdic.txt";
+my $f1 = $dir_entrada."/ordenats-".$arxiucategoria.".txt";
+
+#my $out = "models_flexio_nominal.txt";
+my $out2 = $dir_entrada."/mots_no_processats.txt";
+my $out3 = $dir_entrada."/".$arxiucategoria."-fdic.txt";
 
 my $lemma      = "";
 my $prevLemma  = "";
