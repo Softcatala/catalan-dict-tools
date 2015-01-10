@@ -11,14 +11,14 @@ do
     echo "*** Generant diccionari: $variant"
     mkdir $dir_intermedi
     echo "Generant fitxers d'afixos"
-    perl $dir_programes/genera-afixos-hunspell.pl $dir_dades/regles.hunspell $dir_intermedi/afixos-no-verbs.aff
-    perl $dir_programes/genera-modelsverbals-hunspell.pl $dir_arrel/models-verbals $dir_intermedi/modelsverbals.aff
+    perl $dir_programes/genera-afixos-hunspell.pl $dir_dades/regles.hunspell $dir_intermedi/afixos-no-verbs.aff -$variant
+    perl $dir_programes/genera-modelsverbals-hunspell.pl $dir_arrel/models-verbals $dir_intermedi/modelsverbals.aff -$variant
     echo "Generant diccionari de verbs"
-    perl $dir_programes/fdic-to-hunspell-verbs.pl $dir_arrel/verbs-fdic.txt $dir_intermedi/verbs.dic $dir_arrel/models-verbals
+    perl $dir_programes/fdic-to-hunspell-verbs.pl $dir_arrel/verbs-fdic.txt $dir_intermedi/verbs.dic $dir_arrel/models-verbals -$variant
     echo "Generant diccionari de noms i adjectius"
-    perl $dir_programes/fdic-to-hunspell-noms-adj.pl $dir_arrel $dir_intermedi $dir_dades/regles.hunspell
+    perl $dir_programes/fdic-to-hunspell-noms-adj.pl $dir_arrel $dir_intermedi $dir_dades/regles.hunspell -$variant
     echo "Generant diccionari de la resta de categories"
-    perl $dir_programes/fdic-to-hunspell-resta.pl $dir_arrel $dir_intermedi/resta.dic
+    perl $dir_programes/fdic-to-hunspell-resta.pl $dir_arrel $dir_intermedi/resta.dic -$variant
 
     cp $dir_dades/*.dic $dir_intermedi
     cp $dir_dades/*.aff $dir_intermedi

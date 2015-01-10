@@ -7,6 +7,13 @@ use utf8;
 # Llegeix afixos 
 my $regles = $ARGV[0];
 my $fitxereixida = $ARGV[1];
+
+my $general=0; #Si és 1, versió "general" del corrector
+
+if ( grep( /^-catalan$/, @ARGV ) ) {
+  $general=1;
+}
+
 open( my $ofh,  ">:encoding(UTF-8)", $fitxereixida );
 open( my $fh,  "<:encoding(UTF-8)", $regles );
 my $inregla = 0;
@@ -34,8 +41,11 @@ while (my $line = <$fh>) {
 	$compta = 0;
     } elsif ($inregla) {
 	if ($line =~ /^(...)\s+([^\s]+)\s+([^\s]+)\s+([^\s]+)\s*/) {
-	    $compta++;	
-	    push (@regles, "$spfx $regla $2 $3 $4");
+	    my $etiqueta=$1;
+	    if (!($general && $etiqueta =~ /^2/)) {  #ignora les regles que generen accentuació valenciana
+		$compta++;	
+		push (@regles, "$spfx $regla $2 $3 $4");
+	    }
 	}
     }
 }
