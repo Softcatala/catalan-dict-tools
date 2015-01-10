@@ -230,9 +230,11 @@ SFX _D 0 -li'ls .
 SFX _D 0 -li-la .
 SFX _D 0 -li-les .
 
-SFX _E Y 15
+SFX _E Y 17
 SFX _E èn én/_V_Y èn
+SFX _E è é/_V_Y è
 SFX _E 0 s [^ans]
+SFX _E è és è
 SFX _E 0 s [^íéè]n
 SFX _E ín ins ín
 SFX _E èn ens èn

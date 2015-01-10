@@ -278,8 +278,10 @@ REGLA _D SFX+ Pronoms personals enclítics darrere vocal
 
 REGLA _E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ i [aeou]ig
 201     èn     én/_V_Y     èn               # aerotrén (AVL)
+201     è      é/_V_Y      è                # bebé (AVL)
 000     0      s           [^ans]           # homes  <PLU>
-000     0      s           [^íéè]n			    # cànon
+201     è      és          è                # bebés (AVL)
+000     0      s           [^íéè]n          # cànon
 000     ín     ins         ín               # isospín
 000     èn     ens         èn               # aerotrèn
 000     én     ens         én               # aerotrén
