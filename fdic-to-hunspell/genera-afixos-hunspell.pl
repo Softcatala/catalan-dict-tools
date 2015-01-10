@@ -9,7 +9,6 @@ my $regles = $ARGV[0];
 my $fitxereixida = $ARGV[1];
 
 my $general=0; #Si és 1, versió "general" del corrector
-
 if ( grep( /^-catalan$/, @ARGV ) ) {
   $general=1;
 }

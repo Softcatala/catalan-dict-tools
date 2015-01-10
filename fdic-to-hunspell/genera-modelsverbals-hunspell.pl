@@ -8,6 +8,11 @@ no locale;
 
 binmode( STDOUT, ":utf8" );
 
+my $general=0; #Si és 1, versió "general" del corrector
+if ( grep( /^-catalan$/, @ARGV ) ) {
+  $general=1;
+}
+
 
 my $modelsdir = $ARGV[0]."/";
 my @files = glob($modelsdir."*.model");
@@ -29,7 +34,7 @@ foreach my $file (@files) {
     print $ofh "\n# Model de conjugació: $infinitiu\n";
     print $ofh "SFX $sufix Y $numlines\n";
     open( $modelfh,  "<:encoding(UTF-8)", $file );
-    while (my $modelline = <$modelfh>) {
+    LINE: while (my $modelline = <$modelfh>) {
 	if ($modelline =~ /^(.+) (.+) (.+) (.+) #.*$/) {
 	    my $trau = $1;
 	    my $afegeix = $2;
@@ -46,6 +51,13 @@ foreach my $file (@files) {
 	    if ($afegeix !~ /^0$/) {
 		$forma .= $afegeix;
 	    }
+
+	    #Elimina accentuació valenciana del diccionari general
+	    if ($general) {
+		next LINE if ($postag =~ /^V.P.*$/ && $forma =~ /és$/);
+		next LINE if ($postag =~ /^V.N.*/ && $forma =~ /é(ixer|nyer|ncer)$/ && $forma !~ /(cr|acr|decr|n|p|recr|ren|sobrecr|sobren)éixer$/);
+	    }
+
 	    if ($postag =~ /^V.N.*$/) {
 		if ($forma =~ /[^e]$/) {
 		    $afixos="_C_Y"; #infinitiu acabat en consonant
