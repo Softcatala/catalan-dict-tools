@@ -47,6 +47,8 @@
 GBps GBps Y
 GHz GHz Y
 Gb gigabit Y
+Hz Hz Y
+MHz MHz Y
 Mbps Mbps Y
 R+D R+D NCFS000
 R+D+I R+D+I NCFS000
