@@ -7,6 +7,10 @@ require "libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
+my $general=0; #Si és 1, versió "general" del corrector
+if ( grep( /^-catalan$/, @ARGV ) ) {
+  $general=1;
+}
 
 my $dir_entrada=$ARGV[0];
 my $dir_eixida=$ARGV[1];
@@ -28,7 +32,10 @@ while (my $line = <$fh>) {
 	$inregla = 0;
     } elsif ($inregla) {
 	if ($line =~ /^(...)\s+([^\s]+)\s+([^\s]+)\s+([^\s]+)\s*/) {
-	    push (@regles, "$spfx $regla $2 $3 $4");
+	    my $etiqueta=$1;
+	    if (!($general && $etiqueta =~ /^2/)) {  #ignora les regles que generen accentuació valenciana
+		push (@regles, "$spfx $regla $2 $3 $4");
+	    }
 	}
     }
 }
@@ -126,7 +133,7 @@ for my $arxiucategoria (@categories) {
 
 	    $fp=Flexio::plural($mot_fem, "F"); 
 	    #accentuació valenciana
-	    if ($mot_masc =~ /^(.+)è([sn]?)$/ ) {
+	    if ($mot_masc =~ /^(.+)è([sn]?)$/ && !$general) {
 		$ms2=$1."é".$2;
 	    }
 	    
@@ -338,7 +345,7 @@ for my $arxiucategoria (@categories) {
 	    }
 	    
 	    #accentuació valenciana
-	    if ($singular !~ /^perquè$/) {
+	    if ($singular !~ /^perquè$/ && !$general) {
 		if ($singular =~ /^(.+)è([sn]?)$/ ) {
 		    $singular2=$1."é".$2;
 		    # print "$singular $singular2\n";
