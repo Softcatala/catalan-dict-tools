@@ -56,6 +56,7 @@ foreach my $file (@files) {
 	    if ($general) {
 		next LINE if ($postag =~ /^V.P.*$/ && $forma =~ /és$/);
 		next LINE if ($postag =~ /^V.N.*/ && $forma =~ /é(ixer|nyer|ncer)$/ && $forma !~ /(cr|acr|decr|n|p|recr|ren|sobrecr|sobren)éixer$/);
+		next LINE if ($forma =~ /éie[mu]$/);
 	    }
 
 	    if ($postag =~ /^V.N.*$/) {
