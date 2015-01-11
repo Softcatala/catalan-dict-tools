@@ -3,6 +3,7 @@ FLAG long
 FULLSTRIP
 WORDCHARS ·-'
 TRY easirtocnlumdpgvfbqjwxyzhàèéíïòóúüç·-'
+FORBIDDENWORD ZZ
 
 REP 48
 REP a à
@@ -53,5 +54,4 @@ REP ò Ò
 REP ó Ó
 REP ú Ú
 REP ü Ü
-
 

@@ -3070,7 +3070,6 @@ amitat=categories: F;fonts: LT;
 amitger amitgera=categories: MF;fonts: LT;
 amitosi=categories: F;fonts: LT;
 amitriptilina=categories: F;fonts: LT;
-amixi=categories: F;fonts: LT;
 amièlia=categories: F;fonts: LT;
 ammina=categories: F;fonts: LT;
 ammocet=categories: M;fonts: LT;
