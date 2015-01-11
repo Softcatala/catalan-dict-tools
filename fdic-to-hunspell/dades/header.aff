@@ -6,29 +6,30 @@ KEY qwertyuiop|asdfghjklñ|zxcvbnm|qaw|saz|wse|dsx|sz|edr|fdc|dx|rft|gfv|fc|tgz|
 TRY easirtocnlumdpgvfbqjwxyzhàèéïíòóúüç·-'
 FORBIDDENWORD ZZ
 
-MAP 22
-MAP aà
-MAP aá
-MAP eè
-MAP eé
-MAP ií
-MAP iï
-MAP oò
-MAP oó
-MAP uú
-MAP uü
+MAP 23
+MAP aàáäâ
+MAP eèéëê
+MAP iíïî
+MAP oòóöô
+MAP uúüû
 MAP ae
 MAP uo
 MAP bv
+MAP jg
+MAP (ja)(ge)
+MAP (ga)(gue)
+MAP (ca)(que)
+MAP (ça)(ce)
 MAP i(ll)
 MAP l(l·l)
-MAP x(ix)
-MAP (ch)(tx)
-MAP (ch)(x)
+MAP (ch)(tx)(x)(ix)
 MAP ñ(ny)
-MAP s(ss)
-MAP sç
-MAP ç(ss)
+MAP s(ss)ç
+MAP à(ar)
+MAP é(er)
+MAP í(ir)
+MAP ó(or)
+MAP ú(ur)
 
 REP 48
 REP a à
