@@ -35,6 +35,7 @@ do
     rm $dir_resultat/$variant.*
     cp $dir_intermedi/$variant.* $dir_resultat
     rm -rf $dir_intermedi
+    echo "Per a fer un test: hunspell -d $variant"
 done
 
 
