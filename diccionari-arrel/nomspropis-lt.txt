@@ -10703,6 +10703,7 @@ Kenmare Kenmare NPCSG00
 Kennedy Kennedy NPCNSP0
 Kent Kent NPCSG00
 Kentucky Kentucky NPCSG00
+Kenya Kenya NPFSG00
 Kepler Kepler NPCNSP0
 Kerala Kerala NPCSG00
 Keren Keren NPCSG00

@@ -1,4 +1,5 @@
 graben
 inclusive
-aixar
+aixi, aixo, aixar
 esta
+probe -a, 
