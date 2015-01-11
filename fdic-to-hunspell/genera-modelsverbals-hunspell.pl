@@ -16,6 +16,7 @@ if ( grep( /^-catalan$/, @ARGV ) ) {
 
 my $modelsdir = $ARGV[0]."/";
 my @files = glob($modelsdir."*.model");
+my @regles;
 @files = sort (@files);
 my $modelscount = 0;
 my $afffile = $ARGV[1];
@@ -24,16 +25,10 @@ foreach my $file (@files) {
     next if ($file !~ /\.model$/);
     $modelscount++;
     my $sufix= sprintf ("%02X", $modelscount);
-
-    open( my $modelfh,  "<:encoding(UTF-8)", $file );
     my $infinitiu=decode("utf8",$file);
     $infinitiu =~ s/$modelsdir(.*)\.model/$1/;
-    my @lines = <$modelfh>;
-    my $numlines = @lines;
-    close ($modelfh);
-    print $ofh "\n# Model de conjugació: $infinitiu\n";
-    print $ofh "SFX $sufix Y $numlines\n";
-    open( $modelfh,  "<:encoding(UTF-8)", $file );
+    open( my $modelfh,  "<:encoding(UTF-8)", $file );
+    my $compta=0;
     LINE: while (my $modelline = <$modelfh>) {
 	if ($modelline =~ /^(.+) (.+) (.+) (.+) #.*$/) {
 	    my $trau = $1;
@@ -85,9 +80,17 @@ foreach my $file (@files) {
 	    else {
 		$afixos="_Z";
 	    }
-	    print $ofh "SFX $sufix $trau $afegeix/$afixos $condiciofinal\n";
+	    $compta++;	
+	    push (@regles, "SFX $sufix $trau $afegeix/$afixos $condiciofinal");
 	}
     }
+
+    print $ofh "\n# Model de conjugació: $infinitiu\n";
+    print $ofh "SFX $sufix Y $compta\n";
+    for my $liniaregla (@regles) {
+	print $ofh "$liniaregla\n";
+    }
+    undef @regles;
     close ($modelfh);
 
 }
