@@ -2,8 +2,33 @@ SET UTF-8
 FLAG long
 FULLSTRIP
 WORDCHARS ·-'
-TRY easirtocnlumdpgvfbqjwxyzhàèéíïòóúüç·-'
+KEY qwertyuiop|asdfghjklñ|zxcvbnm|qaw|saz|wse|dsx|sz|edr|fdc|dx|rft|gfv|fc|tgz|hgb|gv|zhu|jhn|hb|uji|kjm|jn|iko|lkmñ|plñç
+TRY easirtocnlumdpgvfbqjwxyzhàèéïíòóúüç·-'
 FORBIDDENWORD ZZ
+
+MAP 22
+MAP aà
+MAP aá
+MAP eè
+MAP eé
+MAP ií
+MAP iï
+MAP oò
+MAP oó
+MAP uú
+MAP uü
+MAP ae
+MAP uo
+MAP bv
+MAP i(ll)
+MAP l(l·l)
+MAP x(ix)
+MAP (ch)(tx)
+MAP (ch)(x)
+MAP ñ(ny)
+MAP s(ss)
+MAP sç
+MAP ç(ss)
 
 REP 48
 REP a à
