@@ -50,7 +50,7 @@ foreach my $file (@files) {
 	    #Elimina accentuació valenciana del diccionari general
 	    if ($general) {
 		next LINE if ($postag =~ /^V.P.*$/ && $forma =~ /és$/);
-		next LINE if ($postag =~ /^V.N.*/ && $forma =~ /é(ixer|nyer|ncer)$/ && $forma !~ /(cr|acr|decr|n|p|recr|ren|sobrecr|sobren)éixer$/);
+		next LINE if ($postag =~ /^V.N.*/ && $forma =~ /é(ixer|nyer|ncer)$/ && $forma !~ /^(cr|acr|decr|n|p|recr|ren|sobrecr|sobren)éixer$/);
 		next LINE if ($forma =~ /éie[mu]$/);
 		next LINE if ($forma =~ /^(apreh|apr|carv|compr|corpr|def|dep|desapr|desp|despr|depr|empr|exp|malpr|malv|mampr|of|repr|retrov|rev|salpr|sobrepr|sorpr|susp|ullpr)én$/);
                 #<!-- Cas molt rar que no es té en compte: "revén" és vàlid en accentuació general com a imperatiu de revenir. No és vàlid si ve de revendre.  -->
