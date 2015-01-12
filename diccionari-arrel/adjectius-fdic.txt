@@ -24302,6 +24302,7 @@ wòlof=categories: A;fonts: LT;
 würmià würmiana=categories: A;fonts: LT;
 xabienc xabienca=categories: A;fonts: LT;
 xabià xabiana=categories: A;fonts: LT;
+xabolista=categories: A;fonts: LT;
 xacarellenc xacarellenca=categories: A;fonts: LT;
 xacrat xacrada=categories: A;fonts: LT;
 xacrós xacrosa=categories: A;fonts: LT;
