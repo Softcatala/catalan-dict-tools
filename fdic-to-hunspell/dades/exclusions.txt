@@ -65,6 +65,8 @@ tios
 EXCLOU LEMA DE catalan
 aborregar
 aborregada
+aborregat
+aborregament
 afiançar
 afiançada
 afincar

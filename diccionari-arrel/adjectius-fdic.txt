@@ -94,7 +94,6 @@ abordable=categories: A;fonts: LT;
 abordador abordadora=categories: A;fonts: LT;
 aborgonyat aborgonyada=categories: A;fonts: LT;
 aborigen=categories: A;fonts: LT;
-aborregat aborregada=categories: A;fonts: LT;
 aborronador aborronadora=categories: A;fonts: LT;
 abortiu abortiva=categories: A;fonts: LT;
 abracadabrant=categories: A;fonts: LT;
