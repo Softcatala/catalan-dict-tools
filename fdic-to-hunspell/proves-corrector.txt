@@ -21,7 +21,7 @@ Paraules excloses:
 Aixo, aixi, aixis, graben, proba, probes, probe, inclusive, aprop, composar, composéssim, composat, graben, 
 
 Vocabulari restringit AVL:
-vore, vorem, alcançar, alcancessin, ahí, este, d'este, d'esta, d'estos, estos, mentres, coentes
+vore, vorem, alcançar, alcancessin, alcançada, ahí, este, esta, d'este, d'esta, d'estos, estos, mentres, coentes, exnóvia, exnóvio, impar, impars, d'impars, 
 
 Formes del DIEC no admeses pel DNV
 bastanta, bastantes
@@ -30,7 +30,7 @@ Compostos amb guionet [no marca error si segmentem amb guionet]
 Barça-Madrid, Barcelona-València, Castella-la Manxa, 
 
 No admès per cap diccionari normatiu
-xavacà, lelo, alelada, despreciable, despreciar, 
+xavacà, lelo, alelada, despreciable, despreciar, despreciada, 
 
 
 
