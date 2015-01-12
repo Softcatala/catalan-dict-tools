@@ -26,6 +26,7 @@ do
     cat $dir_intermedi/*.dic > $dir_intermedi/$variant.dic
 
     #Fes les exclusions
+    echo "Fent exclusions"
     perl $dir_programes/fes-exclusions.pl $dir_dades/exclusions.txt $dir_intermedi/$variant.dic $dir_intermedi/$variant-exclusions.dic
 
     cd $dir_intermedi

@@ -16,13 +16,38 @@ provable
 EXCLOU FORMA DE catalan
 deprés
 deprès
+
+EXCLOU LEMA DE catalan
+arrancar
 este
 esta
 estos
 estes
-
-EXCLOU LEMA DE catalan
-arrancar
+terratrémol
+ségol
+pésol
+trévol
+cércol
+térbol
+estéreo
+mentres
+superjó
+nóvio
+exnóvio
+vosté
+vostés
+allén
+Filomé
+Godofré
+Josué
+Josués
+Manfré
+Mercé
+Mercés
+Jahvé
+Agnés
+Moisés
+Rubén
 
 EXCLOU FORMA DE catalan-valencia
 

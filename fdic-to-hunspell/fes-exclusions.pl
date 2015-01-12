@@ -11,7 +11,7 @@ my $fitxer_diccionari_eixida = $ARGV[2];
 my %exclusions = ();
 my $variant=$fitxer_diccionari;
 $variant =~ s/^.+\/([^\/]+)\.dic/$1/;
-print "Variant: $variant\n";
+#print "Variant: $variant\n";
 open( my $fh,  "<:encoding(UTF-8)", $fitxer_exclusions );
 my $fesexclusio=0;
 my $formaolema="";
@@ -30,10 +30,10 @@ while (my $line = <$fh>) {
     }
 }
 close($fh);
-print "EXCLUSIONS:\n";
-foreach my $clau (keys %exclusions) {
-    print "$clau $exclusions{$clau}\n";
-}
+#print "EXCLUSIONS:\n";
+#foreach my $clau (keys %exclusions) {
+#    print "$clau $exclusions{$clau}\n";
+#}
 
 
 open( $fh,  "<:encoding(UTF-8)", $fitxer_diccionari );
@@ -50,22 +50,16 @@ LINE: while (my $line = <$fh>) {
 	$word=$1;
     }
 
-    if (exists($exclusions{$word}) && $exclusions{$word}=~/^LEMA$/) { #Exemple: composar/..
-	$exclusions{$word}="USADA"; #exclusió usada
-	print "exclusió usada: $word $exclusions{$word}\n";
+    if (exists($exclusions{$word}) && $exclusions{$word}=~/LEMA/) { #Exemple: composar/.., esta/_Y
+	$exclusions{$word}.=" EXCLUSIO_USADA"; #exclusió usada
+#	print "exclusió usada: $word $exclusions{$word}\n";
 	next LINE; #Exclou tot el lema;
     }
-    if (exists($exclusions{$word}) && $exclusions{$word}=~/^FORMA$/ && !$tetags) { #Exemple: graben
-	$exclusions{$word}="USADA"; #exclusió usada
-	print "exclusió usada: $word $exclusions{$word}\n";
+    if (exists($exclusions{$word}) && $exclusions{$word}=~/FORMA/ && !$tetags) { #Exemple: graben
+	$exclusions{$word}.=" EXCLUSIO_USADA"; #exclusió usada
+#	print "exclusió usada: $word $exclusions{$word}\n";
 	next LINE; #Exclou la forma;
     }
-    if (exists($exclusions{$word}) && $exclusions{$word}=~/^LEMA$/ && $tetags) { #Exemple: ??
-	$exclusions{$word}="USADA"; #exclusió usada
-	print "exclusió usada: $word/ZZ $exclusions{$word}\n";
-	print $ofh "$word/ZZ\n";
-    }
-
     print $ofh "$line\n";
 
 }
@@ -73,12 +67,15 @@ close($fh);
 
 #Exclusions no usades
 foreach my $clau (keys %exclusions) {
-    if ($exclusions{$clau}=~/^FORMA$/) { # És zero: exclusió de forma encara no usada
-	print $ofh "$clau/ZZ\n";
-	print "exclusió usada: $clau/ZZ $exclusions{$clau}\n";
+    if ($exclusions{$clau}=~/EXCLUSIO_USADA/) {
+	next;
     }
-    if ($exclusions{$clau}=~/^LEMA$/) { # És u: exclusió de lema encara no usada, error
-	print "Exclusió no usada (error!): $clau\n";
+    if ($exclusions{$clau}=~/FORMA/) { 
+	print $ofh "$clau/ZZ\n";
+#	print "exclusió usada: $clau/ZZ $exclusions{$clau}\n";
+    }
+    if ($exclusions{$clau}=~/LEMA/) { 
+	print "ATENCIÓ: Exclusió no usada (possible error!): $clau\n";
     }
 }
 
