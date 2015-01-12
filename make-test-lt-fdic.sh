@@ -28,7 +28,7 @@ perl fdic-to-lt/flexiona.pl $dir_intermedi/adjectius-fdic.txt $dir_intermedi/adj
 echo "Verbs: de FDIC a LT..."
 perl fdic-to-lt/conjuga-verbs.pl $dir_intermedi/verbs-fdic.txt $dir_intermedi/verbs-lt.txt $dir_intermedi/models-verbals/
 
-echo "Comprovat diferències"
+echo "Comprovant diferències"
 
 echo "*** DIFERÈNCIES ***" > $dir_resultat/diff.txt
 for i in noms adjectius verbs
