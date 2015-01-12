@@ -23,9 +23,13 @@ do
     cp $dir_dades/*.dic $dir_intermedi
     cp $dir_dades/*.aff $dir_intermedi
 
+    cat $dir_intermedi/*.dic > $dir_intermedi/$variant.dic
+
+    #Fes les exclusions
+    perl $dir_programes/fes-exclusions.pl $dir_dades/exclusions.txt $dir_intermedi/$variant.dic $dir_intermedi/$variant-exclusions.dic
+
     cd $dir_intermedi
-    cat *.dic > $variant.dic
-    export LC_ALL=C && sort -u $variant.dic -o $variant.dic
+    export LC_ALL=C && sort -u $variant-exclusions.dic -o $variant.dic
     cat $variant.dic | wc -l > linies.txt
     cat linies.txt $variant.dic > tmp.dic
     rm $variant.dic

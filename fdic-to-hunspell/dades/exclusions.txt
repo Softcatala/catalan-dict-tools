@@ -1,0 +1,30 @@
+EXCLOU FORMA DE TOTS
+aixo
+aixi
+aixis
+aprop
+graben
+inclusive
+nomes
+
+EXCLOU LEMA DE TOTS
+probe
+composar
+ermós
+provable
+
+EXCLOU FORMA DE catalan
+deprés
+deprès
+este
+esta
+estos
+estes
+
+EXCLOU LEMA DE catalan
+arrancar
+
+EXCLOU FORMA DE catalan-valencia
+
+EXCLOU LEMA DE catalan-valencia
+
