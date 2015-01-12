@@ -3,7 +3,7 @@ Nàixer o néixer, tant se val. D'en Pere o d'en Joan, és clar. Kènia, Kenya. Vind
 Això està bé així. Porta-n'hi quatre, els gràbens. Eixes coses, eixe home, eixa casa. Els eixos de la roda. 
 
 Amb errors:
-Venir'ls, vindre-los [no marca error si segmentem amb guionet], venir'n, vindre-ne, porta'n-hi, proben,
+Venir'ls, vindre-los [no marca error si segmentem amb guionet], venir'n, vindre-ne, porta'n-hi, proben, trova, trovador, 
 
 Paraules excloses
 
@@ -18,12 +18,19 @@ Accentuació valenciana:
 Bebés, emés reprén, revén, terratrémol, convéncer, conéixer, reconéixer, pésol, pésols, térboles, aerotrén, café, vostés, atés, aprén, comprén, mamprén, véiem, predéieu, estéreo, superjó, superjós, Moisés, 
 
 Paraules excloses:
-Aixo, aixi, aixis, graben, proba, probes, probe, inclusive, aprop, composar, compoaséssim, composat, graben, 
+Aixo, aixi, aixis, graben, proba, probes, probe, inclusive, aprop, composar, composéssim, composat, graben, 
 
 Vocabulari restringit AVL:
-vore, alcançar, ahí, este, d'este, d'esta, d'estos, estos, mentres, 
+vore, vorem, alcançar, alcancessin, ahí, este, d'este, d'esta, d'estos, estos, mentres, coentes
+
+Formes del DIEC no admeses pel DNV
+bastanta, bastantes
 
 Compostos amb guionet [no marca error si segmentem amb guionet]
 Barça-Madrid, Barcelona-València, Castella-la Manxa, 
+
+No admès per cap diccionari normatiu
+xavacà, lelo, alelada, despreciable, despreciar, 
+
 
 
