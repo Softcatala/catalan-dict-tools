@@ -13,6 +13,7 @@ nomes
 
 EXCLOU LEMA DE TOTS
 alelat
+alelada
 alfombra
 antepassat
 bobo
@@ -25,6 +26,7 @@ despreciable
 despreciar
 enrecordar
 ermós
+ermosa
 garbo
 garbós
 impar
@@ -62,17 +64,26 @@ tios
 
 EXCLOU LEMA DE catalan
 aborregar
+aborregada
 afiançar
+afiançada
 afincar
+afincada
 Agnés
 alcançar
+alcançada
 allén
 amurallar
+amurallada
 ansiar
+ansiada
 antorxa
 apenar
+apenada
 apretar
+apretada
 arrancar
+arrancada
 barco
 bovo
 cego
@@ -92,6 +103,7 @@ estéreo
 estes
 estos
 exnóvio
+exnóvia
 Filomé
 Godofré
 Jahvé
