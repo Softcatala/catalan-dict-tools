@@ -1,5 +1,6 @@
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
+AVL AVL NPFSO00
 Aalborg Aalborg NPCSG00
 Aalen Aalen NPCSG00
 Aalsmeer Aalsmeer NPCSG00
@@ -6316,6 +6317,9 @@ Cúcuta Cúcuta NPCSG00
 Cúmbria Cúmbria NPCSG00
 Cúper Cúper NPCSG00
 Cǎlǎraşi Cǎlǎraşi NPCSG00
+DCVB DCVB NPMSO00
+DIEC DIEC NPMSO00
+DNV DNV NPMSO00
 Dabakala Dabakala NPCSG00
 Dabau Dabau NPCNSP0
 Dabola Dabola NPCSG00
@@ -8498,6 +8502,7 @@ Fürth Fürth NPCSG00
 Fāshōda Fāshōda NPCSG00
 Fīrozābād Fīrozābād NPCSG00
 GAL GAL NPMPO00
+GDLC GDLC NPMSO00
 Gabana Gabana NPCNSP0
 Gabaon Gabaon NPMSG00
 Gabarret Gabarret NPCSG00
