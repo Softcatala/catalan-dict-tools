@@ -9,6 +9,7 @@ El diccionari arrel (en el directori "diccionari-arrel") conté les dades bàsiq
 * Extensió **-fdic.txt**: Per a adjectius, noms i verbs, es fa servir un format de pseudodiccionari que conté informació semblant a la que contenen els diccionaris d'ús comú (sense les deficions): categoria gramatical i les dades necessàries per a flexionar correctament la paraula (model verbal, forma femenina, excepcions de plurals, etc.).
 * Extensió **-lt.txt**: Per a adverbis, noms propis i la resta de categories, la informació es manté en el format usat en LanguageTool, que és el mateix que s'usa en els diccionaris [Freeling](http://nlp.lsi.upc.edu/freeling/doc/tagsets/tagset-ca.html). 
 
+#### Scripts
 ##### build-new-hunspell.sh
 
 Construeix diccionaris Hunspell en variant general i valenciana a partir del diccionari arrel. 
@@ -21,6 +22,7 @@ Construeix el diccionari amb etiquetatge gramatical per al corrector Languagetoo
 
 És un test que converteix el fitxer de LT en format de diccionari; aquest es converteix de nou en format LT i es compara amb el fitxer inicial. 
 
+### Llicències
 
 
 
