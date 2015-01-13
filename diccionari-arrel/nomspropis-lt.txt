@@ -1262,6 +1262,7 @@ Amèlia Amèlia NPFSSP0
 Amèlies Amèlia NPFPSP0
 Amèrica Amèrica NPFSG00
 Amèriques Amèriques NPFPG00
+Amílcar Amílcar NPMSSP0
 Amó Amó NPMSSP0
 Amós Amós NPMPSP0
 Amós Amós NPMSSP0
@@ -9941,7 +9942,7 @@ Homdedeu Homdedeu NPCNSP0
 Homer Homer NPMSSP0
 Homers Homer NPMPSP0
 Homs Homs NPCSG00
-Honda Honda NPFNO00
+Honda Honda NPCNO00
 Hondarribia Hondarribia NPCSG00
 Hondures Hondures NPFSG00
 Honest Honest NPMSSP0
@@ -12937,7 +12938,7 @@ Millà Millà NPCSG00
 Milwaukee Milwaukee NPCSG00
 Milà Milà NPCNSP0
 Milà Milà NPMSG00
-Milú Milú NPMSSP00
+Milú Milú NPMSSP0
 Mina Mina NPFSG00
 Minaix Minaix NPCNSP0
 Minaixa Minaixa NPCNSP0
@@ -13588,7 +13589,7 @@ Morrolla Morrolla NPCNSP0
 Morros Morros NPCNSP0
 Mors Mors NPCSG00
 Morsang-sur-Orge Morsang-sur-Orge NPCSG00
-Mortadel·lo Mortadel·lo NPMSSP00
+Mortadel·lo Mortadel·lo NPMSSP0
 Morters Morters NPCNSP0
 Morters Morters NPCSG00
 Mortimer Mortimer NPCNSP0

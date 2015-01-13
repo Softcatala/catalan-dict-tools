@@ -1,0 +1,12 @@
+10106c10106
+< Honda Honda NPCNO00
+---
+> Honda Honda NPFNO00
+13110c13110
+< Milú Milú NPMSSP0
+---
+> Milú Milú NPMSSP00
+13761c13761
+< Mortadel·lo Mortadel·lo NPMSSP0
+---
+> Mortadel·lo Mortadel·lo NPMSSP00
