@@ -47,6 +47,7 @@ abacomte=categories: M;fonts: LT;
 abacà [pl. abacàs]=categories: M;fonts: LT;
 abadanament=categories: M;fonts: LT;
 abadejo=categories: M;fonts: LT;
+porreta=categories: F;fonts: AVL;
 abadessa=categories: F;fonts: LT;
 abadia=categories: F;fonts: LT;
 abadiat=categories: M;fonts: LT;
