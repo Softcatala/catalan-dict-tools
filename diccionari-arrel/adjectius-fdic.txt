@@ -1656,7 +1656,6 @@ antiespanyol antiespanyola=categories: A;fonts: LT;
 antiespasmòdic antiespasmòdica=categories: A;fonts: LT;
 antiesportiu antiesportiva=categories: A;fonts: LT;
 antiespumant=categories: A;fonts: LT;
-antiespumejant=categories: A;fonts: LT;
 antiestrogen antiestrògena=categories: A;fonts: LT;
 antiestrès=categories: AI;fonts: LT;
 antiestàtic antiestàtica=categories: A;fonts: LT;
