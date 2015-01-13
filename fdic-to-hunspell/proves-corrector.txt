@@ -1,5 +1,5 @@
 Sense errors:
-Nàixer o néixer, tant se val. D'en Pere o d'en Joan, d'En Jaume I. D'En Jaume I. és clar. Fóra bo. Kènia, Kenya. Vindre'ls a veure o venir-los a veure. Venir-ne, vindre'n. Katmandú, Kàtmandu. Stravinski. Això està bé així. Porta-n'hi quatre, els gràbens. Eixes coses, eixe home, eixa casa. Els eixos de la roda. Es coresponsabilitzen de la coresponsabilitat. L'eradicació. 
+Nàixer o néixer, tant se val. D'en Pere o d'en Joan, d'En Jaume I. D'En Jaume I. és clar. Fóra bo. Kènia, Kenya. Vindre'ls a veure o venir-los a veure. Venir-ne, vindre'n. Katmandú, Kàtmandu. Stravinski. Això està bé així. Porta-n'hi quatre, els gràbens. Eixes coses, eixe home, eixa casa. Els eixos de la roda. Es coresponsabilitzen de la coresponsabilitat. L'eradicació. A cals advocats, cal, can, als, dels, al, del, pel, pels, 
 
 Amb errors:
 Venir'ls, vindre-los [no marca error si segmentem amb guionet], venir'n, vindre-ne, porta'n-hi, proben, trova, trovador, l'homes, Caïm,
