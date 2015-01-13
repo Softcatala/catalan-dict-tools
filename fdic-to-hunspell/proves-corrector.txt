@@ -11,7 +11,7 @@ Accentuació comuna
 cuixé, exprés, revés, abecés, 
 
 Accentuació valenciana:
-Bebés, emés reprén, revén, terratrémol, convéncer, conéixer, reconéixer, pésol, pésols, térboles, aerotrén, café, vostés, atés, aprén, comprén, mamprén, véiem, predéieu, estéreo, superjó, superjós, Moisés, 
+Bebés, emés reprén, revén, terratrémol, convéncer, conéixer, reconéixer, pésol, pésols, térboles, aerotrén, café, vostés, atés, aprén, comprén, mamprén, véiem, predéieu, estéreo, superjó, superjós, Moisés, Caïm, 
 
 Paraules excloses:
 Aixo, aixi, aixis, graben, proba, probes, probe, inclusive, aprop, composar, composéssim, composat, graben, 
@@ -38,5 +38,5 @@ L'illa, s'ionitzaren, l'Stradivarius, l'Stravinski, l'idea, l'idees [del verb id
 Apostrofacions incorrectes
 S'halaren, s'ioduraren, d'Stradivarius, l'implicació, l'ionització,   
 
-Marques
-PostgreSQL, MySQL, Mercadona
+Marques, noms propis
+PostgreSQL, MySQL, Mercadona, Stradivarius, Zamenhof, Caín, 
