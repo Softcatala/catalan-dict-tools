@@ -3624,7 +3624,7 @@ Bononis Bononi NPMPSP0
 Bonora Bonora NPCNSP0
 Bonosi Bonosi NPMSSP0
 Bonosis Bonosi NPMPSP0
-Bonpreu Bonpreu NPCNO00
+Bonpreu Bonpreu NPMNO00
 Bonrepòs Bonrepòs NPCSG00
 Bonsenyor Bonsenyor NPCNSP0
 Bonsfills Bonsfills NPCNSP0

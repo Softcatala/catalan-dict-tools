@@ -30,7 +30,7 @@ foreach my $file (@files) {
 		}
 	    }
             # apostrofa el > l'
-	    if ($postag =~ /^(NPM[SN].*|RG)$/) {
+	    if ($postag =~ /^(NP[CM][SN].*|RG)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
 		    $apostrofacions.="_V";
 		}
@@ -41,7 +41,7 @@ foreach my $file (@files) {
 		}
 	    }
 	    # apostrofa la > l'
-	    if ($postag =~ /^(NPFS.*)$/) {
+	    if ($postag =~ /^(NPF[SN].*)$/) {
 		if (Flexio::apostrofa_femeni($forma)) {
 		    $apostrofacions.="_V";
 		}
