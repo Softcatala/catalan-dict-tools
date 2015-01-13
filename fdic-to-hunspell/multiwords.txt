@@ -1,0 +1,891 @@
+Abu Dhabi	NPCNG00
+Abu Ghraib	NPCNG00
+Abu Simbel	NPCNG00
+Addis Abeba	NPCNG00
+Adrar des Iforas	NPCNG00
+Alba Iulia	NPCNG00
+Alcalá de Guadaíra	NPCNG00
+Alcalá de Henares	NPCNG00
+Alps Càrnics	NPCNG00
+Alta Vienne	NPFSG00
+Altin Tagh	NPCNG00
+Andhra Pradesh	NPCNG00
+Ascoli Piceno	NPCNG00
+Ax 3 Domaines	NPCNG00
+Aïoun el-Atrouss	NPCNG00
+Baba Amr	NPCNG00
+Bahía Blanca	NPCNG00
+Banda Aceh	NPCNG00
+Bandar Abbas	NPCNG00
+Bandar Seri Begawan	NPCNG00
+Bani Walid	NPCNG00
+Banja Luka	NPCNG00
+Baton Rouge	NPCNG00
+Beer Sheva	NPCNG00
+Beit Hanoun	NPCNG00
+Belo Horizonte	NPCNG00
+Ben Jawad	NPCNG00
+Beni Suef	NPCNG00
+Bosanska Krajina	NPCNG00
+Bosanski Brod	NPCNG00
+Bío Bío	NPCNG00
+Cagayan de Oro	NPCNG00
+Cape Coast	NPCNG00
+Cargados Carajos	NPCNG00
+Carson City	NPCNG00
+Cartagena de Indias	NPCNG00
+Castel Gandolfo	NPCNG00
+Cayos de Florida	NPCNG00
+Ceské Budejovice	NPCNG00
+Chiang Mai	NPCNG00
+Chiang Rai	NPCNG00
+Ciudad Juárez	NPCNG00
+Ciudad Real	NPCNG00
+Colúmbia Britànica	NPCNG00
+Consell de Cent	NPMSO00
+Cortes d'Arenós	NPFPG00
+Cortes de Pallars	NPFPG00
+Costa da Morte	NPFSG00
+Costes d'Armor	NPFPG00
+Croix de Montvieux	NPFSG00
+D'Hondt	NPCNSP0
+Dakhlet Nouadhibou	NPCNG00
+Dar es Salaam	NPCNG00
+Darra-e Bum	NPCNG00
+Daytona Beach	NPCNG00
+Deir ez-Zor	NPCNG00
+Des Moines	NPCNG00
+Dien Bien Phu	NPCNG00
+Dos Valires	NPFPG00
+Dvina Occidental	NPCNG00
+Dvina Septentrional	NPCNG00
+Déu n'hi do	LOC_ADV
+Déu li'n do	LOC_ADV
+East Side	NPCNG00
+El Ejido	NPCNG00
+Elobey Chico	NPCNG00
+Elobey Grande	NPCNG00
+Espíritu Santo	NPCNG00
+Estats Units	NPMPG00
+Eth Portilhon	NPCSG00
+Euskal Herria	NPCNG00
+Financial Times	NPMSO00
+Fort Lauderdale	NPCNG00
+Frankfurt am Main	NPCSG00
+Gracias a Dios	NPCNG00
+Gran Bretanya	NPFSG00
+Grand Canyon	NPCNG00
+Guangxi Zhuang	NPCNG00
+Hai Phong	NPCNG00
+Hindu Kush	NPCNG00
+Ho Chi Minh	NPCNG00
+Hong Kong	NPCNG00
+Hradec Králové	NPCNG00
+Huang He	NPCNG00
+Ille i Vilaine	NPCNG00
+In Amenas	NPCNG00
+Jefferson City	NPCNG00
+Kafr Kanna	NPCNG00
+Kansas City	NPCNG00
+Karlovy Vary	NPCNG00
+Key Biscayne	NPCNG00
+Khan Yunis	NPCNG00
+Khemis Miliana	NPCNG00
+Kingston upon Hull	NPCNG00
+Kingston upon Thames	NPCNG00
+Kiryat Shmona	NPCNG00
+Kuala Lumpur	NPCNG00
+Kuria Muria	NPCNG00
+L'Aquila	NPFSG00
+La Alcarria	NPCNG00
+La Cartuja	NPCNG00
+La Chaux-de-Fonds	NPCNG00
+La Condamine	NPCNG00
+La Digue	NPCNG00
+La Grande-Motte	NPCNG00
+La Línea de la Concepción	NPCNG00
+La Mosquitia	NPCNG00
+La Paz	NPCNG00
+La Pequeña Habana	NPCNG00
+La Tour	NPCNG00
+La Toussuire	NPCNG00
+La Valletta	NPCNG00
+Las Alpujarras	NPCNG00
+Las Casas	NPCNG00
+Las Palmas	NPCNG00
+Las Palmas de Gran Canaria	NPCNG00
+Las Vegas	NPCNG00
+Le Bourg-d'Oisans	NPCNG00
+Le Castellet	NPCNG00
+Le Corbusier	NPCNSP0
+Le Creusot	NPCNG00
+Le Havre	NPCNG00
+Le Louron	NPCNG00
+Le Mans	NPCNG00
+Le Monde	NPMSO00
+Le Puy-en-Velay	NPCNG00
+Les Essarts	NPCNG00
+Les Herbiers	NPCNG00
+Les Rousses	NPCNG00
+Little Rock	NPCNG00
+Loir i Cher	NPCNG00
+Long Island	NPCNG00
+Los Angeles	NPCNG00
+Mae Sai	NPCNG00
+Mariánské Lázne	NPCNG00
+Marktl am Inn	NPCNG00
+Mato Grosso	NPCNG00
+Mazar-e Sharif	NPCNG00
+Minas Gerais	NPCNG00
+Montego Bay	NPCNG00
+Nagorno Karabakh	NPCNG00
+Neuhausen am Rheinfall	NPCNG00
+New Providence	NPCNG00
+New York Times	NPMSO00
+Ningxia Hui	NPCNG00
+Noli me tàngere	NCMN000
+Nou Hampshire	NPCNG00
+Nova Jersey	NPCNG00
+Novi Sad	NPCNG00
+Pearl Harbor	NPCNG00
+Phillip Island	NPCNG00
+Phnom Penh	NPCNG00
+Picos de Europa	NPMPG00
+Ploski Tolbàtxik	NPCNG00
+Port Louis	NPCNG00
+Port Moresby	NPCNG00
+Port Saïd	NPCNG00
+Post mortem	LOC_ADV
+Puerta del Sol	NPFSG00
+Punta Arenas	NPCNG00
+Ras Ajdir	NPCNG00
+Ras Lanuf	NPCNG00
+Ras al-Khaimah	NPCNG00
+Red River	NPCNG00
+Reggio de Calàbria	NPCNG00
+Reggio de l'Emília	NPCNG00
+Rhode Island	NPCNG00
+Rift Valley	NPCNG00
+Rio de Janeiro	NPMSG00
+Roquetas de Mar	NPCNG00
+Rub al-Khali	NPCNG00
+Río de la Plata	NPMSG00
+Sadr City	NPCNG00
+Saint George's	NPCNG00
+Saint Louis	NPCNG00
+Salt Lake City	NPCNG00
+San Diego	NPCNG00
+San Francisco	NPCNG00
+San José	NPCNG00
+San Juan	NPCNG00
+San Lorenzo de El Escorial	NPCNG00
+San Pedro Sula	NPCNG00
+Sankt Pölten	NPCNG00
+Sanski Most	NPCNG00
+Sant Joan Lohitzune	NPCNG00
+Santa Cruz de Tenerife	NPCNG00
+Santa Luzia	NPCNG00
+Santiago del Estero	NPCNG00
+Santiago de los Caballeros	NPCNG00
+Santo Antao	NPCNG00
+Santo Domingo	NPCNG00
+Sao Paulo	NPCSG00
+Sao Tiago	NPCSG00
+Sao Vicente	NPCSG00
+Sharm al-Sheikh	NPCNG00
+Sidi Bouzid	NPCNG00
+Sierra Leone	NPFSG00
+Sine die	LOC_ADV
+Sine qua non	LOC_ADJ
+Son Servera	NPCNG00
+Staten Island	NPCNG00
+Taj Mahal	NPMSG00
+Tamil Nadu	NPCNG00
+Tarin Kowt	NPCSG00
+Tel Aviv	NPCSG00
+Terranova i Labrador	NPCSG00
+Tristão da Cunha	NPCNG00
+Tuxtla Gutiérrez	NPCNG00
+Tîrgu Mures	NPCNG00
+Ulan Bator	NPCNG00
+Umm al-Qaywayn	NPCNG00
+Vanua Levu	NPCNG00
+Veliko Tarnovo	NPCNG00
+Villa Cisneros	NPCNG00
+Villa La Angostura	NPCNG00
+Virginia Beach	NPCNG00
+Viti Levu	NPCNG00
+Walvis Bay	NPCNG00
+West Bromwich	NPCNG00
+West Ham	NPCNG00
+West Side	NPCNG00
+Xi Jiang	NPCNG00
+Zareh Sharan	NPCNG00
+a banda i banda	LOC_ADV
+a base d'	LOC_PREP
+a base de	LOC_PREP
+a bastament	LOC_ADV
+a bastança	LOC_ADV
+a betzef	LOC_ADV
+a bocons	LOC_ADV
+a bondó	LOC_ADV
+a burro-barra	LOC_ADV
+a bé d'	LOC_PREP
+a bé de	LOC_PREP
+a canvi d'	LOC_PREP
+a canvi de	LOC_PREP
+a cappella	LOC_ADV
+a casa d'	LOC_PREP
+a casa de	LOC_PREP
+a causa d'	LOC_PREP
+a causa de	LOC_PREP
+a cavall d'	LOC_PREP
+a cavall de	LOC_PREP
+a cent per hora	LOC_ADV
+a cient d'	LOC_PREP
+a cient de	LOC_PREP
+a cobert d'	LOC_PREP
+a cobert de	LOC_PREP
+a collbotet	LOC_ADV
+a collibè	LOC_ADV
+a coneguda d'	LOC_PREP
+a coneguda de	LOC_PREP
+a coneixença d'	LOC_PREP
+a coneixença de	LOC_PREP
+a conseqüència d'	LOC_PREP
+a conseqüència de	LOC_PREP
+a continuació	LOC_ADV
+a contracor	LOC_ADV
+a contrafibra	LOC_ADV
+a contrafil	LOC_ADV
+a contrapèl	LOC_ADV
+a contrario sensu	LOC_ADV
+a cop d'	LOC_PREP
+a cop de	LOC_PREP
+a corre-corrents	LOC_ADV
+a corre-cuita	LOC_ADV
+a costa d'	LOC_PREP
+a costa de	LOC_PREP
+a cremadent	LOC_ADV
+a cuita-corrents	LOC_ADV
+a càrrec d'	LOC_PREP
+a càrrec de	LOC_PREP
+a còpia d'	LOC_PREP
+a còpia de	LOC_PREP
+a desgrat d'	LOC_PREP
+a desgrat de	LOC_PREP
+a despit d'	LOC_PREP
+a despit de	LOC_PREP
+a destemps	LOC_ADV
+a dies	LOC_ADV
+a diferència d'	LOC_PREP
+a diferència de	LOC_PREP
+a dojo	LOC_ADV
+a dretcient	LOC_ADV
+a empentes i rodolons	LOC_ADV
+a esclatacor	LOC_ADV
+a estones	LOC_ADV
+a excepció d'	LOC_PREP
+a excepció de	LOC_PREP
+a falta d'	LOC_PREP
+a falta de	LOC_PREP
+a favor d'	LOC_PREP
+a favor de	LOC_PREP
+a forfollons	LOC_ADV
+a fortiori	LOC_ADV
+a força d'	LOC_PREP
+a força de	LOC_PREP
+a gatamèus	LOC_ADV
+a granel	LOC_ADV
+a gratcient	LOC_ADV
+a guisa d'	LOC_PREP
+a guisa de	LOC_PREP
+al caient d'	LOC_PREP
+al caient de	LOC_PREP
+al capdamunt	LOC_ADV
+al capdamunt d'	LOC_PREP
+al capdamunt de	LOC_PREP
+al capdavall	LOC_ADV
+al capdavall d'	LOC_PREP
+al capdavall de	LOC_PREP
+al capdavant	LOC_ADV
+al capdavant d'	LOC_PREP
+al capdavant de	LOC_PREP
+al cim d'	LOC_PREP
+al cim de	LOC_PREP
+al contrari d'	LOC_PREP
+al contrari de	LOC_PREP
+al costat d'	LOC_PREP
+al costat de	LOC_PREP
+al dedins d'	LOC_PREP
+al dedins de	LOC_PREP
+al defora d'	LOC_PREP
+al defora de	LOC_PREP
+al dellà d'	LOC_PREP
+al dellà de	LOC_PREP
+al descobert	LOC_ADV
+al després-dinar	LOC_ADV
+al final	LOC_ADV
+al llarg d'	LOC_PREP
+al llarg de	LOC_PREP
+al manar d'	LOC_PREP
+al manar de	LOC_PREP
+al marge d'	LOC_PREP
+al marge de	LOC_PREP
+al menys	LOC_ADV
+al meu torn	LOC_ADV
+al preu d'	LOC_PREP
+al preu de	LOC_PREP
+al revés d'	LOC_PREP
+al revés de	LOC_PREP
+al seu torn	LOC_ADV
+al seu voltant	LOC_ADV
+al teu torn	LOC_ADV
+al tombant d'	LOC_PREP
+al tombant de	LOC_PREP
+al voltant d'	LOC_PREP
+al voltant de	LOC_PREP
+a l'abast d'	LOC_PREP
+a l'abast de	LOC_PREP
+a l'abric d'	LOC_PREP
+a l'abric de	LOC_PREP
+a l'atenció d'	LOC_PREP
+a l'atenció de	LOC_PREP
+a l'empara d'	LOC_PREP
+a l'empara de	LOC_PREP
+a l'empèl	LOC_ADV
+a l'encop	LOC_ADV
+a l'engròs	LOC_ADV
+a l'entrant d'	LOC_PREP
+a l'entrant de	LOC_PREP
+a l'instant	LOC_ADV
+a la babalà	LOC_ADV
+a la biorxa	LOC_ADV
+a la claror d'	LOC_PREP
+a la claror de	LOC_PREP
+a la doba	LOC_ADJ
+a la funerala	LOC_ADV
+a la gatzoneta	LOC_ADV
+a la mercè d'	LOC_PREP
+a la mercè de	LOC_PREP
+a la par	LOC_ADJ
+a la raseta	LOC_ADV
+a la recerca d'	LOC_PREP
+a la recerca de	LOC_PREP
+a la redor	LOC_ADV
+a la vegada	LOC_ADV
+a la vora d'	LOC_PREP
+a la vora de	LOC_PREP
+a la xirinxina	LOC_ADV
+a la xisclera	LOC_ADV
+a les envistes d'	LOC_PREP
+a les envistes de	LOC_PREP
+a les hurtes	LOC_ADV
+a les palpentes	LOC_ADV
+a les talúries	LOC_ADV
+a lloure	LOC_ADV
+a manera d'	LOC_PREP
+a manera de	LOC_PREP
+a mansalva	LOC_ADV
+a mata-degolla	LOC_ADV
+a mercè d'	LOC_PREP
+a mercè de	LOC_PREP
+a mesura que	LOC_CONJ
+a mitjan	LOC_PREP
+a més a més	LOC_ADV
+a palpons	LOC_ADV
+a part	LOC_ADV
+a part d'	LOC_PREP
+a part de	LOC_PREP
+a penes	LOC_ADV
+a pesar d'	LOC_PREP
+a pesar de	LOC_PREP
+a petició d'	LOC_PREP
+a petició de	LOC_PREP
+a pleret	LOC_ADV
+a poc a poc	LOC_ADV
+a posteriori	LOC_ADV
+a precs d'	LOC_PREP
+a precs de	LOC_PREP
+a preu de	LOC_PREP
+a priori	LOC_ADV
+a prova d'	LOC_PREP
+a prova de	LOC_PREP
+a rajaploma	LOC_ADV
+a recules	LOC_ADV
+a reculons	LOC_ADV
+a redolons	LOC_ADV
+a requesta d'	LOC_PREP
+a requesta de	LOC_PREP
+a reserva d'	LOC_PREP
+a reserva de	LOC_PREP
+a rodolons	LOC_ADV
+a rossegons	LOC_ADV
+a semblança d'	LOC_PREP
+a semblança de	LOC_PREP
+a tentipotenti	LOC_ADV
+a tornajornals	LOC_ADV
+a tota hora	LOC_ADV
+a tota ultrança	LOC_ADV
+a través d'	LOC_PREP
+a través de	LOC_PREP
+a trencajunts	LOC_ADV
+a trompellons	LOC_ADV
+a trompons	LOC_ADV
+a trontollons	LOC_ADV
+a trossos	LOC_ADV
+a ulls clucs	LOC_ADV
+a ulls veients	LOC_ADV
+a ultrança	LOC_ADV
+a vegades	LOC_ADV
+a voltes	LOC_ADV
+a voluntat	LOC_ADV
+a última hora	LOC_ADV
+ab origine	LOC_ADV
+abans d'	LOC_PREP
+abans de	LOC_PREP
+ad hoc	LOC_ADJ
+ad hominem	LOC_ADJ
+així mateix	LOC_CONJ
+això no obstant	LOC_ADV
+al capdavall	LOC_ADV
+al capdavant	LOC_ADV
+al final	LOC_ADV
+allèn d'	LOC_PREP
+allèn de	LOC_PREP
+amb caràcter d'	LOC_PREP
+amb caràcter de	LOC_PREP
+amb freqüència	LOC_ADV
+amb prou feines	LOC_ADV
+amb referència a	LOC_PREP
+amb tot i	LOC_PREP
+ara com ara	LOC_ADV
+ara mateix	LOC_ADV
+ara per ara	LOC_ADV
+arran d'	LOC_PREP
+arran de	LOC_PREP
+arreu d'	LOC_PREP
+arreu de	LOC_PREP
+art déco	_GN_MS
+atenent que	LOC_CONJ
+avinent d'	LOC_PREP
+avinent de	LOC_PREP
+avui dia	LOC_ADV
+avui en dia	LOC_ADV
+bel canto	_GN_MS
+ben bé	LOC_ADV
+bin Laden	NPCNSP0
+boca per amunt	LOC_ADV
+boca per avall	LOC_ADV
+bona cosa	LOC_ADV
+bé prou	LOC_ADV
+cames ajudeu-me	LOC_ADV
+camp a través	LOC_ADV
+camps a través	LOC_ADV
+campe qui puga	LOC_ADV
+campi qui pugui	LOC_ADV
+cara a cara	LOC_ADV
+ceteris paribus	LOC_ADV
+com ara	LOC_CONJ
+cos a cos	LOC_ADV
+cos per cos	LOC_ADV
+costa amunt	LOC_ADV
+costa avall	LOC_ADV
+cum laude	LOC_ADV
+curriculum vitae	NCMS000
+d'acord amb	LOC_PREP
+d'alguna manera	LOC_ADV
+d'allò més	LOC_ADV
+d'altra banda	LOC_CONJ
+d'amagat	LOC_ADV
+d'amagat d'	LOC_PREP
+d'amagat de	LOC_PREP
+d'amagatons	LOC_ADV
+d'amagatotis	LOC_ADV
+d'antuvi	LOC_ADV
+d'aquí a	LOC_PREP
+d'entreguerres	LOC_ADJ
+d'ençà d'	LOC_PREP
+d'ençà de	LOC_PREP
+d'esbiaixada	LOC_PREP
+d'esma	LOC_ADV
+d'esquerres	LOC_ADV
+d'esquitllada	LOC_ADV
+d'esquitllentes	LOC_ADV
+d'esquitllèbit	LOC_ADV
+d'estar per casa	LOC_ADV
+d'estira i arronsa	LOC_ADV
+d'estranquis	LOC_ADV
+d'estrena	LOC_ADV
+d'etiqueta	LOC_ADV
+d'hora	LOC_ADV
+d'improvís	LOC_ADV
+d'incògnit	LOC_ADV
+d'un a un	LOC_ADV
+d'un cap a l'altre	LOC_ADV
+d'un costat a l'altre	LOC_ADV
+d'un dia a l'altre	LOC_ADV
+d'un en un	LOC_ADV
+d'un plegat	LOC_ADV
+d'una a una	LOC_ADV
+d'una en una	LOC_ADV
+d'una vegada	LOC_ADV
+d'upa	LOC_ADV
+d'última hora	LOC_ADV
+da capo	LOC_ADV
+damunt dit	LOC_ADV
+de Gaulle	NPCNSP0
+de bat a bat	LOC_ADV
+de bell antuvi	LOC_ADV
+de bell nou	LOC_ADV
+de bell principi	LOC_ADV
+de biaix	LOC_ADV
+de bo de bo	LOC_ADV
+de bocadents	LOC_ADV
+de bocaterrosa	LOC_ADV
+de bona font	LOC_ADV
+de bona gana	LOC_ADV
+de cap manera	LOC_ADV
+de cara a	LOC_PREP
+de colp i volta	LOC_ADV
+de cop i volta	LOC_ADV
+de copdescuit	LOC_ADV
+de debò	LOC_ADV
+de dretes	LOC_ADV
+de facto	LOC_ADV
+de folondres	LOC_ADV
+de franc	LOC_ADV
+de futris	LOC_ADV
+de gaidó	LOC_ADV
+de gairell	LOC_ADV
+de genollons	LOC_ADV
+de gom a gom	LOC_ADV
+de iure	LOC_ADV
+del tot	LOC_ADV
+de maljust	LOC_ADV
+de mancomú	LOC_ADV
+de manera que	LOC_CONJ
+de manual	LOC_ADJ
+de matí	LOC_ADV
+de mentida	LOC_ADJ
+de mica en mica	LOC_ADV
+de mitjan	LOC_PREP
+de moda	LOC_ADJ
+de més a més	LOC_ADV
+de nyigui-nyogui	LOC_ADJ
+de por d'	LOC_PREP
+de por de	LOC_PREP
+de pressa	LOC_ADV
+de primer antuvi	LOC_ADV
+de puntelles	LOC_ADV
+de puntelletes	LOC_ADV
+de puntetes	LOC_ADV
+de recules	LOC_ADV
+de reculons	LOC_ADV
+de rellisquentes	LOC_ADV
+de reüll	LOC_ADV
+de segona mà	LOC_ADJ
+de seguida	LOC_ADV
+de segur	LOC_ADV
+de sobte	LOC_ADV
+de soca-rel	LOC_ADV
+de sol a sol	LOC_ADV
+de sorpresa	LOC_ADV
+de sotamà	LOC_ADV
+de tal manera	LOC_ADV
+de tal manera que	LOC_CONJ
+de tant en tant	LOC_ADV
+de tard en tard	LOC_ADV
+de tomballons	LOC_ADV
+de tort	LOC_ADV
+de tot cor	LOC_ADV
+de trascantó	LOC_ADV
+de través	LOC_ADV
+de trobadures	LOC_ADV
+de vegades	LOC_ADV
+de veres	LOC_ADV
+de via estreta	LOC_ADV
+de viu en viu	LOC_ADV
+de viva veu	LOC_ADV
+delírium trèmens	NCMN000
+després d'	LOC_PREP
+després de	LOC_PREP
+deus ex machina	NCMN000
+deçà i dellà d'	LOC_PREP
+deçà i dellà de	LOC_PREP
+dia i nit	LOC_ADV
+dia sí dia no	LOC_ADV
+en absolut	LOC_ADV
+en absència d'	LOC_PREP
+en absència de	LOC_PREP
+en acabat	LOC_ADV
+en acabat d'	LOC_PREP
+en acabat de	LOC_PREP
+en actiu	LOC_ADV
+en aigües d'	LOC_PREP
+en aigües de	LOC_PREP
+en ales d'	LOC_PREP
+en ales de	LOC_PREP
+en alt grau	LOC_ADV
+en altre temps	LOC_ADV
+en amunt	LOC_ADV
+en avall	LOC_ADV
+en benefici d'	LOC_PREP
+en benefici de	LOC_PREP
+en blanc	LOC_ADV
+en bona fe	LOC_ADV
+en bona hora	LOC_ADV
+en bona part	LOC_ADV
+en breu	LOC_ADV
+en brut	LOC_ADV
+en bé d'	LOC_PREP
+en bé de	LOC_PREP
+en cadena	LOC_ADV
+en canvi d'	LOC_PREP
+en canvi de	LOC_PREP
+en cerca d'	LOC_PREP
+en cerca de	LOC_PREP
+en certa manera	LOC_ADV
+en compte d'	LOC_PREP
+en compte de	LOC_PREP
+en comptes d'	LOC_PREP
+en comptes de	LOC_PREP
+en comú	LOC_ADV
+en confrontació amb	LOC_PREP
+en conill	LOC_ADV
+en consonància amb	LOC_PREP
+en contemplació d'	LOC_PREP
+en contemplació de	LOC_PREP
+en contra	LOC_ADV
+en contra d'	LOC_PREP
+en contra de	LOC_PREP
+en creu	LOC_ADV
+en curs d'	LOC_PREP
+en curs de	LOC_PREP
+en dejú	LOC_ADV
+en detall	LOC_ADV
+en doina	LOC_ADV
+en efecte	LOC_ADV
+en efectiu	LOC_ADV
+en especial	LOC_ADV
+en evidència	LOC_ADV
+en exclusiva	LOC_ADV
+en fals	LOC_ADV
+en favor d'	LOC_PREP
+en favor d'	LOC_PREP
+en favor de	LOC_PREP
+en favor de	LOC_PREP
+en ferm	LOC_ADV
+en fet d'	LOC_PREP
+en fet de	LOC_PREP
+en fi	LOC_ADV
+en fresc	LOC_ADV
+en funció d'	LOC_PREP
+en funció de	LOC_PREP
+en general	LOC_ADV
+en gran part	LOC_ADV
+en la mesura en què	LOC_CONJ
+en la mesura que	LOC_CONJ
+en la seua majoria	LOC_ADV
+en la seva majoria	LOC_ADV
+en matèria d'	LOC_PREP
+en matèria de	LOC_PREP
+en mig d'	LOC_PREP
+en mig de	LOC_PREP
+en nom d'	LOC_PREP
+en nom de	LOC_PREP
+en ocasió d'	LOC_PREP
+en ocasió de	LOC_PREP
+en off	LOC_ADJ
+en part	LOC_ADV
+en particular	LOC_ADV
+en porreta	LOC_ADV
+en principi	LOC_ADV
+en pro d'	LOC_PREP
+en pro de	LOC_PREP
+en realitat	LOC_ADV
+en relació amb	LOC_PREP
+en secret	LOC_ADV
+en senyal d'	LOC_PREP
+en senyal de	LOC_PREP
+en sopols	LOC_ADV
+en tant que	LOC_CONJ
+en temps en temps	LOC_ADV
+en virtut d'	LOC_PREP
+en virtut de	LOC_PREP
+en vist	LOC_PREP
+en vistes d'	LOC_PREP
+en vistes de	LOC_PREP
+en voga	LOC_ADV
+enfront d'	LOC_PREP
+enfront de	LOC_PREP
+enmig d'	LOC_PREP
+enmig de	LOC_PREP
+entorn d'	LOC_PREP
+entorn de	LOC_PREP
+et al.	LOC_ADV
+et alii	LOC_ADV
+ex aequo	LOC_ADV
+ex ante	LOC_ADV
+ex cathedra	LOC_ADV
+ex nihilo	LOC_ADV
+ex officio	LOC_ADV
+exalt càrrec	_GN_MS
+exalts càrrecs	_GN_MP
+fa molt poc	LOC_ADV
+fa poc	LOC_ADV
+fet i fet	LOC_ADV
+fil per l'agulla	LOC_ADV
+fil per randa	LOC_ADV
+fins al punt d'	LOC_PREP
+fins al punt de	LOC_PREP
+fins a mitjan	LOC_PREP
+fins ara	LOC_ADV
+fins avui	LOC_ADV
+fins i tot	LOC_ADV
+foie gras	_GN_MS
+front a front	LOC_ADV
+futbol sala	_GN_MS
+gens ni mica	LOC_ADV
+grosso modo	LOC_ADV
+gràcies a	LOC_PREP
+hagudes i per haver	AQ0FP0
+haguts i per haver	AQ0MP0
+honoris causa	LOC_ADV
+in extenso	LOC_ADV
+in extremis	LOC_ADV
+in fraganti	LOC_ADV
+in situ	LOC_ADV
+in vitro	LOC_ADV
+ipso facto	LOC_ADV
+junt amb	LOC_PREP
+juntament amb	LOC_PREP
+llevat d'	LOC_PREP
+llevat de	LOC_PREP
+llevat que	LOC_CONJ
+lluny d'	LOC_PREP
+lluny de	LOC_PREP
+ma non troppo	LOC_ADV
+manta vegada	LOC_ADV
+manu militari	LOC_ADV
+mass media	NCMN000
+mea culpa	NCMN000
+mercès a	LOC_PREP
+millor dit	LOC_ADV
+modus operandi	NCMN000
+modus vivendi	NCMN000
+molt i molt	LOC_ADV
+motu proprio	LOC_ADV
+mutatis mutandis	LOC_ADV
+més ben dit	LOC_ADV
+més i més	LOC_ADV
+més o menys	LOC_ADV
+nihil obstat	_GN_MS
+nit i dia	LOC_ADV
+no fa gaire	LOC_ADV
+no gaire	LOC_ADV
+no gens	LOC_ADV
+no obstant	LOC_PREP
+no obstant això	LOC_ADV
+noli me tàngere	NCMN000
+o sia	LOC_CONJ
+oi més	LOC_ADV
+op. cit.	LOC_ADV
+pas a pas	LOC_ADV
+pax romana	_GN_FS
+pel cap alt	LOC_ADV
+pel cap alt	LOC_ADV
+pel cap baix	LOC_ADV
+pel cap baix	LOC_ADV
+pel que es refereix a	LOC_PREP
+pel que fa a	LOC_PREP
+pels volts d'	LOC_PREP
+pels volts de	LOC_PREP
+per capita	LOC_ADV
+per causa d'	LOC_PREP
+per causa de	LOC_PREP
+per comparació a	LOC_PREP
+per contemplació d'	LOC_PREP
+per contemplació de	LOC_PREP
+per càpita	LOC_ADV
+per damunt damunt	LOC_ADV
+per damunt de tot	LOC_ADV
+per exemple	LOC_ADV
+per les engires d'	LOC_PREP
+per les engires de	LOC_PREP
+per mitjà d'	LOC_PREP
+per mitjà de	LOC_PREP
+per mor d'	LOC_PREP
+per mor de	LOC_PREP
+per motius d'	LOC_PREP
+per motius de	LOC_PREP
+per obra i gràcia d'	LOC_PREP
+per obra i gràcia de	LOC_PREP
+per oposició a	LOC_PREP
+per por d'	LOC_PREP
+per por de	LOC_PREP
+per se	LOC_ADV
+per sobre de tot	LOC_ADV
+per tal d'	LOC_PREP
+per tal de	LOC_PREP
+per virtut d'	LOC_PREP
+per virtut de	LOC_PREP
+post mortem	LOC_ADV
+quant i més	LOC_PREP
+quant més	LOC_PREP
+rara avis	_GN_FS
+referent a	LOC_PREP
+relativament a	LOC_PREP
+respecte a	LOC_PREP
+respecte d'	LOC_PREP
+respecte de	LOC_PREP
+rigor mortis	_GN_MS
+sancta sanctorum	_GN_MS
+segons que	LOC_CONJ
+seguit seguit	LOC_ADV
+sens dubte	LOC_ADV
+sense perjudici d'	LOC_PREP
+sense perjudici de	LOC_PREP
+sex ratio	_GN_FS
+sex ratios	_GN_FP
+si fa no fa	LOC_ADV
+si més no	LOC_ADV
+sine die	LOC_ADV
+sine qua non	LOC_ADJ
+sobre manera	LOC_ADV
+sota capa d'	LOC_PREP
+sota capa de	LOC_PREP
+statu quo	_GN_MS
+stricto sensu	LOC_ADV
+sui generis	LOC_ADJ
+tabula rasa	NCFS000
+tal vegada	LOC_ADV
+tal volta	LOC_ADV
+tan bon punt	LOC_CONJ
+tan solament	LOC_ADV
+tan sols	LOC_ADV
+tant menys	LOC_ADV
+tant més	LOC_ADV
+tocant a	LOC_PREP
+tot d'una	LOC_ADV
+tot just	LOC_ADV
+tot seguit	LOC_ADV
+tot sol	LOC_ADV
+tota sola	LOC_ADV
+totes soles	LOC_ADV
+tots sols	LOC_ADV
+tour de force	_GN_MS
+ultra mesura	LOC_ADV
+un per un	LOC_ADV
+un poc	LOC_ADV
+un pèl	LOC_ADV
+un xic	LOC_ADV
+una mica	LOC_ADV
+una per una	LOC_ADV
+una vegada per sempre	LOC_ADV
+una vegada per totes	LOC_ADV
+urbi et orbi	LOC_ADV
+via crucis	NCMS000
+vist i no vist	LOC_ADV
+vox populi	_GN_FS
+vulgues no vulgues	LOC_ADV
