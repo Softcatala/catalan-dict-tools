@@ -10,6 +10,8 @@ coquets
 graben
 inclusive
 nomes
+lo
+los
 
 EXCLOU LEMA DE TOTS
 alelat

@@ -22191,6 +22191,7 @@ Zoundwéogo Zoundwéogo NPCSG00
 Zoí Zoí NPCSG00
 Zrenjanin Zrenjanin NPCSG00
 Zuberoa Zuberoa NPCSG00
+Zuckerberg Zuckerberg NPCNSP0
 Zufallspitze Zufallspitze NPCSG00
 Zug Zug NPCSG00
 Zugspitze Zugspitze NPCSG00
