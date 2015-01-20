@@ -5595,6 +5595,7 @@ Cocit Cocit NPCSG00
 Coclé Coclé NPCSG00
 Coco Coco NPCSG00
 Cocos Cocos NPCSG00
+Cocteau Cocteau NPCNSP0
 Codalet Codalet NPCSG00
 Coderc Coderc NPCNSP0
 Codina Codina NPCNSP0
@@ -16020,6 +16021,7 @@ Poublanc Poublanc NPCSG00
 Poudevida Poudevida NPCSG00
 Poufondo Poufondo NPCNSP0
 Poujoan Poujoan NPCNSP0
+Poulenc Poulenc NPCNSP0
 Poumajor Poumajor NPCNSP0
 Pouminor Pouminor NPCNSP0
 Pouplana Pouplana NPCNSP0
