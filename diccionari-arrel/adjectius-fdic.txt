@@ -2352,6 +2352,7 @@ arxiconegut arxiconeguda=categories: A;fonts: LT;
 arxidiocesà arxidiocesana=categories: A;fonts: LT;
 arxiducal=categories: A;fonts: LT;
 arxiepiscopal=categories: A;fonts: LT;
+arxifamós arxifamosa=categories: A;fonts: LT;
 arxifonemàtic arxifonemàtica=categories: A;fonts: LT;
 arximilionari arximilionària=categories: A;fonts: LT;
 arximorfemàtic arximorfemàtica=categories: A;fonts: LT;
