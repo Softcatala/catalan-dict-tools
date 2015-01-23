@@ -137,6 +137,7 @@ anualment anualment RG
 anyalment anyalment RG
 anàlogament anàlogament RG
 anàrquicament anàrquicament RG
+anímicament anímicament RG
 anòmalament anòmalament RG
 anònimament anònimament RG
 aparatosament aparatosament RG

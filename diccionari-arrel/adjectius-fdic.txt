@@ -19419,6 +19419,7 @@ racial=categories: A;fonts: LT;
 racional=categories: A;fonts: LT;
 racionalista=categories: A;fonts: LT;
 racionalitzable=categories: A;fonts: LT;
+racionalitzador racionalitzadora=categories: A;fonts: derivat;
 racista=categories: A;fonts: LT;
 raconer raconera=categories: A;fonts: LT;
 racèmic racèmica=categories: A;fonts: LT;
