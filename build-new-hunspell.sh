@@ -38,11 +38,12 @@ do
     mv tmp.dic $variant.dic
     cat header.aff afixos-no-verbs.aff model_cantar_sense_apostrofacio.aff modelsverbals.aff > $variant.aff
     cd -
-    rm $dir_resultat/$variant.*
-    cp $dir_intermedi/$variant.* $dir_resultat
-    #Converteix a terminacio DOS
+    #Converteix a terminacions DOS
     sed -i 's/$/\r/' $dir_intermedi/$variant.dic
     sed -i 's/$/\r/' $dir_intermedi/$variant.aff
+    #Mou al directori de resultats
+    rm $dir_resultat/$variant.*
+    cp $dir_intermedi/$variant.* $dir_resultat
     #Elimina fitxers intermedis
     rm -rf $dir_intermedi
     echo "Per a fer un test: hunspell -d $variant"
