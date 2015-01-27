@@ -31,6 +31,7 @@ do
 
     cd $dir_intermedi
     export LC_ALL=C && sort -u $variant-exclusions.dic -o $variant.dic
+    sed '/^$/d' -i $variant.dic
     cat $variant.dic | wc -l > linies.txt
     cat linies.txt $variant.dic > tmp.dic
     rm $variant.dic
@@ -39,6 +40,10 @@ do
     cd -
     rm $dir_resultat/$variant.*
     cp $dir_intermedi/$variant.* $dir_resultat
+    #Converteix a terminacio DOS
+    sed -i 's/$/\r/' $dir_intermedi/$variant.dic
+    sed -i 's/$/\r/' $dir_intermedi/$variant.aff
+    #Elimina fitxers intermedis
     rm -rf $dir_intermedi
     echo "Per a fer un test: hunspell -d $variant"
 done
