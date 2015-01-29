@@ -7579,8 +7579,8 @@ Eurogrup Eurogrup NPMSO00
 Europa Europa NPFSG00
 Eurostat Eurostat NPFSO00
 Euràsia Euràsia NPCSG00
-Eurídice Eurídice NPMSSP0
-Eurídices Eurídice NPMPSP0
+Eurídice Eurídice NPFSSP0
+Eurídices Eurídice NPFPSP0
 Eurípides Eurípides NPMPSP0
 Eurípides Eurípides NPMSSP0
 Eurótas Eurótas NPCSG00

@@ -1,3 +1,6 @@
-5989,5990d5988
-< Cooper Cooper NPCNSP0
-< Cooper Cooper NPCSG00
+7739,7740c7739,7740
+< Eurídice Eurídice NPFSSP0
+< Eurídices Eurídice NPFPSP0
+---
+> Eurídice Eurídice NPMSSP0
+> Eurídices Eurídice NPMPSP0
