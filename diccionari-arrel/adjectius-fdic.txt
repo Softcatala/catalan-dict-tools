@@ -22314,7 +22314,6 @@ tempestiu tempestiva=categories: A;fonts: LT;
 tempestuós tempestuosa=categories: A;fonts: LT;
 tempestívol tempestívola=categories: A;fonts: LT;
 tempestós tempestosa=categories: A;fonts: LT;
-templari templària=categories: A;fonts: LT;
 templat templada=categories: A;fonts: AVL;
 templer templera=categories: A;fonts: LT;
 temporal=categories: A;fonts: LT;
