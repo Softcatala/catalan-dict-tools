@@ -5833,6 +5833,8 @@ Contrebia Contrebia NPCSG00
 Conversano Conversano NPCSG00
 Cook Cook NPCNG00
 Cookstown Cookstown NPCSG00
+Cooper Cooper NPCNSP0
+Cooper Cooper NPCSG00
 Copa Copa NPFSG00
 Copenhaguen Copenhaguen NPCSG00
 Copertino Copertino NPCSG00
