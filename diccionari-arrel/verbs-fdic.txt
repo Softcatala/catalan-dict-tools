@@ -8791,6 +8791,7 @@ rumiar=categories: V;model:crear;fonts:LT
 ruminar=categories: V;model:abominar;fonts:LT
 rumorejar=categories: V;model:envejar;fonts:LT
 ruquejar=categories: V;model:envejar;fonts:LT
+ruralitzar=categories: V;model:cantar;fonts:LT
 russificar=categories: V;model:trencar;fonts:LT
 rutilar=categories: V;model:cantar;fonts:LT
 rutlar=categories: V;model:cantar;fonts:LT

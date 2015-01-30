@@ -12183,6 +12183,7 @@ incivilitzat incivilitzada=categories: A;fonts: LT;
 inclassificable=categories: A;fonts: LT;
 inclement=categories: A;fonts: LT;
 inclinable=categories: A;fonts: LT;
+inclinadíssim -a=categories: AA;fonts: derivat;
 inclinatiu inclinativa=categories: A;fonts: LT;
 inclusiu inclusiva=categories: A;fonts: LT;
 inclús inclusa=categories: A;fonts: LT;

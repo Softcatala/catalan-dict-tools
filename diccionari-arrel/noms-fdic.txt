@@ -54316,6 +54316,7 @@ ruquesa=categories: F;fonts: LT;
 ruralia=categories: F;fonts: LT;
 ruralisme=categories: M;fonts: LT;
 ruralista=categories: MF;fonts: LT;
+ruralització=categories: F;fonts: LT;
 rururbanització=categories: F;fonts: LT;
 ruríkida=categories: MF;fonts: LT;
 rus [pl. russos]=categories: M;fonts: LT;
