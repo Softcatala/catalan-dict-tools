@@ -14023,6 +14023,7 @@ Nerva Nerva NPCSG00
 Nespleda Nespleda NPCNSP0
 Nespler Nespler NPCNSP0
 Ness Ness NPCSG00
+Nestlé Nestlé NPCNO00
 Nestos Nestos NPCSG00
 Netanya Netanya NPCSG00
 Neubrandenburg Neubrandenburg NPCSG00

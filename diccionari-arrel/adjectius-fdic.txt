@@ -1,3 +1,4 @@
+islamòfob -a=categories: A;fonts: derivat;
 10è 10a [pl. 10ns]=categories: AO;fonts: LT;
 11è 11a [pl. 11ns]=categories: AO;fonts: LT;
 12è 12a [pl. 12ns]=categories: AO;fonts: LT;
