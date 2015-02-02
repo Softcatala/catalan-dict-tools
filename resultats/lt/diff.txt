@@ -1,6 +1,2 @@
-7739,7740c7739,7740
-< Eurídice Eurídice NPFSSP0
-< Eurídices Eurídice NPFPSP0
----
-> Eurídice Eurídice NPMSSP0
-> Eurídices Eurídice NPMPSP0
+4167a4168
+> Bufalí Bufalí NPCSG00

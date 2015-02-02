@@ -4020,7 +4020,6 @@ Bufaganyes Bufaganyes NPCNSP0
 Bufaganyes Bufaganyes NPCSG00
 Bufali Bufali NPCSG00
 Bufalà Bufalà NPCSG00
-Bufalí Bufalí NPCSG00
 Bufarics Bufarics NPCNSP0
 Bufera Bufera NPFSG00
 Buffalo Buffalo NPCSG00
