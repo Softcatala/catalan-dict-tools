@@ -1,4 +1,3 @@
-islamòfob -a=categories: A;fonts: derivat;
 10è 10a [pl. 10ns]=categories: AO;fonts: LT;
 11è 11a [pl. 11ns]=categories: AO;fonts: LT;
 12è 12a [pl. 12ns]=categories: AO;fonts: LT;
@@ -13231,6 +13230,7 @@ isentròpic isentròpica=categories: A;fonts: LT;
 isentàlpic isentàlpica=categories: A;fonts: LT;
 islamista=categories: A;fonts: LT;
 islamístic islamística=categories: A;fonts: LT;
+islamòfob -a=categories: A;fonts: derivat;
 islandès islandesa=categories: A;fonts: LT;
 islàmic islàmica=categories: A;fonts: LT;
 ismaïlita=categories: A;fonts: LT;

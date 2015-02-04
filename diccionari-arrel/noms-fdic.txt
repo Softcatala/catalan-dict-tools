@@ -1,4 +1,3 @@
-islamofòbia=categories: F;fonts: derivat;
 ADN=categories: MI;fonts: LT;
 ARN=categories: MI;fonts: LT;
 Botox=categories: MS;fonts: LT;
@@ -34813,6 +34812,7 @@ islamisme=categories: M;fonts: LT;
 islamista=categories: MF;fonts: LT;
 islamita=categories: MF;fonts: LT;
 islamització=categories: F;fonts: LT;
+islamofòbia=categories: F;fonts: derivat;
 islamologia=categories: F;fonts: LT;
 islamística=categories: F;fonts: LT;
 islamòleg islamòloga=categories: MF;fonts: LT;

@@ -10073,7 +10073,10 @@ Händel Händel NPCNSP0
 Hèbrides Hèbrides NPFPG00
 Hèctor Hèctor NPMSSP0
 Hèctors Hèctor NPMPSP0
+Hècuba Hècuba NPFSSP0
+Hècubes Hècuba NPFPSP0
 Hèlsinki Hèlsinki NPCSG00
+Hèracles Hèracles NPMPSP0
 Hèracles Hèracles NPMSSP0
 Hèrcules Hèrcules NPMPSP0
 Hèrcules Hèrcules NPMSSP0
@@ -15488,6 +15491,7 @@ Petrés Petrés NPCSG00
 Petrópolis Petrópolis NPCSG00
 Petrús Petrús NPCSG00
 Petén Petén NPCSG00
+Peugeot Peugeot NPCNO00
 Peyresourde Peyresourde NPCSG00
 Peyrol Peyrol NPCSG00
 Peçarodona Peçarodona NPCNSP0
