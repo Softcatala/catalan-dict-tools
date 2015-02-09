@@ -13357,7 +13357,7 @@ Montesa Montesa NPFSG00
 Montesclado Montesclado NPCSG00
 Montescot Montescot NPCSG00
 Montesilvano Montesilvano NPCSG00
-Montesinos Montesinos NPCSG00
+Montesinos Montesinos NPMPG00
 Montesquieu Montesquieu NPMSSP0
 Montesquiu Montesquiu NPCNSP0
 Montesquiu Montesquiu NPCSG00
@@ -21736,7 +21736,6 @@ Vulpellac Vulpellac NPCNSP0
 Vulpellac Vulpellac NPCSG00
 Vuze Vuze NPCNO00
 Vyčegda Vyčegda NPCSG00
-Vàzquez Vàzquez NPCNSP0
 Váh Váh NPCSG00
 Vázquez Vázquez NPCSG00
 Vänern Vänern NPCSG00

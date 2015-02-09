@@ -1,2 +1,21 @@
 4167a4168
 > Bufalí Bufalí NPCSG00
+10238,10239d10238
+< Hècuba Hècuba NPFSSP0
+< Hècubes Hècuba NPFPSP0
+10241d10239
+< Hèracles Hèracles NPMPSP0
+13529c13527
+< Montesinos Montesinos NPMPG00
+---
+> Montesinos Montesinos NPCSG00
+15682d15679
+< Peugeot Peugeot NPCNO00
+21936a21934
+> Vàzquez Vàzquez NPCNSP0
+151958,151959d151955
+< batacada batacada NCFS000
+< batacades batacada NCFP000
+692599,692600d692594
+< insinceritat insinceritat NCFS000
+< insinceritats insinceritat NCFP000
