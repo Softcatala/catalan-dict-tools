@@ -58,14 +58,14 @@ foreach my $file (@files) {
 
 	    if ($postag =~ /^V.N.*$/) {
 		if ($forma =~ /[^e]$/) {
-		    $afixos="_C_Y"; #infinitiu acabat en consonant
+		    $afixos="_v_C_Y"; #infinitiu acabat en consonant
 		} else {
-		    $afixos="_D_Y"; #infinitiu acabat en vocal
+		    $afixos="_v_D_Y"; #infinitiu acabat en vocal
 		}
 	    } elsif ($postag =~ /^V.G.*$/) {
 		$afixos="_C"; #gerundi
 	    } elsif ($postag =~ /^V.P..SM.$/) {
-		$afixos="_V_Y"; #participi MS
+		$afixos="_v_Y"; #participi MS
 	    } elsif ($postag =~ /^V.P..SF.$/) {
 		$afixos="_Y"; #participi FS **** Falta afegir l'apostrofació l' (_V) en la forma evitant les excepcions. 
 	    } elsif ($postag =~ /^V.P..P..$/) {

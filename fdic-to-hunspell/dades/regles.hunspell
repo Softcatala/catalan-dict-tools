@@ -1366,6 +1366,41 @@ REGLA _V PFX Article prefixat no combinable
 000     h      S'H         h                # S'Hora
 /REGLA
 
+REGLA _v PFX+ Article prefixat combinable
+// necessari per a algunes combinacions en verbs: l'esmentat, a l'anar-se'n
+000     0      l'          [1aàeèéiíoòóhuú] # l'home
+000     0      L'          [1aàeèéiíoòóhuú] # L'home
+000     0      l'          [AÀEÈÉIÍOÒÓHUÚ]  # l'Home
+000     0      L'          [AÀEÈÉIÍOÒÓHUÚ]  # L'Alcúdia
+000     a      l'A         a                # l'Aire
+000     a      L'A         a                # L'Aire
+000     à      l'À         à                # l'Àguila
+000     à      L'À         à                # L'Àguila
+000     e      l'E         e                # l'Esperit
+000     e      L'E         e                # L'Esperit
+000     è      l'È         è                # l'Època
+000     è      L'È         è                # L'Època
+000     é      l'É         é                #
+000     é      L'É         é                #
+000     i      l'I         i                # l'Illa
+000     i      L'I         i                # L'Illa
+000     í      l'Í         í                #
+000     í      L'Í         í                #
+000     o      l'O         o                # l'Ordre
+000     o      L'O         o                # L'Ordre
+000     ò      l'Ò         ò                # l'Òliba
+000     ò      L'Ò         ò                # L'Òliba
+000     ó      l'Ó         ó                #
+000     ó      L'Ó         ó                #
+000     u      l'U         u                # l'Urna
+000     u      L'U         u                # L'Urna
+000     ú      l'Ú         ú                # l'Únic
+000     ú      L'Ú         ú                # L'Únic
+000     h      l'H         h                # l'Hora
+000     h      L'H         h                # L'Hora
+/REGLA
+
+
 REGLA _W PFX Article personal
 000     0      n'          [AÀEÈÉIÍOÒÓHUÚ]  # n'Arnau
 000     0      l'          [AÀEÈÉIÍOÒÓHUÚ]  # l'Arnau
