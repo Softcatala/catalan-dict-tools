@@ -1,4 +1,4 @@
-129448
+129442
 10a
 10es
 10ns
@@ -6754,6 +6754,8 @@ Ermengarda/_Y_V
 Ermengardes/_Y
 Ermengol/_Y_V
 Ermengols/_Y
+Ermessenda/_Y_V
+Ermessendes/_Y
 Ermet/_Y_V
 Ermini/_Y_V
 Erminis/_Y
@@ -6866,6 +6868,7 @@ Esmirna/_Y_V
 Espadaler/_Y_V
 Espadamala/_Y_V
 Espadella/_Y_V
+Espadà/_Y_V
 Espaillat/_Y_V
 Espanya/_Y_V
 Espanyol/_Y_V
@@ -25594,13 +25597,9 @@ alguer/_E_V_Y
 algueresa/_V_Y
 alguerès/_J_V_Y
 algueró/_G_V_Y
-algun
 algun/_Y
-alguna
 alguna/_Y
-algunes
 algunes/_Y
-alguns
 alguns/_Y
 algutzir/_E_V_Y
 algàlia/_E_V_Y
@@ -25614,7 +25613,7 @@ algínica/_V_Y
 algòleg/_K_V_Y
 algòloga/_V_Y
 algòmetre/_E_V_Y
-algú
+algú/_Y
 alhora/_Y_V
 ali/_E_V_Y
 aliable/_E_V_Y
@@ -26150,15 +26149,15 @@ altocúmulus/_V_Y
 altonúvol/_E_V_Y
 altostrat/_E_V_Y
 altostratus/_V_Y
-altra
 altra/_V_Y
+altra/_Y
 altrament
 altrament/_Y_V
-altre
 altre/_F_V_Y
-altres
+altre/_Y
+altres/_Y
 altressí/_Y_V
-altri
+altri/_Y
 altruisme/_E_V_Y
 altruista/_E_V_Y
 altura/_E_V_Y
@@ -26726,7 +26725,7 @@ amazònic/_F_V_Y
 amazònica/_V_Y
 amaçada/_V
 amaçar/2E_V
-amb
+amb/_Y
 ambages/_Y
 ambaixada/_E_V_Y
 ambaixador/_E_V_Y
@@ -26735,9 +26734,7 @@ ambaixadriu/_E_V_Y
 ambarina/_V_Y
 ambarvals/_V_Y
 ambarí/_H_V_Y
-ambdues
 ambdues/_Y
-ambdós
 ambdós/_Y
 amberlita/_E_V_Y
 ambicionada/_V
@@ -58885,6 +58882,7 @@ emètica/_V_Y
 emídid/_E_V_Y
 emú/_E_V_Y
 en
+en/_Y
 ena/_E_Y
 enacions/_Y
 enactament/_E_V_Y
@@ -60896,7 +60894,7 @@ enllustrar/28_V
 enlluïda/_V
 enllà-ahir/_Y_V
 enllà/_Y_V
-enmig
+enmig/_Y
 enmig/_Y_V
 ennassada/_V_Y
 ennassat/_B_V_Y
@@ -61981,7 +61979,7 @@ entrunyellada/_V
 entrunyellar/28_V
 entruperi/_E_V_Y
 entràmenes/_Y
-entrò
+entrò/_Y
 entròpic/_F_V_Y
 entròpica/_V_Y
 entubada/_V
@@ -62125,7 +62123,7 @@ envernissadora/_V_Y
 envernissament/_E_V_Y
 envernissar/09_V
 envernissat/_E_V_Y
-envers
+envers/_Y
 enversada/_V
 enversador/_F_V_Y
 enversadora/_V_Y
@@ -68594,7 +68592,7 @@ excepcional/_E_V_Y
 excepcionalitat/_E_V_Y
 excepcionalment/_Y_V
 excepció/_G_V_Y
-excepte
+excepte/_Y
 exceptuable/_E_V_Y
 exceptuada/_V
 exceptuar/63_V
@@ -79094,7 +79092,7 @@ holònom/_F_V_Y
 holònoma/_V_Y
 holòsid/_E_V_Y
 holòtric/_E_V_Y
-hom
+hom/_Y
 homalogràfic/_F_V_Y
 homalogràfica/_V_Y
 homalozou/_E_V_Y
@@ -124700,9 +124698,9 @@ túrdid/_E
 túrgid/_F
 túrgidament
 túron/_E
-u
 u/_E_Y
 u/_V_Y
+u/_Y
 uTorrent/_Y_V
 uabaïna/_E
 uacari/_E
@@ -124824,8 +124822,8 @@ ulteriorment/_Y_V
 ultimador/_F_V_Y
 ultimar/28_V
 ultimàtum/_E_V_Y
-ultra
 ultra/_E_V_Y
+ultra/_Y
 ultraample/_F_V_Y
 ultraatòmic/_F_V_Y
 ultraaudió/_G_V_Y
@@ -124958,9 +124956,7 @@ umbèl·lula/_E_Y
 umbó/_G_V_Y
 umiac/_E_V_Y
 umma/_V_Y
-un/_V
 un/_Y_V
-una/_V
 una/_Y_V
 unakita/_E_Y
 unanimisme/_E_V_Y
@@ -124984,7 +124980,6 @@ undecà/_G_V_Y
 underground/_V_Y
 undulatus/_V_Y
 undulipodi/_E_V_Y
-unes
 unes/_Y
 unflable/_E_V_Y
 unflador/_F_V_Y
@@ -125141,7 +125136,6 @@ uniònid/_E_V_Y
 unió/_G_Y
 unnilpenti/_E_V_Y
 unnilquadi/_E_V_Y
-uns
 uns/_Y
 unt/_E_V_Y
 untador/_E_V_Y

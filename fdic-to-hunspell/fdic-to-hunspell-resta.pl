@@ -24,14 +24,14 @@ foreach my $file (@files) {
 	    my $postag = $3;
 	    my $apostrofacions="";
 	    # apostrofa d'
-	    if ($postag =~ /^(RG.*|NP.*|D[DI].*|PD0NS000)$/) {
+	    if ($postag =~ /^(RG.*|NP.*|D[DI].*|PD0NS000|PI.*|PP3[MF][SP]000|SPS00)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
 		    $apostrofacions.="_Y";
 		}
 	    }
-	    if ($forma =~ /^(ell|ells|ella|elles|entre)$/) {
-		    $apostrofacions.="_Y";
-	    }
+#	    if ($forma =~ /^(ell|ells|ella|elles|entre|altri|algú)$/) {
+#		    $apostrofacions.="_Y";
+#	    }
             # apostrofa el > l'
 	    if ($postag =~ /^(NP[CM][SN].*|RG)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
