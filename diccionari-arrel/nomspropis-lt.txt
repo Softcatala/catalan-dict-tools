@@ -9107,6 +9107,7 @@ Glorieta Glorieta NPMSG00
 Gloucester Gloucester NPCSG00
 Gloucestershire Gloucestershire NPCSG00
 Glua Glua NPCNSP0
+Gluck Gluck NPCNSP0
 Glåma Glåma NPCSG00
 Glòria Glòria NPFSSP0
 Glòries Glòria NPFPSP0

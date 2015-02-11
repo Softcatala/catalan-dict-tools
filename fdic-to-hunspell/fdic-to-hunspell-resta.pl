@@ -29,6 +29,9 @@ foreach my $file (@files) {
 		    $apostrofacions.="_Y";
 		}
 	    }
+	    if ($forma =~ /^(ell|ells|ella|elles|entre)$/) {
+		    $apostrofacions.="_Y";
+	    }
             # apostrofa el > l'
 	    if ($postag =~ /^(NP[CM][SN].*|RG)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
