@@ -30,6 +30,9 @@ Genera fitxers xpi (compatibles amb el Firefox) a partir dels resultats per al H
 ##### buid-morfologik-lt.sh
 Genera la versió compilada (amb la llibreria Morfologik) del diccionari de LanguageTool. Requereix LanguageTool. 
 
+##### buid-wordlist-from-lt.sh
+Genera una llista de totes les paraules possibles, incloent-hi apostrofació i pronoms febles (ex. d'anar-se'n, l'esmentat). Útil per a algunes aplicacions.
+
 ### Per fer
 * En el diccionari arrel marcar les fonts d'origen de cada paraula. Això servirà per a comprovar la correcció de les dades.
 

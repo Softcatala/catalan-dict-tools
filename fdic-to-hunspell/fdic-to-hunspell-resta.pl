@@ -38,11 +38,11 @@ foreach my $file (@files) {
 		    $apostrofacions.="_V";
 		}
 	    }
-	    if ($forma =~ /^(un|una)$/) {
-		if (Flexio::apostrofa_masculi($forma)) {
-		    $apostrofacions.="_V";
-		}
-	    }
+#	    if ($forma =~ /^(un|una)$/) {
+#		if (Flexio::apostrofa_masculi($forma)) {
+#		    $apostrofacions.="_V";
+#		}
+#	    }
 	    # apostrofa la > l'
 	    if ($postag =~ /^(NPF[SN].*)$/) {
 		if (Flexio::apostrofa_femeni($forma)) {

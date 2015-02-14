@@ -12,6 +12,8 @@ inclusive
 nomes
 lo
 los
+music
+musics
 
 EXCLOU LEMA DE TOTS
 alelat
@@ -39,7 +41,6 @@ impar
 lelo
 lero
 mediar
-music
 papanates
 papanatisme
 passota
