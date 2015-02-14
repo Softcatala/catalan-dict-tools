@@ -1,5 +1,5 @@
 #!/bin/bash
-lt_per_a_comparar="/home/jaume/diccionaris/catalan-dict-lt/diccionari.txt"
+lt_per_a_comparar="resultats/lt/diccionari.txt"
 dir_programes="test-lt-fdic-lt"
 dir_intermedi="test-lt-fdic-lt/intermedi"
 dir_resultat="resultats/test-lt-fdic-lt"
