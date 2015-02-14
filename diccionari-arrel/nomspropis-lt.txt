@@ -22266,8 +22266,7 @@ uTorrent uTorrent NPCNO00
 Àngels Àngels NPFPSP0
 Àngels Àngels NPFSSP0
 Ànimes Ànimes NPFPG00
-Àquila Àquila NPFSSP0
-Àquiles Àquila NPFPSP0
+Àquila Àquila NPMSSP0
 Àreu Àreu NPCSG00
 Àries Àries NPCSG00
 Àrreu Àrreu NPCSG00
@@ -22284,10 +22283,8 @@ uTorrent uTorrent NPCNO00
 Àustries Àustria NPCPSP0
 Àvila Àvila NPFSG00
 Ágreda Ágreda NPCSG00
-Águilas Águilas NPCSG00
 Álora Álora NPCSG00
 Álvarez Álvarez NPCNSP0
-Ángeles Ángeles NPCSG00
 Ávalos Ávalos NPCNSP0
 Åland Åland NPCSG00
 Ålborg Ålborg NPCSG00
