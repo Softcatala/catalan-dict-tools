@@ -1,5 +1,4 @@
 #!/bin/bash
-lt_per_a_comparar="/home/jaume/diccionaris/catalan-dict-lt/diccionari.txt"
 dir_resultat="resultats/lt"
 rm $dir_resultat/*
 echo "Adjectius: de FDIC a LT..."
@@ -17,9 +16,6 @@ export LC_ALL=C && sort -u $dir_resultat/diccionari.txt > $dir_resultat/dicciona
 rm $dir_resultat/diccionari.txt
 mv $dir_resultat/diccionari_sorted.txt $dir_resultat/diccionari.txt
 
-#diff
-echo "Resultat i diferències en el directori $dir_resultat"
-diff "$dir_resultat/diccionari.txt" "$lt_per_a_comparar" > "$dir_resultat/diff.txt"
+echo "Resultat en el directori $dir_resultat"
 echo "FET!"
-
 
