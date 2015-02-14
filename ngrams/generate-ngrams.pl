@@ -90,8 +90,8 @@ foreach $file (@docs) {
 	    for $word (@matches)
 	    {
 		#print "PARAULA $word\n";
-		$word =~ s/^['\-]//;
-		$word =~ s/['\-]$//; 
+		$word =~ s/^['\-]+//;
+		$word =~ s/['\-]+$//; 
 		$word2=$word;
 		if (!exists($diccionari{$word2}) && exists($diccionari{lc($word2)}))
 		{
