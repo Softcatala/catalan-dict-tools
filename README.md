@@ -22,6 +22,9 @@ Construeix el diccionari amb etiquetatge gramatical per al corrector Languagetoo
 
 És un test que converteix el fitxer de LT en format de diccionari; aquest es converteix de nou en format LT i es compara amb el fitxer inicial. 
 
+##### buid-xpi-all.sh
+Genera fitxers xpi (compatibles amb el Firefox) a partir dels resultats per al Hunspell.
+
 ### Per fer
 * En el diccionari arrel marcar les fonts d'origen de cada paraula. Això servirà per a comprovar la correcció de les dades.
 
