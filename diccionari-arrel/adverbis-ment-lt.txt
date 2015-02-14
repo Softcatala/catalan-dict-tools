@@ -28,6 +28,7 @@ accessòriament accessòriament RG
 accidentalment accidentalment RG
 acerbament acerbament RG
 aciençadament aciençadament RG
+aclaparadorament aclaparadorament RG
 acomodadament acomodadament RG
 acordadament acordadament RG
 acostumadament acostumadament RG
@@ -247,6 +248,7 @@ benèficament benèficament RG
 benèvolament benèvolament RG
 bestialment bestialment RG
 biennalment biennalment RG
+biològicament biològicament RG
 blanament blanament RG
 bledanament bledanament RG
 boirosament boirosament RG
@@ -476,6 +478,7 @@ críticament críticament RG
 crònicament crònicament RG
 cuitadament cuitadament RG
 cuitosament cuitosament RG
+culinàriament culinàriament RG
 cultament cultament RG
 culturalment culturalment RG
 cumulativament cumulativament RG
@@ -1785,6 +1788,7 @@ obreptíciament obreptíciament RG
 obscenament obscenament RG
 obscurament obscurament RG
 obsequiosament obsequiosament RG
+obsessivament obsessivament RG
 obstinadament obstinadament RG
 obtusament obtusament RG
 ocasionalment ocasionalment RG
@@ -2128,6 +2132,7 @@ regularment regularment RG
 reialment reialment RG
 reiteradament reiteradament RG
 relativament relativament RG
+relaxadament relaxadament RG
 religiosament religiosament RG
 rellevantment rellevantment RG
 remarcablement remarcablement RG
