@@ -741,6 +741,7 @@ aital=categories: A;fonts: LT;
 aitonenc aitonenca=categories: A;fonts: LT;
 aixafadís aixafadissa=categories: A;fonts: LT;
 aixambergat aixambergada=categories: A;fonts: LT;
+aixampanyat -ada=categories: A;fonts: esadir;
 aixanti=categories: A;fonts: LT;
 aixapeït aixapeïda=categories: A;fonts: LT;
 aixaropat aixaropada=categories: A;fonts: LT;

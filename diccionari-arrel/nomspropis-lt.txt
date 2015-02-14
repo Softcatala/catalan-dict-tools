@@ -1,6 +1,3 @@
-Ermessenda Ermessenda NPFSSP0
-Ermessendes Ermessenda NPFPSP0
-Espadà Espadà NPMSG00
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 AVL AVL NPFSO00
@@ -7198,6 +7195,8 @@ Ermengardes Ermengarda NPFPSP0
 Ermengol Ermengol NPCNSP0
 Ermengol Ermengol NPMSSP0
 Ermengols Ermengol NPMPSP0
+Ermessenda Ermessenda NPFSSP0
+Ermessendes Ermessenda NPFPSP0
 Ermet Ermet NPCNSP0
 Ermini Ermini NPMSSP0
 Erminis Ermini NPMPSP0
@@ -7311,6 +7310,7 @@ Esmirna Esmirna NPFSG00
 Espadaler Espadaler NPCNSP0
 Espadamala Espadamala NPCNSP0
 Espadella Espadella NPCSG00
+Espadà Espadà NPMSG00
 Espaillat Espaillat NPCSG00
 Espanya Espanya NPFSG00
 Espanyol Espanyol NPCNSP0

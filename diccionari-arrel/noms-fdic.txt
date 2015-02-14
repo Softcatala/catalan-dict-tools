@@ -39908,6 +39908,7 @@ microtò=categories: M;fonts: LT;
 microtúbul=categories: M;fonts: LT;
 microvellositat=categories: F;fonts: LT;
 microvil·li=categories: M;fonts: LT;
+microxip=categories: M;fonts: termcat;
 microzou=categories: M;fonts: LT;
 micròcit=categories: M;fonts: LT;
 micròfit=categories: M;fonts: LT;
