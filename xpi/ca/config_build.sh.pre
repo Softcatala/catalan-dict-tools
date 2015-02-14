@@ -1,4 +1,4 @@
-APP_NAME=ca.dev
+APP_NAME=ca##DEV##.##VERSION##
 CLEAN_UP=1
 ROOT_FILES="install.rdf install.js"
 ROOT_DIRS="dictionaries"

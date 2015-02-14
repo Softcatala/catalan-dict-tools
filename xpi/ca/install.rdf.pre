@@ -3,10 +3,10 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>ca@dev.softcatala.org</em:id>
+    <em:id>ca@##ID##</em:id>
     <em:unpack>true</em:unpack>
     <em:type>64</em:type>
-    <em:version>9.9.9</em:version>
+    <em:version>##VERSION##</em:version>
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
@@ -35,7 +35,7 @@
         <em:maxVersion>21.0a1</em:maxVersion>
       </Description>
     </em:targetApplication>
-    <em:name>Diccionari català (general) - test</em:name>
+    <em:name>Diccionari català (general)##TAG##</em:name>
     <em:homepageURL>http://www.softcatala.org/wiki/Corrector_ortogràfic</em:homepageURL>
     <em:creator>Softcatalà</em:creator>
   </Description>

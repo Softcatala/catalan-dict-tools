@@ -24,6 +24,8 @@ Construeix el diccionari amb etiquetatge gramatical per al corrector Languagetoo
 
 ##### buid-xpi-all.sh
 Genera fitxers xpi (compatibles amb el Firefox) a partir dels resultats per al Hunspell.
+* ./build-xpi-all.sh -> Genera paquets de desenvolupament (versió 9.9.9)
+* ./build-xpi-all.sh -p -v '3.0.0' -> Genera paquets de producció (versió 3.0.0)
 
 ### Per fer
 * En el diccionari arrel marcar les fonts d'origen de cada paraula. Això servirà per a comprovar la correcció de les dades.

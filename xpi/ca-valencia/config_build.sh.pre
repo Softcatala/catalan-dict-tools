@@ -1,4 +1,4 @@
-APP_NAME=ca-valencia.dev
+APP_NAME=ca-valencia##DEV##.##VERSION##
 CLEAN_UP=1
 ROOT_FILES="install.rdf install.js"
 ROOT_DIRS="dictionaries"

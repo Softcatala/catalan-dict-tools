@@ -1,9 +1,9 @@
-var err = initInstall("Diccionari català (valencià) - test", "ca-valencia@dev.softcatala.org", "9.9.9");
+var err = initInstall("Diccionari català (general)##TAG##", "ca@##ID##", "##VERSION##");
 if (err != SUCCESS)
     cancelInstall();
 
 var fProgram = getFolder("Program");
-err = addDirectory("", "ca-valencia@dev.softcatala.org",
+err = addDirectory("", "ca@##ID##",
 		   "dictionaries", fProgram, "dictionaries", true);
 if (err != SUCCESS)
     cancelInstall();
