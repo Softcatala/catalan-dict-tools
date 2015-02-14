@@ -10,11 +10,11 @@ El diccionari arrel (en el directori "diccionari-arrel") conté les dades bàsiq
 * Extensió **-lt.txt**: Per a adverbis, noms propis i la resta de categories, la informació es manté en el format usat en LanguageTool, que és el mateix que s'usa en els diccionaris [Freeling](http://nlp.lsi.upc.edu/freeling/doc/tagsets/tagset-ca.html). 
 
 #### Scripts
-##### build-new-hunspell.sh
+##### build-hunspell.sh
 
 Construeix diccionaris Hunspell en variant general i valenciana a partir del diccionari arrel. 
 
-##### build-new-lt.sh
+##### build-lt.sh
 
 Construeix el diccionari amb etiquetatge gramatical per al corrector Languagetool. 
 
