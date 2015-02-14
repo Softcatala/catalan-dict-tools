@@ -134,8 +134,8 @@ while ($line = <$fh>) {
 		if ($postag =~ /^(A..[MC][SN].|N.[MC][SN].*)$/) {
 		    print $ofh "l'".$forma."\n";
 		} elsif ($postag =~ /^(A..[FC][SN].|N.[FC][SN].*)$/ && Flexio::apostrofa_femeni($forma)) {
-		print $ofh "l'".$forma."\n";
-	    }
+		    print $ofh "l'".$forma."\n";
+		}
 
 	    }
 	} elsif ($postag =~ /^(RG.*|D[DI].*|PD0NS000|PI.*|PP3[MF][SP]000|SPS00)$/) {
