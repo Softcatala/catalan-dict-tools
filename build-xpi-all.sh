@@ -1,7 +1,11 @@
 ID="dev.dictionaries.addons.mozilla.org"
 TAG="-test"
 VERSION="9.9.9"
-DEV=".dev"
+current_time=$(date "+%Y%m%d%H%M%S")
+
+DEV=".dev.$current_time"
+
+
 
 while getopts "pv:" opt; do
     case "$opt" in
