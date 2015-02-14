@@ -260,8 +260,8 @@ SFX _D 0 -li-la .
 SFX _D 0 -li-les .
 
 SFX _E Y 17
-SFX _E èn én/_V_Y èn
-SFX _E è é/_V_Y è
+SFX _E èn én/_v_Y èn
+SFX _E è é/_v_Y è
 SFX _E 0 s [^ans]
 SFX _E è és è
 SFX _E 0 s [^íéè]n
@@ -279,7 +279,7 @@ SFX _E ga gues ga
 SFX _E ja ges ja
 
 SFX _I Y 14
-SFX _I ès és/_V_Y ès
+SFX _I ès és/_v_Y ès
 SFX _I 0 os [^s]
 SFX _I 0 os [^àèéíòóú]s
 SFX _I às asos às
@@ -295,7 +295,7 @@ SFX _I ús usos [^aeoi]ús
 SFX _I ús üsos [aeoi]ús
 
 SFX _i Y 12
-SFX _i ès és/_V_Y ès
+SFX _i ès és/_v_Y ès
 SFX _i às assos às
 SFX _i ès essos ès
 SFX _i és essos és
@@ -309,7 +309,7 @@ SFX _i ús ussos [^aeoi]ús
 SFX _i ús üssos [aeoi]ús
 
 SFX _G Y 16
-SFX _G è é/_V_Y è
+SFX _G è é/_v_Y è
 SFX _G 0 ns a
 SFX _G 0 ns e
 SFX _G 0 ns i
@@ -348,7 +348,7 @@ SFX _F 0 es [^gq]u
 SFX _F u ües [gq]u
 
 SFX _B Y 46
-SFX _B ès és/_V_Y ès
+SFX _B ès és/_v_Y ès
 SFX _B t da t
 SFX _B u va u
 SFX _B c ga c
@@ -396,7 +396,7 @@ SFX _B ús usses [^aeoi]ús
 SFX _B ús üsses [aeoi]ús
 
 SFX _H Y 34
-SFX _H è é/_V_Y è
+SFX _H è é/_v_Y è
 SFX _H 0 na [aeiou]
 SFX _H à ana à
 SFX _H è ena è
@@ -432,7 +432,7 @@ SFX _H ó ones ó
 SFX _H ú unes ú
 
 SFX _J Y 29
-SFX _J ès és/_V_Y ès
+SFX _J ès és/_v_Y ès
 SFX _J 0 a [^s]
 SFX _J 0 a [^àèéíòóú]s
 SFX _J às asa às

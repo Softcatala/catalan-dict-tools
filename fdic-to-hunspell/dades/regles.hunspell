@@ -277,8 +277,8 @@ REGLA _D SFX+ Pronoms personals enclítics darrere vocal
 // ==========================================================================
 
 REGLA _E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ i [aeou]ig
-201     èn     én/_V_Y     èn               # aerotrén (AVL)
-201     è      é/_V_Y      è                # bebé (AVL)
+201     èn     én/_v_Y     èn               # aerotrén (AVL)
+201     è      é/_v_Y      è                # bebé (AVL)
 000     0      s           [^ans]           # homes  <PLU>
 201     è      és          è                # bebés (AVL)
 000     0      s           [^íéè]n          # cànon
@@ -300,7 +300,7 @@ REGLA _E SFX+ Plurals afegint una s (sense canvis de so) i plurals de [sx][ct]$ 
 
 // NOTA: totes les paraules que segueixen la regla I són masculines
 REGLA _I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
-201     ès     és/_V_Y     ès               # benentés (AVL)
+201     ès     és/_v_Y     ès               # benentés (AVL)
 000     0      os          [^s]             # guixos  <PLU>
 000     0      os          [^àèéíòóú]s      # gasos, cursos
 000     às     asos        às               # biogasos
@@ -318,7 +318,7 @@ REGLA _I SFX+ Plurals afegint o (eventualment amb canvi d'accent)
 
 // NOTA: Similar a la regla I, però amb canvi s > ss
 REGLA _i SFX+ Plurals afegint o (eventualment amb canvi d'accent)
-201     ès     és/_V_Y       ès               # benentés (AVL)
+201     ès     és/_v_Y       ès               # benentés (AVL)
 000     às     assos       às               # bordegassos <PLU>
 000     ès     essos       ès               # 
 000     és     essos       és               # 
@@ -334,7 +334,7 @@ REGLA _i SFX+ Plurals afegint o (eventualment amb canvi d'accent)
 
 
 REGLA _G SFX+ Plurals afegint ns
-201     è      é/_V_Y        è                # benzé (AVL)
+201     è      é/_v_Y        è                # benzé (AVL)
 000     0      ns          a                # pans  <PLU>
 000     0      ns          e                # blens
 000     0      ns          i                # brins
@@ -379,7 +379,7 @@ REGLA _F SFX+ Quatre formes afegint a/s/es (sense o, però també foscos)
 /REGLA
 
 REGLA _B SFX+ Quatre formes amb canvi t > d, u > v, c > g, s > ss
-201     ès     és/_V_Y       ès               # espés (AVL), admet article i de apostrofats
+201     ès     és/_v_Y       ès               # espés (AVL), admet article i de apostrofats
 000     t      da          t                # abalida - canvi t > d   <FEM>
 000     u      va          u                # nova    - canvi u > v
 000     c      ga          c                # antiga  - canvi c > g
@@ -428,7 +428,7 @@ REGLA _B SFX+ Quatre formes amb canvi t > d, u > v, c > g, s > ss
 /REGLA
 
 REGLA _H SFX+ Quatre formes afegint ns
-201     è      é/_V_Y        è                # cinquanta-uné (AVL)
+201     è      é/_v_Y        è                # cinquanta-uné (AVL)
 000     0      na          [aeiou]          # plana, plena, fina, bona, bruna   <FEM>
 000     à      ana         à                # forana
 000     è      ena         è                # amena
@@ -465,7 +465,7 @@ REGLA _H SFX+ Quatre formes afegint ns
 /REGLA
 
 REGLA _J SFX+ Quatre formes afegint a/os/es
-201     ès     és/_V_Y       ès               # ofés (AVL), admet article i de apostrofats
+201     ès     és/_v_Y       ès               # ofés (AVL), admet article i de apostrofats
 000     0      a           [^s]             # dolça, laxa    <FEM>
 000     0      a           [^àèéíòóú]s      # agradosa
 000     às     asa         às               # 
