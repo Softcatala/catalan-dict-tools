@@ -99,6 +99,8 @@ while ($line = <$fh>) {
 	    }
 	    &aplica_afixos($forma, $afixos);
 	    if (Flexio::apostrofa_masculi($forma)) {
+		print $ofh "l'".$forma."\n";
+		print $ofh "d'".$forma."\n";
 		&aplica_afixos("l'".$forma, $afixos);
 		&aplica_afixos("d'".$forma, $afixos);
 	    }
