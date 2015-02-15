@@ -7,17 +7,13 @@ require "libs/Flexio.pm";
 binmode(STDOUT, ":utf8");
 
 my $diccionarifile="resultats/wordlist/wordlist.txt";
-
 my $directory="/home/jaume/diccionaris/corpus-sense-seleccio/";
 
-
-#my $f1 = "tot.txt";
-#my $f2 = "adjectius.txt";
-#my $f1 = "toponims_sense_comuns.txt";
 my $outerrors = "ngrams/errors.txt";
 my $out1 = "ngrams/unigrams.txt";
 my $out2 = "ngrams/bigrams.txt";
 my $out3 = "ngrams/trigrams.txt";
+
 my %unigrams = ();
 my %bigrams = ();
 my %trigrams = ();
@@ -25,9 +21,7 @@ my $word;
 my $word2;
 my $line;
 my @matches;
-
 my $wordcount=0;
-
 my @docs;
 my $file;
 
@@ -137,67 +131,42 @@ foreach $file (@docs) {
 		    $prevPrevWord="";
 		    $prevWord="";
 		}
-		
-
-=pod
-            if (exists($trigrams{$prevPrevWord." ".$prevWord." ".$currentPos}))
-            {
-            $trigrams{$prevPrevWord." ".$prevWord." ".$currentPos}++;
-            }
-            else
-            {
-            $trigrams{$prevPrevWord." ".$prevWord." ".$currentPos}=1;
-            }
-
-=cut
-#            $prevPrevWord=$prevWord;
-#            $prevWord=$currentPos;
-
 	    }
 	}
-
     }
-
     close($fh);
 }
+closedir (DIR);
 
 print "Analitzades $wordcount paraules.\n";
+print "Escrivint els resultats...\n";
+#Escriu els resultats
 
 my $k;
 my $ofh;
 
 open($ofh, ">:encoding(UTF-8)", $out1);
-foreach $k (sort {$unigrams{$b} <=> $unigrams{$a} } keys %unigrams)
-{
+foreach $k (sort {$unigrams{$b} <=> $unigrams{$a} } keys %unigrams) {
     print $ofh "$k\t$unigrams{$k}\n";
 }
 close($ofh);
 
-
 open($ofh, ">:encoding(UTF-8)", $outerrors);
-foreach $k (sort {$errors{$b} <=> $errors{$a} } keys %errors)
-{
+foreach $k (sort {$errors{$b} <=> $errors{$a} } keys %errors) {
     print $ofh "$k\t$errors{$k}\n";
 }
 close($ofh);
 
-closedir (DIR);
-
 open($ofh, ">:encoding(UTF-8)", $out2);
-foreach $k (sort {$bigrams{$b} <=> $bigrams{$a} } keys %bigrams)
-{
+foreach $k (sort {$bigrams{$b} <=> $bigrams{$a} } keys %bigrams) {
     print $ofh "$k\t$bigrams{$k}\n";
 }
 close($ofh);
 
-
 open($ofh, ">:encoding(UTF-8)", $out3);
-foreach $k (sort {$trigrams{$b} <=> $trigrams{$a} } keys %trigrams)
-{
-    
+foreach $k (sort {$trigrams{$b} <=> $trigrams{$a} } keys %trigrams) {   
     print $ofh "$k\t$trigrams{$k}\n" if $trigrams{$k}>1;
 }
 close($ofh);
 
-
-
+print "Acabat.\n"
