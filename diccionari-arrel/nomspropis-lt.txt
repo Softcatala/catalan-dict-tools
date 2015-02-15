@@ -13615,7 +13615,7 @@ Mosa Mosa NPCSG00
 Mosca Mosca NPFSG00
 Moscardó Moscardó NPCNSP0
 Moscari Moscari NPCSG00
-Moscou Moscou NPMSG00
+Moscou Moscou NPCSG00
 Moscòvia Moscòvia NPCSG00
 Mosel·la Mosel·la NPCSG00
 Moser Moser NPCNSP0

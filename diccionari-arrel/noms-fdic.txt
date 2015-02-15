@@ -29970,6 +29970,7 @@ general=categories: MF;fonts: LT;
 generala=categories: F;fonts: LT;
 generalat=categories: M;fonts: LT;
 generalitat=categories: F;fonts: LT;
+Generalitat=categories: F;fonts: LT;
 generalització=categories: F;fonts: LT;
 generalíssim=categories: M;fonts: LT;
 generativisme=categories: M;fonts: LT;
