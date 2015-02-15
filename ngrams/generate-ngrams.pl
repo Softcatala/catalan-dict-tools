@@ -159,14 +159,15 @@ close($ofh);
 
 open($ofh, ">:encoding(UTF-8)", $out2);
 foreach $k (sort {$bigrams{$b} <=> $bigrams{$a} } keys %bigrams) {
-    print $ofh "$k\t$bigrams{$k}\n";
+    print $ofh "$k\t$bigrams{$k}\n" if $bigrams{$k}>1;
 }
 close($ofh);
 
 open($ofh, ">:encoding(UTF-8)", $out3);
 foreach $k (sort {$trigrams{$b} <=> $trigrams{$a} } keys %trigrams) {   
-    print $ofh "$k\t$trigrams{$k}\n" if $trigrams{$k}>1;
+    print $ofh "$k\t$trigrams{$k}\n" if $trigrams{$k}>2;
 }
 close($ofh);
 
-print "Acabat.\n"
+print "Acabat.\n";
+exit 0;
