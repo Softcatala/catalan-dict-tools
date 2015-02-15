@@ -7269,6 +7269,7 @@ Escolàstica Escolàstica NPFSSP0
 Escolàstiques Escolàstica NPFPSP0
 Escombreras Escombreras NPCSG00
 Escorca Escorca NPFSG00
+Escorial Escorial NPMSG00
 Escornalbou Escornalbou NPCSG00
 Escorratell Escorratell NPCSG00
 Escortell Escortell NPCNSP0
