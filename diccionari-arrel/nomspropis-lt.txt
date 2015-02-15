@@ -8152,6 +8152,7 @@ Font-i-roig Font-i-roig NPCNSP0
 Font-rabiosa Font-rabiosa NPCSG00
 Font-roja Font-roja NPFSG00
 Font-romeu Font-romeu NPCSG00
+Font-rubí Font-rubí NPFSG00
 Fontaine Fontaine NPCSG00
 Fontainebleau Fontainebleau NPCSG00
 Fontallada Fontallada NPCSG00
@@ -18517,6 +18518,7 @@ Senyús Senyús NPCSG00
 Senç Senç NPCSG00
 Senès Senès NPCNSP0
 Senén Senén NPMSSP0
+Septimània Septimània NPFSG00
 Sepúlveda Sepúlveda NPCSG00
 Serafina Serafina NPFSSP0
 Serafines Serafina NPFPSP0

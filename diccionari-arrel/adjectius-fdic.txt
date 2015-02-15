@@ -9956,6 +9956,7 @@ fonològic fonològica=categories: A;fonts: LT;
 fonomètric fonomètrica=categories: A;fonts: LT;
 fonosimbòlic fonosimbòlica=categories: A;fonts: LT;
 fonotècnic fonotècnica=categories: A;fonts: LT;
+font-rubinenc -a=categories: A;fonts: esadir, GDLC;
 fontal=categories: A;fonts: LT;
 fontanalenc fontanalenca=categories: A;fonts: LT;
 fontcobertí fontcobertina=categories: A;fonts: LT;

@@ -8,7 +8,7 @@ binmode(STDOUT, ":utf8");
 
 my $diccionarifile="resultats/wordlist/wordlist.txt";
 
-my $directory="/media/OS/Users/jaume/Documents/Llengua_catalana/Corpus/arreglat/";
+my $directory="/home/jaume/diccionaris/corpus-sense-seleccio/";
 
 
 #my $f1 = "tot.txt";
@@ -80,6 +80,8 @@ foreach $file (@docs) {
 	$line =~ s/’/'/g;
 	$line =~ s/ŀ/l·/g;
 	$line =~ s/Ŀ/L·/g;
+	$line =~ s/l•l/l·l/g;
+	$line =~ s/L•L/L·L/g;
 	#print "LINIA $line\n";
 	my @sentences = split(/[\.!?,;\(\)\[\]]/, $line);
 
