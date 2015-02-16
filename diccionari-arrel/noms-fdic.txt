@@ -4656,7 +4656,6 @@ aquela=categories: F;fonts: LT;
 aquelarre=categories: M;fonts: LT;
 aquemènida=categories: MF;fonts: LT;
 aqueni=categories: M;fonts: LT;
-aquet=categories: M;fonts: LT;
 aqueu=categories: M;fonts: LT;
 aquiescència=categories: F;fonts: LT;
 aquietament=categories: M;fonts: LT;

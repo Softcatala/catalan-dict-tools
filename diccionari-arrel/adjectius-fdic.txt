@@ -2074,7 +2074,6 @@ apòstata=categories: A;fonts: LT;
 apòtrop apòtropa=categories: A;fonts: LT;
 aquemènida=categories: A;fonts: LT;
 aqueniforme=categories: A;fonts: LT;
-aquet aqueta=categories: A;fonts: LT;
 aqueu aquea=categories: A;fonts: LT;
 aquiescent=categories: A;fonts: LT;
 aquilí aquilina=categories: A;fonts: LT;
