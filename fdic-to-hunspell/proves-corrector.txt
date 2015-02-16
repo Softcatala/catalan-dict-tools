@@ -14,7 +14,7 @@ Accentuació valenciana:
 Bebés, emés reprén, revén, terratrémol, convéncer, conéixer, reconéixer, pésol, pésols, térboles, aerotrén, café, vostés, atés, aprén, comprén, mamprén, véiem, predéieu, estéreo, superjó, superjós, Moisés, 
 
 Paraules excloses:
-Aixo, aixi, aixis, graben, proba, probes, probe, inclusive, aprop, composar, composéssim, composat, graben, 
+Aixo, d’aixo, d’aixi, aixi, aixis, graben, proba, probes, probe, inclusive, aprop, composar, composéssim, composat, graben, aquet, aqueta, aquets, aquetes.
 
 Vocabulari restringit AVL:
 vore, vorem, alcançar, alcancessin, alcançada, ahí, este, esta, d'este, d'esta, d'estos, estos, mentres, coentes, exnóvia, exnóvio, impar, impars, d'impars, 
