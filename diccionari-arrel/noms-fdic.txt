@@ -39203,6 +39203,7 @@ mentastre=categories: M;fonts: LT;
 menter=categories: M;fonts: LT;
 mentetenc mentetenca=categories: MF;fonts: LT;
 mentida=categories: F;fonts: LT;
+mentira=categories: F;fonts: AVL;
 mentider=categories: M;fonts: LT;
 mentidera=categories: F;fonts: LT;
 mentirola=categories: M;fonts: LT;

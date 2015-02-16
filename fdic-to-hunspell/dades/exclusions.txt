@@ -21,6 +21,7 @@ alelat
 alelada
 alfombra
 antepassat
+aquet
 bobo
 carcamal
 carinyós
@@ -119,6 +120,7 @@ Josué
 Josués
 Manfré
 manualitat
+mentira
 mentirós
 mentres
 Mercé
