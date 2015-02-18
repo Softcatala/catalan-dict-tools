@@ -14,6 +14,8 @@ my $out1 = "ngrams/unigrams.txt";
 my $out2 = "ngrams/bigrams.txt";
 my $out3 = "ngrams/trigrams.txt";
 
+my $outsql = "ngrams/database_ca.sql";
+
 my %unigrams = ();
 my %bigrams = ();
 my %trigrams = ();
@@ -144,10 +146,21 @@ print "Escrivint els resultats...\n";
 
 my $k;
 my $ofh;
+my $escaped;
+
+open(my $ofhsql, ">:encoding(UTF-8)", $outsql);
+print $ofhsql "PRAGMA foreign_keys=OFF;\n";
+print $ofhsql "BEGIN TRANSACTION;\n";
+print $ofhsql "CREATE TABLE _1_gram (word TEXT, count INTEGER, UNIQUE(word) );\n";
+print $ofhsql "CREATE TABLE _2_gram (word_1 TEXT, word TEXT, count INTEGER, UNIQUE(word_1, word) );\n";
+print $ofhsql "CREATE TABLE _3_gram (word_2 TEXT, word_1 TEXT, word TEXT, count INTEGER, UNIQUE(word_2, word_1, word) );\n";
 
 open($ofh, ">:encoding(UTF-8)", $out1);
 foreach $k (sort {$unigrams{$b} <=> $unigrams{$a} } keys %unigrams) {
     print $ofh "$k\t$unigrams{$k}\n";
+    $escaped = $k;
+    $escaped =~ s/'/''/g;
+    print $ofhsql "INSERT INTO \"_1_gram\" VALUES('$escaped',$unigrams{$k});\n";
 }
 close($ofh);
 
@@ -160,14 +173,26 @@ close($ofh);
 open($ofh, ">:encoding(UTF-8)", $out2);
 foreach $k (sort {$bigrams{$b} <=> $bigrams{$a} } keys %bigrams) {
     print $ofh "$k\t$bigrams{$k}\n" if $bigrams{$k}>1;
+    $escaped = $k;
+    $escaped =~ s/'/''/g;
+    $escaped =~ s/ /','/g;
+    print $ofhsql "INSERT INTO \"_2_gram\" VALUES('$escaped',$bigrams{$k});\n" if $bigrams{$k}>5;
 }
 close($ofh);
 
 open($ofh, ">:encoding(UTF-8)", $out3);
 foreach $k (sort {$trigrams{$b} <=> $trigrams{$a} } keys %trigrams) {   
     print $ofh "$k\t$trigrams{$k}\n" if $trigrams{$k}>2;
+    $escaped = $k;
+    $escaped =~ s/'/''/g;
+    $escaped =~ s/ /','/g;
+    print $ofhsql "INSERT INTO \"_3_gram\" VALUES('$escaped',$trigrams{$k});\n" if $trigrams{$k}>6;
 }
 close($ofh);
+
+print $ofhsql "COMMIT;\n";
+
+close($ofhsql);
 
 print "Acabat.\n";
 exit 0;
