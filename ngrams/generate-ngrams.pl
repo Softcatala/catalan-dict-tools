@@ -7,7 +7,8 @@ require "libs/Flexio.pm";
 binmode(STDOUT, ":utf8");
 
 my $diccionarifile="resultats/wordlist/wordlist.txt";
-my $directory="/home/jaume/diccionaris/corpus-sense-seleccio/";
+#my $directory="/home/jaume/diccionaris/corpus-sense-seleccio/";
+my $directory ="/home/jaume/diccionaris/wikipedia/";
 
 my $outerrors = "ngrams/errors.txt";
 my $out1 = "ngrams/unigrams.txt";
@@ -157,10 +158,10 @@ print $ofhsql "CREATE TABLE _3_gram (word_2 TEXT, word_1 TEXT, word TEXT, count 
 
 open($ofh, ">:encoding(UTF-8)", $out1);
 foreach $k (sort {$unigrams{$b} <=> $unigrams{$a} } keys %unigrams) {
-    print $ofh "$k\t$unigrams{$k}\n";
+    print $ofh "$k\t$unigrams{$k}\n"  if $unigrams{$k}>20;
     $escaped = $k;
     $escaped =~ s/'/''/g;
-    print $ofhsql "INSERT INTO \"_1_gram\" VALUES('$escaped',$unigrams{$k});\n";
+    print $ofhsql "INSERT INTO \"_1_gram\" VALUES('$escaped',$unigrams{$k});\n" if $unigrams{$k}>20;
 }
 close($ofh);
 
@@ -172,21 +173,21 @@ close($ofh);
 
 open($ofh, ">:encoding(UTF-8)", $out2);
 foreach $k (sort {$bigrams{$b} <=> $bigrams{$a} } keys %bigrams) {
-    print $ofh "$k\t$bigrams{$k}\n" if $bigrams{$k}>1;
+    print $ofh "$k\t$bigrams{$k}\n" if $bigrams{$k}>20;
     $escaped = $k;
     $escaped =~ s/'/''/g;
     $escaped =~ s/ /','/g;
-    print $ofhsql "INSERT INTO \"_2_gram\" VALUES('$escaped',$bigrams{$k});\n" if $bigrams{$k}>5;
+    print $ofhsql "INSERT INTO \"_2_gram\" VALUES('$escaped',$bigrams{$k});\n" if $bigrams{$k}>20;
 }
 close($ofh);
 
 open($ofh, ">:encoding(UTF-8)", $out3);
 foreach $k (sort {$trigrams{$b} <=> $trigrams{$a} } keys %trigrams) {   
-    print $ofh "$k\t$trigrams{$k}\n" if $trigrams{$k}>2;
+    print $ofh "$k\t$trigrams{$k}\n" if $trigrams{$k}>20;
     $escaped = $k;
     $escaped =~ s/'/''/g;
     $escaped =~ s/ /','/g;
-    print $ofhsql "INSERT INTO \"_3_gram\" VALUES('$escaped',$trigrams{$k});\n" if $trigrams{$k}>6;
+    print $ofhsql "INSERT INTO \"_3_gram\" VALUES('$escaped',$trigrams{$k});\n" if $trigrams{$k}>20;
 }
 close($ofh);
 
