@@ -64103,6 +64103,7 @@ western=categories: M;fonts: LT;
 whiskeria=categories: F;fonts: LT;
 whisky [pl. whiskies o whiskys]=categories: M;fonts: LT;
 wifi=categories: M;fonts: LT;
+wiki=categories: M;fonts: termcat;
 wiltonià=categories: MS;fonts: LT;
 wil·lemita=categories: F;fonts: LT;
 wil·liamsita=categories: F;fonts: LT;
