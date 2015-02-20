@@ -34651,6 +34651,7 @@ inviabilitat=categories: F;fonts: LT;
 invident=categories: MF;fonts: LT;
 inviolabilitat=categories: F;fonts: LT;
 invisibilitat=categories: F;fonts: LT;
+invisibilització=categories: F;fonts: derivat, Viquipèdia;
 invitació=categories: F;fonts: LT;
 invitada=categories: F;fonts: LT;
 invitador=categories: M;fonts: LT;

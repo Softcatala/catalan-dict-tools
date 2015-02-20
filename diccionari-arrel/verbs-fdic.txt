@@ -6644,6 +6644,7 @@ invertir=categories: V;model:servir;fonts:LT
 investigar=categories: V;model:pregar;fonts:LT
 investir=categories: V;model:vestir;fonts:LT
 inveterar=categories: V;model:cantar;fonts:LT
+invisibilitzar=categories: V;model:cantar;fonts:derivat
 invitar=categories: V;model:cantar;fonts:LT
 invocar=categories: V;model:trencar;fonts:LT
 involucionar=categories: V;model:cantar;fonts:LT
