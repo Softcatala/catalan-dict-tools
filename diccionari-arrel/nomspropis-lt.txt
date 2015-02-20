@@ -1336,6 +1336,7 @@ Andreu Andreu NPMSSP0
 Andreus Andreu NPMPSP0
 Andreví Andreví NPCNSP0
 Andriot Andriot NPCNSP0
+Android Android NPMNO00
 Andros Andros NPCSG00
 Andròmeda Andròmeda NPCSG00
 Andrònic Andrònic NPMSSP0
@@ -11707,6 +11708,7 @@ Luimneach Luimneach NPCSG00
 Lukács Lukács NPCNSP0
 Lulua Lulua NPCSG00
 Lumezzane Lumezzane NPCSG00
+Lumière Lumière NPCNSP0
 Lund Lund NPCSG00
 Lunéville Lunéville NPCSG00
 Luoyang Luoyang NPCSG00
@@ -12061,6 +12063,7 @@ Mancor Mancor NPCSG00
 Mandalay Mandalay NPCSG00
 Mandara Mandara NPCSG00
 Mandela Mandela NPCNSP0
+Mandelbrot Mandelbrot NPCNSP0
 Mandiana Mandiana NPCSG00
 Mandrès Mandrès NPCNSP0
 Manduria Manduria NPCSG00
@@ -14259,7 +14262,8 @@ Novočerkassk Novočerkassk NPCSG00
 Novošakhtinsk Novošakhtinsk NPCSG00
 Novska Novska NPCSG00
 Noyon Noyon NPCSG00
-Noè Noè NPCNSP0
+Noè Noè NPMSSP0
+Noé Noè NPMSSP0
 Nsanje Nsanje NPCSG00
 Ntchisi Ntchisi NPCSG00
 Nu Nu NPCNSP0
@@ -18027,6 +18031,7 @@ Sampró Sampró NPCNSP0
 Samsons Samsó NPMPSP0
 Samsot Samsot NPCNSP0
 Samsun Samsun NPCSG00
+Samsung Samsung NPCNO00
 Samsó Samsó NPCNSP0
 Samsó Samsó NPMSSP0
 Samsø Samsø NPCSG00
@@ -19201,6 +19206,7 @@ Stafford Stafford NPCSG00
 Staffordshire Staffordshire NPCSG00
 Stains Stains NPCSG00
 Stalin Stalin NPCNSP0
+Stalingrad Stalingrad NPCSG00
 Stamford Stamford NPCSG00
 Starhemberg Starhemberg NPCNSP0
 Stavanger Stavanger NPCSG00
@@ -21317,6 +21323,7 @@ Vila-sacra Vila-sacra NPCSG00
 Vila-sana Vila-sana NPCSG00
 Vila-seca Vila-seca NPCNSP0
 Vila-seca Vila-seca NPCSG00
+VilaWeb VilaWeb NPCSO00
 Vilabella Vilabella NPCNSP0
 Vilabella Vilabella NPFSG00
 Vilabertran Vilabertran NPCNSP0
