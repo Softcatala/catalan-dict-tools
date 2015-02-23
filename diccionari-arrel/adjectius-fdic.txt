@@ -10624,6 +10624,7 @@ gerenc gerenca=categories: A;fonts: LT;
 gerencial=categories: A;fonts: LT;
 geriàtric geriàtrica=categories: A;fonts: LT;
 germanell=categories: A;fonts: LT;
+germanosoviètic -a=categories: A;fonts: LT;
 germanívol germanívola=categories: A;fonts: LT;
 germanòfil germanòfila=categories: A;fonts: LT;
 germanós germanosa=categories: A;fonts: LT;

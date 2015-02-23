@@ -6377,6 +6377,7 @@ hermetitzar=categories: V;model:cantar;fonts:LT
 herniar=categories: V;model:crear;fonts:LT
 hesitar=categories: V;model:cantar;fonts:LT
 heterodinar=categories: V;model:abominar;fonts:LT
+heterogeneïtzar=categories: V;model:cantar;fonts: derivat;
 heure=categories: V;model:heure;fonts:LT
 hibernar=categories: V;model:cantar;fonts:LT
 hibridar=categories: V;model:cantar;fonts:LT

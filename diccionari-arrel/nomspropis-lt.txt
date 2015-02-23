@@ -17096,6 +17096,7 @@ Ricards Ricard NPMPSP0
 Ricau Ricau NPCNSP0
 Riccione Riccione NPCSG00
 Richmond Richmond NPCSG00
+Richter Richter NPCNSP0
 Ricomà Ricomà NPCNSP0
 Ricort Ricort NPCNSP0
 Ricós Ricós NPCNSP0
