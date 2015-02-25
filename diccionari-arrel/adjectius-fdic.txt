@@ -17670,6 +17670,7 @@ peristàltic peristàltica=categories: A;fonts: LT;
 peristàtic peristàtica=categories: A;fonts: LT;
 perit perita=categories: A;fonts: LT;
 peritoneal=categories: A;fonts: LT;
+peritraumàtic -a=categories: A;fonts: derivat;
 peritèctic peritèctica=categories: A;fonts: LT;
 periurbà periurbana=categories: A;fonts: LT;
 periàntic periàntica=categories: A;fonts: LT;

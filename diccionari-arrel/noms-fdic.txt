@@ -57456,6 +57456,7 @@ subclasse=categories: F;fonts: LT;
 subcomandant subcomandanta=categories: MF;fonts: LT;
 subcomarca=categories: F;fonts: LT;
 subcomissió=categories: F;fonts: LT;
+subcomponent=categories: MF;fonts: termcat;
 subconductor=categories: M;fonts: LT;
 subconjunt=categories: M;fonts: LT;
 subconscient=categories: M;fonts: LT;
