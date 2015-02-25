@@ -7820,6 +7820,7 @@ embulladíssim embulladíssima=categories: AA;fonts: LT;
 embullós embullosa=categories: A;fonts: LT;
 emergent=categories: A;fonts: LT;
 emetocatàrtic emetocatàrtica=categories: A;fonts: LT;
+emfatitzador -a=categories: A;fonts: LT;
 emfisematós emfisematosa=categories: A;fonts: LT;
 emfitèutic emfitèutica=categories: A;fonts: LT;
 emfràctic emfràctica=categories: A;fonts: LT;
