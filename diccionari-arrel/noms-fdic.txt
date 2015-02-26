@@ -63410,6 +63410,7 @@ vicissitud=categories: F;fonts: LT;
 victimari=categories: M;fonts: LT;
 victimisme=categories: M;fonts: LT;
 victimització=categories: F;fonts: LT;
+victimologia=categories: F;fonts: termcat;
 victoriat=categories: M;fonts: LT;
 victorí=categories: M;fonts: LT;
 victron=categories: M;fonts: LT;
