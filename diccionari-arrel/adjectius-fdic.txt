@@ -3716,6 +3716,7 @@ bonhomiós bonhomiosa=categories: A;fonts: LT;
 bonic bonica=categories: A;fonts: LT;
 bonidor bonidora=categories: A;fonts: LT;
 bonifaci bonifàcia=categories: A;fonts: LT;
+boniquet -a=categories: AA;fonts: derivat;
 bonmatinenc bonmatinenca=categories: A;fonts: LT;
 bonrepostí bonrepostina=categories: A;fonts: LT;
 bonreposí bonreposina=categories: A;fonts: LT;
