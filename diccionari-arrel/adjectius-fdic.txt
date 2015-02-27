@@ -2715,6 +2715,7 @@ autolubricador autolubricadora=categories: A;fonts: LT;
 autolubricant=categories: A;fonts: LT;
 autolubrificador autolubrificadora=categories: A;fonts: LT;
 autolubrificant=categories: A;fonts: LT;
+automatitzable=categories: A;fonts: derivat;
 automobilístic automobilística=categories: A;fonts: LT;
 automorf automorfa=categories: A;fonts: LT;
 automotor automotora [fem. automotriu]=categories: A;fonts: LT;
