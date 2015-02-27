@@ -18588,6 +18588,7 @@ desacord=categories: M;fonts: LT;
 desacordança=categories: F;fonts: LT;
 desacostumament=categories: M;fonts: LT;
 desactivació=categories: F;fonts: LT;
+desactualització=categories: F;fonts: termcat;
 desada=categories: F;fonts: LT;
 desadaptació=categories: F;fonts: LT;
 desadornament=categories: M;fonts: LT;

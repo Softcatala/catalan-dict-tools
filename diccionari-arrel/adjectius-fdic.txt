@@ -6631,6 +6631,7 @@ desacomodat desacomodada=categories: A;fonts: LT;
 desacompanyat desacompanyada=categories: A;fonts: LT;
 desaconsellable=categories: A;fonts: LT;
 desactivant=categories: A;fonts: LT;
+desactualitzat -ada=categories: A;fonts: derivat;
 desacurat desacurada=categories: A;fonts: LT;
 desafecte desafecta=categories: A;fonts: LT;
 desafiador desafiadora=categories: A;fonts: LT;
