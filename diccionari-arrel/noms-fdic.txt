@@ -53163,6 +53163,7 @@ reservori=categories: M;fonts: LT;
 resguard=categories: M;fonts: LT;
 resident=categories: MF;fonts: LT;
 residu=categories: M;fonts: LT;
+residualització=categories: F;fonts: derivat;
 residència=categories: F;fonts: LT;
 resignació=categories: F;fonts: LT;
 resignant=categories: MF;fonts: LT;
