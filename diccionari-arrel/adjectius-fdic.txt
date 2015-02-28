@@ -16995,6 +16995,7 @@ oxigenable=categories: A;fonts: LT;
 oxirinc oxirinca=categories: A;fonts: LT;
 oxitòcic oxitòcica=categories: A;fonts: LT;
 oxàlic oxàlica=categories: A;fonts: LT;
+oxíntic -a=categories: A;fonts: dmedicina;
 oxíton oxítona=categories: A;fonts: LT;
 ozenós ozenosa=categories: A;fonts: LT;
 ozonitzador ozonitzadora=categories: A;fonts: LT;
