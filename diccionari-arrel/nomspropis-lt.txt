@@ -16046,6 +16046,7 @@ Pouplana Pouplana NPCNSP0
 Pourodó Pourodó NPCNSP0
 Pous Pous NPCNSP0
 Pouvilà Pouvilà NPCNSP0
+PowerPoint PowerPoint NPMNO00
 Powys Powys NPCSG00
 Poyang Poyang NPCSG00
 Poyo Poyo NPCSG00
@@ -21851,6 +21852,7 @@ Wetterstein Wetterstein NPCSG00
 Wettin Wettin NPCNSP0
 Wetzlar Wetzlar NPCSG00
 Weymouth Weymouth NPCSG00
+WhatsApp WhatsApp NPMNO00
 Whirlpool Whirlpool NPCNO00
 White White NPCNSP0
 Whitehall Whitehall NPCSG00
