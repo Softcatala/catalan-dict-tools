@@ -14858,6 +14858,7 @@ menjatiu menjativa=categories: A;fonts: LT;
 mennonita=categories: A;fonts: LT;
 menopàusic menopàusica=categories: A;fonts: LT;
 menor=categories: A;fonts: LT;
+menorquinista=categories: A;fonts: LT;
 menorquí menorquina=categories: A;fonts: LT;
 menorreic menorreica=categories: A;fonts: LT;
 menorràgic menorràgica=categories: A;fonts: LT;
