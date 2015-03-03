@@ -59097,6 +59097,7 @@ telepeatge=categories: M;fonts: LT;
 teleperiòdic=categories: M;fonts: LT;
 teleplasma=categories: M;fonts: LT;
 teleporqueria=categories: F;fonts: LT;
+teleporqueria=categories: F;fonts: termcat;
 telepresència=categories: F;fonts: LT;
 teleprocessament=categories: M;fonts: LT;
 teleprocés [pl. teleprocessos]=categories: M;fonts: LT;
