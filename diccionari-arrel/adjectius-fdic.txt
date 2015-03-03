@@ -11097,6 +11097,7 @@ hagiorita=categories: A;fonts: LT;
 hagiògraf hagiògrafa=categories: A;fonts: LT;
 haitià haitiana=categories: A;fonts: LT;
 haiximita=categories: A;fonts: LT;
+halal=categories: AI;fonts: termcat;
 halièutic halièutica=categories: A;fonts: LT;
 hallstàttic hallstàttica=categories: A;fonts: LT;
 halobi halòbia=categories: A;fonts: LT;
