@@ -14129,6 +14129,7 @@ lofòtric lofòtrica=categories: A;fonts: LT;
 logarítmic logarítmica=categories: A;fonts: LT;
 logaèdic logaèdica=categories: A;fonts: LT;
 logicista=categories: A;fonts: LT;
+logicomatemàtic -a=categories: A;fonts: derivat;
 logogrífic logogrífica=categories: A;fonts: LT;
 logoperiòdic logoperiòdica=categories: A;fonts: LT;
 logronyès logronyesa=categories: A;fonts: LT;
