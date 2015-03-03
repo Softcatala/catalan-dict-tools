@@ -5853,6 +5853,7 @@ fabular=categories: V;model:cantar;fonts:LT
 facetar=categories: V;model:cantar;fonts:LT
 facilitar=categories: V;model:cantar;fonts:LT
 factoritzar=categories: V;model:cantar;fonts:LT
+factoritzar=categories: V;model:cantar;fonts:termcat;
 facturar=categories: V;model:cantar;fonts:LT
 facultar=categories: V;model:cantar;fonts:LT
 fadar=categories: V;model:cantar;fonts:LT

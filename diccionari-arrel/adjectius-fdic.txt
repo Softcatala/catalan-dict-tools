@@ -24141,6 +24141,7 @@ violador violadora=categories: A;fonts: LT;
 violent violenta=categories: A;fonts: LT;
 violentíssim violentíssima=categories: AA;fonts: LT;
 violeta=categories: AI;fonts: LT;
+violinístic -a=categories: A;fonts: derivat;
 viperat viperada=categories: A;fonts: LT;
 viperí viperina=categories: A;fonts: LT;
 viral=categories: A;fonts: LT;
