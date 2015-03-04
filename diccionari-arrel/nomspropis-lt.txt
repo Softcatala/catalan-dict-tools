@@ -18355,6 +18355,7 @@ Scafati Scafati NPCSG00
 Scala Scala NPFSO00
 Scalabi Scalabi NPCSG00
 Scandicci Scandicci NPCSG00
+Scarlatti Scarlatti NPCNSP0
 Sceaux Sceaux NPCSG00
 Schaarbeek Schaarbeek NPCSG00
 Schaffhausen Schaffhausen NPCSG00
@@ -22024,6 +22025,7 @@ Xifró Xifró NPCNSP0
 Xile Xile NPMSG00
 Xilxes Xilxes NPCSG00
 Ximenes Ximenes NPCNSP0
+Ximo Ximo NPMSSP0
 Xina Xina NPFSG00
 Xines Xines NPCSG00
 Xingu Xingu NPCSG00
