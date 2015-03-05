@@ -11754,6 +11754,7 @@ identificatiu identificativa=categories: A;fonts: LT;
 identitari identitària=categories: A;fonts: LT;
 ideogràfic ideogràfica=categories: A;fonts: LT;
 ideogènic ideogènica=categories: A;fonts: LT;
+ideologicopolític -a=categories: A;fonts: derivat;
 ideolèctric ideolèctrica=categories: A;fonts: LT;
 ideològic ideològica=categories: A;fonts: LT;
 ideós ideosa=categories: A;fonts: LT;
