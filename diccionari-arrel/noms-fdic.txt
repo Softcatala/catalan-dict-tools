@@ -31,6 +31,7 @@ Pasqüetes=categories: FP;fonts: LT;
 Pentecosta=categories: F;fonts: LT;
 SMS=categories: MI;fonts: LT;
 TAE=categories: FI;fonts: LT;
+TDAH=categories: MS;fonts: termcat;
 TDT=categories: FI;fonts: LT;
 TIC=categories: FP;fonts: LT;
 TIR=categories: FI;fonts: LT;
