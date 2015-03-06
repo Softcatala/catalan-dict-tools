@@ -7126,6 +7126,8 @@ Enhorts Enhorts NPCSG00
 Enna Enna NPCSG00
 Ennedi Ennedi NPCSG00
 Enns Enns NPCSG00
+Enoc Enoc NPMSSP0
+Enocs Enoc NPMPSP0
 Enpuig Enpuig NPCNSP0
 Enric Enric NPCNSP0
 Enric Enric NPMSSP0
@@ -9797,6 +9799,8 @@ Hendaia Hendaia NPCSG00
 Henedina Henedina NPMSSP0
 Henedines Henedina NPMPSP0
 Hengelo Hengelo NPCSG00
+Henoc Henoc NPMSSP0
+Henocs Henoc NPMPSP0
 Hepburn Hepburn NPCNSP0
 Heracleòpolis Heracleòpolis NPCSG00
 Heracli Heracli NPMSSP0
@@ -11238,6 +11242,7 @@ Limón Limón NPCSG00
 Linares Linares NPCSG00
 Lincoln Lincoln NPCSG00
 Lincolnshire Lincolnshire NPCSG00
+Lindau Lindau NPCSG00
 Lindi Lindi NPCSG00
 LinkedIn LinkedIn NPCNO00
 Linköping Linköping NPCSG00
