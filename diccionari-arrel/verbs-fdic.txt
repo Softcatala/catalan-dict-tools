@@ -9575,6 +9575,7 @@ tudar=categories: V;model:cantar;fonts:LT
 tuejar=categories: V;model:envejar;fonts:LT
 tufar=categories: V;model:cantar;fonts:LT
 tufejar=categories: V;model:envejar;fonts:LT
+tunelar=categories: V;model:cantar;fonts:termcat;
 tupar=categories: V;model:cantar;fonts:LT
 turbinar=categories: V;model:abominar;fonts:LT
 turmentar=categories: V;model:cantar;fonts:LT
