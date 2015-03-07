@@ -1814,7 +1814,6 @@ colzejar=categories: V;model:envejar;fonts:LT
 col·laborar=categories: V;model:cantar;fonts:LT
 col·lacionar=categories: V;model:cantar;fonts:LT
 col·lapsar=categories: V;model:cantar;fonts:LT
-col·lar=categories: V;model:anul·lar;fonts:LT
 col·leccionar=categories: V;model:cantar;fonts:LT
 col·lectar=categories: V;model:cantar;fonts:LT
 col·lectivitzar=categories: V;model:cantar;fonts:LT
