@@ -3225,7 +3225,6 @@ Berzé-la-Ville Berzé-la-Ville NPCSG00
 Berà Berà NPCSG00
 Berònic Berònic NPMSSP0
 Berònics Berònic NPMPSP0
-Bes Bes NPCNSP0
 Besalduc Besalduc NPCNSP0
 Besalú Besalú NPCNSP0
 Besalú Besalú NPCSG00
@@ -13411,6 +13410,7 @@ Montgó Montgó NPCSG00
 Monti-Sion Monti-Sion NPCSG00
 Montiberri Montiberri NPCSG00
 Montichiari Montichiari NPCSG00
+Montigalà Montigalà NPCSG00
 Montigny-lès-Metz Montigny-lès-Metz NPCSG00
 Montijo Montijo NPCSG00
 Montilivi Montilivi NPCSG00
@@ -18960,6 +18960,7 @@ Skòpelos Skòpelos NPCSG00
 Skövde Skövde NPCSG00
 Slesvig Slesvig NPCSG00
 Slesvig-Holstein Slesvig-Holstein NPCSG00
+Slideshare Slideshare NPMSO00
 Sligeach Sligeach NPCSG00
 Sliven Sliven NPCSG00
 Slough Slough NPCSG00

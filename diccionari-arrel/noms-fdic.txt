@@ -45073,6 +45073,7 @@ panspèrmia=categories: F;fonts: LT;
 pansó=categories: M;fonts: LT;
 pantaix=categories: M;fonts: LT;
 pantalla=categories: F;fonts: LT;
+pantalleta=categories: F;fonts: derivat;
 pantaloner pantalonera=categories: MF;fonts: LT;
 pantalà=categories: M;fonts: LT;
 pantaló=categories: M;fonts: LT;
