@@ -2532,6 +2532,7 @@ Barba-roja Barba-roja NPCSG00
 Barba-rossa Barba-rossa NPCNSP0
 Barbados Barbados NPFPG00
 Barbaja Barbaja NPFSG00
+Barbal Barbal NPCNSP0
 Barbany Barbany NPCNSP0
 Barbaruens Barbaruens NPCSG00
 Barbastre Barbastre NPCSG00
@@ -9705,6 +9706,7 @@ Haití Haití NPMSG00
 Hakodate Hakodate NPCSG00
 Halesowen Halesowen NPCSG00
 Halifax Halifax NPCSG00
+Halley Halley NPCNSP0
 Halloween Halloween NPMSO00
 Halmstad Halmstad NPCSG00
 Hama Hama NPCSG00
@@ -12082,6 +12084,7 @@ Manenta Manenta NPCSG00
 Maner Maner NPCNSP0
 Manera Manera NPCNSP0
 Manerbio Manerbio NPCSG00
+Manet Manet NPCNSP0
 Manfred Manfred NPCNSP0
 Manfredonia Manfredonia NPCSG00
 Manfreds Manfred NPMPSP0
@@ -18295,6 +18298,7 @@ Sassandra Sassandra NPCSG00
 Sasserra Sasserra NPFSG00
 Sassuolo Sassuolo NPCSG00
 Sastre Sastre NPCNSP0
+Satie Satie NPCNSP0
 Satorre Satorre NPCNSP0
 Satorres Satorres NPCNSP0
 Saturi Saturi NPMSSP0
