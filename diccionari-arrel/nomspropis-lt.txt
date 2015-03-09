@@ -13529,6 +13529,7 @@ Montélimar Montélimar NPCSG00
 Montíver Montíver NPCSG00
 Monza Monza NPCSG00
 Monòver Monòver NPCSG00
+Moodle Moodle NPMNO00
 Moore Moore NPCNSP0
 Mopti Mopti NPCSG00
 Moquegua Moquegua NPCSG00
@@ -18754,6 +18755,7 @@ Sheffield Sheffield NPCSG00
 Shenyang Shenyang NPCSG00
 Shenzhen Shenzhen NPCSG00
 Sherbro Sherbro NPCSG00
+Sherlock Sherlock NPCNSP0
 Shetland Shetland NPFPG00
 Shewa Shewa NPCSG00
 Shijiazhuang Shijiazhuang NPCSG00
