@@ -2648,6 +2648,7 @@ Barset Barset NPCNSP0
 Barsola Barsola NPCNSP0
 Bartalot Bartalot NPCNSP0
 Bartau Bartau NPCNSP0
+Bartleby Bartleby NPCNSP0
 Bartolí Bartolí NPCNSP0
 Bartomeu Bartomeu NPCNSP0
 Bartomeu Bartomeu NPMSSP0
@@ -17144,6 +17145,7 @@ Rigoréixer Rigoréixer NPCSG00
 Rijeka Rijeka NPCSG00
 Rijswijk Rijswijk NPCSG00
 Rila Rila NPCSG00
+Rilke Rilke NPCNSP0
 Rillieux-la-Pape Rillieux-la-Pape NPCSG00
 Rimal Rimal NPMSG00
 Rimbau Rimbau NPCSG00
@@ -18776,6 +18778,7 @@ Shīrāz Shīrāz NPCSG00
 Siall Siall NPCSG00
 Siam Siam NPCSG00
 Siauliai Siauliai NPCSG00
+Sibelius Sibelius NPCNSP0
 Sibenik Sibenik NPCSG00
 Sibeques Sibeques NPCNSP0
 Siberta Siberta NPCNSP0
