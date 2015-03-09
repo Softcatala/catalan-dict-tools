@@ -10843,6 +10843,7 @@ Kladno Kladno NPCSG00
 Klagenfurt Klagenfurt NPCSG00
 Klaipeda Klaipeda NPCSG00
 Klamath Klamath NPCSG00
+Klee Klee NPCNSP0
 Kleist Kleist NPCNSP0
 Klopstock Klopstock NPCNSP0
 Knin Knin NPCSG00
