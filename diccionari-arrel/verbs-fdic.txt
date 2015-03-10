@@ -5930,6 +5930,7 @@ festejar=categories: V;model:envejar;fonts:LT
 festivar=categories: V;model:cantar;fonts:LT
 festonejar=categories: V;model:envejar;fonts:LT
 fetillar=categories: V;model:cantar;fonts:LT
+feudalitzar=categories: V;model:cantar;fonts:derivat;
 fiançar=categories: V;model:començar;fonts:LT
 fiar=categories: V;model:crear;fonts:LT
 fiblar=categories: V;model:cantar;fonts:LT

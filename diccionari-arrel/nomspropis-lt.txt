@@ -7194,6 +7194,7 @@ Eritrea Eritrea NPFSG00
 Eriçó Eriçó NPCNSP0
 Erkowit Erkowit NPCSG00
 Erlangen Erlangen NPCSG00
+Erlenmeyer Erlenmeyer NPCNSP0
 Ermedàs Ermedàs NPCSG00
 Ermengarda Ermengarda NPFSSP0
 Ermengardes Ermengarda NPFPSP0
@@ -11710,6 +11711,7 @@ Lucrècia Lucrècia NPFSSP0
 Lucrècies Lucrècia NPFPSP0
 Lucània Lucània NPFSG00
 Ludhiāna Ludhiāna NPCSG00
+Ludwig Ludwig NPMSSP0
 Ludwigsburg Ludwigsburg NPCSG00
 Lugano Lugano NPCSG00
 Lugansk Lugansk NPCSG00
