@@ -19647,6 +19647,7 @@ dial=categories: M;fonts: LT;
 dialectalisme=categories: M;fonts: LT;
 dialectalització=categories: F;fonts: LT;
 dialecte=categories: M;fonts: LT;
+dialectització=categories: F;fonts: derivat;
 dialectologia=categories: F;fonts: LT;
 dialectometria=categories: F;fonts: LT;
 dialectòleg dialectòloga=categories: MF;fonts: LT;

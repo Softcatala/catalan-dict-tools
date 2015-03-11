@@ -7033,6 +7033,7 @@ diagonalitzable=categories: A;fonts: LT;
 diagramàtic diagramàtica=categories: A;fonts: LT;
 dialectal=categories: A;fonts: LT;
 dialectalitzant=categories: A;fonts: LT;
+dialectitzant=categories: A;fonts: dfrequencies;
 dialectològic dialectològica=categories: A;fonts: LT;
 dialifil·le dialifil·la=categories: A;fonts: LT;
 dialipètal dialipètala=categories: A;fonts: LT;
