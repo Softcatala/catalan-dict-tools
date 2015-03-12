@@ -3428,6 +3428,8 @@ Blanell Blanell NPCNSP0
 Blanes Blanes NPCNSP0
 Blanic Blanic NPCNSP0
 Blanquer Blanquer NPCNSP0
+Blanquerna Blanquerna NPFSO00
+Blanquerna Blanquerna NPMSSP0
 Blanques Blanca NPFPSP0
 Blantyre Blantyre NPCSG00
 Blanxart Blanxart NPCNSP0
@@ -11244,7 +11246,7 @@ Limburg Limburg NPMSG00
 Limoux Limoux NPCSG00
 Limón Limón NPCSG00
 Linares Linares NPCSG00
-Lincoln Lincoln NPCSG00
+Lincoln Lincoln NPCNG00
 Lincolnshire Lincolnshire NPCSG00
 Lindau Lindau NPCSG00
 Lindi Lindi NPCSG00
