@@ -9015,6 +9015,7 @@ bolleta=categories: F;fonts: LT;
 bolletí=categories: M;fonts: LT;
 bolló=categories: M;fonts: LT;
 bolm=categories: M;fonts: LT;
+bolo=categories: M;fonts: AVL, esadir;
 bolondo=categories: M;fonts: LT;
 bolonyès bolonyesa=categories: MF;fonts: LT;
 bolquer=categories: M;fonts: LT;
