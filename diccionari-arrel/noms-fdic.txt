@@ -19,6 +19,7 @@ IRPF=categories: MI;fonts: LT;
 IVA=categories: MI;fonts: LT;
 JavaScript=categories: MS;fonts: LT;
 MP3=categories: MI;fonts: LT;
+HTML=categories: MI;fonts: termcat;
 NIF=categories: MI;fonts: LT;
 ONG=categories: FI;fonts: LT;
 PIB=categories: MI;fonts: LT;
