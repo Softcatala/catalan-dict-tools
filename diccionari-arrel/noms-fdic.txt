@@ -44186,6 +44186,7 @@ ortofotoplà=categories: M;fonts: LT;
 ortofòria=categories: F;fonts: LT;
 ortognatisme=categories: M;fonts: LT;
 ortogneis [pl. ortogneissos]=categories: M;fonts: LT;
+ortognàcia=categories: F;fonts: termcat;
 ortogonalitat=categories: F;fonts: LT;
 ortogonalització=categories: F;fonts: LT;
 ortografia=categories: F;fonts: LT;
