@@ -2,7 +2,7 @@
 
 ###
 # Extrau les novetats introduïdes en el diccionari LT
-# respecte a l'última versió comiplada
+# respecte a l'última versió compilada
 ###
 
 cp catalan_lt.txt diccionari_antic.txt
