@@ -1,7 +1,7 @@
 *~
 wordlist.txt
-catalan_lt.txt
-catalan_synth_lt.txt
+morfologik-lt/*.txt 
+!morfologik-lt/catalan_tags.txt
 ngrams/*.txt
 *.dict
 #*
