@@ -1,4 +1,4 @@
-129734
+129753
 10a
 10es
 10ns
@@ -158,6 +158,7 @@ Aberystwyth/_Y_V
 Abiar/_Y_V
 Abidjan/_Y_V
 Abidos/_Y_V
+Abigail/_Y_V
 Abiko/_Y_V
 Abila/_Y_V
 Abilene/_Y_V
@@ -9085,6 +9086,7 @@ Güel
 Güell
 Güives
 Güímar
+HTML
 Haapsalu/_Y_V
 Haarlem
 Haarlemmermeer/_Y_V
@@ -10450,6 +10452,7 @@ Landshut
 Lanester
 Langreo
 Langres
+LanguageTool
 Lanka
 Lannemezan
 Lannion
@@ -35834,6 +35837,7 @@ barranquisme/_E
 barraprim/_F
 barraquer/_E
 barraquera/_E
+barraqueta/_E
 barraquisme/_E
 barraquista/_E
 barrar/00
@@ -38145,6 +38149,7 @@ bolleta/_E
 bolletí/_G
 bolló/_G
 bolm/_E
+bolo/_E
 bolomètric/_F
 bolondo/_E
 bolonera/_E
@@ -46974,7 +46979,9 @@ conflentí/_H
 conflicte/_E
 conflictiu/_B
 conflictivisme/_E
+conflictivista/_E
 conflictivitat/_E
+conflictivitzar/00
 conflictologia/_E
 conflictual/_E
 confluent/_E
@@ -63810,6 +63817,7 @@ escanògraf/_E_V_Y
 escap/_E_V_Y
 escapada/_E_V_Y
 escapada/_V
+escapadeta/_E_V_Y
 escapadissa/_V_Y
 escapador/_E_V_Y
 escapadís/_B_V_Y
@@ -77486,6 +77494,7 @@ hartley/_E_V_Y
 hartree/_E_V_Y
 haruspicina/_E_V_Y
 harúspex/_E_V_Y
+hashtag/_E_V_Y
 hassi/_E_V_Y
 hassid/_E_V_Y
 hassidisme/_E_V_Y
@@ -77515,6 +77524,8 @@ hawaià/_G
 hawaià/_H
 haüyna/_E_V_Y
 he/_E_V_Y
+heavies
+heavy
 hebdomadari/_E_V_Y
 hebdomadari/_K_V_Y
 hebdomadària/_E_V_Y
@@ -80061,6 +80072,7 @@ idus/_V_Y
 idèntic/_F_V_Y
 idènticament/_Y_V
 idíl·lic/_F_V_Y
+idíl·licament/_Y_V
 idò
 idòlatra/_E_V_Y
 idònia/_Y
@@ -83524,6 +83536,7 @@ irregenerable/_E_V_Y
 irregular/_E_V_Y
 irregularitat/_E_Y
 irregularment/_Y_V
+irreivindicabilitat/_E_Y
 irreivindicable/_E_V_Y
 irreligiosament/_Y_V
 irreligiositat/_E_Y
@@ -89388,6 +89401,8 @@ mateixes
 mateixos
 mateixíssim/_F
 matejant/_E
+matematització/_G
+matematitzar/00
 matemàtic/_E
 matemàtic/_F
 matemàtica/_E
@@ -92278,7 +92293,8 @@ monjoiar/55
 monjola/_E
 monjàvena/_E
 monkhmer/_E
-mono
+mono/_E
+mono/_F
 monoacetina/_E
 monoacilglicèrid/_E
 monoaleta/_E
@@ -97866,6 +97882,9 @@ ortogenètica/_V_Y
 ortognatisme/_E_V_Y
 ortogneis/_V_Y
 ortogneissos/_Y
+ortognàcia/_E_V_Y
+ortognàtic/_F_V_Y
+ortognàtica/_V_Y
 ortogonal/_E_V_Y
 ortogonalitat/_E_V_Y
 ortogonalització/_G_V_Y
@@ -100349,9 +100368,7 @@ patulina/_E
 patum/_E
 patuès/_I
 patxaran/_E
-patxet/_E
 patxet/_F
-patxeta/_E
 patxo/_E
 patxoc/_F
 patxoca/_E
@@ -107000,6 +107017,8 @@ psicodrama/_E
 psicodramàtic/_F
 psicodèlia/_E
 psicodèlic/_F
+psicoeducació/_G
+psicoeducatiu/_B
 psicoemocional/_E
 psicoenergitzant/_E
 psicoestimulant/_E
@@ -110691,6 +110710,7 @@ reiteració/_G
 reiteradament
 reiterar/00
 reiteratiu/_B
+reivindicabilitat/_E
 reivindicable/_E
 reivindicació/_G
 reivindicador/_E
@@ -126219,7 +126239,6 @@ vehicle/_E
 vehiculació/_G
 vehicular/00
 vehicular/_E
-vehiculització/_G
 veients
 veire/_E
 veixiga/_E
