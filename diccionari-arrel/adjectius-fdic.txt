@@ -5572,6 +5572,7 @@ confiturer confiturera=categories: A;fonts: LT;
 conflentà conflentana=categories: A;fonts: LT;
 conflentí conflentina=categories: A;fonts: LT;
 conflictiu conflictiva=categories: A;fonts: LT;
+conflictivista=categories: A;fonts: LT;
 conflictual=categories: A;fonts: LT;
 confluent=categories: A;fonts: LT;
 confocal=categories: A;fonts: LT;

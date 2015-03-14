@@ -62,6 +62,7 @@ Aberystwyth Aberystwyth NPCSG00
 Abiar Abiar NPCSG00
 Abidjan Abidjan NPCSG00
 Abidos Abidos NPCSG00
+Abigail Abigail NPFSSP0
 Abiko Abiko NPCSG00
 Abila Abila NPCSG00
 Abilene Abilene NPCSG00

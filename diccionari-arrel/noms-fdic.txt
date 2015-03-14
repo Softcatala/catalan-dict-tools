@@ -38763,6 +38763,7 @@ matavius=categories: MI;fonts: LT;
 mate=categories: M;fonts: LT;
 mateixa=categories: F;fonts: LT;
 matejant=categories: M;fonts: LT;
+matematització=categories: F;fonts: dfrequencies;
 matemàtic=categories: M;fonts: LT;
 matemàtica=categories: F;fonts: LT;
 material=categories: M;fonts: LT;
