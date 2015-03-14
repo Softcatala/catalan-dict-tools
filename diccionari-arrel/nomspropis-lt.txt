@@ -11050,6 +11050,7 @@ Landshut Landshut NPCSG00
 Lanester Lanester NPCSG00
 Langreo Langreo NPCSG00
 Langres Langres NPCSG00
+LanguageTool LanguageTool NPMSO00
 Lanka Lanka NPFSG00
 Lannemezan Lannemezan NPCSG00
 Lannion Lannion NPCSG00

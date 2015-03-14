@@ -19095,6 +19095,7 @@ psicobiològic psicobiològica=categories: A;fonts: LT;
 psicodinàmic -a=categories: A;fonts: Viquipèdia;
 psicodramàtic psicodramàtica=categories: A;fonts: LT;
 psicodèlic psicodèlica=categories: A;fonts: LT;
+psicoeducatiu psicoeducativa=categories: A;fonts: termcat;
 psicoemocional=categories: A;fonts: LT;
 psicoenergitzant=categories: A;fonts: LT;
 psicoestimulant=categories: A;fonts: LT;
