@@ -13253,6 +13253,8 @@ Mono Mono NPCSG00
 Monopoli Monopoli NPCSG00
 Monrabà Monrabà NPCNSP0
 Monreale Monreale NPCSG00
+Monroe Monroe NPCNG00
+Monroe Monroe NPCNSP0
 Monròvia Monròvia NPCSG00
 Mons Mons NPCSG00
 Mons-en-Baroeul Mons-en-Baroeul NPCSG00
@@ -16860,6 +16862,7 @@ Raurell Raurell NPCNSP0
 Rauric Rauric NPCNSP0
 Rauric Rauric NPCSG00
 Raurkela Raurkela NPCSG00
+Rausell Rausell NPCNSP0
 Raval Raval NPMSG00
 Ravalet Ravalet NPMSG00
 Ravanusa Ravanusa NPCSG00
