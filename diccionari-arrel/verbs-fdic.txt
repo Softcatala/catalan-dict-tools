@@ -6363,6 +6363,7 @@ güellar=categories: V;model:cantar;fonts:LT
 habilitar=categories: V;model:cantar;fonts:LT
 habitar=categories: V;model:cantar;fonts:LT
 habituar=categories: V;model:lloar;fonts:LT
+hackejar=categories: V;model:envejar;fonts: derivat;
 hajar=categories: V;model:envejar;fonts:LT
 halar=categories: V;model:cantar;fonts:LT
 handicapar=categories: V;model:cantar;fonts:LT
