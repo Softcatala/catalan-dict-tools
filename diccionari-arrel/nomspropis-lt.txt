@@ -914,6 +914,7 @@ Algerri Algerri NPCSG00
 Algeró Algeró NPCNSP0
 Algesires Algesires NPCSG00
 Alginet Alginet NPCSG00
+Algirós Algirós NPCSG00
 Algoda Algoda NPCSG00
 Algodar Algodar NPCSG00
 Algol Algol NPCSG00
@@ -3004,6 +3005,7 @@ Beniarrés Beniarrés NPCSG00
 Beniatjar Beniatjar NPCSG00
 Benicadim Benicadim NPCSG00
 Benicais Benicais NPCSG00
+Benicalap Benicalap NPCSG00
 Benicambra Benicambra NPCSG00
 Benicanena Benicanena NPCSG00
 Benicapsell Benicapsell NPCSG00
@@ -16836,6 +16838,7 @@ Raquel Raquel NPFSSP0
 Raquels Raquel NPFPSP0
 Rarotonga Rarotonga NPCSG00
 Ras Ras NPCNSP0
+Rascanya Rascanya NPCSG00
 Raset Raset NPCNSP0
 Raset Raset NPCSG00
 Rashid Rashid NPMSSP0
@@ -18370,6 +18373,7 @@ Saxònia Saxònia NPFSG00
 Saxònia-Anhalt Saxònia-Anhalt NPCSG00
 Sayama Sayama NPCSG00
 Saïda Saïda NPCSG00
+Saïdia Saïdia NPCSG00
 Saüc Saüc NPCNSP0
 Saül Saül NPMSSP0
 Saüls Saül NPMPSP0
