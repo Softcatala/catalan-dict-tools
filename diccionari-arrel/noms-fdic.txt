@@ -58939,6 +58939,7 @@ taxació=categories: F;fonts: LT;
 taxador=categories: M;fonts: LT;
 taxadora=categories: F;fonts: LT;
 taxal=categories: F;fonts: LT;
+taxativitat=categories: F;fonts: termcat;
 taxema=categories: M;fonts: LT;
 taxi1=categories: F;fonts: LT;
 taxi2=categories: M;fonts: LT;
