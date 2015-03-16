@@ -7677,6 +7677,7 @@ pivotar=categories: V;model:cantar;fonts:LT
 pixar=categories: V;model:cantar;fonts:LT
 pixelar=categories: V;model:cantar;fonts:LT
 placar=categories: V;model:assecar;fonts:LT
+plagar=categories: V;model:pregar;fonts: AVL;
 plagiar=categories: V;model:crear;fonts:LT
 plaguejar=categories: V;model:envejar;fonts:LT
 planar=categories: V;model:cantar;fonts:LT

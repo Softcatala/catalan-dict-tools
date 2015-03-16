@@ -5590,6 +5590,7 @@ Coba Coba NPCSG00
 Cobarsí Cobarsí NPCNSP0
 Cobertorer Cobertorer NPCNSP0
 Coblença Coblença NPCSG00
+Coburg Coburg NPCSG00
 Coc Coc NPCNSP0
 Coca Coca NPCNSP0
 Coca-Cola Coca-Cola NPFSO00
@@ -13630,6 +13631,7 @@ Morters Morters NPCSG00
 Mortimer Mortimer NPCNSP0
 Mortitx Mortitx NPCSG00
 Morunys Morunys NPMPG00
+Moruroa Moruroa NPFSG00
 Morvedre Morvedre NPCSG00
 Morzine Morzine NPCSG00
 Moràvia Moràvia NPFSG00

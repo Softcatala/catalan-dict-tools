@@ -5,6 +5,9 @@ dir_intermedi="$dir_programes/intermedi"
 dir_arrel="diccionari-arrel"
 dir_resultat="resultats/hunspell"
 
+cd diccionari-arrel
+./sort-all.sh
+cd ..
 
 for variant in catalan catalan-valencia
 do

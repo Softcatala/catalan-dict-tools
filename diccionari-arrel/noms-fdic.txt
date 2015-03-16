@@ -55489,6 +55489,7 @@ sedeny=categories: M;fonts: LT;
 seder=categories: M;fonts: LT;
 sedera=categories: F;fonts: LT;
 sederia=categories: F;fonts: LT;
+sedestació=categories: F;fonts: termcat;
 sediciosa=categories: F;fonts: LT;
 sedició=categories: F;fonts: LT;
 sediciós=categories: M;fonts: LT;

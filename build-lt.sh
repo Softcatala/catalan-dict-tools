@@ -1,4 +1,9 @@
 #!/bin/bash
+
+cd diccionari-arrel
+./sort-all.sh
+cd ..
+
 dir_resultat="resultats/lt"
 rm $dir_resultat/*
 echo "Adjectius: de FDIC a LT..."

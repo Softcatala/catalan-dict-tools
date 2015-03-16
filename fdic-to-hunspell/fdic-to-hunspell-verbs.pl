@@ -45,6 +45,7 @@ while (my $line = <$fh>) {
 	#}
 	if ($model =~ /^cantar$/ && !Flexio::apostrofa_masculi($infinitiu)) {
 	    print $ofh "$infinitiu/00\n"; # model especial sense apostrofació: cantar, iodar, halar, etc.
+	    # NO SERVEIX PER A HACKEJAR, perquè no és del model "cantar" sinó "envejar"
 	} else {
 	    print $ofh "$infinitiu/$sufixos{$model}\n"; #$apostrofainfinitiu\n";
 	}
