@@ -5334,7 +5334,6 @@ Chilecito Chilecito NPCSG00
 Chillán Chillán NPCSG00
 Chiloé Chiloé NPCSG00
 Chimbote Chimbote NPCSG00
-Chin Chin NPCSG00
 Chinandega Chinandega NPCSG00
 Chinatown Chinatown NPCSG00
 Chinchiná Chinchiná NPCSG00
@@ -9987,7 +9986,6 @@ Honshū Honshū NPCSG00
 Hooghly Hooghly NPCSG00
 Horaci Horaci NPMSSP0
 Horacis Horaci NPMPSP0
-Horadada Horadada NPFSG00
 Horkheimer Horkheimer NPCNSP0
 Horlivka Horlivka NPCSG00
 Horrac Horrac NPCNSP0
@@ -15036,6 +15034,7 @@ Pantaleu Pantaleu NPCSG00
 Pantaleó Pantaleó NPMSSP0
 Pantel·leria Pantel·leria NPCSG00
 Pantin Pantin NPCSG00
+Pantone Pantone NPMNO00
 Panós Panós NPCNSP0
 Pančevo Pančevo NPCSG00
 Paola Paola NPCSG00
