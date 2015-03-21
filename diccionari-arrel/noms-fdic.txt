@@ -11585,6 +11585,7 @@ capcurucull=categories: M;fonts: LT;
 capdamunt=categories: M;fonts: LT;
 capdanser capdansera=categories: MF;fonts: LT;
 capdavall=categories: M;fonts: LT;
+capdavant=categories: M;fonts: LT;
 capdavanter=categories: M;fonts: LT;
 capdavantera=categories: F;fonts: LT;
 capdedins=categories: MS;fonts: LT;
