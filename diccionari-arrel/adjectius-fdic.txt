@@ -1736,6 +1736,7 @@ antilul·lista=categories: A;fonts: LT;
 antilèptic antilèptica=categories: A;fonts: LT;
 antilògic antilògica=categories: A;fonts: LT;
 antimagnètic antimagnètica=categories: A;fonts: LT;
+antimaçònic -a=categories: A;fonts: derivat;
 antimefític antimefítica=categories: A;fonts: LT;
 antimicrobià antimicrobiana=categories: A;fonts: LT;
 antimicòtic antimicòtica=categories: A;fonts: LT;

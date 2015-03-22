@@ -212,6 +212,7 @@ Adraén Adraén NPCSG00
 Adri Adri NPCSG00
 Adria Adria NPCSG00
 Adriac Adriac NPCNSP0
+Adriana Adriana NPFSSP0
 Adrians Adrià NPMPSP0
 Adrià Adrià NPCNSP0
 Adrià Adrià NPMSSP0
@@ -3422,6 +3423,7 @@ Blanca Blanca NPFSSP0
 Blancafort Blancafort NPCNSP0
 Blancafort Blancafort NPCSG00
 Blancafortí Blancafortí NPCSG00
+Blancaneu Blancaneu NPFSSP0
 Blanch Blanch NPCNSP0
 Blandae Blandae NPCSG00
 Blandina Blandina NPFSSP0
@@ -16817,6 +16819,8 @@ Ramos Ramos NPCNSP0
 Rampins Rampins NPMPG00
 Rams Rams NPCNSP0
 Ramsgate Ramsgate NPCSG00
+Ramsès Ramsès NPMSSP0
+Ramsés Ramsès NPMSSP0
 Ramírez Ramírez NPCNSP0
 Ranc Ranc NPCNSP0
 Rancagua Rancagua NPCSG00
