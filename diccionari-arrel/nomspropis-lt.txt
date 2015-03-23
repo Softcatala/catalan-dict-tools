@@ -10081,6 +10081,7 @@ Hurghada Hurghada NPCSG00
 Huron Huron NPCSG00
 Husserl Husserl NPCNSP0
 Huy Huy NPCSG00
+Huygens Huygens NPCNSP0
 Huércal-Overa Huércal-Overa NPCSG00
 Huíla Huíla NPCSG00
 Hvannadalshnúkur Hvannadalshnúkur NPCSG00
@@ -10636,7 +10637,7 @@ Juvenals Juvenal NPMPSP0
 Juvenci Juvenci NPMSSP0
 Juvencis Juvenci NPMPSP0
 Juverri Juverri NPCSG00
-Juàrez Juàrez NPCNSP0
+Juárez Juárez NPCNSP0
 Juïnyà Juïnyà NPCSG00
 Južno-Sakhalinsk Južno-Sakhalinsk NPCSG00
 Jyoetsu Jyoetsu NPCSG00
@@ -19379,6 +19380,7 @@ Suzuka Suzuka NPCSG00
 Suzuki Suzuki NPCNSP0
 Suzzara Suzzara NPCSG00
 Suàbia Suàbia NPFSG00
+Suárez Suárez NPCNSP0
 Suècia Suècia NPFSG00
 Suïls Suïls NPCSG00
 Suïssa Suïssa NPFSG00
