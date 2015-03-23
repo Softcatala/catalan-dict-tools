@@ -38421,6 +38421,7 @@ maria=categories: F;fonts: LT;
 marialluïsa=categories: F;fonts: LT;
 marianisme=categories: M;fonts: LT;
 maribo=categories: M;fonts: LT;
+maricultura=categories: F;fonts: termcat;
 maricó=categories: M;fonts: LT;
 maridatge=categories: M;fonts: LT;
 maridet=categories: M;fonts: LT;

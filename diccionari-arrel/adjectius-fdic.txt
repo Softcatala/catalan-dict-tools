@@ -16300,6 +16300,7 @@ nord=categories: AI;fonts: LT;
 nordista=categories: A;fonts: LT;
 norià noriana=categories: A;fonts: LT;
 normal=categories: A;fonts: LT;
+normalet -a=categories: AA;fonts: LT;
 normalitzable=categories: A;fonts: LT;
 normalitzador normalitzadora=categories: A;fonts: LT;
 normalíssim normalíssima=categories: AA;fonts: LT;
