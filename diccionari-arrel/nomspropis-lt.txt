@@ -21297,7 +21297,6 @@ Vichy Vichy NPCSG00
 Viciat Viciat NPCNSP0
 Vicksburg Vicksburg NPCSG00
 Victori Victori NPCNSP0
-Victoria Victoria NPCSG00
 Victorians Victorià NPMPSP0
 Victorins Victorí NPMPSP0
 Victorià Victorià NPMSSP0
