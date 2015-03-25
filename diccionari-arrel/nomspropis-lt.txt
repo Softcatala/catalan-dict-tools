@@ -11784,6 +11784,8 @@ Lüneburg Lüneburg NPCSG00
 Lünen Lünen NPCSG00
 Lüshun Lüshun NPCSG00
 Lāhaur Lāhaur NPCSG00
+MACBA MACBA NPMSO00
+MNAC MNAC NPMSO00
 Ma'rib Ma'rib NPCSG00
 Maastricht Maastricht NPCSG00
 Mac Mac NPCNSP0
