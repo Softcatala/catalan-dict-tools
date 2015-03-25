@@ -413,6 +413,7 @@ Aineto Aineto NPCSG00
 Aioi Aioi NPCSG00
 Aiora Aiora NPFSG00
 Airasses Airasses NPFPG00
+Airbus Airbus NPMNO00
 Airelles Airelles NPFPG00
 Airolo Airolo NPCSG00
 Aisne Aisne NPCSG00
@@ -6879,6 +6880,7 @@ Dyfed Dyfed NPCSG00
 Dzeržinsk Dzeržinsk NPCSG00
 Dzialyn'ski Dzialyn'ski NPCNSP0
 Dàcia Dàcia NPFSG00
+Dàmaris Dàmaris NPFSSP0
 Dàmocles Dàmocles NPMSSP0
 Dànae Dànae NPFSSP0
 Dària Dària NPFSSP0
@@ -11720,6 +11722,7 @@ Lucània Lucània NPFSG00
 Ludhiāna Ludhiāna NPCSG00
 Ludwig Ludwig NPMSSP0
 Ludwigsburg Ludwigsburg NPCSG00
+Lufthansa Lufthansa NPCNO00
 Lugano Lugano NPCSG00
 Lugansk Lugansk NPCSG00
 Lugo Lugo NPCSG00
@@ -16640,6 +16643,7 @@ Quilmes Quilmes NPCSG00
 Quilon Quilon NPCSG00
 Quim Quim NPMSSP0
 Quimesó Quimesó NPCNSP0
+Quimet Quimet NPMSSP0
 Quimper Quimper NPCSG00
 Quims Quim NPMPSP0
 Quinara Quinara NPCSG00
