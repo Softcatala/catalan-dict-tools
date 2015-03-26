@@ -12,6 +12,7 @@ DNI=categories: MI;fonts: LT;
 DO=categories: FI;fonts: LT;
 DVD=categories: MI;fonts: LT;
 ERO=categories: MI;fonts: LT;
+FM=categories: FS;fonts: esadir;
 FP=categories: FS;fonts: esadir;
 GPS=categories: MI;fonts: LT;
 Generalitat=categories: F;fonts: LT;
