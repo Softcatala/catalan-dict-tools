@@ -16,6 +16,7 @@ los
 music
 musics
 aquestos
+sen
 
 EXCLOU LEMA DE TOTS
 alelat
@@ -58,6 +59,7 @@ provable
 provablement
 rabet
 rabo
+sen
 tuberia
 virgueria
 xavacà
