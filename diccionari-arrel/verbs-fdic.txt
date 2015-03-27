@@ -649,6 +649,7 @@ annexar=categories: V;model:cantar;fonts:LT
 annexionar=categories: V;model:cantar;fonts:LT
 anoditzar=categories: V;model:cantar;fonts:LT
 anomenar=categories: V;model:ofrenar;fonts:LT
+anonimitzar=categories: V;model:cantar;fonts: termcat;
 anorrear=categories: V;model:crear;fonts:LT
 anostrar=categories: V;model:cantar;fonts:LT
 anotar=categories: V;model:cantar;fonts:LT
