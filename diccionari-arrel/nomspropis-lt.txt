@@ -7461,6 +7461,7 @@ Estanys Estany NPMPG00
 Estarelles Estarelles NPCNSP0
 Estaron Estaron NPCSG00
 Estartit Estartit NPMSG00
+Estartús Estartús NPCNSP0
 Estaràs Estaràs NPCNSP0
 Estaràs Estaràs NPCSG00
 Estatxa Estatxa NPCNSP0
@@ -9110,6 +9111,7 @@ Gisclareny Gisclareny NPCNSP0
 Gisclareny Gisclareny NPCSG00
 Gisela Gisela NPFSSP0
 Giseles Gisela NPFPSP0
+Gispert Gispert NPCNSP0
 Gistaín Gistaín NPCSG00
 Givors Givors NPCSG00
 Gizeh Gizeh NPCSG00
@@ -17692,6 +17694,7 @@ Rāwalpindi Rāwalpindi NPCSG00
 Rīgestān Rīgestān NPCSG00
 S'Agaró S'Agaró NPCSG00
 SA SA NPCNO00
+SGAE SGAE NPFSO00
 SQLite SQLite NPCNO00
 SS SS NPCNO00
 Sa'da Sa'da NPCSG00
