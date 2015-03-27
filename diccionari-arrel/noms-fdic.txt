@@ -55046,6 +55046,7 @@ samugada=categories: F;fonts: LT;
 samurai=categories: M;fonts: LT;
 samànida=categories: MF;fonts: LT;
 san=categories: MFI;fonts: LT;
+sanació=categories: F;fonts: AVL, DCVB;
 sanadella=categories: F;fonts: LT;
 sanador=categories: M;fonts: LT;
 sanadora=categories: F;fonts: LT;
