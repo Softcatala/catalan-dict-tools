@@ -13519,6 +13519,7 @@ Montsaliente Montsaliente NPCSG00
 Montsalvatge Montsalvatge NPCNSP0
 Montsant Montsant NPCNSP0
 Montsant Montsant NPMSG00
+Montse Montse NPFSSP0
 Montsec Montsec NPCNSP0
 Montsec Montsec NPMSG00
 Montsegur Montsegur NPCSG00
@@ -22045,6 +22046,7 @@ Xeldo Xeldo NPCSG00
 Xella Xella NPFSG00
 Xelva Xelva NPFSG00
 Xena Xena NPCNSP0
+Xenofont Xenofont NPMSSP0
 Xera Xera NPCSG00
 Xeraco Xeraco NPCSG00
 Xeresa Xeresa NPFSG00

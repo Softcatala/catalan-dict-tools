@@ -8223,6 +8223,7 @@ reconsiderar=categories: V;model:cantar;fonts:LT
 reconstituir=categories: V;model:traduir;fonts:LT
 reconstruir=categories: V;model:traduir;fonts:LT
 recontar=categories: V;model:cantar;fonts:LT
+recontextualitzar=categories: V;model:cantar;fonts: derivat;
 reconvenir=categories: V;model:prevenir;fonts:LT
 reconvertir=categories: V;model:servir;fonts:LT
 reconèixer=categories: V;model:conèixer;fonts:LT

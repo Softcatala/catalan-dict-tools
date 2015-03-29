@@ -386,6 +386,7 @@ condicionadament condicionadament RG
 condicionalment condicionalment RG
 condignament condignament RG
 confederadament confederadament RG
+confessionalment confessionalment RG
 confiadament confiadament RG
 confidencialment confidencialment RG
 confidentment confidentment RG
