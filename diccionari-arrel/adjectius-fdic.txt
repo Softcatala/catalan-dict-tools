@@ -1768,6 +1768,7 @@ antineurític antineurítica=categories: A;fonts: LT;
 antinidificant=categories: A;fonts: LT;
 antinodal=categories: A;fonts: LT;
 antinomià antinomiana=categories: A;fonts: LT;
+antinormatiu antinormativa=categories: A;fonts: derivat;
 antinuclear=categories: A;fonts: LT;
 antinòmic antinòmica=categories: A;fonts: LT;
 antioccidental=categories: A;fonts: LT;

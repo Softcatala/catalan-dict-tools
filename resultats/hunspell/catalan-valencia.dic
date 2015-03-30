@@ -1,4 +1,4 @@
-129858
+129887
 10a
 10es
 10ns
@@ -7025,6 +7025,7 @@ Estanys/_Y
 Estarelles/_Y_V
 Estaron/_Y_V
 Estartit/_Y_V
+Estartús/_Y_V
 Estaràs/_Y_V
 Estatxa/_Y_V
 Estavar/_Y_V
@@ -7225,7 +7226,9 @@ Eşfahān/_Y_V
 Ešnunna/_Y_V
 FAI
 FAO
+FBI
 FIAT
+FM
 FMI
 FP
 Fabi
@@ -8543,6 +8546,7 @@ Giscafrè
 Gisclareny
 Gisela
 Giseles
+Gispert
 Gistaín
 Givors
 Gizeh
@@ -9495,6 +9499,7 @@ Hódmezövásárhely/_Y_V
 Hölderlin
 I
 IBM/_Y_V
+ICE/_Y_V
 ICV/_Y
 IEC
 II
@@ -12684,6 +12689,7 @@ Montsagre
 Montsaliente
 Montsalvatge
 Montsant
+Montse
 Montsec
 Montsegur
 Montsent
@@ -13016,6 +13022,7 @@ N'Djamena
 N'Gounié
 N'Zérékoré
 NASA
+NBA
 NIF
 NP-complet/_F
 Naab
@@ -16548,6 +16555,7 @@ Rāwalpindi
 Rīgestān
 S'Agaró
 SA
+SGAE
 SMS
 SQLite
 SS
@@ -19302,6 +19310,7 @@ UA
 UAB
 UAO
 UB/_Y
+UCE/_Y_V
 UDC/_Y
 UE
 UEFA
@@ -20608,6 +20617,7 @@ Xeldo
 Xella
 Xelva
 Xena
+Xenofont
 Xera
 Xeraco
 Xeresa
@@ -26286,6 +26296,7 @@ altíson/_F_V_Y
 altísona/_V_Y
 altíssim/_F_V_Y
 altíssima/_V_Y
+altíssimament/_Y_V
 altívol/_F_V_Y
 altívola/_V_Y
 aluata/_E_V_Y
@@ -28584,6 +28595,8 @@ anomur/_E_V_Y
 anomèric/_F_V_Y
 anomèrica/_V_Y
 anonimat/_E_V_Y
+anonimitzada/_V
+anonimitzar/28
 anonàcia/_E_V_Y
 anoníquia/_E_V_Y
 anopistògraf/_E_V_Y
@@ -29286,6 +29299,8 @@ antinode/_E_V_Y
 antinomiana/_V_Y
 antinomisme/_E_V_Y
 antinomià/_H_V_Y
+antinormatiu/_B_V_Y
+antinormativa/_V_Y
 antinovel·la/_E_V_Y
 antinuclear/_E_V_Y
 antinucleó/_G_V_Y
@@ -37518,6 +37533,7 @@ bipartició/_G
 bipartidisme/_E
 bipartidista/_E
 bipartir/87
+bipedestació/_G
 bipedisme/_E
 bipenne/_E
 bipinnat/_B
@@ -42626,6 +42642,7 @@ cartejar/52
 cartell/_E
 cartellatge/_E
 cartellera/_E
+cartelleria/_E
 cartellisme/_E
 cartellista/_E
 cartel·la/_E
@@ -46573,6 +46590,7 @@ comuna/_E
 comunal/_E
 comunalisme/_E
 comunalista/_E
+comunalitat/_E
 comunament
 comunard/_F
 comuner/_E
@@ -46955,6 +46973,7 @@ confessant/_E
 confessar/34
 confessional/_E
 confessionalitat/_E
+confessionalment
 confessionari/_E
 confessionista/_E
 confessió/_G
@@ -48196,9 +48215,7 @@ coordenada/_E
 coordinable/_E
 coordinació/_G
 coordinadament
-coordinador/_E
 coordinador/_F
-coordinadora/_E
 coordinament/_E
 coordinant/_E
 coordinar/03
@@ -70431,6 +70448,7 @@ farnera/_E
 farneria/_E
 farnesenc/_F
 farnesol/_E
+farol/_E
 farola/_E
 farolejar/52
 faroler/_F
@@ -75615,7 +75633,6 @@ gisca/_E
 giscar/91
 gisclarenyès/_J
 gismondina/_E
-gispet/_E
 git/_E
 gita/_E
 gitam/_E
@@ -75650,7 +75667,7 @@ glaciofluvial/_E
 glaciologia/_E
 glacis
 glacé/_E
-gladiador/_E
+gladiador/_F
 gladiol/_E
 glafenina/_E
 glagolític/_F
@@ -78828,6 +78845,7 @@ hiperbúlia/_E_Y
 hipercalcèmia/_E_Y
 hipercalièmia/_E_Y
 hipercalòric/_F_V_Y
+hipercardioide/_E_V_Y
 hiperceratosi/_E_Y
 hipercinèsia/_E_Y
 hiperclorhídria/_E_Y
@@ -84863,6 +84881,7 @@ laguerstrèmia/_E
 lagun/_E
 lagí/_G
 lagòpode/_F
+lahar/_E
 lai/_E
 laic/_E
 laic/_F
@@ -93079,6 +93098,7 @@ motllada/_E
 motlle/_E
 motllo/_E
 motllura/_E
+motlluradora/_E
 motllurar/00
 motlluratge/_E
 motlo/_E
@@ -94702,6 +94722,7 @@ neurodegeneratiu/_B
 neurodermitis
 neurodocitis
 neurodèrmia/_E
+neuroeducació/_G
 neuroeix/_I
 neuroembriologia/_E
 neuroembriòleg/_K
@@ -100706,6 +100727,7 @@ pedregal/_E
 pedregam/_E
 pedregar/78
 pedregar/_E
+pedregositat/_E
 pedreguer/_E
 pedreguerí/_H
 pedregós/_J
@@ -107071,6 +107093,7 @@ pseudoplacentació/_G
 pseudoplacentari/_K
 pseudopodi/_E
 pseudoproblema/_E
+pseudoprofeta/_E
 pseudoradicalisme/_E
 pseudorafe/_E
 pseudoràbia/_E
@@ -108198,7 +108221,6 @@ quest/_E
 questa/_E
 questor/_E
 quesí/_H
-quet/_F
 queta/_E
 quetoforal/_E
 quetoptèrid/_E
@@ -109952,6 +109974,8 @@ recontador/_E
 recontador/_F
 recontadora/_E
 recontar/00
+recontextualització/_G
+recontextualitzar/00
 reconvencional/_E
 reconvenció/_G
 reconvenir/79
@@ -114372,6 +114396,7 @@ samurai/_E
 samànida/_E
 san
 sanable/_E
+sanació/_G
 sanadella/_E
 sanador/_E
 sanadora/_E
@@ -118206,6 +118231,7 @@ subcontracte/_E
 subcontractista/_E
 subcontrari/_K
 subcontrarietat/_E
+subcoordinador/_F
 subcortical/_E
 subcostal/_E
 subcrepitant/_E
@@ -118272,6 +118298,7 @@ subexposar/18
 subexposició/_G
 subfamília/_E
 subfebril/_E
+subfinestra/_E
 subfluvial/_E
 subfrènic/_F
 subfusell/_E
@@ -118900,6 +118927,7 @@ superbiós/_J
 superbombarder/_E
 supercalandratge/_E
 supercarburant/_E
+supercardioide/_E
 superciment/_E
 superclasse/_E
 superclúster/_E
@@ -120495,6 +120523,7 @@ telearrossegador/_E
 teleassistència/_E
 teleaudició/_G
 telebotiga/_E
+telebrossa/_E
 telecabina/_E
 telecadira/_E
 telecentre/_E
