@@ -8180,6 +8180,7 @@ recelar=categories: V;model:cantar;fonts:LT
 recensionar=categories: V;model:cantar;fonts:LT
 recentralitzar=categories: V;model:cantar;fonts:LT
 recenyir=categories: V;model:servir;fonts:LT
+recepcionar=categories: V;model:cantar;fonts: termcat, djuridic;
 receptar=categories: V;model:cantar;fonts:LT
 recercar=categories: V;model:trencar;fonts:LT
 reciclar=categories: V;model:cantar;fonts:LT
