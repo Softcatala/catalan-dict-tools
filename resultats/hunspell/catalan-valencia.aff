@@ -8657,8 +8657,9 @@ SFX 5E ir esquin/_C ir
 SFX 5E ir eixin/_C ir
 
 # Model de conjugació: irèixer
-SFX 5F Y 91
+SFX 5F Y 92
 SFX 5F r r/_v_C_Y er
+SFX 5F èixer éixer/_v_C_Y er
 SFX 5F èixer eixent/_C er
 SFX 5F èixer escut/_v_Y er
 SFX 5F èixer escuda/_Y er
