@@ -420,6 +420,7 @@ Aisne Aisne NPCSG00
 Aitana Aitana NPFSG00
 Aiter Aiter NPCNSP0
 Aitona Aitona NPFSG00
+Aitor Aitor NPMSSP0
 Aitutaki Aitutaki NPCSG00
 Aituà Aituà NPCSG00
 Aix-les-Bains Aix-les-Bains NPCSG00
