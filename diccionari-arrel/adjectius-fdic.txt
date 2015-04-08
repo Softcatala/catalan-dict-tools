@@ -5962,6 +5962,7 @@ coronari coronària=categories: A;fonts: LT;
 coronella=categories: AF;fonts: LT;
 coroner coronera=categories: A;fonts: LT;
 coronoide=categories: A;fonts: LT;
+coroplètic -a=categories: A; fonts: termcat;
 coroïdal=categories: A;fonts: LT;
 corporal=categories: A;fonts: LT;
 corporatiu corporativa=categories: A;fonts: LT;
