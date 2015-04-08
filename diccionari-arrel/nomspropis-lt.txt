@@ -1498,7 +1498,6 @@ Antonijoan Antonijoan NPCNSP0
 Antonina Antonina NPFSSP0
 Antonines Antonina NPFPSP0
 Antonins Antoní NPMPSP0
-Antonio Antonio NPCSG00
 Antonis Antoni NPMPSP0
 Antony Antony NPCSG00
 Antoní Antoní NPMSSP0
@@ -2066,6 +2065,7 @@ Atard Atard NPCNSP0
 Ataülf Ataülf NPMSSP0
 Ataülfs Ataülf NPMPSP0
 Atbara Atbara NPCSG00
+Atena Atena NPFSSP0
 Atenes Atenes NPFSG00
 Atenodor Atenodor NPMSSP0
 Atenodors Atenodor NPMPSP0
@@ -10474,6 +10474,8 @@ Joandó Joandó NPCNSP0
 Joanes Joan NPFPSP0
 Joanet Joanet NPCSG00
 Joanetes Joanetes NPCSG00
+Joanot Joanot NPMSSP0
+Joanots Joanot NPMPSP0
 Joans Joan NPMPSP0
 Joanuix Joanuix NPCNSP0
 Joaquim Joaquim NPMSSP0
