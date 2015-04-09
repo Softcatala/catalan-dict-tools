@@ -22968,6 +22968,7 @@ transcendent=categories: A;fonts: LT;
 transcendental=categories: A;fonts: LT;
 transcendentalista=categories: A;fonts: LT;
 transcontinental=categories: A;fonts: LT;
+transdisciplinari transdisciplinària=categories: A;fonts: termcat;
 transeuropeu transeuropea=categories: A;fonts: LT;
 transeünt=categories: A;fonts: LT;
 transferible=categories: A;fonts: LT;
