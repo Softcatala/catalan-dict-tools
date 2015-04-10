@@ -45368,6 +45368,7 @@ paraescut=categories: M;fonts: LT;
 paraesquí [pl. paraesquís]=categories: M;fonts: LT;
 paraestàndard=categories: M;fonts: LT;
 parafang=categories: M;fonts: LT;
+parafarmàcia=categories: F;fonts: termcat;
 parafernàlia=categories: F;fonts: LT;
 parafils=categories: MI;fonts: LT;
 parafimosi=categories: F;fonts: LT;
