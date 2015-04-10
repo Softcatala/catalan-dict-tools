@@ -9234,6 +9234,8 @@ Gorga Gorga NPCSG00
 Gorgal Gorgal NPCNSP0
 Gorgol Gorgol NPCSG00
 Gorgoll Gorgoll NPCNSP0
+Gorgona Gorgona NPFSSP0
+Gorgones Gorgona NPFPSP0
 Gorgoni Gorgoni NPMSSP0
 Gorgonis Gorgoni NPMPSP0
 Gorgonzola Gorgonzola NPCSG00
