@@ -4161,6 +4161,7 @@ CDC CDC NPFSO00
 CDS CDS NPMSO00
 CEE CEE NPFSO00
 CEOE CEOE NPFSO00
+CGPJ CGPJ NPMSO00
 CGT CGT NPFSO00
 CIS CIS NPMSO00
 CNT CNT NPFSO00
@@ -9620,6 +9621,7 @@ Gujarāt Gujarāt NPCSG00
 Gujrānwāla Gujrānwāla NPCSG00
 Gulart Gulart NPCNSP0
 Gulf Gulf NPCSG00
+Gulliver Gulliver NPMSSP0
 Gultresa Gultresa NPCNSP0
 Gumbert Gumbert NPCNSP0
 Gumbric Gumbric NPCNSP0
@@ -10505,6 +10507,7 @@ Joigny Joigny NPCSG00
 Joinvile Joinvile NPCSG00
 Jolís Jolís NPCNSP0
 Jonama Jonama NPCNSP0
+Jonathan Jonathan NPMSSP0
 Joncar Joncar NPCNSP0
 Joncet Joncet NPCSG00
 Joncosa Joncosa NPCNSP0
@@ -10980,6 +10983,7 @@ Kōfu Kōfu NPCSG00
 Kōriyama Kōriyama NPCSG00
 L'Aquila L'Aquila NPCSG00
 L'ubercy L'ubercy NPCSG00
+LOGSE LOGSE NPFSO00
 Labadia Labadia NPCNSP0
 Labastida Labastida NPCNSP0
 Labastida Labastida NPFSG00
@@ -11250,6 +11254,7 @@ Likasi Likasi NPCSG00
 Likouala Likouala NPCSG00
 Lila Lila NPFSSP0
 Liles Lila NPFPSP0
+Liliput Liliput NPCSG00
 Lilla Lilla NPCSG00
 Lillehammer Lillehammer NPCSG00
 Lillet Lillet NPCSG00
@@ -12864,6 +12869,7 @@ Mercadell Mercadell NPCNSP0
 Mercader Mercader NPCNSP0
 Mercadona Mercadona NPCNO00
 Mercant Mercant NPCNSP0
+Mercator Mercator NPCNSP0
 Mercer Mercer NPCNSP0
 Mercè Mercè NPCNSP0
 Mercè Mercè NPFSSP0
@@ -19414,6 +19420,7 @@ Swansea Swansea NPCSG00
 Swazilàndia Swazilàndia NPFSG00
 Swidnica Swidnica NPCSG00
 Swietochlowice Swietochlowice NPCSG00
+Swift Swift NPCNSP0
 SwiftKey SwiftKey NPCNO00
 Swindon Swindon NPCSG00
 Swype Swype NPCNO00
@@ -22056,6 +22063,7 @@ Xena Xena NPCNSP0
 Xenofont Xenofont NPMSSP0
 Xera Xera NPCSG00
 Xeraco Xeraco NPCSG00
+Xerea Xerea NPFSG00
 Xeresa Xeresa NPFSG00
 Xerri Xerri NPCNSP0
 Xert Xert NPCSG00

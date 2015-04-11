@@ -6555,6 +6555,7 @@ indultar=categories: V;model:cantar;fonts:LT
 industrialitzar=categories: V;model:cantar;fonts:LT
 industriar=categories: V;model:crear;fonts:LT
 inebriar=categories: V;model:crear;fonts:LT
+inertitzar=categories: V;model:cantar;fonts: derivat;
 infamar=categories: V;model:cantar;fonts:LT
 infantar=categories: V;model:cantar;fonts:LT
 infantilitzar=categories: V;model:cantar;fonts:LT
