@@ -30993,6 +30993,7 @@ goter=categories: M;fonts: LT;
 gotera=categories: F;fonts: LT;
 goteró=categories: M;fonts: LT;
 gotet=categories: M;fonts: LT;
+goteta=categories: F;fonts: derivat;
 goticisme=categories: M;fonts: LT;
 goticista=categories: MF;fonts: LT;
 goticitat=categories: F;fonts: LT;

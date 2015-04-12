@@ -4783,7 +4783,6 @@ ensenderar=categories: V;model:cantar;fonts:LT
 ensenyar=categories: V;model:cantar;fonts:LT
 ensenyorir=categories: V;model:servir;fonts:LT
 ensequir=categories: V;model:servir;fonts:LT
-enseriar=categories: V;model:crear;fonts:Jané;
 enseriosir=categories: V;model:servir;fonts:Jané;
 enserrellar=categories: V;model:cantar;fonts:LT
 ensetinar=categories: V;model:abominar;fonts:LT
