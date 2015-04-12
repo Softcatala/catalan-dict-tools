@@ -5698,6 +5698,7 @@ Colonna Colonna NPCNSP0
 Colorado Colorado NPCSG00
 Coloreu Coloreu NPCNSP0
 Colosses Colosses NPCSG00
+Colosseu Colosseu NPMSG00
 Coltell Coltell NPCNSP0
 Colteller Colteller NPCNSP0
 Columbans Columbà NPMPSP0
