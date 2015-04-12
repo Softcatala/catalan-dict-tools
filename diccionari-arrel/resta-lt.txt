@@ -44,6 +44,7 @@
 -us tu PP2CP000
 -vos tu P020P000
 -vos tu PP2CP000
+Ctrl Ctrl Y
 GBps GBps Y
 GHz GHz Y
 Gb gigabit Y

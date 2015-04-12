@@ -3494,6 +3494,7 @@ dessalinitzar=categories: V;model:cantar;fonts:LT
 dessecallar=categories: V;model:cantar;fonts:LT
 dessecar=categories: V;model:trencar;fonts:LT
 dessegellar=categories: V;model:cantar;fonts:LT
+desseleccionar=categories: V;model:cantar;fonts: termcat;
 dessensibilitzar=categories: V;model:cantar;fonts:LT
 desservir=categories: V;model:servir;fonts:LT
 dessocar=categories: V;model:trencar;fonts:LT

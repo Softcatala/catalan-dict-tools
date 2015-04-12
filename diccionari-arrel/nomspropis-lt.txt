@@ -3453,6 +3453,7 @@ Blida Blida NPCSG00
 Bloemfontein Bloemfontein NPCSG00
 Blois Blois NPCSG00
 Blondel Blondel NPCNSP0
+Bluetooth Bluetooth NPMNO00
 Blàzquez Blàzquez NPCNSP0
 Bo Bo NPCNSP0
 Bo Bo NPCSG00

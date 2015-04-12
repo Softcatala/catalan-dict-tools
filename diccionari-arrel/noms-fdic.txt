@@ -48335,6 +48335,7 @@ plurianualitat=categories: F;fonts: derivat;
 pluricel·lularitat=categories: F;fonts: LT;
 pluriculturalisme=categories: M;fonts: LT;
 plurideficiència=categories: F;fonts: LT;
+pluridiscapacitat=categories: F;fonts: termcat;
 pluridrupa=categories: F;fonts: LT;
 pluriennalitat=categories: F;fonts: derivat;
 plurifol·licle=categories: M;fonts: LT;
