@@ -1,5 +1,6 @@
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
+AVE AVE NPMNO00
 AVL AVL NPFSO00
 Aalborg Aalborg NPCSG00
 Aalen Aalen NPCSG00
@@ -2562,6 +2563,7 @@ Barca Barca NPCNSP0
 Barcarès Barcarès NPMSG00
 Barcelona Barcelona NPFSG00
 Barcelona Barcelona NPMSO00
+Barcelones Barcelona NPFPG00
 Barceloneta Barceloneta NPFSG00
 Barcelonès Barcelonès NPMSG00
 Barcelos Barcelos NPCSG00
@@ -9168,6 +9170,7 @@ Godoy Godoy NPCNSP0
 Godés Godés NPCNSP0
 Godó Godó NPCNSP0
 Godāvari Godāvari NPCSG00
+Goebbels Goebbels NPCNSP0
 Goethe Goethe NPCNSP0
 Gofau Gofau NPCNSP0
 Goig Goig NPCNSP0

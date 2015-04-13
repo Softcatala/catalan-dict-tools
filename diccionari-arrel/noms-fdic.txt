@@ -1,4 +1,5 @@
 ADN=categories: MI;fonts: LT;
+AMPA=categories: FI;fonts: LT;
 ARN=categories: MI;fonts: LT;
 Botox=categories: MS;fonts: LT;
 CD-ROM=categories: MI;fonts: LT;
@@ -8822,6 +8823,7 @@ blatoïdeu=categories: M;fonts: LT;
 blatària=categories: F;fonts: LT;
 blau=categories: M;fonts: LT;
 blauet=categories: M;fonts: LT;
+blaugrana=categories: MF;fonts: LT;
 blava=categories: F;fonts: LT;
 blavenca=categories: F;fonts: LT;
 blaverisme=categories: M;fonts: LT;
