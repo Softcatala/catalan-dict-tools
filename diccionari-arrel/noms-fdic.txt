@@ -9,6 +9,7 @@ CMOS=categories: MI;fonts: termcat;
 CPU=categories: FI;fonts: LT;
 Cinquagesma=categories: F;fonts: LT;
 Contrareforma=categories: F;fonts: LT;
+DJ=categories: MFI;fonts: LT;
 DNI=categories: MI;fonts: LT;
 DO=categories: FI;fonts: LT;
 DVD=categories: MI;fonts: LT;
