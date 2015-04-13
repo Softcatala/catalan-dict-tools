@@ -11256,11 +11256,11 @@ Likasi Likasi NPCSG00
 Likouala Likouala NPCSG00
 Lila Lila NPFSSP0
 Liles Lila NPFPSP0
-Liliput Liliput NPCSG00
 Lilla Lilla NPCSG00
 Lillehammer Lillehammer NPCSG00
 Lillet Lillet NPCSG00
 Lilongwe Lilongwe NPCSG00
+Lil·liput Lil·liput NPCSG00
 Lima Lima NPFSG00
 Limanya Limanya NPFSG00
 Limassol Limassol NPCSG00
