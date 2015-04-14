@@ -4223,6 +4223,7 @@ Cabília Cabília NPFSG00
 Cabòries Cabòries NPFPG00
 Cabó Cabó NPCSG00
 Cabús Cabús NPCNSP0
+Cacaolat Cacaolat NPCSO00
 Cachan Cachan NPCSG00
 Cacheu Cacheu NPCSG00
 Cachot Cachot NPCNSP0
