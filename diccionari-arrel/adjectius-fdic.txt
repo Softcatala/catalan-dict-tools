@@ -10918,6 +10918,7 @@ got goda=categories: A;fonts: LT;
 gotejador gotejadora=categories: A;fonts: LT;
 goticista=categories: A;fonts: LT;
 goticitzant=categories: A;fonts: LT;
+goticorenaixentista=categories: A;fonts: derivat;
 gotlandià gotlandiana=categories: A;fonts: LT;
 gotzo gotza=categories: A;fonts: LT;
 gotós gotosa=categories: A;fonts: LT;

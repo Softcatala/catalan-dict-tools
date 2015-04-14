@@ -8178,6 +8178,7 @@ Font-romeu Font-romeu NPCSG00
 Font-rubí Font-rubí NPFSG00
 Fontaine Fontaine NPCSG00
 Fontainebleau Fontainebleau NPCSG00
+Fontajau Fontajau NPCSG00
 Fontallada Fontallada NPCSG00
 Fontana Fontana NPCNSP0
 Fontanals Fontanals NPCNSP0
