@@ -9228,6 +9228,7 @@ Gorbs Gorbs NPCNSP0
 Gord Gord NPCNSP0
 Gordell Gordell NPCNSP0
 Gordians Gordià NPMPSP0
+Gordillo Gordillo NPCNSP0
 Gordils Gordils NPCNSP0
 Gordià Gordià NPMSSP0
 Gordomir Gordomir NPCNSP0
