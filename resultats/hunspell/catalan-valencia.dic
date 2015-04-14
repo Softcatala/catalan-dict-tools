@@ -1,4 +1,4 @@
-130301
+130339
 10a
 10es
 10ns
@@ -97,7 +97,9 @@
 9è
 9é
 ADN/_V_Y
+AMPA/_V_Y
 ARN/_V_Y
+AVE/_Y_V
 AVL/_Y_V
 Aalborg/_Y_V
 Aalen/_Y_V
@@ -2471,6 +2473,7 @@ Barbí
 Barca
 Barcarès
 Barcelona
+Barcelones
 Barceloneta
 Barcelonès
 Barcelos
@@ -4020,6 +4023,7 @@ Cabília
 Cabòries
 Cabó
 Cabús
+Cacaolat
 Cachan
 Cacheu
 Cachot
@@ -4985,6 +4989,7 @@ Chari
 Charleroi
 Charleston
 Charleville-Mézières
+Charlie
 Charlot
 Charlotte
 Charlottetown
@@ -5948,6 +5953,7 @@ D'En
 D'Hondt
 DCVB
 DIEC
+DJ
 DNI
 DNV
 DO
@@ -7689,6 +7695,7 @@ Font-romeu
 Font-rubí
 Fontaine
 Fontainebleau
+Fontajau
 Fontallada
 Fontana
 Fontanals
@@ -8602,6 +8609,7 @@ Godoy
 Godés
 Godó
 Godāvari
+Goebbels
 Goethe
 Gofau
 Goig
@@ -8657,6 +8665,7 @@ Gorbs
 Gord
 Gordell
 Gordians
+Gordillo
 Gordils
 Gordià
 Gordomir
@@ -19339,6 +19348,7 @@ UIB
 UIC
 UJI/_Y_V
 UMH/_Y
+UNIX/_Y_V
 UOC
 UPC/_Y
 UPF/_Y
@@ -19348,6 +19358,7 @@ UPyD/_Y
 URL/_V_Y
 URSS/_Y_V
 URV/_Y
+USB/_V_Y
 UV/_Y
 UVic/_Y
 Ubald/_Y_V
@@ -30809,6 +30820,7 @@ apòtrop/_F_V_Y
 apòtropa/_V_Y
 apòzema/_E_V_Y
 aquacicle/_E_V_Y
+aquagym/_E_V_Y
 aquarel·la/_E_V_Y
 aquarel·lista/_E_V_Y
 aquari/_E_V_Y
@@ -31406,6 +31418,7 @@ arguïció/_G_V_Y
 arguïda/_V
 arguïdor/_F_V_Y
 arguïdora/_V_Y
+argània/_E_V_Y
 argàric/_F_V_Y
 argàrica/_V_Y
 argèntic/_F_V_Y
@@ -32120,6 +32133,7 @@ arrossaire/_E_V_Y
 arrossal/_E_V_Y
 arrossar/12
 arrossar/_E_V_Y
+arrossegable/_E_V_Y
 arrossegada/_E_V_Y
 arrossegada/_V
 arrossegadissa/_E_V_Y
@@ -34368,6 +34382,7 @@ autoocupació/_G_V_Y
 autoodi/_E_V_Y
 autoorganització/_V_Y
 autooxidació/_G_V_Y
+autopaginació/_G_V_Y
 autoparòdia/_E_V_Y
 autopassada/_E_V_Y
 autopercepció/_G_V_Y
@@ -37947,6 +37962,7 @@ blau/_B
 blau/_E
 blauet/_E
 blaugrana
+blaugrana/_E
 blauverda/_E
 blava/_E
 blavejar/52
@@ -42987,6 +43003,7 @@ castellanolleonès/_J
 castellanomanxec/_B
 castellanoparlant/_E
 castellanès/_J
+castellanòfon/_F
 castellar/_E
 castellarenc/_F
 castellatge/_E
@@ -47381,6 +47398,7 @@ connectador/_F
 connectar/00
 connectiu
 connectiu/_B
+connectivisme/_E
 connectivitat/_E
 connector/_E
 connector/_F
@@ -54216,6 +54234,8 @@ dessaladora/_E
 dessalar/00
 dessalatge/_E
 dessalinització/_G
+dessalinitzador/_F
+dessalinitzadora/_E
 dessalinitzar/00
 dessaturació/_G
 dessecació/_G
@@ -63515,6 +63535,7 @@ esbancada/_V
 esbancar/91
 esbandida/_E_V_Y
 esbandida/_V
+esbandidora/_E_V_Y
 esbandir/87
 esbarbada/_V
 esbarbar/28
@@ -68723,6 +68744,8 @@ euroescepticisme/_E_V_Y
 euroescèptic/_F_V_Y
 euroescèptica/_V_Y
 euroesquerra/_E_V_Y
+euromediterrani/_K_V_Y
+euromediterrània/_V_Y
 euromercat/_E_V_Y
 euromoneda/_E_V_Y
 euromíssil/_E_V_Y
@@ -69940,6 +69963,8 @@ extraembrionària/_V_Y
 extraescolar/_E_V_Y
 extraesportiu/_B_V_Y
 extraesportiva/_V_Y
+extraeuropea/_V_Y
+extraeuropeu/_K_V_Y
 extrafina/_V_Y
 extrafloral/_E_V_Y
 extrafí/_H_V_Y
@@ -70467,6 +70492,7 @@ familiarment
 famolenc/_F
 famorquí/_H
 famosament
+famoset/_F
 famosíssim/_F
 famèlic/_F
 famèlicament
@@ -73142,6 +73168,8 @@ fotodermatosi/_E
 fotodesintegració/_G
 fotodetector/_E
 fotodissociació/_G
+fotodocumentalisme/_E
+fotodocumentalista/_E
 fotodíode/_E
 fotoelasticimetria/_E
 fotoelasticitat/_E
@@ -76480,6 +76508,7 @@ goticisme/_E
 goticista/_E
 goticitat/_E
 goticitzant/_E
+goticorenaixentista/_E
 gotim/_E
 gotimall/_E
 gotinejar/52
@@ -83491,6 +83520,7 @@ intolerància/_E_Y
 intons/_J_V_Y
 intortus/_V_Y
 intoxicació/_G_Y
+intoxicador/_F_V_Y
 intoxicant/_E_V_Y
 intoxicar/91
 intr
@@ -99081,6 +99111,7 @@ pagesia/_E
 pagesívol/_F
 pagesívolament
 paginació/_G
+paginador/_E
 paginar/03
 pago/_E
 pagoda/_E
@@ -111137,6 +111168,7 @@ reiet/_E
 reietó/_G
 reificació/_G
 reig/_E
+reiki/_E
 reimplantació/_G
 reimplantar/00
 reimportació/_G
@@ -112526,6 +112558,8 @@ retrogradació/_G
 retrogradar/00
 retrogressió/_G
 retrogust/_E
+retroil·luminació/_G
+retroil·luminar/03
 retroinhibició/_G
 retromutació/_G
 retronant/_E
@@ -118833,6 +118867,7 @@ subornador/_F
 subornadora/_E
 subornament/_E
 subornar/00
+subpaginador/_E
 subpermanent/_E
 subperíode/_E
 subpoblació/_G
@@ -118845,6 +118880,7 @@ subprioressa/_E
 subproducció/_G
 subproducte/_E
 subprograma/_E
+subpàgina/_E
 subpíxel/_E
 subratllable/_E
 subratllada/_E
@@ -119391,6 +119427,7 @@ supermajoria/_E
 supermascle/_E
 supermercat/_E
 supermodel/_E
+supermodern/_F
 supermortalitat/_E
 supernal/_E
 supernegre/_F
@@ -125153,6 +125190,7 @@ tumultuós/_J
 tumèric/_E
 tunda/_E
 tundra/_E
+tunejar/52
 tuneladora/_E
 tunelar/00
 tunelització/_G
