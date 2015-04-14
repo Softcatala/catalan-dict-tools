@@ -5297,6 +5297,7 @@ Chari Chari NPCSG00
 Charleroi Charleroi NPCSG00
 Charleston Charleston NPCSG00
 Charleville-Mézières Charleville-Mézières NPCSG00
+Charlie Charlie NPMSSP0
 Charlot Charlot NPMSSP0
 Charlotte Charlotte NPCSG00
 Charlottetown Charlottetown NPCSG00
