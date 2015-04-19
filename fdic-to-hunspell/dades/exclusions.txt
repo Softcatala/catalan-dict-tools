@@ -61,6 +61,7 @@ quet
 rabet
 rabo
 sen
+tamany
 tuberia
 virgueria
 xavacà

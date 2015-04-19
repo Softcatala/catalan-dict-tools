@@ -5040,6 +5040,7 @@ Castelló Castelló NPCNSP0
 Castelló Castelló NPMSG00
 Castelsardo Castelsardo NPCSG00
 Castelsarrasin Castelsarrasin NPCSG00
+Castelvecchio Castelvecchio NPMSG00
 Castelvetrano Castelvetrano NPCSG00
 Castenys Castenys NPCNSP0
 Casterà Casterà NPCNSP0
@@ -7654,6 +7655,7 @@ Eves Eva NPFPSP0
 Evodi Evodi NPMSSP0
 Evodis Evodi NPMPSP0
 Excalibur Excalibur NPFSSP0
+Excel Excel NPMNO00
 Expedit Expedit NPMSSP0
 Expedits Expedit NPMPSP0
 Extremadura Extremadura NPFSG00
@@ -7715,6 +7717,7 @@ Fages Fages NPCNSP0
 Fages Fages NPFPG00
 Faget Faget NPCNSP0
 Fagor Fagor NPCNO00
+Fahrenheit Fahrenheit NPCNSP0
 Faial Faial NPCSG00
 Faidella Faidella NPCNSP0
 Faig Faig NPCNSP0
@@ -12251,6 +12254,7 @@ Marcoval Marcoval NPCNSP0
 Marcovau Marcovau NPCSG00
 Marcq-en-Baroeul Marcq-en-Baroeul NPCSG00
 Marcs Marc NPMPSP0
+Marcuse Marcuse NPCNSP0
 Marcèvol Marcèvol NPCSG00
 Marcó Marcó NPCNSP0
 Marcús Marcús NPCNSP0
@@ -20912,6 +20916,7 @@ Valclusa Valclusa NPCSG00
 Valdagno Valdagno NPCSG00
 Valdarno Valdarno NPCSG00
 Valdealgorfa Valdealgorfa NPCSG00
+Valdelinares Valdelinares NPCSG00
 Valdellou Valdellou NPCNSP0
 Valdemembra Valdemembra NPCSG00
 Valdemoro Valdemoro NPCSG00
@@ -22195,6 +22200,7 @@ York York NPCNSP0
 York York NPCSG00
 Yoro Yoro NPCSG00
 Yosemite Yosemite NPCSG00
+YouTube YouTube NPMSO00
 Youngstown Youngstown NPCSG00
 Ypsilantis Ypsilantis NPCNSP0
 Yser Yser NPCSG00
