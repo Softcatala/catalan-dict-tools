@@ -5893,6 +5893,7 @@ coordinador coordinadora=categories: A;fonts: LT;
 coordinant=categories: A;fonts: LT;
 coordinatiu coordinativa=categories: A;fonts: LT;
 coordinatori coordinatòria=categories: A;fonts: LT;
+copartícip=categories: A;fonts: derivat;
 copejador copejadora=categories: A;fonts: LT;
 copernicà copernicana=categories: A;fonts: LT;
 copiador copiadora=categories: A;fonts: LT;

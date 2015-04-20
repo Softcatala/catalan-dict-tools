@@ -16248,6 +16248,7 @@ copal=categories: M;fonts: LT;
 copalta=categories: M;fonts: LT;
 coparticipació=categories: F;fonts: LT;
 coparticipant=categories: MF;fonts: LT;
+copartícip=categories: MF;fonts: termcat;
 copatró copatrona=categories: MF;fonts: LT;
 copblau=categories: M;fonts: LT;
 copdescuit=categories: M;fonts: LT;
