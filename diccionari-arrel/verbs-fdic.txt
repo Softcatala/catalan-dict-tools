@@ -7006,6 +7006,7 @@ marfondir=categories: V;model:servir;fonts:Jané;
 marfondre=categories: V;model:confondre;fonts:LT
 margar=categories: V;model:pregar;fonts:LT
 margenar=categories: V;model:ofrenar;fonts:LT
+marginalitzar=categories: V;model:cantar;fonts: derivat;
 marginar=categories: V;model:abominar;fonts:LT
 maridar=categories: V;model:cantar;fonts:LT
 marinar=categories: V;model:abominar;fonts:LT
