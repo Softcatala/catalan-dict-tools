@@ -33714,6 +33714,7 @@ immunofluorescència=categories: F;fonts: LT;
 immunogen=categories: M;fonts: LT;
 immunoglobulina=categories: F;fonts: LT;
 immunohematologia=categories: F;fonts: dmedicina;
+immunohistoquímica=categories: F; fonts: termcat;
 immunologia=categories: F;fonts: LT;
 immunomodulació=categories: F;fonts: LT;
 immunopatologia=categories: F;fonts: LT;
