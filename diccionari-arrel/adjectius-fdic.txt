@@ -22894,6 +22894,7 @@ tonedís tonedissa=categories: A;fonts: LT;
 tonenc tonenca=categories: A;fonts: LT;
 tongalès tongalesa=categories: A;fonts: LT;
 tongrià tongriana=categories: A;fonts: LT;
+tonicoclònic -a=categories: A; fonts: termcat;
 tonificant=categories: A;fonts: LT;
 tonsil·lar=categories: A;fonts: LT;
 tonyiner tonyinera=categories: A;fonts: LT;

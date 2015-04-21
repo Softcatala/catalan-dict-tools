@@ -48018,6 +48018,7 @@ planenc planenca=categories: MF;fonts: LT;
 planesenc planesenca=categories: MF;fonts: LT;
 planeta=categories: MF;fonts: LT;
 planetari=categories: M;fonts: LT;
+planetarització=categories: F;fonts: derivat;
 planetesimal=categories: M;fonts: LT;
 planetoide=categories: M;fonts: LT;
 planetologia=categories: F;fonts: LT;
