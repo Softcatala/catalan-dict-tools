@@ -28141,6 +28141,7 @@ flogosi=categories: F;fonts: LT;
 flongesa=categories: F;fonts: LT;
 flonjall=categories: M;fonts: LT;
 flonjor=categories: F;fonts: LT;
+floquet=categories: M;fonts: derivat;
 floqueter=categories: M;fonts: LT;
 flor=categories: F;fonts: LT;
 flora=categories: F;fonts: LT;

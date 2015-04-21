@@ -7760,6 +7760,7 @@ Fals Fals NPCSG00
 Falset Falset NPCSG00
 Falster Falster NPCSG00
 Falun Falun NPCSG00
+Fal·lopi Fal·lopi NPCNSP0
 Falç Falç NPCSG00
 Falèron Falèron NPCSG00
 Famagusta Famagusta NPCSG00
