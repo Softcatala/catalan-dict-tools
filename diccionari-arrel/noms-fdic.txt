@@ -65118,6 +65118,7 @@ xuflar=categories: M;fonts: LT;
 xufler=categories: M;fonts: LT;
 xuflera=categories: F;fonts: LT;
 xuixo=categories: M;fonts: LT;
+xuleria=categories: F; fonts: esadir;
 xulla=categories: F;fonts: LT;
 xullada=categories: F;fonts: LT;
 xumada=categories: F;fonts: LT;

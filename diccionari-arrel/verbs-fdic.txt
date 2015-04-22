@@ -2643,7 +2643,6 @@ descohesionar=categories: V;model:cantar;fonts:LT
 descolgar=categories: V;model:pregar;fonts:LT
 descollar=categories: V;model:cantar;fonts:LT
 descollonar=categories: V;model:cantar;fonts: AVL;
-descollonar=categories: V;model:cantar;fonts:LT
 descolonitzar=categories: V;model:cantar;fonts:LT
 descolorar=categories: V;model:cantar;fonts:LT
 descolorir=categories: V;model:servir;fonts:LT
