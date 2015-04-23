@@ -1310,6 +1310,7 @@ bleir=categories: V;model:traduir;fonts:LT
 bleixar=categories: V;model:cantar;fonts:LT
 blindar=categories: V;model:cantar;fonts:LT
 blocar=categories: V;model:trencar;fonts:LT
+bloguejar=categories: V;model:envejar;fonts: termcat;
 bloquejar=categories: V;model:envejar;fonts:LT
 bobinar=categories: V;model:abominar;fonts:LT
 bocinejar=categories: V;model:envejar;fonts:LT
