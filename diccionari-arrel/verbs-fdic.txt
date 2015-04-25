@@ -2521,6 +2521,7 @@ desarrufar=categories: V;model:cantar;fonts:LT
 desarrugar=categories: V;model:pregar;fonts:LT
 desarticular=categories: V;model:cantar;fonts:LT
 desartillar=categories: V;model:cantar;fonts:LT
+desarxivar=categories: V;model:cantar;fonts: derivat;
 desarçonar=categories: V;model:cantar;fonts:LT
 desassedegar=categories: V;model:pregar;fonts:LT
 desassetjar=categories: V;model:menjar;fonts:LT
