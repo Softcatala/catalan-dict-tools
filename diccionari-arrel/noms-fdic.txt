@@ -24,6 +24,7 @@ IPC=categories: MI;fonts: LT;
 IRPF=categories: MI;fonts: LT;
 IVA=categories: MI;fonts: LT;
 JavaScript=categories: MS;fonts: LT;
+MIME=categories: MI;fonts: termcat;
 MP3=categories: MI;fonts: LT;
 NIF=categories: MI;fonts: LT;
 ONG=categories: FI;fonts: LT;
