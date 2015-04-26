@@ -11842,6 +11842,7 @@ Machida Machida NPCSG00
 Machilīpatnam Machilīpatnam NPCSG00
 Machu-Picchu Machu-Picchu NPCSG00
 Macians Macià NPMPSP0
+Macintosh Macintosh NPCNSP0
 Macip Macip NPCNSP0
 Macipó Macipó NPCNSP0
 Macià Macià NPCNSP0
