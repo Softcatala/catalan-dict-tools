@@ -9465,7 +9465,6 @@ Guadalupe Guadalupe NPMSSP0
 Guadalupes Guadalupe NPMPSP0
 Guadalén Guadalén NPCSG00
 Guadassuar Guadassuar NPCSG00
-Guadassèquies Guadassèquies NPCSG00
 Guadasséquies Guadasséquies NPCSG00
 Guadaíra Guadaíra NPCSG00
 Guadeloupe Guadeloupe NPCSG00

@@ -13919,6 +13919,7 @@ liliaci liliàcia=categories: A;fonts: LT;
 lil·liputenc lil·liputenca=categories: A;fonts: LT;
 lilós lilosa=categories: A;fonts: LT;
 limburguès limburguesa=categories: A;fonts: LT;
+limfoblàstic -a=categories: A; fonts: termcat;
 limfocitari limfocitària=categories: A;fonts: LT;
 limfocític limfocítica=categories: A;fonts: LT;
 limfoide=categories: A;fonts: LT;
