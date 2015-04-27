@@ -30920,6 +30920,7 @@ gonartritis=categories: FI;fonts: LT;
 gondoler gondolera=categories: MF;fonts: LT;
 gonell=categories: M;fonts: LT;
 gonella=categories: F;fonts: LT;
+gonellisme=categories: M;fonts: viquipedia;
 goneta=categories: F;fonts: LT;
 gonfanoner=categories: M;fonts: LT;
 gonfanonera=categories: F;fonts: LT;
