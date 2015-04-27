@@ -5826,6 +5826,7 @@ contrafactual=categories: A;fonts: LT;
 contrafaedor contrafaedora=categories: A;fonts: LT;
 contrafaixat contrafaixada=categories: A;fonts: LT;
 contrafinal=categories: A;fonts: LT;
+contraincendis=categories: AI; fonts: AVL;
 contraintuïtiu contraintuïtiva=categories: A;fonts: LT;
 contralt=categories: A;fonts: LT;
 contranatural=categories: A;fonts: LT;
