@@ -249,6 +249,7 @@ Agacis Agaci NPMPSP0
 Agadir Agadir NPCSG00
 Agadèz Agadèz NPCSG00
 Agalega Agalega NPCSG00
+Agamèmnon Agamèmnon NPMSSP0
 Agano-gawa Agano-gawa NPCSG00
 Agape Agape NPMSSP0
 Agapes Agape NPMPSP0
@@ -19294,6 +19295,8 @@ Stains Stains NPCSG00
 Stalin Stalin NPCNSP0
 Stalingrad Stalingrad NPCSG00
 Stamford Stamford NPCSG00
+Stanford Stanford NPCNSP0
+Stanford Stanford NPCSG00
 Stanislavski Stanislavski NPCNSP0
 Starhemberg Starhemberg NPCNSP0
 Stavanger Stavanger NPCSG00
@@ -21996,6 +21999,7 @@ Wollstonecraft Wollstonecraft NPCNSP0
 Wolverhampton Wolverhampton NPCSG00
 Woodstock Woodstock NPCSG00
 Worcester Worcester NPCSG00
+WordPress Wordpress NPMNO00
 Worms Worms NPCSG00
 Worthing Worthing NPCSG00
 Wrangel Wrangel NPCSG00
