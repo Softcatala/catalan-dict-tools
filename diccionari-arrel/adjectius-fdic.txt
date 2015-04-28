@@ -2982,6 +2982,7 @@ bambo bamba=categories: A;fonts: LT;
 bamileké [pl. bamilekés]=categories: A;fonts: LT;
 banal=categories: A;fonts: LT;
 banalíssim banalíssima=categories: AA;fonts: LT;
+bananer bananera=categories: A; fonts: GDLC, AVL;
 bancari bancària=categories: A;fonts: LT;
 bancassegurador bancasseguradora=categories: A;fonts: LT;
 bandat bandada=categories: A;fonts: LT;
