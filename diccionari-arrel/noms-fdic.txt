@@ -18729,6 +18729,7 @@ desagraïment=categories: M;fonts: LT;
 desagregació=categories: F;fonts: LT;
 desagreujament=categories: M;fonts: LT;
 desagrupatge=categories: M;fonts: LT;
+desaigüe=categories: M; fonts: GDLC, AVL, esadir;
 desaire=categories: M;fonts: LT;
 desaireig=categories: M;fonts: LT;
 desajust=categories: M;fonts: LT;

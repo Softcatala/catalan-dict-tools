@@ -7811,6 +7811,7 @@ Fatarella Fatarella NPFSG00
 Fatjó Fatjó NPCNSP0
 Fau Fau NPCNSP0
 Faubell Faubell NPCNSP0
+Faulkner Faulkner NPCNSP0
 Fauló Fauló NPCNSP0
 Faura Faura NPCNSP0
 Faura Faura NPFSG00
@@ -10680,6 +10681,7 @@ Jújols Jújols NPCSG00
 Júlia Júlia NPFSSP0
 Júlies Júlia NPFPSP0
 Júpiter Júpiter NPCSG00
+Jünger Jünger NPCNSP0
 Jāmnagar Jāmnagar NPCSG00
 K2 K2 NPMSG00
 KMPlayer KMPlayer NPCNO00
@@ -13823,6 +13825,7 @@ Musell Musell NPCNSP0
 Musella Musella NPCNSP0
 Museros Museros NPCSG00
 Mushin Mushin NPCSG00
+Musil Musil NPCNSP0
 Musitu Musitu NPCNSP0
 Mussac Mussac NPCNSP0
 Mussara Mussara NPFSG00
@@ -13914,6 +13917,7 @@ Nabilles Nabilles NPCSG00
 Nabiners Nabiners NPCNSP0
 Nabiners Nabiners NPCSG00
 Nablus Nablus NPCSG00
+Nabókov Nabókov NPCNSP0
 Nacla Nacla NPCSG00
 Nadal Nadal NPCNSP0
 Nadal Nadal NPMSSP0
@@ -17667,6 +17671,7 @@ Ruscatell Ruscatell NPCNSP0
 Ruscino Ruscino NPCSG00
 Ruscla Ruscla NPCNSP0
 Ruse Ruse NPCSG00
+Rushdie Rushdie NPCNSP0
 Russafa Russafa NPCNSP0
 Russafa Russafa NPCSG00
 Russell Russell NPCNSP0
@@ -21998,6 +22003,7 @@ Wollongong Wollongong NPCSG00
 Wollstonecraft Wollstonecraft NPCNSP0
 Wolverhampton Wolverhampton NPCSG00
 Woodstock Woodstock NPCSG00
+Woolf Woolf NPCNSP0
 Worcester Worcester NPCSG00
 WordPress Wordpress NPMNO00
 Worms Worms NPCSG00

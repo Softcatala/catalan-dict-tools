@@ -1460,6 +1460,7 @@ anglesenc anglesenca=categories: A;fonts: LT;
 anglesolí anglesolina=categories: A;fonts: LT;
 anglicà anglicana=categories: A;fonts: LT;
 angloamericà angloamericana=categories: A;fonts: LT;
+anglogermànic anglogermànica=categories: A;fonts: derivat;
 angloindi angloíndia=categories: A;fonts: LT;
 anglonormand anglonormanda=categories: A;fonts: LT;
 angloparlant=categories: A;fonts: LT;
