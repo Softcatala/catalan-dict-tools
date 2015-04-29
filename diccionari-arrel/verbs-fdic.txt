@@ -4141,6 +4141,7 @@ emplomar=categories: V;model:cantar;fonts:LT
 emplomissar=categories: V;model:acarnissar;fonts:LT
 emplujar=categories: V;model:envejar;fonts:LT
 empobrir=categories: V;model:servir;fonts:LT
+empoderar=categories: V;model:cantar;fonts: esadir;
 empolainar=categories: V;model:abominar;fonts:LT
 empolistrar=categories: V;model:cantar;fonts:LT
 empollar=categories: V;model:cantar;fonts:LT
