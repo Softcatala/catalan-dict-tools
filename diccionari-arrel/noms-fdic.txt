@@ -1,5 +1,6 @@
 ADN=categories: MI;fonts: LT;
 AMPA=categories: FI;fonts: LT;
+API=categories: FI;fonts: softcatala, viquipedia;
 ARN=categories: MI;fonts: LT;
 Botox=categories: MS;fonts: LT;
 CD-ROM=categories: MI;fonts: LT;
