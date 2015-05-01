@@ -49374,6 +49374,7 @@ postor=categories: M;fonts: LT;
 postora=categories: F;fonts: LT;
 postpart=categories: M;fonts: LT;
 postprecipitació=categories: F;fonts: LT;
+postprocessament=categories: M;fonts: derivat;
 postproducció=categories: F;fonts: LT;
 postració=categories: F;fonts: LT;
 postremitat=categories: F;fonts: LT;
