@@ -49549,6 +49549,7 @@ preconscient=categories: M;fonts: LT;
 precontinent=categories: M;fonts: LT;
 precontracte=categories: M;fonts: LT;
 precordiàlgia=categories: F;fonts: LT;
+precorrecció=categories: F;fonts: dfrequencies;
 precursor=categories: M;fonts: LT;
 precursora=categories: F;fonts: LT;
 precàncer=categories: M;fonts: LT;
