@@ -22180,6 +22180,7 @@ superior=categories: A;fonts: LT;
 superlatiu superlativa=categories: A;fonts: LT;
 superlleuger=categories: A;fonts: LT;
 superlumínic superlumínica=categories: A;fonts: termcat;
+supermilionari supermilionària=categories: A;fonts: derivat;
 supermodern supermoderna=categories: A;fonts: derivat;
 supernal=categories: A;fonts: LT;
 supernegre supernegra=categories: A;fonts: LT;
