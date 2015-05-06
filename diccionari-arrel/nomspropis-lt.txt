@@ -10139,6 +10139,7 @@ IEC IEC NPMSO00
 IJssel IJssel NPCSG00
 ISBN ISBN NPMNO00
 ISSN ISSN NPMNO00
+Ialta Ialta NPCSG00
 Iammo Iammo NPCSG00
 Iang-Tsé Iang-Tsé NPCSG00
 Iaşi Iaşi NPCSG00
@@ -10414,7 +10415,6 @@ Jalenca Jalenca NPCNSP0
 Jalisco Jalisco NPCSG00
 Jalmar Jalmar NPCNSP0
 Jalpí Jalpí NPCNSP0
-Jalta Jalta NPCSG00
 Jalón Jalón NPCSG00
 Jamaica Jamaica NPFSG00
 Jambi Jambi NPCSG00
@@ -15595,6 +15595,7 @@ Pi Pi NPCNSP0
 Pia Pia NPFSSP0
 Piacenza Piacenza NPCSG00
 Piada Piada NPCSG00
+Piaget Piaget NPCNSP0
 Piarnau Piarnau NPCNSP0
 Piatra-Neamţ Piatra-Neamţ NPCSG00
 Piauí Piauí NPCSG00
@@ -19034,6 +19035,7 @@ Skelleftea Skelleftea NPCSG00
 Skellefteälv Skellefteälv NPCSG00
 Skellefteå Skellefteå NPCSG00
 Skopje Skopje NPCSG00
+Skype Skype NPMSO00
 Skyros Skyros NPCSG00
 Skòpelos Skòpelos NPCSG00
 Skövde Skövde NPCSG00
