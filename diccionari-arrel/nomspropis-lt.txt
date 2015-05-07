@@ -18343,7 +18343,6 @@ Sarreganyada Sarreganyada NPCSG00
 Sarreguemines Sarreguemines NPCSG00
 Sarret Sarret NPCNSP0
 Sarri Sarri NPCNSP0
-Sarria Sarria NPCSG00
 Sarriba Sarriba NPCNSP0
 Sarriera Sarriera NPCNSP0
 Sarrià Sarrià NPCNSP0
