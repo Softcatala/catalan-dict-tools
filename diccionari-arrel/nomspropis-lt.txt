@@ -7081,6 +7081,7 @@ Elvira Elvira NPCNSP0
 Elvira Elvira NPCSG00
 Elvira Elvira NPFSSP0
 Elvires Elvira NPFPSP0
+Elvis Elvis NPMSSP0
 Elx Elx NPCSG00
 Ely Ely NPCSG00
 Elâziǧ Elâziǧ NPCSG00
@@ -16183,6 +16184,7 @@ Presanella Presanella NPCSG00
 Preses Preses NPCNSP0
 Preses Preses NPFPG00
 Preslav Preslav NPCSG00
+Presley Presley NPCNSP0
 Presov Presov NPCSG00
 Prespa Prespa NPCSG00
 Presseguer Presseguer NPCNSP0
@@ -19464,14 +19466,13 @@ Szombathely Szombathely NPCSG00
 Székesfehérvár Székesfehérvár NPCSG00
 Sàbat Sàbat NPCNSP0
 Sàbrata Sàbrata NPCSG00
-Sàez Sàez NPCNSP0
 Sàhara Sàhara NPMSG00
 Sàlit Sàlit NPCSG00
 Sàlzer Sàlzer NPCSG00
-Sànchez Sànchez NPCNSP0
 Sàrdica Sàrdica NPCSG00
 Sàrries Sàrries NPCNSP0
 Sàsser Sàsser NPCSG00
+Sáez Sáez NPCNSP0
 Sánchez Sánchez NPCNSP0
 Sèptim Sèptim NPMSSP0
 Sèptims Sèptim NPMPSP0

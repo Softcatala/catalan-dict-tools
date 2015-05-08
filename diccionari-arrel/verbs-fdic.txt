@@ -9024,6 +9024,7 @@ simular=categories: V;model:cantar;fonts:LT
 simultaniejar=categories: V;model:envejar;fonts:LT
 sincerar=categories: V;model:cantar;fonts:LT
 sincopar=categories: V;model:cantar;fonts:LT
+sincretitzar=categories: V;model:cantar;fonts: derivat;
 sincronitzar=categories: V;model:cantar;fonts:LT
 sindicar=categories: V;model:trencar;fonts:LT
 singlar=categories: V;model:cantar;fonts:LT
