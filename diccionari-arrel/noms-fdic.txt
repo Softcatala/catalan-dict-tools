@@ -62142,6 +62142,7 @@ trompetera=categories: F;fonts: LT;
 trompeteria=categories: F;fonts: LT;
 trompetista=categories: MF;fonts: LT;
 trompicó=categories: M;fonts: LT;
+trompista=categories: MF;fonts: derivat;
 trompitja=categories: F;fonts: LT;
 trompitxol=categories: M;fonts: LT;
 trompot=categories: M;fonts: LT;
