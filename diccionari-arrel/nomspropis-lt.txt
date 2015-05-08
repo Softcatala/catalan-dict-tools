@@ -1860,6 +1860,7 @@ Arnils Arnils NPCNSP0
 Arno Arno NPCSG00
 Arnol Arnol NPCNSP0
 Arnola Arnola NPCNSP0
+Arnold Arnold NPMSSP0
 Arnsberg Arnsberg NPCSG00
 Arnulf Arnulf NPMSSP0
 Arnulfs Arnulf NPMPSP0
@@ -19034,6 +19035,7 @@ Skarzysko-Kamienna Skarzysko-Kamienna NPCSG00
 Skelleftea Skelleftea NPCSG00
 Skellefteälv Skellefteälv NPCSG00
 Skellefteå Skellefteå NPCSG00
+Skinner Skinner NPCNSP0
 Skopje Skopje NPCSG00
 Skype Skype NPMSO00
 Skyros Skyros NPCSG00
