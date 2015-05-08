@@ -37351,6 +37351,7 @@ llunyària=categories: F;fonts: LT;
 llunària=categories: F;fonts: LT;
 lluor=categories: F;fonts: LT;
 llupianenc llupianenca=categories: MF;fonts: LT;
+llupolització=categories: F;fonts: termcat;
 lluquer lluquera=categories: MF;fonts: LT;
 lluquet=categories: M;fonts: LT;
 lluqueta=categories: F;fonts: LT;
