@@ -21885,6 +21885,7 @@ Wake Wake NPCSG00
 Wakefield Wakefield NPCSG00
 Wakhan Wakhan NPCSG00
 Walcheren Walcheren NPCSG00
+Waldorf Waldorf NPCNSP0
 Walensee Walensee NPCSG00
 Wallasey Wallasey NPCSG00
 Wallers Wallers NPCSG00
