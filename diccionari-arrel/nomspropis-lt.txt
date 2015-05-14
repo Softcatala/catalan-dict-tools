@@ -17798,6 +17798,7 @@ Sacasa Sacasa NPCNSP0
 Sacases Sacases NPCNSP0
 Sacatepéquez Sacatepéquez NPCSG00
 Sacernac Sacernac NPCNSP0
+Sacher Sacher NPCNSP0
 Sacile Sacile NPCSG00
 Saclota Saclota NPCNSP0
 Sacoma Sacoma NPCNSP0
