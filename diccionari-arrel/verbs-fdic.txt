@@ -8004,6 +8004,7 @@ pruir=categories: V;model:pruir;fonts:LT
 prémer=categories: V;model:témer;fonts:LT
 pseudomorfitzar=categories: V;model:cantar;fonts:LT
 psicoanalitzar=categories: V;model:cantar;fonts:LT
+psicologitzar=categories: V;model:cantar;fonts: termcat;
 publicar=categories: V;model:trencar;fonts:LT
 publicitar=categories: V;model:cantar;fonts:LT
 publificar=categories: V;model:trencar;fonts:LT

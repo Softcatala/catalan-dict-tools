@@ -18471,6 +18471,7 @@ polihalobi polihalòbia=categories: A;fonts: LT;
 polihalí polihalina=categories: A;fonts: LT;
 polihidroxílic polihidroxílica=categories: A;fonts: LT;
 polihídric polihídrica=categories: A;fonts: LT;
+polimedicat polimedicada=categories: A;fonts: derivat;
 polimetàl·lic polimetàl·lica=categories: A;fonts: LT;
 polimetínic=categories: A;fonts: LT;
 polimorf polimorfa=categories: A;fonts: LT;
