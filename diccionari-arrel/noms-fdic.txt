@@ -37745,6 +37745,7 @@ macrogrup=categories: M;fonts: LT;
 macrogàmeta=categories: M;fonts: LT;
 macroinstrucció=categories: F;fonts: LT;
 macrolepidòpter=categories: M;fonts: LT;
+macromagnitud=categories: F;fonts: idescat, termcat;
 macromicet=categories: M;fonts: LT;
 macromolècula=categories: F;fonts: LT;
 macronucli=categories: M;fonts: LT;
