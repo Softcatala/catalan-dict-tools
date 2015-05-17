@@ -6273,6 +6273,7 @@ autobivalent=categories: M;fonts: LT;
 autobiògraf=categories: M;fonts: LT;
 autobiògrafa=categories: F;fonts: LT;
 autoblocatge=categories: M;fonts: LT;
+autobloqueig=categories: M;fonts: termcat;
 autobolquet=categories: M;fonts: LT;
 autobomba=categories: F;fonts: LT;
 autobombo=categories: M;fonts: LT;
