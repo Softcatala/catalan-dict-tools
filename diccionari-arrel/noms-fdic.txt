@@ -29318,6 +29318,7 @@ furrier furriera=categories: MF;fonts: LT;
 furt=categories: M;fonts: LT;
 furtador=categories: M;fonts: LT;
 furtadora=categories: F;fonts: LT;
+furtivisme=categories: M;fonts: dfrequencies;
 furunculosi=categories: F;fonts: LT;
 furó=categories: M;fonts: LT;
 furóncol=categories: M;fonts: LT;
