@@ -5474,6 +5474,7 @@ component=categories: A;fonts: LT;
 componible=categories: A;fonts: LT;
 comportable=categories: A;fonts: LT;
 comportador comportadora=categories: A;fonts: LT;
+comportamental=categories: A;fonts: termcat;
 comportívol comportívola=categories: A;fonts: LT;
 composicional=categories: A;fonts: LT;
 compositiu compositiva=categories: A;fonts: LT;
