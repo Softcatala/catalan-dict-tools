@@ -8370,6 +8370,7 @@ Francesques Francesc NPFPSP0
 Franciac Franciac NPCSG00
 Francina Francina NPFSSP0
 Francines Francina NPFPSP0
+Francis Francis NPMSSP0
 Francisca Francisca NPFSSP0
 Francisques Francisca NPFPSP0
 Franco Franco NPCNSP0

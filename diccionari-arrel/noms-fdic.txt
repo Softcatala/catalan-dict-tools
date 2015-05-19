@@ -26505,6 +26505,7 @@ explorador=categories: M;fonts: LT;
 exploradora=categories: F;fonts: LT;
 explosibilitat=categories: F;fonts: LT;
 explosiu=categories: M;fonts: LT;
+explosivitat=categories: F;fonts: dfrequencies;
 explosió=categories: F;fonts: LT;
 explosor=categories: M;fonts: LT;
 explosòfor=categories: M;fonts: LT;
