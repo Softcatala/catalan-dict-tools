@@ -17072,6 +17072,7 @@ orogràfic orogràfica=categories: A;fonts: LT;
 orogènic orogènica=categories: A;fonts: LT;
 oromediterrani oromediterrània=categories: A;fonts: LT;
 oromo=categories: A;fonts: LT;
+oronasal=categories: A;fonts: termcat;
 oronímic oronímica=categories: A;fonts: LT;
 orotx=categories: A;fonts: LT;
 orpesí orpesina=categories: A;fonts: LT;

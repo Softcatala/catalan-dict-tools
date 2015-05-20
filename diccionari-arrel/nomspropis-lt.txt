@@ -10967,6 +10967,7 @@ Krkonoše Krkonoše NPCSG00
 Kronstadt Kronstadt NPCSG00
 Krugersdorp Krugersdorp NPCSG00
 Krujë Krujë NPCSG00
+Kubrick Kubrick NPCNSP0
 Kulturkampf Kulturkampf NPCSG00
 Kumagaya Kumagaya NPCSG00
 Kumamoto Kumamoto NPCSG00
@@ -19350,6 +19351,7 @@ Stamford Stamford NPCSG00
 Stanford Stanford NPCNSP0
 Stanford Stanford NPCSG00
 Stanislavski Stanislavski NPCNSP0
+Stanley Stanley NPMSSP0
 Starhemberg Starhemberg NPCNSP0
 Stavanger Stavanger NPCSG00
 Stendhal Stendhal NPMSSP0
