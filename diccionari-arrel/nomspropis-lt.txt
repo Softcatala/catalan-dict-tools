@@ -59,6 +59,7 @@ Aberci Aberci NPMSSP0
 Abercis Aberci NPMPSP0
 Aberdaugleddau Aberdaugleddau NPCSG00
 Aberdeen Aberdeen NPCSG00
+Abertis Abertis NPCSO00
 Aberystwyth Aberystwyth NPCSG00
 Abiar Abiar NPCSG00
 Abidjan Abidjan NPCSG00
@@ -2241,6 +2242,7 @@ Azcapotzalco Azcapotzalco NPCSG00
 Azcona Azcona NPCNSP0
 Azerbaidjan Azerbaidjan NPMSG00
 Azkoitia Azkoitia NPCSG00
+Aznar Aznar NPCNSP0
 Azorín Azorín NPCNSP0
 Azua Azua NPCSG00
 Azuay Azuay NPCSG00
@@ -3165,6 +3167,7 @@ Bermuds Bermud NPMPSP0
 Berna Berna NPFSG00
 Bernabé Bernabé NPMSSP0
 Bernabés Bernabé NPMPSP0
+Bernabéu Bernabéu NPCNSP0
 Bernac Bernac NPCNSP0
 Bernada Bernada NPCNSP0
 Bernada Bernada NPFSSP0
@@ -3264,6 +3267,7 @@ Betelgeuse Betelgeuse NPCSG00
 Betesa Betesa NPCSG00
 Betfagé Betfagé NPCSG00
 Beties Beties NPCSG00
+Betis Betis NPMSO00
 Betlem Betlem NPCSG00
 Betpak-Dala Betpak-Dala NPCSG00
 Betren Betren NPCSG00
@@ -3419,6 +3423,7 @@ Blagoveščensk Blagoveščensk NPCSG00
 Blai Blai NPCNSP0
 Blai Blai NPMSSP0
 Blaia Blaia NPCNSP0
+Blair Blair NPCNSP0
 Blais Blai NPMPSP0
 Blajot Blajot NPCNSP0
 Blanc Blanc NPCNSP0
@@ -4378,6 +4383,7 @@ Calçada Calçada NPFSG00
 Calígula Calígula NPMSSP0
 Calús Calús NPCNSP0
 Cama Cama NPCNSP0
+Camacho Camacho NPCNSP0
 Camafort Camafort NPCNSP0
 Camagüey Camagüey NPCSG00
 Camaiore Camaiore NPCSG00
@@ -5798,6 +5804,7 @@ Concepcions Concepció NPFPSP0
 Concepció Concepció NPFSG00
 Concepció Concepció NPFSSP0
 Concepción Concepción NPCSG00
+Concertgebouw Concertgebouw NPMSO00
 Conchos Conchos NPCSG00
 Concordi Concordi NPMSSP0
 Concordis Concordi NPMPSP0
@@ -6476,6 +6483,7 @@ Daḫla Daḫla NPCSG00
 Dearborn Dearborn NPCSG00
 Deauville Deauville NPCSG00
 Deba Deba NPCSG00
+Debian Debian NPCNO00
 Debrecen Debrecen NPCSG00
 Debussy Debussy NPCNSP0
 Deciana Deciana NPCSG00
@@ -6833,6 +6841,7 @@ Dronten Dronten NPCSG00
 Drova Drova NPFSG00
 Drubau Drubau NPCNSP0
 Drudis Drudis NPCNSP0
+Drupal Drupal NPMNO00
 Drus Drus NPMPSP0
 Drus Drus NPMSSP0
 Družkivka Družkivka NPCSG00
@@ -7605,8 +7614,11 @@ Eure Eure NPCSG00
 Eures Eures NPCNSP0
 Eurocambra Eurocambra NPFSO00
 Eurogrup Eurogrup NPMSO00
+Eurolliga Eurolliga NPFSO00
+Eurolligues Eurolliga NPFSO00
 Europa Europa NPFSG00
 Eurostat Eurostat NPFSO00
+Eurovisió Eurovisió NPFSO00
 Euràsia Euràsia NPCSG00
 Eurídice Eurídice NPFSSP0
 Eurídices Eurídice NPFPSP0
@@ -8966,6 +8978,7 @@ Gençà Gençà NPCNSP0
 Genís Genís NPCNSP0
 Genís Genís NPMSSP0
 Georg Georg NPMSSP0
+George George NPMSSP0
 Georgetown Georgetown NPCSG00
 Georgina Georgina NPFSSP0
 Ger Ger NPCSG00
@@ -9301,6 +9314,7 @@ Gouda Gouda NPCSG00
 Goula Goula NPCNSP0
 Gourette Gourette NPCSG00
 Goya Goya NPCNSP0
+Goytisolo Goytisolo NPCNSP0
 Gozo Gozo NPCSG00
 Gozzo Gozzo NPCSG00
 Gozón Gozón NPCSG00
@@ -9753,6 +9767,7 @@ Hambantota Hambantota NPCSG00
 Hamburg Hamburg NPMSG00
 Hameln Hameln NPCSG00
 Hamhŭng Hamhŭng NPCSG00
+Hamilton Hamilton NPCNSP0
 Hamlet Hamlet NPMSSP0
 Hammamet Hammamet NPCSG00
 Hammond Hammond NPCSG00
@@ -9778,6 +9793,7 @@ Harmagedon Harmagedon NPMSG00
 Harold Harold NPMSSP0
 Harolds Harold NPMPSP0
 Harrisburg Harrisburg NPCSG00
+Harry Harry NPMSSP0
 Hartford Hartford NPCSG00
 Hartlepool Hartlepool NPCSG00
 Harvard Harvard NPCSG00
@@ -9912,6 +9928,7 @@ Hespèrides Hespèrides NPFPSP0
 Hesse Hesse NPMSG00
 Hessen Hessen NPCSG00
 Hesíode Hesíode NPMSSP0
+Hewlett-Packard Hewlett-Packard NPCNO00
 Hhohho Hhohho NPCSG00
 Hialeah Hialeah NPCSG00
 Hida Hida NPCSG00
@@ -10147,6 +10164,7 @@ Iang-Tsé Iang-Tsé NPCSG00
 Iaşi Iaşi NPCSG00
 Ibadan Ibadan NPCSG00
 Ibagué Ibagué NPCSG00
+Ibarretxe Ibarretxe NPCNSP0
 Ibercom Ibercom NPCNO00
 Iberoamèrica Iberoamèrica NPFSG00
 Ibi Ibi NPCSG00
@@ -11188,6 +11206,7 @@ Leningrad Leningrad NPCSG00
 Leninsk-Kuzneckij Leninsk-Kuzneckij NPCSG00
 Lens Lens NPCSG00
 Lentini Lentini NPCSG00
+Leo Leo NPMSSP0
 Leobard Leobard NPMSSP0
 Leobards Leobard NPMPSP0
 Leobi Leobi NPMSSP0
@@ -12616,6 +12635,7 @@ Massuet Massuet NPCNSP0
 Massutí Massutí NPCNSP0
 Massy Massy NPCSG00
 Massàlia Massàlia NPFSG00
+Mastercard Mastercard NPCNSP0
 Mastia Mastia NPCSG00
 Masuques Masuques NPFPG00
 Masvalls Masvalls NPCNSP0
@@ -12759,6 +12779,7 @@ Mbuji-Mayi Mbuji-Mayi NPCSG00
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
 McKinley McKinley NPCSG00
+McLaren McLaren NPCNO00
 Mchinji Mchinji NPCSG00
 Meanes Meanes NPCSG00
 Meaux Meaux NPCSG00
@@ -12936,6 +12957,7 @@ Mesquita Mesquita NPFSG00
 Mesquí Mesquí NPCNSP0
 Mesquí Mesquí NPCSG00
 Messeguer Messeguer NPCNSP0
+Messi Messi NPCNSP0
 Messiaen Messiaen NPCNSP0
 Messina Messina NPFSG00
 Messàpia Messàpia NPFSG00
@@ -12968,7 +12990,9 @@ Mianes Mianes NPCSG00
 Miarnau Miarnau NPCNSP0
 Miass Miass NPCSG00
 Micenes Micenes NPCSG00
+Michael Michael NPMSSP0
 Michelangelo Michelangelo NPMSSP0
+Michelin Michelin NPCNO00
 Michigan Michigan NPCSG00
 Michoacán Michoacán NPCSG00
 Micleta Micleta NPCSG00
@@ -13253,6 +13277,7 @@ Molí Molí NPCNSP0
 Molí Molí NPMSG00
 Mombasa Mombasa NPCSG00
 Mombert Mombert NPCNSP0
+Mompou Mompou NPCNSP0
 Monadell Monadell NPCNSP0
 Monagas Monagas NPCSG00
 Monal Monal NPCNSP0
@@ -13585,6 +13610,7 @@ Montverd Montverd NPCNSP0
 Montélimar Montélimar NPCSG00
 Montíver Montíver NPCSG00
 Monza Monza NPCSG00
+Monzó Monzó NPCNSP00
 Monòver Monòver NPCSG00
 Moodle Moodle NPMNO00
 Moore Moore NPCNSP0
@@ -13721,6 +13747,7 @@ Mota Mota NPFSG00
 Motagua Motagua NPCSG00
 Motes Motes NPCNSP0
 Motger Motger NPCNSP0
+MotoGP MotoGP NPCNO00
 Motril Motril NPCSG00
 Mottola Mottola NPCSG00
 Moudjéria Moudjéria NPCSG00
@@ -13733,6 +13760,7 @@ Moyamba Moyamba NPCSG00
 Moyeuvre-Grande Moyeuvre-Grande NPCSG00
 Moyle Moyle NPCSG00
 Mozart Mozart NPCNSP0
+Mozilla Mozilla NPCNO00
 Moçambic Moçambic NPMSG00
 Mtwara Mtwara NPCSG00
 Mualles Mualles NPCNSP0
@@ -14112,6 +14140,7 @@ Ness Ness NPCSG00
 Nestlé Nestlé NPCNO00
 Nestos Nestos NPCSG00
 Netanya Netanya NPCSG00
+Netscape Netscape NPCNO00
 Neubrandenburg Neubrandenburg NPCSG00
 Neuchâtel Neuchâtel NPCSG00
 Neuilly-sur-Marne Neuilly-sur-Marne NPCSG00
@@ -14203,6 +14232,7 @@ Nimrud Nimrud NPCSG00
 Nin Nin NPCNSP0
 Ningbo Ningbo NPCSG00
 Ninot Ninot NPCNSP0
+Nintendo Nintendo NPFNO00
 Ninyoles Ninyoles NPMPSP0
 Ninyoles Ninyoles NPMSSP0
 Niono Niono NPCSG00
@@ -15093,6 +15123,7 @@ Pančevo Pančevo NPCSG00
 Paola Paola NPCSG00
 Paonell Paonell NPCNSP0
 Papaloapán Papaloapán NPCSG00
+Papasseit Papasseit NPCNSP0
 Papeete Papeete NPCSG00
 Papies Papies NPMPSP0
 Papies Papies NPMSSP0
@@ -15298,6 +15329,7 @@ Pedrinyà Pedrinyà NPCSG00
 Pedrissa Pedrissa NPCNSP0
 Pedrol Pedrol NPCNSP0
 Pedrola Pedrola NPCNSP0
+Pedrolo Pedrolo NPCNSP0
 Pedrís Pedrís NPCSG00
 Pedró Pedró NPCNSP0
 Pedró Pedró NPMSG00
@@ -15826,6 +15858,7 @@ Plaute Plaute NPMSSP0
 Plautes Plaute NPMPSP0
 Plautila Plautila NPFSSP0
 Plautiles Plautila NPFPSP0
+PlayStation PlayStation NPFNO00
 Plegamans Plegamans NPCSG00
 Plet Plet NPCNSP0
 Pleven Pleven NPCSG00
@@ -16110,6 +16143,7 @@ Potomac Potomac NPCSG00
 Potosí Potosí NPCSG00
 Potries Potries NPCSG00
 Potsdam Potsdam NPCSG00
+Potter Potter NPCNSP0
 Pou Pou NPCNSP0
 Poublanc Poublanc NPCSG00
 Poudevida Poudevida NPCSG00
@@ -17080,6 +17114,7 @@ Rentería Rentería NPCSG00
 Renània Renània NPFSG00
 Reparat Reparat NPCNSP0
 Replana Replana NPFSG00
+Repsol Repsol NPCNO00
 Requena Requena NPFSG00
 Requesens Requesens NPCNSP0
 Requesens Requesens NPCSG00
@@ -17215,6 +17250,7 @@ Rigolisa Rigolisa NPCSG00
 Rigolí Rigolí NPCNSP0
 Rigoréixer Rigoréixer NPCSG00
 Rijeka Rijeka NPCSG00
+Rijkaard Rijkaard NPCNSP0
 Rijswijk Rijswijk NPCSG00
 Rila Rila NPCSG00
 Rilke Rilke NPCNSP0
@@ -17698,6 +17734,7 @@ Rués Rués NPCNSP0
 Ruïc Ruïc NPCNSP0
 Ruïtlles Ruïtlles NPCSG00
 Rwanda Rwanda NPFSG00
+Ryanair Ryanair NPCNO00
 Rybačij Rybačij NPCSG00
 Rybinsk Rybinsk NPCSG00
 Rybnik Rybnik NPCSG00
@@ -18333,6 +18370,7 @@ Sarguetal Sarguetal NPCNSP0
 Sarh Sarh NPCSG00
 Saris Saris NPCNSP0
 Sark Sark NPCSG00
+Sarkozy Sarkozy NPCNSP0
 Sarladès Sarladès NPCSG00
 Sarlat Sarlat NPCNSP0
 Sarlí Sarlí NPCNSP0
@@ -19875,6 +19913,7 @@ Teresa Teresa NPFSSP0
 Tereses Teresa NPFPSP0
 Teresina Teresina NPFSG00
 Terlizzi Terlizzi NPCSG00
+Termcat Termcat NPMSO00
 Termenès Termenès NPMSG00
 Termes Termes NPCPG00
 Termini Termini NPCNSP0
@@ -20494,6 +20533,7 @@ Trevillac Trevillac NPCSG00
 Treviso Treviso NPCSG00
 Trexenta Trexenta NPCSG00
 Triador Triador NPCNSP0
+Triadú Triadú NPCNSP0
 Triall Triall NPCNSP0
 Triana Triana NPFSG00
 Triangle Triangle NPMSG00
@@ -20854,6 +20894,7 @@ Urgenč Urgenč NPCSG00
 Urgés Urgés NPCNSP0
 Uri Uri NPCSG00
 Uriac Uriac NPCNSP0
+Uriel Uriel NPMSSP0
 Urmella Urmella NPCSG00
 Urmia Urmia NPCSG00
 Urquinaona Urquinaona NPCNSP0
@@ -21333,6 +21374,7 @@ Via Via NPCNSP0
 Viabrea Viabrea NPFSG00
 Viacamp Viacamp NPCSG00
 Viadana Viadana NPCSG00
+Viagra Viagra NPFSO00
 Viaina Viaina NPCNSP0
 Vial Vial NPCNSP0
 Vialta Vialta NPCNSP0
@@ -21409,8 +21451,6 @@ Vila Vila NPFSG00
 Vila-Real Vila-Real NPCSG00
 Vila-Rodona Vila-Rodona NPFSG00
 Vila-Sacra Vila-Sacra NPFSG00
-Vila-Sana Vila-Sana NPFSG00
-Vila-Seca Vila-Seca NPFSG00
 Vila-ramó Vila-ramó NPCSG00
 Vila-rasa Vila-rasa NPCNSP0
 Vila-robau Vila-robau NPCNSP0
@@ -21849,6 +21889,7 @@ Voronej Voronej NPCSG00
 Voronež Voronež NPCSG00
 Vosges Vosges NPMPG00
 Vraca Vraca NPCSG00
+Vueling Vueling NPCNO00
 Vukovar Vukovar NPCSG00
 Vulcano Vulcano NPCSG00
 Vulci Vulci NPCSG00
@@ -21895,6 +21936,7 @@ Wallasey Wallasey NPCSG00
 Wallers Wallers NPCSG00
 Wallis Wallis NPCSG00
 Walsall Walsall NPCSG00
+Walter Walter NPMSSP0
 Wandsworth Wandsworth NPCSG00
 Wanxian Wanxian NPCSG00
 Wanze Wanze NPCSG00
@@ -22088,6 +22130,7 @@ Xarrell Xarrell NPMSG00
 Xaubet Xaubet NPCNSP0
 Xaudiera Xaudiera NPCNSP0
 Xauen Xauen NPCSG00
+Xavi Xavi NPMSSP0
 Xavier Xavier NPCSG00
 Xavier Xavier NPMSSP0
 Xaviers Xavier NPMPSP0
@@ -22261,6 +22304,7 @@ Zamora Zamora NPFSG00
 Zamoyski Zamoyski NPCNSP0
 Zanzíbar Zanzíbar NPCSG00
 Zapatero Zapatero NPCNSP0
+Zaplana Zaplana NPCNSP0
 Zaporojie Zaporojie NPCSG00
 Zapporižž'a Zapporižž'a NPCSG00
 Zaqueu Zaqueu NPMSSP0
@@ -22363,6 +22407,7 @@ ex-Iugoslàvia ex-Iugoslàvia NPFSG00
 ex-URSS ex-URSS NPFSG00
 iPad iPad NPMNO00
 iPhone iPhone NPMNO00
+iPod iPod NPMNO00
 iTunes iTunes NPMNO00
 uTorrent uTorrent NPCNO00
 Àccium Àccium NPCSG00

@@ -6451,6 +6451,7 @@ autopoliploide=categories: M;fonts: LT;
 autopoliploïdia=categories: F;fonts: LT;
 autopol·linització=categories: F;fonts: LT;
 autoproclamació=categories: F;fonts: LT;
+autopromoció=categories: F;fonts: derivat;
 autopropulsió=categories: F;fonts: LT;
 autopropulsor=categories: M;fonts: LT;
 autoprotecció=categories: F;fonts: LT;
