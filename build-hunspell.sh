@@ -32,6 +32,10 @@ do
     echo "Fent exclusions"
     perl $dir_programes/fes-exclusions.pl $dir_dades/exclusions.txt $dir_intermedi/$variant.dic $dir_intermedi/$variant-exclusions.dic
 
+    # Copia informacio de copyright
+    cp $dir_dades/copyright.txt $dir_intermedi
+    sed -i -r 's/^(.*)$/# \1/' $dir_intermedi/copyright.txt
+
     cd $dir_intermedi
     export LC_ALL=C && sort -u $variant-exclusions.dic -o $variant.dic
     sed '/^$/d' -i $variant.dic
@@ -39,7 +43,7 @@ do
     cat linies.txt $variant.dic > tmp.dic
     rm $variant.dic
     mv tmp.dic $variant.dic
-    cat header.aff afixos-no-verbs.aff model_cantar_sense_apostrofacio.aff modelsverbals.aff > $variant.aff
+    cat copyright.txt header.aff afixos-no-verbs.aff model_cantar_sense_apostrofacio.aff modelsverbals.aff > $variant.aff
     cd -
     #Converteix a terminacions DOS
     sed -i 's/$/\r/' $dir_intermedi/$variant.dic
