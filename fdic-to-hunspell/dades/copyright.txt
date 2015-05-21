@@ -1,0 +1,36 @@
+=======================================================================================
+                             Corrector ortogràfic català
+                         Fitxer d'afixos i llista de paraules
+=======================================================================================
+                               Versió 3.0.0 (21/5/2015)
+=======================================================================================
+Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
+Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+02111-1307, USA.
+=======================================================================================
+Fonts: Diccionari de l'Institut d'Estudis Catalans, primera edició (1996)
+       Diccionari de l'Institut d'Estudis Catalans, segona edició (2007)
+       Diccionari Català/Castellà - Castellà/Català, de Francesc de B. Moll
+       Diccionari d'Ispell, d'Ignasi Labastida
+       Recull de gentilicis, de M.M. Ramon i C. Rigo
+       Diccionari Ortogràfic i de Pronúncia del Valencià (AVL)
+       Diccionari Normatiu Valencià (AVL)
+       ésAdir (Corporació Catalana de Mitjans Audiovisuals)
+       Termcat
+Amb aportacions de: Miquel Font, Francesc Xavier Moratinos, Jordi Mas, Jordi Mallach,
+                    Joan Montané, Pere Farrando
+=======================================================================================
