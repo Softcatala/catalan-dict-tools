@@ -13611,7 +13611,7 @@ Montverd Montverd NPCNSP0
 Montélimar Montélimar NPCSG00
 Montíver Montíver NPCSG00
 Monza Monza NPCSG00
-Monzó Monzó NPCNSP00
+Monzó Monzó NPCNSP0
 Monòver Monòver NPCSG00
 Moodle Moodle NPMNO00
 Moore Moore NPCNSP0
