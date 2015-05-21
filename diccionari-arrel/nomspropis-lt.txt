@@ -3461,6 +3461,7 @@ Blida Blida NPCSG00
 Bloemfontein Bloemfontein NPCSG00
 Blois Blois NPCSG00
 Blondel Blondel NPCNSP0
+Bloomberg Bloomberg NPCNSP0
 Bluetooth Bluetooth NPMNO00
 Blàzquez Blàzquez NPCNSP0
 Bo Bo NPCNSP0
@@ -10883,6 +10884,7 @@ Kingston Kingston NPCSG00
 Kingstown Kingstown NPCSG00
 Kinshasa Kinshasa NPCSG00
 Kintyre Kintyre NPCSG00
+Kirchner Kirchner NPCNSP0
 Kirguizistan Kirguizistan NPMSG00
 Kiribati Kiribati NPMSG00
 Kiritimati Kiritimati NPCSG00
@@ -14163,6 +14165,7 @@ Newark Newark NPCSG00
 Newcastle Newcastle NPCSG00
 Newham Newham NPCSG00
 Newport Newport NPCSG00
+Newsweek Newsweek NPCSO00
 Newtownabbey Newtownabbey NPCSG00
 Neyagawa Neyagawa NPCSG00
 Neòfit Neòfit NPMSSP0
@@ -19331,6 +19334,7 @@ Spitzbergen Spitzbergen NPFNG00
 Split Split NPCSG00
 Spokane Spokane NPCSG00
 Spoleto Spoleto NPCSG00
+Spotify Spotify NPMSO00
 Spratly Spratly NPFPG00
 Spree Spree NPCSG00
 Springfield Springfield NPCSG00
