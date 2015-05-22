@@ -3153,6 +3153,7 @@ desestibar=categories: V;model:cantar;fonts:LT
 desestimar=categories: V;model:cantar;fonts:LT
 desestorar=categories: V;model:cantar;fonts:LT
 desestovar=categories: V;model:cantar;fonts:LT
+desestressar=categories: V;model:entravessar;fonts: derivat;
 desestructurar=categories: V;model:cantar;fonts:LT
 deseuropeïtzar=categories: V;model:cantar;fonts:LT
 desfaenar=categories: V;model:ordenar;fonts:LT
