@@ -7138,6 +7138,7 @@ Encesa Encesa NPCNSP0
 Encontrella Encontrella NPCSG00
 Enees Enees NPMPSP0
 Enees Enees NPMSSP0
+Eneida Eneida NPFSO00
 Enewetak Enewetak NPCSG00
 Enfield Enfield NPCSG00
 Enfruns Enfruns NPCNSP0
@@ -15735,6 +15736,7 @@ Pinet Pinet NPCNSP0
 Pinet Pinet NPCSG00
 Pinetell Pinetell NPCNSP0
 Piniello Piniello NPCSG00
+Pinochet Pinochet NPCNSP0
 Pinos Pinos NPCSG00
 Pinosa Pinosa NPCNSP0
 Pinsk Pinsk NPCSG00
