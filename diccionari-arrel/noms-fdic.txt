@@ -18228,6 +18228,7 @@ decilitre=categories: M;fonts: LT;
 decimador=categories: M;fonts: LT;
 decimal=categories: M;fonts: LT;
 decisió=categories: F;fonts: LT;
+codecisió=categories: F;fonts: termcat;
 decisor decisora=categories: MF;fonts: LT;
 declamació=categories: F;fonts: LT;
 declamador=categories: M;fonts: LT;

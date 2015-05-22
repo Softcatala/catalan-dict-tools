@@ -15332,6 +15332,7 @@ Pedrinyà Pedrinyà NPCNSP0
 Pedrinyà Pedrinyà NPCSG00
 Pedrissa Pedrissa NPCNSP0
 Pedrol Pedrol NPCNSP0
+Oltra Oltra NPCNSP0
 Pedrola Pedrola NPCNSP0
 Pedrolo Pedrolo NPCNSP0
 Pedrís Pedrís NPCSG00

@@ -15911,6 +15911,7 @@ multipala=categories: AI;fonts: LT;
 multiparamètric multiparamètrica=categories: A;fonts: LT;
 multipart=categories: AI;fonts: LT;
 multipartit multipartida=categories: A;fonts: LT;
+multipartidista=categories: A;fonts: viquipedia;
 multipista=categories: AI;fonts: LT;
 multiplataforma=categories: AI; fonts: termcat;
 multiplexable=categories: A; fonts: softcatala;
