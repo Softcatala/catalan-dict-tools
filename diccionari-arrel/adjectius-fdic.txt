@@ -3098,6 +3098,7 @@ basardós basardosa=categories: A;fonts: LT;
 basc basca=categories: A;fonts: LT;
 bascarenc bascarenca=categories: A;fonts: LT;
 bascofrancès bascofrancesa=categories: A;fonts: LT;
+basconavarrès basconavarresa=categories: A;fonts: dfrequencies;
 basculador basculadora=categories: A;fonts: LT;
 basculant=categories: A;fonts: LT;
 bascós bascosa=categories: A;fonts: LT;

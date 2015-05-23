@@ -53383,6 +53383,7 @@ reobertura=categories: F;fonts: LT;
 reocupació=categories: F;fonts: LT;
 reologia=categories: F;fonts: LT;
 reometria=categories: F;fonts: LT;
+reompliment=categories: M;fonts: derivat;
 reordenació=categories: F;fonts: LT;
 reordenador=categories: M;fonts: LT;
 reordenadora=categories: F;fonts: LT;
