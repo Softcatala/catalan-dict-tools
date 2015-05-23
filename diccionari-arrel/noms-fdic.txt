@@ -54379,6 +54379,7 @@ roglada=categories: F;fonts: LT;
 roglaner roglanera=categories: MF;fonts: LT;
 rogle=categories: M;fonts: LT;
 roglet=categories: M;fonts: LT;
+rohingya=categories: MF;fonts: esadir;
 roig=categories: M;fonts: LT;
 roina=categories: F;fonts: LT;
 roja=categories: F;fonts: LT;
