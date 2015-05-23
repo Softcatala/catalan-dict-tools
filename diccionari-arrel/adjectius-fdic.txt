@@ -13726,6 +13726,7 @@ kimmeridgià kimmeridgiana=categories: A;fonts: LT;
 kinderscoutià kinderscoutiana=categories: A;fonts: LT;
 kiowa=categories: A;fonts: LT;
 kiptxak=categories: A;fonts: LT;
+kirchnerista=categories: A;fonts: esadir;
 kirguís=categories: AI;fonts: LT;
 kitsch=categories: AI;fonts: LT;
 komi=categories: A;fonts: LT;

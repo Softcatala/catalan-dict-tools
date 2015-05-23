@@ -1502,6 +1502,7 @@ Antonijoan Antonijoan NPCNSP0
 Antonina Antonina NPFSSP0
 Antonines Antonina NPFPSP0
 Antonins Antoní NPMPSP0
+Antonio Antonio NPMSSP0
 Antonis Antoni NPMPSP0
 Antony Antony NPCSG00
 Antoní Antoní NPMSSP0
@@ -7697,6 +7698,7 @@ Eşfahān Eşfahān NPCSG00
 Ešnunna Ešnunna NPCSG00
 FAI FAI NPFSO00
 FAO FAO NPFSO00
+FARC FARC NPFPO00
 FBI FBI NPMSO00
 FIAT FIAT NPFSO00
 FMI FMI NPMSO00
@@ -10586,6 +10588,7 @@ Josuè Josuè NPMSSP0
 Josuès Josuè NPMPSP0
 Josué Josuè NPMSSP0
 Josués Josuè NPMPSP0
+José José NPMSSP0
 Jou Jou NPCNSP0
 Jou Jou NPCSG00
 Joux-Plane Joux-Plane NPCSG00
@@ -11280,6 +11283,7 @@ LibreCAD LibreCAD NPCNO00
 LibreOffice LibreOffice NPMSO00
 Libreville Libreville NPCSG00
 Libèria Libèria NPFSG00
+Libération Libération NPMSO00
 Licabet Licabet NPCSG00
 Licata Licata NPCSG00
 Licini Licini NPMSSP0
@@ -15333,6 +15337,7 @@ Pedret Pedret NPCSG00
 Pedrinyà Pedrinyà NPCNSP0
 Pedrinyà Pedrinyà NPCSG00
 Pedrissa Pedrissa NPCNSP0
+Pedro Pedro NPMSSP0
 Pedrol Pedrol NPCNSP0
 Pedrola Pedrola NPCNSP0
 Pedrolo Pedrolo NPCNSP0
