@@ -1,9 +1,9 @@
 _______________________________________________________________________________
 
 	DICCIONARI DE PARTICIÓ DE MOTS
-	versió 1.0
+	versió 1.3
 
-	Copyright (C) 2013 Jaume Ortolà <jaumeortola@gmail.com> --- Riurau Editors 
+	Copyright (C) 2013-2015 Jaume Ortolà <jaumeortola@gmail.com> --- Riurau Editors 
 	
 	Llicència (a la vostra elecció):
 		LGPL v. 3.0 o superior --  http://www.gnu.org/licenses/lgpl-3.0.html
