@@ -1,0 +1,6 @@
+APP_NAME=ca-valencia##DEV##.##VERSION##
+CLEAN_UP=1
+ROOT_FILES="dictionaries.xcu description.xml ca.aff ca.dic LICENSES-en.txt LLICENCIES-ca.txt package-description.txt SV-logo.png"
+ROOT_DIRS="META-INF"
+BEFORE_BUILD=
+AFTER_BUILD=

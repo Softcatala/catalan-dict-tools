@@ -1,0 +1,2 @@
+LLICÈNCIES:
+Corrector ortogràfic: LGPL, GPL
