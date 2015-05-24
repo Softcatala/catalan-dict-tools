@@ -7853,6 +7853,8 @@ Febrònies Febrònia NPFPSP0
 Febró Febró NPFSG00
 Fedavella Fedavella NPCNSP0
 Fedelic Fedelic NPCNSP0
+Fedora Fedora NPCNO00
+Fedora Fedora NPFSSP0
 Fedra Fedra NPFSSP0
 Feiner Feiner NPCNSP0
 Feixa Feixa NPCNSP0
@@ -11284,7 +11286,7 @@ LibreCAD LibreCAD NPCNO00
 LibreOffice LibreOffice NPMSO00
 Libreville Libreville NPCSG00
 Libèria Libèria NPFSG00
-Libération Libération NPMSO00
+Libération Libération NPCSO00
 Licabet Licabet NPCSG00
 Licata Licata NPCSG00
 Licini Licini NPMSSP0
@@ -20803,6 +20805,7 @@ Uberaba Uberaba NPCSG00
 Uberlândia Uberlândia NPCSG00
 Ubiergo Ubiergo NPCSG00
 Ubrique Ubrique NPCSG00
+Ubuntu Ubuntu NPMNO00
 Ucayali Ucayali NPCSG00
 Uckermark Uckermark NPCSG00
 Ucraïna Ucraïna NPFSG00
