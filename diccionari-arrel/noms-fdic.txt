@@ -52345,6 +52345,7 @@ realgar=categories: M;fonts: LT;
 realimentació=categories: F;fonts: LT;
 realineament=categories: M;fonts: LT;
 realisme=categories: M;fonts: LT;
+antirealisme=categories: M;fonts: derivat;
 realista=categories: MF;fonts: LT;
 realitat=categories: F;fonts: LT;
 realitzable=categories: M;fonts: LT;
