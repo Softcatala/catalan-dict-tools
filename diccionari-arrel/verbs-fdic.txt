@@ -8464,6 +8464,7 @@ reimprimir=categories: V;model:imprimir;fonts:LT
 reinaugurar=categories: V;model:cantar;fonts:LT
 reincidir=categories: V;model:servir;fonts:LT
 reincorporar=categories: V;model:cantar;fonts:LT
+reindexar=categories: V;model:cantar;fonts: softcatala;
 reindustrialitzar=categories: V;model:cantar;fonts:LT
 reinflar=categories: V;model:cantar;fonts:LT
 reingressar=categories: V;model:entravessar;fonts:LT

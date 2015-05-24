@@ -15938,6 +15938,7 @@ multisectorial=categories: A;fonts: LT;
 multisecular=categories: A;fonts: LT;
 multiseptat multiseptada=categories: A;fonts: LT;
 multiservei=categories: AI;fonts: LT;
+multisessió=categories: AI; fonts: softcatala;
 multisistèmic multisistèmica=categories: A;fonts: LT;
 multitubular=categories: A;fonts: LT;
 multitudinari multitudinària=categories: A;fonts: LT;
