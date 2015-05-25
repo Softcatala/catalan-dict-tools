@@ -22094,6 +22094,7 @@ subornador subornadora=categories: A;fonts: LT;
 subpermanent=categories: A;fonts: LT;
 subpolar=categories: A;fonts: LT;
 subratllable=categories: A;fonts: LT;
+subratllador -a=categories: A;fonts: derivat;
 subreptici subreptícia=categories: A;fonts: LT;
 subreptiu subreptiva=categories: A;fonts: LT;
 subrogatori subrogatòria=categories: A;fonts: LT;

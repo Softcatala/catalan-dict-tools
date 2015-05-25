@@ -17127,6 +17127,7 @@ Renom Renom NPCNSP0
 Renovell Renovell NPCNSP0
 Rentería Rentería NPCSG00
 Renània Renània NPFSG00
+René René NPMSSP0
 Reparat Reparat NPCNSP0
 Replana Replana NPFSG00
 Repsol Repsol NPCNO00
@@ -21727,6 +21728,7 @@ Vilosiu Vilosiu NPCSG00
 Vilves Vilves NPCSG00
 Vim Vim NPCNSP0
 Vimbodí Vimbodí NPCSG00
+Vimeo Vimeo NPMSO00
 Vimercate Vimercate NPCSG00
 Vimpeli Vimpeli NPCSG00
 Vinader Vinader NPCNSP0
@@ -21831,6 +21833,7 @@ Vitebsk Vitebsk NPCSG00
 Viterbo Viterbo NPCSG00
 Vitez Vitez NPCSG00
 Vitim Vitim NPCSG00
+Vitruvi Vitruvi NPMSSP0
 Vitry-sur-Seine Vitry-sur-Seine NPCSG00
 Vitré Vitré NPCSG00
 Vitròlas Vitròlas NPCSG00
