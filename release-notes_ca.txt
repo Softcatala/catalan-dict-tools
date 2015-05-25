@@ -1,0 +1,62 @@
+Versió 3.0.0 (25/05/2015)
+Nova versió principal. Continguts unificats dels diccionaris anteriors
+Hunspell i LanguageTool. 
+
+Versió 2.5.0 (15/02/2013) 
+Afegides i corregides entrades diverses
+
+Versió 2.4.0 (17/06/2012) 
+Afegides entrades que mancaven del DIEC2 (http://dlc.iec.cat/)
+Informació extra al fitxer .aff, per funcionar correctament en mode shell
+
+Versió 2.3.0 (30/12/2011) 
+Afegides entrades recollides de fonts diverses
+Aplicades correccions i propostes del wiki de SC
+
+Versió 2.2.0 (13/01/2010) 
+Afegides entrades recollides del Diccionari ortogràfic i de pronunciació del valencià (AVL)
+Afegides entrades recollides de fonts diverses
+Aplicades correccions i propostes del wiki de SC
+
+Versió 2.1.6 (06/10/2009) 
+Moltes paraules invariables (sg=pl) eren tractades com si fossin variables (detectat per Joan Montané)
+
+Versió 2.1.5 (27/06/2009) 
+Algunes correccions a les regles
+Generació d'un fitxer "oficial" d'aspell
+
+Versió 2.1.4 (11/03/2009) 
+Algunes correccions i addicions
+Correccions: bytes, malveure
+
+Versió 2.1.3 (02/03/2009) 
+Generació de fitxers per a aspell
+
+Versió 2.1.2 (27/10/2008) 
+Informació per a actualització remota
+
+Versió 2.1.1 (19/10/2008) 
+Addicions valencianes i correccions d'errors
+
+Versió 2.1.0 (03/06/2008) 
+Creada versió per a AVL
+Noves entrades procedents del diccionari AVL
+
+Versió 2.0.0 (14/07/2007) 
+Afegides les entrades del DIEC 2
+Correcció en regles i en moltes entrades
+Afegits topònims i altres paraules
+
+Versió 1.0.3 (16/10/2006) 
+Afegits gentilicis valencians
+
+Versió 1.0.2 (29/09/2006) 
+Afegides combinacions valencianes de pronoms personals
+
+Versió 1.0.1 (19/09/2006) 
+Afegides paraules que faltaven
+
+Versió 1.0.0 (10/10/2002) 
+Primera versió: DIEC 1, topònims, noms propis
+
+English translation

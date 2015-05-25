@@ -1,0 +1,59 @@
+Version 3.0.0 (25/05/2015)
+New major version. Unified contents from previous Hunspell 
+and LanguageTool dictionaries.
+
+Version 2.5.0 (15/02/2013) 
+Added and corrected several entries
+
+Version 2.4.0 (17/06/2012) 
+Added missing entries from DIEC2 (http://dlc.iec.cat/)
+Extra information in .aff file, to enable correct working in shell mode
+
+Version 2.3.0 (30/12/2011) 
+Added entries from several sources
+Applied some corrections and proposals from SoftCatala wiki
+
+Version 2.2.0 (13/01/2010) 
+Added entries collected by Valencian Academy of Language (AVL)
+Added entries from several sources
+Applied some corrections and proposals from SoftCatala wiki
+
+Version 2.1.6 (06/10/2009) 
+Several invariable words (sg=pl) were treated as variable (reported by Joan Montané)
+
+Version 2.1.5 (27/06/2009) 
+Some corrections in the rules
+Generate an "official" dictionary file for aspell
+
+Version 2.1.4 (11/03/2009) 
+Some corrections and additions
+Corrections: bytes, malveure
+
+Version 2.1.3 (02/03/2009) 
+Generate files for aspell
+Version 2.1.2 (27/10/2008) 
+Information for remote update
+
+Version 2.1.1 (19/10/2008) 
+Valencian additions and correction of mistakes
+
+Version 2.1.0 (03/06/2008) 
+Created Valencian specific version
+New entries from AVL dictionary
+
+Version 2.0.0 (14/07/2007) 
+Added the entries from the DIEC 2
+Correction in rules and several entries
+Added names of places and other words
+
+Version 1.0.3 (16/10/2006) 
+Added names of Valencian places
+
+Version 1.0.2 (29/09/2006) 
+Added Valencian combinations of personal pronouns
+
+Version 1.0.1 (19/09/2006) 
+Added missing words
+
+Version 1.0.0 (10/10/2002) 
+First version: DIEC 1, names of places, person names
