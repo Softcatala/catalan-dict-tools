@@ -5,4 +5,7 @@ morfologik-lt/*.txt
 ngrams/*.txt
 ngrams/database*
 *.dict
+resultats/release
+*.oxt
+*.xpi
 #*

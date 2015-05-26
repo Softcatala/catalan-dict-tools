@@ -35510,6 +35510,7 @@ jovenesa=categories: F;fonts: LT;
 jovenot -a=categories: MF; fonts: Jane;
 jovent=categories: M;fonts: LT;
 joventut=categories: F;fonts: LT;
+jovenàs jovenassa=categories: MF;fonts: DCVB;
 jovença=categories: F;fonts: LT;
 jovençana=categories: F;fonts: LT;
 jovençol jovençola=categories: MF;fonts: LT;
