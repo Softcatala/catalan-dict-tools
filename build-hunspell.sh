@@ -5,6 +5,19 @@ dir_intermedi="$dir_programes/intermedi"
 dir_arrel="diccionari-arrel"
 dir_resultat="resultats/hunspell"
 
+VERSION="9.9.9"
+MYDATE=$(date "+%d-%m-%Y")
+
+while getopts "v:" opt; do
+    case "$opt" in
+    v)  VERSION=$OPTARG;
+        ;;
+    esac
+done
+
+echo $VERSION
+
+
 cd diccionari-arrel
 ./sort-all.sh
 cd ..
@@ -35,6 +48,9 @@ do
     # Copia informacio de copyright
     cp $dir_dades/copyright.txt $dir_intermedi
     sed -i -r 's/^(.*)$/# \1/' $dir_intermedi/copyright.txt
+
+    sed -i -e s/\#\#VERSION\#\#/$VERSION/ $dir_intermedi/copyright.txt
+    sed -i -e s/\#\#DATE\#\#/$MYDATE/ $dir_intermedi/copyright.txt
 
     cd $dir_intermedi
     export LC_ALL=C && sort -u $variant-exclusions.dic -o $variant.dic

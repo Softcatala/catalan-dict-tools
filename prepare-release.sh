@@ -1,4 +1,5 @@
 VERSION="9.9.9"
+DATE=$(date "+%d/%m/%Y")
 
 while getopts "v:" opt; do
     case "$opt" in
@@ -7,10 +8,12 @@ while getopts "v:" opt; do
     esac
 done
 
+echo $VERSION
+
 ./build-lt.sh
-./build-hunspell.sh
-./build-oxt-all.sh -p -v '$VERSION'
-./build-xpi-all.sh -p -v '$VERSION' 
+./build-hunspell.sh -v "$VERSION" 
+./build-oxt-all.sh -p -v "$VERSION"
+./build-xpi-all.sh -p -v "$VERSION"
 
 mkdir resultats/release
 rm -rf resultats/release/*

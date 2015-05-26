@@ -2,7 +2,7 @@
                              Corrector ortogràfic català
                          Fitxer d'afixos i llista de paraules
 =======================================================================================
-                               Versió 3.0.0 (21/5/2015)
+                               Versió ##VERSION## (##DATE##)
 =======================================================================================
 Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
 Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
