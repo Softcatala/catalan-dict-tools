@@ -9085,6 +9085,7 @@ Gimbeu Gimbeu NPCNSP0
 Gimenells Gimenells NPCSG00
 Gimferrer Gimferrer NPCNSP0
 Gimfreu Gimfreu NPCNSP0
+Gimnèsies Gimnèsies NPFPG00
 Gimpere Gimpere NPCNSP0
 Giménez Giménez NPCNSP0
 Gimó Gimó NPCNSP0
