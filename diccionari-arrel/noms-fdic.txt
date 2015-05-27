@@ -64653,6 +64653,7 @@ wau=categories: M;fonts: LT;
 wavel·lita=categories: F;fonts: LT;
 wealdià=categories: MS;fonts: LT;
 web=categories: MF;fonts: LT;
+webcam=categories: F;fonts: viquipedia;
 weber=categories: M;fonts: LT;
 weigèlia=categories: F;fonts: LT;
 welwitsquiàcia=categories: F;fonts: LT;

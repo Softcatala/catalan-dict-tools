@@ -126,9 +126,11 @@ Aciscles Aciscle NPMPSP0
 Aconcagua Aconcagua NPCSG00
 Acre Acre NPCSG00
 Acri Acri NPCSG00
+Acrobat Acrobat NPMSO00
 Acurci Acurci NPMSSP0
 Acurcis Acurci NPMPSP0
 Acàdia Acàdia NPFSG00
+AdWords AdWords NPMSO00
 Ada Ada NPFSSP0
 Adabald Adabald NPMSSP0
 Adabalds Adabald NPMPSP0
@@ -270,6 +272,7 @@ Agatònica Agatònica NPFSSP0
 Agatòniques Agatònica NPFPSP0
 Agató Agató NPMSSP0
 Agaña Agaña NPCSG00
+Agbar Agbar NPFSO00
 Agboville Agboville NPCSG00
 Agde Agde NPCSG00
 Age Age NPCSG00
@@ -419,6 +422,7 @@ Airasses Airasses NPFPG00
 Airbus Airbus NPMNO00
 Airelles Airelles NPFPG00
 Airolo Airolo NPCSG00
+Airways Airways NPCNO00
 Aisne Aisne NPCSG00
 Aitana Aitana NPFSG00
 Aiter Aiter NPCNSP0
@@ -485,6 +489,7 @@ Al-Ḥasā Al-Ḥasā NPCSG00
 Al-Ḥiǧāz Al-Ḥiǧāz NPCSG00
 Al-Ḥudayda Al-Ḥudayda NPCSG00
 Ala Ala NPCNSP0
+Alabajos Alabajos NPCNSP0
 Alabal Alabal NPCNSP0
 Alabama Alabama NPCSG00
 Alabart Alabart NPCNSP0
@@ -3324,6 +3329,7 @@ Bibils Bibils NPCSG00
 Bibioj Bibioj NPCSG00
 Biblos Biblos NPCSG00
 Bibracte Bibracte NPCSG00
+Bicing Bicing NPMSO00
 Bicol Bicol NPCSG00
 Bicorb Bicorb NPCSG00
 Bidell Bidell NPCNSP0
@@ -3954,6 +3960,7 @@ Brosquil Brosquil NPMSG00
 Brossosa Brossosa NPCNSP0
 Brotons Brotons NPCNSP0
 Brotó Brotó NPCNSP0
+Brown Brown NPCNSP0
 Bru Bru NPCNSP0
 Bruac Bruac NPCNSP0
 Bruay-la-Buissière Bruay-la-Buissière NPCSG00
@@ -5565,6 +5572,7 @@ Climent Climent NPCNSP0
 Climent Climent NPMSSP0
 Climents Climent NPMPSP0
 Climenç Climenç NPCSG00
+Clinton Clinton NPCNSP0
 Clitemnestra Clitemnestra NPFSSP0
 Clodoald Clodoald NPMSSP0
 Clodoalds Clodoald NPMPSP0
@@ -5798,6 +5806,7 @@ Compàs Compàs NPMSG00
 Comte Comte NPCNSP0
 Comí Comí NPCNSP0
 Conakry Conakry NPCSG00
+Conan Conan NPMSSP0
 Conangle Conangle NPCSG00
 Conat Conat NPCSG00
 Conca Conca NPCNSP0
@@ -5952,6 +5961,7 @@ Corral Corral NPCNSP0
 Corredor Corredor NPCNSP0
 Correggio Correggio NPCSG00
 Corregó Corregó NPCSG00
+Correllengua Correllengua NPMSO00
 Correntilla Correntilla NPFSG00
 Corresa Corresa NPCSG00
 Corretger Corretger NPCNSP0
@@ -6410,6 +6420,7 @@ Damians Damià NPMPSP0
 Damiata Damiata NPCSG00
 Damià Damià NPCNSP0
 Damià Damià NPMSSP0
+Damm Damm NPFNO00
 Dammarie-les-Lys Dammarie-les-Lys NPCSG00
 Danakil Danakil NPCSG00
 Danané Danané NPCSG00
@@ -7138,6 +7149,7 @@ Encarnació Encarnació NPMSSP0
 Encebres Encebres NPFPG00
 Encesa Encesa NPCNSP0
 Encontrella Encontrella NPCSG00
+Endesa Endesa NPFSO00
 Enees Enees NPMPSP0
 Enees Enees NPMSSP0
 Eneida Eneida NPFSO00
@@ -7851,6 +7863,7 @@ Febrer Febrer NPCNSP0
 Febrònia Febrònia NPFSSP0
 Febrònies Febrònia NPFPSP0
 Febró Febró NPFSG00
+Fecsa Fecsa NPFSO00
 Fedavella Fedavella NPCNSP0
 Fedelic Fedelic NPCNSP0
 Fedora Fedora NPCNO00
@@ -8410,6 +8423,7 @@ Franquesa Franquesa NPCNSP0
 Franquet Franquet NPCNSP0
 Franquès Franquès NPCNSP0
 França França NPFSG00
+François François NPMSSP0
 Françoy Françoy NPCNSP0
 Frare Frare NPCNSP0
 Frascati Frascati NPCSG00
@@ -9819,6 +9833,7 @@ Havel Havel NPCSG00
 Havre Havre NPCSG00
 Hawaii Hawaii NPFPG00
 Haydn Haydn NPCNSP0
+Hayek Hayek NPCNSP0
 Heard Heard NPMSG00
 Heathrow Heathrow NPCSG00
 Hebe Hebe NPMSSP0
@@ -9936,6 +9951,7 @@ Hespèrides Hespèrides NPFPSP0
 Hesse Hesse NPMSG00
 Hessen Hessen NPCSG00
 Hesíode Hesíode NPMSSP0
+Hewlett Hewlett NPCNSP0
 Hewlett-Packard Hewlett-Packard NPCNO00
 Hhohho Hhohho NPCSG00
 Hialeah Hialeah NPCSG00
@@ -9966,6 +9982,7 @@ Hilden Hilden NPCSG00
 Hildes Hilda NPFPSP0
 Hildesheim Hildesheim NPCSG00
 Hilla Hilla NPCSG00
+Hillary Hillary NPCNSP0
 Hillingdon Hillingdon NPCSG00
 Hiltruda Hiltruda NPFSSP0
 Hiltrudes Hiltruda NPFPSP0
@@ -10191,6 +10208,7 @@ Icària Icària NPCSG00
 Ida Ida NPFSSP0
 Idaho Idaho NPCSG00
 Ides Ida NPFPSP0
+Idescat Idescat NPMSO00
 Idoberga Idoberga NPFSSP0
 Idobergues Idoberga NPFPSP0
 Idumea Idumea NPFSG00
@@ -10407,6 +10425,7 @@ Ix Ix NPCNSP0
 Ix Ix NPCSG00
 Izoard Izoard NPCSG00
 Iàtova Iàtova NPFSG00
+Iñaki Iñaki NPMSSP0
 Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
 Iževsk Iževsk NPCSG00
@@ -10427,6 +10446,7 @@ Jacobina Jacobina NPFSSP0
 Jacobines Jacobina NPFPSP0
 Jacobs Jacob NPMPSP0
 Jacomet Jacomet NPCNSP0
+Jacques Jacques NPMSSP0
 Jaffa Jaffa NPCSG00
 Jaffna Jaffna NPCSG00
 Jafre Jafre NPCNSP0
@@ -10563,6 +10583,7 @@ Jonqueres Jonqueres NPCNSP0
 Jonquerol Jonquerol NPCNSP0
 Jonàs Jonàs NPMPSP0
 Jonàs Jonàs NPMSSP0
+Joomla Joomla NPMSO00
 Joplin Joplin NPCSG00
 Jorba Jorba NPCNSP0
 Jorba Jorba NPFSG00
@@ -11904,6 +11925,7 @@ Madern Madern NPCNSP0
 Madison Madison NPCSG00
 Madiun Madiun NPCSG00
 Madonie Madonie NPCSG00
+Madonna Madonna NPFSSP0
 Madremany Madremany NPCNSP0
 Madremanya Madremanya NPFSG00
 Madrenes Madrenes NPCNSP0
@@ -13891,6 +13913,7 @@ Muñoz Muñoz NPCNSP0
 Mwanza Mwanza NPCSG00
 Mweru Mweru NPCSG00
 MySQL MySQL NPCNO00
+MySpace MySpace NPMSO00
 Myanmar Myanmar NPCSG00
 Mykolajiv Mykolajiv NPCSG00
 Mysore Mysore NPCSG00
@@ -14685,6 +14708,7 @@ OpenOffice OpenOffice NPMSO00
 Opole Opole NPCSG00
 Optat Optat NPMSSP0
 Optats Optat NPMPSP0
+Optimot Optimot NPMSO00
 Or'ol Or'ol NPCSG00
 Orada Orada NPCSG00
 Oradea Oradea NPCSG00
@@ -14943,6 +14967,7 @@ Pachino Pachino NPCSG00
 Pachuca Pachuca NPCSG00
 Pacians Pacià NPMPSP0
 Pacià Pacià NPMSSP0
+Packard Packard NPCNSP0
 Pacomi Pacomi NPMSSP0
 Pacomis Pacomi NPMPSP0
 Pacs Pacs NPCNSP0
@@ -20462,6 +20487,7 @@ Tourcoing Tourcoing NPCSG00
 Tourmalet Tourmalet NPMSG00
 Tournai Tournai NPCSG00
 Tournus Tournus NPCSG00
+Tours Tour NPMPO00
 Tours Tours NPCSG00
 Tous Tous NPCNSP0
 Tous Tous NPCSG00
@@ -21409,6 +21435,7 @@ Vic Vic NPCNSP0
 Vic Vic NPCSG00
 Vicari Vicari NPCNSP0
 Vicatell Vicatell NPCNSP0
+Viccionari Viccionari NPMSO00
 Vicent Vicent NPMSSP0
 Vicenta Vicent NPFSSP0
 Vicents Vicent NPMPSP0
@@ -21785,7 +21812,9 @@ Violants Violant NPFPSP0
 Violeta Violeta NPFSSP0
 Violetes Violeta NPFPSP0
 Viquer Viquer NPCNSP0
+Viquillibres Viquillibres NPMNO00
 Viquipèdia Viquipèdia NPFSO00
+Viquitexts Viquitexts NPMNO00
 Vira Vira NPCNSP0
 Viran Viran NPCSG00
 Virgili Virgili NPCNSP0
@@ -22432,6 +22461,7 @@ iPad iPad NPMNO00
 iPhone iPhone NPMNO00
 iPod iPod NPMNO00
 iTunes iTunes NPMNO00
+phpBB phpBB NPMSO00
 uTorrent uTorrent NPCNO00
 Àccium Àccium NPCSG00
 Àfars Àfars NPMPG00
