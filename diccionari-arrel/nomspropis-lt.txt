@@ -1196,6 +1196,7 @@ Amasya Amasya NPCSG00
 Amat Amat NPCNSP0
 Amat Amat NPMSSP0
 Amats Amat NPMPSP0
+Amazon Amazon NPCSO00
 Amazones Amazones NPMSG00
 Amazònia Amazònia NPCSG00
 Ambato Ambato NPCSG00

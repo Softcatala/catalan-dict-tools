@@ -6280,6 +6280,7 @@ geminar=categories: V;model:abominar;fonts:LT
 gemir=categories: V;model:servir;fonts:LT
 generalitzar=categories: V;model:cantar;fonts:LT
 generar=categories: V;model:cantar;fonts:LT
+gentrificar=categories: V;model:trencar;fonts: termcat;
 geomatitzar=categories: V;model:cantar;fonts:LT
 germanitzar=categories: V;model:cantar;fonts:LT
 germinar=categories: V;model:abominar;fonts:LT
