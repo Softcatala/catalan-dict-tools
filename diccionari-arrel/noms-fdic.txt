@@ -40,6 +40,7 @@ Paràclit=categories: M;fonts: LT;
 Pasqua=categories: F;fonts: LT;
 Pasqüetes=categories: FP;fonts: LT;
 Pentecosta=categories: F;fonts: LT;
+RP=categories: FP;fonts: termcat;
 SMS=categories: MI;fonts: LT;
 Sir=categories: MS;fonts: esadir,Viquipèdia;
 TAE=categories: FI;fonts: LT;
