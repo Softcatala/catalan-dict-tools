@@ -2026,6 +2026,7 @@ Asp Asp NPCSG00
 Aspa Aspa NPCSG00
 Aspasi Aspasi NPMSSP0
 Aspasis Aspasi NPMPSP0
+Asperger Asperger NPCNSP0
 Aspin Aspin NPMSG00
 Asprella Asprella NPCSG00
 Asprer Asprer NPCNSP0
