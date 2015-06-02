@@ -7905,6 +7905,7 @@ preparar=categories: V;model:cantar;fonts:LT
 preponderar=categories: V;model:cantar;fonts:LT
 preposar=categories: V;model:anquilosar;fonts:LT
 preposterar=categories: V;model:cantar;fonts:LT
+preprogramar=categories: V;model:cantar;fonts: derivat;
 presagiar=categories: V;model:crear;fonts:LT
 prescindir=categories: V;model:servir;fonts:LT
 prescriure=categories: V;model:adscriure;fonts:LT
