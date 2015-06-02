@@ -9,6 +9,7 @@ CEIP=categories: MI;fonts: termcat;
 CIF=categories: MI;fonts: LT;
 CMOS=categories: MI;fonts: termcat;
 CPU=categories: FI;fonts: LT;
+frontofocòmetre=categories: M;fonts: termcat;
 Cinquagesma=categories: F;fonts: LT;
 Contrareforma=categories: F;fonts: LT;
 DJ=categories: MFI;fonts: LT;
