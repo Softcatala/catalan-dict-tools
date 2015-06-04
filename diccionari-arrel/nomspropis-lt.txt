@@ -22265,6 +22265,7 @@ Xodos Xodos NPCSG00
 Xoriguer Xoriguer NPCNSP0
 Xoriguera Xoriguera NPCNSP0
 Xoriguera Xoriguera NPCSG00
+Xoà Xoà NPFSO00
 Xuanhua Xuanhua NPCSG00
 Xubet Xubet NPCNSP0
 Xulilla Xulilla NPFSG00
