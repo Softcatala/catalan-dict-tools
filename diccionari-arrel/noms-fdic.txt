@@ -2197,6 +2197,7 @@ alexandrita=categories: F;fonts: LT;
 alexandrí=categories: M;fonts: LT;
 alexifàrmac=categories: M;fonts: LT;
 alexina=categories: F;fonts: LT;
+alexitímia=categories: F;fonts: termcat;
 alfa=categories: F;fonts: LT;
 alfabeguer=categories: M;fonts: LT;
 alfabeguera=categories: F;fonts: LT;

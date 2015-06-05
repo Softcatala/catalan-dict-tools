@@ -15306,6 +15306,7 @@ micronesi micronèsia=categories: A;fonts: LT;
 microporós -osa=categories: A;fonts: LT;
 microprogramat microprogramada=categories: A;fonts: LT;
 microquímic microquímica=categories: A;fonts: LT;
+microregional=categories: A;fonts: derivat;
 microscòpic microscòpica=categories: A;fonts: LT;
 microsperm microsperma=categories: A;fonts: LT;
 microstil microstila=categories: A;fonts: LT;
