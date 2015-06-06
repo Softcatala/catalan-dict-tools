@@ -20980,6 +20980,7 @@ dromedari=categories: M;fonts: LT;
 dromiceid=categories: M;fonts: LT;
 dromomania=categories: F;fonts: LT;
 dromos=categories: MI;fonts: LT;
+dron=categories: M;fonts: esadir;
 dropa=categories: F;fonts: LT;
 dropatge=categories: M;fonts: LT;
 droperia=categories: F;fonts: LT;
