@@ -5568,6 +5568,7 @@ Clermont-Tonnerre Clermont-Tonnerre NPCNSP0
 Clervaux Clervaux NPCSG00
 Clerà Clerà NPCSG00
 Cleveland Cleveland NPCSG00
+Cleòpatra Cleòpatra NPFSSP0
 Cliceri Cliceri NPMSSP0
 Cliceris Cliceri NPMPSP0
 Clichy Clichy NPCSG00
@@ -15960,6 +15961,7 @@ Pol Pol NPCNSP0
 Pola Pola NPCNSP0
 Pola Pola NPFSG00
 Polalbert Polalbert NPCNSP0
+Polaroid Polaroid NPCNO00
 Pole Pole NPCNSP0
 Policarp Policarp NPMSSP0
 Policarps Policarp NPMPSP0
