@@ -10936,6 +10936,7 @@ Kitakyūshū Kitakyūshū NPCSG00
 Kitchener Kitchener NPCSG00
 Kitwe Kitwe NPCSG00
 Kitzbühel Kitzbühel NPCSG00
+Kizil Kizil NPCSG00
 Kladno Kladno NPCSG00
 Klagenfurt Klagenfurt NPCSG00
 Klaipeda Klaipeda NPCSG00
@@ -20752,6 +20753,7 @@ Tutuila Tutuila NPCSG00
 Tutupaca Tutupaca NPCSG00
 Tutzó Tutzó NPCNSP0
 Tuvalu Tuvalu NPCSG00
+Tuvà Tuvà NPCSG00
 Tuzla Tuzla NPCSG00
 Tuébols Tuébols NPCNSP0
 Tuïr Tuïr NPCSG00
