@@ -4388,6 +4388,7 @@ encordonar=categories: V;model:cantar;fonts:LT
 encorfar=categories: V;model:cantar;fonts:LT
 encornar=categories: V;model:cantar;fonts:LT
 encorralar=categories: V;model:cantar;fonts:LT
+encorsetar=categories: V;model:cantar;fonts: AVL;
 encortar=categories: V;model:cantar;fonts:LT
 encortinar=categories: V;model:abominar;fonts:LT
 encossiar=categories: V;model:crear;fonts:LT

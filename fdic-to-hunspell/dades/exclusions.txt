@@ -116,6 +116,7 @@ barco
 bovo
 cego
 cércol
+corset
 creuament
 decepcionant
 decepcionar
@@ -125,6 +126,7 @@ despedir
 desperdici
 desperdici
 disfrutar
+encorsetar
 esta
 este
 estéreo
