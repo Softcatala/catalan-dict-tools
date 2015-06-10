@@ -59508,6 +59508,7 @@ tecnicisme=categories: M;fonts: LT;
 tecnicitat=categories: F;fonts: LT;
 tecnicolor=categories: M;fonts: LT;
 tecnificació=categories: F;fonts: LT;
+tecnociència=categories: F;fonts: viquipedia;
 tecnocràcia=categories: F;fonts: LT;
 tecnoestructura=categories: F;fonts: LT;
 tecnografia=categories: F;fonts: LT;

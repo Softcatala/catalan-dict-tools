@@ -2182,6 +2182,7 @@ Ausió Ausió NPCNSP0
 Ausona Ausona NPFSG00
 Auspici Auspici NPMSSP0
 Auspicis Auspici NPMPSP0
+Austerlitz Austerlitz NPCSG00
 Austin Austin NPCSG00
 Austrell Austrell NPCNSP0
 Austràlia Austràlia NPFSG00
