@@ -12871,6 +12871,7 @@ iniciador iniciadora=categories: A;fonts: LT;
 inicial=categories: A;fonts: LT;
 iniciatiu iniciativa=categories: A;fonts: LT;
 iniciàtic iniciàtica=categories: A;fonts: LT;
+inidoni inidònia=categories: A;fonts: termcat;
 inigualable=categories: A;fonts: LT;
 inigualat inigualada=categories: A;fonts: LT;
 inimaginable=categories: A;fonts: LT;

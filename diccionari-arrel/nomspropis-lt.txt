@@ -1,4 +1,3 @@
-Colau Colau NPCNSP0
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 AVE AVE NPMNO00
@@ -5666,6 +5665,7 @@ Coix Coix NPCSG00
 Coixós Coixós NPCSG00
 Colata Colata NPCSG00
 Colatxoa Colatxoa NPCSG00
+Colau Colau NPCNSP0
 Colchester Colchester NPCSG00
 Colera Colera NPCNSP0
 Coleraine Coleraine NPCSG00
