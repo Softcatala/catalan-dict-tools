@@ -6507,6 +6507,7 @@ autoservici=categories: M;fonts: LT;
 autosimilitud=categories: F;fonts: LT;
 autosincronitzador=categories: M;fonts: LT;
 autosoma=categories: M;fonts: LT;
+autosostenibilitat=categories: F;fonts: derivat;
 autosuccessió=categories: F;fonts: LT;
 autosuficiència=categories: F;fonts: LT;
 autosuggestió=categories: F;fonts: LT;
