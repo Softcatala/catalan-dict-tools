@@ -22630,6 +22630,7 @@ teclós teclosa=categories: A;fonts: LT;
 tecnocientífic -a=categories: A; fonts: termcat;
 tecnocràtic tecnocràtica=categories: A;fonts: LT;
 tecnològic tecnològica=categories: A;fonts: LT;
+tecnòfob tecnòfoba=categories: A;fonts: derivat;
 tecodont tecodonta=categories: A;fonts: LT;
 tectibranqui tectibrànquia=categories: A;fonts: LT;
 tector tectriu=categories: A;fonts: LT;

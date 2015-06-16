@@ -59519,6 +59519,7 @@ tecnificació=categories: F;fonts: LT;
 tecnociència=categories: F;fonts: viquipedia;
 tecnocràcia=categories: F;fonts: LT;
 tecnoestructura=categories: F;fonts: LT;
+tecnofòbia=categories: F;fonts: derivat;
 tecnografia=categories: F;fonts: LT;
 tecnologia=categories: F;fonts: LT;
 tecnígraf=categories: M;fonts: LT;
