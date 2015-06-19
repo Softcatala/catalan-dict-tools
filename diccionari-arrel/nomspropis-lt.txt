@@ -7642,6 +7642,7 @@ Eurocambra Eurocambra NPFSO00
 Eurogrup Eurogrup NPMSO00
 Eurolliga Eurolliga NPFSO00
 Eurolligues Eurolliga NPFSO00
+Euromed Euromed NPMNO00
 Europa Europa NPFSG00
 Eurostat Eurostat NPFSO00
 Eurovisió Eurovisió NPFSO00
@@ -10194,6 +10195,7 @@ IEC IEC NPMSO00
 IJssel IJssel NPCSG00
 ISBN ISBN NPMNO00
 ISSN ISSN NPMNO00
+IVAM IVAM NPMSO00
 Ialta Ialta NPCSG00
 Iammo Iammo NPCSG00
 Iang-Tsé Iang-Tsé NPCSG00
@@ -15748,6 +15750,7 @@ Pilar Pilar NPMSSP0
 Pilars Pilar NPFPSP0
 Pilars Pilar NPMPSP0
 Pilat Pilat NPCNSP0
+Pilates Pilates NPMSO00
 Pilcomayo Pilcomayo NPCSG00
 Piles Piles NPCNSP0
 Piles Piles NPFPG00
