@@ -19148,6 +19148,7 @@ Slesvig-Holstein Slesvig-Holstein NPCSG00
 Slideshare Slideshare NPMSO00
 Sligeach Sligeach NPCSG00
 Sliven Sliven NPCSG00
+Sloterdijk Sloterdijk NPCNSP0
 Slough Slough NPCSG00
 Slov'ans'k Slov'ans'k NPCSG00
 Slupsk Slupsk NPCSG00
@@ -22634,6 +22635,7 @@ uTorrent uTorrent NPCNO00
 Železnodorožnyj Železnodorožnyj NPCSG00
 Žerotína Žerotína NPCNSP0
 Žilina Žilina NPCSG00
+Žižek Žižek NPCNSP0
 Žytomyr Žytomyr NPCSG00
 Ǧidda Ǧidda NPCSG00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
