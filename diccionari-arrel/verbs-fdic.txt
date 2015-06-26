@@ -8179,6 +8179,7 @@ reaprendre=categories: V;model:ofendre;fonts:LT
 reaprofitar=categories: V;model:cantar;fonts:LT
 rearmar=categories: V;model:cantar;fonts:LT
 rearpar=categories: V;model:cantar;fonts:LT
+rearticular=categories: V;model:cantar;fonts: derivat;
 reassegurar=categories: V;model:cantar;fonts:LT
 reassignar=categories: V;model:cantar;fonts:LT
 reassumir=categories: V;model:servir;fonts:LT
