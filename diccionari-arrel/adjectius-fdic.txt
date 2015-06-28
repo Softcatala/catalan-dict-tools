@@ -13988,6 +13988,7 @@ lexemàtic lexemàtica=categories: A;fonts: LT;
 lexical=categories: A;fonts: LT;
 lexicogràfic lexicogràfica=categories: A;fonts: LT;
 lexicològic lexicològica=categories: A;fonts: LT;
+lexicosemàntic lexicosemàntica=categories: A;fonts: derivat;
 lianoide=categories: A;fonts: LT;
 libanès libanesa=categories: A;fonts: LT;
 liberal=categories: A;fonts: LT;
