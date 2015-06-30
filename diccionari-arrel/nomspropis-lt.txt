@@ -13885,6 +13885,7 @@ Murcurols Murcurols NPCSG00
 Mureş Mureş NPCSG00
 Murgab Murgab NPCSG00
 Muriac Muriac NPCNSP0
+Muriel Muriel NPFSSP0
 Murià Murià NPCNSP0
 Murla Murla NPFSG00
 Murmansk Murmansk NPCSG00
