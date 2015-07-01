@@ -1,3 +1,8 @@
+Version 3.0.1 (01/07/2015)
+
+Set dual license LGPL v2.1 and GPL v2.
+Some additions and corrections.
+
 Version 3.0.0 (25/05/2015)
 New major version. Unified contents from previous Hunspell 
 and LanguageTool dictionaries.
