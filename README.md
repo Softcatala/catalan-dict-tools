@@ -46,4 +46,10 @@ Genera una llista de totes les paraules possibles, incloent-hi apostrofació i p
 ### Per fer
 * En el diccionari arrel marcar les fonts d'origen de cada paraula. Això servirà per a comprovar la correcció de les dades.
 
+# LICENSE
+
+This project and the whole dictionaries derived from it are lincensed under a 
+dual license LGPL v2.1 and GPL v2. See the files lgpl-2.1.txt and gpl-2.0.txt.
+
+
 
