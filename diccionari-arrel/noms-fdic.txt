@@ -30374,6 +30374,7 @@ geodímetre=categories: M;fonts: LT;
 geoelectricitat=categories: F;fonts: LT;
 geoelement=categories: M;fonts: LT;
 geoenginyeria=categories: F;fonts: LT;
+geoestratègia=categories: F;fonts: termcat;
 geofàgia=categories: F;fonts: LT;
 geofísic=categories: M;fonts: LT;
 geofísica=categories: F;fonts: LT;
