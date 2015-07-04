@@ -2207,6 +2207,7 @@ critiquejar=categories: V;model:envejar;fonts:LT
 crivellar=categories: V;model:cantar;fonts:LT
 cromar=categories: V;model:cantar;fonts:LT
 cromatar=categories: V;model:cantar;fonts:LT
+cronificar=categories: V;model:trencar;fonts: esadir;
 cronometrar=categories: V;model:cantar;fonts:LT
 croquisar=categories: V;model:abalisar;fonts:LT
 crucificar=categories: V;model:trencar;fonts:LT

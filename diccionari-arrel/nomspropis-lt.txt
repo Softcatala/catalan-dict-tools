@@ -5314,6 +5314,7 @@ Chantada Chantada NPCSG00
 Chantilly Chantilly NPCSG00
 Chaoyang Chaoyang NPCSG00
 Chapala Chapala NPCSG00
+Chaplin Chaplin NPCNSP0
 Chapra Chapra NPCSG00
 Chapultepec Chapultepec NPCSG00
 Charente Charente NPCSG00
