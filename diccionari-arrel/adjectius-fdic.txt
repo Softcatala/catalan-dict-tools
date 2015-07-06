@@ -22948,6 +22948,7 @@ teulader teuladera=categories: A;fonts: LT;
 teutònic teutònica=categories: A;fonts: LT;
 teutó teutona=categories: A;fonts: LT;
 textual=categories: A;fonts: LT;
+texturitzant=categories: A; fonts: termcat;
 texturitzant=categories: A;fonts: LT;
 texà texana=categories: A;fonts: LT;
 teàndric teàndrica=categories: A;fonts: LT;

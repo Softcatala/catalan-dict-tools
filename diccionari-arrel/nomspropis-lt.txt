@@ -10206,6 +10206,8 @@ Ibagué Ibagué NPCSG00
 Ibarretxe Ibarretxe NPCNSP0
 Ibercom Ibercom NPCNO00
 Iberoamèrica Iberoamèrica NPFSG00
+Ibex Ibex NPMSO00
+Ibex-35 Ibex-35 NPMSO00
 Ibi Ibi NPCSG00
 Iborra Iborra NPCNSP0
 Ibrahim Ibrahim NPMSSP0

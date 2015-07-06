@@ -9428,6 +9428,7 @@ testimoniejar=categories: V;model:envejar;fonts:LT
 tetanitzar=categories: V;model:cantar;fonts:LT
 teular=categories: V;model:cantar;fonts:LT
 texturar=categories: V;model:cantar;fonts:LT
+texturitzar=categories: V;model:cantar;fonts:LT
 tibar=categories: V;model:cantar;fonts:LT
 tifejar=categories: V;model:envejar;fonts:LT
 timbalejar=categories: V;model:envejar;fonts:LT
