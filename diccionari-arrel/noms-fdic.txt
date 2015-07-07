@@ -88,6 +88,7 @@ abandonista=categories: MF;fonts: LT;
 abandó=categories: M;fonts: LT;
 abaratiment=categories: M;fonts: LT;
 abarognòsia=categories: F;fonts: LT;
+tomatina=categories: F;fonts: AVL;
 abarrancament=categories: M;fonts: LT;
 abarrocament=categories: M;fonts: LT;
 abarset=categories: M;fonts: LT;
