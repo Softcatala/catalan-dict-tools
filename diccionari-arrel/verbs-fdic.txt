@@ -8822,6 +8822,7 @@ rinxolar=categories: V;model:cantar;fonts:LT
 riquerar=categories: V;model:cantar;fonts:LT
 rissar=categories: V;model:bressar;fonts:LT
 ritmar=categories: V;model:cantar;fonts:LT
+ritualitzar=categories: V;model:cantar;fonts: derivat;
 riure=categories: V;model:riure;fonts:LT
 rivalitzar=categories: V;model:cantar;fonts:LT
 rivetar=categories: V;model:cantar;fonts:LT

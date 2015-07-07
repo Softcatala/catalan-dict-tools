@@ -4515,6 +4515,7 @@ Campot Campot NPMSG00
 Camppol Camppol NPCNSP0
 Campreciós Campreciós NPCNSP0
 Campreciós Campreciós NPCSG00
+Campredó Campredó NPCSG00
 Camprodon Camprodon NPCNSP0
 Camprodon Camprodon NPCSG00
 Camprubí Camprubí NPCNSP0
@@ -6752,7 +6753,6 @@ Dolors Dolors NPCNSP0
 Dolç Dolç NPCNSP0
 Dolça Dolça NPFSSP0
 Dombes Dombes NPCSG00
-Domenec Domenec NPCNSP0
 Domenge Domenge NPCNSP0
 Domenges Domenges NPMPG00
 Domenjó Domenjó NPCNSP0
@@ -6966,6 +6966,7 @@ Ebola Ebola NPCSG00
 Ebre Ebre NPCSG00
 Ecbàtana Ecbàtana NPCSG00
 Echternach Echternach NPCSG00
+Eckermann Eckermann NPCNSP0
 Ede Ede NPCSG00
 Edelmira Edelmira NPFSSP0
 Edelmires Edelmira NPFPSP0
@@ -8787,6 +8788,7 @@ Gargallà Gargallà NPCSG00
 Gargano Gargano NPCSG00
 Garganta Garganta NPCNSP0
 Garganter Garganter NPCNSP0
+Gargantua Gargantua NPMSSP0
 Garges-lès-Gonesse Garges-lès-Gonesse NPCSG00
 Garibaldi Garibaldi NPCNSP0
 Garibaldi Garibaldi NPCSG00
@@ -10205,6 +10207,7 @@ Ibadan Ibadan NPCSG00
 Ibagué Ibagué NPCSG00
 Ibarretxe Ibarretxe NPCNSP0
 Ibercom Ibercom NPCNO00
+Iberdrola Iberdrola NPFSO00
 Iberoamèrica Iberoamèrica NPFSG00
 Ibex Ibex NPMSO00
 Ibex-35 Ibex-35 NPMSO00
@@ -10882,6 +10885,7 @@ Kerkrade Kerkrade NPCSG00
 Kermadec Kermadec NPFPG00
 Kermanshah Kermanshah NPCSG00
 Kertx Kertx NPCSG00
+Kertész Kertész NPCNSP0
 Kerulen Kerulen NPCSG00
 Keynes Keynes NPCNSP0
 Khabarovsk Khabarovsk NPCSG00
@@ -15169,6 +15173,7 @@ Pannònia Pannònia NPFSG00
 Pano Pano NPCSG00
 Panoràmix Panoràmix NPMSSP0
 Panosa Panosa NPCNSP0
+Pantagruel Pantagruel NPMSSP0
 Pantaleons Pantaleó NPMPSP0
 Pantaleu Pantaleu NPCSG00
 Pantaleó Pantaleó NPMSSP0
@@ -15645,6 +15650,7 @@ Peshāwar Peshāwar NPCSG00
 Pesilhan Pesilhan NPCSG00
 Pesillà Pesillà NPCSG00
 Pessac Pessac NPCSG00
+Pessoa Pessoa NPCNSP0
 Pessonada Pessonada NPCSG00
 Pestell Pestell NPCNSP0
 Petare Petare NPCSG00
@@ -17977,7 +17983,6 @@ Saifores Saifores NPCSG00
 Saig Saig NPCSG00
 Saigon Saigon NPCSG00
 Saimaa Saimaa NPCSG00
-Saint Saint NPCSG00
 Saint-Acheul Saint-Acheul NPCSG00
 Saint-Amand-Montrond Saint-Amand-Montrond NPCSG00
 Saint-Avold Saint-Avold NPCSG00
