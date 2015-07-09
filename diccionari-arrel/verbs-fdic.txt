@@ -8359,6 +8359,7 @@ reemigrar=categories: V;model:cantar;fonts:LT
 reemmarcar=categories: V;model:trencar;fonts:LT
 reemplaçar=categories: V;model:començar;fonts:LT
 reemprar=categories: V;model:cantar;fonts:LT
+reenamorar=categories: V;model:cantar;fonts: derivat;
 reencaixar=categories: V;model:cantar;fonts: derivat;
 reencaminar=categories: V;model:abominar;fonts:LT
 reencarnar=categories: V;model:cantar;fonts:LT
