@@ -3473,6 +3473,7 @@ desprestigiar=categories: V;model:crear;fonts:LT
 desprisar=categories: V;model:abalisar;fonts:LT
 desprogramar=categories: V;model:cantar;fonts:LT
 desproporcionar=categories: V;model:cantar;fonts:LT
+desprotegir=categories: V;model:servir;fonts: derivat;
 desproveir=categories: V;model:traduir;fonts:LT
 despullar=categories: V;model:cantar;fonts:LT
 despumar=categories: V;model:cantar;fonts:LT
