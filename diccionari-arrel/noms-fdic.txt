@@ -53141,6 +53141,7 @@ regomello=categories: M;fonts: LT;
 regor=categories: F;fonts: LT;
 regosòl=categories: M;fonts: LT;
 regraciament=categories: M;fonts: LT;
+regressivitat=categories: F;fonts: derivat;
 regressió=categories: F;fonts: LT;
 regruix=categories: M;fonts: LT;
 regruixadora=categories: F;fonts: LT;

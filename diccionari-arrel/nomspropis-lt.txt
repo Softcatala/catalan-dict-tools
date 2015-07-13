@@ -3492,6 +3492,7 @@ Bobo-Dioulasso Bobo-Dioulasso NPCSG00
 Bobrujsk Bobrujsk NPCSG00
 Bocabella Bocabella NPCNSP0
 Bocairent Bocairent NPCSG00
+Boccaccio Boccaccio NPCNSP0
 Bocchorum Bocchorum NPCSG00
 Bochum Bochum NPCSG00
 Bodemon Bodemon NPCNSP0
