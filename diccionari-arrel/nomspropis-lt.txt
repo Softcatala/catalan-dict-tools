@@ -15240,6 +15240,7 @@ Parestortes Parestortes NPCSG00
 Paretdelgada Paretdelgada NPCSG00
 Pareto Pareto NPCNSP0
 Parets Parets NPCNSP0
+Paris Paris NPMSSP0
 Parla Parla NPCSG00
 Parlader Parlader NPCNSP0
 Parlarís Parlarís NPCNSP0

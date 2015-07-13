@@ -2588,6 +2588,7 @@ descabellar=categories: V;model:cantar;fonts:LT
 descabotar=categories: V;model:cantar;fonts:LT
 descafeïnar=categories: V;model:cantar;fonts:LT
 descalcificar=categories: V;model:trencar;fonts:LT
+descalibrar=categories: V;model:cantar;fonts: enricvalor;
 descalçar=categories: V;model:començar;fonts:LT
 descambuixar=categories: V;model:cantar;fonts:LT
 descaminar=categories: V;model:abominar;fonts:LT
