@@ -58062,6 +58062,7 @@ subarrendament=categories: M;fonts: LT;
 subarrendatari subarrendatària=categories: MF;fonts: LT;
 subassociació=categories: F;fonts: LT;
 subbanda=categories: F;fonts: LT;
+subbase=categories: F;fonts: termcat;
 subbrigadier=categories: M;fonts: LT;
 subcadena=categories: F;fonts: derivat;
 subcamp=categories: M;fonts: derivat;
