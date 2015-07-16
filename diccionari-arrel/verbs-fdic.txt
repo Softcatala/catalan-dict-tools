@@ -5760,6 +5760,7 @@ estudiar=categories: V;model:crear;fonts:LT
 estufar=categories: V;model:cantar;fonts:LT
 estufir=categories: V;model:servir;fonts:LT
 estufornar=categories: V;model:cantar;fonts:LT
+estupiditzar=categories: V;model:cantar;fonts: derivat;
 estuprar=categories: V;model:cantar;fonts:LT
 estòrcer=categories: V;model:tòrcer;fonts:LT
 esvair=categories: V;model:traduir;fonts:LT
