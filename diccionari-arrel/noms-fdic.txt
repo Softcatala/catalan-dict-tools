@@ -46159,6 +46159,7 @@ passacamins=categories: MI;fonts: LT;
 passacarrer=categories: M;fonts: LT;
 passacavall=categories: M;fonts: LT;
 passacintes=categories: MI;fonts: LT;
+passació=categories: F;fonts: termcat;
 passacorreu=categories: M;fonts: LT;
 passada=categories: F;fonts: LT;
 passador=categories: M;fonts: LT;
