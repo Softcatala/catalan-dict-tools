@@ -12,13 +12,13 @@ El diccionari arrel (en el directori "diccionari-arrel") conté les dades bàsiq
 #### Scripts
 ##### build-hunspell.sh
 
-Construeix diccionaris Hunspell en variant general i valenciana a partir del diccionari arrel. 
+Genera diccionaris Hunspell en variant general i valenciana a partir del diccionari arrel. 
 
 En el fitxer fdic-to-hunspell/dades/exclusions.txt s'indiquen formes i lemes que han de ser exclosos dels diccionaris Hunspell per diferents motius. 
 
 ##### build-lt.sh
 
-Construeix el diccionari amb etiquetatge gramatical per al corrector Languagetool. 
+Genera el diccionari amb etiquetatge gramatical per al corrector Languagetool. 
 
 ##### make-test-lt-fdic.sh
 
