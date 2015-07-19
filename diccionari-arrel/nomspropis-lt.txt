@@ -17997,6 +17997,7 @@ Saint-Cloud Saint-Cloud NPCSG00
 Saint-Denis Saint-Denis NPCSG00
 Saint-Dizier Saint-Dizier NPCSG00
 Saint-Dié Saint-Dié NPCSG00
+Saint-Exupéry Saint-Exupéry NPCNSP0
 Saint-Fargeau Saint-Fargeau NPCSG00
 Saint-Flour Saint-Flour NPCSG00
 Saint-Fons Saint-Fons NPCSG00
@@ -20853,7 +20854,6 @@ UPF UPF NPFSO00
 UPV UPV NPFSO00
 UPVD UPVD NPFSO00
 UPyD UPyD NPFSO00
-URL URL NPFSO00
 URSS URSS NPFSG00
 URV URV NPFSO00
 UV UV NPFSO00
