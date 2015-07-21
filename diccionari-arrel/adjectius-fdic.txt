@@ -390,6 +390,7 @@ acústic acústica=categories: A;fonts: LT;
 adamantí adamantina=categories: A;fonts: LT;
 adamauaubanguià adamauaubanguiana=categories: A;fonts: LT;
 adambulacral=categories: A;fonts: LT;
+adamista=categories: A;fonts: derivat;
 adamític adamítica=categories: A;fonts: LT;
 adaptable=categories: A;fonts: LT;
 adaptador adaptadora=categories: A;fonts: LT;

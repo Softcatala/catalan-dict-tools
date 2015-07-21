@@ -9033,6 +9033,7 @@ setinar=categories: V;model:abominar;fonts:LT
 seure=categories: V;model:asseure;fonts:LT
 sexar=categories: V;model:cantar;fonts:LT
 sextuplicar=categories: V;model:trencar;fonts:LT
+sexualitzar=categories: V;model:cantar;fonts: derivat;
 sigil·lar=categories: V;model:anul·lar;fonts:LT
 signar=categories: V;model:cantar;fonts:LT
 significar=categories: V;model:trencar;fonts:LT

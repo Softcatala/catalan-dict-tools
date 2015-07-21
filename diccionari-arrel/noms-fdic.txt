@@ -56740,6 +56740,7 @@ sextil=categories: M;fonts: LT;
 sextina=categories: F;fonts: LT;
 sextuplicació=categories: F;fonts: LT;
 sexualitat=categories: F;fonts: LT;
+sexualització=categories: F;fonts: derivat;
 sexòleg sexòloga=categories: MF;fonts: LT;
 sfumato=categories: M;fonts: LT;
 shakespeariana=categories: F;fonts: LT;
