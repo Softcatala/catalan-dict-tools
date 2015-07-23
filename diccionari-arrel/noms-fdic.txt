@@ -49688,6 +49688,7 @@ prebostat=categories: M;fonts: LT;
 prebosteria=categories: F;fonts: LT;
 prec=categories: M;fonts: LT;
 precalfament=categories: M;fonts: LT;
+precalibratge=categories: M;fonts: UPC, derivat;
 precambrià=categories: M;fonts: LT;
 precampanya=categories: F;fonts: LT;
 precandidat=categories: M;fonts: LT;

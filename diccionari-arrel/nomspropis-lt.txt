@@ -4137,6 +4137,7 @@ Bush Bush NPCNSP0
 Busiris Busiris NPCSG00
 Busot Busot NPCSG00
 Busquella Busquella NPCNSP0
+Busquets Busquets NPCNSP0
 Butart Butart NPCNSP0
 Butinyà Butinyà NPCNSP0
 Butrot Butrot NPCSG00
