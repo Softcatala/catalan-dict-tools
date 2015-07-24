@@ -6887,6 +6887,7 @@ Dubrovnik Dubrovnik NPCSG00
 Dubà Dubà NPCNSP0
 Duc Duc NPCNSP0
 Duca Duca NPCNSP0
+Ducati Ducati NPCNO00
 Duero Duero NPCSG00
 Duesaigües Duesaigües NPCSG00
 Duisburg Duisburg NPMSG00

@@ -56164,6 +56164,7 @@ selva=categories: F;fonts: LT;
 selèucida=categories: MF;fonts: LT;
 sema1=categories: F;fonts: LT;
 sema2=categories: M;fonts: LT;
+semaforització=categories: F;fonts: derivat;
 semal=categories: F;fonts: LT;
 semala=categories: F;fonts: LT;
 semalada=categories: F;fonts: LT;
