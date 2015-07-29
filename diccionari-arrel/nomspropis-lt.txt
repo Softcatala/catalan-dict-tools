@@ -18771,6 +18771,7 @@ Serov Serov NPCSG00
 Serpa Serpa NPCSG00
 Serpent Serpent NPMSG00
 Serpentari Serpentari NPMSG00
+Serpis Serpis NPCSG00
 Serpukhov Serpukhov NPCSG00
 Serra Serra NPCNSP0
 Serra-sanç Serra-sanç NPCSG00
