@@ -2262,6 +2262,7 @@ Aïnsa Aïnsa NPCSG00
 Aïr Aïr NPCSG00
 Aķtöbe Aķtöbe NPCSG00
 Aškhabad Aškhabad NPCSG00
+BCE BCE NPMSO00
 BMW BMW NPCNO00
 BOE BOE NPMSO00
 BUP BUP NPMSO00
@@ -7651,6 +7652,7 @@ Eurolligues Eurolliga NPFSO00
 Euromed Euromed NPMNO00
 Europa Europa NPFSG00
 Eurostat Eurostat NPFSO00
+Eurotúnel Eurotúnel NPMSO00
 Eurovisió Eurovisió NPFSO00
 Euràsia Euràsia NPCSG00
 Eurídice Eurídice NPFSSP0
