@@ -20695,7 +20695,7 @@ Trèveris Trèveris NPCSG00
 Trémol Trémol NPCNSP0
 Trémols Trémols NPCNSP0
 Tríkala Tríkala NPCSG00
-Trípoli Trípoli NPMSG00
+Trípoli Trípoli NPCSG00
 Tròfim Tròfim NPMSSP0
 Tròfims Tròfim NPMPSP0
 Tróodos Tróodos NPCSG00

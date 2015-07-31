@@ -19452,6 +19452,7 @@ psicoeducatiu psicoeducativa=categories: A;fonts: termcat;
 psicoemocional=categories: A;fonts: LT;
 psicoenergitzant=categories: A;fonts: LT;
 psicoestimulant=categories: A;fonts: LT;
+psicoevolutiu psicoevolutiva=categories: A;fonts: derivat;
 psicofarmacològic psicofarmacològica=categories: A;fonts: LT;
 psicofisiològic psicofisiològica=categories: A;fonts: LT;
 psicofísic psicofísica=categories: A;fonts: LT;
