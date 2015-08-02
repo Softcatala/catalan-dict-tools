@@ -5340,6 +5340,7 @@ escuixolar=categories: V;model:cantar;fonts:LT
 escular=categories: V;model:cantar;fonts:LT
 escullar=categories: V;model:cantar;fonts:LT
 esculpir=categories: V;model:servir;fonts:LT
+esculturar=categories: V;model:cantar;fonts: DCVB, AVL;
 escumar=categories: V;model:cantar;fonts:LT
 escumejar=categories: V;model:envejar;fonts:LT
 escunçar=categories: V;model:començar;fonts:LT
