@@ -21514,7 +21514,6 @@ Vidreres Vidreres NPCSG00
 Vidrà Vidrà NPCSG00
 Vidó Vidó NPCNSP0
 Viedma Viedma NPCSG00
-Vieja Vieja NPFSG00
 Vielha Vielha NPFSG00
 Viella Viella NPCNSP0
 Viella Viella NPFSG00
