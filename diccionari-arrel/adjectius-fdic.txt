@@ -18931,6 +18931,7 @@ preconcebut preconcebuda=categories: A;fonts: LT;
 preconciliar=categories: A;fonts: LT;
 preconitzador preconitzadora=categories: A;fonts: LT;
 preconstitucional=categories: A;fonts: LT;
+preconstituent=categories: A;fonts: derivat;
 preconstituït preconstituïda=categories: A;fonts: derivat;
 precordial=categories: A;fonts: LT;
 precoç=categories: A;fonts: LT;

@@ -46,6 +46,7 @@ Pentecosta=categories: F;fonts: LT;
 RP=categories: FP;fonts: termcat;
 SMS=categories: MI;fonts: LT;
 Sir=categories: MS;fonts: esadir,Viquipèdia;
+Supercopa=categories: F;fonts: esadir;
 TAE=categories: FI;fonts: LT;
 TDAH=categories: MS;fonts: termcat;
 TDT=categories: FI;fonts: LT;
