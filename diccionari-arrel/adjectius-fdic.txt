@@ -9550,6 +9550,7 @@ fabricador fabricadora=categories: A;fonts: LT;
 fabril=categories: A;fonts: LT;
 fabrista=categories: A;fonts: LT;
 fabrià fabriana=categories: A;fonts: LT;
+fabulador fabuladora=categories: A;fonts: AVL;
 fabulós fabulosa=categories: A;fonts: LT;
 facciós facciosa=categories: A;fonts: LT;
 faceciós faceciosa=categories: A;fonts: LT;
