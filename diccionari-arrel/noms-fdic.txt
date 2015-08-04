@@ -23573,6 +23573,7 @@ eritroblast=categories: M;fonts: LT;
 eritroblastosi=categories: F;fonts: LT;
 eritrocitosi=categories: F;fonts: LT;
 eritrodèrmia=categories: F;fonts: LT;
+eritroide=categories: M;fonts: dmedic;
 eritromelàlgia=categories: F;fonts: LT;
 eritromicina=categories: F;fonts: LT;
 eritromèlia=categories: F;fonts: LT;
