@@ -10952,6 +10952,7 @@ Kisangani Kisangani NPCSG00
 Kisel'ovsk Kisel'ovsk NPCSG00
 Kishiwada Kishiwada NPCSG00
 Kitakyūshū Kitakyūshū NPCSG00
+Kitasato Kitasato NPCNSP0
 Kitchener Kitchener NPCSG00
 Kitwe Kitwe NPCSG00
 Kitzbühel Kitzbühel NPCSG00
@@ -15307,6 +15308,7 @@ Passoré Passoré NPCSG00
 Pastaza Pastaza NPCSG00
 Pastells Pastells NPCSG00
 Pasteral Pasteral NPMSG00
+Pasteur Pasteur NPCNSP0
 Pasto Pasto NPCSG00
 Pastor Pastor NPCNSP0
 Pastor Pastor NPMSSP0
