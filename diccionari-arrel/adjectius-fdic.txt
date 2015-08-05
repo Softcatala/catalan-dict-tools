@@ -21905,6 +21905,7 @@ sitgetà sitgetana=categories: A;fonts: LT;
 siti sítia=categories: A;fonts: LT;
 situable=categories: A;fonts: LT;
 situacional=categories: A;fonts: termcat;
+situacionista=categories: A;fonts: derivat;
 siulador siuladora=categories: A;fonts: LT;
 siulaire=categories: A;fonts: LT;
 siuranenc siuranenca=categories: A;fonts: LT;

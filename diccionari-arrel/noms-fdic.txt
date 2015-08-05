@@ -56723,6 +56723,7 @@ setmanal=categories: M;fonts: LT;
 setmanari=categories: M;fonts: LT;
 setmaner=categories: M;fonts: LT;
 setmanera=categories: F;fonts: LT;
+setmaneta=categories: F;fonts: derivat;
 setmania=categories: F;fonts: LT;
 setmesona=categories: F;fonts: LT;
 setmesó=categories: M;fonts: LT;
