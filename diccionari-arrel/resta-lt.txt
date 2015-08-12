@@ -459,6 +459,7 @@ mig mig PI0MS000
 migs mig DI0MP0
 migs mig PI0MP000
 mil mil DN0CP0
+milanta milanta DN0CP0
 min minut Y
 mitges mig DI0FP0
 mitges mig PI0FP000

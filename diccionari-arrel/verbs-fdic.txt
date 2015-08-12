@@ -7881,6 +7881,7 @@ predeterminar=categories: V;model:abominar;fonts:LT
 predicar=categories: V;model:assecar;fonts:LT
 predir=categories: V;model:contradir;fonts:LT
 predisposar=categories: V;model:anquilosar;fonts:LT
+predissenyar=categories: V;model:cantar;fonts: derivat;
 predominar=categories: V;model:abominar;fonts:LT
 preelegir=categories: V;model:servir;fonts:LT
 preescalfar=categories: V;model:cantar;fonts:termcat;
