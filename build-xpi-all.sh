@@ -24,14 +24,13 @@ cd xpi/ca
 
 cp config_build.sh.pre config_build.sh
 cp install.rdf.pre install.rdf
-cp install.js.pre install.js
 
 sed -i -e s/\#\#VERSION\#\#/$VERSION/g config_build.sh
 sed -i -e s/\#\#DEV\#\#/$DEV/g config_build.sh
 
-sed -i -e s/\#\#ID\#\#/$ID/g install.rdf install.js
-sed -i -e s/\#\#TAG\#\#/$TAG/g install.rdf install.js
-sed -i -e s/\#\#VERSION\#\#/$VERSION/g install.rdf install.js
+sed -i -e s/\#\#ID\#\#/$ID/g install.rdf
+sed -i -e s/\#\#TAG\#\#/$TAG/g install.rdf
+sed -i -e s/\#\#VERSION\#\#/$VERSION/g install.rdf
 
 rm -rf dictionaries
 mkdir dictionaries
@@ -39,21 +38,20 @@ cp -rf ../../resultats/hunspell/catalan.aff dictionaries/ca.aff
 cp -rf ../../resultats/hunspell/catalan.dic dictionaries/ca.dic
 ../../build-xpi.sh config_build.sh
 rm -rf dictionaries
-rm -rf install.rdf install.js config_build.sh
+rm -rf install.rdf config_build.sh
 
 # Valencia
 cd ../ca-valencia
 
 cp config_build.sh.pre config_build.sh
 cp install.rdf.pre install.rdf
-cp install.js.pre install.js
 
 sed -i -e s/\#\#VERSION\#\#/$VERSION/g config_build.sh
 sed -i -e s/\#\#DEV\#\#/$DEV/g config_build.sh
 
-sed -i -e s/\#\#ID\#\#/$ID/g install.rdf install.js
-sed -i -e s/\#\#TAG\#\#/$TAG/g install.rdf install.js
-sed -i -e s/\#\#VERSION\#\#/$VERSION/g install.rdf install.js
+sed -i -e s/\#\#ID\#\#/$ID/g install.rdf
+sed -i -e s/\#\#TAG\#\#/$TAG/g install.rdf
+sed -i -e s/\#\#VERSION\#\#/$VERSION/g install.rdf
 
 rm -rf dictionaries
 mkdir dictionaries
@@ -62,5 +60,5 @@ cp -rf ../../resultats/hunspell/catalan-valencia.dic dictionaries/ca-ES-valencia
 ../../build-xpi.sh config_build.sh
 rm -rf dictionaries
 
-rm -rf install.rdf install.js config_build.sh
+rm -rf install.rdf config_build.sh
 
