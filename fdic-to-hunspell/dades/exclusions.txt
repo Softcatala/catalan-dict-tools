@@ -30,6 +30,7 @@ bobo
 carcamal
 carinyós
 col·lar
+conduit
 corresponsable
 corresponsabilitat
 corresponsabilitzar
