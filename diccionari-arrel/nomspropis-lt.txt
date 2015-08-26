@@ -5376,6 +5376,7 @@ Chico Chico NPCSG00
 Chieri Chieri NPCSG00
 Chieti Chieti NPCSG00
 Chihuahua Chihuahua NPFSG00
+Chikungunya Chikungunya NPCNSP0
 Chilecito Chilecito NPCSG00
 Chillán Chillán NPCSG00
 Chiloé Chiloé NPCSG00
@@ -8793,6 +8794,7 @@ Gardella Gardella NPCNSP0
 Gardenyes Gardenyes NPCNSP0
 Gardez Gardez NPCSG00
 Gardilans Gardilans NPCSG00
+Gardner Gardner NPCNSP0
 Gardí Gardí NPCNSP0
 Gardó Gardó NPCNSP0
 Garenne-Colombes Garenne-Colombes NPFSG00
@@ -11062,6 +11064,7 @@ Kutaisi Kutaisi NPCSG00
 Kuwait Kuwait NPMSG00
 Kwangju Kwangju NPCSG00
 Kwara Kwara NPCSG00
+Kwashiorkor Kwashiorkor NPSNSP0
 Kyoto Kyoto NPCSG00
 Kyréneia Kyréneia NPCSG00
 Kyushu Kyushu NPCSG00
@@ -15076,6 +15079,7 @@ Palau-Saverdera Palau-Saverdera NPFSG00
 Palau-Solità Palau-Solità NPCSG00
 Palau-sacosta Palau-sacosta NPCSG00
 Palau-saverdera Palau-saverdera NPCSG00
+Palau-solità Palau-solità NPMSG00
 Palau-surroca Palau-surroca NPCSG00
 Palauborrell Palauborrell NPCSG00
 Palaudàries Palaudàries NPCNSP0
@@ -15579,6 +15583,7 @@ Pereferrer Pereferrer NPCNSP0
 Pereira Pereira NPCSG00
 Perejoan Perejoan NPCNSP0
 Perejordi Perejordi NPCNSP0
+Perellonet Perellonet NPMSG00
 Perelló Perelló NPCNSP0
 Perelló Perelló NPMSG00
 Perellós Perellós NPCNSP0
