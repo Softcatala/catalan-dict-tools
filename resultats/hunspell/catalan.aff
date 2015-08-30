@@ -2,7 +2,7 @@
 #                              Corrector ortogràfic català
 #                          Fitxer d'afixos i llista de paraules
 # =======================================================================================
-#                                Versió 3.0.1 (01-07-2015)
+#                                Versió 9.9.9 (30-08-2015)
 # =======================================================================================
 # Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
 # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
@@ -7879,7 +7879,7 @@ SFX 55 ar en/_C ar
 SFX 55 iar ïn/_C ar
 
 # Model de conjugació: estar
-SFX 56 Y 74
+SFX 56 Y 75
 SFX 56 r r/_v_C_Y ar
 SFX 56 r nt/_C ar
 SFX 56 r t/_v_Y ar
@@ -7949,6 +7949,7 @@ SFX 56 ar à/_C ar
 SFX 56 ar iga/_D ar
 SFX 56 ar igui/_D ar
 SFX 56 ar iguem/_C ar
+SFX 56 ar em/_C ar
 SFX 56 r u/_C ar
 SFX 56 ar eu/_C ar
 SFX 56 ar igueu/_C ar

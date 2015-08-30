@@ -1815,6 +1815,7 @@ Arjó Arjó NPCNSP0
 Arkansas Arkansas NPCSG00
 Arkhànguelsk Arkhànguelsk NPCSG00
 Arles Arles NPCSG00
+Arlet Arlet NPFSSP0
 Arlà Arlà NPCNSP0
 Armadans Armadans NPCNSP0
 Armadà Armadà NPCNSP0
@@ -6735,6 +6736,7 @@ Diyarbakir Diyarbakir NPCSG00
 Diògenes Diògenes NPMPSP0
 Diògenes Diògenes NPMSSP0
 Djibouti Djibouti NPMSG00
+Dmitri Dmitri NPMSSP0
 Dnipropetrovsk Dnipropetrovsk NPCSG00
 Dnièper Dnièper NPCSG00
 Dnièster Dnièster NPCSG00
@@ -7184,6 +7186,7 @@ Enga Enga NPCSG00
 Engel's Engel's NPCSG00
 Engelbert Engelbert NPMSSP0
 Engelberts Engelbert NPMPSP0
+Engels Engels NPCNSP0
 Enghien Enghien NPCNSP0
 Enghien-les-Bains Enghien-les-Bains NPCSG00
 Engiadina Engiadina NPCSG00
@@ -16423,7 +16426,6 @@ Príams Príam NPMPSP0
 Príap Príap NPMSSP0
 Príaps Príap NPMPSP0
 Príncep Príncep NPCNSP0
-Príncipe Príncipe NPCSG00
 Pròcul Pròcul NPMSSP0
 Pròculs Pròcul NPMPSP0
 Pròixida Pròixida NPCNSP0
@@ -19023,7 +19025,6 @@ Siena Siena NPFSG00
 Sieradz Sieradz NPCSG00
 Siero Siero NPCSG00
 Sies Sies NPCSG00
-Siete Siete NPCSG00
 Sifre Sifre NPCNSP0
 Sifre Sifre NPMSSP0
 Sifres Sifre NPMPSP0
@@ -22317,6 +22318,7 @@ Xodos Xodos NPCSG00
 Xoriguer Xoriguer NPCNSP0
 Xoriguera Xoriguera NPCNSP0
 Xoriguera Xoriguera NPCSG00
+Xostakóvitx Xostakóvitx NPCNSP0
 Xoà Xoà NPFSO00
 Xuanhua Xuanhua NPCSG00
 Xubet Xubet NPCNSP0

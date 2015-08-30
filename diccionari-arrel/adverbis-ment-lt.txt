@@ -2131,6 +2131,7 @@ refinadament refinadament RG
 reflexament reflexament RG
 reflexivament reflexivament RG
 regaladament regaladament RG
+regionalment regionalment RG
 regladament regladament RG
 reglamentàriament reglamentàriament RG
 regularment regularment RG
@@ -2467,6 +2468,7 @@ ultracuidadament ultracuidadament RG
 ultratjosament ultratjosament RG
 unidament unidament RG
 uniformement uniformement RG
+unilateralment unilateralment RG
 unipersonalment unipersonalment RG
 universalment universalment RG
 untuosament untuosament RG
