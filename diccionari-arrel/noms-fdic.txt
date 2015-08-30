@@ -52907,6 +52907,7 @@ redingot=categories: M;fonts: LT;
 redirecció=categories: F;fonts: LT;
 redissa=categories: F;fonts: LT;
 redisseny=categories: M;fonts: LT;
+predisseny=categories: M;fonts: derivat;
 redissolució=categories: F;fonts: termcat;
 redistribució=categories: F;fonts: LT;
 redita=categories: F;fonts: LT;
