@@ -19601,6 +19601,7 @@ Sydney Sydney NPCSG00
 Syktyvkar Syktyvkar NPCSG00
 Syracuse Syracuse NPCSG00
 Syrdarja Syrdarja NPCSG00
+Syriza Syriza NPFSO00
 Szczecin Szczecin NPCSG00
 Szeged Szeged NPCSG00
 Szolnok Szolnok NPCSG00
@@ -20722,6 +20723,7 @@ Trøndelag Trøndelag NPCSG00
 Tsaratanana Tsaratanana NPCSG00
 Tsavo Tsavo NPCSG00
 Tshāidam Tshāidam NPCSG00
+Tsipras Tsipras NPCNSP0
 Tskhinvali Tskhinvali NPCSG00
 Tsu Tsu NPCSG00
 Tuamotu Tuamotu NPFPG00
