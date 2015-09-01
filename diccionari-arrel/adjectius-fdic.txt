@@ -16070,6 +16070,7 @@ multiproblemàtic multiproblemàtica=categories: A;fonts: derivat;
 multipunt=categories: AI;fonts: LT;
 multiracial=categories: A;fonts: LT;
 multiradiat multiradiada=categories: A;fonts: LT;
+multiresistent=categories: A;fonts: derivat;
 multirisc=categories: AI;fonts: LT;
 multisectorial=categories: A;fonts: LT;
 multisecular=categories: A;fonts: LT;
