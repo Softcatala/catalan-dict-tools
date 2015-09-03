@@ -29151,6 +29151,7 @@ fresatge=categories: M;fonts: LT;
 fresc=categories: M;fonts: LT;
 fresca=categories: F;fonts: LT;
 frescor=categories: F;fonts: LT;
+frescoreta=categories: F;fonts: derivat;
 frescum=categories: M;fonts: LT;
 frescumada=categories: F;fonts: LT;
 fressa=categories: F;fonts: LT;

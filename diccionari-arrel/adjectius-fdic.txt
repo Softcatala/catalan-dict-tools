@@ -10883,6 +10883,7 @@ gibós gibosa=categories: A;fonts: LT;
 gihadista=categories: A;fonts: LT;
 gileter giletera=categories: A;fonts: LT;
 giletà giletana=categories: A;fonts: LT;
+gimferrerià gimferreriana=categories: A;fonts: derivat;
 gimnobranqui=categories: A;fonts: LT;
 gimnocàrpic gimnocàrpica=categories: A;fonts: LT;
 gimnosperm gimnosperma=categories: A;fonts: LT;

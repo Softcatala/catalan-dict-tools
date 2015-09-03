@@ -7543,6 +7543,7 @@ Estella-Lizarra Estella-Lizarra NPCSG00
 Estellencs Estellencs NPCSG00
 Esteller Esteller NPCNSP0
 Estellers Estellers NPCNSP0
+Estellés Estellés NPCNSP0
 Estelric Estelric NPCNSP0
 Estelrich Estelrich NPCNSP0
 Estelí Estelí NPCSG00
