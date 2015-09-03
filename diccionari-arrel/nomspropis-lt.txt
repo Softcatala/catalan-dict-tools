@@ -8829,6 +8829,7 @@ Garreny Garreny NPCNSP0
 Garret Garret NPCNSP0
 Garreta Garreta NPCNSP0
 Garric Garric NPCNSP0
+Garrido Garrido NPCNSP0
 Garriga Garriga NPCNSP0
 Garriga Garriga NPFSG00
 Garrigola Garrigola NPCNSP0
@@ -14213,6 +14214,7 @@ Nereu Nereu NPMSSP0
 Nereus Nereu NPMPSP0
 Nerill Nerill NPCSG00
 Nerja Nerja NPCSG00
+Neruda Neruda NPCNSP0
 Nerva Nerva NPCSG00
 Nespleda Nespleda NPCNSP0
 Nespler Nespler NPCNSP0

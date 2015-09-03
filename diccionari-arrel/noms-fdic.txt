@@ -42833,6 +42833,7 @@ neurocarcinoma=categories: M;fonts: LT;
 neurocirurgia=categories: F;fonts: LT;
 neurocirurgià neurocirurgiana=categories: MF;fonts: LT;
 neurociència=categories: F;fonts: LT;
+neurocomputació=categories: F;fonts: termcat;
 neurocrani=categories: M;fonts: LT;
 neurodermitis=categories: FI;fonts: LT;
 neurodocitis=categories: FI;fonts: LT;
