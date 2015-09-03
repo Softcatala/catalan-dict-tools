@@ -17568,6 +17568,7 @@ Rojals Rojals NPCSG00
 Roland Roland NPMSSP0
 Rolands Roland NPMPSP0
 Roldors Roldors NPCNSP0
+Rolls-Royce Rolls-Royce NPCNO00
 Rom Rom NPCNSP0
 Rom Rom NPMSG00
 Roma Roma NPFSG00
