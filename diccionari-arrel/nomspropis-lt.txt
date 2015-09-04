@@ -6933,6 +6933,8 @@ Dusfort Dusfort NPCSG00
 Dutrem Dutrem NPCNSP0
 Duékoué Duékoué NPCSG00
 Dušanbe Dušanbe NPCSG00
+Dvorák Dvorák NPCNSP0
+Dvořák Dvořák NPCNSP0
 Dyfed Dyfed NPCSG00
 Dzeržinsk Dzeržinsk NPCSG00
 Dzialyn'ski Dzialyn'ski NPCNSP0
@@ -9294,7 +9296,6 @@ Gongola Gongola NPCSG00
 Gonyalons Gonyalons NPCNSP0
 Gonyals Gonyals NPCNSP0
 Gonzaga Gonzaga NPCNSP0
-Gonzàlez Gonzàlez NPCNSP0
 González González NPCNSP0
 Gonçaga Gonçaga NPFSSP0
 Gonçagues Gonçaga NPFPSP0
