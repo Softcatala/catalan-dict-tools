@@ -50680,6 +50680,7 @@ protoevangeli=categories: M;fonts: LT;
 protofil·le=categories: M;fonts: LT;
 protofísic=categories: M;fonts: LT;
 protohistòria=categories: F;fonts: LT;
+protoidentitat=categories: F;fonts: derivat;
 protoindustrialització=categories: F;fonts: LT;
 protollengua=categories: F;fonts: LT;
 protomedicat=categories: M;fonts: LT;

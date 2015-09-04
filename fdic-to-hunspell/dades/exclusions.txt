@@ -71,6 +71,7 @@ rabo
 sen
 tamany
 tuberia
+vesar
 virgueria
 xavacà
 xavacanada
