@@ -19466,6 +19466,7 @@ Stif Stif NPCSG00
 Stockport Stockport NPCSG00
 Stockton-on-Tees Stockton-on-Tees NPCSG00
 Stoke-on-Trent Stoke-on-Trent NPCSG00
+Stonehenge Stonehenge NPMSG00
 Strabane Strabane NPCSG00
 Stradivarius Stradivarius NPCNSP0
 Stralsund Stralsund NPCSG00

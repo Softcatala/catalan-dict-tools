@@ -3032,6 +3032,7 @@ bananer bananera=categories: A; fonts: GDLC, AVL;
 bancari bancària=categories: A;fonts: LT;
 bancassegurador bancasseguradora=categories: A;fonts: termcat;
 bandat bandada=categories: A;fonts: LT;
+bandístic bandística=categories: A;fonts: derivat;
 bantu=categories: A;fonts: LT;
 bantuid bantuida=categories: A;fonts: LT;
 banyabaix banyabaixa=categories: A;fonts: LT;

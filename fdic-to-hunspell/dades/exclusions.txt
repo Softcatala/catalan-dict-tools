@@ -24,6 +24,7 @@ alelat
 alelada
 alfombra
 antepassat
+anulació
 aquestos
 baladí
 bobo
@@ -83,6 +84,7 @@ xivato
 xivatada
 xuleria
 xulo
+xunga
 xulíssim
 
 EXCLOU FORMA DE catalan
