@@ -2139,6 +2139,7 @@ cornejar=categories: V;model:envejar;fonts:LT
 cornuar=categories: V;model:lloar;fonts:LT
 coronar=categories: V;model:cantar;fonts:LT
 corporificar=categories: V;model:trencar;fonts:LT
+corporitzar=categories: V;model:cantar;fonts: derivat;
 corprendre=categories: V;model:ofendre;fonts:LT
 corregir=categories: V;model:servir;fonts:LT
 correlacionar=categories: V;model:cantar;fonts:LT

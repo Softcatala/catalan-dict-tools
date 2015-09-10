@@ -1640,6 +1640,7 @@ Aranyel Aranyel NPCSG00
 Aranyonet Aranyonet NPCSG00
 Aranyó Aranyó NPCNSP0
 Aranyó Aranyó NPCSG00
+Aranzadi Aranzadi NPCNSP0
 Ararat Ararat NPCSG00
 Arasanz Arasanz NPCSG00
 Arassant Arassant NPCSG00
