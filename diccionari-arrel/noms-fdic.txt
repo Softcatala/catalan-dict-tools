@@ -1,3 +1,4 @@
+#aper=categories: M;fonts: GDLC;
 ADN=categories: MI;fonts: LT;
 AMPA=categories: FI;fonts: LT;
 API=categories: FI;fonts: softcatala, viquipedia;
@@ -4431,7 +4432,6 @@ apendicectomia=categories: F;fonts: LT;
 apendicitis=categories: FI;fonts: LT;
 apendicle=categories: M;fonts: LT;
 apendiculària=categories: F;fonts: LT;
-aper=categories: M;fonts: LT;
 apercebiment=categories: M;fonts: LT;
 apercepció=categories: F;fonts: LT;
 aperduament=categories: M;fonts: LT;
