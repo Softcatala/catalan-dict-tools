@@ -57464,6 +57464,7 @@ sobrefil=categories: M;fonts: LT;
 sobrefiladora=categories: F;fonts: LT;
 sobreflor=categories: F;fonts: LT;
 sobrefusió=categories: F;fonts: LT;
+sobregeneralització=categories: F;fonts: derivat;
 sobregoneta=categories: F;fonts: LT;
 sobreguaita=categories: MF;fonts: LT;
 sobreguarda=categories: F;fonts: LT;

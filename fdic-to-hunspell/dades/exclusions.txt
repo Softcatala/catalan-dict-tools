@@ -18,6 +18,7 @@ musics
 musica
 musiques
 aquestos
+retràs
 sen
 transfons
 
