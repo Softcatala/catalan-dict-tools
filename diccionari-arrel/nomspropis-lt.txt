@@ -19810,6 +19810,7 @@ Tanger Tanger NPCSG00
 Tanggu Tanggu NPCSG00
 Tangshan Tangshan NPCSG00
 Tanis Tanis NPCSG00
+Tannhäuser Tannhäuser NPMSSP0
 Tannu-Ola Tannu-Ola NPCSG00
 Tantinyà Tantinyà NPCNSP0
 Tanyà Tanyà NPCNSP0
