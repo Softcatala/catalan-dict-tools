@@ -1594,13 +1594,13 @@ Apúlia Apúlia NPFSG00
 Aqaba Aqaba NPCSG00
 Aquari Aquari NPCSG00
 Aquileia Aquileia NPCSG00
-Aquileu Aquileu NPMSSP0
 Aquileus Aquileu NPMPSP0
 Aquilina Aquilina NPFSSP0
 Aquilines Aquilina NPFPSP0
 Aquilins Aquilí NPMPSP0
 Aquil·les Aquil·les NPMPSP0
 Aquil·les Aquil·les NPMSSP0
+Aquil·leu Aquil·leu NPMSSP0
 Aquilí Aquilí NPMSSP0
 Aquisgrà Aquisgrà NPCSG00
 Aquitània Aquitània NPFSG00
@@ -9804,6 +9804,7 @@ Hachiōji Hachiōji NPCSG00
 Hacilar Hacilar NPCSG00
 Hackney Hackney NPCSG00
 Haddock Haddock NPCNSP0
+Haendel Haendel NPCNSP0
 Hagen Hagen NPCSG00
 Haia Haia NPFSG00
 Haifa Haifa NPCSG00
@@ -9989,6 +9990,7 @@ Hessen Hessen NPCSG00
 Hesíode Hesíode NPMSSP0
 Hewlett Hewlett NPCNSP0
 Hewlett-Packard Hewlett-Packard NPCNO00
+Hezbollah Hezbollah NPFSO00
 Hhohho Hhohho NPCSG00
 Hialeah Hialeah NPCSG00
 Hida Hida NPCSG00
@@ -18052,6 +18054,7 @@ Saint-Pierre-et-Miquelon Saint-Pierre-et-Miquelon NPCSG00
 Saint-Pol-sur-Mer Saint-Pol-sur-Mer NPCSG00
 Saint-Priest Saint-Priest NPCSG00
 Saint-Quentin Saint-Quentin NPCSG00
+Saint-Saëns Saint-Saëns NPCNSP0
 Saint-Simon Saint-Simon NPCNSP0
 Saint-Simon Saint-Simon NPCSG00
 Saint-Étienne Saint-Étienne NPCSG00
