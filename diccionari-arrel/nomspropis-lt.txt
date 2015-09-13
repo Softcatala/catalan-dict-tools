@@ -13946,6 +13946,7 @@ Mussac Mussac NPCNSP0
 Mussara Mussara NPFSG00
 Mussolini Mussolini NPCNSP0
 Mussomeli Mussomeli NPCSG00
+Mussorgski Mussorgski NPCNSP0
 Mussuptà Mussuptà NPCSG00
 Mustafà Mustafà NPMSSP0
 Mustiola Mustiola NPCNSP0
@@ -22620,6 +22621,7 @@ uTorrent uTorrent NPCNO00
 Évreux Évreux NPCNSP0
 Évreux Évreux NPCSG00
 Évry Évry NPCSG00
+Ígor Ígor NPMSSP0
 Ílion Ílion NPFSG00
 Índia Índia NPFSG00
 Índies Índies NPFPG00
