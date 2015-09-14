@@ -3175,6 +3175,7 @@ Bericart Bericart NPCNSP0
 Bering Bering NPMSG00
 Beringola Beringola NPCNSP0
 Berlanga Berlanga NPCNSP0
+Berlioz Berlioz NPCNSP0
 Berlusconi Berlusconi NPCNSP0
 Berlín Berlín NPCSG00
 Bermud Bermud NPMSSP0

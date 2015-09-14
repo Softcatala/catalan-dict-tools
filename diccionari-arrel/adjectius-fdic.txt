@@ -10790,6 +10790,7 @@ genetista=categories: A;fonts: LT;
 genetlíac genetlíaca=categories: A;fonts: LT;
 geneàtic geneàtica=categories: A;fonts: LT;
 genial=categories: A;fonts: LT;
+genialíssim genialíssima=categories: AA;fonts: derivat;
 genicular=categories: A;fonts: LT;
 geniculat geniculada=categories: A;fonts: LT;
 genistoide=categories: A;fonts: LT;

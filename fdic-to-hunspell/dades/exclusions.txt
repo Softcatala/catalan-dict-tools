@@ -8,6 +8,7 @@ coquet
 coqueto
 coquetos
 coquets
+demés
 graben
 inclusive
 nomes
@@ -43,6 +44,7 @@ corresponsabilitzar
 corresponsabilització
 composar
 dematí
+demés
 descerebrat
 descollonar
 despreciable
