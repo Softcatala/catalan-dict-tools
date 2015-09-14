@@ -18153,6 +18153,7 @@ Salguera Salguera NPCNSP0
 Salgótarján Salgótarján NPCSG00
 Salias Salias NPCNSP0
 Salics Salics NPCNSP0
+Salieri Salieri NPCNSP0
 Salies-de-Béarn Salies-de-Béarn NPCSG00
 Salima Salima NPCSG00
 Salisacs Salisacs NPCNSP0
