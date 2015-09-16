@@ -9099,6 +9099,7 @@ sobreentendre=categories: V;model:atendre;fonts:LT
 sobreescalfar=categories: V;model:cantar;fonts:LT
 sobreescriure=categories: V;model:adscriure;fonts:LT
 sobreestimar=categories: V;model:cantar;fonts:LT
+sobreestimular=categories: V;model:cantar;fonts: derivat;
 sobreexcedir=categories: V;model:servir;fonts:LT
 sobreexcitar=categories: V;model:cantar;fonts:LT
 sobreexplotar=categories: V;model:cantar;fonts:LT

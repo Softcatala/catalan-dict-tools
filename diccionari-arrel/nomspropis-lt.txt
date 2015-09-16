@@ -5216,6 +5216,7 @@ Cels Cels NPCNSP0
 Cels Cels NPMPSP0
 Cels Cels NPMSSP0
 Celsa Celsa NPCSG00
+Celsius Celsius NPCNSP0
 Celtibèria Celtibèria NPFSG00
 Cendra Cendra NPCNSP0
 Cendrosa Cendrosa NPFSG00
@@ -10457,6 +10458,7 @@ Ivanovo Ivanovo NPCSG00
 Ivars Ivars NPCNSP0
 Ivars Ivars NPCSG00
 Ivarsos Ivarsos NPMPG00
+Ivet Ivet NPFSSP0
 Ivons Ivó NPMPSP0
 Ivorra Ivorra NPCNSP0
 Ivorra Ivorra NPFSG00
@@ -10925,6 +10927,7 @@ Kharkiv Kharkiv NPCSG00
 Kharq Kharq NPCSG00
 Khartum Khartum NPCSG00
 Khaskovo Khaskovo NPCSG00
+Khatxaturian Khatxaturian NPCNSP0
 Khenifra Khenifra NPCSG00
 Kherson Kherson NPCSG00
 Khimki Khimki NPCSG00
