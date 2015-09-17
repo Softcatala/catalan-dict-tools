@@ -6905,6 +6905,7 @@ Duesaigües Duesaigües NPCSG00
 Duisburg Duisburg NPMSG00
 Duixanbe Duixanbe NPCSG00
 Duixans Duixans NPCNSP0
+Dukas Dukas NPCNSP0
 Duluth Duluth NPCSG00
 Dumfries Dumfries NPCSG00
 Dunaújaváros Dunaújaváros NPCSG00
@@ -10351,6 +10352,7 @@ Innocenci Innocenci NPMSSP0
 Innocencis Innocenci NPMPSP0
 Innsbruck Innsbruck NPCSG00
 Inowrocław Inowrocław NPCSG00
+Instagram Instagram NPMSO00
 Insula Insula NPFSG00
 Intermón Intermón NPMSO00
 Interpol Interpol NPFSO00
@@ -19473,6 +19475,7 @@ Stepanakert Stepanakert NPCSG00
 Sterlitamak Sterlitamak NPCSG00
 Steyr Steyr NPCSG00
 Stif Stif NPCSG00
+Stockhausen Stockhausen NPCNSP0
 Stockport Stockport NPCSG00
 Stockton-on-Tees Stockton-on-Tees NPCSG00
 Stoke-on-Trent Stoke-on-Trent NPCSG00
@@ -22095,6 +22098,8 @@ Wazīristān Wazīristān NPCSG00
 Wałbrzych Wałbrzych NPCSG00
 Waššukkani Waššukkani NPCSG00
 Weald Weald NPCSG00
+Weber Weber NPCNSP0
+Webern Webern NPCNSP0
 Weiden Weiden NPCSG00
 Weifang Weifang NPCSG00
 Weimar Weimar NPCSG00
