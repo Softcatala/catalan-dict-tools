@@ -2801,6 +2801,7 @@ Baudelaire Baudelaire NPCNSP0
 Baudili Baudili NPMSSP0
 Baudilis Baudili NPMPSP0
 Baudina Baudina NPCNSP0
+Bauhaus Bauhaus NPFSO00
 Baulenas Baulenas NPCNSP0
 Baulida Baulida NPCNSP0
 Baulí Baulí NPCNSP0
@@ -6566,6 +6567,7 @@ Delger Delger NPCNSP0
 Delhi Delhi NPCSG00
 Delhom Delhom NPCNSP0
 Delhort Delhort NPCNSP0
+Delibes Delibes NPCNSP0
 Delisau Delisau NPCNSP0
 Dellys Dellys NPCSG00
 Dellà Dellà NPCSG00
@@ -9064,6 +9066,7 @@ Gerp Gerp NPCNSP0
 Gerrei Gerrei NPCSG00
 Gerri Gerri NPCSG00
 Gers Gers NPCSG00
+Gershwin Gershwin NPCNSP0
 Gertrudis Gertrudis NPFNSP0
 Gerunda Gerunda NPFSG00
 Gervasi Gervasi NPMSSP0
@@ -13067,6 +13070,7 @@ Metz Metz NPCSG00
 Meudon Meudon NPCSG00
 Meurthe Meurthe NPCSG00
 Mexicali Mexicali NPCSG00
+Meyerbeer Meyerbeer NPCNSP0
 Meyzieu Meyzieu NPCSG00
 Mezzogiorno Mezzogiorno NPCSG00
 Meüll Meüll NPCSG00
@@ -14928,6 +14932,7 @@ Oshawa Oshawa NPCSG00
 Oshogbo Oshogbo NPCSG00
 Osijek Osijek NPCSG00
 Osimo Osimo NPCSG00
+Osiris Osiris NPMSSP0
 Oslo Oslo NPCSG00
 Oslofjord Oslofjord NPCSG00
 Oslé Oslé NPCNSP0
@@ -17371,6 +17376,7 @@ Rimbau Rimbau NPCSG00
 Rimbaud Rimbaud NPCNSP0
 Rimbles Rimbles NPCNSP0
 Rimbles Rimbles NPCSG00
+Rimski-Kórsakov Rimski-Kórsakov NPCNSP0
 Rin Rin NPCSG00
 Rinadal Rinadal NPMSG00
 Rincón Rincón NPCSG00
