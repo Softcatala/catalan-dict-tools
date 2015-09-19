@@ -11081,7 +11081,7 @@ Kutaisi Kutaisi NPCSG00
 Kuwait Kuwait NPMSG00
 Kwangju Kwangju NPCSG00
 Kwara Kwara NPCSG00
-Kwashiorkor Kwashiorkor NPSNSP0
+Kwashiorkor Kwashiorkor NPCNSP0
 Kyoto Kyoto NPCSG00
 Kyréneia Kyréneia NPCSG00
 Kyushu Kyushu NPCSG00
