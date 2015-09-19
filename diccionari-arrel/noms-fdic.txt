@@ -32,6 +32,7 @@ H₂O=categories: MS;fonts: simbol;
 IAE=categories: MS;fonts: esadir;
 IES=categories: MI;fonts: termcat;
 ILP=categories: FI;fonts: esadir;
+IP=categories: FI;fonts: termcat;
 IPC=categories: MI;fonts: LT;
 IRPF=categories: MI;fonts: LT;
 IVA=categories: MI;fonts: LT;
