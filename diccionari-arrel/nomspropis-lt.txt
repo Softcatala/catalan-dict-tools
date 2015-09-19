@@ -1486,7 +1486,6 @@ Antidi Antidi NPMSSP0
 Antidis Antidi NPMPSP0
 Antiga Antiga NPCNSP0
 Antigonish Antigonish NPCSG00
-Antigua Antigua NPCSG00
 Antikýthēra Antikýthēra NPCSG00
 Antillac Antillac NPCNSP0
 Antilles Antilles NPFPG00
@@ -2574,7 +2573,6 @@ Barberà Barberà NPCSG00
 Barberí Barberí NPCNSP0
 Barbeta Barbeta NPCNSP0
 Barbosa Barbosa NPCNSP0
-Barbuda Barbuda NPCSG00
 Barbuñales Barbuñales NPCSG00
 Barbí Barbí NPCNSP0
 Barca Barca NPCNSP0
@@ -2801,7 +2799,7 @@ Baudelaire Baudelaire NPCNSP0
 Baudili Baudili NPMSSP0
 Baudilis Baudili NPMPSP0
 Baudina Baudina NPCNSP0
-Bauhaus Bauhaus NPFSO00
+Bauhaus Bauhaus NPCSO00
 Baulenas Baulenas NPCNSP0
 Baulida Baulida NPCNSP0
 Baulí Baulí NPCNSP0
@@ -14046,6 +14044,7 @@ Nabilles Nabilles NPCSG00
 Nabiners Nabiners NPCNSP0
 Nabiners Nabiners NPCSG00
 Nablus Nablus NPCSG00
+Nabucco Nabucco NPMSSP0
 Nabókov Nabókov NPCNSP0
 Nacla Nacla NPCSG00
 Nadal Nadal NPCNSP0
@@ -14822,6 +14821,7 @@ Oretània Oretània NPFSG00
 Orfenell Orfenell NPCNSP0
 Orfeu Orfeu NPMSSP0
 Orfeus Orfeu NPMPSP0
+Orff Orff NPCNSP0
 Orfila Orfila NPCNSP0
 Organyà Organyà NPCSG00
 Orguer Orguer NPCNSP0
@@ -15029,6 +15029,7 @@ Pabianice Pabianice NPCSG00
 Pabó Pabó NPCNSP0
 Pac Pac NPCNSP0
 Pacareu Pacareu NPCNSP0
+Pachelbel Pachelbel NPCNSP0
 Pachino Pachino NPCSG00
 Pachuca Pachuca NPCSG00
 Pacians Pacià NPMPSP0
@@ -15748,6 +15749,7 @@ Piarnau Piarnau NPCNSP0
 Piatra-Neamţ Piatra-Neamţ NPCSG00
 Piauí Piauí NPCSG00
 Piave Piave NPCSG00
+Piazzolla Piazzolla NPCNSP0
 Pibernat Pibernat NPCNSP0
 Pibitller Pibitller NPMSG00
 Picamal Picamal NPCNSP0
@@ -16092,6 +16094,7 @@ Poncell Poncell NPCNSP0
 Ponces Ponça NPFPSP0
 Poncet Poncet NPCNSP0
 Poncetí Poncetí NPCNSP0
+Ponchielli Ponchielli NPCNSP0
 Poncians Poncià NPMPSP0
 Poncic Poncic NPCNSP0
 Poncià Poncià NPMSSP0
