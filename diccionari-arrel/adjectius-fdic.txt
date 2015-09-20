@@ -19053,6 +19053,7 @@ prehistòric prehistòrica=categories: A;fonts: LT;
 preimprès preimpresa=categories: A;fonts: LT;
 preindustrial=categories: A;fonts: LT;
 preinfantil=categories: A;fonts: derivat;
+preinstal·lat preinstal·lada=categories: A;fonts: derivat;
 preislàmic preislàmica=categories: A;fonts: LT;
 preixanenc preixanenca=categories: A;fonts: LT;
 prejudicial=categories: A;fonts: LT;
