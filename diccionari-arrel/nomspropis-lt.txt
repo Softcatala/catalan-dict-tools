@@ -3215,6 +3215,7 @@ Bernial Bernial NPCNSP0
 Bernic Bernic NPCNSP0
 Bernina Bernina NPCSG00
 Bernié Bernié NPCNSP0
+Bernoulli Bernoulli NPCNSP0
 Bernstein Bernstein NPCNSP0
 Berné Berné NPCNSP0
 Bernés Bernés NPCNSP0
@@ -5132,6 +5133,7 @@ Catí Catí NPCSG00
 Cau Cau NPCNSP0
 Cauca Cauca NPCSG00
 Caucas Caucas NPMSG00
+Cauchy Cauchy NPCNSP0
 Caudau Caudau NPCNSP0
 Cauders Cauders NPCSG00
 Caudete Caudete NPCSG00
@@ -11815,6 +11817,7 @@ Loos Loos NPCSG00
 Lorda Lorda NPCNSP0
 Lorena Lorena NPCNSP0
 Lorena Lorena NPFSG00
+Lorentz Lorentz NPCNSP0
 Lorestan Lorestan NPCSG00
 Lorestān Lorestān NPCSG00
 Loreto Loreto NPCSG00
@@ -14020,6 +14023,7 @@ Móra Móra NPFSG00
 Móstoles Móstoles NPCSG00
 Môn Môn NPCSG00
 Mönchengladbach Mönchengladbach NPCSG00
+Mössbauer Mössbauer NPCNSP0
 Møn Møn NPCSG00
 Múnia Múnia NPFSG00
 Múnter Múnter NPCSG00
@@ -16017,6 +16021,7 @@ Podòlia Podòlia NPCSG00
 Poggibonsi Poggibonsi NPCSG00
 Pointe-Noire Pointe-Noire NPCSG00
 Pointe-à-Pitre Pointe-à-Pitre NPCSG00
+Poisson Poisson NPCNSP0
 Poissy Poissy NPCSG00
 Poitiers Poitiers NPCSG00
 Poitou Poitou NPCSG00
@@ -17467,6 +17472,7 @@ Robert Robert NPCNSP0
 Robert Robert NPMSSP0
 Roberts Robert NPMPSP0
 Robespierre Robespierre NPCNSP0
+Robinson Robinson NPCNSP0
 Robson Robson NPCSG00
 Robuster Robuster NPCNSP0
 Robustiana Robustiana NPFSSP0
