@@ -711,6 +711,7 @@ acromatiàcia=categories: F;fonts: LT;
 acromatòpsia=categories: F;fonts: LT;
 acromegàlia=categories: F;fonts: LT;
 acromelàlgia=categories: F;fonts: LT;
+abdominàlgia=categories: F;fonts: dmedic;
 acromi=categories: M;fonts: LT;
 acromia=categories: F;fonts: LT;
 acromobacteriàcia=categories: F;fonts: LT;
