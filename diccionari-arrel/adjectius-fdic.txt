@@ -17656,6 +17656,7 @@ paraoficial=categories: A;fonts: LT;
 paraplasmàtic paraplasmàtica=categories: A;fonts: LT;
 paraplègic paraplègica=categories: A;fonts: LT;
 parapneumònic parapneumònica=categories: A;fonts: LT;
+parapolicial=categories: A;fonts: derivat;
 parapsicològic parapsicològica=categories: A;fonts: LT;
 parapúblic parapública=categories: A;fonts: LT;
 paraselènic paraselènica=categories: A;fonts: LT;
