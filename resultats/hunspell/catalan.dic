@@ -1,4 +1,4 @@
-131343
+131408
 10a
 10es
 10ns
@@ -1457,7 +1457,6 @@ Antidi/_Y_V
 Antidis/_Y
 Antiga/_Y_V
 Antigonish/_Y_V
-Antigua/_Y_V
 Antikýthēra/_Y_V
 Antillac/_Y_V
 Antilles/_Y
@@ -2471,7 +2470,6 @@ Barberà
 Barberí
 Barbeta
 Barbosa
-Barbuda
 Barbuñales
 Barbí
 Barca
@@ -2683,6 +2681,7 @@ Baudelaire
 Baudili
 Baudilis
 Baudina
+Bauhaus
 Baulenas
 Baulida
 Baulí
@@ -3073,6 +3072,7 @@ Bernial
 Bernic
 Bernina
 Bernié
+Bernoulli
 Bernstein
 Berné
 Bernés
@@ -4830,6 +4830,7 @@ Catí
 Cau
 Cauca
 Caucas
+Cauchy
 Caudau
 Cauders
 Caudete
@@ -4904,6 +4905,7 @@ Celoni
 Celrà
 Cels
 Celsa
+Celsius
 Celtibèria
 Cendra
 Cendrosa
@@ -6161,6 +6163,7 @@ Delger
 Delhi
 Delhom
 Delhort
+Delibes
 Delisau
 Dellys
 Dellà
@@ -6483,6 +6486,7 @@ Duesaigües
 Duisburg
 Duixanbe
 Duixans
+Dukas
 Duluth
 Dumfries
 Dunaújaváros
@@ -8501,6 +8505,7 @@ Gerp
 Gerrei
 Gerri
 Gers
+Gershwin
 Gertrudis
 Gerunda
 Gervasi
@@ -9603,6 +9608,7 @@ II
 III
 IJssel/_Y_V
 ILP/_Y
+IP/_Y
 IPC/_V_Y
 IRPF/_V_Y
 ISBN/_Y_V
@@ -9737,6 +9743,7 @@ Innocenci/_Y_V
 Innocencis/_Y
 Innsbruck/_Y_V
 Inowrocław/_Y_V
+Instagram/_Y_V
 Insula/_Y
 Intermón/_Y_V
 Interpol/_Y
@@ -9840,6 +9847,7 @@ Ivano-Frankivsk/_Y_V
 Ivanovo/_Y_V
 Ivars/_Y_V
 Ivarsos/_Y
+Ivet/_Y
 Ivons/_Y
 Ivorra/_Y
 Ivorra/_Y_V
@@ -10283,6 +10291,7 @@ Kharkiv
 Kharq
 Khartum
 Khaskovo
+Khatxaturian
 Khenifra
 Kherson
 Khimki
@@ -11151,6 +11160,7 @@ Lons-le-Saunier
 Loos
 Lorda
 Lorena
+Lorentz
 Lorestan
 Lorestān
 Loreto
@@ -12298,6 +12308,7 @@ Metz
 Meudon
 Meurthe
 Mexicali
+Meyerbeer
 Meyzieu
 Mezzogiorno
 Meüll
@@ -12338,6 +12349,7 @@ Milcíades
 Mildreda
 Mildredes
 Milet
+Milhaud
 Miliana
 Miljacka
 Mill
@@ -12615,9 +12627,7 @@ Monròvia
 Mons
 Mons-en-Baroeul
 Monselice
-Mont
 Mont-Saint-Aignan
-Mont-Saint-Michel
 Mont-de-Marsan
 Mont-ral
 Mont-ras
@@ -13149,6 +13159,7 @@ Móra
 Móstoles
 Môn
 Mönchengladbach
+Mössbauer
 Møn
 Múnia
 Múnter
@@ -13173,6 +13184,7 @@ Nabau
 Nabilles
 Nabiners
 Nablus
+Nabucco
 Nabókov
 Nacla
 Nadal
@@ -13914,6 +13926,7 @@ Oretània/_Y_V
 Orfenell/_Y_V
 Orfeu/_Y_V
 Orfeus/_Y
+Orff/_Y_V
 Orfila/_Y_V
 Organyà/_Y_V
 Orguer/_Y_V
@@ -14016,6 +14029,7 @@ Oshawa/_Y_V
 Oshogbo/_Y_V
 Osijek/_Y_V
 Osimo/_Y_V
+Osiris/_Y_V
 Oslo/_Y_V
 Oslofjord/_Y_V
 Oslé/_Y_V
@@ -14113,6 +14127,7 @@ Pabianice
 Pabó
 Pac
 Pacareu
+Pachelbel
 Pachino
 Pachuca
 Pacians
@@ -14780,6 +14795,7 @@ Piarnau
 Piatra-Neamţ
 Piauí
 Piave
+Piazzolla
 Pibernat
 Pibitller
 Picamal
@@ -15024,6 +15040,7 @@ Podòlia
 Poggibonsi
 Pointe-Noire
 Pointe-à-Pitre
+Poisson
 Poissy
 Poitiers
 Poitou
@@ -15095,6 +15112,7 @@ Poncell
 Ponces
 Poncet
 Poncetí
+Ponchielli
 Poncians
 Poncic
 Poncià
@@ -16274,6 +16292,7 @@ Rimal
 Rimbau
 Rimbaud
 Rimbles
+Rimski-Kórsakov
 Rin
 Rinadal
 Rincón
@@ -16352,6 +16371,7 @@ Roberja
 Robert
 Roberts
 Robespierre
+Robinson
 Robson
 Robuster
 Robustiana
@@ -16868,6 +16888,7 @@ Saint-Avold
 Saint-Brieuc
 Saint-Chamond
 Saint-Cloud
+Saint-Cyr
 Saint-Denis
 Saint-Dizier
 Saint-Dié
@@ -16876,15 +16897,21 @@ Saint-Fargeau
 Saint-Flour
 Saint-Fons
 Saint-Gaudens
+Saint-Germain
+Saint-Germain-des-Prés
 Saint-Germain-en-Laye
+Saint-Gervais
 Saint-Grégoire
 Saint-Herblain
+Saint-Jacques
 Saint-Jean-de-Maurienne
+Saint-Lazare
 Saint-Louis
 Saint-Lô
 Saint-Malo
 Saint-Martin-d'Hères
 Saint-Maur-des-Fossés
+Saint-Michel
 Saint-Moritz
 Saint-Méen-le-Grand
 Saint-Nazaire
@@ -16986,6 +17013,7 @@ Salguera
 Salgótarján
 Salias
 Salics
+Salieri
 Salies-de-Béarn
 Salima
 Salisacs
@@ -18193,6 +18221,7 @@ Stepanakert
 Sterlitamak
 Steyr
 Stif
+Stockhausen
 Stockport
 Stockton-on-Tees
 Stoke-on-Trent
@@ -20610,6 +20639,8 @@ Wazīristān
 Wałbrzych
 Waššukkani
 Weald
+Weber
+Webern
 Weiden
 Weifang
 Weimar
@@ -21258,6 +21289,7 @@ abdicativament/_Y_V
 abdomen/_V_Y
 abdominal/_E_V_Y
 abdominoscòpia/_E_V_Y
+abdominàlgia/_E_V_Y
 abducció/_G_V_Y
 abducent/_E_V_Y
 abductor/_E_V_Y
@@ -23169,6 +23201,7 @@ adició/_G_V_Y
 adient/_E_V_Y
 adientment/_Y_V
 adiença/_E_V_Y
+adimensional/_E_V_Y
 adinerada/_V
 adinerar/28
 adinyada/_V
@@ -25811,7 +25844,7 @@ alfarrassada/_V
 alfarrassador/_F_V_Y
 alfarrassadora/_V_Y
 alfarrassar/11
-alfarràs/_I_V_Y
+alfarràs/_i_V_Y
 alfassina/_V_Y
 alfassí/_H_V_Y
 alfauirenc/_F_V_Y
@@ -32393,6 +32426,7 @@ arrosser/_E_V_Y
 arrosser/_F_V_Y
 arrossera/_E_V_Y
 arrossera/_V_Y
+arrosseria/_E_V_Y
 arrosset/_E_V_Y
 arrossinada/_V
 arrossinadament/_Y_V
@@ -34110,6 +34144,7 @@ audiocasset/_E_V_Y
 audiocirurgia/_E_V_Y
 audiocomentari/_E_V_Y
 audioconferència/_E_V_Y
+audiodescripció/_G_V_Y
 audiofreqüència/_E_V_Y
 audiograma/_E_V_Y
 audioguia/_E_V_Y
@@ -37852,6 +37887,7 @@ biont/_E
 bionòmic/_F
 biopic/_E
 biopoesi/_E
+biopolítica
 bioproteïna/_E
 biopròtesi/_E
 biopsíquic/_F
@@ -45806,6 +45842,7 @@ coassegurança/_E
 coatí/_E
 coautor/_E
 coautora/_E
+coautoria/_E
 coavaluació/_G
 coaxial/_E
 cob/_E
@@ -57353,6 +57390,7 @@ econòmicament/_Y_V
 ecopacifisme/_E_V_Y
 ecopacifista/_E_V_Y
 ecopràxia/_E_V_Y
+ecoregió/_G_V_Y
 ecorticada/_V_Y
 ecorticat/_B_V_Y
 ecosfera/_E_V_Y
@@ -61762,6 +61800,7 @@ enneasil·làbica/_V_Y
 enneasíl·lab/_F_V_Y
 enneasíl·lab/_V_Y
 enneasíl·laba/_V_Y
+enneatipus/_V_Y
 ennegrida/_V
 ennegridor/_F_V_Y
 ennegridora/_V_Y
@@ -71151,6 +71190,7 @@ farmacològic/_F
 farmacopea/_E
 farmacopòlic/_F
 farmacoröntgenoscòpia/_E
+farmacoterapèutic/_F
 farmacoteràpia/_E
 farmacovigilància/_E
 farmacèutic/_E
@@ -74360,6 +74400,7 @@ fulledenc/_F
 fullejador/_F
 fullejar/52
 fullet/_E
+fulleta/_E
 fulleteria/_E
 fulletonesc/_F
 fulletonista/_E
@@ -79724,6 +79765,7 @@ hipermetropia/_E_Y
 hipermetròpic/_F_V_Y
 hipermnèsia/_E_Y
 hipermobilitat/_E_Y
+hipermobilització/_G_Y
 hipermorf/_F_V_Y
 hipermèdia/_E_V_Y
 hipermètric/_F_V_Y
@@ -79909,6 +79951,7 @@ hipoplàsia/_E_Y
 hipoplàstic/_F_V_Y
 hipopotassèmia/_E_Y
 hipopotàmid/_E_V_Y
+hipopressiu/_B_V_Y
 hipoproteic/_F_V_Y
 hipopòtam/_E_V_Y
 hiporaquis/_V_Y
@@ -83989,6 +84032,7 @@ interprovincial/_E_V_Y
 interproximal/_E_V_Y
 interpunció/_G_Y
 interpupil·lar/_E_V_Y
+interquartílic/_F_V_Y
 interracial/_E_V_Y
 interradi/_E_V_Y
 interregional/_E_V_Y
@@ -84117,6 +84161,7 @@ intraespecífic/_F_V_Y
 intraestatal/_E_V_Y
 intrafamiliar/_E_V_Y
 intraformacional/_E_V_Y
+intrageneracional/_E_V_Y
 intragrupal/_E_V_Y
 intrahistòric/_F_V_Y
 intralaboratorial/_E_V_Y
@@ -87937,6 +87982,7 @@ llumener/_E
 llumenera/_E
 llumenerada/_E
 llumeneta/_E
+llumet/_E
 llumeta/_E
 lluminor/_E
 lluminosament
@@ -92174,6 +92220,7 @@ microquímic/_F
 microquímica/_E
 microquíria/_E
 microregional/_E
+microrelat/_E
 microreserva/_E
 microruptor/_E
 microsclera/_E
@@ -92201,6 +92248,7 @@ microstil/_F
 microtatobiota/_E
 microtelèfon/_E
 microtomia/_E
+microtransacció/_G
 microtraumatisme/_E
 microtró/_G
 microturbina/_E
@@ -94353,6 +94401,7 @@ multilàter/_F
 multimilionari/_E
 multimilionari/_K
 multimilionària/_E
+multimodal/_E
 multimode
 multimèdia
 multinacional/_E
@@ -98747,6 +98796,7 @@ organològica/_V_Y
 organometall/_E_V_Y
 organometàl·lic/_F_V_Y
 organometàl·lica/_V_Y
+organomineral/_E_V_Y
 organoplàstic/_F_V_Y
 organoplàstica/_V_Y
 organosol/_E_V_Y
@@ -106620,6 +106670,7 @@ preindustrial/_E
 preinfantil/_E
 preinscripció/_G
 preinscriure/13
+preinstal·lat/_B
 preislàmic/_F
 preixanenc/_F
 prejubilació/_G
@@ -108360,6 +108411,7 @@ psicoquirúrgic/_F
 psicosi/_E
 psicosocial/_E
 psicosociologia/_E
+psicosociològic/_F
 psicosomàtic/_F
 psicoterapeuta/_E
 psicoterapèutic/_F
@@ -109040,6 +109092,7 @@ quad/_E
 quadern/_E
 quaderna/_E
 quadernal/_E
+quadernet/_E
 quadra/_E
 quadrac/_E
 quadrada/_E
@@ -109306,6 +109359,7 @@ quatretondetí/_H
 quatretondà/_H
 quatretondí/_H
 quatrè/_H
+quatríada/_E
 qubba/_E
 que
 queb/_E
@@ -112786,6 +112840,7 @@ reproduir/90
 reproduïble/_E
 reprografia/_E
 reprogramable/_E
+reprogramació/_G
 reprogramar/00
 reprogràfic/_F
 repromissió/_G
@@ -113383,6 +113438,7 @@ retrocedir/87
 retrocessió/_G
 retrocoet/_E
 retrocoli/_E
+retrocompatibilitat/_E
 retrocompatible/_E
 retrocàrrega/_E
 retrocés/_i
@@ -116696,6 +116752,7 @@ semigrup/_E
 semigrès/_I
 semiinconscient/_E
 semiinformal/_E
+semiinterquartílic/_F
 semillí/_G
 semilunar/_E
 semiluni/_E
@@ -118405,6 +118462,8 @@ sobreestant/_E
 sobreestaria/_E
 sobreestimació/_G
 sobreestimar/00
+sobreestimulació/_G
+sobreestimular/00
 sobreexcedir/87
 sobreexcitabilitat/_E
 sobreexcitable/_E
@@ -118541,6 +118600,7 @@ sobretot
 sobretot/_E
 sobretítol/_E
 sobretò/_G
+sobreutilització/_G
 sobrevaler/95
 sobrevaloració/_G
 sobrevalorar/00
@@ -118910,6 +118970,7 @@ solubilitzant/_E
 solubilitzar/00
 soluble/_E
 solucionable/_E
+solucionador/_F
 solucionar/00
 solucionari/_E
 solució/_G
@@ -119662,6 +119723,7 @@ subinspecció/_G
 subinspector/_F
 subintendent/_E
 subintendència/_E
+subinterval/_E
 subintració/_G
 subintrant/_E
 subintrar/00
@@ -120256,6 +120318,7 @@ supeditació/_G
 supeditar/00
 superabilitat/_E
 superable/_E
+superabsorbent/_E
 superabundantment
 superabundar/00
 superabundància/_E
@@ -122978,6 +123041,7 @@ tetrasíl·lab
 tetrasíl·lab/_F
 tetrasòmic/_E
 tetraterpè/_G
+tetratló/_G
 tetravalent/_E
 tetravalència/_E
 tetraxial/_E
@@ -126391,6 +126455,7 @@ tàl·lic/_F
 tàmara/_E
 tàmera/_E
 tàmil/_E
+tàmpax/_E
 tàmul/_E
 tànatos
 tàndem/_E
