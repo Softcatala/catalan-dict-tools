@@ -3275,6 +3275,7 @@ Besolí Besolí NPCNSP0
 Besora Besora NPCNSP0
 Besora Besora NPFSG00
 Bessaràbia Bessaràbia NPCSG00
+Bessel Bessel NPCNSP0
 Besses Besses NPFPG00
 Bessó Bessó NPCNSP0
 Bestracà Bestracà NPCSG00
@@ -15692,6 +15693,7 @@ Pervomajs'k Pervomajs'k NPCSG00
 Pervoural'sk Pervoural'sk NPCSG00
 Perxacs Perxacs NPCNSP0
 Perxers Perxers NPCNSP0
+Perón Perón NPCNSP0
 Perú Perú NPMSG00
 Pesaro Pesaro NPCSG00
 Pescador Pescador NPCNSP0

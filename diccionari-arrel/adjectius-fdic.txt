@@ -1768,6 +1768,7 @@ antiintuïtiu antiintuïtiva=categories: A;fonts: LT;
 antiinundació=categories: AI;fonts: LT;
 antijaponès antijaponesa=categories: A;fonts: derivat;
 antijurídic antijurídica=categories: A;fonts: LT;
+antiliberal=categories: A;fonts: derivat;
 antilipèmic antilipèmica=categories: A;fonts: LT;
 antilliscant=categories: A;fonts: LT;
 antillà antillana=categories: A;fonts: LT;
