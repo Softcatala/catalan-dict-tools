@@ -22,5 +22,9 @@ cp novetats_amb_tag.txt novetats_sense_tag.txt
 sed -i 's/^\(.*\)\t\(.*\)\t\(.*\)$/\1/' novetats_sense_tag.txt
 sed -i '/^\s*$/d' novetats_sense_tag.txt
 export LC_ALL=C && sort -u novetats_sense_tag.txt -o novetats_sense_tag.txt
-echo "Resultats en novetats_amb_tag.txt novetats_sense_tag.txt"
-emacs novetats_* &
+cat spelling.head novetats_sense_tag.txt > spelling.txt
+cat manual-tagger.head novetats_amb_tag.txt > manual-tagger.txt
+cp manual-tagger.txt ~/caresource
+cp spelling.txt ~/caresource
+echo "Resultats en spelling.txt manual-tagger.txt"
+# emacs novetats_* &
