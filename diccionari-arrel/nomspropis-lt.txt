@@ -19499,7 +19499,6 @@ Sterlitamak Sterlitamak NPCSG00
 Steyr Steyr NPCSG00
 Stif Stif NPCSG00
 Stockhausen Stockhausen NPCNSP0
-Trencavell Trencavell NPCNSP0
 Stockport Stockport NPCSG00
 Stockton-on-Tees Stockton-on-Tees NPCSG00
 Stoke-on-Trent Stoke-on-Trent NPCSG00
@@ -20660,6 +20659,7 @@ Tremolosa Tremolosa NPCNSP0
 Tremp Tremp NPCSG00
 Tremulla Tremulla NPCNSP0
 Tremulles Tremulles NPCNSP0
+Trencavell Trencavell NPCNSP0
 Trens Trens NPCNSP0
 Trent Trent NPCSG00
 Trentapasses Trentapasses NPCSG00
