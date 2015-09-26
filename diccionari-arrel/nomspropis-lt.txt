@@ -19499,6 +19499,7 @@ Sterlitamak Sterlitamak NPCSG00
 Steyr Steyr NPCSG00
 Stif Stif NPCSG00
 Stockhausen Stockhausen NPCNSP0
+Trencavell Trencavell NPCNSP0
 Stockport Stockport NPCSG00
 Stockton-on-Tees Stockton-on-Tees NPCSG00
 Stoke-on-Trent Stoke-on-Trent NPCSG00
