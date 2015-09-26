@@ -22920,6 +22920,7 @@ tenuïrostre=categories: A;fonts: LT;
 tenyidor tenyidora=categories: A;fonts: LT;
 tenífug tenífuga=categories: A;fonts: LT;
 tenístic tenística=categories: A;fonts: LT;
+teocentrista=categories: A;fonts: derivat;
 teocràtic teocràtica=categories: A;fonts: LT;
 teocèntric teocèntrica=categories: A;fonts: LT;
 teodolític teodolítica=categories: A;fonts: LT;

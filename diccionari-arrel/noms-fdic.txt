@@ -50008,6 +50008,7 @@ prepositura=categories: F;fonts: LT;
 preposteració=categories: F;fonts: LT;
 prepotència=categories: F;fonts: LT;
 preprocessador=categories: M;fonts: LT;
+preproducció=categories: F;fonts: derivat, viquipedia;
 prepubertat=categories: F;fonts: LT;
 prepuci=categories: M;fonts: LT;
 prepòsit prepòsita=categories: MF;fonts: LT;
