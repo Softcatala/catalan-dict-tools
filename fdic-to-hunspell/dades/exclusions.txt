@@ -10,6 +10,9 @@ coqueto
 coquetos
 coquets
 demés
+espesa
+espesos
+espeses
 graben
 inclusive
 nomes
