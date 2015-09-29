@@ -17092,6 +17092,7 @@ Ravenna Ravenna NPFSG00
 Ravensbrück Ravensbrück NPCSG00
 Rawalpindi Rawalpindi NPCSG00
 Rawls Rawls NPCNSP0
+Rayleigh Rayleigh NPCNSP0
 Razgrad Razgrad NPCSG00
 Razzmatazz Razzmatazz NPFSO00
 Raïc Raïc NPCNSP0
