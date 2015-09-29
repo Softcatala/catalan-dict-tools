@@ -50055,6 +50055,7 @@ presentació=categories: F;fonts: LT;
 presentador=categories: M;fonts: LT;
 presentadora=categories: F;fonts: LT;
 presentalla=categories: F;fonts: LT;
+presentisme=categories: M; fonts: termcat;
 presepi=categories: M;fonts: LT;
 preservació=categories: F;fonts: LT;
 preservador=categories: M;fonts: LT;

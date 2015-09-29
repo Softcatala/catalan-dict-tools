@@ -24524,6 +24524,7 @@ vespral=categories: A;fonts: LT;
 vesquera=categories: A;fonts: LT;
 vessant=categories: A;fonts: LT;
 vestibular=categories: A;fonts: LT;
+vestibulococlear=categories: A;fonts: termcat;
 vestigial=categories: A;fonts: LT;
 vesuvià vesuviana=categories: A;fonts: LT;
 vesànic vesànica=categories: A;fonts: LT;
