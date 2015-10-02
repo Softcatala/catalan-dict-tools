@@ -9271,6 +9271,7 @@ Goiás Goiás NPCSG00
 Goiânia Goiânia NPCSG00
 Gojam Gojam NPCSG00
 Golan Golan NPMSG00
+Goldberg Goldberg NPCNSP0
 Goldorons Goldorons NPCNSP0
 Golerons Golerons NPCNSP0
 Golet Golet NPCNSP0
