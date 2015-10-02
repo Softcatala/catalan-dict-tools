@@ -29697,6 +29697,7 @@ galdiró=categories: M;fonts: LT;
 galdufa=categories: F;fonts: LT;
 galega=categories: F;fonts: LT;
 galeig=categories: M;fonts: LT;
+galejador=categories: M;fonts: DCVB;
 galena=categories: F;fonts: LT;
 galeodes=categories: MI;fonts: LT;
 galeopitec=categories: M;fonts: LT;
