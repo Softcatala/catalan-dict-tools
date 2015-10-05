@@ -13261,6 +13261,7 @@ interministerial=categories: A;fonts: LT;
 intermitent=categories: A;fonts: LT;
 intermodal=categories: A;fonts: LT;
 intermolecular=categories: A;fonts: LT;
+intermunicipal=categories: A;fonts: derivat;
 intermuscular=categories: A;fonts: LT;
 intern interna=categories: A;fonts: LT;
 internacional=categories: A;fonts: LT;

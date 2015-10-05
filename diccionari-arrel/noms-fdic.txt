@@ -16858,6 +16858,7 @@ cosmidi=categories: M;fonts: LT;
 cosmobiologia=categories: F;fonts: LT;
 cosmogonia=categories: F;fonts: LT;
 cosmografia=categories: F;fonts: LT;
+cosmogènesi=categories: F; fonts: dfrequencies;
 cosmologia=categories: F;fonts: LT;
 cosmonau=categories: F;fonts: LT;
 cosmonauta=categories: MF;fonts: LT;
