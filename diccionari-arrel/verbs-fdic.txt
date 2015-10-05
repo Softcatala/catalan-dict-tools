@@ -8070,6 +8070,7 @@ queixalejar=categories: V;model:envejar;fonts:LT
 queixar=categories: V;model:cantar;fonts:LT
 quequejar=categories: V;model:envejar;fonts:LT
 querar=categories: V;model:cantar;fonts:LT
+queratinitzar=categories: V;model:cantar;fonts: termcat, derivat;
 querellar=categories: V;model:cantar;fonts:LT
 quilificar=categories: V;model:trencar;fonts:LT
 quillar=categories: V;model:cantar;fonts:LT
