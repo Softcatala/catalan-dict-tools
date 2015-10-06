@@ -24513,6 +24513,7 @@ vertebrador vertebradora=categories: A;fonts: LT;
 vertebral=categories: A;fonts: LT;
 vertebratus=categories: AI;fonts: LT;
 vertical=categories: A;fonts: LT;
+verticalitzat verticalitzada=categories: A;fonts: dfrequencies;
 verticil·lat verticil·lada=categories: A;fonts: LT;
 vertiginós vertiginosa=categories: A;fonts: LT;
 veràtric veràtrica=categories: A;fonts: LT;

@@ -21653,6 +21653,7 @@ electroencefalograma=categories: M;fonts: LT;
 electroencefalògraf=categories: M;fonts: LT;
 electroendosmosi=categories: F;fonts: LT;
 electroerosió=categories: F;fonts: LT;
+electroestimulació=categories: F;fonts: termcat;
 electrofiltre=categories: M;fonts: LT;
 electrofisiologia=categories: F;fonts: LT;
 electrofocalització=categories: F;fonts: LT;

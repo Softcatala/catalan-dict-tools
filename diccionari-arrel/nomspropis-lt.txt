@@ -15854,6 +15854,7 @@ Piniello Piniello NPCSG00
 Pinochet Pinochet NPCNSP0
 Pinos Pinos NPCSG00
 Pinosa Pinosa NPCNSP0
+Pinotxo Pinotxo NPMSSP0
 Pinsk Pinsk NPCSG00
 Pinsà Pinsà NPCNSP0
 Pintarrafes Pintarrafes NPCSG00
