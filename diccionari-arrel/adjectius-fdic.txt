@@ -9884,6 +9884,7 @@ fetitxista=categories: A;fonts: LT;
 fetjut fetjuda=categories: A;fonts: LT;
 fetorós fetorosa=categories: A;fonts: LT;
 feudal=categories: A;fonts: LT;
+feudovassallàtic feudovassallàtica=categories: A;fonts: derivat;
 fi fina=categories: A;fonts: LT;
 fiable=categories: A;fonts: LT;
 fibrat fibrada=categories: A;fonts: LT;

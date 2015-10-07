@@ -3419,6 +3419,7 @@ Bisquerra Bisquerra NPCNSP0
 Bissau Bissau NPMSG00
 Bissaürri Bissaürri NPCSG00
 Bistriţa Bistriţa NPCSG00
+BitTorrent BitTorrent NPMNO00
 Biterna Biterna NPCSG00
 Bitla Bitla NPCSG00
 Bitola Bitola NPCSG00
