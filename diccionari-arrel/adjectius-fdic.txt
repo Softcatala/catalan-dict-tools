@@ -11189,6 +11189,7 @@ grec grega=categories: A;fonts: LT;
 grecista=categories: A;fonts: LT;
 grecobúdic grecobúdica=categories: A;fonts: LT;
 grecocatòlic grecocatòlica=categories: A;fonts: LT;
+grecoegipci grecoegípcia=categories: A;fonts: derivat;
 grecollatí grecollatina=categories: A;fonts: LT;
 grecoromà grecoromana=categories: A;fonts: LT;
 gredós gredosa=categories: A;fonts: LT;

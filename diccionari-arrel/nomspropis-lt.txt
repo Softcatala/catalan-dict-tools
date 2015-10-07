@@ -5681,6 +5681,7 @@ Cogolls Cogolls NPCSG00
 Cogul Cogul NPMSG00
 Cogullada Cogullada NPFSG00
 Cogullons Cogullons NPMPG00
+Cohèlet Cohèlet NPMSO00
 Coimbatore Coimbatore NPCSG00
 Coix Coix NPCSG00
 Coixós Coixós NPCSG00
@@ -6990,6 +6991,7 @@ Ebre Ebre NPCSG00
 Ecbàtana Ecbàtana NPCSG00
 Echternach Echternach NPCSG00
 Eckermann Eckermann NPCNSP0
+Eclesiastès Eclesiastès NPMSO00
 Ede Ede NPCSG00
 Edelmira Edelmira NPFSSP0
 Edelmires Edelmira NPFPSP0
@@ -11217,6 +11219,7 @@ Laos Laos NPCSG00
 Lapedra Lapedra NPCNSP0
 Lapeira Lapeira NPCNSP0
 Lapera Lapera NPCNSP0
+Laplace Laplace NPCNSP0
 Laplana Laplana NPCNSP0
 Laporta Laporta NPCNSP0
 Lappeenranta Lappeenranta NPCSG00
