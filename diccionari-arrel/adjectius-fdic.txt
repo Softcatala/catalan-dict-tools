@@ -15047,6 +15047,7 @@ materialista=categories: A;fonts: LT;
 materialitzable=categories: A;fonts: derivat;
 matern materna=categories: A;fonts: LT;
 maternal=categories: A;fonts: LT;
+maternofilial=categories: A;fonts: derivat;
 matetà matetana=categories: A;fonts: LT;
 mateuer mateuera=categories: A;fonts: LT;
 mateuà mateuana=categories: A;fonts: LT;
