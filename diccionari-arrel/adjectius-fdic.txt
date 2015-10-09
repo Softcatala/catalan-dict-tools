@@ -10169,6 +10169,7 @@ fol·licular=categories: A;fonts: LT;
 folívor folívora=categories: A;fonts: LT;
 fomentador fomentadora=categories: A;fonts: LT;
 fonador fonadora=categories: A;fonts: LT;
+fonamentador fonamentadora=categories: A;fonts: dfrequencies;
 fonamental=categories: A;fonts: LT;
 fonamentalista=categories: A;fonts: LT;
 fondarellenc fondarellenca=categories: A;fonts: LT;
