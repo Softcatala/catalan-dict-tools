@@ -16056,6 +16056,7 @@ Polina Polina NPCNSP0
 Polinyà Polinyà NPCSG00
 Polinèsia Polinèsia NPFSG00
 Polit Polit NPCNSP0
+Politkóvskaia Politkóvskaia NPCNSP0
 Polixena Polixena NPFSSP0
 Polixenes Polixena NPFPSP0
 Poll Poll NPCNSP0
