@@ -9551,6 +9551,7 @@ extratropical=categories: A;fonts: LT;
 extrauterí extrauterina=categories: A;fonts: LT;
 extravagant=categories: A;fonts: LT;
 extravascular=categories: A;fonts: LT;
+extraverbal=categories: A;fonts: derivat;
 extravertit extravertida=categories: A;fonts: LT;
 extraïble=categories: A;fonts: LT;
 extrem extrema=categories: A;fonts: LT;
