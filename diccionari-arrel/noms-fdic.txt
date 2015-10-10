@@ -37458,6 +37458,7 @@ llondra=categories: F;fonts: LT;
 llondro=categories: M;fonts: LT;
 llongada=categories: F;fonts: LT;
 llonganissa=categories: F;fonts: LT;
+llonganisseta=categories: F;fonts: derivat, diminitiu;
 llongeta=categories: F;fonts: LT;
 llongo=categories: M;fonts: LT;
 llonguet=categories: M;fonts: LT;
