@@ -4035,6 +4035,7 @@ buccel·lari buccel·lària=categories: A;fonts: LT;
 bucodental=categories: A;fonts: LT;
 bucodispersable=categories: A;fonts: termcat;
 bucofacial=categories: A;fonts: termcat;
+bucofonador bucofonadora=categories: A;fonts: derivat;
 bucòlic bucòlica=categories: A;fonts: LT;
 budista=categories: A;fonts: LT;
 buf bufa=categories: A;fonts: LT;
