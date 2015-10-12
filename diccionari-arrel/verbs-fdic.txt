@@ -2668,6 +2668,7 @@ descomptar=categories: V;model:cantar;fonts:LT
 desconcentrar=categories: V;model:cantar;fonts:LT
 desconceptuar=categories: V;model:lloar;fonts:LT
 desconcertar=categories: V;model:cantar;fonts:LT
+descondicionar=categories: V;model:cantar;fonts: dfrequencies, derivat
 desconfiar=categories: V;model:crear;fonts:LT
 desconfigurar=categories: V;model:cantar;fonts:LT
 desconfir=categories: V;model:servir;fonts:LT

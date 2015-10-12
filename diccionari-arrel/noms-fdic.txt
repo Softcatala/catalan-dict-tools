@@ -37665,6 +37665,7 @@ logoteràpia=categories: F;fonts: LT;
 logoteta=categories: M;fonts: LT;
 logotip=categories: M;fonts: LT;
 logotipus=categories: MI;fonts: LT;
+logàtom:categories: M; fonts: termcat;
 logística=categories: F;fonts: LT;
 logògraf=categories: M;fonts: LT;
 logòmetre=categories: M;fonts: LT;
