@@ -6678,6 +6678,7 @@ internalitzar=categories: V;model:cantar;fonts:LT
 internar=categories: V;model:cantar;fonts:LT
 internitzar=categories: V;model:cantar;fonts:LT
 interpel·lar=categories: V;model:anul·lar;fonts:LT
+interpenetrar=categories: V;model:cantar;fonts: dfrequencies, derivat;
 interpolar=categories: V;model:cantar;fonts:LT
 interposar=categories: V;model:anquilosar;fonts:LT
 interpretar=categories: V;model:cantar;fonts:LT
