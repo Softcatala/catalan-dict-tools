@@ -6215,6 +6215,7 @@ Cronos Cronos NPMSSP0
 Cros Cros NPCNSP0
 Cros Cros NPMSG00
 Crosa Crosa NPCNSP0
+Croscat Croscat NPMSG00
 Croselles Croselles NPCNSP0
 Crotona Crotona NPCSG00
 Croydon Croydon NPCSG00
