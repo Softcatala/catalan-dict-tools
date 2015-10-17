@@ -30480,6 +30480,7 @@ geografia=categories: F;fonts: LT;
 geogènia=categories: F;fonts: LT;
 geohidrografia=categories: F;fonts: LT;
 geoide=categories: M;fonts: LT;
+geoinformació=categories: F;fonts: termcat;
 geolingüística=categories: F;fonts: LT;
 geolocalització=categories: F;fonts: termcat;
 geolocalitzador=categories: M;fonts: derivat;

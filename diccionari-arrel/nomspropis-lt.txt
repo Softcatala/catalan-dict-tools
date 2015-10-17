@@ -8060,7 +8060,7 @@ Fier Fier NPCSG00
 Fiesole Fiesole NPCSG00
 Figa Figa NPCNSP0
 Figaró Figaró NPCSG00
-Figaró-Montmany Figaró-Montmany NPCSG00
+Figaró-Montmany Figaró-Montmany NPMSG00
 Figeac Figeac NPCSG00
 Figuera Figuera NPCNSP0
 Figuereda Figuereda NPCNSP0
@@ -13626,7 +13626,7 @@ Montmalús Montmalús NPMSG00
 Montmaneu Montmaneu NPCNSP0
 Montmaneu Montmaneu NPCSG00
 Montmany Montmany NPCNSP0
-Montmany Montmany NPCSG00
+Montmany Montmany NPMSG00
 Montmartre Montmartre NPCSG00
 Montmell Montmell NPMSG00
 Montmellet Montmellet NPCSG00
