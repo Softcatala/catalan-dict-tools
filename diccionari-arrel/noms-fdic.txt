@@ -64309,6 +64309,7 @@ videollibre=categories: M;fonts: LT;
 videomarcador=categories: M;fonts: LT;
 videomissatge=categories: M;fonts: LT;
 videomuntatge=categories: M;fonts: LT;
+videoporter=categories: M;fonts: termcat;
 videoprojecció=categories: F;fonts: LT;
 videoprojector=categories: M;fonts: LT;
 videorevista=categories: F;fonts: LT;
