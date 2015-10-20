@@ -2473,6 +2473,7 @@ desamoïnar=categories: V;model:cantar;fonts:LT
 desamurar=categories: V;model:cantar;fonts:LT
 desanar=categories: V;model:cantar;fonts:LT
 desancorar=categories: V;model:cantar;fonts:LT
+desangoixar=categories: V;model:cantar;fonts: derivat;
 desanimar=categories: V;model:cantar;fonts:LT
 desaparedar=categories: V;model:cantar;fonts:LT
 desaparellar=categories: V;model:cantar;fonts:LT
