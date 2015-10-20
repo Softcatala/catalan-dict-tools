@@ -3443,6 +3443,7 @@ despertar=categories: V;model:cantar;fonts:LT
 despestellar=categories: V;model:cantar;fonts:LT
 despintar=categories: V;model:cantar;fonts:LT
 despinyolar=categories: V;model:cantar;fonts:LT
+despinçar=categories: V;model:començar;fonts: termcat;
 despiquelar=categories: V;model:cantar;fonts:LT
 despistar=categories: V;model:cantar;fonts:LT
 despitar=categories: V;model:cantar;fonts:LT
