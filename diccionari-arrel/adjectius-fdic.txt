@@ -1753,6 +1753,7 @@ antihistèric antihistèrica=categories: A;fonts: LT;
 antihiàtic antihiàtica=categories: A;fonts: LT;
 antihorari -ària=categories: A;fonts: LT;
 antihumà antihumana=categories: A;fonts: LT;
+antiimpactes=categories: AI;fonts: derivat;
 antiimperialista=categories: A;fonts: LT;
 antiincendis=categories: AI;fonts: LT;
 antiincrustant=categories: A;fonts: LT;
