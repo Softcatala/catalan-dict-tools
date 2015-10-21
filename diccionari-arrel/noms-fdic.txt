@@ -24351,6 +24351,7 @@ escriptor=categories: M;fonts: LT;
 escriptora=categories: F;fonts: LT;
 escriptori=categories: M;fonts: LT;
 escriptura=categories: F;fonts: LT;
+escripturació=categories: F;fonts: derivat, dfrequencies;
 escripturista=categories: MF;fonts: LT;
 escripturística=categories: F;fonts: LT;
 escrit=categories: M;fonts: LT;
