@@ -33260,6 +33260,7 @@ histoplasmosi=categories: F;fonts: LT;
 historiador=categories: M;fonts: LT;
 historiadora=categories: F;fonts: LT;
 historial=categories: M;fonts: LT;
+historialització=categories: M;fonts: termcat;
 historicisme=categories: M;fonts: LT;
 historicista=categories: MF;fonts: LT;
 historicitat=categories: F;fonts: LT;

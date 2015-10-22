@@ -21656,6 +21656,7 @@ sensorial=categories: A;fonts: LT;
 sensoriomotor sensoriomotora [fem. sensoriomotriu]=categories: A;fonts: LT;
 sensual=categories: A;fonts: LT;
 sensualista=categories: A;fonts: LT;
+sentenciador sentenciadora=categories: A;fonts: derivat, dfrequencies;
 sentenciós sentenciosa=categories: A;fonts: LT;
 senteradí senteradina=categories: A;fonts: LT;
 sentimental=categories: A;fonts: LT;
