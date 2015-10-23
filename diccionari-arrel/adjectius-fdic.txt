@@ -19025,6 +19025,7 @@ precipu precípua=categories: A;fonts: LT;
 precitat precitada=categories: A;fonts: LT;
 preciós preciosa=categories: A;fonts: LT;
 preclar preclara=categories: A;fonts: LT;
+preclusiu preclusiva=categories: A;fonts: derivat;
 preclàssic preclàssica=categories: A;fonts: LT;
 preclínic preclínica=categories: A;fonts: termcat;
 precolombí precolombina=categories: A;fonts: LT;
