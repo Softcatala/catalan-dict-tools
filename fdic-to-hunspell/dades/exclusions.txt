@@ -42,6 +42,7 @@ carinyós
 cint
 col·lar
 conduit
+convinent
 corresponsable
 corresponsabilitat
 corresponsabilitzar
@@ -58,6 +59,7 @@ ermós
 ermosa
 espaial
 estomac
+for
 galega
 garbo
 garbós
