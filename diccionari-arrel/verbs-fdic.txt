@@ -8179,6 +8179,7 @@ reafegir=categories: V;model:afegir;fonts:LT
 reafirmar=categories: V;model:cantar;fonts:LT
 reagregar=categories: V;model:pregar;fonts:LT
 reagrupar=categories: V;model:cantar;fonts:LT
+reaguditzar=categories: V;model:cantar;fonts: derivat;
 reajustar=categories: V;model:cantar;fonts:LT
 realegrar=categories: V;model:cantar;fonts:LT
 realimentar=categories: V;model:cantar;fonts:LT

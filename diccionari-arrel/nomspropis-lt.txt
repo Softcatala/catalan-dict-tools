@@ -1309,6 +1309,7 @@ Anatòlia Anatòlia NPCSG00
 Anatòlia Anatòlia NPFSSP0
 Anatòlies Anatòlia NPFPSP0
 Anavall Anavall NPCNSP0
+Anaxàgores Anaxàgores NPMSSP0
 Anazarba Anazarba NPCSG00
 Ancash Ancash NPCSG00
 Anchorage Anchorage NPCSG00
@@ -2052,6 +2053,7 @@ Assíria Assíria NPFSG00
 Assís Assís NPCSG00
 Astal Astal NPCNSP0
 Astana Astana NPCSG00
+Astarte Astarte NPFSSP0
 Astell Astell NPCNSP0
 Asteri Asteri NPMSSP0
 Asteris Asteri NPMPSP0
@@ -10430,6 +10432,7 @@ Isidors Isidor NPMPSP0
 Isidre Isidre NPCSG00
 Isidre Isidre NPMSSP0
 Isidres Isidre NPMPSP0
+Isis Isis NPFSSP0
 Iskenderun Iskenderun NPCSG00
 Isla-Cristina Isla-Cristina NPCSG00
 Islamabad Islamabad NPCSG00
