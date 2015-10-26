@@ -22441,6 +22441,7 @@ Yonkers Yonkers NPCSG00
 Yonne Yonne NPCSG00
 York York NPCNSP0
 York York NPCSG00
+Yorkshire Yorkshire NPCNG00
 Yoro Yoro NPCSG00
 Yosemite Yosemite NPCSG00
 YouTube YouTube NPMSO00

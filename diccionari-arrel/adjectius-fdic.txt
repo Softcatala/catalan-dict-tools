@@ -13511,6 +13511,7 @@ irreconciliable=categories: A;fonts: LT;
 irreconduïble=categories: A;fonts: derivat;
 irreconeixible=categories: A;fonts: LT;
 irrecuperable=categories: A;fonts: LT;
+irrecurrible=categories: A;fonts: derivat;
 irrecusable=categories: A;fonts: LT;
 irredempt irredempta=categories: A;fonts: LT;
 irredemptista=categories: A;fonts: LT;
