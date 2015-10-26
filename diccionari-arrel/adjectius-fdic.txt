@@ -13833,6 +13833,7 @@ jurassià jurassiana=categories: A;fonts: LT;
 juratori juratòria=categories: A;fonts: LT;
 juridicoadministratiu juridicoadministrativa=categories: A;fonts: derivat;
 juridicolaboral=categories: A;fonts: LT;
+juridicopenal=categories: A;fonts: derivat;
 juridicopolític juridicopolítica=categories: A;fonts: LT;
 jurisdiccional=categories: A;fonts: LT;
 jurisprudencial=categories: A;fonts: LT;
