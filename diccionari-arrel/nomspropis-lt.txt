@@ -10055,6 +10055,7 @@ Hindustān Hindustān NPCSG00
 Hinnøy Hinnøy NPCSG00
 Hipaci Hipaci NPMSSP0
 Hipacis Hipaci NPMPSP0
+Hipercor Hipercor NPCNO00
 Hiperió Hiperió NPCSG00
 Hipona Hipona NPCSG00
 Hipòcrates Hipòcrates NPMSSP0
