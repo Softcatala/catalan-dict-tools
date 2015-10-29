@@ -49979,6 +49979,7 @@ prehomínid=categories: M;fonts: LT;
 preimplantació=categories: F;fonts: LT;
 preimpressió=categories: F;fonts: LT;
 preinscripció=categories: F;fonts: LT;
+preinstal·lació=categories: F;fonts: derivat;
 preixanenc preixanenca=categories: MF;fonts: LT;
 prejubilació=categories: F;fonts: LT;
 prejudici=categories: M;fonts: LT;
