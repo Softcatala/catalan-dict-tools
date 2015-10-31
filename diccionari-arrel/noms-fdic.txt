@@ -26428,6 +26428,7 @@ excomunista=categories: MF;fonts: LT;
 excomunió=categories: F;fonts: LT;
 exconseller=categories: M;fonts: LT;
 exconsellera=categories: F;fonts: LT;
+excoordinador -a=categories: MF;fonts: LT;
 excoriació=categories: F;fonts: LT;
 excoronel=categories: M;fonts: LT;
 excoronela=categories: F;fonts: LT;
