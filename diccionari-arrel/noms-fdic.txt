@@ -18870,6 +18870,7 @@ desalineament=categories: M;fonts: LT;
 desallotjament=categories: M;fonts: LT;
 desambiguació=categories: F;fonts: LT;
 desament=categories: M;fonts: LT;
+desamiantatge=categories: M;fonts: derivat,idescat;
 desamic=categories: M;fonts: LT;
 desamidació=categories: F;fonts: LT;
 desamiga=categories: F;fonts: LT;
