@@ -15229,6 +15229,7 @@ Pandel Pandel NPCSG00
 Pando Pando NPCSG00
 Paner Paner NPCNSP0
 Panevėžys Panevėžys NPCSG00
+Pangea Pangea NPFSG00
 Panillo Panillo NPCSG00
 Panjab Panjab NPCSG00
 Pankow Pankow NPCSG00
