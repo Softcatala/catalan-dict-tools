@@ -21702,6 +21702,7 @@ senyerut senyeruda=categories: A;fonts: LT;
 senyor senyora=categories: A;fonts: LT;
 senyorejador senyorejadora=categories: A;fonts: LT;
 senyorial=categories: A;fonts: LT;
+antisenyorial=categories: A;fonts: derivat;
 senyorívol senyorívola=categories: A;fonts: LT;
 senzill senzilla=categories: A;fonts: LT;
 senzillet senzilleta=categories: AA;fonts: LT;
