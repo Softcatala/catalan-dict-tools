@@ -22458,6 +22458,7 @@ Yucatán Yucatán NPCSG00
 Yukon Yukon NPCSG00
 Yunnan Yunnan NPCSG00
 Yushan Yushan NPCSG00
+Yuste Yuste NPMSG00
 Yvelines Yvelines NPCSG00
 Yverdon-les-Bains Yverdon-les-Bains NPCSG00
 Yārkand Yārkand NPCSG00
