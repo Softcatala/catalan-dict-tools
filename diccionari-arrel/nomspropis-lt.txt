@@ -2775,6 +2775,7 @@ Batalla Batalla NPCNSP0
 Bataller Bataller NPCNSP0
 Batangas Batangas NPCSG00
 Batariu Batariu NPCNSP0
+Batasuna Batasuna NPFSO00
 Batavorum Batavorum NPMSG00
 Batea Batea NPFSG00
 Batet Batet NPCNSP0
@@ -11010,6 +11011,7 @@ Klopstock Klopstock NPCNSP0
 Knin Knin NPCSG00
 Kobe Kobe NPCSG00
 Kodiak Kodiak NPCSG00
+Kodály Kodály NPCNSP0
 Kohtla-Järve Kohtla-Järve NPCSG00
 Koinadugu Koinadugu NPCSG00
 Kokand Kokand NPCSG00
@@ -17763,6 +17765,7 @@ Rourell Rourell NPCNSP0
 Rourell Rourell NPMSG00
 Rouret Rouret NPCNSP0
 Rousseau Rousseau NPCNSP0
+Roussel Roussel NPCNSP0
 Rovaniemi Rovaniemi NPCSG00
 Rovellat Rovellat NPCNSP0
 Rovellats Rovellats NPCSG00

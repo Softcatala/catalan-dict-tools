@@ -44325,6 +44325,7 @@ onirodínia=categories: F;fonts: LT;
 onirologia=categories: F;fonts: LT;
 oniromància=categories: F;fonts: LT;
 oniroscòpia=categories: F;fonts: LT;
+onnoven=categories: M;fonts: termcat;
 onocròtal=categories: M;fonts: LT;
 onomasiologia=categories: F;fonts: LT;
 onomatofòbia=categories: F;fonts: LT;
