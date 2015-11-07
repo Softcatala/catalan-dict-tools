@@ -6411,6 +6411,7 @@ autoexcitació=categories: F;fonts: LT;
 autoexigència=categories: F;fonts: LT;
 autoexploració=categories: F;fonts: derivat;
 autoexpressió=categories: F;fonts: derivat;
+autoextinció=categories: F;fonts: derivat;
 autofagosoma=categories: M;fonts: LT;
 autofasatge=categories: M;fonts: LT;
 autofecundació=categories: F;fonts: LT;
