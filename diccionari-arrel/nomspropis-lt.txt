@@ -19681,6 +19681,7 @@ Sàlzer Sàlzer NPCSG00
 Sàrdica Sàrdica NPCSG00
 Sàrries Sàrries NPCNSP0
 Sàsser Sàsser NPCSG00
+Sáenz Sáenz NPCNSP0
 Sáez Sáez NPCNSP0
 Sánchez Sánchez NPCNSP0
 Sèptim Sèptim NPMSSP0
@@ -20014,6 +20015,7 @@ Teixonera Teixonera NPFSG00
 Teià Teià NPCSG00
 Tel-Aviv-Yafō Tel-Aviv-Yafō NPCSG00
 Telde Telde NPCSG00
+Telemadrid Telemadrid NPFSO00
 Telescopi Telescopi NPMSG00
 Telesfor Telesfor NPMSSP0
 Telesfors Telesfor NPMPSP0
