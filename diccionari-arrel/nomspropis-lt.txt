@@ -11066,6 +11066,7 @@ Krasnojarsk Krasnojarsk NPCSG00
 Krefeld Krefeld NPCSG00
 Krimsk Krimsk NPCSG00
 Kristiansand Kristiansand NPCSG00
+Krixna Krixna NPMSSP0
 Krk Krk NPCSG00
 Krkonoše Krkonoše NPCSG00
 Kronstadt Kronstadt NPCSG00
@@ -17003,6 +17004,7 @@ Rajasthan Rajasthan NPCSG00
 Rajau Rajau NPCNSP0
 Rajoy Rajoy NPCNSP0
 Rakhine Rakhine NPCSG00
+Rakhmàninov Rakhmàninov NPCNSP0
 Ral Ral NPCSG00
 Raleigh Raleigh NPCSG00
 Ralic Ralic NPCNSP0
@@ -18836,6 +18838,7 @@ Serenyana Serenyana NPCNSP0
 Sergi Sergi NPMSSP0
 Sergipe Sergipe NPCSG00
 Sergis Sergi NPMPSP0
+Serguei Serguei NPMSSP0
 Serigó Serigó NPCNSP0
 Serinanell Serinanell NPCNSP0
 Serinyac Serinyac NPCNSP0
