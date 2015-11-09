@@ -13044,6 +13044,7 @@ Merli Merli NPCSG00
 Merlo Merlo NPCSG00
 Merlès Merlès NPCNSP0
 Merlès Merlès NPCSG00
+Merlí Merlí NPMSSP0
 Meroe Meroe NPCSG00
 Merola Merola NPCNSP0
 Mersch Mersch NPCSG00
