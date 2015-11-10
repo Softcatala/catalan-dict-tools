@@ -14476,6 +14476,7 @@ Noves Noves NPCNSP0
 Novetlè Novetlè NPCSG00
 Novgorod Novgorod NPCSG00
 Novials Novials NPCNSP0
+Novo-Ogariovo Novo-Ogariovo NPCSG00
 Novokujbyševsk Novokujbyševsk NPCSG00
 Novokuzneck Novokuzneck NPCSG00
 Novomoskovsk Novomoskovsk NPCSG00
