@@ -6353,6 +6353,7 @@ autocomplaença=categories: F;fonts: LT;
 autocompleció=categories: F;fonts: LT;
 autocomprensió=categories: F;fonts: derivat;
 autocomprovació=categories: F;fonts: derivat;
+autoconcepció=categories: F;fonts: derivat;
 autoconcepte=categories: M;fonts: LT;
 autoconducció=categories: F;fonts: LT;
 autoconeixement=categories: M;fonts: derivat;
