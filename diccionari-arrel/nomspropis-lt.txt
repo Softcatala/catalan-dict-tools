@@ -6848,6 +6848,7 @@ Dorset Dorset NPCSG00
 Dorsten Dorsten NPCSG00
 Dortmund Dortmund NPMSG00
 Dorve Dorve NPCSG00
+Dorífor Dorífor NPMSSP0
 Dosaigües Dosaigües NPCNSP0
 Dosaigües Dosaigües NPFPG00
 Dositeu Dositeu NPMSSP0
@@ -14488,6 +14489,7 @@ Novošakhtinsk Novošakhtinsk NPCSG00
 Novska Novska NPCSG00
 Noyon Noyon NPCSG00
 Noè Noè NPMSSP0
+Noèlia Nòelia NPFSSP0
 Noé Noè NPMSSP0
 Nsanje Nsanje NPCSG00
 Ntchisi Ntchisi NPCSG00
@@ -16060,6 +16062,7 @@ Pole Pole NPCNSP0
 Policarp Policarp NPMSSP0
 Policarps Policarp NPMPSP0
 Policart Policart NPCNSP0
+Policlet Policlet NPMSSP0
 Policroni Policroni NPMSSP0
 Policronis Policroni NPMPSP0
 Polidor Polidor NPMSSP0
@@ -21544,6 +21547,7 @@ Vesera Vesera NPCSG00
 Vesoul Vesoul NPCSG00
 Vespa Vespa NPCNSP0
 Vespa Vespa NPFSG00
+Vespasià Vespasià NPMSSP0
 Vespella Vespella NPFSG00
 Vesta Vesta NPCSG00
 Vestfjorden Vestfjorden NPCSG00
