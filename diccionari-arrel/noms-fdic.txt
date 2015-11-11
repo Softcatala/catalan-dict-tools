@@ -58480,6 +58480,7 @@ subsector=categories: M;fonts: LT;
 subseqüència=categories: F;fonts: derivat;
 subseu=categories: F;fonts: LT;
 subsidi=categories: M;fonts: LT;
+subsidiació=categories: F;fonts: derivat;
 subsidiarietat=categories: F;fonts: LT;
 subsidència=categories: F;fonts: LT;
 subsistema=categories: M;fonts: LT;

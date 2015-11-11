@@ -26,6 +26,8 @@ aquestos
 retràs
 sen
 transfons
+vagada
+vagades
 
 EXCLOU LEMA DE TOTS
 alelat
