@@ -54393,7 +54393,6 @@ ribella=categories: F;fonts: LT;
 ribeller=categories: M;fonts: LT;
 riber=categories: M;fonts: LT;
 ribera=categories: F;fonts: LT;
-riberada=categories: F;fonts: LT;
 riberal=categories: M;fonts: LT;
 riberatge=categories: M;fonts: LT;
 ribesalter ribesaltera=categories: MF;fonts: LT;
