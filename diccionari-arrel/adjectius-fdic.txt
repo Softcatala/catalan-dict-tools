@@ -2654,7 +2654,6 @@ atractívol atractívola=categories: A;fonts: LT;
 atraient=categories: A;fonts: LT;
 atreballat atreballada=categories: A;fonts: LT;
 atrenyellat atrenyellada=categories: A;fonts: LT;
-atrezzista=categories: A;fonts: LT;
 atrial=categories: A;fonts: LT;
 atributiu atributiva=categories: A;fonts: LT;
 atribuïble=categories: A;fonts: LT;

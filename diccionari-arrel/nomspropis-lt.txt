@@ -3241,6 +3241,7 @@ Bertins Bertí NPMPSP0
 Bertol Bertol NPCNSP0
 Bertold Bertold NPMSSP0
 Bertolds Bertold NPMPSP0
+Bertolucci Bertolucci NPCNSP0
 Bertral Bertral NPCNSP0
 Bertran Bertran NPCNSP0
 Bertrana Bertrana NPCNSP0
@@ -15352,6 +15353,7 @@ Pascasi Pascasi NPMSSP0
 Pascasis Pascasi NPMPSP0
 Pasco Pasco NPCSG00
 Pascó Pascó NPCNSP0
+Pasolini Pasolini NPCNSP0
 Pasqual Pasqual NPCNSP0
 Pasqual Pasqual NPMSSP0
 Pasquala Pasqual NPFSSP0
@@ -21347,6 +21349,7 @@ València València NPMSO00
 Valèria Valèria NPFSSP0
 Valèries Valèria NPFPSP0
 Valès Valès NPCNSP0
+Valéry Valéry NPCNSP0
 Valònia Valònia NPFSG00
 Vanacloig Vanacloig NPCNSP0
 Vanacloig Vanacloig NPCSG00
@@ -21518,6 +21521,7 @@ Vergós Vergós NPCNSP0
 Veri Veri NPCSG00
 Verkami Verkami NPMSO00
 Verkhojansk Verkhojansk NPCSG00
+Verlaine Verlaine NPCNSP0
 Vermell Vermell NPCNSP0
 Vermont Vermont NPCSG00
 Vern Vern NPCNSP0
