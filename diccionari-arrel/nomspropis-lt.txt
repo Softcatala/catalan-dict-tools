@@ -17233,6 +17233,7 @@ Rella Rella NPCNSP0
 Relleu Relleu NPCNSP0
 Rellinars Rellinars NPCSG00
 Relui Relui NPCNSP0
+Rembrandt Rembrandt NPCNSP0
 Remei Remei NPCSSP0
 Remei Remei NPMSG00
 Remeis Remei NPCPSP0
@@ -17260,6 +17261,7 @@ Rende Rende NPCSG00
 Renfe Renfe NPFSO00
 Rennes Rennes NPCSG00
 Reno Reno NPCSG00
+Renoir Renoir NPCNSP0
 Renom Renom NPCNSP0
 Renovell Renovell NPCNSP0
 Rentería Rentería NPCSG00
@@ -17558,6 +17560,7 @@ Rochefort Rochefort NPCSG00
 Rochelle Rochelle NPCSG00
 Rochester Rochester NPCSG00
 Rocina Rocina NPCSG00
+Rockefeller Rockefeller NPCNSP0
 Rockford Rockford NPCSG00
 Rocosa Rocosa NPCNSP0
 Rocs Roc NPMPSP0
