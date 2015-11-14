@@ -6429,6 +6429,7 @@ cuneal=categories: A;fonts: LT;
 cuneïforme=categories: A;fonts: LT;
 cunicular=categories: A;fonts: LT;
 cunitenc cunitenca=categories: A;fonts: LT;
+cupaire=categories: A;fonts: derivat de CUP;
 cuproamoniacal=categories: A;fonts: LT;
 cuprífer cuprífera=categories: A;fonts: LT;
 cuprós cuprosa=categories: A;fonts: LT;

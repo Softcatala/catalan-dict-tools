@@ -2763,6 +2763,7 @@ Bastetània Bastetània NPFSG00
 Bastiat Bastiat NPCNSP0
 Bastida Bastida NPCNSP0
 Bastida Bastida NPFSG00
+Bastilla Bastilla NPFSG00
 Bastogne Bastogne NPCSG00
 Bastons Bastons NPCNSP0
 Basturs Basturs NPCSG00
@@ -16212,7 +16213,7 @@ Porredon Porredon NPCNSP0
 Porrentruy Porrentruy NPCSG00
 Porrera Porrera NPCNSP0
 Porrera Porrera NPFSG00
-Porreres Porreres NPCSG00
+Porreres Porreres NPFPG00
 Porres Porres NPCNSP0
 Porro Porro NPCNSP0
 Porroig Porroig NPCSG00
