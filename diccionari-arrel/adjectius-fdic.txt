@@ -17406,6 +17406,7 @@ ostensiu ostensiva=categories: A;fonts: LT;
 ostentador ostentadora=categories: A;fonts: LT;
 ostentatiu ostentativa=categories: A;fonts: LT;
 ostentós ostentosa=categories: A;fonts: LT;
+osteoarticular=categories: A;fonts: termcat;
 osteocartilaginós osteocartilaginosa=categories: A;fonts: LT;
 osteogen osteògena=categories: A;fonts: LT;
 osteogràfic osteogràfica=categories: A;fonts: LT;
