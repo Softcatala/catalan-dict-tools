@@ -16495,6 +16495,7 @@ corbatí=categories: M;fonts: LT;
 corbató=categories: M;fonts: LT;
 corbell=categories: M;fonts: LT;
 corbella=categories: F;fonts: LT;
+corbellada=categories: F;fonts: AVL;
 corbellot=categories: M;fonts: LT;
 corbelló=categories: M; fonts: Jané;
 corbera=categories: F;fonts: LT;

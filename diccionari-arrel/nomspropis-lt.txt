@@ -1148,6 +1148,7 @@ Alèdua Alèdua NPCSG00
 Alès Alès NPCSG00
 Alèsia Alèsia NPCSG00
 Alés Alés NPCNSP0
+Alí Alí NPMSSP0
 Alícia Alícia NPFSSP0
 Alícies Alícia NPFPSP0
 Alòdia Alòdia NPFSSP0
@@ -4205,6 +4206,7 @@ CDC CDC NPFSO00
 CDS CDS NPMSO00
 CEE CEE NPFSO00
 CEOE CEOE NPFSO00
+CERN CERN NPMSO00
 CGPJ CGPJ NPMSO00
 CGT CGT NPFSO00
 CIS CIS NPMSO00
@@ -5103,6 +5105,7 @@ Castoris Castori NPMPSP0
 Castres Castres NPCSG00
 Castries Castries NPCSG00
 Castrillón Castrillón NPCSG00
+Castro Castro NPCNSP0
 Castrop-Rauxel Castrop-Rauxel NPCSG00
 Castrovillari Castrovillari NPCSG00
 Casts Cast NPMPSP0
@@ -5464,6 +5467,7 @@ Cinquers Cinquers NPCNSP0
 Cinqueta Cinqueta NPMSG00
 Cinta Cinta NPFSSP0
 Cintes Cinta NPFPSP0
+Cinto Cinto NPMSSP0
 Cinyana Cinyana NPMSG00
 Ciociaria Ciociaria NPCSG00
 Cions Ció NPFPSP0
@@ -7412,6 +7416,7 @@ Espadella Espadella NPCSG00
 Espadà Espadà NPMSG00
 Espaillat Espaillat NPCSG00
 Espanya Espanya NPFSG00
+Espanyes Espanya NPFPG00
 Espanyol Espanyol NPCNSP0
 Espanyó Espanyó NPCNSP0
 Esparc Esparc NPCNSP0
@@ -10772,6 +10777,7 @@ Just Just NPMSSP0
 Justa Justa NPFSSP0
 Justafrè Justafrè NPCNSP0
 Justes Justa NPFPSP0
+Justin Justin NPMSSP0
 Justina Justina NPFSSP0
 Justines Justina NPFPSP0
 Justinians Justinià NPMPSP0
@@ -11593,6 +11599,7 @@ Lleuder Lleuder NPCNSP0
 Lleuger Lleuger NPCNSP0
 Lleus Lleus NPMPG00
 Lleuxa Lleuxa NPCSG00
+Llevant Llevant NPMSG00
 Llevat Llevat NPCNSP0
 Llevata Llevata NPCNSP0
 Lleïr Lleïr NPMSSP0
@@ -16920,6 +16927,7 @@ Quneitra Quneitra NPCSG00
 Qustol Qustol NPCSG00
 Quthing Quthing NPCSG00
 Quzhou Quzhou NPCSG00
+RAC RAC NPFSO00
 RACCTel RACCTel NPCNO00
 RAI RAI NPFSO00
 RDA RDA NPFSG00
@@ -20158,6 +20166,7 @@ Terçol Terçol NPCNSP0
 Terència Terència NPFSSP0
 Terències Terència NPFPSP0
 Tesco Tesco NPCNO00
+Teseu Teseu NPMSSP0
 Tessalit Tessalit NPCSG00
 Tessalònica Tessalònica NPFSG00
 Tessàlia Tessàlia NPFSG00
