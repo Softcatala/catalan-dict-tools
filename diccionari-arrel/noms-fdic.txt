@@ -64376,6 +64376,7 @@ videotelefonia=categories: F;fonts: LT;
 videotelèfon=categories: M;fonts: LT;
 videoterminal=categories: M;fonts: LT;
 videotext=categories: M;fonts: LT;
+videotrucada=categories: F;fonts: termcat;
 videotutorial=categories: M;fonts: derivat;
 videovigilància=categories: F;fonts: LT;
 videòfon=categories: M;fonts: LT;
