@@ -5004,6 +5004,7 @@ Cassanyes Cassanyes NPCSG00
 Cassanyol Cassanyol NPCNSP0
 Cassanys Cassanys NPCNSP0
 Casserres Casserres NPCSG00
+Cassi Cassi NPMSSP0
 Cassians Cassià NPMPSP0
 Cassibrós Cassibrós NPCSG00
 Cassino Cassino NPCSG00
@@ -11959,6 +11960,7 @@ Lünen Lünen NPCSG00
 Lüshun Lüshun NPCSG00
 Lāhaur Lāhaur NPCSG00
 MACBA MACBA NPMSO00
+MIDI MIDI NPMSO00
 MIME MIME NPMNO00
 MNAC MNAC NPMSO00
 Ma'rib Ma'rib NPCSG00
@@ -13083,6 +13085,7 @@ Messiaen Messiaen NPCNSP0
 Messina Messina NPFSG00
 Messàpia Messàpia NPFSG00
 Messènia Messènia NPFSG00
+Mestalla Mestalla NPMSG00
 Mestghanem Mestghanem NPCSG00
 Mestre Mestre NPCNSP0
 Mestre Mestre NPCSG00
@@ -13126,6 +13129,7 @@ Microsoft Microsoft NPCNO00
 Micó Micó NPCNSP0
 Middlesbrough Middlesbrough NPCSG00
 Middleton Middleton NPCSG00
+Midi Midi NPMSG00
 Midlands Midlands NPCPG00
 Midway Midway NPCSG00
 Mieres Mieres NPCNSP0
@@ -14411,6 +14415,7 @@ Nogueroles Nogueroles NPCNSP0
 Noguers Noguers NPCNSP0
 Nogueró Nogueró NPCNSP0
 Noguet Noguet NPCNSP0
+Nogués Nogués NPCNSP0
 Noi Noi NPCNSP0
 Noia Noia NPCSG00
 Noirmoutier Noirmoutier NPCSG00
@@ -14698,6 +14703,7 @@ Olius Olius NPCSG00
 Oliva Oliva NPCNSP0
 Oliva Oliva NPCSG00
 Olivar Olivar NPCNSP0
+Olivares Olivares NPCNSP0
 Olivars Olivars NPCSG00
 Oliveda Oliveda NPCNSP0
 Oliveda Oliveda NPCSG00
@@ -15347,6 +15353,7 @@ Parthenay Parthenay NPCSG00
 Partinico Partinico NPCSG00
 Parvān Parvān NPCSG00
 Pará Pará NPCSG00
+Parés Parés NPCNSP0
 París París NPCNSP0
 París París NPMSG00
 Pas Pas NPMSG00
@@ -15527,6 +15534,7 @@ Pelegrí Pelegrí NPCNSP0
 Pelegrí Pelegrí NPMSSP0
 Peleguer Peleguer NPCNSP0
 Pelejaneta Pelejaneta NPFSG00
+Peleu Peleu NPMSSP0
 Pelfort Pelfort NPCNSP0
 Pella Pella NPCNSP0
 Pellicer Pellicer NPCNSP0
@@ -15905,6 +15913,7 @@ Pinós Pinós NPCNG00
 Pinós Pinós NPCNSP0
 Pioltello Pioltello NPCSG00
 Piombino Piombino NPCSG00
+Pioneer Pioneer NPCNO00
 Piotrków Piotrków NPCSG00
 Piquer Piquer NPCNSP0
 Piquera Piquera NPCNSP0
@@ -16084,6 +16093,7 @@ Polignac Polignac NPCNSP0
 Polina Polina NPCNSP0
 Polinyà Polinyà NPCSG00
 Polinèsia Polinèsia NPFSG00
+Polisario Polisario NPMSO00
 Polit Polit NPCNSP0
 Politkóvskaia Politkóvskaia NPCNSP0
 Polixena Polixena NPFSSP0
@@ -16146,6 +16156,7 @@ Pondicherry Pondicherry NPCSG00
 Ponferrada Ponferrada NPCSG00
 Poni Poni NPCSG00
 Poniatowski Poniatowski NPCNSP0
+Pons Pons NPCNSP0
 Ponsà Ponsà NPCNSP0
 Pont Pont NPCNSP0
 Pont-xetmar Pont-xetmar NPCSG00
@@ -17777,6 +17788,8 @@ Rotherham Rotherham NPCSG00
 Rotlan Rotlan NPCNSP0
 Rotliegendes Rotliegendes NPCSG00
 Rotlleus Rotlleus NPCNSP0
+Rotllà Rotllà NPMSSP0
+Rotlà Rotlà NPMSSP0
 Rotterdam Rotterdam NPCSG00
 Roubaix Roubaix NPCSG00
 Rouen Rouen NPCSG00
@@ -20332,6 +20345,7 @@ Tokuyama Tokuyama NPCSG00
 Tol'atti Tol'atti NPCSG00
 Tolba Tolba NPFSG00
 Tolbukhin Tolbukhin NPCSG00
+Toldrà Toldrà NPCNSP0
 Toledo Toledo NPCSG00
 Tolentino Tolentino NPCSG00
 Toliary Toliary NPCSG00
