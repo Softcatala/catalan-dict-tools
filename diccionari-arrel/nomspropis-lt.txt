@@ -1604,6 +1604,7 @@ Aquil·les Aquil·les NPMPSP0
 Aquil·les Aquil·les NPMSSP0
 Aquil·leu Aquil·leu NPMSSP0
 Aquilí Aquilí NPMSSP0
+Aquino Aquino NPMSG00
 Aquisgrà Aquisgrà NPCSG00
 Aquitània Aquitània NPFSG00
 Ara Ara NPCSG00
@@ -16737,6 +16738,7 @@ Pujòlo Pujòlo NPCSG00
 Pujó Pujó NPCNSP0
 Pujós Pujós NPCNSP0
 Pula Pula NPCSG00
+Pulitzer Pulitzer NPCNSP0
 Pulla Pulla NPFSG00
 Pullès Pullès NPCNSP0
 Pulquèria Pulquèria NPFSSP0
@@ -22252,6 +22254,7 @@ Williams Williams NPCNSP0
 Wilmersdorf Wilmersdorf NPCSG00
 Wilmington Wilmington NPCSG00
 Wilrijk Wilrijk NPCSG00
+Wilson Wilson NPCNSP0
 Wiltshire Wiltshire NPCSG00
 Wiltz Wiltz NPCSG00
 Wimbledon Wimbledon NPCSG00
