@@ -57696,6 +57696,7 @@ socarrina=categories: F;fonts: LT;
 soci sòcia=categories: MF;fonts: LT;
 sociabilitat=categories: F;fonts: LT;
 sociació=categories: F;fonts: LT;
+socialcristianisme=categories: M;fonts: viquipedia;
 socialdemocràcia=categories: F;fonts: LT;
 socialdemòcrata=categories: MF;fonts: LT;
 socialisme=categories: M;fonts: LT;

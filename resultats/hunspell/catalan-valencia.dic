@@ -1,4 +1,4 @@
-131795
+131851
 10a
 10es
 10ns
@@ -1156,6 +1156,7 @@ Alèdua/_Y_V
 Alès/_Y_V
 Alèsia/_Y_V
 Alés/_Y_V
+Alí/_Y_V
 Alícia/_Y_V
 Alícies/_Y
 Alòdia/_Y_V
@@ -1590,6 +1591,7 @@ Aquil·les/_Y
 Aquil·les/_Y_V
 Aquil·leu/_Y_V
 Aquilí/_Y_V
+Aquino/_Y_V
 Aquisgrà/_Y_V
 Aquitània/_Y_V
 Ara/_Y_V
@@ -2667,6 +2669,7 @@ Baster
 Bastetània
 Bastiat
 Bastida
+Bastilla
 Bastogne
 Bastons
 Basturs
@@ -4014,6 +4017,7 @@ CDS
 CEE
 CEIP
 CEOE
+CERN
 CGPJ
 CGT
 CIF
@@ -4731,6 +4735,7 @@ Cassanyes
 Cassanyol
 Cassanys
 Casserres
+Cassi
 Cassians
 Cassibrós
 Cassino
@@ -4818,6 +4823,7 @@ Castoris
 Castres
 Castries
 Castrillón
+Castro
 Castrop-Rauxel
 Castrovillari
 Casts
@@ -5161,6 +5167,7 @@ Cinquers
 Cinqueta
 Cinta
 Cintes
+Cinto
 Cinyana
 Ciociaria
 Cions
@@ -5802,6 +5809,7 @@ Crescència
 Crescències
 Crespins
 Crespià
+Crespo
 Crespí
 Creta
 Cretes
@@ -6998,6 +7006,7 @@ Espadella/_Y_V
 Espadà/_Y_V
 Espaillat/_Y_V
 Espanya/_Y_V
+Espanyes/_Y
 Espanyol/_Y_V
 Espanyó/_Y_V
 Esparc/_Y_V
@@ -10154,6 +10163,7 @@ Just
 Justa
 Justafrè
 Justes
+Justin
 Justina
 Justines
 Justinians
@@ -10986,6 +10996,7 @@ Lleuder
 Lleuger
 Lleus
 Lleuxa
+Llevant
 Llevat
 Llevata
 Lleïr
@@ -11314,6 +11325,7 @@ Lüshun
 Lāhaur
 MACBA
 MHz
+MIDI
 MIME
 MNAC
 MP3
@@ -12339,6 +12351,7 @@ Messiaen
 Messina
 Messàpia
 Messènia
+Mestalla
 Mestghanem
 Mestre
 Mestres
@@ -12380,6 +12393,7 @@ Microsoft
 Micó
 Middlesbrough
 Middleton
+Midi
 Midlands
 Midway
 Mieres
@@ -13549,6 +13563,7 @@ Nogueroles
 Noguers
 Nogueró
 Noguet
+Nogués
 Noi
 Noia
 Noirmoutier
@@ -13831,6 +13846,7 @@ Oliu/_Y_V
 Olius/_Y_V
 Oliva/_Y_V
 Olivar/_Y_V
+Olivares/_Y_V
 Olivars/_Y_V
 Oliveda/_Y_V
 Olivella/_Y_V
@@ -14443,6 +14459,7 @@ Partinico
 Parvān
 Paràclit/_E
 Pará
+Parés
 París
 Pas
 Pas-de-Calais
@@ -14606,6 +14623,7 @@ Pelegrinyó
 Pelegrí
 Peleguer
 Pelejaneta
+Peleu
 Pelfort
 Pella
 Pellicer
@@ -14955,6 +14973,7 @@ Pinçac
 Pinós
 Pioltello
 Piombino
+Pioneer
 Piotrków
 Piquer
 Piquera
@@ -15090,6 +15109,8 @@ Pocahontas
 Pociello
 Pocoví
 Podebrady
+Podem
+Podemos
 Podgorica
 Podlàquia
 Podrony
@@ -15123,6 +15144,7 @@ Polignac
 Polina
 Polinyà
 Polinèsia
+Polisario
 Polit
 Politkóvskaia
 Polixena
@@ -15181,6 +15203,7 @@ Pondicherry
 Ponferrada
 Poni
 Poniatowski
+Pons
 Ponsà
 Pont
 Pont-xetmar
@@ -15714,6 +15737,7 @@ Pujòlo
 Pujó
 Pujós
 Pula
+Pulitzer
 Pulla
 Pullès
 Pulquèria
@@ -15899,6 +15923,7 @@ Quthing
 Quzhou
 R+D
 R+D+I
+RAC
 RACCTel
 RAI
 RDA
@@ -16663,6 +16688,8 @@ Rotherham
 Rotlan
 Rotliegendes
 Rotlleus
+Rotllà
+Rotlà
 Rotterdam
 Roubaix
 Rouen
@@ -18886,6 +18913,7 @@ Terçol
 Terència
 Terències
 Tesco
+Teseu
 Tessalit
 Tessalònica
 Tessàlia
@@ -19040,6 +19068,7 @@ Tokuyama
 Tol'atti
 Tolba
 Tolbukhin
+Toldrà
 Toledo
 Tolentino
 Toliary
@@ -20777,6 +20806,7 @@ Williams
 Wilmersdorf
 Wilmington
 Wilrijk
+Wilson
 Wiltshire
 Wiltz
 Wimbledon
@@ -29286,6 +29316,8 @@ anticatalanista/_E_V_Y
 anticatalà/_H_V_Y
 anticatarral/_E_V_Y
 anticatolicisme/_E_V_Y
+anticatòlic/_F_V_Y
+anticatòlica/_V_Y
 anticel·lulitis/_V_Y
 anticel·lulític/_F_V_Y
 anticel·lulítica/_V_Y
@@ -33383,6 +33415,8 @@ assignabilitat/_E_V_Y
 assignable/_E_V_Y
 assignació/_G_V_Y
 assignada/_V
+assignador/_F_V_Y
+assignadora/_V_Y
 assignar/28
 assignat/_E_V_Y
 assignatari/_K_V_Y
@@ -33419,6 +33453,7 @@ assirià/_G_V_Y
 assirià/_H_V_Y
 assistencial/_E_V_Y
 assistencialisme/_E_V_Y
+assistencialista/_E_V_Y
 assistent/_E_V_Y
 assistenta/_E_V_Y
 assistida/_V
@@ -43357,6 +43392,7 @@ cascadura/_E
 cascall/_E
 cascament/_E
 cascar/91
+cascarra/_E
 cascarres
 cascarrulla/_E
 cascarrós/_J
@@ -43373,7 +43409,6 @@ cascun
 cascuna
 cascunes
 cascuns
-cascàrria/_E
 cascàrries
 cascú
 casell/_E
@@ -44714,10 +44749,12 @@ cibercriminologia/_E
 cibercultura/_E
 ciberdelicte/_E
 ciberdelinqüent/_E
+ciberdelinqüència/_E
 ciberdependència/_E
 ciberespai/_E
 ciberfeminisme/_E
 ciberfòbia/_E
+ciberguerra/_E
 ciberlegislació/_G
 ciberllenguatge/_E
 cibernauta/_E
@@ -49086,6 +49123,7 @@ corbatí/_G
 corbató/_G
 corbell/_E
 corbella/_E
+corbellada/_E
 corbellot/_E
 corbelló/_G
 corbera/_E
@@ -50866,6 +50904,7 @@ cunyat/_E
 cunç/_I
 cuot/_E
 cup/_E
+cupaire/_E
 cupatge/_E
 cupiditat/_E
 cupido/_E
@@ -55810,6 +55849,7 @@ dimanació/_G
 dimanar/00
 dimarts
 dimecres
+dimensionable/_E
 dimensional/_E
 dimensionalitat/_E
 dimensionament/_E
@@ -61251,6 +61291,7 @@ enflonc/_E_V_Y
 enfloració/_G_V_Y
 enflorada/_V
 enflorar/28
+enfocable/_E_V_Y
 enfocada/_V
 enfocament/_E_V_Y
 enfocar/91
@@ -71631,6 +71672,7 @@ feculós/_J
 fecund/_F
 fecundable/_E
 fecundació/_G
+fecundador/_F
 fecundament
 fecundant/_E
 fecundar/00
@@ -74445,6 +74487,7 @@ frontista/_E
 frontoclipi/_E
 frontofocòmetre/_E
 frontogènesi/_E
+frontolateral/_E
 frontolisi/_E
 frontoparietal/_E
 frontpopulista/_E
@@ -75318,6 +75361,7 @@ galènic/_F
 galènica/_E
 galó/_G
 gam/_E
+gama/ZZ
 gamadiu/_B
 gamadura/_E
 gamar/00
@@ -75357,6 +75401,7 @@ gambúsia/_E
 gamelan/_E
 gamella/_E
 gamellada/_E
+games/ZZ
 gametangi/_E
 gametangiogàmia/_E
 gametocida/_E
@@ -92564,7 +92609,6 @@ micòfit/_E
 micòleg/_K
 micòtic/_F
 mida/_E
-midar/00
 midoner/_E
 midonera/_E
 midraix/_I
@@ -99683,6 +99727,7 @@ ostentosa/_V_Y
 ostentosament/_Y_V
 ostentositat/_E_V_Y
 ostentós/_J_V_Y
+osteoarticular/_E_V_Y
 osteoartropatia/_E_V_Y
 osteoblast/_E_V_Y
 osteoblastoma/_E_V_Y
@@ -102777,6 +102822,7 @@ perdonavides
 perdre/02
 perduda/_E
 perdudament
+perdudíssim/_F
 perdulari/_E
 perdulària/_E
 perdurabilitat/_E
@@ -106517,6 +106563,7 @@ postrevolucionari/_K
 postromanticisme/_E
 postromàntic/_F
 posts
+postsimbolisme/_E
 postsimbolista/_E
 postsinàptic/_F
 postterme
@@ -115101,6 +115148,7 @@ ruixim/_E
 ruixó/_G
 ruleta/_E
 rull/_E
+rull/_F
 rullar/00
 rulleta/_E
 rullol/_E
@@ -117462,6 +117510,7 @@ seqüela/_E
 seqüenciació/_G
 seqüenciador/_E
 seqüencial/_E
+seqüencialitat/_E
 seqüenciar/40
 seqüestració/_G
 seqüència/_E
@@ -118837,6 +118886,7 @@ sobrehumà/_H
 sobreimposició/_G
 sobreimpressió/_G
 sobreimprimir/5E
+sobreingesta/_E
 sobreintensitat/_E
 sobrejou/_E
 sobrejunter/_E
@@ -119002,6 +119052,8 @@ sociable/_E
 sociablement
 sociació/_G
 social/_E
+socialcristianisme/_E
+socialcristià/_H
 socialdemocràcia/_E
 socialdemòcrata/_E
 socialisme/_E
@@ -127952,6 +128004,7 @@ valona/_E
 valor/_E
 valorable/_E
 valoració/_G
+valorador/_F
 valorant/_E
 valorar/00
 valoratiu/_B
@@ -129040,6 +129093,7 @@ videotelefonia/_E
 videotelèfon/_E
 videoterminal/_E
 videotext/_E
+videotrucada/_E
 videotutorial/_E
 videovigilat/_B
 videovigilància/_E
@@ -130394,6 +130448,7 @@ xarpellera/_E
 xarpó/_G
 xarrabascat/_E
 xarrada/_E
+xarradeta/_E
 xarradissa/_E
 xarrador/_F
 xarraire/_E
@@ -130570,6 +130625,7 @@ xerrac/_E
 xerracada/_E
 xerracar/91
 xerrada/_E
+xerradeta/_E
 xerradissa/_E
 xerrador/_E
 xerrador/_F

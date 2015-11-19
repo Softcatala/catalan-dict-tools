@@ -22114,6 +22114,7 @@ sobtós sobtosa=categories: A;fonts: LT;
 socarrenc socarrenca=categories: A;fonts: LT;
 sociable=categories: A;fonts: LT;
 social=categories: A;fonts: LT;
+socialcristià socialcristiana=categories: A;fonts: GEC;
 socialdemòcrata=categories: A;fonts: LT;
 socialista=categories: A;fonts: LT;
 socialitzador socialitzadora=categories: A;fonts: LT;
