@@ -17144,6 +17144,7 @@ omental=categories: A;fonts: LT;
 ometenc ometenca=categories: A;fonts: LT;
 ominós ominosa=categories: A;fonts: LT;
 omissible=categories: A;fonts: LT;
+omnicomprensiu omnicomprensiva=categories: A;fonts: derivat, GEC;
 omnidireccional=categories: A;fonts: LT;
 omnipotent=categories: A;fonts: LT;
 omnipresent=categories: A;fonts: LT;
