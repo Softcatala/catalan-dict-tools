@@ -20288,6 +20288,7 @@ Tindouf Tindouf NPCSG00
 Tineo Tineo NPCSG00
 Tingis Tingis NPCSG00
 Tinos Tinos NPCSG00
+Tinto Tinto NPMSG00
 Tints Tints NPMPG00
 Tintín Tintín NPMSSP0
 Tipasa Tipasa NPCSG00

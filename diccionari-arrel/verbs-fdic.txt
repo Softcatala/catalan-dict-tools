@@ -8483,6 +8483,7 @@ regularitzar=categories: V;model:cantar;fonts:LT
 regurgitar=categories: V;model:cantar;fonts:LT
 rehabilitar=categories: V;model:cantar;fonts:LT
 rehidratar=categories: V;model:cantar;fonts:LT
+reimaginar=categories: V;model:abominar;fonts: derivat;
 reimplantar=categories: V;model:cantar;fonts:LT
 reimportar=categories: V;model:cantar;fonts:LT
 reimposar=categories: V;model:anquilosar;fonts:LT
