@@ -7092,6 +7092,7 @@ El-Jadida El-Jadida NPCSG00
 El-Khémisset El-Khémisset NPCSG00
 Eladi Eladi NPMSSP0
 Eladis Eladi NPMPSP0
+Elagàbal Elagàbal NPMSSP0
 Elam Elam NPMSG00
 Elancourt Elancourt NPCSG00
 Elat Elat NPCSG00
@@ -16512,10 +16513,9 @@ Pròsper Pròsper NPCNSP0
 Pròsper Pròsper NPMSSP0
 Pròspers Pròsper NPMPSP0
 Prússia Prússia NPFSG00
-Pseudoclementines Pseudoclementines NPCSG00
 Pskov Pskov NPCSG00
-Ptolomeu Ptolomeu NPMSSP0
-Ptolomeus Ptolomeu NPMPSP0
+Ptolemeu Ptolemeu NPMSSP0
+Ptolemeus Ptolemeu NPMPSP0
 Pubill Pubill NPCNSP0
 Publi Publi NPMSSP0
 Publis Publi NPMPSP0
