@@ -6430,6 +6430,7 @@ handicapar=categories: V;model:cantar;fonts:LT
 harmonitzar=categories: V;model:cantar;fonts:LT
 haver=categories: V;model:haver;fonts:LT
 hebraïtzar=categories: V;model:cantar;fonts:LT
+hegemonitzar=categories: V;model:cantar;fonts: derivat, dfrequencies;
 helitransportar=categories: V;model:cantar;fonts:LT
 hel·lenitzar=categories: V;model:cantar;fonts:LT
 hemodialitzar=categories: V;model:cantar;fonts:LT
