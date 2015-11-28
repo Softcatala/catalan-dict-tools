@@ -1604,6 +1604,7 @@ Aquil·les Aquil·les NPMPSP0
 Aquil·les Aquil·les NPMSSP0
 Aquil·leu Aquil·leu NPMSSP0
 Aquilí Aquilí NPMSSP0
+Aquino Aquino NPCNSP0
 Aquino Aquino NPMSG00
 Aquisgrà Aquisgrà NPCSG00
 Aquitània Aquitània NPFSG00
@@ -11833,6 +11834,7 @@ Loira Loira NPCSG00
 Loiret Loiret NPCSG00
 Loja Loja NPCSG00
 Lola Lola NPFSG00
+Lolita Lolita NPFSSP0
 Lolland Lolland NPCSG00
 Lomami Lomami NPCSG00
 Lombarde Lombarde NPFSG00
