@@ -1310,7 +1310,9 @@ Anatòlia Anatòlia NPCSG00
 Anatòlia Anatòlia NPFSSP0
 Anatòlies Anatòlia NPFPSP0
 Anavall Anavall NPCNSP0
+Anaximandre Anaximandre NPMSSP0
 Anaxàgores Anaxàgores NPMSSP0
+Anaxímenes Anaxímenes NPMSSP0
 Anazarba Anazarba NPCSG00
 Ancash Ancash NPCSG00
 Anchorage Anchorage NPCSG00
@@ -12056,7 +12058,7 @@ Magalona Magalona NPFSG00
 Maganya Maganya NPCNSP0
 Magarola Magarola NPCNSP0
 Magarrofes Magarrofes NPCSG00
-Magdalena Magdalena NPCSG00
+Magdalena Magdalena NPFSG00
 Magdalena Magdalena NPFSSP0
 Magdalenes Magdalena NPFPSP0
 Magdeburg Magdeburg NPCSG00

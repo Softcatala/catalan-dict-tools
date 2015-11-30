@@ -46327,6 +46327,7 @@ pasquer=categories: M;fonts: LT;
 pasquera=categories: F;fonts: LT;
 pasquinada=categories: F;fonts: LT;
 pasquí=categories: M;fonts: LT;
+pasqüer pasqüera=categories: MF;fonts: AVL;
 pasqüeta=categories: F;fonts: LT;
 passa-passa=categories: M;fonts: LT;
 passa-rius=categories: MI;fonts: LT;
