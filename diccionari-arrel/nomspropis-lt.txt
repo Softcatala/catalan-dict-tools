@@ -19527,6 +19527,8 @@ Soviètica Soviètica NPFSG00
 Soweto Soweto NPCSG00
 Spa Spa NPCSG00
 Spandau Spandau NPCSG00
+Sparta Sparta NPMSO00
+Spartak Spartak NPMSO00
 Spessart Spessart NPCSG00
 Spiderman Spiderman NPMSSP0
 Spielberg Spielberg NPCNSP0
@@ -19537,6 +19539,7 @@ Spitzbergen Spitzbergen NPFNG00
 Split Split NPCSG00
 Spokane Spokane NPCSG00
 Spoleto Spoleto NPCSG00
+Sporting Sporting NPMSO00
 Spotify Spotify NPMSO00
 Spratly Spratly NPFPG00
 Spree Spree NPCSG00
