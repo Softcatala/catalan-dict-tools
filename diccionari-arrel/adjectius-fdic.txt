@@ -13262,6 +13262,7 @@ interceptiu interceptiva=categories: A;fonts: LT;
 interceptor interceptora=categories: A;fonts: LT;
 intercessor intercessora=categories: A;fonts: LT;
 interclassista=categories: A;fonts: LT;
+intercol·legial=categories: A;fonts: derivat;
 intercomarcal=categories: A;fonts: LT;
 intercomunitari intercomunitària=categories: A;fonts: LT;
 interconfederal=categories: A;fonts: LT;

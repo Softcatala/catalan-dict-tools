@@ -9242,6 +9242,7 @@ Gjirokaster Gjirokaster NPCSG00
 Glandon Glandon NPMSG00
 Glarus Glarus NPCSG00
 Glasgow Glasgow NPCSG00
+Glaucó Glaucó NPMSSP0
 Glaudis Glaudis NPCNSP0
 Glendale Glendale NPCSG00
 Gliceri Gliceri NPMSSP0
@@ -14768,6 +14769,7 @@ Oléo Oléo NPCNSP0
 Olímpia Olímpia NPCSG00
 Olímpia Olímpia NPFSSP0
 Olímpies Olímpia NPFPSP0
+Olívia Olívia NPFSSP0
 Oló Oló NPCNSP0
 Oló Oló NPCSG00
 Om Om NPCSG00
