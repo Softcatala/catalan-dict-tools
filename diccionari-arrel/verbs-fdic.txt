@@ -5993,6 +5993,7 @@ fiar=categories: V;model:crear;fonts:LT
 fiblar=categories: V;model:cantar;fonts:LT
 fiblonejar=categories: V;model:envejar;fonts:LT
 ficar=categories: V;model:trencar;fonts:LT
+ficcionar=categories: V;model:cantar;fonts: esadir, neolosfera;
 fidelitzar=categories: V;model:cantar;fonts:LT
 fideïcometre=categories: V;model:admetre;fonts:LT
 figurar=categories: V;model:cantar;fonts:LT
