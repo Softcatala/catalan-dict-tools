@@ -2531,6 +2531,7 @@ desarxivar=categories: V;model:cantar;fonts: derivat;
 desarçonar=categories: V;model:cantar;fonts:LT
 desassedegar=categories: V;model:pregar;fonts:LT
 desassetjar=categories: V;model:menjar;fonts:LT
+desassignar=categories: V;model:cantar;fonts: derivat;
 desassimilar=categories: V;model:cantar;fonts:LT
 desassossegar=categories: V;model:pregar;fonts:LT
 desatacar=categories: V;model:trencar;fonts:LT
