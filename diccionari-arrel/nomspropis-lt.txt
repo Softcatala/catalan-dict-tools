@@ -4316,6 +4316,7 @@ Cais Cai NPMPSP0
 Cais Cais NPCSG00
 Caius Caius NPMPSP0
 Caius Caius NPMSSP0
+CaixaBank CaixaBank NPMSO00
 Caixac Caixac NPCNSP0
 Caixans Caixans NPCNSP0
 Caixmir Caixmir NPMSG00
