@@ -12027,6 +12027,7 @@ hussita=categories: A;fonts: LT;
 hutu=categories: A;fonts: LT;
 hàbil=categories: A;fonts: LT;
 hàfsida=categories: A;fonts: LT;
+hàptic hàptica=categories: A;fonts: termcat;
 hèctic hèctica=categories: A;fonts: LT;
 hèrnic hèrnica=categories: A;fonts: LT;
 hèrul hèrula=categories: A;fonts: LT;

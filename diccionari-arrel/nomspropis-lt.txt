@@ -15982,6 +15982,7 @@ Pladelasala Pladelasala NPCNSP0
 Pladellorenç Pladellorenç NPCNSP0
 Plademont Plademont NPCNSP0
 Pladollers Pladollers NPCNSP0
+Plaerdemavida Plaerdemavida NPFSSP0
 Plaiensa Plaiensa NPCNSP0
 Plaisir Plaisir NPCSG00
 Plaià Plaià NPCNSP0
