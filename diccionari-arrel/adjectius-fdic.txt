@@ -14156,6 +14156,7 @@ levíssim levíssima=categories: AA;fonts: LT;
 levític levítica=categories: A;fonts: LT;
 lexemàtic lexemàtica=categories: A;fonts: LT;
 lexical=categories: A;fonts: LT;
+lexicogramatical=categories: A;fonts: derivat;
 lexicogràfic lexicogràfica=categories: A;fonts: LT;
 lexicològic lexicològica=categories: A;fonts: LT;
 lexicosemàntic lexicosemàntica=categories: A;fonts: derivat;
