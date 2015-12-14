@@ -19048,6 +19048,7 @@ descartelització=categories: F;fonts: LT;
 descasament=categories: M;fonts: LT;
 descastellanització=categories: F;fonts: LT;
 descatalanització=categories: F;fonts: LT;
+descatalogació=categories: F;fonts: derivat;
 descavalcador=categories: M;fonts: LT;
 desceleració=categories: F;fonts: LT;
 descelerador=categories: M;fonts: LT;
