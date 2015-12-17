@@ -8123,6 +8123,7 @@ Filons Filó NPMPSP0
 Filosia Filosia NPCNSP0
 Filoteu Filoteu NPMSSP0
 Filoteus Filoteu NPMPSP0
+Filèmon Filèmon NPMSSP0
 Filó Filó NPMSSP0
 Fina Fina NPCNSP0
 Fina Fina NPFSSP0
@@ -9882,6 +9883,7 @@ Hanníbal Hanníbal NPMSSP0
 Hanníbals Hanníbal NPMPSP0
 Hanoi Hanoi NPCSG00
 Hansa Hansa NPFSG00
+Hanukkà Hanukkà NPFSO00
 Harare Harare NPCSG00
 Harbin Harbin NPCSG00
 Harcourt Harcourt NPCNSP0
@@ -13209,6 +13211,7 @@ Minos Minos NPCSG00
 Minoves Minoves NPCNSP0
 Minsk Minsk NPCSG00
 Miporquet Miporquet NPCSG00
+Miquees Miquees NPMSSP0
 Miquel Miquel NPCNSP0
 Miquel Miquel NPMSSP0
 Miquelon Miquelon NPMSG00
@@ -13270,6 +13273,7 @@ Misilmeri Misilmeri NPCSG00
 Misiones Misiones NPCSG00
 Miskolc Miskolc NPCSG00
 Mislata Mislata NPFSG00
+Misnà Misnà NPFSO00
 Misrata Misrata NPCSG00
 Misser Misser NPCNSP0
 Misserol Misserol NPCNSP0
@@ -13298,6 +13302,7 @@ Mitry-Mory Mitry-Mory NPCSG00
 Mittelmark Mittelmark NPCSG00
 Mitterrand Mitterrand NPCNSP0
 Mixeu Mixeu NPCNSP0
+Mixnà Mixnà NPFSO00
 Miyagi Miyagi NPCSG00
 Miyakonojō Miyakonojō NPCSG00
 Miyazaki Miyazaki NPCSG00
@@ -14115,6 +14120,7 @@ Nagoya Nagoya NPCSG00
 Nagrella Nagrella NPCNSP0
 Naha Naha NPCSG00
 Nahori Nahori NPCSG00
+Nahum Nahum NPMSSP0
 Naiac Naiac NPCNSP0
 Nairobi Nairobi NPCSG00
 Najaf Najaf NPCSG00
@@ -14259,6 +14265,7 @@ Negro Negro NPCSG00
 Negros Negros NPCSG00
 Negros Negros NPMPG00
 Negrón Negrón NPCSG00
+Nehemies Nehemies NPMSSP0
 Neijiang Neijiang NPCSG00
 Nellore Nellore NPCSG00
 Nelson Nelson NPCSG00
@@ -16812,6 +16819,7 @@ Pèrsia Pèrsia NPFSG00
 Pécs Pécs NPCSG00
 Pérez Pérez NPCNSP0
 Périgueux Périgueux NPCSG00
+Péssah Péssah NPFSO00
 Píndar Píndar NPMSSP0
 Pòlit Pòlit NPCNSP0
 Pòl·lux Pòl·lux NPCSG00
@@ -19243,6 +19251,7 @@ Siricis Sirici NPMPSP0
 Siridions Siridió NPMPSP0
 Siridió Siridió NPMSSP0
 Siros Siros NPCSG00
+Siràcida Siràcida NPMSO00
 Sirès Sirès NPCSG00
 Sisa Sisa NPCNSP0
 Sisak Sisak NPCSG00
@@ -19639,6 +19648,7 @@ Suhl Suhl NPCSG00
 Sui Sui NPCNSP0
 Suita Suita NPCSG00
 Sukhumi Sukhumi NPCSG00
+Sukkot Sukkot NPMSO00
 Sukkur Sukkur NPCSG00
 Sulaimaniya Sulaimaniya NPCSG00
 Sulcis Sulcis NPCSG00
@@ -19916,6 +19926,7 @@ Tan-Tan Tan-Tan NPCSG00
 Tana Tana NPCSG00
 Tanagra Tanagra NPCSG00
 Tanais Tanais NPCSG00
+Tanakh Tanakh NPFSO00
 Tanaro Tanaro NPCSG00
 Tanat Tanat NPCNSP0
 Tancada Tancada NPFSG00
@@ -20349,6 +20360,7 @@ Tobago Tobago NPCSG00
 Tobies Tobies NPCNSP0
 Tobies Tobies NPMPSP0
 Tobies Tobies NPMSSP0
+Tobit Tobit NPMSSP0
 Tobol Tobol NPCSG00
 Tocantins Tocantins NPCSG00
 Tocavent Tocavent NPCNSP0
@@ -22389,6 +22401,7 @@ Xavi Xavi NPMSSP0
 Xavier Xavier NPCSG00
 Xavier Xavier NPMSSP0
 Xaviers Xavier NPMPSP0
+Xavuot Xavuot NPMSO00
 Xavé Xavé NPCNSP0
 Xeixar Xeixar NPCNSP0
 Xeldo Xeldo NPCSG00
