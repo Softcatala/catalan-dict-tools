@@ -1,3 +1,4 @@
+
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 ACNUR ACNUR NPMSO00
@@ -2277,6 +2278,7 @@ BCE BCE NPMSO00
 BMW BMW NPCNO00
 BOE BOE NPMSO00
 BUP BUP NPMSO00
+Baal Baal NPMSSP0
 Babahoyo Babahoyo NPCSG00
 Babenberg Babenberg NPCNSP0
 Babia Babia NPCSG00
@@ -2395,6 +2397,7 @@ Bajas Bajas NPCSG00
 Bajhang Bajhang NPCSG00
 Bakunin Bakunin NPCNSP0
 Bakú Bakú NPCSG00
+Balaam Balaam NPMSSP0
 Balada Balada NPCSG00
 Balaguer Balaguer NPCNSP0
 Balaguer Balaguer NPCSG00
@@ -10244,6 +10247,7 @@ Hälsingborg Hälsingborg NPCSG00
 Hälsingland Hälsingland NPCSG00
 Händel Händel NPCNSP0
 Hèbrides Hèbrides NPFPG00
+Hècate Hècate NPFSSP0
 Hèctor Hèctor NPMSSP0
 Hèctors Hèctor NPMPSP0
 Hècuba Hècuba NPFSSP0
@@ -14601,6 +14605,7 @@ OAP OAP NPFSO00
 OCDE OCDE NPFSO00
 OECD OECD NPFSO00
 OMS OMS NPFSO00
+ONCE ONCE NPFSO00
 ONU ONU NPFSO00
 OTAN OTAN NPFSO00
 Oahu Oahu NPCSG00
@@ -22105,6 +22110,7 @@ Vivet Vivet NPCNSP0
 Vivièr Vivièr NPCSG00
 Vivó Vivó NPCNSP0
 Vix Vix NPCSG00
+Vixnu Vixnu NPMSSP0
 Vixquert Vixquert NPCNSP0
 Vizcota Vizcota NPCSG00
 Vià Vià NPCNSP0
@@ -22714,6 +22720,7 @@ uTorrent uTorrent NPCNO00
 Àreu Àreu NPCSG00
 Àries Àries NPCSG00
 Àrreu Àrreu NPCSG00
+Àrtemis Àrtemis NPFSSP0
 Àsdrubal Àsdrubal NPMSSP0
 Àsia Àsia NPFSG00
 Àsina Àsina NPCSG00
