@@ -6425,6 +6425,7 @@ Dacià Dacià NPMSSP0
 Dacs Dacs NPMNG00
 Dadaab Dadaab NPCSG00
 Daegu Daegu NPCSG00
+Daesh Daesh NPMSO00
 Daewo Daewo NPCNO00
 Dagobert Dagobert NPMSSP0
 Dagoberts Dagobert NPMPSP0
@@ -6996,6 +6997,7 @@ Düsseldorf Düsseldorf NPMSG00
 Dāmodar Dāmodar NPCSG00
 Džezkazgan Džezkazgan NPCSG00
 EGB EGB NPFSO00
+EI EI NPMSO00
 ERC ERC NPFSO00
 ESO ESO NPFSO00
 ETA ETA NPFSO00
@@ -7691,6 +7693,7 @@ Euprepis Euprepi NPMPSP0
 Eure Eure NPCSG00
 Eures Eures NPCNSP0
 Eurocambra Eurocambra NPFSO00
+Eurofighter Eurofighter NPMNO00
 Eurogrup Eurogrup NPMSO00
 Eurolliga Eurolliga NPFSO00
 Eurolligues Eurolliga NPFSO00
@@ -10258,8 +10261,11 @@ ICV ICV NPFSO00
 IEC IEC NPMSO00
 IJssel IJssel NPCSG00
 ISBN ISBN NPMNO00
+ISIL ISIL NPMSO00
+ISIS ISIS NPMSO00
 ISO ISO NPFSO00
 ISSN ISSN NPMNO00
+ITV ITV NPFSO00
 IVAM IVAM NPMSO00
 Ialta Ialta NPCSG00
 Iammo Iammo NPCSG00
@@ -15995,6 +16001,7 @@ Planadecursac Planadecursac NPCNSP0
 Planademont Planademont NPCNSP0
 Planadevall Planadevall NPCNSP0
 Planagomà Planagomà NPCNSP0
+Planagumà Planagumà NPCNSP0
 Plandogau Plandogau NPCSG00
 Plandolit Plandolit NPCNSP0
 Planell Planell NPCNSP0
