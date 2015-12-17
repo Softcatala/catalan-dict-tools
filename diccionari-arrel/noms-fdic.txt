@@ -51580,6 +51580,7 @@ pòrtic=categories: M;fonts: LT;
 pòrtland=categories: M;fonts: LT;
 pòsit=categories: M;fonts: LT;
 pòster=categories: M;fonts: LT;
+pòstit=categories: M;fonts: esadir;
 pòtil=categories: M;fonts: LT;
 pòtol=categories: M;fonts: LT;
 pólvora=categories: F;fonts: LT;
