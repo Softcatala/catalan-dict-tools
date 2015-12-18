@@ -71,6 +71,7 @@ Abila Abila NPCSG00
 Abilene Abilene NPCSG00
 Abili Abili NPMSSP0
 Abilis Abili NPMPSP0
+Abimèlec Abimèlec NPMSSP0
 Abissínia Abissínia NPFSG00
 Abió Abió NPCSG00
 Abkhàzia Abkhàzia NPFSG00
@@ -2016,6 +2017,7 @@ Asela Asela NPCSG00
 Asensi Asensi NPCNSP0
 Asensi Asensi NPMSSP0
 Asensis Asensi NPMPSP0
+Aser Aser NPMSSP0
 Ashanti Ashanti NPCSG00
 Ashdod Ashdod NPCSG00
 Ashikaga Ashikaga NPCNSP0
@@ -4366,6 +4368,7 @@ Calderó Calderó NPCNSP0
 Calderón Calderón NPCSG00
 Caldes Caldes NPCNSP0
 Calduc Calduc NPCNSP0
+Caleb Caleb NPMSSP0
 Caledònia Caledònia NPFSG00
 Calella Calella NPFSG00
 Calenberg Calenberg NPCSG00
@@ -6979,6 +6982,7 @@ Dànae Dànae NPFSSP0
 Dària Dària NPFSSP0
 Dàrius Dàrius NPMPSP0
 Dàrius Dàrius NPMSSP0
+Dèbora Dèbora NPFSSP0
 Dèlia Dèlia NPFSSP0
 Dèlies Dèlia NPFPSP0
 Décines-Charpieu Décines-Charpieu NPCSG00
@@ -7335,6 +7339,7 @@ Eruges Eruges NPFPG00
 Erzincan Erzincan NPCSG00
 Erzurum Erzurum NPCSG00
 Erýmanthos Erýmanthos NPCSG00
+Esaú Esaú NPMSSP0
 Esbarranc Esbarranc NPCNSP0
 Esbert Esbert NPCNSP0
 Esbjerg Esbjerg NPCSG00
@@ -10669,6 +10674,7 @@ Joigny Joigny NPCSG00
 Joinvile Joinvile NPCSG00
 Jolís Jolís NPCNSP0
 Jonama Jonama NPCNSP0
+Jonatan Jonatan NPMSSP0
 Jonathan Jonathan NPMSSP0
 Joncar Joncar NPCNSP0
 Joncet Joncet NPCSG00
@@ -11161,6 +11167,7 @@ L'Aquila L'Aquila NPCSG00
 L'ubercy L'ubercy NPCSG00
 LOGSE LOGSE NPFSO00
 Labadia Labadia NPCNSP0
+Laban Laban NPMSSP0
 Labastida Labastida NPCNSP0
 Labastida Labastida NPFSG00
 Laborda Laborda NPCNSP0
@@ -11386,6 +11393,7 @@ Leucis Leuci NPMPSP0
 Levallois-Perret Levallois-Perret NPCSG00
 Leverkusen Leverkusen NPCSG00
 Levàdia Levàdia NPCSG00
+Leví Leví NPMSSP0
 Lewis Lewis NPCSG00
 Lewisham Lewisham NPCSG00
 Lexington Lexington NPCSG00
@@ -12279,6 +12287,8 @@ Managua Managua NPFSG00
 Managuerra Managuerra NPCNSP0
 Manama Manama NPCSG00
 Manapouri Manapouri NPCSG00
+Manassès Manassès NPMSSP0
+Manassés Manassès NPMSSP0
 Manaus Manaus NPCSG00
 Manaut Manaut NPCNSP0
 Manauta Manauta NPCNSP0
@@ -14262,6 +14272,7 @@ Nebreda Nebreda NPCNSP0
 Nebrija Nebrija NPMSSP0
 Neckar Neckar NPCSG00
 Nefiac Nefiac NPCSG00
+Neftalí Neftalí NPMSSP0
 Negrals Negrals NPMPG00
 Negre Negre NPCNSP0
 Negrell Negrell NPCNSP0
@@ -22559,6 +22570,7 @@ Yārkand Yārkand NPCSG00
 Yŏsu Yŏsu NPCSG00
 Zaanstad Zaanstad NPCSG00
 Zabrze Zabrze NPCSG00
+Zabuló Zabuló NPMSSP0
 Zacapa Zacapa NPCSG00
 Zacaries Zacaries NPCNSP0
 Zacaries Zacaries NPMPSP0
