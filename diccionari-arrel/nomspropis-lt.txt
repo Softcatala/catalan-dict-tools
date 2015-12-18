@@ -1155,6 +1155,7 @@ Alòdia Alòdia NPFSSP0
 Alòdies Alòdia NPFPSP0
 Alòs Alòs NPCNSP0
 Alòs Alòs NPCSG00
+Alós Alós NPCSG00
 Alīgarh Alīgarh NPCSG00
 Am-Timan Am-Timan NPCSG00
 Amacuro Amacuro NPCSG00
