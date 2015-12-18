@@ -9838,6 +9838,7 @@ viaticar=categories: V;model:trencar;fonts:LT
 viatjar=categories: V;model:menjar;fonts:LT
 vibrar=categories: V;model:cantar;fonts:LT
 viciar=categories: V;model:crear;fonts:LT
+victimitzar=categories: V;model:cantar;fonts: AVL;
 victorejar=categories: V;model:envejar;fonts:LT
 vidrar=categories: V;model:cantar;fonts:LT
 vidriar=categories: V;model:crear;fonts:LT

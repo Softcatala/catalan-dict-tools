@@ -64413,6 +64413,7 @@ viciositat=categories: F;fonts: LT;
 vicissitud=categories: F;fonts: LT;
 victimari=categories: M;fonts: LT;
 victimisme=categories: M;fonts: LT;
+victimització=categories: F;fonts: AVL;
 victimització=categories: F;fonts: LT;
 victimologia=categories: F;fonts: termcat;
 victoriat=categories: M;fonts: LT;
