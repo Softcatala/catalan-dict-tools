@@ -54711,7 +54711,6 @@ rocam=categories: M;fonts: LT;
 rocamorella=categories: F;fonts: LT;
 rocatí rocatina=categories: MF;fonts: LT;
 roccel·làcia=categories: F;fonts: LT;
-rock'n'roll=categories: M;fonts: LT;
 rock-and-roll=categories: M;fonts: LT;
 rock=categories: M;fonts: LT;
 rockabilly [pl. rockabillies]=categories: MF;fonts: LT;
