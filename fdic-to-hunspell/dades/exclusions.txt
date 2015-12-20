@@ -63,7 +63,6 @@ corresponsabilitat
 corresponsabilitzar
 corresponsabilització
 composar
-costipat
 costipar
 dematí
 demés
@@ -71,10 +70,10 @@ descerebrat
 descollonar
 despreciable
 despreciar
-encostipat
-encostipada
 encostipar
+encostipada
 enrecordar
+enrecordada
 ermós
 ermosa
 espaial
