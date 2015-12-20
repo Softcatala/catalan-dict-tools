@@ -23,6 +23,7 @@ games
 graben
 inclusive
 nomes
+laser
 lo
 los
 monjoi
@@ -41,6 +42,7 @@ vagades
 volei
 
 EXCLOU LEMA DE TOTS
+Alós
 alelat
 alelada
 alfombra
@@ -62,6 +64,7 @@ corresponsabilitzar
 corresponsabilització
 composar
 costipat
+costipar
 dematí
 demés
 descerebrat
@@ -69,7 +72,8 @@ descollonar
 despreciable
 despreciar
 encostipat
-enconstipat
+encostipada
+encostipar
 enrecordar
 ermós
 ermosa
