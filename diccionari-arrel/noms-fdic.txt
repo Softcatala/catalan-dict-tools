@@ -1,5 +1,6 @@
 #aper=categories: M;fonts: GDLC;
 #creix=categories: M;fonts: GDLC;
+#fusellatge=categories: M;fonts: GDLC (impròpiament);
 #nic=categories: M;fonts: termcat, AVL (poc usual?);
 ADN=categories: MI;fonts: LT;
 AMPA=categories: FI;fonts: LT;
@@ -29571,7 +29572,6 @@ fusel=categories: M;fonts: LT;
 fuselatge=categories: M;fonts: LT;
 fusell=categories: M;fonts: LT;
 fusellada=categories: F;fonts: LT;
-fusellatge=categories: M;fonts: LT;
 fuseller=categories: M;fonts: LT;
 fuselleria=categories: F;fonts: LT;
 fuserol=categories: M;fonts: LT;
