@@ -4,7 +4,10 @@ aixis
 aixo
 Alós
 aprop
+aquestos
 brillantés
+circumstancia
+circumstancies
 como
 coquet
 coqueto
@@ -14,6 +17,7 @@ demés
 espesa
 espesos
 espeses
+foragit
 gama
 games
 graben
@@ -21,16 +25,20 @@ inclusive
 nomes
 lo
 los
+monjoi
 music
 musics
 musica
 musiques
-aquestos
+pirineus
 retràs
 sen
+subsol
 transfons
+ultim
 vagada
 vagades
+volei
 
 EXCLOU LEMA DE TOTS
 alelat

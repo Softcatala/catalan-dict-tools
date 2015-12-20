@@ -4461,7 +4461,6 @@ Camats Camats NPCNSP0
 Cambell Cambell NPCNSP0
 Cambo-les-Bains Cambo-les-Bains NPCSG00
 Cambodja Cambodja NPFSG00
-Cambotja Cambotja NPFSG00
 Cambra Cambra NPCNSP0
 Cambrai Cambrai NPCNSP0
 Cambrai Cambrai NPCSG00
@@ -13740,7 +13739,6 @@ Montpeó Montpeó NPCNSP0
 Montpolt Montpolt NPCSG00
 Montpou Montpou NPCNSP0
 Montragull Montragull NPCNSP0
-Montreal Montreal NPCSG00
 Montreuil Montreuil NPCSG00
 Montreux Montreux NPCSG00
 Montroi Montroi NPCSG00
@@ -17975,7 +17973,6 @@ Ruyigi Ruyigi NPCSG00
 Rués Rués NPCNSP0
 Ruïc Ruïc NPCNSP0
 Ruïtlles Ruïtlles NPCSG00
-Rwanda Rwanda NPFSG00
 Ryanair Ryanair NPCNO00
 Rybačij Rybačij NPCSG00
 Rybinsk Rybinsk NPCSG00
