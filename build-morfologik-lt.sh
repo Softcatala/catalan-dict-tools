@@ -4,7 +4,7 @@ cd morfologik-lt
 # diccionari origen
 dict_origen=../resultats/lt/diccionari.txt
 #directori LanguageTool
-dir_lt=~/lt
+dir_lt=~/target-lt
 
 # sort
 #export LC_ALL=C && sort -u diccionari.txt >diccionari_sorted.txt

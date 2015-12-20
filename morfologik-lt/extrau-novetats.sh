@@ -5,6 +5,12 @@
 # respecte a l'última versió compilada
 ###
 
+#directori LanguageTool
+dir_lt=~/target-lt
+
+# dump the tagger dictionary
+java -cp $dir_lt/languagetool.jar org.languagetool.dev.DictionaryExporter catalan.dict > catalan_lt.txt
+
 cp catalan_lt.txt diccionari_antic.txt
 echo "Preparant diccionari"
 sed -i 's/^\(.*\)\t\(.*\)\t\(.*\)_.$/\1 \2 \3/' diccionari_antic.txt

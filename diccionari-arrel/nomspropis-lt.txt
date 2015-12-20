@@ -2913,6 +2913,7 @@ Bellegarde-sur-Valserine Bellegarde-sur-Valserine NPCSG00
 Bellera Bellera NPCNSP0
 Bellera Bellera NPCSG00
 Belles Belles NPCNSP0
+Bellesguard Bellesguard NPMSG00
 Bellestar Bellestar NPCNSP0
 Bellestar Bellestar NPCSG00
 Bellet Bellet NPCNSP0
@@ -4322,6 +4323,7 @@ Cais Cais NPCSG00
 Caius Caius NPMPSP0
 Caius Caius NPMSSP0
 CaixaBank CaixaBank NPMSO00
+CaixaForum CaixaForum NPMSO00
 Caixac Caixac NPCNSP0
 Caixans Caixans NPCNSP0
 Caixmir Caixmir NPMSG00
@@ -5707,6 +5709,7 @@ Cogullada Cogullada NPFSG00
 Cogullons Cogullons NPMPG00
 Cohèlet Cohèlet NPMSO00
 Coimbatore Coimbatore NPCSG00
+Cointreau Cointreau NPMNO00
 Coix Coix NPCSG00
 Coixós Coixós NPCSG00
 Colata Colata NPCSG00
@@ -6096,6 +6099,7 @@ Coslada Coslada NPCSG00
 Cosme Cosme NPCNSP0
 Cosme Cosme NPMSSP0
 Cosmes Cosme NPMPSP0
+CosmoCaixa CosmoCaixa NPMSO00
 Cosp Cosp NPCNSP0
 Cospineda Cospineda NPCNSP0
 Cospinera Cospinera NPCNSP0
@@ -7012,6 +7016,7 @@ EUA EUA NPMPG00
 EUPV EUPV NPFSO00
 EUiA EUiA NPFSO00
 Eastbourne Eastbourne NPCSG00
+Eastwood Eastwood NPCNSP0
 Eaubonne Eaubonne NPCSG00
 Eberswalde-Finow Eberswalde-Finow NPCSG00
 Ebla Ebla NPFSG00
@@ -9456,6 +9461,7 @@ Grand-Port Grand-Port NPCSG00
 Grande Grande NPCSG00
 Grande-Terre Grande-Terre NPCSG00
 Grandia Grandia NPCNSP0
+Grandvalira Grandvalira NPFSO00
 Grandó Grandó NPCNSP0
 Granell Granell NPCNSP0
 Granell Granell NPCSG00
@@ -10257,6 +10263,7 @@ Hèctor Hèctor NPMSSP0
 Hèctors Hèctor NPMPSP0
 Hècuba Hècuba NPFSSP0
 Hècubes Hècuba NPFPSP0
+Hèlios Hèlios NPMSSP0
 Hèlsinki Hèlsinki NPCSG00
 Hèracles Hèracles NPMPSP0
 Hèracles Hèracles NPMSSP0
@@ -10569,6 +10576,7 @@ Jalón Jalón NPCSG00
 Jamaica Jamaica NPFSG00
 Jambi Jambi NPCSG00
 Jambol Jambol NPCSG00
+Jamboree Jamboree NPMSO00
 Jamet Jamet NPCNSP0
 Jammu Jammu NPCSG00
 Jamshēdpur Jamshēdpur NPCSG00
@@ -15758,6 +15766,7 @@ Perseveranda Perseveranda NPFSSP0
 Perseverandes Perseveranda NPFPSP0
 Personada Personada NPCNSP0
 Personat Personat NPCNSP0
+Persèfone Persèfone NPFSSP0
 Persèpolis Persèpolis NPCSG00
 Pertagàs Pertagàs NPCNSP0
 Pertegàs Pertegàs NPCSG00
@@ -16287,6 +16296,7 @@ Port Port NPMSG00
 Port-au-Prince Port-au-Prince NPCSG00
 Port-de-Bouc Port-de-Bouc NPCSG00
 Port-of-Spain Port-of-Spain NPCSG00
+PortAventura PortAventura NPMSO00
 Porta Porta NPCNSP0
 Portaceli Portaceli NPCNSP0
 Portaceli Portaceli NPCSG00
@@ -18739,6 +18749,7 @@ Schubert Schubert NPCNSP0
 Schumann Schumann NPCNSP0
 Schumpeter Schumpeter NPCNSP0
 Schuster Schuster NPCNSP0
+Schwarzenegger Schwarzenegger NPCNSP0
 Schweinfurt Schweinfurt NPCSG00
 Schwerin Schwerin NPCSG00
 Schwyz Schwyz NPCSG00
@@ -19369,6 +19380,7 @@ Socors Socors NPMPSP0
 Socors Socors NPMSSP0
 Socotra Socotra NPCSG00
 Socuéllamos Socuéllamos NPCSG00
+Soderbergh Soderbergh NPCNSP0
 Sodoma Sodoma NPFSG00
 Soest Soest NPCSG00
 Sofala Sofala NPCSG00
@@ -20077,6 +20089,7 @@ Tbessa Tbessa NPCSG00
 Tbilisi Tbilisi NPCSG00
 Tbilissi Tbilissi NPCSG00
 Teano Teano NPCSG00
+Teatreneu Teatreneu NPMSO00
 Teberga Teberga NPCNSP0
 Tebes Tebes NPCSG00
 Tec Tec NPMSG00
@@ -21389,6 +21402,7 @@ Vallmanya Vallmanya NPFSG00
 Vallmitjana Vallmitjana NPCNSP0
 Vallmoll Vallmoll NPCNSP0
 Vallmoll Vallmoll NPCSG00
+Vallnord Vallnord NPFSO00
 Vallori Vallori NPCNSP0
 Valloriola Valloriola NPCSG00
 Valloriola Valloriola NPFSG00
@@ -22751,6 +22765,7 @@ uTorrent uTorrent NPCNO00
 Ágreda Ágreda NPCSG00
 Álora Álora NPCSG00
 Álvarez Álvarez NPCNSP0
+Álvaro Álvaro NPMSSP0
 Ávalos Ávalos NPCNSP0
 Åland Åland NPCSG00
 Ålborg Ålborg NPCSG00

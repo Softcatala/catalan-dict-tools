@@ -11632,6 +11632,7 @@ hialescent=categories: A;fonts: LT;
 hialocristal·lí hialocristal·lina=categories: A;fonts: LT;
 hialoide=categories: A;fonts: LT;
 hialoplasmàtic hialoplasmàtica=categories: A;fonts: LT;
+hialurònic=categories: AMS;fonts: GDLC, AVL, Termcat;
 hialí hialina=categories: A;fonts: LT;
 hialòpter hialòptera=categories: A;fonts: LT;
 hialúrgic hialúrgica=categories: A;fonts: LT;
