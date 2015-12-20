@@ -10771,6 +10771,7 @@ gastral=categories: A;fonts: LT;
 gastrocnemi gastrocnèmia=categories: A;fonts: dmedicina;
 gastrocòlic gastrocòlica=categories: A;fonts: LT;
 gastroentèric gastroentèrica=categories: A;fonts: LT;
+gastroesofàgic gastroesofàgica=categories: A;fonts: termcat;
 gastrointestinal=categories: A;fonts: LT;
 gastronòmic gastronòmica=categories: A;fonts: LT;
 gastrovascular=categories: A;fonts: LT;

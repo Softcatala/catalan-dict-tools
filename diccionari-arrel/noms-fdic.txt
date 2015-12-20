@@ -30251,7 +30251,6 @@ gastroenterocolitis=categories: FI;fonts: LT;
 gastroenterologia=categories: F;fonts: LT;
 gastroenterostomia=categories: F;fonts: LT;
 gastroenteròleg gastroenteròloga=categories: MF;fonts: LT;
-gastroesofàgic -a=categories: M;fonts: termcat;
 gastrojejunostomia=categories: F;fonts: LT;
 gastronomia=categories: F;fonts: LT;
 gastroperitonitis=categories: FI;fonts: LT;
