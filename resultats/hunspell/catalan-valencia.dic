@@ -1,4 +1,4 @@
-131851
+132083
 10a
 10es
 10ns
@@ -171,6 +171,7 @@ Abila/_Y_V
 Abilene/_Y_V
 Abili/_Y_V
 Abilis/_Y
+Abimèlec/_Y_V
 Abissínia/_Y_V
 Abió/_Y_V
 Abkhàzia/_Y_V
@@ -1162,6 +1163,8 @@ Alícies/_Y
 Alòdia/_Y_V
 Alòdies/_Y
 Alòs/_Y_V
+Alós/ZZ
+Alós/_Y_V
 Alīgarh/_Y_V
 Am-Timan/_Y_V
 Amacuro/_Y_V
@@ -1307,7 +1310,9 @@ Anatot/_Y_V
 Anatòlia/_Y_V
 Anatòlies/_Y
 Anavall/_Y_V
+Anaximandre/_Y_V
 Anaxàgores/_Y_V
+Anaxímenes/_Y_V
 Anazarba/_Y_V
 Ancash/_Y_V
 Anchorage/_Y_V
@@ -1966,6 +1971,7 @@ Aseb/_Y_V
 Asela/_Y_V
 Asensi/_Y_V
 Asensis/_Y
+Aser/_Y_V
 Ashanti/_Y_V
 Ashdod/_Y_V
 Ashikaga/_Y_V
@@ -2217,6 +2223,7 @@ BCE
 BMW
 BOE
 BUP
+Baal
 Babahoyo
 Babenberg
 Babia
@@ -2323,6 +2330,7 @@ Bajas
 Bajhang
 Bakunin
 Bakú
+Balaam
 Balada
 Balaguer
 Balaguera
@@ -2801,6 +2809,7 @@ Bellcastell
 Bellegarde-sur-Valserine
 Bellera
 Belles
+Bellesguard
 Bellestar
 Bellet
 Bellfill
@@ -4116,6 +4125,8 @@ Caire
 Cairó
 Cais
 Caius
+CaixaBank
+CaixaForum
 Caixac
 Caixans
 Caixmir
@@ -4158,6 +4169,7 @@ Calderó
 Calderón
 Caldes
 Calduc
+Caleb
 Caledònia
 Calella
 Calenberg
@@ -4245,7 +4257,6 @@ Camats
 Cambell
 Cambo-les-Bains
 Cambodja
-Cambotja
 Cambra
 Cambrai
 Cambrerol
@@ -5374,6 +5385,7 @@ Cogullada
 Cogullons
 Cohèlet
 Coimbatore
+Cointreau
 Coix
 Coixós
 Colata
@@ -5725,6 +5737,7 @@ Cosiner
 Coslada
 Cosme
 Cosmes
+CosmoCaixa
 Cosp
 Cospineda
 Cospinera
@@ -6045,6 +6058,7 @@ Dacià
 Dacs
 Dadaab
 Daegu
+Daesh
 Daewo
 Dagobert
 Dagoberts
@@ -6567,6 +6581,7 @@ Dàmocles
 Dànae
 Dària
 Dàrius
+Dèbora
 Dèlia
 Dèlies
 Décines-Charpieu
@@ -6588,6 +6603,7 @@ Düsseldorf
 Dāmodar
 Džezkazgan
 EGB/_Y_V
+EI/_Y_V
 EPUB/_V_Y
 ERC/_Y_V
 ERO/_V_Y
@@ -6597,6 +6613,7 @@ EUA/_Y
 EUPV/_Y_V
 EUiA/_Y_V
 Eastbourne/_Y_V
+Eastwood/_Y_V
 Eaubonne/_Y_V
 Eberswalde-Finow/_Y_V
 Ebla/_Y_V
@@ -6688,6 +6705,7 @@ El-Jadida/_Y_V
 El-Khémisset/_Y_V
 Eladi/_Y_V
 Eladis/_Y
+Elagàbal/_Y_V
 Elam/_Y_V
 Elancourt/_Y_V
 Elat/_Y_V
@@ -6913,6 +6931,7 @@ Eruges/_Y
 Erzincan/_Y_V
 Erzurum/_Y_V
 Erýmanthos/_Y_V
+Esaú/_Y_V
 Esbarranc/_Y_V
 Esbert/_Y_V
 Esbjerg/_Y_V
@@ -7252,6 +7271,7 @@ Euprepis/_Y
 Eure/_Y_V
 Eures/_Y_V
 Eurocambra/_Y_V
+Eurofighter/_Y_V
 Eurogrup/_Y_V
 Eurolliga/_Y_V
 Eurolligues/_Y_V
@@ -7342,6 +7362,7 @@ FBI
 FIAT
 FM
 FMI
+FNAC
 FP
 Fabi
 Fabians
@@ -7653,6 +7674,7 @@ Filons
 Filosia
 Filoteu
 Filoteus
+Filèmon
 Filó
 Fina
 Fines
@@ -8682,6 +8704,7 @@ Gjirokaster
 Glandon
 Glarus
 Glasgow
+Glaucó
 Glaudis
 Glendale
 Gliceri
@@ -8873,6 +8896,7 @@ Grand-Port
 Grande
 Grande-Terre
 Grandia
+Grandvalira
 Grandó
 Granell
 Graner
@@ -9282,6 +9306,7 @@ Hanníbal/_Y_V
 Hanníbals/_Y
 Hanoi
 Hansa
+Hanukkà/_Y_V
 Harare/_Y_V
 Harbin/_Y_V
 Harcourt/_Y_V
@@ -9628,10 +9653,12 @@ Hälsingborg
 Hälsingland
 Händel
 Hèbrides/_Y
+Hècate/_Y_V
 Hèctor/_Y_V
 Hèctors/_Y
 Hècuba/_Y_V
 Hècubes/_Y
+Hèlios/_Y_V
 Hèlsinki/_Y_V
 Hèracles/_Y
 Hèracles/_Y_V
@@ -9657,8 +9684,11 @@ IP/_Y
 IPC/_V_Y
 IRPF/_V_Y
 ISBN/_Y_V
+ISIL/_Y_V
+ISIS/_Y_V
 ISO/_Y_V
 ISSN/_Y_V
+ITV/_Y
 IV
 IVA/_V_Y
 IVAM/_Y_V
@@ -9947,6 +9977,7 @@ Jalón
 Jamaica
 Jambi
 Jambol
+Jamboree
 Jamet
 Jammu
 Jamshēdpur
@@ -10046,6 +10077,7 @@ Joigny
 Joinvile
 Jolís
 Jonama
+Jonatan
 Jonathan
 Joncar
 Joncet
@@ -10531,6 +10563,7 @@ LIII
 LIV
 LIX
 LOGSE
+LSD
 LV
 LVI
 LVII
@@ -10566,6 +10599,7 @@ LXXXVI
 LXXXVII
 LXXXVIII
 Labadia
+Laban
 Labastida
 Laborda
 Labraq
@@ -10787,6 +10821,7 @@ Leucis
 Levallois-Perret
 Leverkusen
 Levàdia
+Leví
 Lewis
 Lewisham
 Lexington
@@ -10798,6 +10833,7 @@ Leònides
 León
 Lhasa
 Lhotse
+Lia
 Lianyungang
 Liaoning
 Liaoyang
@@ -11198,6 +11234,7 @@ Loira
 Loiret
 Loja
 Lola
+Lolita
 Lolland
 Lomami
 Lombarde
@@ -11599,6 +11636,8 @@ Managua
 Managuerra
 Manama
 Manapouri
+Manassès
+Manassés
 Manaus
 Manaut
 Manauta
@@ -12124,6 +12163,7 @@ Matsuyama
 Matsuzaka
 Mattel
 Maturín
+Matusalem
 Mató
 Maubeuge
 Mauella
@@ -12452,6 +12492,7 @@ Minos
 Minoves
 Minsk
 Miporquet
+Miquees
 Miquel
 Miquelon
 Miquels
@@ -12502,6 +12543,7 @@ Misilmeri
 Misiones
 Miskolc
 Mislata
+Misnà
 Misrata
 Misser
 Misserol
@@ -12528,6 +12570,7 @@ Mitry-Mory
 Mittelmark
 Mitterrand
 Mixeu
+Mixnà
 Miyagi
 Miyakonojō
 Miyazaki
@@ -12886,7 +12929,6 @@ Montpeó
 Montpolt
 Montpou
 Montragull
-Montreal
 Montreuil
 Montreux
 Montroi
@@ -13263,6 +13305,7 @@ Nagoya
 Nagrella
 Naha
 Nahori
+Nahum
 Naiac
 Nairobi
 Najaf
@@ -13390,14 +13433,17 @@ Neandertal
 Nebot
 Nebraska
 Nebreda
+Nebrija
 Neckar
 Nefiac
+Neftalí
 Negrals
 Negre
 Negrell
 Negro
 Negros
 Negrón
+Nehemies
 Neijiang
 Nellore
 Nelson
@@ -13722,6 +13768,7 @@ OAP/_Y_V
 OCDE/_Y_V
 OECD/_Y_V
 OMS/_Y_V
+ONCE/_Y_V
 ONG/_V_Y
 ONU/_Y_V
 OTAN/_Y_V
@@ -13896,6 +13943,7 @@ Olèrdola/_Y_V
 Oléo/_Y_V
 Olímpia/_Y_V
 Olímpies/_Y
+Olívia/_Y_V
 Oló/_Y_V
 Om/_Y_V
 Omagh/_Y_V
@@ -14790,6 +14838,7 @@ Perseveranda
 Perseverandes
 Personada
 Personat
+Persèfone
 Persèpolis
 Pertagàs
 Pertegàs
@@ -15027,6 +15076,7 @@ Pladelasala
 Pladellorenç
 Plademont
 Pladollers
+Plaerdemavida
 Plaiensa
 Plaisir
 Plaià
@@ -15037,6 +15087,7 @@ Planadecursac
 Planademont
 Planadevall
 Planagomà
+Planagumà
 Plandogau
 Plandolit
 Planell
@@ -15281,6 +15332,7 @@ Port
 Port-au-Prince
 Port-de-Bouc
 Port-of-Spain
+PortAventura
 Porta
 Portaceli
 Portaferrissa
@@ -15528,10 +15580,9 @@ Pròixida
 Pròsper
 Pròspers
 Prússia
-Pseudoclementines
 Pskov
-Ptolomeu
-Ptolomeus
+Ptolemeu
+Ptolemeus
 Pubill
 Publi
 Publis
@@ -15789,6 +15840,7 @@ Pèrsia
 Pécs
 Pérez
 Périgueux
+Péssah
 Píndar
 Pòlit
 Pòl·lux
@@ -16805,7 +16857,6 @@ Ruyigi
 Rués
 Ruïc
 Ruïtlles
-Rwanda
 Ryanair
 Rybačij
 Rybinsk
@@ -17517,6 +17568,7 @@ Schubert
 Schumann
 Schumpeter
 Schuster
+Schwarzenegger
 Schweinfurt
 Schwerin
 Schwyz
@@ -18014,6 +18066,7 @@ Siricis
 Siridions
 Siridió
 Siros
+Siràcida
 Sirès
 Sisa
 Sisak
@@ -18106,6 +18159,7 @@ Socorregut
 Socors
 Socotra
 Socuéllamos
+Soderbergh
 Sodoma
 Soest
 Sofala
@@ -18279,6 +18333,8 @@ Soviètica
 Soweto
 Spa
 Spandau
+Sparta
+Spartak
 Spessart
 Spiderman
 Spielberg
@@ -18289,6 +18345,7 @@ Spitzbergen
 Split
 Spokane
 Spoleto
+Sporting
 Spotify
 Spratly
 Spree
@@ -18371,6 +18428,7 @@ Suhl
 Sui
 Suita
 Sukhumi
+Sukkot
 Sukkur
 Sulaimaniya
 Sulcis
@@ -18639,6 +18697,7 @@ Tan-Tan
 Tana
 Tanagra
 Tanais
+Tanakh
 Tanaro
 Tanat
 Tancada
@@ -18764,6 +18823,7 @@ Tbessa
 Tbilisi
 Tbilissi
 Teano
+Teatreneu
 Teberga
 Tebes
 Tec
@@ -19010,6 +19070,7 @@ Tindouf
 Tineo
 Tingis
 Tinos
+Tinto
 Tints
 Tintín
 Tipasa
@@ -19045,6 +19106,7 @@ Tlaxcala
 Toamasina
 Tobago
 Tobies
+Tobit
 Tobol
 Tocantins
 Tocavent
@@ -19662,6 +19724,7 @@ URSS/_Y_V
 URV/_Y
 USB/_V_Y
 UV/_Y
+UVI/_V_Y
 UVic/_Y
 Ubald/_Y_V
 Ubalds/_Y
@@ -19977,6 +20040,7 @@ Vallmajor
 Vallmanya
 Vallmitjana
 Vallmoll
+Vallnord
 Vallori
 Valloriola
 Vallpineda
@@ -20627,6 +20691,7 @@ Vivet
 Vivièr
 Vivó
 Vix
+Vixnu
 Vixquert
 Vizcota
 Vià
@@ -20966,6 +21031,7 @@ Xauen
 Xavi
 Xavier
 Xaviers
+Xavuot
 Xavé
 Xeixar
 Xeldo
@@ -21111,6 +21177,7 @@ Yārkand
 Yŏsu
 Zaanstad
 Zabrze
+Zabuló
 Zacapa
 Zacaries
 Zacatecas
@@ -21783,6 +21850,7 @@ abscissa/_E_V_Y
 abscissa/_V_Y
 abscés/_i_V_Y
 abscís/_B_V_Y
+abscísic/_V_Y
 abselafèsia/_E_V_Y
 absent/_E_V_Y
 absenta/_E_V_Y
@@ -21807,6 +21875,7 @@ absolutament/_Y_V
 absolutesa/_E_V_Y
 absolutisme/_E_V_Y
 absolutista/_E_V_Y
+absolutització/_G_V_Y
 absolutitzada/_V
 absolutitzar/28
 absolutiu/_E_V_Y
@@ -25879,6 +25948,8 @@ alerió/_G_V_Y
 alerta/_E_V_Y
 alerta/_Y_V
 alertada/_V
+alertador/_F_V_Y
+alertadora/_V_Y
 alertar/28
 alerç/_I_V_Y
 aleró/_G_V_Y
@@ -27012,6 +27083,7 @@ al·lòtrofa/_V_Y
 al·lòtrop/_E_V_Y
 alà/_G_V_Y
 alà/_H_V_Y
+alàctica/_V_Y
 alàlia/_E_V_Y
 alàlic/_F_V_Y
 alàlica/_V_Y
@@ -27604,6 +27676,7 @@ amiguera/_V_Y
 amiguet/_F_V_Y
 amigueta/_V_Y
 amiguisme/_E_V_Y
+amigurumi/_E_V_Y
 amikacina/_E_V_Y
 amil/_E_V_Y
 amilaci/_K_V_Y
@@ -29260,6 +29333,7 @@ antiateroscleròtica/_V_Y
 antiatòmic/_F_V_Y
 antiatòmica/_V_Y
 antiautoritari/_K_V_Y
+antiautoritarisme/_E_V_Y
 antiautoritària/_V_Y
 antiauxina/_E_V_Y
 antiavalots/_V_Y
@@ -29420,6 +29494,8 @@ antidiftèric/_E_V_Y
 antidiftèric/_F_V_Y
 antidiftèrica/_V_Y
 antidifusor/_E_V_Y
+antidinàstic/_F_V_Y
+antidinàstica/_V_Y
 antidiscriminatori/_K_V_Y
 antidiscriminatòria/_V_Y
 antidisturbis/_V_Y
@@ -29713,6 +29789,8 @@ antimonosa/_V_Y
 antimonur/_E_V_Y
 antimonàrquic/_F_V_Y
 antimonàrquica/_V_Y
+antimonàstic/_F_V_Y
+antimonàstica/_V_Y
 antimonós/_J_V_Y
 antimorf/_E_V_Y
 antimosquits/_V_Y
@@ -30918,6 +30996,7 @@ aporegat/_B_V_Y
 aporema/_E_V_Y
 aporia/_E_V_Y
 aporisma/_E_V_Y
+aporofòbia/_E_V_Y
 aporraid/_E_V_Y
 aporrinada/_V
 aporrinament/_E_V_Y
@@ -30997,6 +31076,7 @@ apoteòsica/_V_Y
 apoteòsicament/_Y_V
 apoteòtic/_F_V_Y
 apoteòtica/_V_Y
+app/_E_V_Y
 apparàtxik/_E_V_Y
 appertització/_G_V_Y
 appertitzada/_V
@@ -34655,6 +34735,7 @@ autodissoldre/05
 autodissolta/_V
 autodissolució/_G_V_Y
 autodomini/_E_V_Y
+autoduplicació/_G_V_Y
 autodí/_H_V_Y
 autoecologia/_E_V_Y
 autoedició/_G_V_Y
@@ -34839,6 +34920,7 @@ autonàstia/_E_V_Y
 autonòmic/_F_V_Y
 autonòmica/_V_Y
 autonòmicament/_Y_V
+autoobservació/_G_V_Y
 autoocupació/_G_V_Y
 autoodi/_E_V_Y
 autoorganització/_V_Y
@@ -35579,7 +35661,6 @@ baciver/_E
 bacivera/_E
 back/_E
 baclaua/_E
-bacon/_E
 bacona/_E
 baconada/_E
 baconera/_E
@@ -36128,6 +36209,7 @@ bangial/_E
 bangiofícia/_E
 bangiofícida/_E
 banjo/_E
+banlieue/_E
 banquer/_E
 banquera/_E
 banquet/_E
@@ -37686,6 +37768,7 @@ bicentenari/_E
 bici/_E
 bicicle/_E
 bicicleta/_E
+bicicletada/_E
 biciclista/_E
 bicicròs
 bicilíndric/_F
@@ -37891,6 +37974,7 @@ binaflorí/_H
 binar/00
 binari/_K
 binarisme/_E
+binarització/_G
 binaural/_E
 binauralitat/_E
 bingarda/_E
@@ -37922,6 +38006,8 @@ bioacumulació/_G
 bioacústica/_E
 bioalcohol/_E
 bioalimentació/_G
+bioarqueologia/_E
+bioarqueòleg/_K
 bioassaig/_E
 biobibliografia/_E
 biobibliogràfic/_F
@@ -39432,7 +39518,7 @@ bragot/_E
 braguer/_E
 bragueta/_E
 brahmi/_E
-braille/_E
+braille
 bram/_E
 brama/_E
 bramadissa/_E
@@ -40582,6 +40668,7 @@ bètic/_E
 bètic/_F
 bètica/_E
 bé
+béicon/_E
 béns
 bíblia/_E
 bíblic/_F
@@ -40890,6 +40977,7 @@ cadena/_E
 cadenador/_F
 cadenar/71
 cadenat/_E
+cadencial/_E
 cadenciosament
 cadenciós/_J
 cadenera/_E
@@ -41586,12 +41674,7 @@ camatrencar/91
 camaura/_E
 cambial/_E
 cambiforme/_E
-cambodjana/_E
-cambodjà/_G
 cambodjà/_H
-cambotjana/_E
-cambotjà/_G
-cambotjà/_H
 cambra/_E
 cambrada/_E
 cambrai/_E
@@ -41625,6 +41708,7 @@ camelot/_E
 camelès/_J
 camembert/_E
 camena/_E
+cameo/_E
 cameral/_E
 cameralisme/_E
 cameralista/_E
@@ -44739,11 +44823,14 @@ ciatiforme/_E
 ciatozooide/_E
 ciavoga/_E
 ciavogar/78
+ciberactivisme/_E
+ciberactivista/_E
 ciberaddicció/_G
 ciberalumne/_F
 ciberamic/_B
 ciberaprenent/_F
 ciberassetjament/_E
+ciberatac/_E
 cibercafè/_E
 cibercriminologia/_E
 cibercultura/_E
@@ -45193,11 +45280,13 @@ circumscriure/13
 circumspecció/_G
 circumspectament
 circumspecte/_F
+circumstancia/ZZ
 circumstanciadament
 circumstancial/_E
 circumstancialitat/_E
 circumstancialment
 circumstanciar/40
+circumstancies/ZZ
 circumstant/_E
 circumstància/_E
 circumtropical/_E
@@ -45751,6 +45840,7 @@ clisímetre/_E
 clitel/_E
 clitel·lat/_B
 clitel·lat/_E
+cliticització/_G
 clitocibe/_E
 clitoridectomia/_E
 clitoridi
@@ -46201,6 +46291,7 @@ codolla/_E
 codolí/_G
 codolís/_i
 codolós/_J
+codominant/_E
 codominància/_E
 codony/_E
 codonya/_E
@@ -47066,6 +47157,7 @@ compensació/_G
 compensador/_E
 compensador/_F
 compensadora/_E
+compensadíssim/_F
 compensar/00
 compensatori/_K
 competencial/_E
@@ -47952,6 +48044,10 @@ conlloga/_E
 conllogar/78
 conlloguer/_F
 connacional/_E
+connaisseur
+connaisseurs
+connaisseuse
+connaisseuses
 connat/_F
 connatural/_E
 connaturalització/_G
@@ -48161,6 +48257,7 @@ conspicuïtat/_E
 conspiració/_G
 conspirador/_E
 conspiradora/_E
+conspiranoic/_F
 conspirar/00
 conspiratiu/_B
 conspícua
@@ -48594,6 +48691,7 @@ contranota/_E
 contraobertura/_E
 contraofensiva/_E
 contraoferta/_E
+contraopa/_E
 contraopinant/_E
 contraopinar/03
 contraorde
@@ -49408,6 +49506,7 @@ corralet/_E
 corraleta/_E
 corralina/_E
 corralissa/_E
+corralito/_E
 corraló/_G
 corranc/_E
 corranda/_E
@@ -50501,6 +50600,7 @@ cronòleg/_K
 cronòmetre/_E
 croococ/_E
 croococcal/_E
+crooner/_E
 croquer/_E
 croquet/_E
 croqueta/_E
@@ -50906,6 +51006,7 @@ cuot/_E
 cup/_E
 cupaire/_E
 cupatge/_E
+cupcake/_E
 cupiditat/_E
 cupido/_E
 cuplet/_E
@@ -51665,6 +51766,7 @@ decalvant/_E
 decalvar/00
 decampament/_E
 decampar/00
+decamètric/_F
 decandiment/_E
 decandir/87
 decandre/_F
@@ -52094,6 +52196,7 @@ delicadesa/_E
 delicadura/_E
 delicadíssim/_F
 delicat/_B
+delicatessen
 deliciosament
 deliciós/_J
 delicte/_E
@@ -52223,6 +52326,8 @@ demolició/_G
 demolidor/_E
 demolidor/_F
 demolidora/_E
+demolingüístic/_F
+demolingüística/_E
 demolir/87
 demonisme/_E
 demonització/_G
@@ -52852,6 +52957,7 @@ desassedegar/78
 desassenyadament
 desassenyat/_B
 desassetjar/66
+desassignar/00
 desassimilació/_G
 desassimilar/00
 desassossec/_E
@@ -53073,6 +53179,7 @@ descastellanització/_G
 descastellanitzar/00
 descatalanització/_G
 descatalanitzar/00
+descatalogació/_G
 descatalogar/78
 descavalcador/_E
 descavalcar/91
@@ -55461,6 +55568,8 @@ diartrosi/_E
 diascopi/_E
 diascordi/_E
 diasistema/_E
+diasistematicitat/_E
+diasistemàtic/_F
 diasprat/_B
 diaspre/_E
 diaspínid/_E
@@ -56103,6 +56212,7 @@ disc/_E
 discal/_E
 discalcúlia/_E
 discant/_E
+discapacitació/_G
 discapacitat/_B
 discapacitat/_E
 discent/_E
@@ -56489,6 +56599,7 @@ distoma/_E
 distomatosi/_E
 distomatós/_J
 distonia/_E
+distopia/_E
 distorsionador/_F
 distorsionar/00
 distorsiu/_B
@@ -57020,6 +57131,7 @@ dors/_I
 dorsal/_E
 dorsifix/_J
 dorsiventral/_E
+dorsàlgia/_E
 dorval/_E
 dorídid/_E
 dorífora/_E
@@ -57392,6 +57504,7 @@ dàrdic/_E
 dàric/_E
 dàrsena/_E
 dàtil/_E
+dàtum/_E
 dàvia/_E
 dèbil/_E
 dèbilment
@@ -57474,6 +57587,7 @@ dúmping/_E
 dúplex/_E
 dúplica/_E
 dúrio/_E
+e-book/_E_V_Y
 e-mail/_E_V_Y
 e/_E
 eBay/_Y_V
@@ -57595,6 +57709,7 @@ econòmica/_V_Y
 econòmicament/_Y_V
 ecopacifisme/_E_V_Y
 ecopacifista/_E_V_Y
+ecoparc/_E_V_Y
 ecopràxia/_E_V_Y
 ecoregió/_G_V_Y
 ecorticada/_V_Y
@@ -58347,6 +58462,8 @@ electronvolt/_E_V_Y
 electroosmosi/_E_V_Y
 electroosmòtic/_F_V_Y
 electroosmòtica/_V_Y
+electropneumàtic/_F_V_Y
+electropneumàtica/_V_Y
 electropositiu/_B_V_Y
 electropositiva/_V_Y
 electropuntura/_E_V_Y
@@ -60080,6 +60197,9 @@ encaironar/28
 encaix/_I_V_Y
 encaixada/_E_V_Y
 encaixada/_V
+encaixador/_F_V_Y
+encaixadora/_E_V_Y
+encaixadora/_V_Y
 encaixament/_E_V_Y
 encaixar/28
 encaixonada/_V
@@ -62374,6 +62494,7 @@ ensellada/_V
 enselladura/_E_V_Y
 ensellament/_E_V_Y
 ensellar/28
+ensemble/_E_V_Y
 ensementada/_V
 ensementar/28
 ensems/_Y_V
@@ -68246,6 +68367,7 @@ esterilitzada/_V
 esterilitzador/_E_V_Y
 esterilitzador/_F_V_Y
 esterilitzadora/_V_Y
+esterilitzant/_E_V_Y
 esterilitzar/28
 esterlina/_V_Y
 esterlí/_G_V_Y
@@ -69443,6 +69565,7 @@ euroaliat/_B_V_Y
 eurobanc/_E_V_Y
 eurobò/_G_V_Y
 eurocentrisme/_E_V_Y
+eurocentrista/_E_V_Y
 eurocial/_E_V_Y
 eurocomunisme/_E_V_Y
 eurocomunista/_E_V_Y
@@ -69472,6 +69595,7 @@ europeisme/_E_V_Y
 europeista/_E_V_Y
 europeu/_E_V_Y
 europeu/_K_V_Y
+europeïtat/_E_V_Y
 europeïtzació/_G_V_Y
 europeïtzada/_V
 europeïtzar/28
@@ -69479,6 +69603,8 @@ europi/_E_V_Y
 euroregió/_G_V_Y
 eurosiberiana/_V_Y
 eurosiberià/_H_V_Y
+eurovisiu/_B_V_Y
+eurovisiva/_V_Y
 euroxec/_E_V_Y
 eurozona/_E_V_Y
 euríbor/_E_V_Y
@@ -70700,6 +70826,8 @@ extraeuropea/_V_Y
 extraeuropeu/_K_V_Y
 extrafina/_V_Y
 extrafloral/_E_V_Y
+extrafutbolístic/_F_V_Y
+extrafutbolística/_V_Y
 extrafí/_H_V_Y
 extragalàctic/_F_V_Y
 extragalàctica/_V_Y
@@ -71697,6 +71825,7 @@ federar/00
 federatiu/_B
 federativament
 feedback/_E
+feeling/_E
 fefaent/_E
 fefaentment
 feijoa/_E
@@ -72285,6 +72414,7 @@ ficadís/_B
 ficar/91
 ficcional/_E
 ficcionalisme/_E
+ficcionar/00
 ficció/_G
 ficel·la/_E
 ficiforme/_E
@@ -72502,6 +72632,7 @@ filmologia/_E
 filmoteca/_E
 filmògraf/_F
 filobús
+filocatalanista/_E
 filocomunista/_E
 filodendre/_E
 filodifusió/_G
@@ -73540,6 +73671,7 @@ foradaparets
 foradar/00
 foradataps
 foradet/_E
+foragit/ZZ
 foragitament/_E
 foragitar/00
 foral/_E
@@ -74101,6 +74233,7 @@ fraccionament/_E
 fraccionar/00
 fraccionari/_K
 fracció/_G
+fracking
 fractal/_E
 fractil/_E
 fractocúmul/_E
@@ -76206,6 +76339,7 @@ gentrificar/91
 gentussa/_E
 gentílic/_F
 genuflectori/_E
+genuflex/_J
 genuflexió/_G
 genuí/_H
 genuïnament
@@ -77229,6 +77363,7 @@ gordiaci/_E
 gordioïdeu/_E
 gordià/_G
 gordària/_E
+gore
 gorg/_E
 gorga/_E
 gorgera/_E
@@ -78150,6 +78285,7 @@ guatambú/_E
 guatemalenc/_E
 guatemalenc/_F
 guatemalenca/_E
+guateque/_E
 guatla/_E
 guatlla/_E
 guatllot/_E
@@ -78261,6 +78397,7 @@ guipur/_E
 guipuscoana/_E
 guipuscoà/_G
 guipuscoà/_H
+guiri/_E
 guirigall/_E
 guirola/_E
 guirra/_E
@@ -78741,6 +78878,8 @@ hectocòtil/_E_V_Y
 hectografia/_E_V_Y
 hectogram/_E_V_Y
 hectolitre/_E_V_Y
+hectomètric/_F_V_Y
+hectomètrica/_V_Y
 hectopascal/_E_V_Y
 hectàrea/_E_V_Y
 hectògraf/_E_V_Y
@@ -78760,6 +78899,8 @@ hegelianisme/_E
 hegelisme/_E
 hegelià/_H
 hegemonia/_E_V_Y
+hegemonitzada/_V
+hegemonitzar/28
 hegemònic/_F_V_Y
 hegemònica/_V_Y
 hegumen/_V_Y
@@ -79610,6 +79751,7 @@ hialoplasma/_E
 hialoplasmàtic/_F
 hialotècnia/_E
 hialuronidasa/_E
+hialurònic
 hialí/_H
 hialògraf/_E
 hialòpter/_F
@@ -79957,6 +80099,7 @@ hiperadrenocorticisme/_E_V_Y
 hiperalimentació/_G_Y
 hiperbanda/_E_Y
 hiperbetalipoproteïnèmia/_E_Y
+hiperbilirubinèmia/_E_Y
 hiperbolitzar/28
 hiperboloide/_E_V_Y
 hiperboloïdal/_E_V_Y
@@ -80061,6 +80204,7 @@ hiperrealisme/_E_V_Y
 hiperrealista/_E_V_Y
 hiperrealitat/_E_Y
 hiperreflèxia/_E_Y
+hipersalí/_H_V_Y
 hipersensibilitat/_E_Y
 hipersensibilització/_G_Y
 hipersensible/_E_V_Y
@@ -80085,6 +80229,7 @@ hipertensor/_E_V_Y
 hipertensor/_F_V_Y
 hipertext/_E_V_Y
 hipertextual/_E_V_Y
+hipertextualitat/_E_Y
 hipertimisme/_E_V_Y
 hipertiroïdal/_E_V_Y
 hipertiroïdisme/_E_V_Y
@@ -80261,6 +80406,7 @@ hipotiposi/_E_Y
 hipotiroïdal/_E_V_Y
 hipotiroïdisme/_E_V_Y
 hipotonia/_E_Y
+hipotonicitat/_E_Y
 hipotremat/_E_V_Y
 hipotròfia/_E_Y
 hipotàctic/_F_V_Y
@@ -80930,6 +81076,7 @@ howlita/_E_V_Y
 hrívnia/_E
 huasteca/_E
 huaxteca/_E
+hub/_E_V_Y
 huebnerita/_E
 hugonot/_F_V_Y
 hui
@@ -81070,6 +81217,9 @@ hàl·lux/_E_V_Y
 hàmster/_E_V_Y
 hàpax/_E_V_Y
 hàpter/_E_V_Y
+hàptic/_F_V_Y
+hàptica/_E_V_Y
+hàptica/_V_Y
 hàram/_E_V_Y
 hàrpid/_E_V_Y
 hèctic/_F_V_Y
@@ -81110,6 +81260,7 @@ híspid/_F_V_Y
 híspida/_V_Y
 hístic/_F_V_Y
 hística/_V_Y
+hòbbit/_E
 hòlding/_E_V_Y
 hòlmic/_F_V_Y
 hòlmica/_V_Y
@@ -81136,7 +81287,11 @@ iacetana/_E
 iacetà/_G
 iacut/_E
 iai/_E
+iaiaflauta
+iaiaflautes
 iaio/_F
+iaioflauta
+iaioflautes
 iambe/_E
 ianqui/_E
 iar/_E
@@ -82776,6 +82931,7 @@ indicibilitat/_E_Y
 indicible/_E_V_Y
 indiciblement/_Y_V
 indicolita/_E_Y
+indie/_V_Y
 indiferenciat/_B_V_Y
 indiferent/_E_V_Y
 indiferentisme/_E_V_Y
@@ -84089,6 +84245,7 @@ interclassista/_E_V_Y
 interclavícula/_E_Y
 interco/_E_V_Y
 intercolumni/_E_V_Y
+intercol·legial/_E_V_Y
 intercomarcal/_E_V_Y
 intercomprensió/_G_Y
 intercomunicació/_G_Y
@@ -85407,6 +85564,7 @@ jaçada/_E
 jebusea/_E
 jebuseu/_E
 jebuseu/_K
+jedi/_E
 jeep/_E
 jeia/_E
 jejunal/_E
@@ -85492,6 +85650,7 @@ joiera/_E
 joieria/_E
 joiosament
 joiós/_J
+jojoba/_E
 joliu/_E
 joliu/_F
 jolivert/_E
@@ -85963,6 +86122,7 @@ komi/_E
 kopek/_E
 kordofanià/_G
 korn/_E
+kosher
 kosipo/_E
 kosovar/_E
 kosovenc/_F
@@ -86729,6 +86889,7 @@ lexical/_E
 lexicalització/_G
 lexicalitzar/00
 lexicografia/_E
+lexicogramatical/_E
 lexicogràfic/_F
 lexicologia/_E
 lexicològic/_F
@@ -87011,6 +87172,7 @@ liopèlmid/_E
 liornès/_J
 liotríquia/_E
 lipasa/_E
+lipdub/_E
 lipidograma/_E
 lipocaic/_E
 lipodistròfia/_E
@@ -88437,6 +88599,7 @@ lofodont/_F
 lofoforat/_E
 lofoscòpia/_E
 lofoscòpic/_F
+loft/_E
 lofírid/_E
 lofòfor/_E
 lofòtric/_F
@@ -90508,6 +90671,7 @@ marsala/_E
 marsapà/_G
 marsdenià/_G
 marsdenià/_H
+marseguera/_E
 marsellès/_J
 marsi
 marsileal/_E
@@ -90589,6 +90753,7 @@ marínida/_E
 marítim/_F
 mas/_I
 masada/_E
+masala
 mascara/_E
 mascarada/_E
 mascarar/00
@@ -91002,6 +91167,7 @@ maximós/_J
 maxwell/_E
 maxíl·lula/_E
 maxímetre/_E
+mayday
 mazdaisme/_E
 mazdaista/_E
 mazdakisme/_E
@@ -91053,6 +91219,7 @@ mecanicoquàntic/_F
 mecanisme/_E
 mecanitzable/_E
 mecanització/_G
+mecanitzador/_F
 mecanitzar/00
 mecano/_E
 mecanografia/_E
@@ -91220,7 +91387,9 @@ megantrop/_E
 megaoctet/_E
 megaohm/_E
 megapascal/_E
+megaprojecte/_E
 megaprotal·lus
+megapíxel/_E
 megapòdid/_E
 megaquílid/_E
 megarecte/_E
@@ -91629,6 +91798,7 @@ merangí/_H
 merant/_E
 meranti/_E
 meravella/_E
+meravellament/_E
 meravellar/00
 meravellosament
 meravellós/_J
@@ -91987,6 +92157,7 @@ metabolopatia/_E
 metabolímetre/_E
 metabolòmica/_E
 metaborat/_E
+metabotròpic/_F
 metabòlic/_F
 metabòlit/_E
 metabòric/_E
@@ -92400,6 +92571,7 @@ microcentral/_E
 microcentre/_E
 microcinta/_E
 microcircuit/_E
+microcirculació/_G
 microcirurgia/_E
 microcirurgià/_H
 microcist/_E
@@ -93098,6 +93270,7 @@ mirmecòfag/_F
 mirmecòfil/_F
 mirmeleònid/_E
 mirmidó/_G
+mirmídon/_E
 miroia/_E
 mironià/_H
 mirota/_E
@@ -93115,8 +93288,7 @@ miríada/_E
 mirífic/_F
 miríficament
 mirístic/_F
-misantrop/_E
-misantropa/_E
+misantrop/_F
 misantropia/_E
 misantròpic/_F
 miscal/_E
@@ -93204,6 +93376,7 @@ mistralià/_H
 mistèric/_F
 misàndria/_E
 misàndric/_F
+misàntrop/_F
 misèria/_E
 misèrrim/_F
 misèrrimament
@@ -93759,6 +93932,7 @@ monitoratge/_E
 monitori/_E
 monitori/_K
 monjo/_F
+monjoi/ZZ
 monjoia/_E
 monjoiar/55
 monjola/_E
@@ -94707,6 +94881,7 @@ multiforme/_E
 multifreqüència
 multifuncional/_E
 multifunció
+multigeneracional/_E
 multigrau
 multigràvida/_E
 multiimpuls
@@ -94768,6 +94943,8 @@ multipropietat/_E
 multipunt
 multiracial/_E
 multiradiat/_B
+multireincident/_E
+multireincidència/_E
 multiresistent/_E
 multirisc
 multisectorial/_E
@@ -95884,6 +96061,7 @@ neodadaisme/_E
 neodadaista/_E
 neodarwinisme/_E
 neodarwinista/_E
+neodesenvolupista/_E
 neodimi/_E
 neoencèfal/_E
 neoendemisme/_E
@@ -96309,7 +96487,6 @@ nial/_E
 niala/_E
 niar/40
 nibelung/_E
-nic/_E
 nicab/_E
 nicaragüenc/_E
 nicaragüenc/_F
@@ -98459,6 +98636,8 @@ omissible/_E_V_Y
 omissió/_G_V_Y
 ommatidi/_E_V_Y
 ommocrom/_E_V_Y
+omnicomprensiu/_B_V_Y
+omnicomprensiva/_V_Y
 omnidireccional/_E_V_Y
 omnipotent/_E_V_Y
 omnipotentment/_Y_V
@@ -99591,6 +99770,8 @@ oscadissa/_V_Y
 oscadís/_B_V_Y
 oscar/91
 oscaritzable/_E_V_Y
+oscaritzada/_V_Y
+oscaritzat/_B_V_Y
 oscil·lació/_G_V_Y
 oscil·lada/_V
 oscil·lador/_E_V_Y
@@ -99893,6 +100074,7 @@ oueria/_E_V_Y
 ouet/_E_V_Y
 ouija/_Y
 ouijes/_Y
+outlet/_E_V_Y
 output/_E_V_Y
 outrigger/_E_V_Y
 ovacionada/_V
@@ -100677,6 +100859,7 @@ panarteritis
 panatenaic/_F
 panateneu/_K
 panavisió
+pancake/_E
 pancarditis
 pancaritat/_E
 pancarta/_E
@@ -100784,6 +100967,7 @@ panmielosi/_E
 panmixi/_E
 panmíctic/_F
 panna/_E
+pannacotta/_E
 pannicle/_E
 panniculitis
 pannoni
@@ -101566,6 +101750,7 @@ partidor/_E
 partidor/_F
 partidora/_E
 partidària/_E
+partidàs/_i
 partiment/_E
 partionament/_E
 partionar/00
@@ -101639,6 +101824,7 @@ pasquer/_E
 pasquera/_E
 pasquinada/_E
 pasquí/_G
+pasqüer/_F
 pasqüeta/_E
 passa-passa/_E
 passa-rius
@@ -101827,6 +102013,7 @@ patatum/_E
 patatxap/_E
 patatxo/_E
 patatxup/_E
+patchwork
 patel·la/_E
 patel·lar/_E
 patena/_E
@@ -103969,6 +104156,7 @@ pilòric/_F
 piló/_G
 pilós/_J
 pilú/_E
+pim-pam-pum
 pim-pam/_E
 pime/_E
 pimelga/_E
@@ -104222,6 +104410,7 @@ piretologia/_E
 piretoteràpia/_E
 piretre/_E
 piretrina/_E
+piretroide/_E
 pirheliòmetre/_E
 piricularina/_E
 piridazina/_E
@@ -104240,7 +104429,6 @@ pirimídic/_F
 pirineisme/_E
 pirineista/_E
 pirinenc/_F
-pirineus
 pirita/_E
 piritització/_G
 piritoedre/_E
@@ -105156,6 +105344,7 @@ pluriocupat/_B
 pluriovular/_E
 pluripartidisme/_E
 pluripartidista/_E
+pluripersonal/_E
 pluripotent/_E
 plurivalent/_E
 plurivalència/_E
@@ -105736,6 +105925,7 @@ politicofinancer/_F
 politicoideològic/_F
 politicoinstitucional/_E
 politicojurídic/_F
+politicolingüístic/_F
 politicologia/_E
 politicomilitar/_E
 politiconacional/_E
@@ -106450,12 +106640,14 @@ posseïdor/_F
 posseïdora/_E
 possibilisme/_E
 possibilista/_E
+possibilitador/_F
 possibilitar/00
 possibilitat/_E
 possible/_E
 possiblement
 possés/_i
 post
+post-it/_E
 post/_E
 posta/_E
 postabdomen
@@ -106470,6 +106662,7 @@ postapocalíptic/_F
 postat/_E
 postbèl·lic/_F
 postcapitalista/_E
+postcoital/_E
 postcolonial/_E
 postcolonialisme/_E
 postcombustió/_G
@@ -106732,6 +106925,8 @@ preadolescent/_E
 preadolescència/_E
 preadoptiu/_B
 preador/_F
+prealerta/_E
+prealfabètic/_F
 preament/_E
 preamplificador/_E
 preanestèsia/_E
@@ -107089,6 +107284,7 @@ premiadora/_E
 premianenc/_F
 premiar/40
 premissa/_E
+première/_E
 premoció/_G
 premodern/_F
 premodernitat/_E
@@ -107117,6 +107313,7 @@ premuda/_E
 premunir/87
 premuntatge/_E
 premíslida/_E
+premòrbid/_F
 pren/_E
 prenarcosi/_E
 prenatal/_E
@@ -108417,10 +108614,7 @@ protutora/_E
 protàl·lic/_F
 protàtic/_F
 protèrvia/_E
-protèsic/_F
-protètic/_E
 protètic/_F
-protètica/_E
 protòfit/_E
 protòleg/_E
 protòlisi/_E
@@ -108639,6 +108833,7 @@ pseudocientífic/_F
 pseudociesi/_E
 pseudocilíndric/_F
 pseudociència/_E
+pseudoclementí/_H
 pseudocodi/_E
 pseudocolònia/_E
 pseudocàrpic/_F
@@ -108677,6 +108872,7 @@ pseudomònada/_E
 pseudomòrfic/_F
 pseudonatural/_E
 pseudonímia/_E
+pseudoparaula/_E
 pseudoparàlisi/_E
 pseudoparènquima/_E
 pseudopelada/_E
@@ -109431,6 +109627,7 @@ pòrtic/_E
 pòrtland/_E
 pòsit/_E
 pòster/_E
+pòstit/_E
 pòstum/_F
 pòstumament
 pòtil/_E
@@ -110031,6 +110228,7 @@ quinquefoliat/_B
 quinquelobulat/_B
 quinquennal/_E
 quinquenni/_E
+quinqui/_E
 quinquina/_E
 quinqué/_E
 quins
@@ -110555,6 +110753,7 @@ raglan/_E
 ragoût/_E
 raguseu/_K
 ragusà/_G
+ragut/_E
 rai
 rai/_E
 raid/_E
@@ -112432,6 +112631,7 @@ reietó/_G
 reificació/_G
 reig/_E
 reiki/_E
+reimaginar/03
 reimplantació/_G
 reimplantar/00
 reimportació/_G
@@ -113171,6 +113371,7 @@ reposador/_F
 reposament/_E
 reposapeus
 reposar/18
+reposicionament/_E
 reposicionar/00
 reposició/_G
 repositori/_E
@@ -113559,6 +113760,7 @@ ressorgir/87
 ressort/_E
 ressortir/8A
 ressurgència/_E
+ressuscitació/_G
 ressuscitar/00
 ressò/_G
 ressòl/_E
@@ -113806,6 +114008,7 @@ retribuïble/_E
 retribuïdor/_F
 retrinxament/_E
 retrinxar/00
+retro
 retroacció/_G
 retroactiu/_B
 retroactivament
@@ -114064,6 +114267,7 @@ revitalitzar/00
 reviure/3B
 revivada/_E
 revivador/_F
+revival/_E
 revivalla/_E
 revivament/_E
 revivar/00
@@ -115265,7 +115469,6 @@ ruïna/_E
 ruïniforme/_E
 ruïnosament
 ruïnós/_J
-rwandès/_J
 ràbia/_E
 ràbic/_F
 ràbita/_E
@@ -117112,6 +117315,8 @@ semidesnatat/_B
 semidesèrtic/_F
 semidiferència/_E
 semidirecte/_F
+semidirigit/_B
+semidisminuït/_E
 semidiví/_H
 semidiàmetre/_E
 semidièsel/_E
@@ -117201,6 +117406,7 @@ semipresencial/_E
 semiprivat/_B
 semiprivatització/_G
 semiprofessional/_E
+semiprotegit/_B
 semiprova/_E
 semipúblic/_F
 semireacció/_G
@@ -117381,6 +117587,7 @@ sentimental/_E
 sentimentalisme/_E
 sentimentalitat/_E
 sentimentalment
+sentimentaloide/_E
 sentina/_E
 sentinella/_E
 sentinel·la/_E
@@ -118680,6 +118887,7 @@ sitala/_E
 sitar/_E
 sitara/_E
 sitatunga/_E
+sitcom/_E
 sitger/_E
 sitgera/_E
 sitgetà/_H
@@ -118723,6 +118931,7 @@ siveller/_E
 sivellera/_E
 sivert/_E
 sivina/_E
+sixtí/_H
 sizigi/_E
 sizígia/_E
 siàlic/_F
@@ -118959,6 +119168,8 @@ sobrepujar/52
 sobrepujos
 sobrepuntat/_B
 sobrepès/_I
+sobrequalificació/_G
+sobrequalificat/_B
 sobrequilla/_E
 sobrer/_F
 sobrerament
@@ -119072,6 +119283,7 @@ socioaddicció/_G
 socioafectiu/_B
 sociobiologia/_E
 sociocentrisme/_E
+sociocomunicatiu/_B
 sociocultural/_E
 sociodemogràfic/_F
 sociodrama/_E
@@ -119110,6 +119322,7 @@ socioreligiós/_J
 sociosanitari/_K
 socioterritorial/_E
 socioteràpia/_E
+sociourbà/_H
 socis
 sociòleg/_K
 socolada/_E
@@ -119900,6 +120113,7 @@ stickman/_E
 stilb/_E
 stockli/_E
 stokes
+stop-motion
 stop/_E
 stracciatella/_E
 stratiformis
@@ -120008,6 +120222,7 @@ subcomandant/_F
 subcomarca/_E
 subcomarcal/_E
 subcomissió/_G
+subcomitè/_E
 subcompetència/_E
 subcomponent/_E
 subcompte/_E
@@ -120039,6 +120254,7 @@ subdelegar/78
 subdelegat/_B
 subdeliri/_E
 subdepartament/_E
+subdescriptor/_E
 subdesenrotllament/_E
 subdesenrotllat/_B
 subdesenvolupament/_E
@@ -120316,6 +120532,7 @@ subsistema/_E
 subsistent/_E
 subsistir/87
 subsistència/_E
+subsol/ZZ
 subsolador/_E
 subsolar/00
 subsolatge/_E
@@ -120352,6 +120569,7 @@ substràtum/_E
 substància/_E
 subsumir/87
 subsumpció/_G
+subsuperficial/_E
 subsèrie/_E
 subsèssil/_E
 subsíndic/_F
@@ -120365,6 +120583,7 @@ subterfugi/_E
 subterminal/_E
 subterrani/_K
 subterràniament
+subtext/_E
 subtil/_E
 subtilesa/_E
 subtilisina/_E
@@ -121261,6 +121480,7 @@ sòria/_E
 sòsia/_E
 sòtil/_E
 sòtol/_E
+sòviet/_E
 sól·lera/_E
 súbdit/_E
 súbdit/_F
@@ -125013,6 +125233,7 @@ transgressió/_G
 transgressor/_E
 transgressor/_F
 transgressora/_E
+transgènere/_E
 transgènic/_F
 transhumant/_E
 transhumar/00
@@ -126277,6 +126498,7 @@ trompada/_E
 trompar/00
 trompassada/_E
 trompassar/11
+trompe-l'oeil
 trompejar/52
 trompellons
 trompellot/_E
@@ -127151,6 +127373,7 @@ ulotrical/_E_Y
 ulterior/_E_V_Y
 ulterioritat/_E_Y
 ulteriorment/_Y_V
+ultim/ZZ
 ultimador/_F_V_Y
 ultimar/28
 ultimàtum/_E_V_Y
@@ -127210,6 +127433,7 @@ ultramicroscòpic/_F_V_Y
 ultramicròtom/_E_V_Y
 ultraminoritari/_K_V_Y
 ultramodern/_F_V_Y
+ultramodernitat/_E_Y
 ultramundà/_H_V_Y
 ultramuntana/_E_Y
 ultramuntanisme/_E_V_Y
@@ -128500,6 +128724,7 @@ ventricular/_E
 ventriculografia/_E
 ventricós/_J
 ventrilòquia/_E
+ventrolateral/_E
 ventrut/_B
 ventríloc
 ventríloc/_E
@@ -128875,6 +129100,7 @@ vetar/00
 veter/_F
 veterana/_E
 veterania/_E
+veteraníssim/_F
 veterinari/_E
 veterinari/_K
 veterinària/_E
@@ -129037,6 +129263,8 @@ victimari/_E
 victimisme/_E
 victimista/_E
 victimització/_G
+victimitzador/_F
+victimitzar/00
 victimologia/_E
 victorejar/52
 victoriat/_E
@@ -129794,6 +130022,7 @@ volcanicitat/_E
 volcà/_G
 volcànic/_F
 volea/_E
+volei/ZZ
 voleiar/55
 voleibol/_E
 volejador/_F
@@ -131046,6 +131275,7 @@ yakitori/_E
 yeadonià/_G
 yeadonià/_H
 yottabyte/_E
+youtuber/_E
 yperita/_E
 ypresià/_G
 ypresià/_H
@@ -131302,6 +131532,7 @@ zúdnic/_E
 Àreu/_Y_V
 Àries/_Y_V
 Àrreu/_Y_V
+Àrtemis/_Y_V
 Àsdrubal/_Y_V
 Àsia/_Y_V
 Àsina/_Y_V
@@ -131318,6 +131549,7 @@ zúdnic/_E
 Ágreda
 Álora
 Álvarez
+Álvaro
 Ávalos
 Åland
 Ålborg
