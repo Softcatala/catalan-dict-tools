@@ -14301,6 +14301,7 @@ Nemours Nemours NPCSG00
 Nemunas Nemunas NPCSG00
 Neocretaci Neocretaci NPCSG00
 Neoloteca Neoloteca NPFSO00
+Neopàtria Neopàtria NPFSG00
 Nepal Nepal NPMSG00
 Neptuns Neptú NPMPSP0
 Neptú Neptú NPMSSP0

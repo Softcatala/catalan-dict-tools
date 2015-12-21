@@ -74,6 +74,7 @@ encostipar
 encostipada
 enrecordar
 enrecordada
+ens
 ermós
 ermosa
 espaial

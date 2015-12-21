@@ -20794,6 +20794,7 @@ retroactiu retroactiva=categories: A;fonts: LT;
 retroactor retroactora=categories: A;fonts: LT;
 retrobable=categories: A;fonts: LT;
 retrobador retrobadora=categories: A;fonts: LT;
+retrobulbar=categories: A;fonts: termcat;
 retrocompatible=categories: A;fonts: derivat;
 retroflex retroflexa=categories: A;fonts: LT;
 retrofuturístic retrofuturística=categories: A;fonts: LT;

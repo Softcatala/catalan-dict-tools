@@ -36,7 +36,7 @@ do
     echo "Generant diccionari de la resta de categories"
     perl $dir_programes/fdic-to-hunspell-resta.pl $dir_arrel $dir_intermedi/resta.dic -$variant
 
-    cp $dir_dades/*.dic $dir_intermedi
+    #cp $dir_dades/*.dic $dir_intermedi
     cp $dir_dades/*.aff $dir_intermedi
 
     cat $dir_intermedi/*.dic > $dir_intermedi/$variant.dic
@@ -44,6 +44,9 @@ do
     #Fes les exclusions
     echo "Fent exclusions"
     perl $dir_programes/fes-exclusions.pl $dir_dades/exclusions.txt $dir_intermedi/$variant.dic $dir_intermedi/$variant-exclusions.dic
+
+    #Afegeix extres després d'exclusions (per a "ens")
+    cat $dir_dades/extres.dic $dir_intermedi/$variant-exclusions.dic > $dir_intermedi/$variant-exclusions-extres.dic
 
     # Copia informacio de copyright
     cp $dir_dades/copyright.txt $dir_intermedi
@@ -53,7 +56,7 @@ do
     sed -i -e s/\#\#DATE\#\#/$MYDATE/ $dir_intermedi/copyright.txt
 
     cd $dir_intermedi
-    export LC_ALL=C && sort -u $variant-exclusions.dic -o $variant.dic
+    export LC_ALL=C && sort -u $variant-exclusions-extres.dic -o $variant.dic
     sed '/^$/d' -i $variant.dic
     cat $variant.dic | wc -l > linies.txt
     cat linies.txt $variant.dic > tmp.dic
