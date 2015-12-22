@@ -34324,6 +34324,7 @@ inconcebibilitat=categories: F;fonts: LT;
 inconcreció=categories: F;fonts: LT;
 inconcret=categories: MS;fonts: LT;
 incondensable=categories: M;fonts: LT;
+incondicionalitat=categories: F;fonts: derivat;
 inconformisme=categories: M;fonts: LT;
 inconformista=categories: MF;fonts: LT;
 incongruència=categories: F;fonts: LT;

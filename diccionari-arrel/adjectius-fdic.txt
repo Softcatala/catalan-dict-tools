@@ -7427,6 +7427,7 @@ discrepant=categories: A;fonts: LT;
 discret discreta=categories: A;fonts: LT;
 discretíssim discretíssima=categories: AA;fonts: LT;
 discriminable=categories: A;fonts: LT;
+discriminador -a=categories: A;fonts: AVL;
 discriminant=categories: A;fonts: LT;
 discriminatori discriminatòria=categories: A;fonts: LT;
 discràtic discràtica=categories: A;fonts: LT;
