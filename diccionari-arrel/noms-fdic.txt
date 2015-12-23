@@ -53481,6 +53481,7 @@ reimportació=categories: F;fonts: LT;
 reimposició=categories: F;fonts: LT;
 reimpressió=categories: F;fonts: LT;
 reina=categories: F;fonts: LT;
+reinauguració=categories: F;fonts: LT;
 reincident=categories: MF;fonts: LT;
 reincidència=categories: F;fonts: LT;
 reincorporació=categories: F;fonts: LT;

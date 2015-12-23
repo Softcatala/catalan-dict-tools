@@ -11282,6 +11282,7 @@ Laporta Laporta NPCNSP0
 Lappeenranta Lappeenranta NPCSG00
 Lapurdi Lapurdi NPCSG00
 Lapònia Lapònia NPFSG00
+Lara Lara NPCNSP0
 Laredo Laredo NPCSG00
 Larne Larne NPCSG00
 Larraix Larraix NPCSG00
