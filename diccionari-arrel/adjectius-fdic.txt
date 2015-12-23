@@ -19144,6 +19144,7 @@ precoç=categories: A;fonts: LT;
 precristià precristiana=categories: A;fonts: LT;
 precuinat precuinada=categories: A;fonts: LT;
 precursor precursora=categories: A;fonts: LT;
+precèltic precèltica=categories: A;fonts: derivat;
 precís precisa=categories: A;fonts: LT;
 predador predadora=categories: A;fonts: LT;
 predatori predatòria=categories: A;fonts: LT;
