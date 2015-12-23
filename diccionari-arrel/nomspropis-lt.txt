@@ -11854,7 +11854,7 @@ Locke Locke NPCNSP0
 Lodi Lodi NPCSG00
 Lodz Lodz NPCSG00
 Lofa Lofa NPCSG00
-Lofoten Lofoten NPCSG00
+Lofoten Lofoten NPFPG00
 Logan Logan NPCSG00
 Logar Logar NPCSG00
 Logos Logos NPCSG00
