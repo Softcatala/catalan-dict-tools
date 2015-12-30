@@ -19055,6 +19055,7 @@ postsimbolista=categories: A;fonts: LT;
 postsinàptic postsinàptica=categories: A;fonts: LT;
 postterme=categories: AI;fonts: LT;
 posttest=categories: AI;fonts: LT;
+posttransfusional=categories: A;fonts: termcat;
 posttraumàtic posttraumàtica=categories: A;fonts: LT;
 posttònic posttònica=categories: A;fonts: LT;
 postulador postuladora=categories: A;fonts: LT;
