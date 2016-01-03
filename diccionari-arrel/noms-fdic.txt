@@ -60616,6 +60616,7 @@ tesmòteta=categories: M;fonts: LT;
 tesor=categories: F;fonts: LT;
 tessali=categories: M;fonts: LT;
 tessel·la=categories: F;fonts: LT;
+tessel·lació=categories: F;fonts: termcat;
 tesseractis=categories: MI;fonts: LT;
 tessitura=categories: F;fonts: LT;
 tessàlia=categories: F;fonts: LT;
