@@ -6,10 +6,10 @@
 ###
 
 #directori LanguageTool
-dir_lt=~/target-lt
+lt_tools=/mnt/mydata/github/languagetool/languagetool-tools/target/languagetool-tools-3.3-SNAPSHOT-jar-with-dependencies.jar
 
 # dump the tagger dictionary
-java -cp $dir_lt/languagetool.jar org.languagetool.dev.DictionaryExporter catalan.dict > catalan_lt.txt
+java -cp $lt_tools org.languagetool.tools.DictionaryExporter catalan.dict > catalan_lt.txt
 
 cp catalan_lt.txt diccionari_antic.txt
 echo "Preparant diccionari"

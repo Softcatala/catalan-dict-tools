@@ -14228,6 +14228,7 @@ Naulart Naulart NPCNSP0
 Naumburg Naumburg NPCSG00
 Naupacte Naupacte NPCSG00
 Nauru Nauru NPMSG00
+Nausica Nausica NPFSSP0
 Naut Naut NPCSG00
 Nauvoo Nauvoo NPCSG00
 Navacerrada Navacerrada NPCSG00
