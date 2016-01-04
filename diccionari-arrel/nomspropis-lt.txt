@@ -15899,6 +15899,7 @@ Piflorit Piflorit NPCSG00
 Piga Piga NPCNSP0
 Pigallem Pigallem NPCNSP0
 Pigem Pigem NPCNSP0
+Pigmalió Pigmalió NPMSSP0
 Pigrau Pigrau NPCNSP0
 Pigròs Pigròs NPCNSP0
 Piguillem Piguillem NPCNSP0

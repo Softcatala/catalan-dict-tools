@@ -43513,6 +43513,7 @@ notacàntid=categories: M;fonts: LT;
 notari=categories: M;fonts: LT;
 notaria=categories: F;fonts: LT;
 notariat=categories: M;fonts: LT;
+noteta=categories: F;fonts: diminutiu;
 noticiari=categories: M;fonts: LT;
 noticier noticiera=categories: MF;fonts: LT;
 notificació=categories: F;fonts: LT;
