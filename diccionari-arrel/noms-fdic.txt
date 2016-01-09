@@ -19613,6 +19613,7 @@ desperta=categories: F;fonts: LT;
 despertada=categories: F;fonts: LT;
 despertador=categories: M;fonts: LT;
 despertament=categories: M;fonts: LT;
+despertar=categories: M;fonts: AVL;
 despesa=categories: F;fonts: LT;
 despietat1=categories: F;fonts: LT;
 despintament=categories: M;fonts: LT;
