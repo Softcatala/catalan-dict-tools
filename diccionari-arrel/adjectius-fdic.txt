@@ -1892,6 +1892,7 @@ antisifilític antisifilítica=categories: A;fonts: LT;
 antisimètric antisimètrica=categories: A;fonts: LT;
 antisionista=categories: A;fonts: LT;
 antisistema=categories: AI;fonts: LT;
+antisobiranista=categories: A;fonts: derivat;
 antisocial=categories: A;fonts: LT;
 antisocialista=categories: A;fonts: LT;
 antisolar=categories: A;fonts: LT;
