@@ -6711,6 +6711,7 @@ Dhofar Dhofar NPCSG00
 Dhānbād Dhānbād NPCSG00
 Diabali Diabali NPCSG00
 Diadema Diadema NPCSG00
+Diafebus Diafebus NPMSSP0
 Diamantina Diamantina NPCSG00
 Diana Diana NPCSG00
 Diana Diana NPFSSP0
