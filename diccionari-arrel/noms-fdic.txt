@@ -28569,6 +28569,7 @@ foide=categories: M;fonts: LT;
 foixanenc foixanenca=categories: MF;fonts: LT;
 foixarda=categories: F;fonts: LT;
 foixenc foixenca=categories: MF;fonts: LT;
+folat=categories: M;fonts: viquipedia, termcat;
 folc=categories: M;fonts: LT;
 folcat=categories: M;fonts: LT;
 folga=categories: F;fonts: LT;

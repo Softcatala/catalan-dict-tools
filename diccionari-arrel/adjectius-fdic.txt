@@ -10412,6 +10412,7 @@ francoflamenc -a=categories: A;fonts: derivat;
 francogermànic francogermànica=categories: A;fonts: derivat;
 francolí=categories: AM;fonts: LT;
 franconià franconiana=categories: A;fonts: LT;
+francoprussià francoprussiana=categories: A;fonts: derivat;
 francès francesa=categories: A;fonts: LT;
 francòfil francòfila=categories: A;fonts: LT;
 francòfob francòfoba=categories: A;fonts: LT;
