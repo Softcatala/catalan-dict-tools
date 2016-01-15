@@ -43060,6 +43060,7 @@ neuropatia=categories: F;fonts: LT;
 neuropatologia=categories: F;fonts: LT;
 neuroplasticitat=categories: F;fonts: Viquipèdia;
 neuropodi=categories: M;fonts: LT;
+neuroprotecció=categories: F;fonts: derivat;
 neuropsicologia=categories: F;fonts: LT;
 neuropsiquiatre neuropsiquiatra=categories: MF;fonts: LT;
 neuropsiquiatria=categories: F;fonts: LT;
