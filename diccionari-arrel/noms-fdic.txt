@@ -13624,6 +13624,7 @@ ciberlegislació=categories: F;fonts: LT;
 ciberllenguatge=categories: M;fonts: LT;
 cibernauta=categories: MF;fonts: LT;
 cibernètica=categories: F;fonts: LT;
+ciberperiodisme=categories: M;fonts: derivat;
 ciberpolicia=categories: M;fonts: LT;
 ciberseguretat=categories: F; fonts: derivat;
 ciberserial=categories: M;fonts: LT;
