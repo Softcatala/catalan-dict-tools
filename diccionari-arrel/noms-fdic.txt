@@ -9579,6 +9579,7 @@ bouet=categories: M;fonts: LT;
 boulangerita=categories: F;fonts: LT;
 bourbon=categories: M;fonts: LT;
 bournonita=categories: F;fonts: LT;
+boutade=categories: F;fonts: neolosfera;
 boutique=categories: F;fonts: LT;
 bouvaca=categories: M;fonts: LT;
 bova=categories: F;fonts: LT;
