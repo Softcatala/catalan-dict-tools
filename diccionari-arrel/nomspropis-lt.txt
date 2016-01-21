@@ -5007,6 +5007,7 @@ Casotes Casotes NPFPG00
 Casots Casots NPMPG00
 Casp Casp NPCNSP0
 Casp Casp NPCSG00
+Cassandra Cassandra NPFSSP0
 Cassanella Cassanella NPCNSP0
 Cassany Cassany NPCNSP0
 Cassanya Cassanya NPCNSP0
@@ -7223,6 +7224,7 @@ Encebres Encebres NPFPG00
 Encesa Encesa NPCNSP0
 Encontrella Encontrella NPCSG00
 Endesa Endesa NPFSO00
+Enedina Enedina NPFSSP0
 Enees Enees NPMPSP0
 Enees Enees NPMSSP0
 Eneida Eneida NPFSO00
@@ -7406,6 +7408,7 @@ Escrigues Escrigues NPCNSP0
 Escrivà Escrivà NPCNSP0
 Escuder Escuder NPCNSP0
 Escuintla Escuintla NPCSG00
+Esculapi Esculapi NPMSSP0
 Escultor Escultor NPCSG00
 Escunyau Escunyau NPCSG00
 Escurçac Escurçac NPCNSP0
@@ -8676,6 +8679,7 @@ Gabrovo Gabrovo NPCSG00
 Gabí Gabí NPMSSP0
 Gaddafi Gaddafi NPCNSP0
 Gadilla Gadilla NPCNSP0
+Gaetà Gaetà NPFSSP0
 Gafallops Gafallops NPCNSP0
 Gafarró Gafarró NPMSG00
 Gagnoa Gagnoa NPCSG00
@@ -14312,6 +14316,7 @@ Neptuns Neptú NPMPSP0
 Neptú Neptú NPMSSP0
 Nerbion Nerbion NPCSG00
 Nere Nere NPMSG00
+Nerea Nerea NPFSSP0
 Neretva Neretva NPCSG00
 Nereu Nereu NPMSSP0
 Nereus Nereu NPMPSP0
@@ -19191,6 +19196,7 @@ Sigfrid Sigfrid NPMSSP0
 Sigfrids Sigfrid NPMPSP0
 Sigiriya Sigiriya NPCSG00
 Sigmaringen Sigmaringen NPCSG00
+Sigmund Sigmund NPMSSP0
 Signa Signa NPCSG00
 Siguiri Siguiri NPCSG00
 Sigués Sigués NPCNSP0
@@ -22675,6 +22681,7 @@ Zoiles Zoile NPMPSP0
 Zola Zola NPCNSP0
 Zomba Zomba NPCSG00
 Zonguldak Zonguldak NPCSG00
+Zoroastre Zoroastre NPMSSP0
 Zou Zou NPCSG00
 Zouerat Zouerat NPCSG00
 Zoundwéogo Zoundwéogo NPCSG00
@@ -22731,6 +22738,7 @@ uTorrent uTorrent NPCNO00
 Àger Àger NPCSG00
 Àgueda Àgueda NPFSSP0
 Àguila Àguila NPFSG00
+Àiax Àiax NPMSSP0
 Àlaba Àlaba NPFSG00
 Àlex Àlex NPMSSP0
 Àlguema Àlguema NPFSG00

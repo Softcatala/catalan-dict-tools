@@ -44379,6 +44379,7 @@ ommocrom=categories: M;fonts: LT;
 omnipotència=categories: F;fonts: LT;
 omnipresència=categories: F;fonts: LT;
 omnisciència=categories: F;fonts: LT;
+omnivorisme=categories: M;fonts: viquipedia;
 omofori=categories: M;fonts: LT;
 omofàgia=categories: F;fonts: LT;
 omotòcia=categories: F;fonts: LT;

@@ -9260,6 +9260,7 @@ etnogènic etnogènica=categories: A;fonts: LT;
 etnolingüístic etnolingüística=categories: A;fonts: LT;
 etnològic etnològica=categories: A;fonts: LT;
 etnopoètic etnopoètica=categories: A;fonts: LT;
+etnoracial=categories: A;fonts: derivat;
 etnoreligiós etnoreligiosa=categories: A;fonts: LT;
 etoli etòlia=categories: A;fonts: LT;
 etològic etològica=categories: A;fonts: LT;
