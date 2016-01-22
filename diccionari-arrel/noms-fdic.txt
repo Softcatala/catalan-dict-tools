@@ -36188,7 +36188,6 @@ lalofòbia=categories: F;fonts: LT;
 lal·lació=categories: F;fonts: LT;
 lama=categories: M;fonts: LT;
 lamaisme=categories: M;fonts: LT;
-lamaisme=categories: M;fonts: viquipedia;
 lamarckisme=categories: M;fonts: LT;
 lambada=categories: F;fonts: LT;
 lambda=categories: F;fonts: LT;
