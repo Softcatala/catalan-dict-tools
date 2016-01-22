@@ -17365,7 +17365,6 @@ Requesens Requesens NPCNSP0
 Requesens Requesens NPCSG00
 Resclosa Resclosa NPCNSP0
 Resina Resina NPCSG00
-Resistencia Resistencia NPCSG00
 Restitut Restitut NPMSSP0
 Restituta Restituta NPFSSP0
 Restitutes Restituta NPFPSP0
