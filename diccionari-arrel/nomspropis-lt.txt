@@ -7629,6 +7629,7 @@ Estorm Estorm NPCSG00
 Estornell Estornell NPCNSP0
 Estort Estort NPCNSP0
 Estrabau Estrabau NPCNSP0
+Estrabó Estrabó NPMSSP0
 Estrac Estrac NPCNSP0
 Estrac Estrac NPCSG00
 Estrada Estrada NPCNSP0
@@ -20755,7 +20756,6 @@ Tramús Tramús NPCNSP0
 Trani Trani NPCSG00
 Transbaikal Transbaikal NPCSG00
 Transcarpàcia Transcarpàcia NPFSG00
-Transilvània Transilvània NPFSG00
 Transjordània Transjordània NPFSG00
 Transsilvània Transsilvània NPFSG00
 Transvaal Transvaal NPCSG00
