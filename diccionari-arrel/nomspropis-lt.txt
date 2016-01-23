@@ -2005,7 +2005,7 @@ Ascanis Ascani NPMPSP0
 Ascar Ascar NPCNSP0
 Ascensió Ascensió NPCSG00
 Aschaffenburg Aschaffenburg NPCSG00
-Asclepíades Asclepíades NPMPSP0
+Asclepi Asclepi NPMSSP0
 Asclepíades Asclepíades NPMSSP0
 Ascot Ascot NPCSG00
 Ascó Ascó NPCNSP0
