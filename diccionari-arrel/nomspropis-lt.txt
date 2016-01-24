@@ -6658,6 +6658,7 @@ Descatlar Descatlar NPCNSP0
 Desclapers Desclapers NPCNSP0
 Desclot Desclot NPCNSP0
 Descoll Descoll NPCNSP0
+Desdèmona Desdèmona NPFSSP0
 Deseado Deseado NPCSG00
 Desemparats Desemparats NPMPSP0
 Desemparats Desemparats NPMSSP0
