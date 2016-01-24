@@ -17269,6 +17269,7 @@ opinable=categories: A;fonts: LT;
 opinant=categories: A;fonts: LT;
 opinionàtic opinionàtica=categories: A;fonts: LT;
 opiniós opiniosa=categories: A;fonts: LT;
+opioide=categories: A;fonts: AVL, termcat;
 opiomaníac opiomaníaca=categories: A;fonts: LT;
 opistocèlic opistocèlica=categories: A;fonts: LT;
 opistogràfic opistogràfica=categories: A;fonts: LT;
