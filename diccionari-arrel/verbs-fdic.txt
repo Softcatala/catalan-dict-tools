@@ -6612,6 +6612,7 @@ influir=categories: V;model:traduir;fonts:LT
 infondre=categories: V;model:confondre;fonts:LT
 informar=categories: V;model:cantar;fonts:LT
 informatitzar=categories: V;model:cantar;fonts:LT
+infraestimar=categories: V;model:cantar;fonts: derivat;
 infrafinançar=categories: V;model:començar;fonts:LT
 infrautilitzar=categories: V;model:cantar;fonts:LT
 infravalorar=categories: V;model:cantar;fonts:LT

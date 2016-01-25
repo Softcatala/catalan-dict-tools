@@ -34683,6 +34683,7 @@ infracretaci=categories: M;fonts: LT;
 infractor=categories: M;fonts: LT;
 infractora=categories: F;fonts: LT;
 infradotació=categories: F;fonts: LT;
+infraestimació=categories: F;fonts: derivat;
 infraestructura=categories: F;fonts: LT;
 infrafinançament=categories: M;fonts: LT;
 infrahabitatge=categories: M;fonts: LT;
