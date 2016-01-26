@@ -7669,6 +7669,7 @@ dorsiventral=categories: A;fonts: LT;
 dos-centè dos-centena=categories: AO;fonts: LT;
 dosaigüer dosaigüera=categories: A;fonts: LT;
 dosificable=categories: A;fonts: LT;
+dosificador dosificadora=categories: A;fonts: termcat;
 dosimètric dosimètrica=categories: A;fonts: LT;
 dosriuenc dosriuenca=categories: A;fonts: LT;
 dosè dosena=categories: AO;fonts: diec;

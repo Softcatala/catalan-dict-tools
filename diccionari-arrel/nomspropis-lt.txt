@@ -12720,6 +12720,7 @@ Masllopart Masllopart NPCNSP0
 Masllorac Masllorac NPCNSP0
 Masllorenç Masllorenç NPCNSP0
 Masllorenç Masllorenç NPCSG00
+Maslow Maslow NPCNSP0
 Masmartí Masmartí NPCNSP0
 Masmasó Masmasó NPCNSP0
 Masmesó Masmesó NPCSG00
@@ -21057,6 +21058,7 @@ UIB UIB NPFSO00
 UIC UIC NPFSO00
 UJI UJI NPFSO00
 UMH UMH NPFSO00
+UNED UNED NPFSO00
 UNESCO Unesco NPFSO00
 UNIX Unix NPMSO00
 UOC UOC NPFSO00
