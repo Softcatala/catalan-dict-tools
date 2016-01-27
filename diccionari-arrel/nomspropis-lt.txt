@@ -2744,6 +2744,7 @@ Basilissa Basilissa NPFSSP0
 Basilisses Basilissa NPFPSP0
 Basilià Basilià NPMSSP0
 Basià Basià NPMSSP0
+Baskerville Baskerville NPCNSP0
 Basquens Basquens NPCNSP0
 Basquer Basquer NPCNSP0
 Bassa Bassa NPCNSP0
