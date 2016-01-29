@@ -41557,6 +41557,7 @@ monopolització=categories: F;fonts: LT;
 monopolitzador=categories: M;fonts: LT;
 monopolitzadora=categories: F;fonts: LT;
 monoport=categories: M;fonts: LT;
+monoproducció=categories: F;fonts: dfrequencies;
 monopsoni=categories: M;fonts: LT;
 monorail=categories: M;fonts: LT;
 monorefringència=categories: F;fonts: LT;

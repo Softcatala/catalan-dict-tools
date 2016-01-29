@@ -9799,6 +9799,7 @@ Gussó Gussó NPCNSP0
 Gustau Gustau NPMSSP0
 Gustaus Gustau NPMPSP0
 Gustà Gustà NPCNSP0
+Gutenberg Gutenberg NPCNSP0
 Gutium Gutium NPMSG00
 Gutiérrez Gutiérrez NPCNSP0
 Gutland Gutland NPCSG00
