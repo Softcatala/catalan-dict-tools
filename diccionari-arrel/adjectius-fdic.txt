@@ -530,6 +530,7 @@ aeronàutic aeronàutica=categories: A;fonts: LT;
 aeronòmic aeronòmica=categories: A;fonts: LT;
 aeroportuari aeroportuària=categories: A;fonts: LT;
 aeropostal=categories: A;fonts: LT;
+aeropropulsat aeropropulsada=categories: A;fonts: derivat;
 aeropònic aeropònica=categories: A;fonts: LT;
 aerorefrigerant=categories: A;fonts: LT;
 aerostàtic aerostàtica=categories: A;fonts: LT;
