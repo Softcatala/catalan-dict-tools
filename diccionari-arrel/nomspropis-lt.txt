@@ -4347,6 +4347,7 @@ Calanda Calanda NPCNSP0
 Calassanç Calassanç NPCSG00
 Calataiud Calataiud NPCNG00
 Calatayud Calatayud NPCNSP0
+Calatrava Calatrava NPCNSP0
 Calau Calau NPCNSP0
 Calaurea Calaurea NPCSG00
 Calavera Calavera NPCSG00

@@ -31252,6 +31252,7 @@ gonorrea=categories: F;fonts: LT;
 gonosoma=categories: M;fonts: LT;
 gonostomàtid=categories: M;fonts: LT;
 gonozooide=categories: M;fonts: LT;
+gonàlgia=categories: F;fonts: dmedic;
 gonòcit=categories: M;fonts: LT;
 gonòfor=categories: M;fonts: LT;
 gonòpor=categories: M;fonts: LT;
