@@ -29681,6 +29681,7 @@ fímbria=categories: F;fonts: LT;
 fímia=categories: F;fonts: LT;
 físic=categories: M;fonts: LT;
 física=categories: F;fonts: LT;
+físio=categories: MF;fonts: LT;
 fístula=categories: F;fonts: LT;
 fòbia=categories: F;fonts: LT;
 fòcid=categories: M;fonts: LT;
