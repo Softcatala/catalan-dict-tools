@@ -28316,6 +28316,7 @@ flasconera=categories: F;fonts: LT;
 flasconet=categories: M; fonts: Jané;
 flascó=categories: M;fonts: LT;
 flashback=categories: M;fonts: esadir;
+flashmob=categories: F;fonts: esadir, neoloteca;
 flasquera=categories: F;fonts: LT;
 flassada=categories: F;fonts: LT;
 flassader=categories: M;fonts: LT;
