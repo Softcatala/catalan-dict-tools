@@ -43448,6 +43448,7 @@ nomineta=categories: F;fonts: LT;
 nomisma=categories: M;fonts: LT;
 nomoblidis=categories: MI;fonts: LT;
 nomofil·le=categories: M;fonts: LT;
+nomofòbia=categories: F;fonts: esadir, neoloteca;
 nomografia=categories: F;fonts: LT;
 nomograma=categories: M;fonts: LT;
 nomologia=categories: F;fonts: LT;
