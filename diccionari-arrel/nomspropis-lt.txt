@@ -7025,7 +7025,7 @@ Eaubonne Eaubonne NPCSG00
 Eberswalde-Finow Eberswalde-Finow NPCSG00
 Ebla Ebla NPFSG00
 Ebo Ebo NPCSG00
-Ebola Ebola NPCSG00
+Ebola Ebola NPMSG00
 Ebre Ebre NPCSG00
 Ecbàtana Ecbàtana NPCSG00
 Echternach Echternach NPCSG00
@@ -22666,6 +22666,7 @@ Zhengzhou Zhengzhou NPCSG00
 Zhenjiang Zhenjiang NPCSG00
 Zibo Zibo NPCSG00
 Zigong Zigong NPCSG00
+Zika Zika NPMSG00
 Zilina Zilina NPCSG00
 Zillertal Zillertal NPCSG00
 Zimbàbue Zimbàbue NPCSG00

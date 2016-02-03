@@ -43,6 +43,7 @@ JJOO=categories: MP;fonts: esadir;
 JavaScript=categories: MS;fonts: LT;
 LCD=categories: FI;fonts: termcat;
 LSD=categories: MI;fonts: esadir;
+MERS=categories: FS;fonts: esadir,termcat;
 MP3=categories: MI;fonts: LT;
 NIF=categories: MI;fonts: LT;
 ONG=categories: FI;fonts: LT;
