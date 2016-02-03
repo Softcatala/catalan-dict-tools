@@ -14264,6 +14264,7 @@ clavicordi=categories: M;fonts: LT;
 clavicordista=categories: MF;fonts: LT;
 clavicèmbal=categories: M;fonts: LT;
 clavicímbol=categories: M;fonts: LT;
+clavill=categories: M;fonts: AVL;
 clavilla=categories: F;fonts: LT;
 clavillar=categories: M;fonts: LT;
 claviller=categories: M;fonts: LT;
