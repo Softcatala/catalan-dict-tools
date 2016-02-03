@@ -15098,6 +15098,7 @@ Oumé Oumé NPCSG00
 Ourense Ourense NPCSG00
 Ourthe Ourthe NPCSG00
 Ous Ou NPMPSP0
+Outlook Outlook NPMSO00
 Ouémé Ouémé NPCSG00
 Oveix Oveix NPCSG00
 Ovella Ovella NPCSG00

@@ -4623,6 +4623,7 @@ cardiodepressor cardiodepressora=categories: A;fonts: LT;
 cardioestimulant=categories: A;fonts: AVL;
 cardiogènic cardiogènica=categories: A;fonts: termcat;
 cardioide=categories: A;fonts: termcat;
+cardioprotegit cardioprotegida=categories: A;fonts: termcat;
 cardiopulmonar=categories: A;fonts: LT;
 cardiorespiratori cardiorespiratòria=categories: A;fonts: LT;
 cardiotònic cardiotònica=categories: A;fonts: LT;
