@@ -4005,6 +4005,7 @@ Brucart Brucart NPCNSP0
 Bruce Bruce NPCNSP0
 Bruci Bruci NPMSG00
 Bruckner Bruckner NPCNSP0
+Brueghel Brueghel NPCNSP0
 Brugada Brugada NPCNSP0
 Brugal Brugal NPCNSP0
 Brugall Brugall NPCNSP0
@@ -6885,6 +6886,7 @@ Dosquers Dosquers NPCSG00
 Dosrius Dosrius NPCNSP0
 Dosrius Dosrius NPCSG00
 Dosso Dosso NPCSG00
+Dostoievski Dostoievski NPCNSP0
 Dot Dot NPCNSP0
 Dotres Dotres NPCNSP0
 Dou Dou NPCNSP0
@@ -22821,6 +22823,7 @@ uTorrent uTorrent NPCNO00
 Évreux Évreux NPCNSP0
 Évreux Évreux NPCSG00
 Évry Évry NPCSG00
+Ícar Ícar NPMSSP0
 Ígor Ígor NPMSSP0
 Ílion Ílion NPFSG00
 Índia Índia NPFSG00

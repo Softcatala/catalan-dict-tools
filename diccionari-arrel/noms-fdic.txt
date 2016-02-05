@@ -48224,6 +48224,7 @@ piranya=categories: F;fonts: LT;
 piranòmetre=categories: M;fonts: LT;
 piranòsid=categories: M;fonts: LT;
 pirargirita=categories: F;fonts: LT;
+pirat pirada=categories: MF;fonts: AVL, GDLC, esadir;
 pirata=categories: M;fonts: LT;
 pirateig=categories: M;fonts: LT;
 pirateria=categories: F;fonts: LT;
