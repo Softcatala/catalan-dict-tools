@@ -19,9 +19,11 @@
 7è 7a [pl. 7ns]=categories: AO;fonts: LT;
 8è 8a [pl. 8ns]=categories: AO;fonts: LT;
 9è 9a [pl. 9ns]=categories: AO;fonts: LT;
+CMYK=categories: AI; fonts: termcat;
 LGBT=categories: AI; fonts: termcat;
 LGTB=categories: AI; fonts: termcat;
 NP-complet NP-completa=categories: A;fonts: LT;
+RGB=categories: AI; fonts: termcat;
 aalenià aaleniana=categories: A;fonts: LT;
 abacial=categories: A;fonts: LT;
 abacista=categories: A;fonts: LT;

@@ -2843,6 +2843,7 @@ Beatriu Beatriu NPFSSP0
 Beatrius Beatriu NPFPSP0
 Beats Beat NPMPSP0
 Beaucaire Beaucaire NPCSG00
+Beauchamp Beauchamp NPCNSP0
 Beaulencourt Beaulencourt NPCSG00
 Beaulieu-lès-Loches Beaulieu-lès-Loches NPCSG00
 Beaumont Beaumont NPCNSP0
@@ -12870,8 +12871,8 @@ Mathura Mathura NPCSG00
 Maties Maties NPMPSP0
 Maties Maties NPMSSP0
 Matifoll Matifoll NPCNSP0
-Matilde Matilde NPMSSP0
-Matildes Matilde NPMPSP0
+Matilde Matilde NPFSSP0
+Matildes Matilde NPFPSP0
 Matola Matola NPCSG00
 Matons Matons NPCNSP0
 Matoses Matoses NPCNSP0
