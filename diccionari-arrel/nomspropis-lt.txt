@@ -6494,6 +6494,7 @@ Dangla Dangla NPCNSP0
 Dangle Dangle NPCNSP0
 Daniel Daniel NPCNSP0
 Daniel Daniel NPMSSP0
+Daniela Daniela NPFSSP0
 Daniels Daniel NPMPSP0
 Danone Danone NPCNO00
 Danot Danot NPCNSP0
@@ -15356,6 +15357,7 @@ Papuàsia Papuàsia NPFSG00
 Par Par NPCNSP0
 Para Para NPCSG00
 Parabiago Parabiago NPCSG00
+Paracels Paracels NPMSSP0
 Paracolls Paracolls NPCNSP0
 Paradell Paradell NPCNSP0
 Paradella Paradella NPCNSP0
@@ -15936,6 +15938,7 @@ Piloña Piloña NPCSG00
 Pilsen Pilsen NPCSG00
 Pilzà Pilzà NPCSG00
 Pilçà Pilçà NPCNSP0
+Pimec Pimec NPFSO00
 Pimorent Pimorent NPCSG00
 Pimpí Pimpí NPCSG00
 Pimàs Pimàs NPCNSP0
