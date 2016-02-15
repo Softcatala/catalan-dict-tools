@@ -14455,6 +14455,7 @@ Nièvre Nièvre NPCSG00
 Niš Niš NPCSG00
 Nišava Nišava NPCSG00
 Nkhota-Kota Nkhota-Kota NPCSG00
+Noa Noa NPFSSP0
 Noalles Noalles NPCNSP0
 Noals Noals NPCSG00
 Nobel Nobel NPMSSP0
@@ -21012,6 +21013,7 @@ Txaikovski Txaikovski NPCNSP0
 Txeca Txeca NPFSG00
 Txecoslovàquia Txecoslovàquia NPFSG00
 Txeliàbinsk Txeliàbinsk NPCSG00
+Txell Txell NPFSSP0
 Txerkessos Txerkessos NPMPG00
 Txernòbil Txernòbil NPCSG00
 Txetxènia Txetxènia NPFSG00
