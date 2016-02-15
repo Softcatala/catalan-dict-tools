@@ -32,7 +32,7 @@ open( my $ofh, ">:encoding(UTF-8)", $out );
 my %formes = ();
 while (my $line = <$fh>) {
     chomp($line);
-    if ($line =~ /^(.+)(er|re|ir|ar|r)=categories:(.+?);model:(.+?);/) { 
+    if ($line =~ /^([^#]+)(er|re|ir|ar|r)=categories:(.+?);model:(.+?);/) { 
 	my $infinitiu = $1.$2;
 	my $terminacio = $2;
 	my $categoria = $3;

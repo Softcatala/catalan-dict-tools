@@ -1,3 +1,4 @@
+#coldre=categories: V;model:absoldre;fonts:LT
 abacallanar=categories: V;model:cantar;fonts:LT
 abaconar=categories: V;model:cantar;fonts:LT
 abadanar=categories: V;model:cantar;fonts:LT
@@ -1805,7 +1806,6 @@ coincidir=categories: V;model:servir;fonts:LT
 coixejar=categories: V;model:envejar;fonts:LT
 colar=categories: V;model:cantar;fonts:LT
 colcar=categories: V;model:assecar;fonts:LT
-coldre=categories: V;model:absoldre;fonts:LT
 colgar=categories: V;model:pregar;fonts:LT
 collar=categories: V;model:cantar;fonts:LT
 collejar=categories: V;model:envejar;fonts:LT
