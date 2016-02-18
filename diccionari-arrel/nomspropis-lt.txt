@@ -4212,6 +4212,7 @@ Bāmīān Bāmīān NPCSG00
 Bāqarganj Bāqarganj NPCSG00
 Bălţi Bălţi NPCSG00
 Bīkāner Bīkāner NPCSG00
+CCCB CCCB NPMSO00
 CCMA CCMA NPFSO00
 CCOO CCOO NPFPO00
 CCleaner CCleaner NPCNO00
@@ -6862,6 +6863,7 @@ Donyau Donyau NPCNSP0
 Donzell Donzell NPCSG00
 Donís Donís NPCNSP0
 Doodle Doodle NPCNO00
+Doppler Doppler NPCNSP0
 Dora Dora NPFSSP0
 Dordal Dordal NPCNSP0
 Dordonya Dordonya NPCSG00

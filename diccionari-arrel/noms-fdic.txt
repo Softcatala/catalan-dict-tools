@@ -58977,6 +58977,7 @@ superordre=categories: M;fonts: LT;
 superorticó=categories: M;fonts: LT;
 superplasticitat=categories: F;fonts: LT;
 superpoblació=categories: F;fonts: LT;
+superpoder=categories: M;fonts: viquipedia;
 superposició=categories: F;fonts: LT;
 superpotència=categories: F;fonts: LT;
 superproducció=categories: F;fonts: LT;
