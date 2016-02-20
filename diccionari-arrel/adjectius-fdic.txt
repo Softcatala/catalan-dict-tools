@@ -10106,6 +10106,7 @@ fissible=categories: A;fonts: LT;
 fissidàctil fissidàctila=categories: A;fonts: LT;
 fissirostre=categories: A;fonts: LT;
 fissitunicat fissitunicada=categories: A;fonts: LT;
+fissurat fissurada=categories: A;fonts: termcat;
 fissurícola=categories: A;fonts: LT;
 fissípar fissípara=categories: A;fonts: LT;
 fistular=categories: A;fonts: LT;
