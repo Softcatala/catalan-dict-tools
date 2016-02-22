@@ -24,20 +24,20 @@ Genera el diccionari amb etiquetatge gramatical per al corrector Languagetool.
 
 És un test que converteix el fitxer de LT en format de diccionari; aquest es converteix de nou en format LT i es compara amb el fitxer inicial. 
 
-##### buid-xpi-all.sh
+##### build-xpi-all.sh
 Genera fitxers xpi (compatibles amb el Firefox) a partir dels resultats per al Hunspell.
 * ./build-xpi-all.sh -> Genera paquets de desenvolupament (versió 9.9.9).
 * ./build-xpi-all.sh -p -v '3.0.0' -> Genera paquets de producció (versió 3.0.0).
 
-##### buid-oxt-all.sh
+##### build-oxt-all.sh
 Genera fitxers oxt (compatibles amb el LibreOffice i l'Apache OpenOffice) a partir dels resultats per al Hunspell.
 * ./build-oxt-all.sh -> Genera paquets de desenvolupament (versió 9.9.9).
 * ./build-oxt-all.sh -p -v '3.0.0' -> Genera paquets de producció (versió 3.0.0).
 
-##### buid-morfologik-lt.sh
+##### build-morfologik-lt.sh
 Genera la versió compilada (amb la llibreria Morfologik) del diccionari de LanguageTool. Requereix LanguageTool. 
 
-##### buid-wordlist-from-lt.sh
+##### build-wordlist-from-lt.sh
 Genera una llista de totes les paraules possibles, incloent-hi apostrofació i pronoms febles (ex. d'anar-se'n, l'esmentat). Genera ~10 milions de formes (~166 M). És necessari per a algunes aplicacions.
 
 ##### prepare-release.sh
