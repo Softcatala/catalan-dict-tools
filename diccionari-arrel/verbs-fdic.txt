@@ -7592,7 +7592,6 @@ patrocinar=categories: V;model:abominar;fonts:LT
 patronejar=categories: V;model:envejar;fonts:LT
 patrullar=categories: V;model:cantar;fonts:LT
 pauperitzar=categories: V;model:cantar;fonts:LT
-pausar=categories: V;model:abrusar;fonts: AVL, DCVB;
 pautar=categories: V;model:cantar;fonts:LT
 pavimentar=categories: V;model:cantar;fonts:LT
 pavonar=categories: V;model:cantar;fonts:LT
