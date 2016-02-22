@@ -10852,6 +10852,7 @@ Južno-Sakhalinsk Južno-Sakhalinsk NPCSG00
 Jyoetsu Jyoetsu NPCSG00
 Jyväskylä Jyväskylä NPCSG00
 Jàfer Jàfer NPCNSP0
+Jèssica Jèssica NPFSSP0
 Jònia Jònia NPFSG00
 Jóc Jóc NPCSG00
 Jóncols Jóncols NPCNG00

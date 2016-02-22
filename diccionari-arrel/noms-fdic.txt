@@ -17709,6 +17709,7 @@ cuinada=categories: F;fonts: LT;
 cuinat=categories: M;fonts: LT;
 cuiner=categories: M;fonts: LT;
 cuinera=categories: F;fonts: LT;
+cuineta=categories: F;fonts: diminutiu;
 cuir=categories: M;fonts: LT;
 cuiram=categories: M;fonts: LT;
 cuirassa=categories: F;fonts: LT;
