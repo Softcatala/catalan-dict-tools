@@ -17039,6 +17039,7 @@ occidu occídua=categories: A;fonts: LT;
 occipital=categories: A;fonts: LT;
 occipitoparietal=categories: A;fonts: LT;
 occitanista=categories: A;fonts: LT;
+occitanocatalà occitanocatalana=categories: A;fonts: derivat;
 occità occitana=categories: A;fonts: LT;
 occitànic occitànica=categories: A;fonts: LT;
 oceanogràfic oceanogràfica=categories: A;fonts: LT;
