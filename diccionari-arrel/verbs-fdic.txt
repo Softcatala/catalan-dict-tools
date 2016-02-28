@@ -6684,6 +6684,7 @@ interferir=categories: V;model:servir;fonts:LT
 interfoliar=categories: V;model:crear;fonts:LT
 interioritzar=categories: V;model:cantar;fonts:LT
 interlinear=categories: V;model:crear;fonts:LT
+intermediar=categories: V;model:crear;fonts: AVL, ddlc;
 internacionalitzar=categories: V;model:cantar;fonts:LT
 internalitzar=categories: V;model:cantar;fonts:LT
 internar=categories: V;model:cantar;fonts:LT
