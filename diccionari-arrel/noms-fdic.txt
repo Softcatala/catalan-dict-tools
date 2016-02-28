@@ -52839,6 +52839,7 @@ reassegurador=categories: M;fonts: LT;
 reasseguradora=categories: F;fonts: LT;
 reassegurança=categories: F;fonts: LT;
 reassemblatge=categories: M;fonts: LT;
+reassentament=categories: M;fonts: derivat;
 reassignació=categories: F;fonts: LT;
 reassumpció=categories: F;fonts: LT;
 reat=categories: M;fonts: LT;
