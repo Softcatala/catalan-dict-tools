@@ -10931,6 +10931,7 @@ Karatxais Karatxais NPMPG00
 Karbala Karbala NPCSG00
 Karen Karen NPCSG00
 Karkamiş Karkamiş NPCSG00
+Karl Karl NPMSSP0
 Karlobag Karlobag NPCSG00
 Karlovac Karlovac NPCSG00
 Karlskrona Karlskrona NPCSG00
