@@ -45012,6 +45012,7 @@ oscil·lador=categories: M;fonts: LT;
 oscil·latorial=categories: F;fonts: LT;
 oscil·lograma=categories: M;fonts: LT;
 oscil·lometria=categories: F;fonts: LT;
+oscil·lometria=categories: F;fonts: termcat;
 oscil·lopertorbògraf=categories: M;fonts: LT;
 oscil·loscopi=categories: M;fonts: LT;
 oscil·lospiràcia=categories: F;fonts: LT;
