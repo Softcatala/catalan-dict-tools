@@ -8094,6 +8094,7 @@ Fezzān Fezzān NPCSG00
 Fiambalá Fiambalá NPCSG00
 Fianarantsoa Fianarantsoa NPCSG00
 Fibla Fibla NPCNSP0
+Fibonacci Fibonacci NPCNSP0
 Ficapal Ficapal NPCNSP0
 Fichte Fichte NPCNSP0
 Fichtelgebirge Fichtelgebirge NPCSG00
