@@ -2408,6 +2408,7 @@ aljuba=categories: F;fonts: LT;
 aljuber=categories: M;fonts: LT;
 aljubera=categories: F;fonts: LT;
 aljófar=categories: M;fonts: LT;
+all-star=categories: M;fonts: esadir;
 all=categories: M;fonts: LT;
 allada=categories: F;fonts: LT;
 allar=categories: M;fonts: LT;

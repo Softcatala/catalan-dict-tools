@@ -7184,6 +7184,7 @@ miniaturitzar=categories: V;model:cantar;fonts:LT
 minimitzar=categories: V;model:cantar;fonts:LT
 ministrar=categories: V;model:cantar;fonts:LT
 minorar=categories: V;model:cantar;fonts:LT
+minoritzar=categories: V;model:cantar;fonts: dfrequencies,DDLC;
 minutar=categories: V;model:cantar;fonts:LT
 minvar=categories: V;model:cantar;fonts:LT
 minyonejar=categories: V;model:envejar;fonts:LT

@@ -969,6 +969,7 @@ Aljubarrota Aljubarrota NPCSG00
 Alkaid Alkaid NPCSG00
 Alkmaar Alkmaar NPCSG00
 All All NPCSG00
+All-Star All-Star NPMSO00
 Allahābād Allahābād NPCSG00
 Allau Allau NPCSG00
 Allegheny Allegheny NPCSG00
@@ -6648,6 +6649,7 @@ Deodats Deodat NPMPSP0
 Deogràcies Deogràcies NPMPSP0
 Deogràcies Deogràcies NPMSSP0
 Derbent Derbent NPCSG00
+Derbi Derbi NPMNO00
 Derby Derby NPCSG00
 Derner Derner NPCNSP0
 Derqui Derqui NPCNSP0
