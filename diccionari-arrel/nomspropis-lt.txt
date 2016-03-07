@@ -17920,7 +17920,7 @@ Ruan Ruan NPCNSP0
 Ruanda Ruanda NPFSG00
 Ruat Ruat NPCNSP0
 Rubcovsk Rubcovsk NPCSG00
-Rubens Rubèn NPMPSP0
+Rubens Rubens NPCNSP0
 Rubera Rubera NPCNSP0
 Ruberts Ruberts NPCSG00
 Rubials Rubials NPCSG00
