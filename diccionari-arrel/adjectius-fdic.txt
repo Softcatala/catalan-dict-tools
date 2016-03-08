@@ -24088,6 +24088,7 @@ tussigen tussígena=categories: A;fonts: LT;
 tutejador tutejadora=categories: A;fonts: LT;
 tutelar=categories: A;fonts: LT;
 tutorial=categories: A;fonts: LT;
+tutsi=categories: A; fonts: GDLC;
 tuva=categories: A;fonts: LT;
 tuvinià tuviniana=categories: A;fonts: LT;
 tuïnenc tuïnenca=categories: A;fonts: LT;
