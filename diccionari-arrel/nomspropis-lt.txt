@@ -13094,6 +13094,7 @@ Meranges Meranges NPCSG00
 Merapi Merapi NPCSG00
 Merate Merate NPCSG00
 Meravella Meravella NPCSG00
+Mercabarna Mercabarna NPCSO0
 Mercadal Mercadal NPCNSP0
 Mercadal Mercadal NPMSG00
 Mercadell Mercadell NPCNSP0
