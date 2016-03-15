@@ -8091,6 +8091,7 @@ Fes Fes NPCSG00
 Fest Fest NPMSSP0
 Fests Fest NPMPSP0
 Fetgeconill Fetgeconill NPCSG00
+Feuerbach Feuerbach NPCNSP0
 Feyerabend Feyerabend NPCNSP0
 Fezzān Fezzān NPCSG00
 Fiambalá Fiambalá NPCSG00
@@ -13165,6 +13166,7 @@ Metkovic Metkovic NPCSG00
 Metodi Metodi NPMSSP0
 Metodis Metodi NPMPSP0
 Metohija Metohija NPCSG00
+Metro-Goldwyn-Mayer Metro-Goldwyn-Mayer NPFSO00
 Metz Metz NPCSG00
 Meudon Meudon NPCSG00
 Meurthe Meurthe NPCSG00
