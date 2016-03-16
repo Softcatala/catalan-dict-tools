@@ -1,43 +1,32 @@
 #!/bin/bash
 
 cd morfologik-lt
-# diccionari origen
+#diccionari origen
 dict_origen=../resultats/lt/diccionari.txt
-#directori LanguageTool
-dir_lt=~/target-lt
 
-# sort
-#export LC_ALL=C && sort -u diccionari.txt >diccionari_sorted.txt
-#rm diccionari.txt
-#mv diccionari_sorted.txt diccionari.txt
+#directori LanguageTool
+#dir_lt=~/target-lt/languagetool-commandline.jar
+jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.3-SNAPSHOT-jar-with-dependencies.jar
+
+
 # replace whitespaces with tabs
 perl sptotabs.pl <$dict_origen >diccionari_tabs.txt
-export LC_ALL=C && sort diccionari_tabs.txt >diccionari_tabs_sorted.txt
-rm diccionari_tabs.txt
-mv diccionari_tabs_sorted.txt diccionari_tabs.txt
+export LC_ALL=C && sort diccionari_tabs.txt -o diccionari_tabs
 
 # create tagger dictionary with morfologik tools
-java -cp $dir_lt/languagetool.jar org.languagetool.dev.POSDictionaryBuilder diccionari_tabs.txt catalan.info ca_wordlist.xml
-
-cp /tmp/DictionaryBuilder*.dict ./catalan.dict
-rm /tmp/DictionaryBuilder*.dict
+java -cp $jarfile org.languagetool.tools.POSDictionaryBuilder -i diccionari_tabs.txt -info catalan.info -freq ca_wordlist.xml -o catalan.dict
 
 # dump the tagger dictionary
-java -cp $dir_lt/languagetool.jar org.languagetool.dev.DictionaryExporter catalan.dict > catalan_lt.txt
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i catalan.dict -info catalan.info -o catalan_lt.txt
 
 # create synthesis dictionary with morfologik tools
-java -cp $dir_lt/languagetool.jar org.languagetool.dev.SynthDictionaryBuilder diccionari_tabs.txt catalan_synth.info
-
-#cp /tmp/SynthDictionaryBuilder*_tags.txt ./catalan_tags.txt
-
-cp /tmp/DictionaryBuilder*.dict ./catalan_synth.dict
-rm /tmp/DictionaryBuilder*.dict
+java -cp $jarfile org.languagetool.tools.SynthDictionaryBuilder -i diccionari_tabs.txt -info catalan_synth.info -o catalan_synth.dict
 
 cp /tmp/SynthDictionaryBuilder*_tags.txt ./catalan_tags.txt
 rm /tmp/SynthDictionaryBuilder*_tags.txt
 
 # dump synthesis dictionary
-java -cp $dir_lt/languagetool.jar org.languagetool.dev.DictionaryExporter catalan_synth.dict > catalan_synth_lt.txt
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i catalan_synth.dict -o catalan_synth_lt.txt -info catalan_synth.info
 
 rm diccionari_tabs.txt
 

@@ -6,14 +6,14 @@
 ###
 
 #directori LanguageTool
-lt_tools=/mnt/mydata/github/languagetool/languagetool-tools/target/languagetool-tools-3.3-SNAPSHOT-jar-with-dependencies.jar
+lt_tools=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.3-SNAPSHOT-jar-with-dependencies.jar
 
 # dump the tagger dictionary
-java -cp $lt_tools org.languagetool.tools.DictionaryExporter catalan.dict > catalan_lt.txt
+java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i catalan.dict -o catalan_lt.txt -info catalan.info
 
 cp catalan_lt.txt diccionari_antic.txt
 echo "Preparant diccionari"
-sed -i 's/^\(.*\)\t\(.*\)\t\(.*\)_.$/\1 \2 \3/' diccionari_antic.txt
+sed -i 's/^\(.*\)\t\(.*\)\t\(.*\)$/\1 \2 \3/' diccionari_antic.txt
 echo "Ordenant diccionari"
 export LC_ALL=C && sort -u diccionari_antic.txt -o diccionari_antic.txt
 echo "Comparant diccionaris"
