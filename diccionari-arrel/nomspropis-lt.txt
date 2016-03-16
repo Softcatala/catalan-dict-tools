@@ -12185,6 +12185,7 @@ Maiques Maiques NPCNSP0
 Maiquetía Maiquetía NPCSG00
 Mairata Mairata NPCNSP0
 Maisons-Alfort Maisons-Alfort NPCSG00
+Maite Maite NPFSSP0
 Maitino Maitino NPCSG00
 Maixella Maixella NPCNSP0
 Maixella Maixella NPCSG00
