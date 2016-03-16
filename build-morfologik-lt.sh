@@ -11,7 +11,6 @@ jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.3-S
 
 # replace whitespaces with tabs
 perl sptotabs.pl <$dict_origen >diccionari_tabs.txt
-export LC_ALL=C && sort diccionari_tabs.txt -o diccionari_tabs
 
 # create tagger dictionary with morfologik tools
 java -cp $jarfile org.languagetool.tools.POSDictionaryBuilder -i diccionari_tabs.txt -info catalan.info -freq ca_wordlist.xml -o catalan.dict
