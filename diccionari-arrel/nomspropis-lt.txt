@@ -2804,6 +2804,7 @@ Batllòria Batllòria NPCNSP0
 Batllòria Batllòria NPFSG00
 Batlló Batlló NPCNSP0
 Batló Batló NPCNSP0
+Batman Batman NPMSSP0
 Batna Batna NPCSG00
 Batoi Batoi NPMSG00
 Batticaloa Batticaloa NPCSG00
@@ -10625,6 +10626,7 @@ Jauset Jauset NPCNSP0
 Jausiers Jausiers NPCSG00
 Java Java NPFSG00
 Java Java NPMSO00
+JavaScript JavaScript NPMSO00
 Javaloies Javaloies NPCNSP0
 Jaworzno Jaworzno NPCSG00
 Jazztel Jazztel NPCNO00
@@ -15767,6 +15769,7 @@ Perigord Perigord NPCSG00
 Perigús Perigús NPCSG00
 Perijá Perijá NPCSG00
 Peris Peris NPCNSP0
+Perl Perl NPMSO00
 Perles Perles NPCNSP0
 Perleta Perleta NPFSG00
 Perlis Perlis NPCSG00
@@ -16867,6 +16870,7 @@ Pwani Pwani NPCSG00
 Pyeongchang Pyeongchang NPCSG00
 Pyongyang Pyongyang NPCSG00
 Pyrene Pyrene NPCSG00
+Python Python NPMSO00
 Pàdua Pàdua NPCSG00
 Pàmfil Pàmfil NPMSSP0
 Pàmfils Pàmfil NPMPSP0
