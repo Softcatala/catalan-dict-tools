@@ -13123,6 +13123,7 @@ Merinals Merinals NPMPG00
 Merinhac Merinhac NPCSG00
 Merita Merita NPCSG00
 Meritxell Meritxell NPCSG00
+Merkel Merkel NPCNSP0
 Merlant Merlant NPCSG00
 Merlet Merlet NPCNSP0
 Merlet Merlet NPMSG00
