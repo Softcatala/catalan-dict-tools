@@ -7104,6 +7104,7 @@ Eindhoven Eindhoven NPCSG00
 Einer Einer NPCNSP0
 Eisack Eisack NPCSG00
 Eisenerz Eisenerz NPCSG00
+Eisenhower Eisenhower NPCNSP0
 Eisenhüttenstadt Eisenhüttenstadt NPCSG00
 Eisenstadt Eisenstadt NPCSG00
 Eisenstein Eisenstein NPCNSP0
@@ -10264,6 +10265,7 @@ Hunter Hunter NPCSG00
 Huntington Huntington NPCSG00
 Hurghada Hurghada NPCSG00
 Huron Huron NPCSG00
+Hussein Hussein NPCNSP0
 Husserl Husserl NPCNSP0
 Huy Huy NPCSG00
 Huygens Huygens NPCNSP0
@@ -12024,6 +12026,8 @@ Lünen Lünen NPCSG00
 Lüshun Lüshun NPCSG00
 Lāhaur Lāhaur NPCSG00
 MACBA MACBA NPMSO00
+MI5 MI5 NPMSO00
+MI6 MI6 NPMSO00
 MIDI MIDI NPMSO00
 MIME MIME NPMNO00
 MNAC MNAC NPMSO00
