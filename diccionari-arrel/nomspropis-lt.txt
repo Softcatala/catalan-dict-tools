@@ -10421,7 +10421,6 @@ Indostan Indostan NPMSG00
 Indoxina Indoxina NPFSG00
 Indre Indre NPCSG00
 Indus Indus NPCSG00
-Ingenio Ingenio NPCSG00
 Ingla Ingla NPCNSP0
 Inglabaga Inglabaga NPCNSP0
 Ingmar Ingmar NPMSSP0
