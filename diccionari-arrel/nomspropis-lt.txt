@@ -11956,6 +11956,7 @@ Lucil Lucil NPMSSP0
 Lucils Lucil NPMPSP0
 Lucknow Lucknow NPCSG00
 Lucq-de-Béarn Lucq-de-Béarn NPCSG00
+Lucreci Lucreci NPMSSP0
 Lucrècia Lucrècia NPFSSP0
 Lucrècies Lucrècia NPFPSP0
 Lucània Lucània NPFSG00
