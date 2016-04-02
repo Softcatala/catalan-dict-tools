@@ -7206,6 +7206,7 @@ Emilians Emilià NPMPSP0
 Emilis Emili NPMPSP0
 Emilià Emilià NPMSSP0
 Emma Emma NPFSSP0
+Emmanuel Emmanuel NPMSSP0
 Emmaús Emmaús NPCSG00
 Emmen Emmen NPCSG00
 Emmes Emma NPFPSP0
@@ -7216,6 +7217,7 @@ Empars Empar NPMPSP0
 Emperador Emperador NPCNSP0
 Emperador Emperador NPCSG00
 Empoli Empoli NPCSG00
+Empordanet Empordanet NPMSG00
 Empordà Empordà NPMSG00
 Empuriabrava Empuriabrava NPCSG00
 Empèdocles Empèdocles NPMSSP0
