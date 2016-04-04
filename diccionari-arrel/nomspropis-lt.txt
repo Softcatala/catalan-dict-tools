@@ -15501,6 +15501,7 @@ Paterson Paterson NPCSG00
 Patge Patge NPCNSP0
 Patiràs Patiràs NPCSG00
 Patiāla Patiāla NPCSG00
+Patmos Patmos NPCSG00
 Patna Patna NPCSG00
 Patraix Patraix NPCSG00
 Patres Patres NPCSG00
