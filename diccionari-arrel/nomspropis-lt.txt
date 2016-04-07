@@ -20020,6 +20020,7 @@ Tangshan Tangshan NPCSG00
 Tanis Tanis NPCSG00
 Tannhäuser Tannhäuser NPMSSP0
 Tannu-Ola Tannu-Ola NPCSG00
+Tantarantana Tantarantana NPMSO00
 Tantinyà Tantinyà NPCNSP0
 Tanyà Tanyà NPCNSP0
 Tanzània Tanzània NPFSG00
@@ -22839,6 +22840,7 @@ uTorrent uTorrent NPCNO00
 Ènova Ènova NPFSG00
 Èric Èric NPMSSP0
 Èridu Èridu NPCSG00
+Èsquil Èsquil NPMSSP0
 Écija Écija NPFSG00
 Éller Éller NPCSG00
 Énguera Énguera NPFSG00
