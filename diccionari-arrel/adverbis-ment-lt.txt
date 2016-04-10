@@ -336,6 +336,7 @@ clàssicament clàssicament RG
 clínicament clínicament RG
 cobejosament cobejosament RG
 cobertament cobertament RG
+coetàniament coetàniament RG
 cofoiament cofoiament RG
 coherentment coherentment RG
 colossalment colossalment RG
@@ -1324,6 +1325,7 @@ indispensablement indispensablement RG
 indisputablement indisputablement RG
 indissolublement indissolublement RG
 indistintament indistintament RG
+individualitzadament individualitzadament RG
 individualment individualment RG
 indivisament indivisament RG
 indivisiblement indivisiblement RG
