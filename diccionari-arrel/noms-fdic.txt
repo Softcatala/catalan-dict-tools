@@ -34619,6 +34619,7 @@ inerrància=categories: F;fonts: LT;
 inertització=categories: F;fonts: derivat;
 inescaiença=categories: F;fonts: LT;
 inescrutabilitat=categories: F;fonts: LT;
+inespecificitat=categories: F;fonts: derivat;
 inessiu=categories: M;fonts: LT;
 inestabilitat=categories: F;fonts: LT;
 inevitabilitat=categories: F;fonts: LT;
