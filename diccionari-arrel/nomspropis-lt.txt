@@ -2699,6 +2699,7 @@ Bartrolí Bartrolí NPCNSP0
 Bartrons Bartrons NPCNSP0
 Bartrull Bartrull NPCNSP0
 Bartrós Bartrós NPCNSP0
+Bartual Bartual NPCNSP0
 Bartó Bartó NPCNSP0
 Bartók Bartók NPCNSP0
 Baruc Baruc NPCNSP0
@@ -11262,6 +11263,7 @@ Lakota Lakota NPCSG00
 Lakshadweep Lakshadweep NPCSG00
 Lalanda Lalanda NPCNSP0
 Lamarca Lamarca NPCNSP0
+Lamarck Lamarck NPCNSP0
 Lamata Lamata NPCNSP0
 Lambayeque Lambayeque NPCSG00
 Lambell Lambell NPCNSP0
@@ -21190,6 +21192,7 @@ Umeå Umeå NPCSG00
 Umia Umia NPCSG00
 Umma Umma NPCSG00
 Umtata Umtata NPCSG00
+Unai Unai NPMSSP0
 Unamuno Unamuno NPCNSP0
 Unarre Unarre NPCSG00
 Unesco Unesco NPFSO00
