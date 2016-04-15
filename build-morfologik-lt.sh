@@ -1,12 +1,12 @@
 #!/bin/bash
 
 cd morfologik-lt
-#diccionari origen
+
+#source dictionary
 dict_origen=../resultats/lt/diccionari.txt
 
-#directori LanguageTool
-#dir_lt=~/target-lt/languagetool-commandline.jar
-jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.3-SNAPSHOT-jar-with-dependencies.jar
+#LanguageTool jar
+jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.4-SNAPSHOT-jar-with-dependencies.jar
 
 
 # replace whitespaces with tabs
