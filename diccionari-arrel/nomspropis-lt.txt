@@ -14150,6 +14150,7 @@ Múria Múria NPFSG00
 Músser Músser NPCSG00
 Mûr-de-Bretagne Mûr-de-Bretagne NPCSG00
 Mülhausen Mülhausen NPCSG00
+Münchhausen Münchhausen NPCNSP0
 Münster Münster NPCSG00
 Mālegaon Mālegaon NPCSG00
 Māri Māri NPCSG00
@@ -15261,6 +15262,7 @@ Paleòleg Paleòleg NPCNSP0
 Palikir Palikir NPCSG00
 Pallac Pallac NPCNSP0
 Pallarans Pallarans NPCNSP0
+Pallardó Pallardó NPCNSP0
 Pallaresos Pallaresos NPMPG00
 Pallargues Pallargues NPCSG00
 Pallarol Pallarol NPCNSP0
