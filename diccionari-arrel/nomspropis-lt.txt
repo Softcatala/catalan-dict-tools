@@ -2860,6 +2860,7 @@ Becdejú Becdejú NPCNSP0
 Beceda Beceda NPCNSP0
 Becera Becera NPCNSP0
 Becet Becet NPCNSP0
+Beckett Beckett NPCNSP0
 Beda Beda NPFSSP0
 Beders Beders NPCSG00
 Bedes Beda NPFPSP0
@@ -17873,6 +17874,7 @@ Rossano Rossano NPCSG00
 Rossbach Rossbach NPCSG00
 Rossell Rossell NPCNSP0
 Rossell Rossell NPCSG00
+Rossellini Rossellini NPCNSP0
 Rosselló Rosselló NPCNSP0
 Rosselló Rosselló NPMSG00
 Rossend Rossend NPMSSP0
@@ -19670,6 +19672,7 @@ Stavanger Stavanger NPCSG00
 Stendhal Stendhal NPMSSP0
 Stepanakert Stepanakert NPCSG00
 Sterlitamak Sterlitamak NPCSG00
+Stevenson Stevenson NPCNSP0
 Steyr Steyr NPCSG00
 Stif Stif NPCSG00
 Stockhausen Stockhausen NPCNSP0
