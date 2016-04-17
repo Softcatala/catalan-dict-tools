@@ -17096,6 +17096,7 @@ covera=categories: F;fonts: LT;
 coverbo=categories: M;fonts: LT;
 coverbos=categories: MP;fonts: LT;
 coverol=categories: M;fonts: LT;
+coveta=categories: F;fonts: diminutiu;
 covinença=categories: F;fonts: LT;
 covolum=categories: M;fonts: LT;
 cowboy=categories: M;fonts: LT;
