@@ -9302,8 +9302,6 @@ Glòria Glòria NPFSSP0
 Glòries Glòria NPFPSP0
 Gniezno Gniezno NPCSG00
 Goa Goa NPFSG00
-Gobern Gobern NPCNSP0
-Goberna Goberna NPCNSP0
 Gobert Gobert NPCNSP0
 Gobert Gobert NPMSSP0
 Goberts Gobert NPMPSP0
@@ -11220,6 +11218,7 @@ Lacambra Lacambra NPCNSP0
 Lacasa Lacasa NPCNSP0
 Lacavalleria Lacavalleria NPCNSP0
 Lacedemònia Lacedemònia NPFSG00
+Lacetània Lacetània NPFSG00
 Laci Laci NPMSG00
 Lacoma Lacoma NPCNSP0
 Lacomba Lacomba NPCNSP0

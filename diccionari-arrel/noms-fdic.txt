@@ -43137,6 +43137,7 @@ neuropsiquiatre neuropsiquiatra=categories: MF;fonts: LT;
 neuropsiquiatria=categories: F;fonts: LT;
 neuropàtic=categories: M;fonts: LT;
 neuropàtica=categories: F;fonts: LT;
+neuropèptid=categories: M;fonts: termcat;
 neuroquímica=categories: F;fonts: LT;
 neurorehabilitació=categories: F;fonts: viquipedia;
 neuroretinitis=categories: FI;fonts: LT;
