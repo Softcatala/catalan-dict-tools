@@ -22611,6 +22611,7 @@ substituïdor substituïdora=categories: A;fonts: LT;
 subsuperficial=categories: A;fonts: derivat;
 subsèssil=categories: A;fonts: LT;
 subsònic subsònica=categories: A;fonts: LT;
+subtalàmic subtalàmica=categories: A;fonts: termcat;
 subterminal=categories: A;fonts: LT;
 subterrani subterrània=categories: A;fonts: LT;
 subtil=categories: A;fonts: LT;

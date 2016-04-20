@@ -52886,6 +52886,7 @@ realçament=categories: M;fonts: LT;
 reamputació=categories: F;fonts: LT;
 reanimació=categories: F;fonts: LT;
 reaparició=categories: F;fonts: LT;
+reaprofitament=categories: M;fonts: derivat;
 rearmament=categories: M;fonts: LT;
 rearpa=categories: F;fonts: LT;
 rearranjament=categories: M;fonts: LT;
