@@ -18784,6 +18784,7 @@ pluriovular=categories: A;fonts: LT;
 pluripartidista=categories: A;fonts: LT;
 pluripersonal=categories: A;fonts: derivat;
 pluripotent=categories: A;fonts: LT;
+plurisecular=categories: A;fonts: dfrequencies;
 plurivalent=categories: A;fonts: LT;
 plurivitel·lí plurivitel·lina=categories: A;fonts: LT;
 plurivoltí plurivoltina=categories: A;fonts: LT;
