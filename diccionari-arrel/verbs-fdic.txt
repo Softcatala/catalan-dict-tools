@@ -9265,6 +9265,7 @@ subalimentar=categories: V;model:cantar;fonts:LT
 subalternar=categories: V;model:cantar;fonts:LT
 subarrendar=categories: V;model:cantar;fonts:LT
 subcategoritzar=categories: V;model:cantar;fonts:LT
+subclassificar=categories: V;model:trencar;fonts: dfrequencies;
 subcontractar=categories: V;model:cantar;fonts:LT
 subdelegar=categories: V;model:pregar;fonts:LT
 subdistingir=categories: V;model:servir;fonts:LT
