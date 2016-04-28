@@ -494,6 +494,7 @@ mon mon DP1MSS
 mos mon DP1MPS
 mosca mosca I
 ms mil·lisegon Y
+msnm msnm Y
 màx màxim Y
 mín mínim Y
 n' en DA0CS0

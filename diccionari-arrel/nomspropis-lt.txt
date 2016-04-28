@@ -3460,6 +3460,7 @@ Bizanci Bizanci NPCSG00
 Bizerta Bizerta NPCSG00
 Bié Bié NPCSG00
 BlaBlaCar BlaBlaCar NPCNO00
+BlackBerry BlackBerry NPCNO00
 Blackburn Blackburn NPCSG00
 Blackwater Blackwater NPCSG00
 Blader Blader NPCNSP0
@@ -8672,6 +8673,7 @@ Fèroe Fèroe NPFPG00
 Fécamp Fécamp NPCSG00
 Fídies Fídies NPMPSP0
 Fídies Fídies NPMSSP0
+Fígaro Fígaro NPMSSP0
 Fígols Fígols NPCNSP0
 Fígols Fígols NPCSG00
 Fòcida Fòcida NPCSG00
@@ -9850,6 +9852,7 @@ Gènova Gènova NPFSG00
 Gèrs Gèrs NPCSG00
 Géant Géant NPCSG00
 Gíger Gíger NPCSG00
+Gòlgota Gòlgota NPMSG00
 Gòrdion Gòrdion NPCSG00
 Gòrgies Gòrgies NPMSSP0
 Gòrgona Gòrgona NPFSSP0
@@ -12405,6 +12408,7 @@ Mantinea Mantinea NPCSG00
 Manuel Manuel NPCNSP0
 Manuel Manuel NPCSG00
 Manuel Manuel NPMSSP0
+Manuela Manuela NPFSSP0
 Manuels Manuel NPMPSP0
 Manukau Manukau NPCSG00
 Manus Manus NPCSG00
@@ -14955,6 +14959,7 @@ Orenç Orenç NPMSSP0
 Orenços Orenç NPMPSP0
 Orestes Orestes NPMPSP0
 Orestes Orestes NPMSSP0
+Orestíada Orestíada NPFSO00
 Oretània Oretània NPFSG00
 Orfenell Orfenell NPCNSP0
 Orfeu Orfeu NPMSSP0
