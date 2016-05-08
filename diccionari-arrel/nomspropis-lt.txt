@@ -1600,6 +1600,7 @@ Apòl·lons Apòl·lon NPMPSP0
 Apúlia Apúlia NPFSG00
 Aqaba Aqaba NPCSG00
 Aquari Aquari NPCSG00
+Aqueront Aqueront NPMSSP0
 Aquileia Aquileia NPCSG00
 Aquileus Aquileu NPMPSP0
 Aquilina Aquilina NPFSSP0
@@ -3860,6 +3861,7 @@ Boulogne Boulogne NPCSG00
 Boulogne-Billancourt Boulogne-Billancourt NPCSG00
 Boulogne-sur-Mer Boulogne-sur-Mer NPFSG00
 Boulons Boulons NPCNSP0
+Bourdieu Bourdieu NPCNSP0
 Bourg-Saint-Maurice Bourg-Saint-Maurice NPCSG00
 Bourg-de-Péage Bourg-de-Péage NPCSG00
 Bourg-en-Bresse Bourg-en-Bresse NPCSG00
@@ -9395,6 +9397,7 @@ Gordià Gordià NPMSSP0
 Gordomir Gordomir NPCNSP0
 Gordí Gordí NPCNSP0
 Gordó Gordó NPCNSP0
+Gore-Tex Gore-Tex NPCNO00
 Goretti Goretti NPMSSP0
 Gorettis Goretti NPMPSP0
 Gorg Gorg NPCNSP0
@@ -11434,6 +11437,7 @@ Leucata Leucata NPCSG00
 Leuci Leuci NPMSSP0
 Leucis Leuci NPMPSP0
 Levallois-Perret Levallois-Perret NPCSG00
+Levante-EMV Levante-EMV NPMSO00
 Leverkusen Leverkusen NPCSG00
 Levàdia Levàdia NPCSG00
 Leví Leví NPMSSP0
@@ -22606,6 +22610,7 @@ Yao Yao NPCSG00
 Yaoundé Yaoundé NPCSG00
 Yaracuy Yaracuy NPCSG00
 Yarmūk Yarmūk NPCSG00
+Yat-sen Yat-sen NPCNSP0
 Yatenga Yatenga NPCSG00
 Yatsushiro Yatsushiro NPCSG00
 Yazd Yazd NPCSG00
