@@ -1,3 +1,4 @@
+#cd candela Y # es confon amb CD
 'en en PP3CN000
 'hi hi PP3CN000
 'ho ho PP3NN000
@@ -178,7 +179,6 @@ cascunes cascun DI0FP0
 cascuns cascun DI0MP0
 cascú cascú PI0CS000
 catorze catorze DN0CP0
-cd candela Y
 cent cent DN0CP0
 cert cert DI0MS0
 certa cert DI0FS0

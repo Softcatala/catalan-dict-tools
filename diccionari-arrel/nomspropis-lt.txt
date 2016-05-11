@@ -21241,7 +21241,7 @@ Urbà Urbà NPMSSP0
 Urchillo Urchillo NPCSG00
 Urfa Urfa NPCSG00
 Urgell Urgell NPCNSP0
-Urgell Urgell NPCSG00
+Urgell Urgell NPMSG00
 Urgellet Urgellet NPCSG00
 Urgellès Urgellès NPCNSP0
 Urgenč Urgenč NPCSG00
