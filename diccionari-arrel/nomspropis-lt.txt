@@ -1,3 +1,7 @@
+#Cort Cort NPCNSP0
+#Corts Corts NPCNSP0
+#Corts Corts NPCSG00
+#Corts Corts NPFPG00
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 ACNUR ACNUR NPMSO00
@@ -6050,7 +6054,6 @@ Corró Corró NPCSG00
 Cors Cors NPCNSP0
 Corsavell Corsavell NPCSG00
 Corsini Corsini NPCNSP0
-Cort Cort NPCNSP0
 Cortacamp Cortacamp NPCNSP0
 Cortacamps Cortacamps NPCNSP0
 Cortada Cortada NPCNSP0
@@ -6078,9 +6081,6 @@ Cortines Cortines NPCNSP0
 Cortitxelles Cortitxelles NPCSG00
 Cortiuda Cortiuda NPCSG00
 Cortona Cortona NPCSG00
-Corts Corts NPCNSP0
-Corts Corts NPCSG00
-Corts Corts NPFPG00
 Cortsaví Cortsaví NPCSG00
 Cortscastell Cortscastell NPCSG00
 Cortvassill Cortvassill NPCSG00
@@ -10980,6 +10980,7 @@ Katsina Katsina NPCSG00
 Kattegat Kattegat NPCSG00
 Kauai Kauai NPCSG00
 Kaunas Kaunas NPCSG00
+Kavafis Kavafis NPCNSP0
 Kawaguchi Kawaguchi NPCSG00
 Kawasaki Kawasaki NPCSG00
 Kayah Kayah NPCSG00
