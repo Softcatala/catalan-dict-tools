@@ -976,7 +976,7 @@ All All NPCSG00
 All-Star All-Star NPMSO00
 Allahābād Allahābād NPCSG00
 Allau Allau NPCSG00
-Allegheny Allegheny NPCSG00
+Allegheny Allegheny NPCNG00
 Allen Allen NPCNSP0
 Allentown Allentown NPCSG00
 Alleppey Alleppey NPCSG00
