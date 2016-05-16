@@ -7318,6 +7318,7 @@ Erau Erau NPCSG00
 Erba Erba NPCSG00
 Erdau Erdau NPCSG00
 Erdi Erdi NPCSG00
+Erdogan Erdogan NPCNSP0
 Eres Eres NPFPG00
 Eresma Eresma NPCSG00
 Eressué Eressué NPCSG00
@@ -7730,6 +7731,8 @@ Euprepis Euprepi NPMPSP0
 Eure Eure NPCSG00
 Eures Eures NPCNSP0
 Eurocambra Eurocambra NPFSO00
+Eurocopa Eurocopa NPFSO00
+Eurocopes Eurocopa NPFPO00
 Eurofighter Eurofighter NPMNO00
 Eurogrup Eurogrup NPMSO00
 Eurolliga Eurolliga NPFSO00
@@ -10002,6 +10005,7 @@ Hengelo Hengelo NPCSG00
 Henoc Henoc NPMSSP0
 Henocs Henoc NPMPSP0
 Hepburn Hepburn NPCNSP0
+Hera Hera NPFSSP0
 Heracleòpolis Heracleòpolis NPCSG00
 Heracli Heracli NPMSSP0
 Heraclians Heraclià NPMPSP0
