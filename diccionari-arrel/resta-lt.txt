@@ -1,4 +1,3 @@
-#cd candela Y # es confon amb CD
 'en en PP3CN000
 'hi hi PP3CN000
 'ho ho PP3NN000

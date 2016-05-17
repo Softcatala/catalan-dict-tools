@@ -1,7 +1,3 @@
-#Cort Cort NPCNSP0
-#Corts Corts NPCNSP0
-#Corts Corts NPCSG00
-#Corts Corts NPFPG00
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 ACNUR ACNUR NPMSO00
