@@ -3858,6 +3858,7 @@ bonidor bonidora=categories: A;fonts: LT;
 bonifaci bonifàcia=categories: A;fonts: LT;
 bonificador bonificadora=categories: A;fonts: dfrequencies;
 boniquet -a=categories: AA;fonts: derivat;
+boniquíssim boniquíssima=categories: AA;fonts: augmentatiu;
 bonmatinenc bonmatinenca=categories: A;fonts: LT;
 bonrepostí bonrepostina=categories: A;fonts: LT;
 bonreposí bonreposina=categories: A;fonts: LT;
