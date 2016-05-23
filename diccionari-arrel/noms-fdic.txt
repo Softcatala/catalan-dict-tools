@@ -15888,6 +15888,7 @@ conseqüència=categories: F;fonts: LT;
 conserge=categories: MF;fonts: LT;
 consergeria=categories: F;fonts: LT;
 conserva=categories: F;fonts: LT;
+conservacionisme=categories: M;fonts: derivat;
 conservacionista=categories: MF;fonts: LT;
 conservació=categories: F;fonts: LT;
 conservador=categories: M;fonts: LT;

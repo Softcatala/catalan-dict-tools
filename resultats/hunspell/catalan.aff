@@ -2,7 +2,7 @@
 #                              Corrector ortogràfic català
 #                          Fitxer d'afixos i llista de paraules
 # =======================================================================================
-#                                Versió 9.9.9 (20-02-2016)
+#                                Versió 9.9.9 (23-05-2016)
 # =======================================================================================
 # Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
 # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
@@ -9570,7 +9570,7 @@ SFX 69 dre guen/_C re
 SFX 69 dre guin/_C re
 
 # Model de conjugació: morir
-SFX 6A Y 70
+SFX 6A Y 71
 SFX 6A r r/_v_C_Y ir
 SFX 6A r nt/_C ir
 SFX 6A ir t/_v_Y ir
@@ -9578,6 +9578,7 @@ SFX 6A ir ta/_Y ir
 SFX 6A ir ts/_Y ir
 SFX 6A ir tes/_Y ir
 SFX 6A ir o/_Z ir
+SFX 6A orir uir/_Z ir
 SFX 6A ir 0/_Z ir
 SFX 6A ir s/_Z ir
 SFX 6A ir 0/_Z ir
