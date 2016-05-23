@@ -10298,6 +10298,7 @@ Hècuba Hècuba NPFSSP0
 Hècubes Hècuba NPFPSP0
 Hèlios Hèlios NPMSSP0
 Hèlsinki Hèlsinki NPCSG00
+Hèl·lade Hèl·lade NPFSG00
 Hèracles Hèracles NPMPSP0
 Hèracles Hèracles NPMSSP0
 Hèrcules Hèrcules NPMPSP0

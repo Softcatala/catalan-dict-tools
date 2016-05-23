@@ -42616,6 +42616,7 @@ narrador=categories: M;fonts: LT;
 narradora=categories: F;fonts: LT;
 narratari narratària=categories: MF;fonts: LT;
 narrativa=categories: F;fonts: LT;
+narrativitat=categories: F;fonts: DDLC;
 narratologia=categories: F;fonts: LT;
 narriola=categories: F;fonts: LT;
 narval=categories: M;fonts: LT;
