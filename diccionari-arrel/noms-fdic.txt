@@ -20975,7 +20975,6 @@ domàs [pl. domassos]=categories: M;fonts: LT;
 domèstic=categories: M;fonts: LT;
 domèstica=categories: F;fonts: LT;
 domínica=categories: F;fonts: LT;
-domòtic domòtica=categories: MF;fonts: LT;
 domòtica=categories: F;fonts: LT;
 don=categories: MS;fonts: LT;
 dona=categories: F;fonts: LT;
