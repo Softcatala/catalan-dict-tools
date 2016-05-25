@@ -11242,6 +11242,7 @@ cal·ligrafia=categories: F;fonts: LT;
 cal·ligrafització=categories: F;fonts: LT;
 cal·ligrama=categories: M;fonts: LT;
 cal·lionímid=categories: M;fonts: LT;
+cal·listènia=categories: M;fonts: termcat;
 cal·litricàcia=categories: F;fonts: LT;
 cal·losa=categories: F;fonts: LT;
 cal·lovià=categories: M;fonts: LT;
