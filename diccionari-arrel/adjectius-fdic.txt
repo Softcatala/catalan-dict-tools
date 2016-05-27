@@ -14147,6 +14147,7 @@ lapònid lapònida=categories: A;fonts: LT;
 lapó lapona=categories: A;fonts: LT;
 laramià laramiana=categories: A;fonts: LT;
 laringal=categories: A;fonts: LT;
+laringectomitzat laringectomitzada=categories: A;fonts: derivat;
 laringi laríngia=categories: A;fonts: LT;
 larval=categories: A;fonts: LT;
 larvari larvària=categories: A;fonts: LT;

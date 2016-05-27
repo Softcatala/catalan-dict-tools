@@ -1488,7 +1488,6 @@ cabridar=categories: V;model:cantar;fonts:LT
 cabriolar=categories: V;model:cantar;fonts:LT
 cabussar=categories: V;model:capbussar;fonts:LT
 cabussejar=categories: V;model:envejar;fonts:LT
-cacarejar=categories: V;model:envejar;fonts:LT
 caciquejar=categories: V;model:envejar;fonts:LT
 cadellar=categories: V;model:cantar;fonts:LT
 cadenar=categories: V;model:ofrenar;fonts:LT
