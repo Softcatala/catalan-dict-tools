@@ -3603,6 +3603,7 @@ Bolonya Bolonya NPFSG00
 Bolquera Bolquera NPFSG00
 Bolsena Bolsena NPCSG00
 Bolton Bolton NPCSG00
+Boltzmann Boltzmann NPCNSP0
 Boltà Boltà NPCNSP0
 Boltó Boltó NPCNSP0
 Bolulla Bolulla NPFSG00
@@ -12959,6 +12960,7 @@ Maximines Maximina NPFPSP0
 Maximins Maximí NPMPSP0
 Maximià Maximià NPMSSP0
 Maximí Maximí NPMSSP0
+Maxwell Maxwell NPCNSP0
 Mayayo Mayayo NPCSG00
 Mayen Mayen NPCSG00
 Mayenne Mayenne NPCSG00

@@ -13054,6 +13054,7 @@ infortunadíssim infortunadíssima=categories: AA;fonts: LT;
 infortunat infortunada=categories: A;fonts: LT;
 infracretaci infracretàcia=categories: A;fonts: LT;
 infractor infractora=categories: A;fonts: LT;
+infradiagnosticat infradiagnosticada=categories: A;fonts: derivat;
 infraestructural=categories: A;fonts: LT;
 infraglotal=categories: A;fonts: LT;
 infrahioïdal=categories: A;fonts: termcat;
