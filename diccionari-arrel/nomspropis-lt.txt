@@ -513,6 +513,7 @@ Alacreu Alacreu NPCNSP0
 Aladag Aladag NPCSG00
 Aladrell Aladrell NPCSG00
 Aladreu Aladreu NPCNSP0
+Aladí Aladí NPMSSP0
 Alagoas Alagoas NPCSG00
 Alagó Alagó NPCNSP0
 Alagó Alagó NPCSG00
@@ -11364,6 +11365,7 @@ Laviana Laviana NPCSG00
 Lavila Lavila NPCNSP0
 Lavinya Lavinya NPCNSP0
 Lavit Lavit NPCSG00
+Lavoisier Lavoisier NPCNSP0
 Lavongai Lavongai NPCSG00
 Laxou Laxou NPCSG00
 Layret Layret NPCNSP0
