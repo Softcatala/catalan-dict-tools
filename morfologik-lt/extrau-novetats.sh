@@ -6,7 +6,7 @@
 ###
 
 #directori LanguageTool
-lt_tools=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.3-SNAPSHOT-jar-with-dependencies.jar
+lt_tools=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.4-SNAPSHOT-jar-with-dependencies.jar
 
 # dump the tagger dictionary
 java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i catalan.dict -o catalan_lt.txt -info catalan.info

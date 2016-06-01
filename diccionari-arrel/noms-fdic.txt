@@ -64901,6 +64901,7 @@ vira=categories: F;fonts: LT;
 virada=categories: F;fonts: LT;
 virador=categories: M;fonts: LT;
 virago=categories: F;fonts: LT;
+viralitat=categories: F;fonts: esadir;
 virasi=categories: F;fonts: LT;
 virater=categories: M;fonts: LT;
 viratge=categories: M;fonts: LT;
