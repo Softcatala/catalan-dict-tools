@@ -3550,6 +3550,7 @@ destenyir=categories: V;model:tenyir;fonts:LT
 desteranyinar=categories: V;model:abominar;fonts:LT
 destermenar=categories: V;model:ofrenar;fonts:LT
 desterrar=categories: V;model:cantar;fonts:LT
+desterritorialitzar=categories: V;model:cantar;fonts:LT
 desterrossar=categories: V;model:adossar;fonts:LT
 destesar=categories: V;model:aburgesar;fonts:LT
 desteular=categories: V;model:cantar;fonts:LT
