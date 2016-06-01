@@ -54616,7 +54616,6 @@ rexisme=categories: M;fonts: LT;
 rexistàsia=categories: F;fonts: LT;
 rezelador=categories: M;fonts: LT;
 reïficació=categories: F;fonts: AVL,DIEC;
-reïficació=categories: F;fonts: LT;
 reïforme=categories: M;fonts: LT;
 reïna=categories: F;fonts: LT;
 reòfor=categories: M;fonts: LT;
