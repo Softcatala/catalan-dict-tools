@@ -19159,6 +19159,7 @@ postmenopàusic postmenopàusica=categories: A;fonts: termcat;
 postmeridià postmeridiana=categories: A;fonts: LT;
 postmodern postmoderna=categories: A;fonts: LT;
 postmodernista=categories: A;fonts: LT;
+postnacional=categories: A;fonts: derivat;
 postnacionalista=categories: A;fonts: derivat;
 postnatal=categories: A;fonts: LT;
 postnominal=categories: A;fonts: LT;

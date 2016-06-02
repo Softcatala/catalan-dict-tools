@@ -8588,6 +8588,7 @@ remuguejar=categories: V;model:envejar;fonts:LT
 remullar=categories: V;model:cantar;fonts:LT
 remunerar=categories: V;model:cantar;fonts:LT
 remuntar=categories: V;model:cantar;fonts:LT
+renacionalitzar=categories: V;model:cantar;fonts: dfrequencies;
 renderitzar=categories: V;model:cantar;fonts:LT
 rendibilitzar=categories: V;model:cantar;fonts:LT
 rendir=categories: V;model:servir;fonts:LT
