@@ -15171,6 +15171,7 @@ P'aozero P'aozero NPCSG00
 P'enghu P'enghu NPCSG00
 P'ingtung P'ingtung NPCSG00
 P'ohang P'ohang NPCSG00
+PAC PAC NPFNO00
 PNB PNB NPMSO00
 POUM POUM NPMSO00
 PP PP NPMSO00
@@ -17439,6 +17440,7 @@ Reus Reus NPCSG00
 Reuss Reuss NPCNSP0
 Reuss Reuss NPCSG00
 Reut Reut NPCSG00
+Reuters Reuters NPFSO00
 Reutlingen Reutlingen NPCSG00
 Revardit Revardit NPMSG00
 Revell Revell NPCNSP0
