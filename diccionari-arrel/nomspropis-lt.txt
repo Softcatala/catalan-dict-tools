@@ -2463,6 +2463,7 @@ Balenyà Balenyà NPCSG00
 Balestui Balestui NPCSG00
 Balet Balet NPCNSP0
 Baleta Baleta NPCNSP0
+Baleària Baleària NPFSO00
 Baleàrica Baleàrica NPFSG00
 Bali Bali NPCSG00
 Baliar Baliar NPCNSP0
@@ -7729,6 +7730,7 @@ Euprepi Euprepi NPMSSP0
 Euprepis Euprepi NPMPSP0
 Eure Eure NPCSG00
 Eures Eures NPCNSP0
+Eurobasket Eurobasket NPMSO00
 Eurocambra Eurocambra NPFSO00
 Eurocopa Eurocopa NPFSO00
 Eurocopes Eurocopa NPFPO00
@@ -9878,6 +9880,7 @@ Güel Güel NPCSG00
 Güell Güell NPCNSP0
 Güell Güell NPCSG00
 Güives Güives NPCNSP0
+Gürtel Gürtel NPCSO00
 Güímar Güímar NPCSG00
 Haapsalu Haapsalu NPCSG00
 Haarlem Haarlem NPCSG00
@@ -20825,6 +20828,7 @@ Trani Trani NPCSG00
 Transbaikal Transbaikal NPCSG00
 Transcarpàcia Transcarpàcia NPFSG00
 Transjordània Transjordània NPFSG00
+Transmediterránea Transmediterránea NPFSO00
 Transsilvània Transsilvània NPFSG00
 Transvaal Transvaal NPCSG00
 Trapagaran Trapagaran NPCSG00
