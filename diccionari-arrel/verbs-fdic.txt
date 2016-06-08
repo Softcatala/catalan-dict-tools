@@ -8568,6 +8568,7 @@ remenar=categories: V;model:ofrenar;fonts:LT
 remenjar=categories: V;model:menjar;fonts:LT
 remesclar=categories: V;model:cantar;fonts:LT
 remetre=categories: V;model:admetre;fonts:LT
+remineralitzar=categories: V;model:cantar;fonts: derivat;
 remintolar=categories: V;model:cantar;fonts:LT
 remirar=categories: V;model:cantar;fonts:LT
 remitjar=categories: V;model:menjar;fonts:LT

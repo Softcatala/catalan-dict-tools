@@ -10365,6 +10365,7 @@ Ifac Ifac NPMSG00
 Ife Ife NPCSG00
 Ifigènia Ifigènia NPFSSP0
 Ifigènies Ifigènia NPFPSP0
+Ifni Ifni NPMSG00
 Ifrane Ifrane NPCSG00
 Iglésies Iglésies NPCNSP0
 Ignasi Ignasi NPMSSP0
@@ -16642,6 +16643,7 @@ Ptolemeus Ptolemeu NPMPSP0
 Pubill Pubill NPCNSP0
 Publi Publi NPMSSP0
 Publis Publi NPMPSP0
+Puccini Puccini NPCNSP0
 Pueio Pueio NPMSG00
 Puell Puell NPCNSP0
 Puelles Puelles NPFPG00
