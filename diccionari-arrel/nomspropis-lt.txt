@@ -2412,6 +2412,7 @@ Balagueró Balagueró NPCNSP0
 Balakovo Balakovo NPCSG00
 Balansà Balansà NPCNSP0
 Balansó Balansó NPCNSP0
+Balanyà Balanyà NPCNSP0
 Balanzà Balanzà NPCNSP0
 Balanzó Balanzó NPCNSP0
 Balança Balança NPFSG00
