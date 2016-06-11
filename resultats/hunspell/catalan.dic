@@ -1,4 +1,4 @@
-132470
+132518
 10a
 10es
 10ns
@@ -576,6 +576,7 @@ Alacreu/_Y_V
 Aladag/_Y_V
 Aladrell/_Y_V
 Aladreu/_Y_V
+Aladí/_Y_V
 Alagoas/_Y_V
 Alagó/_Y_V
 Alagón/_Y_V
@@ -2321,6 +2322,7 @@ Balagueró
 Balakovo
 Balansà
 Balansó
+Balanyà
 Balanzà
 Balanzó
 Balança
@@ -2367,6 +2369,7 @@ Balenyà
 Balestui
 Balet
 Baleta
+Baleària
 Baleàrica
 Bali
 Baliar
@@ -3432,6 +3435,7 @@ Bolonya
 Bolquera
 Bolsena
 Bolton
+Boltzmann
 Boltà
 Boltó
 Bolulla
@@ -7277,6 +7281,7 @@ Euprepi/_Y_V
 Euprepis/_Y
 Eure/_Y_V
 Eures/_Y_V
+Eurobasket/_Y_V
 Eurocambra/_Y_V
 Eurocopa/_Y_V
 Eurocopes/_Y
@@ -9268,6 +9273,7 @@ Gúdules
 Güel
 Güell
 Güives
+Gürtel
 Güímar
 HTML
 Haapsalu/_Y_V
@@ -9754,6 +9760,7 @@ Ifac/_Y_V
 Ife/_Y_V
 Ifigènia/_Y
 Ifigènies/_Y
+Ifni/_Y_V
 Ifrane/_Y_V
 Iglésies/_Y_V
 Ignasi/_Y_V
@@ -10764,6 +10771,7 @@ Laviana
 Lavila
 Lavinya
 Lavit
+Lavoisier
 Lavongai
 Laxou
 Layret
@@ -11323,6 +11331,7 @@ Lucrècia
 Lucrècies
 Lucània
 Ludhiāna
+Ludovic
 Ludwig
 Ludwigsburg
 Lufthansa
@@ -12225,6 +12234,7 @@ Maximines
 Maximins
 Maximià
 Maximí
+Maxwell
 Mayayo
 Mayen
 Mayenne
@@ -14261,6 +14271,7 @@ P'aozero
 P'enghu
 P'ingtung
 P'ohang
+PAC
 PC
 PDF
 PIB
@@ -15630,6 +15641,7 @@ Ptolemeus
 Pubill
 Publi
 Publis
+Puccini
 Pueio
 Puell
 Puelles
@@ -16363,6 +16375,7 @@ Reunion
 Reus
 Reuss
 Reut
+Reuters
 Reutlingen
 Revardit
 Revell
@@ -17415,7 +17428,6 @@ Santoll
 Santomà
 Santonja
 Santorí
-Santos
 Santoña
 Santpau
 Santpedor
@@ -19472,6 +19484,7 @@ Trani
 Transbaikal
 Transcarpàcia
 Transjordània
+Transmediterránea
 Transsilvània
 Transvaal
 Trapagaran
@@ -29613,8 +29626,10 @@ antiestètic/_F_V_Y
 antiestètica/_V_Y
 antietimològic/_F_V_Y
 antietimològica/_V_Y
+antieuropea/_V_Y
 antieuropeisme/_E_V_Y
 antieuropeista/_E_V_Y
+antieuropeu/_K_V_Y
 antievangèlic/_F_V_Y
 antievangèlica/_V_Y
 antifaç/_I_V_Y
@@ -34028,7 +34043,6 @@ ateromatós/_J_V_Y
 aterosclerosi/_E_V_Y
 aterrada/_E_V_Y
 aterrada/_V
-aterrador/_F_V_Y
 aterradora/_V_Y
 aterrament/_E_V_Y
 aterrar/28
@@ -51806,9 +51820,7 @@ davantal/_E
 davantalada/_E
 davantalat/_E
 davantejar/52
-davanter/_E
 davanter/_F
-davantera/_E
 davídic/_F
 dc
 de
@@ -55173,6 +55185,8 @@ desteranyinar/03
 destermenar/71
 desterrament/_E
 desterrar/00
+desterritorialització/_G
+desterritorialitzar/00
 desterrossar/12
 destesar/08
 desteular/00
@@ -70016,6 +70030,7 @@ exaudida/_V
 exaudir/87
 exballarina/_V_Y
 exballarí/_H_V_Y
+exbarcelonista/_E_V_Y
 exbatle/_E_V_Y
 exbatlessa/_E_V_Y
 exbatlle/_E_V_Y
@@ -70203,8 +70218,12 @@ excèntrica/_V_Y
 excèntricament/_Y_V
 excés/_i_V_Y
 excònsol/_E_V_Y
+exdavanter/_F_V_Y
+exdavantera/_V_Y
 exdeixebla/_V_Y
 exdeixeble/_F_V_Y
+exdelegada/_V_Y
+exdelegat/_B_V_Y
 exdictador/_E_V_Y
 exdiputada/_E_V_Y
 exdiputat/_E_V_Y
@@ -71144,6 +71163,7 @@ exultant/_E_V_Y
 exultar/28
 exutori/_E_V_Y
 exuviació/_G_V_Y
+exvalencianista/_E_V_Y
 exvedet/_E_V_Y
 exvicealcalde/_E_V_Y
 exvicealcaldessa/_E_V_Y
@@ -72602,6 +72622,7 @@ ficus
 ficòfit/_E
 ficòleg/_K
 fidedigne/_F
+fidedignitat/_E
 fideisme/_E
 fideista/_E
 fidejussió/_G
@@ -83700,6 +83721,7 @@ infracretaci/_K_V_Y
 infractor/_E_V_Y
 infractor/_F_V_Y
 infractora/_E_Y
+infradiagnosticat/_B_V_Y
 infradotació/_G_Y
 infraestimació/_G_Y
 infraestimar/28
@@ -85288,6 +85310,7 @@ irreparablement/_Y_V
 irrepetible/_E_V_Y
 irreprensible/_E_V_Y
 irreprensiblement/_Y_V
+irrepresentabilitat/_E_Y
 irrepresentable/_E_V_Y
 irreprimible/_E_V_Y
 irreprotxabilitat/_E_Y
@@ -86857,6 +86880,7 @@ lecitina/_E
 lecitoblast/_E
 lectina/_E
 lectiu/_B
+lectoescriptor/_F
 lectoescriptura/_E
 lector/_E
 lector/_F
@@ -87517,6 +87541,7 @@ litigant/_E
 litigar/78
 litigi/_E
 litigiosament
+litigiositat/_E
 litigiós/_J
 litina/_E
 litisconsorci/_E
@@ -89277,6 +89302,7 @@ macrobatuda/_E
 macrobiòtic/_F
 macrobiòtica/_E
 macroblast/_E
+macrocausa/_E
 macrocefàlia/_E
 macrocefàlic/_F
 macrocinematografia/_E
@@ -89305,6 +89331,7 @@ macroestat/_E
 macroestructura/_E
 macroevolució/_G
 macroexposició/_G
+macrofesta/_E
 macrofestival/_E
 macrofil·le/_F
 macroforaminífer/_E
@@ -98825,6 +98852,7 @@ olorada/_V
 olorador/_F_V_Y
 oloradora/_V_Y
 olorar/28
+oloreta/_E_V_Y
 olorosa/_V_Y
 olorosament/_Y_V
 olorós/_J_V_Y
@@ -105296,6 +105324,7 @@ plateresc/_F
 plateret/_E
 plateria/_E
 platet/_E
+platgeta/_E
 platibàsia/_E
 platicefàlia/_E
 platicurtisme/_E
@@ -107031,6 +107060,7 @@ postmodern/_F
 postmodernisme/_E
 postmodernista/_E
 postmodernitat/_E
+postnacional/_E
 postnacionalista/_E
 postnatal/_E
 postnominal/_E
@@ -107047,6 +107077,8 @@ postprandial/_E
 postprecipitació/_G
 postprocessament/_E
 postproducció/_G
+postpujolisme/_E
+postpujolista/_E
 postració/_G
 postrar/00
 postrem/_F
@@ -108344,6 +108376,7 @@ progoneat/_E
 progovernamental/_E
 progradació/_G
 programa/_E
+programabilitat/_E
 programable/_E
 programació/_G
 programador/_E
@@ -109528,6 +109561,7 @@ pujol/_E
 pujolar/_E
 pujolisme/_E
 pujolista/_E
+pujolià/_H
 pujos
 pulai/_E
 pularda/_E
@@ -110856,6 +110890,7 @@ radicalari/_K
 radicalisme/_E
 radicalitat/_E
 radicalització/_G
+radicalitzador/_F
 radicalitzar/00
 radicalment
 radicand/_E
@@ -112957,7 +112992,6 @@ reientinc/_E
 reientí/_G
 reiet/_E
 reietó/_G
-reificació/_G
 reig/_E
 reiki/_E
 reimaginar/03
@@ -113241,6 +113275,7 @@ remetre/10
 remeulo/_E
 remig
 remigs
+remineralitzar/00
 reminiscència/_E
 remintolar/00
 remirament/_E
@@ -113353,6 +113388,7 @@ remízid/_E
 remòlta/_E
 ren/_E
 renacionalització/_G
+renacionalitzar/00
 renadiu/_B
 renadívol/_F
 renaixement/_E
@@ -113727,6 +113763,7 @@ reprensora/_E
 represa/_E
 represaliar/40
 represaliat/_B
+representabilitat/_E
 representable/_E
 representació/_G
 representador/_E
@@ -114918,6 +114955,7 @@ ritu/_E
 ritual/_E
 ritualisme/_E
 ritualista/_E
+ritualització/_G
 ritualitzar/00
 ritualment
 riu/_E
@@ -116917,6 +116955,7 @@ sarabatà/_H
 saragata/_E
 saragatona/_E
 saragossana/_E
+saragossista/_E
 saragossà/_G
 saragossà/_H
 saragüells
@@ -117695,6 +117734,7 @@ semigrès/_I
 semiinconscient/_E
 semiinformal/_E
 semiinterquartílic/_F
+semillibertat
 semillí/_G
 semilunar/_E
 semiluni/_E
@@ -118285,6 +118325,7 @@ serverola/_E
 servible/_E
 servici/_E
 servicial/_E
+servicialitat/_E
 servicialment
 servidor/_E
 servidor/_F
@@ -119375,6 +119416,7 @@ sobrecoll/_E
 sobrecollida/_E
 sobrecollidor/_E
 sobrecol·lecta/_E
+sobrecompensació/_G
 sobrecompressió/_G
 sobrecongelació/_G
 sobrecongelador/_E
@@ -120584,6 +120626,7 @@ subcompetència/_E
 subcomponent/_E
 subcompte/_E
 subcomunitat/_E
+subconca/_E
 subcondral/_E
 subconductor/_E
 subconjunt/_E
@@ -121344,6 +121387,7 @@ superconductor/_F
 supercorda/_E
 supercrític/_F
 supercúmul/_E
+superdimarts
 superdominant/_E
 superdominància/_E
 superdotació/_G
@@ -121406,6 +121450,7 @@ superlleuger/_E
 superlumínic/_F
 supermajoria/_E
 supermascle/_E
+supermassiu/_B
 supermercat/_E
 supermilionari/_K
 supermodel/_E
@@ -121419,6 +121464,7 @@ superoferta/_E
 superorde
 superordes
 superordre/_E
+superorganisme/_E
 superorticó/_G
 superovàric/_F
 superplasticitat/_E
@@ -125759,6 +125805,7 @@ trapa/_E
 trapassa/_E
 trapassejar/52
 trapasser/_F
+trapasseria/_E
 trapatroles
 trapau/_E
 trapeig/_E
@@ -130047,6 +130094,7 @@ virada/_E
 virador/_E
 virago/_E
 viral/_E
+viralitat/_E
 viralitzar/00
 virar/00
 virasi/_E
