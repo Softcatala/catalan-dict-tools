@@ -11986,6 +11986,7 @@ Lucrècia Lucrècia NPFSSP0
 Lucrècies Lucrècia NPFPSP0
 Lucània Lucània NPFSG00
 Ludhiāna Ludhiāna NPCSG00
+Ludovic Ludovic NPMSSP0
 Ludwig Ludwig NPMSSP0
 Ludwigsburg Ludwigsburg NPCSG00
 Lufthansa Lufthansa NPCNO00
