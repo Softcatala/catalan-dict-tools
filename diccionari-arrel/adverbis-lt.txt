@@ -150,7 +150,6 @@ ençà ençà RG
 exprés exprés RG
 extramurs extramurs RG
 ferm ferm RG
-fi fi RG
 fins fins RG
 fluix fluix RG
 fondo fondo RG
