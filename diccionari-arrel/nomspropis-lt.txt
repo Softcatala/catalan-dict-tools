@@ -11670,7 +11670,6 @@ Lleonard Lleonard NPCNSP0
 Lleonard Lleonard NPMSSP0
 Lleonards Lleonard NPMPSP0
 Lleons Lleó NPMPSP0
-Lleopart Lleopart NPCNSP0
 Llera Llera NPCNSP0
 Lleret Lleret NPCSG00
 Llerona Llerona NPCSG00
