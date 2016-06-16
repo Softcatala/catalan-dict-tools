@@ -13451,6 +13451,7 @@ interorganitzatiu interorganitzativa=categories: A;fonts: derivat;
 interossi interòssia=categories: A;fonts: LT;
 interparietal=categories: A;fonts: LT;
 interparlamentari interparlamentària=categories: A;fonts: LT;
+interparroquial=categories: A;fonts: derivat;
 interpel·lant=categories: A;fonts: LT;
 interpersonal=categories: A;fonts: LT;
 interplanetari interplanetària=categories: A;fonts: LT;

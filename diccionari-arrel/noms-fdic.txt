@@ -12318,6 +12318,7 @@ carib=categories: MF;fonts: LT;
 caribú [pl. caribús]=categories: M;fonts: LT;
 caricatura=categories: F;fonts: LT;
 caricaturista=categories: MF;fonts: LT;
+caricaturització=categories: F;fonts: DDLC, Vox;
 caricau=categories: M;fonts: LT;
 caricàcia=categories: F;fonts: LT;
 carilló=categories: M;fonts: LT;
