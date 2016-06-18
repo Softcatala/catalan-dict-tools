@@ -9452,6 +9452,7 @@ teoritzar=categories: V;model:cantar;fonts:LT
 terbolinar=categories: V;model:abominar;fonts:LT
 tercejar=categories: V;model:envejar;fonts:LT
 tercerejar=categories: V;model:envejar;fonts:LT
+terciaritzar=categories: V;model:cantar;fonts:derivat;
 tergiversar=categories: V;model:cantar;fonts:LT
 termenar=categories: V;model:ofrenar;fonts:LT
 termenejar=categories: V;model:envejar;fonts:LT
