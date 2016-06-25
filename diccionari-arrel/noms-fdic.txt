@@ -57603,6 +57603,7 @@ sinovioma=categories: M;fonts: LT;
 sinovitis=categories: FI;fonts: LT;
 sinquília=categories: F;fonts: LT;
 sintagma=categories: M;fonts: LT;
+sintagmació=categories: F;fonts: derivat;
 sintaxi=categories: F;fonts: LT;
 sintema=categories: M;fonts: LT;
 sinterització=categories: F;fonts: LT;

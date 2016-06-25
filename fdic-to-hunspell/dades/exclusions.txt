@@ -35,6 +35,7 @@ musiques
 pirineus
 retràs
 sen
+salud
 subsol
 transfons
 ultim
