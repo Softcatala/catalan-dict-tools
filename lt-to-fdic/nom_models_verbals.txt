@@ -117,6 +117,7 @@ ordenar
 péixer
 penedir
 pertànyer
+ploure
 poder
 pregar
 prevenir
