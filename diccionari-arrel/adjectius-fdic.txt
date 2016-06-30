@@ -5087,6 +5087,7 @@ cetogènic cetogènica=categories: A;fonts: LT;
 cetílic cetílica=categories: A;fonts: LT;
 cetònic cetònica=categories: A;fonts: LT;
 ceutí ceutina=categories: A;fonts: LT;
+chavista=categories: A;fonts: derivat;
 chel·lià chel·liana=categories: A;fonts: LT;
 cherokee=categories: A;fonts: termcat;
 chokerià chokeriana=categories: A;fonts: LT;

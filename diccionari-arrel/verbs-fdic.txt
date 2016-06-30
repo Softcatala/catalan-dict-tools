@@ -6623,6 +6623,7 @@ infrafinançar=categories: V;model:començar;fonts:LT
 infrautilitzar=categories: V;model:cantar;fonts:LT
 infravalorar=categories: V;model:cantar;fonts:LT
 infringir=categories: V;model:servir;fonts:LT
+infusionar=categories: V;model:cantar;fonts: termcat;
 ingerir=categories: V;model:servir;fonts:LT
 ingressar=categories: V;model:entravessar;fonts:LT
 ingurgitar=categories: V;model:cantar;fonts:LT

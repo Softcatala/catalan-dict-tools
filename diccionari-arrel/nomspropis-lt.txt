@@ -6474,6 +6474,7 @@ Dakota Dakota NPFSG00
 Dal Dal NPCSG00
 Dalap-Uliga-Darrit Dalap-Uliga-Darrit NPCSG00
 Dalarna Dalarna NPCSG00
+Dalcroze Dalcroze NPCNSP0
 Dalian Dalian NPCSG00
 Dalila Dalila NPFSSP0
 Dallas Dallas NPCSG00
