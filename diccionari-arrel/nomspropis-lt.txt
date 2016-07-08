@@ -8534,6 +8534,7 @@ Francès Francès NPCNSP0
 Francí Francí NPCNSP0
 Francònia Francònia NPFSG00
 Frangipane Frangipane NPCNSP0
+Frankenstein Frankenstein NPCNSP0
 Frankfort Frankfort NPCSG00
 Frankfurt Frankfurt NPCSG00
 Franquesa Franquesa NPCNSP0
@@ -12226,8 +12227,6 @@ Maizuru Maizuru NPCSG00
 Maià Maià NPCNSP0
 Maià Maià NPCSG00
 Majkop Majkop NPCSG00
-Major Major NPCNSP0
-Major Major NPCSG00
 Majoral Majoral NPCNSP0
 Majordom Majordom NPCNSP0
 Makalu Makalu NPCSG00
@@ -13901,6 +13900,7 @@ Moreta Moreta NPCNSP0
 Moretona Moretona NPCNSP0
 Moretó Moretó NPCNSP0
 Moreu Moreu NPCNSP0
+Morfeu Morfeu NPMSSP0
 Morgada Morgada NPCNSP0
 Morgadell Morgadell NPCNSP0
 Morgadella Morgadella NPCNSP0

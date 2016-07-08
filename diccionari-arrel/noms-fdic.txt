@@ -65690,6 +65690,7 @@ xenilla=categories: F;fonts: LT;
 xenisme=categories: M;fonts: LT;
 xenixell=categories: M;fonts: LT;
 xenna=categories: F;fonts: LT;
+xenoestrogen=categories: M;fonts: termcat;
 xenofília=categories: F;fonts: LT;
 xenofòbia=categories: F;fonts: LT;
 xenoglòssia=categories: F;fonts: LT;
