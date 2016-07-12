@@ -16097,6 +16097,7 @@ contraboquera=categories: F;fonts: LT;
 contrabrífing=categories: M;fonts: LT;
 contracaixa=categories: F;fonts: LT;
 contracamp=categories: M;fonts: LT;
+contracampanya=categories: F;fonts: derivat;
 contracanal=categories: M;fonts: LT;
 contracant=categories: M;fonts: LT;
 contracantell=categories: M;fonts: LT;

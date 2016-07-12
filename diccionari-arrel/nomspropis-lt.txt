@@ -10754,6 +10754,7 @@ Jordà Jordà NPCNSP0
 Jordà Jordà NPMSG00
 Jordà Jordà NPMSSP0
 Jordània Jordània NPFSG00
+Jornet Jornet NPCNSP0
 Jos Jos NPCSG00
 Josa Josa NPCNSP0
 Josa Josa NPFSG00
