@@ -22518,6 +22518,7 @@ sorn sorna=categories: A;fonts: LT;
 sorneguer sorneguera=categories: A;fonts: LT;
 sornut sornuda=categories: A;fonts: LT;
 sorollós sorollosa=categories: A;fonts: LT;
+sorotàptic sorotàptica=categories: A;fonts: viquipedia;
 sorprenent=categories: A;fonts: LT;
 sorralenc sorralenca=categories: A;fonts: LT;
 sorrejador sorrejadora=categories: A;fonts: LT;

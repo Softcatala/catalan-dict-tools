@@ -58376,6 +58376,7 @@ sorollisme=categories: M;fonts: LT;
 sororat=categories: M;fonts: LT;
 sorosi=categories: F;fonts: LT;
 sorosilicat=categories: M;fonts: LT;
+sorotapte=categories: MS;fonts: viquipedia;
 sorpasso=categories: MS;fonts: esadir;
 sorpresa=categories: F;fonts: LT;
 sorra=categories: F;fonts: LT;
