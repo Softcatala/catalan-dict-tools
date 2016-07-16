@@ -5947,7 +5947,6 @@ Cook Cook NPCNG00
 Cookstown Cookstown NPCSG00
 Cooper Cooper NPCNSP0
 Cooper Cooper NPCSG00
-Copa Copa NPFSG00
 Copenhaguen Copenhaguen NPCSG00
 Copertino Copertino NPCSG00
 Copiapó Copiapó NPCSG00
@@ -15248,6 +15247,7 @@ Paktiā Paktiā NPCSG00
 Paktīkā Paktīkā NPCSG00
 Palafolls Palafolls NPCNSP0
 Palafolls Palafolls NPCSG00
+Palafox Palafox NPCNSP0
 Palafrugell Palafrugell NPCSG00
 Palagret Palagret NPCSG00
 Palaiseau Palaiseau NPCSG00
