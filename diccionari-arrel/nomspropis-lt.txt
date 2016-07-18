@@ -6595,6 +6595,7 @@ Delblanc Delblanc NPCNSP0
 Delblat Delblat NPCNSP0
 Delclòs Delclòs NPCNSP0
 Delcor Delcor NPCNSP0
+Deleuze Deleuze NPCNSP0
 Delfar Delfar NPCNSP0
 Delfau Delfau NPCNSP0
 Delfina Delfina NPFSSP0
