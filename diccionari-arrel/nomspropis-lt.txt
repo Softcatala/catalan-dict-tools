@@ -12034,6 +12034,7 @@ Làrnaca Làrnaca NPCSG00
 Lèucada Lèucada NPCSG00
 Lékoumou Lékoumou NPCSG00
 Léman Léman NPCSG00
+Lérmontov Lérmontov NPCNSP0
 Líban Líban NPMSG00
 Líbia Líbia NPFSG00
 Lícia Lícia NPFSG00
@@ -12080,6 +12081,7 @@ Macedonis Macedoni NPMPSP0
 Macedònia Macedònia NPFSG00
 Maceió Maceió NPCSG00
 Macenta Macenta NPCSG00
+Machado Machado NPCNSP0
 Machala Machala NPCSG00
 Machico Machico NPCSG00
 Machida Machida NPCSG00
@@ -16830,6 +16832,7 @@ Puimanyons Puimanyons NPCSG00
 Puimolar Puimolar NPCSG00
 Puiol Puiol NPCSG00
 Puixeu Puixeu NPCNSP0
+Puixkin Puixkin NPCNSP0
 Puja Puja NPCNSP0
 Pujada Pujada NPCNSP0
 Pujada Pujada NPFSG00
@@ -16908,7 +16911,6 @@ Puy-de-Dôme Puy-de-Dôme NPCSG00
 Puyehue Puyehue NPCSG00
 Puça Puça NPCSG00
 Puçol Puçol NPCSG00
-Puškin Puškin NPCSG00
 Pwani Pwani NPCSG00
 Pyeongchang Pyeongchang NPCSG00
 Pyongyang Pyongyang NPCSG00
