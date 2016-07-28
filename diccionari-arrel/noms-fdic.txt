@@ -33215,6 +33215,7 @@ hipermetròpic hipermetròpica=categories: MF;fonts: LT;
 hipermnèsia=categories: F;fonts: LT;
 hipermobilitat=categories: F;fonts: LT;
 hipermobilització=categories: F;fonts: derivat;
+hipermodernitat=categories: F;fonts: GEC, viquipedia;
 hipermèdia=categories: M;fonts: LT;
 hipernasalitat=categories: F;fonts: termcat;
 hipernefroma=categories: M;fonts: LT;
