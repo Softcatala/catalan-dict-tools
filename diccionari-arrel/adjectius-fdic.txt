@@ -13404,6 +13404,7 @@ interdigital=categories: A;fonts: LT;
 interdiocesà interdiocesana=categories: A;fonts: LT;
 interdisciplinari interdisciplinària=categories: A;fonts: LT;
 interempresarial=categories: A;fonts: LT;
+interescapular=categories: A;fonts: termcat;
 interescolar=categories: A;fonts: DDLC;
 interespecífic interespecífica=categories: A;fonts: LT;
 interespinós interespinosa=categories: A;fonts: termcat;
