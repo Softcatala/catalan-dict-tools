@@ -51,6 +51,7 @@ MERS=categories: FS;fonts: esadir,termcat;
 MP3=categories: MI;fonts: LT;
 NIF=categories: MI;fonts: LT;
 ONG=categories: FI;fonts: LT;
+Oscar=categories: M;fonts: esadir;
 PC=categories: MI;fonts: esadir;
 PDF=categories: MI;fonts: termcat;
 PIB=categories: MI;fonts: LT;
