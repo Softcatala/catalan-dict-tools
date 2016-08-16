@@ -9273,6 +9273,7 @@ estult estulta=categories: A;fonts: LT;
 estupefacte estupefacta=categories: A;fonts: LT;
 estupefaent=categories: A;fonts: LT;
 estupend estupenda=categories: A;fonts: LT;
+estupendíssim estupendíssima=categories: A;fonts: augmentatiu, DCVB;
 estàndard=categories: AI;fonts: LT;
 estànnic estànnica=categories: A;fonts: LT;
 estàtic estàtica=categories: A;fonts: LT;
