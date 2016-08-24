@@ -28460,6 +28460,7 @@ fletxa=categories: F;fonts: LT;
 fletxadura=categories: F;fonts: LT;
 fletxer=categories: M;fonts: LT;
 fletxera=categories: F;fonts: LT;
+fletxeta=categories: F;fonts: diminutiu;
 fleuma=categories: F;fonts: LT;
 fleumàtic=categories: M;fonts: LT;
 fleumàtica=categories: F;fonts: LT;

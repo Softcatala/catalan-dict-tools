@@ -19701,6 +19701,7 @@ Stanislavski Stanislavski NPCNSP0
 Stanley Stanley NPMSSP0
 Starhemberg Starhemberg NPCNSP0
 Stavanger Stavanger NPCSG00
+Steinway Steinway NPMNO00
 Stendhal Stendhal NPMSSP0
 Stepanakert Stepanakert NPCSG00
 Sterlitamak Sterlitamak NPCSG00
@@ -22807,6 +22808,7 @@ al-Àndalus al-Àndalus NPCSG00
 eBay eBay NPCNO00
 ex-Iugoslàvia ex-Iugoslàvia NPFSG00
 ex-URSS ex-URSS NPFSG00
+iMac iMac NPMNO00
 iPad iPad NPMNO00
 iPhone iPhone NPMNO00
 iPod iPod NPMNO00
