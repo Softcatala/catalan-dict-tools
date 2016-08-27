@@ -12870,6 +12870,7 @@ catalexi=categories: F;fonts: LT;
 catalina=categories: F;fonts: LT;
 cataliner catalinera=categories: MF;fonts: LT;
 catalinoia=categories: F;fonts: LT;
+catalització=categories: F;fonts: DDLC;
 catalitzador=categories: M;fonts: LT;
 catalogació=categories: F;fonts: LT;
 catalogador=categories: M;fonts: LT;
