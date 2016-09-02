@@ -1920,6 +1920,7 @@ antitabac=categories: AI;fonts: LT;
 antitancs=categories: AI;fonts: LT;
 antitaques=categories: AI;fonts: LT;
 antitaurí antitaurina=categories: A;fonts: LT;
+antiteista=categories: A;fonts: viquipedia;
 antiterrorista=categories: A;fonts: LT;
 antitetànic antitetànica=categories: A;fonts: LT;
 antitopspin=categories: AI;fonts: LT;
