@@ -4128,6 +4128,7 @@ Bulgària Bulgària NPFSG00
 Bull Bull NPCNSP0
 Bullidor Bullidor NPMSG00
 Bulès Bulès NPMSG00
+Bundesliga Bundesliga NPFSO00
 Bundēlkhand Bundēlkhand NPCSG00
 Bunyol Bunyol NPCNSP0
 Bunyol Bunyol NPCSG00
@@ -14001,6 +14002,7 @@ Mozart Mozart NPCNSP0
 Mozilla Mozilla NPCNO00
 Moçambic Moçambic NPMSG00
 Mtwara Mtwara NPCSG00
+MuVIM MuVIM NPMSO00
 Mualles Mualles NPCNSP0
 Mubarak Mubarak NPCNSP0
 Mudanjiang Mudanjiang NPCSG00
@@ -15086,6 +15088,7 @@ Orša Orša NPCSG00
 Orūzgān Orūzgān NPCSG00
 Osaka Osaka NPFSG00
 Osasco Osasco NPCSG00
+Osasuna Osasuna NPMSO00
 Osbert Osbert NPMSSP0
 Osberts Osbert NPMPSP0
 Osca Osca NPCNSP0

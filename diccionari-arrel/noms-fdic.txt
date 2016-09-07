@@ -58699,6 +58699,7 @@ subestàndard=categories: M;fonts: LT;
 subet=categories: M;fonts: LT;
 subexposició=categories: F;fonts: LT;
 subfamília=categories: F;fonts: LT;
+subfase=categories: F;fonts: derivat;
 subfinestra=categories: F;fonts: termcat;
 subformulari=categories: M;fonts: derivat;
 subfusell=categories: M;fonts: LT;
