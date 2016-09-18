@@ -20841,6 +20841,7 @@ Transbaikal Transbaikal NPCSG00
 Transcarpàcia Transcarpàcia NPFSG00
 Transjordània Transjordània NPFSG00
 Transmediterránea Transmediterránea NPFSO00
+Transnístria Transnístria NPFSG00
 Transsilvània Transsilvània NPFSG00
 Transvaal Transvaal NPCSG00
 Trapagaran Trapagaran NPCSG00
@@ -21049,6 +21050,7 @@ Turkmenistan Turkmenistan NPMSG00
 Turks Turks NPCSG00
 Turku Turku NPCSG00
 Turmeda Turmeda NPCNSP0
+Turner Turner NPCNSP0
 Turol Turol NPCSG00
 Turonell Turonell NPCNSP0
 Turonell Turonell NPMSG00
