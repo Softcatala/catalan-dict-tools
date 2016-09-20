@@ -45,6 +45,8 @@
 -vos tu P020P000
 -vos tu PP2CP000
 Ctrl Ctrl Y
+Excm excel·lentíssim Y
+Excma excel·lentíssima Y
 GB gigabyte Y
 GHz GHz Y
 Gbit gigabit Y

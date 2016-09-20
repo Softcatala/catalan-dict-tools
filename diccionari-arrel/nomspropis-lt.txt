@@ -5395,6 +5395,7 @@ Chatelleraut Chatelleraut NPCSG00
 Chatou Chatou NPCSG00
 Chattahoochee Chattahoochee NPCSG00
 Chattanooga Chattanooga NPCSG00
+Chaucer Chaucer NPCNSP0
 Chaumont Chaumont NPCSG00
 Chaumont-sur-Loire Chaumont-sur-Loire NPCSG00
 Cheju Cheju NPCSG00
@@ -13221,6 +13222,7 @@ Mianes Mianes NPCNSP0
 Mianes Mianes NPCSG00
 Miarnau Miarnau NPCNSP0
 Miass Miass NPCSG00
+Micalet Micalet NPMSG00
 Micenes Micenes NPCSG00
 Michael Michael NPMSSP0
 Michelangelo Michelangelo NPMSSP0
