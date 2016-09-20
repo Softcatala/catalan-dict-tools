@@ -6,7 +6,7 @@ cd morfologik-lt
 dict_origen=../resultats/lt/diccionari.txt
 
 #LanguageTool jar
-jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.4-SNAPSHOT-jar-with-dependencies.jar
+jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.5-SNAPSHOT-jar-with-dependencies.jar
 
 
 # replace whitespaces with tabs
