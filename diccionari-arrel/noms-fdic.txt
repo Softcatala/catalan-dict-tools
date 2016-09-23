@@ -1,4 +1,3 @@
-#antropocè=categories: MS;fonts: esadir;
 #aper=categories: M;fonts: GDLC;
 #baador=categories: MF;fonts: GDLC, arcaisme;
 #cort2=categories: M;fonts: LT; #arcaisme
@@ -4260,6 +4259,7 @@ antropinisme=categories: M;fonts: LT;
 antropització=categories: F;fonts: termcat;
 antropobiologia=categories: F;fonts: LT;
 antropocentrisme=categories: M;fonts: LT;
+antropocè=categories: MS;fonts: esadir;
 antropocòria=categories: F;fonts: LT;
 antropofàgia=categories: F;fonts: LT;
 antropofòbia=categories: F;fonts: LT;

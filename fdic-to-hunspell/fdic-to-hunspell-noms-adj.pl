@@ -302,10 +302,12 @@ for my $arxiucategoria (@categories) {
 		    }
 		}
 	    }
-	    if ($categoria =~ /F/ && $categoria !~ /M/) {
-		$plural=Flexio::plural($singular, "F", "F");  #les larinxs, falçs, calçs
-	    } else {
-		$plural=Flexio::plural($singular, "M");
+	    if ($categoria !~ /S/) {
+		if ($categoria =~ /F/ && $categoria !~ /M/) {
+		    $plural=Flexio::plural($singular, "F", "F");  #les larinxs, falçs, calçs
+		} else {
+		    $plural=Flexio::plural($singular, "M");
+		}
 	    }
 	    if ($categoria =~ /I$/) 	#Invarible
 	    {
