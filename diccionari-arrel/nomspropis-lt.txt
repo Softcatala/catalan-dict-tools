@@ -10139,6 +10139,7 @@ Hipacis Hipaci NPMPSP0
 Hipercor Hipercor NPCNO00
 Hiperió Hiperió NPCSG00
 Hipona Hipona NPCSG00
+Hipàtia Hipàtia NPFSSP0
 Hipòcrates Hipòcrates NPMSSP0
 Hipòlit Hipòlit NPCNSP0
 Hipòlit Hipòlit NPMSSP0
