@@ -45348,6 +45348,7 @@ oveller=categories: M;fonts: LT;
 ovellera=categories: F;fonts: LT;
 ovelleta=categories: F;fonts: LT;
 ovengkol=categories: M;fonts: LT;
+overbooking=categories: MS;fonts: esadir, AVL, anglès;
 overlocaire=categories: M;fonts: LT;
 overloquista=categories: M;fonts: LT;
 ovicel·la=categories: F;fonts: LT;

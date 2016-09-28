@@ -14600,6 +14600,7 @@ llevador llevadora=categories: A;fonts: LT;
 llevadís llevadissa=categories: A;fonts: LT;
 llevaneu=categories: A;fonts: LT;
 llevantancer llevantancera=categories: A;fonts: LT;
+llevantinista=categories: A;fonts: AVL;
 llevantí llevantina=categories: A;fonts: LT;
 llevataques=categories: AI;fonts: LT;
 lliberal=categories: A;fonts: LT;
