@@ -4188,6 +4188,7 @@ Butuan Butuan NPCSG00
 Butxaca Butxaca NPCNSP0
 Buzǎu Buzǎu NPCSG00
 Bydgoszcz Bydgoszcz NPCSG00
+Byron Byron NPCNSP0
 Bànyols Bànyols NPCSG00
 Bàrbara Bàrbara NPFSSP0
 Bàrbares Bàrbara NPFPSP0
