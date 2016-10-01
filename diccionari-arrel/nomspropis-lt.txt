@@ -11520,7 +11520,7 @@ Limavady Limavady NPCSG00
 Limbiate Limbiate NPCSG00
 Limburg Limburg NPMSG00
 Limoux Limoux NPCSG00
-Limón Limón NPCSG00
+Limón Limón NPMSG00
 Linares Linares NPCSG00
 Lincoln Lincoln NPCNG00
 Lincolnshire Lincolnshire NPCSG00
@@ -12751,7 +12751,6 @@ Masdevall Masdevall NPCNSP0
 Masdexeixart Masdexeixart NPCNSP0
 Masdovelles Masdovelles NPCNSP0
 Masdéu Masdéu NPCNSP0
-Masdéu Masdéu NPCSG00
 Masdéu Masdéu NPMSG00
 Maseres Maseres NPCNSP0
 Maseru Maseru NPCSG00
