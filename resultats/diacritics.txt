@@ -1,5 +1,8 @@
 *** No són al diccionari ***
-sègle
+cotompèl (AVL)
+sègle (DIEC) 
+Lés (?)
+tòs (AVL)
 *** Només en expressions ***
 a contrapèl
 a l'empèl
@@ -36,9 +39,14 @@ cotó-en-pèls cotó-en-pèl NCMP000
 desféu desfer VMIS3S00
 déu déu NCMS000
 déus déu NCMP000
+dóna donar VMIP3S00
+dóna donar VMM02S00
+dónes donar VMIP2S00
+dónes donar VMSP2S0V
 entresòl entresòl NCMS000
 entresòls entresòl NCMP000
 entrevéu entreveure VMIS3S00
+és ser VSIP3S00
 estraféu estrafer VMIS3S00
 féu fer VMIS3S00
 fóra ser VSIC1S00
@@ -83,6 +91,9 @@ mòlt moldre VMP00SM0
 mòlts moldre VMP00PM0
 món món NCMS000
 mons món NCMP000
+móra móra NCFS000
+Móra Móra NPFSG00
+móres móra NCFP000
 nét nét NCMS000
 néts nét NCMP000
 nós jo PP1CSN00
@@ -148,8 +159,11 @@ sís sí NCMP000
 sobresòl sobresòl NCMS000
 sobresòls sobresòl NCMP000
 sóc ser VSIP1S00
+sóc ser VSIP1S00
 sòl sòl NCMS000
 sòls sòl NCMP000
+són ser VSIP3P00
+só ser VSIP1S00
 submons submón NCMP000
 submón submón NCMS000
 subsòls subsòl NCMP000

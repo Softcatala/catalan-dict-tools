@@ -14169,7 +14169,6 @@ Mòger Mòger NPCNSP0
 Mònaco Mònaco NPCSG00
 Mònica Mònica NPFSSP0
 Mòniques Mònica NPFPSP0
-Móra Móra NPCNSP0
 Móra Móra NPFSG00
 Móstoles Móstoles NPCSG00
 Môn Môn NPCSG00
