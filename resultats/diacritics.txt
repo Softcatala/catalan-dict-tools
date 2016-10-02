@@ -159,7 +159,6 @@ sís sí NCMP000
 sobresòl sobresòl NCMS000
 sobresòls sobresòl NCMP000
 sóc ser VSIP1S00
-sóc ser VSIP1S00
 sòl sòl NCMS000
 sòls sòl NCMP000
 són ser VSIP3P00
