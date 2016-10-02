@@ -1,4 +1,4 @@
-*** No són al diccionari ***
+*** No són en el diccionari ***
 cotompèl (AVL)
 sègle (DIEC) 
 Lés (?)
