@@ -1,4 +1,9 @@
+*** No són al diccionari ***
+sègle
+*** Només en expressions ***
 a contrapèl
+a l'empèl
+*** Entrades del diccionari ***
 adéu adéu I
 adéu adéu NCMS000
 adéus adéu NCMP000
