@@ -1,4 +1,4 @@
-*** No són en el diccionari ***
+*** Ara mateix no són en el diccionari ***
 cotompèl (AVL)
 sègle (DIEC) 
 Lés (?)
@@ -6,7 +6,7 @@ tòs (AVL)
 *** Només en expressions ***
 a contrapèl
 a l'empèl
-*** Entrades del diccionari ***
+*** Entrades del diccionari que impliquen diacrítics ***
 adéu adéu I
 adéu adéu NCMS000
 adéus adéu NCMP000
