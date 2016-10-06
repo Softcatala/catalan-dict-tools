@@ -1,8 +1,9 @@
 *** Ara mateix no són en el diccionari ***
-cotompèl (AVL)
+cotompèl (DNV)
 sègle (DIEC) 
 Lés (?)
-tòs (AVL)
+tòs (DNV)
+a gatamèus (DIEC), a gatameus (DNV)
 *** Només en expressions ***
 a contrapèl
 a l'empèl
