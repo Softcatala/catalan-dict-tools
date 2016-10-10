@@ -4164,6 +4164,7 @@ empiular=categories: V;model:cantar;fonts:LT
 empixonar=categories: V;model:cantar;fonts:LT
 emplafonar=categories: V;model:cantar;fonts:LT
 emplastrar=categories: V;model:cantar;fonts:LT
+emplatar=categories: V;model:cantar;fonts: AVL, termcat;
 emplaçar=categories: V;model:començar;fonts:LT
 emplenar=categories: V;model:ofrenar;fonts:LT
 emplomallar=categories: V;model:cantar;fonts:LT
