@@ -2,6 +2,7 @@
 cotompèl (DNV)
 sègle (DIEC) 
 Lés (?)
+nòs amb nòs (DIEC)
 tòs (DNV)
 a gatamèus (DIEC), a gatameus (DNV), però marrameu (en tots dos)
 *** Només en expressions ***
@@ -195,8 +196,15 @@ tòts tòt NCMP000
 tòt tòt NCMS000
 usos ús NCMP000
 ús ús NCMS000
+vénc venir VMIP1S0B
 vénda vénda NCFS000
 véndes vénda NCFP000
+véngui venir VMM03S0B
+véngui venir VMSP1S0B
+véngui venir VMSP3S0B
+vénguin venir VMM03P0B
+vénguin venir VMSP3P0B
+vénguis venir VMSP2S0B
 vénen venir VMIP3P00
 véns venir VMIP2S00
 vertisòls vertisòl NCMP000
