@@ -161,6 +161,13 @@ resos rés NCMP000
 rés rés NCMS000
 ressòl ressòl NCMS000
 ressòls ressòl NCMP000
+revénc revenir VMIP1S0B
+revéngui revenir VMM03S0B
+revéngui revenir VMSP1S0B
+revéngui revenir VMSP3S0B
+revénguin revenir VMM03P0B
+revénguin revenir VMSP3P0B
+revénguis revenir VMSP2S0B
 revénen revenir VMIP3P00
 revéns revenir VMIP2S00
 revéu reveure VMIS3S00
