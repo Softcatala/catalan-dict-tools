@@ -2535,6 +2535,7 @@ Bangweulu Bangweulu NPCSG00
 Bani Bani NPCSG00
 Banjul Banjul NPCSG00
 Bankinter Bankinter NPCNO00
+Banksy Banksy NPMSSP0
 Banquells Banquells NPCNSP0
 Banquer Banquer NPCNSP0
 Banqueta Banqueta NPFSG00
@@ -6436,6 +6437,7 @@ Cúper Cúper NPCSG00
 Cǎlǎraşi Cǎlǎraşi NPCSG00
 DCVB DCVB NPMSO00
 DIEC DIEC NPMSO00
+DIN DIN NPCNO00
 DNV DNV NPMSO00
 Dabakala Dabakala NPCSG00
 Dabau Dabau NPCNSP0

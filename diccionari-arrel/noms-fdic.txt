@@ -8,6 +8,9 @@
 #ròtol (arcaisme)
 #tabla=categories: M;fonts: instrument hindú (es pot confondre amb taula);
 #tableta=categories: F;fonts: terme de farmàcia, no general;
+A3=categories: MI;fonts: simbol;
+A4=categories: MI;fonts: simbol;
+A5=categories: MI;fonts: simbol;
 ADN=categories: MI;fonts: LT;
 AMPA=categories: FI;fonts: LT;
 API=categories: FI;fonts: softcatala, viquipedia;

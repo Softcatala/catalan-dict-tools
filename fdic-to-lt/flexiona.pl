@@ -46,7 +46,7 @@ while ( my $line = <$fh> ) {
 	}
 
 	$numAccepcio = "";
-	if ($mot_masc !~ /^MP3$/) { # Excepció: el número forma part del mot
+	if ($mot_masc !~ /^(MP3|A[345])$/) { # Excepció: el número forma part del mot
 	    if ($mot_masc =~ /^(.+)([0-9])$/) {
 		$mot_masc = $1;
 		$numAccepcio = $2;
@@ -161,7 +161,7 @@ while ( my $line = <$fh> ) {
 	{
 	    $singular = $1;
 	    $numAccepcio = "";
-	    if ($singular !~ /^MP3$/) { # Excepció: el número forma part del mot
+	    if ($singular !~ /^(MP3|A[345])$/) { # Excepció: el número forma part del mot
 		if ($singular =~ /^(.+)([0-9])$/) {
 		    $singular = $1;
 		    $numAccepcio = $2;
