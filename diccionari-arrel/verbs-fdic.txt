@@ -5707,6 +5707,7 @@ esterrecar=categories: V;model:trencar;fonts:LT
 esterrejar=categories: V;model:envejar;fonts:LT
 esterrossar=categories: V;model:adossar;fonts:LT
 estesar=categories: V;model:aburgesar;fonts:LT
+estetitzar=categories: V;model:cantar;fonts: DDLC;
 estevar=categories: V;model:cantar;fonts:LT
 estibar=categories: V;model:cantar;fonts:LT
 estifollar=categories: V;model:cantar;fonts:LT
