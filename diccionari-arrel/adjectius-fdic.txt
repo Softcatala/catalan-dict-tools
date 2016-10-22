@@ -7001,6 +7001,7 @@ desempleat desempleada=categories: A;fonts: LT;
 desenal=categories: A;fonts: LT;
 desenari desenària=categories: A;fonts: LT;
 desencadenant=categories: A;fonts: LT;
+desencisador desencisadora=categories: A;fonts: DDLC;
 desencoratjador desencoratjadora=categories: A;fonts: LT;
 desenfaenat desenfaenada=categories: A;fonts: LT;
 desenfeinat desenfeinada=categories: A;fonts: LT;

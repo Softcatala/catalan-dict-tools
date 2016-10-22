@@ -308,7 +308,6 @@ Agolada Agolada NPCNSP0
 Agomar Agomar NPMSSP0
 Agomars Agomar NPMPSP0
 Agordat Agordat NPCSG00
-Agost Agost NPCNSP0
 Agost Agost NPMSG00
 Agostenc Agostenc NPCNSP0
 Agra Agra NPCSG00
@@ -6681,8 +6680,6 @@ Desclot Desclot NPCNSP0
 Descoll Descoll NPCNSP0
 Desdèmona Desdèmona NPFSSP0
 Deseado Deseado NPCSG00
-Desemparats Desemparats NPMPSP0
-Desemparats Desemparats NPMSSP0
 Desh Desh NPMSG00
 Desideri Desideri NPMSSP0
 Desideris Desideri NPMPSP0
@@ -7978,7 +7975,6 @@ Favara Favara NPFSG00
 Favà Favà NPCSG00
 Fayetteville Fayetteville NPCSG00
 Febe Febe NPCSG00
-Febrer Febrer NPCNSP0
 Febrònia Febrònia NPFSSP0
 Febrònies Febrònia NPFPSP0
 Febró Febró NPFSG00
@@ -9097,7 +9093,6 @@ Genars Genar NPMPSP0
 Gencians Gencià NPMPSP0
 Gencià Gencià NPMSSP0
 Gendrau Gendrau NPCNSP0
-Gener Gener NPCNSP0
 Generosa Generosa NPFSSP0
 Generoses Generosa NPFPSP0
 Generés Generés NPCNSP0
@@ -10842,7 +10837,6 @@ Juneau Juneau NPCSG00
 Juneda Juneda NPCNSP0
 Juneda Juneda NPFSG00
 Jungfrau Jungfrau NPCSG00
-Juny Juny NPCNSP0
 Junyell Junyell NPCNSP0
 Junyell Junyell NPMSG00
 Junyells Junyells NPCNSP0
@@ -12204,7 +12198,6 @@ Maials Maials NPCSG00
 Maians Maians NPCNSP0
 Maiduguri Maiduguri NPCSG00
 Maier Maier NPCNSP0
-Maig Maig NPCNSP0
 Maigmudella Maigmudella NPFSG00
 Maigmó Maigmó NPMSG00
 Mailí Mailí NPCNSP0
@@ -12695,7 +12688,6 @@ Marxant Marxant NPCNSP0
 Marxuac Marxuac NPCNSP0
 Maryland Maryland NPCSG00
 Marzà Marzà NPCSG00
-Març Març NPCNSP0
 Marçac Marçac NPCSG00
 Marçal Marçal NPCNSP0
 Marçal Marçal NPMSSP0
