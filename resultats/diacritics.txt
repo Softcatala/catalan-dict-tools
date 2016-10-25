@@ -1,6 +1,7 @@
 *** Ara mateix no són en el diccionari ***
 cotompèl (DNV)
-sègle (DIEC) 
+sègle (DIEC)
+Jóc
 Lés (?)
 pèl-muda, pèl-mudar (GDLC)
 nòs amb nòs (DIEC)
@@ -74,6 +75,10 @@ litosòls litosòl NCMP000
 malvéu malveure VMIS3S00
 mà mà NCFS000
 mans mà NCFP000
+mà-llarg mà-llarg AQ0MS0
+mà-llarga mà-llarg AQ0FS0
+mà-llargs mà-llarg AQ0MP0
+mà-llargues mà-llarg AQ0FP0
 marededéu marededéu NCFS000
 marededéus marededéu NCFP000
 Masdéu Masdéu NPCNSP0
@@ -82,6 +87,9 @@ matamón matamón NCMS000
 matamons matamón NCMP000
 més més NCMN000
 més més RG
+més-dient més-dient NCMS000
+més-dients més-dient NCMP000
+més-enllà més-enllà NCMN000
 mèu mèu NCMS000
 mèus mèu NCMP000
 mol·lisòl mol·lisòl NCMS000
