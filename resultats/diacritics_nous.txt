@@ -1,0 +1,51 @@
+bé
+béns
+déu
+déus
+és
+mà
+més
+món
+pèl
+pèls
+què
+sé
+sí
+sís
+sòl
+sòls
+són
+té
+ús
+vós
+mà-llarg mà-llarg AQ0MS0
+mà-llarga mà-llarg AQ0FS0
+mà-llargs mà-llarg AQ0MP0
+mà-llargues mà-llarg AQ0FP0
+més-dient més-dient NCMS000
+més-dients més-dient NCMP000
+més-enllà més-enllà NCMN000
+pèl-blanc pèl-blanc AQ0MS0
+pèl-blanca pèl-blanc AQ0FS0
+pèl-blancs pèl-blanc AQ0MP0
+pèl-blanques pèl-blanc AQ0FP0
+pèl-curt pèl-curt AQ0MS0
+pèl-curta pèl-curt AQ0FS0
+pèl-curtes pèl-curt AQ0FP0
+pèl-curts pèl-curt AQ0MP0
+pèl-llarg pèl-llarg AQ0MS0
+pèl-llarga pèl-llarg AQ0FS0
+pèl-llargs pèl-llarg AQ0MP0
+pèl-llargues pèl-llarg AQ0FP0
+pèl-ras pèl-ras AQ0MS0
+pèl-rasa pèl-ras AQ0FS0
+pèl-rases pèl-ras AQ0FP0
+pèl-rasos pèl-ras AQ0MP0
+pèl-roges pèl-roig AQ0FP0
+pèl-roig pèl-roig AQ0MS0
+pèl-roigs pèl-roig AQ0MP0
+pèl-roja pèl-roig AQ0FS0
+pèl-rojos pèl-roig AQ0MP0
+Cóll Cóll NPCSG00
+Móra Móra NPFSG00
+Jóc 
