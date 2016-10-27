@@ -12138,7 +12138,6 @@ Mafalda Mafalda NPFSSP0
 Mafaldes Mafalda NPFPSP0
 Mafet Mafet NPCSG00
 Mafeteng Mafeteng NPCSG00
-Mafia Mafia NPCSG00
 Mafumet Mafumet NPCSG00
 Magadan Magadan NPCSG00
 Magallanes Magallanes NPCSG00
