@@ -13298,6 +13298,7 @@ Miporquet Miporquet NPCSG00
 Miquees Miquees NPMSSP0
 Miquel Miquel NPCNSP0
 Miquel Miquel NPMSSP0
+Miquela Miquela NPFSSP0
 Miquelon Miquelon NPMSG00
 Miquels Miquel NPMPSP0
 Mir Mir NPCNSP0
