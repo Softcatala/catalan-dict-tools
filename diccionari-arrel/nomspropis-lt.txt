@@ -13001,6 +13001,7 @@ McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
 McKinley McKinley NPCSG00
 McLaren McLaren NPCNO00
+McLuhan McLuhan NPCNO00
 Mchinji Mchinji NPCSG00
 Meanes Meanes NPCSG00
 Meaux Meaux NPCSG00
