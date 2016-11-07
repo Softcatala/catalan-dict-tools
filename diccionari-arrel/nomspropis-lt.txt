@@ -4155,6 +4155,7 @@ Burjacs Burjacs NPCNSP0
 Burjassot Burjassot NPCSG00
 Burjons Burjons NPCNSP0
 Burjó Burjó NPCNSP0
+Burke Burke NPCNSP0
 Burkina Burkina NPFSG00
 Burniac Burniac NPCNSP0
 Burniguer Burniguer NPCNSP0
@@ -6255,6 +6256,7 @@ Croix-Morand Croix-Morand NPFSG00
 Croix-de-Fer Croix-de-Fer NPFSG00
 Cromaci Cromaci NPMSSP0
 Cromacis Cromaci NPMPSP0
+Cromwell Cromwell NPCNSP0
 Cronos Cronos NPMSSP0
 Cros Cros NPCNSP0
 Cros Cros NPMSG00
