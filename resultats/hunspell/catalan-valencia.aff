@@ -2,7 +2,7 @@
 #                              Corrector ortogràfic català
 #                          Fitxer d'afixos i llista de paraules
 # =======================================================================================
-#                                Versió 9.9.9 (23-09-2016)
+#                                Versió 9.9.9 (18-11-2016)
 # =======================================================================================
 # Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
 # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
@@ -11765,7 +11765,7 @@ SFX 83 ir guts/_Y ir
 SFX 83 enir ingudes/_Y ir
 SFX 83 ir gudes/_Y ir
 SFX 83 enir inc/_Z ir
-SFX 83 ir c/_Z ir
+SFX 83 enir énc/_Z ir
 SFX 83 enir éns/_Z ir
 SFX 83 enir é/_Z ir
 SFX 83 r m/_Z ir
@@ -11814,20 +11814,20 @@ SFX 83 ir dríeu/_Z ir
 SFX 83 enir indrien/_Z ir
 SFX 83 ir drien/_Z ir
 SFX 83 enir inga/_Z ir
-SFX 83 ir gui/_Z ir
+SFX 83 enir éngui/_Z ir
 SFX 83 enir ingui/_Z ir
 SFX 83 enir ingues/_Z ir
-SFX 83 ir guis/_Z ir
+SFX 83 enir énguis/_Z ir
 SFX 83 enir inguis/_Z ir
 SFX 83 enir inga/_Z ir
-SFX 83 ir gui/_Z ir
+SFX 83 enir éngui/_Z ir
 SFX 83 enir ingui/_Z ir
 SFX 83 enir inguem/_Z ir
 SFX 83 ir guem/_Z ir
 SFX 83 enir ingueu/_Z ir
 SFX 83 ir gueu/_Z ir
 SFX 83 enir inguen/_Z ir
-SFX 83 ir guin/_Z ir
+SFX 83 enir énguin/_Z ir
 SFX 83 enir inguin/_Z ir
 SFX 83 enir ingués/_Z ir
 SFX 83 enir inguera/_Z ir
@@ -11854,13 +11854,13 @@ SFX 83 ir guessin/_Z ir
 SFX 83 enir én/_C ir
 SFX 83 enir ín/_C ir
 SFX 83 enir inga/_D ir
-SFX 83 ir gui/_D ir
+SFX 83 enir éngui/_D ir
 SFX 83 enir ingui/_D ir
 SFX 83 enir inguem/_C ir
 SFX 83 ir guem/_C ir
 SFX 83 r u/_C ir
 SFX 83 enir inguen/_C ir
-SFX 83 ir guin/_C ir
+SFX 83 enir énguin/_C ir
 SFX 83 enir inguin/_C ir
 
 # Model de conjugació: riure
