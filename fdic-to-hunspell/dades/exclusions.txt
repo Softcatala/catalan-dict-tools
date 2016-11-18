@@ -62,10 +62,6 @@ cint
 col·lar
 conduit
 convinent
-corresponsable
-corresponsabilitat
-corresponsabilitzar
-corresponsabilització
 composar
 cossa
 costipar
@@ -115,6 +111,7 @@ questa
 rabet
 rabo
 respòs
+rencontre
 san
 sen
 tableta
