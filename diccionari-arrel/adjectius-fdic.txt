@@ -18287,6 +18287,7 @@ penable=categories: A;fonts: LT;
 penaguilenc penaguilenca=categories: A;fonts: LT;
 penailenc penailenca=categories: A;fonts: LT;
 penal=categories: A;fonts: LT;
+penalitzable=categories: A;fonts: derivat;
 penalitzador penalitzadora=categories: A;fonts: derivat;
 pencaire=categories: A;fonts: LT;
 pencut pencuda=categories: A;fonts: LT;
