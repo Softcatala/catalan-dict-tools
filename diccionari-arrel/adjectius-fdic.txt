@@ -10743,6 +10743,7 @@ futboler futbolera=categories: A;fonts: LT;
 futbolístic futbolística=categories: A;fonts: LT;
 futur futura=categories: A;fonts: LT;
 futurari futurària=categories: A;fonts: LT;
+futurible=categories: A;fonts: AVL;
 futurista=categories: A;fonts: LT;
 futurístic futurística=categories: A;fonts: LT;
 fàcil=categories: A;fonts: LT;
