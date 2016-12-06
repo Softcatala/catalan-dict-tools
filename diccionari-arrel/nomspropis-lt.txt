@@ -10136,7 +10136,6 @@ Himeris Himeri NPMPSP0
 Himmler Himmler NPCNSP0
 Himàlaia Himàlaia NPMSG00
 Hindustan Hindustan NPMSG00
-Hindustān Hindustān NPCSG00
 Hinnøy Hinnøy NPCSG00
 Hipaci Hipaci NPMSSP0
 Hipacis Hipaci NPMPSP0
