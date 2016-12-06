@@ -2212,6 +2212,7 @@ arabitzant=categories: A;fonts: LT;
 arable=categories: A;fonts: LT;
 araboisraelià araboisraeliana=categories: A;fonts: LT;
 arabomusulmà arabomusulmana=categories: A;fonts: LT;
+arabòfon arabòfona=categories: A;fonts: derivat;
 aracnoide=categories: A;fonts: LT;
 aracnoïdal=categories: A;fonts: LT;
 arafidi arafídia=categories: A;fonts: LT;

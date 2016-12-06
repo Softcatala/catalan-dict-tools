@@ -3602,6 +3602,7 @@ Bolla Bolla NPCNSP0
 Bolla Bolla NPFSG00
 Bollate Bollate NPCSG00
 Bolleria Bolleria NPFSG00
+Bollywood Bollywood NPCSG00
 Bolló Bolló NPCNSP0
 Boloix Boloix NPCNSP0
 Bolonya Bolonya NPFSG00
@@ -9319,6 +9320,7 @@ Gluck Gluck NPCNSP0
 Glåma Glåma NPCSG00
 Glòria Glòria NPFSSP0
 Glòries Glòria NPFPSP0
+Gmail Gmail NPMSO00
 Gniezno Gniezno NPCSG00
 Goa Goa NPFSG00
 Gobert Gobert NPCNSP0

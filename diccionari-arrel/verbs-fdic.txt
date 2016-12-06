@@ -3160,6 +3160,7 @@ desestatalitzar=categories: V;model:cantar;fonts:LT
 desestatitzar=categories: V;model:cantar;fonts:LT
 desestatjar=categories: V;model:menjar;fonts:LT
 desestibar=categories: V;model:cantar;fonts:LT
+desestigmatitzar=categories: V;model:cantar;fonts: derivat;
 desestimar=categories: V;model:cantar;fonts:LT
 desestorar=categories: V;model:cantar;fonts:LT
 desestovar=categories: V;model:cantar;fonts:LT
