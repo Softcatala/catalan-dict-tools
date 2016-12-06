@@ -3054,6 +3054,7 @@ Beniarjó Beniarjó NPCSG00
 Beniarrupaix Beniarrupaix NPCSG00
 Beniarrés Beniarrés NPCSG00
 Beniatjar Beniatjar NPCSG00
+Benicadell Benicadell NPMSG00
 Benicadim Benicadim NPCSG00
 Benicais Benicais NPCSG00
 Benicalap Benicalap NPCSG00

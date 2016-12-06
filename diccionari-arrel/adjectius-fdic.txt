@@ -23375,7 +23375,6 @@ tenebrós tenebrosa=categories: A;fonts: LT;
 tenellut tenelluda=categories: A;fonts: LT;
 tenicida=categories: A;fonts: LT;
 teniforme=categories: A;fonts: LT;
-tennístic tennística=categories: A;fonts: LT;
 tens tensa=categories: A;fonts: LT;
 tensioactiu tensioactiva=categories: A;fonts: LT;
 tensional=categories: A;fonts: LT;
