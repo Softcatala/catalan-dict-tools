@@ -33546,7 +33546,6 @@ hodòmetre=categories: M;fonts: LT;
 holanda=categories: MF;fonts: LT;
 holandeta=categories: F;fonts: LT;
 holandès holandesa=categories: MF;fonts: LT;
-holding=categories: M;fonts: LT;
 holisme=categories: M;fonts: LT;
 holmi=categories: M;fonts: LT;
 holobasidi=categories: M;fonts: LT;
