@@ -63,6 +63,7 @@ PIB=categories: MI;fonts: LT;
 PIME=categories: FI;fonts: LT;
 PLC=categories: MI;fonts: termcat;
 PVC=categories: MI;fonts: LT;
+PVP=categories: MI;fonts: termcat;
 Paraclet=categories: M;fonts: LT;
 Parkinson=categories: MS;fonts: LT;
 Paràclit=categories: M;fonts: LT;
