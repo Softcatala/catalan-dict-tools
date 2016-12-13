@@ -9132,6 +9132,7 @@ est=categories: AI;fonts: LT;
 estabilitzador estabilitzadora=categories: A;fonts: LT;
 estabilitzant=categories: A;fonts: LT;
 estable=categories: A;fonts: LT;
+anestable=categories: A;fonts: DIEC;
 establimenter establimentera=categories: A;fonts: LT;
 estacional=categories: A;fonts: LT;
 estacionari estacionària=categories: A;fonts: LT;
