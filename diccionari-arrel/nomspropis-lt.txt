@@ -20985,7 +20985,7 @@ Trullols Trullols NPCNSP0
 Trulls Trulls NPCNSP0
 Trulló Trulló NPCNSP0
 Truman Truman NPCNSP0
-Trump Trump NPCNSP00
+Trump Trump NPCNSP0
 Trunyó Trunyó NPCNSP0
 Truquet Truquet NPCNSP0
 Tràcia Tràcia NPFSG00

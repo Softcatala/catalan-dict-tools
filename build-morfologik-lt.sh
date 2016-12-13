@@ -6,8 +6,8 @@ cd morfologik-lt
 dict_origen=../resultats/lt/diccionari.txt
 
 #LanguageTool jar
-jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.5-SNAPSHOT-jar-with-dependencies.jar
-
+#jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.5-SNAPSHOT-jar-with-dependencies.jar
+jarfile=~/languagetool/languagetool.jar
 
 # replace whitespaces with tabs
 perl sptotabs.pl <$dict_origen >diccionari_tabs.txt
@@ -34,3 +34,10 @@ sed 's/$'"/`echo \\\r`/" catalan_tags.txt > catalan_tags_dos.txt
 rm catalan_tags.txt
 mv catalan_tags_dos.txt catalan_tags.txt
 
+target_dir=../resultats/java-lt/src/main/resources/org/languagetool/resource/ca
+
+cp catalan_tags.txt $target_dir
+cp catalan.dict $target_dir
+cp catalan_synth.dict $target_dir
+cp catalan.info $target_dir
+cp catalan_synth.info $target_dir
