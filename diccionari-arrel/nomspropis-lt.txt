@@ -1623,6 +1623,7 @@ Araceli Araceli NPFSSP0
 Aracelis Araceli NPFPSP0
 Aracena Aracena NPCSG00
 Aracil Aracil NPCNSP0
+Aracne Aracne NPFSSP0
 Aracristi Aracristi NPCSG00
 Arad Arad NPCSG00
 Arades Arades NPFPG00
@@ -7152,6 +7153,7 @@ Elburz Elburz NPCSG00
 Elca Elca NPCSG00
 Elda Elda NPFSG00
 Eldorado Eldorado NPCSG00
+Electra Electra NPFSSP0
 Electrolux Electrolux NPCNO00
 Elena Elena NPFSSP0
 Elenes Elena NPFPSP0

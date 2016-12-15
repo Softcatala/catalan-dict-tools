@@ -22359,6 +22359,7 @@ emulador=categories: M;fonts: LT;
 emuladora=categories: F;fonts: LT;
 emulgent=categories: M;fonts: LT;
 emulsina=categories: F;fonts: LT;
+emulsionament=categories: M;fonts: LT;
 emulsionant=categories: M;fonts: LT;
 emulsiu=categories: MS;fonts: LT;
 emulsió=categories: F;fonts: LT;
