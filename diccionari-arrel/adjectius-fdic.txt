@@ -8197,6 +8197,7 @@ empipador empipadora=categories: A;fonts: LT;
 empireumàtic empireumàtica=categories: A;fonts: LT;
 empiri empíria=categories: A;fonts: LT;
 empirista=categories: A;fonts: LT;
+emplenable=categories: A;fonts: derivat;
 emplorallat emplorallada=categories: A;fonts: LT;
 emplugencat emplugencada=categories: A;fonts: LT;
 emplàstic emplàstica=categories: A;fonts: LT;
