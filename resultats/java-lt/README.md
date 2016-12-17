@@ -16,5 +16,3 @@ To make a release:
 * `mvn clean deploy -P release`
 * go to https://oss.sonatype.org/#stagingRepositories
 * scroll to the bottom, select latest version, and click `Release`
-* `git tag vx.y`
-* `git push origin vx.y`
