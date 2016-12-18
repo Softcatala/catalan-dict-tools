@@ -32360,6 +32360,7 @@ hammam=categories: M;fonts: esadir;
 hammudita=categories: MF;fonts: LT;
 hampa=categories: F;fonts: LT;
 handbol=categories: M;fonts: LT;
+handicap=categories: M;fonts: AVL;
 hangar=categories: M;fonts: LT;
 hanksita=categories: F;fonts: LT;
 hansa=categories: F;fonts: LT;
