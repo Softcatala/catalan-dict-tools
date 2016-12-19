@@ -5077,6 +5077,7 @@ erogar=categories: V;model:pregar;fonts:LT
 erolar=categories: V;model:cantar;fonts:LT
 erosionar=categories: V;model:cantar;fonts:LT
 erotitzar=categories: V;model:cantar;fonts:LT
+erradicar=categories: V;model:trencar;fonts:LT
 errar=categories: V;model:cantar;fonts:LT
 eructar=categories: V;model:cantar;fonts:LT
 erupcionar=categories: V;model:cantar;fonts: termcat, esadir;

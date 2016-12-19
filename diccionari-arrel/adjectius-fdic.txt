@@ -8703,6 +8703,7 @@ erosiu erosiva=categories: A;fonts: LT;
 erotogen erotògena=categories: A;fonts: LT;
 erotòman erotòmana=categories: A;fonts: LT;
 errabund errabunda=categories: A;fonts: LT;
+erradicatiu erradicativa=categories: A;fonts: IEC;
 errador erradora=categories: A;fonts: LT;
 erradívol erradívola=categories: A;fonts: LT;
 errant=categories: A;fonts: LT;

@@ -23840,6 +23840,7 @@ erotòman=categories: M;fonts: LT;
 erotòmana=categories: F;fonts: LT;
 erra=categories: F;fonts: LT;
 errada=categories: F;fonts: LT;
+erradicació=categories: F;fonts: IEC;
 errament=categories: M;fonts: LT;
 errant=categories: M;fonts: LT;
 errata=categories: F;fonts: LT;
