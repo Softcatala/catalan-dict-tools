@@ -60012,6 +60012,7 @@ tarongera=categories: F;fonts: LT;
 tarongeral=categories: M;fonts: LT;
 tarongerar=categories: M;fonts: LT;
 tarongereda=categories: F;fonts: LT;
+tarongeta=categories: MF;fonts: diminutiu;
 tarongina=categories: F;fonts: LT;
 tarongí=categories: M;fonts: LT;
 taronja=categories: MF;fonts: LT;

@@ -2281,6 +2281,7 @@ Aïr Aïr NPCSG00
 Aķtöbe Aķtöbe NPCSG00
 Aškhabad Aškhabad NPCSG00
 BBC BBC NPFSO00
+BBVA BBVA NPMSO00
 BCE BCE NPMSO00
 BMW BMW NPCNO00
 BOE BOE NPMSO00
@@ -2535,6 +2536,7 @@ Bangui Bangui NPCSG00
 Bangweulu Bangweulu NPCSG00
 Bani Bani NPCSG00
 Banjul Banjul NPCSG00
+Bankia Bankia NPFSO00
 Bankinter Bankinter NPCNO00
 Banksy Banksy NPMSSP0
 Banquells Banquells NPCNSP0
