@@ -1518,7 +1518,6 @@ calcular=categories: V;model:cantar;fonts:LT
 caldejar=categories: V;model:envejar;fonts:LT
 caldre=categories: V;model:caldre;fonts:LT
 calefactar=categories: V;model:cantar;fonts:LT
-calendaritzar=categories: V;model:cantar;fonts:LT
 calentejar=categories: V;model:envejar;fonts:LT
 calfar=categories: V;model:cantar;fonts:LT
 calibrar=categories: V;model:cantar;fonts:LT
