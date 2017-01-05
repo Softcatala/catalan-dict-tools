@@ -2223,6 +2223,7 @@ salvament salvament RG
 salvatgement salvatgement RG
 sanament sanament RG
 sanguinàriament sanguinàriament RG
+sanitàriament sanitàriament RG
 santament santament RG
 sapientment sapientment RG
 sarcàsticament sarcàsticament RG

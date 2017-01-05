@@ -3778,6 +3778,7 @@ dormitar=categories: V;model:cantar;fonts:LT
 dosar=categories: V;model:cantar;fonts:LT
 dosificar=categories: V;model:trencar;fonts:LT
 dotar=categories: V;model:cantar;fonts:LT
+dotorejar=categories: V;model:envejar;fonts: DNV;
 dragar=categories: V;model:pregar;fonts:LT
 dragear=categories: V;model:crear;fonts:LT
 dramatitzar=categories: V;model:cantar;fonts:LT
