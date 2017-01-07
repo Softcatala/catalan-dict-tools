@@ -19400,6 +19400,7 @@ preclínic preclínica=categories: A;fonts: termcat;
 precolombí precolombina=categories: A;fonts: LT;
 preconcebut preconcebuda=categories: A;fonts: LT;
 preconciliar=categories: A;fonts: LT;
+precongelat precongelada=categories: A;fonts: derivat;
 preconitzador preconitzadora=categories: A;fonts: LT;
 preconstitucional=categories: A;fonts: LT;
 preconstituent=categories: A;fonts: derivat;
