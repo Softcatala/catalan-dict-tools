@@ -5,6 +5,7 @@
 #fusellatge=categories: M;fonts: GDLC (impròpiament);
 #mem=categories: F;fonts: LT, nom de lletra hebrea (poc usual);
 #nic=categories: M;fonts: termcat, AVL (poc usual?);
+#recó=categories: M;fonts: termcat, GDLC; #es confon amb racó
 #ròtol (arcaisme)
 #tabla=categories: M;fonts: instrument hindú (es pot confondre amb taula);
 #tableta=categories: F;fonts: terme de farmàcia, no general;
@@ -53391,7 +53392,6 @@ recàlcul=categories: M;fonts: LT;
 recàrrec=categories: M;fonts: LT;
 recàrrega=categories: F;fonts: LT;
 recés [pl. recessos]=categories: M;fonts: LT;
-recó=categories: M;fonts: LT;
 redacció=categories: F;fonts: LT;
 redactor redactora=categories: MF;fonts: LT;
 redall=categories: M;fonts: LT;
