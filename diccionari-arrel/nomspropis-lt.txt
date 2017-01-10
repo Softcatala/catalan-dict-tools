@@ -5347,6 +5347,7 @@ Ceró Ceró NPCNSP0
 Cesarea Cesarea NPFSG00
 Cesari Cesari NPMSSP0
 Cesaris Cesari NPMPSP0
+Cesc Cesc NPMSSP0
 Cesena Cesena NPCSG00
 Cesenatico Cesenatico NPCSG00
 Cesid Cesid NPMSO00
@@ -6463,6 +6464,7 @@ Dadaab Dadaab NPCSG00
 Daegu Daegu NPCSG00
 Daesh Daesh NPMSO00
 Daewo Daewo NPCNO00
+Dafne Dafne NPFSSP0
 Dagobert Dagobert NPMSSP0
 Dagoberts Dagobert NPMPSP0
 Dagues Dagues NPCNSP0
@@ -6733,6 +6735,7 @@ Devesa Devesa NPCNSP0
 Devesa Devesa NPFSG00
 Deveses Deveses NPFPG00
 Devon Devon NPCSG00
+Dewar Dewar NPCNSP0
 Dexeus Dexeus NPCNSP0
 Dezfūl Dezfūl NPCSG00
 Deó Deó NPCNSP0
@@ -10306,6 +10309,7 @@ Hvannadalshnúkur Hvannadalshnúkur NPCSG00
 Hvítá Hvítá NPCSG00
 Hyderabad Hyderabad NPCSG00
 Hyderābād Hyderābād NPCSG00
+Hyundai Hyundai NPCNO00
 Hágion Hágion NPMSG00
 Hälsingborg Hälsingborg NPCSG00
 Hälsingland Hälsingland NPCSG00
