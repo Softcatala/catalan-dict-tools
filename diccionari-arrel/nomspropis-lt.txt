@@ -20347,8 +20347,7 @@ Terris Terris NPCNSP0
 Terroc Terroc NPCNSP0
 Terrós Terrós NPCNSP0
 Terrús Terrús NPCNSP0
-Tertulians Tertulià NPMPSP0
-Tertulià Tertulià NPMSSP0
+Tertul·lià Tertul·lià NPMSSP0
 Terveu Terveu NPCSG00
 Terça Terça NPCNSP0
 Terçol Terçol NPCNSP0
@@ -20980,6 +20979,7 @@ Trubau Trubau NPCNSP0
 Truc Truc NPCNSP0
 Truells Truells NPCNSP0
 Trueta Trueta NPCNSP0
+Truffaut Truffaut NPCNSP0
 Trujillo Trujillo NPCNSP0
 Trujillo Trujillo NPCSG00
 Trull Trull NPCNSP0

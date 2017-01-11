@@ -9313,6 +9313,7 @@ bonista=categories: MF;fonts: LT;
 bonitolera=categories: F;fonts: LT;
 bonmatinenc bonmatinenca=categories: MF;fonts: LT;
 bonnemaisonial=categories: F;fonts: LT;
+bonobo=categories: M;fonts: GEC;
 bononera=categories: F;fonts: LT;
 bonpassar=categories: M;fonts: LT;
 bonrepostí bonrepostina=categories: MF;fonts: LT;
