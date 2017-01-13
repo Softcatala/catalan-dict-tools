@@ -1197,6 +1197,7 @@ ambidextre ambidextra=categories: A;fonts: LT;
 ambient=categories: A;fonts: LT;
 ambientador ambientadora=categories: A;fonts: LT;
 ambiental=categories: A;fonts: LT;
+ambientalista=categories: A;fonts: GDLC;
 ambigen ambígena=categories: A;fonts: LT;
 ambigu ambigua=categories: A;fonts: LT;
 ambisexual=categories: A;fonts: LT;

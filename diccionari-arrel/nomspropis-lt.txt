@@ -12281,7 +12281,7 @@ Malats Malats NPCNSP0
 Malatya Malatya NPCSG00
 Malavella Malavella NPFSG00
 Malavila Malavila NPCNSP0
-Malawi Malawi NPMSG00
+Malawi Malawi NPCSG00
 Malbec Malbec NPCNSP0
 Malbosc Malbosc NPCNSP0
 Maldives Maldives NPFPG00
