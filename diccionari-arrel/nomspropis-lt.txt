@@ -16149,10 +16149,6 @@ Planeses Planeses NPCSG00
 Planils Planils NPCSG00
 Planiol Planiol NPCNSP0
 Planoles Planoles NPCSG00
-Planols Planols NPCNSP0
-Plans Plans NPCNSP0
-Plans Plans NPMPG00
-Plantada Plantada NPCNSP0
 Plantadís Plantadís NPMSG00
 Plantalamor Plantalamor NPCSG00
 Plantalec Plantalec NPCNSP0
