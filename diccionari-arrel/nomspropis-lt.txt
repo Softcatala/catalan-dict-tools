@@ -1,6 +1,7 @@
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 ACNUR ACNUR NPMSO00
+ATM ATM NPFSO00
 AVE AVE NPMNO00
 AVL AVL NPFSO00
 Aalborg Aalborg NPCSG00
@@ -1721,6 +1722,7 @@ Ardiaca Ardiaca NPCNSP0
 Ardit Ardit NPCNSP0
 Ardoné Ardoné NPCSG00
 Ards Ards NPCSG00
+Arduino Arduino NPCNO00
 Arduix Arduix NPCSG00
 Ardèche Ardèche NPCSG00
 Ardèvol Ardèvol NPCNSP0
@@ -5376,6 +5378,7 @@ Champlain Champlain NPCSG00
 Chancelade Chancelade NPCSG00
 Chandigarh Chandigarh NPCSG00
 Chandrapur Chandrapur NPCSG00
+Chanel Chanel NPCNSP0
 Changchun Changchun NPCSG00
 Changhua Changhua NPCSG00
 Changji Changji NPCSG00
@@ -7840,6 +7843,7 @@ FAI FAI NPFSO00
 FAO FAO NPFSO00
 FARC FARC NPFPO00
 FBI FBI NPMSO00
+FGC FGC NPMPO00
 FIAT FIAT NPFSO00
 FIBA FIBA NPFSO00
 FIFA FIFA NPFSO00
@@ -10852,6 +10856,7 @@ Juneau Juneau NPCSG00
 Juneda Juneda NPCNSP0
 Juneda Juneda NPFSG00
 Jungfrau Jungfrau NPCSG00
+Junqueras Junqueras NPCNSP0
 Junyell Junyell NPCNSP0
 Junyell Junyell NPMSG00
 Junyells Junyells NPCNSP0
@@ -11481,6 +11486,7 @@ Leòncia Leòncia NPFSSP0
 Leòncies Leòncia NPFPSP0
 Leònides Leònides NPMPSP0
 Leònides Leònides NPMSSP0
+Leònids Leònids NPMPG00
 León León NPCSG00
 Lhasa Lhasa NPCSG00
 Lhotse Lhotse NPCSG00
@@ -12652,6 +12658,7 @@ Marsitjar Marsitjar NPCNSP0
 Marta Marta NPFSSP0
 Martell Martell NPCNSP0
 Martellago Martellago NPCSG00
+Martenot Martenot NPCNSP0
 Martes Marta NPFPSP0
 Martigny Martigny NPCSG00
 Martigues Martigues NPCSG00
@@ -15859,6 +15866,7 @@ Perpunter Perpunter NPCNSP0
 Perpètua Perpètua NPFSSP0
 Perpètues Perpètua NPFPSP0
 Perramon Perramon NPCNSP0
+Perseids Perseids NPMPG00
 Perseu Perseu NPCSG00
 Perseveranda Perseveranda NPFSSP0
 Perseverandes Perseveranda NPFPSP0
@@ -19925,6 +19933,7 @@ Sōka Sōka NPCSG00
 T'aichung T'aichung NPCSG00
 T'ainan T'ainan NPCSG00
 T'aipei T'aipei NPCSG00
+TMB TMB NPMPO00
 TV3 TV3 NPFSO00
 TVE TVE NPFSO00
 Ta'izz Ta'izz NPCSG00
