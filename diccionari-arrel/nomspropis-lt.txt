@@ -2513,6 +2513,7 @@ Balutxistan-Sistan Balutxistan-Sistan NPCSG00
 Balué Balué NPCNSP0
 Balzac Balzac NPCNSP0
 Balàfia Balàfia NPCSG00
+Balàkirev Balàkirev NPCNPSP0
 Balç Balç NPCNSP0
 Bam Bam NPCSG00
 Bamako Bamako NPCSG00
@@ -7979,6 +7980,7 @@ Faulkner Faulkner NPCNSP0
 Fauló Fauló NPCNSP0
 Faura Faura NPCNSP0
 Faura Faura NPFSG00
+Fauré Fauré NPCNPSP0
 Faust Faust NPCNSP0
 Faust Faust NPMSSP0
 Fausta Fausta NPFSSP0
@@ -10193,6 +10195,7 @@ Homs Homs NPCSG00
 Honda Honda NPCNO00
 Hondarribia Hondarribia NPCSG00
 Hondures Hondures NPFSG00
+Honegger Honegger NPCNSP0
 Honest Honest NPMSSP0
 Honests Honest NPMPSP0
 Hong-Kong Hong-Kong NPCSG00
@@ -17463,6 +17466,7 @@ Requesens Requesens NPCNSP0
 Requesens Requesens NPCSG00
 Resclosa Resclosa NPCNSP0
 Resina Resina NPCSG00
+Respighi Respighi NPCNSP0
 Restitut Restitut NPMSSP0
 Restituta Restituta NPFSSP0
 Restitutes Restituta NPFPSP0
