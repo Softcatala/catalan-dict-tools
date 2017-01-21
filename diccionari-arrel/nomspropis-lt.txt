@@ -3543,6 +3543,7 @@ Boccaccio Boccaccio NPCNSP0
 Bocchorum Bocchorum NPCSG00
 Bochum Bochum NPCSG00
 Bodemon Bodemon NPCNSP0
+Bodoni Bodoni NPCNSP0
 Bodria Bodria NPCNSP0
 Bodí Bodí NPCNSP0
 Bodø Bodø NPCSG00
@@ -5031,6 +5032,7 @@ Casinos Casinos NPCSG00
 Casiquiare Casiquiare NPCSG00
 Casis Casi NPMPSP0
 Casivanyes Casivanyes NPCSG00
+Caslon Caslon NPCNSP0
 Casolà Casolà NPCNSP0
 Casoria Casoria NPCSG00
 Casotes Casotes NPFPG00
@@ -8889,6 +8891,7 @@ Gap Gap NPCSG00
 Garaikoetxea Garaikoetxea NPCNSP0
 Garait Garait NPCSG00
 Garalda Garalda NPCNSP0
+Garamond Garamond NPCNSP0
 Garangou Garangou NPCNSP0
 Garanguell Garanguell NPCNSP0
 Garanguer Garanguer NPCNSP0
@@ -9311,6 +9314,7 @@ Gisela Gisela NPFSSP0
 Giseles Gisela NPFPSP0
 Gispert Gispert NPCNSP0
 Gistaín Gistaín NPCSG00
+GitHub GitHub NPMSO00
 Givors Givors NPCSG00
 Gizeh Gizeh NPCSG00
 Gjirokaster Gjirokaster NPCSG00

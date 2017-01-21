@@ -1901,6 +1901,7 @@ antiradar=categories: AI;fonts: LT;
 antiradiació=categories: AI;fonts: LT;
 antiradical=categories: A;fonts: LT;
 antiraquític antiraquítica=categories: A;fonts: LT;
+antirealista=categories: A;fonts: derivat, DDLC;
 antireflector antireflectora=categories: A;fonts: LT;
 antireglamentari antireglamentària=categories: A;fonts: LT;
 antireialista=categories: A;fonts: derivat;
