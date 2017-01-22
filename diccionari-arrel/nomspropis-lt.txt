@@ -17864,6 +17864,7 @@ Romualds Romuald NPMPSP0
 Romà Romà NPCNSP0
 Romà Romà NPMSSP0
 Romània Romània NPFSG00
+Romànov Romànov NPCNSP0
 Ronchamp Ronchamp NPCSG00
 Ronda Ronda NPFSG00
 Rondônia Rondônia NPCSG00

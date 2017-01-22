@@ -5311,6 +5311,7 @@ escollir=categories: V;model:escollir;fonts:LT
 escoltar=categories: V;model:cantar;fonts:LT
 escombrar=categories: V;model:cantar;fonts:LT
 escombregar=categories: V;model:pregar;fonts:LT
+escomençar=categories: V;model:començar;fonts: DNV;
 escometre=categories: V;model:admetre;fonts:LT
 escondir=categories: V;model:servir;fonts:LT
 esconillar=categories: V;model:cantar;fonts:LT
