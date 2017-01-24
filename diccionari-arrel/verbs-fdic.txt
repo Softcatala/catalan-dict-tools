@@ -6725,6 +6725,7 @@ intranquil·litzar=categories: V;model:cantar;fonts:LT
 intricar=categories: V;model:trencar;fonts:LT
 intrigar=categories: V;model:pregar;fonts:LT
 introduir=categories: V;model:traduir;fonts:LT
+introjectar=categories: V;model:cantar;fonts: termcat;
 introvertir=categories: V;model:servir;fonts:LT
 intruir=categories: V;model:traduir;fonts:LT
 intubar=categories: V;model:cantar;fonts:LT
