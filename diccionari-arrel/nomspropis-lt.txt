@@ -6435,7 +6435,6 @@ Cèsar Cèsar NPMSSP0
 Cèsars Cèsar NPMPSP0
 Cérilly Cérilly NPCSG00
 Cérvoles Cérvoles NPCSG00
-César César NPCSG00
 Cézanne Cézanne NPCNSP0
 Cízic Cízic NPCSG00
 Còdol Còdol NPCNSP0

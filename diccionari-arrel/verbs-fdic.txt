@@ -409,6 +409,7 @@ agrupar=categories: V;model:cantar;fonts:LT
 aguaitar=categories: V;model:cantar;fonts:LT
 aguantar=categories: V;model:cantar;fonts:LT
 aguar=categories: V;model:aguar;fonts:LT
+aguardar=categories: V;model:cantar;fonts: DNV;
 aguditzar=categories: V;model:cantar;fonts:LT
 aguerrir=categories: V;model:servir;fonts:LT
 aguisar=categories: V;model:abalisar;fonts:LT
