@@ -17536,6 +17536,7 @@ optomètric optomètrica=categories: A;fonts: LT;
 opugnable=categories: A;fonts: LT;
 opugnador opugnadora=categories: A;fonts: LT;
 opulent opulenta=categories: A;fonts: LT;
+opusdeista=categories: A;fonts: esadir;
 opípar opípara=categories: A;fonts: LT;
 oracional=categories: A;fonts: LT;
 oracioner oracionera=categories: A;fonts: LT;
