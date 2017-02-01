@@ -17009,6 +17009,7 @@ Quartell Quartell NPCNSP0
 Quartell Quartell NPCSG00
 Quarts Quart NPMPSP0
 Quarts Quarts NPCSG00
+Quasimodo Quasimodo NPMSSP0
 Quatrecases Quatrecases NPCNSP0
 Quatrecorts Quatrecorts NPCSG00
 Quatretonda Quatretonda NPFSG00
