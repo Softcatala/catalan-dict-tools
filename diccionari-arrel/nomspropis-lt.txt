@@ -1575,6 +1575,7 @@ Apel·les Apel·les NPMPSP0
 Apel·les Apel·les NPMSSP0
 Apenins Apenins NPMPG00
 Apení Apenins NPMSG00
+Apertium Apertium NPMSO00
 Apia Apia NPCSG00
 Apians Apià NPMPSP0
 Apià Apià NPMSSP0
