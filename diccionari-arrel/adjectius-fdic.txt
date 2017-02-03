@@ -13510,6 +13510,7 @@ intergrupal=categories: A;fonts: derivat;
 intergènic intergènica=categories: A;fonts: LT;
 interindividual=categories: A;fonts: LT;
 interindividualista=categories: A;fonts: LT;
+interinstitucional=categories: A;fonts: derivat;
 interinsular=categories: A;fonts: DDLC;
 interior=categories: A;fonts: LT;
 interiorista=categories: A;fonts: LT;

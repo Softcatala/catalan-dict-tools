@@ -64678,6 +64678,7 @@ vespra=categories: F;fonts: LT;
 vesprada=categories: F;fonts: LT;
 vespre=categories: M;fonts: LT;
 vesquercí=categories: M;fonts: LT;
+vessa=categories: FS;fonts: DNV;
 vessada=categories: F;fonts: LT;
 vessador=categories: M;fonts: LT;
 vessadures=categories: FP;fonts: LT;
