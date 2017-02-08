@@ -13667,6 +13667,7 @@ intraslladable=categories: A;fonts: LT;
 intratecal=categories: A;fonts: LT;
 intratel·lúric intratel·lúrica=categories: A;fonts: LT;
 intratextual=categories: A;fonts: LT;
+intraurbà intraurbana=categories: A;fonts: derivat;
 intrauterí intrauterina=categories: A;fonts: LT;
 intravascular=categories: A;fonts: termcat;
 intravenós intravenosa=categories: A;fonts: LT;
