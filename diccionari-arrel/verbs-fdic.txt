@@ -3480,6 +3480,7 @@ despopar=categories: V;model:cantar;fonts:LT
 desportellar=categories: V;model:cantar;fonts:LT
 desposseir=categories: V;model:traduir;fonts:LT
 despreciar=categories: V;model:crear;fonts:LT
+desprecintar=categories: V;model:cantar;fonts: dfrequencies;
 desprendre=categories: V;model:ofendre;fonts:LT
 despreocupar=categories: V;model:cantar;fonts:LT
 despressuritzar=categories: V;model:cantar;fonts:LT

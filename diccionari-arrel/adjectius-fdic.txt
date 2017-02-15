@@ -22030,6 +22030,7 @@ semipentinat semipentinada=categories: A;fonts: LT;
 semipermanent=categories: A;fonts: LT;
 semipermeable=categories: A;fonts: LT;
 semipersonalitzat semipersonalitzada=categories: A;fonts: LT;
+semipesant=categories: A;fonts: termcat;
 semiplè semiplena=categories: A;fonts: LT;
 semipotençat semipotençada=categories: A;fonts: LT;
 semipreciós semipreciosa=categories: A;fonts: LT;
