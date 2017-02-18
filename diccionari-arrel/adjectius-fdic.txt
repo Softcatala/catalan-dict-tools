@@ -7458,6 +7458,7 @@ dimissionari dimissionària=categories: A;fonts: LT;
 dimitent=categories: A;fonts: LT;
 dimonial=categories: A;fonts: LT;
 dimorf dimorfa=categories: A;fonts: LT;
+dimètric dimètrica=categories: A;fonts: termcat;
 dinal=categories: A;fonts: LT;
 dinamista=categories: A;fonts: LT;
 dinamitzador dinamitzadora=categories: A;fonts: LT;
