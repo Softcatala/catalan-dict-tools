@@ -172,6 +172,8 @@ apenar
 apenada
 apretar
 apretada
+atronar
+atronador
 barco
 bovo
 cego

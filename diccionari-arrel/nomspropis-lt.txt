@@ -5354,6 +5354,7 @@ Cesarea Cesarea NPFSG00
 Cesari Cesari NPMSSP0
 Cesaris Cesari NPMPSP0
 Cesc Cesc NPMSSP0
+Cesca Cesc NPFSSP0
 Cesena Cesena NPCSG00
 Cesenatico Cesenatico NPCSG00
 Cesid Cesid NPMSO00
@@ -10305,6 +10306,7 @@ Humiliana Humiliana NPFSSP0
 Humilianes Humiliana NPFPSP0
 Hunan Hunan NPCSG00
 Hunedoara Hunedoara NPCSG00
+Hunspell Hunspell NPCNO00
 Hunsrück Hunsrück NPCSG00
 Hunter Hunter NPCSG00
 Huntington Huntington NPCSG00
@@ -14961,6 +14963,7 @@ Oosterbeek Oosterbeek NPCSG00
 Opatija Opatija NPCSG00
 Opava Opava NPCSG00
 OpenOffice OpenOffice NPMSO00
+OpenType OpenType NPCNO00
 Opole Opole NPCSG00
 Optat Optat NPMSSP0
 Optats Optat NPMPSP0
@@ -15923,6 +15926,7 @@ Petra Petra NPFSG00
 Petrarca Petrarca NPMSSP0
 Petrer Petrer NPCSG00
 Petrinja Petrinja NPCSG00
+Petritxol Petritxol NPMSG00
 Petrodvorec Petrodvorec NPCSG00
 Petroni Petroni NPMSSP0
 Petronis Petroni NPMPSP0
@@ -20240,6 +20244,7 @@ Teià Teià NPCSG00
 Tel-Aviv-Yafō Tel-Aviv-Yafō NPCSG00
 Telde Telde NPCSG00
 Telemadrid Telemadrid NPFSO00
+Telentrada Telentrada NPMSO00
 Telescopi Telescopi NPMSG00
 Telesfor Telesfor NPMSSP0
 Telesfors Telesfor NPMPSP0
@@ -20993,6 +20998,7 @@ Trotski Trotski NPCNSP0
 Troyes Troyes NPCSG00
 Trubau Trubau NPCNSP0
 Truc Truc NPCNSP0
+TrueType TrueType NPCNO00
 Truells Truells NPCNSP0
 Trueta Trueta NPCNSP0
 Truffaut Truffaut NPCNSP0
