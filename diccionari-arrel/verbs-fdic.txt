@@ -2199,6 +2199,7 @@ criaturejar=categories: V;model:envejar;fonts:LT
 cribrar=categories: V;model:cantar;fonts:LT
 cridar=categories: V;model:cantar;fonts:LT
 criminalitzar=categories: V;model:cantar;fonts:LT
+crioconservar=categories: V;model:cantar;fonts:termcat;
 criogenitzar=categories: V;model:cantar;fonts: derivat;
 criptografiar=categories: V;model:crear;fonts:LT
 crismar=categories: V;model:cantar;fonts:LT

@@ -18293,6 +18293,7 @@ pehlvi=categories: AM;fonts: LT;
 peitaví peitavina=categories: A;fonts: LT;
 peitoví peitovina=categories: A;fonts: LT;
 peixard peixarda=categories: A;fonts: LT;
+peixmerga=categories: A;fonts: esadir;
 pejoratiu pejorativa=categories: A;fonts: LT;
 pelable=categories: A;fonts: LT;
 pelador peladora=categories: A;fonts: LT;
