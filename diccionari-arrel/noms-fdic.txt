@@ -50127,6 +50127,7 @@ postic=categories: M;fonts: LT;
 postilló=categories: M;fonts: LT;
 postil·la=categories: F;fonts: LT;
 postimatge=categories: F;fonts: LT;
+postimperialisme=categories: M;fonts: derivat;
 postimpressionisme=categories: M;fonts: LT;
 postimpressionista=categories: MF;fonts: LT;
 postimpressió=categories: FS;fonts: derivat;

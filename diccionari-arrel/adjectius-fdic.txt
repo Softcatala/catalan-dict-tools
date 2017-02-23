@@ -19314,6 +19314,7 @@ posteruptiu posteruptiva=categories: A;fonts: termcat;
 postfranquista=categories: A;fonts: LT;
 postglacial=categories: A;fonts: LT;
 postglossador postglossadora=categories: A;fonts: LT;
+postimperialista=categories: A;fonts: derivat;
 postimpressionista=categories: A;fonts: LT;
 postindustrial=categories: A;fonts: LT;
 postinflamatori postinflamatòria=categories: A;fonts: termcat;
