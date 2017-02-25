@@ -2514,7 +2514,7 @@ Balutxistan-Sistan Balutxistan-Sistan NPCSG00
 Balué Balué NPCNSP0
 Balzac Balzac NPCNSP0
 Balàfia Balàfia NPCSG00
-Balàkirev Balàkirev NPCNPSP0
+Balàkirev Balàkirev NPCNSP0
 Balç Balç NPCNSP0
 Bam Bam NPCSG00
 Bamako Bamako NPCSG00
@@ -7983,7 +7983,7 @@ Faulkner Faulkner NPCNSP0
 Fauló Fauló NPCNSP0
 Faura Faura NPCNSP0
 Faura Faura NPFSG00
-Fauré Fauré NPCNPSP0
+Fauré Fauré NPCNSP0
 Faust Faust NPCNSP0
 Faust Faust NPMSSP0
 Fausta Fausta NPFSSP0
