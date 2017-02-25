@@ -8096,6 +8096,7 @@ quadruplicar=categories: V;model:trencar;fonts:LT
 qualificar=categories: V;model:trencar;fonts:LT
 quallar=categories: V;model:cantar;fonts:LT
 quantificar=categories: V;model:trencar;fonts:LT
+quantitzar=categories: V;model:cantar;fonts: termcat;
 quarantejar=categories: V;model:envejar;fonts:LT
 quartar=categories: V;model:cantar;fonts:LT
 quartejar=categories: V;model:envejar;fonts:LT

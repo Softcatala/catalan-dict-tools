@@ -18020,6 +18020,7 @@ Ruberts Ruberts NPCSG00
 Rubials Rubials NPCSG00
 Rubicó Rubicó NPCSG00
 Rubies Rubies NPCNSP0
+Rubik Rubik NPCNSP0
 Rubinat Rubinat NPCNSP0
 Rubinat Rubinat NPCSG00
 Rubiol Rubiol NPCNSP0
