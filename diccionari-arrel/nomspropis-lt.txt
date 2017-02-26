@@ -3187,6 +3187,7 @@ Berdinac Berdinac NPCNSP0
 Berdjanske Berdjanske NPCSG00
 Berdyčiv Berdyčiv NPCSG00
 Berea Berea NPCSG00
+Beremund Beremund NPMSSP0
 Berenguer Berenguer NPCNSP0
 Berenguer Berenguer NPMSSP0
 Berenguera Berenguera NPCNSP0
@@ -3248,7 +3249,6 @@ Bernat Bernat NPMSSP0
 Bernatjoan Bernatjoan NPCNSP0
 Bernats Bernat NPMPSP0
 Bernburg Bernburg NPCSG00
-Bernia Bernia NPCNSP0
 Bernial Bernial NPCNSP0
 Bernic Bernic NPCNSP0
 Bernina Bernina NPCSG00
@@ -21737,8 +21737,6 @@ Verdós Verdós NPCNSP0
 Verdú Verdú NPCNSP0
 Verdú Verdú NPCSG00
 Vereeniging Vereeniging NPCSG00
-Veremund Veremund NPMSSP0
-Veremunds Veremund NPMPSP0
 Verga Verga NPCNSP0
 Verge Verge NPCNSP0
 Verge Verge NPFSG00
