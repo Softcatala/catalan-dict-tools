@@ -2181,6 +2181,7 @@ Aureli Aureli NPMSSP0
 Aurelians Aurelià NPMPSP0
 Aurelis Aureli NPMPSP0
 Aurelià Aurelià NPMSSP0
+Aurembiaix Aurembiaix NPFSSP0
 Auremund Auremund NPMSSP0
 Auremunds Auremund NPMPSP0
 Aurenja Aurenja NPCSG00
@@ -2821,6 +2822,7 @@ Batló Batló NPCNSP0
 Batman Batman NPMSSP0
 Batna Batna NPCSG00
 Batoi Batoi NPMSG00
+Battenberg Battenberg NPCNSP0
 Batticaloa Batticaloa NPCSG00
 Battipaglia Battipaglia NPCSG00
 Batumi Batumi NPCSG00
@@ -14226,6 +14228,7 @@ Nabiners Nabiners NPCNSP0
 Nabiners Nabiners NPCSG00
 Nablus Nablus NPCSG00
 Nabucco Nabucco NPMSSP0
+Nabucodonosor Nabucodonosor NPMSSP0
 Nabókov Nabókov NPCNSP0
 Nacla Nacla NPCSG00
 Nadal Nadal NPCNSP0
