@@ -6425,6 +6425,7 @@ guerrejar=categories: V;model:envejar;fonts:LT
 guerxar=categories: V;model:cantar;fonts:LT
 guerxejar=categories: V;model:envejar;fonts:LT
 guetitzar=categories: V;model:cantar;fonts: termcat;
+malignitzar=categories: V;model:cantar;fonts: DDLC;
 guiar=categories: V;model:crear;fonts:LT
 guillar=categories: V;model:cantar;fonts:LT
 guilloixar=categories: V;model:cantar;fonts:LT
