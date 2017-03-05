@@ -11601,6 +11601,7 @@ canicultura=categories: F;fonts: LT;
 canilla=categories: F;fonts: LT;
 canillenc canillenca=categories: MF;fonts: LT;
 canillera=categories: F;fonts: LT;
+cannabinoide=categories: M;fonts: termcat;
 cannabinol=categories: M;fonts: LT;
 cannabiosi=categories: F;fonts: LT;
 cannabisme=categories: M;fonts: LT;
