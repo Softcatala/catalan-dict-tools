@@ -15382,6 +15382,7 @@ mater matera=categories: A;fonts: LT;
 material=categories: A;fonts: LT;
 materialista=categories: A;fonts: LT;
 materialitzable=categories: A;fonts: derivat;
+materialitzador materialitzadora=categories: A;fonts: DDLC;
 matern materna=categories: A;fonts: LT;
 maternal=categories: A;fonts: LT;
 maternofilial=categories: A;fonts: derivat;
