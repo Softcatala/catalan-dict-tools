@@ -9435,7 +9435,6 @@ Gordó Gordó NPCNSP0
 Gore-Tex Gore-Tex NPCNO00
 Goretti Goretti NPMSSP0
 Gorettis Goretti NPMPSP0
-Gorg Gorg NPCNSP0
 Gorga Gorga NPCNSP0
 Gorga Gorga NPCSG00
 Gorgal Gorgal NPCNSP0
@@ -14387,11 +14386,7 @@ Neckar Neckar NPCSG00
 Nefiac Nefiac NPCSG00
 Neftalí Neftalí NPMSSP0
 Negrals Negrals NPMPG00
-Negre Negre NPCNSP0
 Negrell Negrell NPCNSP0
-Negro Negro NPCSG00
-Negros Negros NPCSG00
-Negros Negros NPMPG00
 Negrón Negrón NPCSG00
 Nehemies Nehemies NPMSSP0
 Neijiang Neijiang NPCSG00
