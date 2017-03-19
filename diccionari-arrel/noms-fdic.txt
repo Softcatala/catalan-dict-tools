@@ -19466,6 +19466,7 @@ desfutrell=categories: M;fonts: LT;
 desgana=categories: F;fonts: LT;
 desgasador=categories: M;fonts: LT;
 desgasament=categories: M;fonts: LT;
+desgasificació=categories: F;fonts: termcat;
 desgasolinatge=categories: M;fonts: LT;
 desgast=categories: M;fonts: LT;
 desgavell=categories: M;fonts: LT;
