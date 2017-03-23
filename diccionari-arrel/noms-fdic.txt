@@ -32644,6 +32644,7 @@ hemisferoide=categories: F;fonts: LT;
 hemisoma=categories: M;fonts: LT;
 hemistiqui=categories: M;fonts: LT;
 hemitropia=categories: F;fonts: LT;
+hemitòrax=categories: M;fonts: termcat;
 hemizigosi=categories: F;fonts: LT;
 hemizigot=categories: M;fonts: LT;
 hemièdria=categories: F;fonts: LT;
