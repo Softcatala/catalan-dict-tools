@@ -20337,6 +20337,7 @@ Terradelles Terradelles NPCNSP0
 Terradelles Terradelles NPCSG00
 Terrades Terrades NPCNSP0
 Terrades Terrades NPCSG00
+Terradets Terradets NPMPG00
 Terrador Terrador NPCNSP0
 Terrafeta Terrafeta NPCNSP0
 Terrafort Terrafort NPCSG00
