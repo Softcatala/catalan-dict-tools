@@ -2,7 +2,7 @@
 #                              Corrector ortogràfic català
 #                          Fitxer d'afixos i llista de paraules
 # =======================================================================================
-#                                Versió 9.9.9 (15-03-2017)
+#                                Versió 9.9.9 (30-03-2017)
 # =======================================================================================
 # Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
 # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
@@ -4019,7 +4019,7 @@ SFX 25 ir eixin/_C ir
 SFX 25 r n/_C ir
 
 # Model de conjugació: cabre
-SFX 26 Y 71
+SFX 26 Y 74
 SFX 26 re er/_v_C_Y re
 SFX 26 e e/_v_D_Y re
 SFX 26 re ent/_C re
@@ -4065,7 +4065,9 @@ SFX 26 abre àpies/_Z re
 SFX 26 abre àpiga/_Z re
 SFX 26 abre àpia/_Z re
 SFX 26 bre piguem/_Z re
+SFX 26 bre piem/_Z re
 SFX 26 bre pigueu/_Z re
+SFX 26 bre pieu/_Z re
 SFX 26 abre àpiguen/_Z re
 SFX 26 abre àpien/_Z re
 SFX 26 re és/_Z re
@@ -4088,6 +4090,7 @@ SFX 26 bre p/_C re
 SFX 26 abre àpiga/_D re
 SFX 26 abre àpia/_D re
 SFX 26 bre piguem/_C re
+SFX 26 bre piem/_C re
 SFX 26 re eu/_C re
 SFX 26 abre àpiguen/_C re
 SFX 26 abre àpien/_C re

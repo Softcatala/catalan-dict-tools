@@ -1,4 +1,4 @@
-133097
+133139
 10a
 10es
 10ns
@@ -7416,6 +7416,7 @@ FM
 FMI
 FNAC
 FP
+FTP
 Fabi
 Fabians
 Fabiola
@@ -8867,7 +8868,6 @@ Gordó
 Gore-Tex
 Goretti
 Gorettis
-Gorg
 Gorga
 Gorgal
 Gorgol
@@ -13532,10 +13532,7 @@ Neckar
 Nefiac
 Neftalí
 Negrals
-Negre
 Negrell
-Negro
-Negros
 Negrón
 Nehemies
 Neijiang
@@ -19067,6 +19064,7 @@ Terradell
 Terradella
 Terradelles
 Terrades
+Terradets
 Terrador
 Terrafeta
 Terrafort
@@ -22443,6 +22441,7 @@ accidentògena/_V_Y
 accidiosa/_V_Y
 accidiós/_J_V_Y
 accidència/_E_V_Y
+accionable/_E_V_Y
 accionada/_V
 accionalisme/_E_V_Y
 accionalista/_E_V_Y
@@ -24526,6 +24525,8 @@ afrodisíaca/_V_Y
 afrodita/_E_V_Y
 afrodísia/_E_V_Y
 afrodítid/_E_V_Y
+afroeuropea/_V_Y
+afroeuropeu/_K_V_Y
 afront/_E_V_Y
 afrontació/_G_V_Y
 afrontada/_V
@@ -25035,6 +25036,7 @@ agroecològic/_F_V_Y
 agroecològica/_V_Y
 agroecosistema/_E_V_Y
 agroenergètica/_E_V_Y
+agroforestal/_E_V_Y
 agrogeologia/_E_V_Y
 agroindustrial/_E_V_Y
 agroindústria/_E_V_Y
@@ -28124,6 +28126,7 @@ ampleloteràpia/_E_V_Y
 amplexicaule/_E_V_Y
 amplexiforme/_E_V_Y
 ampli/_V_Y
+ampliabilitat/_E_V_Y
 ampliable/_E_V_Y
 ampliació/_G_V_Y
 ampliada/_V
@@ -37772,6 +37775,7 @@ beró/_H
 bes/_I
 besaculs
 besada/_E
+besadeta/_E
 besador/_F
 besadura/_E
 besaluenc/_F
@@ -44825,6 +44829,7 @@ cerca-renous
 cerca-renyines
 cerca-revolts
 cerca/_E
+cercable/_E
 cercabregues
 cercacables
 cercadits
@@ -44980,6 +44985,11 @@ cervianenc/_F
 cervical/_E
 cervicitis
 cervicoartrosi/_E
+cervicobraquial/_E
+cervicobraquiàlgia/_E
+cervicodorsal/_E
+cervicofacial/_E
+cervicooccipital/_E
 cervicàlgia/_E
 cervina/_E
 cerviola/_E
@@ -46169,6 +46179,7 @@ clofibrat/_E
 clofoll/_E
 clofolla/_E
 clofollós/_J
+cloisonnisme
 clomifè/_G
 clon/_E
 clonació/_G
@@ -50323,9 +50334,11 @@ crancelí/_G
 crani/_E
 cranial/_E
 craniat/_B
+craniocaudal/_E
 cranioencefàlic/_F
 craniofacial/_E
 craniomalàcia/_E
+craniomandibular/_E
 craniometria/_E
 craniomètric/_F
 cranioplàstia/_E
@@ -53016,6 +53029,7 @@ desacidificació/_G
 desacidificar/92
 desaclimatació/_G
 desaclimatar/00
+desacoblable/_E
 desacoblament/_E
 desacoblar/00
 desacollir/0A
@@ -54525,6 +54539,7 @@ desgarronar/00
 desgasador/_E
 desgasament/_E
 desgasar/1D
+desgasificació/_G
 desgasolinatge/_E
 desgast/_E
 desgastador/_F
@@ -55162,6 +55177,7 @@ desplantada/_E
 desplantar/00
 desplaure/30
 desplaçable/_E
+desplaçador/_E
 desplaçament/_E
 desplaçar/2E
 desplaïment/_E
@@ -57735,6 +57751,7 @@ duaner/_E
 duaner/_F
 duanera/_E
 duar/_E
+duatleta/_E
 duatló/_G
 dubitació/_G
 dubitar/00
@@ -57901,6 +57918,7 @@ dèspota/_E
 dèsset
 dèsset/_E
 dèutzia/_E
+déjà-vu/_E
 déna/_E
 déntol/_E
 déu/_E
@@ -74776,6 +74794,7 @@ fraguera/_E
 fragància/_E
 fragària/_E
 fragós/_J
+framboidal/_E
 frambèsia/_E
 framenor/_E
 framiré/_E
@@ -79330,6 +79349,8 @@ harmonista/_E_V_Y
 harmonitzable/_E_V_Y
 harmonització/_G_V_Y
 harmonitzada/_V
+harmonitzador/_F_V_Y
+harmonitzadora/_V_Y
 harmonitzar/28
 harmoniós/_J_V_Y
 harmotoma/_E_V_Y
@@ -79661,6 +79682,7 @@ hemisimètrica/_V_Y
 hemisoma/_E_V_Y
 hemistiqui/_E_V_Y
 hemitropia/_E_V_Y
+hemitòrax/_E_V_Y
 hemizigosi/_E_V_Y
 hemizigot/_E_V_Y
 hemièdria/_E_V_Y
@@ -81050,6 +81072,7 @@ hispànic/_F_V_Y
 hispídul/_F_V_Y
 hissar/24
 histamina/_E_Y
+histaminasa/_E_Y
 histerectomia/_E_Y
 histerial/_E_Y
 histerisme/_E_V_Y
@@ -83446,6 +83469,7 @@ independentista/_E_V_Y
 independentment/_Y_V
 independitzar/28
 independència/_E_Y
+inderogabilitat/_E_Y
 inderogable/_E_V_Y
 indescomponible/_E_V_Y
 indescriptible/_E_V_Y
@@ -83523,6 +83547,7 @@ indiget/_E_V_Y
 indiget/_F_V_Y
 indigeta/_E_Y
 indignació/_G_Y
+indignadíssim/_F_V_Y
 indignament/_Y_V
 indignant/_E_V_Y
 indignar/28
@@ -84067,6 +84092,7 @@ infractor/_F_V_Y
 infractora/_E_Y
 infradiagnosticat/_B_V_Y
 infradotació/_G_Y
+infraespinós/_J_V_Y
 infraestimació/_G_Y
 infraestimar/28
 infraestructura/_E_Y
@@ -84225,6 +84251,7 @@ iniciadora/_E_Y
 inicial/_E_V_Y
 inicial/_E_Y
 inicialització/_G_Y
+inicialitzador/_E_V_Y
 inicialitzar/28
 inicialment/_Y_V
 iniciar/40
@@ -84917,6 +84944,10 @@ intergalàctic/_F_V_Y
 intergeneracional/_E_V_Y
 intergenèric/_F_V_Y
 interglacial/_E_V_Y
+intergluti/_V_Y
+interglutis/_Y
+interglútia/_Y
+interglúties/_Y
 intergovernamental/_E_V_Y
 intergrup/_E_V_Y
 intergrupal/_E_V_Y
@@ -86815,6 +86846,7 @@ labidògnat/_E
 labilitat/_E
 labiodental/_E
 labiofacial/_E
+labioplàstia/_E
 labiovelar/_E
 labiovelarització/_G
 labiovelaritzar/00
@@ -87630,6 +87662,7 @@ lienteria/_E
 lies
 liftar/00
 liftratge/_E
+ligamentoplàstia/_E
 ligamentopèxia/_E
 ligasa/_E
 ligeid/_E
@@ -90555,6 +90588,7 @@ mamma/_E
 mammilinció/_G
 mamografia/_E
 mamona/_E
+mamoplàstia/_E
 mamotejar/52
 mampara/_E
 mamperlà/_G
@@ -91661,6 +91695,7 @@ materialista/_E
 materialitat/_E
 materialitzable/_E
 materialització/_G
+materialitzador/_F
 materialitzar/00
 materialment
 matern/_F
@@ -96223,6 +96258,7 @@ nano/_F
 nanocefàlia/_E
 nanociència/_E
 nanoelectrònica/_E
+nanofibra/_E
 nanoide/_E
 nanomaterial/_E
 nanomètric/_F
@@ -100662,6 +100698,7 @@ osteocondrosi/_E_V_Y
 osteodistròfia/_E_V_Y
 osteodèrmia/_E_V_Y
 osteoencefalitis/_V_Y
+osteofitosi/_E_V_Y
 osteogen/_K_V_Y
 osteoglòssid/_E_V_Y
 osteografia/_E_V_Y
@@ -107548,6 +107585,7 @@ postposar/18
 postprandial/_E
 postprecipitació/_G
 postprocessament/_E
+postprocessar/4F
 postproducció/_G
 postpujolisme/_E
 postpujolista/_E
@@ -108198,6 +108236,7 @@ prepotentment
 prepotència/_E
 preprocessador/_E
 preprocessament/_E
+preprocessar/4F
 preproducció/_G
 preprofessional/_E
 preprogramar/00
@@ -112501,6 +112540,7 @@ reciclar/00
 reciclat/_E
 reciclatge/_E
 recidiva/_E
+recidivant/_E
 recidivar/00
 recidivista/_E
 recinglar/00
@@ -114986,6 +115026,7 @@ reubicar/92
 reuchlinià/_H
 reuma/_E
 reumatisme/_E
+reumatoide/_E
 reumatologia/_E
 reumatològic/_F
 reumatòleg/_K
@@ -122112,6 +122153,7 @@ supraconfessional/_E
 supradialectal/_E
 supraempresarial/_E
 supraescapular/_E
+supraespinós/_J
 supraestatal/_E
 supraestructura/_E
 supraestructural/_E
