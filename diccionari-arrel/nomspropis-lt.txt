@@ -15706,6 +15706,7 @@ Pellisser Pellisser NPCNSP0
 Pellissó Pellissó NPCNSP0
 Pelló Pelló NPCNSP0
 Peloponès Peloponès NPMSG00
+Peloponés Peloponès NPMSG00
 Pelotas Pelotas NPCSG00
 Pelusium Pelusium NPCSG00
 Pelut Pelut NPMSG00

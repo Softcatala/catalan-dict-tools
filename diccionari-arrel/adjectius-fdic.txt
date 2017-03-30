@@ -10566,6 +10566,7 @@ fragmentador fragmentadora=categories: A;fonts: DDLC;
 fragmentari fragmentària=categories: A;fonts: LT;
 fragorós fragorosa=categories: A;fonts: LT;
 fragós fragosa=categories: A;fonts: LT;
+framboidal=categories: A;fonts: termcat;
 franc franca=categories: A;fonts: LT;
 franciscà franciscana=categories: A;fonts: LT;
 francià franciana=categories: A;fonts: LT;
