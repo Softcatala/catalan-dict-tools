@@ -33593,6 +33593,7 @@ històleg històloga=categories: MF;fonts: LT;
 històlisi=categories: F;fonts: LT;
 histònom histònoma=categories: MF;fonts: LT;
 història=categories: F;fonts: LT;
+hit=categories: M;fonts: esadir, anglès;
 hitita=categories: MF;fonts: LT;
 hitleriana=categories: F;fonts: LT;
 hitlerisme=categories: M;fonts: LT;
