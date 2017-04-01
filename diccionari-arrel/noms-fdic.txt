@@ -54717,7 +54717,6 @@ reu=categories: M;fonts: LT;
 reubicació=categories: F;fonts: LT;
 reuma=categories: MF;fonts: LT;
 reumatisme=categories: M;fonts: LT;
-reumatoide=categories: M;fonts: termcat;
 reumatologia=categories: F;fonts: LT;
 reumatòleg reumatòloga=categories: MF;fonts: LT;
 reumàtic=categories: M;fonts: LT;

@@ -21166,6 +21166,7 @@ retòric retòrica=categories: A;fonts: LT;
 retús retusa=categories: A;fonts: LT;
 reu rea=categories: A;fonts: LT;
 reuchlinià reuchliniana=categories: A;fonts: LT;
+reumatoide=categories: A;fonts: termcat;
 reumatològic reumatològica=categories: A;fonts: LT;
 reumàtic reumàtica=categories: A;fonts: LT;
 reunificador reunificadora=categories: A;fonts: LT;
