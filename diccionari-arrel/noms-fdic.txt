@@ -51417,6 +51417,7 @@ pseudo-oòlit=categories: M;fonts: LT;
 pseudoalum=categories: M;fonts: LT;
 pseudoal·lel=categories: M;fonts: LT;
 pseudoal·lelisme=categories: M;fonts: LT;
+pseudoaneurisma=categories: M;fonts: termcat;
 pseudoartrosi=categories: F;fonts: LT;
 pseudocarp=categories: M;fonts: LT;
 pseudoceloma=categories: M;fonts: LT;

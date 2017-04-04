@@ -2600,6 +2600,8 @@ Barberà Barberà NPCNSP0
 Barberà Barberà NPCSG00
 Barberí Barberí NPCNSP0
 Barbeta Barbeta NPCNSP0
+Barbie Barbie NPFSSP0
+Barbies Barbie NPFPSP0
 Barbosa Barbosa NPCNSP0
 Barbuñales Barbuñales NPCSG00
 Barbí Barbí NPCNSP0
@@ -5235,6 +5237,7 @@ Caín Caín NPMSSP0
 Cea Cea NPCSG00
 Ceará Ceará NPCSG00
 Ceatharlach Ceatharlach NPCSG00
+Ceausescu Ceausescu NPCNSP0
 Ceba-roja Ceba-roja NPCNSP0
 Cebenc Cebenc NPCNSP0
 Ceber Ceber NPCNSP0
