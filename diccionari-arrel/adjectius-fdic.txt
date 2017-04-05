@@ -21744,6 +21744,7 @@ santclimenter santclimentera=categories: A;fonts: LT;
 santcugatenc santcugatenca=categories: A;fonts: LT;
 santestevenc santestevenca=categories: A;fonts: LT;
 santesteví santestevina=categories: A;fonts: LT;
+santet santeta=categories: A;fonts: diminutiu;
 santfeliuenc santfeliuenca=categories: A;fonts: LT;
 santfostenc santfostenca=categories: A;fonts: LT;
 santfruitosenc santfruitosenca=categories: A;fonts: LT;
