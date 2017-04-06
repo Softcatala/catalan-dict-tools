@@ -20491,6 +20491,7 @@ Tirana Tirana NPCSG00
 Tiraspol Tiraspol NPCSG00
 Tirijà Tirijà NPMSG00
 Tirint Tirint NPCSG00
+Tirisiti Tirisiti NPMSO00
 Tirol Tirol NPMSG00
 Tirs Tirs NPMPSP0
 Tirs Tirs NPMSSP0
