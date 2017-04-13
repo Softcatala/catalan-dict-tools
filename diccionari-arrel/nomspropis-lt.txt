@@ -6185,6 +6185,7 @@ Cots Cots NPFPG00
 Cottbus Cottbus NPCSG00
 Cotxer Cotxer NPMSG00
 Coudekerque-Branche Coudekerque-Branche NPCSG00
+Couperin Couperin NPCNSP0
 Courbevoie Courbevoie NPCSG00
 Courtenay Courtenay NPCNSP0
 Coutances Coutances NPCSG00
@@ -17163,7 +17164,7 @@ Rafal Rafal NPCNSP0
 Rafal Rafal NPCSG00
 Rafalany Rafalany NPCSG00
 Rafalatar Rafalatar NPCSG00
-Rafalcait Rafalcait NPCSG00
+Rafalcaid Rafalcaid NPCSG00
 Rafalell Rafalell NPCSG00
 Rafalet Rafalet NPMSG00
 Rafalgani Rafalgani NPCSG00
