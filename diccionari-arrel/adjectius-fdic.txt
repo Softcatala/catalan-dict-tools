@@ -12673,6 +12673,7 @@ inadmès inadmesa=categories: A;fonts: LT;
 inadoptable=categories: A;fonts: LT;
 inadvertit inadvertida=categories: A;fonts: LT;
 inafegible=categories: A;fonts: LT;
+inaferrable=categories: A;fonts: DDLC;
 inaguantable=categories: A;fonts: LT;
 inajornable=categories: A;fonts: LT;
 inaliable=categories: A;fonts: LT;

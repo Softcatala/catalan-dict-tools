@@ -7074,6 +7074,7 @@ Ebre Ebre NPCSG00
 Ecbàtana Ecbàtana NPCSG00
 Echternach Echternach NPCSG00
 Eckermann Eckermann NPCNSP0
+Eckhart Eckhart NPMSSP0
 Eclesiastès Eclesiastès NPMSO00
 Ede Ede NPCSG00
 Edelmira Edelmira NPFSSP0
@@ -22440,6 +22441,7 @@ WhatsApp WhatsApp NPMNO00
 Whirlpool Whirlpool NPCNO00
 White White NPCNSP0
 Whitehall Whitehall NPCSG00
+Whitman Whitman NPCNSP0
 Whitney Whitney NPCSG00
 Wichita Wichita NPCSG00
 Widnes Widnes NPCSG00
