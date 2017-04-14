@@ -9038,8 +9038,8 @@ Gaudol Gaudol NPCNSP0
 Gaudència Gaudència NPFSSP0
 Gaudències Gaudència NPFPSP0
 Gaudí Gaudí NPCNSP0
-Gaudí Gaudí NPMSSP0
 Gaudó Gaudó NPCNSP0
+Gauguin Gauguin NPCNSP0
 Gauja Gauja NPCSG00
 Gaumont Gaumont NPCNSP0
 Gaus Gaus NPCNSP0
