@@ -1,5 +1,6 @@
 #aper=categories: M;fonts: GDLC;
 #baador=categories: MF;fonts: GDLC, arcaisme;
+#barsa=categories: F;fonts: LT; poc comú i confús
 #catxet=categories: M;fonts: LT; terme molt inusual, es confong amb caixet
 #catxeta=categories: F;fonts: LT; castellanisme
 #cort2=categories: M;fonts: LT; #arcaisme
@@ -7704,7 +7705,6 @@ barrumballa=categories: F;fonts: LT;
 barrundanya=categories: F;fonts: LT;
 barrusca=categories: F;fonts: LT;
 barró=categories: M;fonts: LT;
-barsa=categories: F;fonts: LT;
 barset=categories: M;fonts: LT;
 barsetar=categories: M;fonts: LT;
 bartholinitis=categories: FI;fonts: LT;
