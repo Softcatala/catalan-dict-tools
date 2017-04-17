@@ -712,6 +712,7 @@ rai rai I
 rbla rambla Y
 rda ronda Y
 re res PI0CS000
+recoi recoi I
 recollons recollons I
 redell redell I
 redimonis redimonis I

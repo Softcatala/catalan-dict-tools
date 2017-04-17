@@ -2034,6 +2034,7 @@ Ashkelon Ashkelon NPCSG00
 Ashquelon Ashquelon NPCSG00
 Asinara Asinara NPCSG00
 Asir Asir NPCSG00
+Askatasuna Askatasuna NPFSO00
 Asmara Asmara NPCSG00
 Asmarats Asmarats NPCNSP0
 Asmonea Asmonea NPFSSP0
@@ -14895,6 +14896,7 @@ Olocau Olocau NPCSG00
 Olomouc Olomouc NPCSG00
 Olonne-sur-Mer Olonne-sur-Mer NPCSG00
 Olopte Olopte NPCSG00
+Olorda Olorda NPFSG00
 Oloron Oloron NPCSG00
 Olost Olost NPCSG00
 Olot Olot NPCSG00
@@ -17255,6 +17257,7 @@ Ramoneda Ramoneda NPCNSP0
 Ramoneda Ramoneda NPCSG00
 Ramonell Ramonell NPCNSP0
 Ramonet Ramonet NPCNSP0
+Ramoneta Ramoneta NPFSSP0
 Ramonic Ramonic NPCNSP0
 Ramonjoan Ramonjoan NPCNSP0
 Ramons Ramon NPMPSP0
