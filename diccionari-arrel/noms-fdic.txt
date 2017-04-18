@@ -324,6 +324,7 @@ absolutiu=categories: M;fonts: LT;
 absolviment=categories: M;fonts: LT;
 absorbent=categories: M;fonts: LT;
 absorbibilitat=categories: F;fonts: LT;
+fatigabilitat=categories: F;fonts: termcat;
 absorbidor=categories: M;fonts: LT;
 absorbiment=categories: M;fonts: LT;
 absorbància=categories: F;fonts: LT;
