@@ -55136,6 +55136,7 @@ rodamina=categories: F;fonts: LT;
 rodamot=categories: M;fonts: LT;
 rodamón=categories: MF;fonts: LT;
 rodanxa=categories: F;fonts: LT;
+rodanxeta=categories: F;fonts: diminutiu;
 rodapeu=categories: M;fonts: LT;
 rodatge=categories: M;fonts: LT;
 rodeig=categories: M;fonts: LT;
