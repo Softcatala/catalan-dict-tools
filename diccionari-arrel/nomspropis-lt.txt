@@ -17326,6 +17326,7 @@ Ravenals Ravenals NPCNSP0
 Ravenell Ravenell NPCNSP0
 Ravenna Ravenna NPFSG00
 Ravensbrück Ravensbrück NPCSG00
+Ravensburg Ravensburg NPCSG00
 Rawalpindi Rawalpindi NPCSG00
 Rawls Rawls NPCNSP0
 Rayleigh Rayleigh NPCNSP0
@@ -18873,6 +18874,7 @@ Scheveningen Scheveningen NPCSG00
 Schiedam Schiedam NPCSG00
 Schiller Schiller NPCNSP0
 Schiltigheim Schiltigheim NPCSG00
+Schindler Schindler NPCNSP0
 Schio Schio NPCSG00
 Schlegel Schlegel NPCNSP0
 Schleswig-Holstein Schleswig-Holstein NPCSG00
