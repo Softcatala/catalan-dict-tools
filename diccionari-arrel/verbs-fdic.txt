@@ -1,4 +1,5 @@
 #coldre=categories: V;model:absoldre;fonts:LT
+#corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
 abacallanar=categories: V;model:cantar;fonts:LT
 abaconar=categories: V;model:cantar;fonts:LT
 abadanar=categories: V;model:cantar;fonts:LT
@@ -2148,7 +2149,6 @@ correlacionar=categories: V;model:cantar;fonts:LT
 correlar=categories: V;model:cantar;fonts:LT
 correspondre=categories: V;model:compondre;fonts:LT
 corresponsabilitzar=categories: V;model:cantar;fonts:LT
-corretejar=categories: V;model:envejar;fonts:LT
 corrinyar=categories: V;model:cantar;fonts:LT
 corriolejar=categories: V;model:envejar;fonts:LT
 corroborar=categories: V;model:cantar;fonts:LT

@@ -21830,6 +21830,8 @@ Vicatell Vicatell NPCNSP0
 Viccionari Viccionari NPMSO00
 Vicent Vicent NPMSSP0
 Vicenta Vicent NPFSSP0
+Vicentet Vicent NPMSSP0
+Vicenteta Vicent NPFSSP0
 Vicents Vicent NPMPSP0
 Vicenza Vicenza NPCSG00
 Vicenç Vicenç NPCNSP0
