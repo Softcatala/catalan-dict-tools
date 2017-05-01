@@ -13140,6 +13140,7 @@ Mendel Mendel NPCNSP0
 Mendelssohn Mendelssohn NPCNSP0
 Menderes Menderes NPCSG00
 Mendiola Mendiola NPCNSP0
+Mendizábal Mendizábal NPCSSP0
 Mendoza Mendoza NPCNSP0
 Mendoza Mendoza NPCSG00
 Menedem Menedem NPMSSP0
