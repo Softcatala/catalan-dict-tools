@@ -11953,6 +11953,7 @@ Logar Logar NPCSG00
 Logos Logos NPCSG00
 Logronyo Logronyo NPCSG00
 Logudor Logudor NPMSG00
+Lohengrin Lohengrin NPMSSP0
 Loi-kaw Loi-kaw NPCSG00
 Loir Loir NPCSG00
 Loira Loira NPCSG00
