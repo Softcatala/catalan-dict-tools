@@ -14451,6 +14451,7 @@ Nevà Nevà NPCSG00
 Newark Newark NPCSG00
 Newcastle Newcastle NPCSG00
 Newham Newham NPCSG00
+Newman Newman NPCNSP0
 Newport Newport NPCSG00
 Newsweek Newsweek NPCSO00
 Newtownabbey Newtownabbey NPCSG00
