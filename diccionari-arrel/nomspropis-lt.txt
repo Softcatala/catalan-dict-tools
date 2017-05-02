@@ -5980,6 +5980,7 @@ Copiapó Copiapó NPCSG00
 Copons Copons NPCNSP0
 Copparo Copparo NPCSG00
 Copperbelt Copperbelt NPCSG00
+Copperfield Copperfield NPCNSP0
 Coptos Coptos NPCSG00
 Copán Copán NPCSG00
 Copèrnic Copèrnic NPMSSP0
