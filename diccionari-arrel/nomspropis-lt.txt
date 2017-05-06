@@ -4063,6 +4063,7 @@ Bruna Bruna NPCNSP0
 Brunei Brunei NPCSG00
 Brunei-Muara Brunei-Muara NPCSG00
 Brunell Brunell NPCNSP0
+Brunelleschi Brunelleschi NPCNSP0
 Brunells Brunells NPCNSP0
 Bruner Bruner NPCNSP0
 Brunes Brunes NPCNSP0
@@ -7708,6 +7709,7 @@ Estremós Estremós NPCSG00
 Estret Estret NPCSG00
 Estruç Estruç NPCNSP0
 Estuaire Estuaire NPCSG00
+Estuard Estuard NPCNSP0
 Estubeny Estubeny NPCSG00
 Estévez Estévez NPCNSP0
 Estíria Estíria NPCSG00
@@ -10365,6 +10367,7 @@ ISO ISO NPFSO00
 ISSN ISSN NPMNO00
 ITV ITV NPFSO00
 IVAM IVAM NPMSO00
+IVAP IVAP NPMSO00
 Ialta Ialta NPCSG00
 Iammo Iammo NPCSG00
 Iang-Tsé Iang-Tsé NPCSG00
@@ -21039,6 +21042,7 @@ Tràcia Tràcia NPFSG00
 Trèveris Trèveris NPCSG00
 Trémol Trémol NPCNSP0
 Trémols Trémols NPCNSP0
+Trénor Trénor NPCNSP0
 Tríkala Tríkala NPCSG00
 Trípoli Trípoli NPCSG00
 Tròfim Tròfim NPMSSP0
