@@ -1101,7 +1101,6 @@ Altamir Altamir NPCNSP0
 Altamira Altamira NPCNSP0
 Altamura Altamura NPCSG00
 Altar Altar NPCSG00
-Altas Altas NPCSG00
 Altea Altea NPCSG00
 Altejó Altejó NPCSG00
 Altell Altell NPCNSP0
@@ -2406,7 +2405,6 @@ Baixés Baixés NPCNSP0
 Baiés Baiés NPCNSP0
 Baió Baió NPCNSP0
 Baja Baja NPCSG00
-Bajas Bajas NPCSG00
 Bajhang Bajhang NPCSG00
 Bakunin Bakunin NPCNSP0
 Bakú Bakú NPCSG00
@@ -5102,7 +5100,6 @@ Castelldefels Castelldefels NPCSG00
 Castellet Castellet NPCNSP0
 Castellet Castellet NPMSG00
 Castellets Castellets NPCNSP0
-Castellfabib Castellfabib NPCSG00
 Castellferran Castellferran NPCSG00
 Castellfollit Castellfollit NPCSG00
 Castellfort Castellfort NPCNSP0
@@ -18448,6 +18445,7 @@ Sallavinera Sallavinera NPFSG00
 Salle Salle NPFSSP0
 Sallent Sallent NPCNSP0
 Sallent Sallent NPCSG00
+Sellent Sellent NPCSG00
 Sallent Sallent NPMSG00
 Sallents Sallents NPCNSP0
 Salliura Salliura NPCNSP0
