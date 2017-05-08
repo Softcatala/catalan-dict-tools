@@ -2,7 +2,7 @@
 #                              Corrector ortogràfic català
 #                          Fitxer d'afixos i llista de paraules
 # =======================================================================================
-#                                Versió 9.9.9 (30-03-2017)
+#                                Versió 9.9.9 (08-05-2017)
 # =======================================================================================
 # Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
 # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
@@ -2670,11 +2670,11 @@ SFX 16 r t/_v_Y ar
 SFX 16 r da/_Y ar
 SFX 16 r ts/_Y ar
 SFX 16 r des/_Y ar
-SFX 16 uar üe/_Z ar
-SFX 16 ar u/_Z ar
-SFX 16 ar o/_Z ar
+SFX 16 uar úe/_Z ar
+SFX 16 uar úu/_Z ar
+SFX 16 uar úo/_Z ar
 SFX 16 uar ües/_Z ar
-SFX 16 r 0/_Z ar
+SFX 16 uar úa/_Z ar
 SFX 16 uar üem/_Z ar
 SFX 16 r m/_Z ar
 SFX 16 uar üeu/_Z ar
@@ -2704,15 +2704,15 @@ SFX 16 r ria/_Z ar
 SFX 16 r ríem/_Z ar
 SFX 16 r ríeu/_Z ar
 SFX 16 r rien/_Z ar
-SFX 16 uar üe/_Z ar
+SFX 16 uar úe/_Z ar
 SFX 16 ar ï/_Z ar
-SFX 16 uar ües/_Z ar
+SFX 16 uar úes/_Z ar
 SFX 16 ar ïs/_Z ar
-SFX 16 uar üe/_Z ar
+SFX 16 uar úe/_Z ar
 SFX 16 ar ï/_Z ar
 SFX 16 uar üem/_Z ar
 SFX 16 uar üeu/_Z ar
-SFX 16 uar üen/_Z ar
+SFX 16 uar úen/_Z ar
 SFX 16 ar ïn/_Z ar
 SFX 16 uar üés/_Z ar
 SFX 16 r ra/_Z ar
@@ -2740,13 +2740,13 @@ SFX 16 r ren/_Z ar
 SFX 16 r ssin/_Z ar
 SFX 16 uar üessen/_Z ar
 SFX 16 r ssen/_Z ar
-SFX 16 r 0/_D ar
-SFX 16 uar üe/_D ar
+SFX 16 uar úa/_D ar
+SFX 16 uar úe/_D ar
 SFX 16 ar ï/_D ar
 SFX 16 uar üem/_C ar
 SFX 16 r u/_C ar
 SFX 16 uar üeu/_C ar
-SFX 16 uar üen/_C ar
+SFX 16 uar úen/_C ar
 SFX 16 ar ïn/_C ar
 
 # Model de conjugació: anar
@@ -6327,7 +6327,7 @@ SFX 43 osir usen/_C ir
 SFX 43 osir usin/_C ir
 
 # Model de conjugació: deseixir
-SFX 44 Y 86
+SFX 44 Y 92
 SFX 44 r r/_v_C_Y ir
 SFX 44 r nt/_C ir
 SFX 44 r t/_v_Y ir
@@ -6388,23 +6388,29 @@ SFX 44 eixir ixin/_Z ir
 SFX 44 ir ís/_Z ir
 SFX 44 eixir isqués/_Z ir
 SFX 44 eixir isquera/_Z ir
+SFX 44 r ra/_Z ir
 SFX 44 r ssis/_Z ir
 SFX 44 eixir isqueres/_Z ir
+SFX 44 r res/_Z ir
 SFX 44 r sses/_Z ir
 SFX 44 eixir isquesses/_Z ir
 SFX 44 ir ís/_Z ir
 SFX 44 eixir isqués/_Z ir
 SFX 44 eixir isquera/_Z ir
+SFX 44 r ra/_Z ir
 SFX 44 ir íssim/_Z ir
 SFX 44 eixir isquérem/_Z ir
+SFX 44 ir írem/_Z ir
 SFX 44 ir íssem/_Z ir
 SFX 44 eixir isquéssem/_Z ir
 SFX 44 ir íssiu/_Z ir
 SFX 44 eixir isquéreu/_Z ir
+SFX 44 ir íreu/_Z ir
 SFX 44 ir ísseu/_Z ir
 SFX 44 eixir isquésseu/_Z ir
 SFX 44 r ssin/_Z ir
 SFX 44 eixir isqueren/_Z ir
+SFX 44 r ren/_Z ir
 SFX 44 r ssen/_Z ir
 SFX 44 eixir isquessen/_Z ir
 SFX 44 eixir ix/_C ir
