@@ -186,7 +186,6 @@ Adelvina Adelvina NPFSSP0
 Adelvines Adelvina NPFPSP0
 Adelí Adelí NPMSSP0
 Ademar Ademar NPCNSP0
-Ademús Ademús NPCSG00
 Aden Aden NPCSG00
 Adeodat Adeodat NPMSSP0
 Adeodats Adeodat NPMPSP0
@@ -421,7 +420,6 @@ Aineto Aineto NPCSG00
 Ainhoa Ainhoa NPFSSP0
 Ainoa Ainoa NPFSSP0
 Aioi Aioi NPCSG00
-Aiora Aiora NPFSG00
 Airasses Airasses NPFPG00
 Airbus Airbus NPMNO00
 Airelles Airelles NPFPG00
@@ -442,7 +440,6 @@ Aixkhabad Aixkhabad NPCSG00
 Aixovall Aixovall NPCSG00
 Aixàviga Aixàviga NPCSG00
 Aizuwakamatsu Aizuwakamatsu NPCSG00
-Aiòder Aiòder NPCSG00
 Ajaccio Ajaccio NPCSG00
 Ajaguz Ajaguz NPCSG00
 Ajantha Ajantha NPCSG00
@@ -685,7 +682,6 @@ Albony Albony NPCNSP0
 Albor Albor NPCNSP0
 Alboraia Alboraia NPCNSP0
 Alboraia Alboraia NPFSG00
-Alboraig Alboraig NPCSG00
 Albornar Albornar NPCSG00
 Albornà Albornà NPCNSP0
 Alborx Alborx NPCNSP0
@@ -697,7 +693,6 @@ Albret Albret NPCNSP0
 Albufera Albufera NPCSG00
 Albufereta Albufereta NPCSG00
 Albuixec Albuixec NPCNSP0
-Albuixec Albuixec NPCSG00
 Albula Albula NPCSG00
 Albuquerque Albuquerque NPCSG00
 Alburgir Alburgir NPCSG00
@@ -879,7 +874,6 @@ Alfama Alfama NPCSG00
 Alfambra Alfambra NPCSG00
 Alfara Alfara NPCNSP0
 Alfara Alfara NPFSG00
-Alfarb Alfarb NPCSG00
 Alfarrasí Alfarrasí NPCSG00
 Alfarràs Alfarràs NPCNSP0
 Alfarràs Alfarràs NPCSG00
@@ -937,7 +931,6 @@ Algol Algol NPCSG00
 Algorfa Algorfa NPFSG00
 Algorós Algorós NPCSG00
 Alguaire Alguaire NPCSG00
-Alguenya Alguenya NPFSG00
 Alguer Alguer NPCNSP0
 Alguer Alguer NPCSG00
 Algueró Algueró NPCNSP0
@@ -1011,7 +1004,6 @@ Almató Almató NPCNSP0
 Almató Almató NPCSG00
 Almeda Almeda NPCNSP0
 Almeda Almeda NPCSG00
-Almedíxer Almedíxer NPCSG00
 Almela Almela NPFSG00
 Almelo Almelo NPCSG00
 Almenar Almenar NPCNSP0
@@ -1061,7 +1053,6 @@ Alpens Alpens NPCSG00
 Alpera Alpera NPCSG00
 Alpicat Alpicat NPCSG00
 Alpinell Alpinell NPCNSP0
-Alpont Alpont NPCSG00
 Alpric Alpric NPCNSP0
 Alps Alps NPMPG00
 Alpí Alpí NPCNSP0
@@ -1650,7 +1641,6 @@ Arans Arans NPCSG00
 Aransís Aransís NPCSG00
 Arantxa Arantxa NPFSSP0
 Arantzazu Arantzazu NPCSG00
-Aranyel Aranyel NPCSG00
 Aranyonet Aranyonet NPCSG00
 Aranyó Aranyó NPCNSP0
 Aranyó Aranyó NPCSG00
@@ -1758,7 +1748,6 @@ Argelaguet Argelaguet NPCNSP0
 Argelagó Argelagó NPCNSP0
 Argelers Argelers NPCNSP0
 Argelers Argelers NPCSG00
-Argeleta Argeleta NPFSG00
 Argemir Argemir NPCNSP0
 Argenta Argenta NPCSG00
 Argenter Argenter NPCNSP0
@@ -2042,7 +2031,6 @@ Asnar Asnar NPCSG00
 Asnières-sur-Seine Asnières-sur-Seine NPCSG00
 Asnurri Asnurri NPCSG00
 Aso Aso NPCSG00
-Asp Asp NPCSG00
 Aspa Aspa NPCSG00
 Aspasi Aspasi NPMSSP0
 Aspasis Aspasi NPMPSP0
@@ -2064,7 +2052,6 @@ Assumpció Assumpció NPFSSP0
 Assumpta Assumpta NPFSSP0
 Assumptes Assumpta NPFPSP0
 Assur Assur NPCSG00
-Assuévar Assuévar NPCSG00
 Assíria Assíria NPFSG00
 Assís Assís NPCSG00
 Astal Astal NPCNSP0
@@ -2894,7 +2881,6 @@ Begudà Begudà NPCSG00
 Begues Begues NPCSG00
 Begur Begur NPCNSP0
 Begur Begur NPCSG00
-Begís Begís NPCSG00
 Begòs Begòs NPCSG00
 Behistun Behistun NPCSG00
 Beijing Beijing NPMSG00
@@ -2919,7 +2905,6 @@ Belisari Belisari NPMSSP0
 Belisaris Belisari NPMPSP0
 Belize Belize NPCSG00
 Bell Bell NPCNSP0
-Bell-Lloc Bell-Lloc NPCSG00
 Bell-lloc Bell-lloc NPCNSP0
 Bella Bella NPCNSP0
 Bellaguarda Bellaguarda NPFSG00
@@ -3003,7 +2988,6 @@ Benafigos Benafigos NPCSG00
 Benages Benages NPCNSP0
 Benagualit Benagualit NPCSG00
 Benaguasil Benaguasil NPCSG00
-Benaixeve Benaixeve NPCSG00
 Benalmádena Benalmádena NPCSG00
 Benalua Benalua NPCSG00
 Benalí Benalí NPCSG00
@@ -3028,7 +3012,6 @@ Benedrís Benedrís NPCSG00
 Beneixama Beneixama NPFSG00
 Beneixida Beneixida NPFSG00
 Benejam Benejam NPCNSP0
-Benejússer Benejússer NPCSG00
 Benelux Benelux NPCSG00
 Benesac Benesac NPCNSP0
 Benestar Benestar NPCNSP0
@@ -3059,7 +3042,6 @@ Benialet Benialet NPCSG00
 Benial·là Benial·là NPCSG00
 Benialí Benialí NPCSG00
 Beniarbeig Beniarbeig NPCSG00
-Beniardà Beniardà NPCSG00
 Beniarjó Beniarjó NPCSG00
 Beniarrupaix Beniarrupaix NPCSG00
 Beniarrés Beniarrés NPCSG00
@@ -3087,7 +3069,6 @@ Benifaraig Benifaraig NPCSG00
 Benifassà Benifassà NPCSG00
 Benifato Benifato NPCSG00
 Beniferri Beniferri NPCSG00
-Beniflà Beniflà NPCSG00
 Benigafull Benigafull NPCSG00
 Benigama Benigama NPCSG00
 Benigasló Benigasló NPCSG00
@@ -3096,7 +3077,6 @@ Benigne Benigne NPMSSP0
 Benignes Benigne NPMPSP0
 Benigàlip Benigàlip NPCSG00
 Benigànim Benigànim NPCSG00
-Benijòfar Benijòfar NPCSG00
 Benilloba Benilloba NPFSG00
 Benillup Benillup NPCSG00
 Benimaclet Benimaclet NPCSG00
@@ -3385,7 +3365,6 @@ Biblos Biblos NPCSG00
 Bibracte Bibracte NPCSG00
 Bicing Bicing NPMSO00
 Bicol Bicol NPCSG00
-Bicorb Bicorb NPCSG00
 Bidell Bidell NPCNSP0
 Bidellet Bidellet NPCNSP0
 Biel Biel NPCSG00
@@ -3399,7 +3378,6 @@ Biern Biern NPCNSP0
 Biescas Biescas NPCSG00
 Bifet Bifet NPCNSP0
 Bigaire Bigaire NPCNSP0
-Bigastre Bigastre NPCSG00
 Bigastrum Bigastrum NPCSG00
 Bigordà Bigordà NPCNSP0
 Bigorra Bigorra NPFSG00
@@ -3599,7 +3577,6 @@ Boksburg Boksburg NPCSG00
 Bolama-Bijagós Bolama-Bijagós NPCSG00
 Bolangé Bolangé NPCNSP0
 Bolart Bolart NPCNSP0
-Bolbait Bolbait NPCSG00
 Bolcàssim Bolcàssim NPCSG00
 Boldissos Boldissos NPMPG00
 Boldobà Boldobà NPCNSP0
@@ -4147,7 +4124,6 @@ Bulès Bulès NPMSG00
 Bundesliga Bundesliga NPFSO00
 Bundēlkhand Bundēlkhand NPCSG00
 Bunyol Bunyol NPCNSP0
-Bunyol Bunyol NPCSG00
 Bunyola Bunyola NPCNSP0
 Bunyola Bunyola NPFSG00
 Burano Burano NPCSG00
@@ -5107,7 +5083,6 @@ Castellfort Castellfort NPCSG00
 Castellgalí Castellgalí NPCSG00
 Castellmeià Castellmeià NPCSG00
 Castellnou Castellnou NPCNSP0
-Castellnou Castellnou NPCSG00
 Castellnovet Castellnovet NPCSG00
 Castellolí Castellolí NPCSG00
 Castellonet Castellonet NPCSG00
@@ -5742,7 +5717,6 @@ Codí Codí NPCNSP0
 Codó Codó NPCNSP0
 Cofita Cofita NPCSG00
 Coforb Coforb NPCSG00
-Cofrents Cofrents NPCSG00
 Coghinas Coghinas NPCSG00
 Cognac Cognac NPCSG00
 Cogolls Cogolls NPCSG00
@@ -5752,7 +5726,6 @@ Cogullons Cogullons NPMPG00
 Cohèlet Cohèlet NPMSO00
 Coimbatore Coimbatore NPCSG00
 Cointreau Cointreau NPMNO00
-Coix Coix NPCSG00
 Coixós Coixós NPCSG00
 Colata Colata NPCSG00
 Colatxoa Colatxoa NPCSG00
@@ -6854,7 +6827,6 @@ Domenge Domenge NPCNSP0
 Domenges Domenges NPMPG00
 Domenjó Domenjó NPCNSP0
 Domeny Domeny NPCSG00
-Domenyo Domenyo NPCSG00
 Domenys Domenys NPMPG00
 Domici Domici NPMSSP0
 Domicians Domicià NPMPSP0
@@ -7492,7 +7464,6 @@ Esmeraldas Esmeraldas NPCSG00
 Esmirna Esmirna NPFSG00
 Espadaler Espadaler NPCNSP0
 Espadamala Espadamala NPCNSP0
-Espadella Espadella NPCSG00
 Espadà Espadà NPMSG00
 Espaillat Espaillat NPCSG00
 Espanya Espanya NPFSG00
@@ -7887,7 +7858,6 @@ Facunds Facund NPMPSP0
 Fadra Fadra NPCSG00
 Fadó Fadó NPCNSP0
 Faenza Faenza NPCSG00
-Fageca Fageca NPFSG00
 Fageda Fageda NPCNSP0
 Fagedes Fagedes NPCNSP0
 Fagella Fagella NPCNSP0
@@ -9884,7 +9854,6 @@ Gàlvez Gàlvez NPCNSP0
 Gàl·lia Gàl·lia NPFSG00
 Gàmbia Gàmbia NPFSG00
 Gàrzola Gàrzola NPCSG00
-Gàtova Gàtova NPFSG00
 Gáldar Gáldar NPCSG00
 Gállego Gállego NPCSG00
 Gâtinais Gâtinais NPCSG00
@@ -10056,7 +10025,6 @@ Herba-savina Herba-savina NPCSG00
 Herbat Herbat NPCNSP0
 Herbera Herbera NPCSG00
 Herbers Herbers NPCNSP0
-Herbers Herbers NPCSG00
 Herbeset Herbeset NPCSG00
 Herbosa Herbosa NPCNSP0
 Hercegovina Hercegovina NPFSG00
@@ -10614,7 +10582,6 @@ Iwo Iwo NPCSG00
 Ix Ix NPCNSP0
 Ix Ix NPCSG00
 Izoard Izoard NPCSG00
-Iàtova Iàtova NPFSG00
 Iñaki Iñaki NPMSSP0
 Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
@@ -11898,7 +11865,6 @@ Llucià Llucià NPMSSP0
 Llucmajor Llucmajor NPCSG00
 Llucmaçanes Llucmaçanes NPCSG00
 Llucs Lluc NPMPSP0
-Lludient Lludient NPCSG00
 Lluelles Lluelles NPCNSP0
 Lluirac Lluirac NPCNSP0
 Llull Llull NPCNSP0
@@ -13303,7 +13269,6 @@ Millana Millana NPCNSP0
 Millans Millans NPCNSP0
 Millaret Millaret NPCNSP0
 Millars Millars NPCNSP0
-Millars Millars NPMSG00
 Millat Millat NPCNSP0
 Millau Millau NPCSG00
 Millena Millena NPFSG00
@@ -13650,7 +13615,6 @@ Montana Montana NPCSG00
 Montanejos Montanejos NPCSG00
 Montanera Montanera NPFSG00
 Montanissell Montanissell NPCSG00
-Montant Montant NPCSG00
 Montanui Montanui NPCSG00
 Montanyana Montanyana NPFSG00
 Montanyà Montanyà NPCNSP0
@@ -13680,7 +13644,6 @@ Montbó Montbó NPCSG00
 Montcabrer Montcabrer NPCSG00
 Montcabrer Montcabrer NPMSG00
 Montcada Montcada NPCNSP0
-Montcada Montcada NPFSG00
 Montcades Montcades NPFPG00
 Montcal Montcal NPMSG00
 Montcalb Montcalb NPCNSP0
@@ -14346,7 +14309,6 @@ Nauvoo Nauvoo NPCSG00
 Navacerrada Navacerrada NPCSG00
 Navagero Navagero NPCNSP0
 Navaiol Navaiol NPCSG00
-Navaixes Navaixes NPCSG00
 Naval Naval NPCNSP0
 Navall Navall NPCNSP0
 Navalls Navalls NPCNSP0
@@ -14705,7 +14667,6 @@ Nyus Nyus NPCSG00
 Nyíregyháza Nyíregyháza NPCSG00
 Nàger Nàger NPCNSP0
 Nàpols Nàpols NPCSG00
-Nàquera Nàquera NPFSG00
 Nàuplia Nàuplia NPCSG00
 Nájera Nájera NPCSG00
 Näfels Näfels NPCSG00
@@ -15045,7 +15006,6 @@ Orient Orient NPCSG00
 Orinoco Orinoco NPMSG00
 Oriol Oriol NPCNSP0
 Oriola Oriola NPCNSP0
-Oriola Oriola NPFSG00
 Oriolet Oriolet NPCSG00
 Orissa Orissa NPCSG00
 Oristany Oristany NPCSG00
@@ -15613,7 +15573,6 @@ Pauló Pauló NPCNSP0
 Pava Pava NPFSG00
 Pavia Pavia NPCNSP0
 Pavia Pavia NPCSG00
-Pavies Pavies NPCSG00
 Pavlodar Pavlodar NPCSG00
 Paysandú Paysandú NPCSG00
 Pazardžik Pazardžik NPCSG00
@@ -17387,7 +17346,6 @@ Redon Redon NPCSG00
 Redonda Redonda NPFSG00
 Redondela Redondela NPCSG00
 Redorta Redorta NPCNSP0
-Redovà Redovà NPCSG00
 Reduart Reduart NPCNSP0
 Refalgarí Refalgarí NPCSG00
 Refart Refart NPCNSP0
@@ -17840,7 +17798,6 @@ Roixel·la Roixel·la NPFSG00
 Roja Roja NPCNSP0
 Rojalons Rojalons NPCSG00
 Rojals Rojals NPCNSP0
-Rojals Rojals NPCSG00
 Roland Roland NPMSSP0
 Rolands Roland NPMPSP0
 Roldors Roldors NPCNSP0
@@ -18136,7 +18093,6 @@ Ròmul Ròmul NPMSSP0
 Ròmula Ròmula NPFSSP0
 Ròmules Ròmula NPFPSP0
 Ròmuls Ròmul NPMPSP0
-Ròtova Ròtova NPFSG00
 Ròvol Ròvol NPMSG00
 Rúbies Rúbies NPCSG00
 Rússia Rússia NPFSG00
@@ -18211,7 +18167,6 @@ Sabí Sabí NPMSSP0
 Saca Saca NPCSG00
 Sacall Sacall NPCNSP0
 Sacalm Sacalm NPCSG00
-Sacanyet Sacanyet NPCSG00
 Sacarrera Sacarrera NPCNSP0
 Sacarés Sacarés NPCNSP0
 Sacasa Sacasa NPCNSP0
@@ -18350,7 +18305,6 @@ Sais Sais NPCSG00
 Saisies Saisies NPFPG00
 Saitama Saitama NPCSG00
 Saix Saix NPCNSP0
-Saix Saix NPCSG00
 Saió Saió NPMSG00
 Sajama Sajama NPCSG00
 Sakai Sakai NPCSG00
@@ -19386,7 +19340,6 @@ Simó Simó NPCNSP0
 Simó Simó NPMSSP0
 Sin Sin NPCSG00
 Sinaloa Sinaloa NPCSG00
-Sinarques Sinarques NPCSG00
 Sinaí Sinaí NPCSG00
 Sind Sind NPCSG00
 Sindreu Sindreu NPCNSP0
@@ -19536,7 +19489,6 @@ Softvalencià Softvalencià NPMSO00
 Sogas Sogas NPCNSP0
 Sogdiana Sogdiana NPFSG00
 Sognefjord Sognefjord NPCSG00
-Sogorb Sogorb NPCSG00
 Sogues Sogues NPCNSP0
 Sohar Sohar NPCSG00
 Soissons Soissons NPCSG00
@@ -19797,7 +19749,6 @@ Subotica Subotica NPCSG00
 Subur Subur NPCSG00
 Subí Subí NPCNSP0
 Suc Suc NPCNSP0
-Sucaina Sucaina NPFSG00
 Suceava Suceava NPCSG00
 Suchitepéquez Suchitepéquez NPCSG00
 Sucre Sucre NPMSG00
@@ -20515,7 +20466,6 @@ Tiruppūr Tiruppūr NPCSG00
 Tis Tis NPCNSP0
 Tis Tis NPMSG00
 Tisza Tisza NPCSG00
-Titaigües Titaigües NPCSG00
 Titano Titano NPCSG00
 Titicaca Titicaca NPMSG00
 Titus Titus NPMPSP0
@@ -20553,7 +20503,6 @@ Toga Toga NPCSG00
 Togdheer Togdheer NPCSG00
 Togo Togo NPCSG00
 Togores Togores NPCSG00
-Toixa Toixa NPCSG00
 Tokelau Tokelau NPCSG00
 Tokorozawa Tokorozawa NPCSG00
 Tokushima Tokushima NPCSG00
@@ -20699,7 +20648,6 @@ Torre-roja Torre-roja NPFSG00
 Torre-romeu Torre-romeu NPCSG00
 Torre-serona Torre-serona NPCSG00
 Torre-somera Torre-somera NPCSG00
-Torre-xiva Torre-xiva NPCSG00
 Torrebalari Torrebalari NPCNSP0
 Torrebaró Torrebaró NPCSG00
 Torrebesses Torrebesses NPCSG00
@@ -20786,7 +20734,6 @@ Torretallada Torretallada NPFSG00
 Torretrencada Torretrencada NPCSG00
 Torrets Torrets NPCNSP0
 Torrevedell Torrevedell NPCNSP0
-Torrevella Torrevella NPFSG00
 Torrevellisca Torrevellisca NPCSG00
 Torreventosa Torreventosa NPCNSP0
 Torreón Torreón NPCSG00
@@ -20828,11 +20775,9 @@ Torun Torun NPCSG00
 Toruń Toruń NPCSG00
 Torà Torà NPCNSP0
 Torà Torà NPCSG00
-Toràs Toràs NPCSG00
 Torèn Torèn NPCSG00
 Torí Torí NPMSG00
 Toríbio Toríbio NPCNSP0
-Torís Torís NPCSG00
 Tos Tos NPCNSP0
 Tosa Tosa NPCNSP0
 Toscana Toscana NPFSG00
@@ -22016,7 +21961,6 @@ Vilamajor Vilamajor NPCSG00
 Vilamala Vilamala NPCNSP0
 Vilamalefa Vilamalefa NPFSG00
 Vilamalla Vilamalla NPFSG00
-Vilamalur Vilamalur NPCSG00
 Vilamaniscle Vilamaniscle NPCSG00
 Vilamanya Vilamanya NPCNSP0
 Vilamanya Vilamanya NPCSG00
@@ -22535,7 +22479,6 @@ Wāh Wāh NPCSG00
 Włocławek Włocławek NPCSG00
 Wŏnju Wŏnju NPCSG00
 Wŏnsan Wŏnsan NPCSG00
-Xacarella Xacarella NPFSG00
 Xacarelleta Xacarelleta NPCSG00
 Xafart Xafart NPCNSP0
 Xafes Xafes NPCNSP0
@@ -22544,7 +22487,6 @@ Xaignabouri Xaignabouri NPCSG00
 Xalabarder Xalabarder NPCNSP0
 Xalabardera Xalabardera NPCNSP0
 Xalamera Xalamera NPCSG00
-Xalans Xalans NPCSG00
 Xalant Xalant NPCNSP0
 Xaldaró Xaldaró NPCNSP0
 Xalma Xalma NPCNSP0
@@ -22575,7 +22517,6 @@ Xapellí Xapellí NPCNSP0
 Xapí Xapí NPCNSP0
 Xara Xara NPFSG00
 Xarabau Xarabau NPCSG00
-Xarafull Xarafull NPCSG00
 Xardó Xardó NPCNSP0
 Xargall Xargall NPCNSP0
 Xarles Xarles NPCNSP0
@@ -22597,11 +22538,8 @@ Xavuot Xavuot NPMSO00
 Xavé Xavé NPCNSP0
 Xeixar Xeixar NPCNSP0
 Xeldo Xeldo NPCSG00
-Xella Xella NPFSG00
-Xelva Xelva NPFSG00
 Xena Xena NPCNSP0
 Xenofont Xenofont NPMSSP0
-Xera Xera NPCSG00
 Xeraco Xeraco NPCSG00
 Xerea Xerea NPFSG00
 Xeresa Xeresa NPFSG00
@@ -22611,8 +22549,6 @@ Xerta Xerta NPCNSP0
 Xerta Xerta NPFSG00
 Xertó Xertó NPCNSP0
 Xerxes Xerxes NPMSSP0
-Xest Xest NPCSG00
-Xestalgar Xestalgar NPCSG00
 Xeta Xeta NPCSG00
 Xi'an Xi'an NPCSG00
 Xiamen Xiamen NPCSG00
@@ -22654,7 +22590,6 @@ Xirles Xirles NPCSG00
 Xisclareny Xisclareny NPCNSP0
 Xisquerol Xisquerol NPCSG00
 Xiva Xiva NPCNSP0
-Xiva Xiva NPFSG00
 Xivert Xivert NPCSG00
 Xixarà Xixarà NPCSG00
 Xixia Xixia NPCSG00
@@ -22669,7 +22604,6 @@ Xostakóvitx Xostakóvitx NPCNSP0
 Xoà Xoà NPFSO00
 Xuanhua Xuanhua NPCSG00
 Xubet Xubet NPCNSP0
-Xulilla Xulilla NPFSG00
 Xuller Xuller NPCNSP0
 Xumet Xumet NPCNSP0
 Xup Xup NPMSG00
@@ -22677,8 +22611,6 @@ Xuzhou Xuzhou NPCSG00
 Xàbia Xàbia NPFSG00
 Xàtiva Xàtiva NPFSG00
 Xèrica Xèrica NPCNSP0
-Xèrica Xèrica NPFSG00
-Xóvar Xóvar NPCSG00
 Xúquer Xúquer NPMSG00
 Yafō Yafō NPCSG00
 Yahata Yahata NPCSG00
@@ -22955,7 +22887,6 @@ uTorrent uTorrent NPCNO00
 Èsquil Èsquil NPMSSP0
 Écija Écija NPFSG00
 Éller Éller NPCSG00
-Énguera Énguera NPFSG00
 Énova Énova NPFSG00
 Épernay Épernay NPCSG00
 Épila Épila NPCSG00
