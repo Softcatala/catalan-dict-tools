@@ -18445,7 +18445,6 @@ Sallavinera Sallavinera NPFSG00
 Salle Salle NPFSSP0
 Sallent Sallent NPCNSP0
 Sallent Sallent NPCSG00
-Sellent Sellent NPCSG00
 Sallent Sallent NPMSG00
 Sallents Sallents NPCNSP0
 Salliura Salliura NPCNSP0
@@ -18980,6 +18979,7 @@ Selesis Selesi NPMPSP0
 Seleuc Seleuc NPMSSP0
 Seleucs Seleuc NPMPSP0
 Selfa Selfa NPCNSP0
+Sellent Sellent NPCSG00
 Seller Seller NPCNSP0
 Selles Selles NPCNSP0
 Sellons Sellons NPCNSP0
