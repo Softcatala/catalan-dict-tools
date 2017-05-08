@@ -7,7 +7,7 @@ dict_origen=../resultats/lt/diccionari.txt
 
 #LanguageTool jar
 #jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.5-SNAPSHOT-jar-with-dependencies.jar
-jarfile=~/languagetool/languagetool.jar
+jarfile=~/target-lt/languagetool.jar
 
 # replace whitespaces with tabs
 perl sptotabs.pl <$dict_origen >diccionari_tabs.txt
