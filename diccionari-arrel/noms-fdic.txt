@@ -28892,6 +28892,7 @@ fonògraf=categories: M;fonts: LT;
 fonòleg fonòloga=categories: MF;fonts: LT;
 fonòmetre=categories: M;fonts: LT;
 fonó=categories: M;fonts: LT;
+foodie=categories: MF;fonts: esadir, anglès;
 fopa=categories: F;fonts: LT;
 foquista=categories: M;fonts: LT;
 for=categories: M;fonts: LT;

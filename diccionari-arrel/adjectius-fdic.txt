@@ -6520,6 +6520,7 @@ cudiaí cudiaïna=categories: A;fonts: LT;
 cudolenc cudolenca=categories: A;fonts: LT;
 cudolós cudolosa=categories: A;fonts: LT;
 cuguçós=categories: AM;fonts: LT;
+cuinòfil cuinòfila=categories: A;fonts: termcat;
 cuisià cuisiana=categories: A;fonts: LT;
 cuitor cuitora=categories: A;fonts: LT;
 cuitívol cuitívola=categories: A;fonts: LT;
