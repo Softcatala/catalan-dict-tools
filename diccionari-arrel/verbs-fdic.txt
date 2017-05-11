@@ -8239,6 +8239,7 @@ reassegurar=categories: V;model:cantar;fonts:LT
 reassentar=categories: V;model:cantar;fonts:derivat;
 reassignar=categories: V;model:cantar;fonts:LT
 reassumir=categories: V;model:servir;fonts:LT
+reavaluar=categories: V;model:lloar;fonts: derivat;
 rebaixar=categories: V;model:cantar;fonts:LT
 rebaldir=categories: V;model:servir;fonts:LT
 reballar=categories: V;model:cantar;fonts:LT
