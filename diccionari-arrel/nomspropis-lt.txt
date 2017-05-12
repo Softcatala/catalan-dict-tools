@@ -8883,6 +8883,7 @@ Garbí Garbí NPMSG00
 Garcia Garcia NPCNG00
 Garcia Garcia NPCNSP0
 Garcies Garcies NPCNSP0
+Garcilaso Garcilaso NPMSSP0
 Garciny Garciny NPCNSP0
 Garcés Garcés NPCNSP0
 Gard Gard NPCSG00
@@ -10886,6 +10887,7 @@ Južno-Sakhalinsk Južno-Sakhalinsk NPCSG00
 Jyoetsu Jyoetsu NPCSG00
 Jyväskylä Jyväskylä NPCSG00
 Jàfer Jàfer NPCNSP0
+Jàson Jàson NPMSSP0
 Jèssica Jèssica NPFSSP0
 Jònia Jònia NPFSG00
 Jóc Jóc NPCSG00
