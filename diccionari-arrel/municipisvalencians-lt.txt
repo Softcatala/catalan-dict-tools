@@ -61,8 +61,6 @@ Cofrentes Cofrents NPCSG0O
 Cofrents Cofrents NPCSG0V
 Coix Coix NPCSG0V
 Cox Coix NPCSG0O
-Dolores Dolors NPCSG0O
-Dolors Dolors NPCSG0V
 Domenyo Domenyo NPCSG0V
 Domeño Domenyo NPCSG0O
 Enguera Énguera NPCSG0O
@@ -112,11 +110,15 @@ Segorbe Sogorb NPCSG0O
 Sinarcas Sinarques NPCSG0O
 Sinarques Sinarques NPCSG0V
 Sogorb Sogorb NPCSG0V
+Soneixa Soneixa NPCSG0V
+Soneja Soneixa NPCSG0O
 Sucaina Sucaina NPCSG0V
 Titaguas Titaigües NPCSG0O
 Titaigües Titaigües NPCSG0V
 Toixa Toixa NPCSG0V
 Torre-xiva Torre-xiva NPCSG0V
+Torrebaixa Torrebaixa NPCSG0V
+Torrebaja Torrebaixa NPCSG0O
 Torrechiva Torre-xiva NPCSG0O
 Torrevella Torrevella NPCSG0V
 Torrevieja Torrevella NPCSG0O

@@ -6821,6 +6821,7 @@ Dolgoprudnyj Dolgoprudnyj NPCSG00
 Dolgoruki Dolgoruki NPCNSP0
 Dollond Dollond NPCNSP0
 Dolomites Dolomites NPFPG00
+Dolores Dolores NPCSG00
 Dolors Dolors NPCNSP0
 Dolç Dolç NPCNSP0
 Dolça Dolça NPFSSP0
@@ -19589,8 +19590,6 @@ Somàlia Somàlia NPFSG00
 Sonadelles Sonadelles NPCNSP0
 Sonarrossa Sonarrossa NPCSG00
 Sondrio Sondrio NPCSG00
-Soneixa Soneixa NPFSG00
-Soneja Soneja NPFSG00
 Sonella Sonella NPCSG00
 Songhai Songhai NPCSG00
 Songhua Songhua NPCSG00
@@ -20633,7 +20632,7 @@ Torquay Torquay NPCSG00
 Torques Torques NPCSG00
 Torrades Torrades NPCNSP0
 Torralba Torralba NPCNSP0
-Torralba Torralba NPFSG00
+Torralba Torralba NPCSG00
 Torralbó Torralbó NPCNSP0
 Torrall Torrall NPCNSP0
 Torralla Torralla NPCNSP0
@@ -22716,7 +22715,7 @@ Zara Zara NPCNO00
 Zaratustra Zaratustra NPMSSP0
 Zarautz Zarautz NPCSG00
 Zaria Zaria NPCSG00
-Zarra Zarra NPFSG00
+Zarra Zarra NPCSG00
 Zarraica Zarraica NPCSG00
 Zarzuela Zarzuela NPFSG00
 Zawiercie Zawiercie NPCSG00
