@@ -3627,7 +3627,6 @@ amb
 ambages
 ambaixada
 ambaixador
-ambaixadrius)
 ambarí
 ambdós
 amberlita
@@ -9456,7 +9455,6 @@ berenador
 berenar
 bereneta
 bergamasc
-bergamascos)
 bergamiol
 bergamota
 bergamoter
@@ -10307,7 +10305,6 @@ bocafí
 bocafluix
 bocafort
 bocafresc
-bocafrescos)
 bocagròs
 bocairentí
 bocal
@@ -11525,7 +11522,6 @@ búfol
 bufonada
 bufonejar
 bufonesc
-bufonescos)
 bufònid
 bufotenina
 bugada
@@ -12997,7 +12993,6 @@ capellanejar
 capellaner
 capellaneria
 capellanesc
-capellanescos)
 capellanet
 capellania
 capellar
@@ -13563,7 +13558,6 @@ carnauba
 carnaval
 carnavalada
 carnavalesc
-carnavalescos)
 carner
 carnera
 carneral
@@ -21870,7 +21864,6 @@ deshonest
 deshonestament
 deshonestar
 deshonestedat
-deshonestos)
 deshonor
 deshonorable
 deshonorant
@@ -22722,7 +22715,6 @@ detectable
 detectar
 detectiu
 detectivesc
-detectivescos)
 detector
 detenció
 detenidor
@@ -27663,7 +27655,6 @@ entreforc
 entreforcar-se
 entreforro
 entrefosc
-entrefoscos)
 entrefulla
 entrega
 entregar
@@ -35301,10 +35292,8 @@ fullejar
 fullet
 fulletí
 fulletinesc
-fulletinescos)
 fulletó
 fulletonesc
-fulletonescos)
 fulletonista
 fullola
 fulloldre
@@ -36308,7 +36297,6 @@ gecònid
 gegant
 geganter
 gegantesc
-gegantescos)
 gegantet
 gegantí
 gegantinament
@@ -37154,7 +37142,6 @@ golfístic
 golfo
 goliard
 goliardesc
-goliardescos)
 goll
 golleta
 gollut
@@ -37634,7 +37621,6 @@ gregorianisme
 gregorianista
 gregueria
 greguesc
-greguescos)
 greix
 greixador
 greixar
@@ -54514,7 +54500,6 @@ pedantejar
 pedanteria
 pedantesc
 pedantescament
-pedantescos)
 pedantisme
 pedat
 pederasta
@@ -56013,7 +55998,6 @@ pintó
 pintor
 pintoresc
 pintorescament
-pintorescos)
 pintoresquisme
 pintura
 pinxar
@@ -56579,7 +56563,6 @@ platera
 plàtera
 platerada
 plateresc
-platerescos)
 plateret
 platerets
 plateria
@@ -56975,7 +56958,6 @@ poemàtic
 poesia
 poeta
 poetastre
-poetesses)
 poètic
 poètica
 poèticament
@@ -58518,7 +58500,6 @@ principalment
 principat
 principesc
 principescament
-principescos)
 principi
 principiant
 principiar
@@ -63730,7 +63711,6 @@ rogle
 roglet
 roí
 roig
-roigs)
 roín
 roina
 roïnament
@@ -73813,7 +73793,6 @@ versaire
 versal
 versaleta
 versallesc
-versallescos)
 versar
 versat
 versàtil
@@ -73990,7 +73969,6 @@ vicecanceller
 vicecancelleria
 vicecònsol
 viceconsolat
-vicecònsols)
 vicedéu
 vicegerència
 vicegerent
@@ -74502,7 +74480,6 @@ vociferant
 vociferar
 vodevil
 vodevilesc
-vodevilescos)
 vodka
 vodú
 voga
