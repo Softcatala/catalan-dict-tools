@@ -7940,6 +7940,7 @@ Farguell Farguell NPCNSP0
 Farguer Farguer NPCNSP0
 Fargues Fargues NPCNSP0
 Farigola Farigola NPCNSP0
+Farinelli Farinelli NPCNSP0
 Farinós Farinós NPCNSP0
 Farnals Farnals NPCSG00
 Farners Farners NPCNSP0
@@ -11915,6 +11916,7 @@ Loano Loano NPCSG00
 Lob Lob NPCSG00
 Lobkovic Lobkovic NPCNSP0
 Locarno Locarno NPCSG00
+Locatelli Locatelli NPCNSP0
 Locke Locke NPCNSP0
 Lodi Lodi NPCSG00
 Lodz Lodz NPCSG00

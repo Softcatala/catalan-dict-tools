@@ -1,7 +1,3 @@
-Higueruelas Higueruelas NPCSG00
-Alcublas Alcublas NPCSG00
-Salinas Salinas NPCSG00
-Cañada Cañada NPCSG00
 Ademuz Ademús NPCSG0O
 Ademús Ademús NPCSG0V
 Aiora Aiora NPCSG0V
@@ -10,6 +6,7 @@ Alborache Alboraig NPCSG0O
 Alboraig Alboraig NPCSG0V
 Albuixec Albuixec NPCSG0V
 Albuixech Albuixec NPCSG0O
+Alcublas Alcublas NPCSG00
 Alfarb Alfarb NPCSG0V
 Alfarp Alfarb NPCSG0O
 Alguenya Alguenya NPCSG0V
@@ -54,6 +51,7 @@ Bunyol Bunyol NPCSG0V
 Buñol Bunyol NPCSG0O
 Castellnou Castellnou NPCSG0V
 Castellnovo Castellnou NPCSG0O
+Cañada Cañada NPCSG00
 Chella Xella NPCSG0O
 Chelva Xelva NPCSG0O
 Chera Xera NPCSG0O
@@ -79,6 +77,7 @@ Gátova Gàtova NPCSG0O
 Herbers Herbers NPCSG0V
 Herbés Herbers NPCSG0O
 Higueras Figueres NPCSG0O
+Higueruelas Higueruelas NPCSG00
 Iàtova Iàtova NPCSG0V
 Jacarilla Xacarella NPCSG0O
 Jalance Xalans NPCSG0O
@@ -109,6 +108,7 @@ Rótova Ròtova NPCSG0O
 Sacanyet Sacanyet NPCSG0V
 Sacañet Sacanyet NPCSG0O
 Saix Saix NPCSG0V
+Salinas Salinas NPCSG00
 Sax Saix NPCSG0O
 Segorbe Sogorb NPCSG0O
 Sinarcas Sinarques NPCSG0O
