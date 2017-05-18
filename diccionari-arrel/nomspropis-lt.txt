@@ -9877,6 +9877,7 @@ Gòrgona Gòrgona NPFSSP0
 Gòrgones Gòrgones NPFPSP0
 Gómel Gómel NPCSG00
 Gómez Gómez NPCNSP0
+Góngora Góngora NPCNSP0
 Gósol Gósol NPCSG00
 Göcek Göcek NPCSG00
 Göppingen Göppingen NPCSG00
@@ -11929,6 +11930,7 @@ Logronyo Logronyo NPCSG00
 Logudor Logudor NPMSG00
 Lohengrin Lohengrin NPMSSP0
 Loi-kaw Loi-kaw NPCSG00
+Loiola Loiola NPCSG00
 Loir Loir NPCSG00
 Loira Loira NPCSG00
 Loiret Loiret NPCSG00
@@ -14709,6 +14711,7 @@ OECD OECD NPFSO00
 OMS OMS NPFSO00
 ONCE ONCE NPFSO00
 ONU ONU NPFSO00
+OPEP OPEP NPFSO00
 OTAN OTAN NPFSO00
 Oahu Oahu NPCSG00
 Oakland Oakland NPCSG00

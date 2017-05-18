@@ -61258,6 +61258,7 @@ texana=categories: F;fonts: LT;
 texans=categories: MP;fonts: LT;
 text=categories: M;fonts: LT;
 textualista=categories: MF;fonts: LT;
+textualitat=categories: F;fonts: DDLC;
 textura=categories: F;fonts: LT;
 texturació=categories: F;fonts: LT;
 texturització=categories: F;fonts: LT;

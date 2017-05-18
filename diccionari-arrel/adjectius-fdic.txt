@@ -20025,6 +20025,7 @@ pseudocònic pseudocònica=categories: A;fonts: LT;
 pseudoepigràfic pseudoepigràfica=categories: A;fonts: LT;
 pseudofilosòfic pseudofilosòfica=categories: A;fonts: LT;
 pseudohermafrodita=categories: A;fonts: LT;
+pseudoliterari pseudoliterària=categories: A;fonts: derivat;
 pseudomorf pseudomorfa=categories: A;fonts: LT;
 pseudomunicipal=categories: A;fonts: LT;
 pseudomòrfic pseudomòrfica=categories: A;fonts: LT;
