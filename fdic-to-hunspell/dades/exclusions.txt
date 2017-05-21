@@ -96,6 +96,7 @@ guai
 impar
 lelo
 lero
+malat
 margarita
 mediar
 midar

@@ -11170,6 +11170,7 @@ Kras Kras NPCSG00
 Krasnoarmiis'k Krasnoarmiis'k NPCSG00
 Krasnogorsk Krasnogorsk NPCSG00
 Krasnojarsk Krasnojarsk NPCSG00
+Krebs Krebs NPCNSP0
 Krefeld Krefeld NPCSG00
 Krimsk Krimsk NPCSG00
 Kristiansand Kristiansand NPCSG00
@@ -12386,6 +12387,7 @@ Mandrès Mandrès NPCNSP0
 Manduria Manduria NPCSG00
 Manegat Manegat NPCNSP0
 Manel Manel NPMSSP0
+Manelic Manelic NPMSSP0
 Manels Manel NPMPSP0
 Manel·la Manel·la NPCNSP0
 Manent Manent NPCNSP0
@@ -19713,6 +19715,7 @@ Stanford Stanford NPCNSP0
 Stanford Stanford NPCSG00
 Stanislavski Stanislavski NPCNSP0
 Stanley Stanley NPMSSP0
+Starbucks Starbucks NPMNO00
 Starhemberg Starhemberg NPCNSP0
 Stavanger Stavanger NPCSG00
 Steinway Steinway NPMNO00
