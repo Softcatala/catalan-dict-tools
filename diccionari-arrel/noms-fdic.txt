@@ -35201,6 +35201,7 @@ integracionista=categories: MF;fonts: LT;
 integració=categories: F;fonts: LT;
 integrador=categories: M;fonts: LT;
 integral=categories: F;fonts: LT;
+integralitat=categories: F;fonts: DDLC;
 integrasa=categories: F;fonts: LT;
 integrina=categories: F;fonts: LT;
 integripal·lial=categories: MF;fonts: LT;
