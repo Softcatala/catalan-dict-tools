@@ -60749,6 +60749,7 @@ teniment=categories: M;fonts: LT;
 tenis=categories: MI;fonts: LT;
 tenista=categories: MF;fonts: LT;
 tennantita=categories: F;fonts: LT;
+tennis=categories: MI;fonts: pre2017;
 tenodínia=categories: F;fonts: LT;
 tenonitis=categories: FI;fonts: LT;
 tenoplàstia=categories: F;fonts: LT;
