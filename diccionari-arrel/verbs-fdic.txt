@@ -4157,6 +4157,7 @@ empiconar=categories: V;model:cantar;fonts:LT
 empilar=categories: V;model:cantar;fonts:LT
 empillocar=categories: V;model:trencar;fonts:LT
 empinar=categories: V;model:abominar;fonts:LT
+empindongar=categories: V;model:pregar;fonts: DNV;
 empinyar=categories: V;model:cantar;fonts:LT
 empiocar=categories: V;model:trencar;fonts:LT
 empipar=categories: V;model:cantar;fonts:LT

@@ -22355,6 +22355,7 @@ empetràcia=categories: F;fonts: LT;
 empiema=categories: M;fonts: LT;
 empiesi=categories: F;fonts: LT;
 empilament=categories: M;fonts: LT;
+empindongament=categories: M;fonts: DNV;
 empipada=categories: F;fonts: LT;
 empipament=categories: M;fonts: LT;
 empireuma=categories: M;fonts: LT;
