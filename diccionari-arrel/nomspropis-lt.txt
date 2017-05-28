@@ -14601,6 +14601,7 @@ Northúmbria Northúmbria NPCSG00
 Noruega Noruega NPFSG00
 Norwich Norwich NPCSG00
 Norís Norís NPCSG00
+Nosferatu Nosferatu NPMSSP0
 Nostrort Nostrort NPCNSP0
 Not Not NPCNSP0
 Notepad Notepad NPCNO00
