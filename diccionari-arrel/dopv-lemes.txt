@@ -8484,7 +8484,6 @@ barba
 barba-reveixí
 barba-roig
 barba-ros
-barbarrat
 barbablanc
 barbabrut
 barbacana
@@ -8512,6 +8511,7 @@ barbaresc
 barbarisme
 barbaritat
 barbaritzar
+barbarrat
 barbat
 barbatxo
 barbejar
@@ -8629,11 +8629,11 @@ barquetot
 barquiller
 barquillo
 barra
-barrac
 barraample
 barrabassada
 barrabomba
 barrabàs
+barrac
 barraca
 barracam
 barracar
@@ -9414,7 +9414,6 @@ bessonada
 bessonar
 bessoner
 bessó
-bestller
 bestiada
 bestial
 bestialitat
@@ -9430,6 +9429,7 @@ bestinal
 bestio
 bestiola
 bestioler
+bestller
 bestornar
 bestraure
 bestreta
@@ -10133,11 +10133,11 @@ bobinot
 boc
 boca
 boca-rugat
-bocac
 bocaample
 bocabadant
 bocabadat
 bocabarra
+bocac
 bocaclòs
 bocada
 bocadents
@@ -12307,15 +12307,15 @@ calúmnia
 cama
 cama-roig
 cama-roja
+camabruna
 camac
 camaca
-camagat
-camabruna
 camacoix
 camacuc
 camacurt
 camada
 camafeu
+camagat
 camagroc
 camal
 camaldulenc
@@ -26602,7 +26602,6 @@ enfrontament
 enfrontar
 enfullar
 enfundar
-enfundar
 enfuriament
 enfuriar
 enfuriat
@@ -30833,7 +30832,6 @@ estigmàtic
 estigonematal
 estil
 estilar
-estilar
 estilet
 estiliforme
 estilista
@@ -33621,7 +33619,6 @@ fistic
 fistonar
 fistonat
 fistonejar
-fistular
 fistular
 fistulització
 fistulós
@@ -37675,7 +37672,6 @@ guaraní
 guarda
 guarda-roba
 guarda-rodes
-guardagells
 guardaagulles
 guardabarrera
 guardabosc
@@ -37694,6 +37690,7 @@ guardaesquena
 guardafoc
 guardafred
 guardafrens
+guardagells
 guardajoies
 guardamarenc
 guardament
@@ -46202,7 +46199,6 @@ mardanejar
 marduix
 mardà
 mare
-marelva
 marea
 mareal
 marededéu
@@ -46213,6 +46209,7 @@ marejada
 marejador
 marejar
 marejol
+marelva
 maremàgnum
 marenda
 marengo
@@ -46554,8 +46551,6 @@ mata
 mata-degolla
 mata-racons
 mata-rates
-matagells
-matathòmens
 mata-sogres
 mata-soldats
 mataaranyes
@@ -46581,6 +46576,7 @@ matafuller
 matafum
 matagall
 matagallina
+matagells
 matagent
 matagós
 matalaf
@@ -46609,6 +46605,7 @@ matar
 matarrada
 matasser
 matat
+matathòmens
 matavelles
 matavinya
 matavius
@@ -51669,7 +51666,6 @@ oliva
 olivaci
 olivada
 olivaire
-olivar
 olivar
 olivarda
 olivardó
@@ -56896,7 +56892,6 @@ pollancreda
 pollancró
 pollancó
 pollar
-pollar
 pollastrada
 pollastre
 pollastrejar
@@ -57217,8 +57212,6 @@ port
 porta
 porta-revistes
 porta-rotllos
-portagells
-portalles
 porta-xecs
 portaaeronaus
 portaagulles
@@ -57262,6 +57255,7 @@ portafurgadents
 portafusell
 portafusibles
 portagaleres
+portagells
 portaguió
 portahelicòpters
 portal
@@ -57270,6 +57264,7 @@ portalatge
 portaler
 portalera
 portallapis
+portalles
 portallibres
 portalligacames
 portalliteres
