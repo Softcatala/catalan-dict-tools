@@ -25780,6 +25780,7 @@ xop xopa=categories: A;fonts: LT;
 xorc xorca=categories: A;fonts: LT;
 xorigueresc xorigueresca=categories: A;fonts: LT;
 xoroll xorolla=categories: A;fonts: LT;
+xorrollós xorrollosa=categories: A;fonts: DNV;
 xosa=categories: A;fonts: LT;
 xotro xotra=categories: A;fonts: LT;
 xotxo xotxa=categories: A;fonts: LT;
