@@ -243,6 +243,14 @@ bollida
 bollidor
 bollit
 bollitori
+bolliment
+manifessejar
+embainar
+desembainar
+embalsemar
+arropir
+arrunsar
+acevar
 aborregar
 aborregada
 aborregat
