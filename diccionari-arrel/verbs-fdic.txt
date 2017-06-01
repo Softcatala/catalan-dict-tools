@@ -6589,6 +6589,7 @@ inadmetre=categories: V;model:admetre;fonts: termcat;
 inaugurar=categories: V;model:cantar;fonts:LT
 incapacitar=categories: V;model:cantar;fonts:LT
 incardinar=categories: V;model:abominar;fonts:LT
+incautar=categories: V;model:cantar;fonts: dnv;
 incendiar=categories: V;model:crear;fonts:LT
 incentivar=categories: V;model:cantar;fonts:LT
 incidir=categories: V;model:servir;fonts:LT

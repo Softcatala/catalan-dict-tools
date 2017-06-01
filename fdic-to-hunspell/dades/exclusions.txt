@@ -251,6 +251,7 @@ embalsemar
 arropir
 arrunsar
 acevar
+incautar
 aborregar
 aborregada
 aborregat
