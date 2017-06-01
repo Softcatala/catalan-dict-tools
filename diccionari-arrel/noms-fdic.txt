@@ -44920,6 +44920,7 @@ opistògrafa=categories: F;fonts: LT;
 opistòton=categories: M;fonts: LT;
 opisòmetre=categories: M;fonts: LT;
 opobàlsam=categories: M;fonts: LT;
+opobàlsem=categories: M;fonts: dnv-;
 opolat=categories: M;fonts: LT;
 opolenc opolenca=categories: MF;fonts: LT;
 opolit=categories: M;fonts: LT;
