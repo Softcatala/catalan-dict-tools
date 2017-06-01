@@ -273,6 +273,7 @@ embainador
 acevament
 arropiment
 arrunsament
+ultravioleta
 aborregar
 aborregada
 aborregat

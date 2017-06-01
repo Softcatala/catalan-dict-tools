@@ -24724,6 +24724,7 @@ ultratjós ultratjosa=categories: A;fonts: LT;
 ultratropical=categories: A;fonts: LT;
 ultraviolat ultraviolada=categories: A;fonts: LT;
 ultraviolent ultraviolenta=categories: A;fonts: LT;
+ultravioleta=categories: AI;fonts: DNV;
 ultrazodiacal=categories: A;fonts: LT;
 ulòtric ulòtrica=categories: A;fonts: LT;
 umbel·lar=categories: A;fonts: LT;
