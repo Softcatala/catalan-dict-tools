@@ -231,6 +231,17 @@ tio
 tios
 
 EXCLOU LEMA DE catalan
+bollir
+rebollir
+ensaig
+ensajar
+arxipèleg
+pèleg
+bàlsem
+bollida
+bollidor
+bollit
+bollitori
 aborregar
 aborregada
 aborregat
