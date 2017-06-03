@@ -26397,6 +26397,7 @@ etopeia=categories: F;fonts: LT;
 etrusc=categories: M;fonts: LT;
 etrusca=categories: F;fonts: LT;
 etruscologia=categories: F;fonts: LT;
+etruscòleg etruscòloga=categories: MF;fonts: derivat;
 etusa=categories: F;fonts: LT;
 etzibada=categories: F;fonts: LT;
 età=categories: M;fonts: LT;

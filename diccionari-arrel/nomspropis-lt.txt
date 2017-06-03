@@ -9857,6 +9857,7 @@ Gyor Gyor NPCSG00
 Győr Győr NPCSG00
 Gàlvez Gàlvez NPCNSP0
 Gàl·lia Gàl·lia NPFSG00
+Gàl·lies Gàl·lia NPFPG00
 Gàmbia Gàmbia NPFSG00
 Gàrzola Gàrzola NPCSG00
 Gáldar Gáldar NPCSG00
