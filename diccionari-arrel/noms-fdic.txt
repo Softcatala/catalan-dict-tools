@@ -13197,6 +13197,7 @@ ceballot=categories: M;fonts: LT;
 cebar=categories: M;fonts: LT;
 cebeta=categories: F;fonts: LT;
 cebiche=categories: M;fonts: LT;
+cebollada=categories: F;fonts: DNV;
 ceboller=categories: M;fonts: LT;
 cebollí=categories: M;fonts: LT;
 cebrero=categories: M;fonts: LT;

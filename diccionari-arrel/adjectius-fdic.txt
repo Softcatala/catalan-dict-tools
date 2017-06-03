@@ -11647,6 +11647,7 @@ gímnic gímnica=categories: A;fonts: LT;
 gòtic gòtica=categories: A;fonts: LT;
 gúrida=categories: AM;fonts: LT;
 güelf güelfa=categories: A;fonts: LT;
+habilidós habilidosa=categories: A;fonts: dnv-;
 habilitador habilitadora=categories: A;fonts: LT;
 habilíssim habilíssima=categories: AA;fonts: LT;
 habitable=categories: A;fonts: LT;
