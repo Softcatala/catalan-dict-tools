@@ -12894,6 +12894,7 @@ casuller=categories: M;fonts: LT;
 casullera=categories: F;fonts: LT;
 casulleria=categories: F;fonts: LT;
 casunyet=categories: M;fonts: LT;
+casup=categories: M;fonts: DNV;
 casuàrid=categories: M;fonts: LT;
 casuística=categories: F;fonts: LT;
 casxolong=categories: M;fonts: LT;
