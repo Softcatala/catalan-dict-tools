@@ -20633,7 +20633,6 @@ Tornavolt Tornavolt NPCNSP0
 Torndelacreu Torndelacreu NPCNSP0
 Torne Torne NPCSG00
 Torner Torner NPCNSP0
-Toro Toro NPCSG00
 Toro Toro NPMSG00
 Torogó Torogó NPCSG00
 Toronto Toronto NPCSG00

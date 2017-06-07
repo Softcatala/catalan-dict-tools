@@ -240,6 +240,7 @@ ensajada
 arxipèleg
 pèleg
 bàlsem
+opobàlsem
 bollida
 bollidor
 bollit
