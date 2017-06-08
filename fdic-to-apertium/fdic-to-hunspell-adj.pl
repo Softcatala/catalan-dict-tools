@@ -111,6 +111,9 @@ for my $linia_adj (@adjectius_lt) {
 
 
 sub comprova_adjectiu {
+	if ($linia =~ /^$/) {
+		return;
+	}
     my $linia = $_[0];
     #print "LINIA ***** $linia\n";
     my $flexio_lt = "";
@@ -119,7 +122,7 @@ sub comprova_adjectiu {
     	$lema = $1;
     	$flexio_lt = $2;
     }
-    for my $nomregla (keys %nomsregles) {
+    for my $nomregla (sort keys %nomsregles) {
     	#print "NOM REGLA: $nomregla\n";
     	my $terminacio = $nomsregles{$nomregla};
     	if ($lema =~ /^(.*)$terminacio$/) {
