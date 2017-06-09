@@ -55,9 +55,6 @@ SOFTCATA: aerocist FORMES: NCMP000 aerocistos NCMP000 aerocists NCMS000 aerocist
 APERTIUM: aeròbic FORMES: NCMS000 aeròbic
 SOFTCATA: aeròbic FORMES: NCMP000 aeròbics NCMS000 aeròbic
 
-APERTIUM: afiliat FORMES: NCFP000 afiliades NCFS000 afiliada NCMP000 afiliats NCMS000 afiliat
-SOFTCATA: afiliat FORMES: NCMP000 afiliats NCMS000 afiliat
-
 APERTIUM: afix FORMES: NCMP000 afixos NCMP000 afixs NCMS000 afix
 SOFTCATA: afix FORMES: NCMP000 afixos NCMS000 afix
 
@@ -202,9 +199,6 @@ SOFTCATA: calma FORMES: NCCP000 calmes NCCS000 calma
 APERTIUM: caloreta FORMES: NCFS000 caloreta
 SOFTCATA: caloreta FORMES: NCFP000 caloretes NCFS000 caloreta
 
-APERTIUM: cambrer FORMES: NCFP000 cambreres NCFS000 cambrera NCMP000 cambrers NCMS000 cambrer
-SOFTCATA: cambrer FORMES: NCMP000 cambrers NCMS000 cambrer
-
 APERTIUM: canadenc FORMES: NCFP000 canadenques NCFS000 canadenca NCMP000 canadencos NCMP000 canadencs NCMS000 canadenc
 SOFTCATA: canadenc FORMES: NCFP000 canadenques NCFS000 canadenca NCMP000 canadencs NCMS000 canadenc
 
@@ -247,23 +241,11 @@ SOFTCATA: centelleig FORMES: NCMP000 centelleigs NCMP000 centellejos NCMS000 cen
 APERTIUM: cerç FORMES: NCMS000 cerç
 SOFTCATA: cerç FORMES: NCMP000 cerços NCMS000 cerç
 
-APERTIUM: cessionari FORMES: NCFP000 cessionàries NCFS000 cessionària NCMP000 cessionaris NCMS000 cessionari
-SOFTCATA: cessionari FORMES: NCMP000 cessionaris NCMS000 cessionari
-
 APERTIUM: ciclocròs FORMES: NCMS000 ciclocròs
 SOFTCATA: ciclocròs FORMES: NCMN000 ciclocròs
 
-APERTIUM: científic FORMES: NCFP000 científiques NCFS000 científica NCMP000 científics NCMS000 científic
-SOFTCATA: científic FORMES: NCMP000 científics NCMS000 científic
-
-APERTIUM: cinèfil FORMES: NCFP000 cinèfiles NCFS000 cinèfila NCMP000 cinèfils NCMS000 cinèfil
-SOFTCATA: cinèfil FORMES: NCMP000 cinèfils NCMS000 cinèfil
-
 APERTIUM: cist FORMES: NCMP000 cists NCMS000 cist
 SOFTCATA: cist FORMES: NCMP000 cistos NCMP000 cists NCMS000 cist
-
-APERTIUM: ciutadà FORMES: NCFP000 ciutadanes NCFS000 ciutadana NCMP000 ciutadans NCMS000 ciutadà
-SOFTCATA: ciutadà FORMES: NCMP000 ciutadans NCMS000 ciutadà
 
 APERTIUM: civil FORMES: NCCP000 civils NCCS000 civil
 SOFTCATA: civil FORMES: NCMP000 civils NCMS000 civil
@@ -271,53 +253,20 @@ SOFTCATA: civil FORMES: NCMP000 civils NCMS000 civil
 APERTIUM: cloroplast FORMES: NCMP000 cloroplasts NCMS000 cloroplast
 SOFTCATA: cloroplast FORMES: NCMP000 cloroplastos NCMP000 cloroplasts NCMS000 cloroplast
 
-APERTIUM: cobrador FORMES: NCFP000 cobradores NCFS000 cobradora NCMP000 cobradors NCMS000 cobrador
-SOFTCATA: cobrador FORMES: NCMP000 cobradors NCMS000 cobrador
-
-APERTIUM: cofundador FORMES: NCFP000 cofundadores NCFS000 cofundadora NCMP000 cofundadors NCMS000 cofundador
-SOFTCATA: cofundador FORMES: NCMP000 cofundadors NCMS000 cofundador
-
-APERTIUM: colom FORMES: NCFP000 colomes NCFS000 coloma NCMP000 coloms NCMS000 colom
-SOFTCATA: colom FORMES: NCMP000 coloms NCMS000 colom
-
 APERTIUM: colombià FORMES: NCFP000 colombianes NCFS000 colombiana NCMP000 colombians NCMS000 colombià
 SOFTCATA: colombià FORMES: NCMP000 colombians NCMS000 colombià
-
-APERTIUM: colon FORMES: NCFP000 colones NCFS000 colona NCMP000 colons NCMS000 colon
-SOFTCATA: colon FORMES: NCMP000 colons NCMS000 colon
 
 APERTIUM: color FORMES: NCMP000 colors NCMS000 color
 SOFTCATA: color FORMES: NCCP000 colors NCCS000 color
 
-APERTIUM: col·laborador FORMES: NCFP000 col·laboradores NCFS000 col·laboradora NCMP000 col·laboradors NCMS000 col·laborador
-SOFTCATA: col·laborador FORMES: NCMP000 col·laboradors NCMS000 col·laborador
-
-APERTIUM: comediant FORMES: NCFP000 comediantes NCFS000 comedianta NCMP000 comediants NCMS000 comediant
-SOFTCATA: comediant FORMES: NCMP000 comediants NCMS000 comediant
-
-APERTIUM: comentador FORMES: NCFP000 comentadores NCFS000 comentadora NCMP000 comentadors NCMS000 comentador
-SOFTCATA: comentador FORMES: NCMP000 comentadors NCMS000 comentador
-
 APERTIUM: comerciant FORMES: NCCP000 comerciants NCCS000 comerciant
-SOFTCATA: comerciant FORMES: NCMP000 comerciants NCMS000 comerciant
-
-APERTIUM: company FORMES: NCFP000 companyes NCFS000 companya NCMP000 companys NCMS000 company
-SOFTCATA: company FORMES: NCMP000 companys NCMS000 company
+SOFTCATA: comerciant FORMES: NCFP000 comerciantes NCFS000 comercianta NCMP000 comerciants NCMS000 comerciant
 
 APERTIUM: comparsa FORMES: NCFP000 comparses NCFS000 comparsa
 SOFTCATA: comparsa FORMES: NCCP000 comparses NCCS000 comparsa
 
 APERTIUM: complex FORMES: NCMP000 complexos NCMP000 complexs NCMS000 complex
 SOFTCATA: complex FORMES: NCMP000 complexos NCMS000 complex
-
-APERTIUM: componedor FORMES: NCFP000 componedores NCFS000 componedora NCMP000 componedors NCMS000 componedor
-SOFTCATA: componedor FORMES: NCMP000 componedors NCMS000 componedor
-
-APERTIUM: compositor FORMES: NCFP000 compositores NCFS000 compositora NCMP000 compositors NCMS000 compositor
-SOFTCATA: compositor FORMES: NCMP000 compositors NCMS000 compositor
-
-APERTIUM: comprador FORMES: NCFP000 compradores NCFS000 compradora NCMP000 compradors NCMS000 comprador
-SOFTCATA: comprador FORMES: NCMP000 compradors NCMS000 comprador
 
 APERTIUM: computador FORMES: NCFP000 computadores NCFS000 computadora NCMP000 computadors NCMS000 computador
 SOFTCATA: computador FORMES: NCMP000 computadors NCMS000 computador
