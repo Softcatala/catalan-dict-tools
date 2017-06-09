@@ -46,38 +46,8 @@ SOFTCATA: XML FORMES: NCMN000 XML
 APERTIUM: abat FORMES: NCFP000 abadesses NCFS000 abadessa NCMP000 abats NCMS000 abat
 SOFTCATA: abat FORMES: NCMP000 abats NCMS000 abat
 
-APERTIUM: acadèmic FORMES: NCFP000 acadèmiques NCFS000 acadèmica NCMP000 acadèmics NCMS000 acadèmic
-SOFTCATA: acadèmic FORMES: NCMP000 acadèmics NCMS000 acadèmic
-
-APERTIUM: acusador FORMES: NCFP000 acusadores NCFS000 acusadora NCMP000 acusadors NCMS000 acusador
-SOFTCATA: acusador FORMES: NCMP000 acusadors NCMS000 acusador
-
 APERTIUM: acusatiu FORMES: NCFP000 acusatives NCFS000 acusativa NCMP000 acusatius NCMS000 acusatiu
 SOFTCATA: acusatiu FORMES: NCMP000 acusatius NCMS000 acusatiu
-
-APERTIUM: adjudicatari FORMES: NCFP000 adjudicatàries NCFS000 adjudicatària NCMP000 adjudicataris NCMS000 adjudicatari
-SOFTCATA: adjudicatari FORMES: NCMP000 adjudicataris NCMS000 adjudicatari
-
-APERTIUM: adjunt FORMES: NCFP000 adjuntes NCFS000 adjunta NCMP000 adjunts NCMS000 adjunt
-SOFTCATA: adjunt FORMES: NCMP000 adjunts NCMS000 adjunt
-
-APERTIUM: administrador FORMES: NCFP000 administradores NCFS000 administradora NCMP000 administradors NCMS000 administrador
-SOFTCATA: administrador FORMES: NCMP000 administradors NCMS000 administrador
-
-APERTIUM: administratiu FORMES: NCFP000 administratives NCFS000 administrativa NCMP000 administratius NCMS000 administratiu
-SOFTCATA: administratiu FORMES: NCMP000 administratius NCMS000 administratiu
-
-APERTIUM: adorador FORMES: NCFP000 adoradores NCFS000 adoradora NCMP000 adoradors NCMS000 adorador
-SOFTCATA: adorador FORMES: NCMP000 adoradors NCMS000 adorador
-
-APERTIUM: adult FORMES: NCFP000 adultes NCFS000 adulta NCMP000 adults NCMS000 adult
-SOFTCATA: adult FORMES: NCMP000 adults NCMS000 adult
-
-APERTIUM: adversari FORMES: NCFP000 adversàries NCFS000 adversària NCMP000 adversaris NCMS000 adversari
-SOFTCATA: adversari FORMES: NCMP000 adversaris NCMS000 adversari
-
-APERTIUM: advocat FORMES: NCFP000 advocades NCFS000 advocada NCMP000 advocats NCMS000 advocat
-SOFTCATA: advocat FORMES: NCMP000 advocats NCMS000 advocat
 
 APERTIUM: aerocist FORMES: NCMP000 aerocists NCMS000 aerocist
 SOFTCATA: aerocist FORMES: NCMP000 aerocistos NCMP000 aerocists NCMS000 aerocist
@@ -85,74 +55,29 @@ SOFTCATA: aerocist FORMES: NCMP000 aerocistos NCMP000 aerocists NCMS000 aerocist
 APERTIUM: aeròbic FORMES: NCMS000 aeròbic
 SOFTCATA: aeròbic FORMES: NCMP000 aeròbics NCMS000 aeròbic
 
-APERTIUM: afeccionat FORMES: NCFP000 afeccionades NCFS000 afeccionada NCMP000 afeccionats NCMS000 afeccionat
-SOFTCATA: afeccionat FORMES: NCMP000 afeccionats NCMS000 afeccionat
-
-APERTIUM: aficionat FORMES: NCFP000 aficionades NCFS000 aficionada NCMP000 aficionats NCMS000 aficionat
-SOFTCATA: aficionat FORMES: NCMP000 aficionats NCMS000 aficionat
-
 APERTIUM: afiliat FORMES: NCFP000 afiliades NCFS000 afiliada NCMP000 afiliats NCMS000 afiliat
 SOFTCATA: afiliat FORMES: NCMP000 afiliats NCMS000 afiliat
 
 APERTIUM: afix FORMES: NCMP000 afixos NCMP000 afixs NCMS000 afix
 SOFTCATA: afix FORMES: NCMP000 afixos NCMS000 afix
 
-APERTIUM: africà FORMES: NCFP000 africanes NCFS000 africana NCMP000 africans NCMS000 africà
-SOFTCATA: africà FORMES: NCMP000 africans NCMS000 africà
-
 APERTIUM: agost FORMES: NCMP000 agosts NCMS000 agost
 SOFTCATA: agost FORMES: NCMP000 agostos NCMP000 agosts NCMS000 agost
 
-APERTIUM: agregat FORMES: NCFP000 agregades NCFS000 agregada NCMP000 agregats NCMS000 agregat
-SOFTCATA: agregat FORMES: NCMP000 agregats NCMS000 agregat
-
-APERTIUM: agressor FORMES: NCFP000 agressores NCFS000 agressora NCMP000 agressors NCMS000 agressor
-SOFTCATA: agressor FORMES: NCMP000 agressors NCMS000 agressor
-
-APERTIUM: agricultor FORMES: NCFP000 agricultores NCFS000 agricultora NCMP000 agricultors NCMS000 agricultor
-SOFTCATA: agricultor FORMES: NCMP000 agricultors NCMS000 agricultor
-
 APERTIUM: ajudant FORMES: NCCP000 ajudants NCCS000 ajudant
-SOFTCATA: ajudant FORMES: NCMP000 ajudants NCMS000 ajudant
+SOFTCATA: ajudant FORMES: NCFP000 ajudantes NCFS000 ajudanta NCMP000 ajudants NCMS000 ajudant
 
 APERTIUM: alcalde FORMES: NCFP000 alcaldesses NCFS000 alcaldessa NCMP000 alcaldes NCMS000 alcalde
 SOFTCATA: alcalde FORMES: NCCP000 alcaldes NCCS000 alcalde
 
-APERTIUM: alcohòlic FORMES: NCFP000 alcohòliques NCFS000 alcohòlica NCMP000 alcohòlics NCMS000 alcohòlic
-SOFTCATA: alcohòlic FORMES: NCMP000 alcohòlics NCMS000 alcohòlic
-
-APERTIUM: alemany FORMES: NCFP000 alemanyes NCFS000 alemanya NCMP000 alemanys NCMS000 alemany
-SOFTCATA: alemany FORMES: NCMP000 alemanys NCMS000 alemany
-
 APERTIUM: alfals FORMES: NCMP000 alfalsos NCMS000 alfals
 SOFTCATA: alfals FORMES: NCMN000 alfals
-
-APERTIUM: algerià FORMES: NCFP000 algerianes NCFS000 algeriana NCMP000 algerians NCMS000 algerià
-SOFTCATA: algerià FORMES: NCMP000 algerians NCMS000 algerià
 
 APERTIUM: algicida FORMES: NCCP000 algicides NCCS000 algicida
 SOFTCATA: algicida FORMES: NCMP000 algicides NCMS000 algicida
 
-APERTIUM: aliat FORMES: NCFP000 aliades NCFS000 aliada NCMP000 aliats NCMS000 aliat
-SOFTCATA: aliat FORMES: NCMP000 aliats NCMS000 aliat
-
 APERTIUM: almogàver FORMES: NCCP000 almogàvers NCCS000 almogàver
 SOFTCATA: almogàver FORMES: NCMP000 almogàvers NCMS000 almogàver
-
-APERTIUM: alsacià FORMES: NCFP000 alsacianes NCFS000 alsaciana NCMP000 alsacians NCMS000 alsacià
-SOFTCATA: alsacià FORMES: NCMP000 alsacians NCMS000 alsacià
-
-APERTIUM: alumne FORMES: NCCP000 alumnes NCFS000 alumna NCMS000 alumne
-SOFTCATA: alumne FORMES: NCMP000 alumnes NCMS000 alumne
-
-APERTIUM: ambaixador FORMES: NCFP000 ambaixadores NCFS000 ambaixadora NCMP000 ambaixadors NCMS000 ambaixador
-SOFTCATA: ambaixador FORMES: NCMP000 ambaixadors NCMS000 ambaixador
-
-APERTIUM: americà FORMES: NCFP000 americanes NCFS000 americana NCMP000 americans NCMS000 americà
-SOFTCATA: americà FORMES: NCMP000 americans NCMS000 americà
-
-APERTIUM: amfitrió FORMES: NCFP000 amfitriones NCFS000 amfitriona NCMP000 amfitrions NCMS000 amfitrió
-SOFTCATA: amfitrió FORMES: NCMP000 amfitrions NCMS000 amfitrió
 
 APERTIUM: amiloplast FORMES: NCMP000 amiloplasts NCMS000 amiloplast
 SOFTCATA: amiloplast FORMES: NCMP000 amiloplastos NCMP000 amiloplasts NCMS000 amiloplast
@@ -169,29 +94,11 @@ SOFTCATA: anatema FORMES: NCMP000 anatemes NCMS000 anatema
 APERTIUM: ancestre FORMES: NCCP000 ancestres NCCS000 ancestre
 SOFTCATA: ancestre FORMES: NCMP000 ancestres NCMS000 ancestre
 
-APERTIUM: ancià FORMES: NCFP000 ancianes NCFS000 anciana NCMP000 ancians NCMS000 ancià
-SOFTCATA: ancià FORMES: NCMP000 ancians NCMS000 ancià
-
-APERTIUM: andalús FORMES: NCFP000 andaluses NCFS000 andalusa NCMP000 andalusos NCMS000 andalús
-SOFTCATA: andalús FORMES: NCMP000 andalusos NCMS000 andalús
-
-APERTIUM: anglicà FORMES: NCFP000 anglicanes NCFS000 anglicana NCMP000 anglicans NCMS000 anglicà
-SOFTCATA: anglicà FORMES: NCMP000 anglicans NCMS000 anglicà
-
-APERTIUM: anglosaxó FORMES: NCFP000 anglosaxones NCFS000 anglosaxona NCMP000 anglosaxons NCMS000 anglosaxó
-SOFTCATA: anglosaxó FORMES: NCMP000 anglosaxons NCMS000 anglosaxó
-
 APERTIUM: annex FORMES: NCMP000 annexos NCMP000 annexs NCMS000 annex
 SOFTCATA: annex FORMES: NCMP000 annexos NCMS000 annex
 
-APERTIUM: antecessor FORMES: NCFP000 antecessores NCFS000 antecessora NCMP000 antecessors NCMS000 antecessor
-SOFTCATA: antecessor FORMES: NCMP000 antecessors NCMS000 antecessor
-
 APERTIUM: antiheroi FORMES: NCMP000 antiherois NCMS000 antiheroi
 SOFTCATA: antiheroi FORMES: NCFP000 antiheroïnes NCFS000 antiheroïna NCMP000 antiherois NCMS000 antiheroi
-
-APERTIUM: anònim FORMES: NCFP000 anònimes NCFS000 anònima NCMP000 anònims NCMS000 anònim
-SOFTCATA: anònim FORMES: NCMP000 anònims NCMS000 anònim
 
 APERTIUM: aparellador FORMES: NCFP000 aparelladores NCFS000 aparelladora NCMP000 aparelladors NCMS000 aparellador
 SOFTCATA: aparellador FORMES: NCMP000 aparelladors NCMS000 aparellador
@@ -205,149 +112,44 @@ SOFTCATA: aprest FORMES: NCMP000 aprestos NCMP000 aprests NCMS000 aprest
 APERTIUM: ardor FORMES: NCMP000 ardors NCMS000 ardor
 SOFTCATA: ardor FORMES: NCCP000 ardors NCCS000 ardor
 
-APERTIUM: argentí FORMES: NCFP000 argentines NCFS000 argentina NCMP000 argentins NCMS000 argentí
-SOFTCATA: argentí FORMES: NCMP000 argentins NCMS000 argentí
-
-APERTIUM: arrendador FORMES: NCFP000 arrendadores NCFS000 arrendadora NCMP000 arrendadors NCMS000 arrendador
-SOFTCATA: arrendador FORMES: NCMP000 arrendadors NCMS000 arrendador
-
-APERTIUM: arrendatari FORMES: NCFP000 arrendatàries NCFS000 arrendatària NCMP000 arrendataris NCMS000 arrendatari
-SOFTCATA: arrendatari FORMES: NCMP000 arrendataris NCMS000 arrendatari
-
 APERTIUM: arrest FORMES: NCMP000 arrests NCMS000 arrest
 SOFTCATA: arrest FORMES: NCMP000 arrestos NCMP000 arrests NCMS000 arrest
-
-APERTIUM: artesà FORMES: NCFP000 artesanes NCFS000 artesana NCMP000 artesans NCMS000 artesà
-SOFTCATA: artesà FORMES: NCMP000 artesans NCMS000 artesà
-
-APERTIUM: arxiver FORMES: NCFP000 arxiveres NCFS000 arxivera NCMP000 arxivers NCMS000 arxiver
-SOFTCATA: arxiver FORMES: NCMP000 arxivers NCMS000 arxiver
-
-APERTIUM: asiàtic FORMES: NCFP000 asiàtiques NCFS000 asiàtica NCMP000 asiàtics NCMS000 asiàtic
-SOFTCATA: asiàtic FORMES: NCMP000 asiàtics NCMS000 asiàtic
-
-APERTIUM: assassí FORMES: NCFP000 assassines NCFS000 assassina NCMP000 assassins NCMS000 assassí
-SOFTCATA: assassí FORMES: NCMP000 assassins NCMS000 assassí
-
-APERTIUM: assegurador FORMES: NCFP000 asseguradores NCFS000 asseguradora NCMP000 asseguradors NCMS000 assegurador
-SOFTCATA: assegurador FORMES: NCMP000 asseguradors NCMS000 assegurador
-
-APERTIUM: assegurat FORMES: NCFP000 assegurades NCFS000 assegurada NCMP000 assegurats NCMS000 assegurat
-SOFTCATA: assegurat FORMES: NCMP000 assegurats NCMS000 assegurat
 
 APERTIUM: assistent FORMES: NCFP000 assistentes NCFS000 assistenta NCMP000 assistents NCMS000 assistent
 SOFTCATA: assistent FORMES: NCCP000 assistents NCCS000 assistent
 
-APERTIUM: associat FORMES: NCFP000 associades NCFS000 associada NCMP000 associats NCMS000 associat
-SOFTCATA: associat FORMES: NCMP000 associats NCMS000 associat
-
-APERTIUM: astrònom FORMES: NCFP000 astrònomes NCFS000 astrònoma NCMP000 astrònoms NCMS000 astrònom
-SOFTCATA: astrònom FORMES: NCMP000 astrònoms NCMS000 astrònom
-
-APERTIUM: asturià FORMES: NCFP000 asturianes NCFS000 asturiana NCMP000 asturians NCMS000 asturià
-SOFTCATA: asturià FORMES: NCMP000 asturians NCMS000 asturià
-
-APERTIUM: ateu FORMES: NCFP000 atees NCFS000 atea NCMP000 ateus NCMS000 ateu
-SOFTCATA: ateu FORMES: NCMP000 ateus NCMS000 ateu
-
 APERTIUM: atletisme FORMES: NCMS000 atletisme
 SOFTCATA: atletisme FORMES: NCMP000 atletismes NCMS000 atletisme
-
-APERTIUM: atracador FORMES: NCFP000 atracadores NCFS000 atracadora NCMP000 atracadors NCMS000 atracador
-SOFTCATA: atracador FORMES: NCMP000 atracadors NCMS000 atracador
 
 APERTIUM: atractiu FORMES: NCFP000 atractives NCFS000 atractiva NCMP000 atractius NCMS000 atractiu
 SOFTCATA: atractiu FORMES: NCMP000 atractius NCMS000 atractiu
 
-APERTIUM: aturat FORMES: NCFP000 aturades NCFS000 aturada NCMP000 aturats NCMS000 aturat
-SOFTCATA: aturat FORMES: NCMP000 aturats NCMS000 aturat
-
-APERTIUM: auditor FORMES: NCFP000 auditores NCFS000 auditora NCMP000 auditors NCMS000 auditor
-SOFTCATA: auditor FORMES: NCMP000 auditors NCMS000 auditor
-
-APERTIUM: australià FORMES: NCFP000 australianes NCFS000 australiana NCMP000 australians NCMS000 australià
-SOFTCATA: australià FORMES: NCMP000 australians NCMS000 australià
-
-APERTIUM: austríac FORMES: NCFP000 austríaques NCFS000 austríaca NCMP000 austríacs NCMS000 austríac
-SOFTCATA: austríac FORMES: NCMP000 austríacs NCMS000 austríac
-
 APERTIUM: autoajuda FORMES: NCFP000 autoajudes NCFS000 autoajuda
 SOFTCATA: autoajuda FORMES: NCFS000 autoajuda
-
-APERTIUM: autor FORMES: NCFP000 autores NCFS000 autora NCMP000 autors NCMS000 autor
-SOFTCATA: autor FORMES: NCMP000 autors NCMS000 autor
-
-APERTIUM: avalador FORMES: NCFP000 avaladores NCFS000 avaladora NCMP000 avaladors NCMS000 avalador
-SOFTCATA: avalador FORMES: NCMP000 avaladors NCMS000 avalador
-
-APERTIUM: avantpassat FORMES: NCFP000 avantpassades NCFS000 avantpassada NCMP000 avantpassats NCMS000 avantpassat
-SOFTCATA: avantpassat FORMES: NCMP000 avantpassats NCMS000 avantpassat
-
-APERTIUM: aviador FORMES: NCFP000 aviadores NCFS000 aviadora NCMP000 aviadors NCMS000 aviador
-SOFTCATA: aviador FORMES: NCMP000 aviadors NCMS000 aviador
-
-APERTIUM: babiloni FORMES: NCFP000 babilònies NCFS000 babilònia NCMP000 babilonis NCMS000 babiloni
-SOFTCATA: babiloni FORMES: NCMP000 babilonis NCMS000 babiloni
 
 APERTIUM: baix FORMES: NCMP000 baixos NCMP000 baixs NCMS000 baix
 SOFTCATA: baix FORMES: NCMP000 baixos NCMS000 baix
 
-APERTIUM: ballador FORMES: NCFP000 balladores NCFS000 balladora NCMP000 balladors NCMS000 ballador
-SOFTCATA: ballador FORMES: NCMP000 balladors NCMS000 ballador
-
-APERTIUM: banderer FORMES: NCFP000 bandereres NCFS000 banderera NCMP000 banderers NCMS000 banderer
-SOFTCATA: banderer FORMES: NCMP000 banderers NCMS000 banderer
-
-APERTIUM: bandoler FORMES: NCFP000 bandoleres NCFS000 bandolera NCMP000 bandolers NCMS000 bandoler
-SOFTCATA: bandoler FORMES: NCMP000 bandolers NCMS000 bandoler
-
-APERTIUM: banquer FORMES: NCFP000 banqueres NCFS000 banquera NCMP000 banquers NCMS000 banquer
-SOFTCATA: banquer FORMES: NCMP000 banquers NCMS000 banquer
-
-APERTIUM: barber FORMES: NCFP000 barberes NCFS000 barbera NCMP000 barbers NCMS000 barber
-SOFTCATA: barber FORMES: NCMP000 barbers NCMS000 barber
-
 APERTIUM: baró FORMES: NCFP000 baronesses NCFS000 baronessa NCMP000 barons NCMS000 baró
 SOFTCATA: baró FORMES: NCMP000 barons NCMS000 baró
-
-APERTIUM: basc FORMES: NCFP000 basques NCFS000 basca NCMP000 bascos NCMP000 bascs NCMS000 basc
-SOFTCATA: basc FORMES: NCMP000 bascos NCMP000 bascs NCMS000 basc
-
-APERTIUM: batedor FORMES: NCFP000 batedores NCFS000 batedora NCMP000 batedors NCMS000 batedor
-SOFTCATA: batedor FORMES: NCMP000 batedors NCMS000 batedor
 
 APERTIUM: bateria FORMES: NCFP000 bateries NCFS000 bateria
 SOFTCATA: bateria FORMES: NCCP000 bateries NCCS000 bateria
 
 APERTIUM: batxiller FORMES: NCCP000 batxillers NCCS000 batxiller
-SOFTCATA: batxiller FORMES: NCMP000 batxillers NCMS000 batxiller
-
-APERTIUM: beat FORMES: NCFP000 beates NCFS000 beata NCMP000 beats NCMS000 beat
-SOFTCATA: beat FORMES: NCMP000 beats NCMS000 beat
-
-APERTIUM: becari FORMES: NCFP000 becàries NCFS000 becària NCMP000 becaris NCMS000 becari
-SOFTCATA: becari FORMES: NCMP000 becaris NCMS000 becari
+SOFTCATA: batxiller FORMES: NCFP000 batxilleres NCFS000 batxillera NCMP000 batxillers NCMS000 batxiller
 
 APERTIUM: beisbol FORMES: NCMS000 beisbol
 SOFTCATA: beisbol FORMES: NCMP000 beisbols NCMS000 beisbol
 
-APERTIUM: benjamí FORMES: NCFP000 benjamines NCFS000 benjamina NCMP000 benjamins NCMS000 benjamí
-SOFTCATA: benjamí FORMES: NCMP000 benjamins NCMS000 benjamí
-
 APERTIUM: besllum FORMES: NCMP000 besllums NCMS000 besllum
 SOFTCATA: besllum FORMES: NCFP000 besllums NCFS000 besllum
-
-APERTIUM: besnét FORMES: NCFP000 besnétes NCFS000 besnéta NCMP000 besnéts NCMS000 besnét
-SOFTCATA: besnét FORMES: NCMP000 besnéts NCMS000 besnét
 
 APERTIUM: bestiari FORMES: NCFP000 bestiàries NCFS000 bestiària NCMP000 bestiaris NCMS000 bestiari
 SOFTCATA: bestiari FORMES: NCMP000 bestiaris NCMS000 bestiari
 
 APERTIUM: bioquímic FORMES: NCFP000 bioquímiques NCFS000 bioquímica NCMP000 bioquímicos NCMP000 bioquímics NCMS000 bioquímic
-SOFTCATA: bioquímic FORMES: NCMP000 bioquímics NCMS000 bioquímic
-
-APERTIUM: bioquímica FORMES: NCFS000 bioquímica
-SOFTCATA: bioquímica FORMES: NCFP000 bioquímiques NCFS000 bioquímica
+SOFTCATA: bioquímic FORMES: NCFP000 bioquímiques NCFS000 bioquímica NCMP000 bioquímics NCMS000 bioquímic
 
 APERTIUM: blast FORMES: NCMP000 blasts NCMS000 blast
 SOFTCATA: blast FORMES: NCMP000 blastos NCMP000 blasts NCMS000 blast
@@ -355,47 +157,20 @@ SOFTCATA: blast FORMES: NCMP000 blastos NCMP000 blasts NCMS000 blast
 APERTIUM: bleix FORMES: NCMP000 bleixos NCMP000 bleixs NCMS000 bleix
 SOFTCATA: bleix FORMES: NCMP000 bleixos NCMS000 bleix
 
-APERTIUM: bolivià FORMES: NCFP000 bolivianes NCFS000 boliviana NCMP000 bolivians NCMS000 bolivià
-SOFTCATA: bolivià FORMES: NCMP000 bolivians NCMS000 bolivià
-
 APERTIUM: bombo FORMES: NCMP000 bombos NCMS000 bombo
 SOFTCATA: bombo FORMES: NCCP000 bombos NCCS000 bombo
-
-APERTIUM: borratxo FORMES: NCFP000 borratxes NCFS000 borratxa NCMP000 borratxos NCMS000 borratxo
-SOFTCATA: borratxo FORMES: NCMP000 borratxos NCMS000 borratxo
 
 APERTIUM: botifarra FORMES: NCFP000 botifarres NCFS000 botifarra
 SOFTCATA: botifarra FORMES: NCCP000 botifarres NCCS000 botifarra
 
-APERTIUM: botiguer FORMES: NCFP000 botigueres NCFS000 botiguera NCMP000 botiguers NCMS000 botiguer
-SOFTCATA: botiguer FORMES: NCMP000 botiguers NCMS000 botiguer
-
-APERTIUM: botànic FORMES: NCFP000 botàniques NCFS000 botànica NCMP000 botànics NCMS000 botànic
-SOFTCATA: botànic FORMES: NCMP000 botànics NCMS000 botànic
-
 APERTIUM: boxa FORMES: NCFS000 boxa
 SOFTCATA: boxa FORMES: NCFP000 boxes NCFS000 boxa
-
-APERTIUM: brasiler FORMES: NCFP000 brasileres NCFS000 brasilera NCMP000 brasilers NCMS000 brasiler
-SOFTCATA: brasiler FORMES: NCMP000 brasilers NCMS000 brasiler
-
-APERTIUM: bretó FORMES: NCFP000 bretones NCFS000 bretona NCMP000 bretons NCMS000 bretó
-SOFTCATA: bretó FORMES: NCMP000 bretons NCMS000 bretó
 
 APERTIUM: brigada FORMES: NCFP000 brigades NCFS000 brigada
 SOFTCATA: brigada FORMES: NCCP000 brigades NCCS000 brigada
 
-APERTIUM: britànic FORMES: NCFP000 britàniques NCFS000 britànica NCMP000 britànics NCMS000 britànic
-SOFTCATA: britànic FORMES: NCMP000 britànics NCMS000 britànic
-
-APERTIUM: brodador FORMES: NCFP000 brodadores NCFS000 brodadora NCMP000 brodadors NCMS000 brodador
-SOFTCATA: brodador FORMES: NCMP000 brodadors NCMS000 brodador
-
 APERTIUM: bucaner FORMES: NCFP000 bucaneres NCFS000 bucanera NCMP000 bucaners NCMS000 bucaner
 SOFTCATA: bucaner FORMES: NCMP000 bucaners NCMS000 bucaner
-
-APERTIUM: bugader FORMES: NCFP000 bugaderes NCFS000 bugadera NCMP000 bugaders NCMS000 bugader
-SOFTCATA: bugader FORMES: NCMP000 bugaders NCMS000 bugader
 
 APERTIUM: burofax FORMES: NCMP000 burofaxos NCMP000 burofaxs NCMS000 burofax
 SOFTCATA: burofax FORMES: NCMP000 burofaxos NCMS000 burofax
@@ -406,20 +181,11 @@ SOFTCATA: burí FORMES: NCMP000 burins NCMS000 burí
 APERTIUM: bàsquet FORMES: NCMS000 bàsquet
 SOFTCATA: bàsquet FORMES: NCMP000 bàsquets NCMS000 bàsquet
 
-APERTIUM: bípede FORMES: NCCP000 bípedes NCFS000 bípeda NCMS000 bípede
-SOFTCATA: bípede FORMES: NCMP000 bípedes NCMS000 bípede
-
-APERTIUM: búfal FORMES: NCFP000 búfales NCFS000 búfala NCMP000 búfals NCMS000 búfal
-SOFTCATA: búfal FORMES: NCMP000 búfals NCMS000 búfal
-
 APERTIUM: cabró FORMES: NCFP000 cabrones NCFS000 cabrona NCMP000 cabrons NCMS000 cabró
 SOFTCATA: cabró FORMES: NCMP000 cabrons NCMS000 cabró
 
 APERTIUM: cadell FORMES: NCFP000 cadelles NCFS000 cadella NCMP000 cadells NCMS000 cadell
 SOFTCATA: cadell FORMES: NCMP000 cadells NCMS000 cadell
-
-APERTIUM: caixer FORMES: NCFP000 caixeres NCFS000 caixera NCMP000 caixers NCMS000 caixer
-SOFTCATA: caixer FORMES: NCMP000 caixers NCMS000 caixer
 
 APERTIUM: calaix FORMES: NCMP000 calaixos NCMP000 calaixs NCMS000 calaix
 SOFTCATA: calaix FORMES: NCMP000 calaixos NCMS000 calaix
@@ -436,23 +202,11 @@ SOFTCATA: calma FORMES: NCCP000 calmes NCCS000 calma
 APERTIUM: caloreta FORMES: NCFS000 caloreta
 SOFTCATA: caloreta FORMES: NCFP000 caloretes NCFS000 caloreta
 
-APERTIUM: calumniador FORMES: NCFP000 calumniadores NCFS000 calumniadora NCMP000 calumniadors NCMS000 calumniador
-SOFTCATA: calumniador FORMES: NCMP000 calumniadors NCMS000 calumniador
-
 APERTIUM: cambrer FORMES: NCFP000 cambreres NCFS000 cambrera NCMP000 cambrers NCMS000 cambrer
 SOFTCATA: cambrer FORMES: NCMP000 cambrers NCMS000 cambrer
 
-APERTIUM: camell FORMES: NCFP000 camelles NCFS000 camella NCMP000 camells NCMS000 camell
-SOFTCATA: camell FORMES: NCMP000 camells NCMS000 camell
-
-APERTIUM: camioner FORMES: NCFP000 camioneres NCFS000 camionera NCMP000 camioners NCMS000 camioner
-SOFTCATA: camioner FORMES: NCMP000 camioners NCMS000 camioner
-
-APERTIUM: camperol FORMES: NCFP000 camperoles NCFS000 camperola NCMP000 camperols NCMS000 camperol
-SOFTCATA: camperol FORMES: NCMP000 camperols NCMS000 camperol
-
 APERTIUM: canadenc FORMES: NCFP000 canadenques NCFS000 canadenca NCMP000 canadencos NCMP000 canadencs NCMS000 canadenc
-SOFTCATA: canadenc FORMES: NCMP000 canadencs NCMS000 canadenc
+SOFTCATA: canadenc FORMES: NCFP000 canadenques NCFS000 canadenca NCMP000 canadencs NCMS000 canadenc
 
 APERTIUM: canalla FORMES: NCFS000 canalla
 SOFTCATA: canalla FORMES: NCCP000 canalles NCCS000 canalla
@@ -460,20 +214,8 @@ SOFTCATA: canalla FORMES: NCCP000 canalles NCCS000 canalla
 APERTIUM: canapè FORMES: NCMP000 canapès NCMS000 canapè
 SOFTCATA: canapè FORMES: NCMP000 canapès NCMP000 canapés NCMS000 canapè NCMS000 canapé
 
-APERTIUM: canari FORMES: NCFP000 canàries NCFS000 canària NCMP000 canaris NCMS000 canari
-SOFTCATA: canari FORMES: NCMP000 canaris NCMS000 canari
-
-APERTIUM: cantirer FORMES: NCFP000 cantireres NCFS000 cantirera NCMP000 cantirers NCMS000 cantirer
-SOFTCATA: cantirer FORMES: NCMP000 cantirers NCMS000 cantirer
-
 APERTIUM: cap FORMES: NCFP000 caps NCFS000 cap
 SOFTCATA: cap FORMES: NCCP000 caps NCCS000 cap
-
-APERTIUM: capdavanter FORMES: NCFP000 capdavanteres NCFS000 capdavantera NCMP000 capdavanters NCMS000 capdavanter
-SOFTCATA: capdavanter FORMES: NCMP000 capdavanters NCMS000 capdavanter
-
-APERTIUM: capità FORMES: NCFP000 capitanes NCFS000 capitana NCMP000 capitans NCMS000 capità
-SOFTCATA: capità FORMES: NCMP000 capitans NCMS000 capità
 
 APERTIUM: caprici FORMES: NCMP000 capricios NCMP000 capricis NCMS000 caprici
 SOFTCATA: caprici FORMES: NCMP000 capricis NCMS000 caprici
@@ -481,50 +223,23 @@ SOFTCATA: caprici FORMES: NCMP000 capricis NCMS000 caprici
 APERTIUM: capritx FORMES: NCMP000 capritxos NCMP000 capritxs NCMS000 capritx
 SOFTCATA: capritx FORMES: NCMP000 capritxos NCMS000 capritx
 
-APERTIUM: captador FORMES: NCFP000 captadores NCFS000 captadora NCMP000 captadors NCMS000 captador
-SOFTCATA: captador FORMES: NCMP000 captadors NCMS000 captador
-
 APERTIUM: carabassa FORMES: NCFP000 carabasses NCFS000 carabassa
 SOFTCATA: carabassa FORMES: NCCP000 carabasses NCCS000 carabassa
 
 APERTIUM: carabiner FORMES: NCMP000 carabiners NCMS000 carabiner
 SOFTCATA: carabiner FORMES: NCFP000 carabineres NCFS000 carabinera NCMP000 carabiners NCMS000 carabiner
 
-APERTIUM: carboner FORMES: NCFP000 carboneres NCFS000 carbonera NCMP000 carboners NCMS000 carboner
-SOFTCATA: carboner FORMES: NCMP000 carboners NCMS000 carboner
-
 APERTIUM: carcamal FORMES: NCMP000 carcamals NCMS000 carcamal
 SOFTCATA: carcamal FORMES: NCCP000 carcamals NCCS000 carcamal
 
-APERTIUM: carnisser FORMES: NCFP000 carnisseres NCFS000 carnissera NCMP000 carnissers NCMS000 carnisser
-SOFTCATA: carnisser FORMES: NCMP000 carnissers NCMS000 carnisser
-
-APERTIUM: carter FORMES: NCFP000 carteres NCFS000 cartera NCMP000 carters NCMS000 carter
-SOFTCATA: carter FORMES: NCMP000 carters NCMS000 carter
-
 APERTIUM: cartutx FORMES: NCMP000 cartutxos NCMP000 cartutxs NCMS000 cartutx
 SOFTCATA: cartutx FORMES: NCMP000 cartutxos NCMS000 cartutx
-
-APERTIUM: castellonenc FORMES: NCFP000 castellonenques NCFS000 castellonenca NCMP000 castellonencs NCMS000 castellonenc
-SOFTCATA: castellonenc FORMES: NCMP000 castellonencs NCMS000 castellonenc
-
-APERTIUM: castellà FORMES: NCFP000 castellanes NCFS000 castellana NCMP000 castellans NCMS000 castellà
-SOFTCATA: castellà FORMES: NCMP000 castellans NCMS000 castellà
-
-APERTIUM: català FORMES: NCFP000 catalanes NCFS000 catalana NCMP000 catalans NCMS000 català
-SOFTCATA: català FORMES: NCMP000 catalans NCMS000 català
 
 APERTIUM: cava FORMES: NCMP000 caves NCMS000 cava
 SOFTCATA: cava FORMES: NCCP000 caves NCCS000 cava
 
 APERTIUM: caça FORMES: NCFP000 caces NCFS000 caça
 SOFTCATA: caça FORMES: NCCP000 caces NCCS000 caça
-
-APERTIUM: caçador FORMES: NCFP000 caçadores NCFS000 caçadora NCMP000 caçadors NCMS000 caçador
-SOFTCATA: caçador FORMES: NCMP000 caçadors NCMS000 caçador
-
-APERTIUM: cellerer FORMES: NCFP000 cellereres NCFS000 cellerera NCMP000 cellerers NCMS000 cellerer
-SOFTCATA: cellerer FORMES: NCMP000 cellerers NCMS000 cellerer
 
 APERTIUM: centelleig FORMES: NCMP000 centelleigs NCMS000 centelleig
 SOFTCATA: centelleig FORMES: NCMP000 centelleigs NCMP000 centellejos NCMS000 centelleig
@@ -997,9 +712,6 @@ SOFTCATA: espanyol FORMES: NCMP000 espanyols NCMS000 espanyol
 APERTIUM: espasa FORMES: NCFP000 espases NCFS000 espasa
 SOFTCATA: espasa FORMES: NCCP000 espases NCCS000 espasa
 
-APERTIUM: espectador FORMES: NCFP000 espectadores NCFS000 espectadora NCMP000 espectadors NCMS000 espectador
-SOFTCATA: espectador FORMES: NCMP000 espectadors NCMS000 espectador
-
 APERTIUM: espessor FORMES: NCMP000 espessors NCMS000 espessor
 SOFTCATA: espessor FORMES: NCFP000 espessors NCFS000 espessor
 
@@ -1009,14 +721,8 @@ SOFTCATA: esquaix FORMES: NCMP000 esquaixos NCMS000 esquaix
 APERTIUM: esqueix FORMES: NCMP000 esqueixos NCMP000 esqueixs NCMS000 esqueix
 SOFTCATA: esqueix FORMES: NCMP000 esqueixos NCMS000 esqueix
 
-APERTIUM: esquiador FORMES: NCFP000 esquiadores NCFS000 esquiadora NCMP000 esquiadors NCMS000 esquiador
-SOFTCATA: esquiador FORMES: NCMP000 esquiadors NCMS000 esquiador
-
 APERTIUM: esquist FORMES: NCMP000 esquists NCMS000 esquist
 SOFTCATA: esquist FORMES: NCMP000 esquistos NCMP000 esquists NCMS000 esquist
-
-APERTIUM: estadístic FORMES: NCFP000 estadístiques NCFS000 estadística NCMP000 estadístics NCMS000 estadístic
-SOFTCATA: estadístic FORMES: NCMP000 estadístics NCMS000 estadístic
 
 APERTIUM: estoig FORMES: NCMP000 estoigs NCMS000 estoig
 SOFTCATA: estoig FORMES: NCMP000 estoigs NCMP000 estotjos NCMS000 estoig
