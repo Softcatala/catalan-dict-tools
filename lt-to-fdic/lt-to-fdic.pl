@@ -67,7 +67,7 @@ while ( my $line = <$fh> ) {
         if ( $lemma !~ /^$prevLemma$/ ) {    #s'acaba el lema
 	
 	    $numAccepcio="";
-	    if ($prevLemma !~ /^MP3|A[345]$/) {  #Excepcions: el número forma part de la paraula
+	    if ($prevLemma !~ /^MP3|A[345]|goma-2$/) {  #Excepcions: el número forma part de la paraula
 		if ($prevLemma =~ /([0-9])$/) {
 		    $numAccepcio = $1;
 		}
