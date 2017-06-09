@@ -1,0 +1,126 @@
+APERTIUM: azoic FORMES: AQ0FP0 azoïques AQ0FS0 azoïca AQ0MP0 azoics AQ0MS0 azoic
+SOFTCATA: azoic FORMES: AQ0FP0 azoiques AQ0FS0 azoica AQ0MP0 azoics AQ0MS0 azoic
+
+APERTIUM: babau FORMES: AQ0CP0 babaus AQ0CS0 babau
+SOFTCATA: babau FORMES: AQ0FP0 babaues AQ0FS0 babaua AQ0MP0 babaus AQ0MS0 babau
+
+APERTIUM: biònic FORMES: AQ0FP0 biònices AQ0FS0 biònica AQ0MP0 biònics AQ0MS0 biònic
+SOFTCATA: biònic FORMES: AQ0FP0 biòniques AQ0FS0 biònica AQ0MP0 biònics AQ0MS0 biònic
+
+APERTIUM: blaugrana FORMES: AQ0CP0 blaugranes AQ0CS0 blaugrana
+SOFTCATA: blaugrana FORMES: AQ0CN0 blaugrana
+
+APERTIUM: brusc FORMES: AQ0FP0 brusques AQ0FS0 brusca AQ0MP0 bruscs AQ0MS0 brusc
+SOFTCATA: brusc FORMES: AQ0FP0 brusques AQ0FS0 brusca AQ0MP0 bruscos AQ0MP0 bruscs AQ0MS0 brusc
+
+APERTIUM: cancelleresc FORMES: AQ0FP0 cancelleresques AQ0FS0 cancelleresca AQ0MP0 cancellerescs AQ0MS0 cancelleresc
+SOFTCATA: cancelleresc FORMES: AQ0FP0 cancelleresques AQ0FS0 cancelleresca AQ0MP0 cancellerescos AQ0MP0 cancellerescs AQ0MS0 cancelleresc
+
+APERTIUM: caricaturesc FORMES: AQ0FP0 caricaturesques AQ0FS0 caricaturesca AQ0MP0 caricaturescs AQ0MS0 caricaturesc
+SOFTCATA: caricaturesc FORMES: AQ0FP0 caricaturesques AQ0FS0 caricaturesca AQ0MP0 caricaturescos AQ0MP0 caricaturescs AQ0MS0 caricaturesc
+
+APERTIUM: clau FORMES: AQ0CP0 claus AQ0CS0 clau
+SOFTCATA: clau FORMES: AQ0CN0 clau
+
+APERTIUM: convex FORMES: AQ0FP0 convexes AQ0FS0 convexa AQ0MP0 convexs AQ0MS0 convex
+SOFTCATA: convex FORMES: AQ0FP0 convexes AQ0FS0 convexa AQ0MP0 convexos AQ0MS0 convex
+
+APERTIUM: còmode FORMES: AQ0FP0 còmodes AQ0FS0 còmoda AQ0MP0 còmodes AQ0MS0 còmode
+SOFTCATA: còmode FORMES: AQ0CP0 còmodes AQ0FS0 còmoda AQ0MS0 còmode
+
+APERTIUM: endogen FORMES: AQ0FP0 endogenes AQ0FS0 endogena AQ0MP0 endogens AQ0MS0 endogen
+SOFTCATA: endogen FORMES: AQ0FP0 endògenes AQ0FS0 endògena AQ0MP0 endògens AQ0MS0 endogen
+
+APERTIUM: estrafolari FORMES: AQ0FP0 estrafolaries AQ0FS0 estrafolaria AQ0MP0 estrafolaris AQ0MS0 estrafolari
+SOFTCATA: estrafolari FORMES: AQ0FP0 estrafolàries AQ0FS0 estrafolària AQ0MP0 estrafolaris AQ0MS0 estrafolari
+
+APERTIUM: estàndard FORMES: AQ0CP0 estàndards AQ0CS0 estàndard
+SOFTCATA: estàndard FORMES: AQ0CN0 estàndard
+
+APERTIUM: extra FORMES: AQ0CN0 extra
+SOFTCATA: extra FORMES: AQ0CP0 extres AQ0CS0 extra
+
+APERTIUM: gegant FORMES: AQ0FP0 gegantes AQ0FS0 geganta AQ0MP0 gegants AQ0MS0 gegant
+SOFTCATA: gegant FORMES: AQ0CP0 gegants AQ0CS0 gegant
+
+APERTIUM: gegantesc FORMES: AQ0FP0 gegantesques AQ0FS0 gegantesca AQ0MP0 gegantescs AQ0MS0 gegantesc
+SOFTCATA: gegantesc FORMES: AQ0FP0 gegantesques AQ0FS0 gegantesca AQ0MP0 gegantescos AQ0MP0 gegantescs AQ0MS0 gegantesc
+
+APERTIUM: governant FORMES: AQ0FP0 governantes AQ0FS0 governanta AQ0MP0 governants AQ0MS0 governant
+SOFTCATA: governant FORMES: AQ0CP0 governants AQ0CS0 governant
+
+APERTIUM: granat FORMES: AQ0FP0 granades AQ0FS0 granada AQ0MP0 granats AQ0MS0 granat
+SOFTCATA: granat FORMES: AQ0CN0 granat
+
+APERTIUM: grotesc FORMES: AQ0FP0 grotesques AQ0FS0 grotesca AQ0MP0 grotescs AQ0MS0 grotesc
+SOFTCATA: grotesc FORMES: AQ0FP0 grotesques AQ0FS0 grotesca AQ0MP0 grotescos AQ0MP0 grotescs AQ0MS0 grotesc
+
+APERTIUM: incòmode FORMES: AQ0FP0 incòmodes AQ0FS0 incòmoda AQ0MP0 incòmodes AQ0MS0 incòmode
+SOFTCATA: incòmode FORMES: AQ0CP0 incòmodes AQ0FS0 incòmoda AQ0MS0 incòmode
+
+APERTIUM: lacrimogen FORMES: AQ0FP0 lacrimogenes AQ0FS0 lacrimogena AQ0MP0 lacrimogens AQ0MS0 lacrimogen
+SOFTCATA: lacrimogen FORMES: AQ0FP0 lacrimògenes AQ0FS0 lacrimògena AQ0MP0 lacrimògens AQ0MS0 lacrimogen
+
+APERTIUM: lici FORMES: AQ0FP0 licies AQ0FS0 licia AQ0MP0 licis AQ0MS0 lici
+SOFTCATA: lici FORMES: AQ0FP0 lícies AQ0FS0 lícia AQ0MP0 licis AQ0MS0 lici
+
+APERTIUM: lluent FORMES: AQ0FP0 lluentes AQ0FS0 lluenta AQ0MP0 lluents AQ0MS0 lluent
+SOFTCATA: lluent FORMES: AQ0CP0 lluents AQ0CS0 lluent
+
+APERTIUM: morisc FORMES: AQ0FP0 morisques AQ0FS0 morisca AQ0MP0 moriscs AQ0MS0 morisc
+SOFTCATA: morisc FORMES: AQ0FP0 morisques AQ0FS0 morisca AQ0MP0 moriscos AQ0MP0 moriscs AQ0MS0 morisc
+
+APERTIUM: multiús FORMES: AQ0CP0 multiusos AQ0CS0 multiús
+SOFTCATA: multiús FORMES: AQ0CN0 multiús
+
+APERTIUM: nadiu FORMES: AQ0FP0 nadives AQ0FS0 nadiva AQ0MP0 nadius AQ0MS0 nadiu
+SOFTCATA: nadiu FORMES: AQ0FP0 nadiues AQ0FS0 nadiua AQ0MP0 nadius AQ0MS0 nadiu
+
+APERTIUM: nat FORMES: AQ0FP0 nates AQ0FS0 nata AQ0MP0 nats AQ0MS0 nat
+SOFTCATA: nat FORMES: AQ0FP0 nades AQ0FS0 nada AQ0MP0 nats AQ0MS0 nat
+
+APERTIUM: nucleic FORMES: AQ0FP0 nucleïques AQ0FS0 nucleïca AQ0MP0 nucleics AQ0MS0 nucleic
+SOFTCATA: nucleic FORMES: AQ0CP0 nucleics AQ0CS0 nucleic
+
+APERTIUM: oleic FORMES: AQ0FP0 oleïques AQ0FS0 oleïca AQ0MP0 oleics AQ0MS0 oleic
+SOFTCATA: oleic FORMES: AQ0FP0 oleiques AQ0FS0 oleica AQ0MP0 oleics AQ0MS0 oleic
+
+APERTIUM: perplex FORMES: AQ0FP0 perplexes AQ0FS0 perplexa AQ0MP0 perplexs AQ0MS0 perplex
+SOFTCATA: perplex FORMES: AQ0FP0 perplexes AQ0FS0 perplexa AQ0MP0 perplexos AQ0MS0 perplex
+
+APERTIUM: pertinaç FORMES: AQ0FP0 pertinaces AQ0FS0 pertinaça AQ0MP0 pertinaços AQ0MP0 pertinaçs AQ0MS0 pertinaç
+SOFTCATA: pertinaç FORMES: AQ0CS0 pertinaç AQ0FP0 pertinaces AQ0MP0 pertinaços
+
+APERTIUM: picaresc FORMES: AQ0FP0 picaresques AQ0FS0 picaresca AQ0MP0 picarescs AQ0MS0 picaresc
+SOFTCATA: picaresc FORMES: AQ0FP0 picaresques AQ0FS0 picaresca AQ0MP0 picarescos AQ0MP0 picarescs AQ0MS0 picaresc
+
+APERTIUM: pintoresc FORMES: AQ0FP0 pintoresques AQ0FS0 pintoresca AQ0MP0 pintorescs AQ0MS0 pintoresc
+SOFTCATA: pintoresc FORMES: AQ0FP0 pintoresques AQ0FS0 pintoresca AQ0MP0 pintorescos AQ0MP0 pintorescs AQ0MS0 pintoresc
+
+APERTIUM: plateresc FORMES: AQ0FP0 plateresques AQ0FS0 plateresca AQ0MP0 platerescs AQ0MS0 plateresc
+SOFTCATA: plateresc FORMES: AQ0FP0 plateresques AQ0FS0 plateresca AQ0MP0 platerescos AQ0MP0 platerescs AQ0MS0 plateresc
+
+APERTIUM: ronc FORMES: AQ0FP0 ronces AQ0FS0 ronca AQ0MP0 roncs AQ0MS0 ronc
+SOFTCATA: ronc FORMES: AQ0FP0 ronques AQ0FS0 ronca AQ0MP0 roncs AQ0MS0 ronc
+
+APERTIUM: rosa FORMES: AQ0CP0 roses AQ0CS0 rosa
+SOFTCATA: rosa FORMES: AQ0CN0 rosa
+
+APERTIUM: roí FORMES: AQ0FP0 roïnes AQ0FS0 roïna AQ0MP0 roïns AQ0MS0 roí AQ0MS0 roín
+SOFTCATA: roí FORMES: AQ0FP0 roïnes AQ0FS0 roïna AQ0MP0 roïns AQ0MS0 roí
+
+APERTIUM: submís FORMES: AQ0FP0 submisses AQ0FS0 submissa AQ0MP0 submissos AQ0MS0 submís
+SOFTCATA: submís FORMES: AQ0FP0 submises AQ0FS0 submisa AQ0MP0 submisos AQ0MS0 submís
+
+APERTIUM: taronja FORMES: AQ0CP0 taronges AQ0CS0 taronja
+SOFTCATA: taronja FORMES: AQ0CN0 taronja
+
+APERTIUM: tosc FORMES: AQ0FP0 tosques AQ0FS0 tosca AQ0MP0 toscs AQ0MS0 tosc
+SOFTCATA: tosc FORMES: AQ0FP0 tosques AQ0FS0 tosca AQ0MP0 toscos AQ0MP0 toscs AQ0MS0 tosc
+
+APERTIUM: trocaic FORMES: AQ0FP0 trocaïques AQ0FS0 trocaïca AQ0MP0 trocaics AQ0MS0 trocaic
+SOFTCATA: trocaic FORMES: AQ0FP0 trocaiques AQ0FS0 trocaica AQ0MP0 trocaics AQ0MS0 trocaic
+
+APERTIUM: violeta FORMES: AQ0CP0 violetes AQ0CS0 violeta
+SOFTCATA: violeta FORMES: AQ0CN0 violeta
+
