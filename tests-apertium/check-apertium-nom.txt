@@ -1,0 +1,2547 @@
+APERTIUM: CD FORMES: NCMS000 CD
+SOFTCATA: CD FORMES: NCMN000 CD
+
+APERTIUM: CIF FORMES: NCMS000 CIF
+SOFTCATA: CIF FORMES: NCMN000 CIF
+
+APERTIUM: DNI FORMES: NCMS000 DNI
+SOFTCATA: DNI FORMES: NCMN000 DNI
+
+APERTIUM: DVD FORMES: NCMS000 DVD
+SOFTCATA: DVD FORMES: NCMN000 DVD
+
+APERTIUM: HTML FORMES: NCMS000 HTML
+SOFTCATA: HTML FORMES: NCMN000 HTML
+
+APERTIUM: IPC FORMES: NCMS000 IPC
+SOFTCATA: IPC FORMES: NCMN000 IPC
+
+APERTIUM: IVA FORMES: NCMS000 IVA
+SOFTCATA: IVA FORMES: NCMN000 IVA
+
+APERTIUM: LSD FORMES: NCFS000 LSD
+SOFTCATA: LSD FORMES: NCMN000 LSD
+
+APERTIUM: PDF FORMES: NCCN000 PDF
+SOFTCATA: PDF FORMES: NCMN000 PDF
+
+APERTIUM: PVC FORMES: NCMS000 PVC
+SOFTCATA: PVC FORMES: NCMN000 PVC
+
+APERTIUM: RAM FORMES: NCFS000 RAM
+SOFTCATA: RAM FORMES: NCFN000 RAM
+
+APERTIUM: TIC FORMES: NCFN000 TIC
+SOFTCATA: TIC FORMES: NCFP000 TIC
+
+APERTIUM: URL FORMES: NCFS000 URL
+SOFTCATA: URL FORMES: NCMN000 URL
+
+APERTIUM: USB FORMES: NCCN000 USB
+SOFTCATA: USB FORMES: NCMN000 USB
+
+APERTIUM: XML FORMES: NCCN000 XML
+SOFTCATA: XML FORMES: NCMN000 XML
+
+APERTIUM: abat FORMES: NCFP000 abadesses NCFS000 abadessa NCMP000 abats NCMS000 abat
+SOFTCATA: abat FORMES: NCMP000 abats NCMS000 abat
+
+APERTIUM: acadèmic FORMES: NCFP000 acadèmiques NCFS000 acadèmica NCMP000 acadèmics NCMS000 acadèmic
+SOFTCATA: acadèmic FORMES: NCMP000 acadèmics NCMS000 acadèmic
+
+APERTIUM: acusador FORMES: NCFP000 acusadores NCFS000 acusadora NCMP000 acusadors NCMS000 acusador
+SOFTCATA: acusador FORMES: NCMP000 acusadors NCMS000 acusador
+
+APERTIUM: acusatiu FORMES: NCFP000 acusatives NCFS000 acusativa NCMP000 acusatius NCMS000 acusatiu
+SOFTCATA: acusatiu FORMES: NCMP000 acusatius NCMS000 acusatiu
+
+APERTIUM: adjudicatari FORMES: NCFP000 adjudicatàries NCFS000 adjudicatària NCMP000 adjudicataris NCMS000 adjudicatari
+SOFTCATA: adjudicatari FORMES: NCMP000 adjudicataris NCMS000 adjudicatari
+
+APERTIUM: adjunt FORMES: NCFP000 adjuntes NCFS000 adjunta NCMP000 adjunts NCMS000 adjunt
+SOFTCATA: adjunt FORMES: NCMP000 adjunts NCMS000 adjunt
+
+APERTIUM: administrador FORMES: NCFP000 administradores NCFS000 administradora NCMP000 administradors NCMS000 administrador
+SOFTCATA: administrador FORMES: NCMP000 administradors NCMS000 administrador
+
+APERTIUM: administratiu FORMES: NCFP000 administratives NCFS000 administrativa NCMP000 administratius NCMS000 administratiu
+SOFTCATA: administratiu FORMES: NCMP000 administratius NCMS000 administratiu
+
+APERTIUM: adorador FORMES: NCFP000 adoradores NCFS000 adoradora NCMP000 adoradors NCMS000 adorador
+SOFTCATA: adorador FORMES: NCMP000 adoradors NCMS000 adorador
+
+APERTIUM: adult FORMES: NCFP000 adultes NCFS000 adulta NCMP000 adults NCMS000 adult
+SOFTCATA: adult FORMES: NCMP000 adults NCMS000 adult
+
+APERTIUM: adversari FORMES: NCFP000 adversàries NCFS000 adversària NCMP000 adversaris NCMS000 adversari
+SOFTCATA: adversari FORMES: NCMP000 adversaris NCMS000 adversari
+
+APERTIUM: advocat FORMES: NCFP000 advocades NCFS000 advocada NCMP000 advocats NCMS000 advocat
+SOFTCATA: advocat FORMES: NCMP000 advocats NCMS000 advocat
+
+APERTIUM: aerocist FORMES: NCMP000 aerocists NCMS000 aerocist
+SOFTCATA: aerocist FORMES: NCMP000 aerocistos NCMP000 aerocists NCMS000 aerocist
+
+APERTIUM: aeròbic FORMES: NCMS000 aeròbic
+SOFTCATA: aeròbic FORMES: NCMP000 aeròbics NCMS000 aeròbic
+
+APERTIUM: afeccionat FORMES: NCFP000 afeccionades NCFS000 afeccionada NCMP000 afeccionats NCMS000 afeccionat
+SOFTCATA: afeccionat FORMES: NCMP000 afeccionats NCMS000 afeccionat
+
+APERTIUM: aficionat FORMES: NCFP000 aficionades NCFS000 aficionada NCMP000 aficionats NCMS000 aficionat
+SOFTCATA: aficionat FORMES: NCMP000 aficionats NCMS000 aficionat
+
+APERTIUM: afiliat FORMES: NCFP000 afiliades NCFS000 afiliada NCMP000 afiliats NCMS000 afiliat
+SOFTCATA: afiliat FORMES: NCMP000 afiliats NCMS000 afiliat
+
+APERTIUM: afix FORMES: NCMP000 afixos NCMP000 afixs NCMS000 afix
+SOFTCATA: afix FORMES: NCMP000 afixos NCMS000 afix
+
+APERTIUM: africà FORMES: NCFP000 africanes NCFS000 africana NCMP000 africans NCMS000 africà
+SOFTCATA: africà FORMES: NCMP000 africans NCMS000 africà
+
+APERTIUM: agost FORMES: NCMP000 agosts NCMS000 agost
+SOFTCATA: agost FORMES: NCMP000 agostos NCMP000 agosts NCMS000 agost
+
+APERTIUM: agregat FORMES: NCFP000 agregades NCFS000 agregada NCMP000 agregats NCMS000 agregat
+SOFTCATA: agregat FORMES: NCMP000 agregats NCMS000 agregat
+
+APERTIUM: agressor FORMES: NCFP000 agressores NCFS000 agressora NCMP000 agressors NCMS000 agressor
+SOFTCATA: agressor FORMES: NCMP000 agressors NCMS000 agressor
+
+APERTIUM: agricultor FORMES: NCFP000 agricultores NCFS000 agricultora NCMP000 agricultors NCMS000 agricultor
+SOFTCATA: agricultor FORMES: NCMP000 agricultors NCMS000 agricultor
+
+APERTIUM: ajudant FORMES: NCCP000 ajudants NCCS000 ajudant
+SOFTCATA: ajudant FORMES: NCMP000 ajudants NCMS000 ajudant
+
+APERTIUM: alcalde FORMES: NCFP000 alcaldesses NCFS000 alcaldessa NCMP000 alcaldes NCMS000 alcalde
+SOFTCATA: alcalde FORMES: NCCP000 alcaldes NCCS000 alcalde
+
+APERTIUM: alcohòlic FORMES: NCFP000 alcohòliques NCFS000 alcohòlica NCMP000 alcohòlics NCMS000 alcohòlic
+SOFTCATA: alcohòlic FORMES: NCMP000 alcohòlics NCMS000 alcohòlic
+
+APERTIUM: alemany FORMES: NCFP000 alemanyes NCFS000 alemanya NCMP000 alemanys NCMS000 alemany
+SOFTCATA: alemany FORMES: NCMP000 alemanys NCMS000 alemany
+
+APERTIUM: alfals FORMES: NCMP000 alfalsos NCMS000 alfals
+SOFTCATA: alfals FORMES: NCMN000 alfals
+
+APERTIUM: algerià FORMES: NCFP000 algerianes NCFS000 algeriana NCMP000 algerians NCMS000 algerià
+SOFTCATA: algerià FORMES: NCMP000 algerians NCMS000 algerià
+
+APERTIUM: algicida FORMES: NCCP000 algicides NCCS000 algicida
+SOFTCATA: algicida FORMES: NCMP000 algicides NCMS000 algicida
+
+APERTIUM: aliat FORMES: NCFP000 aliades NCFS000 aliada NCMP000 aliats NCMS000 aliat
+SOFTCATA: aliat FORMES: NCMP000 aliats NCMS000 aliat
+
+APERTIUM: almogàver FORMES: NCCP000 almogàvers NCCS000 almogàver
+SOFTCATA: almogàver FORMES: NCMP000 almogàvers NCMS000 almogàver
+
+APERTIUM: alsacià FORMES: NCFP000 alsacianes NCFS000 alsaciana NCMP000 alsacians NCMS000 alsacià
+SOFTCATA: alsacià FORMES: NCMP000 alsacians NCMS000 alsacià
+
+APERTIUM: alumne FORMES: NCCP000 alumnes NCFS000 alumna NCMS000 alumne
+SOFTCATA: alumne FORMES: NCMP000 alumnes NCMS000 alumne
+
+APERTIUM: ambaixador FORMES: NCFP000 ambaixadores NCFS000 ambaixadora NCMP000 ambaixadors NCMS000 ambaixador
+SOFTCATA: ambaixador FORMES: NCMP000 ambaixadors NCMS000 ambaixador
+
+APERTIUM: americà FORMES: NCFP000 americanes NCFS000 americana NCMP000 americans NCMS000 americà
+SOFTCATA: americà FORMES: NCMP000 americans NCMS000 americà
+
+APERTIUM: amfitrió FORMES: NCFP000 amfitriones NCFS000 amfitriona NCMP000 amfitrions NCMS000 amfitrió
+SOFTCATA: amfitrió FORMES: NCMP000 amfitrions NCMS000 amfitrió
+
+APERTIUM: amiloplast FORMES: NCMP000 amiloplasts NCMS000 amiloplast
+SOFTCATA: amiloplast FORMES: NCMP000 amiloplastos NCMP000 amiloplasts NCMS000 amiloplast
+
+APERTIUM: amor FORMES: NCMP000 amors NCMS000 amor
+SOFTCATA: amor FORMES: NCCP000 amors NCCS000 amor
+
+APERTIUM: anapest FORMES: NCMP000 anapests NCMS000 anapest
+SOFTCATA: anapest FORMES: NCMP000 anapestos NCMP000 anapests NCMS000 anapest
+
+APERTIUM: anatema FORMES: NCFP000 anatemes NCFS000 anatema
+SOFTCATA: anatema FORMES: NCMP000 anatemes NCMS000 anatema
+
+APERTIUM: ancestre FORMES: NCCP000 ancestres NCCS000 ancestre
+SOFTCATA: ancestre FORMES: NCMP000 ancestres NCMS000 ancestre
+
+APERTIUM: ancià FORMES: NCFP000 ancianes NCFS000 anciana NCMP000 ancians NCMS000 ancià
+SOFTCATA: ancià FORMES: NCMP000 ancians NCMS000 ancià
+
+APERTIUM: andalús FORMES: NCFP000 andaluses NCFS000 andalusa NCMP000 andalusos NCMS000 andalús
+SOFTCATA: andalús FORMES: NCMP000 andalusos NCMS000 andalús
+
+APERTIUM: anglicà FORMES: NCFP000 anglicanes NCFS000 anglicana NCMP000 anglicans NCMS000 anglicà
+SOFTCATA: anglicà FORMES: NCMP000 anglicans NCMS000 anglicà
+
+APERTIUM: anglosaxó FORMES: NCFP000 anglosaxones NCFS000 anglosaxona NCMP000 anglosaxons NCMS000 anglosaxó
+SOFTCATA: anglosaxó FORMES: NCMP000 anglosaxons NCMS000 anglosaxó
+
+APERTIUM: annex FORMES: NCMP000 annexos NCMP000 annexs NCMS000 annex
+SOFTCATA: annex FORMES: NCMP000 annexos NCMS000 annex
+
+APERTIUM: antecessor FORMES: NCFP000 antecessores NCFS000 antecessora NCMP000 antecessors NCMS000 antecessor
+SOFTCATA: antecessor FORMES: NCMP000 antecessors NCMS000 antecessor
+
+APERTIUM: antiheroi FORMES: NCMP000 antiherois NCMS000 antiheroi
+SOFTCATA: antiheroi FORMES: NCFP000 antiheroïnes NCFS000 antiheroïna NCMP000 antiherois NCMS000 antiheroi
+
+APERTIUM: anònim FORMES: NCFP000 anònimes NCFS000 anònima NCMP000 anònims NCMS000 anònim
+SOFTCATA: anònim FORMES: NCMP000 anònims NCMS000 anònim
+
+APERTIUM: aparellador FORMES: NCFP000 aparelladores NCFS000 aparelladora NCMP000 aparelladors NCMS000 aparellador
+SOFTCATA: aparellador FORMES: NCMP000 aparelladors NCMS000 aparellador
+
+APERTIUM: aprenent FORMES: NCFP000 aprenentes NCFS000 aprenenta NCMP000 aprenents NCMS000 aprenent
+SOFTCATA: aprenent FORMES: NCCP000 aprenents NCCS000 aprenent
+
+APERTIUM: aprest FORMES: NCMP000 aprests NCMS000 aprest
+SOFTCATA: aprest FORMES: NCMP000 aprestos NCMP000 aprests NCMS000 aprest
+
+APERTIUM: ardor FORMES: NCMP000 ardors NCMS000 ardor
+SOFTCATA: ardor FORMES: NCCP000 ardors NCCS000 ardor
+
+APERTIUM: argentí FORMES: NCFP000 argentines NCFS000 argentina NCMP000 argentins NCMS000 argentí
+SOFTCATA: argentí FORMES: NCMP000 argentins NCMS000 argentí
+
+APERTIUM: arrendador FORMES: NCFP000 arrendadores NCFS000 arrendadora NCMP000 arrendadors NCMS000 arrendador
+SOFTCATA: arrendador FORMES: NCMP000 arrendadors NCMS000 arrendador
+
+APERTIUM: arrendatari FORMES: NCFP000 arrendatàries NCFS000 arrendatària NCMP000 arrendataris NCMS000 arrendatari
+SOFTCATA: arrendatari FORMES: NCMP000 arrendataris NCMS000 arrendatari
+
+APERTIUM: arrest FORMES: NCMP000 arrests NCMS000 arrest
+SOFTCATA: arrest FORMES: NCMP000 arrestos NCMP000 arrests NCMS000 arrest
+
+APERTIUM: artesà FORMES: NCFP000 artesanes NCFS000 artesana NCMP000 artesans NCMS000 artesà
+SOFTCATA: artesà FORMES: NCMP000 artesans NCMS000 artesà
+
+APERTIUM: arxiver FORMES: NCFP000 arxiveres NCFS000 arxivera NCMP000 arxivers NCMS000 arxiver
+SOFTCATA: arxiver FORMES: NCMP000 arxivers NCMS000 arxiver
+
+APERTIUM: asiàtic FORMES: NCFP000 asiàtiques NCFS000 asiàtica NCMP000 asiàtics NCMS000 asiàtic
+SOFTCATA: asiàtic FORMES: NCMP000 asiàtics NCMS000 asiàtic
+
+APERTIUM: assassí FORMES: NCFP000 assassines NCFS000 assassina NCMP000 assassins NCMS000 assassí
+SOFTCATA: assassí FORMES: NCMP000 assassins NCMS000 assassí
+
+APERTIUM: assegurador FORMES: NCFP000 asseguradores NCFS000 asseguradora NCMP000 asseguradors NCMS000 assegurador
+SOFTCATA: assegurador FORMES: NCMP000 asseguradors NCMS000 assegurador
+
+APERTIUM: assegurat FORMES: NCFP000 assegurades NCFS000 assegurada NCMP000 assegurats NCMS000 assegurat
+SOFTCATA: assegurat FORMES: NCMP000 assegurats NCMS000 assegurat
+
+APERTIUM: assistent FORMES: NCFP000 assistentes NCFS000 assistenta NCMP000 assistents NCMS000 assistent
+SOFTCATA: assistent FORMES: NCCP000 assistents NCCS000 assistent
+
+APERTIUM: associat FORMES: NCFP000 associades NCFS000 associada NCMP000 associats NCMS000 associat
+SOFTCATA: associat FORMES: NCMP000 associats NCMS000 associat
+
+APERTIUM: astrònom FORMES: NCFP000 astrònomes NCFS000 astrònoma NCMP000 astrònoms NCMS000 astrònom
+SOFTCATA: astrònom FORMES: NCMP000 astrònoms NCMS000 astrònom
+
+APERTIUM: asturià FORMES: NCFP000 asturianes NCFS000 asturiana NCMP000 asturians NCMS000 asturià
+SOFTCATA: asturià FORMES: NCMP000 asturians NCMS000 asturià
+
+APERTIUM: ateu FORMES: NCFP000 atees NCFS000 atea NCMP000 ateus NCMS000 ateu
+SOFTCATA: ateu FORMES: NCMP000 ateus NCMS000 ateu
+
+APERTIUM: atletisme FORMES: NCMS000 atletisme
+SOFTCATA: atletisme FORMES: NCMP000 atletismes NCMS000 atletisme
+
+APERTIUM: atracador FORMES: NCFP000 atracadores NCFS000 atracadora NCMP000 atracadors NCMS000 atracador
+SOFTCATA: atracador FORMES: NCMP000 atracadors NCMS000 atracador
+
+APERTIUM: atractiu FORMES: NCFP000 atractives NCFS000 atractiva NCMP000 atractius NCMS000 atractiu
+SOFTCATA: atractiu FORMES: NCMP000 atractius NCMS000 atractiu
+
+APERTIUM: aturat FORMES: NCFP000 aturades NCFS000 aturada NCMP000 aturats NCMS000 aturat
+SOFTCATA: aturat FORMES: NCMP000 aturats NCMS000 aturat
+
+APERTIUM: auditor FORMES: NCFP000 auditores NCFS000 auditora NCMP000 auditors NCMS000 auditor
+SOFTCATA: auditor FORMES: NCMP000 auditors NCMS000 auditor
+
+APERTIUM: australià FORMES: NCFP000 australianes NCFS000 australiana NCMP000 australians NCMS000 australià
+SOFTCATA: australià FORMES: NCMP000 australians NCMS000 australià
+
+APERTIUM: austríac FORMES: NCFP000 austríaques NCFS000 austríaca NCMP000 austríacs NCMS000 austríac
+SOFTCATA: austríac FORMES: NCMP000 austríacs NCMS000 austríac
+
+APERTIUM: autoajuda FORMES: NCFP000 autoajudes NCFS000 autoajuda
+SOFTCATA: autoajuda FORMES: NCFS000 autoajuda
+
+APERTIUM: autor FORMES: NCFP000 autores NCFS000 autora NCMP000 autors NCMS000 autor
+SOFTCATA: autor FORMES: NCMP000 autors NCMS000 autor
+
+APERTIUM: avalador FORMES: NCFP000 avaladores NCFS000 avaladora NCMP000 avaladors NCMS000 avalador
+SOFTCATA: avalador FORMES: NCMP000 avaladors NCMS000 avalador
+
+APERTIUM: avantpassat FORMES: NCFP000 avantpassades NCFS000 avantpassada NCMP000 avantpassats NCMS000 avantpassat
+SOFTCATA: avantpassat FORMES: NCMP000 avantpassats NCMS000 avantpassat
+
+APERTIUM: aviador FORMES: NCFP000 aviadores NCFS000 aviadora NCMP000 aviadors NCMS000 aviador
+SOFTCATA: aviador FORMES: NCMP000 aviadors NCMS000 aviador
+
+APERTIUM: babiloni FORMES: NCFP000 babilònies NCFS000 babilònia NCMP000 babilonis NCMS000 babiloni
+SOFTCATA: babiloni FORMES: NCMP000 babilonis NCMS000 babiloni
+
+APERTIUM: baix FORMES: NCMP000 baixos NCMP000 baixs NCMS000 baix
+SOFTCATA: baix FORMES: NCMP000 baixos NCMS000 baix
+
+APERTIUM: ballador FORMES: NCFP000 balladores NCFS000 balladora NCMP000 balladors NCMS000 ballador
+SOFTCATA: ballador FORMES: NCMP000 balladors NCMS000 ballador
+
+APERTIUM: banderer FORMES: NCFP000 bandereres NCFS000 banderera NCMP000 banderers NCMS000 banderer
+SOFTCATA: banderer FORMES: NCMP000 banderers NCMS000 banderer
+
+APERTIUM: bandoler FORMES: NCFP000 bandoleres NCFS000 bandolera NCMP000 bandolers NCMS000 bandoler
+SOFTCATA: bandoler FORMES: NCMP000 bandolers NCMS000 bandoler
+
+APERTIUM: banquer FORMES: NCFP000 banqueres NCFS000 banquera NCMP000 banquers NCMS000 banquer
+SOFTCATA: banquer FORMES: NCMP000 banquers NCMS000 banquer
+
+APERTIUM: barber FORMES: NCFP000 barberes NCFS000 barbera NCMP000 barbers NCMS000 barber
+SOFTCATA: barber FORMES: NCMP000 barbers NCMS000 barber
+
+APERTIUM: baró FORMES: NCFP000 baronesses NCFS000 baronessa NCMP000 barons NCMS000 baró
+SOFTCATA: baró FORMES: NCMP000 barons NCMS000 baró
+
+APERTIUM: basc FORMES: NCFP000 basques NCFS000 basca NCMP000 bascos NCMP000 bascs NCMS000 basc
+SOFTCATA: basc FORMES: NCMP000 bascos NCMP000 bascs NCMS000 basc
+
+APERTIUM: batedor FORMES: NCFP000 batedores NCFS000 batedora NCMP000 batedors NCMS000 batedor
+SOFTCATA: batedor FORMES: NCMP000 batedors NCMS000 batedor
+
+APERTIUM: bateria FORMES: NCFP000 bateries NCFS000 bateria
+SOFTCATA: bateria FORMES: NCCP000 bateries NCCS000 bateria
+
+APERTIUM: batxiller FORMES: NCCP000 batxillers NCCS000 batxiller
+SOFTCATA: batxiller FORMES: NCMP000 batxillers NCMS000 batxiller
+
+APERTIUM: beat FORMES: NCFP000 beates NCFS000 beata NCMP000 beats NCMS000 beat
+SOFTCATA: beat FORMES: NCMP000 beats NCMS000 beat
+
+APERTIUM: becari FORMES: NCFP000 becàries NCFS000 becària NCMP000 becaris NCMS000 becari
+SOFTCATA: becari FORMES: NCMP000 becaris NCMS000 becari
+
+APERTIUM: beisbol FORMES: NCMS000 beisbol
+SOFTCATA: beisbol FORMES: NCMP000 beisbols NCMS000 beisbol
+
+APERTIUM: benjamí FORMES: NCFP000 benjamines NCFS000 benjamina NCMP000 benjamins NCMS000 benjamí
+SOFTCATA: benjamí FORMES: NCMP000 benjamins NCMS000 benjamí
+
+APERTIUM: besllum FORMES: NCMP000 besllums NCMS000 besllum
+SOFTCATA: besllum FORMES: NCFP000 besllums NCFS000 besllum
+
+APERTIUM: besnét FORMES: NCFP000 besnétes NCFS000 besnéta NCMP000 besnéts NCMS000 besnét
+SOFTCATA: besnét FORMES: NCMP000 besnéts NCMS000 besnét
+
+APERTIUM: bestiari FORMES: NCFP000 bestiàries NCFS000 bestiària NCMP000 bestiaris NCMS000 bestiari
+SOFTCATA: bestiari FORMES: NCMP000 bestiaris NCMS000 bestiari
+
+APERTIUM: bioquímic FORMES: NCFP000 bioquímiques NCFS000 bioquímica NCMP000 bioquímicos NCMP000 bioquímics NCMS000 bioquímic
+SOFTCATA: bioquímic FORMES: NCMP000 bioquímics NCMS000 bioquímic
+
+APERTIUM: bioquímica FORMES: NCFS000 bioquímica
+SOFTCATA: bioquímica FORMES: NCFP000 bioquímiques NCFS000 bioquímica
+
+APERTIUM: blast FORMES: NCMP000 blasts NCMS000 blast
+SOFTCATA: blast FORMES: NCMP000 blastos NCMP000 blasts NCMS000 blast
+
+APERTIUM: bleix FORMES: NCMP000 bleixos NCMP000 bleixs NCMS000 bleix
+SOFTCATA: bleix FORMES: NCMP000 bleixos NCMS000 bleix
+
+APERTIUM: bolivià FORMES: NCFP000 bolivianes NCFS000 boliviana NCMP000 bolivians NCMS000 bolivià
+SOFTCATA: bolivià FORMES: NCMP000 bolivians NCMS000 bolivià
+
+APERTIUM: bombo FORMES: NCMP000 bombos NCMS000 bombo
+SOFTCATA: bombo FORMES: NCCP000 bombos NCCS000 bombo
+
+APERTIUM: borratxo FORMES: NCFP000 borratxes NCFS000 borratxa NCMP000 borratxos NCMS000 borratxo
+SOFTCATA: borratxo FORMES: NCMP000 borratxos NCMS000 borratxo
+
+APERTIUM: botifarra FORMES: NCFP000 botifarres NCFS000 botifarra
+SOFTCATA: botifarra FORMES: NCCP000 botifarres NCCS000 botifarra
+
+APERTIUM: botiguer FORMES: NCFP000 botigueres NCFS000 botiguera NCMP000 botiguers NCMS000 botiguer
+SOFTCATA: botiguer FORMES: NCMP000 botiguers NCMS000 botiguer
+
+APERTIUM: botànic FORMES: NCFP000 botàniques NCFS000 botànica NCMP000 botànics NCMS000 botànic
+SOFTCATA: botànic FORMES: NCMP000 botànics NCMS000 botànic
+
+APERTIUM: boxa FORMES: NCFS000 boxa
+SOFTCATA: boxa FORMES: NCFP000 boxes NCFS000 boxa
+
+APERTIUM: brasiler FORMES: NCFP000 brasileres NCFS000 brasilera NCMP000 brasilers NCMS000 brasiler
+SOFTCATA: brasiler FORMES: NCMP000 brasilers NCMS000 brasiler
+
+APERTIUM: bretó FORMES: NCFP000 bretones NCFS000 bretona NCMP000 bretons NCMS000 bretó
+SOFTCATA: bretó FORMES: NCMP000 bretons NCMS000 bretó
+
+APERTIUM: brigada FORMES: NCFP000 brigades NCFS000 brigada
+SOFTCATA: brigada FORMES: NCCP000 brigades NCCS000 brigada
+
+APERTIUM: britànic FORMES: NCFP000 britàniques NCFS000 britànica NCMP000 britànics NCMS000 britànic
+SOFTCATA: britànic FORMES: NCMP000 britànics NCMS000 britànic
+
+APERTIUM: brodador FORMES: NCFP000 brodadores NCFS000 brodadora NCMP000 brodadors NCMS000 brodador
+SOFTCATA: brodador FORMES: NCMP000 brodadors NCMS000 brodador
+
+APERTIUM: bucaner FORMES: NCFP000 bucaneres NCFS000 bucanera NCMP000 bucaners NCMS000 bucaner
+SOFTCATA: bucaner FORMES: NCMP000 bucaners NCMS000 bucaner
+
+APERTIUM: bugader FORMES: NCFP000 bugaderes NCFS000 bugadera NCMP000 bugaders NCMS000 bugader
+SOFTCATA: bugader FORMES: NCMP000 bugaders NCMS000 bugader
+
+APERTIUM: burofax FORMES: NCMP000 burofaxos NCMP000 burofaxs NCMS000 burofax
+SOFTCATA: burofax FORMES: NCMP000 burofaxos NCMS000 burofax
+
+APERTIUM: burí FORMES: NCMP000 burís NCMS000 burí
+SOFTCATA: burí FORMES: NCMP000 burins NCMS000 burí
+
+APERTIUM: bàsquet FORMES: NCMS000 bàsquet
+SOFTCATA: bàsquet FORMES: NCMP000 bàsquets NCMS000 bàsquet
+
+APERTIUM: bípede FORMES: NCCP000 bípedes NCFS000 bípeda NCMS000 bípede
+SOFTCATA: bípede FORMES: NCMP000 bípedes NCMS000 bípede
+
+APERTIUM: búfal FORMES: NCFP000 búfales NCFS000 búfala NCMP000 búfals NCMS000 búfal
+SOFTCATA: búfal FORMES: NCMP000 búfals NCMS000 búfal
+
+APERTIUM: cabró FORMES: NCFP000 cabrones NCFS000 cabrona NCMP000 cabrons NCMS000 cabró
+SOFTCATA: cabró FORMES: NCMP000 cabrons NCMS000 cabró
+
+APERTIUM: cadell FORMES: NCFP000 cadelles NCFS000 cadella NCMP000 cadells NCMS000 cadell
+SOFTCATA: cadell FORMES: NCMP000 cadells NCMS000 cadell
+
+APERTIUM: caixer FORMES: NCFP000 caixeres NCFS000 caixera NCMP000 caixers NCMS000 caixer
+SOFTCATA: caixer FORMES: NCMP000 caixers NCMS000 caixer
+
+APERTIUM: calaix FORMES: NCMP000 calaixos NCMP000 calaixs NCMS000 calaix
+SOFTCATA: calaix FORMES: NCMP000 calaixos NCMS000 calaix
+
+APERTIUM: calavera FORMES: NCFP000 calaveres NCFS000 calavera
+SOFTCATA: calavera FORMES: NCCP000 calaveres NCCS000 calavera
+
+APERTIUM: caliptoblast FORMES: NCMP000 caliptoblasts NCMS000 caliptoblast
+SOFTCATA: caliptoblast FORMES: NCMP000 caliptoblastos NCMP000 caliptoblasts NCMS000 caliptoblast
+
+APERTIUM: calma FORMES: NCFP000 calmes NCFS000 calma
+SOFTCATA: calma FORMES: NCCP000 calmes NCCS000 calma
+
+APERTIUM: caloreta FORMES: NCFS000 caloreta
+SOFTCATA: caloreta FORMES: NCFP000 caloretes NCFS000 caloreta
+
+APERTIUM: calumniador FORMES: NCFP000 calumniadores NCFS000 calumniadora NCMP000 calumniadors NCMS000 calumniador
+SOFTCATA: calumniador FORMES: NCMP000 calumniadors NCMS000 calumniador
+
+APERTIUM: cambrer FORMES: NCFP000 cambreres NCFS000 cambrera NCMP000 cambrers NCMS000 cambrer
+SOFTCATA: cambrer FORMES: NCMP000 cambrers NCMS000 cambrer
+
+APERTIUM: camell FORMES: NCFP000 camelles NCFS000 camella NCMP000 camells NCMS000 camell
+SOFTCATA: camell FORMES: NCMP000 camells NCMS000 camell
+
+APERTIUM: camioner FORMES: NCFP000 camioneres NCFS000 camionera NCMP000 camioners NCMS000 camioner
+SOFTCATA: camioner FORMES: NCMP000 camioners NCMS000 camioner
+
+APERTIUM: camperol FORMES: NCFP000 camperoles NCFS000 camperola NCMP000 camperols NCMS000 camperol
+SOFTCATA: camperol FORMES: NCMP000 camperols NCMS000 camperol
+
+APERTIUM: canadenc FORMES: NCFP000 canadenques NCFS000 canadenca NCMP000 canadencos NCMP000 canadencs NCMS000 canadenc
+SOFTCATA: canadenc FORMES: NCMP000 canadencs NCMS000 canadenc
+
+APERTIUM: canalla FORMES: NCFS000 canalla
+SOFTCATA: canalla FORMES: NCCP000 canalles NCCS000 canalla
+
+APERTIUM: canapè FORMES: NCMP000 canapès NCMS000 canapè
+SOFTCATA: canapè FORMES: NCMP000 canapès NCMP000 canapés NCMS000 canapè NCMS000 canapé
+
+APERTIUM: canari FORMES: NCFP000 canàries NCFS000 canària NCMP000 canaris NCMS000 canari
+SOFTCATA: canari FORMES: NCMP000 canaris NCMS000 canari
+
+APERTIUM: cantirer FORMES: NCFP000 cantireres NCFS000 cantirera NCMP000 cantirers NCMS000 cantirer
+SOFTCATA: cantirer FORMES: NCMP000 cantirers NCMS000 cantirer
+
+APERTIUM: cap FORMES: NCFP000 caps NCFS000 cap
+SOFTCATA: cap FORMES: NCCP000 caps NCCS000 cap
+
+APERTIUM: capdavanter FORMES: NCFP000 capdavanteres NCFS000 capdavantera NCMP000 capdavanters NCMS000 capdavanter
+SOFTCATA: capdavanter FORMES: NCMP000 capdavanters NCMS000 capdavanter
+
+APERTIUM: capità FORMES: NCFP000 capitanes NCFS000 capitana NCMP000 capitans NCMS000 capità
+SOFTCATA: capità FORMES: NCMP000 capitans NCMS000 capità
+
+APERTIUM: caprici FORMES: NCMP000 capricios NCMP000 capricis NCMS000 caprici
+SOFTCATA: caprici FORMES: NCMP000 capricis NCMS000 caprici
+
+APERTIUM: capritx FORMES: NCMP000 capritxos NCMP000 capritxs NCMS000 capritx
+SOFTCATA: capritx FORMES: NCMP000 capritxos NCMS000 capritx
+
+APERTIUM: captador FORMES: NCFP000 captadores NCFS000 captadora NCMP000 captadors NCMS000 captador
+SOFTCATA: captador FORMES: NCMP000 captadors NCMS000 captador
+
+APERTIUM: carabassa FORMES: NCFP000 carabasses NCFS000 carabassa
+SOFTCATA: carabassa FORMES: NCCP000 carabasses NCCS000 carabassa
+
+APERTIUM: carabiner FORMES: NCMP000 carabiners NCMS000 carabiner
+SOFTCATA: carabiner FORMES: NCFP000 carabineres NCFS000 carabinera NCMP000 carabiners NCMS000 carabiner
+
+APERTIUM: carboner FORMES: NCFP000 carboneres NCFS000 carbonera NCMP000 carboners NCMS000 carboner
+SOFTCATA: carboner FORMES: NCMP000 carboners NCMS000 carboner
+
+APERTIUM: carcamal FORMES: NCMP000 carcamals NCMS000 carcamal
+SOFTCATA: carcamal FORMES: NCCP000 carcamals NCCS000 carcamal
+
+APERTIUM: carnisser FORMES: NCFP000 carnisseres NCFS000 carnissera NCMP000 carnissers NCMS000 carnisser
+SOFTCATA: carnisser FORMES: NCMP000 carnissers NCMS000 carnisser
+
+APERTIUM: carter FORMES: NCFP000 carteres NCFS000 cartera NCMP000 carters NCMS000 carter
+SOFTCATA: carter FORMES: NCMP000 carters NCMS000 carter
+
+APERTIUM: cartutx FORMES: NCMP000 cartutxos NCMP000 cartutxs NCMS000 cartutx
+SOFTCATA: cartutx FORMES: NCMP000 cartutxos NCMS000 cartutx
+
+APERTIUM: castellonenc FORMES: NCFP000 castellonenques NCFS000 castellonenca NCMP000 castellonencs NCMS000 castellonenc
+SOFTCATA: castellonenc FORMES: NCMP000 castellonencs NCMS000 castellonenc
+
+APERTIUM: castellà FORMES: NCFP000 castellanes NCFS000 castellana NCMP000 castellans NCMS000 castellà
+SOFTCATA: castellà FORMES: NCMP000 castellans NCMS000 castellà
+
+APERTIUM: català FORMES: NCFP000 catalanes NCFS000 catalana NCMP000 catalans NCMS000 català
+SOFTCATA: català FORMES: NCMP000 catalans NCMS000 català
+
+APERTIUM: cava FORMES: NCMP000 caves NCMS000 cava
+SOFTCATA: cava FORMES: NCCP000 caves NCCS000 cava
+
+APERTIUM: caça FORMES: NCFP000 caces NCFS000 caça
+SOFTCATA: caça FORMES: NCCP000 caces NCCS000 caça
+
+APERTIUM: caçador FORMES: NCFP000 caçadores NCFS000 caçadora NCMP000 caçadors NCMS000 caçador
+SOFTCATA: caçador FORMES: NCMP000 caçadors NCMS000 caçador
+
+APERTIUM: cellerer FORMES: NCFP000 cellereres NCFS000 cellerera NCMP000 cellerers NCMS000 cellerer
+SOFTCATA: cellerer FORMES: NCMP000 cellerers NCMS000 cellerer
+
+APERTIUM: centelleig FORMES: NCMP000 centelleigs NCMS000 centelleig
+SOFTCATA: centelleig FORMES: NCMP000 centelleigs NCMP000 centellejos NCMS000 centelleig
+
+APERTIUM: cerç FORMES: NCMS000 cerç
+SOFTCATA: cerç FORMES: NCMP000 cerços NCMS000 cerç
+
+APERTIUM: cessionari FORMES: NCFP000 cessionàries NCFS000 cessionària NCMP000 cessionaris NCMS000 cessionari
+SOFTCATA: cessionari FORMES: NCMP000 cessionaris NCMS000 cessionari
+
+APERTIUM: ciclocròs FORMES: NCMS000 ciclocròs
+SOFTCATA: ciclocròs FORMES: NCMN000 ciclocròs
+
+APERTIUM: científic FORMES: NCFP000 científiques NCFS000 científica NCMP000 científics NCMS000 científic
+SOFTCATA: científic FORMES: NCMP000 científics NCMS000 científic
+
+APERTIUM: cinèfil FORMES: NCFP000 cinèfiles NCFS000 cinèfila NCMP000 cinèfils NCMS000 cinèfil
+SOFTCATA: cinèfil FORMES: NCMP000 cinèfils NCMS000 cinèfil
+
+APERTIUM: cist FORMES: NCMP000 cists NCMS000 cist
+SOFTCATA: cist FORMES: NCMP000 cistos NCMP000 cists NCMS000 cist
+
+APERTIUM: ciutadà FORMES: NCFP000 ciutadanes NCFS000 ciutadana NCMP000 ciutadans NCMS000 ciutadà
+SOFTCATA: ciutadà FORMES: NCMP000 ciutadans NCMS000 ciutadà
+
+APERTIUM: civil FORMES: NCCP000 civils NCCS000 civil
+SOFTCATA: civil FORMES: NCMP000 civils NCMS000 civil
+
+APERTIUM: cloroplast FORMES: NCMP000 cloroplasts NCMS000 cloroplast
+SOFTCATA: cloroplast FORMES: NCMP000 cloroplastos NCMP000 cloroplasts NCMS000 cloroplast
+
+APERTIUM: cobrador FORMES: NCFP000 cobradores NCFS000 cobradora NCMP000 cobradors NCMS000 cobrador
+SOFTCATA: cobrador FORMES: NCMP000 cobradors NCMS000 cobrador
+
+APERTIUM: cofundador FORMES: NCFP000 cofundadores NCFS000 cofundadora NCMP000 cofundadors NCMS000 cofundador
+SOFTCATA: cofundador FORMES: NCMP000 cofundadors NCMS000 cofundador
+
+APERTIUM: colom FORMES: NCFP000 colomes NCFS000 coloma NCMP000 coloms NCMS000 colom
+SOFTCATA: colom FORMES: NCMP000 coloms NCMS000 colom
+
+APERTIUM: colombià FORMES: NCFP000 colombianes NCFS000 colombiana NCMP000 colombians NCMS000 colombià
+SOFTCATA: colombià FORMES: NCMP000 colombians NCMS000 colombià
+
+APERTIUM: colon FORMES: NCFP000 colones NCFS000 colona NCMP000 colons NCMS000 colon
+SOFTCATA: colon FORMES: NCMP000 colons NCMS000 colon
+
+APERTIUM: color FORMES: NCMP000 colors NCMS000 color
+SOFTCATA: color FORMES: NCCP000 colors NCCS000 color
+
+APERTIUM: col·laborador FORMES: NCFP000 col·laboradores NCFS000 col·laboradora NCMP000 col·laboradors NCMS000 col·laborador
+SOFTCATA: col·laborador FORMES: NCMP000 col·laboradors NCMS000 col·laborador
+
+APERTIUM: comediant FORMES: NCFP000 comediantes NCFS000 comedianta NCMP000 comediants NCMS000 comediant
+SOFTCATA: comediant FORMES: NCMP000 comediants NCMS000 comediant
+
+APERTIUM: comentador FORMES: NCFP000 comentadores NCFS000 comentadora NCMP000 comentadors NCMS000 comentador
+SOFTCATA: comentador FORMES: NCMP000 comentadors NCMS000 comentador
+
+APERTIUM: comerciant FORMES: NCCP000 comerciants NCCS000 comerciant
+SOFTCATA: comerciant FORMES: NCMP000 comerciants NCMS000 comerciant
+
+APERTIUM: company FORMES: NCFP000 companyes NCFS000 companya NCMP000 companys NCMS000 company
+SOFTCATA: company FORMES: NCMP000 companys NCMS000 company
+
+APERTIUM: comparsa FORMES: NCFP000 comparses NCFS000 comparsa
+SOFTCATA: comparsa FORMES: NCCP000 comparses NCCS000 comparsa
+
+APERTIUM: complex FORMES: NCMP000 complexos NCMP000 complexs NCMS000 complex
+SOFTCATA: complex FORMES: NCMP000 complexos NCMS000 complex
+
+APERTIUM: componedor FORMES: NCFP000 componedores NCFS000 componedora NCMP000 componedors NCMS000 componedor
+SOFTCATA: componedor FORMES: NCMP000 componedors NCMS000 componedor
+
+APERTIUM: compositor FORMES: NCFP000 compositores NCFS000 compositora NCMP000 compositors NCMS000 compositor
+SOFTCATA: compositor FORMES: NCMP000 compositors NCMS000 compositor
+
+APERTIUM: comprador FORMES: NCFP000 compradores NCFS000 compradora NCMP000 compradors NCMS000 comprador
+SOFTCATA: comprador FORMES: NCMP000 compradors NCMS000 comprador
+
+APERTIUM: computador FORMES: NCFP000 computadores NCFS000 computadora NCMP000 computadors NCMS000 computador
+SOFTCATA: computador FORMES: NCMP000 computadors NCMS000 computador
+
+APERTIUM: comte FORMES: NCFP000 comtesses NCFS000 comtessa NCMP000 comtes NCMS000 comte
+SOFTCATA: comte FORMES: NCMP000 comtes NCMS000 comte
+
+APERTIUM: comís FORMES: NCMP000 comissos NCMS000 comís
+SOFTCATA: comís FORMES: NCMP000 comisos NCMS000 comís
+
+APERTIUM: conciutadà FORMES: NCFP000 conciutadanes NCFS000 conciutadana NCMP000 conciutadans NCMS000 conciutadà
+SOFTCATA: conciutadà FORMES: NCMP000 conciutadans NCMS000 conciutadà
+
+APERTIUM: condemnat FORMES: NCFP000 condemnades NCFS000 condemnada NCMP000 condemnats NCMS000 condemnat
+SOFTCATA: condemnat FORMES: NCMP000 condemnats NCMS000 condemnat
+
+APERTIUM: conductor FORMES: NCFP000 conductores NCFS000 conductora NCMP000 conductors NCMS000 conductor
+SOFTCATA: conductor FORMES: NCMP000 conductors NCMS000 conductor
+
+APERTIUM: conegut FORMES: NCFP000 conegudes NCFS000 coneguda NCMP000 coneguts NCMS000 conegut
+SOFTCATA: conegut FORMES: NCMP000 coneguts NCMS000 conegut
+
+APERTIUM: coneixedor FORMES: NCFP000 coneixedores NCFS000 coneixedora NCMP000 coneixedors NCMS000 coneixedor
+SOFTCATA: coneixedor FORMES: NCMP000 coneixedors NCMS000 coneixedor
+
+APERTIUM: confessor FORMES: NCFP000 confessores NCFS000 confessora NCMP000 confessors NCMS000 confessor
+SOFTCATA: confessor FORMES: NCMP000 confessors NCMS000 confessor
+
+APERTIUM: congost FORMES: NCMP000 congosts NCMS000 congost
+SOFTCATA: congost FORMES: NCMP000 congostos NCMP000 congosts NCMS000 congost
+
+APERTIUM: conill FORMES: NCFP000 conilles NCFS000 conilla NCMP000 conills NCMS000 conill
+SOFTCATA: conill FORMES: NCMP000 conills NCMS000 conill
+
+APERTIUM: conillet FORMES: NCFP000 conilletes NCFS000 conilleta NCMP000 conillets NCMS000 conillet
+SOFTCATA: conillet FORMES: NCMP000 conillets NCMS000 conillet
+
+APERTIUM: conreador FORMES: NCFP000 conreadores NCFS000 conreadora NCMP000 conreadors NCMS000 conreador
+SOFTCATA: conreador FORMES: NCMS000 conreador
+
+APERTIUM: conscient FORMES: NCCP000 conscients NCCS000 conscient
+SOFTCATA: conscient FORMES: NCMP000 conscients NCMS000 conscient
+
+APERTIUM: conseller FORMES: NCFP000 conselleres NCFS000 consellera NCMP000 consellers NCMS000 conseller
+SOFTCATA: conseller FORMES: NCMP000 consellers NCMS000 conseller
+
+APERTIUM: conspirador FORMES: NCFP000 conspiradores NCFS000 conspiradora NCMP000 conspiradors NCMS000 conspirador
+SOFTCATA: conspirador FORMES: NCMP000 conspiradors NCMS000 conspirador
+
+APERTIUM: consultor FORMES: NCFP000 consultores NCFS000 consultora NCMP000 consultors NCMS000 consultor
+SOFTCATA: consultor FORMES: NCMP000 consultors NCMS000 consultor
+
+APERTIUM: consumidor FORMES: NCFP000 consumidores NCFS000 consumidora NCMP000 consumidors NCMS000 consumidor
+SOFTCATA: consumidor FORMES: NCMP000 consumidors NCMS000 consumidor
+
+APERTIUM: contenidor FORMES: NCFP000 contenidores NCFS000 contenidora NCMP000 contenidors NCMS000 contenidor
+SOFTCATA: contenidor FORMES: NCMP000 contenidors NCMS000 contenidor
+
+APERTIUM: contestador FORMES: NCFP000 contestadores NCFS000 contestadora NCMP000 contestadors NCMS000 contestador
+SOFTCATA: contestador FORMES: NCMP000 contestadors NCMS000 contestador
+
+APERTIUM: continuador FORMES: NCFP000 continuadores NCFS000 continuadora NCMP000 continuadors NCMS000 continuador
+SOFTCATA: continuador FORMES: NCMP000 continuadors NCMS000 continuador
+
+APERTIUM: contra FORMES: NCFP000 contres NCFS000 contra
+SOFTCATA: contra FORMES: NCCP000 contres NCCS000 contra
+
+APERTIUM: contracorrent FORMES: NCMS000 contracorrent
+SOFTCATA: contracorrent FORMES: NCMP000 contracorrents NCMS000 contracorrent
+
+APERTIUM: contrarellotge FORMES: NCFN000 contrarellotge
+SOFTCATA: contrarellotge FORMES: NCFP000 contrarellotges NCFS000 contrarellotge
+
+APERTIUM: controlador FORMES: NCFP000 controladores NCFS000 controladora NCMP000 controladors NCMS000 controlador
+SOFTCATA: controlador FORMES: NCMP000 controladors NCMS000 controlador
+
+APERTIUM: conversador FORMES: NCFP000 conversadores NCFS000 conversadora NCMP000 conversadors NCMS000 conversador
+SOFTCATA: conversador FORMES: NCMP000 conversadors NCMS000 conversador
+
+APERTIUM: cooperador FORMES: NCFP000 cooperadores NCFS000 cooperadora NCMP000 cooperadors NCMS000 cooperador
+SOFTCATA: cooperador FORMES: NCMP000 cooperadors NCMS000 cooperador
+
+APERTIUM: copiador FORMES: NCFP000 copiadores NCFS000 copiadora NCMP000 copiadors NCMS000 copiador
+SOFTCATA: copiador FORMES: NCMP000 copiadors NCMS000 copiador
+
+APERTIUM: coproductor FORMES: NCFP000 coproductores NCFS000 coproductora NCMP000 coproductors NCMS000 coproductor
+SOFTCATA: coproductor FORMES: NCMP000 coproductors NCMS000 coproductor
+
+APERTIUM: coral FORMES: NCMP000 corals NCMS000 coral
+SOFTCATA: coral FORMES: NCCP000 corals NCCS000 coral
+
+APERTIUM: coreà FORMES: NCFP000 coreanes NCFS000 coreana NCMP000 coreans NCMS000 coreà
+SOFTCATA: coreà FORMES: NCMP000 coreans NCMS000 coreà
+
+APERTIUM: corinti FORMES: NCFP000 corínties NCFS000 coríntia NCMP000 corintis NCMS000 corinti
+SOFTCATA: corinti FORMES: NCMP000 corintis NCMS000 corinti
+
+APERTIUM: coronel FORMES: NCCP000 coronels NCCS000 coronel
+SOFTCATA: coronel FORMES: NCMP000 coronels NCMS000 coronel
+
+APERTIUM: corredor FORMES: NCFP000 corredores NCFS000 corredora NCMP000 corredors NCMS000 corredor
+SOFTCATA: corredor FORMES: NCMP000 corredors NCMS000 corredor
+
+APERTIUM: corregidor FORMES: NCFP000 corregidores NCFS000 corregidora NCMP000 corregidors NCMS000 corregidor
+SOFTCATA: corregidor FORMES: NCMP000 corregidors NCMS000 corregidor
+
+APERTIUM: cosidor FORMES: NCFP000 cosidores NCFS000 cosidora NCMP000 cosidors NCMS000 cosidor
+SOFTCATA: cosidor FORMES: NCMP000 cosidors NCMS000 cosidor
+
+APERTIUM: cosmètic FORMES: NCFP000 cosmètiques NCFS000 cosmètica NCMP000 cosmètics NCMS000 cosmètic
+SOFTCATA: cosmètic FORMES: NCMP000 cosmètics NCMS000 cosmètic
+
+APERTIUM: cotoner FORMES: NCFP000 cotoneres NCFS000 cotonera NCMP000 cotoners NCMS000 cotoner
+SOFTCATA: cotoner FORMES: NCMP000 cotoners NCMS000 cotoner
+
+APERTIUM: cotó-en-pèl FORMES: NCMS000 cotó-en-pèl
+SOFTCATA: cotó-en-pèl FORMES: NCMP000 cotó-en-pèls NCMS000 cotó-en-pèl
+
+APERTIUM: covard FORMES: NCFP000 covardes NCFS000 covarda NCMP000 covards NCMS000 covard
+SOFTCATA: covard FORMES: NCMP000 covards NCMS000 covard
+
+APERTIUM: creador FORMES: NCFP000 creadores NCFS000 creadora NCMP000 creadors NCMS000 creador
+SOFTCATA: creador FORMES: NCMP000 creadors NCMS000 creador
+
+APERTIUM: creditor FORMES: NCFP000 creditores NCFS000 creditora NCMP000 creditors NCMS000 creditor
+SOFTCATA: creditor FORMES: NCMP000 creditors NCMS000 creditor
+
+APERTIUM: crepè FORMES: NCMP000 crepès NCMS000 crepè
+SOFTCATA: crepè FORMES: NCMP000 crepès NCMP000 crepés NCMS000 crepè NCMS000 crepé
+
+APERTIUM: criat FORMES: NCFP000 criades NCFS000 criada NCMP000 criats NCMS000 criat
+SOFTCATA: criat FORMES: NCMP000 criats NCMS000 criat
+
+APERTIUM: crioll FORMES: NCFP000 criolles NCFS000 criolla NCMP000 criolls NCMS000 crioll
+SOFTCATA: crioll FORMES: NCMP000 criolls NCMS000 crioll
+
+APERTIUM: cristià FORMES: NCFP000 cristianes NCFS000 cristiana NCMP000 cristians NCMS000 cristià
+SOFTCATA: cristià FORMES: NCMP000 cristians NCMS000 cristià
+
+APERTIUM: crucifix FORMES: NCMP000 crucifixos NCMP000 crucifixs NCMS000 crucifix
+SOFTCATA: crucifix FORMES: NCMP000 crucifixos NCMS000 crucifix
+
+APERTIUM: crític FORMES: NCFP000 crítiques NCFS000 crítica NCMP000 crítics NCMS000 crític
+SOFTCATA: crític FORMES: NCMP000 crítics NCMS000 crític
+
+APERTIUM: cubà FORMES: NCFP000 cubanes NCFS000 cubana NCMP000 cubans NCMS000 cubà
+SOFTCATA: cubà FORMES: NCMP000 cubans NCMS000 cubà
+
+APERTIUM: cuiner FORMES: NCFP000 cuineres NCFS000 cuinera NCMP000 cuiners NCMS000 cuiner
+SOFTCATA: cuiner FORMES: NCMP000 cuiners NCMS000 cuiner
+
+APERTIUM: cupè FORMES: NCMP000 cupès NCMS000 cupè
+SOFTCATA: cupè FORMES: NCMP000 cupès NCMP000 cupés NCMS000 cupè NCMS000 cupé
+
+APERTIUM: càmera FORMES: NCFP000 càmeres NCFS000 càmera
+SOFTCATA: càmera FORMES: NCCP000 càmeres NCCS000 càmera
+
+APERTIUM: còmic FORMES: NCFP000 còmiques NCFS000 còmica NCMP000 còmics NCMS000 còmic
+SOFTCATA: còmic FORMES: NCMP000 còmics NCMS000 còmic
+
+APERTIUM: còrtex FORMES: NCMN000 còrtex
+SOFTCATA: còrtex FORMES: NCMP000 còrtexs NCMS000 còrtex
+
+APERTIUM: daltabaix FORMES: NCMP000 daltabaixos NCMP000 daltabaixs NCMS000 daltabaix
+SOFTCATA: daltabaix FORMES: NCMP000 daltabaixos NCMS000 daltabaix
+
+APERTIUM: decatló FORMES: NCMS000 decatló
+SOFTCATA: decatló FORMES: NCMP000 decatlons NCMS000 decatló
+
+APERTIUM: defensor FORMES: NCFP000 defensores NCFS000 defensora NCMP000 defensors NCMS000 defensor
+SOFTCATA: defensor FORMES: NCMP000 defensors NCMS000 defensor
+
+APERTIUM: deixeble FORMES: NCCP000 deixebles NCCS000 deixeble
+SOFTCATA: deixeble FORMES: NCCP000 deixebles NCFS000 deixebla NCMS000 deixeble
+
+APERTIUM: denominador FORMES: NCFP000 denominadores NCFS000 denominadora NCMP000 denominadors NCMS000 denominador
+SOFTCATA: denominador FORMES: NCMP000 denominadors NCMS000 denominador
+
+APERTIUM: dependent FORMES: NCFP000 dependentes NCFS000 dependenta NCMP000 dependents NCMS000 dependent
+SOFTCATA: dependent FORMES: NCMP000 dependents NCMS000 dependent
+
+APERTIUM: desbaratador FORMES: NCFP000 desbaratadores NCFS000 desbaratadora NCMP000 desbaratadors NCMS000 desbaratador
+SOFTCATA: desbaratador FORMES: NCMP000 desbaratadors NCMS000 desbaratador
+
+APERTIUM: desocupat FORMES: NCFP000 desocupades NCFS000 desocupada NCMP000 desocupats NCMS000 desocupat
+SOFTCATA: desocupat FORMES: NCMP000 desocupats NCMS000 desocupat
+
+APERTIUM: despatx FORMES: NCMP000 despatxos NCMP000 despatxs NCMS000 despatx
+SOFTCATA: despatx FORMES: NCMP000 despatxos NCMS000 despatx
+
+APERTIUM: destil·lat FORMES: NCFP000 destil·lades NCFS000 destil·lada NCMP000 destil·lats NCMS000 destil·lat
+SOFTCATA: destil·lat FORMES: NCMP000 destil·lats NCMS000 destil·lat
+
+APERTIUM: detectiu FORMES: NCCP000 detectius NCCS000 detectiu
+SOFTCATA: detectiu FORMES: NCFP000 detectives NCFS000 detectiva NCMP000 detectius NCMS000 detectiu
+
+APERTIUM: detector FORMES: NCFP000 detectores NCFS000 detectora NCMP000 detectors NCMS000 detector
+SOFTCATA: detector FORMES: NCMP000 detectors NCMS000 detector
+
+APERTIUM: detingut FORMES: NCFP000 detingudes NCFS000 detinguda NCMP000 detinguts NCMS000 detingut
+SOFTCATA: detingut FORMES: NCMP000 detinguts NCMS000 detingut
+
+APERTIUM: deu FORMES: NCFP000 deus NCFS000 deu
+SOFTCATA: deu FORMES: NCCN000 deu
+
+APERTIUM: deutor FORMES: NCFP000 deutores NCFS000 deutora NCMP000 deutors NCMS000 deutor
+SOFTCATA: deutor FORMES: NCMP000 deutors NCMS000 deutor
+
+APERTIUM: devot FORMES: NCFP000 devotes NCFS000 devota NCMP000 devots NCMS000 devot
+SOFTCATA: devot FORMES: NCMP000 devots NCMS000 devot
+
+APERTIUM: diable FORMES: NCFP000 diablesses NCFS000 diablessa NCMP000 diables NCMS000 diable
+SOFTCATA: diable FORMES: NCMP000 diables NCMS000 diable
+
+APERTIUM: dibuix FORMES: NCMP000 dibuixos NCMP000 dibuixs NCMS000 dibuix
+SOFTCATA: dibuix FORMES: NCMP000 dibuixos NCMS000 dibuix
+
+APERTIUM: dictador FORMES: NCFP000 dictadores NCFS000 dictadora NCMP000 dictadors NCMS000 dictador
+SOFTCATA: dictador FORMES: NCMP000 dictadors NCMS000 dictador
+
+APERTIUM: difunt FORMES: NCFP000 difuntes NCFS000 difunta NCMP000 difunts NCMS000 difunt
+SOFTCATA: difunt FORMES: NCMP000 difunts NCMS000 difunt
+
+APERTIUM: diplomat FORMES: NCFP000 diplomades NCFS000 diplomada NCMP000 diplomats NCMS000 diplomat
+SOFTCATA: diplomat FORMES: NCMP000 diplomats NCMS000 diplomat
+
+APERTIUM: diputat FORMES: NCFP000 diputades NCFS000 diputada NCMP000 diputats NCMS000 diputat
+SOFTCATA: diputat FORMES: NCMP000 diputats NCMS000 diputat
+
+APERTIUM: disbauxat FORMES: NCFP000 disbauxades NCFS000 disbauxada NCMP000 disbauxats NCMS000 disbauxat
+SOFTCATA: disbauxat FORMES: NCMP000 disbauxats NCMS000 disbauxat
+
+APERTIUM: dissenyador FORMES: NCFP000 dissenyadores NCFS000 dissenyadora NCMP000 dissenyadors NCMS000 dissenyador
+SOFTCATA: dissenyador FORMES: NCMP000 dissenyadors NCMS000 dissenyador
+
+APERTIUM: diumenger FORMES: NCFP000 diumengeres NCFS000 diumengera NCMP000 diumengers NCMS000 diumenger
+SOFTCATA: diumenger FORMES: NCMP000 diumengers NCMS000 diumenger
+
+APERTIUM: divisor FORMES: NCFP000 divisores NCFS000 divisora NCMP000 divisors NCMS000 divisor
+SOFTCATA: divisor FORMES: NCMP000 divisors NCMS000 divisor
+
+APERTIUM: doble FORMES: NCMP000 dobles NCMS000 doble
+SOFTCATA: doble FORMES: NCCP000 dobles NCCS000 doble
+
+APERTIUM: dolor FORMES: NCMP000 dolors NCMS000 dolor
+SOFTCATA: dolor FORMES: NCCP000 dolors NCCS000 dolor
+
+APERTIUM: domador FORMES: NCFP000 domadores NCFS000 domadora NCMP000 domadors NCMS000 domador
+SOFTCATA: domador FORMES: NCMP000 domadors NCMS000 domador
+
+APERTIUM: dominicà FORMES: NCFP000 dominicanes NCFS000 dominicana NCMP000 dominicans NCMS000 dominicà
+SOFTCATA: dominicà FORMES: NCMP000 dominicans NCMS000 dominicà
+
+APERTIUM: donador FORMES: NCFP000 donadores NCFS000 donadora NCMP000 donadors NCMS000 donador
+SOFTCATA: donador FORMES: NCMP000 donadors NCMS000 donador
+
+APERTIUM: donatari FORMES: NCFP000 donatàries NCFS000 donatària NCMP000 donataris NCMS000 donatari
+SOFTCATA: donatari FORMES: NCMP000 donataris NCMS000 donatari
+
+APERTIUM: droguer FORMES: NCFP000 drogueres NCFS000 droguera NCMP000 droguers NCMS000 droguer
+SOFTCATA: droguer FORMES: NCMP000 droguers NCMS000 droguer
+
+APERTIUM: duc FORMES: NCFP000 duquesses NCFS000 duquessa NCMP000 ducs NCMS000 duc
+SOFTCATA: duc FORMES: NCMP000 ducs NCMS000 duc
+
+APERTIUM: duramen FORMES: NCMP000 duramens NCMS000 duramen
+SOFTCATA: duramen FORMES: NCMP000 duràmens NCMS000 duramen
+
+APERTIUM: déu FORMES: NCFP000 deesses NCFS000 deessa NCMP000 déus NCMS000 déu
+SOFTCATA: déu FORMES: NCMP000 déus NCMS000 déu
+
+APERTIUM: dòmino FORMES: NCMS000 dòmino
+SOFTCATA: dòmino FORMES: NCMP000 dòminos NCMS000 dòmino
+
+APERTIUM: dúplex FORMES: NCMN000 dúplex
+SOFTCATA: dúplex FORMES: NCMP000 dúplexs NCMS000 dúplex
+
+APERTIUM: eclesiàstic FORMES: NCFP000 eclesiàstiques NCFS000 eclesiàstica NCMP000 eclesiàstics NCMS000 eclesiàstic
+SOFTCATA: eclesiàstic FORMES: NCMP000 eclesiàstics NCMS000 eclesiàstic
+
+APERTIUM: ecografia FORMES: NCFP000 ecografias NCFS000 ecografia
+SOFTCATA: ecografia FORMES: NCFP000 ecografies NCFS000 ecografia
+
+APERTIUM: educador FORMES: NCFP000 educadores NCFS000 educadora NCMP000 educadors NCMS000 educador
+SOFTCATA: educador FORMES: NCMP000 educadors NCMS000 educador
+
+APERTIUM: edulcorant FORMES: NCCP000 edulcorants NCCS000 edulcorant
+SOFTCATA: edulcorant FORMES: NCMP000 edulcorants NCMS000 edulcorant
+
+APERTIUM: egipci FORMES: NCFP000 egípcies NCFS000 egípcia NCMP000 egipcis NCMS000 egipci
+SOFTCATA: egipci FORMES: NCMP000 egipcis NCMS000 egipci
+
+APERTIUM: eix FORMES: NCMP000 eixos NCMP000 eixs NCMS000 eix
+SOFTCATA: eix FORMES: NCMP000 eixos NCMS000 eix
+
+APERTIUM: electrodomèstic FORMES: NCFP000 electrodomèstiques NCFS000 electrodomèstica NCMP000 electrodomèstics NCMS000 electrodomèstic
+SOFTCATA: electrodomèstic FORMES: NCMP000 electrodomèstics NCMS000 electrodomèstic
+
+APERTIUM: electroquímica FORMES: NCFS000 electroquímica
+SOFTCATA: electroquímica FORMES: NCFP000 electroquímiques NCFS000 electroquímica
+
+APERTIUM: elefant FORMES: NCFP000 elefantes NCFS000 elefanta NCMP000 elefants NCMS000 elefant
+SOFTCATA: elefant FORMES: NCMP000 elefants NCMS000 elefant
+
+APERTIUM: elevador FORMES: NCFP000 elevadores NCFS000 elevadora NCMP000 elevadors NCMS000 elevador
+SOFTCATA: elevador FORMES: NCMP000 elevadors NCMS000 elevador
+
+APERTIUM: emissari FORMES: NCFP000 emissàries NCFS000 emissària NCMP000 emissaris NCMS000 emissari
+SOFTCATA: emissari FORMES: NCMP000 emissaris NCMS000 emissari
+
+APERTIUM: emissor FORMES: NCFP000 emissores NCFS000 emissora NCMP000 emissors NCMS000 emissor
+SOFTCATA: emissor FORMES: NCMP000 emissors NCMS000 emissor
+
+APERTIUM: empatx FORMES: NCMP000 empatxos NCMP000 empatxs NCMS000 empatx
+SOFTCATA: empatx FORMES: NCMP000 empatxos NCMS000 empatx
+
+APERTIUM: emperador FORMES: NCFP000 emperadrius NCFS000 emperadriu NCMP000 emperadors NCMS000 emperador
+SOFTCATA: emperador FORMES: NCMP000 emperadors NCMS000 emperador
+
+APERTIUM: empleat FORMES: NCFP000 empleades NCFS000 empleada NCMP000 empleats NCMS000 empleat
+SOFTCATA: empleat FORMES: NCMP000 empleats NCMS000 empleat
+
+APERTIUM: encast FORMES: NCMP000 encasts NCMS000 encast
+SOFTCATA: encast FORMES: NCMP000 encastos NCMP000 encasts NCMS000 encast
+
+APERTIUM: encenedor FORMES: NCMP000 encenedors NCMS000 encenedor
+SOFTCATA: encenedor FORMES: NCMS000 encenedor
+
+APERTIUM: endeví FORMES: NCFP000 endevines NCFS000 endevina NCMP000 endevins NCMS000 endeví
+SOFTCATA: endeví FORMES: NCMP000 endevins NCMS000 endeví
+
+APERTIUM: enemic FORMES: NCFP000 enemigues NCFS000 enemiga NCMP000 enemics NCMS000 enemic
+SOFTCATA: enemic FORMES: NCMP000 enemics NCMS000 enemic
+
+APERTIUM: enginyer FORMES: NCFP000 enginyeres NCFS000 enginyera NCMP000 enginyers NCMS000 enginyer
+SOFTCATA: enginyer FORMES: NCMP000 enginyers NCMS000 enginyer
+
+APERTIUM: entenedor FORMES: NCFP000 entenedores NCFS000 entenedora NCMP000 entenedors NCMS000 entenedor
+SOFTCATA: entenedor FORMES: NCMP000 entenedors NCMS000 entenedor
+
+APERTIUM: enterrador FORMES: NCFP000 enterradores NCFS000 enterradora NCMP000 enterradors NCMS000 enterrador
+SOFTCATA: enterrador FORMES: NCMP000 enterradors NCMS000 enterrador
+
+APERTIUM: equatorià FORMES: NCFP000 equatorianes NCFS000 equatoriana NCMP000 equatorians NCMS000 equatorià
+SOFTCATA: equatorià FORMES: NCMP000 equatorians NCMS000 equatorià
+
+APERTIUM: equivalent FORMES: NCCP000 equivalents NCCS000 equivalent
+SOFTCATA: equivalent FORMES: NCMP000 equivalents NCMS000 equivalent
+
+APERTIUM: ermità FORMES: NCFP000 ermitanes NCFS000 ermitana NCMP000 ermitans NCMS000 ermità
+SOFTCATA: ermità FORMES: NCMP000 ermitans NCMS000 ermità
+
+APERTIUM: error FORMES: NCMP000 errors NCMS000 error
+SOFTCATA: error FORMES: NCCP000 errors NCCS000 error
+
+APERTIUM: erudit FORMES: NCFP000 erudites NCFS000 erudita NCMP000 erudits NCMS000 erudit
+SOFTCATA: erudit FORMES: NCMP000 erudits NCMS000 erudit
+
+APERTIUM: escabetx FORMES: NCMP000 escabetxos NCMP000 escabetxs NCMS000 escabetx
+SOFTCATA: escabetx FORMES: NCMP000 escabetxos NCMS000 escabetx
+
+APERTIUM: escandinau FORMES: NCFP000 escandinaves NCFS000 escandinava NCMP000 escandinaus NCMS000 escandinau
+SOFTCATA: escandinau FORMES: NCMP000 escandinaus NCMS000 escandinau
+
+APERTIUM: escenògraf FORMES: NCFP000 escenògrafes NCFS000 escenògrafa NCMP000 escenògrafs NCMS000 escenògraf
+SOFTCATA: escenògraf FORMES: NCMP000 escenògrafs NCMS000 escenògraf
+
+APERTIUM: esclau FORMES: NCFP000 esclaves NCFS000 esclava NCMP000 esclaus NCMS000 esclau
+SOFTCATA: esclau FORMES: NCMP000 esclaus NCMS000 esclau
+
+APERTIUM: escotoma FORMES: NCMP000 escotomas NCMS000 escotoma
+SOFTCATA: escotoma FORMES: NCMP000 escotomes NCMS000 escotoma
+
+APERTIUM: escriptor FORMES: NCFP000 escriptores NCFS000 escriptora NCMP000 escriptors NCMS000 escriptor
+SOFTCATA: escriptor FORMES: NCMP000 escriptors NCMS000 escriptor
+
+APERTIUM: escuder FORMES: NCMP000 escuders NCMS000 escuder
+SOFTCATA: escuder FORMES: NCFP000 escuderes NCFS000 escudera NCMP000 escuders NCMS000 escuder
+
+APERTIUM: escultor FORMES: NCFP000 escultores NCFS000 escultora NCMP000 escultors NCMS000 escultor
+SOFTCATA: escultor FORMES: NCMP000 escultors NCMS000 escultor
+
+APERTIUM: esfinx FORMES: NCFP000 esfinxs NCFS000 esfinx
+SOFTCATA: esfinx FORMES: NCCP000 esfinxs NCCS000 esfinx
+
+APERTIUM: eslau FORMES: NCFP000 eslaves NCFS000 eslava NCMP000 eslaus NCMS000 eslau
+SOFTCATA: eslau FORMES: NCMP000 eslaus NCMS000 eslau
+
+APERTIUM: espanyol FORMES: NCFP000 espanyoles NCFS000 espanyola NCMP000 espanyols NCMS000 espanyol
+SOFTCATA: espanyol FORMES: NCMP000 espanyols NCMS000 espanyol
+
+APERTIUM: espasa FORMES: NCFP000 espases NCFS000 espasa
+SOFTCATA: espasa FORMES: NCCP000 espases NCCS000 espasa
+
+APERTIUM: espectador FORMES: NCFP000 espectadores NCFS000 espectadora NCMP000 espectadors NCMS000 espectador
+SOFTCATA: espectador FORMES: NCMP000 espectadors NCMS000 espectador
+
+APERTIUM: espessor FORMES: NCMP000 espessors NCMS000 espessor
+SOFTCATA: espessor FORMES: NCFP000 espessors NCFS000 espessor
+
+APERTIUM: esquaix FORMES: NCMS000 esquaix
+SOFTCATA: esquaix FORMES: NCMP000 esquaixos NCMS000 esquaix
+
+APERTIUM: esqueix FORMES: NCMP000 esqueixos NCMP000 esqueixs NCMS000 esqueix
+SOFTCATA: esqueix FORMES: NCMP000 esqueixos NCMS000 esqueix
+
+APERTIUM: esquiador FORMES: NCFP000 esquiadores NCFS000 esquiadora NCMP000 esquiadors NCMS000 esquiador
+SOFTCATA: esquiador FORMES: NCMP000 esquiadors NCMS000 esquiador
+
+APERTIUM: esquist FORMES: NCMP000 esquists NCMS000 esquist
+SOFTCATA: esquist FORMES: NCMP000 esquistos NCMP000 esquists NCMS000 esquist
+
+APERTIUM: estadístic FORMES: NCFP000 estadístiques NCFS000 estadística NCMP000 estadístics NCMS000 estadístic
+SOFTCATA: estadístic FORMES: NCMP000 estadístics NCMS000 estadístic
+
+APERTIUM: estoig FORMES: NCMP000 estoigs NCMS000 estoig
+SOFTCATA: estoig FORMES: NCMP000 estoigs NCMP000 estotjos NCMS000 estoig
+
+APERTIUM: estonià FORMES: NCFP000 estonianes NCFS000 estoniana NCMP000 estonians NCMS000 estonià
+SOFTCATA: estonià FORMES: NCMP000 estonians NCMS000 estonià
+
+APERTIUM: estranger FORMES: NCFP000 estrangeres NCFS000 estrangera NCMP000 estrangers NCMS000 estranger
+SOFTCATA: estranger FORMES: NCMP000 estrangers NCMS000 estranger
+
+APERTIUM: europeu FORMES: NCFP000 europees NCFS000 europea NCMP000 europeus NCMS000 europeu
+SOFTCATA: europeu FORMES: NCMP000 europeus NCMS000 europeu
+
+APERTIUM: examinador FORMES: NCFP000 examinadores NCFS000 examinadora NCMP000 examinadors NCMS000 examinador
+SOFTCATA: examinador FORMES: NCMP000 examinadors NCMS000 examinador
+
+APERTIUM: executiu FORMES: NCFP000 executives NCFS000 executiva NCMP000 executius NCMS000 executiu
+SOFTCATA: executiu FORMES: NCMP000 executius NCMS000 executiu
+
+APERTIUM: expert FORMES: NCFP000 expertes NCFS000 experta NCMP000 experts NCMS000 expert
+SOFTCATA: expert FORMES: NCMP000 experts NCMS000 expert
+
+APERTIUM: explorador FORMES: NCFP000 exploradores NCFS000 exploradora NCMP000 exploradors NCMS000 explorador
+SOFTCATA: explorador FORMES: NCMP000 exploradors NCMS000 explorador
+
+APERTIUM: exponent FORMES: NCCP000 exponents NCCS000 exponent
+SOFTCATA: exponent FORMES: NCMP000 exponents NCMS000 exponent
+
+APERTIUM: expresident FORMES: NCFP000 expresidentes NCFS000 expresidenta NCMP000 expresidents NCMS000 expresident
+SOFTCATA: expresident FORMES: NCMP000 expresidents NCMS000 expresident
+
+APERTIUM: facultatiu FORMES: NCFP000 facultatives NCFS000 facultativa NCMP000 facultatius NCMS000 facultatiu
+SOFTCATA: facultatiu FORMES: NCMP000 facultatius NCMS000 facultatiu
+
+APERTIUM: faller FORMES: NCFP000 falleres NCFS000 fallera NCMP000 fallers NCMS000 faller
+SOFTCATA: faller FORMES: NCMP000 fallers NCMS000 faller
+
+APERTIUM: faraó FORMES: NCMP000 faraons NCMS000 faraó
+SOFTCATA: faraó FORMES: NCFP000 faraones NCFS000 faraona NCMP000 faraons NCMS000 faraó
+
+APERTIUM: farmacèutic FORMES: NCFP000 farmacèutiques NCFS000 farmacèutica NCMP000 farmacèutics NCMS000 farmacèutic
+SOFTCATA: farmacèutic FORMES: NCMP000 farmacèutics NCMS000 farmacèutic
+
+APERTIUM: fast FORMES: NCMP000 fastos NCMS000 fast
+SOFTCATA: fast FORMES: NCMP000 fastos NCMP000 fasts NCMS000 fast
+
+APERTIUM: fava FORMES: NCFP000 faves NCFS000 fava
+SOFTCATA: fava FORMES: NCCP000 faves NCCS000 fava
+
+APERTIUM: feix FORMES: NCMP000 feixos NCMP000 feixs NCMS000 feix
+SOFTCATA: feix FORMES: NCMP000 feixos NCMS000 feix
+
+APERTIUM: feligrès FORMES: NCFP000 feligreses NCFS000 feligresa NCMP000 feligresos NCMS000 feligrès NCMS000 feligrés
+SOFTCATA: feligrès FORMES: NCMP000 feligresos NCMS000 feligrès NCMS000 feligrés
+
+APERTIUM: ferit FORMES: NCFP000 ferides NCFS000 ferida NCMP000 ferits NCMS000 ferit
+SOFTCATA: ferit FORMES: NCMP000 ferits NCMS000 ferit
+
+APERTIUM: ferrer FORMES: NCFP000 ferreres NCFS000 ferrera NCMP000 ferrers NCMS000 ferrer
+SOFTCATA: ferrer FORMES: NCMP000 ferrers NCMS000 ferrer
+
+APERTIUM: ferreter FORMES: NCFP000 ferreteres NCFS000 ferretera NCMP000 ferreters NCMS000 ferreter
+SOFTCATA: ferreter FORMES: NCMP000 ferreters NCMS000 ferreter
+
+APERTIUM: fervor FORMES: NCMP000 fervors NCMS000 fervor
+SOFTCATA: fervor FORMES: NCCP000 fervors NCCS000 fervor
+
+APERTIUM: fester FORMES: NCFP000 festeres NCFS000 festera NCMP000 festers NCMS000 fester
+SOFTCATA: fester FORMES: NCMP000 festers NCMS000 fester
+
+APERTIUM: fideïcomissari FORMES: NCFP000 fideïcomissàries NCFS000 fideïcomissària NCMP000 fideïcomissaris NCMS000 fideïcomissari
+SOFTCATA: fideïcomissari FORMES: NCMP000 fideïcomissaris NCMS000 fideïcomissari
+
+APERTIUM: fideïcomís FORMES: NCMP000 fideïcomissos NCMS000 fideïcomís
+SOFTCATA: fideïcomís FORMES: NCMP000 fideïcomisos NCMS000 fideïcomís
+
+APERTIUM: filantrop FORMES: NCFP000 filantropes NCFS000 filantropa NCMP000 filantrops NCMS000 filantrop
+SOFTCATA: filantrop FORMES: NCMP000 filantrops NCMS000 filantrop
+
+APERTIUM: filipí FORMES: NCFP000 filipines NCFS000 filipina NCMP000 filipins NCMS000 filipí
+SOFTCATA: filipí FORMES: NCMP000 filipins NCMS000 filipí
+
+APERTIUM: fill FORMES: NCFP000 filles NCFS000 filla NCMP000 fills NCMS000 fill
+SOFTCATA: fill FORMES: NCMP000 fills NCMS000 fill
+
+APERTIUM: filòsof FORMES: NCFP000 filòsofes NCFS000 filòsofa NCMP000 filòsofs NCMS000 filòsof
+SOFTCATA: filòsof FORMES: NCMP000 filòsofs NCMS000 filòsof
+
+APERTIUM: final FORMES: NCMP000 finals NCMS000 final
+SOFTCATA: final FORMES: NCCP000 finals NCCS000 final
+
+APERTIUM: flaix FORMES: NCMP000 flaixos NCMP000 flaixs NCMS000 flaix
+SOFTCATA: flaix FORMES: NCMP000 flaixos NCMS000 flaix
+
+APERTIUM: flamenc FORMES: NCFP000 flamenques NCFS000 flamenca NCMP000 flamencs NCMS000 flamenc
+SOFTCATA: flamenc FORMES: NCMP000 flamencs NCMS000 flamenc
+
+APERTIUM: fleix FORMES: NCMP000 fleixos NCMP000 fleixs NCMS000 fleix
+SOFTCATA: fleix FORMES: NCMP000 fleixos NCMS000 fleix
+
+APERTIUM: flirteig FORMES: NCMP000 flirteigs NCMS000 flirteig
+SOFTCATA: flirteig FORMES: NCMP000 flirteigs NCMP000 flirtejos NCMS000 flirteig
+
+APERTIUM: fluix FORMES: NCMP000 fluixos NCMP000 fluixs NCMS000 fluix
+SOFTCATA: fluix FORMES: NCMP000 fluixos NCMS000 fluix
+
+APERTIUM: fonedor FORMES: NCFP000 fonedores NCFS000 fonedora NCMP000 fonedors NCMS000 fonedor
+SOFTCATA: fonedor FORMES: NCMP000 fonedors NCMS000 fonedor
+
+APERTIUM: foniatre FORMES: NCCP000 foniatres NCFS000 foniatra NCMS000 foniatre
+SOFTCATA: foniatre FORMES: NCMP000 foniatres NCMS000 foniatre
+
+APERTIUM: foraster FORMES: NCFP000 forasteres NCFS000 forastera NCMP000 forasters NCMS000 foraster
+SOFTCATA: foraster FORMES: NCMP000 forasters NCMS000 foraster
+
+APERTIUM: forjador FORMES: NCFP000 forjadores NCFS000 forjadora NCMP000 forjadors NCMS000 forjador
+SOFTCATA: forjador FORMES: NCMP000 forjadors NCMS000 forjador
+
+APERTIUM: formador FORMES: NCFP000 formadores NCFS000 formadora NCMP000 formadors NCMS000 formador
+SOFTCATA: formador FORMES: NCMP000 formadors NCMS000 formador
+
+APERTIUM: formatger FORMES: NCFP000 formatgeres NCFS000 formatgera NCMP000 formatgers NCMS000 formatger
+SOFTCATA: formatger FORMES: NCMP000 formatgers NCMS000 formatger
+
+APERTIUM: forner FORMES: NCFP000 forneres NCFS000 fornera NCMP000 forners NCMS000 forner
+SOFTCATA: forner FORMES: NCMP000 forners NCMS000 forner
+
+APERTIUM: fragor FORMES: NCMP000 fragors NCMS000 fragor
+SOFTCATA: fragor FORMES: NCCP000 fragors NCCS000 fragor
+
+APERTIUM: franc FORMES: NCFP000 frances NCFS000 franca NCMP000 francs NCMS000 franc
+SOFTCATA: franc FORMES: NCMP000 francs NCMS000 franc
+
+APERTIUM: franci FORMES: NCMN000 franci
+SOFTCATA: franci FORMES: NCMP000 francis NCMS000 franci
+
+APERTIUM: franciscà FORMES: NCFP000 franciscanes NCFS000 franciscana NCMP000 franciscans NCMS000 franciscà
+SOFTCATA: franciscà FORMES: NCMP000 franciscans NCMS000 franciscà
+
+APERTIUM: fresc FORMES: NCMP000 frescs NCMS000 fresc
+SOFTCATA: fresc FORMES: NCMP000 frescos NCMP000 frescs NCMS000 fresc
+
+APERTIUM: fulgor FORMES: NCMP000 fulgors NCMS000 fulgor
+SOFTCATA: fulgor FORMES: NCCP000 fulgors NCCS000 fulgor
+
+APERTIUM: fundador FORMES: NCFP000 fundadores NCFS000 fundadora NCMP000 fundadors NCMS000 fundador
+SOFTCATA: fundador FORMES: NCMP000 fundadors NCMS000 fundador
+
+APERTIUM: fungicida FORMES: NCCP000 fungicides NCCS000 fungicida
+SOFTCATA: fungicida FORMES: NCMP000 fungicides NCMS000 fungicida
+
+APERTIUM: fuster FORMES: NCFP000 fusteres NCFS000 fustera NCMP000 fusters NCMS000 fuster
+SOFTCATA: fuster FORMES: NCMP000 fusters NCMS000 fuster
+
+APERTIUM: futbol FORMES: NCMS000 futbol
+SOFTCATA: futbol FORMES: NCMP000 futbols NCMS000 futbol
+
+APERTIUM: fènix FORMES: NCMS000 fènix
+SOFTCATA: fènix FORMES: NCMP000 fènixs NCMS000 fènix
+
+APERTIUM: fúcsia FORMES: NCFP000 fúcsies NCFS000 fúcsia
+SOFTCATA: fúcsia FORMES: NCCP000 fúcsies NCCS000 fúcsia
+
+APERTIUM: fúting FORMES: NCMS000 fúting
+SOFTCATA: fúting FORMES: NCMP000 fútings NCMS000 fúting
+
+APERTIUM: gai FORMES: NCCP000 gais NCCS000 gai
+SOFTCATA: gai FORMES: NCMP000 gais NCMS000 gai
+
+APERTIUM: gal FORMES: NCFP000 gal·les NCFS000 gal·la NCMP000 gals NCMS000 gal
+SOFTCATA: gal FORMES: NCMP000 gals NCMS000 gal
+
+APERTIUM: galga FORMES: NCFP000 galges NCFS000 galga
+SOFTCATA: galga FORMES: NCFP000 galgues NCFS000 galga
+
+APERTIUM: galliner FORMES: NCMP000 galliners NCMS000 galliner
+SOFTCATA: galliner FORMES: NCFP000 gallineres NCFS000 gallinera NCMP000 galliners NCMS000 galliner
+
+APERTIUM: gastrònom FORMES: NCFP000 gastrònomes NCFS000 gastrònoma NCMP000 gastrònoms NCMS000 gastrònom
+SOFTCATA: gastrònom FORMES: NCMP000 gastrònoms NCMS000 gastrònom
+
+APERTIUM: gendarme FORMES: NCMP000 gendarmes NCMS000 gendarme
+SOFTCATA: gendarme FORMES: NCCP000 gendarmes NCCS000 gendarme
+
+APERTIUM: generador FORMES: NCFP000 generadores NCFS000 generadora NCMP000 generadors NCMS000 generador
+SOFTCATA: generador FORMES: NCMP000 generadors NCMS000 generador
+
+APERTIUM: genet FORMES: NCCP000 genets NCCS000 genet
+SOFTCATA: genet FORMES: NCMP000 genets NCMS000 genet
+
+APERTIUM: gentilhome FORMES: NCMP000 gentilhomes NCMS000 gentilhome
+SOFTCATA: gentilhome FORMES: NCMP000 gentilhomes NCMP000 gentilhòmens NCMS000 gentilhome
+
+APERTIUM: geriatre FORMES: NCCP000 geriatres NCFS000 geriatra NCMS000 geriatre
+SOFTCATA: geriatre FORMES: NCMP000 geriatres NCMS000 geriatre
+
+APERTIUM: germanastre FORMES: NCCP000 germanastres NCFS000 germanastra NCMS000 germanastre
+SOFTCATA: germanastre FORMES: NCMP000 germanastres NCMS000 germanastre
+
+APERTIUM: germà FORMES: NCFP000 germanes NCFS000 germana NCMP000 germans NCMS000 germà
+SOFTCATA: germà FORMES: NCMP000 germans NCMS000 germà
+
+APERTIUM: gestor FORMES: NCFP000 gestores NCFS000 gestora NCMP000 gestors NCMS000 gestor
+SOFTCATA: gestor FORMES: NCMP000 gestors NCMS000 gestor
+
+APERTIUM: geògraf FORMES: NCFP000 geògrafes NCFS000 geògrafa NCMP000 geògrafs NCMS000 geògraf
+SOFTCATA: geògraf FORMES: NCMP000 geògrafs NCMS000 geògraf
+
+APERTIUM: gimnoblast FORMES: NCMP000 gimnoblasts NCMS000 gimnoblast
+SOFTCATA: gimnoblast FORMES: NCMP000 gimnoblastos NCMP000 gimnoblasts NCMS000 gimnoblast
+
+APERTIUM: glòria FORMES: NCFP000 glòries NCFS000 glòria
+SOFTCATA: glòria FORMES: NCCP000 glòries NCCS000 glòria
+
+APERTIUM: goril·la FORMES: NCCP000 goril·les NCCS000 goril·la
+SOFTCATA: goril·la FORMES: NCMP000 goril·les NCMS000 goril·la
+
+APERTIUM: gorrer FORMES: NCFP000 gorreres NCFS000 gorrera NCMP000 gorrers NCMS000 gorrer
+SOFTCATA: gorrer FORMES: NCMP000 gorrers NCMS000 gorrer
+
+APERTIUM: got FORMES: NCMP000 gots NCMS000 got
+SOFTCATA: got FORMES: NCFP000 godes NCFS000 goda NCMP000 gots NCMS000 got
+
+APERTIUM: governador FORMES: NCFP000 governadores NCFS000 governadora NCMP000 governadors NCMS000 governador
+SOFTCATA: governador FORMES: NCMP000 governadors NCMS000 governador
+
+APERTIUM: governant FORMES: NCFP000 governantes NCFS000 governanta NCMP000 governants NCMS000 governant
+SOFTCATA: governant FORMES: NCCP000 governants NCCS000 governant
+
+APERTIUM: graduat FORMES: NCFP000 graduades NCFS000 graduada NCMP000 graduats NCMS000 graduat
+SOFTCATA: graduat FORMES: NCMP000 graduats NCMS000 graduat
+
+APERTIUM: grec FORMES: NCFP000 gregues NCFS000 grega NCMP000 grecs NCMS000 grec
+SOFTCATA: grec FORMES: NCMP000 grecs NCMS000 grec
+
+APERTIUM: greix FORMES: NCMP000 greixos NCMP000 greixs NCMS000 greix
+SOFTCATA: greix FORMES: NCMP000 greixos NCMS000 greix
+
+APERTIUM: grossor FORMES: NCMP000 grossors NCMS000 grossor
+SOFTCATA: grossor FORMES: NCFP000 grossors NCFS000 grossor
+
+APERTIUM: gruix FORMES: NCMP000 gruixos NCMP000 gruixs NCMS000 gruix
+SOFTCATA: gruix FORMES: NCMP000 gruixos NCMS000 gruix
+
+APERTIUM: grumet FORMES: NCMP000 grumets NCMS000 grumet
+SOFTCATA: grumet FORMES: NCCP000 grumets NCCS000 grumet
+
+APERTIUM: gràfic FORMES: NCFP000 gràfiques NCFS000 gràfica NCMP000 gràfics NCMS000 gràfic
+SOFTCATA: gràfic FORMES: NCMP000 gràfics NCMS000 gràfic
+
+APERTIUM: guanyador FORMES: NCFP000 guanyadores NCFS000 guanyadora NCMP000 guanyadors NCMS000 guanyador
+SOFTCATA: guanyador FORMES: NCMP000 guanyadors NCMS000 guanyador
+
+APERTIUM: guarda-roba FORMES: NCCP000 guarda-robes NCCS000 guarda-roba
+SOFTCATA: guarda-roba FORMES: NCMP000 guarda-robes NCMS000 guarda-roba
+
+APERTIUM: guia FORMES: NCFP000 guies NCFS000 guia
+SOFTCATA: guia FORMES: NCCP000 guies NCCS000 guia
+
+APERTIUM: gènesi FORMES: NCCP000 gènesis NCCS000 gènesi
+SOFTCATA: gènesi FORMES: NCFP000 gènesis NCFS000 gènesi
+
+APERTIUM: haixix FORMES: NCMN000 haixix
+SOFTCATA: haixix FORMES: NCMP000 haixixs NCMS000 haixix
+
+APERTIUM: handbol FORMES: NCMS000 handbol
+SOFTCATA: handbol FORMES: NCMP000 handbols NCMS000 handbol
+
+APERTIUM: hendecasíl·lab FORMES: NCFP000 hendecasíl·labes NCFS000 hendecasíl·laba NCMP000 hendecasíl·labs NCMS000 hendecasíl·lab
+SOFTCATA: hendecasíl·lab FORMES: NCMP000 hendecasíl·labs NCMS000 hendecasíl·lab
+
+APERTIUM: hereu FORMES: NCFP000 hereves NCFS000 hereva NCMP000 hereus NCMS000 hereu
+SOFTCATA: hereu FORMES: NCMP000 hereus NCMS000 hereu
+
+APERTIUM: heroi FORMES: NCFP000 heroïnes NCFS000 heroïna NCMP000 herois NCMS000 heroi
+SOFTCATA: heroi FORMES: NCMP000 herois NCMS000 heroi
+
+APERTIUM: heroïna FORMES: NCFN000 heroïna
+SOFTCATA: heroïna FORMES: NCFP000 heroïnes NCFS000 heroïna
+
+APERTIUM: hertz FORMES: NCMN000 hertz
+SOFTCATA: hertz FORMES: NCMP000 hertzs NCMS000 hertz
+
+APERTIUM: hibisc FORMES: NCMP000 hibiscs NCMS000 hibisc
+SOFTCATA: hibisc FORMES: NCMP000 hibiscos NCMP000 hibiscs NCMS000 hibisc
+
+APERTIUM: hindi FORMES: NCMS000 hindi
+SOFTCATA: hindi FORMES: NCMP000 hindis NCMS000 hindi
+
+APERTIUM: hipòcrita FORMES: NCFP000 hipòcrites NCFS000 hipòcrita
+SOFTCATA: hipòcrita FORMES: NCCP000 hipòcrites NCCS000 hipòcrita
+
+APERTIUM: hisendat FORMES: NCFP000 hisendades NCFS000 hisendada NCMP000 hisendats NCMS000 hisendat
+SOFTCATA: hisendat FORMES: NCMP000 hisendats NCMS000 hisendat
+
+APERTIUM: hispà FORMES: NCFP000 hispanes NCFS000 hispana NCMP000 hispans NCMS000 hispà
+SOFTCATA: hispà FORMES: NCMP000 hispans NCMS000 hispà
+
+APERTIUM: historiador FORMES: NCFP000 historiadores NCFS000 historiadora NCMP000 historiadors NCMS000 historiador
+SOFTCATA: historiador FORMES: NCMP000 historiadors NCMS000 historiador
+
+APERTIUM: holocaust FORMES: NCMP000 holocausts NCMS000 holocaust
+SOFTCATA: holocaust FORMES: NCMP000 holocaustos NCMP000 holocausts NCMS000 holocaust
+
+APERTIUM: homogeneïtzador FORMES: NCFP000 homogeneïtzadores NCFS000 homogeneïtzadora NCMP000 homogeneïtzadors NCMS000 homogeneïtzador
+SOFTCATA: homogeneïtzador FORMES: NCMP000 homogeneïtzadors NCMS000 homogeneïtzador
+
+APERTIUM: honor FORMES: NCMP000 honors NCMS000 honor
+SOFTCATA: honor FORMES: NCCP000 honors NCCS000 honor
+
+APERTIUM: hoquei FORMES: NCMN000 hoquei
+SOFTCATA: hoquei FORMES: NCMP000 hoqueis NCMS000 hoquei
+
+APERTIUM: horror FORMES: NCMP000 horrors NCMS000 horror
+SOFTCATA: horror FORMES: NCCP000 horrors NCCS000 horror
+
+APERTIUM: hoste FORMES: NCFP000 hostesses NCFS000 hostessa NCMP000 hostes NCMS000 hoste
+SOFTCATA: hoste FORMES: NCMP000 hostes NCMS000 hoste
+
+APERTIUM: humor FORMES: NCMP000 humors NCMS000 humor
+SOFTCATA: humor FORMES: NCCP000 humors NCCS000 humor
+
+APERTIUM: humà FORMES: NCFP000 humanes NCFS000 humana NCMP000 humans NCMS000 humà
+SOFTCATA: humà FORMES: NCMP000 humans NCMS000 humà
+
+APERTIUM: il·licità FORMES: NCFP000 il·licitanes NCFS000 il·licitana NCMP000 il·licitans NCMS000 il·licità
+SOFTCATA: il·licità FORMES: NCMP000 il·licitans NCMS000 il·licità
+
+APERTIUM: impressor FORMES: NCFP000 impressores NCFS000 impressora NCMP000 impressors NCMS000 impressor
+SOFTCATA: impressor FORMES: NCMP000 impressors NCMS000 impressor
+
+APERTIUM: imprevist FORMES: NCMP000 imprevists NCMS000 imprevist
+SOFTCATA: imprevist FORMES: NCMP000 imprevistos NCMP000 imprevists NCMS000 imprevist
+
+APERTIUM: incrèdul FORMES: NCFP000 incrèdules NCFS000 incrèdula NCMP000 incrèduls NCMS000 incrèdul
+SOFTCATA: incrèdul FORMES: NCMP000 incrèduls NCMS000 incrèdul
+
+APERTIUM: individu FORMES: NCFP000 indivídues NCFS000 indivídua NCMP000 individus NCMS000 individu
+SOFTCATA: individu FORMES: NCMP000 individus NCMS000 individu
+
+APERTIUM: infant FORMES: NCFP000 infantes NCFS000 infanta NCMP000 infants NCMS000 infant
+SOFTCATA: infant FORMES: NCMP000 infants NCMS000 infant
+
+APERTIUM: infermer FORMES: NCFP000 infermeres NCFS000 infermera NCMP000 infermers NCMS000 infermer
+SOFTCATA: infermer FORMES: NCMP000 infermers NCMS000 infermer
+
+APERTIUM: infix FORMES: NCMP000 infixos NCMP000 infixs NCMS000 infix
+SOFTCATA: infix FORMES: NCMP000 infixos NCMS000 infix
+
+APERTIUM: informàtic FORMES: NCFP000 informàtiques NCFS000 informàtica NCMP000 informàtics NCMS000 informàtic
+SOFTCATA: informàtic FORMES: NCMP000 informàtics NCMS000 informàtic
+
+APERTIUM: infractor FORMES: NCFP000 infractores NCFS000 infractora NCMP000 infractors NCMS000 infractor
+SOFTCATA: infractor FORMES: NCMP000 infractors NCMS000 infractor
+
+APERTIUM: infrascrit FORMES: NCFP000 infrascrides NCFS000 infrascrida NCMP000 infrascrits NCMS000 infrascrit
+SOFTCATA: infrascrit FORMES: NCMP000 infrascrits NCMS000 infrascrit
+
+APERTIUM: inquilí FORMES: NCFP000 inquilines NCFS000 inquilina NCMP000 inquilins NCMS000 inquilí
+SOFTCATA: inquilí FORMES: NCMP000 inquilins NCMS000 inquilí
+
+APERTIUM: inrevés FORMES: NCMP000 inrevessos NCMS000 inrevés
+SOFTCATA: inrevés FORMES: NCMS000 inrevés
+
+APERTIUM: instal·lador FORMES: NCFP000 instal·ladores NCFS000 instal·ladora NCMP000 instal·ladors NCMS000 instal·lador
+SOFTCATA: instal·lador FORMES: NCMP000 instal·ladors NCMS000 instal·lador
+
+APERTIUM: institutor FORMES: NCFP000 institutrius NCFS000 institutriu NCMP000 institutors NCMS000 institutor
+SOFTCATA: institutor FORMES: NCMP000 institutors NCMS000 institutor
+
+APERTIUM: instructor FORMES: NCFP000 instructores NCFS000 instructora NCMP000 instructors NCMS000 instructor
+SOFTCATA: instructor FORMES: NCMP000 instructors NCMS000 instructor
+
+APERTIUM: intereix FORMES: NCMP000 intereixos NCMP000 intereixs NCMS000 intereix
+SOFTCATA: intereix FORMES: NCMP000 intereixos NCMS000 intereix
+
+APERTIUM: interessat FORMES: NCFP000 interessades NCFS000 interessada NCMP000 interessats NCMS000 interessat
+SOFTCATA: interessat FORMES: NCMP000 interessats NCMS000 interessat
+
+APERTIUM: interlocutor FORMES: NCFP000 interlocutores NCFS000 interlocutora NCMP000 interlocutors NCMS000 interlocutor
+SOFTCATA: interlocutor FORMES: NCMP000 interlocutors NCMS000 interlocutor
+
+APERTIUM: intern FORMES: NCFP000 internes NCFS000 interna NCMP000 interns NCMS000 intern
+SOFTCATA: intern FORMES: NCMP000 interns NCMS000 intern
+
+APERTIUM: intrús FORMES: NCFP000 intruses NCFS000 intrusa NCMP000 intrusos NCMS000 intrús
+SOFTCATA: intrús FORMES: NCMP000 intrusos NCMS000 intrús
+
+APERTIUM: invasor FORMES: NCFP000 invasores NCFS000 invasora NCMP000 invasors NCMS000 invasor
+SOFTCATA: invasor FORMES: NCMP000 invasors NCMS000 invasor
+
+APERTIUM: inventor FORMES: NCFP000 inventores NCFS000 inventora NCMP000 inventors NCMS000 inventor
+SOFTCATA: inventor FORMES: NCMP000 inventors NCMS000 inventor
+
+APERTIUM: inversor FORMES: NCFP000 inversores NCFS000 inversora NCMP000 inversors NCMS000 inversor
+SOFTCATA: inversor FORMES: NCMP000 inversors NCMS000 inversor
+
+APERTIUM: investidura FORMES: NCFP000 investiduras NCFS000 investidura
+SOFTCATA: investidura FORMES: NCFP000 investidures NCFS000 investidura
+
+APERTIUM: investigador FORMES: NCFP000 investigadores NCFS000 investigadora NCMP000 investigadors NCMS000 investigador
+SOFTCATA: investigador FORMES: NCMP000 investigadors NCMS000 investigador
+
+APERTIUM: ioga FORMES: NCMP000 ioges NCMS000 ioga
+SOFTCATA: ioga FORMES: NCMP000 iogues NCMS000 ioga
+
+APERTIUM: iranià FORMES: NCFP000 iranianes NCFS000 iraniana NCMP000 iranians NCMS000 iranià
+SOFTCATA: iranià FORMES: NCMP000 iranians NCMS000 iranià
+
+APERTIUM: iraquià FORMES: NCFP000 iraquianes NCFS000 iraquiana NCMP000 iraquians NCMS000 iraquià
+SOFTCATA: iraquià FORMES: NCMP000 iraquians NCMS000 iraquià
+
+APERTIUM: islam FORMES: NCMS000 islam
+SOFTCATA: islam FORMES: NCMP000 islams NCMS000 islam
+
+APERTIUM: israelià FORMES: NCFP000 israelianes NCFS000 israeliana NCMP000 israelians NCMS000 israelià
+SOFTCATA: israelià FORMES: NCMP000 israelians NCMS000 israelià
+
+APERTIUM: italià FORMES: NCFP000 italianes NCFS000 italiana NCMP000 italians NCMS000 italià
+SOFTCATA: italià FORMES: NCMP000 italians NCMS000 italià
+
+APERTIUM: jamaicà FORMES: NCFP000 jamaicanes NCFS000 jamaicana NCMP000 jamaicans NCMS000 jamaicà
+SOFTCATA: jamaicà FORMES: NCMP000 jamaicans NCMS000 jamaicà
+
+APERTIUM: jardiner FORMES: NCFP000 jardineres NCFS000 jardinera NCMP000 jardiners NCMS000 jardiner
+SOFTCATA: jardiner FORMES: NCMP000 jardiners NCMS000 jardiner
+
+APERTIUM: jazz FORMES: NCMN000 jazz
+SOFTCATA: jazz FORMES: NCMS000 jazz
+
+APERTIUM: jejú FORMES: NCMP000 jejús NCMS000 jejú
+SOFTCATA: jejú FORMES: NCMP000 jejuns NCMS000 jejú
+
+APERTIUM: jornaler FORMES: NCFP000 jornaleres NCFS000 jornalera NCMP000 jornalers NCMS000 jornaler
+SOFTCATA: jornaler FORMES: NCMP000 jornalers NCMS000 jornaler
+
+APERTIUM: jubilat FORMES: NCFP000 jubilades NCFS000 jubilada NCMP000 jubilats NCMS000 jubilat
+SOFTCATA: jubilat FORMES: NCMP000 jubilats NCMS000 jubilat
+
+APERTIUM: judo FORMES: NCMS000 judo
+SOFTCATA: judo FORMES: NCMP000 judos NCMS000 judo
+
+APERTIUM: jueu FORMES: NCFP000 jueves NCFS000 jueva NCMP000 jueus NCMS000 jueu
+SOFTCATA: jueu FORMES: NCMP000 jueus NCMS000 jueu
+
+APERTIUM: jugador FORMES: NCFP000 jugadores NCFS000 jugadora NCMP000 jugadors NCMS000 jugador
+SOFTCATA: jugador FORMES: NCMP000 jugadors NCMS000 jugador
+
+APERTIUM: justícia FORMES: NCFP000 justícies NCFS000 justícia
+SOFTCATA: justícia FORMES: NCCP000 justícies NCCS000 justícia
+
+APERTIUM: jutge FORMES: NCMP000 jutges NCMS000 jutge
+SOFTCATA: jutge FORMES: NCCP000 jutges NCCS000 jutge
+
+APERTIUM: krausisme FORMES: NCMS000 krausisme
+SOFTCATA: krausisme FORMES: NCMP000 krausismes NCMS000 krausisme
+
+APERTIUM: kurd FORMES: NCFP000 kurdes NCFS000 kurda NCMP000 kurds NCMS000 kurd
+SOFTCATA: kurd FORMES: NCMP000 kurds NCMS000 kurd
+
+APERTIUM: lateral FORMES: NCMP000 laterals NCMS000 lateral
+SOFTCATA: lateral FORMES: NCCP000 laterals NCCS000 lateral
+
+APERTIUM: lector FORMES: NCFP000 lectores NCFS000 lectora NCMP000 lectors NCMS000 lector
+SOFTCATA: lector FORMES: NCMP000 lectors NCMS000 lector
+
+APERTIUM: legislador FORMES: NCFP000 legisladores NCFS000 legisladora NCMP000 legisladors NCMS000 legislador
+SOFTCATA: legislador FORMES: NCMP000 legisladors NCMS000 legislador
+
+APERTIUM: lehendakari FORMES: NCCP000 lehendakaris NCCS000 lehendakari
+SOFTCATA: lehendakari FORMES: NCMP000 lehendakaris NCMS000 lehendakari
+
+APERTIUM: leprós FORMES: NCFP000 leproses NCFS000 leprosa NCMP000 leprosos NCMS000 leprós
+SOFTCATA: leprós FORMES: NCMP000 leprosos NCMS000 leprós
+
+APERTIUM: leucoplast FORMES: NCMP000 leucoplasts NCMS000 leucoplast
+SOFTCATA: leucoplast FORMES: NCMP000 leucoplastos NCMP000 leucoplasts NCMS000 leucoplast
+
+APERTIUM: lexicògraf FORMES: NCFP000 lexicògrafes NCFS000 lexicògrafa NCMP000 lexicògrafs NCMS000 lexicògraf
+SOFTCATA: lexicògraf FORMES: NCMP000 lexicògrafs NCMS000 lexicògraf
+
+APERTIUM: lituà FORMES: NCFP000 lituanes NCFS000 lituana NCMP000 lituans NCMS000 lituà
+SOFTCATA: lituà FORMES: NCMP000 lituans NCMS000 lituà
+
+APERTIUM: lladregot FORMES: NCFP000 lladregotes NCFS000 lladregota NCMP000 lladregots NCMS000 lladregot
+SOFTCATA: lladregot FORMES: NCMP000 lladregots NCMS000 lladregot
+
+APERTIUM: llama FORMES: NCFP000 llames NCFS000 llama
+SOFTCATA: llama FORMES: NCCP000 llames NCCS000 llama
+
+APERTIUM: llaminer FORMES: NCFP000 llamineres NCFS000 llaminera NCMP000 llaminers NCMS000 llaminer
+SOFTCATA: llaminer FORMES: NCMP000 llaminers NCMS000 llaminer
+
+APERTIUM: llança FORMES: NCFP000 llances NCFS000 llança
+SOFTCATA: llança FORMES: NCCP000 llances NCCS000 llança
+
+APERTIUM: llançador FORMES: NCFP000 llançadores NCFS000 llançadora NCMP000 llançadors NCMS000 llançador
+SOFTCATA: llançador FORMES: NCMP000 llançadors NCMS000 llançador
+
+APERTIUM: llatí FORMES: NCFP000 llatines NCFS000 llatina NCMP000 llatins NCMS000 llatí
+SOFTCATA: llatí FORMES: NCMP000 llatins NCMS000 llatí
+
+APERTIUM: llaurador FORMES: NCFP000 llauradores NCFS000 llauradora NCMP000 llauradors NCMS000 llaurador
+SOFTCATA: llaurador FORMES: NCMP000 llauradors NCMS000 llaurador
+
+APERTIUM: lleter FORMES: NCFP000 lleteres NCFS000 lletera NCMP000 lleters NCMS000 lleter
+SOFTCATA: lleter FORMES: NCMP000 lleters NCMS000 lleter
+
+APERTIUM: lletrat FORMES: NCFP000 lletrades NCFS000 lletrada NCMP000 lletrats NCMS000 lletrat
+SOFTCATA: lletrat FORMES: NCMP000 lletrats NCMS000 lletrat
+
+APERTIUM: lleó FORMES: NCFP000 lleones NCFS000 lleona NCMP000 lleons NCMS000 lleó
+SOFTCATA: lleó FORMES: NCMP000 lleons NCMS000 lleó
+
+APERTIUM: lli FORMES: NCMP000 llis NCMS000 lli
+SOFTCATA: lli FORMES: NCMP000 llins NCMS000 lli
+
+APERTIUM: llibertari FORMES: NCFP000 llibertàries NCFS000 llibertària NCMP000 llibertaris NCMS000 llibertari
+SOFTCATA: llibertari FORMES: NCMP000 llibertaris NCMS000 llibertari
+
+APERTIUM: llicenciat FORMES: NCFP000 llicenciades NCFS000 llicenciada NCMP000 llicenciats NCMS000 llicenciat
+SOFTCATA: llicenciat FORMES: NCMP000 llicenciats NCMS000 llicenciat
+
+APERTIUM: lligabosc FORMES: NCMP000 lligaboscs NCMS000 lligabosc
+SOFTCATA: lligabosc FORMES: NCMP000 lligaboscos NCMP000 lligaboscs NCMS000 lligabosc
+
+APERTIUM: llogater FORMES: NCFP000 llogateres NCFS000 llogatera NCMP000 llogaters NCMS000 llogater
+SOFTCATA: llogater FORMES: NCMP000 llogaters NCMS000 llogater
+
+APERTIUM: llop FORMES: NCFP000 llobes NCFS000 lloba NCMP000 llops NCMS000 llop
+SOFTCATA: llop FORMES: NCMP000 llops NCMS000 llop
+
+APERTIUM: lluitador FORMES: NCFP000 lluitadores NCFS000 lluitadora NCMP000 lluitadors NCMS000 lluitador
+SOFTCATA: lluitador FORMES: NCMP000 lluitadors NCMS000 lluitador
+
+APERTIUM: llum FORMES: NCFP000 llums NCFS000 llum NCMP000 llums NCMS000 llum
+SOFTCATA: llum FORMES: NCCP000 llums NCCS000 llum
+
+APERTIUM: locutor FORMES: NCFP000 locutores NCFS000 locutora NCMP000 locutors NCMS000 locutor
+SOFTCATA: locutor FORMES: NCMP000 locutors NCMS000 locutor
+
+APERTIUM: logística FORMES: NCFP000 logístices NCFS000 logística
+SOFTCATA: logística FORMES: NCFP000 logístiques NCFS000 logística
+
+APERTIUM: londinenc FORMES: NCFP000 londinenques NCFS000 londinenca NCMP000 londinencs NCMS000 londinenc
+SOFTCATA: londinenc FORMES: NCMP000 londinencs NCMS000 londinenc
+
+APERTIUM: madrileny FORMES: NCFP000 madrilenyes NCFS000 madrilenya NCMP000 madrilenys NCMS000 madrileny
+SOFTCATA: madrileny FORMES: NCMP000 madrilenys NCMS000 madrileny
+
+APERTIUM: mag FORMES: NCFP000 magues NCFS000 maga NCMP000 mags NCMS000 mag
+SOFTCATA: mag FORMES: NCMP000 mags NCMS000 mag
+
+APERTIUM: magnat FORMES: NCCP000 magnats NCCS000 magnat
+SOFTCATA: magnat FORMES: NCMP000 magnats NCMS000 magnat
+
+APERTIUM: magrebí FORMES: NCFP000 magrebines NCFS000 magrebina NCMP000 magrebins NCMS000 magrebí
+SOFTCATA: magrebí FORMES: NCMP000 magrebins NCMS000 magrebí
+
+APERTIUM: majordom FORMES: NCFP000 majordomes NCFS000 majordoma NCMP000 majordoms NCMS000 majordom
+SOFTCATA: majordom FORMES: NCMP000 majordoms NCMS000 majordom
+
+APERTIUM: malai FORMES: NCFP000 malaies NCFS000 malaia NCMP000 malais NCMS000 malai
+SOFTCATA: malai FORMES: NCMP000 malais NCMS000 malai
+
+APERTIUM: mallorquí FORMES: NCFP000 mallorquines NCFS000 mallorquina NCMP000 mallorquins NCMS000 mallorquí
+SOFTCATA: mallorquí FORMES: NCMP000 mallorquins NCMS000 mallorquí
+
+APERTIUM: mambo FORMES: NCMS000 mambo
+SOFTCATA: mambo FORMES: NCMP000 mambos NCMS000 mambo
+
+APERTIUM: mandra FORMES: NCFP000 mandres NCFS000 mandra
+SOFTCATA: mandra FORMES: NCCP000 mandres NCCS000 mandra
+
+APERTIUM: maniquí FORMES: NCMP000 maniquís NCMS000 maniquí
+SOFTCATA: maniquí FORMES: NCCP000 maniquins NCCS000 maniquí
+
+APERTIUM: manxol FORMES: NCFP000 manxoles NCFS000 manxola NCMP000 manxols NCMS000 manxol
+SOFTCATA: manxol FORMES: NCMP000 manxols NCMS000 manxol
+
+APERTIUM: manyà FORMES: NCFP000 manyanes NCFS000 manyana NCMP000 manyans NCMS000 manyà
+SOFTCATA: manyà FORMES: NCMP000 manyans NCMS000 manyà
+
+APERTIUM: marcià FORMES: NCFP000 marcianes NCFS000 marciana NCMP000 marcians NCMS000 marcià
+SOFTCATA: marcià FORMES: NCMP000 marcians NCMS000 marcià
+
+APERTIUM: marialluïsa FORMES: NCFS000 marialluïsa
+SOFTCATA: marialluïsa FORMES: NCFP000 marialluïses NCFS000 marialluïsa
+
+APERTIUM: mariner FORMES: NCFP000 marineres NCFS000 marinera NCMP000 mariners NCMS000 mariner
+SOFTCATA: mariner FORMES: NCMP000 mariners NCMS000 mariner
+
+APERTIUM: marisc FORMES: NCMP000 mariscs NCMS000 marisc
+SOFTCATA: marisc FORMES: NCMP000 mariscos NCMP000 mariscs NCMS000 marisc
+
+APERTIUM: marmessor FORMES: NCFP000 marmessores NCFS000 marmessora NCMP000 marmessors NCMS000 marmessor
+SOFTCATA: marmessor FORMES: NCMP000 marmessors NCMS000 marmessor
+
+APERTIUM: marmitó FORMES: NCFP000 marmitones NCFS000 marmitona NCMP000 marmitons NCMS000 marmitó
+SOFTCATA: marmitó FORMES: NCMP000 marmitons NCMS000 marmitó
+
+APERTIUM: marquès FORMES: NCFP000 marqueses NCFS000 marquesa NCMP000 marquesos NCMS000 marquès NCMS000 marqués
+SOFTCATA: marquès FORMES: NCMP000 marquesos NCMS000 marquès NCMS000 marqués
+
+APERTIUM: marroquí FORMES: NCFP000 marroquines NCFS000 marroquina NCMP000 marroquins NCMS000 marroquí
+SOFTCATA: marroquí FORMES: NCMP000 marroquins NCMS000 marroquí
+
+APERTIUM: mecanògraf FORMES: NCFP000 mecanògrafes NCFS000 mecanògrafa NCMP000 mecanògrafs NCMS000 mecanògraf
+SOFTCATA: mecanògraf FORMES: NCMP000 mecanògrafs NCMS000 mecanògraf
+
+APERTIUM: mecànic FORMES: NCFP000 mecàniques NCFS000 mecànica NCMP000 mecànics NCMS000 mecànic
+SOFTCATA: mecànic FORMES: NCMP000 mecànics NCMS000 mecànic
+
+APERTIUM: mediador FORMES: NCFP000 mediadores NCFS000 mediadora NCMP000 mediadors NCMS000 mediador
+SOFTCATA: mediador FORMES: NCMP000 mediadors NCMS000 mediador
+
+APERTIUM: megahertz FORMES: NCMN000 megahertz
+SOFTCATA: megahertz FORMES: NCMP000 megahertzs NCMS000 megahertz
+
+APERTIUM: melòman FORMES: NCFP000 melòmanes NCFS000 melòmana NCMP000 melòmans NCMS000 melòman
+SOFTCATA: melòman FORMES: NCMP000 melòmans NCMS000 melòman
+
+APERTIUM: menorquí FORMES: NCFP000 menorquines NCFS000 menorquina NCMP000 menorquins NCMS000 menorquí
+SOFTCATA: menorquí FORMES: NCMP000 menorquins NCMS000 menorquí
+
+APERTIUM: mentider FORMES: NCFP000 mentideres NCFS000 mentidera NCMP000 mentiders NCMS000 mentider
+SOFTCATA: mentider FORMES: NCMP000 mentiders NCMS000 mentider
+
+APERTIUM: mercader FORMES: NCFP000 mercaderes NCFS000 mercadera NCMP000 mercaders NCMS000 mercader
+SOFTCATA: mercader FORMES: NCMP000 mercaders NCMS000 mercader
+
+APERTIUM: mestís FORMES: NCFP000 mestisses NCFS000 mestissa NCMP000 mestissos NCMS000 mestís
+SOFTCATA: mestís FORMES: NCMP000 mestissos NCMS000 mestís
+
+APERTIUM: metafísic FORMES: NCFP000 metafísiques NCFS000 metafísica NCMP000 metafísics NCMS000 metafísic
+SOFTCATA: metafísic FORMES: NCMP000 metafísics NCMS000 metafísic
+
+APERTIUM: metge FORMES: NCFP000 metgesses NCFS000 metgessa NCMP000 metges NCMS000 metge
+SOFTCATA: metge FORMES: NCCP000 metges NCCS000 metge
+
+APERTIUM: mexicà FORMES: NCFP000 mexicanes NCFS000 mexicana NCMP000 mexicans NCMS000 mexicà
+SOFTCATA: mexicà FORMES: NCMP000 mexicans NCMS000 mexicà
+
+APERTIUM: mico FORMES: NCCP000 micos NCCS000 mico
+SOFTCATA: mico FORMES: NCMP000 micos NCMS000 mico
+
+APERTIUM: milionari FORMES: NCFP000 milionàries NCFS000 milionària NCMP000 milionaris NCMS000 milionari
+SOFTCATA: milionari FORMES: NCMP000 milionaris NCMS000 milionari
+
+APERTIUM: miner FORMES: NCFP000 mineres NCFS000 minera NCMP000 miners NCMS000 miner
+SOFTCATA: miner FORMES: NCMP000 miners NCMS000 miner
+
+APERTIUM: minorista FORMES: NCCP000 minoristes NCCS000 minorista
+SOFTCATA: minorista FORMES: NCMP000 minoristes NCMS000 minorista
+
+APERTIUM: minusvàlid FORMES: NCFP000 minusvàlides NCFS000 minusvàlida NCMP000 minusvàlids NCMS000 minusvàlid
+SOFTCATA: minusvàlid FORMES: NCMP000 minusvàlids NCMS000 minusvàlid
+
+APERTIUM: missatger FORMES: NCFP000 missatgeres NCFS000 missatgera NCMP000 missatgers NCMS000 missatger
+SOFTCATA: missatger FORMES: NCMP000 missatgers NCMS000 missatger
+
+APERTIUM: missioner FORMES: NCFP000 missioneres NCFS000 missionera NCMP000 missioners NCMS000 missioner
+SOFTCATA: missioner FORMES: NCMP000 missioners NCMS000 missioner
+
+APERTIUM: mitger FORMES: NCFP000 mitgeres NCFS000 mitgera NCMP000 mitgers NCMS000 mitger
+SOFTCATA: mitger FORMES: NCMP000 mitgers NCMS000 mitger
+
+APERTIUM: model FORMES: NCMP000 models NCMS000 model
+SOFTCATA: model FORMES: NCCP000 models NCCS000 model
+
+APERTIUM: moneder FORMES: NCMP000 moneders NCMS000 moneder
+SOFTCATA: moneder FORMES: NCFP000 monederes NCFS000 monedera NCMP000 moneders NCMS000 moneder
+
+APERTIUM: monitor FORMES: NCFP000 monitores NCFS000 monitora NCMP000 monitors NCMS000 monitor
+SOFTCATA: monitor FORMES: NCMP000 monitors NCMS000 monitor
+
+APERTIUM: morisc FORMES: NCFP000 morisques NCFS000 morisca NCMP000 moriscs NCMS000 morisc
+SOFTCATA: morisc FORMES: NCMP000 moriscos NCMP000 moriscs NCMS000 morisc
+
+APERTIUM: moro FORMES: NCFP000 mores NCFS000 mora NCMP000 moros NCMS000 moro
+SOFTCATA: moro FORMES: NCMP000 moros NCMS000 moro
+
+APERTIUM: mortal FORMES: NCCP000 mortals NCCS000 mortal
+SOFTCATA: mortal FORMES: NCMP000 mortals NCMS000 mortal
+
+APERTIUM: mos FORMES: NCMS000 mos
+SOFTCATA: mos FORMES: NCMP000 mossos NCMS000 mos
+
+APERTIUM: mosso FORMES: NCFP000 mosses NCFS000 mossa NCMP000 mossos NCMS000 mosso
+SOFTCATA: mosso FORMES: NCMP000 mossos NCMS000 mosso
+
+APERTIUM: motocròs FORMES: NCMS000 motocròs
+SOFTCATA: motocròs FORMES: NCMN000 motocròs
+
+APERTIUM: motorisme FORMES: NCMS000 motorisme
+SOFTCATA: motorisme FORMES: NCMP000 motorismes NCMS000 motorisme
+
+APERTIUM: mulat FORMES: NCFP000 mulates NCFS000 mulata NCMP000 mulats NCMS000 mulat
+SOFTCATA: mulat FORMES: NCMP000 mulats NCMS000 mulat
+
+APERTIUM: muntador FORMES: NCFP000 muntadores NCFS000 muntadora NCMP000 muntadors NCMS000 muntador
+SOFTCATA: muntador FORMES: NCMP000 muntadors NCMS000 muntador
+
+APERTIUM: musulmà FORMES: NCFP000 musulmanes NCFS000 musulmana NCMP000 musulmans NCMS000 musulmà
+SOFTCATA: musulmà FORMES: NCMP000 musulmans NCMS000 musulmà
+
+APERTIUM: màrqueting FORMES: NCMS000 màrqueting
+SOFTCATA: màrqueting FORMES: NCMP000 màrquetings NCMS000 màrqueting
+
+APERTIUM: músic FORMES: NCFP000 músiques NCFS000 música NCMP000 músics NCMS000 músic
+SOFTCATA: músic FORMES: NCMP000 músics NCMS000 músic
+
+APERTIUM: nadiu FORMES: NCFP000 nadives NCFS000 nadiva NCMP000 nadius NCMS000 nadiu
+SOFTCATA: nadiu FORMES: NCMP000 nadius NCMS000 nadiu
+
+APERTIUM: nan FORMES: NCFP000 nanes NCFS000 nana NCMP000 nans NCMS000 nan
+SOFTCATA: nan FORMES: NCMP000 nans NCMS000 nan
+
+APERTIUM: narcís FORMES: NCMP000 narcíss NCMS000 narcís
+SOFTCATA: narcís FORMES: NCMP000 narcisos NCMS000 narcís
+
+APERTIUM: narrador FORMES: NCFP000 narradores NCFS000 narradora NCMP000 narradors NCMS000 narrador
+SOFTCATA: narrador FORMES: NCMP000 narradors NCMS000 narrador
+
+APERTIUM: nebot FORMES: NCFP000 nebodes NCFS000 neboda NCMP000 nebots NCMS000 nebot
+SOFTCATA: nebot FORMES: NCMP000 nebots NCMS000 nebot
+
+APERTIUM: negre FORMES: NCCP000 negres NCFS000 negra NCMS000 negre
+SOFTCATA: negre FORMES: NCMP000 negres NCMS000 negre
+
+APERTIUM: negrer FORMES: NCFP000 negreres NCFS000 negrera NCMP000 negrers NCMS000 negrer
+SOFTCATA: negrer FORMES: NCMP000 negrers NCMS000 negrer
+
+APERTIUM: netejador FORMES: NCFP000 netejadores NCFS000 netejadora NCMP000 netejadors NCMS000 netejador
+SOFTCATA: netejador FORMES: NCMP000 netejadors NCMS000 netejador
+
+APERTIUM: netejavidres FORMES: NCMN000 netejavidres
+SOFTCATA: netejavidres FORMES: NCCN000 netejavidres
+
+APERTIUM: neula FORMES: NCFP000 neules NCFS000 neula
+SOFTCATA: neula FORMES: NCCP000 neules NCCS000 neula
+
+APERTIUM: neutrí FORMES: NCMS000 neutrí
+SOFTCATA: neutrí FORMES: NCMP000 neutrins NCMS000 neutrí
+
+APERTIUM: nigerià FORMES: NCFP000 nigerianes NCFS000 nigeriana NCMP000 nigerians NCMS000 nigerià
+SOFTCATA: nigerià FORMES: NCMP000 nigerians NCMS000 nigerià
+
+APERTIUM: noliejador FORMES: NCFP000 noliejadores NCFS000 noliejadora NCMP000 noliejadors NCMS000 noliejador
+SOFTCATA: noliejador FORMES: NCMP000 noliejadors NCMS000 noliejador
+
+APERTIUM: normand FORMES: NCFP000 normandes NCFS000 normanda NCMP000 normands NCMS000 normand
+SOFTCATA: normand FORMES: NCMP000 normands NCMS000 normand
+
+APERTIUM: noruec FORMES: NCFP000 noruegues NCFS000 noruega NCMP000 noruecs NCMS000 noruec
+SOFTCATA: noruec FORMES: NCMP000 noruecs NCMS000 noruec
+
+APERTIUM: notari FORMES: NCFP000 notàries NCFS000 notària NCMP000 notaris NCMS000 notari
+SOFTCATA: notari FORMES: NCMP000 notaris NCMS000 notari
+
+APERTIUM: nét FORMES: NCFP000 nétes NCFS000 néta NCMP000 néts NCMS000 nét
+SOFTCATA: nét FORMES: NCMP000 néts NCMS000 nét
+
+APERTIUM: obrer FORMES: NCFP000 obreres NCFS000 obrera NCMP000 obrers NCMS000 obrer
+SOFTCATA: obrer FORMES: NCMP000 obrers NCMS000 obrer
+
+APERTIUM: observador FORMES: NCFP000 observadores NCFS000 observadora NCMP000 observadors NCMS000 observador
+SOFTCATA: observador FORMES: NCMP000 observadors NCMS000 observador
+
+APERTIUM: occident FORMES: NCMS000 occident
+SOFTCATA: occident FORMES: NCMP000 occidents NCMS000 occident
+
+APERTIUM: occità FORMES: NCFP000 occitanes NCFS000 occitana NCMP000 occitans NCMS000 occità
+SOFTCATA: occità FORMES: NCMP000 occitans NCMS000 occità
+
+APERTIUM: operador FORMES: NCFP000 operadores NCFS000 operadora NCMP000 operadors NCMS000 operador
+SOFTCATA: operador FORMES: NCMP000 operadors NCMS000 operador
+
+APERTIUM: operari FORMES: NCFP000 operàries NCFS000 operària NCMP000 operaris NCMS000 operari
+SOFTCATA: operari FORMES: NCMP000 operaris NCMS000 operari
+
+APERTIUM: opositor FORMES: NCFP000 opositores NCFS000 opositora NCMP000 opositors NCMS000 opositor
+SOFTCATA: opositor FORMES: NCMP000 opositors NCMS000 opositor
+
+APERTIUM: opressor FORMES: NCFP000 opressores NCFS000 opressora NCMP000 opressors NCMS000 opressor
+SOFTCATA: opressor FORMES: NCMP000 opressors NCMS000 opressor
+
+APERTIUM: orador FORMES: NCFP000 oradores NCFS000 oradora NCMP000 oradors NCMS000 orador
+SOFTCATA: orador FORMES: NCMP000 oradors NCMS000 orador
+
+APERTIUM: ordinari FORMES: NCFP000 ordinàries NCFS000 ordinària NCMP000 ordinaris NCMS000 ordinari
+SOFTCATA: ordinari FORMES: NCMP000 ordinaris NCMS000 ordinari
+
+APERTIUM: orfebre FORMES: NCMP000 orfebres NCMS000 orfebre
+SOFTCATA: orfebre FORMES: NCCP000 orfebres NCCS000 orfebre
+
+APERTIUM: organitzador FORMES: NCFP000 organitzadores NCFS000 organitzadora NCMP000 organitzadors NCMS000 organitzador
+SOFTCATA: organitzador FORMES: NCMP000 organitzadors NCMS000 organitzador
+
+APERTIUM: orient FORMES: NCMS000 orient
+SOFTCATA: orient FORMES: NCMP000 orients NCMS000 orient
+
+APERTIUM: original FORMES: NCCP000 originals NCCS000 original
+SOFTCATA: original FORMES: NCMP000 originals NCMS000 original
+
+APERTIUM: oïdor FORMES: NCFP000 oïdores NCFS000 oïdora NCMP000 oïdors NCMS000 oïdor
+SOFTCATA: oïdor FORMES: NCMP000 oïdors NCMS000 oïdor
+
+APERTIUM: pagà FORMES: NCFP000 paganes NCFS000 pagana NCMP000 pagans NCMS000 pagà
+SOFTCATA: pagà FORMES: NCMP000 pagans NCMS000 pagà
+
+APERTIUM: paisà FORMES: NCFP000 paisanes NCFS000 paisana NCMP000 paisans NCMS000 paisà
+SOFTCATA: paisà FORMES: NCMP000 paisans NCMS000 paisà
+
+APERTIUM: palestí FORMES: NCFP000 palestines NCFS000 palestina NCMP000 palestins NCMS000 palestí
+SOFTCATA: palestí FORMES: NCMP000 palestins NCMS000 palestí
+
+APERTIUM: palmarès FORMES: NCMN000 palmarès
+SOFTCATA: palmarès FORMES: NCMP000 palmaresos NCMS000 palmarès NCMS000 palmarés
+
+APERTIUM: panteix FORMES: NCMP000 panteixos NCMP000 panteixs NCMS000 panteix
+SOFTCATA: panteix FORMES: NCMP000 panteixos NCMS000 panteix
+
+APERTIUM: papagai FORMES: NCCP000 papagais NCCS000 papagai
+SOFTCATA: papagai FORMES: NCMP000 papagais NCMS000 papagai
+
+APERTIUM: paraguaià FORMES: NCFP000 paraguaianes NCFS000 paraguaiana NCMP000 paraguaians NCMS000 paraguaià
+SOFTCATA: paraguaià FORMES: NCMP000 paraguaians NCMS000 paraguaià
+
+APERTIUM: paral·lex FORMES: NCMP000 paral·lexos NCMP000 paral·lexs NCMS000 paral·lex
+SOFTCATA: paral·lex FORMES: NCMP000 paral·lexos NCMS000 paral·lex
+
+APERTIUM: parent FORMES: NCCP000 parents NCCS000 parent
+SOFTCATA: parent FORMES: NCMP000 parents NCMS000 parent
+
+APERTIUM: parisenc FORMES: NCFP000 parisenques NCFS000 parisenca NCMP000 parisencs NCMS000 parisenc
+SOFTCATA: parisenc FORMES: NCMP000 parisencs NCMS000 parisenc
+
+APERTIUM: partidari FORMES: NCFP000 partidàries NCFS000 partidària NCMP000 partidaris NCMS000 partidari
+SOFTCATA: partidari FORMES: NCMP000 partidaris NCMS000 partidari
+
+APERTIUM: passamaner FORMES: NCFP000 passamaneres NCFS000 passamanera NCMP000 passamaners NCMS000 passamaner
+SOFTCATA: passamaner FORMES: NCMP000 passamaners NCMS000 passamaner
+
+APERTIUM: pastisser FORMES: NCFP000 pastisseres NCFS000 pastissera NCMP000 pastissers NCMS000 pastisser
+SOFTCATA: pastisser FORMES: NCMP000 pastissers NCMS000 pastisser
+
+APERTIUM: paó FORMES: NCFP000 paones NCFS000 paona NCMP000 paons NCMS000 paó
+SOFTCATA: paó FORMES: NCMP000 paons NCMS000 paó
+
+APERTIUM: pedagog FORMES: NCFP000 pedagogues NCFS000 pedagoga NCMP000 pedagogs NCMS000 pedagog
+SOFTCATA: pedagog FORMES: NCMP000 pedagogs NCMS000 pedagog
+
+APERTIUM: pedicur FORMES: NCFP000 pedicures NCFS000 pedicura NCMP000 pedicurs NCMS000 pedicur
+SOFTCATA: pedicur FORMES: NCMP000 pedicurs NCMS000 pedicur
+
+APERTIUM: peix FORMES: NCMP000 peixos NCMP000 peixs NCMS000 peix
+SOFTCATA: peix FORMES: NCMP000 peixos NCMS000 peix
+
+APERTIUM: pelegrí FORMES: NCFP000 pelegrines NCFS000 pelegrina NCMP000 pelegrins NCMS000 pelegrí
+SOFTCATA: pelegrí FORMES: NCMP000 pelegrins NCMS000 pelegrí
+
+APERTIUM: periquito FORMES: NCFP000 periquites NCFS000 periquita NCMP000 periquitos NCMS000 periquito
+SOFTCATA: periquito FORMES: NCMP000 periquitos NCMS000 periquito
+
+APERTIUM: perruquer FORMES: NCFP000 perruqueres NCFS000 perruquera NCMP000 perruquers NCMS000 perruquer
+SOFTCATA: perruquer FORMES: NCMP000 perruquers NCMS000 perruquer
+
+APERTIUM: personal FORMES: NCMP000 personals NCMS000 personal
+SOFTCATA: personal FORMES: NCCP000 personals NCCS000 personal
+
+APERTIUM: peruà FORMES: NCFP000 peruanes NCFS000 peruana NCMP000 peruans NCMS000 peruà
+SOFTCATA: peruà FORMES: NCMP000 peruans NCMS000 peruà
+
+APERTIUM: pescador FORMES: NCFP000 pescadores NCFS000 pescadora NCMP000 pescadors NCMS000 pescador
+SOFTCATA: pescador FORMES: NCMP000 pescadors NCMS000 pescador
+
+APERTIUM: peça FORMES: NCFP000 peces NCFS000 peça
+SOFTCATA: peça FORMES: NCCP000 peces NCCS000 peça
+
+APERTIUM: picapedrer FORMES: NCFP000 picapedreres NCFS000 picapedrera NCMP000 picapedrers NCMS000 picapedrer
+SOFTCATA: picapedrer FORMES: NCMP000 picapedrers NCMS000 picapedrer
+
+APERTIUM: picard FORMES: NCFP000 picardes NCFS000 picarda NCMP000 picards NCMS000 picard
+SOFTCATA: picard FORMES: NCMP000 picards NCMS000 picard
+
+APERTIUM: pintor FORMES: NCFP000 pintores NCFS000 pintora NCMP000 pintors NCMS000 pintor
+SOFTCATA: pintor FORMES: NCMP000 pintors NCMS000 pintor
+
+APERTIUM: pioner FORMES: NCFP000 pioneres NCFS000 pionera NCMP000 pioners NCMS000 pioner
+SOFTCATA: pioner FORMES: NCMP000 pioners NCMS000 pioner
+
+APERTIUM: pirata FORMES: NCCP000 pirates NCCS000 pirata
+SOFTCATA: pirata FORMES: NCMP000 pirates NCMS000 pirata
+
+APERTIUM: planeta FORMES: NCMP000 planetes NCMS000 planeta
+SOFTCATA: planeta FORMES: NCCP000 planetes NCCS000 planeta
+
+APERTIUM: plast FORMES: NCMP000 plasts NCMS000 plast
+SOFTCATA: plast FORMES: NCMP000 plastos NCMP000 plasts NCMS000 plast
+
+APERTIUM: plebeu FORMES: NCFP000 plebees NCFS000 plebea NCMP000 plebeus NCMS000 plebeu
+SOFTCATA: plebeu FORMES: NCMP000 plebeus NCMS000 plebeu
+
+APERTIUM: polispast FORMES: NCMP000 polispasts NCMS000 polispast
+SOFTCATA: polispast FORMES: NCMP000 polispastos NCMP000 polispasts NCMS000 polispast
+
+APERTIUM: polític FORMES: NCFP000 polítiques NCFS000 política NCMP000 polítics NCMS000 polític
+SOFTCATA: polític FORMES: NCMP000 polítics NCMS000 polític
+
+APERTIUM: portador FORMES: NCFP000 portadores NCFS000 portadora NCMP000 portadors NCMS000 portador
+SOFTCATA: portador FORMES: NCMP000 portadors NCMS000 portador
+
+APERTIUM: portant FORMES: NCMP000 portants NCMS000 portant
+SOFTCATA: portant FORMES: NCCP000 portants NCCS000 portant
+
+APERTIUM: posseïdor FORMES: NCFP000 posseïdores NCFS000 posseïdora NCMP000 posseïdors NCMS000 posseïdor
+SOFTCATA: posseïdor FORMES: NCMP000 posseïdors NCMS000 posseïdor
+
+APERTIUM: precedent FORMES: NCCP000 precedents NCCS000 precedent
+SOFTCATA: precedent FORMES: NCMP000 precedents NCMS000 precedent
+
+APERTIUM: pregoner FORMES: NCFP000 pregoneres NCFS000 pregonera NCMP000 pregoners NCMS000 pregoner
+SOFTCATA: pregoner FORMES: NCMP000 pregoners NCMS000 pregoner
+
+APERTIUM: preparador FORMES: NCFP000 preparadores NCFS000 preparadora NCMP000 preparadors NCMS000 preparador
+SOFTCATA: preparador FORMES: NCMP000 preparadors NCMS000 preparador
+
+APERTIUM: presentador FORMES: NCFP000 presentadores NCFS000 presentadora NCMP000 presentadors NCMS000 presentador
+SOFTCATA: presentador FORMES: NCMP000 presentadors NCMS000 presentador
+
+APERTIUM: president FORMES: NCFP000 presidentes NCFS000 presidenta NCMP000 presidents NCMS000 president
+SOFTCATA: president FORMES: NCMP000 presidents NCMS000 president
+
+APERTIUM: presoner FORMES: NCFP000 presoneres NCFS000 presonera NCMP000 presoners NCMS000 presoner
+SOFTCATA: presoner FORMES: NCMP000 presoners NCMS000 presoner
+
+APERTIUM: prestador FORMES: NCFP000 prestadores NCFS000 prestadora NCMP000 prestadors NCMS000 prestador
+SOFTCATA: prestador FORMES: NCMP000 prestadors NCMS000 prestador
+
+APERTIUM: pretendent FORMES: NCCP000 pretendents NCCS000 pretendent
+SOFTCATA: pretendent FORMES: NCMP000 pretendents NCMS000 pretendent
+
+APERTIUM: productor FORMES: NCFP000 productores NCFS000 productora NCMP000 productors NCMS000 productor
+SOFTCATA: productor FORMES: NCMP000 productors NCMS000 productor
+
+APERTIUM: promotor FORMES: NCFP000 promotores NCFS000 promotora NCMP000 promotors NCMS000 promotor
+SOFTCATA: promotor FORMES: NCMP000 promotors NCMS000 promotor
+
+APERTIUM: propietari FORMES: NCFP000 propietàries NCFS000 propietària NCMP000 propietaris NCMS000 propietari
+SOFTCATA: propietari FORMES: NCMP000 propietaris NCMS000 propietari
+
+APERTIUM: proposador FORMES: NCFP000 proposadores NCFS000 proposadora NCMP000 proposadors NCMS000 proposador
+SOFTCATA: proposador FORMES: NCMP000 proposadors NCMS000 proposador
+
+APERTIUM: protist FORMES: NCCP000 protists NCCS000 protist
+SOFTCATA: protist FORMES: NCMP000 protistos NCMP000 protists NCMS000 protist
+
+APERTIUM: protoctist FORMES: NCCP000 protoctists NCCS000 protoctist
+SOFTCATA: protoctist FORMES: NCMP000 protoctistos NCMP000 protoctists NCMS000 protoctist
+
+APERTIUM: príncep FORMES: NCFP000 princeses NCFS000 princesa NCMP000 prínceps NCMS000 príncep
+SOFTCATA: príncep FORMES: NCMP000 prínceps NCMS000 príncep
+
+APERTIUM: puericultor FORMES: NCFP000 puericultores NCFS000 puericultora NCMP000 puericultors NCMS000 puericultor
+SOFTCATA: puericultor FORMES: NCMP000 puericultors NCMS000 puericultor
+
+APERTIUM: puig FORMES: NCMP000 puigs NCMS000 puig
+SOFTCATA: puig FORMES: NCMP000 puigs NCMP000 pujos NCMS000 puig
+
+APERTIUM: pus FORMES: NCMS000 pus
+SOFTCATA: pus FORMES: NCMN000 pus
+
+APERTIUM: qualificador FORMES: NCFP000 qualificadores NCFS000 qualificadora NCMP000 qualificadors NCMS000 qualificador
+SOFTCATA: qualificador FORMES: NCMP000 qualificadors NCMS000 qualificador
+
+APERTIUM: quaresma FORMES: NCFS000 quaresma
+SOFTCATA: quaresma FORMES: NCFP000 quaresmes NCFS000 quaresma
+
+APERTIUM: quars FORMES: NCMN000 quars
+SOFTCATA: quars FORMES: NCMP000 quarsos NCMS000 quars
+
+APERTIUM: queix FORMES: NCMP000 queixos NCMP000 queixs NCMS000 queix
+SOFTCATA: queix FORMES: NCMP000 queixos NCMS000 queix
+
+APERTIUM: quiosc FORMES: NCMP000 quioscs NCMS000 quiosc
+SOFTCATA: quiosc FORMES: NCMP000 quioscos NCMP000 quioscs NCMS000 quiosc
+
+APERTIUM: quist FORMES: NCMP000 quists NCMS000 quist
+SOFTCATA: quist FORMES: NCMP000 quistos NCMP000 quists NCMS000 quist
+
+APERTIUM: quàquer FORMES: NCFP000 quàqueres NCFS000 quàquera NCMP000 quàquers NCMS000 quàquer
+SOFTCATA: quàquer FORMES: NCMP000 quàquers NCMS000 quàquer
+
+APERTIUM: radical FORMES: NCMP000 radicals NCMS000 radical
+SOFTCATA: radical FORMES: NCCP000 radicals NCCS000 radical
+
+APERTIUM: radioaficionat FORMES: NCFP000 radioaficionades NCFS000 radioaficionada NCMP000 radioaficionats NCMS000 radioaficionat
+SOFTCATA: radioaficionat FORMES: NCMP000 radioaficionats NCMS000 radioaficionat
+
+APERTIUM: ramader FORMES: NCFP000 ramaderes NCFS000 ramadera NCMP000 ramaders NCMS000 ramader
+SOFTCATA: ramader FORMES: NCMP000 ramaders NCMS000 ramader
+
+APERTIUM: rambler FORMES: NCFP000 rambleres NCFS000 ramblera NCMP000 ramblers NCMS000 rambler
+SOFTCATA: rambler FORMES: NCMP000 ramblers NCMS000 rambler
+
+APERTIUM: rata FORMES: NCFP000 rates NCFS000 rata
+SOFTCATA: rata FORMES: NCCP000 rates NCCS000 rata
+
+APERTIUM: re FORMES: NCMN000 re
+SOFTCATA: re FORMES: NCMP000 res NCMS000 re
+
+APERTIUM: reaccionari FORMES: NCFP000 reaccionàries NCFS000 reaccionària NCMP000 reaccionaris NCMS000 reaccionari
+SOFTCATA: reaccionari FORMES: NCMP000 reaccionaris NCMS000 reaccionari
+
+APERTIUM: realitzador FORMES: NCFP000 realitzadores NCFS000 realitzadora NCMP000 realitzadors NCMS000 realitzador
+SOFTCATA: realitzador FORMES: NCMP000 realitzadors NCMS000 realitzador
+
+APERTIUM: rebesavi FORMES: NCFP000 rebesàvies NCFS000 rebesàvia NCMP000 rebesavis NCMS000 rebesavi
+SOFTCATA: rebesavi FORMES: NCMP000 rebesavis NCMS000 rebesavi
+
+APERTIUM: rebesnét FORMES: NCFP000 rebesnétes NCFS000 rebesnéta NCMP000 rebesnéts NCMS000 rebesnét
+SOFTCATA: rebesnét FORMES: NCMP000 rebesnéts NCMS000 rebesnét
+
+APERTIUM: rebost FORMES: NCMP000 rebosts NCMS000 rebost
+SOFTCATA: rebost FORMES: NCMP000 rebostos NCMP000 rebosts NCMS000 rebost
+
+APERTIUM: receptor FORMES: NCFP000 receptores NCFS000 receptora NCMP000 receptors NCMS000 receptor
+SOFTCATA: receptor FORMES: NCMP000 receptors NCMS000 receptor
+
+APERTIUM: recol·lector FORMES: NCFP000 recol·lectores NCFS000 recol·lectora NCMP000 recol·lectors NCMS000 recol·lector
+SOFTCATA: recol·lector FORMES: NCMS000 recol·lector
+
+APERTIUM: reconeixedor FORMES: NCFP000 reconeixedores NCFS000 reconeixedora NCMP000 reconeixedors NCMS000 reconeixedor
+SOFTCATA: reconeixedor FORMES: NCMP000 reconeixedors NCMS000 reconeixedor
+
+APERTIUM: redox FORMES: NCMN000 redox
+SOFTCATA: redox FORMES: NCFN000 redox
+
+APERTIUM: reductor FORMES: NCFP000 reductores NCFS000 reductora NCMP000 reductors NCMS000 reductor
+SOFTCATA: reductor FORMES: NCMP000 reductors NCMS000 reductor
+
+APERTIUM: reflex FORMES: NCMP000 reflexos NCMP000 reflexs NCMS000 reflex
+SOFTCATA: reflex FORMES: NCMP000 reflexos NCMS000 reflex
+
+APERTIUM: refresc FORMES: NCMP000 refrescs NCMS000 refresc
+SOFTCATA: refresc FORMES: NCMP000 refrescos NCMP000 refrescs NCMS000 refresc
+
+APERTIUM: regidor FORMES: NCFP000 regidores NCFS000 regidora NCMP000 regidors NCMS000 regidor
+SOFTCATA: regidor FORMES: NCMP000 regidors NCMS000 regidor
+
+APERTIUM: registrador FORMES: NCFP000 registradores NCFS000 registradora NCMP000 registradors NCMS000 registrador
+SOFTCATA: registrador FORMES: NCMP000 registradors NCMS000 registrador
+
+APERTIUM: rei FORMES: NCFP000 reines NCFS000 reina NCMP000 reis NCMS000 rei
+SOFTCATA: rei FORMES: NCMP000 reis NCMS000 rei
+
+APERTIUM: rellotger FORMES: NCFP000 rellotgeres NCFS000 rellotgera NCMP000 rellotgers NCMS000 rellotger
+SOFTCATA: rellotger FORMES: NCMP000 rellotgers NCMS000 rellotger
+
+APERTIUM: remeier FORMES: NCFP000 remeieres NCFS000 remeiera NCMP000 remeiers NCMS000 remeier
+SOFTCATA: remeier FORMES: NCMP000 remeiers NCMS000 remeier
+
+APERTIUM: repartidor FORMES: NCFP000 repartidores NCFS000 repartidora NCMP000 repartidors NCMS000 repartidor
+SOFTCATA: repartidor FORMES: NCMP000 repartidors NCMS000 repartidor
+
+APERTIUM: repoblador FORMES: NCFP000 repobladores NCFS000 repobladora NCMP000 repobladors NCMS000 repoblador
+SOFTCATA: repoblador FORMES: NCMP000 repobladors NCMS000 repoblador
+
+APERTIUM: reporter FORMES: NCFP000 reporteres NCFS000 reportera NCMP000 reporters NCMS000 reporter
+SOFTCATA: reporter FORMES: NCMP000 reporters NCMS000 reporter
+
+APERTIUM: reserva FORMES: NCFP000 reserves NCFS000 reserva
+SOFTCATA: reserva FORMES: NCCP000 reserves NCCS000 reserva
+
+APERTIUM: ressaca FORMES: NCFP000 ressacas NCFS000 ressaca
+SOFTCATA: ressaca FORMES: NCFP000 ressaques NCFS000 ressaca
+
+APERTIUM: rest FORMES: NCMP000 rests NCMS000 rest
+SOFTCATA: rest FORMES: NCMP000 restos NCMP000 rests NCMS000 rest
+
+APERTIUM: restant FORMES: NCCP000 restants NCCS000 restant
+SOFTCATA: restant FORMES: NCMP000 restants NCMS000 restant
+
+APERTIUM: reu FORMES: NCFP000 reves NCFS000 reva NCMP000 reus NCMS000 reu
+SOFTCATA: reu FORMES: NCMP000 reus NCMS000 reu
+
+APERTIUM: revisor FORMES: NCFP000 revisores NCFS000 revisora NCMP000 revisors NCMS000 revisor
+SOFTCATA: revisor FORMES: NCMP000 revisors NCMS000 revisor
+
+APERTIUM: revolucionari FORMES: NCFP000 revolucionàries NCFS000 revolucionària NCMP000 revolucionaris NCMS000 revolucionari
+SOFTCATA: revolucionari FORMES: NCMP000 revolucionaris NCMS000 revolucionari
+
+APERTIUM: rigor FORMES: NCMP000 rigors NCMS000 rigor
+SOFTCATA: rigor FORMES: NCCP000 rigors NCCS000 rigor
+
+APERTIUM: rock FORMES: NCMN000 rock
+SOFTCATA: rock FORMES: NCMP000 rocks NCMS000 rock
+
+APERTIUM: roig FORMES: NCFP000 roges NCFS000 roja NCMP000 rojos NCMS000 roig
+SOFTCATA: roig FORMES: NCMP000 roigs NCMP000 rojos NCMS000 roig
+
+APERTIUM: romà FORMES: NCFP000 romanes NCFS000 romana NCMP000 romans NCMS000 romà
+SOFTCATA: romà FORMES: NCMP000 romans NCMS000 romà
+
+APERTIUM: rosa FORMES: NCFP000 roses NCFS000 rosa
+SOFTCATA: rosa FORMES: NCCP000 roses NCCS000 rosa
+
+APERTIUM: rubor FORMES: NCMP000 rubors NCMS000 rubor
+SOFTCATA: rubor FORMES: NCCP000 rubors NCCS000 rubor
+
+APERTIUM: ruc FORMES: NCFP000 ruques NCFS000 ruca NCMP000 rucs NCMS000 ruc
+SOFTCATA: ruc FORMES: NCMP000 rucs NCMS000 ruc
+
+APERTIUM: rus FORMES: NCFP000 russes NCFS000 russa NCMP000 russos NCMS000 rus
+SOFTCATA: rus FORMES: NCMP000 russos NCMS000 rus
+
+APERTIUM: rusc FORMES: NCMP000 ruscs NCMS000 rusc
+SOFTCATA: rusc FORMES: NCMP000 ruscos NCMP000 ruscs NCMS000 rusc
+
+APERTIUM: ràdio FORMES: NCFP000 ràdios NCFS000 ràdio
+SOFTCATA: ràdio FORMES: NCCP000 ràdios NCCS000 ràdio
+
+APERTIUM: sabater FORMES: NCFP000 sabateres NCFS000 sabatera NCMP000 sabaters NCMS000 sabater
+SOFTCATA: sabater FORMES: NCMP000 sabaters NCMS000 sabater
+
+APERTIUM: sabor FORMES: NCMP000 sabors NCMS000 sabor
+SOFTCATA: sabor FORMES: NCCP000 sabors NCCS000 sabor
+
+APERTIUM: sacerdot FORMES: NCFP000 sacerdotesses NCFS000 sacerdotessa NCMP000 sacerdots NCMS000 sacerdot
+SOFTCATA: sacerdot FORMES: NCMP000 sacerdots NCMS000 sacerdot
+
+APERTIUM: sagristà FORMES: NCFP000 sagristanes NCFS000 sagristana NCMP000 sagristans NCMS000 sagristà
+SOFTCATA: sagristà FORMES: NCMP000 sagristans NCMS000 sagristà
+
+APERTIUM: sarcocist FORMES: NCMP000 sarcocists NCMS000 sarcocist
+SOFTCATA: sarcocist FORMES: NCMP000 sarcocistos NCMP000 sarcocists NCMS000 sarcocist
+
+APERTIUM: sarment FORMES: NCMP000 sarments NCMS000 sarment
+SOFTCATA: sarment FORMES: NCCP000 sarments NCCS000 sarment
+
+APERTIUM: sastre FORMES: NCFP000 sastresses NCFS000 sastressa NCMP000 sastres NCMS000 sastre
+SOFTCATA: sastre FORMES: NCMP000 sastres NCMS000 sastre
+
+APERTIUM: savi FORMES: NCFP000 sàvies NCFS000 sàvia NCMP000 savis NCMS000 savi
+SOFTCATA: savi FORMES: NCMP000 savis NCMS000 savi
+
+APERTIUM: savoià FORMES: NCFP000 savoianes NCFS000 savoiana NCMP000 savoians NCMS000 savoià
+SOFTCATA: savoià FORMES: NCMP000 savoians NCMS000 savoià
+
+APERTIUM: sedentari FORMES: NCFP000 sedentàries NCFS000 sedentària NCMP000 sedentaris NCMS000 sedentari
+SOFTCATA: sedentari FORMES: NCMP000 sedentaris NCMS000 sedentari
+
+APERTIUM: seductor FORMES: NCFP000 seductores NCFS000 seductora NCMP000 seductors NCMS000 seductor
+SOFTCATA: seductor FORMES: NCMP000 seductors NCMS000 seductor
+
+APERTIUM: segon FORMES: NCFP000 segones NCFS000 segona NCMP000 segons NCMS000 segon
+SOFTCATA: segon FORMES: NCMP000 segons NCMS000 segon
+
+APERTIUM: seguidor FORMES: NCFP000 seguidores NCFS000 seguidora NCMP000 seguidors NCMS000 seguidor
+SOFTCATA: seguidor FORMES: NCMP000 seguidors NCMS000 seguidor
+
+APERTIUM: seleccionador FORMES: NCFP000 seleccionadores NCFS000 seleccionadora NCMP000 seleccionadors NCMS000 seleccionador
+SOFTCATA: seleccionador FORMES: NCMP000 seleccionadors NCMS000 seleccionador
+
+APERTIUM: semieix FORMES: NCMP000 semieixos NCMP000 semieixs NCMS000 semieix
+SOFTCATA: semieix FORMES: NCMP000 semieixos NCMS000 semieix
+
+APERTIUM: sentinella FORMES: NCFP000 sentinelles NCFS000 sentinella
+SOFTCATA: sentinella FORMES: NCCP000 sentinelles NCCS000 sentinella
+
+APERTIUM: senyoret FORMES: NCFP000 senyoretes NCFS000 senyoreta NCMP000 senyorets NCMS000 senyoret
+SOFTCATA: senyoret FORMES: NCMP000 senyorets NCMS000 senyoret
+
+APERTIUM: serbi FORMES: NCFP000 sèrbies NCFS000 sèrbia NCMP000 serbis NCMS000 serbi
+SOFTCATA: serbi FORMES: NCMP000 serbis NCMS000 serbi
+
+APERTIUM: serbocroat FORMES: NCMP000 serbocroats NCMS000 serbocroat
+SOFTCATA: serbocroat FORMES: NCFP000 serbocroates NCFS000 serbocroata NCMP000 serbocroats NCMS000 serbocroat
+
+APERTIUM: seropositiu FORMES: NCFP000 seropositives NCFS000 seropositiva NCMP000 seropositius NCMS000 seropositiu
+SOFTCATA: seropositiu FORMES: NCMP000 seropositius NCMS000 seropositiu
+
+APERTIUM: servidor FORMES: NCFP000 servidores NCFS000 servidora NCMP000 servidors NCMS000 servidor
+SOFTCATA: servidor FORMES: NCMP000 servidors NCMS000 servidor
+
+APERTIUM: set FORMES: NCFS000 set
+SOFTCATA: set FORMES: NCCN000 set
+
+APERTIUM: sevillà FORMES: NCFP000 sevillanes NCFS000 sevillana NCMP000 sevillans NCMS000 sevillà
+SOFTCATA: sevillà FORMES: NCMP000 sevillans NCMS000 sevillà
+
+APERTIUM: sida FORMES: NCFS000 sida
+SOFTCATA: sida FORMES: NCFP000 sides NCFS000 sida
+
+APERTIUM: signatari FORMES: NCFP000 signatàries NCFS000 signatària NCMP000 signataris NCMS000 signatari
+SOFTCATA: signatari FORMES: NCMP000 signataris NCMS000 signatari
+
+APERTIUM: silvicultor FORMES: NCFP000 silvicultores NCFS000 silvicultora NCMP000 silvicultors NCMS000 silvicultor
+SOFTCATA: silvicultor FORMES: NCMP000 silvicultors NCMS000 silvicultor
+
+APERTIUM: simulador FORMES: NCFP000 simuladores NCFS000 simuladora NCMP000 simuladors NCMS000 simulador
+SOFTCATA: simulador FORMES: NCMP000 simuladors NCMS000 simulador
+
+APERTIUM: sobrant FORMES: NCCP000 sobrants NCCS000 sobrant
+SOFTCATA: sobrant FORMES: NCMP000 sobrants NCMS000 sobrant
+
+APERTIUM: sobretaula FORMES: NCFP000 sobretaules NCFS000 sobretaula
+SOFTCATA: sobretaula FORMES: NCCP000 sobretaules NCCS000 sobretaula
+
+APERTIUM: sogre FORMES: NCCP000 sogres NCFS000 sogra NCMS000 sogre
+SOFTCATA: sogre FORMES: NCMP000 sogres NCMS000 sogre
+
+APERTIUM: soldat FORMES: NCCP000 soldats NCCS000 soldat
+SOFTCATA: soldat FORMES: NCMP000 soldats NCMS000 soldat
+
+APERTIUM: solter FORMES: NCFP000 solteres NCFS000 soltera NCMP000 solters NCMS000 solter
+SOFTCATA: solter FORMES: NCMP000 solters NCMS000 solter
+
+APERTIUM: sorteig FORMES: NCMP000 sorteigs NCMS000 sorteig
+SOFTCATA: sorteig FORMES: NCMP000 sorteigs NCMP000 sortejos NCMS000 sorteig
+
+APERTIUM: subordinat FORMES: NCFP000 subordinades NCFS000 subordinada NCMP000 subordinats NCMS000 subordinat
+SOFTCATA: subordinat FORMES: NCMP000 subordinats NCMS000 subordinat
+
+APERTIUM: substitut FORMES: NCFP000 substitutes NCFS000 substituta NCMP000 substituts NCMS000 substitut
+SOFTCATA: substitut FORMES: NCMP000 substituts NCMS000 substitut
+
+APERTIUM: successor FORMES: NCFP000 successores NCFS000 successora NCMP000 successors NCMS000 successor
+SOFTCATA: successor FORMES: NCMP000 successors NCMS000 successor
+
+APERTIUM: sud-americà FORMES: NCFP000 sud-americanes NCFS000 sud-americana NCMP000 sud-americans NCMS000 sud-americà
+SOFTCATA: sud-americà FORMES: NCMP000 sud-americans NCMS000 sud-americà
+
+APERTIUM: tacògraf FORMES: NCFP000 tacògrafes NCFS000 tacògrafa NCMP000 tacògrafs NCMS000 tacògraf
+SOFTCATA: tacògraf FORMES: NCMP000 tacògrafs NCMS000 tacògraf
+
+APERTIUM: tafaner FORMES: NCFP000 tafaneres NCFS000 tafanera NCMP000 tafaners NCMS000 tafaner
+SOFTCATA: tafaner FORMES: NCMP000 tafaners NCMS000 tafaner
+
+APERTIUM: talent FORMES: NCMP000 talents NCMS000 talent
+SOFTCATA: talent FORMES: NCCP000 talents NCCS000 talent
+
+APERTIUM: tapisser FORMES: NCFP000 tapisseres NCFS000 tapissera NCMP000 tapissers NCMS000 tapisser
+SOFTCATA: tapisser FORMES: NCMP000 tapissers NCMS000 tapisser
+
+APERTIUM: taquígraf FORMES: NCFP000 taquígrafes NCFS000 taquígrafa NCMP000 taquígrafs NCMS000 taquígraf
+SOFTCATA: taquígraf FORMES: NCMP000 taquígrafs NCMS000 taquígraf
+
+APERTIUM: tarragoní FORMES: NCFP000 tarragonines NCFS000 tarragonina NCMP000 tarragonins NCMS000 tarragoní
+SOFTCATA: tarragoní FORMES: NCMP000 tarragonins NCMS000 tarragoní
+
+APERTIUM: taujà FORMES: NCFP000 taujanes NCFS000 taujana NCMP000 taujans NCMS000 taujà
+SOFTCATA: taujà FORMES: NCMP000 taujans NCMS000 taujà
+
+APERTIUM: taverner FORMES: NCFP000 taverneres NCFS000 tavernera NCMP000 taverners NCMS000 taverner
+SOFTCATA: taverner FORMES: NCMP000 taverners NCMS000 taverner
+
+APERTIUM: taxador FORMES: NCFP000 taxadores NCFS000 taxadora NCMP000 taxadors NCMS000 taxador
+SOFTCATA: taxador FORMES: NCMP000 taxadors NCMS000 taxador
+
+APERTIUM: tecnígraf FORMES: NCFP000 tecnígrafes NCFS000 tecnígrafa NCMP000 tecnígrafs NCMS000 tecnígraf
+SOFTCATA: tecnígraf FORMES: NCMP000 tecnígrafs NCMS000 tecnígraf
+
+APERTIUM: teix FORMES: NCMP000 teixos NCMP000 teixs NCMS000 teix
+SOFTCATA: teix FORMES: NCMP000 teixos NCMS000 teix
+
+APERTIUM: teixidor FORMES: NCFP000 teixidores NCFS000 teixidora NCMP000 teixidors NCMS000 teixidor
+SOFTCATA: teixidor FORMES: NCMP000 teixidors NCMS000 teixidor
+
+APERTIUM: temor FORMES: NCMP000 temors NCMS000 temor
+SOFTCATA: temor FORMES: NCCP000 temors NCCS000 temor
+
+APERTIUM: terminal FORMES: NCFP000 terminals NCFS000 terminal
+SOFTCATA: terminal FORMES: NCCP000 terminals NCCS000 terminal
+
+APERTIUM: terra FORMES: NCFP000 terres NCFS000 terra
+SOFTCATA: terra FORMES: NCCP000 terres NCCS000 terra
+
+APERTIUM: terror FORMES: NCMP000 terrors NCMS000 terror
+SOFTCATA: terror FORMES: NCCP000 terrors NCCS000 terror
+
+APERTIUM: test FORMES: NCMP000 tests NCMS000 test
+SOFTCATA: test FORMES: NCMP000 testos NCMP000 tests NCMS000 test
+
+APERTIUM: testador FORMES: NCFP000 testadores NCFS000 testadora NCMP000 testadors NCMS000 testador
+SOFTCATA: testador FORMES: NCMP000 testadors NCMS000 testador
+
+APERTIUM: teòric FORMES: NCFP000 teòriques NCFS000 teòrica NCMP000 teòrics NCMS000 teòric
+SOFTCATA: teòric FORMES: NCMP000 teòrics NCMS000 teòric
+
+APERTIUM: tigre FORMES: NCFP000 tigresses NCFS000 tigressa NCMP000 tigres NCMS000 tigre
+SOFTCATA: tigre FORMES: NCMP000 tigres NCMS000 tigre
+
+APERTIUM: timoner FORMES: NCCP000 timoners NCCS000 timoner
+SOFTCATA: timoner FORMES: NCMP000 timoners NCMS000 timoner
+
+APERTIUM: tirador FORMES: NCFP000 tiradores NCFS000 tiradora NCMP000 tiradors NCMS000 tirador
+SOFTCATA: tirador FORMES: NCMP000 tiradors NCMS000 tirador
+
+APERTIUM: tirà FORMES: NCFP000 tiranes NCFS000 tirana NCMP000 tirans NCMS000 tirà
+SOFTCATA: tirà FORMES: NCMP000 tirans NCMS000 tirà
+
+APERTIUM: torero FORMES: NCFP000 toreres NCFS000 torera NCMP000 toreros NCMS000 torero
+SOFTCATA: torero FORMES: NCMP000 toreros NCMS000 torero
+
+APERTIUM: torsimany FORMES: NCMP000 torsimanys NCMS000 torsimany
+SOFTCATA: torsimany FORMES: NCCP000 torsimanys NCCS000 torsimany
+
+APERTIUM: toscà FORMES: NCFP000 toscanes NCFS000 toscana NCMP000 toscans NCMS000 toscà
+SOFTCATA: toscà FORMES: NCMP000 toscans NCMS000 toscà
+
+APERTIUM: totpoderós FORMES: NCMS000 totpoderós
+SOFTCATA: totpoderós FORMES: NCMP000 totpoderosos NCMS000 totpoderós
+
+APERTIUM: tremolor FORMES: NCMP000 tremolors NCMS000 tremolor
+SOFTCATA: tremolor FORMES: NCCP000 tremolors NCCS000 tremolor
+
+APERTIUM: trompeta FORMES: NCFP000 trompetes NCFS000 trompeta
+SOFTCATA: trompeta FORMES: NCCP000 trompetes NCCS000 trompeta
+
+APERTIUM: truà FORMES: NCFP000 truanes NCFS000 truana NCMP000 truans NCMS000 truà
+SOFTCATA: truà FORMES: NCMP000 truans NCMS000 truà
+
+APERTIUM: tunisià FORMES: NCFP000 tunisianes NCFS000 tunisiana NCMP000 tunisians NCMS000 tunisià
+SOFTCATA: tunisià FORMES: NCMP000 tunisians NCMS000 tunisià
+
+APERTIUM: tupè FORMES: NCMP000 tupès NCMS000 tupè
+SOFTCATA: tupè FORMES: NCMP000 tupès NCMP000 tupés NCMS000 tupè NCMS000 tupé
+
+APERTIUM: turc FORMES: NCFP000 turques NCFS000 turca NCMP000 turcs NCMS000 turc
+SOFTCATA: turc FORMES: NCMP000 turcs NCMS000 turc
+
+APERTIUM: tust FORMES: NCMP000 tusts NCMS000 tust
+SOFTCATA: tust FORMES: NCMP000 tustos NCMP000 tusts NCMS000 tust
+
+APERTIUM: tutor FORMES: NCFP000 tutores NCFS000 tutora NCMP000 tutors NCMS000 tutor
+SOFTCATA: tutor FORMES: NCMP000 tutors NCMS000 tutor
+
+APERTIUM: tàctic FORMES: NCFP000 tàctiques NCFS000 tàctica NCMP000 tàctics NCMS000 tàctic
+SOFTCATA: tàctic FORMES: NCMP000 tàctics NCMS000 tàctic
+
+APERTIUM: tècnic FORMES: NCFP000 tècniques NCFS000 tècnica NCMP000 tècnics NCMS000 tècnic
+SOFTCATA: tècnic FORMES: NCMP000 tècnics NCMS000 tècnic
+
+APERTIUM: tèlex FORMES: NCMN000 tèlex
+SOFTCATA: tèlex FORMES: NCMP000 tèlexs NCMS000 tèlex
+
+APERTIUM: tètan FORMES: NCMS000 tètan
+SOFTCATA: tètan FORMES: NCMP000 tètans NCMS000 tètan
+
+APERTIUM: tòrax FORMES: NCMN000 tòrax
+SOFTCATA: tòrax FORMES: NCMP000 tòraxs NCMS000 tòrax
+
+APERTIUM: urbà FORMES: NCFP000 urbanes NCFS000 urbana NCMP000 urbans NCMS000 urbà
+SOFTCATA: urbà FORMES: NCMP000 urbans NCMS000 urbà
+
+APERTIUM: usuari FORMES: NCFP000 usuàries NCFS000 usuària NCMP000 usuaris NCMS000 usuari
+SOFTCATA: usuari FORMES: NCMP000 usuaris NCMS000 usuari
+
+APERTIUM: usucapió FORMES: NCMP000 usucapions NCMS000 usucapió
+SOFTCATA: usucapió FORMES: NCFP000 usucapions NCFS000 usucapió
+
+APERTIUM: usurpador FORMES: NCFP000 usurpadores NCFS000 usurpadora NCMP000 usurpadors NCMS000 usurpador
+SOFTCATA: usurpador FORMES: NCMP000 usurpadors NCMS000 usurpador
+
+APERTIUM: valedor FORMES: NCFP000 valedores NCFS000 valedora NCMP000 valedors NCMS000 valedor
+SOFTCATA: valedor FORMES: NCMP000 valedors NCMS000 valedor
+
+APERTIUM: valencià FORMES: NCFP000 valencianes NCFS000 valenciana NCMP000 valencians NCMS000 valencià
+SOFTCATA: valencià FORMES: NCMP000 valencians NCMS000 valencià
+
+APERTIUM: valor FORMES: NCMP000 valors NCMS000 valor
+SOFTCATA: valor FORMES: NCCP000 valors NCCS000 valor
+
+APERTIUM: való FORMES: NCFP000 valones NCFS000 valona NCMP000 valons NCMS000 való
+SOFTCATA: való FORMES: NCMP000 valons NCMS000 való
+
+APERTIUM: vampir FORMES: NCMP000 vampirs NCMS000 vampir
+SOFTCATA: vampir FORMES: NCFP000 vampires NCFS000 vampira NCMP000 vampirs NCMS000 vampir
+
+APERTIUM: vaquer FORMES: NCFP000 vaqueres NCFS000 vaquera NCMP000 vaquers NCMS000 vaquer
+SOFTCATA: vaquer FORMES: NCMP000 vaquers NCMS000 vaquer
+
+APERTIUM: varador FORMES: NCMP000 varadors NCMS000 varador
+SOFTCATA: varador FORMES: NCFP000 varadores NCFS000 varadora NCMP000 varadors NCMS000 varador
+
+APERTIUM: vell FORMES: NCFP000 velles NCFS000 vella NCMP000 vells NCMS000 vell
+SOFTCATA: vell FORMES: NCMP000 vells NCMS000 vell
+
+APERTIUM: vencedor FORMES: NCFP000 vencedores NCFS000 vencedora NCMP000 vencedors NCMS000 vencedor
+SOFTCATA: vencedor FORMES: NCMP000 vencedors NCMS000 vencedor
+
+APERTIUM: venedor FORMES: NCFP000 venedores NCFS000 venedora NCMP000 venedors NCMS000 venedor
+SOFTCATA: venedor FORMES: NCMP000 venedors NCMS000 venedor
+
+APERTIUM: veneçolà FORMES: NCFP000 veneçolanes NCFS000 veneçolana NCMP000 veneçolans NCMS000 veneçolà
+SOFTCATA: veneçolà FORMES: NCMP000 veneçolans NCMS000 veneçolà
+
+APERTIUM: verificador FORMES: NCFP000 verificadores NCFS000 verificadora NCMP000 verificadors NCMS000 verificador
+SOFTCATA: verificador FORMES: NCMP000 verificadors NCMS000 verificador
+
+APERTIUM: verí FORMES: NCMP000 verís NCMS000 verí
+SOFTCATA: verí FORMES: NCMP000 verins NCMS000 verí
+
+APERTIUM: vesc FORMES: NCMP000 vescs NCMS000 vesc
+SOFTCATA: vesc FORMES: NCMP000 vescos NCMP000 vescs NCMS000 vesc
+
+APERTIUM: vescomte FORMES: NCFP000 vescomtesses NCFS000 vescomtessa NCMP000 vescomtes NCMS000 vescomte
+SOFTCATA: vescomte FORMES: NCMP000 vescomtes NCMS000 vescomte
+
+APERTIUM: vessant FORMES: NCMP000 vessants NCMS000 vessant
+SOFTCATA: vessant FORMES: NCCP000 vessants NCCS000 vessant
+
+APERTIUM: veterinari FORMES: NCFP000 veterinàries NCFS000 veterinària NCMP000 veterinaris NCMS000 veterinari
+SOFTCATA: veterinari FORMES: NCMP000 veterinaris NCMS000 veterinari
+
+APERTIUM: veterà FORMES: NCFP000 veteranes NCFS000 veterana NCMP000 veterans NCMS000 veterà
+SOFTCATA: veterà FORMES: NCMP000 veterans NCMS000 veterà
+
+APERTIUM: veïnat FORMES: NCMP000 veïnats NCMS000 veïnat
+SOFTCATA: veïnat FORMES: NCFP000 veïnades NCFS000 veïnada NCMP000 veïnats NCMS000 veïnat
+
+APERTIUM: viacrucis FORMES: NCMS000 viacrucis
+SOFTCATA: viacrucis FORMES: NCMN000 viacrucis
+
+APERTIUM: viatger FORMES: NCFP000 viatgeres NCFS000 viatgera NCMP000 viatgers NCMS000 viatger
+SOFTCATA: viatger FORMES: NCMP000 viatgers NCMS000 viatger
+
+APERTIUM: viatjant FORMES: NCCP000 viatjants NCCS000 viatjant
+SOFTCATA: viatjant FORMES: NCMP000 viatjants NCMS000 viatjant
+
+APERTIUM: vicealmirall FORMES: NCCP000 vicealmiralls NCCS000 vicealmirall
+SOFTCATA: vicealmirall FORMES: NCMP000 vicealmiralls NCMS000 vicealmirall
+
+APERTIUM: vicepresident FORMES: NCFP000 vicepresidentes NCFS000 vicepresidenta NCMP000 vicepresidents NCMS000 vicepresident
+SOFTCATA: vicepresident FORMES: NCMP000 vicepresidents NCMS000 vicepresident
+
+APERTIUM: videocasset FORMES: NCMP000 videocassets NCMS000 videocasset
+SOFTCATA: videocasset FORMES: NCFP000 videocassets NCFS000 videocasset
+
+APERTIUM: videodisc FORMES: NCMP000 videodiscos NCMS000 videodisc
+SOFTCATA: videodisc FORMES: NCMP000 videodiscos NCMP000 videodiscs NCMS000 videodisc
+
+APERTIUM: vidrier FORMES: NCFP000 vidrieres NCFS000 vidriera NCMP000 vidriers NCMS000 vidrier
+SOFTCATA: vidrier FORMES: NCMP000 vidriers NCMS000 vidrier
+
+APERTIUM: vigor FORMES: NCMP000 vigors NCMS000 vigor
+SOFTCATA: vigor FORMES: NCCP000 vigors NCCS000 vigor
+
+APERTIUM: vinater FORMES: NCFP000 vinateres NCFS000 vinatera NCMP000 vinaters NCMS000 vinater
+SOFTCATA: vinater FORMES: NCMP000 vinaters NCMS000 vinater
+
+APERTIUM: vint-i-u FORMES: NCMS000 vint-i-u
+SOFTCATA: vint-i-u FORMES: NCCN000 vint-i-u
+
+APERTIUM: violador FORMES: NCFP000 violadores NCFS000 violadora NCMP000 violadors NCMS000 violador
+SOFTCATA: violador FORMES: NCMP000 violadors NCMS000 violador
+
+APERTIUM: violeta FORMES: NCFP000 violetes NCFS000 violeta
+SOFTCATA: violeta FORMES: NCCP000 violetes NCCS000 violeta
+
+APERTIUM: violoncel FORMES: NCMP000 violoncels NCMS000 violoncel
+SOFTCATA: violoncel FORMES: NCCP000 violoncels NCCS000 violoncel
+
+APERTIUM: virgo FORMES: NCCN000 virgo
+SOFTCATA: virgo FORMES: NCMP000 virgos NCMS000 virgo
+
+APERTIUM: visigot FORMES: NCFP000 visigodes NCFS000 visigoda NCMP000 visigots NCMS000 visigot
+SOFTCATA: visigot FORMES: NCMP000 visigots NCMS000 visigot
+
+APERTIUM: visualitzador FORMES: NCFP000 visualitzadores NCFS000 visualitzadora NCMP000 visualitzadors NCMS000 visualitzador
+SOFTCATA: visualitzador FORMES: NCMP000 visualitzadors NCMS000 visualitzador
+
+APERTIUM: vocal FORMES: NCFP000 vocals NCFS000 vocal
+SOFTCATA: vocal FORMES: NCCP000 vocals NCCS000 vocal
+
+APERTIUM: vodka FORMES: NCMP000 vodkes NCMS000 vodka
+SOFTCATA: vodka FORMES: NCCP000 vodkes NCCS000 vodka
+
+APERTIUM: voleibol FORMES: NCMS000 voleibol
+SOFTCATA: voleibol FORMES: NCMP000 voleibols NCMS000 voleibol
+
+APERTIUM: voluntari FORMES: NCFP000 voluntàries NCFS000 voluntària NCMP000 voluntaris NCMS000 voluntari
+SOFTCATA: voluntari FORMES: NCMP000 voluntaris NCMS000 voluntari
+
+APERTIUM: vudú FORMES: NCMP000 vudús NCMS000 vudú
+SOFTCATA: vudú FORMES: NCCP000 vudús NCCS000 vudú
+
+APERTIUM: vòrtex FORMES: NCMN000 vòrtex
+SOFTCATA: vòrtex FORMES: NCMP000 vòrtexs NCMS000 vòrtex
+
+APERTIUM: waterpolo FORMES: NCMS000 waterpolo
+SOFTCATA: waterpolo FORMES: NCMP000 waterpolos NCMS000 waterpolo
+
+APERTIUM: xanquer FORMES: NCFP000 xanqueres NCFS000 xanquera NCMP000 xanquers NCMS000 xanquer
+SOFTCATA: xanquer FORMES: NCMP000 xanquers NCMS000 xanquer
+
+APERTIUM: xassís FORMES: NCMN000 xassís
+SOFTCATA: xassís FORMES: NCMP000 xassissos NCMS000 xassís
+
+APERTIUM: xaval FORMES: NCFP000 xavales NCFS000 xavala NCMP000 xavals NCMS000 xaval
+SOFTCATA: xaval FORMES: NCMP000 xavals NCMS000 xaval
+
+APERTIUM: xofer FORMES: NCCP000 xofers NCCS000 xofer
+SOFTCATA: xofer FORMES: NCMP000 xofers NCMS000 xofer
+
+APERTIUM: àliga FORMES: NCFP000 àliges NCFS000 àliga
+SOFTCATA: àliga FORMES: NCFP000 àligues NCFS000 àliga
+
+APERTIUM: ànec FORMES: NCCP000 ànecs NCCS000 ànec
+SOFTCATA: ànec FORMES: NCMP000 ànecs NCMS000 ànec
+
+APERTIUM: àntrax FORMES: NCMN000 àntrax
+SOFTCATA: àntrax FORMES: NCMP000 àntraxs NCMS000 àntrax
+
+APERTIUM: àries FORMES: NCCN000 àries
+SOFTCATA: àries FORMES: NCMN000 àries
+
+APERTIUM: èmfasi FORMES: NCFP000 èmfasis NCFS000 èmfasi
+SOFTCATA: èmfasi FORMES: NCCP000 èmfasis NCCS000 èmfasi
+
+APERTIUM: òptic FORMES: NCFP000 òptiques NCFS000 òptica NCMP000 òptics NCMS000 òptic
+SOFTCATA: òptic FORMES: NCMP000 òptics NCMS000 òptic
+
+APERTIUM: ós FORMES: NCFP000 ósses NCFS000 óssa NCMP000 óssos NCMS000 ós
+SOFTCATA: ós FORMES: NCMP000 óssos NCMS000 ós
+
