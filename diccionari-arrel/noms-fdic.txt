@@ -50065,6 +50065,7 @@ posterma=categories: F;fonts: LT;
 postermera=categories: F;fonts: LT;
 posterol=categories: M;fonts: LT;
 postesquí [pl. postesquís]=categories: M;fonts: LT;
+postestructuralisme=categories: M;fonts: termcat;
 posteta=categories: F;fonts: LT;
 postexposició=categories: F;fonts: LT;
 postfranquisme=categories: M;fonts: LT;

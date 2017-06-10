@@ -22001,8 +22001,10 @@ Vilandeny Vilandeny NPCSG00
 Vilanna Vilanna NPCSG00
 Vilanova Vilanova NPCNSP0
 Vilanova Vilanova NPFSG00
+Vilanoveta Vilanoveta NPFSG00
 Vilanuèva-d'Òlt Vilanuèva-d'Òlt NPCSG00
 Vilaperdius Vilaperdius NPCSG00
+Vilapicina Vilapicina NPCSG00
 Vilaplana Vilaplana NPCNSP0
 Vilaplana Vilaplana NPFSG00
 Vilaprinyó Vilaprinyó NPCNSP0
