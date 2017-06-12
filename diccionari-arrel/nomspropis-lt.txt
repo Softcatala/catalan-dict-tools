@@ -3974,6 +3974,7 @@ Brisac Brisac NPCNSP0
 Brisbane Brisbane NPCSG00
 Brisgòvia Brisgòvia NPCSG00
 Bristol Bristol NPCSG00
+Britten Britten NPCNSP0
 Briva Briva NPCSG00
 Brive-la-Gaillarde Brive-la-Gaillarde NPCSG00
 Briviesca Briviesca NPCSG00
@@ -9182,6 +9183,7 @@ Ghowr Ghowr NPCSG00
 Ghāghra Ghāghra NPCSG00
 Ghāziabād Ghāziabād NPCSG00
 Gia Gia NPFSG00
+Giacomo Giacomo NPMSSP0
 Giarre Giarre NPCSG00
 Gibalcolla Gibalcolla NPCSG00
 Gibellí Gibellí NPCNSP0
@@ -10639,6 +10641,7 @@ Jana Jana NPFSG00
 Janeiro Janeiro NPMSG00
 Janol Janol NPCNSP0
 Janus Janus NPMNSP0
+Janácek Janácek NPCNSP0
 Japó Japó NPMSG00
 Jaques Jaques NPCNSP0
 Jaquotot Jaquotot NPCNSP0
