@@ -13796,6 +13796,7 @@ intraoperatori intraoperatòria=categories: A;fonts: termcat;
 intraossi intraòssia=categories: A;fonts: termcat;
 intraparenquimàtic intraparenquimàtica=categories: A;fonts: termcat;
 intrapelvià intrapelviana=categories: A;fonts: termcat;
+intraperineal=categories: A;fonts: termcat;
 intraperitoneal=categories: A;fonts: termcat;
 intrapersonal=categories: A;fonts: derivat;
 intraraquidi intraraquídia=categories: A;fonts: LT;
