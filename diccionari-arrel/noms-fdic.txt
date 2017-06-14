@@ -5,6 +5,8 @@
 #catxeta=categories: F;fonts: LT; castellanisme
 #cort2=categories: M;fonts: LT; #arcaisme
 #creix=categories: M;fonts: GDLC;
+#escondiment=categories: M;fonts: LT; # arcaisme
+#escondit=categories: M;fonts: LT; gènere poètic occità, poc usual
 #fusellatge=categories: M;fonts: GDLC (impròpiament);
 #mem=categories: F;fonts: LT, nom de lletra hebrea (poc usual);
 #nic=categories: M;fonts: termcat, AVL (poc usual?);
@@ -24355,8 +24357,6 @@ escombriu=categories: M;fonts: LT;
 escomesa=categories: F;fonts: LT;
 escometiment=categories: M;fonts: LT;
 escon=categories: M;fonts: LT;
-escondiment=categories: M;fonts: LT;
-escondit=categories: M;fonts: LT;
 escopeta=categories: F;fonts: LT;
 escopetada=categories: F;fonts: LT;
 escopeteig=categories: M;fonts: LT;

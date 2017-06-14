@@ -1,5 +1,6 @@
 #coldre=categories: V;model:absoldre;fonts:LT
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
+#escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
 abacallanar=categories: V;model:cantar;fonts:LT
 abaconar=categories: V;model:cantar;fonts:LT
 abadanar=categories: V;model:cantar;fonts:LT
@@ -5334,7 +5335,6 @@ escombrar=categories: V;model:cantar;fonts:LT
 escombregar=categories: V;model:pregar;fonts:LT
 escomençar=categories: V;model:començar;fonts: DNV;
 escometre=categories: V;model:admetre;fonts:LT
-escondir=categories: V;model:servir;fonts:LT
 esconillar=categories: V;model:cantar;fonts:LT
 esconyar=categories: V;model:cantar;fonts:LT
 escopetejar=categories: V;model:envejar;fonts:LT
