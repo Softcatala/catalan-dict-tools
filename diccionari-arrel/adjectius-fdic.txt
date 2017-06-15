@@ -18369,6 +18369,7 @@ patronal=categories: A;fonts: LT;
 patronímic patronímica=categories: A;fonts: LT;
 patruller patrullera=categories: A;fonts: LT;
 patrístic patrística=categories: A;fonts: LT;
+patumaire=categories: A;fonts: derivat;
 patxet patxeta=categories: A;fonts: LT;
 patxoc patxoca=categories: A;fonts: LT;
 patxot patxota=categories: A;fonts: LT;
