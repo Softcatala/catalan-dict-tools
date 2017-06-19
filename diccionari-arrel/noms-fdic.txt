@@ -10,6 +10,7 @@
 #fusellatge=categories: M;fonts: GDLC (impròpiament);
 #mem=categories: F;fonts: LT, nom de lletra hebrea (poc usual);
 #nic=categories: M;fonts: termcat, AVL (poc usual?);
+#polià poliana=categories: MF;fonts: LT; es confon amb polaines
 #recó=categories: M;fonts: termcat, GDLC; #es confon amb racó
 #ròtol (arcaisme)
 #tabla=categories: M;fonts: instrument hindú (es pot confondre amb taula);
@@ -49537,7 +49538,6 @@ poliuretà=categories: M;fonts: LT;
 polivalència=categories: F;fonts: LT;
 polivinil=categories: M;fonts: LT;
 polivinilpirrolidona=categories: F;fonts: LT;
-polià poliana=categories: MF;fonts: LT;
 poliàndria=categories: F;fonts: LT;
 poliè=categories: M;fonts: LT;
 polièmia=categories: F;fonts: LT;

@@ -1,5 +1,6 @@
 #baador=categories: A;fonts: GDLC, arcaisme;
 #emperadora=categories: A;fonts: LT;
+#polià poliana=categories: A;fonts: LT; es confon amb polaines
 10è 10a [pl. 10ns]=categories: AO;fonts: LT;
 11è 11a [pl. 11ns]=categories: AO;fonts: LT;
 12è 12a [pl. 12ns]=categories: AO;fonts: LT;
@@ -19316,7 +19317,6 @@ politípic politípica=categories: A;fonts: LT;
 politònic politònica=categories: A;fonts: LT;
 polivalent=categories: A;fonts: LT;
 polivinílic polivinílica=categories: A;fonts: LT;
-polià poliana=categories: A;fonts: LT;
 poliàcid poliàcida=categories: A;fonts: LT;
 poliàndric poliàndrica=categories: A;fonts: LT;
 poliàrquic poliàrquica=categories: A;fonts: LT;
