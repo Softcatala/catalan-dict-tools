@@ -38,5 +38,7 @@ do
     export LC_ALL=C && sort $dir_intermedi/$i-lt.txt -o $dir_intermedi/$i-lt.txt
     diff $dir_intermedi/$i.txt $dir_intermedi/$i-lt.txt >> $dir_resultat/diff.txt
 done
+echo "** Altres errors **" >> $dir_resultat/diff.txt
+grep "#" $lt_per_a_comparar >> $dir_resultat/diff.txt
 rm -rf $dir_intermedi
 echo "Fet! Resultats en $dir_resultat"
