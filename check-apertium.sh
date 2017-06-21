@@ -8,7 +8,7 @@ dir_resultat="tests-apertium"
 rm -rf $dir_resultat
 mkdir $dir_resultat
 
-perl $dir_programes/check-adj-apertium.pl $dir_programes/apertium-cat.pardefs $original_apertium_dict $generated_apertium_adj_dict > $dir_resultat/check-apertium-adj.txt
-perl $dir_programes/check-nom-apertium.pl $dir_programes/apertium-cat.pardefs $original_apertium_dict $generated_apertium_nom_dict > $dir_resultat/check-apertium-nom.txt
+perl $dir_programes/check-adj-apertium.pl $original_apertium_dict $original_apertium_dict $generated_apertium_adj_dict > $dir_resultat/check-apertium-adj.txt
+perl $dir_programes/check-nom-apertium.pl $original_apertium_dict $original_apertium_dict $generated_apertium_nom_dict > $dir_resultat/check-apertium-nom.txt
 
 echo "Resultats en: $dir_resultat"

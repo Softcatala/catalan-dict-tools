@@ -1,35 +1,11 @@
-APERTIUM: azoic FORMES: AQ0FP0 azoïques AQ0FS0 azoïca AQ0MP0 azoics AQ0MS0 azoic arca/ic__adj
-SOFTCATA: azoic FORMES: AQ0FP0 azoiques AQ0FS0 azoica AQ0MP0 azoics AQ0MS0 azoic acadèmi/c__adj
-
-APERTIUM: babau FORMES: AQ0CP0 babaus AQ0CS0 babau abdominal__adj
-SOFTCATA: babau FORMES: AQ0FP0 babaues AQ0FS0 babaua AQ0MP0 babaus AQ0MS0 babau absolut__adj
-
-APERTIUM: biònic FORMES: AQ0FP0 biònices AQ0FS0 biònica AQ0MP0 biònics AQ0MS0 biònic absolut__adj
-SOFTCATA: biònic FORMES: AQ0FP0 biòniques AQ0FS0 biònica AQ0MP0 biònics AQ0MS0 biònic acadèmi/c__adj
-
 APERTIUM: blaugrana FORMES: AQ0CP0 blaugranes AQ0CS0 blaugrana agrícol/a__adj
 SOFTCATA: blaugrana FORMES: AQ0CN0 blaugrana multimèdia__adj
-
-APERTIUM: brusc FORMES: AQ0FP0 brusques AQ0FS0 brusca AQ0MP0 bruscs AQ0MS0 brusc acadèmi/c__adj
-SOFTCATA: brusc FORMES: AQ0FP0 brusques AQ0FS0 brusca AQ0MP0 bruscos AQ0MP0 bruscs AQ0MS0 brusc bas/c__adj
-
-APERTIUM: cancelleresc FORMES: AQ0FP0 cancelleresques AQ0FS0 cancelleresca AQ0MP0 cancellerescs AQ0MS0 cancelleresc acadèmi/c__adj
-SOFTCATA: cancelleresc FORMES: AQ0FP0 cancelleresques AQ0FS0 cancelleresca AQ0MP0 cancellerescos AQ0MP0 cancellerescs AQ0MS0 cancelleresc bas/c__adj
-
-APERTIUM: caricaturesc FORMES: AQ0FP0 caricaturesques AQ0FS0 caricaturesca AQ0MP0 caricaturescs AQ0MS0 caricaturesc acadèmi/c__adj
-SOFTCATA: caricaturesc FORMES: AQ0FP0 caricaturesques AQ0FS0 caricaturesca AQ0MP0 caricaturescos AQ0MP0 caricaturescs AQ0MS0 caricaturesc bas/c__adj
 
 APERTIUM: clau FORMES: AQ0CP0 claus AQ0CS0 clau abdominal__adj
 SOFTCATA: clau FORMES: AQ0CN0 clau multimèdia__adj
 
-APERTIUM: convex FORMES: AQ0FP0 convexes AQ0FS0 convexa AQ0MP0 convexs AQ0MS0 convex absolut__adj
-SOFTCATA: convex FORMES: AQ0FP0 convexes AQ0FS0 convexa AQ0MP0 convexos AQ0MS0 convex annex__adj
-
 APERTIUM: còmode FORMES: AQ0FP0 còmodes AQ0FS0 còmoda AQ0MP0 còmodes AQ0MS0 còmode c/òmode__adj
 SOFTCATA: còmode FORMES: AQ0CP0 còmodes AQ0FS0 còmoda AQ0MS0 còmode adept/e__adj
-
-APERTIUM: endogen FORMES: AQ0FP0 endogenes AQ0FS0 endogena AQ0MP0 endogens AQ0MS0 endogen absolut__adj
-SOFTCATA: endogen FORMES: AQ0FP0 endògenes AQ0FS0 endògena AQ0MP0 endògens AQ0MS0 endogen ex/ogen__adj
 
 APERTIUM: estrafolari FORMES: AQ0FP0 estrafolaries AQ0FS0 estrafolaria AQ0MP0 estrafolaris AQ0MS0 estrafolari absolut__adj
 SOFTCATA: estrafolari FORMES: AQ0FP0 estrafolàries AQ0FS0 estrafolària AQ0MP0 estrafolaris AQ0MS0 estrafolari adjudicat/ari__adj
@@ -43,65 +19,23 @@ SOFTCATA: extra FORMES: AQ0CP0 extres AQ0CS0 extra agrícol/a__adj
 APERTIUM: gegant FORMES: AQ0FP0 gegantes AQ0FS0 geganta AQ0MP0 gegants AQ0MS0 gegant absolut__adj
 SOFTCATA: gegant FORMES: AQ0CP0 gegants AQ0CS0 gegant abdominal__adj
 
-APERTIUM: gegantesc FORMES: AQ0FP0 gegantesques AQ0FS0 gegantesca AQ0MP0 gegantescs AQ0MS0 gegantesc acadèmi/c__adj
-SOFTCATA: gegantesc FORMES: AQ0FP0 gegantesques AQ0FS0 gegantesca AQ0MP0 gegantescos AQ0MP0 gegantescs AQ0MS0 gegantesc bas/c__adj
-
 APERTIUM: governant FORMES: AQ0FP0 governantes AQ0FS0 governanta AQ0MP0 governants AQ0MS0 governant absolut__adj
 SOFTCATA: governant FORMES: AQ0CP0 governants AQ0CS0 governant abdominal__adj
 
 APERTIUM: granat FORMES: AQ0FP0 granades AQ0FS0 granada AQ0MP0 granats AQ0MS0 granat triparti/t__adj
 SOFTCATA: granat FORMES: AQ0CN0 granat multimèdia__adj
 
-APERTIUM: grotesc FORMES: AQ0FP0 grotesques AQ0FS0 grotesca AQ0MP0 grotescs AQ0MS0 grotesc acadèmi/c__adj
-SOFTCATA: grotesc FORMES: AQ0FP0 grotesques AQ0FS0 grotesca AQ0MP0 grotescos AQ0MP0 grotescs AQ0MS0 grotesc bas/c__adj
-
 APERTIUM: incòmode FORMES: AQ0FP0 incòmodes AQ0FS0 incòmoda AQ0MP0 incòmodes AQ0MS0 incòmode c/òmode__adj
 SOFTCATA: incòmode FORMES: AQ0CP0 incòmodes AQ0FS0 incòmoda AQ0MS0 incòmode adept/e__adj
 
-APERTIUM: lacrimogen FORMES: AQ0FP0 lacrimogenes AQ0FS0 lacrimogena AQ0MP0 lacrimogens AQ0MS0 lacrimogen absolut__adj
-SOFTCATA: lacrimogen FORMES: AQ0FP0 lacrimògenes AQ0FS0 lacrimògena AQ0MP0 lacrimògens AQ0MS0 lacrimogen ex/ogen__adj
-
-APERTIUM: lici FORMES: AQ0FP0 licies AQ0FS0 licia AQ0MP0 licis AQ0MS0 lici absolut__adj
-SOFTCATA: lici FORMES: AQ0FP0 lícies AQ0FS0 lícia AQ0MP0 licis AQ0MS0 lici fict/ici__adj
+APERTIUM: indie FORMES: AQ0CP0 indies AQ0CS0 indie abdominal__adj
+SOFTCATA: indie FORMES: AQ0CN0 indie multimèdia__adj
 
 APERTIUM: lluent FORMES: AQ0FP0 lluentes AQ0FS0 lluenta AQ0MP0 lluents AQ0MS0 lluent absolut__adj
 SOFTCATA: lluent FORMES: AQ0CP0 lluents AQ0CS0 lluent abdominal__adj
 
-APERTIUM: morisc FORMES: AQ0FP0 morisques AQ0FS0 morisca AQ0MP0 moriscs AQ0MS0 morisc acadèmi/c__adj
-SOFTCATA: morisc FORMES: AQ0FP0 morisques AQ0FS0 morisca AQ0MP0 moriscos AQ0MP0 moriscs AQ0MS0 morisc bas/c__adj
-
 APERTIUM: multiús FORMES: AQ0CP0 multiusos AQ0CS0 multiús multi/ús__adj
 SOFTCATA: multiús FORMES: AQ0CN0 multiús multimèdia__adj
-
-APERTIUM: nadiu FORMES: AQ0FP0 nadives AQ0FS0 nadiva AQ0MP0 nadius AQ0MS0 nadiu abusi/u__adj
-SOFTCATA: nadiu FORMES: AQ0FP0 nadiues AQ0FS0 nadiua AQ0MP0 nadius AQ0MS0 nadiu absolut__adj
-
-APERTIUM: nat FORMES: AQ0FP0 nates AQ0FS0 nata AQ0MP0 nats AQ0MS0 nat absolut__adj
-SOFTCATA: nat FORMES: AQ0FP0 nades AQ0FS0 nada AQ0MP0 nats AQ0MS0 nat triparti/t__adj
-
-APERTIUM: nucleic FORMES: AQ0FP0 nucleïques AQ0FS0 nucleïca AQ0MP0 nucleics AQ0MS0 nucleic arca/ic__adj
-SOFTCATA: nucleic FORMES: AQ0CP0 nucleics AQ0CS0 nucleic abdominal__adj
-
-APERTIUM: oleic FORMES: AQ0FP0 oleïques AQ0FS0 oleïca AQ0MP0 oleics AQ0MS0 oleic arca/ic__adj
-SOFTCATA: oleic FORMES: AQ0FP0 oleiques AQ0FS0 oleica AQ0MP0 oleics AQ0MS0 oleic acadèmi/c__adj
-
-APERTIUM: perplex FORMES: AQ0FP0 perplexes AQ0FS0 perplexa AQ0MP0 perplexs AQ0MS0 perplex absolut__adj
-SOFTCATA: perplex FORMES: AQ0FP0 perplexes AQ0FS0 perplexa AQ0MP0 perplexos AQ0MS0 perplex annex__adj
-
-APERTIUM: pertinaç FORMES: AQ0FP0 pertinaces AQ0FS0 pertinaça AQ0MP0 pertinaços AQ0MP0 pertinaçs AQ0MS0 pertinaç descal/ç__adj
-SOFTCATA: pertinaç FORMES: AQ0CS0 pertinaç AQ0FP0 pertinaces AQ0MP0 pertinaços preco/ç__adj
-
-APERTIUM: picaresc FORMES: AQ0FP0 picaresques AQ0FS0 picaresca AQ0MP0 picarescs AQ0MS0 picaresc acadèmi/c__adj
-SOFTCATA: picaresc FORMES: AQ0FP0 picaresques AQ0FS0 picaresca AQ0MP0 picarescos AQ0MP0 picarescs AQ0MS0 picaresc bas/c__adj
-
-APERTIUM: pintoresc FORMES: AQ0FP0 pintoresques AQ0FS0 pintoresca AQ0MP0 pintorescs AQ0MS0 pintoresc acadèmi/c__adj
-SOFTCATA: pintoresc FORMES: AQ0FP0 pintoresques AQ0FS0 pintoresca AQ0MP0 pintorescos AQ0MP0 pintorescs AQ0MS0 pintoresc bas/c__adj
-
-APERTIUM: plateresc FORMES: AQ0FP0 plateresques AQ0FS0 plateresca AQ0MP0 platerescs AQ0MS0 plateresc acadèmi/c__adj
-SOFTCATA: plateresc FORMES: AQ0FP0 plateresques AQ0FS0 plateresca AQ0MP0 platerescos AQ0MP0 platerescs AQ0MS0 plateresc bas/c__adj
-
-APERTIUM: ronc FORMES: AQ0FP0 ronces AQ0FS0 ronca AQ0MP0 roncs AQ0MS0 ronc absolut__adj
-SOFTCATA: ronc FORMES: AQ0FP0 ronques AQ0FS0 ronca AQ0MP0 roncs AQ0MS0 ronc acadèmi/c__adj
 
 APERTIUM: rosa FORMES: AQ0CP0 roses AQ0CS0 rosa agrícol/a__adj
 SOFTCATA: rosa FORMES: AQ0CN0 rosa multimèdia__adj
@@ -109,17 +43,8 @@ SOFTCATA: rosa FORMES: AQ0CN0 rosa multimèdia__adj
 APERTIUM: roí FORMES: AQ0FP0 roïnes AQ0FS0 roïna AQ0MP0 roïns AQ0MS0 roí AQ0MS0 roín ro/í__adj
 SOFTCATA: roí FORMES: AQ0FP0 roïnes AQ0FS0 roïna AQ0MP0 roïns AQ0MS0 roí genu/í__adj
 
-APERTIUM: submís FORMES: AQ0FP0 submisses AQ0FS0 submissa AQ0MP0 submissos AQ0MS0 submís cast/ís__adj
-SOFTCATA: submís FORMES: AQ0FP0 submises AQ0FS0 submisa AQ0MP0 submisos AQ0MS0 submís imprec/ís__adj
-
 APERTIUM: taronja FORMES: AQ0CP0 taronges AQ0CS0 taronja taron/ja__adj
 SOFTCATA: taronja FORMES: AQ0CN0 taronja multimèdia__adj
-
-APERTIUM: tosc FORMES: AQ0FP0 tosques AQ0FS0 tosca AQ0MP0 toscs AQ0MS0 tosc acadèmi/c__adj
-SOFTCATA: tosc FORMES: AQ0FP0 tosques AQ0FS0 tosca AQ0MP0 toscos AQ0MP0 toscs AQ0MS0 tosc bas/c__adj
-
-APERTIUM: trocaic FORMES: AQ0FP0 trocaïques AQ0FS0 trocaïca AQ0MP0 trocaics AQ0MS0 trocaic arca/ic__adj
-SOFTCATA: trocaic FORMES: AQ0FP0 trocaiques AQ0FS0 trocaica AQ0MP0 trocaics AQ0MS0 trocaic acadèmi/c__adj
 
 APERTIUM: violeta FORMES: AQ0CP0 violetes AQ0CS0 violeta agrícol/a__adj
 SOFTCATA: violeta FORMES: AQ0CN0 violeta multimèdia__adj
