@@ -340,9 +340,6 @@ SOFTCATA: exponent FORMES: NCMP000 exponents NCMS000 exponent abric__n
 APERTIUM: facultatiu FORMES: NCFP000 facultatives NCFS000 facultativa NCMP000 facultatius NCMS000 facultatiu administrati/u__n
 SOFTCATA: facultatiu FORMES: NCMP000 facultatius NCMS000 facultatiu abric__n
 
-APERTIUM: faller FORMES: NCFP000 falleres NCFS000 fallera NCMP000 fallers NCMS000 faller senyor__n
-SOFTCATA: faller FORMES: NCMP000 fallers NCMS000 faller abric__n
-
 APERTIUM: faraó FORMES: NCMP000 faraons NCMS000 faraó aband/ó__n
 SOFTCATA: faraó FORMES: NCFP000 faraones NCFS000 faraona NCMP000 faraons NCMS000 faraó amfitri/ó__n
 
@@ -1695,9 +1692,6 @@ SOFTCATA: vencedor FORMES: NCMP000 vencedors NCMS000 vencedor abric__n
 
 APERTIUM: venedor FORMES: NCFP000 venedores NCFS000 venedora NCMP000 venedors NCMS000 venedor senyor__n
 SOFTCATA: venedor FORMES: NCMP000 venedors NCMS000 venedor abric__n
-
-APERTIUM: veneçolà FORMES: NCFP000 veneçolanes NCFS000 veneçolana NCMP000 veneçolans NCMS000 veneçolà americ/à__n
-SOFTCATA: veneçolà FORMES: NCMP000 veneçolans NCMS000 veneçolà bacall/à__n
 
 APERTIUM: verificador FORMES: NCFP000 verificadores NCFS000 verificadora NCMP000 verificadors NCMS000 verificador senyor__n
 SOFTCATA: verificador FORMES: NCMP000 verificadors NCMS000 verificador abric__n
