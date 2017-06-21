@@ -337,26 +337,11 @@ SOFTCATA: esquaix FORMES: NCMP000 esquaixos NCMS000 esquaix as__n
 APERTIUM: exponent FORMES: NCCP000 exponents NCCS000 exponent acompanyant__n
 SOFTCATA: exponent FORMES: NCMP000 exponents NCMS000 exponent abric__n
 
-APERTIUM: facultatiu FORMES: NCFP000 facultatives NCFS000 facultativa NCMP000 facultatius NCMS000 facultatiu administrati/u__n
-SOFTCATA: facultatiu FORMES: NCMP000 facultatius NCMS000 facultatiu abric__n
-
 APERTIUM: faraó FORMES: NCMP000 faraons NCMS000 faraó aband/ó__n
 SOFTCATA: faraó FORMES: NCFP000 faraones NCFS000 faraona NCMP000 faraons NCMS000 faraó amfitri/ó__n
 
-APERTIUM: farmacèutic FORMES: NCFP000 farmacèutiques NCFS000 farmacèutica NCMP000 farmacèutics NCMS000 farmacèutic asiàti/c__n
-SOFTCATA: farmacèutic FORMES: NCMP000 farmacèutics NCMS000 farmacèutic abric__n
-
 APERTIUM: fava FORMES: NCFP000 faves NCFS000 fava abell/a__n
 SOFTCATA: fava FORMES: NCCP000 faves NCCS000 fava accionist/a__n
-
-APERTIUM: feligrès FORMES: NCFP000 feligreses NCFS000 feligresa NCMP000 feligresos NCMS000 feligrès NCMS000 feligrés angl/ès__n
-SOFTCATA: feligrès FORMES: NCMP000 feligresos NCMS000 feligrès NCMS000 feligrés impr/ès__n
-
-APERTIUM: ferit FORMES: NCFP000 ferides NCFS000 ferida NCMP000 ferits NCMS000 ferit advoca/t__n
-SOFTCATA: ferit FORMES: NCMP000 ferits NCMS000 ferit abric__n
-
-APERTIUM: ferrer FORMES: NCFP000 ferreres NCFS000 ferrera NCMP000 ferrers NCMS000 ferrer senyor__n
-SOFTCATA: ferrer FORMES: NCMP000 ferrers NCMS000 ferrer abric__n
 
 APERTIUM: ferreter FORMES: NCFP000 ferreteres NCFS000 ferretera NCMP000 ferreters NCMS000 ferreter senyor__n
 SOFTCATA: ferreter FORMES: NCMP000 ferreters NCMS000 ferreter abric__n
@@ -364,98 +349,20 @@ SOFTCATA: ferreter FORMES: NCMP000 ferreters NCMS000 ferreter abric__n
 APERTIUM: fervor FORMES: NCMP000 fervors NCMS000 fervor abric__n
 SOFTCATA: fervor FORMES: NCCP000 fervors NCCS000 fervor acompanyant__n
 
-APERTIUM: fester FORMES: NCFP000 festeres NCFS000 festera NCMP000 festers NCMS000 fester senyor__n
-SOFTCATA: fester FORMES: NCMP000 festers NCMS000 fester abric__n
-
 APERTIUM: fideïcomissari FORMES: NCFP000 fideïcomissàries NCFS000 fideïcomissària NCMP000 fideïcomissaris NCMS000 fideïcomissari adjudicat/ari__n
 SOFTCATA: fideïcomissari FORMES: NCMP000 fideïcomissaris NCMS000 fideïcomissari abric__n
-
-APERTIUM: filantrop FORMES: NCFP000 filantropes NCFS000 filantropa NCMP000 filantrops NCMS000 filantrop senyor__n
-SOFTCATA: filantrop FORMES: NCMP000 filantrops NCMS000 filantrop abric__n
-
-APERTIUM: filipí FORMES: NCFP000 filipines NCFS000 filipina NCMP000 filipins NCMS000 filipí alacant/í__n
-SOFTCATA: filipí FORMES: NCMP000 filipins NCMS000 filipí boc/í__n
-
-APERTIUM: fill FORMES: NCFP000 filles NCFS000 filla NCMP000 fills NCMS000 fill senyor__n
-SOFTCATA: fill FORMES: NCMP000 fills NCMS000 fill abric__n
-
-APERTIUM: filòsof FORMES: NCFP000 filòsofes NCFS000 filòsofa NCMP000 filòsofs NCMS000 filòsof senyor__n
-SOFTCATA: filòsof FORMES: NCMP000 filòsofs NCMS000 filòsof abric__n
 
 APERTIUM: final FORMES: NCMP000 finals NCMS000 final abric__n
 SOFTCATA: final FORMES: NCCP000 finals NCCS000 final acompanyant__n
 
-APERTIUM: flaix FORMES: NCMP000 flaixos NCMP000 flaixs NCMS000 flaix abast__n
-SOFTCATA: flaix FORMES: NCMP000 flaixos NCMS000 flaix as__n
-
-APERTIUM: flamenc FORMES: NCFP000 flamenques NCFS000 flamenca NCMP000 flamencs NCMS000 flamenc asiàti/c__n
-SOFTCATA: flamenc FORMES: NCMP000 flamencs NCMS000 flamenc abric__n
-
-APERTIUM: fleix FORMES: NCMP000 fleixos NCMP000 fleixs NCMS000 fleix abast__n
-SOFTCATA: fleix FORMES: NCMP000 fleixos NCMS000 fleix as__n
-
-APERTIUM: flirteig FORMES: NCMP000 flirteigs NCMS000 flirteig abric__n
-SOFTCATA: flirteig FORMES: NCMP000 flirteigs NCMP000 flirtejos NCMS000 flirteig assa/ig__n
-
-APERTIUM: fluix FORMES: NCMP000 fluixos NCMP000 fluixs NCMS000 fluix abast__n
-SOFTCATA: fluix FORMES: NCMP000 fluixos NCMS000 fluix as__n
-
-APERTIUM: fonedor FORMES: NCFP000 fonedores NCFS000 fonedora NCMP000 fonedors NCMS000 fonedor senyor__n
-SOFTCATA: fonedor FORMES: NCMP000 fonedors NCMS000 fonedor abric__n
-
-APERTIUM: foniatre FORMES: NCCP000 foniatres NCFS000 foniatra NCMS000 foniatre addict/e__n
-SOFTCATA: foniatre FORMES: NCMP000 foniatres NCMS000 foniatre abric__n
-
-APERTIUM: foraster FORMES: NCFP000 forasteres NCFS000 forastera NCMP000 forasters NCMS000 foraster senyor__n
-SOFTCATA: foraster FORMES: NCMP000 forasters NCMS000 foraster abric__n
-
-APERTIUM: forjador FORMES: NCFP000 forjadores NCFS000 forjadora NCMP000 forjadors NCMS000 forjador senyor__n
-SOFTCATA: forjador FORMES: NCMP000 forjadors NCMS000 forjador abric__n
-
-APERTIUM: formador FORMES: NCFP000 formadores NCFS000 formadora NCMP000 formadors NCMS000 formador senyor__n
-SOFTCATA: formador FORMES: NCMP000 formadors NCMS000 formador abric__n
-
-APERTIUM: formatger FORMES: NCFP000 formatgeres NCFS000 formatgera NCMP000 formatgers NCMS000 formatger senyor__n
-SOFTCATA: formatger FORMES: NCMP000 formatgers NCMS000 formatger abric__n
-
-APERTIUM: forner FORMES: NCFP000 forneres NCFS000 fornera NCMP000 forners NCMS000 forner senyor__n
-SOFTCATA: forner FORMES: NCMP000 forners NCMS000 forner abric__n
-
 APERTIUM: fragor FORMES: NCMP000 fragors NCMS000 fragor abric__n
 SOFTCATA: fragor FORMES: NCCP000 fragors NCCS000 fragor acompanyant__n
-
-APERTIUM: franc FORMES: NCFP000 frances NCFS000 franca NCMP000 francs NCMS000 franc senyor__n
-SOFTCATA: franc FORMES: NCMP000 francs NCMS000 franc abric__n
-
-APERTIUM: franci FORMES: NCMN000 franci campus__n
-SOFTCATA: franci FORMES: NCMP000 francis NCMS000 franci abric__n
-
-APERTIUM: franciscà FORMES: NCFP000 franciscanes NCFS000 franciscana NCMP000 franciscans NCMS000 franciscà americ/à__n
-SOFTCATA: franciscà FORMES: NCMP000 franciscans NCMS000 franciscà bacall/à__n
-
-APERTIUM: fresc FORMES: NCMP000 frescs NCMS000 fresc abric__n
-SOFTCATA: fresc FORMES: NCMP000 frescos NCMP000 frescs NCMS000 fresc abast__n
 
 APERTIUM: fulgor FORMES: NCMP000 fulgors NCMS000 fulgor abric__n
 SOFTCATA: fulgor FORMES: NCCP000 fulgors NCCS000 fulgor acompanyant__n
 
-APERTIUM: fundador FORMES: NCFP000 fundadores NCFS000 fundadora NCMP000 fundadors NCMS000 fundador senyor__n
-SOFTCATA: fundador FORMES: NCMP000 fundadors NCMS000 fundador abric__n
-
-APERTIUM: fungicida FORMES: NCCP000 fungicides NCCS000 fungicida accionist/a__n
-SOFTCATA: fungicida FORMES: NCMP000 fungicides NCMS000 fungicida carism/a__n
-
-APERTIUM: fuster FORMES: NCFP000 fusteres NCFS000 fustera NCMP000 fusters NCMS000 fuster senyor__n
-SOFTCATA: fuster FORMES: NCMP000 fusters NCMS000 fuster abric__n
-
 APERTIUM: futbol FORMES: NCMS000 futbol atletisme__n
 SOFTCATA: futbol FORMES: NCMP000 futbols NCMS000 futbol abric__n
-
-APERTIUM: fènix FORMES: NCMS000 fènix atletisme__n
-SOFTCATA: fènix FORMES: NCMP000 fènixs NCMS000 fènix abric__n
-
-APERTIUM: fúcsia FORMES: NCFP000 fúcsies NCFS000 fúcsia abell/a__n
-SOFTCATA: fúcsia FORMES: NCCP000 fúcsies NCCS000 fúcsia accionist/a__n
 
 APERTIUM: fúting FORMES: NCMS000 fúting atletisme__n
 SOFTCATA: fúting FORMES: NCMP000 fútings NCMS000 fúting abric__n
@@ -463,47 +370,17 @@ SOFTCATA: fúting FORMES: NCMP000 fútings NCMS000 fúting abric__n
 APERTIUM: gai FORMES: NCCP000 gais NCCS000 gai acompanyant__n
 SOFTCATA: gai FORMES: NCMP000 gais NCMS000 gai abric__n
 
-APERTIUM: gal FORMES: NCFP000 gal·les NCFS000 gal·la NCMP000 gals NCMS000 gal gal__n
-SOFTCATA: gal FORMES: NCMP000 gals NCMS000 gal abric__n
-
-APERTIUM: galga FORMES: NCFP000 galges NCFS000 galga abell/a__n
-SOFTCATA: galga FORMES: NCFP000 galgues NCFS000 galga alg/a__n
-
 APERTIUM: galliner FORMES: NCMP000 galliners NCMS000 galliner abric__n
 SOFTCATA: galliner FORMES: NCFP000 gallineres NCFS000 gallinera NCMP000 galliners NCMS000 galliner senyor__n
 
-APERTIUM: gastrònom FORMES: NCFP000 gastrònomes NCFS000 gastrònoma NCMP000 gastrònoms NCMS000 gastrònom senyor__n
-SOFTCATA: gastrònom FORMES: NCMP000 gastrònoms NCMS000 gastrònom abric__n
-
-APERTIUM: gendarme FORMES: NCMP000 gendarmes NCMS000 gendarme abric__n
-SOFTCATA: gendarme FORMES: NCCP000 gendarmes NCCS000 gendarme acompanyant__n
-
-APERTIUM: generador FORMES: NCFP000 generadores NCFS000 generadora NCMP000 generadors NCMS000 generador senyor__n
-SOFTCATA: generador FORMES: NCMP000 generadors NCMS000 generador abric__n
-
 APERTIUM: genet FORMES: NCCP000 genets NCCS000 genet acompanyant__n
-SOFTCATA: genet FORMES: NCMP000 genets NCMS000 genet abric__n
+SOFTCATA: genet FORMES: NCFP000 genetes NCFS000 geneta NCMP000 genets NCMS000 genet senyor__n
 
 APERTIUM: gentilhome FORMES: NCMP000 gentilhomes NCMS000 gentilhome abric__n
 SOFTCATA: gentilhome FORMES: NCMP000 gentilhomes NCMP000 gentilhòmens NCMS000 gentilhome h/ome__n
 
-APERTIUM: geriatre FORMES: NCCP000 geriatres NCFS000 geriatra NCMS000 geriatre addict/e__n
-SOFTCATA: geriatre FORMES: NCMP000 geriatres NCMS000 geriatre abric__n
-
-APERTIUM: germanastre FORMES: NCCP000 germanastres NCFS000 germanastra NCMS000 germanastre addict/e__n
-SOFTCATA: germanastre FORMES: NCMP000 germanastres NCMS000 germanastre abric__n
-
-APERTIUM: germà FORMES: NCFP000 germanes NCFS000 germana NCMP000 germans NCMS000 germà americ/à__n
-SOFTCATA: germà FORMES: NCMP000 germans NCMS000 germà bacall/à__n
-
 APERTIUM: gestor FORMES: NCFP000 gestores NCFS000 gestora NCMP000 gestors NCMS000 gestor senyor__n
 SOFTCATA: gestor FORMES: NCMP000 gestors NCMS000 gestor abric__n
-
-APERTIUM: geògraf FORMES: NCFP000 geògrafes NCFS000 geògrafa NCMP000 geògrafs NCMS000 geògraf senyor__n
-SOFTCATA: geògraf FORMES: NCMP000 geògrafs NCMS000 geògraf abric__n
-
-APERTIUM: gimnoblast FORMES: NCMP000 gimnoblasts NCMS000 gimnoblast abric__n
-SOFTCATA: gimnoblast FORMES: NCMP000 gimnoblastos NCMP000 gimnoblasts NCMS000 gimnoblast abast__n
 
 APERTIUM: glòria FORMES: NCFP000 glòries NCFS000 glòria abell/a__n
 SOFTCATA: glòria FORMES: NCCP000 glòries NCCS000 glòria accionist/a__n
@@ -529,15 +406,6 @@ SOFTCATA: graduat FORMES: NCMP000 graduats NCMS000 graduat abric__n
 APERTIUM: grec FORMES: NCFP000 gregues NCFS000 grega NCMP000 grecs NCMS000 grec ami/c__n
 SOFTCATA: grec FORMES: NCMP000 grecs NCMS000 grec abric__n
 
-APERTIUM: greix FORMES: NCMP000 greixos NCMP000 greixs NCMS000 greix abast__n
-SOFTCATA: greix FORMES: NCMP000 greixos NCMS000 greix as__n
-
-APERTIUM: grossor FORMES: NCMP000 grossors NCMS000 grossor abric__n
-SOFTCATA: grossor FORMES: NCFP000 grossors NCFS000 grossor accessibilitat__n
-
-APERTIUM: gruix FORMES: NCMP000 gruixos NCMP000 gruixs NCMS000 gruix abast__n
-SOFTCATA: gruix FORMES: NCMP000 gruixos NCMS000 gruix as__n
-
 APERTIUM: grumet FORMES: NCMP000 grumets NCMS000 grumet abric__n
 SOFTCATA: grumet FORMES: NCCP000 grumets NCCS000 grumet acompanyant__n
 
@@ -556,14 +424,8 @@ SOFTCATA: guia FORMES: NCCP000 guies NCCS000 guia accionist/a__n
 APERTIUM: gènesi FORMES: NCCP000 gènesis NCCS000 gènesi acompanyant__n
 SOFTCATA: gènesi FORMES: NCFP000 gènesis NCFS000 gènesi accessibilitat__n
 
-APERTIUM: haixix FORMES: NCMN000 haixix campus__n
-SOFTCATA: haixix FORMES: NCMP000 haixixs NCMS000 haixix abric__n
-
 APERTIUM: handbol FORMES: NCMS000 handbol atletisme__n
 SOFTCATA: handbol FORMES: NCMP000 handbols NCMS000 handbol abric__n
-
-APERTIUM: hendecasíl·lab FORMES: NCFP000 hendecasíl·labes NCFS000 hendecasíl·laba NCMP000 hendecasíl·labs NCMS000 hendecasíl·lab senyor__n
-SOFTCATA: hendecasíl·lab FORMES: NCMP000 hendecasíl·labs NCMS000 hendecasíl·lab abric__n
 
 APERTIUM: hereu FORMES: NCFP000 hereves NCFS000 hereva NCMP000 hereus NCMS000 hereu administrati/u__n
 SOFTCATA: hereu FORMES: NCMP000 hereus NCMS000 hereu abric__n
@@ -577,14 +439,8 @@ SOFTCATA: heroïna FORMES: NCFP000 heroïnes NCFS000 heroïna abell/a__n
 APERTIUM: hertz FORMES: NCMN000 hertz campus__n
 SOFTCATA: hertz FORMES: NCMP000 hertzs NCMS000 hertz abric__n
 
-APERTIUM: hibisc FORMES: NCMP000 hibiscs NCMS000 hibisc abric__n
-SOFTCATA: hibisc FORMES: NCMP000 hibiscos NCMP000 hibiscs NCMS000 hibisc abast__n
-
 APERTIUM: hindi FORMES: NCMS000 hindi atletisme__n
 SOFTCATA: hindi FORMES: NCMP000 hindis NCMS000 hindi abric__n
-
-APERTIUM: hipòcrita FORMES: NCFP000 hipòcrites NCFS000 hipòcrita abell/a__n
-SOFTCATA: hipòcrita FORMES: NCCP000 hipòcrites NCCS000 hipòcrita accionist/a__n
 
 APERTIUM: hisendat FORMES: NCFP000 hisendades NCFS000 hisendada NCMP000 hisendats NCMS000 hisendat advoca/t__n
 SOFTCATA: hisendat FORMES: NCMP000 hisendats NCMS000 hisendat abric__n
@@ -594,9 +450,6 @@ SOFTCATA: hispà FORMES: NCMP000 hispans NCMS000 hispà bacall/à__n
 
 APERTIUM: historiador FORMES: NCFP000 historiadores NCFS000 historiadora NCMP000 historiadors NCMS000 historiador senyor__n
 SOFTCATA: historiador FORMES: NCMP000 historiadors NCMS000 historiador abric__n
-
-APERTIUM: holocaust FORMES: NCMP000 holocausts NCMS000 holocaust abric__n
-SOFTCATA: holocaust FORMES: NCMP000 holocaustos NCMP000 holocausts NCMS000 holocaust abast__n
 
 APERTIUM: homogeneïtzador FORMES: NCFP000 homogeneïtzadores NCFS000 homogeneïtzadora NCMP000 homogeneïtzadors NCMS000 homogeneïtzador senyor__n
 SOFTCATA: homogeneïtzador FORMES: NCMP000 homogeneïtzadors NCMS000 homogeneïtzador abric__n
@@ -625,23 +478,14 @@ SOFTCATA: il·licità FORMES: NCMP000 il·licitans NCMS000 il·licità bacall/à
 APERTIUM: impressor FORMES: NCFP000 impressores NCFS000 impressora NCMP000 impressors NCMS000 impressor senyor__n
 SOFTCATA: impressor FORMES: NCMP000 impressors NCMS000 impressor abric__n
 
-APERTIUM: imprevist FORMES: NCMP000 imprevists NCMS000 imprevist abric__n
-SOFTCATA: imprevist FORMES: NCMP000 imprevistos NCMP000 imprevists NCMS000 imprevist abast__n
-
 APERTIUM: incrèdul FORMES: NCFP000 incrèdules NCFS000 incrèdula NCMP000 incrèduls NCMS000 incrèdul senyor__n
 SOFTCATA: incrèdul FORMES: NCMP000 incrèduls NCMS000 incrèdul abric__n
-
-APERTIUM: individu FORMES: NCFP000 indivídues NCFS000 indivídua NCMP000 individus NCMS000 individu indiv/idu__n
-SOFTCATA: individu FORMES: NCMP000 individus NCMS000 individu abric__n
 
 APERTIUM: infant FORMES: NCFP000 infantes NCFS000 infanta NCMP000 infants NCMS000 infant senyor__n
 SOFTCATA: infant FORMES: NCMP000 infants NCMS000 infant abric__n
 
 APERTIUM: infermer FORMES: NCFP000 infermeres NCFS000 infermera NCMP000 infermers NCMS000 infermer senyor__n
 SOFTCATA: infermer FORMES: NCMP000 infermers NCMS000 infermer abric__n
-
-APERTIUM: infix FORMES: NCMP000 infixos NCMP000 infixs NCMS000 infix abast__n
-SOFTCATA: infix FORMES: NCMP000 infixos NCMS000 infix as__n
 
 APERTIUM: informàtic FORMES: NCFP000 informàtiques NCFS000 informàtica NCMP000 informàtics NCMS000 informàtic asiàti/c__n
 SOFTCATA: informàtic FORMES: NCMP000 informàtics NCMS000 informàtic abric__n
@@ -667,9 +511,6 @@ SOFTCATA: institutor FORMES: NCMP000 institutors NCMS000 institutor abric__n
 APERTIUM: instructor FORMES: NCFP000 instructores NCFS000 instructora NCMP000 instructors NCMS000 instructor senyor__n
 SOFTCATA: instructor FORMES: NCMP000 instructors NCMS000 instructor abric__n
 
-APERTIUM: intereix FORMES: NCMP000 intereixos NCMP000 intereixs NCMS000 intereix abast__n
-SOFTCATA: intereix FORMES: NCMP000 intereixos NCMS000 intereix as__n
-
 APERTIUM: interessat FORMES: NCFP000 interessades NCFS000 interessada NCMP000 interessats NCMS000 interessat advoca/t__n
 SOFTCATA: interessat FORMES: NCMP000 interessats NCMS000 interessat abric__n
 
@@ -678,9 +519,6 @@ SOFTCATA: interlocutor FORMES: NCMP000 interlocutors NCMS000 interlocutor abric_
 
 APERTIUM: intern FORMES: NCFP000 internes NCFS000 interna NCMP000 interns NCMS000 intern senyor__n
 SOFTCATA: intern FORMES: NCMP000 interns NCMS000 intern abric__n
-
-APERTIUM: intrús FORMES: NCFP000 intruses NCFS000 intrusa NCMP000 intrusos NCMS000 intrús andal/ús__n
-SOFTCATA: intrús FORMES: NCMP000 intrusos NCMS000 intrús ab/ús__n
 
 APERTIUM: invasor FORMES: NCFP000 invasores NCFS000 invasora NCMP000 invasors NCMS000 invasor senyor__n
 SOFTCATA: invasor FORMES: NCMP000 invasors NCMS000 invasor abric__n
@@ -691,14 +529,8 @@ SOFTCATA: inventor FORMES: NCMP000 inventors NCMS000 inventor abric__n
 APERTIUM: inversor FORMES: NCFP000 inversores NCFS000 inversora NCMP000 inversors NCMS000 inversor senyor__n
 SOFTCATA: inversor FORMES: NCMP000 inversors NCMS000 inversor abric__n
 
-APERTIUM: investidura FORMES: NCFP000 investiduras NCFS000 investidura accessibilitat__n
-SOFTCATA: investidura FORMES: NCFP000 investidures NCFS000 investidura abell/a__n
-
 APERTIUM: investigador FORMES: NCFP000 investigadores NCFS000 investigadora NCMP000 investigadors NCMS000 investigador senyor__n
 SOFTCATA: investigador FORMES: NCMP000 investigadors NCMS000 investigador abric__n
-
-APERTIUM: ioga FORMES: NCMP000 ioges NCMS000 ioga carism/a__n
-SOFTCATA: ioga FORMES: NCMP000 iogues NCMS000 ioga meg/a__n
 
 APERTIUM: iranià FORMES: NCFP000 iranianes NCFS000 iraniana NCMP000 iranians NCMS000 iranià americ/à__n
 SOFTCATA: iranià FORMES: NCMP000 iranians NCMS000 iranià bacall/à__n
@@ -723,9 +555,6 @@ SOFTCATA: jardiner FORMES: NCMP000 jardiners NCMS000 jardiner abric__n
 
 APERTIUM: jazz FORMES: NCMN000 jazz campus__n
 SOFTCATA: jazz FORMES: NCMS000 jazz BBVA__n
-
-APERTIUM: jejú FORMES: NCMP000 jejús NCMS000 jejú abric__n
-SOFTCATA: jejú FORMES: NCMP000 jejuns NCMS000 jejú trib/ú__n
 
 APERTIUM: jornaler FORMES: NCFP000 jornaleres NCFS000 jornalera NCMP000 jornalers NCMS000 jornaler senyor__n
 SOFTCATA: jornaler FORMES: NCMP000 jornalers NCMS000 jornaler abric__n
@@ -762,9 +591,6 @@ SOFTCATA: lector FORMES: NCMP000 lectors NCMS000 lector abric__n
 
 APERTIUM: legislador FORMES: NCFP000 legisladores NCFS000 legisladora NCMP000 legisladors NCMS000 legislador senyor__n
 SOFTCATA: legislador FORMES: NCMP000 legisladors NCMS000 legislador abric__n
-
-APERTIUM: lehendakari FORMES: NCCP000 lehendakaris NCCS000 lehendakari acompanyant__n
-SOFTCATA: lehendakari FORMES: NCMP000 lehendakaris NCMS000 lehendakari abric__n
 
 APERTIUM: leprós FORMES: NCFP000 leproses NCFS000 leprosa NCMP000 leprosos NCMS000 leprós religi/ós__n
 SOFTCATA: leprós FORMES: NCMP000 leprosos NCMS000 leprós contenci/ós__n
@@ -805,9 +631,6 @@ SOFTCATA: lletrat FORMES: NCMP000 lletrats NCMS000 lletrat abric__n
 APERTIUM: lleó FORMES: NCFP000 lleones NCFS000 lleona NCMP000 lleons NCMS000 lleó amfitri/ó__n
 SOFTCATA: lleó FORMES: NCMP000 lleons NCMS000 lleó aband/ó__n
 
-APERTIUM: lli FORMES: NCMP000 llis NCMS000 lli abric__n
-SOFTCATA: lli FORMES: NCMP000 llins NCMS000 lli pa__n
-
 APERTIUM: llibertari FORMES: NCFP000 llibertàries NCFS000 llibertària NCMP000 llibertaris NCMS000 llibertari adjudicat/ari__n
 SOFTCATA: llibertari FORMES: NCMP000 llibertaris NCMS000 llibertari abric__n
 
@@ -831,9 +654,6 @@ SOFTCATA: llum FORMES: NCCP000 llums NCCS000 llum acompanyant__n
 
 APERTIUM: locutor FORMES: NCFP000 locutores NCFS000 locutora NCMP000 locutors NCMS000 locutor senyor__n
 SOFTCATA: locutor FORMES: NCMP000 locutors NCMS000 locutor abric__n
-
-APERTIUM: logística FORMES: NCFP000 logístices NCFS000 logística abell/a__n
-SOFTCATA: logística FORMES: NCFP000 logístiques NCFS000 logística acústi/ca__n
 
 APERTIUM: londinenc FORMES: NCFP000 londinenques NCFS000 londinenca NCMP000 londinencs NCMS000 londinenc asiàti/c__n
 SOFTCATA: londinenc FORMES: NCMP000 londinencs NCMS000 londinenc abric__n
@@ -865,9 +685,6 @@ SOFTCATA: mambo FORMES: NCMP000 mambos NCMS000 mambo abric__n
 APERTIUM: mandra FORMES: NCFP000 mandres NCFS000 mandra abell/a__n
 SOFTCATA: mandra FORMES: NCCP000 mandres NCCS000 mandra accionist/a__n
 
-APERTIUM: maniquí FORMES: NCMP000 maniquís NCMS000 maniquí abric__n
-SOFTCATA: maniquí FORMES: NCCP000 maniquins NCCS000 maniquí af/í__n
-
 APERTIUM: manxol FORMES: NCFP000 manxoles NCFS000 manxola NCMP000 manxols NCMS000 manxol senyor__n
 SOFTCATA: manxol FORMES: NCMP000 manxols NCMS000 manxol abric__n
 
@@ -882,9 +699,6 @@ SOFTCATA: marialluïsa FORMES: NCFP000 marialluïses NCFS000 marialluïsa abell/
 
 APERTIUM: mariner FORMES: NCFP000 marineres NCFS000 marinera NCMP000 mariners NCMS000 mariner senyor__n
 SOFTCATA: mariner FORMES: NCMP000 mariners NCMS000 mariner abric__n
-
-APERTIUM: marisc FORMES: NCMP000 mariscs NCMS000 marisc abric__n
-SOFTCATA: marisc FORMES: NCMP000 mariscos NCMP000 mariscs NCMS000 marisc abast__n
 
 APERTIUM: marmessor FORMES: NCFP000 marmessores NCFS000 marmessora NCMP000 marmessors NCMS000 marmessor senyor__n
 SOFTCATA: marmessor FORMES: NCMP000 marmessors NCMS000 marmessor abric__n
@@ -967,9 +781,6 @@ SOFTCATA: moneder FORMES: NCFP000 monederes NCFS000 monedera NCMP000 moneders NC
 APERTIUM: monitor FORMES: NCFP000 monitores NCFS000 monitora NCMP000 monitors NCMS000 monitor senyor__n
 SOFTCATA: monitor FORMES: NCMP000 monitors NCMS000 monitor abric__n
 
-APERTIUM: morisc FORMES: NCFP000 morisques NCFS000 morisca NCMP000 moriscs NCMS000 morisc asiàti/c__n
-SOFTCATA: morisc FORMES: NCMP000 moriscos NCMP000 moriscs NCMS000 morisc abast__n
-
 APERTIUM: moro FORMES: NCFP000 mores NCFS000 mora NCMP000 moros NCMS000 moro gitan/o__n
 SOFTCATA: moro FORMES: NCMP000 moros NCMS000 moro abric__n
 
@@ -1002,9 +813,6 @@ SOFTCATA: màrqueting FORMES: NCMP000 màrquetings NCMS000 màrqueting abric__n
 
 APERTIUM: músic FORMES: NCFP000 músiques NCFS000 música NCMP000 músics NCMS000 músic asiàti/c__n
 SOFTCATA: músic FORMES: NCMP000 músics NCMS000 músic abric__n
-
-APERTIUM: nadiu FORMES: NCFP000 nadives NCFS000 nadiva NCMP000 nadius NCMS000 nadiu administrati/u__n
-SOFTCATA: nadiu FORMES: NCMP000 nadius NCMS000 nadiu abric__n
 
 APERTIUM: nan FORMES: NCFP000 nanes NCFS000 nana NCMP000 nans NCMS000 nan senyor__n
 SOFTCATA: nan FORMES: NCMP000 nans NCMS000 nan abric__n
