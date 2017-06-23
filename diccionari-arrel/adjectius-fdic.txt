@@ -1,3 +1,4 @@
+#abrandat abrandada [sup. abrandadíssim]=categories: A;fonts: LT;
 #baador=categories: A;fonts: GDLC, arcaisme;
 #emperadora=categories: A;fonts: LT;
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
@@ -110,7 +111,7 @@ abortiu abortiva=categories: A;fonts: LT;
 abracadabrant=categories: A;fonts: LT;
 abrahàmic abrahàmica=categories: A;fonts: LT;
 abrainat abrainada=categories: A;fonts: LT;
-abrandat abrandada [sup. abrandadíssim]=categories: A;fonts: LT;
+abrandadíssim abrandadíssima=categories: AA;fonts: LT;
 abranquiat abranquiada=categories: A;fonts: LT;
 abrasador abrasadora=categories: A;fonts: LT;
 abrasant=categories: A;fonts: LT;
