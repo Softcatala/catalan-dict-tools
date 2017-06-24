@@ -1,3 +1,4 @@
+#aguar=categories: V;model:aguar;fonts:LT #antic i dialectal, crea confusions
 #coldre=categories: V;model:absoldre;fonts:LT
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
@@ -416,7 +417,6 @@ agrunsar=categories: V;model:cantar;fonts:LT
 agrupar=categories: V;model:cantar;fonts:LT
 aguaitar=categories: V;model:cantar;fonts:LT
 aguantar=categories: V;model:cantar;fonts:LT
-aguar=categories: V;model:aguar;fonts:LT
 aguardar=categories: V;model:cantar;fonts: DNV;
 aguditzar=categories: V;model:cantar;fonts:LT
 aguerrir=categories: V;model:servir;fonts:LT
