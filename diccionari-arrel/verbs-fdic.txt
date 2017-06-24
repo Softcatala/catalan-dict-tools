@@ -1,4 +1,5 @@
 #aguar=categories: V;model:aguar;fonts:LT #antic i dialectal, crea confusions
+#avortir=categories: V;model:servir;fonts:LT #antic
 #coldre=categories: V;model:absoldre;fonts:LT
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
@@ -1145,7 +1146,6 @@ avivar=categories: V;model:cantar;fonts:LT
 avocar=categories: V;model:trencar;fonts:LT
 avorrir=categories: V;model:servir;fonts:LT
 avortar=categories: V;model:cantar;fonts:LT
-avortir=categories: V;model:servir;fonts:LT
 axiomatitzar=categories: V;model:cantar;fonts:LT
 azotitzar=categories: V;model:cantar;fonts:LT
 aïllar=categories: V;model:cantar;fonts:LT
