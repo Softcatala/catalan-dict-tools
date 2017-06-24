@@ -11324,6 +11324,7 @@ Lampung Lampung NPCSG00
 Lanau Lanau NPCNSP0
 Lancaster Lancaster NPCNSP0
 Lancaster Lancaster NPCSG00
+Lancelot Lancelot NPMSSP0
 Lanciano Lanciano NPCSG00
 Landeberta Landeberta NPFSSP0
 Landebertes Landeberta NPFPSP0
@@ -18834,7 +18835,7 @@ Saxònia Saxònia NPFSG00
 Saxònia-Anhalt Saxònia-Anhalt NPCSG00
 Sayama Sayama NPCSG00
 Saïda Saïda NPCSG00
-Saïdia Saïdia NPCSG00
+Saïdia Saïdia NPFSG00
 Saüc Saüc NPCNSP0
 Saül Saül NPMSSP0
 Saüls Saül NPMPSP0
