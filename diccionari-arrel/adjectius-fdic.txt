@@ -13635,6 +13635,7 @@ intergenèric intergenèrica=categories: A;fonts: LT;
 interglacial=categories: A;fonts: LT;
 intergluti interglútia=categories: A;fonts: termcat;
 intergovernamental=categories: A;fonts: LT;
+intergranular=categories: A;fonts: termcat;
 intergrupal=categories: A;fonts: derivat;
 intergènic intergènica=categories: A;fonts: LT;
 interindividual=categories: A;fonts: LT;

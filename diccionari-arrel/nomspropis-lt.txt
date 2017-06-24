@@ -6251,6 +6251,7 @@ Crisògons Crisògon NPMPSP0
 Crisòstom Crisòstom NPMSSP0
 Crisòstoms Crisòstom NPMPSP0
 Crişana Crişana NPCSG00
+Crohn Crohn NPCNSP0
 Croix-Morand Croix-Morand NPFSG00
 Croix-de-Fer Croix-de-Fer NPFSG00
 Cromaci Cromaci NPMSSP0
@@ -7031,6 +7032,7 @@ Düren Düren NPCSG00
 Düsseldorf Düsseldorf NPMSG00
 Dāmodar Dāmodar NPCSG00
 Džezkazgan Džezkazgan NPCSG00
+ECTS ECTS NPCNO00
 EGB EGB NPFSO00
 EI EI NPMSO00
 ERC ERC NPFSO00
@@ -9732,6 +9734,7 @@ Guilar Guilar NPMSG00
 Guilart Guilart NPCNSP0
 Guildford Guildford NPCSG00
 Guilera Guilera NPCNSP0
+Guilgameix Guilgameix NPMSSP0
 Guilin Guilin NPCSG00
 Guilla Guilla NPCNSP0
 Guillaramon Guillaramon NPCNSP0
@@ -10334,6 +10337,7 @@ ICE ICE NPMSO00
 ICV ICV NPFSO00
 IEC IEC NPMSO00
 IJssel IJssel NPCSG00
+INE INE NPMSO00
 ISBN ISBN NPMNO00
 ISIL ISIL NPMSO00
 ISIS ISIS NPMSO00
@@ -10498,6 +10502,7 @@ Irenes Irene NPFPSP0
 Ireneu Ireneu NPMSSP0
 Ireneus Ireneu NPMPSP0
 IrfanView IrfanView NPCNO00
+Irina Irina NPFSSP0
 Iringa Iringa NPCSG00
 Irla Irla NPCNSP0
 Irlanda Irlanda NPFSG00
