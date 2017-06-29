@@ -7444,6 +7444,7 @@ didascàlic didascàlica=categories: A;fonts: LT;
 didentat didentada=categories: A;fonts: LT;
 didàctic didàctica=categories: A;fonts: LT;
 didínam didínama=categories: A;fonts: LT;
+diedre=categories: A;fonts: AVL;
 diegètic diegètica=categories: A;fonts: LT;
 dielèctric dielèctrica=categories: A;fonts: LT;
 dietarístic -a=categories: A;fonts: derivat;
