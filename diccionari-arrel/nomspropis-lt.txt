@@ -6580,6 +6580,7 @@ Deba Deba NPCSG00
 Debian Debian NPCNO00
 Debrecen Debrecen NPCSG00
 Debussy Debussy NPCNSP0
+Decameró Decameró NPMSO00
 Deciana Deciana NPCSG00
 Dedeu Dedeu NPCNSP0
 Dedza Dedza NPCSG00
