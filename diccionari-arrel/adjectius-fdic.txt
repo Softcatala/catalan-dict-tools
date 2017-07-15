@@ -769,6 +769,7 @@ aiguavivà aiguavivana=categories: A;fonts: LT;
 aiguós aiguosa=categories: A;fonts: LT;
 aigüeser aigüesera=categories: A;fonts: LT;
 aimara=categories: A;fonts: LT;
+ainu=categories: A;fonts: LT;
 ainuid ainuida=categories: A;fonts: LT;
 aioder aiodera=categories: A;fonts: LT;
 aiodà aiodana=categories: A;fonts: LT;
