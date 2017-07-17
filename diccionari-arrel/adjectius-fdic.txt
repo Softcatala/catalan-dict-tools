@@ -19671,6 +19671,7 @@ prehel·lènic prehel·lènica=categories: A;fonts: LT;
 prehispànic prehispànica=categories: A;fonts: LT;
 prehistòric prehistòrica=categories: A;fonts: LT;
 preimprès preimpresa=categories: A;fonts: LT;
+preindoeuropeu preindoeuropea=categories: A;fonts: derivat;
 preindustrial=categories: A;fonts: LT;
 preinfantil=categories: A;fonts: derivat;
 preinstal·lat preinstal·lada=categories: A;fonts: derivat;
