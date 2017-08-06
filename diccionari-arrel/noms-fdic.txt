@@ -21843,6 +21843,7 @@ emmandriment=categories: M;fonts: LT;
 emmanegament=categories: M;fonts: LT;
 emmanlleu=categories: M;fonts: LT;
 emmarament=categories: M;fonts: LT;
+emmarcador emmarcadora=categories: MF;fonts: DDLC;
 emmarcament=categories: M;fonts: LT;
 emmascara=categories: F;fonts: LT;
 emmascarament=categories: M;fonts: LT;
