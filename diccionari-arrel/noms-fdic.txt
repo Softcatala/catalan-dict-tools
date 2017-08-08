@@ -53175,6 +53175,7 @@ reductor=categories: M;fonts: LT;
 redundància=categories: F;fonts: LT;
 reduplicació=categories: F;fonts: LT;
 reduïment=categories: M;fonts: LT;
+redòs [pl. redossos]=categories: M;fonts: AVL;
 redós [pl. redossos]=categories: M;fonts: LT;
 redúvid=categories: M;fonts: LT;
 reedició=categories: F;fonts: LT;
