@@ -10710,6 +10710,7 @@ caiguda=categories: F;fonts: LT;
 caiman=categories: M;fonts: LT;
 caiot=categories: M;fonts: LT;
 caipirinha=categories: F;fonts: esadir;
+caipirinya=categories: F;fonts: DNV;
 cairat=categories: M;fonts: LT;
 caire=categories: M;fonts: LT;
 cairell=categories: M;fonts: LT;
