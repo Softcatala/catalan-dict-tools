@@ -10,3 +10,4 @@ resultats/release
 *.xpi
 #*
 target
+*.csv

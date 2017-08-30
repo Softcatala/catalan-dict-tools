@@ -25,6 +25,7 @@ API=categories: FI;fonts: softcatala, viquipedia;
 ARN=categories: MI;fonts: LT;
 ATS=categories: MFI;fonts: esadir;
 Apocalipsi=categories: M;fonts: GDLC;
+vall-llobreguenc vall-llobreguenca=categories: MF;fonts: AVL, GDLC;
 Botox=categories: MS;fonts: LT;
 CD-ROM=categories: MI;fonts: LT;
 CD=categories: MI;fonts: LT;
