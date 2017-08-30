@@ -49,6 +49,7 @@ administrativament administrativament RG
 admirablement admirablement RG
 admirativament admirativament RG
 adoloradament adoloradament RG
+adoloridament adoloridament RG
 adorablement adorablement RG
 adulatòriament adulatòriament RG
 adulterinament adulterinament RG
@@ -139,6 +140,7 @@ anualment anualment RG
 anyalment anyalment RG
 anàlogament anàlogament RG
 anàrquicament anàrquicament RG
+anèmicament anèmicament RG
 anímicament anímicament RG
 anòmalament anòmalament RG
 anònimament anònimament RG
@@ -157,6 +159,7 @@ apoteòsicament apoteòsicament RG
 apreciablement apreciablement RG
 apressadament apressadament RG
 apropiadament apropiadament RG
+aprovatòriament aprovatòriament RG
 aproximadament aproximadament RG
 aproximativament aproximativament RG
 aptament aptament RG
@@ -172,6 +175,7 @@ aristocràticament aristocràticament RG
 aritmèticament aritmèticament RG
 arquitectònicament arquitectònicament RG
 arravatadament arravatadament RG
+arredonidament arredonidament RG
 arregladament arregladament RG
 arreladament arreladament RG
 arriscadament arriscadament RG
@@ -200,6 +204,7 @@ astronòmicament astronòmicament RG
 astuciosament astuciosament RG
 astutament astutament RG
 atapeïdament atapeïdament RG
+atapidament atapidament RG
 atentament atentament RG
 atlèticament atlèticament RG
 atorrolladament atorrolladament RG
@@ -207,6 +212,7 @@ atractivament atractivament RG
 atrafegadament atrafegadament RG
 atrevidament atrevidament RG
 atriboladament atriboladament RG
+atribuladament atribuladament RG
 atributivament atributivament RG
 atropelladament atropelladament RG
 atrotinadament atrotinadament RG
@@ -324,6 +330,7 @@ circularment circularment RG
 circumspectament circumspectament RG
 circumstanciadament circumstanciadament RG
 circumstancialment circumstancialment RG
+cismàticament cismàticament RG
 civilitzadament civilitzadament RG
 civilment civilment RG
 clamorosament clamorosament RG
@@ -462,6 +469,7 @@ correlativament correlativament RG
 correntment correntment RG
 corresponentment corresponentment RG
 corrompudament corrompudament RG
+corrosivament corrosivament RG
 corruptament corruptament RG
 cortesament cortesament RG
 costosament costosament RG
@@ -484,6 +492,7 @@ crònicament crònicament RG
 cuitadament cuitadament RG
 cuitosament cuitosament RG
 culinàriament culinàriament RG
+culpablement culpablement RG
 cultament cultament RG
 culturalment culturalment RG
 cumulativament cumulativament RG
@@ -491,6 +500,7 @@ curialment curialment RG
 curiosament curiosament RG
 curosament curosament RG
 curtament curtament RG
+càlidament càlidament RG
 càndidament càndidament RG
 càusticament càusticament RG
 cèlebrement cèlebrement RG
@@ -522,13 +532,17 @@ delerosament delerosament RG
 deliberadament deliberadament RG
 delicadament delicadament RG
 deliciosament deliciosament RG
+delitablement delitablement RG
 delitosament delitosament RG
 delusòriament delusòriament RG
 demagògicament demagògicament RG
 demesiadament demesiadament RG
 democràticament democràticament RG
 demogràficament demogràficament RG
+demostrablement demostrablement RG
 demostrativament demostrativament RG
+denigrativament denigrativament RG
+denominativament denominativament RG
 densament densament RG
 dependentment dependentment RG
 deplorablement deplorablement RG
@@ -543,6 +557,7 @@ desacuradament desacuradament RG
 desafinadament desafinadament RG
 desafortunadament desafortunadament RG
 desagradablement desagradablement RG
+desagraïdament desagraïdament RG
 desairosament desairosament RG
 desanimadament desanimadament RG
 desapassionadament desapassionadament RG
@@ -553,6 +568,7 @@ desaprofitadament desaprofitadament RG
 desarregladament desarregladament RG
 desarticuladament desarticuladament RG
 desassenyadament desassenyadament RG
+desassossegadament desassossegadament RG
 desastradament desastradament RG
 desastrosament desastrosament RG
 desastrugament desastrugament RG
@@ -572,6 +588,7 @@ descompassadament descompassadament RG
 descompostament descompostament RG
 desconcertadament desconcertadament RG
 desconcertantment desconcertantment RG
+desconegudament desconegudament RG
 desconeixentment desconeixentment RG
 desconfiadament desconfiadament RG
 desconhortadament desconhortadament RG
@@ -581,6 +598,7 @@ desconvenientment desconvenientment RG
 descoratjadament descoratjadament RG
 descordadament descordadament RG
 descortesament descortesament RG
+descregudament descregudament RG
 descriptivament descriptivament RG
 descuidadament descuidadament RG
 descurosament descurosament RG
@@ -592,11 +610,13 @@ desencaminadament desencaminadament RG
 desencertadament desencertadament RG
 desencoratjadament desencoratjadament RG
 desenfrenadament desenfrenadament RG
+desenganyadament desenganyadament RG
 desenraonadament desenraonadament RG
 desentonadament desentonadament RG
 desesperadament desesperadament RG
 desesperadorament desesperadorament RG
 desfavorablement desfavorablement RG
+desficaciadament desficaciadament RG
 desficiosament desficiosament RG
 desfregadament desfregadament RG
 desgavelladament desgavelladament RG
@@ -612,19 +632,23 @@ deslleialment deslleialment RG
 deslluïdament deslluïdament RG
 desmanegadament desmanegadament RG
 desmesuradament desmesuradament RG
+desmoderadament desmoderadament RG
 desobedientment desobedientment RG
 desoladament desoladament RG
 desordenadament desordenadament RG
 desorganitzadament desorganitzadament RG
 despectivament despectivament RG
+despiadadament despiadadament RG
 despietadament despietadament RG
 desplaentment desplaentment RG
 desplegadament desplegadament RG
+despreocupadament despreocupadament RG
 desprevingudament desprevingudament RG
 desproporcionadament desproporcionadament RG
 despòticament despòticament RG
 destempradament destempradament RG
 destrament destrament RG
+destrellatadament destrellatadament RG
 destrempadament destrempadament RG
 destructivament destructivament RG
 desunidament desunidament RG
@@ -693,6 +717,7 @@ doctrinàriament doctrinàriament RG
 documentalment documentalment RG
 dogmàticament dogmàticament RG
 dolorosament dolorosament RG
+dolosament dolosament RG
 dolçament dolçament RG
 domèsticament domèsticament RG
 dramàticament dramàticament RG
@@ -750,6 +775,7 @@ emotivament emotivament RG
 empíricament empíricament RG
 encaridament encaridament RG
 encertadament encertadament RG
+encollidament encollidament RG
 encongidament encongidament RG
 endiabladament endiabladament RG
 endimoniadament endimoniadament RG
@@ -932,6 +958,7 @@ extremosament extremosament RG
 extrínsecament extrínsecament RG
 exuberantment exuberantment RG
 fabulosament fabulosament RG
+facciosament facciosament RG
 faceciosament faceciosament RG
 factíciament factíciament RG
 facultativament facultativament RG
@@ -949,6 +976,7 @@ fantàsticament fantàsticament RG
 fanàticament fanàticament RG
 farisaicament farisaicament RG
 fastigosament fastigosament RG
+fastijosament fastijosament RG
 fastuosament fastuosament RG
 fatalment fatalment RG
 fatigosament fatigosament RG
@@ -965,6 +993,7 @@ feixugament feixugament RG
 felinament felinament RG
 feliçment feliçment RG
 fellonament fellonament RG
+femeninament femeninament RG
 femenívolament femenívolament RG
 fenomenalment fenomenalment RG
 ferament ferament RG
@@ -1001,6 +1030,7 @@ fixament fixament RG
 flacament flacament RG
 flairosament flairosament RG
 flegmàticament flegmàticament RG
+flexiblement flexiblement RG
 flonjament flonjament RG
 floridament floridament RG
 fluidament fluidament RG
@@ -1012,16 +1042,20 @@ folgadament folgadament RG
 folklòricament folklòricament RG
 follament follament RG
 fonamentalment fonamentalment RG
+fondament fondament RG
 fonèticament fonèticament RG
+foralment foralment RG
 forcívolament forcívolament RG
 formalment formalment RG
 formidablement formidablement RG
+formulàriament formulàriament RG
 fortament fortament RG
 fortuïtament fortuïtament RG
 fortíssimament fortíssimament RG
 forçadament forçadament RG
 forçosament forçosament RG
 foscament foscament RG
+fosfòricament fosfòricament RG
 fotogràficament fotogràficament RG
 fotolitogràficament fotolitogràficament RG
 fragmentàriament fragmentàriament RG
@@ -1045,6 +1079,7 @@ fràgilment fràgilment RG
 frívolament frívolament RG
 fugaçment fugaçment RG
 fugisserament fugisserament RG
+fulminantment fulminantment RG
 funcionalment funcionalment RG
 funestament funestament RG
 furibundament furibundament RG
@@ -1061,9 +1096,11 @@ físicament físicament RG
 fúnebrement fúnebrement RG
 fútilment fútilment RG
 gaiament gaiament RG
+galanament galanament RG
 galantment galantment RG
 gallardament gallardament RG
 gansament gansament RG
+garridament garridament RG
 gasivament gasivament RG
 gastronòmicament gastronòmicament RG
 gegantescament gegantescament RG
@@ -1083,6 +1120,7 @@ geodèsicament geodèsicament RG
 geogràficament geogràficament RG
 geològicament geològicament RG
 geomètricament geomètricament RG
+geopolíticament geopolíticament RG
 germanívolament germanívolament RG
 ginyosament ginyosament RG
 glacialment glacialment RG
@@ -1106,6 +1144,7 @@ gratament gratament RG
 gratuïtament gratuïtament RG
 gregàriament gregàriament RG
 greument greument RG
+grisament grisament RG
 grollerament grollerament RG
 grossament grossament RG
 grosserament grosserament RG
@@ -1121,6 +1160,9 @@ hereticalment hereticalment RG
 hermèticament hermèticament RG
 heroicament heroicament RG
 herèticament herèticament RG
+heterogèniament heterogèniament RG
+hidroestàticament hidroestàticament RG
+hidràulicament hidràulicament RG
 hieràticament hieràticament RG
 higiènicament higiènicament RG
 hiperbòlicament hiperbòlicament RG
@@ -1129,6 +1171,7 @@ hipostàticament hipostàticament RG
 hipotèticament hipotèticament RG
 hipòcritament hipòcritament RG
 històricament històricament RG
+homeopàticament homeopàticament RG
 homogèniament homogèniament RG
 homèricament homèricament RG
 homòlogament homòlogament RG
@@ -1150,16 +1193,20 @@ hàbilment hàbilment RG
 hòrridament hòrridament RG
 idealment idealment RG
 ideològicament ideològicament RG
+idiotament idiotament RG
 idolàtricament idolàtricament RG
 idènticament idènticament RG
 idíl·licament idíl·licament RG
 idòniament idòniament RG
 ignominiosament ignominiosament RG
 ignorantment ignorantment RG
+igualitàriament igualitàriament RG
 igualment igualment RG
 il·legalment il·legalment RG
 il·legítimament il·legítimament RG
 il·limitadament il·limitadament RG
+il·lusament il·lusament RG
+il·lusionadament il·lusionadament RG
 il·lustrement il·lustrement RG
 il·lusòriament il·lusòriament RG
 il·lícitament il·lícitament RG
@@ -1170,9 +1217,11 @@ imbècilment imbècilment RG
 imitativament imitativament RG
 immaculadament immaculadament RG
 immancablement immancablement RG
+immanentment immanentment RG
 immarcesciblement immarcesciblement RG
 immaterialment immaterialment RG
 immediatament immediatament RG
+immeditadament immeditadament RG
 immemorablement immemorablement RG
 immensament immensament RG
 immerescudament immerescudament RG
@@ -1187,6 +1236,7 @@ immotivadament immotivadament RG
 immutablement immutablement RG
 immòbilment immòbilment RG
 impacientment impacientment RG
+imparablement imparablement RG
 imparcialment imparcialment RG
 impassiblement impassiblement RG
 impecablement impecablement RG
@@ -1238,6 +1288,7 @@ impunement impunement RG
 impurament impurament RG
 impàvidament impàvidament RG
 impúdicament impúdicament RG
+inacabablement inacabablement RG
 inaccessiblement inaccessiblement RG
 inadequadament inadequadament RG
 inadvertidament inadvertidament RG
@@ -1273,13 +1324,17 @@ incondicionalment incondicionalment RG
 inconfusiblement inconfusiblement RG
 inconfutablement inconfutablement RG
 incongruentment incongruentment RG
+inconnexament inconnexament RG
 inconscientment inconscientment RG
+inconseqüentment inconseqüentment RG
 inconsideradament inconsideradament RG
 inconsolablement inconsolablement RG
 inconstantment inconstantment RG
 inconstitucionalment inconstitucionalment RG
+inconteniblement inconteniblement RG
 incontestablement incontestablement RG
 incontinentment incontinentment RG
+incontrarestablement incontrarestablement RG
 incontrastablement incontrastablement RG
 incontrovertiblement incontrovertiblement RG
 inconvenientment inconvenientment RG
@@ -1311,9 +1366,12 @@ indeliberadament indeliberadament RG
 indelicadament indelicadament RG
 independentment independentment RG
 indescriptiblement indescriptiblement RG
+indestructiblement indestructiblement RG
 indeterminadament indeterminadament RG
+indevotament indevotament RG
 indiciblement indiciblement RG
 indiferentment indiferentment RG
+indignadament indignadament RG
 indignament indignament RG
 indirectament indirectament RG
 indiscerniblement indiscerniblement RG
@@ -1353,6 +1411,7 @@ inequitativament inequitativament RG
 inequívocament inequívocament RG
 inercialment inercialment RG
 inertament inertament RG
+inesborrablement inesborrablement RG
 inescaientment inescaientment RG
 inescrutablement inescrutablement RG
 inespecificadament inespecificadament RG
@@ -1397,6 +1456,7 @@ ingènuament ingènuament RG
 inhabitualment inhabitualment RG
 inharmònicament inharmònicament RG
 inherentment inherentment RG
+inhonestament inhonestament RG
 inhospitalàriament inhospitalàriament RG
 inhumanament inhumanament RG
 inhàbilment inhàbilment RG
@@ -1424,10 +1484,12 @@ inorgànicament inorgànicament RG
 inqualificablement inqualificablement RG
 inquietament inquietament RG
 inquietantment inquietantment RG
+inquisitivament inquisitivament RG
 inquisitorialment inquisitorialment RG
 inqüestionablement inqüestionablement RG
 insaciablement insaciablement RG
 insanament insanament RG
+insegurament insegurament RG
 insensatament insensatament RG
 insensiblement insensiblement RG
 inseparablement inseparablement RG
@@ -1448,12 +1510,14 @@ instructivament instructivament RG
 instrumentalment instrumentalment RG
 insuaument insuaument RG
 insubstancialment insubstancialment RG
+insubstituïblement insubstituïblement RG
 insuficientment insuficientment RG
 insulsament insulsament RG
 insuperablement insuperablement RG
 insuportablement insuportablement RG
 insípidament insípidament RG
 insòlitament insòlitament RG
+intangiblement intangiblement RG
 integralment integralment RG
 intel·lectivament intel·lectivament RG
 intel·lectualment intel·lectualment RG
@@ -1484,7 +1548,9 @@ interrompudament interrompudament RG
 intolerablement intolerablement RG
 intolerantment intolerantment RG
 intranquil·lament intranquil·lament RG
+intransigentment intransigentment RG
 intransitivament intransitivament RG
+intricadament intricadament RG
 intrèpidament intrèpidament RG
 intrínsecament intrínsecament RG
 intuïtivament intuïtivament RG
@@ -1506,6 +1572,8 @@ inútilment inútilment RG
 iradament iradament RG
 irosament irosament RG
 irracionalment irracionalment RG
+irraonablement irraonablement RG
+irrealment irrealment RG
 irrebatiblement irrebatiblement RG
 irreconciliablement irreconciliablement RG
 irrecuperablement irrecuperablement RG
@@ -1513,6 +1581,7 @@ irrecusablement irrecusablement RG
 irreductiblement irreductiblement RG
 irreflexivament irreflexivament RG
 irrefragablement irrefragablement RG
+irrefrenablement irrefrenablement RG
 irrefutablement irrefutablement RG
 irregularment irregularment RG
 irreligiosament irreligiosament RG
@@ -1529,6 +1598,7 @@ irreverentment irreverentment RG
 irrevocablement irrevocablement RG
 irrisòriament irrisòriament RG
 irònicament irònicament RG
+isòcronament isòcronament RG
 ivaçosament ivaçosament RG
 jeràrquicament jeràrquicament RG
 jesuíticament jesuíticament RG
@@ -1537,6 +1607,7 @@ jocundament jocundament RG
 joiosament joiosament RG
 jovenívolament jovenívolament RG
 jovialment jovialment RG
+jubilosament jubilosament RG
 judicialment judicialment RG
 judiciosament judiciosament RG
 juntament juntament RG
@@ -1563,6 +1634,7 @@ legislativament legislativament RG
 legítimament legítimament RG
 lentament lentament RG
 letalment letalment RG
+letàrgicament letàrgicament RG
 liberalment liberalment RG
 libidinosament libidinosament RG
 limitadament limitadament RG
@@ -1588,11 +1660,13 @@ llibertinament llibertinament RG
 llicenciosament llicenciosament RG
 llisament llisament RG
 lliurement lliurement RG
+lloablement lloablement RG
 llordament llordament RG
 lluminosament lluminosament RG
 llunyanament llunyanament RG
 llustrosament llustrosament RG
 lluïdament lluïdament RG
+llépolament llépolament RG
 localment localment RG
 longitudinalment longitudinalment RG
 longànimement longànimement RG
@@ -1605,6 +1679,7 @@ lànguidament lànguidament RG
 lícitament lícitament RG
 límpidament límpidament RG
 líquidament líquidament RG
+líricament líricament RG
 lògicament lògicament RG
 lúbricament lúbricament RG
 lúcidament lúcidament RG
@@ -1648,6 +1723,7 @@ marcialment marcialment RG
 maritablement maritablement RG
 maritalment maritalment RG
 masclament masclament RG
+masculinament masculinament RG
 massissament massissament RG
 massivament massivament RG
 matemàticament matemàticament RG
@@ -1658,12 +1734,14 @@ matusserament matusserament RG
 mecànicament mecànicament RG
 mediambientalment mediambientalment RG
 mediatament mediatament RG
+medicinalment medicinalment RG
 mediocrement mediocrement RG
 meditadament meditadament RG
 mediàticament mediàticament RG
 mefistofèlicament mefistofèlicament RG
 melancòlicament melancòlicament RG
 melangiosament melangiosament RG
+melindrosament melindrosament RG
 melodiosament melodiosament RG
 melodramàticament melodramàticament RG
 melosament melosament RG
@@ -1687,6 +1765,7 @@ mestrívolament mestrívolament RG
 mesuradament mesuradament RG
 metafísicament metafísicament RG
 metafòricament metafòricament RG
+metalingüísticament metalingüísticament RG
 meteòricament meteòricament RG
 meticulosament meticulosament RG
 metodològicament metodològicament RG
@@ -1742,12 +1821,15 @@ mutablement mutablement RG
 mutualment mutualment RG
 màgicament màgicament RG
 màximament màximament RG
+mèdicament mèdicament RG
 mètricament mètricament RG
 mímicament mímicament RG
 mínimament mínimament RG
+míserament míserament RG
 místicament místicament RG
 míticament míticament RG
 mòdicament mòdicament RG
+mústiament mústiament RG
 mústigament mústigament RG
 mútuament mútuament RG
 nacionalment nacionalment RG
@@ -1780,6 +1862,7 @@ novament novament RG
 novellament novellament RG
 novel·lescament novel·lescament RG
 nul·lament nul·lament RG
+numantinament numantinament RG
 numeradament numeradament RG
 numèricament numèricament RG
 nèciament nèciament RG
@@ -2013,6 +2096,7 @@ previsorament previsorament RG
 primerament primerament RG
 primitivament primitivament RG
 primordialment primordialment RG
+primorosament primorosament RG
 primàriament primàriament RG
 principalment principalment RG
 principescament principescament RG
@@ -2159,6 +2243,7 @@ reposadament reposadament RG
 reprensiblement reprensiblement RG
 representativament representativament RG
 repressivament repressivament RG
+reprovadament reprovadament RG
 reservadament reservadament RG
 residentment residentment RG
 resignadament resignadament RG
@@ -2191,6 +2276,7 @@ ritualment ritualment RG
 robustament robustament RG
 rodonament rodonament RG
 rogallosament rogallosament RG
+romancerament romancerament RG
 romànticament romànticament RG
 roncament roncament RG
 rotundament rotundament RG
@@ -2216,6 +2302,7 @@ sacrosantament sacrosantament RG
 sacrílegament sacrílegament RG
 sagaçment sagaçment RG
 sagradament sagradament RG
+saladament saladament RG
 saludablement saludablement RG
 salutíferament salutíferament RG
 salvament salvament RG
@@ -2254,6 +2341,7 @@ sensualment sensualment RG
 sentenciosament sentenciosament RG
 sentidament sentidament RG
 sentimentalment sentimentalment RG
+senyorialment senyorialment RG
 senyorívolament senyorívolament RG
 senzillament senzillament RG
 separadament separadament RG
@@ -2327,6 +2415,7 @@ subalternament subalternament RG
 subjectament subjectament RG
 subjectivament subjectivament RG
 subliminarment subliminarment RG
+sublimment sublimment RG
 submisament submisament RG
 subordinadament subordinadament RG
 subreptíciament subreptíciament RG
@@ -2459,6 +2548,7 @@ tumultuàriament tumultuàriament RG
 turbulentament turbulentament RG
 turísticament turísticament RG
 tàcitament tàcitament RG
+tàcticament tàcticament RG
 tèbiament tèbiament RG
 tècnicament tècnicament RG
 tènuement tènuement RG
@@ -2478,6 +2568,7 @@ unidament unidament RG
 uniformement uniformement RG
 unilateralment unilateralment RG
 unipersonalment unipersonalment RG
+unitàriament unitàriament RG
 universalment universalment RG
 untuosament untuosament RG
 unànimement unànimement RG
@@ -2487,6 +2578,7 @@ urbanísticament urbanísticament RG
 urgentment urgentment RG
 usadament usadament RG
 usualment usualment RG
+usuràriament usuràriament RG
 utòpicament utòpicament RG
 vagament vagament RG
 vagarosament vagarosament RG
