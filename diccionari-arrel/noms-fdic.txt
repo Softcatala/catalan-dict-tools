@@ -26081,6 +26081,7 @@ euríbor=categories: M;fonts: LT;
 eurífag=categories: M;fonts: LT;
 eurítmia=categories: F;fonts: LT;
 euròcrata=categories: MF;fonts: LT;
+gerontòcrata=categories: MF;fonts: AVL;
 euròpid euròpida=categories: MF;fonts: LT;
 eusenc eusenca=categories: MF;fonts: LT;
 eusporangi=categories: M;fonts: LT;
