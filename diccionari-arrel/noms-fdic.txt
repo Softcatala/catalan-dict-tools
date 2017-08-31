@@ -64559,6 +64559,7 @@ victimització=categories: F;fonts: AVL, termcat;
 victimologia=categories: F;fonts: termcat;
 victimòleg victimòloga=categories: MF;fonts: AVL;
 victoriat=categories: M;fonts: LT;
+ibier ibiera=categories: MF;fonts: AVL;
 victorí=categories: M;fonts: LT;
 victron=categories: M;fonts: LT;
 victòria=categories: F;fonts: LT;

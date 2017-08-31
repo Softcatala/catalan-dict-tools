@@ -403,6 +403,7 @@ agoniós
 eixarrit
 
 # Forma secundària (remissió)
+modo;;;;masculí;;
 conclau [DNV i GDLC, però no IEC]
 deportista
 deportiu
@@ -482,6 +483,7 @@ bisont
 desperdiciar
 menesterós [arcaisme?]
 trapitjar
+humir;;;;verb transitiu;;
 
 #casos particulars
 barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
