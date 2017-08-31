@@ -135,6 +135,149 @@ xillar
 xiste
 xistós
 xoto
+albà;;;-aes;femení;col·loquial;
+alfambrús;;;-ussos;masculí;col·loquial;
+almorrana;;;;femení;col·loquial;
+alçapiu;;;;masculí;col·loquial;
+amagamenta;;;;femení;col·loquial;
+andragó;;;;masculí;col·loquial;
+anti;;;;masculí i femení;col·loquial;
+antoix;;;;masculí;col·loquial;
+atesorar;;;;verb transitiu;col·loquial;
+bartola;;;;femení;col·loquial;
+bif;;;;loc. orac.;col·loquial;
+bragueter;;-a;;adjectiu i masculí;col·loquial;
+bufalevites;;;;masculí i femení invariable;col·loquial;
+cagallonada;;;;femení;col·loquial;
+cagarritada;;;;femení;col·loquial;
+cagarrot;;;;masculí;col·loquial;
+cagarrullada;;;;femení;col·loquial;
+cagarró;;;;adjectiu i masculí i femení;col·loquial;
+cagarró;;;;masculí;col·loquial;
+cagatori;;;;masculí;col·loquial;
+caminata;;;;femení;col·loquial;
+camorra;;;;femení;col·loquial;
+camorrista;;;;masculí i femení;col·loquial;
+cangrenar;;;;verb transitiu i pronominal;col·loquial;
+cangrenós;;-osa;;adjectiu;col·loquial;
+carinyo;;;;interjecció;col·loquial;
+carinyo;;;;masculí;col·loquial;
+casamenta;;;;femení;col·loquial;
+caüla;;;;femení;col·loquial;
+caüllada;;;;femení;col·loquial;
+cluixida;;;;femení;col·loquial;
+cluixidor;;-a;;adjectiu i masculí;col·loquial;
+cluiximent;;;;masculí;col·loquial;
+cluixir;;;;verb transitiu i intransitiu;col·loquial;
+cluixit;;;;masculí;col·loquial;
+colivenc;;-a;;adjectiu i masculí i femení;col·loquial;
+collins;;;;interjecció;col·loquial;
+collinsa;;;;interjecció;col·loquial;
+collinses;;;;interjecció;col·loquial;
+collona;;;;interjecció;col·loquial;
+colxa;;;;femení;col·loquial;
+correntilles;;;;femení plural;col·loquial;
+culiblanc;;-a;;masculí i femení;col·loquial;
+culsalat;;-ada;;masculí i femení;col·loquial;
+cutre;;;;adjectiu i masculí i femení;col·loquial;
+cutre;;;;adjectiu;col·loquial;
+daçona;;;;femení;col·loquial;
+daçò;;;;masculí;col·loquial;
+desatesorar;;;;verb transitiu;col·loquial;
+embacorat;;-ada;;adjectiu;col·loquial;
+embagassir;;;;verb transitiu i pronominal;col·loquial;
+entrajat;;-ada;;adjectiu;col·loquial;
+equiliquà;;;;adverbi;col·loquial;
+escarotamenta;;;;femení;col·loquial;
+espardenyà;;;-aes;masculí;col·loquial;
+farlopa;;;;femení;col·loquial;
+farra;;;;femení;col·loquial;
+febronada;;;;femení;col·loquial;
+fisga;;;;femení;col·loquial;
+fisgueta;;;;adjectiu i masculí i femení;col·loquial;
+flicar;;;;verb transitiu;col·loquial;
+foguerir;;;;verb transitiu;col·loquial;
+fole;;;;interjecció;col·loquial;
+fotraquera;;;;femení;col·loquial;
+furgamenta;;;;femení;col·loquial;
+gorro;;;;masculí;col·loquial;
+grilladura;;;;femení;col·loquial;
+hosti;;;;interjecció;col·loquial;
+ie;;;;interjecció;col·loquial;
+janfutre;;;;masculí;col·loquial;
+litrona;;;;femení;col·loquial;
+llacoretes;;;;masculí invariable;col·loquial;
+llauramenta;;;;femení;col·loquial;
+llegimenta;;;;femení;col·loquial;
+llepafaldons;;;;masculí i femení invariable;col·loquial;
+llepapaelles;;;;masculí i femení invariable;col·loquial;
+llepatacons;;;;masculí i femení invariable;col·loquial;
+llòfia;;;;femení;col·loquial;
+làmpara;;;;femení;col·loquial;
+macarra;;;;masculí;col·loquial;
+madalena;;;;femení;col·loquial;
+malíccia;;;;femení;col·loquial;
+malòrum;;;;interjecció;col·loquial;
+mandràngula;;;;femení;col·loquial;
+mandúrria;;;;femení;col·loquial;
+manflorita;;;;masculí;col·loquial;
+mante;;;;interjecció;col·loquial;
+manuelet;;;;masculí;col·loquial;
+masoca;;;;adjectiu i masculí i femení;col·loquial;
+matraquejar;;;;verb transitiu;col·loquial;
+merdolaire;;;;masculí i femení;col·loquial;
+merdufall;;-a;;masculí i femení;col·loquial;
+micorro;;;;masculí;col·loquial;
+miquiua;;;;femení;col·loquial;
+mitxelí;;;;masculí;col·loquial;
+morregal;;;;masculí;col·loquial;
+ofegamenta;;;;femení;col·loquial;
+pandorgo;;-a;;masculí i femení;col·loquial;
+pasma;;;;femení;col·loquial;
+passodoble;;;;masculí;col·loquial;
+patejar;;;;verb pronominal;col·loquial;
+patejar;;;;verb transitiu i intransitiu;col·loquial;
+pato;;;;masculí;col·loquial;
+patuflo;;-a;;adjectiu;col·loquial;
+pelacabres;;;;masculí invariable;col·loquial;
+pendanga;;;;femení;col·loquial;
+pentinamenta;;;;femení;col·loquial;
+perra;;;;femení;col·loquial;
+perreta;;;;femení;col·loquial;
+pilila;;;;femení;col·loquial;
+pintamones;;;;masculí i femení invariable;col·loquial;
+pixerada;;;;femení;col·loquial;
+podrimenta;;;;femení;col·loquial;
+poriga;;;;adjectiu i masculí i femení;col·loquial;
+prenyamenta;;;;femení;col·loquial;
+rastoll;;;;masculí;col·loquial;
+redimoni;;;;interjecció;col·loquial;
+regolar;;;;verb intransitiu;col·loquial;
+retoria;;;;femení;col·loquial;
+rotller;;-a;;adjectiu i masculí i femení;col·loquial;
+safanoriada;;;;femení;col·loquial;
+sampar;;;;verb transitiu;col·loquial;
+sopamenta;;;;femení;col·loquial;
+surreal;;;;adjectiu;col·loquial;
+tagarnina;;;;femení;col·loquial;
+teatrer;;-a;;adjectiu i masculí i femení;col·loquial;
+tesorejar;;;;verb transitiu;col·loquial;
+tesorer;;-a;;masculí i femení;col·loquial;
+tesoreria;;;;femení;col·loquial;
+tiarro;;-a;;masculí i femení;col·loquial;
+tipo;;;;masculí;col·loquial;
+tocacollons;;;;masculí i femení invariable;col·loquial;
+tocamenta;;;;femení;col·loquial;
+tonto;;-a;;adjectiu i masculí i femení;col·loquial;
+trip;;;;masculí;col·loquial;
+trotxar;;;;verb intransitiu;col·loquial;
+trotxer;;-a;;adjectiu i masculí i femení;col·loquial;
+vicetesorer;;-a;;masculí i femení;col·loquial;
+vicetiple;;;;femení;col·loquial;
+xillador;;-a;;adjectiu;col·loquial;
+xillit;;;;masculí;col·loquial;
+xirlis-mirlis;;;;masculí i femení invariable;col·loquial;
+
 
 #marca d'antic
 realesa
@@ -144,6 +287,110 @@ resplandir
 ab
 abciac
 monipodi
+acén;;;;adverbi;antic;
+alferecia;;;;femení;antic;
+amenar;;;;verb transitiu;antic;
+aninou;;;;masculí;antic;
+astrosia;;;;femení;antic;
+avallada;;;;femení;antic;
+avallar;;;;verb transitiu i intransitiu;antic;
+calònia;;;;femení;antic;
+ceda;;;;femení;antic;
+centil·la;;;;femení;antic;
+coixinal;;;;masculí;antic;
+coldre;;;;verb transitiu;antic;
+consemble;;;;adjectiu;antic;
+crestiri;;;;masculí;antic;
+cristiri;;;;masculí;antic;
+decacordi;;;;masculí;antic;
+deixelar;;;;verb transitiu;antic;
+denans;;;;adverbi;antic;
+denant;;;;adverbi;antic;
+denantar;;;;verb transitiu;antic;
+depart;;;;masculí;antic;
+desalt;;;;masculí;antic;
+desaltar;;;;verb intransitiu i pronominal;antic;
+despuix;;;;adverbi;antic;
+dessots;;;;adverbi;antic;
+desvirginesa;;;;femení;antic;
+eixert;;;;masculí;antic;
+eixorar;;;;verb intransitiu;antic;
+eli;;;;loc. adv.;antic;
+ensagristada;;;;adjectiu i femení;antic;
+enza;;;;femení;antic;
+escient;;;;adjectiu;antic;
+escondir;;;;verb transitiu i pronominal;antic;
+esquimar;;;;verb transitiu;antic;
+fastijar;;;;verb transitiu;antic;
+fembril;;;;adjectiu;antic;
+femenil;;;;adjectiu;antic;
+feriar;;;;verb intransitiu;antic;
+fiblall;;;;masculí;antic;
+fillar;;;;verb intransitiu;antic;
+flagrància;;;;femení;antic;
+forfer;;;;verb intransitiu;antic;
+frasqueries;;;;femení plural;antic;
+frasques;;;;femení plural;antic;
+fòndec;;;;masculí;antic;
+gabellar;;;;verb transitiu;antic;
+gara;;;;interjecció;antic;
+ginea;;;;femení;antic;
+ginestada;;;;femení;antic;
+glai;;;;masculí;antic;
+guardejar;;;;verb transitiu;antic;
+hic;;;;pronom;antic;
+hoc;;;;adverbi;antic;
+honta;;;;femení;antic;
+infernat;;-ada;;adjectiu;antic;
+injungir;;;;verb transitiu;antic;
+jatsia;;;;conjunció;antic;
+jaïlla;;;;femení;antic;
+jornea;;;;femení;antic;
+jus;;;;adverbi i preposició;antic;
+lausenger;;-a;;adjectiu;antic;
+lausengeria;;;;femení;antic;
+lladoncs;;;;adverbi;antic;
+llaguiar;;;;verb transitiu;antic;
+lloament;;;;masculí;antic;
+llàdria;;;;femení;antic;
+magistre;;-a;;masculí i femení;antic;
+malauirat;;-ada;;adjectiu;antic;
+marroc;;;;adjectiu;antic;
+martre;;;;masculí i femení;antic;
+medicinar;;;;verb transitiu;antic;
+mesellia;;;;femení;antic;
+monsényer;;;;masculí;antic;
+monçónega;;;;femení;antic;
+null;;-a;;adjectiu;antic;
+obte;;;;masculí;antic;
+ops;;;;loc. prep.;antic;
+ops;;;;masculí;antic;
+orifany;;;;masculí;antic;
+paltonera;;;;femení;antic;
+parencejar;;;;verb intransitiu;antic;
+pecoral;;;;adjectiu;antic;
+percint;;;;masculí;antic;
+profembra;;;;femení;antic;
+putanejar;;;;verb intransitiu;antic;
+quatridià;;-ana;;adjectiu;antic;
+quisvol;;;;pronom;antic;
+rampagoll;;;;masculí;antic;
+realenc;;;;masculí;antic;
+samit;;;;masculí;antic;
+sodegar;;;;verb transitiu;antic;
+sorgidor;;;;masculí;antic;
+sényer;;;;masculí;antic;
+tembre;;;;verb transitiu;antic;
+tortugat;;;;masculí;antic;
+tracmany;;;;masculí;antic;
+tracmanyar;;;;verb intransitiu;antic;
+ultracuidar;;;;verb intransitiu;antic;
+urqués;;-esa;;adjectiu;antic;
+varió;;;;masculí;antic;
+vijares;;;;loc. adv.;antic;
+vijares;;;;loc. verb.;antic;
+vijares;;;;masculí invariable;antic;
+
 
 #sense marca ni remissió
 veixell [segons DCVB, grafia antiga]
@@ -249,6 +496,10 @@ axamfranar [sic! per aixamfranar?]
 axambergat [sic!]
 zoïsita [segons termcat, DIEC, GDLC: zoisita]
 frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
+
+#canvis d'accentuació
+vérbola [vèrbola (DIEC)]
+trémolo [trèomolo (DIEC)]
 
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]

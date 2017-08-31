@@ -27,6 +27,8 @@ while ( my $line = <$lt_fh> ) {
 }
 close $lt_fh;
 
+my $locucions="";
+
 open( $lt_fh,  "<:encoding(UTF-8)", $mw_dict );
 while ( my $line = <$lt_fh> ) {
     chomp($line);
@@ -34,6 +36,7 @@ while ( my $line = <$lt_fh> ) {
     	my $lemma = $1;
     	if (!exists $lt{$lemma}) {
     		$lt{$lemma}=1;
+    		$locucions.=" ".$lemma;
     	}
     }
 }
@@ -42,7 +45,7 @@ close $lt_fh;
 open( $lt_fh,  "<:encoding(UTF-8)", $mc_dict );
 while ( my $line = <$lt_fh> ) {
     chomp($line);
-    if ($line =~ /^([^# ]+)/) {
+    if ($line =~ /^([^# ;]+)/) {
     	my $lemma = $1;
     	if (!exists $lt{$lemma}) {
     		$lt{$lemma}=1;
@@ -62,7 +65,7 @@ while ( my $line = <$dnv_fh> ) {
     		$dnv{$lemma}=1;
     	}
     	$lemma =~ s/^(.+)(-se|'s)$/$1/;
-    	if (!exists $lt{$lemma} && $lemma !~ /^-/ && $lemma !~ /-$/) {
+    	if (!exists $lt{$lemma} && $lemma !~ /^-/ && $lemma !~ /-$/ && $locucions !~ /\b$lemma\n/) {
     		print $line . "\n";
     	}
     }
