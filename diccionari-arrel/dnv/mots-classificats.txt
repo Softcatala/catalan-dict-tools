@@ -407,6 +407,7 @@ acolxat;;;;masculí;; [Però ANTENCIÓ: "colxa" està com a col·loquial]
 afincament;;;;masculí;; ["afincar" tampoc no és en tots els diccionaris]
 
 # Forma secundària (remissió)
+txàdic;;-a;;adjectiu i masculí;;
 afortalar;;;;verb transitiu i pronominal;; [fortificar]
 afondar;;;;verb transitiu;; [afonar]
 afluixó;;;;masculí;; [afluixament]
@@ -466,6 +467,13 @@ supondre
 templari
 telefonejar
 triumfar
+triumf;;;;masculí;;
+triumfador;;-a;;adjectiu i masculí i femení;;
+triumfal;;;;adjectiu;;
+triumfalisme;;;;masculí;;
+triumfalista;;;;adjectiu i masculí i femení;;
+triumfalment;;;;adverbi;;
+triumfant;;;;adjectiu;;
 vehiculització
 vehiculitzar
 arrastrar [però forma principal en jocs de cartes]
@@ -530,6 +538,8 @@ aforisma;;;;femení;; [es pot confondre amb aforisme]
 #canvis d'accentuació
 vérbola [vèrbola (DIEC)]
 trémolo [trèmolo (DIEC)]
+télex;;;;masculí;; [tèlex (DIEC)]
+ténia;;;;femení;;
 
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
