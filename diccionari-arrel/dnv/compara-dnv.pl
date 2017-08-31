@@ -7,7 +7,7 @@ binmode( STDOUT, ":utf8" );
 
 my $lt_dict="/home/jaume/github/catalan-dict-tools/resultats/lt/diccionari.txt";
 my $dnv_dict="/home/jaume/github/catalan-dict-tools/diccionari-arrel/dnv/LemesDNV.csv";
-my $mw_dict="/home/jaume/github/languagetool/languagetool-language-modules/ca/src/main/resources/org/languagetool/resource/ca/multiwords.txt"
+my $mw_dict="/home/jaume/github/languagetool/languagetool-language-modules/ca/src/main/resources/org/languagetool/resource/ca/multiwords.txt";
 
 my %lt;
 my %dnv;
@@ -26,7 +26,7 @@ while ( my $line = <$lt_fh> ) {
 }
 close $lt_fh;
 
-open( my $lt_fh,  "<:encoding(UTF-8)", $mw_dict );
+open( $lt_fh,  "<:encoding(UTF-8)", $mw_dict );
 while ( my $line = <$lt_fh> ) {
     chomp($line);
     if ($line =~ /^(.+)\t(.+)$/) {
