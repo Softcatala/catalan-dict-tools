@@ -543,7 +543,7 @@ aforisma;;;;femení;; [es pot confondre amb aforisme]
 aguar;;;;verb transitiu;;
 aguar;;;;verb pronominal;;
 alegar;;;;verb transitiu;; [sinònim de aregar, es confon amb al·legar]
-
+ya;;;yas;femení;; [En general els noms de lletres àrabs i hebrees no es posen en el diccionari. Són paraules problemàtiques.]
 
 #canvis d'accentuació
 vérbola [vèrbola (DIEC)]
