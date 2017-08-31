@@ -135,6 +135,7 @@ xillar
 xiste
 xistós
 xoto
+aforrament;;;;masculí;col·loquial;
 albà;;;-aes;femení;col·loquial;
 alfambrús;;;-ussos;masculí;col·loquial;
 almorrana;;;;femení;col·loquial;
@@ -401,8 +402,23 @@ arrastró
 refregó [col·loquial en algunes accepcions]
 agoniós
 eixarrit
+acolxar;;;;verb transitiu;; [Però ANTENCIÓ: "colxa" està com a col·loquial]
+acolxat;;;;masculí;; [Però ANTENCIÓ: "colxa" està com a col·loquial]
+afincament;;;;masculí;; ["afincar" tampoc no és en tots els diccionaris]
 
 # Forma secundària (remissió)
+afortalar;;;;verb transitiu i pronominal;; [fortificar]
+afondar;;;;verb transitiu;; [afonar]
+afluixó;;;;masculí;; [afluixament]
+adulament;;;;masculí;; [udolament]
+adinsament;;;;masculí;;
+adinsar;;;;verb transitiu i pronominal;;
+acontenyiment;;;;masculí;; [esdeveniment]
+aconformar;;;;verb transitiu i pronominal;;
+abovar;;;;verb transitiu i pronominal;;
+ablaüró;;;;masculí;;
+abombar;;;;verb transitiu i pronominal;;
+abastonejar;;;;verb transitiu;;
 modo;;;;masculí;;
 conclau [DNV i GDLC, però no IEC]
 deportista
@@ -498,10 +514,64 @@ axamfranar [sic! per aixamfranar?]
 axambergat [sic!]
 zoïsita [segons termcat, DIEC, GDLC: zoisita]
 frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
+anda;;;;femení;; [El tenim en plural: andes. "Anda" pot causar confusions.]
+
+#dubtós
+acarrassar-se;;;;verb pronominal;; [la documentació és contradictòria]
+
+
+#Poc usual, pot causar inconvenients?
+abornar;;;;verb transitiu;;
+acontényer;;;;verb intransitiu;; [també acontènyer]
+acurtadura;;;;femení;;
+adrissar;;;;verb transitiu;;
+aforisma;;;;femení;; [es pot confondre amb aforisme]
 
 #canvis d'accentuació
 vérbola [vèrbola (DIEC)]
-trémolo [trèomolo (DIEC)]
+trémolo [trèmolo (DIEC)]
 
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
+
+
+# Per a acceptar
+abadegeria;;;;femení;;
+abadeget;;;;masculí;;
+abellada;;;;femení;;
+abellam;;;;masculí;;
+abrusiment;;;;masculí;;
+acanaladura;;;;femení;;
+acaragolament;;;;masculí;;
+accisa;;;;femení;; [termcat]
+acidificador;;;;masculí;; [termcat]
+acognòsia;;;;femení;; [termcat]
+acorrufó;;;;masculí;;
+adenotomia;;;;femení;;
+adí;;;;masculí invariable;; [només masculí singular]
+adjuntia;;;;femení;;
+adormissament;;;;masculí;;
+ADSL;;;;femení (o masculí);; [termcat femení]
+aerador;;;;masculí;; [termcat]
+aeroesgolador;;;;masculí;; [correspon a aerolliscador, hovercraft]
+afaenament;;;;masculí;;
+afissament;;;;masculí;;
+afondiment;;;;masculí;;
+africanitat;;;;femení;;
+
+
+
+abagotar;;;;verb transitiu;;
+abarracar;;;;verb transitiu;;
+abatussar;;;;verb transitiu;;
+ablaürar;;;;verb transitiu;;
+abotargar-se;;;;verb pronominal;; [S'HA DE MARCAR COM A PRONOMIAL]
+acanellar;;;;verb transitiu;;
+acapollar;;;;verb intransitiu;;
+acartonar-se;;;;verb pronominal;; [No en el DIEC, però ben format]
+acensalar;;;;verb transitiu;; [acensar]
+afondir;;;;verb transitiu;;
+afondir;;;;verb intransitiu;;
+
+
+aconetes [f. pl.; fer aconetes]

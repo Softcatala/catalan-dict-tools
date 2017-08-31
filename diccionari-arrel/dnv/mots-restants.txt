@@ -1,46 +1,12 @@
 Lema;LlenguaOrigen;Lemes_Morfema;PluralIrregular;CatGramatical;NivellLlengua;CatSemantica
-abadegeria;;;;femení;;
-abadeget;;;;masculí;;
-abagotar;;;;verb transitiu;;
-abarracar;;;;verb transitiu;;
-abarracar;;;;verb transitiu i pronominal;;
-abarracar;;;;verb pronominal;;
-abàsic;;-a;;adjectiu;;
-abastonejar;;;;verb transitiu;;
-abatollador;;-a;;masculí i femení;;
-abatussar;;;;verb transitiu;;
-abellada;;;;femení;;
-abellam;;;;masculí;;
-abietaci;;-àcia;;adjectiu i femení;;
-ablaïdor;;-a;;adjectiu;;
-ablaürar;;;;verb transitiu;;
-ablaüró;;;;masculí;;
-abombar;;;;verb transitiu i pronominal;;
-abornar;;;;verb transitiu;;
-abotargar-se;;;;verb pronominal;;
-abotinat;;-ada;;adjectiu;;
-abovar;;;;verb transitiu i pronominal;;
-abraçable;;;;adjectiu;;
-abrusidor;;-a;;adjectiu;;
-abrusiment;;;;masculí;;
-abufonat;;-ada;;adjectiu;;
-abundancial;;;;adjectiu;;
-acalòric;;-a;;adjectiu;;
-acanaladura;;;;femení;;
-acanellar;;;;verb transitiu;;
-acapellanat;;-ada;;adjectiu;;
-acapollar;;;;verb intransitiu;;
-acapollat;;-ada;;adjectiu;;
-acarabassat;;-ada;;adjectiu;;
-acaragoladís;;-issa;;adjectiu;;
-acaragolament;;;;masculí;;
-acariciable;;;;adjectiu;;
-acarrassar-se;;;;verb pronominal;;
-acartonar-se;;;;verb pronominal;;
-accisa;;;;femení;;
-acensalar;;;;verb transitiu;;
-acidificador;;;;masculí;;
-aclafollat;;-ada;;adjectiu;;
+
+
+
+
+
+
+
+
 acognòsia;;;;femení;;
 acolxar;;;;verb transitiu;;
 acolxat;;;;masculí;;
@@ -217,8 +183,6 @@ ampelònim;;;;masculí;;
 ampeloteràpia;;;;femení;;
 anafre;;;;masculí;;
 ancofa;;;;femení;;
-anda;;;;femení;;
-anda;;;;loc. verb.;;
 andròfob;;-a;;adjectiu i masculí i femení;;
 anecdotisme;;;;masculí;;
 angiogràfic;;-a;;adjectiu;;
