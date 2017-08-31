@@ -517,7 +517,7 @@ frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
 anda;;;;femení;; [El tenim en plural: andes. "Anda" pot causar confusions.]
 
 #dubtós
-acarrassar-se;;;;verb pronominal;; [la documentació és contradictòria]
+acarrassar;;;;verb pronominal;; [la documentació és contradictòria]
 
 
 #Poc usual, pot causar inconvenients?
@@ -536,42 +536,15 @@ nimbostratus [hauria de ser nimboestratus]
 
 
 # Per a acceptar
-abadegeria;;;;femení;;
-abadeget;;;;masculí;;
-abellada;;;;femení;;
-abellam;;;;masculí;;
-abrusiment;;;;masculí;;
-acanaladura;;;;femení;;
-acaragolament;;;;masculí;;
-accisa;;;;femení;; [termcat]
-acidificador;;;;masculí;; [termcat]
-acognòsia;;;;femení;; [termcat]
-acorrufó;;;;masculí;;
-adenotomia;;;;femení;;
-adí;;;;masculí invariable;; [només masculí singular]
-adjuntia;;;;femení;;
-adormissament;;;;masculí;;
-ADSL;;;;femení (o masculí);; [termcat femení]
-aerador;;;;masculí;; [termcat]
-aeroesgolador;;;;masculí;; [correspon a aerolliscador, hovercraft]
-afaenament;;;;masculí;;
-afissament;;;;masculí;;
-afondiment;;;;masculí;;
-africanitat;;;;femení;;
-
-
 
 abagotar;;;;verb transitiu;;
 abarracar;;;;verb transitiu;;
 abatussar;;;;verb transitiu;;
 ablaürar;;;;verb transitiu;;
-abotargar-se;;;;verb pronominal;; [S'HA DE MARCAR COM A PRONOMIAL]
+abotargar;;;;verb pronominal;; [S'HA DE MARCAR COM A PRONOMIAL]
 acanellar;;;;verb transitiu;;
 acapollar;;;;verb intransitiu;;
-acartonar-se;;;;verb pronominal;; [No en el DIEC, però ben format]
+acartonar;;;;verb pronominal;; [No en el DIEC, però ben format]
 acensalar;;;;verb transitiu;; [acensar]
 afondir;;;;verb transitiu;;
 afondir;;;;verb intransitiu;;
-
-
-aconetes [f. pl.; fer aconetes]

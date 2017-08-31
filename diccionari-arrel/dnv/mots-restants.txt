@@ -1,51 +1,4 @@
 Lema;LlenguaOrigen;Lemes_Morfema;PluralIrregular;CatGramatical;NivellLlengua;CatSemantica
-
-
-
-
-
-
-
-
-acognòsia;;;;femení;;
-acolxar;;;;verb transitiu;;
-acolxat;;;;masculí;;
-aconetes;;;;loc. verb.;;
-aconformar;;;;verb transitiu i pronominal;;
-acontényer;;;;verb intransitiu;;
-acontenyiment;;;;masculí;;
-acoquinador;;-a;;adjectiu i masculí i femení;;
-acorrufó;;;;masculí;;
-acotonat;;-ada;;adjectiu;;
-actoral;;;;adjectiu;;
-acurtadura;;;;femení;;
-adenotomia;;;;femení;;
-adí;;;;masculí invariable;;
-adinsament;;;;masculí;;
-adinsar;;;;verb transitiu i pronominal;;
-adjuntia;;;;femení;;
-adormissament;;;;masculí;;
-adrissar;;;;verb transitiu;;
-ADSL;;;;femení (o masculí);;
-adulament;;;;masculí;;
-aerador;;;;masculí;;
-aeroesgolador;;;;masculí;;
-aerofòbic;;-a;;adjectiu;;
-afaenament;;;;masculí;;
-afincament;;;;masculí;;
-afissament;;;;masculí;;
-afissat;;-ada;;adjectiu;;
-aflamencat;;-ada;;adjectiu;;
-afluixó;;;;masculí;;
-afondar;;;;verb transitiu;;
-afondiment;;;;masculí;;
-afondir;;;;verb transitiu;;
-afondir;;;;verb intransitiu;;
-aforisma;;;;femení;;
-aforrament;;;;masculí;col·loquial;
-afortalar;;;;verb transitiu i pronominal;;
-africanitat;;;;femení;;
-afro;;;;adjectiu;;
 aganar;;;;verb transitiu;;
 agaons;;;;masculí plural;;
 agarbissonar;;;;verb transitiu;;
@@ -3180,7 +3133,6 @@ humoralista;;;;masculí i femení;;
 huronià;;;;adjectiu;;
 iatagan;;;;masculí;;
 ibadisme;;;;masculí;;
-ibier;;-a;;adjectiu i masculí i femení;;
 iconoteca;;;;femení;;
 ictiol;;;;masculí;;
 ictionímia;;;;femení;;
