@@ -407,6 +407,12 @@ acolxat;;;;masculí;; [Però ANTENCIÓ: "colxa" està com a col·loquial]
 afincament;;;;masculí;; ["afincar" tampoc no és en tots els diccionaris]
 
 # Forma secundària (remissió)
+ajardinar;;;;verb transitiu;;
+ajardinat;;-ada;;adjectiu;;
+allumenar;;;;verb transitiu;;
+allumenat;;;;masculí;;
+almagatzem;;;;masculí;;
+slogan;anglés;;;masculí;; [adaptat en eslògan]
 txàdic;;-a;;adjectiu i masculí;;
 afortalar;;;;verb transitiu i pronominal;; [fortificar]
 afondar;;;;verb transitiu;; [afonar]
@@ -534,6 +540,10 @@ acontényer;;;;verb intransitiu;; [també acontènyer]
 acurtadura;;;;femení;;
 adrissar;;;;verb transitiu;;
 aforisma;;;;femení;; [es pot confondre amb aforisme]
+aguar;;;;verb transitiu;;
+aguar;;;;verb pronominal;;
+alegar;;;;verb transitiu;; [sinònim de aregar, es confon amb al·legar]
+
 
 #canvis d'accentuació
 vérbola [vèrbola (DIEC)]
@@ -546,6 +556,10 @@ nimbostratus [hauria de ser nimboestratus]
 
 
 # Per a acceptar
+
+semianalfabet;;-eta;;adjectiu;;
+
+alfabetisme;;;;masculí;;
 
 abagotar;;;;verb transitiu;;
 abarracar;;;;verb transitiu;;
