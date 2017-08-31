@@ -1,0 +1,254 @@
+# formes secundàries (amb remissió) -iximent/-ixement
+naiximent
+intercreiximent
+mereiximent
+prerenaiximent
+reconeiximent
+recreiximent
+renaiximent
+sobrenaiximent
+acreiximent
+apareiximent
+compareiximent
+coneiximent
+creiximent
+desconeiximent
+decreiximent
+
+# marca de col·loquial
+acaminar
+ad
+aforrar
+ahinar
+aixana
+aixina
+aixona
+andami
+andamiada
+antoixar
+arrecesar
+assumpt
+astò
+balòstia
+bascoll
+bonico
+bòtul
+cagarri
+cagarrita
+cagarrulla
+cagarruta
+cagarrutada
+cagatxoles
+calentura
+cangrena
+colomello
+conseguir
+correlestotes
+correntilla
+corrunxet
+cursela
+destemplar
+destemplat
+embossamenta
+enterar
+enterar-se
+espirit
+estomordir
+fastidi
+fastidiar
+fastidiós
+fatxor
+fideuà
+fisgar
+fisgó
+flato
+fotrassada
+fotris
+fredat
+fótrins
+gavinet
+giner
+guisopo
+humiltat
+illegítim
+illògic
+impondre
+llaganya
+llançol
+llauger
+llavó
+llegítim
+llunt
+llògic
+mamela
+mandoble
+manyo
+mascletà
+mefla
+menjuga
+micarró
+mitan
+mixano
+mocadorà
+morregals
+nuguet
+nyofla
+obedir
+opondre
+orige
+pandocada
+pata
+patatús
+patós
+pelleranca
+pim-pom
+piquerol
+pito
+pitos
+pixarrada
+pixarró
+pixorrada
+pixorro
+pixó
+poli
+poreguita
+porica
+qüè
+rabotada
+rant
+ranter
+ranteret
+rellonge
+ringlera
+samarro
+sancer
+sapo
+sarpassa
+templador
+templament
+templança
+templar
+trage [És una grafia estranya. "Tratge" també està justificat i té tradició.]
+xamera
+xilladissa
+xillar
+xiste
+xistós
+xoto
+
+#marca d'antic
+realesa
+realme
+resplandent
+resplandir
+ab
+abciac
+monipodi
+
+#sense marca ni remissió
+veixell [segons DCVB, grafia antiga]
+subjectivització [paraula mal formada si l'únic verb acceptat és "subjectivar"]
+amanéixer
+soldre [però és irrellevant, perquè no s'usa mai en infinitiu]
+arrastró
+refregó [col·loquial en algunes accepcions]
+agoniós
+eixarrit
+
+# Forma secundària (remissió)
+conclau [DNV i GDLC, però no IEC]
+deportista
+deportiu
+deportivament
+deportivitat
+desagravi
+desagraviar
+agravi
+agraviar [forma principal en alguns sentits]
+maravella
+divorç
+enjuïciament
+enjuïciar
+extremaunciar
+extremaunció
+cadarnera
+cagarnera
+resplandor
+revore [el diccionari ja té "vore" + regles]
+malvore [no hi són altres derivats de vore]
+caramel·lo
+abeltir
+ablamor
+abonyar
+abotonar
+acatxorrar
+acomesa
+acometre
+acompassar
+acovardar
+acovardament
+acras
+albardissa
+alambic
+almorzar
+dispondre
+expondre
+indispondre
+interpondre
+predispondre
+pressupondre
+propondre
+supondre
+templari
+telefonejar
+triumfar
+vehiculització
+vehiculitzar
+arrastrar [però forma principal en jocs de cartes]
+queradilla
+fluixetat
+peluqueria
+peluquer
+peluca
+peluquí
+montanya
+medició
+medir
+coixo
+platirí [eliminat per l'IEC, es pot eliminar]
+polideportiu
+estandard, portaestandard [però amb les prioritats encreuades !?] [Es confon amb estàndard]
+malea (bellea.. i altres)
+camamirla
+desperesó
+despereó
+despereament
+espereament
+estómec
+àntrex
+xuïta [no està documentat]
+agoniar
+agosar-se
+aiguar
+albargina
+bisont
+desperdiciar
+menesterós [arcaisme?]
+trapitjar
+
+#casos particulars
+barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
+batidor [L'IEC l'ha eliminat]
+corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
+a (la) coixcoix [d'ús poc estés, i ortografia dubtosa: coix-coix]
+benigembla [Es confon amb el topònim Benigembla]
+a mata-degolla (DNV), a matadegolla (IEC) // posats tots dos
+[totes les terminacions -iste/-ista
+hittita [IEC: hitita]
+axamfranar [sic! per aixamfranar?] 
+axambergat [sic!]
+zoïsita [segons termcat, DIEC, GDLC: zoisita]
+frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
+
+#errors en el DNV
+nimbostratus [hauria de ser nimboestratus]
