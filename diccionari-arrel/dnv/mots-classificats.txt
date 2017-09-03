@@ -17,6 +17,8 @@ decreiximent
 autoconeiximent > autoconeixement 
 
 # marca de col·loquial
+ensaig=assaig [col·loquial en l'accepció principal]
+ensajar=assajar [col·loquial en l'accepció principal]
 acaminar
 ad
 aforrar
@@ -1877,25 +1879,14 @@ xuplallànties > òliba
 xurruplar > xarrupejar 
 
 
-
 #casos particulars
-barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
-batidor [L'IEC l'ha eliminat]
-corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
 a (la) coixcoix [d'ús poc estés, i ortografia dubtosa: coix-coix]
 benigembla [Es confon amb el topònim Benigembla]
-a mata-degolla (DNV), a matadegolla (IEC) // posats tots dos
 [totes les terminacions -iste/-ista
-hittita [IEC: hitita]
-axamfranar [sic! per aixamfranar?] 
-axambergat [sic!]
-zoïsita [segons termcat, DIEC, GDLC: zoisita]
-frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
 anda;;;;femení;; [El tenim en plural: andes. "Anda" pot causar confusions.]
 
 #dubtós
 acarrassar;;;;verb pronominal;; [la documentació és contradictòria]
-
 
 #Poc usual, pot causar inconvenients?
 abornar;;;;verb transitiu;;
@@ -1911,23 +1902,32 @@ z;;;;femení;;
 zay;;;;femení;;
 aquet;;-a;;adjectiu;;
 aquet;;-a;;masculí;;
+corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
 
 #canvis d'accentuació
 vérbola [vèrbola (DIEC)]
 trémolo [trèmolo (DIEC)]
 télex;;;;masculí;; [tèlex (DIEC)]
-ténia;;;;femení;;
+ténia;;;;femení;; [tènia (DIEC)]
 
 #incompatibilitats DIEC - DNC
 sàndwitx [DIEC sandvitx]
 sandwitxera;;;;femení;;
 sandwitxeria;;;;femení;;
 sandwich
-
+hittita [IEC: hitita]
+axamfranar [sic! per aixamfranar?] 
+axambergat [sic!]
+zoïsita [segons termcat, DIEC, GDLC: zoisita]
+frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
+barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
+batidor [L'IEC l'ha eliminat]
+a mata-degolla (DNV), a matadegolla (IEC) // posats tots dos
 
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
 subjectivització [paraula mal formada si l'únic verb acceptat és "subjectivar"]
+genitalia;;;;masculí plural;; [segons el DNV i GDLC seria un llatinisme: els 'genitalia', segons Termcat: la genitàlia]
 
 #Ja acceptats com a multiparaules
 bossa nova;portugués;;;femení;;
