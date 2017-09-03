@@ -14,6 +14,7 @@ coneiximent
 creiximent
 desconeiximent
 decreiximent
+autoconeiximent > autoconeixement 
 
 # marca de col·loquial
 acaminar
@@ -493,9 +494,7 @@ montanya
 medició
 medir
 coixo
-platirí [eliminat per l'IEC, es pot eliminar]
 polideportiu
-estandard, portaestandard [però amb les prioritats encreuades !?] [Es confon amb estàndard]
 malea (bellea.. i altres)
 camamirla
 desperesó
@@ -511,9 +510,14 @@ aiguar
 albargina
 bisont
 desperdiciar
-menesterós [arcaisme?]
 trapitjar
 humir;;;;verb transitiu;;
+
+platirí [eliminat per l'IEC, s'ha eliminat]
+estandard, portaestandard [però amb les prioritats encreuades !?] [Es confon amb estàndard]
+menesterós > necessitat [arcaisme?]
+
+# Forma secundària (remissió), extrets automàticament
 aüixó > aüixada 
 aüixador > ventamosques 
 aüixament > aüixada 
@@ -606,7 +610,6 @@ atropoll > tropell
 audífon > audiòfon 
 auditòrium > auditori 
 austracista > austriacista 
-autoconeiximent > autoconeixement 
 avalencianar > valencianitzar 
 avalista > avalador 
 avalotament > avalot 
@@ -1906,6 +1909,8 @@ alegar;;;;verb transitiu;; [sinònim de aregar, es confon amb al·legar]
 ya;;;yas;femení;; [En general els noms de lletres àrabs i hebrees no es posen en el diccionari. Són paraules problemàtiques.]
 z;;;;femení;;
 zay;;;;femení;;
+aquet;;-a;;adjectiu;;
+aquet;;-a;;masculí;;
 
 #canvis d'accentuació
 vérbola [vèrbola (DIEC)]
@@ -1916,6 +1921,9 @@ ténia;;;;femení;;
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
 
+
+#Ja acceptats com a multiparaules
+bossa nova;portugués;;;femení;;
 
 # Per a acceptar
 

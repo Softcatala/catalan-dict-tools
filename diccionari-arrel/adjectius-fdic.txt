@@ -20482,6 +20482,7 @@ queixós queixosa=categories: A;fonts: LT;
 quelant=categories: A;fonts: LT;
 queloidal=categories: A;fonts: termcat;
 queloïdal=categories: A;fonts: pre2017, termcat;
+quemocèfal -a=categories: A;fonts: AVL,termcat;
 quemòtic quemòtica=categories: A;fonts: LT;
 queralbí queralbina=categories: A;fonts: LT;
 queralpí queralpina=categories: A;fonts: LT;
