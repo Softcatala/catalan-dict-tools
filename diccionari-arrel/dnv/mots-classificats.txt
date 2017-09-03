@@ -396,7 +396,6 @@ vijares;;;;masculí invariable;antic;
 
 #sense marca ni remissió
 veixell [segons DCVB, grafia antiga]
-subjectivització [paraula mal formada si l'únic verb acceptat és "subjectivar"]
 amanéixer
 soldre [però és irrellevant, perquè no s'usa mai en infinitiu]
 arrastró
@@ -406,6 +405,7 @@ eixarrit
 acolxar;;;;verb transitiu;; [Però ANTENCIÓ: "colxa" està com a col·loquial]
 acolxat;;;;masculí;; [Però ANTENCIÓ: "colxa" està com a col·loquial]
 afincament;;;;masculí;; ["afincar" tampoc no és en tots els diccionaris]
+colmena;;;;femení;;
 
 # Forma secundària (remissió)
 ajardinar;;;;verb transitiu;;
@@ -1918,9 +1918,16 @@ trémolo [trèmolo (DIEC)]
 télex;;;;masculí;; [tèlex (DIEC)]
 ténia;;;;femení;;
 
+#incompatibilitats DIEC - DNC
+sàndwitx [DIEC sandvitx]
+sandwitxera;;;;femení;;
+sandwitxeria;;;;femení;;
+sandwich
+
+
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
-
+subjectivització [paraula mal formada si l'únic verb acceptat és "subjectivar"]
 
 #Ja acceptats com a multiparaules
 bossa nova;portugués;;;femení;;
