@@ -15884,6 +15884,7 @@ metal·litzable=categories: A;fonts: LT;
 metal·lografític metal·lografítica=categories: A;fonts: LT;
 metal·logràfic metal·logràfica=categories: A;fonts: LT;
 metal·logènic metal·logènica=categories: A;fonts: LT;
+metal·lomecànic metal·lomecànica=categories: A;fonts: derivat, dfrequencies;
 metal·loteràpic metal·loteràpica=categories: A;fonts: LT;
 metal·lífer metal·lífera=categories: A;fonts: LT;
 metal·lúrgic metal·lúrgica=categories: A;fonts: LT;
