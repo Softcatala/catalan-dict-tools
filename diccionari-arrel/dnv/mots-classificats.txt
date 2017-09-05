@@ -1,24 +1,6 @@
-# formes secundàries (amb remissió) -iximent/-ixement
-naiximent
-intercreiximent
-mereiximent
-prerenaiximent
-reconeiximent
-recreiximent
-renaiximent
-sobrenaiximent
-acreiximent
-apareiximent
-compareiximent
-coneiximent
-creiximent
-desconeiximent
-decreiximent
-autoconeiximent > autoconeixement 
-
 # marca de col·loquial
-ensaig=assaig [col·loquial en l'accepció principal]
-ensajar=assajar [col·loquial en l'accepció principal]
+ensaig=assaig [col·loquial en l'accepció més usual]
+ensajar=assajar [col·loquial en l'accepció més usual]
 acaminar
 ad
 aforrar
@@ -410,6 +392,22 @@ afincament;;;;masculí;; ["afincar" tampoc no és en tots els diccionaris]
 colmena;;;;femení;;
 
 # Forma secundària (remissió)
+naiximent
+intercreiximent
+mereiximent
+prerenaiximent
+reconeiximent
+recreiximent
+renaiximent
+sobrenaiximent
+acreiximent
+apareiximent
+compareiximent
+coneiximent
+creiximent
+desconeiximent
+decreiximent
+autoconeiximent > autoconeixement 
 ajardinar;;;;verb transitiu;;
 ajardinat;;-ada;;adjectiu;;
 allumenar;;;;verb transitiu;;
@@ -1904,12 +1902,6 @@ aquet;;-a;;adjectiu;;
 aquet;;-a;;masculí;;
 corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
 
-#canvis d'accentuació
-vérbola [vèrbola (DIEC)]
-trémolo [trèmolo (DIEC)]
-télex;;;;masculí;; [tèlex (DIEC)]
-ténia;;;;femení;; [tènia (DIEC)]
-
 #incompatibilitats DIEC - DNC
 sàndwitx [DIEC sandvitx]
 sandwitxera;;;;femení;;
@@ -1923,6 +1915,10 @@ frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
 barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
 batidor [L'IEC l'ha eliminat]
 a mata-degolla (DNV), a matadegolla (IEC) // posats tots dos
+vérbola [vèrbola (DIEC)]
+trémolo [trèmolo (DIEC)]
+télex;;;;masculí;; [tèlex (DIEC)]
+ténia;;;;femení;; [tènia (DIEC)]
 
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
