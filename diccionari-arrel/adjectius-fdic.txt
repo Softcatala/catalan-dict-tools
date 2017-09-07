@@ -1,5 +1,6 @@
 #abrandat abrandada [sup. abrandadíssim]=categories: A;fonts: LT;
 #baador=categories: A;fonts: GDLC, arcaisme;
+#baladí baladina=categories: A;fonts: LT; arcaisme
 #emperadora=categories: A;fonts: LT;
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
 10è 10a [pl. 10ns]=categories: AO;fonts: LT;
@@ -3117,7 +3118,6 @@ bajocià bajociana=categories: A;fonts: LT;
 bajà bajana=categories: A;fonts: LT;
 bakuninista=categories: A;fonts: LT;
 baladrer baladrera=categories: A;fonts: LT;
-baladí baladina=categories: A;fonts: LT;
 balaguerí balaguerina=categories: A;fonts: LT;
 balanoide=categories: A;fonts: LT;
 balanífer balanífera=categories: A;fonts: LT;
