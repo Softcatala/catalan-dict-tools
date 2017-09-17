@@ -2568,7 +2568,7 @@ jonegada;;;;femení;;
 joquejar;;;;verb intransitiu;;
 josefí;;-ina;;adjectiu;;
 judeoconvers;;-a;;adjectiu i masculí i femení;;
-judia;;;;femení;;
+
 jugulació;;;;femení;;
 juncada;;;;femení;;
 junçat;;-ada;;adjectiu;;

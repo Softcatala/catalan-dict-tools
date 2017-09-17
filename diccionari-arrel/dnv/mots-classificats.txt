@@ -512,7 +512,7 @@ bisont
 desperdiciar
 trapitjar
 humir;;;;verb transitiu;;
-
+mentira>mentida
 platirí [eliminat per l'IEC, s'ha eliminat]
 estandard, portaestandard [però amb les prioritats encreuades !?] [Es confon amb estàndard]
 menesterós > necessitat [arcaisme?]
@@ -1901,6 +1901,7 @@ zay;;;;femení;;
 aquet;;-a;;adjectiu;;
 aquet;;-a;;masculí;;
 corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
+judia;;;;femení;;
 
 #incompatibilitats DIEC - DNC
 sàndwitx [DIEC sandvitx]
@@ -1919,6 +1920,7 @@ vérbola [vèrbola (DIEC)]
 trémolo [trèmolo (DIEC)]
 télex;;;;masculí;; [tèlex (DIEC)]
 ténia;;;;femení;; [tènia (DIEC)]
+papagall [IEC: papagai]
 
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
