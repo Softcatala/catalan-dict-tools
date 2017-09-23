@@ -3,6 +3,7 @@
 #coldre=categories: V;model:absoldre;fonts:LT
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
+#fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
 abacallanar=categories: V;model:cantar;fonts:LT
 abaconar=categories: V;model:cantar;fonts:LT
 abadanar=categories: V;model:cantar;fonts:LT
@@ -6053,7 +6054,6 @@ fimbrejar=categories: V;model:envejar;fonts:Jané;
 finalitzar=categories: V;model:cantar;fonts:LT
 finançar=categories: V;model:començar;fonts:LT
 finar=categories: V;model:cantar;fonts:LT
-fincar=categories: V;model:trencar;fonts:LT
 finejar=categories: V;model:envejar;fonts:LT
 finestrejar=categories: V;model:envejar;fonts:LT
 fingir=categories: V;model:servir;fonts:LT
