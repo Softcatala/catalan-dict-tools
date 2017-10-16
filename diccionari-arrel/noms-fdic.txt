@@ -392,6 +392,7 @@ acabdillament=categories: M;fonts: LT;
 acacià=categories: M;fonts: LT;
 academicisme=categories: M;fonts: LT;
 academicista=categories: MF;fonts: LT;
+academització=categories: F;fonts: derivat;
 acadèmia=categories: F;fonts: LT;
 acadèmic acadèmica=categories: MF;fonts: LT;
 acagallonament=categories: M;fonts: LT;

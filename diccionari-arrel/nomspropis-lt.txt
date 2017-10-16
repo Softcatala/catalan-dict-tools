@@ -11127,6 +11127,7 @@ Kleist Kleist NPCNSP0
 Klopstock Klopstock NPCNSP0
 Knin Knin NPCSG00
 Kobe Kobe NPCSG00
+Kodak Kodak NPCNO00
 Kodiak Kodiak NPCSG00
 Kodály Kodály NPCNSP0
 Kohtla-Järve Kohtla-Järve NPCSG00
