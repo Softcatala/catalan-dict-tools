@@ -35927,6 +35927,7 @@ koto=categories: M;fonts: LT;
 krarupització=categories: F;fonts: LT;
 krausisme=categories: M;fonts: LT;
 kremlin [pl. krémlins]=categories: M;fonts: LT;
+kriptonita=categories: F;fonts: neolosfera;
 krivitx krivitxa=categories: MF;fonts: LT;
 ksi [pl. ksis]=categories: F;fonts: LT;
 kufia=categories: F;fonts: LT;
