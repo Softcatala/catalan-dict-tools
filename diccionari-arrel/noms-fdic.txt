@@ -33089,6 +33089,7 @@ hiporaquis=categories: MI;fonts: LT;
 hiporquema=categories: M;fonts: LT;
 hiposistòlia=categories: F;fonts: LT;
 hipospàdies=categories: MI;fonts: diec,termcat;
+hipostatizació=categories: F;fonts: DNV;
 hipostènia=categories: F;fonts: LT;
 hiposulfit=categories: M;fonts: LT;
 hipotalàssica=categories: F;fonts: LT;

@@ -6499,6 +6499,7 @@ hiperbolitzar=categories: V;model:cantar;fonts:LT
 hiperestesiar=categories: V;model:crear;fonts:LT
 hipertrofiar=categories: V;model:crear;fonts:LT
 hipnotitzar=categories: V;model:cantar;fonts:LT
+hipostatitzar=categories: V;model:cantar;fonts: GDLC, DNV;
 hipotecar=categories: V;model:trencar;fonts:LT
 hipotetitzar=categories: V;model:cantar;fonts:LT
 hispanitzar=categories: V;model:cantar;fonts:LT
