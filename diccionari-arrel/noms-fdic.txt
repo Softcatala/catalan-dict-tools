@@ -55307,6 +55307,7 @@ rutherford=categories: M;fonts: LT;
 rutherfordi=categories: M;fonts: LT;
 rutija=categories: F;fonts: LT;
 rutina=categories: F;fonts: LT;
+rutinització=categories: F;fonts: DDLC;
 rutlla=categories: F;fonts: LT;
 rutló=categories: M;fonts: LT;
 rutàcia=categories: F;fonts: LT;

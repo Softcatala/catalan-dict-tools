@@ -8981,6 +8981,7 @@ ruquejar=categories: V;model:envejar;fonts:LT
 ruralitzar=categories: V;model:cantar;fonts:LT
 russificar=categories: V;model:trencar;fonts:LT
 rutilar=categories: V;model:cantar;fonts:LT
+rutinitzar=categories: V;model:cantar;fonts: DDLC;
 rutlar=categories: V;model:cantar;fonts:LT
 rutllar=categories: V;model:cantar;fonts:LT
 rutlonar=categories: V;model:cantar;fonts:LT
