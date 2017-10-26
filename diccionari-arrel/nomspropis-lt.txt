@@ -1106,6 +1106,7 @@ Alterac Alterac NPCNSP0
 Alteracs Alteracs NPCNSP0
 Altet Altet NPCNSP0
 Altet Altet NPCSG00
+Althusser Althusser NPCNSP0
 Altiplano Altiplano NPCSG00
 Altisent Altisent NPCNSP0
 Altmark Altmark NPCSG00
