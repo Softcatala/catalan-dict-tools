@@ -6455,6 +6455,7 @@ autoritmicitat=categories: F;fonts: LT;
 autorització=categories: F;fonts: LT;
 autorotació=categories: F;fonts: LT;
 autoràdio=categories: F;fonts: LT;
+autosatisfacció=categories: F;fonts: DDLC;
 autoscòpia=categories: F;fonts: LT;
 autosegregació=categories: F;fonts: LT;
 autosensibilització=categories: F;fonts: LT;
