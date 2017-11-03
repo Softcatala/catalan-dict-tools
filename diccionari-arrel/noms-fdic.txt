@@ -30294,6 +30294,7 @@ genitiu=categories: M;fonts: LT;
 genitoplàstia=categories: F;fonts: LT;
 genitor genitora=categories: MF;fonts: LT;
 genitura=categories: F;fonts: LT;
+genitàlia=categories: FS;fonts: termcat,DNV;
 geniva=categories: F;fonts: LT;
 genival=categories: F;fonts: LT;
 genivell=categories: M;fonts: LT;
