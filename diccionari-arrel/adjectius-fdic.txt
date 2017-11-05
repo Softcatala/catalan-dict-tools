@@ -4816,6 +4816,7 @@ carpòfag carpòfaga=categories: A;fonts: LT;
 carranc carranca=categories: A;fonts: LT;
 carrasser=categories: A;fonts: LT;
 carrassí carrassina=categories: A;fonts: LT;
+carregable=categories: A;fonts: derivat;
 carregador carregadora=categories: A;fonts: LT;
 carregadíssim carregadíssima=categories: AA;fonts: LT;
 carregós carregosa=categories: A;fonts: LT;
