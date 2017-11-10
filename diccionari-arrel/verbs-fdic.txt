@@ -1,6 +1,7 @@
 #aguar=categories: V;model:aguar;fonts:LT #antic i dialectal, crea confusions
 #avortir=categories: V;model:servir;fonts:LT #antic
 #coldre=categories: V;model:absoldre;fonts:LT
+#consellar=categories: V;model:cantar;fonts:LT #poc usual i crea confusions
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
 #fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
@@ -2007,7 +2008,6 @@ conrear=categories: V;model:crear;fonts:LT
 consagrar=categories: V;model:cantar;fonts:LT
 conscienciar=categories: V;model:crear;fonts:LT
 conscienciejar=categories: V;model:envejar;fonts:LT
-consellar=categories: V;model:cantar;fonts:LT
 consensuar=categories: V;model:lloar;fonts:LT
 consentir=categories: V;model:mentir;fonts:LT
 conservar=categories: V;model:cantar;fonts:LT
