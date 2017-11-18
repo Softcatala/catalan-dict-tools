@@ -23700,6 +23700,7 @@ tens tensa=categories: A;fonts: LT;
 tensioactiu tensioactiva=categories: A;fonts: LT;
 tensional=categories: A;fonts: LT;
 tensiu tensiva=categories: A;fonts: LT;
+hipertensiu hipertensiva=categories: A;fonts: termcat;
 tensor tensora=categories: A;fonts: LT;
 tensorial=categories: A;fonts: LT;
 tentacular=categories: A;fonts: LT;
