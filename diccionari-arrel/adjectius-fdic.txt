@@ -15382,6 +15382,7 @@ manifestador manifestadora=categories: A;fonts: LT;
 maniobrable=categories: A;fonts: LT;
 manipulable=categories: A;fonts: LT;
 manipulador manipuladora=categories: A;fonts: LT;
+maniqueista=categories: A;fonts: derivat, DDLC;
 maniqueu maniquea=categories: A;fonts: LT;
 maniser manisera=categories: A;fonts: LT;
 maniuelenc maniuelenca=categories: A;fonts: LT;
