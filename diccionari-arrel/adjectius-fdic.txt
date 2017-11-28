@@ -3111,6 +3111,7 @@ baix-empordanès baix-empordanesa=categories: A;fonts: LT;
 baixanenc baixanenca=categories: A;fonts: LT;
 baixet baixeta=categories: AA;fonts: LT;
 baiximperial=categories: A;fonts: termcat;
+baixista=categories: A;fonts: DDLC;
 baixkir baixkira=categories: A;fonts: LT;
 baixkirià baixkiriana=categories: A;fonts: LT;
 baixllatí baixllatina=categories: A;fonts: LT;
