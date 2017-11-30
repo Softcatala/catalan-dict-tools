@@ -61834,6 +61834,7 @@ tragacant=categories: M;fonts: LT;
 tragacanta=categories: F;fonts: LT;
 tragallada=categories: F;fonts: LT;
 traganeu=categories: M;fonts: LT;
+trage=categories: M; fonts: AVL;
 tragella=categories: F;fonts: LT;
 tragi=categories: M;fonts: LT;
 tragicomèdia=categories: F;fonts: LT;
