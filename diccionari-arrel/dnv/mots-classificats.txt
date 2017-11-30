@@ -1775,6 +1775,7 @@ tapial > tapiera
 taponer > taper 
 tararira > tarambana 
 tardenc > tardà 
+tarús > talús
 tastaranit > caragolet 
 taxònom > taxonomista 
 teda > tea 
@@ -1875,6 +1876,9 @@ xopera > xopada
 xorripapa > cucarró 
 xuplallànties > òliba 
 xurruplar > xarrupejar 
+ofertar > oferir
+borrar > esborrar
+
 
 
 #casos particulars
@@ -1887,6 +1891,11 @@ anda;;;;femení;; [El tenim en plural: andes. "Anda" pot causar confusions.]
 acarrassar;;;;verb pronominal;; [la documentació és contradictòria]
 
 #Poc usual, pot causar inconvenients?
+almussafes=categories: MI;fonts: DNV;
+pirineus=categories: MI;fonts: DNV;
+pima;;;;masculí i femení;;
+pima=categories: A;fonts: DNV;
+
 abornar;;;;verb transitiu;;
 acontényer;;;;verb intransitiu;; [també acontènyer]
 acurtadura;;;;femení;;
@@ -1896,8 +1905,15 @@ aguar;;;;verb transitiu;;
 aguar;;;;verb pronominal;;
 alegar;;;;verb transitiu;; [sinònim de aregar, es confon amb al·legar]
 ya;;;yas;femení;; [En general els noms de lletres àrabs i hebrees no es posen en el diccionari. Són paraules problemàtiques.]
+ra;;;ras;femení;;
+dha;;;dhas;femení;;
+dhal=categories: F;fonts: DNV;
+qaf;;;;famení;;
+ba;;;bas;femení;;
 z;;;;femení;;
 zay;;;;femení;;
+dad;;;;;;
+dal;;;;fe;;
 aquet;;-a;;adjectiu;;
 aquet;;-a;;masculí;;
 corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
