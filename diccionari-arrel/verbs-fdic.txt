@@ -7018,6 +7018,7 @@ malignitzar=categories: V;model:cantar;fonts: DDLC;
 malinterpretar=categories: V;model:cantar;fonts:LT
 maliquejar=categories: V;model:envejar;fonts:LT
 mallar=categories: V;model:cantar;fonts:LT
+mallorquinitzar=categories: V;model:cantar;fonts: DNV;
 malmaridar=categories: V;model:cantar;fonts:LT
 malmenar=categories: V;model:ofrenar;fonts:LT
 malmenjar=categories: V;model:menjar;fonts:LT
