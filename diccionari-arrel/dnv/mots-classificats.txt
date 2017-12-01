@@ -1,3 +1,12 @@
+#infantil 
+palmineta;;;;femení;infantil;
+palmineta;;;;loc. verb.;;
+
+#locucions
+palota;;;;loc. verb.;; no saber palota
+rendibú;;;;loc. verb.;; fer el rendibú
+remanera;;;;loc. adv.;; per la remanera
+
 # marca de col·loquial
 ensaig=assaig [col·loquial en l'accepció més usual]
 ensajar=assajar [col·loquial en l'accepció més usual]
@@ -1880,6 +1889,9 @@ ofertar > oferir
 borrar > esborrar
 agosar > atrevir
 amodorrar > endormiscar
+agimponar > aponar
+aperesar, aperear > emperesir
+
 
 
 
@@ -1893,12 +1905,15 @@ anda;;;;femení;; [El tenim en plural: andes. "Anda" pot causar confusions.]
 acarrassar;;;;verb pronominal;; [la documentació és contradictòria]
 
 #Poc usual, pot causar inconvenients?
+reprocés;;;-essos;masculí;;
+eve=categories: F;fonts: DNV;
 almussafes=categories: MI;fonts: DNV;
 pirineus=categories: MI;fonts: DNV;
 pima;;;;masculí i femení;;
 pima=categories: A;fonts: DNV;
 undulat;;;;adjectiu invariable;; [tipus de núvol: undulatus]
 òscar=categories: M;fonts: DNV;
+logar-se;;;;verb pronominal;;
 
 abornar;;;;verb transitiu;;
 acontényer;;;;verb intransitiu;; [també acontènyer]
