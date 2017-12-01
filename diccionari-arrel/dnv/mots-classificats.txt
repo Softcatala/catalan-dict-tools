@@ -514,7 +514,7 @@ trapitjar
 humir;;;;verb transitiu;;
 mentira>mentida
 platirí [eliminat per l'IEC, s'ha eliminat]
-estandard, portaestandard [però amb les prioritats encreuades !?] [Es confon amb estàndard]
+#estandard, portaestandard [però amb les prioritats encreuades !?] [Es confon amb estàndard]
 menesterós > necessitat [arcaisme?]
 
 # Forma secundària (remissió), extrets automàticament
@@ -1878,6 +1878,8 @@ xuplallànties > òliba
 xurruplar > xarrupejar 
 ofertar > oferir
 borrar > esborrar
+agosar > atrevir
+amodorrar > endormiscar
 
 
 
@@ -1895,6 +1897,8 @@ almussafes=categories: MI;fonts: DNV;
 pirineus=categories: MI;fonts: DNV;
 pima;;;;masculí i femení;;
 pima=categories: A;fonts: DNV;
+undulat;;;;adjectiu invariable;; [tipus de núvol: undulatus]
+òscar=categories: M;fonts: DNV;
 
 abornar;;;;verb transitiu;;
 acontényer;;;;verb intransitiu;; [també acontènyer]
@@ -1930,6 +1934,8 @@ axambergat [sic!]
 zoïsita [segons termcat, DIEC, GDLC: zoisita]
 frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
 barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
+pàrkinson [Parkinson]
+alzhèimer [Alzheimer]
 batidor [L'IEC l'ha eliminat]
 a mata-degolla (DNV), a matadegolla (IEC) // posats tots dos
 vérbola [vèrbola (DIEC)]

@@ -11917,6 +11917,7 @@ heteronexual=categories: A;fonts: LT;
 heteronormatiu heteronormativa=categories: A;fonts: termcat;
 heteronuclear=categories: A;fonts: LT;
 heteroparental=categories: A;fonts: LT;
+uniparental=categories: A;fonts: termcat, DNV;
 heteropatriarcal=categories: A;fonts: derivat;
 heteropolar=categories: A;fonts: LT;
 heterorgànic -a=categories: A;fonts: termcat;
