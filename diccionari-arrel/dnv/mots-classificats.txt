@@ -1914,6 +1914,7 @@ pima=categories: A;fonts: DNV;
 undulat;;;;adjectiu invariable;; [tipus de núvol: undulatus]
 òscar=categories: M;fonts: DNV;
 logar-se;;;;verb pronominal;;
+fox-terrier;anglés;;;masculí;; [entrat sense guionet]
 
 abornar;;;;verb transitiu;;
 acontényer;;;;verb intransitiu;; [també acontènyer]
@@ -1930,13 +1931,19 @@ dhal=categories: F;fonts: DNV;
 qaf;;;;famení;;
 ba;;;bas;femení;;
 z;;;;femení;;
+kha;;;khas;femení;;
 zay;;;;femení;;
 dad;;;;;;
 dal;;;;fe;;
+tha;;;thas;femení;;
+sin=categories: F;fonts: DNV;
+ka=categories: M;fonts: DNV;
+kaf=categories: F;fonts: DNV;
 aquet;;-a;;adjectiu;;
 aquet;;-a;;masculí;;
 corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
 judia;;;;femení;;
+sir;anglés;;;masculí;; [entrat en majúscules]
 
 #incompatibilitats DIEC - DNC
 sàndwitx [DIEC sandvitx]
