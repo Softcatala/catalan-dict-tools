@@ -11,9 +11,14 @@ vet ací;;;;loc. orac.;;
 bacor;;;;adjectiu s.l.;; figa bacor
 bossa nova;portugués;;;femení;;
 carabassut;;;;locució;; no dir xut ni mut ni carabassut
+clim;;;;loc. verb.;;
+
+catso;;;;interjecció;;
+ea;;;;interjecció;;
 
 vivace;italià;;;adverbi;;
 vivace;italià;;;masculí;;
+divertimento;italià;;;masculí;;
 
 
 
@@ -1935,6 +1940,7 @@ apud;llatí;;;preposició;;
 volanda=categories: F;fonts: DNV;
 can;;;;contracció;;
 carar=categories: V;model:cantar;fonts: DNV;
+edam=categories: M;fonts: DNV;
 
 abornar;;;;verb transitiu;;
 acontényer;;;;verb intransitiu;; [també acontènyer]
