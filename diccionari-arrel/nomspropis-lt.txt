@@ -7376,6 +7376,7 @@ Eroski Eroski NPCNO00
 Erra Erra NPCNSP0
 Erta Erta NPCSG00
 Erts Erts NPCSG00
+Ertzaintza Ertzaintza NPFSO00
 Eruges Eruges NPFPG00
 Erzincan Erzincan NPCSG00
 Erzurum Erzurum NPCSG00

@@ -3,6 +3,7 @@ palmineta;;;;femení;infantil;
 palmineta;;;;loc. verb.;;
 
 #locucions
+heus ací;;;;loc. orac.;;
 palota;;;;loc. verb.;; no saber palota
 rendibú;;;;loc. verb.;; fer el rendibú
 remanera;;;;loc. adv.;; per la remanera
@@ -12,15 +13,39 @@ bacor;;;;adjectiu s.l.;; figa bacor
 bossa nova;portugués;;;femení;;
 carabassut;;;;locució;; no dir xut ni mut ni carabassut
 clim;;;;loc. verb.;;
+foja;;;;loc. verb.;; fer foja
+infra;llatí;;;adverbi;;
+mortina;;;;adjectiu s.l.;; carn mortina
+muc;;;;locució;; sense suc ni muc
+rastrons;;;;loc. adv.;; a rastrons
+ravatacapes;;;;loc. adv.;;
 
+recontra;;;;interjecció;;
 catso;;;;interjecció;;
 ea;;;;interjecció;;
+repatxo;;;;interjecció;;
 
+lento;italià;;;adverbi;;
+lento;italià;;;masculí;;
 vivace;italià;;;adverbi;;
 vivace;italià;;;masculí;;
 divertimento;italià;;;masculí;;
+fabliau;francés;;;masculí;;
+fettuccini;italià;;;masculí;;
+franglais;francés;;;masculí;;
+giocoso;italià;-a;;adjectiu;;
+maestoso;italià;;;adverbi;;
+maestoso;italià;;;masculí;;
+nature;francés;;;adjectiu s.l.;;
+pull;;;;interjecció;;
+reprise;francés;;;masculí;;
+
+herodes;;;;loc. verb.;;
+herodes=categories: MI;fonts: DNV;
+hermes=categories: MI;fonts: DNV;
 
 
+ne;;;;pronom;;
 
 #vulgar 
 
@@ -1936,6 +1961,7 @@ logar-se;;;;verb pronominal;;
 fox-terrier;anglés;;;masculí;; [entrat sense guionet]
 arraigades;;;;femení plural;;
 supra;llatí;;;adverbi;;
+infra;llatí;;;adverbi;;
 apud;llatí;;;preposició;;
 volanda=categories: F;fonts: DNV;
 can;;;;contracció;;
@@ -1956,6 +1982,7 @@ dha;;;dhas;femení;;
 dhal=categories: F;fonts: DNV;
 qaf;;;;famení;;
 ba;;;bas;femení;;
+sad=categories: F;fonts: DNV;
 z;;;;femení;;
 kha;;;khas;femení;;
 zay;;;;femení;;

@@ -398,6 +398,7 @@ idò idò CC
 intr introducció Y
 ja ja CS
 jas jas I
+jaseu jaseu I
 jau jau I
 jesús jesús I
 jo jo PP1CSN00
