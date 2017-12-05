@@ -14375,6 +14375,7 @@ coa=categories: F;fonts: LT;
 coacció=categories: F;fonts: LT;
 coacervació=categories: F;fonts: LT;
 coacervat=categories: M;fonts: LT;
+coactivitat=categories: F;fonts: termcat;
 coaddicció=categories: F;fonts: derivat;
 coaddicte coaddicta=categories: MF;fonts: derivat;
 coadjutor=categories: M;fonts: LT;
