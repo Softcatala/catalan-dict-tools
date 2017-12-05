@@ -9,6 +9,7 @@
 #escondiment=categories: M;fonts: LT; # arcaisme
 #escondit=categories: M;fonts: LT; gènere poètic occità, poc usual
 #fusellatge=categories: M;fonts: GDLC (impròpiament);
+#indole=categories: M;fonts: LT; terme de química, es confon amb índole
 #mem=categories: F;fonts: LT, nom de lletra hebrea (poc usual);
 #montpeller=categories: M;fonts: LT; dialectal, es confon amb Montpeller
 #nic=categories: M;fonts: termcat, AVL (poc usual?);
@@ -34381,7 +34382,6 @@ indofenol=categories: M;fonts: LT;
 indogermànic=categories: M;fonts: LT;
 indogermànica=categories: F;fonts: LT;
 indoirànic=categories: M;fonts: LT;
-indole=categories: M;fonts: LT;
 indologia=categories: F;fonts: termcat;
 indolència=categories: F;fonts: LT;
 indomabilitat=categories: F;fonts: LT;
