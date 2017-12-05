@@ -48160,6 +48160,7 @@ piperina=categories: F;fonts: LT;
 piperonal=categories: M;fonts: LT;
 piperàcia=categories: F;fonts: LT;
 pipeta=categories: F;fonts: LT;
+pipicà=categories: M;fonts: DNV,esadir;
 pipil=categories: MF;fonts: LT;
 pipioli=categories: M;fonts: LT;
 pipirigall=categories: M;fonts: LT;

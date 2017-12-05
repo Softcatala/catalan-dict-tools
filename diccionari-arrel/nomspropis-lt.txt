@@ -4127,6 +4127,7 @@ Bullidor Bullidor NPMSG00
 Bulès Bulès NPMSG00
 Bundesliga Bundesliga NPFSO00
 Bundēlkhand Bundēlkhand NPCSG00
+Bunsen Bunsen NPCNSP0
 Bunyol Bunyol NPCNSP0
 Bunyola Bunyola NPCNSP0
 Bunyola Bunyola NPFSG00
