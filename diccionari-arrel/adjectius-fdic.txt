@@ -2163,6 +2163,7 @@ aplegadís aplegadissa=categories: A;fonts: LT;
 aplequista=categories: A;fonts: LT;
 aplicable=categories: A;fonts: LT;
 aplicador aplicadora=categories: A;fonts: LT;
+aplicatiu -iva=categories: A;fonts: DNV;
 aplomallat aplomallada=categories: A;fonts: LT;
 aplàstic aplàstica=categories: A;fonts: LT;
 apneic apneica=categories: A;fonts: LT;

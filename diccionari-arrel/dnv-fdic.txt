@@ -132,7 +132,6 @@ aperear=categories: V;model:crear;fonts:DNV;
 aperesar=categories: V;model:aburgesar;fonts:DNV;
 apiciforme=categories: A;fonts: DNV;
 apitonar=categories: V;model:cantar;fonts: DNV;
-aplicatiu -iva=categories: A;fonts: DNV;
 aplàsic -a=categories: A;fonts: DNV;
 aporrejament=categories: M;fonts: DNV;
 aporrejar=categories: V;model:envejar;fonts: DNV;
