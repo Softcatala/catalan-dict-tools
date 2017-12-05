@@ -10,6 +10,7 @@
 #escondit=categories: M;fonts: LT; gènere poètic occità, poc usual
 #fusellatge=categories: M;fonts: GDLC (impròpiament);
 #indole=categories: M;fonts: LT; terme de química, es confon amb índole
+#infermetat=categories: F;fonts: LT; arcaisme o poc usual
 #mem=categories: F;fonts: LT, nom de lletra hebrea (poc usual);
 #montpeller=categories: M;fonts: LT; dialectal, es confon amb Montpeller
 #nic=categories: M;fonts: termcat, AVL (poc usual?);
@@ -34491,7 +34492,6 @@ inferioritat=categories: F;fonts: LT;
 infermer=categories: M;fonts: LT;
 infermera=categories: F;fonts: LT;
 infermeria=categories: F;fonts: LT;
-infermetat=categories: F;fonts: LT;
 infern=categories: M;fonts: LT;
 infertilitat=categories: F;fonts: LT;
 inferència=categories: F;fonts: LT;
