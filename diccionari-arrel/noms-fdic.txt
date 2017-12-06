@@ -26107,6 +26107,7 @@ euroexèrcit=categories: MS;fonts: encCat;
 euromercat=categories: M;fonts: LT;
 euromoneda=categories: F;fonts: LT;
 euromíssil=categories: M;fonts: LT;
+euroordre=categories: F;fonts: esadir;
 europarlamentari europarlamentària=categories: MF;fonts: LT;
 europeisme=categories: M;fonts: LT;
 europeista=categories: MF;fonts: LT;
