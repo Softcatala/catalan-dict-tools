@@ -19,6 +19,8 @@ mortina;;;;adjectiu s.l.;; carn mortina
 muc;;;;locució;; sense suc ni muc
 rastrons;;;;loc. adv.;; a rastrons
 ravatacapes;;;;loc. adv.;;
+xurrut;;;;loc. verb.;; anar de xurrut
+
 
 recontra;;;;interjecció;;
 catso;;;;interjecció;;
