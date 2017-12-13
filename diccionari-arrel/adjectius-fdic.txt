@@ -19205,6 +19205,7 @@ pluriennal=categories: A;fonts: LT;
 pluriestatal=categories: A;fonts: derivat, dfrequencies;
 pluriestratificat pluriestratificada=categories: A;fonts: LT;
 plurifamiliar=categories: A;fonts: LT;
+plurilateral=categories: A;fonts: DDLC;
 pluriliforme=categories: A;fonts: LT;
 plurilingüe=categories: A;fonts: LT;
 plurilingüístic plurilingüística=categories: A;fonts: derivat;
