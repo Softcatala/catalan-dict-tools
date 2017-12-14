@@ -10405,6 +10405,7 @@ Igual Igual NPCNSP0
 Igualada Igualada NPFSG00
 Iguvium Iguvium NPMSG00
 Igüerri Igüerri NPCSG00
+Ikea Ikea NPCNO00
 Ilawe-Ekiti Ilawe-Ekiti NPCSG00
 Ildefons Ildefons NPMPSP0
 Ildefons Ildefons NPMSSP0
