@@ -61279,6 +61279,7 @@ titanat=categories: M;fonts: LT;
 titani=categories: M;fonts: LT;
 titanil=categories: M;fonts: LT;
 titanita=categories: F;fonts: LT;
+titanomàquia=categories: F;fonts: GEC;
 titanoteri=categories: M;fonts: LT;
 titaranya=categories: F;fonts: LT;
 titella1=categories: M;fonts: LT;
