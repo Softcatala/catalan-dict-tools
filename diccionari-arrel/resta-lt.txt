@@ -717,6 +717,7 @@ re res PI0CS000
 recoi recoi I
 recollons recollons I
 redell redell I
+redimoni redimoni I
 redimonis redimonis I
 redéu redéu I
 ref referència Y

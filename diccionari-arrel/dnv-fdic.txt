@@ -3553,6 +3553,7 @@ recomanatori -òria=categories: A;fonts: DNV;
 recompressió=categories: F;fonts: DNV;
 recordina=categories: AF;fonts: DNV;
 recordinar=categories: V;model:abominar;fonts: DNV;
+recordí=categories: M;fonts: DNV;
 recriador -a=categories: MF;fonts: DNV;
 rectectomia=categories: F;fonts: DNV;
 rectografia=categories: F;fonts: DNV;
