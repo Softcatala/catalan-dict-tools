@@ -2217,6 +2217,7 @@ alfabeguer alfabeguera=categories: MF;fonts: LT;
 alfabegueta=categories: F;fonts: LT;
 alfabet=categories: M;fonts: LT;
 alfabeta=categories: F;fonts: LT;
+alfabetisme=categories: M;fonts: DNV;
 alfabetització=categories: F;fonts: LT;
 alfabetitzador alfabetitzadora=categories: MF;fonts: LT;
 alfabreguera=categories: F;fonts: LT;

@@ -1,3 +1,10 @@
+abagotar=categories: V;model:cantar;fonts: DNV;
+abarracar=categories: V;model:trencar;fonts: DNV;
+abotargar=categories: V;model:pregar;fonts: DNV;
+acanellar=categories: V;model:cantar;fonts: DNV;
+acapollar=categories: V;model:cantar;fonts: DNV;
+acensalar=categories: V;model:cantar;fonts: DNV;
+afondir=categories: V;model:servir;fonts: DNV;
 aganar=categories: V;model:cantar;fonts: DNV;
 agaons=categories: MP;fonts: DNV;
 agarbissonar=categories: V;model:cantar;fonts: DNV;

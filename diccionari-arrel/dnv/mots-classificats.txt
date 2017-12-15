@@ -2024,25 +2024,59 @@ papagall [IEC: papagai]
 #errors en el DNV
 nimbostratus [hauria de ser nimboestratus]
 subjectivització [paraula mal formada si l'únic verb acceptat és "subjectivar"]
-genitalia;;;;masculí plural;; [segons el DNV i GDLC seria un llatinisme: els 'genitalia', segons Termcat: la genitàlia]
 
 #Ja acceptats com a multiparaules
 bossa nova;portugués;;;femení;;
 
 # Per a acceptar
 
-semianalfabet;;-eta;;adjectiu;;
 
-alfabetisme;;;;masculí;;
 
-abagotar;;;;verb transitiu;;
-abarracar;;;;verb transitiu;;
-abatussar;;;;verb transitiu;;
-ablaürar;;;;verb transitiu;;
-abotargar;;;;verb pronominal;; [S'HA DE MARCAR COM A PRONOMIAL]
-acanellar;;;;verb transitiu;;
-acapollar;;;;verb intransitiu;;
-acartonar;;;;verb pronominal;; [No en el DIEC, però ben format]
-acensalar;;;;verb transitiu;; [acensar]
-afondir;;;;verb transitiu;;
-afondir;;;;verb intransitiu;;
+
+
+# Ja revisats. No entren en el diccionari
+almussafes;;;;masculí invariable;;
+atanyent;;;;adjectiu;;
+b;;;;femení;;
+bossa nova;portugués;;;femení;;
+C;;;;femení;;
+carar;;;;verb transitiu;;
+crown;;;;locució;;
+culastró;;;;loc. adv. s.l.;;
+dhal;;;;femení;;
+ding-dong;;;;onomatopeia i masculí;;
+edam;;;;masculí;;
+ertzaintza;basc;;;femení;;
+eurocambra;;;;femení;;
+eurotúnel;;;;masculí;;
+eurovisió;;;;femení;;
+eve;;;;femení;;
+f;;;;femení;;
+hermes;;;;masculí invariable;;
+heus ací;;;;loc. orac.;;
+indole;;;;masculí;;
+infermetat;;;;femení;;
+j;;;;femení;;
+k;;;;femení;;
+ka;;;;masculí;;
+kaf;;;;femení;;
+logar-se;;;;verb pronominal;;
+marathí;;;;masculí;;
+marathí;;;;adjectiu;;
+òscar;;;;masculí;;
+p;;;;femení;;
+panxeta;;;;loc. verb.;;
+pirineus;;;;masculí invariable;;
+q;;;;femení;;
+r;;;;femení;;
+sad;;;;femení;;
+santfermins;;;;masculí plural;;
+sin;;;;femení;;
+t;;;;femení;;
+v;;;;femení;;
+vero;;;;loc. verb.;;
+vet ací;;;;loc. orac.;;
+volanda;;;;femení;;
+w;;;;femení;;
+x;;;;femení;;
+x;;;;locució;;

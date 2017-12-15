@@ -22246,6 +22246,7 @@ semiacabat semiacabada=categories: A;fonts: LT;
 semiacústic semiacústica=categories: A;fonts: LT;
 semiadaptat semiadaptada=categories: A;fonts: LT;
 semiamplexicaule=categories: A;fonts: LT;
+semianalfabet semianalfabeta=categories: A;fonts: LT;
 semianular=categories: A;fonts: LT;
 semiarià semiariana=categories: A;fonts: LT;
 semiarponat semiarponada=categories: A;fonts: LT;
