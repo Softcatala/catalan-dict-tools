@@ -69,7 +69,7 @@ tablet;anglés;;;femení;;
 herodes;;;;loc. verb.;;
 herodes=categories: MI;fonts: DNV;
 hermes=categories: MI;fonts: DNV;
-
+moisès=categories: M;fonts: DNV;
 
 ne;;;;pronom;;
 
