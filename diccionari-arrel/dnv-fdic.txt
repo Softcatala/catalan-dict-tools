@@ -325,6 +325,7 @@ bassadina=categories: F;fonts: DNV;
 bastor=categories: F;fonts: DNV;
 basuto=categories: A;fonts: DNV;
 basuto=categories: MF;fonts: DNV;
+batidor=categories: M;fonts: DNV;
 batzagues=categories: MI;fonts: DNV;
 belenc -a=categories: A;fonts: DNV;
 belenc -a=categories: MF;fonts: DNV;
