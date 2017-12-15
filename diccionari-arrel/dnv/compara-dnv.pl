@@ -5,7 +5,7 @@ use autodie;
 use utf8;
 binmode( STDOUT, ":utf8" );
 
-my $lt_dict="/home/jaume/github/catalan-dict-tools/resultats/lt/diccionari.txt";
+my $lt_dict="/home/jaume/github/catalan-dict-tools/resultats/lt/diccionari-dnv.txt";
 my $dnv_dict="/home/jaume/github/catalan-dict-tools/diccionari-arrel/dnv/LemesDNV.csv";
 my $mw_dict="/home/jaume/github/languagetool/languagetool-language-modules/ca/src/main/resources/org/languagetool/resource/ca/multiwords.txt";
 my $mc_dict="/home/jaume/github/catalan-dict-tools/diccionari-arrel/dnv/mots-classificats.txt";
