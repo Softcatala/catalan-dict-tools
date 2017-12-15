@@ -1607,7 +1607,6 @@ sarpallada > sarpada
 sarro > tosca dental 
 sarrompa > trompa 
 seixantó > sexagenari 
-seltz >   
 sembradís > sembrador 
 senall > senalla 
 sendat > sendal 
@@ -1623,7 +1622,6 @@ silicrossi > alficòs
 simalet > semaler 
 sitial > setial 
 sitjada > formigada 
-skay > escai 
 slalom > eslàlom 
 slip > eslip 
 smartphone > telèfon intel·ligent 
@@ -1747,7 +1745,6 @@ xarratina > xarradissa
 xarratola > xarradissa 
 xarrola > xarrera 
 xennot > busquereta cuallarga 
-xi > xe 
 xibar > espentar 
 ximenera > fumeral 
 xinxiró > cucarró 
@@ -1766,5 +1763,21 @@ borrar > esborrar
 agosar > atrevir
 amodorrar > endormiscar
 agimponar > aponar
-aperesar, aperear > emperesir
+aperesar> emperesir
+aperear > emperesir
 caporrutxo > caperutxa
+
+
+
+vérbola [vèrbola (DIEC)]
+trémolo [trèmolo (DIEC)]
+télex;;;;masculí;; [tèlex (DIEC)]
+ténia;;;;femení;; [tènia (DIEC)]
+papagall [IEC: papagai]
+sàndwitx [DIEC sandvitx]
+sandwitxera;;;;femení;;
+sandwitxeria;;;;femení;;
+sandwich
+hittita [IEC: hitita]
+axamfranar [sic! per aixamfranar?] 
+axambergat [sic!]

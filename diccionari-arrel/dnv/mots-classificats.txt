@@ -25,6 +25,10 @@ dric-drac;;;;loc. adv.;;
 grapameus;;;;loc. adv. s.l.;; a grapameus
 osades;;;;loc. adv.;; a osades > ausades
 bif;;;;loc. orac.;col·loquial; 	lo mateix té bif que baf 
+borbolló;;;;loc. adv.;;
+borbotó;;;;loc. adv.;;
+
+galligota;;;;loc. adv.;;
 
 recontra;;;;interjecció;;
 catso;;;;interjecció;;
@@ -198,12 +202,8 @@ vijares;;;;masculí invariable;antic;
 
 
 
-
-
-
-
 #casos particulars
-a (la) coixcoix [d'ús poc estés, i ortografia dubtosa: coix-coix]
+a (la) coixcoix [d'ús poc estés, i ortografia dubtosa: coix-coix] INTRODUÏT
 benigembla [Es confon amb el topònim Benigembla]
 [totes les terminacions -iste/-ista
 anda;;;;femení;; [El tenim en plural: andes. "Anda" pot causar confusions.]
@@ -212,6 +212,8 @@ anda;;;;femení;; [El tenim en plural: andes. "Anda" pot causar confusions.]
 acarrassar;;;;verb pronominal;; [la documentació és contradictòria]
 
 #Poc usual, pot causar inconvenients?
+buçó;;;;masculí;;
+
 reprocés;;;-essos;masculí;;
 eve=categories: F;fonts: DNV;
 almussafes=categories: MI;fonts: DNV;
@@ -262,6 +264,18 @@ judia;;;;femení;;
 sir;anglés;;;masculí;; [entrat en majúscules]
 
 #incompatibilitats DIEC - DNC
+frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
+barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
+pàrkinson [Parkinson]
+alzhèimer [Alzheimer]
+batidor [L'IEC l'ha eliminat]
+a mata-degolla (DNV), a matadegolla (IEC) // posats tots dos
+
+vérbola [vèrbola (DIEC)]
+trémolo [trèmolo (DIEC)]
+télex;;;;masculí;; [tèlex (DIEC)]
+ténia;;;;femení;; [tènia (DIEC)]
+papagall [IEC: papagai]
 sàndwitx [DIEC sandvitx]
 sandwitxera;;;;femení;;
 sandwitxeria;;;;femení;;
@@ -269,20 +283,10 @@ sandwich
 hittita [IEC: hitita]
 axamfranar [sic! per aixamfranar?] 
 axambergat [sic!]
-zoïsita [segons termcat, DIEC, GDLC: zoisita]
-frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
-barça [L'IEC l'ha canviat a "barsa". En tot cas són formes secundàries. Confusió amb "Barça" (nom propi). És preferible no posar-ne cap en el diccionari.]
-pàrkinson [Parkinson]
-alzhèimer [Alzheimer]
-batidor [L'IEC l'ha eliminat]
-a mata-degolla (DNV), a matadegolla (IEC) // posats tots dos
-vérbola [vèrbola (DIEC)]
-trémolo [trèmolo (DIEC)]
-télex;;;;masculí;; [tèlex (DIEC)]
-ténia;;;;femení;; [tènia (DIEC)]
-papagall [IEC: papagai]
+
 
 #errors en el DNV
+zoïsita [segons termcat, DIEC, GDLC: zoisita]
 nimbostratus [hauria de ser nimboestratus]
 subjectivització [paraula mal formada si l'únic verb acceptat és "subjectivar"]
 
@@ -345,6 +349,8 @@ acras;;;;masculí invariable;;
 xi;;;;interjecció;;
 skay;anglés;;;masculí;; [no és anglès. És la marca registrada Skai ]
 jovenall;;;;masculí i femení;;  [fa el plural en "jovenalla"]?
+pentecosta;;;;femení;;
+pentecostés;;;;masculí invariable;;
 
 
 #Crear regla
