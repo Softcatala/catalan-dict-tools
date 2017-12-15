@@ -33252,6 +33252,7 @@ hitita=categories: MF;fonts: LT;
 hitleriana=categories: F;fonts: LT;
 hitlerisme=categories: M;fonts: LT;
 hitlerià=categories: M;fonts: LT;
+hittita=categories: MF;fonts: DNV;
 hivern=categories: M;fonts: LT;
 hivernacle=categories: M;fonts: LT;
 hivernada=categories: F;fonts: LT;

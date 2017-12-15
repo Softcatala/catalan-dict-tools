@@ -12204,6 +12204,7 @@ històric històrica=categories: A;fonts: LT;
 hitchcockià hitchcockiana=categories: A;fonts: LT;
 hitita=categories: A;fonts: LT;
 hitlerià hitleriana=categories: A;fonts: LT;
+hittita=categories: A;fonts: DNV;
 hivernal=categories: A;fonts: LT;
 hivernant=categories: A;fonts: LT;
 hivernenc hivernenca=categories: A;fonts: LT;

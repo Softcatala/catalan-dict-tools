@@ -52910,10 +52910,6 @@ histerotomia histerotomia NCFS000
 histerotomies histerotomia NCFP000
 histeràlgia histeràlgia NCFS000
 histeràlgies histeràlgia NCFP000
-hittita hittita AQ0CS0
-hittita hittita NCCS000
-hittites hittita AQ0CP0
-hittites hittita NCCP000
 hivernesc hivernesc AQ0MS0
 hivernesca hivernesc AQ0FS0
 hivernescos hivernesc AQ0MP0
