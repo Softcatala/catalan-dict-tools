@@ -1,4 +1,6 @@
 # marca de col·loquial
+xitxa > carn #infantil
+babi > avi #infantil
 ensaig=assaig [col·loquial en l'accepció més usual]
 ensajar=assajar [col·loquial en l'accepció més usual]
 acaminar
@@ -506,7 +508,6 @@ bífio > bifi
 bísol > bis 
 bòrfega > bambolla 
 baülaire > baüler 
-babi > avi 
 babota > espantall 
 bacinilla > bací 
 bajoqueral > bajocar 
@@ -1752,7 +1753,6 @@ ximenera > fumeral
 xinxiró > cucarró 
 xirigotada > xirigota 
 xiritxofla > cucarró 
-xitxa > caragolet 
 xitxarrot > busquerot 
 xitxorrita > cucarró 
 xofa > rosa 

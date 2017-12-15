@@ -24,6 +24,7 @@ arrapa-fuig;;;;loc. adv. s.l.;; d'arrapa-fuig (variant de d'arrapa-i-fuig)
 dric-drac;;;;loc. adv.;;
 grapameus;;;;loc. adv. s.l.;; a grapameus
 osades;;;;loc. adv.;; a osades > ausades
+bif;;;;loc. orac.;col·loquial; 	lo mateix té bif que baf 
 
 recontra;;;;interjecció;;
 catso;;;;interjecció;;
@@ -43,6 +44,7 @@ ie;;;;interjecció;col·loquial;
 malòrum;;;;interjecció;col·loquial;
 mante;;;;interjecció;col·loquial;
 muix;;;;interjecció;;
+catsoleta;;;;interjecció;;
 
 mitan;;;;loc. prep.;col·loquial; a mitan > a mitjan
 
@@ -62,6 +64,8 @@ nature;francés;;;adjectiu s.l.;;
 pull;;;;interjecció;;
 reprise;francés;;;masculí;;
 
+tablet;anglés;;;femení;;
+
 herodes;;;;loc. verb.;;
 herodes=categories: MI;fonts: DNV;
 hermes=categories: MI;fonts: DNV;
@@ -75,6 +79,9 @@ calforro
 
 astò;;;;pronom;col·loquial;
 
+
+#Històric
+buçó=categories: M;fonts: DNV;
 
 #marca d'antic
 realesa
