@@ -2588,6 +2588,7 @@ asincrònic asincrònica=categories: A;fonts: LT;
 asindètic asindètica=categories: A;fonts: LT;
 asintàctic asintàctica=categories: A;fonts: LT;
 asiní asinina=categories: A;fonts: LT;
+asistemàtic -a=categories: A;fonts: DNV;
 asistòlic asistòlica=categories: A;fonts: LT;
 asiànic asiànica=categories: A;fonts: LT;
 asiàtic asiàtica=categories: A;fonts: LT;
