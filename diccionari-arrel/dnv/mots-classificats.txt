@@ -213,6 +213,7 @@ acarrassar;;;;verb pronominal;; [la documentació és contradictòria]
 
 #Poc usual, pot causar inconvenients?
 buçó;;;;masculí;;
+pito -a=categories: A;fonts: DNV,col·loquial; pito -a;;adj > ben plantat
 
 reprocés;;;-essos;masculí;;
 eve=categories: F;fonts: DNV;
@@ -262,6 +263,8 @@ aquet;;-a;;masculí;;
 corretejar [DNV i IEC, però val més no posar-lo en el diccionari. És arcaisme i es confon amb castellanisme: corretear=belluguejar]
 judia;;;;femení;;
 sir;anglés;;;masculí;; [entrat en majúscules]
+platirí [eliminat per l'IEC, s'ha eliminat]
+soldre [però és irrellevant, perquè no s'usa mai en infinitiu] FET
 
 #incompatibilitats DIEC - DNC
 frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
