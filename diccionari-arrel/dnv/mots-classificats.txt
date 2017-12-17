@@ -265,6 +265,7 @@ judia;;;;femení;;
 sir;anglés;;;masculí;; [entrat en majúscules]
 platirí [eliminat per l'IEC, s'ha eliminat]
 soldre [però és irrellevant, perquè no s'usa mai en infinitiu] FET
+veixell [segons DCVB, grafia antiga]
 
 #incompatibilitats DIEC - DNC
 frànkfurt [frankfurt (GDLC), Frankfurt (termcat)]
