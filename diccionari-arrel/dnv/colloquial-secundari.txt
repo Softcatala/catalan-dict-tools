@@ -1,4 +1,6 @@
 # marca de col·loquial
+ensaig=assaig
+ensajar=assajar
 xitxa > carn #infantil
 babi > avi #infantil
 ensaig=assaig [col·loquial en l'accepció més usual]
@@ -1769,15 +1771,3 @@ caporrutxo > caperutxa
 
 
 
-vérbola [vèrbola (DIEC)]
-trémolo [trèmolo (DIEC)]
-télex;;;;masculí;; [tèlex (DIEC)]
-ténia;;;;femení;; [tènia (DIEC)]
-papagall [IEC: papagai]
-sàndwitx [DIEC sandvitx]
-sandwitxera;;;;femení;;
-sandwitxeria;;;;femení;;
-sandwich
-hittita [IEC: hitita]
-axamfranar [sic! per aixamfranar?] 
-axambergat [sic!]
