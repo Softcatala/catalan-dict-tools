@@ -1,4 +1,5 @@
 #abeltir=categories: V;model:servir;fonts: DNV;
+#ditar=categories: V;model:cantar;fonts: DNV; #dóna molts problemes
 #embaltir=categories: V;model:servir;fonts: DNV;
 #embeltir=categories: V;model:servir;fonts: DNV;
 Cinquagesma=categories: F;fonts: DNV;
@@ -1909,7 +1910,6 @@ distanàsia=categories: F;fonts: DNV;
 districtual=categories: A;fonts: DNV;
 distèrmia=categories: F;fonts: DNV;
 distímic -a=categories: A;fonts: DNV;
-ditar=categories: V;model:cantar;fonts: DNV;
 ditera=categories: F;fonts: DNV;
 ditologia=categories: F;fonts: DNV;
 ditó=categories: M;fonts: DNV;
