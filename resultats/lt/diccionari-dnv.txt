@@ -49121,14 +49121,6 @@ fonoses fonós AQ0FP0
 fonosos fonós AQ0MP0
 fonovisions fonovisió NCFP000
 fonovisió fonovisió NCFS000
-font-rabiosada font-rabiosat AQ0FS0
-font-rabiosada font-rabiosat NCFS000
-font-rabiosades font-rabiosat AQ0FP0
-font-rabiosades font-rabiosat NCFP000
-font-rabiosat font-rabiosat AQ0MS0
-font-rabiosat font-rabiosat NCMS000
-font-rabiosats font-rabiosat AQ0MP0
-font-rabiosats font-rabiosat NCMP000
 fontanal fontanal NCMS000
 fontanals fontanal NCMP000
 fontanar fontanar NCMS000
@@ -55071,7 +55063,6 @@ inorganitzat inorganitzat AQ0MS0
 inorganitzats inorganitzat AQ0MP0
 inoxidabilitat inoxidabilitat NCFS000
 inoxidabilitats inoxidabilitat NCFP000
-input-output input-output NCMS000
 inquilinisme inquilinisme NCMS000
 inquilinismes inquilinisme NCMP000
 insculpeix insculpir VMIP3S00
@@ -60761,8 +60752,6 @@ no-bel·ligerant no-bel·ligerant AQ0CS0
 no-bel·ligerants no-bel·ligerant AQ0CP0
 no-linealitat no-linealitat NCFS000
 no-linealitats no-linealitat NCFP000
-no-sé-què no-sé-què NCMN000
-no-sé-qué no-sé-què NCMN000
 nobel nobel NCCS000
 nobels nobel NCCP000
 noctilucina noctilucina NCFS000
@@ -65162,7 +65151,6 @@ pontejàvem pontejar VMII1P00
 pontejàveu pontejar VMII2P00
 pontillons pontilló NCMP000
 pontilló pontilló NCMS000
-pop-rock pop-rock NCMS000
 popelina popelina NCFS000
 popelines popelina NCFP000
 populina populina NCFS000
