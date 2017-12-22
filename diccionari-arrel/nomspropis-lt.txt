@@ -20239,6 +20239,7 @@ Teixonera Teixonera NPFSG00
 Teià Teià NPCSG00
 Tel-Aviv-Yafō Tel-Aviv-Yafō NPCSG00
 Telde Telde NPCSG00
+Telegram Telegram NPMSO00
 Telemadrid Telemadrid NPFSO00
 Telentrada Telentrada NPMSO00
 Telescopi Telescopi NPMSG00

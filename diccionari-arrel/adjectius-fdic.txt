@@ -19787,6 +19787,7 @@ premorient=categories: A;fonts: LT;
 premsador premsadora=categories: A;fonts: LT;
 premíslida=categories: A;fonts: LT;
 premòrbid premòrbida=categories: A;fonts: termcat;
+prenadalenc prenadalenca=categories: A;fonts: Neolosfera;
 prenatal=categories: A;fonts: LT;
 prenedor prenedora=categories: A;fonts: LT;
 prensor prensora=categories: A;fonts: LT;
