@@ -42970,6 +42970,7 @@ neurocomputació=categories: F;fonts: termcat;
 neurocrani=categories: M;fonts: LT;
 neurodermitis=categories: FI;fonts: LT;
 neurodesenvolupament=categories: M;fonts: derivat;
+neurodidàctica=categories: F;fonts: termcat;
 neurodocitis=categories: FI;fonts: LT;
 neurodèrmia=categories: F;fonts: LT;
 neuroeducació=categories: F;fonts: LT;

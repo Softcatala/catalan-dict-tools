@@ -13815,6 +13815,7 @@ intons intonsa=categories: A;fonts: LT;
 intortus=categories: AI;fonts: LT;
 intoxicador -a=categories: A;fonts: derivat;
 intoxicant=categories: A;fonts: LT;
+intraabdominal=categories: A;fonts: termcat;
 intraadministratiu intraadministrativa=categories: A;fonts: derivat;
 intraaracnoidal=categories: A;fonts: LT;
 intraaracnoïdal=categories: A;fonts: pre2017;
