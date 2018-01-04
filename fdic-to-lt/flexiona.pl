@@ -241,7 +241,7 @@ while ( my $line = <$fh> ) {
         }
 
         #accentuació valenciana
-        if ( $singular !~ /^perquè$/ ) {
+        if ( $singular !~ /^(perquè|no-sé-què)$/ ) {
             if ( $singular =~ /^(.+)è([sn]?)$/ ) {
                 $singular2 = $1 . "é" . $2;
 

@@ -10,9 +10,9 @@
 lt_tools=~/languagetool/languagetool.jar
 
 # dump the tagger dictionary
-java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i catalan.dict -o catalan_lt.txt -info catalan.info
+java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i ca-ES.dict -o ca-ES_lt.txt -info ca-ES.info
 
-cp catalan_lt.txt diccionari_antic.txt
+cp ca-ES_lt.txt diccionari_antic.txt
 echo "Preparant diccionari"
 sed -i 's/^\(.*\)\t\(.*\)\t\(.*\)$/\1 \2 \3/' diccionari_antic.txt
 echo "Ordenant diccionari"
