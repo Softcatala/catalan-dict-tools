@@ -14241,12 +14241,6 @@ ciclístics ciclístic AQ0MP0
 ciclístiques ciclístic AQ0FP0
 cicutina cicutina NCFS000
 cicutines cicutina NCFP000
-cientifisme cientifisme NCMS000
-cientifismes cientifisme NCMP000
-cientifista cientifista AQ0CS0
-cientifista cientifista NCCS000
-cientifistes cientifista AQ0CP0
-cientifistes cientifista NCCP000
 cigronar cigronar NCMS000
 cigronars cigronar NCMP000
 cimenter cimenter AQ0MS0

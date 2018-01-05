@@ -5242,6 +5242,7 @@ cient=categories: A;fonts: LT;
 cientificomèdic cientificomèdica=categories: A;fonts: UV;
 cientificotecnològic -a=categories: A;fonts: derivat;
 cientificotècnic cientificotècnica=categories: A;fonts: LT;
+cientifista=categories: A;fonts: DNV;
 cientista=categories: A;fonts: LT;
 científic científica=categories: A;fonts: LT;
 cifòtic cifòtica=categories: A;fonts: LT;
