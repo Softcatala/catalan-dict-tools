@@ -16007,6 +16007,7 @@ microlepidòpter microlepidòptera=categories: A;fonts: LT;
 microlític microlítica=categories: A;fonts: LT;
 micromètric micromètrica=categories: A;fonts: LT;
 micronesi micronèsia=categories: A;fonts: LT;
+microorgànic microorgànica=categories: A;fonts: derivat;
 microporós -osa=categories: A;fonts: LT;
 microprogramat microprogramada=categories: A;fonts: LT;
 microquímic microquímica=categories: A;fonts: LT;
