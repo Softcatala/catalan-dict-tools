@@ -32971,6 +32971,7 @@ hiperpituïtarisme=categories: M;fonts: LT;
 hiperplà=categories: M;fonts: LT;
 hiperplàsia=categories: F;fonts: LT;
 hiperpnea=categories: F;fonts: LT;
+hiperpolarització=categories: F;fonts: termcat;
 hiperpotassèmia=categories: F;fonts: termcat;
 hiperpredador=categories: M;fonts: LT;
 hiperrealisme=categories: M;fonts: LT;
