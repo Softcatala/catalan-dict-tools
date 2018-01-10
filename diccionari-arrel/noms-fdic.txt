@@ -20,6 +20,7 @@
 #tabla=categories: M;fonts: instrument hindú (es pot confondre amb taula);
 #tableta=categories: F;fonts: terme de farmàcia, no general;
 #vina=categories: F;fonts: instrument musical, poc freqüent, es confon amb "vine";
+#víking=categories: MF;fonts: LT; # eliminat de DIEC i DNV
 A3=categories: MI;fonts: simbol;
 A4=categories: MI;fonts: simbol;
 A5=categories: MI;fonts: simbol;
@@ -65286,7 +65287,6 @@ víctima=categories: F;fonts: LT;
 víctor=categories: M;fonts: LT;
 vídeo=categories: M;fonts: LT;
 vídia=categories: M;fonts: LT;
-víking=categories: MF;fonts: LT;
 víl·lic víl·lica=categories: MF;fonts: LT;
 vímec=categories: M;fonts: LT;
 vímet=categories: M;fonts: LT;
