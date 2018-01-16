@@ -63169,6 +63169,7 @@ turiferari turiferària=categories: MF;fonts: LT;
 turingi turíngia=categories: MF;fonts: LT;
 turingià=categories: M;fonts: LT;
 turisme=categories: M;fonts: LT;
+turismofòbia=categories: F;fonts: esadir;
 turista=categories: MF;fonts: LT;
 turió=categories: M;fonts: LT;
 turma=categories: F;fonts: LT;
