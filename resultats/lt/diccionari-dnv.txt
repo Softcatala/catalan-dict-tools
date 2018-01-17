@@ -66444,6 +66444,9 @@ pàrkinsons pàrkinson NCMP000
 pàter pàter NCMS000
 pàters pàter NCMP000
 pèl-ros pèl-ros AQ0MS0
+pèl-rossa pèl-ros AQ0FS0
+pèl-rosses pèl-ros AQ0FP0
+pèl-rossos pèl-ros AQ0MP0
 pèleg pèleg NCMS000
 pèlegs pèleg NCMP000
 pílsens pilsen NCFP000
@@ -70629,7 +70632,6 @@ rosegadures rosegadura NCFP000
 roseïna roseïna NCFS000
 roseïnes roseïna NCFP000
 ross rossar VMIP1S0B
-rossa pèl-ros AQ0FS0
 rossa rossar VMIP3S00
 rossa rossar VMM02S00
 rossada rossar VMP00SF0
@@ -70681,7 +70683,6 @@ rossem rossar VMSP1P00
 rossen rossar VMIP3P00
 rossen rossar VMM03P0V
 rossen rossar VMSP3P0V
-rosses pèl-ros AQ0FP0
 rosses rossar VMIP2S00
 rosses rossar VMSP2S0V
 rossessen rossar VMSI3P05
@@ -70700,7 +70701,6 @@ rossis rossar VMSP2S0Y
 rosso rossar VMIP1S0C
 rossoll rossoll NCMS000
 rossolls rossoll NCMP000
-rossos pèl-ros AQ0MP0
 rossà rossar VMIS3S00
 rossàrem rossar VMIS1P00
 rossàrem rossar VMSI1P03
