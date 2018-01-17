@@ -8,6 +8,7 @@ ir eixo ir VMIP1S0C # afegeixo
 r sc ir VMIP1S0V # afegisc
 ir esc ir VMIP1S0Z # afegesc
 egir ig ir VMIP1S0Z # afig
+egir igc ir VMIP1S0V # afigc
 ir eixes ir VMIP2S00 # afegeixes
 r xes ir VMIP2S0V # afegixes
 egir iges ir VMIP2S0Z # afiges
@@ -46,18 +47,21 @@ r rien ir VMIC3P00 # afegirien
 ir esca ir VMSP1S0V # afegesca
 r sca ir VMSP1S0V # afegisca
 egir ija ir VMSP1S0V # afija
+egir igga ir VMSP1S0V # afigga
 ir esqui ir VMSP1S0B # afegesqui
 egir igi ir VMSP1S0B # afigi
 ir eixi ir VMSP1S0Y # afegeixi
 ir esques ir VMSP2S0V # afegesques
 r sques ir VMSP2S0V # afegisques
 egir iges ir VMSP2S0V # afiges
+egir iggues ir VMSP2S0V # afiggues
 ir esquis ir VMSP2S0B # afegesquis
 egir igis ir VMSP2S0B # afigis
 ir eixis ir VMSP2S0Y # afegeixis
 ir esca ir VMSP3S0V # afegesca
 r sca ir VMSP3S0V # afegisca
 egir ija ir VMSP3S0V # afija
+egir igga ir VMSP3S0V # afigga
 ir esqui ir VMSP3S0B # afegesqui
 egir igi ir VMSP3S0B # afigi
 ir eixi ir VMSP3S0Y # afegeixi
@@ -68,6 +72,7 @@ r gueu ir VMSP2P0B # afegigueu
 ir esquen ir VMSP3P0V # afegesquen
 r squen ir VMSP3P0V # afegisquen
 egir igen ir VMSP3P0V # afigen
+egir igguen ir VMSP3P0V # afigguen
 ir esquin ir VMSP3P0B # afegesquin
 egir igin ir VMSP3P0B # afigin
 ir eixin ir VMSP3P0Y # afegeixin
