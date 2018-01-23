@@ -1,3 +1,4 @@
+#sus sus RG
 aC aC RG
 abans abans RG
 abans-d'ahir abans-d'ahir RG
@@ -266,7 +267,6 @@ sota sota RG
 sovent sovent RG
 sovint sovint RG
 suara suara RG
-sus sus RG
 sí sí RG
 súper súper1 RG
 tal tal RG

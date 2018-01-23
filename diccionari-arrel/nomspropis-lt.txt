@@ -21052,6 +21052,7 @@ Tulla Tulla NPCNSP0
 Tulle Tulle NPCSG00
 Tulsa Tulsa NPCSG00
 Tulum Tulum NPCSG00
+Tul·li Tul·li NPMSSP0
 Tumbes Tumbes NPCSG00
 Tumblr Tumblr NPMSO00
 Tundža Tundža NPCSG00
