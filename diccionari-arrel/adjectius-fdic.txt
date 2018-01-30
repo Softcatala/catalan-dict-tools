@@ -9606,6 +9606,7 @@ evanescent=categories: A;fonts: LT;
 evangelitzador evangelitzadora=categories: A;fonts: LT;
 evangèlic evangèlica=categories: A;fonts: LT;
 evaporable=categories: A;fonts: LT;
+evaporatiu evaporativa=categories: A;fonts: termcat;
 evaporatori evaporatòria=categories: A;fonts: LT;
 evaporític evaporítica=categories: A;fonts: LT;
 evasiu evasiva=categories: A;fonts: LT;
