@@ -7001,6 +7001,7 @@ depuratori depuratòria=categories: A;fonts: LT;
 derelicte derelicta=categories: A;fonts: LT;
 derisori derisòria=categories: A;fonts: LT;
 derivable=categories: A;fonts: LT;
+derivador derivadora=categories: A;fonts: DDLC;
 derivant=categories: A;fonts: LT;
 derivatiu derivativa=categories: A;fonts: LT;
 dermatològic dermatològica=categories: A;fonts: LT;
