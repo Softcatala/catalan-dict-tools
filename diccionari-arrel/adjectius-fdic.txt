@@ -18629,6 +18629,7 @@ pennsilvanià pennsilvaniana=categories: A;fonts: LT;
 penníger pennígera=categories: A;fonts: LT;
 penombrós penombrosa=categories: A;fonts: LT;
 penosíssim penosíssima=categories: AA;fonts: LT;
+pensable=categories: A;fonts: DDLC;
 pensador pensadora=categories: A;fonts: LT;
 pensant=categories: A;fonts: LT;
 pensarós pensarosa=categories: A;fonts: LT;
