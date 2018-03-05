@@ -4,6 +4,7 @@
 #barsa=categories: F;fonts: LT; poc comú i confús
 #catxet=categories: M;fonts: LT; terme molt inusual, es confong amb caixet
 #catxeta=categories: F;fonts: LT; castellanisme
+#cer=categories: M;fonts: LT; forma secundària de acer
 #cort2=categories: M;fonts: LT; #arcaisme
 #creix=categories: M;fonts: GDLC;
 #escondiment=categories: M;fonts: LT; # arcaisme
@@ -13197,7 +13198,6 @@ cepstre=categories: M;fonts: LT;
 ceptre=categories: M;fonts: LT;
 ceptrot=categories: M;fonts: derivat;
 cepòlid=categories: M;fonts: LT;
-cer=categories: M;fonts: LT;
 cera=categories: F;fonts: LT;
 cerambícid=categories: M;fonts: LT;
 cerami=categories: M;fonts: LT;
