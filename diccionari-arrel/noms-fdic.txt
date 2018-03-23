@@ -17,6 +17,8 @@
 #nic=categories: M;fonts: termcat, AVL (poc usual?);
 #polià poliana=categories: MF;fonts: LT; es confon amb polaines
 #recó=categories: M;fonts: termcat, GDLC; #es confon amb racó
+#reena=categories: F;fonts: LT; arcaisme
+#rehena=categories: F;fonts: LT; arcaisme
 #ròtol (arcaisme)
 #tabla=categories: M;fonts: instrument hindú (es pot confondre amb taula);
 #tableta=categories: F;fonts: terme de farmàcia, no general;
@@ -53229,7 +53231,6 @@ reempenyament=categories: M;fonts: LT;
 reempenyorament=categories: M;fonts: LT;
 reemplaçament=categories: M;fonts: LT;
 reemplaçant=categories: MF;fonts: LT;
-reena=categories: F;fonts: LT;
 reencaminament=categories: M;fonts: LT;
 reencarnació=categories: F;fonts: LT;
 reencesa=categories: F;fonts: LT;
@@ -53503,7 +53504,6 @@ regència=categories: F;fonts: LT;
 regó=categories: M;fonts: LT;
 regúlid=categories: M;fonts: LT;
 rehabilitació=categories: F;fonts: LT;
-rehena=categories: F;fonts: LT;
 rehidratació=categories: F;fonts: LT;
 rei=categories: M;fonts: LT;
 reial=categories: M;fonts: LT;
