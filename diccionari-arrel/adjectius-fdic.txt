@@ -19485,7 +19485,6 @@ ponitana=categories: A;fonts: LT;
 pontarrí pontarrina=categories: A;fonts: LT;
 pontdinquer pontdinquera=categories: A;fonts: LT;
 pontellanenc pontellanenca=categories: A;fonts: LT;
-pontentíssim pontentíssima=categories: AA;fonts: LT;
 ponterrà ponterrana=categories: A;fonts: LT;
 pontevedrès pontevedresa=categories: A;fonts: LT;
 pontifical=categories: A;fonts: LT;
