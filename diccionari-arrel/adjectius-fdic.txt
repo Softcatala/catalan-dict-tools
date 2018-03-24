@@ -23575,7 +23575,6 @@ tardoromànic tardoromànica=categories: A;fonts: LT;
 tardoromàntic tardoromàntica=categories: A;fonts: LT;
 tardà tardana=categories: A;fonts: LT;
 tardígrad tardígrada=categories: A;fonts: LT;
-tardíssim tardíssima=categories: AA;fonts: LT;
 tardívol tardívola=categories: A;fonts: LT;
 tarentí tarentina=categories: A;fonts: LT;
 tareraguès tareraguesa=categories: A;fonts: LT;

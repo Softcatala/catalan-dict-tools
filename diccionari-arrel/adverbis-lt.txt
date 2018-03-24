@@ -279,6 +279,7 @@ tant tant RG
 tantost tantost RG
 tantíssim tantíssim RG
 tard tard RG
+tardíssim tardíssim RG
 tau-tau tau-tau RG
 terrús-terrús terrús-terrús RG
 tira-tira tira-tira RG
