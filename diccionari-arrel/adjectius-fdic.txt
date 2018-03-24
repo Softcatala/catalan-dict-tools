@@ -9874,7 +9874,6 @@ extramoral=categories: A;fonts: LT;
 extramurs=categories: AI;fonts: LT;
 extramuscular=categories: A;fonts: derivat;
 extramusical=categories: A;fonts: LT;
-extranyíssim extranyíssima=categories: AA;fonts: LT;
 extraocular=categories: A;fonts: LT;
 extraoficial=categories: A;fonts: LT;
 extraordinari extraordinària=categories: A;fonts: LT;
