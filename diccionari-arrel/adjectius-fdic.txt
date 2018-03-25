@@ -19861,6 +19861,7 @@ procedent=categories: A;fonts: LT;
 procedimental=categories: A;fonts: LT;
 procel·lós procel·losa=categories: A;fonts: LT;
 procercoide=categories: A;fonts: LT;
+processador processadora=categories: A;fonts: LT;
 processal=categories: A;fonts: LT;
 processional=categories: A;fonts: LT;
 processual=categories: A;fonts: LT;
