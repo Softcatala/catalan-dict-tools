@@ -31,14 +31,14 @@ while ( my $line = <$fh> ) {
 
 
     #Superlatiu: abrandat abrandada [sup. abrandadíssim]
-    #if ( $line =~ /^($Flexio::carac+) .*\[sup\. ([^ ]+)\]/ ) {
-    #    my $lemma = $1;
-    #    my $superlatiu = $2;
-    #    print $ofh "$superlatiu $lemma AQAMS0\n";
-    #    print $ofh $superlatiu."a $lemma AQAFS0\n";
-    #    print $ofh $superlatiu."s $lemma AQAMP0\n";
-    #    print $ofh $superlatiu."es $lemma AQAFP0\n";
-    #}
+    if ( $line =~ /^($Flexio::carac+) .*\[sup\. ([^ ]+)\]/ ) {
+        my $lemma = $1;
+        my $superlatiu = $2;
+        print $ofh "$superlatiu $lemma AQAMS0\n";
+        print $ofh $superlatiu."a $lemma AQAFS0\n";
+        print $ofh $superlatiu."s $lemma AQAMP0\n";
+        print $ofh $superlatiu."es $lemma AQAFP0\n";
+    }
 
     #
     # A partir de dues formes, masculí i femení. Ex.: valencià -ana.
@@ -74,10 +74,10 @@ while ( my $line = <$fh> ) {
         my $fs2 = "";
 
         $mp = Flexio::plural( $mot_masc, "M" );
-        if ( $excepcions =~ /\[pl\. ([^ ]+)\]/ ) {
+        if ( $excepcions =~ /\[pl\. ([^ ]+?)\]/ ) {
             $mp = $1;
         }
-        elsif ( $excepcions =~ /\[pl\. (.+) o (.+)\]/ ) {
+        elsif ( $excepcions =~ /\[pl\. (.+?) o (.+?)\]/ ) {
             $mp  = $1;
             $mp2 = $2;
         }
@@ -103,10 +103,10 @@ while ( my $line = <$fh> ) {
             }
         }
 
-        if ( $excepcions =~ /\[fem\. (.+)\]/ ) {    #forma extra de femení
+        if ( $excepcions =~ /\[fem\. (.+?)\]/ ) {    #forma extra de femení
             $fs2 = $1;
         }
-        if ( $excepcions =~ /\[masc\. (.+)\]/ ) { #forma extra de masculí (bon)
+        if ( $excepcions =~ /\[masc\. (.+?)\]/ ) { #forma extra de masculí (bon)
             $ms2 = $1;
         }
 
@@ -206,11 +206,11 @@ while ( my $line = <$fh> ) {
         {
             $plural = $singular;
         }
-        elsif ( $entrada =~ /\[pl\. ([^ ]+)\]/ ) {    #una excepció de plural
+        elsif ( $entrada =~ /\[pl\. ([^ ]+?)\]/ ) {    #una excepció de plural
             $plural       = $1;
             $femeniplural = $1;
         }
-        elsif ( $entrada =~ /\[pl\. (.+) o (.+)\]/ )
+        elsif ( $entrada =~ /\[pl\. (.+?) o (.+?)\]/ )
         {    # dues excepcions de plural
             $plural       = $1;
             $femeniplural = $1;

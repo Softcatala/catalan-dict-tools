@@ -824,6 +824,14 @@ tantes tant PI0FP000
 tantost tantost CS
 tants tant DI0MP0
 tants tant PI0MP000
+tantíssim tant DI0MS0
+tantíssim tant PI0MS000
+tantíssima tant DI0FS0
+tantíssima tant PI0FS000
+tantíssimes tant DI0FP0
+tantíssimes tant PI0FP000
+tantíssims tant DI0MP0
+tantíssims tant PI0MP000
 tariraró tariraró I
 tat tat I
 tatatxan tatatxan I
