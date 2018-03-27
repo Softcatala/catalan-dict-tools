@@ -25734,6 +25734,7 @@ excusat=categories: M;fonts: LT;
 excussió=categories: F;fonts: LT;
 excèntric excèntrica=categories: MF;fonts LT;
 excés [pl. excessos]=categories: M;fonts: LT;
+excònjuge=categories: MF;fonts: LT;
 excònsol=categories: MF;fonts: LT;
 exdavanter exdavantera=categories: MF;fonts: derivat;
 exdeixeble exdeixebla=categories: MF;fonts: derivat;
