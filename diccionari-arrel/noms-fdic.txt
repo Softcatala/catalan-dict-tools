@@ -38647,6 +38647,7 @@ mentol=categories: M;fonts: LT;
 mentona=categories: F;fonts: LT;
 mentonera=categories: F;fonts: LT;
 mentor mentora=categories: MF;fonts LT;
+mentorat mentorada=categories: MF;fonts: termcat;
 mentoria=categories: F;fonts: LT;
 mentà=categories: M;fonts: LT;
 mentè=categories: M;fonts: LT;
