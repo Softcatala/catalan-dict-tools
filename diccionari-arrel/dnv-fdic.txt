@@ -1640,6 +1640,7 @@ desempedrir=categories: V;model:servir;fonts: DNV;
 desempelegar=categories: V;model:pregar;fonts: DNV;
 desempellogar=categories: V;model:pregar;fonts: DNV;
 desempindongar=categories: V;model:pregar;fonts: DNV;
+desempleat desempleada=categories: A;fonts: DNV;
 desempotrar=categories: V;model:cantar;fonts: DNV;
 desencadenador -a=categories: A;fonts: DNV;
 desencalar=categories: V;model:cantar;fonts: DNV;

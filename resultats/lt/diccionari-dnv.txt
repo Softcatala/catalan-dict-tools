@@ -25553,6 +25553,10 @@ desempindongàssim desempindongar VMSI1P04
 desempindongàssiu desempindongar VMSI2P04
 desempindongàvem desempindongar VMII1P00
 desempindongàveu desempindongar VMII2P00
+desempleada desempleat AQ0FS0
+desempleades desempleat AQ0FP0
+desempleat desempleat AQ0MS0
+desempleats desempleat AQ0MP0
 desempotr desempotrar VMIP1S0B
 desempotra desempotrar VMIP3S00
 desempotra desempotrar VMM02S00
