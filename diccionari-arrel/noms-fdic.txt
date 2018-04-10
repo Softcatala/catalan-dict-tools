@@ -17891,6 +17891,7 @@ decòrum=categories: M;fonts: LT;
 decúbit=categories: M;fonts: LT;
 decúria=categories: F;fonts: LT;
 dedicació=categories: F;fonts: LT;
+dedicatari dedicatària=categories: MF;fonts: termcat;
 dedicatòria=categories: F;fonts: LT;
 dedició=categories: F;fonts: LT;
 dedins=categories: MI;fonts: LT;
