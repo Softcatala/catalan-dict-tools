@@ -2739,6 +2739,7 @@ descucar=categories: V;model:trencar;fonts:LT
 descudolar=categories: V;model:cantar;fonts:LT
 descuidar=categories: V;model:cantar;fonts:LT
 descular=categories: V;model:cantar;fonts:LT
+desculpabilitzar=categories: V;model:cantar;fonts: DDLC;
 descurar=categories: V;model:cantar;fonts:LT
 descurullar=categories: V;model:cantar;fonts:LT
 descórrer=categories: V;model:acórrer;fonts:LT
