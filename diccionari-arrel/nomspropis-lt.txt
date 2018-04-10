@@ -4444,6 +4444,7 @@ Calvi Calvi NPCSG00
 Calvinyac Calvinyac NPCNSP0
 Calvià Calvià NPCSG00
 Calví Calví NPMSSP0
+Cal·líope Cal·líope NPFSSP0
 Cal·lípolis Cal·lípolis NPCSG00
 Calàbria Calàbria NPFSG00
 Calç Calç NPMSG00
