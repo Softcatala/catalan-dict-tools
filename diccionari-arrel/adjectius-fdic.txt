@@ -15469,6 +15469,7 @@ martinetenc martinetenca=categories: A;fonts: LT;
 martiniquès martiniquesa=categories: A;fonts: LT;
 martirial=categories: A;fonts: LT;
 martiritzador martiritzadora=categories: A;fonts: LT;
+martirològic martirològica=categories: A;fonts: DDLC;
 martorellenc martorellenca=categories: A;fonts: LT;
 marxador marxadora=categories: A;fonts: LT;
 marxando=categories: A;fonts: LT;
