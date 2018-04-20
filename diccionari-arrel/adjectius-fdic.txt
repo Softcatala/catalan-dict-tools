@@ -7897,6 +7897,7 @@ dretà dretana=categories: A;fonts: LT;
 dringadís dringadissa=categories: A;fonts: LT;
 drogaddicte drogaddicta=categories: A;fonts: esadir, AVL;
 drogoaddicte drogoaddicta=categories: A;fonts: LT;
+drogodependent=categories: A;fonts: LT;
 dropo dropa=categories: A;fonts: LT;
 drupaci drupàcia=categories: A;fonts: LT;
 drupífer drupífera=categories: A;fonts: LT;
