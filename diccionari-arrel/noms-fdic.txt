@@ -42010,6 +42010,7 @@ no-alineament=categories: M;fonts: LT;
 no-bel·ligerància=categories: F;fonts: LT;
 no-electròlit=categories: M;fonts: LT;
 no-excloïbilitat=categories: F;fonts: LT;
+no-ficció=categories: FS;fonts: LT;
 no-ingerència=categories: F;fonts: LT;
 no-intervenció=categories: F;fonts: LT;
 no-jo=categories: M;fonts: LT;
