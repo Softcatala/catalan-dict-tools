@@ -39573,6 +39573,7 @@ minihamburguesa=categories: F;fonts: LT;
 miniinformàtica=categories: F;fonts: LT;
 minimal=categories: M;fonts: LT;
 minimalisme=categories: M;fonts: LT;
+minimis=categories: MP;fonts: termcat;
 minimista=categories: MF;fonts: LT;
 minimització=categories: F;fonts: LT;
 miniordinador=categories: M;fonts: LT;
