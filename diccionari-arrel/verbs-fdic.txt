@@ -8402,6 +8402,7 @@ redallar=categories: V;model:cantar;fonts:LT
 redargüir=categories: V;model:argüir;fonts:LT
 redecorar=categories: V;model:cantar;fonts:LT
 redefinir=categories: V;model:servir;fonts:LT
+redelimitar=categories: V;model:cantar;fonts:derivat;
 redelmar=categories: V;model:cantar;fonts:LT
 redenominar=categories: V;model:abominar;fonts:LT
 redescarnar=categories: V;model:cantar;fonts:LT

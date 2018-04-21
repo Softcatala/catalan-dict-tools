@@ -58150,6 +58150,7 @@ telarquia=categories: F;fonts: LT;
 tele=categories: F;fonts: LT;
 teleaccionament=categories: M;fonts: LT;
 teleaddicte teleaddicta=categories: MF;fonts: LT;
+teleadministració=categories: F;fonts: LT;
 telealarma=categories: F;fonts: LT;
 teleaprenentatge=categories: M;fonts: LT;
 teleapuntador=categories: M;fonts: LT;
