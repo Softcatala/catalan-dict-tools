@@ -7158,8 +7158,8 @@ Electra Electra NPFSSP0
 Electrolux Electrolux NPCNO00
 Elena Elena NPFSSP0
 Elenes Elena NPFPSP0
-Eleonor Eleonor NPMSSP0
-Eleonors Eleonor NPMPSP0
+Eleonor Eleonor NPFSSP0
+Eleonors Eleonor NPFPSP0
 Eleusis Eleusis NPMSG00
 Eleuteri Eleuteri NPMSSP0
 Eleuteris Eleuteri NPMPSP0
