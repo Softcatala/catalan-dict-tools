@@ -8424,6 +8424,7 @@ Forana Forana NPCNSP0
 Foranes Foranes NPCNSP0
 Foraster Foraster NPCNSP0
 Forbach Forbach NPCSG00
+Forbes Forbes NPCNO00
 Forcada Forcada NPCNSP0
 Forcadell Forcadell NPCNSP0
 Forcades Forcades NPCNSP0
@@ -10366,6 +10367,7 @@ Ibex-35 Ibex-35 NPMSO00
 Ibi Ibi NPCSG00
 Iborra Iborra NPCNSP0
 Ibrahim Ibrahim NPMSSP0
+Ibrahima Ibrahima NPMSSP0
 Ibran Ibran NPCNSP0
 Ibsen Ibsen NPCNSP0
 Ibáñez Ibáñez NPCNSP0
@@ -10745,6 +10747,7 @@ Jofresa Jofresa NPCNSP0
 Jofré Jofré NPCNSP0
 Jofré Jofré NPCSG00
 Joglar Joglar NPCNSP0
+Johann Johann NPMSSP0
 Johannesburg Johannesburg NPCSG00
 John John NPMSSP0
 Johnson Johnson NPCNSP0
@@ -15202,6 +15205,7 @@ Ovidis Ovidi NPMPSP0
 Oviedo Oviedo NPFSG00
 Owen Owen NPCNSP0
 Owo Owo NPCSG00
+Oxfam Oxfam NPCNO00
 Oxford Oxford NPCSG00
 Oxfordshire Oxfordshire NPCSG00
 Oxyrhynchos Oxyrhynchos NPCSG00
@@ -19164,6 +19168,7 @@ Serritxola Serritxola NPFSG00
 Serrà Serrà NPCNSP0
 Sersell Sersell NPCSG00
 Serters Serters NPCSG00
+Sertori Sertori NPCNSP0
 Servand Servand NPMSSP0
 Servands Servand NPMPSP0
 Servat Servat NPCNSP0
@@ -20546,6 +20551,7 @@ Toledo Toledo NPCSG00
 Tolentino Tolentino NPCSG00
 Toliary Toliary NPCSG00
 Tolima Tolima NPCSG00
+Tolkien Tolkien NPCPSP0
 Toll Toll NPCNSP0
 Tollos Tollos NPCSG00
 Tolomó Tolomó NPCSG00

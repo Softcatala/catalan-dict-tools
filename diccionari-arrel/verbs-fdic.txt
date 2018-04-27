@@ -1104,6 +1104,7 @@ autofinançar=categories: V;model:començar;fonts:LT
 autogestionar=categories: V;model:cantar;fonts:LT
 autografiar=categories: V;model:crear;fonts:LT
 autoimposar=categories: V;model:anquilosar;fonts:LT
+autoinfligir=categories: V;model:servir;fonts:LT
 autolimitar=categories: V;model:cantar;fonts:LT
 automatitzar=categories: V;model:cantar;fonts:LT
 automedicar=categories: V;model:trencar;fonts:LT
