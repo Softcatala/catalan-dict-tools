@@ -90,7 +90,7 @@ while ( my $line = <$fh> ) {
             $lemmaMasc = "";
 
             $lemmaFem = "";
-            for ( $count = 0 ; $count < 8 ; $count++ ) {
+            for ( $count = 0 ; $count < 9 ; $count++ ) {  # La posició 9 és per al superlatium
                 $forma[$count]   = "";
                 $sufixos[$count] = "";
             }
@@ -108,43 +108,50 @@ while ( my $line = <$fh> ) {
         $i++;
         $modeltag .= $postag . ",";
 
-        if ( $postag =~ /[MC][SN]/ ) {
-            $lemmaMasc = $word;
-            if ( $forma[0] =~ /^$/ ) { $forma[0] = $word; }
-            elsif ( ( $forma[4] =~ /^$/ ) && ( $word !~ /^$forma[0]$/ ) ) {
-                $forma[4] = $word;
-            }
-            elsif ( ( $word !~ /^$forma[0]$/ ) && ( $word !~ /^$forma[4]$/ ) ) {
-                print "error en 1: $word $lemma $postag\n";
-            }
-        }
-        if ( $postag =~ /[FC][SN]/ ) {
-            $lemmaFem = $word;
-            if ( $forma[1] =~ /^$/ ) { $forma[1] = $word; }
-            elsif ( ( $forma[5] =~ /^$/ ) && ( $word !~ /^$forma[1]$/ ) ) {
-                $forma[5] = $word;
-            }
-            elsif ( ( $word !~ /^$forma[1]$/ ) && ( $word !~ /^$forma[5]$/ ) ) {
-                print "error en 2: $word $lemma $postag\n";
-            }
-        }
-        if ( $postag =~ /[MC][PN]/ ) {
-            if ( $forma[2] =~ /^$/ ) { $forma[2] = $word; }
-            elsif ( ( $forma[6] =~ /^$/ ) && ( $word !~ /^$forma[2]$/ ) ) {
-                $forma[6] = $word;
-            }
-            elsif ( ( $word !~ /^$forma[2]$/ ) && ( $word !~ /^$forma[6]$/ ) ) {
-                print "error en 3: $word $lemma $postag\n";
-            }
-        }
-        if ( $postag =~ /[FC][PN]/ ) {
-            if ( $forma[3] =~ /^$/ ) { $forma[3] = $word; }
-            elsif ( ( $forma[7] =~ /^$/ ) && ( $word !~ /^$forma[3]$/ ) ) {
-                $forma[7] = $word;
-            }
-            elsif ( ( $word !~ /^$forma[3]$/ ) && ( $word !~ /^$forma[7]$/ ) ) {
-                print "error en 4: $word $lemma $postag\n";
-            }
+        if ($forma[0] !~ /^$/ && $postag =~ /AQA/) {
+        	if ( $postag =~ /MS/ ) {
+        		$forma[8] = $word; #és superlatiu, ja existeix el lema
+        	}
+        } 
+        else {
+            if ( $postag =~ /[MC][SN]/ ) {
+	            $lemmaMasc = $word;
+	            if ( $forma[0] =~ /^$/ ) { $forma[0] = $word; }
+	            elsif ( ( $forma[4] =~ /^$/ ) && ( $word !~ /^$forma[0]$/ ) ) {
+	                $forma[4] = $word;
+	            }
+	            elsif ( ( $word !~ /^$forma[0]$/ ) && ( $word !~ /^$forma[4]$/ ) ) {
+	                print "error en 1: $word $lemma $postag $modeltag\n";
+	            }
+	        }
+	        if ( $postag =~ /[FC][SN]/ ) {
+	            $lemmaFem = $word;
+	            if ( $forma[1] =~ /^$/ ) { $forma[1] = $word; }
+	            elsif ( ( $forma[5] =~ /^$/ ) && ( $word !~ /^$forma[1]$/ ) ) {
+	                $forma[5] = $word;
+	            }
+	            elsif ( ( $word !~ /^$forma[1]$/ ) && ( $word !~ /^$forma[5]$/ ) ) {
+	                print "error en 2: $word $lemma $postag $modeltag\n";
+	            }
+	        }
+	        if ( $postag =~ /[MC][PN]/ ) {
+	            if ( $forma[2] =~ /^$/ ) { $forma[2] = $word; }
+	            elsif ( ( $forma[6] =~ /^$/ ) && ( $word !~ /^$forma[2]$/ ) ) {
+	                $forma[6] = $word;
+	            }
+	            elsif ( ( $word !~ /^$forma[2]$/ ) && ( $word !~ /^$forma[6]$/ ) ) {
+	                print "error en 3: $word $lemma $postag $modeltag\n";
+	            }
+	        }
+	        if ( $postag =~ /[FC][PN]/ ) {
+	            if ( $forma[3] =~ /^$/ ) { $forma[3] = $word; }
+	            elsif ( ( $forma[7] =~ /^$/ ) && ( $word !~ /^$forma[3]$/ ) ) {
+	                $forma[7] = $word;
+	            }
+	            elsif ( ( $word !~ /^$forma[3]$/ ) && ( $word !~ /^$forma[7]$/ ) ) {
+	                print "error en 4: $word $lemma $postag $modeltag\n";
+	            }
+	        }
         }
 
         $prevLemma = $lemma;
@@ -411,6 +418,12 @@ sub escriuFormatDiccionari {
                     }
                 }
             }
+
+            # superlatiu
+            if ( $forma[8] =~ /^.+$/ ) {
+                print $ofh " [sup. $forma[8]]";
+            }
+
             print $ofh "=categories: ";
             switch ($originTag) {
                 case "NC"  { print $ofh "MF"; }
