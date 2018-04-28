@@ -34,10 +34,10 @@ while ( my $line = <$fh> ) {
     if ( $line =~ /^($Flexio::carac+) .*\[sup\. ([^ ]+)\]/ ) {
         my $lemma = $1;
         my $superlatiu = $2;
-        print $ofh "$superlatiu $lemma AQAMS0\n";
-        print $ofh $superlatiu."a $lemma AQAFS0\n";
-        print $ofh $superlatiu."s $lemma AQAMP0\n";
-        print $ofh $superlatiu."es $lemma AQAFP0\n";
+        print $ofh "$superlatiu $superlatiu AQAMS0\n";
+        print $ofh $superlatiu."a $superlatiu AQAFS0\n";
+        print $ofh $superlatiu."s $superlatiu AQAMP0\n";
+        print $ofh $superlatiu."es $superlatiu AQAFP0\n";
     }
 
     #
