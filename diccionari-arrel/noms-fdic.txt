@@ -6463,7 +6463,6 @@ autòcrata=categories: MF;fonts: LT;
 autòctons=categories: MP;fonts: LT;
 autòdrom=categories: M;fonts: LT;
 autògraf=categories: M;fonts: LT;
-autòleg autòloga=categories: MF;fonts: LT;
 autòlisi=categories: F;fonts: LT;
 autòmat=categories: M;fonts: LT;
 autònim=categories: M;fonts: LT;
