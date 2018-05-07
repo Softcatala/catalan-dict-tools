@@ -9841,6 +9841,7 @@ extraeclesial=categories: A;fonts: derivat;
 extraembrionari extraembrionària=categories: A;fonts: LT;
 extraescolar=categories: A;fonts: LT;
 extraesportiu extraesportiva=categories: A;fonts: LT;
+extraestatutari extraestatutària=categories: A;fonts: DDLC;
 extraeuropeu extraeuropea=categories: A;fonts: derivat;
 extrafloral=categories: A;fonts: LT;
 extrafutbolístic extrafutbolística=categories: A;fonts: derivat;
