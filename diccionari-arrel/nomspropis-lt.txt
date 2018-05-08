@@ -18449,7 +18449,6 @@ Salomés Salomé NPFPSP0
 Salomó Salomó NPCNG00
 Salomó Salomó NPCNSP0
 Salomó Salomó NPMSSP0
-Salon Salon NPCSG00
 Salord Salord NPCNSP0
 Salou Salou NPCNSP0
 Salou Salou NPCSG00
