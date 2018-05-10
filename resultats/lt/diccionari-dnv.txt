@@ -14727,10 +14727,6 @@ cobaltina cobaltina NCFS000
 cobaltines cobaltina NCFP000
 coblista coblista NCCS000
 coblistes coblista NCCP000
-cobratori cobratori AQ0MS0
-cobratoris cobratori AQ0MP0
-cobratòria cobratori AQ0FS0
-cobratòries cobratori AQ0FP0
 cobrecostures cobrecostures NCMN000
 cobriespatles cobriespatles NCMN000
 cocada cocada NCFS000

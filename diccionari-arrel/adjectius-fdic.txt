@@ -5478,6 +5478,7 @@ cobertorat cobertorada=categories: A;fonts: LT;
 coblencià coblenciana=categories: A;fonts: LT;
 cobrable=categories: A;fonts: LT;
 cobrador cobradora=categories: A;fonts: LT;
+cobratori -òria=categories: A;fonts: DNV, DDLC;
 cobrent=categories: A;fonts: LT;
 cobàltic cobàltica=categories: A;fonts: LT;
 cocanal=categories: AI;fonts: LT;

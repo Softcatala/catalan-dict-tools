@@ -1021,7 +1021,6 @@ clèrum=categories: M;fonts: DNV;
 coada=categories: F;fonts: DNV;
 cobaltina=categories: F;fonts: DNV;
 coblista=categories: MF;fonts: DNV;
-cobratori -òria=categories: A;fonts: DNV;
 cobrecostures=categories: MI;fonts: DNV;
 cobriespatles=categories: MI;fonts: DNV;
 cocada=categories: F;fonts: DNV;
