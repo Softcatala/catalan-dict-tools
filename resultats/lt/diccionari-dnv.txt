@@ -17734,10 +17734,6 @@ crualda crualda NCFS000
 crualdes crualda NCFP000
 cruatge cruatge NCMS000
 cruatges cruatge NCMP000
-crucificador crucificador NCMS000
-crucificadora crucificador NCFS000
-crucificadores crucificador NCFP000
-crucificadors crucificador NCMP000
 crudívor crudívor AQ0MS0
 crudívor crudívor NCMS000
 crudívora crudívor AQ0FS0
@@ -18273,8 +18269,8 @@ cutre cutre NCCS000
 cutres cutre AQ0CP0
 cutres cutre NCCP000
 cuts cut NCMP000
-cutxamanda cutxamanda AQ0CN0
-cutxamanda cutxamanda NCCN000
+cutxamanda cutxamanda AQ0CS0
+cutxamanda cutxamanda NCCS000
 cutxamandege cutxamandejar VMIP1S0V
 cutxamandege cutxamandejar VMM03S0V
 cutxamandege cutxamandejar VMSP1S0V
@@ -18359,6 +18355,8 @@ cutxamandejàssim cutxamandejar VMSI1P04
 cutxamandejàssiu cutxamandejar VMSI2P04
 cutxamandejàvem cutxamandejar VMII1P00
 cutxamandejàveu cutxamandejar VMII2P00
+cutxamandes cutxamanda AQ0CP0
+cutxamandes cutxamanda NCCP000
 càlem càlem NCMS000
 càlems càlem NCMP000
 càrdium càrdium NCMS000
@@ -57916,6 +57914,8 @@ margallar margallar NCMS000
 margallars margallar NCMP000
 margemitger margemitger AQ0MS0
 margemitger margemitger NCMS000
+margemitgera margemitger AQ0FS0
+margemitgeres margemitger AQ0FP0
 margemitgers margemitger AQ0MP0
 margemitgers margemitger NCMP000
 mariachi mariachi NCMS000
@@ -66463,8 +66463,6 @@ pólios pólio NCFP000
 pólveres pólveres NCFP000
 quadricipital quadricipital AQ0CS0
 quadricipitals quadricipital AQ0CP0
-quadriguer quadriguer NCMS000
-quadriguers quadriguer NCMP000
 quadrilocular quadrilocular AQ0CS0
 quadriloculars quadrilocular AQ0CP0
 quadriplaces quadriplaça NCMP000
@@ -74540,6 +74538,8 @@ transgenerisme transgenerisme NCMS000
 transgenerismes transgenerisme NCMP000
 transidentitat transidentitat NCFS000
 transidentitats transidentitat NCFP000
+trapalatop trapalatop NCCS000
+trapalatops trapalatop NCCP000
 trapalatrop trapalatrop NCCS000
 trapalatrops trapalatrop NCCP000
 trapitge trapitjar VMIP1S0V
