@@ -57065,6 +57065,7 @@ superabundància=categories: F;fonts: LT;
 superació=categories: F;fonts: LT;
 superadministrador=categories: M;fonts: derivat;
 superaerodinàmica=categories: F;fonts: LT;
+superaliment=categories: M;fonts: Neolosfera;
 superantigen=categories: M;fonts: LT;
 supercalandratge=categories: M;fonts: LT;
 supercarburant=categories: M;fonts: LT;
