@@ -1,3 +1,4 @@
+#avist avista=categories: A;fonts: LT; arcaisme
 #baador=categories: A;fonts: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
 #emperadora=categories: A;fonts: LT;
@@ -3020,7 +3021,6 @@ avinyonenc avinyonenca=categories: A;fonts: LT;
 avinyonetenc avinyonetenca=categories: A;fonts: LT;
 avinyonès avinyonesa=categories: A;fonts: LT;
 avisador avisadora=categories: A;fonts: LT;
-avist avista=categories: A;fonts: LT;
 avituallador avitualladora=categories: A;fonts: LT;
 avivable=categories: A;fonts: LT;
 avivador avivadora=categories: A;fonts: LT;
