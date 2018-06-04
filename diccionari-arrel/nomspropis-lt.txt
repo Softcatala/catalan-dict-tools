@@ -1209,8 +1209,6 @@ Ambra Ambra NPCSG00
 Ambròs Ambròs NPCNSP0
 Ambròs Ambròs NPMPSP0
 Ambròs Ambròs NPMSSP0
-Ambrós Ambrós NPMPSP0
-Ambrós Ambrós NPMSSP0
 Ambālā Ambālā NPCSG00
 Ameland Ameland NPCSG00
 Amell Amell NPCNSP0
