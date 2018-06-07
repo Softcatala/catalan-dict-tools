@@ -1,0 +1,202 @@
+**** Diacrítics que es conserven en la regla IEC ********
+déu
+déus
+grata-sòl, grata-sòls (GEC, Termcat)
+Incasòl
+Intermón
+mà
+mà-llarg, mà-llarga, mà-llargs, mà-llargues
+més
+més-dient
+més-dients
+més-enllà
+món
+pèl-muda, pèl-mudar (GEC)
+què
+sé
+sí
+sís
+sòl
+sòls
+són
+té
+vós
+és
+ús
+
+**** Diacrítics regla antiga i AVL, correspondència biunívoca ********
+cotompèl
+cotompèls
+contrapèl
+empèl
+adéu
+adéus
+adéu-siau
+almón
+arenosòl
+arenosòls
+entresòl
+entresòls
+litosòl
+litosòls
+mol·lisòl
+mol·lisòls
+paleosòl
+paleosòls
+pergelisòl
+pergelisòls
+regosòl
+regosòls
+sobresòl
+sobresòls
+subsòl
+subsòls
+vertisòl
+vertisòls
+besnét
+besnéta
+besnétes
+besnéts
+quadrinét
+quadrinéta
+quadrinétes
+quadrinéts
+rebesnét
+rebesnéta
+rebesnétes
+rebesnéts
+renét
+renéta
+renétes
+renéts
+inframón
+rodamón
+matamón
+submón
+marededéu
+marededéus
+vicedéu
+vicedéus
+nós
+pregadéu
+pregadéus
+semidéu
+semidéus
+redéu
+remòlta
+remòltes
+remòlt
+remòlts
+
+
+**** Ja eren possibles sense accent ***
+pórca
+pórques
+jóc
+jócs
+tòs
+mèu
+mèus
+mòlta
+mòltes
+mòlt
+mòlts
+cóp
+cóps
+cós
+cóssos
+rés
+ressòl
+ressòls
+ròssa
+ròsses
+séc
+sécs
+sèu
+sèus
+tòt
+tòts
+vénda
+véndes
+cóc
+cócs
+
+
+**** Van amb regla ****
+nét
+néta
+nétes
+néts
+dóna
+dónes
+sóc
+vés
+féu
+fóra
+cóm
+cóms
+
+** regla wrongword in context ***
+bóta
+bótes
+móra
+móres
+ós
+óssa
+óssos
+ósses
+
+*** verbs conjugats ***
+véu veure VMIS3S00
+só ser VSIP1S00
+benvéu benveure VMIS3S00
+contraféu contrafer VMIS3S00
+desféu desfer VMIS3S00
+entrevéu entreveure VMIS3S00
+estraféu estrafer VMIS3S00
+liqüeféu liqüefer VMIS3S00
+malvéu malveure VMIS3S00
+perféu perfer VMIS3S00
+prevéu preveure VMIS3S00
+rareféu rarefer VMIS3S00
+reféu refer VMIS3S00
+revénc revenir VMIP1S0B
+revéngui revenir VMM03S0B
+revéngui revenir VMSP1S0B
+revéngui revenir VMSP3S0B
+revénguin revenir VMM03P0B
+revénguin revenir VMSP3P0B
+revénguis revenir VMSP2S0B
+revénen revenir VMIP3P00
+revéns revenir VMIP2S00
+revéu reveure VMIS3S00
+satisféu satisfer VMIS3S00
+vénc venir VMIP1S0B
+vénda vénda NCFS000
+véndes vénda NCFP000
+véngui venir VMM03S0B
+véngui venir VMSP1S0B
+véngui venir VMSP3S0B
+vénguin venir VMM03P0B
+vénguin venir VMSP3P0B
+vénguis venir VMSP2S0B
+vénen venir VMIP3P00
+véns venir VMIP2S00
+
+*** topònim, antropònim ***
+Cóll
+Móra
+Masdéu
+
+
+***** Descartats ****
+sègle (dialectal)
+Lés
+nòs amb nòs
+a gatamèus (error DIEC, ja corregit)
+jóc joca (adj, només era DIEC)
+
+
+
+
+
