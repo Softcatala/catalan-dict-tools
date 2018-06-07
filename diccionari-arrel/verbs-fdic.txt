@@ -8118,6 +8118,7 @@ punyir=categories: V;model:dormir;fonts:LT
 purgar=categories: V;model:pregar;fonts:LT
 purificar=categories: V;model:trencar;fonts:LT
 putejar=categories: V;model:envejar;fonts:LT
+pèl-mudar=categories: V;model:cantar;fonts: GEC;
 péixer=categories: V;model:péixer;fonts:LT
 quadrar=categories: V;model:cantar;fonts:LT
 quadrejar=categories: V;model:envejar;fonts:LT
