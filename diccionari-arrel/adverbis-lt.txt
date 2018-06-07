@@ -26,6 +26,7 @@ allén allèn RG
 allí allí RG
 almanco almanco RG
 almenys almenys RG
+almon almon RG
 almón almón RG
 alt alt RG
 altressí altressí RG

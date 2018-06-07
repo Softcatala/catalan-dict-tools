@@ -59,6 +59,8 @@ R+D+I R+D+I NCFS000
 a a SPS00
 abans abans CS
 abr abril Y
+adeu adeu I
+adeu-siau adeu-siau I
 adm administració Y
 adéu adéu I
 adéu-siau adéu-siau I
@@ -717,6 +719,7 @@ re res PI0CS000
 recoi recoi I
 recollons recollons I
 redell redell I
+redeu redeu I
 redimoni redimoni I
 redimonis redimonis I
 redéu redéu I

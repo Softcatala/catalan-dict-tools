@@ -38,6 +38,7 @@ besnéts
 contrapèl
 cotompèl
 cotompèls
+cóms
 empèl
 entresòl
 entresòls
@@ -75,6 +76,8 @@ renét
 renéta
 renétes
 renéts
+repèl
+repèls
 rodamón
 semidéu
 semidéus
@@ -124,7 +127,6 @@ véndes
 
 **** Van amb regla ****
 cóm
-cóms
 dóna
 dónes
 féu
@@ -197,5 +199,11 @@ sègle (dialectal)
 
 
 
+**** Problemes per resoldre ****
+
+Ha molt / Ha mòlt
+L'ha molta / L'ha mòlta
+
+Li dona, els dona, etc. 
 
 
