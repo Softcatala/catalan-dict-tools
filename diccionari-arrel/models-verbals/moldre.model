@@ -4,6 +4,10 @@ oldre òlt re VMP00SM0 # mòlt
 oldre òlta re VMP00SF0 # mòlta
 oldre òlts re VMP00PM0 # mòlts
 oldre òltes re VMP00PF0 # mòltes
+oldre olt re VMP00SM0 # molt diacriticsIEC
+oldre olta re VMP00SF0 # molta diacriticsIEC
+oldre olts re VMP00PM0 # molts diacriticsIEC
+oldre oltes re VMP00PF0 # moltes diacriticsIEC
 dre c re VMIP1S00 # molc
 dre s re VMIP2S00 # mols
 dre 0 re VMIP3S00 # mol

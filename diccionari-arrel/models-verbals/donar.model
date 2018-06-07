@@ -8,7 +8,9 @@ ar o ar VMIP1S0C # dono
 ar e ar VMIP1S0V # done
 ar 0 ar VMIP1S0B # don
 onar ónes ar VMIP2S00 # dónes
+onar ones ar VMIP2S00 # dones diacriticsIEC
 onar óna ar VMIP3S00 # dóna
+onar ona ar VMIP3S00 # dona diacriticsIEC
 ar em ar VMIP1P00 # donem
 r m ar VMIP1P0B # donam
 ar eu ar VMIP2P00 # doneu
@@ -75,6 +77,7 @@ r ssin ar VMSI3P04 # donassin
 ar essen ar VMSI3P05 # donessen
 r ssen ar VMSI3P06 # donassen
 onar óna ar VMM02S00 # dóna
+onar ona ar VMM02S00 # dona diacriticsIEC
 ar e ar VMM03S0V # done
 ar i ar VMM03S0Y # doni
 ar em ar VMM01P00 # donem
