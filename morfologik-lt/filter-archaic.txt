@@ -31,3 +31,7 @@ imàtgens	imatge	NCFP000
 ortoimàtgens	ortoimatge	NCFP000
 antes	anta	NCFP000
 #contractions
+#diacritics
+dona	donar	VMIP3S00
+dona	donar	VMM02S00
+dones	donar	VMIP2S00
