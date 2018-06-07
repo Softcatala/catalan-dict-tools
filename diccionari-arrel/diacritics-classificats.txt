@@ -25,38 +25,37 @@ vós
 ús
 
 **** Diacrítics regla antiga i AVL, correspondència biunívoca ********
-cotompèl
-cotompèls
-contrapèl
-empèl
 adéu
-adéus
 adéu-siau
+adéus
 almón
 arenosòl
 arenosòls
-entresòl
-entresòls
-litosòl
-litosòls
-mol·lisòl
-mol·lisòls
-paleosòl
-paleosòls
-pergelisòl
-pergelisòls
-regosòl
-regosòls
-sobresòl
-sobresòls
-subsòl
-subsòls
-vertisòl
-vertisòls
 besnét
 besnéta
 besnétes
 besnéts
+contrapèl
+cotompèl
+cotompèls
+empèl
+entresòl
+entresòls
+inframón
+litosòl
+litosòls
+marededéu
+marededéus
+matamón
+mol·lisòl
+mol·lisòls
+nós
+paleosòl
+paleosòls
+pergelisòl
+pergelisòls
+pregadéu
+pregadéus
 quadrinét
 quadrinéta
 quadrinétes
@@ -65,76 +64,77 @@ rebesnét
 rebesnéta
 rebesnétes
 rebesnéts
+redéu
+regosòl
+regosòls
+remòlt
+remòlta
+remòltes
+remòlts
 renét
 renéta
 renétes
 renéts
-inframón
 rodamón
-matamón
-submón
-marededéu
-marededéus
-vicedéu
-vicedéus
-nós
-pregadéu
-pregadéus
 semidéu
 semidéus
-redéu
-remòlta
-remòltes
-remòlt
-remòlts
+sobresòl
+sobresòls
+submón
+subsòl
+subsòls
+vertisòl
+vertisòls
+vicedéu
+vicedéus
 
 
 **** Ja eren possibles sense accent ***
-pórca
-pórques
-jóc
-jócs
-tòs
-mèu
-mèus
-mòlta
-mòltes
-mòlt
-mòlts
+cóc
+cócs
 cóp
 cóps
 cós
 cóssos
-rés
+jóc
+jócs
+mèu
+mèus
+mòlt
+mòlta
+mòltes
+mòlts
+pórca
+pórques
 ressòl
 ressòls
+rés
 ròssa
 ròsses
-séc
-sécs
 sèu
 sèus
+séc
+sécs
+tòs
 tòt
 tòts
 vénda
 véndes
-cóc
-cócs
 
 
 **** Van amb regla ****
+cóm
+cóms
+dóna
+dónes
+féu
+fóra
 nét
 néta
 nétes
 néts
-dóna
-dónes
 sóc
 vés
-féu
-fóra
-cóm
-cóms
 
 ** regla wrongword in context ***
 bóta
@@ -143,12 +143,10 @@ móra
 móres
 ós
 óssa
-óssos
 ósses
+óssos
 
 *** verbs conjugats ***
-véu veure VMIS3S00
-só ser VSIP1S00
 benvéu benveure VMIS3S00
 contraféu contrafer VMIS3S00
 desféu desfer VMIS3S00
@@ -161,40 +159,41 @@ prevéu preveure VMIS3S00
 rareféu rarefer VMIS3S00
 reféu refer VMIS3S00
 revénc revenir VMIP1S0B
+revénen revenir VMIP3P00
 revéngui revenir VMM03S0B
 revéngui revenir VMSP1S0B
 revéngui revenir VMSP3S0B
 revénguin revenir VMM03P0B
 revénguin revenir VMSP3P0B
 revénguis revenir VMSP2S0B
-revénen revenir VMIP3P00
 revéns revenir VMIP2S00
 revéu reveure VMIS3S00
 satisféu satisfer VMIS3S00
+só ser VSIP1S00
 vénc venir VMIP1S0B
 vénda vénda NCFS000
 véndes vénda NCFP000
+vénen venir VMIP3P00
 véngui venir VMM03S0B
 véngui venir VMSP1S0B
 véngui venir VMSP3S0B
 vénguin venir VMM03P0B
 vénguin venir VMSP3P0B
 vénguis venir VMSP2S0B
-vénen venir VMIP3P00
 véns venir VMIP2S00
+véu veure VMIS3S00
 
 *** topònim, antropònim ***
 Cóll
-Móra
 Masdéu
-
+Móra
 
 ***** Descartats ****
-sègle (dialectal)
-Lés
-nòs amb nòs
 a gatamèus (error DIEC, ja corregit)
 jóc joca (adj, només era DIEC)
+Lés
+nòs amb nòs
+sègle (dialectal)
 
 
 
