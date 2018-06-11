@@ -19764,8 +19764,6 @@ Strymón Strymón NPCSG00
 Stuart Stuart NPCNSP0
 Stupino Stupino NPCSG00
 Stuttgart Stuttgart NPMSG00
-Su Su NPCNSP0
-Su Su NPCSG00
 Suagres Suagres NPCSG00
 Suai Suai NPCNSP0
 Suanya Suanya NPCNSP0
