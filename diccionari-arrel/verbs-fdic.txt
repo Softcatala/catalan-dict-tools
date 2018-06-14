@@ -1,4 +1,5 @@
 #aguar=categories: V;model:aguar;fonts:LT #antic i dialectal, crea confusions
+#arrocar=categories: V;model:trencar;fonts:LT dialectal, i crea confusions
 #avortir=categories: V;model:servir;fonts:LT #antic
 #coldre=categories: V;model:absoldre;fonts:LT
 #consellar=categories: V;model:cantar;fonts:LT #poc usual i crea confusions
@@ -905,7 +906,6 @@ arrimar=categories: V;model:cantar;fonts:LT
 arrimerar=categories: V;model:cantar;fonts:LT
 arriscar=categories: V;model:trencar;fonts:LT
 arrissar=categories: V;model:acarnissar;fonts:LT
-arrocar=categories: V;model:trencar;fonts:LT
 arrodalar=categories: V;model:cantar;fonts:LT
 arrodolar=categories: V;model:cantar;fonts:LT
 arrodonir=categories: V;model:servir;fonts:LT
