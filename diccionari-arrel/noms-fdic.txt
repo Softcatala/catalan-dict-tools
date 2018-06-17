@@ -52479,6 +52479,7 @@ ressagot ressagota=categories: MF;fonts LT;
 ressaguer ressaguera=categories: MF;fonts LT;
 ressalatge=categories: M;fonts: LT;
 ressalt=categories: M;fonts: LT;
+ressaltament=categories: M;fonts: termcat;
 ressecada=categories: F;fonts: LT;
 ressecament=categories: M;fonts: LT;
 ressecor=categories: F;fonts: LT;
