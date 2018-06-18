@@ -23196,6 +23196,7 @@ supranatural=categories: A;fonts: LT;
 supraquiasmàtic -a=categories: A;fonts: termcat;
 supraregional=categories: A;fonts: LT;
 suprarenal=categories: A;fonts: LT;
+suprasectorial=categories: A;fonts: derivat;
 suprasegmental=categories: A;fonts: LT;
 suprasensible=categories: A;fonts: LT;
 supraterrenal=categories: A;fonts: LT;
