@@ -15384,12 +15384,6 @@ conseguíssem conseguir VMSI1P05
 conseguísseu conseguir VMSI2P05
 conseguíssim conseguir VMSI1P02
 conseguíssiu conseguir VMSI2P02
-consellet consellet NCMS000
-consellets consellet NCMP000
-conservabilitat conservabilitat NCFS000
-conservabilitats conservabilitat NCFP000
-consociacions consociació NCFP000
-consociació consociació NCFS000
 consolta consolta NCFS000
 consoltes consolta NCFP000
 consonantitz consonantitzar VMIP1S0B
