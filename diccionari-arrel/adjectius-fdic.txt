@@ -20309,6 +20309,7 @@ pòstum pòstuma=categories: A;fonts: LT;
 púber=categories: A;fonts: LT;
 púbic púbica=categories: A;fonts: LT;
 públic pública=categories: A;fonts: LT;
+público-privat público-privada=categories: A;fonts: LT;
 púdic púdica=categories: A;fonts: LT;
 púnic púnica=categories: A;fonts: LT;
 púric púrica=categories: A;fonts: LT;
