@@ -7304,6 +7304,7 @@ barilita=categories: F;fonts: LT;
 barilàlia=categories: F;fonts: LT;
 barimetria=categories: F;fonts: LT;
 barisfera=categories: F;fonts: LT;
+barista=categories: MF;fonts: termcat;
 barita=categories: F;fonts: LT;
 baritina=categories: F;fonts: LT;
 baritocalcita=categories: F;fonts: LT;
