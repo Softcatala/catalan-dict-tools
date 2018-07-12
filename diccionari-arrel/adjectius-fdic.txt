@@ -2,6 +2,7 @@
 #baador=categories: A;fonts: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
 #emperadora=categories: A;fonts: LT;
+#eret ereta=categories: A;fonts: LT; arcaisme, es confon amb érets
 #jóc joca=categories: A;fonts: LT; molt poc usual
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
 #vivace=categories: AMS;fonts: AVL,GDLC; Pot ser confús
@@ -8794,7 +8795,6 @@ erector erectora=categories: A;fonts: LT;
 eremacàustic eremacàustica=categories: A;fonts: LT;
 eremític eremítica=categories: A;fonts: LT;
 erenc erenca=categories: A;fonts: LT;
-eret ereta=categories: A;fonts: LT;
 ergatiu ergativa=categories: A;fonts: LT;
 ergogènic ergogènica=categories: A;fonts: LT;
 ergonòmic ergonòmica=categories: A;fonts: LT;
