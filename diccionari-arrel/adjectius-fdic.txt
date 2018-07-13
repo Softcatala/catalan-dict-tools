@@ -25127,6 +25127,7 @@ ventamorí ventamorina=categories: A;fonts: LT;
 venter ventera=categories: A;fonts: LT;
 ventilable=categories: A;fonts: LT;
 ventilador ventiladora=categories: A;fonts: LT;
+ventilatori ventilatòria=categories: A;fonts: termcat;
 ventoler ventolera=categories: A;fonts: LT;
 ventolà ventolana=categories: A;fonts: LT;
 ventral=categories: A;fonts: LT;
