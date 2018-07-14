@@ -1,4 +1,3 @@
-
 #aper=categories: M;fonts: GDLC;
 #av=categories: M;fonts: LT; mes hebreu
 #baador=categories: MF;fonts: GDLC, arcaisme;
@@ -12934,6 +12933,7 @@ centilitre=categories: M;fonts: LT;
 centilló=categories: M;fonts: LT;
 centiloqui=categories: M;fonts: LT;
 centimòrgan=categories: M;fonts: LT;
+centipoise=categories: M;fonts: derivat;
 centiàrea=categories: F;fonts: LT;
 centpeus=categories: MI;fonts: LT;
 centració=categories: F;fonts: LT;
@@ -33943,6 +33943,7 @@ interacció=categories: F;fonts: LT;
 interactivitat=categories: F;fonts: LT;
 interactuació=categories: F;fonts: LT;
 interactòmica=categories: F;fonts: LT;
+interacumulador=categories: M;fonts: derivat;
 interambulacre=categories: M;fonts: LT;
 interbase=categories: M;fonts: LT;
 interbloqueig=categories: M;fonts: LT;
