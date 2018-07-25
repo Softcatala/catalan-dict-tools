@@ -23547,6 +23547,7 @@ esclerosament=categories: M;fonts: LT;
 esclerosepte=categories: M;fonts: LT;
 esclerosi=categories: F;fonts: LT;
 esclerotitis=categories: FI;fonts: LT;
+esclerotització=categories: F;fonts: DNV;
 esclerotínia=categories: F;fonts: LT;
 esclerèmia=categories: F;fonts: LT;
 esclerènquima=categories: M;fonts: LT;

@@ -5313,6 +5313,7 @@ esclavitzar=categories: V;model:cantar;fonts:LT
 esclavonar=categories: V;model:cantar;fonts:LT
 esclavonejar=categories: V;model:envejar;fonts:LT
 esclerosar=categories: V;model:anquilosar;fonts:LT
+esclerotitzar=categories: V;model:cantar;fonts: DNV;
 esclofollar=categories: V;model:cantar;fonts:LT
 esclopar=categories: V;model:cantar;fonts:LT
 escloscar=categories: V;model:trencar;fonts:LT
