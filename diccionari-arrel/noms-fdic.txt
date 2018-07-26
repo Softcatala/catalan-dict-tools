@@ -5793,6 +5793,7 @@ astronau=categories: F;fonts: LT;
 astronauta=categories: MF;fonts: LT;
 astronomia=categories: F;fonts: LT;
 astronàutic astronàutica=categories: MF;fonts LT;
+astropartícula=categories: F;fonts: wikipedia;
 astroquímica=categories: F;fonts: LT;
 astrosfera=categories: F;fonts: LT;
 astroturisme=categories: MS;fonts: LT;
