@@ -36966,6 +36966,7 @@ macrosò=categories: M;fonts: LT;
 macrosònica=categories: F;fonts: LT;
 macroteri=categories: M;fonts: LT;
 macrotext=categories: M;fonts: LT;
+macrourbanització=categories: F;fonts: derivat;
 macrur=categories: M;fonts: LT;
 macruriforme=categories: M;fonts: LT;
 macròcit=categories: M;fonts: LT;
