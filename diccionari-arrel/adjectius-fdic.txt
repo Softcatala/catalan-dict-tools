@@ -23172,6 +23172,7 @@ superposable=categories: A;fonts: LT;
 superrealista=categories: A;fonts: LT;
 superreduït superreduïda=categories: A; fonts: derivat;
 superric superrica=categories: A;fonts: derivat;
+supersimètric supersimètrica=categories: A;fonts: termcat;
 supersticiós supersticiosa [sup. supersticiosíssim]=categories: A; font:apertium;
 supersubstancial=categories: A;fonts: LT;
 supersònic supersònica=categories: A;fonts: LT;
