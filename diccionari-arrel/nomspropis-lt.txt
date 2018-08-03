@@ -14698,6 +14698,7 @@ Nyus Nyus NPCSG00
 Nyíregyháza Nyíregyháza NPCSG00
 Nàger Nàger NPCNSP0
 Nàpols Nàpols NPCSG00
+Nàquera Nàquera NPCSG00
 Nàuplia Nàuplia NPCSG00
 Nájera Nájera NPCSG00
 Näfels Näfels NPCSG00

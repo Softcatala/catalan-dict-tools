@@ -22420,6 +22420,7 @@ sexista=categories: A;fonts: LT;
 sexològic sexològica=categories: A;fonts: LT;
 sexpartit sexpartida=categories: A;fonts: LT;
 sext sexta=categories: AO;fonts: LT;
+sextupolar=categories: A;fonts: termcat;
 sexual=categories: A;fonts: LT;
 sexuat sexuada=categories: A;fonts: LT;
 sexy=categories: A;fonts: LT;

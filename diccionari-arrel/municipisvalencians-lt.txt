@@ -93,8 +93,6 @@ Montcada Montcada NPCSG0V
 Montán Montant NPCSG0O
 Navaixes Navaixes NPCSG0V
 Navajas Navaixes NPCSG0O
-Nàquera Nàquera NPCSG0V
-Náquera Nàquera NPCSG0O
 Orihuela Oriola NPCSG0O
 Oriola Oriola NPCSG0V
 Pavies Pavies NPCSG0V

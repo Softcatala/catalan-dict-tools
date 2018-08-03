@@ -12920,6 +12920,7 @@ centcames=categories: MI;fonts: LT;
 centcaps=categories: MP;fonts: LT;
 centella=categories: F;fonts: LT;
 centelleig=categories: M;fonts: LT;
+centellejador=categories: M;fonts: termcat;
 centellenc centellenca=categories: MF;fonts: LT;
 centena=categories: F;fonts: LT;
 centenar=categories: M;fonts: LT;
