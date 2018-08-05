@@ -33713,6 +33713,7 @@ inharmonia=categories: F;fonts: LT;
 inherència=categories: F;fonts: LT;
 inhibició=categories: F;fonts: LT;
 inhibidor=categories: M;fonts: LT;
+inhomogeneïtat=categories: F;fonts: termcat;
 inhospitalitat=categories: F;fonts: LT;
 inhumació=categories: F;fonts: LT;
 inhumanitat=categories: F;fonts: LT;
