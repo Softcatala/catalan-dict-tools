@@ -10342,6 +10342,7 @@ fisonòmic fisonòmica=categories: A;fonts: LT;
 fissa=categories: A;fonts: LT;
 fissible=categories: A;fonts: LT;
 fissidàctil fissidàctila=categories: A;fonts: LT;
+fissionable=categories: A;fonts: termcat;
 fissirostre=categories: A;fonts: LT;
 fissitunicat fissitunicada=categories: A;fonts: LT;
 fissurat fissurada=categories: A;fonts: termcat;

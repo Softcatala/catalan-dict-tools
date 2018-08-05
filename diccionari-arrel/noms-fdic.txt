@@ -27319,6 +27319,7 @@ fisonomia=categories: F;fonts: LT;
 fisostigmina=categories: F;fonts: LT;
 fisqueta=categories: F;fonts: LT;
 fissilitat=categories: F;fonts: LT;
+fissionabilitat=categories: F;fonts: termcat;
 fissiparitat=categories: F;fonts: LT;
 fissió=categories: F;fonts: LT;
 fissura=categories: F;fonts: LT;
