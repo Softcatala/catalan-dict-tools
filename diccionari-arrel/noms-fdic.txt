@@ -6291,6 +6291,7 @@ autofocus=categories: MI;fonts: LT;
 autofonia=categories: F;fonts: LT;
 autoformació=categories: F;fonts: LT;
 autofoto=categories: F;fonts: LT;
+autofunció=categories: F;fonts: termcat;
 autofàgia=categories: F;fonts: LT;
 autogeneració=categories: F;fonts: LT;
 autogeobotànica=categories: F;fonts: LT;

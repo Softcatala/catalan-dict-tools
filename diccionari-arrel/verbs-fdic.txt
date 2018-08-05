@@ -8648,6 +8648,7 @@ rendir=categories: V;model:servir;fonts:LT
 renegar=categories: V;model:pregar;fonts:LT
 renegociar=categories: V;model:crear;fonts:LT
 renillar=categories: V;model:cantar;fonts:LT
+renormalitzar=categories: V;model:cantar;fonts:LT
 renouejar=categories: V;model:envejar;fonts:LT
 renovar=categories: V;model:cantar;fonts:LT
 renovellar=categories: V;model:cantar;fonts:LT
