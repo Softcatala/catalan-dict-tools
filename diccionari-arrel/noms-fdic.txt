@@ -3365,6 +3365,7 @@ ancestre=categories: M;fonts: LT;
 ancianitat=categories: F;fonts: LT;
 ancil=categories: M;fonts: LT;
 ancilostomiasi=categories: F;fonts: LT;
+ancilostomosi=categories: F;fonts: termcat,DNV;
 ancilòstom=categories: M;fonts: LT;
 ancià anciana=categories: MF;fonts: LT;
 anconal=categories: M;fonts: LT;
