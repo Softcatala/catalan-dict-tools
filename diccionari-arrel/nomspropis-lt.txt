@@ -2,6 +2,7 @@
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 ACNUR ACNUR NPMSO00
+AGPL AGPL NPCNO00
 ATM ATM NPFSO00
 AVE AVE NPMNO00
 AVL AVL NPFSO00
@@ -2275,6 +2276,7 @@ Aškhabad Aškhabad NPCSG00
 BBC BBC NPFSO00
 BBVA BBVA NPMSO00
 BCE BCE NPMSO00
+BCN BCN NPFSG00
 BMW BMW NPCNO00
 BOE BOE NPMSO00
 BUP BUP NPMSO00
@@ -4177,6 +4179,7 @@ Busiris Busiris NPCSG00
 Busot Busot NPCSG00
 Busquella Busquella NPCNSP0
 Busquets Busquets NPCNSP0
+BusyBox BusyBox NPMSO00
 Butart Butart NPCNSP0
 Butinyà Butinyà NPCNSP0
 Butrot Butrot NPCSG00
@@ -5466,7 +5469,7 @@ Christchurch Christchurch NPCSG00
 Christian Christian NPCNSP0
 Christmas Christmas NPCSG00
 Christopher Christopher NPCSG00
-Chrome Chrome NPCNO00
+Chrome Chrome NPMSO00
 Chrysler Chrysler NPCNO00
 Chubut Chubut NPCSG00
 Chungyang Chungyang NPCSG00
@@ -8710,6 +8713,8 @@ Fāshōda Fāshōda NPCSG00
 Fīrozābād Fīrozābād NPCSG00
 GAL GAL NPMPO00
 GDLC GDLC NPMSO00
+GNU GNU NPMSO00
+GPL GPL NPCNO00
 Gabana Gabana NPCNSP0
 Gabaon Gabaon NPMSG00
 Gabarret Gabarret NPCSG00
@@ -11253,6 +11258,7 @@ Kōfu Kōfu NPCSG00
 Kōriyama Kōriyama NPCSG00
 L'Aquila L'Aquila NPCSG00
 L'ubercy L'ubercy NPCSG00
+LGPL LGPL NPCNO00
 LOGSE LOGSE NPFSO00
 Labadia Labadia NPCNSP0
 Laban Laban NPMSSP0
@@ -14967,6 +14973,7 @@ Oosterbeek Oosterbeek NPCSG00
 Opatija Opatija NPCSG00
 Opava Opava NPCSG00
 OpenOffice OpenOffice NPMSO00
+OpenStreetMap OpenStreetMap NPMSO00
 OpenType OpenType NPCNO00
 Opole Opole NPCSG00
 Optat Optat NPMSSP0
@@ -20423,6 +20430,7 @@ Thonon-les-Bains Thonon-les-Bains NPCSG00
 Thoreau Thoreau NPCNSP0
 Thule Thule NPCSG00
 Thun Thun NPCSG00
+Thunderbird Thunderbird NPMSO00
 Thurgau Thurgau NPCSG00
 Thurrock Thurrock NPCSG00
 Thyolo Thyolo NPCSG00
@@ -21374,6 +21382,8 @@ Uíge Uíge NPCSG00
 Uşak Uşak NPCSG00
 Užhorod Užhorod NPCSG00
 V'atka V'atka NPCSG00
+VLC VLC NPFSG00
+VLC VLC NPMSO00
 Vaal Vaal NPCSG00
 Vaasa Vaasa NPCSG00
 Vacarisses Vacarisses NPCSG00
@@ -21843,6 +21853,7 @@ Vidala Vidala NPCNSP0
 Vidalet Vidalet NPCNSP0
 Vidals Vidal NPMPSP0
 Vidaló Vidaló NPCNSP0
+VideoLAN VideoLAN NPMSO00
 Vidiella Vidiella NPCNSP0
 Vidin Vidin NPCSG00
 Vidre Vidre NPMSG00
@@ -22191,6 +22202,7 @@ Violants Violant NPFPSP0
 Violeta Violeta NPFSSP0
 Violetes Violeta NPFPSP0
 Viquer Viquer NPCNSP0
+Viquidites Viquidites NPCNO00
 Viquillibres Viquillibres NPMNO00
 Viquipèdia Viquipèdia NPFSO00
 Viquitexts Viquitexts NPMNO00
