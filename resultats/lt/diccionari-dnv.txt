@@ -61799,8 +61799,6 @@ ostàlgiques ostàlgic AQ0FP0
 otoba otoba NCFS000
 otobes otoba NCFP000
 otoencefalitis otoencefalitis NCFN000
-otorino otorino NCCS000
-otorinos otorino NCCP000
 otxa otxa NCMS000
 otxes otxa NCMP000
 otàlgic otàlgic AQ0MS0
@@ -64397,8 +64395,6 @@ platinadores platinador NCFP000
 platinadors platinador NCMP000
 platiner platiner NCMS000
 platiners platiner NCMP000
-platirins platirí NCMP000
-platirí platirí NCMS000
 play play NCMS000
 play-off play-off NCMS000
 pleit pleit NCMS000
