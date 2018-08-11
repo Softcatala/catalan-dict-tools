@@ -71,7 +71,7 @@ for my $arxiucategoria (@categories) {
 	#
 	# A partir de dues formes, masculí i femení. Ex.: valencià -ana. 
 	#
-	
+
 	if ( $line =~ /^($Flexio::carac+) ($Flexio::carac+)(.*)=categories: (.+?);/ ) {
 	    $mot_masc=$1;
 	    $excepcions=$3;
@@ -124,10 +124,10 @@ for my $arxiucategoria (@categories) {
 	    }
 
 
-	    if ($excepcions  =~ /\[fem\. (.+)\]/ ) { #forma extra de femení
+	    if ($excepcions  =~ /\[fem\. (.+?)\]/ ) { #forma extra de femení
 		$fs2=$1;
 	    }
-	    if ($excepcions  =~ /\[masc\. (.+)\]/ ) { #forma extra de masculí (bon)
+	    if ($excepcions  =~ /\[masc\. (.+?)\]/ ) { #forma extra de masculí (bon)
 		$ms2=$1;
 	    }
 
