@@ -98,10 +98,10 @@ for my $arxiucategoria (@categories) {
 	    
 	    
 	    $mp=Flexio::plural($mot_masc, "M");
-	    if ($excepcions =~ /\[pl\. ([^ ]+)\]/ ) {
+	    if ($excepcions =~ /\[pl\. ([^ ]+?)\]/ ) {
 		$mp=$1;
 	    }
-	    elsif ($excepcions  =~ /\[pl\. (.+) o (.+)\]/ ) {
+	    elsif ($excepcions  =~ /\[pl\. (.+?) o (.+?)\]/ ) {
 		$mp=$1;
 		$mp2=$2;
 	    }
@@ -278,7 +278,6 @@ for my $arxiucategoria (@categories) {
 	#
 
 	elsif ( $line =~ /^([^#].*)=categories: (.+?);/ ) {
-
 	    $categoria = $2;
 	    my $entrada = $1;
 	    my $singular = "";
@@ -313,11 +312,11 @@ for my $arxiucategoria (@categories) {
 	    {
 		$plural=$singular;
 	    }
-	    elsif ($entrada =~ /\[pl\. ([^ ]+)\]/) { #una excepció de plural
+	    elsif ($entrada =~ /\[pl\. ([^ ]+?)\]/) { #una excepció de plural
 		$plural=$1;
 		$femeniplural=$1;
 	    }
-	    elsif ($entrada =~ /\[pl\. (.+) o (.+)\]/) { # dues excepcions de plural
+	    elsif ($entrada =~ /\[pl\. (.+?) o (.+?)\]/) { # dues excepcions de plural
 		$plural=$1;
 		$femeniplural=$1;
 		$plural2=$2;
@@ -342,7 +341,7 @@ for my $arxiucategoria (@categories) {
 	    }
 
 
-	    if ($entrada =~ /\[fem\. (.+)]/) { # una forma extra femení
+	    if ($entrada =~ /\[fem\. (.+?)\]/) { # una forma extra femení
 		$femenisingular2=$1;
 	    }
 	    
