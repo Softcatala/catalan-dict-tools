@@ -30,7 +30,7 @@ foreach my $file (@files) {
     open( my $modelfh,  "<:encoding(UTF-8)", $file );
     my $compta=0;
     LINE: while (my $modelline = <$modelfh>) {
-	if ($modelline =~ /^(.+) (.+) (.+) (.+) #.*$/) {
+	if ($modelline =~ /^(.+) (.+) (.+) (.+) #.*$/ && $modelline !~ /IGNOREHUNSPELL/) {
 	    my $trau = $1;
 	    my $afegeix = $2;
 	    my $condiciofinal = $3;

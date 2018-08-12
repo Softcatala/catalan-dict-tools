@@ -2,7 +2,7 @@
 #                              Corrector ortogràfic català
 #                          Fitxer d'afixos i llista de paraules
 # =======================================================================================
-#                                Versió 9.9.9 (26-11-2017)
+#                                Versió 9.9.9 (12-08-2018)
 # =======================================================================================
 # Copyright (C) 2015 Jaume Ortolà <jaumeortola@gmail.com>
 # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
@@ -6672,7 +6672,7 @@ SFX 47 dre guen/_C re
 SFX 47 dre guin/_C re
 
 # Model de conjugació: donar
-SFX 48 Y 84
+SFX 48 Y 87
 SFX 48 r r/_v_C_Y ar
 SFX 48 r nt/_C ar
 SFX 48 r t/_v_Y ar
@@ -6683,7 +6683,9 @@ SFX 48 ar o/_Z ar
 SFX 48 ar e/_Z ar
 SFX 48 ar 0/_Z ar
 SFX 48 onar ónes/_Z ar
+SFX 48 onar ones/_Z ar
 SFX 48 onar óna/_Z ar
+SFX 48 onar ona/_Z ar
 SFX 48 ar em/_Z ar
 SFX 48 r m/_Z ar
 SFX 48 ar eu/_Z ar
@@ -6750,6 +6752,7 @@ SFX 48 r ssin/_Z ar
 SFX 48 ar essen/_Z ar
 SFX 48 r ssen/_Z ar
 SFX 48 onar óna/_D ar
+SFX 48 onar ona/_D ar
 SFX 48 ar e/_D ar
 SFX 48 ar i/_D ar
 SFX 48 ar em/_C ar
@@ -9545,13 +9548,17 @@ SFX 68 re en/_C re
 SFX 68 re in/_C re
 
 # Model de conjugació: moldre
-SFX 69 Y 69
+SFX 69 Y 73
 SFX 69 e e/_v_D_Y re
 SFX 69 dre ent/_C re
 SFX 69 oldre òlt/_v_Y re
 SFX 69 oldre òlta/_Y re
 SFX 69 oldre òlts/_Y re
 SFX 69 oldre òltes/_Y re
+SFX 69 oldre olt/_v_Y re
+SFX 69 oldre olta/_Y re
+SFX 69 oldre olts/_Y re
+SFX 69 oldre oltes/_Y re
 SFX 69 dre c/_Z re
 SFX 69 dre s/_Z re
 SFX 69 dre 0/_Z re
@@ -12378,8 +12385,9 @@ SFX 89 ir esquin/_C ir
 SFX 89 ir eixin/_C ir
 
 # Model de conjugació: soler
-SFX 8A Y 69
+SFX 8A Y 70
 SFX 8A r r/_v_C_Y er
+SFX 8A er dre/_v_D_Y er
 SFX 8A r nt/_C er
 SFX 8A er gut/_v_Y er
 SFX 8A er guda/_Y er

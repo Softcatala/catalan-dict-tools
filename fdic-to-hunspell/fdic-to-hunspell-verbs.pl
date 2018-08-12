@@ -69,7 +69,7 @@ while (my $line = <$fh>) {
 			$forma .= $afegeix;
 		    }
 		    if ($postag =~ /^V.P..SF.$/ && Flexio::apostrofa_femeni($forma) && $forma !~/espesa/) {
-			print $ofh "$forma/_V\n"
+			print $ofh "$forma/_V_Y\n"
 		    }
 		}
 	    }

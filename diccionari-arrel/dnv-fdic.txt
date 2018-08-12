@@ -1,4 +1,5 @@
 #abeltir=categories: V;model:servir;fonts: DNV;
+#aüssar=categories: V;model:aüssar;fonts: DNV;
 #ditar=categories: V;model:cantar;fonts: DNV; #dóna molts problemes
 #embaltir=categories: V;model:servir;fonts: DNV;
 #embeltir=categories: V;model:servir;fonts: DNV;
@@ -445,7 +446,6 @@ aüixament=categories: M;fonts: DNV;
 aüixó=categories: M;fonts: DNV;
 aüssada=categories: F;fonts: DNV;
 aüssador -a=categories: A;fonts: DNV;
-aüssar=categories: V;model:aüssar;fonts: DNV;
 aüssó=categories: M;fonts: DNV;
 babi=categories: M;fonts: DNV,infantil;
 babota=categories: F;fonts: DNV;
