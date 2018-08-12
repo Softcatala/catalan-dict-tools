@@ -57,6 +57,7 @@ for my $arxiucategoria (@categories) {
     my $tagbefore;
     my $tagafter;
     my $excepcions;
+    my $superlatiu;
 
     open( $fh,  "<:encoding(UTF-8)", $f1 );
     open( my $ofh, ">:encoding(UTF-8)", $out );
@@ -67,6 +68,7 @@ for my $arxiucategoria (@categories) {
 	my $found = 0;
 
 	my $resultat="";
+        $superlatiu ="";
 	
 	#
 	# A partir de dues formes, masculí i femení. Ex.: valencià -ana. 
@@ -129,6 +131,9 @@ for my $arxiucategoria (@categories) {
 	    }
 	    if ($excepcions  =~ /\[masc\. (.+?)\]/ ) { #forma extra de masculí (bon)
 		$ms2=$1;
+	    }
+	    if ($excepcions  =~ /\[sup\. (.+?)\]/ ) { #forma de superlatiu
+		$superlatiu=$1;
 	    }
 
 	    $fp=Flexio::plural($mot_fem, "F"); 
@@ -200,6 +205,17 @@ for my $arxiucategoria (@categories) {
 		    }
 		    $trobat=1;
 		    last;
+		}
+	    }
+            if ($superlatiu =~ /.+/) {
+		my $apostrofacions="";
+		if (Flexio::apostrofa_masculi($mot_masc)) {
+		    $apostrofacions="_V_Y";
+		}
+		print $ofh $superlatiu."/_F"."$apostrofacions\n";
+                # Apostrofació del femení singular
+		if (Flexio::apostrofa_femeni($superlatiu."a")) {
+		    print $ofh "$superlatiu"."a/_V_Y\n";
 		}
 	    }
 	    if (!$trobat) {
@@ -299,6 +315,20 @@ for my $arxiucategoria (@categories) {
 			$singular = $1;
 			$numAccepcio = $2;
 		    }
+		}
+	    }
+	    if ($entrada  =~ /\[sup\. (.+?)\]/ ) { #forma de superlatiu
+		$superlatiu=$1;
+	    }
+            if ($superlatiu =~ /.+/) {
+		my $apostrofacions="";
+		if (Flexio::apostrofa_masculi($mot_masc)) {
+		    $apostrofacions="_V_Y";
+		}
+		print $ofh $superlatiu."/_F"."$apostrofacions\n";
+                # Apostrofació del femení singular
+		if (Flexio::apostrofa_femeni($superlatiu."a")) {
+		    print $ofh $superlatiu."a/_V_Y\n";
 		}
 	    }
 	    if ($categoria !~ /S/) {
