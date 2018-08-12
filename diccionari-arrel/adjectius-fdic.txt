@@ -9060,6 +9060,7 @@ esmenable=categories: A;fonts: LT;
 esmenador -a=categories: A; fonts: Jané;
 esmerilador esmeriladora=categories: A;fonts: LT;
 esmerlit esmerlida=categories: A;fonts: LT;
+esmicoladís esmicoladissa=categories: A;fonts: DDLC;
 esmolador esmoladora=categories: A;fonts: LT;
 esmolat esmolada [sup. esmoladíssim]=categories: A;fonts: LT;
 esmorteïdor esmorteïdora=categories: A;fonts: LT;
