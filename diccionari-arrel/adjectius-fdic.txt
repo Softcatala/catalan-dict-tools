@@ -3747,6 +3747,7 @@ biodegradable=categories: A;fonts: LT;
 biodinàmic -a=categories: A;fonts: derivat;
 bioelèctric bioelèctrica=categories: A;fonts: termcat;
 bioenergètic bioenergètica=categories: A;fonts: derivat;
+bioespeleològic bioespeleològica=categories: A;fonts: termcat;
 bioestratigràfic bioestratigràfica=categories: A;fonts: LT;
 biofísic biofísica=categories: A;fonts: LT;
 biogen biògena=categories: A;fonts: LT;
