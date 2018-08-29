@@ -59260,12 +59260,6 @@ molatencs molatenc AQ0MP0
 molatencs molatenc NCMP000
 molatenques molatenc AQ0FP0
 molatenques molatenc NCFP000
-molitjaira molitjaire AQ0FS0
-molitjaira molitjaire NCFS000
-molitjaire molitjaire AQ0MS0
-molitjaire molitjaire NCMS000
-molitjaires molitjaire AQ0CP0
-molitjaires molitjaire NCCP000
 mollonera mollonera NCFS000
 molloneres mollonera NCFP000
 mollosa mollós AQ0FS0
@@ -60608,10 +60602,6 @@ nivellésseu nivellar VMSI2P05
 nivelléssim nivellar VMSI1P02
 nivelléssiu nivellar VMSI2P02
 nivellí nivellar VMIS1S00
-no-bel·ligerant no-bel·ligerant AQ0CS0
-no-bel·ligerants no-bel·ligerant AQ0CP0
-no-linealitat no-linealitat NCFS000
-no-linealitats no-linealitat NCFP000
 nobel nobel NCCS000
 nobels nobel NCCP000
 noctilucina noctilucina NCFS000
