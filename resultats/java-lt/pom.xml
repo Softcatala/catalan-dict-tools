@@ -5,17 +5,19 @@
 
     <groupId>org.softcatala</groupId>
     <artifactId>catalan-pos-dict</artifactId>
-    <version>2.0</version>
+    <version>2.1</version>
     <url>http://github.com/softcatala/catalan-dict-tools</url>
     <name>Catalan part-of-speech dictionary</name>
     <description>A Catalan part-of-speech (POS) dictionary as a Morfologik binary</description>
 
     <licenses>
         <license>
-            <name>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</name>
-            <url>https://creativecommons.org/licenses/by-sa/4.0/</url>
-            <distribution>repo</distribution>
-            <comments>data from several sources</comments>
+            <name>GNU General Public License, Version 2, June 1991</name>
+            <url>https://www.gnu.org/licenses/gpl2.txt</url>
+        </license>
+        <license>
+            <name>GNU Lesser General Public License, Version 2.1, February 1999</name>
+            <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt</url>
         </license>
     </licenses>
 
