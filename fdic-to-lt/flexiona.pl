@@ -3,7 +3,7 @@ use warnings;
 use autodie;
 use utf8;
 use Switch;
-require "libs/Flexio.pm";
+require "./libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
