@@ -2,7 +2,7 @@ use strict;
 use warnings;
 use autodie;
 use utf8;
-require "libs/Flexio.pm";
+require "./libs/Flexio.pm";
 
 
 my $fitxer_exclusions = $ARGV[0];

@@ -5,7 +5,7 @@ use autodie;
 use utf8;
 no locale;
 use Encode qw(decode);
-require "libs/Flexio.pm";
+require "./libs/Flexio.pm";
 
 binmode( STDOUT, ":utf8" );
 
