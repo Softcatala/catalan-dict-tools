@@ -36,7 +36,7 @@
       </Description>
     </em:targetApplication>
     <em:name>Diccionari català (general)##TAG##</em:name>
-    <em:homepageURL>http://www.softcatala.org/wiki/Corrector_ortogràfic</em:homepageURL>
+    <em:homepageURL>https://www.softcatala.org/projectes/corrector-ortografic/</em:homepageURL>
     <em:creator>Softcatalà</em:creator>
   </Description>
 </RDF>
