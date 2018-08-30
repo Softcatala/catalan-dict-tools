@@ -12,5 +12,5 @@ _______________________________________________________________________________
 	Aquests patrons funcionen amb el LibreOffice i OpenOffice.org 3.2+
 	
 	Més informació:
-		http://www.softcatala.org/wiki/Rebost:Diccionari_català_de_partició_de_mots
+		https://www.softcatala.org/programes/diccionari-catala-de-particio-de-mots/
 _______________________________________________________________________________
