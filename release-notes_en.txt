@@ -1,14 +1,11 @@
 Prerelease Version 3.0.3 (30/08/2018)
-
 Additions and changes done during the last year.
 It contains orthography changes by IEC and AVL, but it also keeps traditional diacritics (dóna, ós, etc.).
 
 Version 3.0.2 (24/05/2017)
-
 Additions and corrections over the past two years.
 
 Version 3.0.1 (01/07/2015)
-
 Set dual license LGPL v2.1 and GPL v2.
 Some additions and corrections.
 
