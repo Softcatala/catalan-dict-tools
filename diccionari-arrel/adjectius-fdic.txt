@@ -10463,7 +10463,6 @@ fluviomètric fluviomètrica=categories: A;fonts: LT;
 fluviàtil=categories: A;fonts: LT;
 fluxionari fluxionària=categories: A;fonts: LT;
 fluídic fluídica=categories: A;fonts: LT;
-fluïdal=categories: A;fonts: LT;
 flàccid flàccida=categories: A;fonts: LT;
 flèbil=categories: A;fonts: LT;
 flòrid flòrida=categories: A;fonts: LT;
