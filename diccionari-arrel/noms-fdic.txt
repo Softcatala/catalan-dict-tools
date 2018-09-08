@@ -52365,6 +52365,7 @@ reprivatització=categories: F;fonts: LT;
 reprocessament=categories: M;fonts: DNV;
 reproducció=categories: F;fonts: LT;
 reproductibilitat=categories: F;fonts: LT;
+reproductivitat=categories: F;fonts: DDLC;
 reproductor reproductora=categories: MF;fonts: LT;
 reprografia=categories: F;fonts: LT;
 reprogramació=categories: F;fonts: derivat;
