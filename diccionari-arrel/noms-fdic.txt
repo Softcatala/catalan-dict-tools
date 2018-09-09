@@ -48293,6 +48293,7 @@ portulaca=categories: F;fonts: LT;
 portulacàcia=categories: F;fonts: LT;
 portusenc portusenca=categories: MF;fonts: LT;
 portvendrenc portvendrenca=categories: MF;fonts: LT;
+portàtil=categories: M;fonts: DNV;
 portó=categories: M;fonts: LT;
 portúnid=categories: M;fonts: LT;
 porus=categories: MI;fonts: LT;
