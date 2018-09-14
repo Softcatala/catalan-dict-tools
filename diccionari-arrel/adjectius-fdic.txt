@@ -16916,6 +16916,7 @@ nentsi=categories: AI;fonts: LT;
 nentsià nentsiana=categories: A;fonts: LT;
 neoadjuvant=categories: A;fonts: LT;
 neobabilònic neobabilònica=categories: A;fonts: LT;
+neobarroc neobarroca=categories: A;fonts: LT;
 neoblàstic neoblàstica=categories: A;fonts: LT;
 neocaledonià neocaledoniana=categories: A;fonts: LT;
 neocapitalista=categories: A;fonts: LT;
