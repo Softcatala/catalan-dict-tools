@@ -7548,6 +7548,7 @@ dilatatiu dilatativa=categories: A;fonts: LT;
 dilatori dilatòria=categories: A;fonts: LT;
 dilecte dilecta=categories: A;fonts: LT;
 dilemàtic dilemàtica=categories: A;fonts: LT;
+diletant=categories: A;fonts: LT;
 diligent [sup. diligentíssim]=categories: A;fonts: LT;
 diluent=categories: A;fonts: LT;
 diluvial=categories: A;fonts: LT;
