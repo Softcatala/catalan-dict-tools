@@ -59388,6 +59388,7 @@ titulació=categories: F;fonts: LT;
 titular=categories: MF;fonts: LT;
 titularitat=categories: F;fonts: LT;
 titulatura=categories: F;fonts: LT;
+titulitis=categories: FS;fonts: derivat;
 titulització=categories: F;fonts: LT;
 titulot=categories: M;fonts: LT;
 tità=categories: M;fonts: LT;

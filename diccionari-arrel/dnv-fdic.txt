@@ -3,6 +3,7 @@
 #embaltir=categories: V;model:servir;fonts: DNV;
 #embeltir=categories: V;model:servir;fonts: DNV;
 #platirí=categories: M;fonts: DNV; abandonat segons nova ortografia 2017
+#titolitis=categories: FS;fonts: DNV;
 Cinquagesma=categories: F;fonts: DNV;
 Pentecostès=categories: MS;fonts: DNV;
 abagotar=categories: V;model:cantar;fonts: DNV;
@@ -5584,7 +5585,6 @@ tironada=categories: F;fonts: DNV;
 tirosinasa=categories: F;fonts: DNV;
 tisparís=categories: M;fonts: DNV;
 titaina=categories: F;fonts: DNV;
-titolitis=categories: FS;fonts: DNV;
 toc-toc=categories: F;fonts: DNV;
 tocacollons=categories: MFI;fonts: DNV,col·loquial;
 tocamenta=categories: F;fonts: DNV,col·loquial;
