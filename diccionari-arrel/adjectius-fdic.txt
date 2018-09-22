@@ -1,4 +1,3 @@
-
 #avist avista=categories: A;fonts: LT; arcaisme
 #baador=categories: A;fonts: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
@@ -20168,6 +20167,7 @@ psicoanalític psicoanalítica=categories: A;fonts: LT;
 psicoastènic psicoastènica=categories: A;fonts: LT;
 psicobiogràfic -a=categories: A;fonts: derivat;
 psicobiològic psicobiològica=categories: A;fonts: LT;
+psicodiagnòstic psicodiagnòstica=categories: A;fonts: termcat;
 psicodinàmic -a=categories: A;fonts: Viquipèdia;
 psicodislèptic -a=categories: A;fonts: termcat;
 psicodramàtic psicodramàtica=categories: A;fonts: LT;
