@@ -10,6 +10,10 @@ El diccionari arrel (en el directori "diccionari-arrel") conté les dades bàsiq
 * Extensió **-lt.txt**: Per a adverbis, noms propis i la resta de categories, la informació es manté en el format usat en LanguageTool, que és el mateix que s'usa en els diccionaris [Freeling](http://nlp.lsi.upc.edu/freeling/index.php/node/9). 
 
 #### Scripts
+##### Prerequisits (Perl)
+* Mòdul Switch: `apt-get install libswitch-perl` o bé `cpanm Switch`
+* Mòdul [Text::Unaccent::PurePerl](https://metacpan.org/pod/Text::Unaccent::PurePerl): `sudo cpanm Text::Unaccent::PurePerl`
+
 ##### build-hunspell.sh
 
 Genera diccionaris Hunspell en variant general i valenciana a partir del diccionari arrel. 
