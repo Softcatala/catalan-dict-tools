@@ -12,7 +12,7 @@ El diccionari arrel (en el directori "diccionari-arrel") conté les dades bàsiq
 #### Scripts
 ##### Prerequisits (Perl)
 * Mòdul Switch: `apt-get install libswitch-perl` o bé `cpanm Switch`
-* Mòdul [Text::Unaccent::PurePerl](https://metacpan.org/pod/Text::Unaccent::PurePerl): `sudo cpanm Text::Unaccent::PurePerl`
+* Mòdul [Text::Unaccent::PurePerl](https://metacpan.org/pod/Text::Unaccent::PurePerl): `cpanm Text::Unaccent::PurePerl`
 
 ##### build-hunspell.sh
 
