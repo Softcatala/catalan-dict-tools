@@ -11452,6 +11452,7 @@ graciós graciosa [sup. graciosíssim]=categories: A; font:apertium;
 graduable=categories: A;fonts: LT;
 graduador graduadora=categories: A;fonts: LT;
 gradual=categories: A;fonts: LT;
+gradualista=categories: A;fonts: derivat;
 grafista=categories: A;fonts: LT;
 grafititzador grafititzadora=categories: A;fonts: LT;
 grafitoide=categories: A;fonts: LT;
