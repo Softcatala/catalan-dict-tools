@@ -14048,6 +14048,7 @@ isohieta=categories: A;fonts: LT;
 isohipsa=categories: A;fonts: LT;
 isohèlia=categories: AF;fonts: LT;
 isolable=categories: A;fonts: LT;
+isolacionista=categories: A;fonts: termcat;
 isolador isoladora=categories: A;fonts: LT;
 isolant=categories: A;fonts: LT;
 isolecític isolecítica=categories: A;fonts: LT;

@@ -34452,6 +34452,7 @@ isohieta=categories: F;fonts: LT;
 isohipsa=categories: F;fonts: LT;
 isohèlia=categories: F;fonts: LT;
 isoimmunització=categories: F;fonts: LT;
+isolacionisme=categories: M;fonts: derivat;
 isolació=categories: F;fonts: LT;
 isolament=categories: M;fonts: LT;
 isolant=categories: M;fonts: LT;
