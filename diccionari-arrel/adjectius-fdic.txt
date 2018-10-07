@@ -19610,6 +19610,7 @@ preconstitucional=categories: A;fonts: LT;
 preconstituent=categories: A;fonts: derivat;
 preconstituït preconstituïda=categories: A;fonts: derivat;
 precontractual=categories: A;fonts: derivat;
+postcontractual=categories: A;fonts: derivat;
 precordial=categories: A;fonts: LT;
 precoç [sup. precocíssim]=categories: A;fonts: LT;
 precristià precristiana=categories: A;fonts: LT;
