@@ -187,21 +187,21 @@ for my $arxiucategoria (@categories) {
 		$resultat.=" ***POSSIBLE ERROR*** $line\n";
 	    }
 	    
-	    my @lletresregla = ("F","B","H", "J", "K", "L");
+	    my @lletresregla = ("_F","_B","_H", "_J", "_K", "_L");
 	    my $trobat=0;
 	    foreach my $lletraregla (@lletresregla) {
 		if (&genera_formes_regla_hunspell($mot_masc, $lletraregla) =~ /^$resultat$/) {
 		    my $apostrofacions="";
 		    if (Flexio::apostrofa_masculi($mot_masc)) {
-			$apostrofacions="VY";
+			$apostrofacions="_V_Y";
 		    }
 		    print $ofh "$mot_masc/$lletraregla$apostrofacions\n";
 		    # Apostrofació del femení singular
 		    if (Flexio::apostrofa_femeni($mot_fem)) {
-			print $ofh "$mot_fem/VY\n";
+			print $ofh "$mot_fem/_V_Y\n";
 		    }
 		    if (Flexio::apostrofa_femeni($fs2)) {
-			print $ofh "$fs2/VY\n";
+			print $ofh "$fs2/_V_Y\n";
 		    }
 		    $trobat=1;
 		    last;
@@ -210,12 +210,12 @@ for my $arxiucategoria (@categories) {
             if ($superlatiu =~ /.+/) {
 		my $apostrofacions="";
 		if (Flexio::apostrofa_masculi($mot_masc)) {
-		    $apostrofacions="VY";
+		    $apostrofacions="_V_Y";
 		}
-		print $ofh $superlatiu."/F"."$apostrofacions\n";
+		print $ofh $superlatiu."/_F"."$apostrofacions\n";
                 # Apostrofació del femení singular
 		if (Flexio::apostrofa_femeni($superlatiu."a")) {
-		    print $ofh "$superlatiu"."a/VY\n";
+		    print $ofh "$superlatiu"."a/_V_Y\n";
 		}
 	    }
 	    if (!$trobat) {
@@ -223,32 +223,32 @@ for my $arxiucategoria (@categories) {
 		#Escriu totes les formes una per una $mot_masc, $mot_fem, $ms2, $fs2, $mp1, $mp2, $fp1, $fp2
 		# MS1
 		if (Flexio::apostrofa_masculi($mot_masc)) {
-		    print $ofh "$mot_masc/VY\n";
+		    print $ofh "$mot_masc/_V_Y\n";
 		} else {
 		    print $ofh "$mot_masc\n";
 		}
 		# MS2
 		if ($ms2 =~ /.+/) {
 		    if (Flexio::apostrofa_masculi($ms2)) {
-			print $ofh "$ms2/VY\n";
+			print $ofh "$ms2/_V_Y\n";
 		    } else {
 			print $ofh "$ms2\n";
 		    }
 		}
 		# FS1
 		if (Flexio::apostrofa_femeni($mot_fem)) {
-		    print $ofh "$mot_fem/VY\n";
+		    print $ofh "$mot_fem/_V_Y\n";
 		} elsif (Flexio::apostrofa_masculi($mot_fem)) {
-		    print $ofh "$mot_fem/Y\n";
+		    print $ofh "$mot_fem/_Y\n";
 		} else {
 		    print $ofh "$mot_fem\n";
 		}
 		# FS2
 		if ($fs2 =~ /.+/) {
 		    if (Flexio::apostrofa_femeni($fs2)) {
-			print $ofh "$fs2/VY\n";
+			print $ofh "$fs2/_V_Y\n";
 		    } elsif (Flexio::apostrofa_masculi($fs2)) {
-			print $ofh "$fs2/Y\n";
+			print $ofh "$fs2/_Y\n";
 		    } else {
 			print $ofh "$fs2\n";
 		    }
@@ -256,7 +256,7 @@ for my $arxiucategoria (@categories) {
 		# MP
 		if ($mp =~ /.+/) {
 		    if (Flexio::apostrofa_masculi($mp)) {
-			print $ofh "$mp/Y\n";
+			print $ofh "$mp/_Y\n";
 		    } else {
 			print $ofh "$mp\n";
 		    }
@@ -264,7 +264,7 @@ for my $arxiucategoria (@categories) {
 		# MP2
 		if ($mp2 =~ /.+/) {
 		    if (Flexio::apostrofa_masculi($mp2)) {
-			print $ofh "$mp2/Y\n";
+			print $ofh "$mp2/_Y\n";
 		    } else {
 			print $ofh "$mp2\n";
 		    }
@@ -272,7 +272,7 @@ for my $arxiucategoria (@categories) {
 		# FP
 		if ($fp =~ /.+/) {
 		    if (Flexio::apostrofa_masculi($fp)) {
-			print $ofh "$fp/Y\n";
+			print $ofh "$fp/_Y\n";
 		    } else {
 			print $ofh "$fp\n";
 		    }
@@ -280,7 +280,7 @@ for my $arxiucategoria (@categories) {
 		# FP2
 		if ($fp2 =~ /.+/) {
 		    if (Flexio::apostrofa_masculi($fp2)) {
-			print $ofh "$fp2/Y\n";
+			print $ofh "$fp2/_Y\n";
 		    } else {
 			print $ofh "$fp2\n";
 		    }
@@ -323,12 +323,12 @@ for my $arxiucategoria (@categories) {
             if ($superlatiu =~ /.+/) {
 		my $apostrofacions="";
 		if (Flexio::apostrofa_masculi($mot_masc)) {
-		    $apostrofacions="VY";
+		    $apostrofacions="_V_Y";
 		}
-		print $ofh $superlatiu."/F"."$apostrofacions\n";
+		print $ofh $superlatiu."/_F"."$apostrofacions\n";
                 # Apostrofació del femení singular
 		if (Flexio::apostrofa_femeni($superlatiu."a")) {
-		    print $ofh $superlatiu."a/VY\n";
+		    print $ofh $superlatiu."a/_V_Y\n";
 		}
 	    }
 	    if ($categoria !~ /S/) {
@@ -541,20 +541,20 @@ for my $arxiucategoria (@categories) {
 	    }
 
 	    if ($resultat =~ / /) {
-		my @lletresregla = ("E", "I", "G", "i", "F");
+		my @lletresregla = ("_E", "_I", "_G", "_i", "_F");
 		my $trobat=0;
 		foreach my $lletraregla (@lletresregla) {
 		    if (&genera_formes_regla_hunspell($singular, $lletraregla) =~ /^$resultat$/) {
 			my $apostrofacions="";
 			if ($categoria =~ /F/ && $categoria !~ /M/) {
 			    if (Flexio::apostrofa_femeni($singular)) {
-				$apostrofacions.="V";
+				$apostrofacions.="_V";
 			    }
 			    if (Flexio::apostrofa_masculi($singular)) {
-				$apostrofacions.="Y";
+				$apostrofacions.="_Y";
 			    }
 			} elsif (Flexio::apostrofa_masculi($singular)) {
-			    $apostrofacions="VY";
+			    $apostrofacions="_V_Y";
 			}
 			print $ofh "$singular/$lletraregla$apostrofacions\n";
 			$trobat=1;
@@ -570,13 +570,13 @@ for my $arxiucategoria (@categories) {
 		    my $apostrofacions="";
 		    if ($categoria =~ /F/ && $categoria !~ /M/) {
 			if (Flexio::apostrofa_femeni($singular)) {
-			    $apostrofacions.="V";
+			    $apostrofacions.="_V";
 			}
 			if (Flexio::apostrofa_masculi($singular)) {
-			    $apostrofacions.="Y";
+			    $apostrofacions.="_Y";
 			}
 		    } elsif (Flexio::apostrofa_masculi($singular)) {
-			$apostrofacions="VY";
+			$apostrofacions="_V_Y";
 		    }
 		    $apostrofacions =~ s/(.+)/\/$1/;
 		    print $ofh "$singular$apostrofacions\n";
@@ -585,13 +585,13 @@ for my $arxiucategoria (@categories) {
 			$apostrofacions="";
 			if ($categoria =~ /F/ && $categoria !~ /M/) {
 			    if (Flexio::apostrofa_femeni($singular2)) {
-				$apostrofacions.="V";
+				$apostrofacions.="_V";
 			    }
 			    if (Flexio::apostrofa_masculi($singular2)) {
-				$apostrofacions.="Y";
+				$apostrofacions.="_Y";
 			    }
 			} elsif (Flexio::apostrofa_masculi($singular2)) {
-			    $apostrofacions="VY";
+			    $apostrofacions="_V_Y";
 			}
 			$apostrofacions =~ s/(.+)/\/$1/;
 			print $ofh "$singular2$apostrofacions\n";
@@ -600,10 +600,10 @@ for my $arxiucategoria (@categories) {
 		    if ($femenisingular2 =~ /.+/) {
 			$apostrofacions="";
 			if (Flexio::apostrofa_femeni($femenisingular2)) {
-			    $apostrofacions.="V";
+			    $apostrofacions.="_V";
 			}
 			if (Flexio::apostrofa_masculi($femenisingular2)) {
-			    $apostrofacions.="Y";
+			    $apostrofacions.="_Y";
 			}
 			$apostrofacions =~ s/(.+)/\/$1/;
 			print $ofh "$femenisingular2$apostrofacions\n";
@@ -612,7 +612,7 @@ for my $arxiucategoria (@categories) {
 		    if ($plural =~ /.+/) {
 			$apostrofacions="";
 			if (Flexio::apostrofa_masculi($plural)) {
-			    $apostrofacions.="Y";
+			    $apostrofacions.="_Y";
 			}
 			$apostrofacions =~ s/(.+)/\/$1/;
 			print $ofh "$plural$apostrofacions\n";
@@ -621,7 +621,7 @@ for my $arxiucategoria (@categories) {
 		    if ($plural2 =~ /.+/) {
 			$apostrofacions="";
 			if (Flexio::apostrofa_masculi($plural2)) {
-			    $apostrofacions.="Y";
+			    $apostrofacions.="_Y";
 			}
 			$apostrofacions =~ s/(.+)/\/$1/;
 			print $ofh "$plural2$apostrofacions\n";
@@ -630,7 +630,7 @@ for my $arxiucategoria (@categories) {
 		    if ($femeniplural =~ /.+/ && $femeniplural !~ /^$plural$/) {
 			$apostrofacions="";
 			if (Flexio::apostrofa_masculi($femeniplural)) {
-			    $apostrofacions.="Y";
+			    $apostrofacions.="_Y";
 			}
 			$apostrofacions =~ s/(.+)/\/$1/;
 			print $ofh "$femeniplural$apostrofacions\n";
@@ -639,7 +639,7 @@ for my $arxiucategoria (@categories) {
 		    if ($femeniplural2 =~ /.+/) {
 			$apostrofacions="";
 			if (Flexio::apostrofa_masculi($femeniplural2)) {
-			    $apostrofacions.="Y";
+			    $apostrofacions.="_Y";
 			}
 			$apostrofacions =~ s/(.+)/\/$1/;
 			print $ofh "$femeniplural2$apostrofacions\n";
@@ -649,13 +649,13 @@ for my $arxiucategoria (@categories) {
 		my $apostrofacions="";
 		if ($categoria =~ /F/ && $categoria !~ /[MP]/) {
 		    if (Flexio::apostrofa_femeni($singular)) {
-			$apostrofacions.="V";
+			$apostrofacions.="_V";
 		    }		
 		} elsif (Flexio::apostrofa_masculi($singular) && $categoria !~ /P/) {
-		    $apostrofacions.="V";
+		    $apostrofacions.="_V";
 		}
 		if (Flexio::apostrofa_masculi($singular)) {
-		    $apostrofacions.="Y";
+		    $apostrofacions.="_Y";
 		}
 		if ($apostrofacions =~ /.+/) {
 		    $apostrofacions = "/".$apostrofacions;

@@ -71,8 +71,8 @@ foreach my $clau (keys %exclusions) {
 	next;
     }
     if ($exclusions{$clau}=~/FORMA/) { 
-	print $ofh "$clau/x\n";
-#	print "exclusió usada: $clau/x $exclusions{$clau}\n";
+	print $ofh "$clau/ZZ\n";
+#	print "exclusió usada: $clau/ZZ $exclusions{$clau}\n";
     }
     if ($exclusions{$clau}=~/LEMA/) { 
 	print "ATENCIÓ: Exclusió no usada (possible error!): $clau\n";
