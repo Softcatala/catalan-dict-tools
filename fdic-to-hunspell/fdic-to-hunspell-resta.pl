@@ -26,27 +26,27 @@ foreach my $file (@files) {
 	    # apostrofa d'
 	    if ($postag =~ /^(RG.*|NP.*|D[DI].*|PD0NS000|PI.*|PP3[MF][SP]000|SPS00)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
-		    $apostrofacions.="_Y";
+		    $apostrofacions.="Y";
 		}
 	    }
 #	    if ($forma =~ /^(ell|ells|ella|elles|entre|altri|algú)$/) {
-#		    $apostrofacions.="_Y";
+#		    $apostrofacions.="Y";
 #	    }
             # apostrofa el > l'
 	    if ($postag =~ /^(NP[CM][SN].*|RG)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
-		    $apostrofacions.="_V";
+		    $apostrofacions.="V";
 		}
 	    }
 #	    if ($forma =~ /^(un|una)$/) {
 #		if (Flexio::apostrofa_masculi($forma)) {
-#		    $apostrofacions.="_V";
+#		    $apostrofacions.="V";
 #		}
 #	    }
 	    # apostrofa la > l'
 	    if ($postag =~ /^(NPF[SN].*)$/) {
 		if (Flexio::apostrofa_femeni($forma)) {
-		    $apostrofacions.="_V";
+		    $apostrofacions.="V";
 		}
 	    }
 	    $apostrofacions =~ s/^(.+)$/\/$1/;

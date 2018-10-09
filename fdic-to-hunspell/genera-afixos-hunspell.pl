@@ -23,7 +23,7 @@ my $combina ="";
 my $compta = 0;
 while (my $line = <$fh>) {
     chomp($line);
-    if ($line =~ /^REGLA (_[EIiGFBHJKLCDYVWZv]) ([SP]FX)(\+?) /) {
+    if ($line =~ /^REGLA _([EIiGFBHJKLCDYVWZv]) ([SP]FX)(\+?) /) {
 	$regla = $1;
 	$spfx =$2;
 	$inregla = 1;

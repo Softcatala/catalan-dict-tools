@@ -24,16 +24,16 @@ my $modelscount = 0;
 my %sufixos     = ();
 
 my $selectedmodels = "(abalisar|anul·lar|adossar|capbussar|anquilosar|acarnissar|adobassar|lligar|ofrenar|lloar|menjar|començar|traduir|abominar|pregar|crear|trencar|servir|envejar|cantar)";
+my @modelnames = ("1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f", "g", "h", "j", "k", "l");
 
-#llegeix nom dels models i assigna sufix hexadeximal 01..9B
+#llegeix nom dels models i assigna un nom
 foreach my $file (@files) {
     $file = decode( "utf8", $file );
-    next if ( $file !~ /^$modelsdir$selectedmodels\.model$/ );
-    $modelscount++;
-    my $sufix = sprintf( "%02X", $modelscount );
+    next if ( $file !~ /^$modelsdir$selectedmodels\.model$/ );  
     my $infinitiu = $file;
     $infinitiu =~ s/$modelsdir(.*)\.model/$1/;
-    $sufixos{$infinitiu} = $sufix;
+    $sufixos{$infinitiu} = $modelnames[$modelscount];
+    $modelscount++;
 }
 
 open( my $fh,  "<:encoding(UTF-8)", $f1 );
@@ -50,7 +50,7 @@ while ( my $line = <$fh> ) {
         if ($model =~ /^$selectedmodels$/ && $infinitiu !~ /^hackejar$/) {   #models més freqüents
 
             if ( $model =~ /^cantar$/ && !Flexio::apostrofa_masculi($infinitiu) ) {
-                print $ofh "$infinitiu/00\n";   # model especial sense apostrofació: cantar, iodar, halar, etc. No serveix per a "hackejar", perquè no és del model "cantar" sinó "envejar"
+                print $ofh "$infinitiu/0\n";   # model especial sense apostrofació: cantar, iodar, halar, etc. No serveix per a "hackejar", perquè no és del model "cantar" sinó "envejar"
             }
             else {
                 print $ofh "$infinitiu/$sufixos{$model}\n"; #$apostrofainfinitiu\n";
@@ -75,7 +75,7 @@ while ( my $line = <$fh> ) {
                         }
                         if ( $postag =~ /^V.P..SF.$/ && Flexio::apostrofa_femeni($forma) && $forma !~ /espesa/ )
                         {
-                            print $ofh "$forma/_V_Y\n";
+                            print $ofh "$forma/vY\n";
                         }
                     }
                 }
@@ -114,18 +114,18 @@ while ( my $line = <$fh> ) {
                         # PROCLÍTICS
                         if (Flexio::apostrofa_masculi($forma)) {
                             if ( $postag =~ /^(V.[NG].*|V.P..SM.)$/ ) {
-                                $afixos .= "_v_Y"; 
+                                $afixos .= "vY"; 
                             } elsif ( $postag =~ /^(V.P..P..)$/ ) {
-                                $afixos .= "_Y"; 
+                                $afixos .= "Y"; 
                             } elsif ( $postag =~ /^V.P..SF.$/ ) {
                                 if (Flexio::apostrofa_femeni($forma)) {
-                                    $afixos .= "_v_Y";
+                                    $afixos .= "vY";
                                 } else {
-                                    $afixos .= "_Y";
+                                    $afixos .= "Y";
                                 }
 
                             } elsif ( $postag =~ /^(V.[SI].*)$/ ) {
-                                $afixos .= "_Z";
+                                $afixos .= "Z";
                             }
                         }
 
@@ -133,21 +133,21 @@ while ( my $line = <$fh> ) {
                         # ENCLÍTICS 
                         if ( $postag =~ /^V.N.*$/ ) {
                             if ( $forma =~ /[^e]$/ ) {
-                                $afixos .= "_C";    #infinitiu acabat en consonant
+                                $afixos .= "C";    #infinitiu acabat en consonant
                             }
                             else {
-                                $afixos .= "_D";    #infinitiu acabat en vocal
+                                $afixos .= "D";    #infinitiu acabat en vocal
                             }
                         }
                         elsif ( $postag =~ /^V.G.*$/ ) {
-                            $afixos .= "_C";            #gerundi
+                            $afixos .= "C";            #gerundi
                         }
                         elsif ( $postag =~ /^V.M.*$/ ) {
                             if ( $forma =~ /[aeiï]$/ ) {
-                                $afixos .= "_D";    #imperatiu acabat en vocal: a, e, i, ï
+                                $afixos .= "D";    #imperatiu acabat en vocal: a, e, i, ï
                             }
                             else {
-                                $afixos .= "_C";    #imperatiu acabat en consonat o u
+                                $afixos .= "C";    #imperatiu acabat en consonat o u
                             }
                         }
 

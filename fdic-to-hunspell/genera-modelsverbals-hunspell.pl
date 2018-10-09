@@ -21,17 +21,21 @@ my @regles;
 my $modelscount = 0;
 my $afffile     = $ARGV[1];
 
-my $selectedmodels = "(abalisar|anul·lar|adossar|capbussar|anquilosar|acarnissar|adobassar|lligar|ofrenar|lloar|menjar|començar|traduir|abominar|pregar|crear|trencar|servir|envejar|cantar)";
-
 open( my $ofh, ">:encoding(UTF-8)", $afffile );
+
+my $selectedmodels = "(abalisar|anul·lar|adossar|capbussar|anquilosar|acarnissar|adobassar|lligar|ofrenar|lloar|menjar|començar|traduir|abominar|pregar|crear|trencar|servir|envejar|cantar)";
+my @modelnames = ("1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f", "g", "h", "j", "k", "l");
+
+#llegeix nom dels models i assigna un nom
 foreach my $file (@files) {
     $file = decode( "utf8", $file );
-    next if ( $file !~ /^$modelsdir$selectedmodels\.model$/ );
-    $modelscount++;
-    my $sufix = sprintf( "%02X", $modelscount );
+    next if ( $file !~ /^$modelsdir$selectedmodels\.model$/ );  
     my $infinitiu = $file;
     $infinitiu =~ s/$modelsdir(.*)\.model/$1/;
+    my $sufix = $modelnames[$modelscount];
+    $modelscount++;
     open( my $modelfh, "<:encoding(UTF-8)", $file );
+
     my $compta = 0;
   LINE: while ( my $modelline = <$modelfh> ) {
 
@@ -66,34 +70,34 @@ foreach my $file (@files) {
             # PROCLÍTICS
             
             if ( $postag =~ /^(V.[NG].*|V.P..SM.)$/ ) {
-                $afixos .= "_v_Y"; 
+                $afixos .= "vY"; 
             } elsif ( $postag =~ /^(V.P..P..)$/ ) {
-                $afixos .= "_Y"; 
+                $afixos .= "Y"; 
             } elsif ( $postag =~ /^V.P..SF.$/ ) {
-                $afixos .= "_Y"; # l'apostrofació l' (_v) es posa a part
+                $afixos .= "Y"; # l'apostrofació l' (_v) es posa a part
             } elsif ( $postag =~ /^(V.[SI].*)$/ ) {
-                $afixos .= "_Z";
+                $afixos .= "Z";
             }
             
 
             # ENCLÍTICS 
             if ( $postag =~ /^V.N.*$/ ) {
                 if ( $forma =~ /[^e]$/ ) {
-                    $afixos .= "_C";    #infinitiu acabat en consonant
+                    $afixos .= "C";    #infinitiu acabat en consonant
                 }
                 else {
-                    $afixos .= "_D";    #infinitiu acabat en vocal
+                    $afixos .= "D";    #infinitiu acabat en vocal
                 }
             }
             elsif ( $postag =~ /^V.G.*$/ ) {
-                $afixos .= "_C";            #gerundi
+                $afixos .= "C";            #gerundi
             }
             elsif ( $postag =~ /^V.M.*$/ ) {
                 if ( $forma =~ /[aeiï]$/ ) {
-                    $afixos .= "_D";    #imperatiu acabat en vocal: a, e, i, ï
+                    $afixos .= "D";    #imperatiu acabat en vocal: a, e, i, ï
                 }
                 else {
-                    $afixos .= "_C";    #imperatiu acabat en consonat o u
+                    $afixos .= "C";    #imperatiu acabat en consonat o u
                 }
             }
 
