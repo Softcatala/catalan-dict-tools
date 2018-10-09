@@ -53036,8 +53036,6 @@ homeotèrmic homeotèrmic AQ0MS0
 homeotèrmica homeotèrmic AQ0FS0
 homeotèrmics homeotèrmic AQ0MP0
 homeotèrmiques homeotèrmic AQ0FP0
-homoneure homoneure NCMS000
-homoneures homoneure NCMP000
 honrador honrador AQ0MS0
 honradora honrador AQ0FS0
 honradores honrador AQ0FP0

@@ -3190,7 +3190,6 @@ holobiont=categories: A;fonts: DNV;
 hologràmic -a=categories: A;fonts: DNV;
 holter=categories: M;fonts: DNV;
 homeotèrmic -a=categories: A;fonts: DNV;
-homoneure=categories: M;fonts: DNV;
 honrador -a=categories: A;fonts: DNV;
 hoploteca=categories: F;fonts: DNV;
 horrend -a=categories: A;fonts: DNV;
