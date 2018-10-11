@@ -2910,6 +2910,7 @@ Belisaris Belisari NPMPSP0
 Belize Belize NPCSG00
 Bell Bell NPCNSP0
 Bell-lloc Bell-lloc NPCNSP0
+Bell-lloc Bell-lloc NPMSG00
 Bella Bella NPCNSP0
 Bellaguarda Bellaguarda NPFSG00
 Bellapart Bellapart NPCNSP0
@@ -3133,6 +3134,8 @@ Beniàssim Beniàssim NPCSG00
 Benjamins Benjamí NPMPSP0
 Benjamí Benjamí NPMSSP0
 Benlliure Benlliure NPCNSP0
+Benlloc Benlloc NPCNSP0
+Benlloc Benlloc NPMSG00
 Bennàsser Bennàsser NPCNSP0
 Benoni Benoni NPCSG00
 Bensa Bensa NPCSG00

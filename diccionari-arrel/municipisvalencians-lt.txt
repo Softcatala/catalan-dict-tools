@@ -29,7 +29,6 @@ Barracas Barraques NPCSG0O
 Barraques Barraques NPCSG0V
 Begís Begís NPCSG0V
 Bejís Begís NPCSG0O
-Bell-lloc Bell-lloc NPCSG0V
 Benagéber Benaixeve NPCSG0O
 Benaixeve Benaixeve NPCSG0V
 Benejússer Benejússer NPCSG0V
@@ -40,7 +39,6 @@ Beniflà Beniflà NPCSG0V
 Beniflá Beniflà NPCSG0O
 Benijòfar Benijòfar NPCSG0V
 Benijófar Benijòfar NPCSG0O
-Benlloch Bell-lloc NPCSG0O
 Bicorb Bicorb NPCSG0V
 Bicorp Bicorb NPCSG0O
 Bigastre Bigastre NPCSG0V
