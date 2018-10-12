@@ -33983,6 +33983,7 @@ interbloqueig=categories: M;fonts: LT;
 intercadència=categories: F;fonts: LT;
 intercalació=categories: F;fonts: LT;
 intercanvi=categories: M;fonts: LT;
+intercanviabilitat=categories: F;fonts: derivat, DDLC;
 intercanviador=categories: M;fonts: LT;
 intercepció=categories: F;fonts: LT;
 interceptor interceptora=categories: MF;fonts LT;

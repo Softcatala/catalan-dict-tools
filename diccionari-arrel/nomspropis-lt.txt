@@ -21445,6 +21445,7 @@ Valerians Valerià NPMPSP0
 Valeris Valeri NPMPSP0
 Valerià Valerià NPMSSP0
 Valero Valero NPCNSP0
+Valhalla Valhalla NPMSG00
 Valhonesta Valhonesta NPCNSP0
 Valimaner Valimaner NPCNSP0
 Valira Valira NPCNSP0

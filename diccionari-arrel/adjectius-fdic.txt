@@ -4756,6 +4756,7 @@ cardiofetal=categories: A;fonts: derivat;
 cardiogènic cardiogènica=categories: A;fonts: termcat;
 cardioidal=categories: A;fonts: derivat;
 cardioide=categories: A;fonts: termcat;
+cardiològic cardiològica=categories: A; font:derivat;
 cardioprotegit cardioprotegida=categories: A;fonts: termcat;
 cardiopulmonar=categories: A;fonts: LT;
 cardiorespiratori cardiorespiratòria=categories: A;fonts: LT;
