@@ -18244,7 +18244,7 @@ Saera Saera NPCNSP0
 Safaja Safaja NPFSG00
 Safareigs Safareigs NPMPG00
 Safi Safi NPCSG00
-Safo Safo NPMSSP0
+Safo Safo NPFSSP0
 Safont Safont NPCNSP0
 Safor Safor NPFSG00
 Saforcada Saforcada NPCNSP0

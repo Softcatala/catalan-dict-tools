@@ -24293,6 +24293,7 @@ trencallós trencallosa=categories: A;fonts: LT;
 trencamates=categories: AI;fonts: LT;
 trencapistes=categories: AI;fonts: derivat, col·loquial;
 trencat trencada [sup. trencadíssim]=categories: A; font:apertium;
+trencavidres=categories: AI;fonts: derivat, DDLC;
 trenquívol trenquívola=categories: A;fonts: LT;
 trenta-cinquè trenta-cinquena=categories: AO;fonts: LT;
 trenta-dosè trenta-dosena=categories: AO;fonts: LT;
