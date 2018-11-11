@@ -26079,6 +26079,7 @@ extracció=categories: F;fonts: LT;
 extracorrent=categories: M;fonts: LT;
 extractant=categories: M;fonts: LT;
 extracte=categories: M;fonts: LT;
+extractivisme=categories: M;fonts: Termcat;
 extractor=categories: M;fonts: LT;
 extradició=categories: F;fonts: LT;
 extradós [pl. extradossos]=categories: M;fonts: LT;

@@ -9829,6 +9829,7 @@ extracorporal=categories: A;fonts: LT;
 extracorpori extracorpòria=categories: A;fonts: LT;
 extractable=categories: A;fonts: LT;
 extractiu extractiva=categories: A;fonts: LT;
+extractivista=categories: A;fonts: derivat;
 extractor extractora=categories: A;fonts: LT;
 extracurricular=categories: A;fonts: LT;
 extradible=categories: A;fonts: DNV;
