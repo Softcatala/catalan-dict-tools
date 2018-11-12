@@ -60089,6 +60089,7 @@ transfusor transfusora=categories: MF;fonts LT;
 transfòbia=categories: F;fonts: termcat;
 transgressió=categories: F;fonts: LT;
 transgressor transgressora=categories: MF;fonts: LT;
+transgèn=categories: M;fonts: termcat;
 transgènere=categories: MF;fonts: termcat;
 transhumància=categories: F;fonts: LT;
 transició=categories: F;fonts: LT;
