@@ -2672,6 +2672,7 @@ assolidor assolidora=categories: A;fonts: LT;
 assolit assolida [sup. assolidíssim]=categories: A; font:apertium;
 assonant=categories: A;fonts: LT;
 assonàntic assonàntica=categories: A;fonts: LT;
+assortidor assortidora=categories: A;fonts: LT;
 assortit assortida [sup. assortidíssim]=categories: A; font:apertium;
 assuaujador assuaujadora=categories: A;fonts: LT;
 assuerà assuerana=categories: A;fonts: LT;
