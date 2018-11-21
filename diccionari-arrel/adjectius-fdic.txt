@@ -3772,6 +3772,7 @@ biomòrfic biomòrfica=categories: A;fonts: LT;
 bionòmic bionòmica=categories: A;fonts: LT;
 biopsíquic biopsíquica=categories: A;fonts: LT;
 bioquímic bioquímica=categories: A;fonts: LT;
+biosanitari biosanitària=categories: A;fonts: derivat;
 bioscà bioscana=categories: A;fonts: LT;
 biosintètic biosintètica=categories: A;fonts: derivat;
 biotecnològic biotecnològica=categories: A;fonts: LT;
