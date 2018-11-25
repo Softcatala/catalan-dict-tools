@@ -5076,6 +5076,7 @@ celomat celomada=categories: A;fonts: LT;
 celomàtic celomàtica=categories: A;fonts: LT;
 celranenc celranenca=categories: A;fonts: LT;
 celta=categories: A;fonts: LT;
+celtiber celtibera=categories: A;fonts: DDLC;
 celtibèric celtibèrica=categories: A;fonts: LT;
 cel·lular=categories: A;fonts: LT;
 cel·lulosolític cel·lulosolítica=categories: A;fonts: LT;
