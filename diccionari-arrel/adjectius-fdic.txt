@@ -9932,6 +9932,7 @@ factici factícia=categories: A;fonts: LT;
 factitiu factitiva=categories: A;fonts: LT;
 factiu factiva=categories: A;fonts: LT;
 factorial=categories: A;fonts: LT;
+factoritzable=categories: A;fonts: derivat;
 factual=categories: A;fonts: LT;
 facturador facturadora=categories: A;fonts: LT;
 facultatiu facultativa=categories: A;fonts: LT;
