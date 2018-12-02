@@ -3550,6 +3550,7 @@ dessocar=categories: V;model:trencar;fonts:LT
 dessolar=categories: V;model:cantar;fonts:LT
 dessolcar=categories: V;model:trencar;fonts:LT
 dessoldar=categories: V;model:cantar;fonts:LT
+dessolidaritzar=categories: V;model:cantar;fonts:GEC;
 dessonillar=categories: V;model:cantar;fonts:LT
 dessorrar=categories: V;model:cantar;fonts:LT
 dessoterrar=categories: V;model:cantar;fonts:LT
