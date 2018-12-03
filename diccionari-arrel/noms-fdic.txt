@@ -5165,6 +5165,7 @@ arramblador=categories: M;fonts: LT;
 arramellada=categories: F;fonts: LT;
 arramiment=categories: M;fonts: LT;
 arranada=categories: F;fonts: LT;
+arranament=categories: M;fonts: DDLC;
 arrancadissa=categories: F;fonts: LT;
 arrancadora=categories: F;fonts: LT;
 arrancament=categories: M;fonts: LT;
