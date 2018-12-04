@@ -8571,12 +8571,12 @@ audífon audífon NCMS000
 audífons audífon NCMP000
 auranciàcia auranciàcia NCFS000
 auranciàcies auranciàcia NCFP000
+austracisme austracisme NCMS000
+austracismes austracisme NCMP000
 austracista austracista AQ0CS0
 austracista austracista NCCS000
 austracistes austracista AQ0CP0
 austracistes austracista NCCP000
-austriacisme austriacisme NCMS000
-austriacismes austriacisme NCMP000
 autoarrancada autoarrancada NCFS000
 autoarrancades autoarrancada NCFP000
 autoconeiximent autoconeiximent NCMS000
