@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 
-VERSION=$1
-TARGET=$2
+VERSION=${1:-dev}
+TARGET=${2:-/tmp/xpitest}
 
 ORIGIN=$(pwd)
+
+mkdir -p $TARGET
 
 langs=(ca ca-valencia)
 declare -A original
@@ -25,4 +27,6 @@ do
 
     zip -r $lang.xpi *
     mv $lang.xpi ../
+    cd ..
+    rm -rf $lang
 done
