@@ -33,6 +33,10 @@ Genera fitxers xpi (compatibles amb el Firefox) a partir dels resultats per al H
 * ./build-xpi-all.sh -> Genera paquets de desenvolupament (versió 9.9.9).
 * ./build-xpi-all.sh -p -v '3.0.0' -> Genera paquets de producció (versió 3.0.0).
 
+##### build-xpi-all.webext.sh
+Genera fitxers xpi (compatibles amb el Firefox, versió Web Extensions API) a partir dels resultats per al Hunspell.
+* ./build-xpi-all.webext.sh 3.0.3 /directori/de/xpi -> Genera paquets de producció (versió 3.0.3).
+
 ##### build-oxt-all.sh
 Genera fitxers oxt (compatibles amb el LibreOffice i l'Apache OpenOffice) a partir dels resultats per al Hunspell.
 * ./build-oxt-all.sh -> Genera paquets de desenvolupament (versió 9.9.9).
