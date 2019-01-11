@@ -50018,6 +50018,7 @@ puzle=categories: M;fonts: LT;
 puça=categories: F;fonts: LT;
 puçam=categories: M;fonts: LT;
 puçoler puçolera=categories: MF;fonts: LT;
+puèrpera=categories: F;fonts: termcat;
 puó=categories: M;fonts: LT;
 pàbul=categories: M;fonts: LT;
 pàdel=categories: M;fonts: LT;
