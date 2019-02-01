@@ -12879,6 +12879,7 @@ inclement=categories: A;fonts: LT;
 inclinable=categories: A;fonts: LT;
 inclinat inclinada [sup. inclinadíssim]=categories: A;fonts: LT;
 inclinatiu inclinativa=categories: A;fonts: LT;
+incloent=categories: A;fonts: DDLC;
 inclusiu inclusiva=categories: A;fonts: LT;
 inclús inclusa=categories: A;fonts: LT;
 incoagulable=categories: A;fonts: LT;
