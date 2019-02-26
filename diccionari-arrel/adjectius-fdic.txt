@@ -25304,6 +25304,7 @@ vespertí vespertina=categories: A;fonts: LT;
 vespral=categories: A;fonts: LT;
 vesquera=categories: A;fonts: LT;
 vessant=categories: A;fonts: LT;
+vestible=categories: A;fonts: termcat;
 vestibular=categories: A;fonts: LT;
 vestibulococlear=categories: A;fonts: termcat;
 vestigial=categories: A;fonts: LT;
