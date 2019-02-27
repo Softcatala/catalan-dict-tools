@@ -18885,6 +18885,7 @@ Schio Schio NPCSG00
 Schlegel Schlegel NPCNSP0
 Schleswig-Holstein Schleswig-Holstein NPCSG00
 Schopenhauer Schopenhauer NPCNSP0
+Schrödinger Schrödinger NPCNSP0
 Schubert Schubert NPCNSP0
 Schumann Schumann NPCNSP0
 Schumpeter Schumpeter NPCNSP0

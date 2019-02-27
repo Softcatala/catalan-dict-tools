@@ -18903,6 +18903,7 @@ desinversió=categories: F;fonts: LT;
 desinència=categories: F;fonts: LT;
 desionització=categories: F;fonts: LT;
 desistiment=categories: M;fonts: LT;
+desitjabilitat=categories: F;fonts: DDLC;
 desjunyiment=categories: M;fonts: LT;
 deslabialització=categories: F;fonts: LT;
 deslegalització=categories: F;fonts: LT;
