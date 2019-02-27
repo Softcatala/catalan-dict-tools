@@ -37,6 +37,8 @@ export LC_ALL=C && sort -u $dir_resultat/diccionari-dnv.txt > $dir_resultat/dicc
 rm $dir_resultat/diccionari-dnv.txt
 mv $dir_resultat/diccionari_sorted.txt $dir_resultat/diccionari-dnv.txt
 
+cat $dir_resultat/diccionari* > $dir_resultat/dicc.txt
+
 echo "Resultat en el directori $dir_resultat"
 echo "FET!"
 
