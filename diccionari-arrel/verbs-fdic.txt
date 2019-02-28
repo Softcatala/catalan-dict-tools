@@ -1808,6 +1808,7 @@ coeditar=categories: V;model:cantar;fonts:LT
 coejar=categories: V;model:envejar;fonts:LT
 coercir=categories: V;model:servir;fonts:LT
 coescriure=categories: V;model:adscriure;fonts: derivat;
+coestimular=categories: V;model:cantar;fonts:dsalut;
 coexistir=categories: V;model:servir;fonts:LT
 cofar=categories: V;model:cantar;fonts:LT
 cofinançar=categories: V;model:començar;fonts:LT
