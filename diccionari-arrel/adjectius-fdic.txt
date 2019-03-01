@@ -28963,6 +28963,7 @@ turmentós turmentosa=categories: A;fonts: LT;
 turmera=categories: A;fonts: LT;
 turolià turoliana=categories: A;fonts: LT;
 turonià turoniana=categories: A;fonts: LT;
+turquesa=categories: AI;fonts: LT;
 turquesc turquesca=categories: A;fonts: LT;
 turquès turquesa=categories: A;fonts: LT;
 turquí turquina=categories: A;fonts: LT;
