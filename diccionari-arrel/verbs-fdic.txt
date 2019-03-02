@@ -6691,6 +6691,7 @@ injuriar=categories: V;model:crear;fonts:LT
 innervar=categories: V;model:cantar;fonts:LT
 innovar=categories: V;model:cantar;fonts:LT
 inocular=categories: V;model:cantar;fonts:LT
+inoscular=categories: V;model:cantar;fonts:dsalut;
 inquietar=categories: V;model:cantar;fonts:LT
 inquirir=categories: V;model:servir;fonts:LT
 insacular=categories: V;model:cantar;fonts:LT
