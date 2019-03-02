@@ -2815,6 +2815,7 @@ Batman Batman NPMSSP0
 Batna Batna NPCSG00
 Batoi Batoi NPMSG00
 Battenberg Battenberg NPCNSP0
+Battey Battey NPCNSP0
 Batticaloa Batticaloa NPCSG00
 Battipaglia Battipaglia NPCSG00
 Batumi Batumi NPCSG00

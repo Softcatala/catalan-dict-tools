@@ -57,7 +57,7 @@ sub plural {
     #excepcions paraules planes -en -in
     $paraula=~s/^([^àéèíòóú]*)u([^àéèíòóúïüaeiou]+[ie])n$/$1ú$2ns/; #acúfens drúmlins, però espècimen(s)
     $paraula=~s/^([^àéèíòóú]*)e([^àéèíòóúïüaeiou]+)en$/$1è$2ens/; #al·lergen al·lèrgens 
-    $paraula=~s/^([^àéèíòóú]*)o([^àéèíòóúïüaeiou]+)en$/$1ò$2ens/; #open òpens
+    $paraula=~s/^([^àéèíòóú]*)o((qu|[^àéèíòóúïüaeiou]+)[ei])n$/$1ò$2ns/; #open òpens, triglòquins
     $paraula=~s/^([^àéèíòóú]*)a([^àéèíòóúïüaeiou]+[ie])n$/$1à$2ns/;
     $paraula=~s/^([^àéèíòóú]*)i(qu|[^àéèíòóúïüaeiou]+)en$/$1í$2ens/; #líquens hímens
 
