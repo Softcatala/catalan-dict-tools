@@ -1,4 +1,3 @@
-
 #avist avista=categories: A;fonts: LT; arcaisme
 #baador=categories: A;fonts: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
@@ -28938,7 +28937,7 @@ tumulari tumulària=categories: A;fonts: LT;
 tumultuari tumultuària=categories: A;fonts: LT;
 tumultuat tumultuada=categories: A;fonts: LT;
 tumultuós tumultuosa [sup. tumultuosíssim]=categories: A; font:apertium;
-tungús=categories: A;fonts: LT;
+tungús=categories: AI;fonts: DNV;
 tungúsid tungúsida=categories: A;fonts: LT;
 tunicat tunicada=categories: A;fonts: LT;
 tunisenc tunisenca=categories: A;fonts: LT;
