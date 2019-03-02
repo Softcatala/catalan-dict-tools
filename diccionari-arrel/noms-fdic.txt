@@ -43283,6 +43283,7 @@ immortificació=categories: F;fonts: LT;
 immundícia=categories: F;fonts: LT;
 immunitat=categories: F;fonts: LT;
 immunització=categories: F;fonts: LT;
+immunitzant=categories: M;fonts: termcat;
 immunoabsorbent=categories: M;fonts: dsalut;
 immunoadherència=categories: F;fonts: dsalut;
 immunoadsorbent=categories: M;fonts: dsalut;

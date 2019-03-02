@@ -15473,6 +15473,7 @@ inconvencional=categories: A; fonts: Jané;
 inconvenient=categories: A;fonts: LT;
 inconvertible=categories: A;fonts: LT;
 incoordinable=categories: A;fonts: LT;
+incoordinat incoordinada=categories: A;fonts: dsalut;
 incopsable=categories: A;fonts: LT;
 incorporable=categories: A;fonts: LT;
 incorporal=categories: A;fonts: LT;
