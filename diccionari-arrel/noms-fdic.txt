@@ -1,3 +1,4 @@
+
 #altamira borda=categories: F;fonts: dsalut;
 #angor=categories: M;fonts: dsalut;
 #anidi=categories: M;fonts: dsalut;
@@ -32523,7 +32524,6 @@ eta=categories: F;fonts: LT;
 etacisme=categories: M;fonts: LT;
 etacridina=categories: F;fonts: dsalut;
 etacrinat=categories: MS;fonts: dsalut;
-etacrínic=categories: MS;fonts: dsalut;
 etadiona=categories: FS;fonts: dsalut;
 etafedrina=categories: F;fonts: dsalut;
 etafenona=categories: F;fonts: dsalut;
@@ -59101,7 +59101,6 @@ oxocatió=categories: M;fonts: LT;
 oxodipina=categories: FS;fonts: dsalut;
 oxofenarsina=categories: FS;fonts: dsalut;
 oxolamina=categories: F;fonts: dsalut;
-oxolínic=categories: MS;fonts: dsalut;
 oxomemazina=categories: F;fonts: dsalut;
 oxoni=categories: M;fonts: LT;
 oxonèmia=categories: F;fonts: dsalut;
