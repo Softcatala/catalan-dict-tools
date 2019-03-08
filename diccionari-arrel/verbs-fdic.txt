@@ -5905,6 +5905,7 @@ eximir=categories: V;model:servir;fonts:LT
 existimar=categories: V;model:cantar;fonts:LT
 existir=categories: V;model:servir;fonts:LT
 exonerar=categories: V;model:cantar;fonts:LT
+exorbitar=categories: V;model:cantar;fonts: DNV;
 exorcitzar=categories: V;model:cantar;fonts:LT
 exornar=categories: V;model:cantar;fonts:LT
 expandir=categories: V;model:servir;fonts:LT
