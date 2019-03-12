@@ -8403,6 +8403,7 @@ recomprar=categories: V;model:cantar;fonts:LT
 recomptar=categories: V;model:cantar;fonts:LT
 reconcentrar=categories: V;model:cantar;fonts:LT
 reconciliar=categories: V;model:crear;fonts:LT
+recondicionar=categories: V;model:cantar;fonts: DDLC;
 recondir=categories: V;model:servir;fonts:LT
 reconduir=categories: V;model:traduir;fonts:LT
 reconfigurar=categories: V;model:cantar;fonts:LT

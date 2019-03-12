@@ -69133,6 +69133,7 @@ recompte=categories: M;fonts: LT;
 reconcentració=categories: F;fonts: LT;
 reconciliació=categories: F;fonts: LT;
 reconciliador reconciliadora=categories: MF;fonts LT;
+recondicionament=categories: M;fonts: derivat;
 reconditori=categories: M;fonts: LT;
 reconducció=categories: F;fonts: LT;
 reconeixedor reconeixedora=categories: MF;fonts LT;
