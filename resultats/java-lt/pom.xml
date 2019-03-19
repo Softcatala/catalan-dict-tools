@@ -5,7 +5,7 @@
 
     <groupId>org.softcatala</groupId>
     <artifactId>catalan-pos-dict</artifactId>
-    <version>2.2</version>
+    <version>2.3</version>
     <url>http://github.com/softcatala/catalan-dict-tools</url>
     <name>Catalan part-of-speech dictionary</name>
     <description>A Catalan part-of-speech (POS) dictionary as a Morfologik binary</description>
