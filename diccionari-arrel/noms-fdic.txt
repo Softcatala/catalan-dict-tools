@@ -78125,7 +78125,6 @@ tifopaludisme=categories: M;fonts: dsalut;
 tifoperitonitis=categories: FI;fonts: dsalut;
 tifopneumònia=categories: F;fonts: dsalut;
 tifort=categories: M;fonts: LT;
-tifosi=categories: F;fonts: dsalut;
 tifosi=categories: MF;fonts: esadir;
 tifosèpsia=categories: F;fonts: dsalut;
 tifotoxina=categories: F;fonts: dsalut;
