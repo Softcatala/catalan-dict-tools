@@ -16736,6 +16736,7 @@ ioglicàmic ioglicàmica=categories: A;fonts: dsalut;
 iogui=categories: A;fonts: LT;
 iohímbic iohímbica=categories: A;fonts: dsalut;
 ionitzable=categories: A;fonts: LT;
+ionitzador ionitzadora=categories: A;fonts: derivat;
 ionitzant=categories: A;fonts: LT;
 ionogen ionògena=categories: A;fonts: dsalut;
 ionosfèric ionosfèrica=categories: A;fonts: LT;
