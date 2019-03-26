@@ -19969,6 +19969,7 @@ multilobulat -ada=categories: A;fonts: dsalut;
 multilocalitzat multilocalitzada=categories: A;fonts: dsalut;
 multilocular=categories: A;fonts: LT;
 multilàter multilàtera=categories: A;fonts: LT;
+multimarca=categories: AI;fonts: neolosfera;
 multimilionari multimilionària=categories: A;fonts: LT;
 multimodal=categories: A;fonts: termcat;
 multimode=categories: AI;fonts: LT;
