@@ -52968,7 +52968,6 @@ mil·licurie=categories: M;fonts: dsalut;
 mil·liequivalent=categories: M;fonts: dsalut;
 mil·ligram=categories: M;fonts: LT;
 mil·lilitre=categories: M;fonts: LT;
-mil·limol=categories: M;fonts: derivat;
 mil·limol=categories: M;fonts: dsalut;
 mil·liosmol=categories: M;fonts: dsalut;
 mil·lirad=categories: M;fonts: dsalut;
