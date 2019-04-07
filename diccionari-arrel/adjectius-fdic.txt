@@ -28748,6 +28748,7 @@ tetràstil tetràstila=categories: A;fonts: LT;
 tetànic tetànica=categories: A;fonts: LT;
 teucre teucra=categories: A;fonts: LT;
 teulader teuladera=categories: A;fonts: LT;
+teuladí teuladina=categories: A;fonts: DNV;
 teutònic teutònica=categories: A;fonts: LT;
 teutó teutona=categories: A;fonts: LT;
 tex-mex=categories: AI;fonts LT;
