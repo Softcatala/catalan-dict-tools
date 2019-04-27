@@ -81846,6 +81846,7 @@ uroscòpia=categories: F;fonts: LT;
 uroselectan=categories: M;fonts: LT;
 urosteàlit=categories: M;fonts: dsalut;
 urostil=categories: M;fonts: LT;
+urostomia=categories: F;fonts: UB;
 urosèpsia=categories: F;fonts: dsalut;
 uroteli=categories: M;fonts: dsalut;
 urotoxina=categories: F;fonts: dsalut;
