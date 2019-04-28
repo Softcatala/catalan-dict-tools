@@ -43021,6 +43021,7 @@ histerosífilis=categories: FI;fonts: dsalut;
 histerosístole=categories: F;fonts: dsalut;
 histerotabetisme=categories: M;fonts: dsalut;
 histerotermometria=categories: F;fonts: dsalut;
+histerotomia=categories: F;fonts: termcat;
 histerotraquelectomia=categories: F;fonts: dsalut;
 histerotraqueloplàstia=categories: F;fonts: dsalut;
 histerotraquelorràfia=categories: F;fonts: dsalut;

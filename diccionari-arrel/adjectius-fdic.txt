@@ -3498,6 +3498,7 @@ autinià autiniana=categories: A;fonts: LT;
 autista=categories: A;fonts: LT;
 autoadhesiu autoadhesiva=categories: A;fonts: LT;
 autoagressiu autoagressiva=categories: A;fonts: dsalut;
+autoajustable=categories: A;fonts: derivat;
 autoalineador autoalineadora=categories: A;fonts: LT;
 autoanalitzador autoanalitzadora=categories: A;fonts: dsalut;
 autoanivellant=categories: A;fonts: LT;
