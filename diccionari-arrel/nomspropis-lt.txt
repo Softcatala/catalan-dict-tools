@@ -289,12 +289,10 @@ Ageric Ageric NPMSSP0
 Agerics Ageric NPMPSP0
 Ageu Ageu NPMSSP0
 Ageus Ageu NPMPSP0
-Agil Agil NPMSSP0
 Agilberta Agilberta NPFSSP0
 Agilbertes Agilberta NPFPSP0
 Agileu Agileu NPMSSP0
 Agileus Agileu NPMPSP0
-Agils Agil NPMPSP0
 Agilulf Agilulf NPMSSP0
 Agilulfs Agilulf NPMPSP0
 Agilà Agilà NPCNSP0
