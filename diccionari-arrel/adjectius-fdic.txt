@@ -33,6 +33,10 @@
 9è 9a [pl. 9ns]=categories: AO;fonts: LT;
 CMYK=categories: AI; fonts: termcat;
 LGBT=categories: AI; fonts: termcat;
+LGBTI=categories: AI; fonts: derivat;
+LGBTIQ=categories: AI; fonts: derivat;
+LGBTQ=categories: AI; fonts: derivat;
+LGBTQI=categories: AI; fonts: derivat; 
 LGTB=categories: AI; fonts: termcat;
 NP-complet NP-completa=categories: A;fonts: LT;
 RGB=categories: AI; fonts: termcat;
