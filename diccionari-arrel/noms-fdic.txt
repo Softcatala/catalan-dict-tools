@@ -191,7 +191,6 @@ EOG=categories: MI;fonts: dsalut;
 EPO=categories: FI;fonts: dsalut;
 EPUB=categories: MI;fonts: termcat;
 ERO=categories: MI;fonts: LT;
-Eurocambra=categories: FS;fonts: DNV,esadir;
 FM=categories: FS;fonts: esadir;
 FOD=categories: FI;fonts: dsalut;
 FP=categories: FS;fonts: esadir;

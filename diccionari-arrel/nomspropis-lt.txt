@@ -7761,6 +7761,7 @@ Eurolliga Eurolliga NPFSO00
 Eurolligues Eurolliga NPFSO00
 Euromed Euromed NPMNO00
 Europa Europa NPFSG00
+Europarlament Europarlament NPMSO00
 Eurostat Eurostat NPFSO00
 Eurotúnel Eurotúnel NPMSO00
 Eurovisió Eurovisió NPFSO00
