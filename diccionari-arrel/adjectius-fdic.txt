@@ -6460,6 +6460,7 @@ clicable=categories: A;fonts: softcatala;
 clidal=categories: A;fonts: dsalut;
 clidoacromial=categories: A;fonts: dsalut;
 clidocostal=categories: A;fonts: dsalut;
+clientelar=categories: A;fonts: derivat;
 clientelista=categories: A;fonts: LT;
 climatitzador climatitzadora=categories: A;fonts: LT;
 climatològic climatològica=categories: A;fonts: LT;
