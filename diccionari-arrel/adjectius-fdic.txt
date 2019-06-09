@@ -25811,6 +25811,7 @@ regingonenc regingonenca=categories: A;fonts: LT;
 reginjolat reginjolada=categories: A;fonts: LT;
 regional=categories: A;fonts: LT;
 regionalista=categories: A;fonts: LT;
+regionalitzable=categories: A;fonts: DDLC;
 regionalitzador regionalitzadora=categories: A;fonts: derivat;
 regionari=categories: A;fonts: LT;
 regirador regiradora=categories: A;fonts: LT;
