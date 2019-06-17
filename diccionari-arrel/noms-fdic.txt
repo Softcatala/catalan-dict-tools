@@ -14471,6 +14471,7 @@ carbur=categories: M;fonts: LT;
 carburació=categories: F;fonts: LT;
 carburador=categories: M;fonts: LT;
 carburant=categories: M;fonts: LT;
+carburer=categories: M;fonts: termcat;
 carbutamida=categories: F;fonts: dsalut;
 carbuterol=categories: MS;fonts: dsalut;
 carbè=categories: M;fonts: LT;
