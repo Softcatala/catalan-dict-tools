@@ -361,6 +361,7 @@ Agustí Agustí NPCNSP0
 Agustí Agustí NPMSSP0
 Agut Agut NPCNSP0
 Agutzir Agutzir NPCNSP0
+Agàtocles Agàtocles NPMSSP0
 Agüimes Agüimes NPCSG00
 Ahaggar Ahaggar NPCSG00
 Ahillas Ahillas NPCSG00
@@ -4656,6 +4657,8 @@ Canovelles Canovelles NPCNSP0
 Canovelles Canovelles NPCSG00
 Canta-rana Canta-rana NPFSG00
 Cantacorbs Cantacorbs NPCNSP0
+Cantacuzè Cantacuzè NPCNSP0
+Cantacuzé Cantacuzè NPCNSP0
 Cantal Cantal NPCSG00
 Cantallops Cantallops NPCNSP0
 Cantallops Cantallops NPCSG00
@@ -7316,6 +7319,7 @@ Enviny Enviny NPCSG00
 Enviure Enviure NPCSG00
 Eo Eo NPCSG00
 Eoghain Eoghain NPCSG00
+Epaminondes Epaminondes NPMSSP0
 Epictet Epictet NPMSSP0
 Epictets Epictet NPMPSP0
 Epicur Epicur NPMSSP0
@@ -10030,6 +10034,7 @@ Helsingor Helsingor NPCSG00
 Helsingør Helsingør NPCSG00
 Helvetius Helvetius NPMSSP0
 Helvècia Helvècia NPFSG00
+Hel·lespont Hel·lespont NPMSG00
 Hemingway Hemingway NPCNSP0
 Henan Henan NPCSG00
 Henares Henares NPCSG00
