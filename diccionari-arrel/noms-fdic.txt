@@ -231,6 +231,7 @@ ONG=categories: FI;fonts: LT;
 Oscar=categories: M;fonts: esadir;
 Ostpolitik=categories: FS;fonts: alemany;
 PABA=categories: MI;fonts: dsalut;
+PAU=categories: MFI;fonts: termcat;
 PBB=categories: MI;fonts: dsalut;
 PC=categories: MI;fonts: esadir;
 PCB=categories: FI;fonts: dsalut;
