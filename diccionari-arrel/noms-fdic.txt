@@ -15535,6 +15535,7 @@ cavorca=categories: F;fonts: LT;
 cavèola=categories: F;fonts: dsalut;
 cavó=categories: M;fonts: LT;
 caytonial=categories: F;fonts: LT;
+caça-recompenses=categories: MFI;fonts: LT;
 caça=categories: MF;fonts: LT;
 caçada=categories: F;fonts: LT;
 caçador caçadora=categories: MF;fonts: LT;
