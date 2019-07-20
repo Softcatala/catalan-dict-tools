@@ -6796,6 +6796,7 @@ Dionísies Dionísia NPFPSP0
 Dioscòrides Dioscòrides NPMSSP0
 Diourbel Diourbel NPCSG00
 Dipilo Dipilo NPCSG00
+Dirac Dirac NPCNSP0
 Dirla Dirla NPCNSP0
 Disney Disney NPCNSP0
 Disneyland Disneyland NPFSG00
@@ -8246,6 +8247,7 @@ Flavià Flavià NPCNSP0
 Flavià Flavià NPMSSP0
 Flaçà Flaçà NPCSG00
 Fleix Fleix NPCSG00
+Fleming Fleming NPCNSP0
 Flequer Flequer NPCNSP0
 Flers Flers NPCSG00
 Fleury-les-Aubrais Fleury-les-Aubrais NPCSG00
@@ -13345,6 +13347,7 @@ Minguella Minguella NPCNSP0
 Minguet Minguet NPCNSP0
 Minho Minho NPCSG00
 Ministrells Ministrells NPCSG00
+Minkowski Minkowski NPCNSP0
 Minneapolis Minneapolis NPCSG00
 Minnesota Minnesota NPCSG00
 Minorisa Minorisa NPCSG00
@@ -16181,6 +16184,7 @@ Planademont Planademont NPCNSP0
 Planadevall Planadevall NPCNSP0
 Planagomà Planagomà NPCNSP0
 Planagumà Planagumà NPCNSP0
+Planck Planck NPCNSP0
 Plandogau Plandogau NPCSG00
 Plandolit Plandolit NPCNSP0
 Planell Planell NPCNSP0
@@ -16263,6 +16267,7 @@ Podlàquia Podlàquia NPCSG00
 Podrony Podrony NPCNSP0
 Podòlia Podòlia NPCSG00
 Poggibonsi Poggibonsi NPCSG00
+Poincaré Poincaré NPCNSP0
 Pointe-Noire Pointe-Noire NPCSG00
 Pointe-à-Pitre Pointe-à-Pitre NPCSG00
 Poisson Poisson NPCNSP0
@@ -19789,6 +19794,7 @@ Stromboli Stromboli NPCSG00
 Strozzi Strozzi NPCNSP0
 Strymón Strymón NPCSG00
 Stuart Stuart NPCNSP0
+Student Student NPCNSP0
 Stupino Stupino NPCSG00
 Stuttgart Stuttgart NPMSG00
 Suagres Suagres NPCSG00

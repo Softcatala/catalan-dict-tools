@@ -149,6 +149,7 @@ entretant entretant RG
 envides envides RG
 enviró enviró RG
 ençà ençà RG
+executòriament executòriament RG
 exprés exprés RG
 extramurs extramurs RG
 ferm ferm RG
