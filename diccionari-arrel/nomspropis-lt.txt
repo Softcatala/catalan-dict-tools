@@ -14468,6 +14468,7 @@ Newham Newham NPCSG00
 Newman Newman NPCNSP0
 Newport Newport NPCSG00
 Newsweek Newsweek NPCSO00
+Newton Newton NPCNSP0
 Newtownabbey Newtownabbey NPCSG00
 Neyagawa Neyagawa NPCSG00
 Neòfit Neòfit NPMSSP0
