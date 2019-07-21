@@ -14,8 +14,8 @@ def splitline(line):
     words = line;
     words = re.sub(r"\[.+?\]", r' ', words); #marca d'idioma [fr], etc.
     words = re.sub(r'(.+) -.*', r'\1', words)
-    words = re.sub(r"[lds]'", r' ', words);
-    words = re.sub(r"-", r' ', words);
+    words = re.sub(r"[lds][’']", r' ', words);
+    #words = re.sub(r"-", r' ', words);
     words = re.sub(r"[\(\),\|:\.!\?/]", r' ', words);
     words = re.sub(r"<.+?>", r' ', words);
     words = re.sub(r"\b[0-9\.]+\b", r' ', words);
@@ -28,6 +28,14 @@ def wordsthatdontexist(words):
     for word in splitline(words):
         #print (word)
         if len(word)>2 and word not in ltdict and word.lower() not in ltdict:
+            if "-" in word:
+                partsOk = True
+                parts = word.split("-")
+                for part in parts:
+                    if part not in ltdict:
+                        partsOk = False
+                if partsOk:
+                    continue
             if result:
                 result = result + " "
             result = result + word

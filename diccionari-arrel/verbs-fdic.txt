@@ -7587,6 +7587,7 @@ oscil·lar=categories: V;model:anul·lar;fonts:LT
 osmotitzar=categories: V;model:cantar;fonts:LT
 ossificar=categories: V;model:trencar;fonts:LT
 ostentar=categories: V;model:cantar;fonts:LT
+ostracitzar=categories: V;model:cantar;fonts: termcat;
 ovacionar=categories: V;model:cantar;fonts:LT
 ovalar=categories: V;model:cantar;fonts:LT
 ovular=categories: V;model:cantar;fonts:LT

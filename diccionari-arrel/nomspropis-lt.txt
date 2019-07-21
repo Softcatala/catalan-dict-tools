@@ -2838,6 +2838,7 @@ Bavià Bavià NPCNSP0
 Bay Bay NPCSG00
 Bayamo Bayamo NPCSG00
 Bayamón Bayamón NPCSG00
+Bayes Bayes NPCNSP0
 Bayeux Bayeux NPCSG00
 Bayreuth Bayreuth NPCSG00
 Baza Baza NPCSG00
