@@ -15981,6 +15981,7 @@ Peñarroya-Pueblonuevo Peñarroya-Pueblonuevo NPCSG00
 Pečenga Pečenga NPCSG00
 Pečora Pečora NPCSG00
 Pforzheim Pforzheim NPCSG00
+Philips Philips NPCNSP0
 Phoenix Phoenix NPCNG00
 Photoshop Photoshop NPMSO00
 Phuket Phuket NPCSG00
