@@ -30495,7 +30495,6 @@ escàlem=categories: M;fonts: LT;
 escàlom=categories: M;fonts: LT;
 escàndol=categories: M;fonts: LT;
 escàner=categories: M;fonts: LT;
-escànner=categories: M;fonts: LT;
 escàpula=categories: F;fonts: LT;
 escàrpia=categories: F;fonts: LT;
 escàtil=categories: M;fonts: LT;
