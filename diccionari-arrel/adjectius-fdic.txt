@@ -7425,6 +7425,7 @@ coreà coreana=categories: A;fonts: LT;
 coreïforme=categories: A;fonts: dsalut;
 corferidor corferidora=categories: A;fonts: LT;
 corfut corfuda=categories: A;fonts: LT;
+corgelador corgeladora=categories: A;fonts: DCVB;
 coriaci coriàcia=categories: A;fonts: LT;
 corial=categories: A;fonts: dsalut;
 coricàrpic coricàrpica=categories: A;fonts: LT;

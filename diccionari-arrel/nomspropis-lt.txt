@@ -11150,6 +11150,7 @@ Klamath Klamath NPCSG00
 Klee Klee NPCNSP0
 Kleist Kleist NPCNSP0
 Klopstock Klopstock NPCNSP0
+Knesset Knesset NPFSO00
 Knin Knin NPCSG00
 Kobe Kobe NPCSG00
 Kodak Kodak NPCNO00
@@ -17448,6 +17449,7 @@ Reial Reial NPCNSP0
 Reich Reich NPCSG00
 Reichenau Reichenau NPCSG00
 Reichstadt Reichstadt NPCSG00
+Reichstag Reichstag NPMSO00
 Reietó Reietó NPCNSP0
 Reimbau Reimbau NPCNSP0
 Reims Reims NPCSG00
