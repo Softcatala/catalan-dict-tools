@@ -1571,6 +1571,7 @@ intrínsecament intrínsecament RG
 intuïtivament intuïtivament RG
 inurbanament inurbanament RG
 inusitadament inusitadament RG
+inusualment inusualment RG
 invariablement invariablement RG
 invariadament invariadament RG
 invenciblement invenciblement RG

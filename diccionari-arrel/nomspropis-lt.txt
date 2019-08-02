@@ -3981,6 +3981,7 @@ Brisbane Brisbane NPCSG00
 Brisgòvia Brisgòvia NPCSG00
 Bristol Bristol NPCSG00
 Britten Britten NPCNSP0
+Britània Britània NPFSG00
 Briva Briva NPCSG00
 Brive-la-Gaillarde Brive-la-Gaillarde NPCSG00
 Briviesca Briviesca NPCSG00
@@ -7929,6 +7930,7 @@ Falquers Falquers NPCNSP0
 Fals Fals NPCNSP0
 Fals Fals NPCSG00
 Falset Falset NPCSG00
+Falstaff Falstaff NPMSSP0
 Falster Falster NPCSG00
 Falun Falun NPCSG00
 Fal·lopi Fal·lopi NPCNSP0
@@ -11029,6 +11031,7 @@ Karši Karši NPCSG00
 Kasai Kasai NPCSG00
 Kasese Kasese NPCSG00
 Kashiwa Kashiwa NPCSG00
+Kaspàrov Kaspàrov NPCNSP0
 Kassel Kassel NPCSG00
 Kasugai Kasugai NPCSG00
 Kasungu Kasungu NPCSG00
@@ -12736,6 +12739,7 @@ Martís Martís NPCSG00
 Martó Martó NPCNSP0
 Marull Marull NPCNSP0
 Maruny Maruny NPCNSP0
+Marvel Marvel NPCNO00
 Marvila Marvila NPCSG00
 Marvà Marvà NPCNSP0
 Marx Marx NPMSSP0
@@ -14045,6 +14049,7 @@ Motagua Motagua NPCSG00
 Motes Motes NPCNSP0
 Motger Motger NPCNSP0
 MotoGP MotoGP NPCNO00
+Motorola Motorola NPCNO00
 Motril Motril NPCSG00
 Mottola Mottola NPCSG00
 Moudjéria Moudjéria NPCSG00
@@ -18919,6 +18924,7 @@ Sciacca Sciacca NPCSG00
 Scicli Scicli NPCSG00
 Scilla Scilla NPCSG00
 Scilly Scilly NPFPG00
+Scorsese Scorsese NPCNSP0
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
 Scunthorpe Scunthorpe NPCSG00
