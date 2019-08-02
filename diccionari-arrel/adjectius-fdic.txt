@@ -1729,6 +1729,7 @@ anaptíctic anaptíctica=categories: A;fonts: LT;
 anaptòtic anaptòtica=categories: A;fonts: LT;
 anapèstic anapèstica=categories: A;fonts: LT;
 anarco anarca=categories: A;fonts: LT;
+anarcocapitalista=categories: A;fonts: derivat;
 anarcocol·lectivista=categories: A;fonts: derivat;
 anarcocomunista=categories: A;fonts: LT;
 anarcoindividualista=categories: A;fonts: derivat;
