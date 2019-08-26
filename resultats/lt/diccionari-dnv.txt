@@ -55525,14 +55525,6 @@ lemúries lemúries NCFP000
 lenees lenees NCFP000
 leotard leotard NCMS000
 leotards leotard NCMP000
-leptorrina leptorrí AQ0FS0
-leptorrines leptorrí AQ0FP0
-leptorrins leptorrí AQ0MP0
-leptorrí leptorrí AQ0MS0
-lesionador lesionador AQ0MS0
-lesionadora lesionador AQ0FS0
-lesionadores lesionador AQ0FP0
-lesionadors lesionador AQ0MP0
 let let NCMS000
 letific letificar VMIP1S0B
 letifica letificar VMIP3S00
