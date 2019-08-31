@@ -850,7 +850,6 @@ teus teu PX2MP0S0
 teva teu PX2FS0S0
 teves teu PX2FP0S0
 ton ton DP2MSS
-tons ton DP2MPS
 tos ton DP2MPS
 tot tot DI0MS0
 tot tot PI0MS000
