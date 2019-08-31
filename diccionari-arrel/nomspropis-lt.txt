@@ -15000,6 +15000,7 @@ OpenOffice OpenOffice NPMSO00
 OpenStreetMap OpenStreetMap NPMSO00
 OpenType OpenType NPCNO00
 Opole Opole NPCSG00
+Oppenheimer Oppenheimer NPCNSP0
 Optat Optat NPMSSP0
 Optats Optat NPMPSP0
 Optimot Optimot NPMSO00
