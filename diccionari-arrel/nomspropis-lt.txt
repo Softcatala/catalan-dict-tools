@@ -11491,6 +11491,7 @@ Leovigilds Leovigild NPMPSP0
 Lepant Lepant NPCSG00
 Lerici Lerici NPCSG00
 Lerma Lerma NPCSG00
+Lerroux Lerroux NPCNSP0
 Lesbos Lesbos NPCSG00
 Lesmes Lesmes NPMPSP0
 Lesmes Lesmes NPMSSP0
