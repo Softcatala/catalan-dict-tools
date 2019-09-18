@@ -4120,6 +4120,7 @@ noviatge=categories: M;fonts: DNV;
 nuguet=categories: M;fonts: DNV,col·loquial;
 numantinisme=categories: M;fonts: DNV;
 numinós -osa=categories: A;fonts: DNV;
+nuvolar=categories: V;model:cantar;fonts: DNV;
 nyaular=categories: V;model:cantar;fonts: DNV;
 nyespla=categories: F;fonts: DNV;
 nyespra=categories: F;fonts: DNV;

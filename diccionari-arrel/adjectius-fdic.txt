@@ -13940,6 +13940,7 @@ gravitatori gravitatòria=categories: A;fonts: LT;
 gravídic gravídica=categories: A;fonts: LT;
 grec grega=categories: A;fonts: LT;
 grecista=categories: A;fonts: LT;
+greco-turc greco-turca=categories: A;fonts: derivat;
 grecobúdic grecobúdica=categories: A;fonts: LT;
 grecocatòlic grecocatòlica=categories: A;fonts: LT;
 grecoegipci grecoegípcia=categories: A;fonts: derivat;

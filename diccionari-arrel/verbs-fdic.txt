@@ -7476,7 +7476,6 @@ nuar=categories: V;model:lloar;fonts:LT
 nuclearitzar=categories: V;model:cantar;fonts:LT
 nugar=categories: V;model:pregar;fonts:LT
 numerar=categories: V;model:cantar;fonts:LT
-nuvolar=categories: V;model:cantar;fonts:LT
 nyacar=categories: V;model:trencar;fonts:LT
 nyagar=categories: V;model:pregar;fonts:LT
 nyaufar=categories: V;model:cantar;fonts:LT
