@@ -18878,6 +18878,7 @@ Savinosa Savinosa NPFSG00
 Savoia Savoia NPCNSP0
 Savoia Savoia NPFSG00
 Savona Savona NPCSG00
+Savonarola Savonarola NPCNSP0
 Savonlinna Savonlinna NPCSG00
 Sawhāǧ Sawhāǧ NPCSG00
 Saxònia Saxònia NPCNSP0
