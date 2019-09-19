@@ -5,7 +5,7 @@ dre uda re VMP00SF0 # cernuda
 dre uts re VMP00PM0 # cernuts
 dre udes re VMP00PF0 # cernudes
 dre o re VMIP1S0C # cerno
-dre 0 re VMIP1S0B # cern
+dre 0 re VMIP1S0Z # cern
 dre s re VMIP2S00 # cerns
 dre 0 re VMIP3S00 # cern
 dre em re VMIP1P00 # cernem

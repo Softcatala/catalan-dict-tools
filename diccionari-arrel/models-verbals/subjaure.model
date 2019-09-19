@@ -4,7 +4,7 @@ ure gut re VMP00SM0 # subjagut
 ure guda re VMP00SF0 # subjaguda
 ure guts re VMP00PM0 # subjaguts
 ure gudes re VMP00PF0 # subjagudes
-ure c re VMIP1S0B # subjac
+ure c re VMIP1S00 # subjac
 re s re VMIP2S00 # subjaus
 re 0 re VMIP3S00 # subjau
 ure iem re VMIP1P00 # subjaiem

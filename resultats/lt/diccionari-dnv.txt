@@ -1275,7 +1275,7 @@ acomesa acometre VMP00SF0
 acomeses acomesa NCFP000
 acomeses acometre VMP00PF0
 acomesos acometre VMP00PM0
-acomet acometre VMIP1S0B
+acomet acometre VMIP1S0Z
 acomet acometre VMIP3S00
 acomet acometre VMM02S00
 acometa acometre VMM03S0V
@@ -68880,7 +68880,7 @@ repostésseu repostar VMSI2P05
 repostéssim repostar VMSI1P02
 repostéssiu repostar VMSI2P02
 repostí repostar VMIS1S00
-reprem reprémer VMIP1S0B
+reprem reprémer VMIP1S0Z
 reprem reprémer VMIP3S00
 reprem reprémer VMM02S00
 reprema reprémer VMM03S0V
