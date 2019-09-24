@@ -7678,6 +7678,7 @@ creatiu creativa=categories: A;fonts: LT;
 credencial=categories: A;fonts: LT;
 credencialista=categories: A;fonts: LT;
 creditici creditícia=categories: A;fonts: LT;
+creditor creditora=categories: A;fonts: DDLC;
 creient=categories: A;fonts: LT;
 creixellenc creixellenca=categories: A;fonts: LT;
 creixent=categories: A;fonts: LT;

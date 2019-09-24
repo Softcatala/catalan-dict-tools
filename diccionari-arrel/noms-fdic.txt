@@ -43958,6 +43958,7 @@ idealització=categories: F;fonts: LT;
 ideari=categories: M;fonts: LT;
 idebenona=categories: F;fonts: dsalut;
 idelalisib=categories: M;fonts: dsalut;
+identificabilitat=categories: F;fonts: derivat;
 identificació=categories: F;fonts: LT;
 identificador=categories: M;fonts LT;
 identitat=categories: F;fonts: LT;
