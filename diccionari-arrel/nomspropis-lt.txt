@@ -9657,6 +9657,7 @@ Grífols Grífols NPCNSP0
 Grímsvötn Grímsvötn NPCSG00
 Gstaad Gstaad NPCSG00
 Guadalajara Guadalajara NPFSG00
+Guadalcanal Guadalcanal NPCSG00
 Guadalest Guadalest NPCSG00
 Guadalete Guadalete NPCSG00
 Guadalhorce Guadalhorce NPCSG00
@@ -10031,6 +10032,7 @@ Heliodors Heliodor NPMPSP0
 Heliòpolis Heliòpolis NPCSG00
 Hellín Hellín NPCSG00
 Helmand Helmand NPCSG00
+Helmholtz Helmholtz NPCNSP0
 Helmond Helmond NPCSG00
 Helpidi Helpidi NPMSSP0
 Helpidis Helpidi NPMPSP0
