@@ -4334,6 +4334,7 @@ Cahué Cahué NPCNSP0
 Cai Cai NPMSSP0
 Caicos Caicos NPMSG00
 Caiena Caiena NPCSG00
+Caifàs Caifàs NPMSSP0
 Caig Caig NPCNSP0
 Cailà Cailà NPCNSP0
 Caiman Caiman NPFPG00

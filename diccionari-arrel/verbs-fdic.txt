@@ -1665,6 +1665,7 @@ carrinclonejar=categories: V;model:envejar;fonts:LT
 carrisquejar=categories: V;model:envejar;fonts:LT
 carstificar=categories: V;model:trencar;fonts:LT
 cartejar=categories: V;model:envejar;fonts:LT
+cartel·litzar=categories: V;model:cantar;fonts: termcat;
 cartenir=categories: V;model:abstenir;fonts:LT
 cartografiar=categories: V;model:crear;fonts:LT
 carvendre=categories: V;model:revendre;fonts:LT
