@@ -28924,6 +28924,7 @@ envescament=categories: M;fonts: LT;
 envestida=categories: F;fonts: LT;
 enviada=categories: F;fonts: LT;
 enviament=categories: M;fonts: LT;
+envidrament=categories: M;fonts: termcat;
 envidreïment=categories: M;fonts: LT;
 envidriament=categories: M;fonts: LT;
 envigoriment=categories: M;fonts: LT;

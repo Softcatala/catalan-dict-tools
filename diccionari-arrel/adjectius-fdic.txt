@@ -11552,6 +11552,7 @@ eurocentrista=categories: A;fonts: derivat;
 eurocomunista=categories: A;fonts: LT;
 eurocèntric eurocèntrica=categories: A;fonts: derivat;
 euroescèptic euroescèptica=categories: A;fonts: LT;
+eurohostil=categories: A;fonts: derivat;
 euromediterrani euromediterrània=categories: A;fonts: derivat;
 europeista=categories: A;fonts: LT;
 europeu europea=categories: A;fonts: LT;
