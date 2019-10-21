@@ -6092,6 +6092,7 @@ filustrar=categories: V;model:cantar;fonts:LT
 fimbrar=categories: V;model:cantar;fonts:LT
 fimbrejar=categories: V;model:envejar;fonts:Jané;
 finalitzar=categories: V;model:cantar;fonts:LT
+financeritzar=categories: V;model:cantar;fonts: derivat
 finançar=categories: V;model:començar;fonts:LT
 finar=categories: V;model:cantar;fonts:LT
 finejar=categories: V;model:envejar;fonts:LT
