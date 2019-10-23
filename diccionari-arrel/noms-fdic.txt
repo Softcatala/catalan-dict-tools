@@ -23526,6 +23526,7 @@ desentonació=categories: F;fonts: LT;
 desentrenament=categories: M;fonts: LT;
 desentumiment=categories: M;fonts: LT;
 desenuig [pl. desenuigs o desenutjos]=categories: M;fonts: LT;
+desenvolupador desenvolupadora=categories: MF;fonts: termcat;
 desenvolupament=categories: M;fonts: LT;
 desenvolupisme=categories: M;fonts: termcat;
 desequilibri=categories: M;fonts: LT;
