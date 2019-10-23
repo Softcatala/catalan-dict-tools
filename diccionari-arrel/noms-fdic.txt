@@ -56348,6 +56348,7 @@ neurodeàlgia=categories: F;fonts: dsalut;
 neurodiagnòstic=categories: M;fonts: dsalut;
 neurodictitis=categories: FI;fonts: dsalut;
 neurodidàctica=categories: F;fonts: termcat;
+neurodiversitat=categories: F;fonts: derivat;
 neurodocitis=categories: FI;fonts: LT;
 neurodèrmia=categories: F;fonts: LT;
 neurodínia=categories: F;fonts: dsalut;
