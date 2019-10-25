@@ -37044,6 +37044,7 @@ fructuari fructuària=categories: MF;fonts LT;
 fructòlisi=categories: F;fonts: dsalut;
 fructòsid=categories: M;fonts: dsalut;
 frugalitat=categories: F;fonts: LT;
+frugivorisme=categories: M;fonts: GEC;
 fruit=categories: M;fonts: LT;
 fruita=categories: F;fonts: LT;
 fruitarianisme=categories: M;fonts: dsalut;
