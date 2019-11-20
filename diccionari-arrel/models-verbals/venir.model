@@ -16,6 +16,7 @@ nir 0 ir VMIP3S00 # ve
 r m ir VMIP1P00 # venim
 r u ir VMIP2P00 # veniu
 enir énen ir VMIP3P00 # vénen
+enir enen ir VMIP3P00 # venen
 r a ir VMII1S00 # venia
 r es ir VMII2S00 # venies
 r a ir VMII3S00 # venia

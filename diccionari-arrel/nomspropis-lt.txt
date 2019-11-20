@@ -15605,6 +15605,7 @@ Pastoret Pastoret NPCNSP0
 Pastoritx Pastoritx NPCSG00
 Pastors Pastor NPMPSP0
 Pastre Pastre NPCNSP0
+Pasífae Pasífae NPFSSP0
 Patagònia Patagònia NPFSG00
 Pataliputra Pataliputra NPCSG00
 Patan Patan NPCSG00
