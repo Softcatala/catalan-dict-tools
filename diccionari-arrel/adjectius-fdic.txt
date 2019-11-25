@@ -5273,6 +5273,7 @@ caldetenc caldetenca=categories: A;fonts: LT;
 caldeu caldea=categories: A;fonts: LT;
 caldós caldosa [sup. caldosíssim]=categories: A; font:apertium;
 caledonià caledoniana=categories: A;fonts: LT;
+calefactable=categories: A;fonts: derivat;
 calefactor calefactora=categories: A;fonts: LT;
 calellenc calellenca=categories: A;fonts: LT;
 calent calenta [sup. calentíssim]=categories: A;fonts: LT;
