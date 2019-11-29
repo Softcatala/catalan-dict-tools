@@ -73668,6 +73668,7 @@ semitista=categories: MF;fonts: LT;
 semitransparència=categories: F;fonts: derivat;
 semitística=categories: F;fonts: LT;
 semitò=categories: M;fonts: LT;
+semitúnel=categories: M;fonts: derivat;
 semiuncial=categories: F;fonts: LT;
 semivida=categories: F;fonts: LT;
 semivitrificació=categories: F;fonts: LT;
