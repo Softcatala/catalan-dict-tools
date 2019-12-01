@@ -5956,7 +5956,7 @@ apulgonésseu apulgonar VMSI2P05
 apulgonéssim apulgonar VMSI1P02
 apulgonéssiu apulgonar VMSI2P02
 apulgoní apulgonar VMIS1S00
-aquarel·l aquarel·lar VMIP1S0B
+aquarel aquarel·lar VMIP1S0B
 aquarel·la aquarel·lar VMIP3S00
 aquarel·la aquarel·lar VMM02S00
 aquarel·lada aquarel·lar VMP00SF0
@@ -28153,7 +28153,7 @@ desferradors desferrador AQ0MP0
 desferradors desferrador NCMP000
 desferrament desferrament NCMS000
 desferraments desferrament NCMP000
-desfibril·l desfibril·lar VMIP1S0B
+desfibril desfibril·lar VMIP1S0B
 desfibril·la desfibril·lar VMIP3S00
 desfibril·la desfibril·lar VMM02S00
 desfibril·lada desfibril·lar VMP00SF0
@@ -48261,7 +48261,7 @@ fiçàssim fiçar VMSI1P04
 fiçàssiu fiçar VMSI2P04
 fiçàvem fiçar VMII1P00
 fiçàveu fiçar VMII2P00
-flabel·l flabel·lar VMIP1S0B
+flabel flabel·lar VMIP1S0B
 flabel·la flabel·lar VMIP3S00
 flabel·la flabel·lar VMM02S00
 flabel·lada flabel·lar VMP00SF0

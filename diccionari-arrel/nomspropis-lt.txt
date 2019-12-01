@@ -21724,7 +21724,6 @@ Veneçuela Veneçuela NPFSG00
 Venlo Venlo NPCSG00
 Venosa Venosa NPCSG00
 Vensilló Vensilló NPCSG00
-Venta Venta NPFSG00
 Ventafarines Ventafarines NPCSG00
 Ventajol Ventajol NPCSG00
 Ventajola Ventajola NPCSG00
