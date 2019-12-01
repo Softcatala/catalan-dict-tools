@@ -4,7 +4,6 @@
 #embeltir=categories: V;model:servir;fonts: DNV;
 #platirí=categories: M;fonts: DNV; abandonat segons nova ortografia 2017
 #titolitis=categories: FS;fonts: DNV;
-Cinquagesma=categories: F;fonts: DNV;
 Pentecostès=categories: MS;fonts: DNV;
 abagotar=categories: V;model:cantar;fonts: DNV;
 abarracar=categories: V;model:trencar;fonts: DNV;
