@@ -5208,7 +5208,6 @@ Caus Caus NPCNSP0
 Causà Causà NPCNSP0
 Cava Cava NPCNSP0
 Cava Cava NPCSG00
-Cava Cava NPFSG00
 Cava-roques Cava-roques NPCNSP0
 Cavalhon Cavalhon NPCSG00
 Cavaller Cavaller NPCNSP0
@@ -5220,7 +5219,6 @@ Cavallol Cavallol NPCNSP0
 Cavally Cavally NPCSG00
 Cavamont Cavamont NPCSG00
 Cavanilles Cavanilles NPCNSP0
-Caves Caves NPCSG00
 Caxito Caxito NPCSG00
 Cayo Cayo NPCSG00
 Caçador Caçador NPCNSP0
