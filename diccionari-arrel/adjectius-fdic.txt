@@ -27349,6 +27349,7 @@ semitallat semitallada=categories: A;fonts: LT;
 semitendinós semitendinosa=categories: A;fonts: dsalut;
 semitransparent=categories: A;fonts: LT;
 semitrinxat semitrinxada=categories: A;fonts: LT;
+semitropical=categories: A;fonts: DDLC;
 semitruncat semitruncada=categories: A;fonts: LT;
 semitònic semitònica=categories: A;fonts: LT;
 semiuncial=categories: A;fonts: LT;
