@@ -11701,6 +11701,7 @@ exercitant=categories: A;fonts: LT;
 exergònic exergònica=categories: A;fonts: LT;
 exestipulat exestipulada=categories: A;fonts: LT;
 exfoliable=categories: A;fonts: LT;
+exfoliant=categories: A;fonts: derivat;
 exfoliatiu exfoliativa=categories: A;fonts: LT;
 exhalable=categories: A;fonts: LT;
 exhalant=categories: A;fonts: LT;

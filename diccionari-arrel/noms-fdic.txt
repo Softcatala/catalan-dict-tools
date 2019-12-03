@@ -81807,6 +81807,7 @@ txikung=categories: MS;fonts: termcat;
 txistera=categories: F;fonts: LT;
 txistu=categories: M;fonts: LT;
 txitxa=categories: F;fonts: LT;
+txoko=categories: M;fonts: termcat, basc;
 txuktxi=categories: MF;fonts: LT;
 txusinga=categories: M;fonts: LT;
 txètnik=categories: MF; fonts: esadir;
