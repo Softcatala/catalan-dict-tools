@@ -885,7 +885,6 @@ tret tret SPS00
 tretze tretze DN0CP0
 tu tu PP2CS000
 tururut tururut I
-txoko txoko I
 u un PI0MS000
 uah uah I
 uei uei I
