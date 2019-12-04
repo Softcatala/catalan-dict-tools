@@ -28350,6 +28350,7 @@ successor successora=categories: A;fonts: LT;
 successori successòria=categories: A;fonts: LT;
 succeïdor succeïdora=categories: A;fonts: LT;
 succint succinta=categories: A;fonts: LT;
+succionador succionadora=categories: A;fonts: DDLC;
 succínic succínica=categories: A;fonts: LT;
 sucreny sucrenya=categories: A;fonts: LT;
 sucrer sucrera=categories: A;fonts: LT;
