@@ -1,4 +1,4 @@
-201935
+201961
 10a
 10es
 10ns
@@ -4955,7 +4955,6 @@ Cavallol
 Cavally
 Cavamont
 Cavanilles
-Caves
 Caxito
 Cayo
 Caçador
@@ -20475,7 +20474,6 @@ Veneçuela
 Venlo
 Venosa
 Vensilló
-Venta
 Ventafarines
 Ventajol
 Ventajola
@@ -41763,6 +41761,8 @@ autoimposada/_V_Y
 autoimposar/06
 autoincompatibilitat/_E_V_Y
 autoinculpació/_G_V_Y
+autoinculpatori/_K_V_Y
+autoinculpatòria/_V_Y
 autoinducció/_G_V_Y
 autoinductància/_E_V_Y
 autoindulgent/_E_V_Y
@@ -41886,6 +41886,8 @@ autoorganitzativa/_V_Y
 autooxidació/_G_V_Y
 autopaginació/_G_V_Y
 autoparòdia/_E_V_Y
+autoparòdic/_F_V_Y
+autoparòdica/_V_Y
 autopassada/_E_V_Y
 autopatia/_E_V_Y
 autopatografia/_E_V_Y
@@ -41925,6 +41927,7 @@ autopsicosi/_E_V_Y
 autopsicoteràpia/_E_V_Y
 autopsíquic/_F_V_Y
 autopsíquica/_V_Y
+autopublicació/_G_V_Y
 autopublicitat/_E_V_Y
 autopunició/_G_V_Y
 autopàtic/_F_V_Y
@@ -50463,7 +50466,6 @@ calefactor/_F
 calellenc/_F
 calen/
 calenda/_E
-calendar/_E
 calendari/_E
 calent/_C
 calent/_F
@@ -100772,6 +100774,8 @@ exculpada/_V_Y
 exculpar/08
 exculpatori/_K_V_Y
 exculpatòria/_V_Y
+excunyada/_V_Y
+excunyat/_B_V_Y
 excurs/_I_V_Y
 excursionisme/_E_V_Y
 excursionista/_E_V_Y
@@ -100981,6 +100985,7 @@ exflagel·lació/_G_V_Y
 exfoliable/_E_V_Y
 exfoliació/_G_V_Y
 exfoliada/_V_Y
+exfoliant/_E_V_Y
 exfoliar/0B
 exfoliatiu/_B_V_Y
 exfoliativa/_V_Y
@@ -106087,6 +106092,7 @@ fopa/_E
 foquista/_E
 fora
 fora-d'hores
+fora/
 forabord/_E
 forada/_E
 foradable/_E
@@ -110091,6 +110097,7 @@ geoposicionament/_E
 geoposició/_G
 geopotencial/_E
 geoquímic/_F
+georadar/_E
 georama/_E
 georeferenciació/_G
 georeferenciar/0B
@@ -132981,6 +132988,7 @@ maximitzador/_F
 maximitzar/00
 maximós/_J
 maxwell/_E
+maxwellià/_H
 maxíl·lula/_E
 maxímetre/_E
 mayday
@@ -139305,6 +139313,7 @@ multipol·licalisme/_E
 multiport/_E
 multiportadora
 multipotencialitat/_E
+multipremiat/_B
 multiproblemàtic/_F
 multiprocessador/_E
 multiprocessament/_E
@@ -157517,6 +157526,7 @@ postabortiu/_B
 postacceleració/_G
 postada/_E
 postadministració/_G
+postadolescent/_E
 postadoptiu/_B
 postal/_E
 postalveolar/_E
@@ -157619,6 +157629,7 @@ posteta/_E
 postexantematós/_J
 postexió/_G
 postexposició/_G
+postfaci/_E
 postfebril/_E
 postfeixista/_E
 postflebític/_F
@@ -157830,6 +157841,7 @@ postsimbolisme/_E
 postsimbolista/_E
 postsinodal/_E
 postsinàptic/_F
+postsoviètic/_F
 postterme
 posttesa/
 posttesa/_D
@@ -157974,6 +157986,7 @@ potenciar/0B
 potenciometria/_E
 potenciomètric/_F
 potenciòmetre/_E
+potenciòstat/_E
 potent/_E
 potentat/_B
 potentil·la/_E
@@ -159016,8 +159029,10 @@ premi/_E
 premia/
 premiable/_E
 premiador/_F
+premiadíssim/_F
 premianenc/_F
 premiar/0B
+premiat/_B
 premieloblast/_E
 premien/
 premies/
@@ -164290,6 +164305,7 @@ quimicobiològic/_F
 quimicofarmacèutic/_F
 quimicofisiològic/_F
 quimicofísic/_F
+quimicoquàntic/_F
 quimificació/_G
 quimificar/14
 quimioabrasió/_G
@@ -178532,6 +178548,7 @@ semicircumferència/_E
 semicivilitzat/_B
 semiclandestinitat/_E
 semiclandestí/_H
+semiclàssic/_F
 semicobert/_F
 semicomatós/_J
 semiconductor/_E
@@ -178638,6 +178655,7 @@ seminòmada/_E
 seminú
 seminúria/_E
 seminús
+semiobert/_F
 semioctava/_E
 semiocupat/_B
 semioficial/_E
@@ -178714,10 +178732,12 @@ semitista/_E
 semitransparent/_E
 semitransparència/_E
 semitrinxat/_B
+semitropical/_E
 semitruncat/_B
 semitística/_E
 semitò/_G
 semitònic/_F
+semitúnel/_E
 semiuncial/_E
 semiurbà/_H
 semivida/_E
@@ -182192,6 +182212,7 @@ sobtós/_J
 sobuzoxà/_G
 sobí/_H
 soc
+soc/
 soc/_E
 soca-rel
 soca/_E
@@ -185135,7 +185156,8 @@ succinilsulfatiazole/_E
 succinimida/_E
 succint/_F
 succintament
-succionadora/_E
+succionador/_E
+succionador/_F
 succionar/00
 succió/_G
 succés/_i
@@ -185498,6 +185520,7 @@ superació/_G
 superadministrador/_E
 superador/_F
 superaerodinàmica/_E
+superagradable/_E
 superaliment/_E
 superantigen
 superantígens
@@ -185569,6 +185592,7 @@ superfí/_H
 superfície/_E
 supergegant/_E
 superglicerinat/_E
+supergran/_E
 supergèn/_E
 supergènic/_F
 superheroi
@@ -185584,6 +185608,7 @@ superhèlix/_E
 superhòmens
 supericonoscopi/_E
 superilla/_E
+superindustrialitzat/_B
 superinfecció/_G
 superintendent/_F
 superintendència/_E
@@ -185651,6 +185676,7 @@ supersticiós/_J
 superstrat/_E
 supersubstancial/_E
 supersònic/_F
+supertecnificat/_B
 supertensió/_G
 superusuari/_E
 supervascularització/_G
@@ -188641,8 +188667,6 @@ termoendurible/_E
 termoestabilitat/_E
 termoestable/_E
 termoestesiòmetre/_E
-termoestàtic/_F
-termoestàtica/_E
 termoestèsia/_E
 termofixació/_G
 termofixadora/_E
@@ -188721,6 +188745,8 @@ termoscopi/_E
 termosfera/_E
 termosifó/_G
 termosolar/_E
+termostàtic/_F
+termostàtica/_E
 termostèresi/_E
 termotactisme/_E
 termotaxi/_E
@@ -194900,7 +194926,7 @@ txistera/_E
 txistu/_E
 txitxa/_E
 txitximeca/_E
-txoko
+txoko/_E
 txuktxi/_E
 txusinga/_E
 txètnik/_E
