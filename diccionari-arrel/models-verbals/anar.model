@@ -107,6 +107,7 @@ r ssin ar VMSI3P04 # anassin
 ar essen ar VMSI3P05 # anessen
 r ssen ar VMSI3P06 # anassen
 anar vés ar VMM02S00 # vés
+anar ves ar VMM02S00 # ves diacriticsIEC 
 anar vaja ar VMM03S0V # vaja
 anar vagi ar VMM03S0Y # vagi
 ar em ar VMM01P00 # anem

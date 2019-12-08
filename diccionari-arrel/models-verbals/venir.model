@@ -12,11 +12,12 @@ ir gudes ir VMP00PFB # vengudes
 enir inc ir VMIP1S00 # vinc
 enir énc ir VMIP1S0B # vénc
 enir éns ir VMIP2S00 # véns
+enir ens ir VMIP2S00 # vens diacriticsIEC
 nir 0 ir VMIP3S00 # ve
 r m ir VMIP1P00 # venim
 r u ir VMIP2P00 # veniu
 enir énen ir VMIP3P00 # vénen
-enir enen ir VMIP3P00 # venen
+enir enen ir VMIP3P00 # venen diacriticsIEC
 r a ir VMII1S00 # venia
 r es ir VMII2S00 # venies
 r a ir VMII3S00 # venia
