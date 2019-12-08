@@ -18,6 +18,9 @@ sort -u /tmp/ca-ES-valencia.txt -o /tmp/ca-ES-valencia.txt
 
 for targetdict in ca-ES ca-ES-valencia
 do
+    # exclude some words for LT dictionary
+    sed -i "/ aguar /d" ${targetdict}.txt
+
     # replace whitespaces with tabs
     perl sptotabs.pl </tmp/${targetdict}.txt >${targetdict}_tabs.txt
 
