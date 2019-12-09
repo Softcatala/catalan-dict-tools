@@ -4478,6 +4478,7 @@ peramola=categories: F;fonts: DNV;
 perbollir=categories: V;model:acollir;fonts: DNV;
 percinta=categories: F;fonts: DNV;
 perdigalla=categories: F;fonts: DNV;
+perea=categories: F;fonts: DNV;
 perellonada=categories: F;fonts: DNV;
 pereola=categories: F;fonts: DNV;
 pergaminós -osa=categories: A;fonts: DNV;

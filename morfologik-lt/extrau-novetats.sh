@@ -22,6 +22,7 @@ echo "Comparant diccionaris"
 diff ../resultats/lt/diccionari.txt diccionari_antic.txt > diff.txt
 cp diff.txt novetats_amb_tag.txt
 echo "Extraient novetats"
+sed -i '/ aguar /d' novetats_amb_tag.txt #excloure aguar
 sed -i 's/^[^<].*$//g' novetats_amb_tag.txt
 sed -i 's/^< //g' novetats_amb_tag.txt
 sed -i 's/ /\t/g' novetats_amb_tag.txt
