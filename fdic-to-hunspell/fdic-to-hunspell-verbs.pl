@@ -47,6 +47,10 @@ while ( my $line = <$fh> ) {
         my $categoria  = $3;
         my $model      = $4;
 
+        if ($infinitiu =~ /^aguar$/) { #exclòs: forma secundària i molt problemàtica
+            next;
+        }
+
         if ($model =~ /^$selectedmodels$/ && $infinitiu !~ /^hackejar$/) {   #models més freqüents
 
             if ( $model =~ /^cantar$/ && !Flexio::apostrofa_masculi($infinitiu) ) {

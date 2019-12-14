@@ -14415,6 +14415,7 @@ caramellaire=categories: MF;fonts: LT;
 caramelles=categories: FP;fonts: LT;
 caramellosa=categories: F;fonts: LT;
 caramel·lera=categories: F;fonts: LT;
+caramel·let=categories: M;fonts: diminutiu;
 caramel·lització=categories: F;fonts: LT;
 caramida=categories: F;fonts: LT;
 caramifèn=categories: M;fonts: dsalut;
