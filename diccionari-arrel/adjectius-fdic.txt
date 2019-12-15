@@ -26479,6 +26479,7 @@ rocafortí rocafortina=categories: A;fonts: LT;
 rocallós rocallosa=categories: A;fonts: LT;
 rocambolesc rocambolesca=categories: A;fonts: LT;
 rocatí rocatina=categories: A;fonts: LT;
+rock=categories: AI;fonts: GDLC;
 rocker rockera=categories: A;fonts: LT;
 rococó=categories: AI;fonts: LT;
 rocós rocosa=categories: A;fonts: LT;
