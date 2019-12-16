@@ -348,7 +348,7 @@ fot fot I
 fotre fotre I
 fra factura Y
 fres factura Y
-g gram Y
+g gram NCMN000
 gaire gaire DI0CS0
 gaire gaire PI0CS000
 gaires gaire DI0CP0
@@ -356,8 +356,8 @@ gaires gaire PI0CP000
 gen gener Y
 gens gens DI0CN0
 gral general Y
-h habitant Y
-h hora Y
+h habitant NCMN000
+h hora NCFN000
 ha ha I
 ha hectàrea NCFN000
 hab habitant Y
@@ -431,7 +431,7 @@ lo lo DA0MS0
 los lo DA0MP0
 lx lux NCMN000
 làm làmina Y
-m metre Y
+m metre NCMN000
 m' jo P010S000
 m' jo PP1CS000
 ma mon DP1FSS
@@ -728,7 +728,7 @@ reguitza reguitza I
 renoi renoi I
 repalleta repalleta I
 res res PI0CS000
-s segon Y
+s segon NCMN000
 s' es DA0CS0
 s' es P0300000
 sa es DA0FS0
