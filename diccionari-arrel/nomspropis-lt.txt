@@ -4847,7 +4847,6 @@ Carlemany Carlemany NPMSSP0
 Carlemanys Carlemany NPMPSP0
 Carlenc Carlenc NPCNSP0
 Carles Carles NPCNSP0
-Carles Carles NPCSG00
 Carles Carles NPMPSP0
 Carles Carles NPMSSP0
 Carlet Carlet NPCSG00
