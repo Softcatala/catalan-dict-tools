@@ -84235,6 +84235,7 @@ voravia=categories: F;fonts: LT;
 voraviu=categories: M;fonts: LT;
 vorell=categories: M;fonts: LT;
 vorera=categories: F;fonts: LT;
+voreta=categories: F;fonts: diminutiu;
 vori=categories: M;fonts: LT;
 voriconazole=categories: M;fonts: dsalut;
 vorozole=categories: M;fonts: dsalut;
