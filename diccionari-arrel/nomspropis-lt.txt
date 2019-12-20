@@ -22419,6 +22419,7 @@ Wakhan Wakhan NPCSG00
 Walcheren Walcheren NPCSG00
 Waldorf Waldorf NPCNSP0
 Walensee Walensee NPCSG00
+Wallapop Wallapop NPCNO00
 Wallasey Wallasey NPCSG00
 Wallers Wallers NPCSG00
 Wallis Wallis NPCSG00
