@@ -52426,7 +52426,6 @@ metasilicat=categories: M;fonts: LT;
 metasinapsi=categories: F;fonts: dsalut;
 metasoma=categories: M;fonts: LT;
 metasomatisme=categories: M;fonts: LT;
-metastabilitat=categories: F;fonts: termcat;
 metastasectomia=categories: F;fonts: dsalut;
 metastrongilosi=categories: F;fonts: dsalut;
 metasèmia=categories: F;fonts: LT;
