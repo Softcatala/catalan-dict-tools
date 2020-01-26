@@ -18869,6 +18869,7 @@ marinesc marinesca=categories: A;fonts: LT;
 mariní [pl. marinís]=categories: A;fonts: LT;
 mariològic mariològica=categories: A;fonts: LT;
 mariscador mariscadora=categories: A;fonts: LT;
+marista=categories: A;fonts: derivat;
 maritable=categories: A;fonts: LT;
 marital=categories: A;fonts: LT;
 maritimopesquer -a=categories: A;fonts: derivat;

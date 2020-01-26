@@ -10886,6 +10886,7 @@ Juneau Juneau NPCSG00
 Juneda Juneda NPCNSP0
 Juneda Juneda NPFSG00
 Jungfrau Jungfrau NPCSG00
+Juno Juno NPFSSP0
 Junqueras Junqueras NPCNSP0
 Junyell Junyell NPCNSP0
 Junyell Junyell NPMSG00
