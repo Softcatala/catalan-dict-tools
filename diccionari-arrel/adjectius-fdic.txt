@@ -13866,6 +13866,7 @@ governador governadora=categories: A;fonts: LT;
 governamental=categories: A;fonts: LT;
 governant=categories: A;fonts: LT;
 governatiu governativa=categories: A;fonts: LT;
+goyesc goyesca=categories: AO;fonts: derivat;
 goès goesa=categories: A;fonts: LT;
 goètic goètica=categories: A;fonts: LT;
 graciable=categories: A;fonts: LT;
