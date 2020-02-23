@@ -40458,6 +40458,7 @@ hacanea=categories: F;fonts: LT;
 hacelina=categories: F;fonts: dsalut;
 hachimicina=categories: F;fonts: dsalut;
 hackató=categories: F;fonts: termcat;
+hackeig=categories: M;fonts: derivat;
 hacker=categories: MF;fonts: GDLC;
 hacktivisme=categories: M;fonts: termcat;
 hadefòbia=categories: F;fonts: dsalut;
