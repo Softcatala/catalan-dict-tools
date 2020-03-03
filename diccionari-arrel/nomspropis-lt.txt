@@ -21188,6 +21188,7 @@ Tynemouth Tynemouth NPCSG00
 Tàbraca Tàbraca NPCSG00
 Tàmesi Tàmesi NPCSG00
 Tànger Tànger NPCSG00
+Tània Tània NPFSSP0
 Tàpia Tàpia NPCNSP0
 Tàpies Tàpies NPCNSP0
 Tàrbena Tàrbena NPFSG00
@@ -21929,11 +21930,9 @@ Vijayawāda Vijayawāda NPCSG00
 Vil'uj Vil'uj NPCSG00
 Vila Vila NPCNSP0
 Vila Vila NPFSG00
-Vila-Real Vila-Real NPCSG00
-Vila-Rodona Vila-Rodona NPFSG00
-Vila-Sacra Vila-Sacra NPFSG00
 Vila-ramó Vila-ramó NPCSG00
 Vila-rasa Vila-rasa NPCNSP0
+Vila-real Vila-real NPCSG00
 Vila-robau Vila-robau NPCNSP0
 Vila-rodona Vila-rodona NPCNSP0
 Vila-rodona Vila-rodona NPCSG00
