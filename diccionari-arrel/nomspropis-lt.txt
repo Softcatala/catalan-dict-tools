@@ -870,6 +870,7 @@ Alexandres Alexandra NPFPSP0
 Alexandres Alexandre NPMPSP0
 Alexandria Alexandria NPFSG00
 Alexandrúpolis Alexandrúpolis NPCSG00
+Alexiévitx Alexiévitx NPCNSP0
 Alf Alf NPCSG00
 Alfafar Alfafar NPCSG00
 Alfafara Alfafara NPFSG00
@@ -1725,6 +1726,7 @@ Arecibo Arecibo NPCSG00
 Arenal Arenal NPCSG00
 Arenberg Arenberg NPCSG00
 Arendal Arendal NPCSG00
+Arendt Arendt NPCNSP0
 Arenes Arenes NPCNSP0
 Arenes Arenes NPFPG00
 Arenols Arenols NPCNSP0
@@ -4000,7 +4002,7 @@ Brocà Brocà NPCNSP0
 Brokopondo Brokopondo NPCSG00
 Brondby Brondby NPCSG00
 Brondo Brondo NPCNSP0
-Bronte Bronte NPCSG00
+Brontë Brontë NPCNSP0
 Bronx Bronx NPCSG00
 Brooklyn Brooklyn NPCSG00
 Broquers Broquers NPCNSP0
@@ -6753,6 +6755,7 @@ Diana Diana NPCSG00
 Diana Diana NPFSSP0
 Dianes Diana NPFPSP0
 Dickens Dickens NPCNSP0
+Dickinson Dickinson NPCNSP0
 Dictini Dictini NPMSSP0
 Dictinis Dictini NPMPSP0
 Diderot Diderot NPCNSP0
@@ -6933,6 +6936,7 @@ Dover Dover NPCSG00
 Dovrefjell Dovrefjell NPCSG00
 Dowa Dowa NPCSG00
 Down Down NPCSG00
+Doyle Doyle NPCNSP0
 Doñana Doñana NPFSG00
 Drac Drac NPCNSP0
 Draconci Draconci NPMSSP0
@@ -9555,6 +9559,7 @@ Granyó Granyó NPCNSP0
 Grapal Grapal NPMSG00
 Gras Gras NPCNSP0
 Grases Grases NPCNSP0
+Grass Grass NPCNSP0
 Grassa Grassa NPCSG00
 Grasset Grasset NPCNSP0
 Grassot Grassot NPCNSP0
@@ -19295,6 +19300,7 @@ Sharpeville Sharpeville NPCSG00
 Shashi Shashi NPCSG00
 Sheffield Sheffield NPCNSP0
 Sheffield Sheffield NPCSG00
+Shelley Shelley NPCNSP0
 Shenyang Shenyang NPCSG00
 Shenzhen Shenzhen NPCSG00
 Sherbro Sherbro NPCSG00

@@ -2,6 +2,7 @@
 #ditar=categories: V;model:cantar;fonts: DNV; #dóna molts problemes
 #embaltir=categories: V;model:servir;fonts: DNV;
 #embeltir=categories: V;model:servir;fonts: DNV;
+#multidisciplinar=categories: A;fonts: DNV;
 #platirí=categories: M;fonts: DNV; abandonat segons nova ortografia 2017
 #titolitis=categories: FS;fonts: DNV;
 Pentecostès=categories: MS;fonts: DNV;
@@ -4019,7 +4020,6 @@ mudador -a=categories: A;fonts: DNV;
 muladita=categories: A;fonts: DNV;
 muladita=categories: MF;fonts: DNV;
 mullerable=categories: A;fonts: DNV;
-multidisciplinar=categories: A;fonts: DNV;
 multifuncionalitat=categories: F;fonts: DNV;
 multinucleat -ada=categories: A;fonts: DNV;
 multiradicular=categories: A;fonts: DNV;

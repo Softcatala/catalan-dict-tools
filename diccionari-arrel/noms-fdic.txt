@@ -69189,6 +69189,7 @@ rambla=categories: F;fonts: LT;
 ramblada=categories: F;fonts: LT;
 ramblaire=categories: MF;fonts: LT;
 rambler ramblera=categories: MF;fonts LT;
+ramblista=categories: MF;fonts: derivat;
 ramblís=categories: M;fonts: LT;
 rambutan=categories: M;fonts: LT;
 ramegall=categories: M;fonts: LT;
