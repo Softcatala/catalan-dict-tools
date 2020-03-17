@@ -10409,6 +10409,7 @@ Ides Ida NPFPSP0
 Idescat Idescat NPMSO00
 Idoberga Idoberga NPFSSP0
 Idobergues Idoberga NPFPSP0
+Idoia Idoia NPFSSP0
 Idumea Idumea NPFSG00
 Idèfix Idèfix NPMSSP0
 Iecla Iecla NPFSG00

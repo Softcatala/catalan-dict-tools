@@ -63,7 +63,7 @@ while ( my $line = <$fh> ) {
         }
 
         $numAccepcio = "";
-        if ( $mot_masc !~ /^(MP3|A[345]|goma-2|4x4)$/ )
+        if ( $mot_masc !~ /$Flexio::number_exceptions/ )
         {    # Excepció: el número forma part del mot
             if ( $mot_masc =~ /^(.+)([0-9])$/ ) {
                 $mot_masc    = $1;
@@ -191,7 +191,7 @@ while ( my $line = <$fh> ) {
         if ( $entrada =~ /^($Flexio::carac+)/ ) {
             $singular    = $1;
             $numAccepcio = "";
-            if ( $singular !~ /^(MP3|A[345]|goma-2|4x4)$/ )
+            if ( $singular !~ /$Flexio::number_exceptions/ )
             {    # Excepció: el número forma part del mot
                 if ( $singular =~ /^(.+)([0-9])$/ ) {
                     $singular    = $1;

@@ -7993,6 +7993,7 @@ pouar=categories: V;model:cantar;fonts:LT
 practicar=categories: V;model:trencar;fonts:LT
 preadobar=categories: V;model:cantar;fonts:LT
 prear=categories: V;model:crear;fonts:LT
+preassignar=categories: V;model:cantar;fonts: LT;
 preavisar=categories: V;model:abalisar;fonts:LT
 precalcular=categories: V;model:cantar;fonts:LT
 precaritzar=categories: V;model:cantar;fonts:LT
