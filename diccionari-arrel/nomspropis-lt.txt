@@ -837,6 +837,7 @@ Aleixos Aleixos NPCNSP0
 Aleksandrija Aleksandrija NPCSG00
 Aleksin Aleksin NPCSG00
 Aleksinac Aleksinac NPCSG00
+Aleksiévitx Aleksiévitx NPCNSP0
 Aleksàndrov Aleksàndrov NPCSG00
 Aleksàndrovsk-Sakhalinski Aleksàndrovsk-Sakhalinski NPCSG00
 Alella Alella NPFSG00
@@ -870,7 +871,6 @@ Alexandres Alexandra NPFPSP0
 Alexandres Alexandre NPMPSP0
 Alexandria Alexandria NPFSG00
 Alexandrúpolis Alexandrúpolis NPCSG00
-Alexiévitx Alexiévitx NPCNSP0
 Alf Alf NPCSG00
 Alfafar Alfafar NPCSG00
 Alfafara Alfafara NPFSG00
