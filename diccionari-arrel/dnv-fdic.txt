@@ -4053,7 +4053,6 @@ nafa=categories: F;fonts: DNV;
 naiximent=categories: M;fonts: DNV;
 nalidíxic=categories: AM;fonts: DNV;
 nanolitre=categories: M;fonts: DNV;
-narcotitzador -a=categories: A;fonts: DNV;
 narratorial=categories: A;fonts: DNV;
 natàtil=categories: A;fonts: DNV;
 navaixa=categories: F;fonts: DNV;
