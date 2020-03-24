@@ -8051,6 +8051,7 @@ Fellini Fellini NPCNSP0
 Felluns Felluns NPCSG00
 Feltre Feltre NPCSG00
 Feltrer Feltrer NPCNSP0
+Felícia Felícia NPFSSP0
 Felícula Felícula NPFSSP0
 Felícules Felícula NPFPSP0
 Femada Femada NPCNSP0
@@ -8504,6 +8505,7 @@ Fortianell Fortianell NPCSG00
 Fortic Fortic NPCNSP0
 Fortià Fortià NPCNSP0
 Fortià Fortià NPCSG00
+Fortnite Fortnite NPMSO00
 Forts Forts NPCNSP0
 Fortuna Fortuna NPCNSP0
 Fortunat Fortunat NPMSSP0
@@ -9393,6 +9395,7 @@ Goiânia Goiânia NPCSG00
 Gojam Gojam NPCSG00
 Golan Golan NPMSG00
 Goldberg Goldberg NPCNSP0
+Goldman Goldman NPCNSP0
 Goldorons Goldorons NPCNSP0
 Golerons Golerons NPCNSP0
 Golet Golet NPCNSP0
@@ -11227,6 +11230,7 @@ Krixna Krixna NPMSSP0
 Krk Krk NPCSG00
 Krkonoše Krkonoše NPCSG00
 Kronstadt Kronstadt NPCSG00
+Kropotkin Kropotkin NPCNSP0
 Krugersdorp Krugersdorp NPCSG00
 Krujë Krujë NPCSG00
 Kubrick Kubrick NPCNSP0
@@ -12651,6 +12655,7 @@ Marinyós Marinyós NPCSG00
 Mariola Mariola NPFSG00
 Mariona Mariona NPFSSP0
 Mariquita Mariquita NPCSG00
+Marisa Marisa NPFSSP0
 Maristany Maristany NPCNSP0
 Mariupol Mariupol NPCSG00
 Marià Marià NPMSSP0
@@ -14288,6 +14293,7 @@ Naha Naha NPCSG00
 Nahori Nahori NPCSG00
 Nahum Nahum NPMSSP0
 Naiac Naiac NPCNSP0
+Naiara Naiara NPFSSP0
 Nairobi Nairobi NPCSG00
 Najaf Najaf NPCSG00
 Nakhitxevan Nakhitxevan NPCSG00
@@ -15464,7 +15470,7 @@ Paner Paner NPCNSP0
 Panevėžys Panevėžys NPCSG00
 Pangea Pangea NPFSG00
 Panillo Panillo NPCSG00
-Panjab Panjab NPCSG00
+Panjab Panjab NPMSG00
 Pankow Pankow NPCSG00
 Panmunjeom Panmunjeom NPCSG00
 Pannònia Pannònia NPFSG00
@@ -16973,6 +16979,7 @@ Pulquèries Pulquèria NPFPSP0
 Pulí Pulí NPCNSP0
 Punakha Punakha NPCSG00
 Pune Pune NPCSG00
+Punjab Punjab NPMSG00
 Puno Puno NPCSG00
 Punta Punta NPFSG00
 Puntarenas Puntarenas NPCSG00
@@ -22381,6 +22388,7 @@ Vorarlberg Vorarlberg NPCSG00
 Voronej Voronej NPCSG00
 Voronež Voronež NPCSG00
 Vosges Vosges NPMPG00
+Vox Vox NPCNO00
 Vraca Vraca NPCSG00
 Vueling Vueling NPCNO00
 Vukovar Vukovar NPCSG00
@@ -22954,6 +22962,7 @@ uTorrent uTorrent NPCNO00
 Àustria Àustria NPCSG00
 Àustria Àustria NPCSSP0
 Àustria-Este Àustria-Este NPCNSP0
+Àustria-Hongria Àustria-Hongria NPFSG00
 Àustries Àustria NPCPSP0
 Àvila Àvila NPFSG00
 Ágreda Ágreda NPCSG00
