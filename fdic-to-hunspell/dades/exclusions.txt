@@ -94,6 +94,7 @@ vivific
 volei
 
 EXCLOU LEMA DE TOTS
+permanèixer
 aguar
 cero
 calendar

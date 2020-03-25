@@ -1312,6 +1312,7 @@ Anaximandre Anaximandre NPMSSP0
 Anaxàgores Anaxàgores NPMSSP0
 Anaxímenes Anaxímenes NPMSSP0
 Anazarba Anazarba NPCSG00
+Anaís Anaís NPFSSP0
 Ancash Ancash NPCSG00
 Anchorage Anchorage NPCSG00
 Ancils Ancils NPCSG00
@@ -1782,6 +1783,7 @@ Argun Argun NPCSG00
 Argòlida Argòlida NPFSG00
 Ariadna Ariadna NPFSSP0
 Ariadnes Ariadna NPFPSP0
+Arial Arial NPFSO00
 Ariany Ariany NPCSG00
 Aribau Aribau NPCNSP0
 Aribert Aribert NPCNSP0
