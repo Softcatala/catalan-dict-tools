@@ -19094,6 +19094,7 @@ medicefàlic medicefàlica=categories: A;fonts: dsalut;
 medicinal=categories: A;fonts: LT;
 medicobiològic medicobiològica=categories: A;fonts: dsalut;
 medicodental=categories: A;fonts: dsalut;
+medicofarmacèutic medicofarmacèutica=categories: A;fonts: derivat;
 medicoforense=categories: A;fonts: LT;
 medicolegal=categories: A;fonts: LT;
 medicoquirúrgic medicoquirúrgica=categories: A;fonts: LT;
