@@ -8836,6 +8836,7 @@ residenciar=categories: V;model:crear;fonts:LT
 residir=categories: V;model:servir;fonts:LT
 residualitzar=categories: V;model:cantar;fonts:derivat;
 resignar=categories: V;model:cantar;fonts:LT
+resignificar=categories: V;model:trencar;fonts: derviat;
 resinar=categories: V;model:abominar;fonts:LT
 resincronitzar=categories: V;model:cantar;fonts:LT
 resinificar=categories: V;model:trencar;fonts:LT

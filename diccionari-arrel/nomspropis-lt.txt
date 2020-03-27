@@ -7130,6 +7130,7 @@ Egist Egist NPMSSP0
 Egists Egist NPMPSP0
 Ehringsdorf Ehringsdorf NPCSG00
 Eichsfeld Eichsfeld NPCSG00
+Eidenbenz Eidenbenz NPCNSP0
 Eiffel Eiffel NPCNSP0
 Eiger Eiger NPCSG00
 Eimeric Eimeric NPCNSP0
@@ -20204,6 +20205,7 @@ Targasona Targasona NPFSG00
 Tarifa Tarifa NPCSG00
 Tarija Tarija NPCSG00
 Tarim Tarim NPCSG00
+Tarkovski Tarkovski NPCNSP0
 Tarlac Tarlac NPCSG00
 Tarn Tarn NPCSG00
 Tarnobrzeg Tarnobrzeg NPCSG00
@@ -22520,6 +22522,7 @@ Wieprz Wieprz NPCSG00
 Wiesbaden Wiesbaden NPCSG00
 Wigan Wigan NPCSG00
 Wight Wight NPCSG00
+Wii Wii NPFSO00
 Wikipedia Wikipedia NPFSO00
 Wildspitze Wildspitze NPCSG00
 Wilhelm Wilhelm NPMSSP0

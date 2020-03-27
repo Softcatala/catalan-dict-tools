@@ -4037,7 +4037,6 @@ murrier -a=categories: A;fonts: DNV;
 murrissà=categories: M;fonts: DNV;
 muscívor -a=categories: A;fonts: DNV;
 museria=categories: F;fonts: DNV;
-musicació=categories: F;fonts: DNV;
 mutilador -a=categories: A;fonts: DNV;
 muu=categories: M;fonts: DNV;
 màsquera=categories: F;fonts: dnv-;
