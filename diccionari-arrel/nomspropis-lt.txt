@@ -5,6 +5,7 @@ ACNUR ACNUR NPMSO00
 AGPL AGPL NPCNO00
 ANSI ANSI NPMSO00
 ATM ATM NPFSO00
+ATP ATP NPFSO00
 AVE AVE NPMNO00
 AVL AVL NPFSO00
 Aalborg Aalborg NPCSG00
@@ -1888,6 +1889,7 @@ Arnó Arnó NPCNSP0
 Arnú Arnú NPCNSP0
 Arnús Arnús NPCNSP0
 Aro Aro NPCSG00
+Aroa Aroa NPFSSP0
 Aromir Aromir NPCNSP0
 Arona Arona NPCSG00
 Arous Arous NPCSG00
@@ -2148,6 +2150,7 @@ Aue Aue NPCSG00
 Auferil Auferil NPCNSP0
 Aufinac Aufinac NPCSG00
 Auger Auger NPCNSP0
+Auggie Auggie NPMSSP0
 Augsburg Augsburg NPCSG00
 Auguer Auguer NPCSG00
 Auguri Auguri NPMSSP0
@@ -2529,7 +2532,7 @@ Bandung Bandung NPCSG00
 Banesto Banesto NPMSO00
 Bangalore Bangalore NPCSG00
 Bangkok Bangkok NPCSG00
-Bangla Bangla NPFSG00
+Bangladesh Bangladesh NPFSG00
 Bangui Bangui NPCSG00
 Bangweulu Bangweulu NPCSG00
 Bani Bani NPCSG00
@@ -4061,6 +4064,7 @@ Brunet Brunet NPCNSP0
 Bruniquell Bruniquell NPCNSP0
 Bruniquer Bruniquer NPCNSP0
 Bruniquet Bruniquet NPCNSP0
+Bruno Bruno NPMSSP0
 Brunoy Brunoy NPCSG00
 Bruns Bruns NPCNSP0
 Brunsvic Brunsvic NPCSG00
@@ -4454,6 +4458,7 @@ Calvera Calvera NPCNSP0
 Calveres Calveres NPCNSP0
 Calverol Calverol NPCNSP0
 Calverons Calverons NPCNSP0
+Calvet Calvet NPCNSP0
 Calvi Calvi NPCSG00
 Calvinyac Calvinyac NPCNSP0
 Calvià Calvià NPCSG00
@@ -6699,7 +6704,6 @@ Desclot Desclot NPCNSP0
 Descoll Descoll NPCNSP0
 Desdèmona Desdèmona NPFSSP0
 Deseado Deseado NPCSG00
-Desh Desh NPMSG00
 Desideri Desideri NPMSSP0
 Desideris Desideri NPMPSP0
 Desio Desio NPCSG00
@@ -6955,6 +6959,7 @@ Dresden Dresden NPMSG00
 Dreux Dreux NPCSG00
 Drin Drin NPCSG00
 Drina Drina NPCSG00
+Drive Drive NPMSO00
 Droc Droc NPCNSP0
 Droguet Droguet NPCNSP0
 Droma Droma NPCSG00
@@ -7667,6 +7672,7 @@ Esteve Esteve NPCNSP0
 Esteve Esteve NPMSSP0
 Esteves Esteve NPMPSP0
 Estevill Estevill NPCNSP0
+Esther Esther NPFSSP0
 Estival Estival NPCNSP0
 Estivalis Estivalis NPCNSP0
 Estivella Estivella NPFSG00
@@ -7714,6 +7720,7 @@ Estònia Estònia NPFSG00
 Esztergom Esztergom NPCSG00
 Eteri Eteri NPMSSP0
 Eteris Eteri NPMPSP0
+Ethan Ethan NPMSSO0
 Etiòpia Etiòpia NPFSG00
 Etna Etna NPFSG00
 Etrúria Etrúria NPFSG00
@@ -8089,6 +8096,7 @@ Fermo Fermo NPCSG00
 Fermoses Fermoses NPFPG00
 Fermí Fermí NPCNSP0
 Fermí Fermí NPMSSP0
+Fernando Fernando NPMSSP0
 Fernández Fernández NPCNSP0
 Ferradura Ferradura NPFSG00
 Ferragut Ferragut NPCNSP0
@@ -8754,6 +8762,7 @@ Gabrovo Gabrovo NPCSG00
 Gabí Gabí NPMSSP0
 Gaddafi Gaddafi NPCNSP0
 Gadilla Gadilla NPCNSP0
+Gael Gael NPMSSP0
 Gaetà Gaetà NPFSSP0
 Gafallops Gafallops NPCNSP0
 Gafarró Gafarró NPMSG00
@@ -10027,6 +10036,7 @@ Hedmark Hedmark NPCSG00
 Heerenveen Heerenveen NPCSG00
 Heerlen Heerlen NPCSG00
 Hefei Hefei NPCSG00
+Hefest Hefest NPMSSP0
 Hegel Hegel NPCNSP0
 Heidegger Heidegger NPCNSP0
 Heidelberg Heidelberg NPCSG00
@@ -10636,6 +10646,7 @@ Iwakuni Iwakuni NPCSG00
 Iwo Iwo NPCSG00
 Ix Ix NPCNSP0
 Ix Ix NPCSG00
+Izan Izan NPMSSO0
 Izoard Izoard NPCSG00
 Iñaki Iñaki NPMSSP0
 Iō-jima Iō-jima NPCSG00
@@ -10873,6 +10884,7 @@ Judea Judea NPFSG00
 Judes Judes NPMPSP0
 Judes Judes NPMSSP0
 Judit Judit NPFSSP0
+Judith Judith NPFSSP0
 Judits Judit NPFPSP0
 Judà Judà NPCSG00
 Juià Juià NPCNSP0
@@ -10970,6 +10982,7 @@ Kaduna Kaduna NPCSG00
 Kaesǒng Kaesǒng NPCSG00
 Kafka Kafka NPCNSP0
 Kagera Kagera NPCSG00
+Kahoot Kahoot NPCNO00
 Kaifeng Kaifeng NPCSG00
 Kailahun Kailahun NPCSG00
 Kaili Kaili NPCSG00
@@ -11349,6 +11362,7 @@ Lahore Lahore NPCSG00
 Laia Laia NPFSSP0
 Laies Laia NPFPSP0
 Laietània Laietània NPFSG00
+Laila Laila NPFSSP0
 Lairet Lairet NPCNSP0
 Lairissa Lairissa NPCSG00
 Lajunta Lajunta NPCNSP0
@@ -11475,6 +11489,7 @@ Leila Leila NPFSSP0
 Leiles Leila NPFPSP0
 Leinster Leinster NPCSG00
 Leipzig Leipzig NPCSG00
+Leire Leire NPFSSP0
 Leiria Leiria NPCSG00
 Lel Lel NPCSG00
 Lemdiyya Lemdiyya NPCSG00
@@ -12223,6 +12238,7 @@ Magalona Magalona NPFSG00
 Maganya Maganya NPCNSP0
 Magarola Magarola NPCNSP0
 Magarrofes Magarrofes NPCSG00
+Magda Magda NPFSSP0
 Magdalena Magdalena NPFSG00
 Magdalena Magdalena NPFSSP0
 Magdalenes Magdalena NPFPSP0
@@ -12632,6 +12648,7 @@ Marians Marians NPCSG00
 Marians Marià NPMPSP0
 Mariatge Mariatge NPCNSP0
 Marib Marib NPCSG00
+Maribel Maribel NPFSSP0
 Maribor Maribor NPCSG00
 Maric Maric NPCNSP0
 Marica Marica NPCSG00
@@ -12655,6 +12672,7 @@ Marinhan Marinhan NPCSG00
 Marinyac Marinyac NPCNSP0
 Marinyà Marinyà NPCNSP0
 Marinyós Marinyós NPCSG00
+Mario Mario NPMSSP0
 Mariola Mariola NPFSG00
 Mariona Mariona NPFSSP0
 Mariquita Mariquita NPCSG00
@@ -13326,6 +13344,7 @@ Mifsut Mifsut NPCNSP0
 Migdia-Pirineus Migdia-Pirineus NPCSG00
 Migdònia Migdònia NPCSG00
 Mijaran Mijaran NPCSG00
+Mike Mike NPMSSP0
 Mikhaïl Mikhaïl NPMSSP0
 Milanesat Milanesat NPMSG00
 Milans Milans NPCNSP0
@@ -17834,6 +17853,7 @@ Rockefeller Rockefeller NPCNSP0
 Rockford Rockford NPCSG00
 Rocosa Rocosa NPCNSP0
 Rocs Roc NPMPSP0
+Rocío Rocío NPCSSP0
 Roda Roda NPCNSP0
 Rodamilans Rodamilans NPCNSP0
 Rodeja Rodeja NPCNSP0
@@ -21192,6 +21212,7 @@ Twain Twain NPCNSP00
 Twitter Twitter NPMSO00
 Txad Txad NPMSG00
 Txaikovski Txaikovski NPCNSP0
+Txarango Txarango NPMNO00
 Txeca Txeca NPFSG00
 Txecoslovàquia Txecoslovàquia NPFSG00
 Txeliàbinsk Txeliàbinsk NPCSG00

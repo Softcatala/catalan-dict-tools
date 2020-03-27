@@ -102,6 +102,7 @@ amén amén I
 ans ans CC
 apa apa I
 apmt apartament Y
+aprox aprox Y
 apt apartat Y
 aqueix aqueix DD0MS0
 aqueix aqueix PD0MS000

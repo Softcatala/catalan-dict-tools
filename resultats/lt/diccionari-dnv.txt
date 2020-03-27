@@ -73447,15 +73447,9 @@ talassònim talassònim NCMS000
 talassònims talassònim NCMP000
 talibossos talibòs NCMP000
 talibòs talibòs NCMS000
-talismànic talismànic AQ0MS0
-talismànica talismànic AQ0FS0
-talismànics talismànic AQ0MP0
-talismàniques talismànic AQ0FP0
 tallabardisses tallabardisses NCMN000
 tallapuros tallapuros NCMN000
 tallataulells tallataulells NCMN000
-tallatge tallatge NCMS000
-tallatges tallatge NCMP000
 tallereta tallereta NCFS000
 talleretes tallereta NCFP000
 tallerol tallerol NCMS000
