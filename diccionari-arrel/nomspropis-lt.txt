@@ -7369,6 +7369,7 @@ Eric Eric NPMSSP0
 Erice Erice NPCSG00
 Eridà Eridà NPCSG00
 Erie Erie NPCSG00
+Erika Erika NPFSSP0
 Erill Erill NPCNSP0
 Erinyà Erinyà NPCSG00
 Eritrea Eritrea NPFSG00
@@ -9101,6 +9102,7 @@ Gaziantep Gaziantep NPCSG00
 Gaziel Gaziel NPMSSP0
 Gdansk Gdansk NPCSG00
 Gdańsk Gdańsk NPCSG00
+Gea Gea NPFSSP0
 Geba Geba NPCSG00
 Gebrat Gebrat NPCNSP0
 Gebut Gebut NPCSG00
@@ -12290,6 +12292,7 @@ Mahārāṣhṭra Mahārāṣhṭra NPCSG00
 Maials Maials NPCNSP0
 Maials Maials NPCSG00
 Maians Maians NPCNSP0
+Maica Maica NPFSSP0
 Maiduguri Maiduguri NPCSG00
 Maier Maier NPCNSP0
 Maigmudella Maigmudella NPFSG00
@@ -15682,6 +15685,7 @@ Paulí Paulí NPCNSP0
 Paulí Paulí NPMSSP0
 Paulís Paulís NPCNSP0
 Pauló Pauló NPCNSP0
+Pausànias Pausànias NPMSSP0
 Pava Pava NPFSG00
 Pavia Pavia NPCNSP0
 Pavia Pavia NPCSG00
