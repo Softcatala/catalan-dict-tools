@@ -6528,6 +6528,7 @@ Dandara Dandara NPCSG00
 Danelaw Danelaw NPCSG00
 Dangla Dangla NPCNSP0
 Dangle Dangle NPCNSP0
+Dani Dani NPMSSP0
 Daniel Daniel NPCNSP0
 Daniel Daniel NPMSSP0
 Daniela Daniela NPFSSP0
@@ -14765,6 +14766,7 @@ Nyköping Nyköping NPCSG00
 Nyon Nyon NPCSG00
 Nyus Nyus NPCSG00
 Nyíregyháza Nyíregyháza NPCSG00
+Nàdia Nàdia NCFSSP0
 Nàger Nàger NPCNSP0
 Nàpols Nàpols NPCSG00
 Nàquera Nàquera NPCSG00
@@ -18715,6 +18717,7 @@ Santfeliu Santfeliu NPCNSP0
 Santgenís Santgenís NPCNSP0
 Santgil Santgil NPCNSP0
 Santhilari Santhilari NPCNSP0
+Santi Santi NPMSSP0
 Santiago Santiago NPCSG00
 Santiberi Santiberi NPCNSP0
 Santiga Santiga NPCNSP0
@@ -22685,6 +22688,7 @@ Xerta Xerta NPCNSP0
 Xerta Xerta NPFSG00
 Xertó Xertó NPCNSP0
 Xerxes Xerxes NPMSSP0
+Xesco Xesco NPMSSP0
 Xeta Xeta NPCSG00
 Xi'an Xi'an NPCSG00
 Xiamen Xiamen NPCSG00
@@ -22724,6 +22728,7 @@ Xirivella Xirivella NPCNSP0
 Xirivella Xirivella NPFSG00
 Xirles Xirles NPCSG00
 Xisclareny Xisclareny NPCNSP0
+Xisco Xisco NPMSSP0
 Xisquerol Xisquerol NPCSG00
 Xiva Xiva NPCNSP0
 Xivert Xivert NPCSG00
