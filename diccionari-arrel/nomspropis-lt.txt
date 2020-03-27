@@ -6667,6 +6667,7 @@ Demestre Demestre NPCNSP0
 Demetri Demetri NPMSSP0
 Demetris Demetri NPMPSP0
 Dempere Dempere NPCNSP0
+Demèter Demèter NPFSSP0
 Demètria Demètria NPFSSP0
 Demètries Demètria NPFPSP0
 Demòcrit Demòcrit NPMSSP0
@@ -9280,6 +9281,7 @@ Gimnèsies Gimnèsies NPFPG00
 Gimpere Gimpere NPCNSP0
 Giménez Giménez NPCNSP0
 Gimó Gimó NPCNSP0
+Gina Gina NPFSSP0
 Ginard Ginard NPCNSP0
 Ginebra Ginebra NPFSG00
 Ginebre Ginebre NPCNSP0
@@ -19807,6 +19809,7 @@ Spratly Spratly NPFPG00
 Spree Spree NPCSG00
 Springfield Springfield NPCSG00
 Springs Springs NPCSG00
+Sputnik Sputnik NPMNO00
 Squillace Squillace NPCSG00
 Srebrenica Srebrenica NPCSG00
 Sri Sri NPCSG00

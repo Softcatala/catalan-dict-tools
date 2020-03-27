@@ -22249,6 +22249,7 @@ panatenaic panatenaica=categories: A;fonts: LT;
 panateneu panatenea=categories: A;fonts: LT;
 pancatalanista=categories: A;fonts: LT;
 pancatalà pancatalana=categories: A;fonts: dfrequencies;
+pancoronavirus=categories: AI; fonts: derivat;
 pancreatoduodenal=categories: A;fonts: dsalut;
 pancreatoesplènic pancreatoesplènica=categories: A;fonts: dsalut;
 pancreatogènic pancreatogènica=categories: A;fonts: dsalut;
