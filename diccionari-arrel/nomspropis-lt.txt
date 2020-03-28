@@ -1287,6 +1287,7 @@ An-Gaillimh An-Gaillimh NPCSG00
 An-Iarmhí An-Iarmhí NPCSG00
 An-Longfort An-Longfort NPCSG00
 An-Mhí An-Mhí NPCSG00
+Ana Ana NPFSSP0
 Anabar Anabar NPCSG00
 Anaclet Anaclet NPMSSP0
 Anaclets Anaclet NPMPSP0
@@ -2094,6 +2095,7 @@ Ataülf Ataülf NPMSSP0
 Ataülfs Ataülf NPMPSP0
 Atbara Atbara NPCSG00
 Atena Atena NPFSSP0
+Atenea Atenea NPFSSP0
 Atenes Atenes NPFSG00
 Atenodor Atenodor NPMSSP0
 Atenodors Atenodor NPMPSP0
@@ -8571,6 +8573,7 @@ Francina Francina NPFSSP0
 Francines Francina NPFPSP0
 Francis Francis NPMSSP0
 Francisca Francisca NPFSSP0
+Francisco Francisco NPMSSP0
 Francisques Francisca NPFPSP0
 Franco Franco NPCNSP0
 Francolí Francolí NPCNSP0
@@ -10446,7 +10449,6 @@ Ifigènia Ifigènia NPFSSP0
 Ifigènies Ifigènia NPFPSP0
 Ifni Ifni NPMSG00
 Ifrane Ifrane NPCSG00
-Iglésies Iglésies NPCNSP0
 Ignasi Ignasi NPMSSP0
 Ignasis Ignasi NPMPSP0
 Ignàsia Ignàsia NPFSSP0
@@ -12213,7 +12215,6 @@ Madremany Madremany NPCNSP0
 Madremanya Madremanya NPFSG00
 Madrenes Madrenes NPCNSP0
 Madreny Madreny NPCNSP0
-Madres Madres NPCSG00
 Madrid Madrid NPCSG00
 Madridejos Madridejos NPCSG00
 Madrigueres Madrigueres NPCSG00
@@ -13349,6 +13350,7 @@ Mierons Mierons NPCNSP0
 Mifsut Mifsut NPCNSP0
 Migdia-Pirineus Migdia-Pirineus NPCSG00
 Migdònia Migdònia NPCSG00
+Miguel Miguel NPMSSP0
 Mijaran Mijaran NPCSG00
 Mike Mike NPMSSP0
 Mikhaïl Mikhaïl NPMSSP0
