@@ -418,6 +418,7 @@ Aimars Aimar NPMPSP0
 Aimat Aimat NPCNSP0
 Ain Ain NPCSG00
 Aina Aina NPFSSP0
+Ainara Ainara NPFSSP0
 Aines Aina NPFPSP0
 Aineto Aineto NPCSG00
 Ainhoa Ainhoa NPFSSP0
@@ -11115,6 +11116,7 @@ Kermanshah Kermanshah NPCSG00
 Kertx Kertx NPCSG00
 Kertész Kertész NPCNSP0
 Kerulen Kerulen NPCSG00
+Kevin Kevin NPMSSP0
 Keynes Keynes NPCNSP0
 Khabarovsk Khabarovsk NPCSG00
 Khafji Khafji NPCSG00

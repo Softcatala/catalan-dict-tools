@@ -1951,7 +1951,6 @@ edafològic -a=categories: A;fonts: DNV;
 edificatori -òria=categories: A;fonts: DNV;
 editorialitzar=categories: V;model:cantar;fonts: DNV;
 edra=categories: F;fonts: DNV;
-eferència=categories: F;fonts: DNV;
 efèbic -a=categories: A;fonts: DNV;
 egipcíac -a=categories: A;fonts: DNV;
 egiptològic -a=categories: A;fonts: DNV;

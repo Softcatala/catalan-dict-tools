@@ -33931,8 +33931,6 @@ editorialitzéssiu editorialitzar VMSI2P02
 editorialitzí editorialitzar VMIS1S00
 edra edra NCFS000
 edres edra NCFP000
-eferència eferència NCFS000
-eferències eferència NCFP000
 efèbic efèbic AQ0MS0
 efèbica efèbic AQ0FS0
 efèbics efèbic AQ0MP0
