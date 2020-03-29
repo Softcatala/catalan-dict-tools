@@ -73391,8 +73391,6 @@ supracomunitària supracomunitari AQ0FS0
 supracomunitàries supracomunitari AQ0FP0
 suralla suralla NCFS000
 suralles suralla NCFP000
-surfactant surfactant NCMS000
-surfactants surfactant NCMP000
 surimi surimi NCMS000
 surimis surimi NCMP000
 surreal surreal AQ0CS0

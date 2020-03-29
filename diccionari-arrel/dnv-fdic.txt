@@ -5449,7 +5449,6 @@ supletorietat=categories: F;fonts: DNV;
 supondre=categories: V;model:compondre;fonts: DNV;
 supracomunitari -ària=categories: A;fonts: DNV;
 suralla=categories: F;fonts: DNV;
-surfactant=categories: M;fonts: DNV;
 surimi=categories: M;fonts: DNV;
 surreal=categories: A;fonts: DNV,col·loquial;
 suspenedor -a=categories: A;fonts: DNV;

@@ -5490,6 +5490,7 @@ Christian Christian NPCNSP0
 Christmas Christmas NPCSG00
 Christopher Christopher NPCSG00
 Chrome Chrome NPMSO00
+Chromebook Chromebook NPMNO00
 Chrysler Chrysler NPCNO00
 Chubut Chubut NPCSG00
 Chungyang Chungyang NPCSG00
@@ -18985,6 +18986,7 @@ Scilly Scilly NPFPG00
 Scorsese Scorsese NPCNSP0
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
+Scratch Scratch NPCNO00
 Scunthorpe Scunthorpe NPCSG00
 Seana Seana NPFSG00
 Seat Seat NPCNO00
