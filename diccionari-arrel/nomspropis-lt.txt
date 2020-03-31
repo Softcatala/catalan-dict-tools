@@ -14775,7 +14775,7 @@ Nyköping Nyköping NPCSG00
 Nyon Nyon NPCSG00
 Nyus Nyus NPCSG00
 Nyíregyháza Nyíregyháza NPCSG00
-Nàdia Nàdia NCFSSP0
+Nàdia Nàdia NPFSSP0
 Nàger Nàger NPCNSP0
 Nàpols Nàpols NPCSG00
 Nàquera Nàquera NPCSG00
