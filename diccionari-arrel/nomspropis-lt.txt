@@ -1262,6 +1262,7 @@ Amors Amor NPMPSP0
 Amorós Amorós NPCNSP0
 Amorós Amorós NPCSG00
 Amparai Amparai NPCSG00
+Amparo Amparo NPFSSP0
 Ample Ample NPCNSP0
 Amposta Amposta NPCNSP0
 Amposta Amposta NPFSG00
@@ -6462,6 +6463,7 @@ Cúmbria Cúmbria NPCSG00
 Cúper Cúper NPCSG00
 Cǎlǎraşi Cǎlǎraşi NPCSG00
 DCVB DCVB NPMSO00
+DGT DGT NPFSO00
 DIEC DIEC NPMSO00
 DIN DIN NPCNO00
 DNV DNV NPMSO00
@@ -6714,6 +6716,8 @@ Deseado Deseado NPCSG00
 Desideri Desideri NPMSSP0
 Desideris Desideri NPMPSP0
 Desio Desio NPCSG00
+Desiré Desiré NPFSSP0
+Desirée Desirée NPFSSP0
 Desllor Desllor NPCNSP0
 Desmur Desmur NPCNSP0
 Desna Desna NPCSG00
@@ -7260,8 +7264,8 @@ Emmen Emmen NPCSG00
 Emmes Emma NPFPSP0
 Empalme Empalme NPCSG00
 Empanada Empanada NPCSG00
-Empar Empar NPMSSP0
-Empars Empar NPMPSP0
+Empar Empar NPFSSP0
+Empars Empar NPFPSP0
 Emperador Emperador NPCNSP0
 Emperador Emperador NPCSG00
 Empoli Empoli NPCSG00
@@ -10391,6 +10395,7 @@ Hérault Hérault NPCSG00
 Hódmezövásárhely Hódmezövásárhely NPCSG00
 Hölderlin Hölderlin NPCNSP0
 IBM IBM NPCNO00
+ICAB ICAB NPMSO00
 ICE ICE NPMSO00
 ICV ICV NPFSO00
 IEC IEC NPMSO00
@@ -15327,6 +15332,7 @@ Pachuca Pachuca NPCSG00
 Pacians Pacià NPMPSP0
 Pacià Pacià NPMSSP0
 Packard Packard NPCNSP0
+Paco Paco NPMSSP0
 Pacomi Pacomi NPMSSP0
 Pacomis Pacomi NPMPSP0
 Pacs Pacs NPCNSP0
@@ -20252,6 +20258,7 @@ Tarongí Tarongí NPCNSP0
 Taroudannt Taroudannt NPCSG00
 Tarquínia Tarquínia NPCSG00
 Tarra Tarra NPCSG00
+Tarradellas Tarradellas NPCNSP0
 Tarragona Tarragona NPCNSP0
 Tarragona Tarragona NPFSG00
 Tarragonès Tarragonès NPMSG00

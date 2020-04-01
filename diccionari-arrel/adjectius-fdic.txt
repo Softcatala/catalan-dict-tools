@@ -18516,6 +18516,7 @@ macroeconomètric macroeconomètrica=categories: A;fonts: derivat;
 macroeconòmic macroeconòmica=categories: A;fonts: LT;
 macroeducatiu macroeducativa=categories: A;fonts: derivat;
 macroesplàncnic macroesplàncnica=categories: A;fonts: dsalut;
+macroestructural=categories: A;fonts: DDLC;
 macrofil·le macrofil·la=categories: A;fonts: LT;
 macrohèmer macrohèmera=categories: A;fonts: LT;
 macromolecular=categories: A;fonts: LT;
