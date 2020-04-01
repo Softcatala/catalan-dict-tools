@@ -117,6 +117,7 @@ omplir
 ordenar
 péixer
 penedir
+permanèixer
 pertànyer
 ploure
 poder

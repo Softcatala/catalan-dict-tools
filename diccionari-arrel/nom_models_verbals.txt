@@ -117,6 +117,7 @@ oir
 omplir
 ordenar
 penedir
+permanèixer
 pertànyer
 ploure
 poder
