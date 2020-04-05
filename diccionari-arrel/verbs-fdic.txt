@@ -2712,6 +2712,7 @@ desconcertar=categories: V;model:cantar;fonts:LT
 descondicionar=categories: V;model:cantar;fonts: dfrequencies, derivat
 desconfiar=categories: V;model:crear;fonts:LT
 desconfigurar=categories: V;model:cantar;fonts:LT
+desconfinar=categories: V;model:abominar;fonts: termcat;
 desconfir=categories: V;model:servir;fonts:LT
 desconfortar=categories: V;model:cantar;fonts:LT
 descongelar=categories: V;model:cantar;fonts:LT

@@ -7818,6 +7818,7 @@ Eustàquia Eustàquia NPFSSP0
 Eustàquies Eustàquia NPFPSP0
 Eusèbia Eusèbia NPFSSP0
 Eusèbies Eusèbia NPFPSP0
+Euterpe Euterpe NPFSSP0
 Eutimi Eutimi NPMSSP0
 Eutimis Eutimi NPMPSP0
 Eutiques Eutiques NPMPSP0
@@ -10401,6 +10402,7 @@ ICV ICV NPFSO00
 IEC IEC NPMSO00
 IJssel IJssel NPCSG00
 INE INE NPMSO00
+IOC IOC NPMSO00
 ISBN ISBN NPMNO00
 ISIL ISIL NPMSO00
 ISIS ISIS NPMSO00
@@ -23042,6 +23044,7 @@ uTorrent uTorrent NPCNO00
 Èlide Èlide NPCSG00
 Èlies Èlia NPFPSP0
 Ènova Ènova NPFSG00
+Èrato Èrato NPFSSP0
 Èric Èric NPMSSP0
 Èridu Èridu NPCSG00
 Èsquil Èsquil NPMSSP0
