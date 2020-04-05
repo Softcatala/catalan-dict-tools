@@ -49010,6 +49010,7 @@ lliça=categories: F;fonts: LT;
 lliçador lliçadora=categories: MF;fonts LT;
 lliçanenc lliçanenca=categories: MF;fonts: LT;
 lliçatge=categories: M;fonts: LT;
+lliçoneta=categories: F;fonts: diminutiu;
 lliçó=categories: F;fonts: LT;
 lloa=categories: F;fonts: LT;
 lloació=categories: F;fonts: LT;
