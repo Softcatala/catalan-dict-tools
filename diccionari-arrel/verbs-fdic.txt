@@ -1812,6 +1812,7 @@ cobrar=categories: V;model:cantar;fonts:LT
 cobricelar=categories: V;model:cantar;fonts:LT
 cobrir=categories: V;model:cobrir;fonts:LT
 cocejar=categories: V;model:envejar;fonts:LT
+codescobrir=categories: V;model:cobrir;fonts: derivat;
 codicil·lar=categories: V;model:anul·lar;fonts:LT
 codificar=categories: V;model:trencar;fonts:LT
 codirigir=categories: V;model:servir;fonts:LT

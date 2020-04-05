@@ -6661,6 +6661,7 @@ coctoestable=categories: A;fonts: dsalut;
 coctolàbil=categories: A;fonts: dsalut;
 codaletès codaletesa=categories: A;fonts: LT;
 codependent=categories: A;fonts: derivat;
+codescobridor codescobridora=categories: A;fonts: derivat;
 codicil·lar=categories: A;fonts: LT;
 codicològic codicològica=categories: A;fonts: LT;
 codificable=categories: A;fonts: LT;

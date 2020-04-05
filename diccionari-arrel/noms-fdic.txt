@@ -18066,6 +18066,7 @@ codeposició=categories: F;fonts: termcat;
 coder=categories: M;fonts: LT;
 codera=categories: F;fonts: LT;
 codescobridor codescobridora=categories: MF;fonts: derivat;
+codescobriment=categories: M;fonts: derivat;
 codesenvolupament=categories: M;fonts: termcat;
 codeshidrasa=categories: F;fonts: LT;
 codeshidrogenasa=categories: F;fonts: LT;
