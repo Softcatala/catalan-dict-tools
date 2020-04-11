@@ -227,6 +227,7 @@ corp corporació Y
 cró carreró Y
 ctra carretera Y
 d' de SPS00
+dB dB NCMN000
 dalt dalt SPS00
 damunt damunt SPS00
 darrere darrere SPS00
@@ -600,6 +601,7 @@ poquíssimes poquíssim DI0FP0
 poquíssimes poquíssim PI0FP000
 poquíssims poquíssim DI0MP0
 poquíssims poquíssim PI0MP000
+ppm ppm NCMN000
 pral principal Y
 pro pro SPS00
 prof professor Y

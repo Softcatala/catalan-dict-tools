@@ -3304,6 +3304,7 @@ deshonestar=categories: V;model:cantar;fonts:LT
 deshonorar=categories: V;model:cantar;fonts:LT
 deshonrar=categories: V;model:cantar;fonts:LT
 deshumanitzar=categories: V;model:cantar;fonts:LT
+desidealitzar=categories: V;model:cantar;fonts: LT;
 desideologitzar=categories: V;model:cantar;fonts:LT
 designar=categories: V;model:cantar;fonts:LT
 desigualar=categories: V;model:cantar;fonts:LT

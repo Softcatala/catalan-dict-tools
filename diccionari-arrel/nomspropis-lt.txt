@@ -6312,6 +6312,7 @@ Créteil Créteil NPCSG00
 Críspul Críspul NPMSSP0
 Críspuls Críspul NPMPSP0
 Ctesifont Ctesifont NPCSG00
+Cthulhu Cthulhu NPCNSP0
 Cuanca Cuanca NPCSG00
 Cuando Cuando NPCSG00
 Cuango Cuango NPCSG00
@@ -7732,7 +7733,7 @@ Estònia Estònia NPFSG00
 Esztergom Esztergom NPCSG00
 Eteri Eteri NPMSSP0
 Eteris Eteri NPMPSP0
-Ethan Ethan NPMSSO0
+Ethan Ethan NPMSSP0
 Etiòpia Etiòpia NPFSG00
 Etna Etna NPFSG00
 Etrúria Etrúria NPFSG00
@@ -10661,9 +10662,8 @@ Ivó Ivó NPMSSP0
 Iwaki Iwaki NPCSG00
 Iwakuni Iwakuni NPCSG00
 Iwo Iwo NPCSG00
-Ix Ix NPCNSP0
 Ix Ix NPCSG00
-Izan Izan NPMSSO0
+Izan Izan NPMSSP0
 Izoard Izoard NPCSG00
 Iñaki Iñaki NPMSSP0
 Iō-jima Iō-jima NPCSG00
