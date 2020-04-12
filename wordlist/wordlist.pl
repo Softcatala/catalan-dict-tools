@@ -79,12 +79,12 @@ while ($line = <$fh>) {
 	$postag = $3;
 	if ($forma =~/^['-]/ || $forma =~/['-]$/) { next;}
 	if (exists($exclusions{$forma})) {
-	    if ( $exclusions{$forma} =~ /FORMA/) {
+	    if ( $exclusions{$forma} =~ /^(FORMA|LEMA)$/) {   #cas de Chiva/Xiva
 		next;
 	    }
 	}	
 	if (exists($exclusions{$lema})) {
-	    if ( $exclusions{$lema} =~ /LEMA/) {
+	    if ( $exclusions{$lema} =~ /^LEMA$/) {
 		next;
 	    }
 	}	

@@ -1,4 +1,6 @@
 EXCLOU FORMA DE TOTS
+só
+fé
 siquiera
 acid
 aixi
@@ -92,8 +94,10 @@ valid
 viatic
 vivific
 volei
+voret
 
 EXCLOU LEMA DE TOTS
+conseguir
 estricament
 ascó
 permanèixer
