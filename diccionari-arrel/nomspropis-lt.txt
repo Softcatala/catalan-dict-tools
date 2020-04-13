@@ -229,6 +229,7 @@ Adrià Adrià NPMSSP0
 Adrobau Adrobau NPCNSP0
 Adroer Adroer NPCNSP0
 Adroguer Adroguer NPCNSP0
+Adroher Adroher NPCNSP0
 Adrover Adrover NPCNSP0
 Adrufeu Adrufeu NPCNSP0
 Adserà Adserà NPCNSP0
@@ -4262,6 +4263,7 @@ CNT CNT NPFSO00
 COI COI NPMSO00
 COU COU NPMSO00
 CSIC CSIC NPMSO00
+CSIF CSIF NPCSO00
 CUP CUP NPFSO00
 Caacupé Caacupé NPCSG00
 Caazapá Caazapá NPCSG00
@@ -8643,6 +8645,7 @@ Fresnillo Fresnillo NPCSG00
 Fresno Fresno NPCSG00
 Freud Freud NPCNSP0
 Friburg Friburg NPCSG00
+Frida Frida NPFSSP0
 Friedland Friedland NPCSG00
 Friedrich Friedrich NPMSSP0
 Friedrichshafen Friedrichshafen NPCSG00
@@ -14408,6 +14411,7 @@ Nater Nater NPCNSP0
 Nativitat Nativitat NPFSSP0
 Nativitats Nativitat NPFPSP0
 Natjà Natjà NPCSG00
+Natxo Natxo NPMSSP0
 Natzaret Natzaret NPMSG00
 Natàlia Natàlia NPFSSP0
 Natàlies Natàlia NPFPSP0
@@ -18196,12 +18200,13 @@ Russafa Russafa NPCSG00
 Russell Russell NPCNSP0
 Rustavi Rustavi NPCSG00
 Rustenburg Rustenburg NPCSG00
-Rut Rut NPMSSP0
+Rut Rut NPFSSP0
+Ruth Ruth NPFSSP0
 Rutili Rutili NPMSSP0
 Rutilis Rutili NPMPSP0
 Rutlla Rutlla NPFSG00
 Rutor Rutor NPCSG00
-Ruts Rut NPMPSP0
+Ruts Rut NPFPSP0
 Rutènia Rutènia NPFSG00
 Ruvuma Ruvuma NPCSG00
 Ruwenzori Ruwenzori NPCSG00
