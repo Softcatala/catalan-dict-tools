@@ -4149,6 +4149,7 @@ Bulès Bulès NPMSG00
 Bundesliga Bundesliga NPFSO00
 Bundēlkhand Bundēlkhand NPCSG00
 Bunsen Bunsen NPCNSP0
+Buntsandstein Buntsandstein NPCNSP0
 Bunyol Bunyol NPCNSP0
 Bunyola Bunyola NPCNSP0
 Bunyola Bunyola NPFSG00
@@ -4251,6 +4252,7 @@ CCMA CCMA NPFSO00
 CCOO CCOO NPFPO00
 CCleaner CCleaner NPCNO00
 CDC CDC NPFSO00
+CDR CDR NPMNO00
 CDS CDS NPMSO00
 CEE CEE NPFSO00
 CEOE CEOE NPFSO00
@@ -7214,6 +7216,7 @@ Elionors Elionor NPFPSP0
 Elisa Elisa NPFSSP0
 Elisabet Elisabet NPFSSP0
 Elisabets Elisabet NPFPSP0
+Elisava Elisava NPFSO00
 Elisenda Elisenda NPFSSP0
 Elisendes Elisenda NPFPSP0
 Elises Elisa NPFPSP0
@@ -8270,6 +8273,7 @@ Flaminis Flamini NPMPSP0
 Flamisell Flamisell NPMSG00
 Flamínia Flamínia NPFSSP0
 Flamínies Flamínia NPFPSP0
+Flanagan Flanagan NPCNSP0
 Flandes Flandes NPCNSP0
 Flandes Flandes NPFSG00
 Flaquer Flaquer NPCNSP0
@@ -8761,6 +8765,7 @@ Fāshōda Fāshōda NPCSG00
 Fīrozābād Fīrozābād NPCSG00
 GAL GAL NPMPO00
 GDLC GDLC NPMSO00
+GIEC GIEC NPFSO00
 GNOME GNOME NPMSO00
 GNU GNU NPMSO00
 GPL GPL NPCNO00
@@ -19515,6 +19520,7 @@ Siping Siping NPCSG00
 Sippar Sippar NPCSG00
 Siquem Siquem NPCSG00
 Siquier Siquier NPCNSP0
+Sira Sira NPFSSP0
 Siracusa Siracusa NPFSG00
 Siret Siret NPCSG00
 Sirici Sirici NPMSSP0
@@ -20343,6 +20349,7 @@ Tebes Tebes NPCSG00
 Tec Tec NPMSG00
 Tecla Tecla NPFSSP0
 Tecles Tecla NPFPSP0
+TecnoCampus TecnoCampus NPMSO00
 Tees Tees NPCSG00
 Tegal Tegal NPCSG00
 Tegea Tegea NPCSG00
@@ -23074,6 +23081,7 @@ uTorrent uTorrent NPCNO00
 Índia Índia NPFSG00
 Índies Índies NPFPG00
 Íngria Íngria NPFSG00
+Íngrid Íngrid NPFSSP0
 Ístria Ístria NPCSG00
 Ítaca Ítaca NPFSG00
 Íxer Íxer NPCNSP0
