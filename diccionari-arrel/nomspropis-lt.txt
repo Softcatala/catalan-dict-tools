@@ -101,6 +101,7 @@
 #Menda Menda NPFSSP0 # avl: noms de persona
 #Mides Mides NPMSSP0 # avl: noms de persona
 #Misteri Misteri NPFSSP0 # avl: noms de persona
+#Mohamet Mohamet NPMSSP0 # avl: noms de persona
 #Nel Nel NPMSSP0 # avl: noms de persona
 #Nunya Nunya NPFSSP0 # avl: noms de persona
 #Nunyo Nunyo NPMSSP0 # avl: noms de persona
@@ -10802,6 +10803,7 @@ Guna Guna NPCNSP0
 Gundelina Gundelina NPFSSP0
 Gundelines Gundelina NPFPSP0
 Guntūr Guntūr NPCSG00
+Guomindang Guomindang NPMSO00
 Gurb Gurb NPCNSP0
 Gurb Gurb NPCSG00
 Gurn Gurn NPMSG00
@@ -11721,6 +11723,7 @@ Jamaica Jamaica NPFSG00
 Jambi Jambi NPCSG00
 Jambol Jambol NPCSG00
 Jamboree Jamboree NPMSO00
+James James NPMSSP0
 Jamet Jamet NPCNSP0
 Jammu Jammu NPCSG00
 Jamshēdpur Jamshēdpur NPCSG00
@@ -11871,6 +11874,7 @@ Jordà Jordà NPCNSP0
 Jordà Jordà NPMSG00
 Jordà Jordà NPMSSP0
 Jordània Jordània NPFSG00
+Jorge Jorge NPMSSP0
 Jorim Jorim NPMSSP0 # avl: noms de persona
 Jornet Jornet NPCNSP0
 Jos Jos NPCSG00
@@ -11940,6 +11944,7 @@ Judits Judit NPFPSP0
 Judà Judà NPCSG00
 Juià Juià NPCNSP0
 Juià Juià NPCSG00
+Jujol Jujol NPCNSP0
 Jujuy Jujuy NPCSG00
 Juli Juli NPMSSP0
 Juliacs Juliacs NPCNSP0
@@ -12315,6 +12320,7 @@ Kunduz Kunduz NPCSG00
 Kunene Kunene NPCSG00
 Kunlun Kunlun NPCNG00
 Kunming Kunming NPCSG00
+Kuomintang Kuomintang NPMSO00
 Kuopio Kuopio NPCSG00
 Kura Kura NPCSG00
 Kurdistan Kurdistan NPMSG00
@@ -14562,6 +14568,7 @@ Michelangelo Michelangelo NPMSSP0
 Michelin Michelin NPCNO00
 Michigan Michigan NPCSG00
 Michoacán Michoacán NPCSG00
+Mickey Mickey NPMSSP0
 Micleta Micleta NPCSG00
 Micola Micola NPCNSP0
 Micrent Micrent NPCSG00
@@ -14775,10 +14782,9 @@ Mogadiscio Mogadiscio NPCSG00
 Mogil'ov Mogil'ov NPCSG00
 Mogoda Mogoda NPFSG00
 Mogues Mogues NPCNSP0
-Mohamet Mohamet NPMSSP0 # avl: noms de persona
+Mohamed Mohamed NPMSSP0 # forma més usual
 Mohammed Mohammed NPMSSP0
 Mohammedia Mohammedia NPCSG00
-Mohammeds Mohammed NPMPSP0
 Mohave Mohave NPCSG00
 Mohács Mohács NPCSG00
 Moianès Moianès NPMSG00
@@ -15369,7 +15375,6 @@ Mugello Mugello NPCSG00
 Muggia Muggia NPCSG00
 Mugodžary Mugodžary NPCSG00
 Muhammad Muhammad NPMSSP0
-Muhammads Muhammad NPMPSP0
 Muharraq Muharraq NPCSG00
 Muigheo Muigheo NPCSG00
 Muineachán Muineachán NPCSG00
@@ -16878,6 +16883,7 @@ Papiol Papiol NPMSG00
 Papiolet Papiolet NPMSG00
 Papua Papua NPFSG00
 Papuàsia Papuàsia NPFSG00
+Paqui Paqui NPFSSP0 # usuaris
 Par Par NPCNSP0
 Para Para NPCSG00
 Parabiago Parabiago NPCSG00
@@ -20087,6 +20093,7 @@ Salí Salí NPCNSP0
 Salònica Salònica NPCSG00
 Salòria Salòria NPCSG00
 Salús Salús NPCNSP0
+Sam Sam NPMSSP0
 Sam Sam NPMSSP0 # avl: noms de persona
 Samalús Samalús NPCSG00
 Samangan Samangan NPCSG00
@@ -22917,6 +22924,7 @@ URSS URSS NPFSG00
 URV URV NPFSO00
 UV UV NPFSO00
 UVic UVic NPFSO00
+Ubach Ubach NPCNSP0
 Ubald Ubald NPMSSP0
 Ubaldesca Ubaldesca NPFSSP0 # avl: noms de persona
 Ubaldina Ubaldina NPFSSP0 # avl: noms de persona
