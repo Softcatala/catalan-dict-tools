@@ -13,9 +13,18 @@ perl fdic-to-lt/flexiona.pl diccionari-arrel/adjectius-fdic.txt $dir_resultat/ad
 echo "Verbs: de FDIC a LT..."
 perl fdic-to-lt/conjuga-verbs.pl diccionari-arrel/verbs-fdic.txt $dir_resultat/verbs-lt.txt diccionari-arrel/models-verbals/
 echo "Afegint la resta de categories..."
-cp diccionari-arrel/*-lt.txt $dir_resultat
+cat diccionari-arrel/*-lt.txt > $dir_resultat/others-lt.txt
+
+#remove comments
+echo "Removing comments..."
+sed -i 's/ *#.*$//' $dir_resultat/others-lt.txt
+sed -i -E 's/\s+$//' $dir_resultat/others-lt.txt
+sed -i '/^$/d' $dir_resultat/others-lt.txt
+
 cat $dir_resultat/*-lt.txt > $dir_resultat/diccionari.txt
 rm $dir_resultat/*-lt.txt
+
+
 # sort
 export LC_ALL=C && sort -u $dir_resultat/diccionari.txt > $dir_resultat/diccionari_sorted.txt
 rm $dir_resultat/diccionari.txt
