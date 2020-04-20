@@ -1888,6 +1888,7 @@ Apia Apia NPCSG00
 Apians Apià NPMPSP0
 Apià Apià NPMSSP0
 Apolima Apolima NPCSG00
+Apollo Apollo NPCNO00
 Apol·linar Apol·linar NPMSSP0
 Apol·linara Apol·linara NPFSSP0 # avl: noms de persona
 Apol·linari Apol·linari NPMSSP0 # avl: noms de persona
@@ -1895,7 +1896,7 @@ Apol·linars Apol·linar NPMPSP0
 Apol·lini Apol·lini NPMSSP0
 Apol·linis Apol·lini NPMPSP0
 Apol·linària Apol·linària NPFSSP0 # avl: noms de persona
-Apol·lo apol·lo NPMSSP0
+Apol·lo Apol·lo NPMSSP0
 Apol·loni Apol·loni NPMSSP0 # avl: noms de persona
 Apol·los apol·lo NPMPSP0
 Apol·lònia Apol·lònia NPFSSP0
