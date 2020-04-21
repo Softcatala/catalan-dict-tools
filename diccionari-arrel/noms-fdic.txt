@@ -15595,6 +15595,7 @@ cau=categories: M;fonts: LT;
 caua=categories: F;fonts: LT;
 caucasià caucasiana=categories: MF;fonts LT;
 caució=categories: F;fonts: LT;
+caucus=categories: MI;fonts: esadir;
 caudació=categories: F;fonts: dsalut;
 caudat=categories: M;fonts: LT;
 caudatari caudatària=categories: MF;fonts: LT;

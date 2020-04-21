@@ -19596,6 +19596,7 @@ microelectromecànic microelectromecànica=categories: A;fonts: LT;
 microesplàncnic microesplàncnica=categories: A;fonts: dsalut;
 microestructural=categories: A;fonts: LT;
 microfilmador microfilmadora=categories: A;fonts: LT;
+suprapartidista=categories: A;fonts: derivat;
 microfil·le microfil·la=categories: A;fonts: LT;
 microfotogràfic microfotogràfica=categories: A;fonts: LT;
 microfísic microfísica=categories: A;fonts: LT;
