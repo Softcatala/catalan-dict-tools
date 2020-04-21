@@ -1,6 +1,9 @@
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
+#Alegria Alegria NPCNSP0
+#Alegries Alegries NPFSSP0 # avl: noms de persona
 #Alà Alà NPMSSP0 # avl: noms de persona
+#Amar Amar NPMSSP0 # avl: noms de persona
 #Amic Amic NPMSSP0 # avl: noms de persona
 #Amiga Amiga NPFSSP0 # avl: noms de persona
 #Amorosa Amorosa NPFSSP0 # avl: noms de persona
@@ -29,6 +32,7 @@
 #Carrossa Carrossa NPFSSP0 # avl: noms de persona
 #Carí Carí NPMSSP0 # avl: noms de persona
 #Caïm Caïm NPMSSP0 # avl: noms de persona
+#Cel Cel NPFSSP0 # avl: noms de persona
 #Celest Celest NPFSSP0 # avl: noms de persona
 #Celi Celi NPMSSP0 # avl: noms de persona
 #Celí Celí NPMSSP0 # avl: noms de persona
@@ -1065,8 +1069,6 @@ Alegre Alegre NPCNSP0
 Alegrer Alegrer NPCNSP0
 Alegret Alegret NPCNSP0
 Alegreu Alegreu NPCNSP0
-Alegria Alegria NPCNSP0
-Alegries Alegries NPFSSP0 # avl: noms de persona
 Alegrí Alegrí NPCNSP0
 Alei Alei NPCNSP0
 Aleix Aleix NPCNSP0
@@ -1451,7 +1453,6 @@ Amanç Amanç NPMSSP0
 Amanços Amanç NPMPSP0
 Amanós Amanós NPCNSP0
 Amapá Amapá NPCSG00
-Amar Amar NPMSSP0 # avl: noms de persona
 Amara Amara NPFSSP0 # avl: noms de persona
 Amarant Amarant NPMSSP0
 Amarants Amarant NPMPSP0
@@ -5750,7 +5751,6 @@ Ceferins Ceferí NPMPSP0
 Ceferí Ceferí NPMSSP0
 Cefeu Cefeu NPCSG00
 Cehegín Cehegín NPCSG00
-Cel Cel NPFSSP0 # avl: noms de persona
 Celdoni Celdoni NPMSSP0
 Celdonis Celdoni NPMPSP0
 Celedoni Celedoni NPMSSP0
@@ -21722,6 +21722,7 @@ Taltavull Taltavull NPCNSP0
 Talteüll Talteüll NPCSG00
 Taló Taló NPCNSP0
 Tamanrasset Tamanrasset NPCSG00
+Tamar Tamar NPCSG00
 Tamar Tamar NPFSSP0 # avl: noms de persona
 Tamara Tamara NPFSSP0 # avl: noms de persona
 Tamarit Tamarit NPCNSP0
