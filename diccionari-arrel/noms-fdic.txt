@@ -155,6 +155,7 @@ ANOVA=categories: FI;fonts: termcat;
 APC=categories: FI;fonts: dsalut;
 API=categories: FI;fonts: softcatala, viquipedia;
 ARN=categories: MI;fonts: LT;
+ARNm=categories: MI;fonts: wiki;
 ATS=categories: MFI;fonts: esadir;
 AZT=categories: FI;fonts: dsalut;
 Apocalipsi=categories: M;fonts: GDLC;

@@ -168,6 +168,7 @@
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 7-Zip 7-Zip NPCNO00
 ACNUR ACNUR NPMSO00
+AEAT AEAT NPFSO00
 AGPL AGPL NPCNO00
 ANSI ANSI NPMSO00
 ATM ATM NPFSO00
@@ -1847,6 +1848,7 @@ Antíocs Antíoc NPMPSP0
 Antístenes Antístenes NPMSSP0
 Antònia Antònia NPFSSP0
 Antònies Antònia NPFPSP0
+Anubis Anubis NPMSSP0
 Anunciació Anunciació NPFSSP0 # avl: noms de persona
 Anunciata Anunciata NPFSSP0
 Anunciates Anunciata NPFPSP0
@@ -3900,6 +3902,7 @@ Bizanci Bizanci NPCSG00
 Bizerta Bizerta NPCSG00
 Bié Bié NPCSG00
 BlaBlaCar BlaBlaCar NPCNO00
+Black Black NPCNSP0
 BlackBerry BlackBerry NPCNO00
 Blackburn Blackburn NPCSG00
 Blackwater Blackwater NPCSG00
@@ -7830,6 +7833,7 @@ Elbeuf Elbeuf NPCSG00
 Elblag Elblag NPCSG00
 Elburz Elburz NPCSG00
 Elca Elca NPCSG00
+Elcano Elcano NPCNSP0
 Elda Elda NPFSG00
 Eldorado Eldorado NPCSG00
 Eleatzar Eleatzar NPCSSP0 # avl: noms de persona
@@ -10821,6 +10825,7 @@ Gussí Gussí NPCNSP0
 Gussó Gussó NPCNSP0
 Gustau Gustau NPMSSP0
 Gustaus Gustau NPMPSP0
+Gustav Gustav NPMSSP0
 Gustà Gustà NPCNSP0
 Gutenberg Gutenberg NPCNSP0
 Gutium Gutium NPMSG00
@@ -10928,6 +10933,7 @@ Hamàs Hamàs NPFSO00
 Hamílcar Hamílcar NPMSSP0 # avl: noms de persona
 Hamā Hamā NPCSG00
 Han Han NPCNSP0
+Hangouts Hangouts NPCNO00
 Hangzhou Hangzhou NPCSG00
 Hankou Hankou NPCSG00
 Hannover Hannover NPCNSP0
@@ -11511,6 +11517,7 @@ Indianapolis Indianapolis NPCSG00
 Indicé Indicé NPCSG00
 Indigirka Indigirka NPCSG00
 Indioteria Indioteria NPFSG00
+Inditex Inditex NPCNO00
 Indonèsia Indonèsia NPFSG00
 Indore Indore NPCSG00
 Indostan Indostan NPMSG00
@@ -12183,6 +12190,7 @@ Khartum Khartum NPCSG00
 Khaskovo Khaskovo NPCSG00
 Khatxaturian Khatxaturian NPCNSP0
 Khenifra Khenifra NPCSG00
+Kheops Kheops NPMSSP0
 Kherson Kherson NPCSG00
 Khimki Khimki NPCSG00
 Khingan Khingan NPCSG00
@@ -12242,6 +12250,7 @@ Klaipeda Klaipeda NPCSG00
 Klamath Klamath NPCSG00
 Klee Klee NPCNSP0
 Kleist Kleist NPCNSP0
+Klimt Klimt NPCNSP0
 Klopstock Klopstock NPCNSP0
 Knesset Knesset NPFSO00
 Knin Knin NPCSG00
@@ -20724,6 +20733,7 @@ Serradora Serradora NPCNSP0
 Serradui Serradui NPCSG00
 Serragelada Serragelada NPCSG00
 Serragranera Serragranera NPCNSP0
+Serrahima Serrahima NPCNSP0
 Serrailla Serrailla NPCNSP0
 Serrajordi Serrajordi NPCNSP0
 Serral Serral NPCNSP0
