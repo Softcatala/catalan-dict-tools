@@ -5367,7 +5367,7 @@ Carnàtic Carnàtic NPCSG00
 Caro Caro NPCNSP0
 Caro Caro NPMSG00
 Caroig Caroig NPMSG00
-Carol Carol NPMSSP0 # avl: noms de persona
+Carol Carol NPCSSP0 # avl: noms de persona
 Carola Carola NPFSSP0 # avl: noms de persona
 Carolina Carolina NPCSG00
 Carolina Carolina NPFSSP0
@@ -15845,7 +15845,7 @@ Nicasis Nicasi NPMPSP0
 Nicea Nicea NPFSG00
 Nichelino Nichelino NPCSG00
 Nickerie Nickerie NPCSG00
-Nico Nico NPMSSP0 # avl: noms de persona
+Nico Nico NPCSSP0 # avl: noms de persona
 Nicobar Nicobar NPFPG00
 Nicodem Nicodem NPMSSP0
 Nicodema Nicodema NPFSSP0 # avl: noms de persona
