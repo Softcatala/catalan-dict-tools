@@ -11,7 +11,7 @@ ser estats er VSP00PM0 # estats
 er iguts er VSP00PM0 # siguts
 ser estades er VSP00PF0 # estades
 er igudes er VSP00PF0 # sigudes
-er ó er VSIP1S00 # só
+#er ó er VSIP1S00 # só
 er óc er VSIP1S00 # sóc
 er oc er VSIP1S00 # soc diacriticsIEC
 ser ets er VSIP2S00 # ets

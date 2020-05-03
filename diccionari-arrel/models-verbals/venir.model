@@ -11,6 +11,7 @@ enir ingudes ir VMP00PF0 # vingudes
 ir gudes ir VMP00PFB # vengudes
 enir inc ir VMIP1S00 # vinc
 enir énc ir VMIP1S0B # vénc
+enir énc ir VMIP1S0B # venc diacriticsIEC
 enir éns ir VMIP2S00 # véns
 enir ens ir VMIP2S00 # vens diacriticsIEC
 nir 0 ir VMIP3S00 # ve
@@ -62,12 +63,15 @@ enir indrien ir VMIC3P00 # vindrien
 ir drien ir VMIC3P0B # vendrien
 enir inga ir VMSP1S0V # vinga
 enir éngui ir VMSP1S0B # véngui
+enir éngui ir VMSP1S0B # vengui diacriticsIEC
 enir ingui ir VMSP1S0Y # vingui
 enir ingues ir VMSP2S0V # vingues
 enir énguis ir VMSP2S0B # vénguis
+enir énguis ir VMSP2S0B # venguis diacriticsIEC
 enir inguis ir VMSP2S0Y # vinguis
 enir inga ir VMSP3S0V # vinga
 enir éngui ir VMSP3S0B # véngui
+enir éngui ir VMSP3S0B # vengui diacriticsIEC
 enir ingui ir VMSP3S0Y # vingui
 enir inguem ir VMSP1P00 # vinguem
 ir guem ir VMSP1P0B # venguem
@@ -101,10 +105,12 @@ ir guessin ir VMSI3P0B # venguessin
 enir ine ir VMM02S00 # vine
 enir inga ir VMM03S0V # vinga
 enir éngui ir VMM03S0B # véngui
+enir éngui ir VMM03S0B # vengui diacriticsIEC
 enir ingui ir VMM03S0Y # vingui
 enir inguem ir VMM01P00 # vinguem
 ir guem ir VMM01P0B # venguem
 r u ir VMM02P00 # veniu
 enir inguen ir VMM03P0V # vinguen
 enir énguin ir VMM03P0B # vénguin
+enir énguin ir VMM03P0B # venguin diacriticsIEC
 enir inguin ir VMM03P0Y # vinguin
