@@ -7,6 +7,7 @@ r des ar VMP00PF0 # enfastijades
 ar o ar VMIP1S0C # enfastijo
 jar ge ar VMIP1S0V # enfastige
 jar g ar VMIP1S0B # enfastig
+jar gi ar VMIP1S0S # enfastigi
 jar ges ar VMIP2S00 # enfastiges
 r 0 ar VMIP3S00 # enfastija
 jar gem ar VMIP1P00 # enfastigem

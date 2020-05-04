@@ -7,6 +7,7 @@ r des ar VMP00PF0 # contrapesades
 ar o ar VMIP1S0C # contrapeso
 ar e ar VMIP1S0V # contrapese
 esar és ar VMIP1S0B # contrapés
+ar i ar VMIP1S0S # contrapesi
 ar es ar VMIP2S00 # contrapeses
 r 0 ar VMIP3S00 # contrapesa
 ar em ar VMIP1P00 # contrapesem

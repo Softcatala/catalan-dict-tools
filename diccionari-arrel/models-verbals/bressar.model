@@ -7,6 +7,7 @@ r des ar VMP00PF0 # bressades
 ar o ar VMIP1S0C # bresso
 ar e ar VMIP1S0V # bresse
 sar 0 ar VMIP1S0B # bres
+ar i ar VMIP1S0S # bressi
 ar es ar VMIP2S00 # bresses
 r 0 ar VMIP3S00 # bressa
 ar em ar VMIP1P00 # bressem
