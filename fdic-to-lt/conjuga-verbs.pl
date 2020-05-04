@@ -22,7 +22,7 @@ while (my $line = <$fh>) {
 	my $model = $3;
 	open( my $modelfh,  "<:encoding(UTF-8)", $modelsdir.$model.".model" );
 	while (my $modelline = <$modelfh>) {
-	    if ($modelline =~ /^(.+) (.+) (.+) (.+) #.*$/) {
+	    if ($modelline !~ /^#/ && $modelline =~ /^(.+) (.+) (.+) (.+) #.*$/) {
 		my $forma = $infinitiu;
 		my $trau = $1;
 		my $afegeix = $2;

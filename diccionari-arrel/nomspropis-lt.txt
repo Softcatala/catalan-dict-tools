@@ -5367,7 +5367,7 @@ Carnàtic Carnàtic NPCSG00
 Caro Caro NPCNSP0
 Caro Caro NPMSG00
 Caroig Caroig NPMSG00
-Carol Carol NPMSSP0 # avl: noms de persona
+Carol Carol NPCSSP0 # avl: noms de persona
 Carola Carola NPFSSP0 # avl: noms de persona
 Carolina Carolina NPCSG00
 Carolina Carolina NPFSSP0
@@ -10596,6 +10596,7 @@ Grècia Grècia NPFSG00
 Grèvol Grèvol NPCNSP0
 Gréixer Gréixer NPCSG00
 Grífol Grífol NPCNSP0
+Grífols Grífols NPCNO00
 Grífols Grífols NPCNSP0
 Grímsvötn Grímsvötn NPCSG00
 Gstaad Gstaad NPCSG00
@@ -15845,7 +15846,7 @@ Nicasis Nicasi NPMPSP0
 Nicea Nicea NPFSG00
 Nichelino Nichelino NPCSG00
 Nickerie Nickerie NPCSG00
-Nico Nico NPMSSP0 # avl: noms de persona
+Nico Nico NPCSSP0 # avl: noms de persona
 Nicobar Nicobar NPFPG00
 Nicodem Nicodem NPMSSP0
 Nicodema Nicodema NPFSSP0 # avl: noms de persona
