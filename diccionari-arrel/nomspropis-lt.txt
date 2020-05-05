@@ -7365,6 +7365,7 @@ Devesa Devesa NPFSG00
 Deveses Deveses NPFPG00
 Devon Devon NPCSG00
 Dewar Dewar NPCNSP0
+Dewey Dewey NPCNSP0
 Dexeus Dexeus NPCNSP0
 Dezfūl Dezfūl NPCSG00
 Deífile Deífile NPFSSP0 # avl: noms de persona
@@ -15749,6 +15750,7 @@ Nebreda Nebreda NPCNSP0
 Nebrija Nebrija NPMSSP0
 Neckar Neckar NPCSG00
 Neera Neera NPFSSP0 # avl: noms de persona
+Nefertiti Nefertiti NPFSSP0
 Nefiac Nefiac NPCSG00
 Neftalí Neftalí NPMSSP0
 Negrals Negrals NPMPG00
@@ -24874,4 +24876,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Nefertiti Nefertiti NPFSSP0

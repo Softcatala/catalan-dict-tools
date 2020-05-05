@@ -26274,6 +26274,7 @@ reprovatori reprovatòria=categories: A;fonts: LT;
 reptador reptadora=categories: A;fonts: LT;
 reptant=categories: A;fonts: LT;
 reptilià reptiliana=categories: A;fonts: LT;
+republicanosocialista=categories: A;fonts: derivat;
 republicà republicana=categories: A;fonts: LT;
 repudiable=categories: A;fonts: LT;
 repugnant=categories: A;fonts: LT;
