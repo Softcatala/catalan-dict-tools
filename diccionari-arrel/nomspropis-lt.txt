@@ -10596,7 +10596,7 @@ Grècia Grècia NPFSG00
 Grèvol Grèvol NPCNSP0
 Gréixer Gréixer NPCSG00
 Grífol Grífol NPCNSP0
-Grífols Grífols NPCNO00
+Grifols Grifols NPCNO00
 Grífols Grífols NPCNSP0
 Grímsvötn Grímsvötn NPCSG00
 Gstaad Gstaad NPCSG00
