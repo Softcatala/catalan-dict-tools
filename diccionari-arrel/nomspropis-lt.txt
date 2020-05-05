@@ -10544,6 +10544,7 @@ Grier Grier NPMSG00
 Griera Griera NPCNSP0
 Grifell Grifell NPCNSP0
 Grifoll Grifoll NPCNSP0
+Grifols Grifols NPCNO00
 Grifé Grifé NPCSG00
 Grima Grima NPCNSP0
 Grimald Grimald NPMSSP0 # avl: noms de persona
@@ -10596,7 +10597,6 @@ Grècia Grècia NPFSG00
 Grèvol Grèvol NPCNSP0
 Gréixer Gréixer NPCSG00
 Grífol Grífol NPCNSP0
-Grifols Grifols NPCNO00
 Grífols Grífols NPCNSP0
 Grímsvötn Grímsvötn NPCSG00
 Gstaad Gstaad NPCSG00
@@ -19647,6 +19647,7 @@ Rull Rull NPCNSP0
 Rul·lan Rul·lan NPCNSP0
 Rumbardó Rumbardó NPCNSP0
 Rummel Rummel NPCSG00
+Rummikub Rummikub NPMSO00
 Rumphi Rumphi NPCSG00
 Rumèlia Rumèlia NPFSG00
 Runcorn Runcorn NPCSG00
@@ -22628,6 +22629,7 @@ Trebalúger Trebalúger NPCSG00
 Trebbia Trebbia NPCSG00
 Trebinje Trebinje NPCSG00
 Trebisonda Trebisonda NPCSG00
+Treblinka Treblinka NPCSG00
 Trecate Trecate NPCSG00
 Tredòs Tredòs NPCSG00
 Tregurà Tregurà NPCNSP0
@@ -24872,3 +24874,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Nefertiti Nefertiti NPFSSP0

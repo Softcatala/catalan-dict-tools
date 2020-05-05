@@ -23,6 +23,7 @@ diff ../resultats/lt/diccionari.txt diccionari_antic.txt > diff.txt
 cp diff.txt novetats_amb_tag.txt
 echo "Extraient novetats"
 sed -i '/ aguar /d' novetats_amb_tag.txt #excloure aguar
+sed -i '/ VMIP1S0S/d' novetats_amb_tag.txt #excloure formes del septentrional
 sed -i 's/^[^<].*$//g' novetats_amb_tag.txt
 sed -i 's/^< //g' novetats_amb_tag.txt
 sed -i 's/ /\t/g' novetats_amb_tag.txt
@@ -33,7 +34,7 @@ sed -i '/^\s*$/d' novetats_sense_tag.txt
 export LC_ALL=C && sort -u novetats_sense_tag.txt -o novetats_sense_tag.txt
 cat spelling.head novetats_sense_tag.txt > spelling.txt
 cat manual-tagger.head novetats_amb_tag.txt > manual-tagger.txt
-cp manual-tagger.txt ~/caresource
+cp manual-tagger.txt ~/caresource/added.txt
 cp spelling.txt ~/caresource
 echo "Resultats en spelling.txt manual-tagger.txt"
 # emacs novetats_* &
