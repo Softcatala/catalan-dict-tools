@@ -7801,7 +7801,6 @@ perjudicar=categories: V;model:trencar;fonts:LT
 perjurar=categories: V;model:cantar;fonts:LT
 perlejar=categories: V;model:envejar;fonts:LT
 perllongar=categories: V;model:pregar;fonts:LT
-permanèixer=categories: V;model:permanèixer;fonts:castellanisme (per a correccions);
 permeabilitzar=categories: V;model:cantar;fonts:LT
 permetre=categories: V;model:admetre;fonts:LT
 permutar=categories: V;model:cantar;fonts:LT
