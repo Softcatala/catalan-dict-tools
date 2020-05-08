@@ -7,7 +7,6 @@ r des ar VMP00PF0 # pregades
 ar o ar VMIP1S0C # prego
 ar ue ar VMIP1S0V # pregue
 ar 0 ar VMIP1S0B # preg
-ar ui ar VMIP1S0S # pregui
 ar ues ar VMIP2S00 # pregues
 r 0 ar VMIP3S00 # prega
 ar uem ar VMIP1P00 # preguem
