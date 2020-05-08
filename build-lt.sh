@@ -15,6 +15,10 @@ perl fdic-to-lt/conjuga-verbs.pl diccionari-arrel/verbs-fdic.txt $dir_resultat/v
 echo "Afegint la resta de categories..."
 cat diccionari-arrel/*-lt.txt > $dir_resultat/others-lt.txt
 
+
+#EXCLUSIONS
+sed -i '/ permanèixer /d' $dir_resultat/verbs-lt.txt
+
 #remove comments
 echo "Removing comments..."
 sed -i 's/ *#.*$//' $dir_resultat/others-lt.txt
