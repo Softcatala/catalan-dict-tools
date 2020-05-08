@@ -7,6 +7,7 @@ r r er VMN00000 # desmerèixer
 èixer escudes er VMP00PF0 # desmerescudes
 èixer eixo er VMIP1S0C # desmereixo
 èixer esc er VMIP1S0Z # desmeresc
+èixer eixi er VMIP1S0S # desmereixi
 èixer eixes er VMIP2S00 # desmereixes
 èixer eix er VMIP3S00 # desmereix
 èixer eixem er VMIP1P00 # desmereixem
