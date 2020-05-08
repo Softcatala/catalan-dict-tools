@@ -57,7 +57,6 @@ abagotessis abagotar VMSI2S02
 abagoteu abagotar VMIP2P00
 abagoteu abagotar VMM02P0X
 abagoteu abagotar VMSP2P00
-abagoti abagotar VMIP1S0S
 abagoti abagotar VMM03S0Y
 abagoti abagotar VMSP1S0Y
 abagoti abagotar VMSP3S0Y
@@ -156,7 +155,6 @@ abarraquessis abarracar VMSI2S02
 abarraqueu abarracar VMIP2P00
 abarraqueu abarracar VMM02P0X
 abarraqueu abarracar VMSP2P00
-abarraqui abarracar VMIP1S0S
 abarraqui abarracar VMM03S0Y
 abarraqui abarracar VMSP1S0Y
 abarraqui abarracar VMSP3S0Y
@@ -189,7 +187,6 @@ abastonegessis abastonejar VMSI2S02
 abastonegeu abastonejar VMIP2P00
 abastonegeu abastonejar VMM02P0X
 abastonegeu abastonejar VMSP2P00
-abastonegi abastonejar VMIP1S0S
 abastonegi abastonejar VMM03S0Y
 abastonegi abastonejar VMSP1S0Y
 abastonegi abastonejar VMSP3S0Y
@@ -316,7 +313,6 @@ abombessis abombar VMSI2S02
 abombeu abombar VMIP2P00
 abombeu abombar VMM02P0X
 abombeu abombar VMSP2P00
-abombi abombar VMIP1S0S
 abombi abombar VMM03S0Y
 abombi abombar VMSP1S0Y
 abombi abombar VMSP3S0Y
@@ -401,7 +397,6 @@ abonyessis abonyar VMSI2S02
 abonyeu abonyar VMIP2P00
 abonyeu abonyar VMM02P0X
 abonyeu abonyar VMSP2P00
-abonyi abonyar VMIP1S0S
 abonyi abonyar VMM03S0Y
 abonyi abonyar VMSP1S0Y
 abonyi abonyar VMSP3S0Y
@@ -487,7 +482,6 @@ abotarguessis abotargar VMSI2S02
 abotargueu abotargar VMIP2P00
 abotargueu abotargar VMM02P0X
 abotargueu abotargar VMSP2P00
-abotargui abotargar VMIP1S0S
 abotargui abotargar VMM03S0Y
 abotargui abotargar VMSP1S0Y
 abotargui abotargar VMSP3S0Y
@@ -571,7 +565,6 @@ abotonessis abotonar VMSI2S02
 abotoneu abotonar VMIP2P00
 abotoneu abotonar VMM02P0X
 abotoneu abotonar VMSP2P00
-abotoni abotonar VMIP1S0S
 abotoni abotonar VMM03S0Y
 abotoni abotonar VMSP1S0Y
 abotoni abotonar VMSP3S0Y
@@ -656,7 +649,6 @@ abovessis abovar VMSI2S02
 aboveu abovar VMIP2P00
 aboveu abovar VMM02P0X
 aboveu abovar VMSP2P00
-abovi abovar VMIP1S0S
 abovi abovar VMM03S0Y
 abovi abovar VMSP1S0Y
 abovi abovar VMSP3S0Y
@@ -740,7 +732,6 @@ acaminessis acaminar VMSI2S02
 acamineu acaminar VMIP2P00
 acamineu acaminar VMM02P0X
 acamineu acaminar VMSP2P00
-acamini acaminar VMIP1S0S
 acamini acaminar VMM03S0Y
 acamini acaminar VMSP1S0Y
 acamini acaminar VMSP3S0Y
@@ -826,7 +817,6 @@ acanellessis acanellar VMSI2S02
 acanelleu acanellar VMIP2P00
 acanelleu acanellar VMM02P0X
 acanelleu acanellar VMSP2P00
-acanelli acanellar VMIP1S0S
 acanelli acanellar VMM03S0Y
 acanelli acanellar VMSP1S0Y
 acanelli acanellar VMSP3S0Y
@@ -911,7 +901,6 @@ acapollessis acapollar VMSI2S02
 acapolleu acapollar VMIP2P00
 acapolleu acapollar VMM02P0X
 acapolleu acapollar VMSP2P00
-acapolli acapollar VMIP1S0S
 acapolli acapollar VMM03S0Y
 acapolli acapollar VMSP1S0Y
 acapolli acapollar VMSP3S0Y
@@ -996,7 +985,6 @@ acatxorressis acatxorrar VMSI2S02
 acatxorreu acatxorrar VMIP2P00
 acatxorreu acatxorrar VMM02P0X
 acatxorreu acatxorrar VMSP2P00
-acatxorri acatxorrar VMIP1S0S
 acatxorri acatxorrar VMM03S0Y
 acatxorri acatxorrar VMSP1S0Y
 acatxorri acatxorrar VMSP3S0Y
@@ -1081,7 +1069,6 @@ acensalessis acensalar VMSI2S02
 acensaleu acensalar VMIP2P00
 acensaleu acensalar VMM02P0X
 acensaleu acensalar VMSP2P00
-acensali acensalar VMIP1S0S
 acensali acensalar VMM03S0Y
 acensali acensalar VMSP1S0Y
 acensali acensalar VMSP3S0Y
@@ -1168,7 +1155,6 @@ acevessis acevar VMSI2S02
 aceveu acevar VMIP2P00
 aceveu acevar VMM02P0X
 aceveu acevar VMSP2P00
-acevi acevar VMIP1S0S
 acevi acevar VMM03S0Y
 acevi acevar VMSP1S0Y
 acevi acevar VMSP3S0Y
@@ -1255,7 +1241,6 @@ acolxessis acolxar VMSI2S02
 acolxeu acolxar VMIP2P00
 acolxeu acolxar VMM02P0X
 acolxeu acolxar VMSP2P00
-acolxi acolxar VMIP1S0S
 acolxi acolxar VMM03S0Y
 acolxi acolxar VMSP1S0Y
 acolxi acolxar VMSP3S0Y
@@ -1410,7 +1395,6 @@ acompassessis acompassar VMSI2S02
 acompasseu acompassar VMIP2P00
 acompasseu acompassar VMM02P0X
 acompasseu acompassar VMSP2P00
-acompassi acompassar VMIP1S0S
 acompassi acompassar VMM03S0Y
 acompassi acompassar VMSP1S0Y
 acompassi acompassar VMSP3S0Y
@@ -1498,7 +1482,6 @@ aconformessis aconformar VMSI2S02
 aconformeu aconformar VMIP2P00
 aconformeu aconformar VMM02P0X
 aconformeu aconformar VMSP2P00
-aconformi aconformar VMIP1S0S
 aconformi aconformar VMM03S0Y
 aconformi aconformar VMSP1S0Y
 aconformi aconformar VMSP3S0Y
@@ -1587,7 +1570,6 @@ acovardessis acovardar VMSI2S02
 acovardeu acovardar VMIP2P00
 acovardeu acovardar VMM02P0X
 acovardeu acovardar VMSP2P00
-acovardi acovardar VMIP1S0S
 acovardi acovardar VMM03S0Y
 acovardi acovardar VMSP1S0Y
 acovardi acovardar VMSP3S0Y
@@ -1676,7 +1658,6 @@ adinsessis adinsar VMSI2S02
 adinseu adinsar VMIP2P00
 adinseu adinsar VMM02P0X
 adinseu adinsar VMSP2P00
-adinsi adinsar VMIP1S0S
 adinsi adinsar VMM03S0Y
 adinsi adinsar VMSP1S0Y
 adinsi adinsar VMSP3S0Y
@@ -1791,7 +1772,6 @@ afondessis afondar VMSI2S02
 afondeu afondar VMIP2P00
 afondeu afondar VMM02P0X
 afondeu afondar VMSP2P00
-afondi afondar VMIP1S0S
 afondi afondar VMM03S0Y
 afondi afondar VMSP1S0Y
 afondi afondar VMSP3S0Y
@@ -1944,7 +1924,6 @@ aforressis aforrar VMSI2S02
 aforreu aforrar VMIP2P00
 aforreu aforrar VMM02P0X
 aforreu aforrar VMSP2P00
-aforri aforrar VMIP1S0S
 aforri aforrar VMM03S0Y
 aforri aforrar VMSP1S0Y
 aforri aforrar VMSP3S0Y
@@ -2029,7 +2008,6 @@ afortalessis afortalar VMSI2S02
 afortaleu afortalar VMIP2P00
 afortaleu afortalar VMM02P0X
 afortaleu afortalar VMSP2P00
-afortali afortalar VMIP1S0S
 afortali afortalar VMM03S0Y
 afortali afortalar VMSP1S0Y
 afortali afortalar VMSP3S0Y
@@ -2114,7 +2092,6 @@ aganessis aganar VMSI2S02
 aganeu aganar VMIP2P00
 aganeu aganar VMM02P0X
 aganeu aganar VMSP2P00
-agani aganar VMIP1S0S
 agani aganar VMM03S0Y
 agani aganar VMSP1S0Y
 agani aganar VMSP3S0Y
@@ -2200,7 +2177,6 @@ agarbissonessis agarbissonar VMSI2S02
 agarbissoneu agarbissonar VMIP2P00
 agarbissoneu agarbissonar VMM02P0X
 agarbissoneu agarbissonar VMSP2P00
-agarbissoni agarbissonar VMIP1S0S
 agarbissoni agarbissonar VMM03S0Y
 agarbissoni agarbissonar VMSP1S0Y
 agarbissoni agarbissonar VMSP3S0Y
@@ -2285,7 +2261,6 @@ agimponessis agimponar VMSI2S02
 agimponeu agimponar VMIP2P00
 agimponeu agimponar VMM02P0X
 agimponeu agimponar VMSP2P00
-agimponi agimponar VMIP1S0S
 agimponi agimponar VMM03S0Y
 agimponi agimponar VMSP1S0Y
 agimponi agimponar VMSP3S0Y
@@ -2398,7 +2373,6 @@ agoniésseu agoniar VMSI2P05
 agoniéssim agoniar VMSI1P02
 agoniéssiu agoniar VMSI2P02
 agonií agoniar VMIS1S00
-agoniï agoniar VMIP1S0S
 agoniï agoniar VMM03S0Y
 agoniï agoniar VMSP1S0Y
 agoniï agoniar VMSP3S0Y
@@ -2462,7 +2436,6 @@ agosessis agosar VMSI2S02
 agoseu agosar VMIP2P00
 agoseu agosar VMM02P0X
 agoseu agosar VMSP2P00
-agosi agosar VMIP1S0S
 agosi agosar VMM03S0Y
 agosi agosar VMSP1S0Y
 agosi agosar VMSP3S0Y
@@ -2547,7 +2520,6 @@ agramillessis agramillar VMSI2S02
 agramilleu agramillar VMIP2P00
 agramilleu agramillar VMM02P0X
 agramilleu agramillar VMSP2P00
-agramilli agramillar VMIP1S0S
 agramilli agramillar VMM03S0Y
 agramilli agramillar VMSP1S0Y
 agramilli agramillar VMSP3S0Y
@@ -2656,7 +2628,6 @@ agraviésseu agraviar VMSI2P05
 agraviéssim agraviar VMSI1P02
 agraviéssiu agraviar VMSI2P02
 agravií agraviar VMIS1S00
-agraviï agraviar VMIP1S0S
 agraviï agraviar VMM03S0Y
 agraviï agraviar VMSP1S0Y
 agraviï agraviar VMSP3S0Y
@@ -2743,7 +2714,6 @@ aigüessis aiguar VMSI2S02
 aigüeu aiguar VMIP2P00
 aigüeu aiguar VMM02P0X
 aigüeu aiguar VMSP2P00
-aigüi aiguar VMIP1S0S
 aigüi aiguar VMM03S0Y
 aigüi aiguar VMSP1S0Y
 aigüi aiguar VMSP3S0Y
@@ -2839,7 +2809,6 @@ ajardinessis ajardinar VMSI2S02
 ajardineu ajardinar VMIP2P00
 ajardineu ajardinar VMM02P0X
 ajardineu ajardinar VMSP2P00
-ajardini ajardinar VMIP1S0S
 ajardini ajardinar VMM03S0Y
 ajardini ajardinar VMSP1S0Y
 ajardini ajardinar VMSP3S0Y
@@ -2945,7 +2914,6 @@ albardonessis albardonar VMSI2S02
 albardoneu albardonar VMIP2P00
 albardoneu albardonar VMM02P0X
 albardoneu albardonar VMSP2P00
-albardoni albardonar VMIP1S0S
 albardoni albardonar VMM03S0Y
 albardoni albardonar VMSP1S0Y
 albardoni albardonar VMSP3S0Y
@@ -3036,7 +3004,6 @@ albarzeressis albarzerar VMSI2S02
 albarzereu albarzerar VMIP2P00
 albarzereu albarzerar VMM02P0X
 albarzereu albarzerar VMSP2P00
-albarzeri albarzerar VMIP1S0S
 albarzeri albarzerar VMM03S0Y
 albarzeri albarzerar VMSP1S0Y
 albarzeri albarzerar VMSP3S0Y
@@ -3192,7 +3159,6 @@ alitrenquessis alitrencar VMSI2S02
 alitrenqueu alitrencar VMIP2P00
 alitrenqueu alitrencar VMM02P0X
 alitrenqueu alitrencar VMSP2P00
-alitrenqui alitrencar VMIP1S0S
 alitrenqui alitrencar VMM03S0Y
 alitrenqui alitrencar VMSP1S0Y
 alitrenqui alitrencar VMSP3S0Y
@@ -3450,7 +3416,6 @@ allumenessis allumenar VMSI2S02
 allumeneu allumenar VMIP2P00
 allumeneu allumenar VMM02P0X
 allumeneu allumenar VMSP2P00
-allumeni allumenar VMIP1S0S
 allumeni allumenar VMM03S0Y
 allumeni allumenar VMSP1S0Y
 allumeni allumenar VMSP3S0Y
@@ -3545,7 +3510,6 @@ almanguenessis almanguenar VMSI2S02
 almangueneu almanguenar VMIP2P00
 almangueneu almanguenar VMM02P0X
 almangueneu almanguenar VMSP2P00
-almangueni almanguenar VMIP1S0S
 almangueni almanguenar VMM03S0Y
 almangueni almanguenar VMSP1S0Y
 almangueni almanguenar VMSP3S0Y
@@ -3645,7 +3609,6 @@ almidonessis almidonar VMSI2S02
 almidoneu almidonar VMIP2P00
 almidoneu almidonar VMM02P0X
 almidoneu almidonar VMSP2P00
-almidoni almidonar VMIP1S0S
 almidoni almidonar VMM03S0Y
 almidoni almidonar VMSP1S0Y
 almidoni almidonar VMSP3S0Y
@@ -3736,7 +3699,6 @@ almorzessis almorzar VMSI2S02
 almorzeu almorzar VMIP2P00
 almorzeu almorzar VMM02P0X
 almorzeu almorzar VMSP2P00
-almorzi almorzar VMIP1S0S
 almorzi almorzar VMM03S0Y
 almorzi almorzar VMSP1S0Y
 almorzi almorzar VMSP3S0Y
@@ -3829,7 +3791,6 @@ alquitranessis alquitranar VMSI2S02
 alquitraneu alquitranar VMIP2P00
 alquitraneu alquitranar VMM02P0X
 alquitraneu alquitranar VMSP2P00
-alquitrani alquitranar VMIP1S0S
 alquitrani alquitranar VMM03S0Y
 alquitrani alquitranar VMSP1S0Y
 alquitrani alquitranar VMSP3S0Y
@@ -3933,7 +3894,6 @@ al·liguessis al·ligar VMSI2S02
 al·ligueu al·ligar VMIP2P00
 al·ligueu al·ligar VMM02P0X
 al·ligueu al·ligar VMSP2P00
-al·ligui al·ligar VMIP1S0S
 al·ligui al·ligar VMM03S0Y
 al·ligui al·ligar VMSP1S0Y
 al·ligui al·ligar VMSP3S0Y
@@ -4115,7 +4075,6 @@ amarronessis amarronar VMSI2S02
 amarroneu amarronar VMIP2P00
 amarroneu amarronar VMM02P0X
 amarroneu amarronar VMSP2P00
-amarroni amarronar VMIP1S0S
 amarroni amarronar VMM03S0Y
 amarroni amarronar VMSP1S0Y
 amarroni amarronar VMSP3S0Y
@@ -4236,7 +4195,6 @@ amodorressis amodorrar VMSI2S02
 amodorreu amodorrar VMIP2P00
 amodorreu amodorrar VMM02P0X
 amodorreu amodorrar VMSP2P00
-amodorri amodorrar VMIP1S0S
 amodorri amodorrar VMM03S0Y
 amodorri amodorrar VMSP1S0Y
 amodorri amodorrar VMSP3S0Y
@@ -4332,7 +4290,6 @@ amordassessis amordassar VMSI2S02
 amordasseu amordassar VMIP2P00
 amordasseu amordassar VMM02P0X
 amordasseu amordassar VMSP2P00
-amordassi amordassar VMIP1S0S
 amordassi amordassar VMM03S0Y
 amordassi amordassar VMSP1S0Y
 amordassi amordassar VMSP3S0Y
@@ -4418,7 +4375,6 @@ amorgonessis amorgonar VMSI2S02
 amorgoneu amorgonar VMIP2P00
 amorgoneu amorgonar VMM02P0X
 amorgoneu amorgonar VMSP2P00
-amorgoni amorgonar VMIP1S0S
 amorgoni amorgonar VMM03S0Y
 amorgoni amorgonar VMSP1S0Y
 amorgoni amorgonar VMSP3S0Y
@@ -4517,7 +4473,6 @@ amosquessis amoscar VMSI2S02
 amosqueu amoscar VMIP2P00
 amosqueu amoscar VMM02P0X
 amosqueu amoscar VMSP2P00
-amosqui amoscar VMIP1S0S
 amosqui amoscar VMM03S0Y
 amosqui amoscar VMSP1S0Y
 amosqui amoscar VMSP3S0Y
@@ -4588,7 +4543,6 @@ amostressis amostrar VMSI2S02
 amostreu amostrar VMIP2P00
 amostreu amostrar VMM02P0X
 amostreu amostrar VMSP2P00
-amostri amostrar VMIP1S0S
 amostri amostrar VMM03S0Y
 amostri amostrar VMSP1S0Y
 amostri amostrar VMSP3S0Y
@@ -4775,7 +4729,6 @@ antoixessis antoixar VMSI2S02
 antoixeu antoixar VMIP2P00
 antoixeu antoixar VMM02P0X
 antoixeu antoixar VMSP2P00
-antoixi antoixar VMIP1S0S
 antoixi antoixar VMM03S0Y
 antoixi antoixar VMSP1S0Y
 antoixi antoixar VMSP3S0Y
@@ -5002,7 +4955,6 @@ apatusquessis apatuscar VMSI2S02
 apatusqueu apatuscar VMIP2P00
 apatusqueu apatuscar VMM02P0X
 apatusqueu apatuscar VMSP2P00
-apatusqui apatuscar VMIP1S0S
 apatusqui apatuscar VMM03S0Y
 apatusqui apatuscar VMSP1S0Y
 apatusqui apatuscar VMSP3S0Y
@@ -5142,7 +5094,6 @@ aperesessis aperesar VMSI2S02
 apereseu aperesar VMIP2P00
 apereseu aperesar VMM02P0X
 apereseu aperesar VMSP2P00
-aperesi aperesar VMIP1S0S
 aperesi aperesar VMM03S0Y
 aperesi aperesar VMSP1S0Y
 aperesi aperesar VMSP3S0Y
@@ -5190,7 +5141,6 @@ apereésseu aperear VMSI2P05
 apereéssim aperear VMSI1P02
 apereéssiu aperear VMSI2P02
 apereí aperear VMIS1S00
-apereï aperear VMIP1S0S
 apereï aperear VMM03S0Y
 apereï aperear VMSP1S0Y
 apereï aperear VMSP3S0Y
@@ -5221,7 +5171,6 @@ apitgessis apitjar VMSI2S02
 apitgeu apitjar VMIP2P00
 apitgeu apitjar VMM02P0X
 apitgeu apitjar VMSP2P00
-apitgi apitjar VMIP1S0S
 apitgi apitjar VMM03S0Y
 apitgi apitjar VMSP1S0Y
 apitgi apitjar VMSP3S0Y
@@ -5350,7 +5299,6 @@ apitonessis apitonar VMSI2S02
 apitoneu apitonar VMIP2P00
 apitoneu apitonar VMM02P0X
 apitoneu apitonar VMSP2P00
-apitoni apitonar VMIP1S0S
 apitoni apitonar VMM03S0Y
 apitoni apitonar VMSP1S0Y
 apitoni apitonar VMSP3S0Y
@@ -5444,7 +5392,6 @@ aporiguessis aporigar VMSI2S02
 aporigueu aporigar VMIP2P00
 aporigueu aporigar VMM02P0X
 aporigueu aporigar VMSP2P00
-aporigui aporigar VMIP1S0S
 aporigui aporigar VMM03S0Y
 aporigui aporigar VMSP1S0Y
 aporigui aporigar VMSP3S0Y
@@ -5490,7 +5437,6 @@ aporregessis aporrejar VMSI2S02
 aporregeu aporrejar VMIP2P00
 aporregeu aporrejar VMM02P0X
 aporregeu aporrejar VMSP2P00
-aporregi aporrejar VMIP1S0S
 aporregi aporrejar VMM03S0Y
 aporregi aporrejar VMSP1S0Y
 aporregi aporrejar VMSP3S0Y
@@ -5617,7 +5563,6 @@ aportellessis aportellar VMSI2S02
 aportelleu aportellar VMIP2P00
 aportelleu aportellar VMM02P0X
 aportelleu aportellar VMSP2P00
-aportelli aportellar VMIP1S0S
 aportelli aportellar VMM03S0Y
 aportelli aportellar VMSP1S0Y
 aportelli aportellar VMSP3S0Y
@@ -5790,7 +5735,6 @@ apremiésseu apremiar VMSI2P05
 apremiéssim apremiar VMSI1P02
 apremiéssiu apremiar VMSI2P02
 apremií apremiar VMIS1S00
-apremiï apremiar VMIP1S0S
 apremiï apremiar VMM03S0Y
 apremiï apremiar VMSP1S0Y
 apremiï apremiar VMSP3S0Y
@@ -5856,7 +5800,6 @@ apretunyessis apretunyar VMSI2S02
 apretunyeu apretunyar VMIP2P00
 apretunyeu apretunyar VMM02P0X
 apretunyeu apretunyar VMSP2P00
-apretunyi apretunyar VMIP1S0S
 apretunyi apretunyar VMM03S0Y
 apretunyi apretunyar VMSP1S0Y
 apretunyi apretunyar VMSP3S0Y
@@ -5905,7 +5848,6 @@ apreésseu aprear VMSI2P05
 apreéssim aprear VMSI1P02
 apreéssiu aprear VMSI2P02
 apreí aprear VMIS1S00
-apreï aprear VMIP1S0S
 apreï aprear VMM03S0Y
 apreï aprear VMSP1S0Y
 apreï aprear VMSP3S0Y
@@ -5983,7 +5925,6 @@ apulgonessis apulgonar VMSI2S02
 apulgoneu apulgonar VMIP2P00
 apulgoneu apulgonar VMM02P0X
 apulgoneu apulgonar VMSP2P00
-apulgoni apulgonar VMIP1S0S
 apulgoni apulgonar VMM03S0Y
 apulgoni apulgonar VMSP1S0Y
 apulgoni apulgonar VMSP3S0Y
@@ -6068,7 +6009,6 @@ aquarel·lessis aquarel·lar VMSI2S02
 aquarel·leu aquarel·lar VMIP2P00
 aquarel·leu aquarel·lar VMM02P0X
 aquarel·leu aquarel·lar VMSP2P00
-aquarel·li aquarel·lar VMIP1S0S
 aquarel·li aquarel·lar VMM03S0Y
 aquarel·li aquarel·lar VMSP1S0Y
 aquarel·li aquarel·lar VMSP3S0Y
@@ -6171,7 +6111,6 @@ argamassessis argamassar VMSI2S02
 argamasseu argamassar VMIP2P00
 argamasseu argamassar VMM02P0X
 argamasseu argamassar VMSP2P00
-argamassi argamassar VMIP1S0S
 argamassi argamassar VMM03S0Y
 argamassi argamassar VMSP1S0Y
 argamassi argamassar VMSP3S0Y
@@ -6298,7 +6237,6 @@ arrasmessis arrasmar VMSI2S02
 arrasmeu arrasmar VMIP2P00
 arrasmeu arrasmar VMM02P0X
 arrasmeu arrasmar VMSP2P00
-arrasmi arrasmar VMIP1S0S
 arrasmi arrasmar VMM03S0Y
 arrasmi arrasmar VMSP1S0Y
 arrasmi arrasmar VMSP3S0Y
@@ -6388,7 +6326,6 @@ arraïlessis arraïlar VMSI2S02
 arraïleu arraïlar VMIP2P00
 arraïleu arraïlar VMM02P0X
 arraïleu arraïlar VMSP2P00
-arraïli arraïlar VMIP1S0S
 arraïli arraïlar VMM03S0Y
 arraïli arraïlar VMSP1S0Y
 arraïli arraïlar VMSP3S0Y
@@ -6474,7 +6411,6 @@ arrecesessis arrecesar VMSI2S02
 arreceseu arrecesar VMIP2P00
 arreceseu arrecesar VMM02P0X
 arreceseu arrecesar VMSP2P00
-arrecesi arrecesar VMIP1S0S
 arrecesi arrecesar VMM03S0Y
 arrecesi arrecesar VMSP1S0Y
 arrecesi arrecesar VMSP3S0Y
@@ -6561,7 +6497,6 @@ arrematessis arrematar VMSI2S02
 arremateu arrematar VMIP2P00
 arremateu arrematar VMM02P0X
 arremateu arrematar VMSP2P00
-arremati arrematar VMIP1S0S
 arremati arrematar VMM03S0Y
 arremati arrematar VMSP1S0Y
 arremati arrematar VMSP3S0Y
@@ -6656,7 +6591,6 @@ arremullessis arremullar VMSI2S02
 arremulleu arremullar VMIP2P00
 arremulleu arremullar VMM02P0X
 arremulleu arremullar VMSP2P00
-arremulli arremullar VMIP1S0S
 arremulli arremullar VMM03S0Y
 arremulli arremullar VMSP1S0Y
 arremulli arremullar VMSP3S0Y
@@ -6745,7 +6679,6 @@ arrepretessis arrepretar VMSI2S02
 arrepreteu arrepretar VMIP2P00
 arrepreteu arrepretar VMM02P0X
 arrepreteu arrepretar VMSP2P00
-arrepreti arrepretar VMIP1S0S
 arrepreti arrepretar VMM03S0Y
 arrepreti arrepretar VMSP1S0Y
 arrepreti arrepretar VMSP3S0Y
@@ -6832,7 +6765,6 @@ arrepunyessis arrepunyar VMSI2S02
 arrepunyeu arrepunyar VMIP2P00
 arrepunyeu arrepunyar VMM02P0X
 arrepunyeu arrepunyar VMSP2P00
-arrepunyi arrepunyar VMIP1S0S
 arrepunyi arrepunyar VMM03S0Y
 arrepunyi arrepunyar VMSP1S0Y
 arrepunyi arrepunyar VMSP3S0Y
@@ -6921,7 +6853,6 @@ arreüssessis arreüssar VMSI2S02
 arreüsseu arreüssar VMIP2P00
 arreüsseu arreüssar VMM02P0X
 arreüsseu arreüssar VMSP2P00
-arreüssi arreüssar VMIP1S0S
 arreüssi arreüssar VMM03S0Y
 arreüssi arreüssar VMSP1S0Y
 arreüssi arreüssar VMSP3S0Y
@@ -7022,7 +6953,6 @@ arroglessis arroglar VMSI2S02
 arrogleu arroglar VMIP2P00
 arrogleu arroglar VMM02P0X
 arrogleu arroglar VMSP2P00
-arrogli arroglar VMIP1S0S
 arrogli arroglar VMM03S0Y
 arrogli arroglar VMSP1S0Y
 arrogli arroglar VMSP3S0Y
@@ -7203,7 +7133,6 @@ arrunsessis arrunsar VMSI2S02
 arrunseu arrunsar VMIP2P00
 arrunseu arrunsar VMM02P0X
 arrunseu arrunsar VMSP2P00
-arrunsi arrunsar VMIP1S0S
 arrunsi arrunsar VMM03S0Y
 arrunsi arrunsar VMSP1S0Y
 arrunsi arrunsar VMSP3S0Y
@@ -7350,7 +7279,6 @@ assilvestressis assilvestrar VMSI2S02
 assilvestreu assilvestrar VMIP2P00
 assilvestreu assilvestrar VMM02P0X
 assilvestreu assilvestrar VMSP2P00
-assilvestri assilvestrar VMIP1S0S
 assilvestri assilvestrar VMM03S0Y
 assilvestri assilvestrar VMSP1S0Y
 assilvestri assilvestrar VMSP3S0Y
@@ -7436,7 +7364,6 @@ assorressis assorrar VMSI2S02
 assorreu assorrar VMIP2P00
 assorreu assorrar VMM02P0X
 assorreu assorrar VMSP2P00
-assorri assorrar VMIP1S0S
 assorri assorrar VMM03S0Y
 assorri assorrar VMSP1S0Y
 assorri assorrar VMSP3S0Y
@@ -7537,7 +7464,6 @@ assuquessis assucar VMSI2S02
 assuqueu assucar VMIP2P00
 assuqueu assucar VMM02P0X
 assuqueu assucar VMSP2P00
-assuqui assucar VMIP1S0S
 assuqui assucar VMM03S0Y
 assuqui assucar VMSP1S0Y
 assuqui assucar VMSP3S0Y
@@ -7613,7 +7539,6 @@ astorinessis astorinar VMSI2S02
 astorineu astorinar VMIP2P00
 astorineu astorinar VMM02P0X
 astorineu astorinar VMSP2P00
-astorini astorinar VMIP1S0S
 astorini astorinar VMM03S0Y
 astorini astorinar VMSP1S0Y
 astorini astorinar VMSP3S0Y
@@ -7719,7 +7644,6 @@ atabollessis atabollar VMSI2S02
 atabolleu atabollar VMIP2P00
 atabolleu atabollar VMM02P0X
 atabolleu atabollar VMSP2P00
-atabolli atabollar VMIP1S0S
 atabolli atabollar VMM03S0Y
 atabolli atabollar VMSP1S0Y
 atabolli atabollar VMSP3S0Y
@@ -7803,7 +7727,6 @@ atarussessis atarussar VMSI2S02
 atarusseu atarussar VMIP2P00
 atarusseu atarussar VMM02P0X
 atarusseu atarussar VMSP2P00
-atarussi atarussar VMIP1S0S
 atarussi atarussar VMM03S0Y
 atarussi atarussar VMSP1S0Y
 atarussi atarussar VMSP3S0Y
@@ -7891,7 +7814,6 @@ ataulessis ataular VMSI2S02
 atauleu ataular VMIP2P00
 atauleu ataular VMM02P0X
 atauleu ataular VMSP2P00
-atauli ataular VMIP1S0S
 atauli ataular VMM03S0Y
 atauli ataular VMSP1S0Y
 atauli ataular VMSP3S0Y
@@ -7982,7 +7904,6 @@ atemperessis atemperar VMSI2S02
 atempereu atemperar VMIP2P00
 atempereu atemperar VMM02P0X
 atempereu atemperar VMSP2P00
-atemperi atemperar VMIP1S0S
 atemperi atemperar VMM03S0Y
 atemperi atemperar VMSP1S0Y
 atemperi atemperar VMSP3S0Y
@@ -8067,7 +7988,6 @@ atenallessis atenallar VMSI2S02
 atenalleu atenallar VMIP2P00
 atenalleu atenallar VMM02P0X
 atenalleu atenallar VMSP2P00
-atenalli atenallar VMIP1S0S
 atenalli atenallar VMM03S0Y
 atenalli atenallar VMSP1S0Y
 atenalli atenallar VMSP3S0Y
@@ -8157,7 +8077,6 @@ atesessis atesar VMSI2S02
 ateseu atesar VMIP2P00
 ateseu atesar VMM02P0X
 ateseu atesar VMSP2P00
-atesi atesar VMIP1S0S
 atesi atesar VMM03S0Y
 atesi atesar VMSP1S0Y
 atesi atesar VMSP3S0Y
@@ -8222,7 +8141,6 @@ atesoressis atesorar VMSI2S02
 atesoreu atesorar VMIP2P00
 atesoreu atesorar VMM02P0X
 atesoreu atesorar VMSP2P00
-atesori atesorar VMIP1S0S
 atesori atesorar VMM03S0Y
 atesori atesorar VMSP1S0Y
 atesori atesorar VMSP3S0Y
@@ -8333,7 +8251,6 @@ atibessis atibar VMSI2S02
 atibeu atibar VMIP2P00
 atibeu atibar VMM02P0X
 atibeu atibar VMSP2P00
-atibi atibar VMIP1S0S
 atibi atibar VMM03S0Y
 atibi atibar VMSP1S0Y
 atibi atibar VMSP3S0Y
@@ -8435,7 +8352,6 @@ atribulessis atribular VMSI2S02
 atribuleu atribular VMIP2P00
 atribuleu atribular VMM02P0X
 atribuleu atribular VMSP2P00
-atribuli atribular VMIP1S0S
 atribuli atribular VMM03S0Y
 atribuli atribular VMSP1S0Y
 atribuli atribular VMSP3S0Y
@@ -8534,7 +8450,6 @@ atronquessis atroncar VMSI2S02
 atronqueu atroncar VMIP2P00
 atronqueu atroncar VMM02P0X
 atronqueu atroncar VMSP2P00
-atronqui atroncar VMIP1S0S
 atronqui atroncar VMM03S0Y
 atronqui atroncar VMSP1S0Y
 atronqui atroncar VMSP3S0Y
@@ -8614,7 +8529,6 @@ aturrullessis aturrullar VMSI2S02
 aturrulleu aturrullar VMIP2P00
 aturrulleu aturrullar VMM02P0X
 aturrulleu aturrullar VMSP2P00
-aturrulli aturrullar VMIP1S0S
 aturrulli aturrullar VMM03S0Y
 aturrulli aturrullar VMSP1S0Y
 aturrulli aturrullar VMSP3S0Y
@@ -8747,7 +8661,6 @@ aventessis aventar VMSI2S02
 aventeu aventar VMIP2P00
 aventeu aventar VMM02P0X
 aventeu aventar VMSP2P00
-aventi aventar VMIP1S0S
 aventi aventar VMM03S0Y
 aventi aventar VMSP1S0Y
 aventi aventar VMSP3S0Y
@@ -8836,7 +8749,6 @@ avolumessis avolumar VMSI2S02
 avolumeu avolumar VMIP2P00
 avolumeu avolumar VMM02P0X
 avolumeu avolumar VMSP2P00
-avolumi avolumar VMIP1S0S
 avolumi avolumar VMM03S0Y
 avolumi avolumar VMSP1S0Y
 avolumi avolumar VMSP3S0Y
@@ -9015,7 +8927,6 @@ axamfranessis axamfranar VMSI2S02
 axamfraneu axamfranar VMIP2P00
 axamfraneu axamfranar VMM02P0X
 axamfraneu axamfranar VMSP2P00
-axamfrani axamfranar VMIP1S0S
 axamfrani axamfranar VMM03S0Y
 axamfrani axamfranar VMSP1S0Y
 axamfrani axamfranar VMSP3S0Y
@@ -9118,7 +9029,6 @@ aüssessis aüssar VMSI2S02
 aüsseu aüssar VMIP2P00
 aüsseu aüssar VMM02P0X
 aüsseu aüssar VMSP2P00
-aüssi aüssar VMIP1S0S
 aüssi aüssar VMM03S0Y
 aüssi aüssar VMSP1S0Y
 aüssi aüssar VMSP3S0Y
@@ -9193,7 +9103,6 @@ bacinegessis bacinejar VMSI2S02
 bacinegeu bacinejar VMIP2P00
 bacinegeu bacinejar VMM02P0X
 bacinegeu bacinejar VMSP2P00
-bacinegi bacinejar VMIP1S0S
 bacinegi bacinejar VMM03S0Y
 bacinegi bacinejar VMSP1S0Y
 bacinegi bacinejar VMSP3S0Y
@@ -9359,7 +9268,6 @@ ballaruguessis ballarugar VMSI2S02
 ballarugueu ballarugar VMIP2P00
 ballarugueu ballarugar VMM02P0X
 ballarugueu ballarugar VMSP2P00
-ballarugui ballarugar VMIP1S0S
 ballarugui ballarugar VMM03S0Y
 ballarugui ballarugar VMSP1S0Y
 ballarugui ballarugar VMSP3S0Y
@@ -9413,7 +9321,6 @@ bambalegessis bambalejar VMSI2S02
 bambalegeu bambalejar VMIP2P00
 bambalegeu bambalejar VMM02P0X
 bambalegeu bambalejar VMSP2P00
-bambalegi bambalejar VMIP1S0S
 bambalegi bambalejar VMM03S0Y
 bambalegi bambalejar VMSP1S0Y
 bambalegi bambalejar VMSP3S0Y
@@ -9507,7 +9414,6 @@ banderillegessis banderillejar VMSI2S02
 banderillegeu banderillejar VMIP2P00
 banderillegeu banderillejar VMM02P0X
 banderillegeu banderillejar VMSP2P00
-banderillegi banderillejar VMIP1S0S
 banderillegi banderillejar VMM03S0Y
 banderillegi banderillejar VMSP1S0Y
 banderillegi banderillejar VMSP3S0Y
@@ -9766,7 +9672,6 @@ barganyessis barganyar VMSI2S02
 barganyeu barganyar VMIP2P00
 barganyeu barganyar VMM02P0X
 barganyeu barganyar VMSP2P00
-barganyi barganyar VMIP1S0S
 barganyi barganyar VMM03S0Y
 barganyi barganyar VMSP1S0Y
 barganyi barganyar VMSP3S0Y
@@ -10022,7 +9927,6 @@ besuquessis besucar VMSI2S02
 besuqueu besucar VMIP2P00
 besuqueu besucar VMM02P0X
 besuqueu besucar VMSP2P00
-besuqui besucar VMIP1S0S
 besuqui besucar VMM03S0Y
 besuqui besucar VMSP1S0Y
 besuqui besucar VMSP3S0Y
@@ -10121,7 +10025,6 @@ biloquessis bilocar VMSI2S02
 biloqueu bilocar VMIP2P00
 biloqueu bilocar VMM02P0X
 biloqueu bilocar VMSP2P00
-biloqui bilocar VMIP1S0S
 biloqui bilocar VMM03S0Y
 biloqui bilocar VMSP1S0Y
 biloqui bilocar VMSP3S0Y
@@ -10222,7 +10125,6 @@ bitlessis bitlar VMSI2S02
 bitleu bitlar VMIP2P00
 bitleu bitlar VMM02P0X
 bitleu bitlar VMSP2P00
-bitli bitlar VMIP1S0S
 bitli bitlar VMM03S0Y
 bitli bitlar VMSP1S0Y
 bitli bitlar VMSP3S0Y
@@ -10310,7 +10212,6 @@ bituminessis bituminar VMSI2S02
 bitumineu bituminar VMIP2P00
 bitumineu bituminar VMM02P0X
 bitumineu bituminar VMSP2P00
-bitumini bituminar VMIP1S0S
 bitumini bituminar VMM03S0Y
 bitumini bituminar VMSP1S0Y
 bitumini bituminar VMSP3S0Y
@@ -10596,7 +10497,6 @@ borressis borrar VMSI2S02
 borreu borrar VMIP2P00
 borreu borrar VMM02P0X
 borreu borrar VMSP2P00
-borri borrar VMIP1S0S
 borri borrar VMM03S0Y
 borri borrar VMSP1S0Y
 borri borrar VMSP3S0Y
@@ -10691,7 +10591,6 @@ bossessis bossar VMSI2S02
 bosseu bossar VMIP2P00
 bosseu bossar VMM02P0X
 bosseu bossar VMSP2P00
-bossi bossar VMIP1S0S
 bossi bossar VMM03S0Y
 bossi bossar VMSP1S0Y
 bossi bossar VMSP3S0Y
@@ -10778,7 +10677,6 @@ botafionessis botafionar VMSI2S02
 botafioneu botafionar VMIP2P00
 botafioneu botafionar VMM02P0X
 botafioneu botafionar VMSP2P00
-botafioni botafionar VMIP1S0S
 botafioni botafionar VMM03S0Y
 botafioni botafionar VMSP1S0Y
 botafioni botafionar VMSP3S0Y
@@ -10881,7 +10779,6 @@ botzessis botzar VMSI2S02
 botzeu botzar VMIP2P00
 botzeu botzar VMM02P0X
 botzeu botzar VMSP2P00
-botzi botzar VMIP1S0S
 botzi botzar VMM03S0Y
 botzi botzar VMSP1S0Y
 botzi botzar VMSP3S0Y
@@ -10983,7 +10880,6 @@ bramuguessis bramugar VMSI2S02
 bramugueu bramugar VMIP2P00
 bramugueu bramugar VMM02P0X
 bramugueu bramugar VMSP2P00
-bramugui bramugar VMIP1S0S
 bramugui bramugar VMM03S0Y
 bramugui bramugar VMSP1S0Y
 bramugui bramugar VMSP3S0Y
@@ -11211,7 +11107,6 @@ buclegessis buclejar VMSI2S02
 buclegeu buclejar VMIP2P00
 buclegeu buclejar VMM02P0X
 buclegeu buclejar VMSP2P00
-buclegi buclejar VMIP1S0S
 buclegi buclejar VMM03S0Y
 buclegi buclejar VMSP1S0Y
 buclegi buclejar VMSP3S0Y
@@ -11381,7 +11276,6 @@ butlessis butlar VMSI2S02
 butleu butlar VMIP2P00
 butleu butlar VMM02P0X
 butleu butlar VMSP2P00
-butli butlar VMIP1S0S
 butli butlar VMM03S0Y
 butli butlar VMSP1S0Y
 butli butlar VMSP3S0Y
@@ -11465,7 +11359,6 @@ cabriolegessis cabriolejar VMSI2S02
 cabriolegeu cabriolejar VMIP2P00
 cabriolegeu cabriolejar VMM02P0X
 cabriolegeu cabriolejar VMSP2P00
-cabriolegi cabriolejar VMIP1S0S
 cabriolegi cabriolejar VMM03S0Y
 cabriolegi cabriolejar VMSP1S0Y
 cabriolegi cabriolejar VMSP3S0Y
@@ -11654,7 +11547,6 @@ caixmessis caixmar VMSI2S02
 caixmeu caixmar VMIP2P00
 caixmeu caixmar VMM02P0X
 caixmeu caixmar VMSP2P00
-caixmi caixmar VMIP1S0S
 caixmi caixmar VMM03S0Y
 caixmi caixmar VMSP1S0Y
 caixmi caixmar VMSP3S0Y
@@ -11771,7 +11663,6 @@ calorifuguessis calorifugar VMSI2S02
 calorifugueu calorifugar VMIP2P00
 calorifugueu calorifugar VMM02P0X
 calorifugueu calorifugar VMSP2P00
-calorifugui calorifugar VMIP1S0S
 calorifugui calorifugar VMM03S0Y
 calorifugui calorifugar VMSP1S0Y
 calorifugui calorifugar VMSP3S0Y
@@ -11855,7 +11746,6 @@ caloritzessis caloritzar VMSI2S02
 caloritzeu caloritzar VMIP2P00
 caloritzeu caloritzar VMM02P0X
 caloritzeu caloritzar VMSP2P00
-caloritzi caloritzar VMIP1S0S
 caloritzi caloritzar VMM03S0Y
 caloritzi caloritzar VMSP1S0Y
 caloritzi caloritzar VMSP3S0Y
@@ -12004,7 +11894,6 @@ cangrenessis cangrenar VMSI2S02
 cangreneu cangrenar VMIP2P00
 cangreneu cangrenar VMM02P0X
 cangreneu cangrenar VMSP2P00
-cangreni cangrenar VMIP1S0S
 cangreni cangrenar VMM03S0Y
 cangreni cangrenar VMSP1S0Y
 cangreni cangrenar VMSP3S0Y
@@ -12103,7 +11992,6 @@ cantunyessis cantunyar VMSI2S02
 cantunyeu cantunyar VMIP2P00
 cantunyeu cantunyar VMM02P0X
 cantunyeu cantunyar VMSP2P00
-cantunyi cantunyar VMIP1S0S
 cantunyi cantunyar VMM03S0Y
 cantunyi cantunyar VMSP1S0Y
 cantunyi cantunyar VMSP3S0Y
@@ -12217,7 +12105,6 @@ capollessis capollar VMSI2S02
 capolleu capollar VMIP2P00
 capolleu capollar VMM02P0X
 capolleu capollar VMSP2P00
-capolli capollar VMIP1S0S
 capolli capollar VMM03S0Y
 capolli capollar VMSP1S0Y
 capolli capollar VMSP3S0Y
@@ -12305,7 +12192,6 @@ caporrutxessis caporrutxar VMSI2S02
 caporrutxeu caporrutxar VMIP2P00
 caporrutxeu caporrutxar VMM02P0X
 caporrutxeu caporrutxar VMSP2P00
-caporrutxi caporrutxar VMIP1S0S
 caporrutxi caporrutxar VMM03S0Y
 caporrutxi caporrutxar VMSP1S0Y
 caporrutxi caporrutxar VMSP3S0Y
@@ -12379,7 +12265,6 @@ caragolegessis caragolejar VMSI2S02
 caragolegeu caragolejar VMIP2P00
 caragolegeu caragolejar VMM02P0X
 caragolegeu caragolejar VMSP2P00
-caragolegi caragolejar VMIP1S0S
 caragolegi caragolejar VMM03S0Y
 caragolegi caragolejar VMSP1S0Y
 caragolegi caragolejar VMSP3S0Y
@@ -12508,7 +12393,6 @@ caricaturegessis caricaturejar VMSI2S02
 caricaturegeu caricaturejar VMIP2P00
 caricaturegeu caricaturejar VMM02P0X
 caricaturegeu caricaturejar VMSP2P00
-caricaturegi caricaturejar VMIP1S0S
 caricaturegi caricaturejar VMM03S0Y
 caricaturegi caricaturejar VMSP1S0Y
 caricaturegi caricaturejar VMSP3S0Y
@@ -12747,7 +12631,6 @@ cascarregessis cascarrejar VMSI2S02
 cascarregeu cascarrejar VMIP2P00
 cascarregeu cascarrejar VMM02P0X
 cascarregeu cascarrejar VMSP2P00
-cascarregi cascarrejar VMIP1S0S
 cascarregi cascarrejar VMM03S0Y
 cascarregi cascarrejar VMSP1S0Y
 cascarregi cascarrejar VMSP3S0Y
@@ -12828,7 +12711,6 @@ cascarressis cascarrar VMSI2S02
 cascarreu cascarrar VMIP2P00
 cascarreu cascarrar VMM02P0X
 cascarreu cascarrar VMSP2P00
-cascarri cascarrar VMIP1S0S
 cascarri cascarrar VMM03S0Y
 cascarri cascarrar VMSP1S0Y
 cascarri cascarrar VMSP3S0Y
@@ -12921,7 +12803,6 @@ casmessis casmar VMSI2S02
 casmeu casmar VMIP2P00
 casmeu casmar VMM02P0X
 casmeu casmar VMSP2P00
-casmi casmar VMIP1S0S
 casmi casmar VMM03S0Y
 casmi casmar VMSP1S0Y
 casmi casmar VMSP3S0Y
@@ -12982,7 +12863,6 @@ castanyetegessis castanyetejar VMSI2S02
 castanyetegeu castanyetejar VMIP2P00
 castanyetegeu castanyetejar VMM02P0X
 castanyetegeu castanyetejar VMSP2P00
-castanyetegi castanyetejar VMIP1S0S
 castanyetegi castanyetejar VMM03S0Y
 castanyetegi castanyetejar VMSP1S0Y
 castanyetegi castanyetejar VMSP3S0Y
@@ -13067,7 +12947,6 @@ castanyolegessis castanyolejar VMSI2S02
 castanyolegeu castanyolejar VMIP2P00
 castanyolegeu castanyolejar VMM02P0X
 castanyolegeu castanyolejar VMSP2P00
-castanyolegi castanyolejar VMIP1S0S
 castanyolegi castanyolejar VMM03S0Y
 castanyolegi castanyolejar VMSP1S0Y
 castanyolegi castanyolejar VMSP3S0Y
@@ -13235,7 +13114,6 @@ caustifiquessis caustificar VMSI2S02
 caustifiqueu caustificar VMIP2P00
 caustifiqueu caustificar VMM02P0X
 caustifiqueu caustificar VMSP2P00
-caustifiqui caustificar VMIP1S0S
 caustifiqui caustificar VMM03S0Y
 caustifiqui caustificar VMSP1S0Y
 caustifiqui caustificar VMSP3S0Y
@@ -13312,7 +13190,6 @@ cavutxessis cavutxar VMSI2S02
 cavutxeu cavutxar VMIP2P00
 cavutxeu cavutxar VMM02P0X
 cavutxeu cavutxar VMSP2P00
-cavutxi cavutxar VMIP1S0S
 cavutxi cavutxar VMM03S0Y
 cavutxi cavutxar VMSP1S0Y
 cavutxi cavutxar VMSP3S0Y
@@ -13639,7 +13516,6 @@ clauquillessis clauquillar VMSI2S02
 clauquilleu clauquillar VMIP2P00
 clauquilleu clauquillar VMM02P0X
 clauquilleu clauquillar VMSP2P00
-clauquilli clauquillar VMIP1S0S
 clauquilli clauquillar VMM03S0Y
 clauquilli clauquillar VMSP1S0Y
 clauquilli clauquillar VMSP3S0Y
@@ -13878,7 +13754,6 @@ cluquessis clucar VMSI2S02
 cluqueu clucar VMIP2P00
 cluqueu clucar VMM02P0X
 cluqueu clucar VMSP2P00
-cluqui clucar VMIP1S0S
 cluqui clucar VMM03S0Y
 cluqui clucar VMSP1S0Y
 cluqui clucar VMSP3S0Y
@@ -13979,7 +13854,6 @@ coentessis coentar VMSI2S02
 coenteu coentar VMIP2P00
 coenteu coentar VMM02P0X
 coenteu coentar VMSP2P00
-coenti coentar VMIP1S0S
 coenti coentar VMM03S0Y
 coenti coentar VMSP1S0Y
 coenti coentar VMSP3S0Y
@@ -14030,7 +13904,6 @@ coetegessis coetejar VMSI2S02
 coetegeu coetejar VMIP2P00
 coetegeu coetejar VMM02P0X
 coetegeu coetejar VMSP2P00
-coetegi coetejar VMIP1S0S
 coetegi coetejar VMM03S0Y
 coetegi coetejar VMSP1S0Y
 coetegi coetejar VMSP3S0Y
@@ -14169,7 +14042,6 @@ coloregessis colorejar VMSI2S02
 coloregeu colorejar VMIP2P00
 coloregeu colorejar VMM02P0X
 coloregeu colorejar VMSP2P00
-coloregi colorejar VMIP1S0S
 coloregi colorejar VMM03S0Y
 coloregi colorejar VMSP1S0Y
 coloregi colorejar VMSP3S0Y
@@ -14443,7 +14315,6 @@ congrellessis congrellar VMSI2S02
 congrelleu congrellar VMIP2P00
 congrelleu congrellar VMM02P0X
 congrelleu congrellar VMSP2P00
-congrelli congrellar VMIP1S0S
 congrelli congrellar VMM03S0Y
 congrelli congrellar VMSP1S0Y
 congrelli congrellar VMSP3S0Y
@@ -14628,7 +14499,6 @@ consonantitzessis consonantitzar VMSI2S02
 consonantitzeu consonantitzar VMIP2P00
 consonantitzeu consonantitzar VMM02P0X
 consonantitzeu consonantitzar VMSP2P00
-consonantitzi consonantitzar VMIP1S0S
 consonantitzi consonantitzar VMM03S0Y
 consonantitzi consonantitzar VMSP1S0Y
 consonantitzi consonantitzar VMSP3S0Y
@@ -14747,7 +14617,6 @@ contentessis contentar VMSI2S02
 contenteu contentar VMIP2P00
 contenteu contentar VMM02P0X
 contenteu contentar VMSP2P00
-contenti contentar VMIP1S0S
 contenti contentar VMM03S0Y
 contenti contentar VMSP1S0Y
 contenti contentar VMSP3S0Y
@@ -14804,7 +14673,6 @@ contrabalancegessis contrabalancejar VMSI2S02
 contrabalancegeu contrabalancejar VMIP2P00
 contrabalancegeu contrabalancejar VMM02P0X
 contrabalancegeu contrabalancejar VMSP2P00
-contrabalancegi contrabalancejar VMIP1S0S
 contrabalancegi contrabalancejar VMM03S0Y
 contrabalancegi contrabalancejar VMSP1S0Y
 contrabalancegi contrabalancejar VMSP3S0Y
@@ -14892,7 +14760,6 @@ contrabandegessis contrabandejar VMSI2S02
 contrabandegeu contrabandejar VMIP2P00
 contrabandegeu contrabandejar VMM02P0X
 contrabandegeu contrabandejar VMSP2P00
-contrabandegi contrabandejar VMIP1S0S
 contrabandegi contrabandejar VMM03S0Y
 contrabandegi contrabandejar VMSP1S0Y
 contrabandegi contrabandejar VMSP3S0Y
@@ -14977,7 +14844,6 @@ contrabracegessis contrabracejar VMSI2S02
 contrabracegeu contrabracejar VMIP2P00
 contrabracegeu contrabracejar VMM02P0X
 contrabracegeu contrabracejar VMSP2P00
-contrabracegi contrabracejar VMIP1S0S
 contrabracegi contrabracejar VMM03S0Y
 contrabracegi contrabracejar VMSP1S0Y
 contrabracegi contrabracejar VMSP3S0Y
@@ -15106,7 +14972,6 @@ contracordessis contracordar VMSI2S02
 contracordeu contracordar VMIP2P00
 contracordeu contracordar VMM02P0X
 contracordeu contracordar VMSP2P00
-contracordi contracordar VMIP1S0S
 contracordi contracordar VMM03S0Y
 contracordi contracordar VMSP1S0Y
 contracordi contracordar VMSP3S0Y
@@ -15232,7 +15097,6 @@ contraprovessis contraprovar VMSI2S02
 contraproveu contraprovar VMIP2P00
 contraproveu contraprovar VMM02P0X
 contraproveu contraprovar VMSP2P00
-contraprovi contraprovar VMIP1S0S
 contraprovi contraprovar VMM03S0Y
 contraprovi contraprovar VMSP1S0Y
 contraprovi contraprovar VMSP3S0Y
@@ -15333,7 +15197,6 @@ contraviressis contravirar VMSI2S02
 contravireu contravirar VMIP2P00
 contravireu contravirar VMM02P0X
 contravireu contravirar VMSP2P00
-contraviri contravirar VMIP1S0S
 contraviri contravirar VMM03S0Y
 contraviri contravirar VMSP1S0Y
 contraviri contravirar VMSP3S0Y
@@ -15422,7 +15285,6 @@ conturbessis conturbar VMSI2S02
 conturbeu conturbar VMIP2P00
 conturbeu conturbar VMM02P0X
 conturbeu conturbar VMSP2P00
-conturbi conturbar VMIP1S0S
 conturbi conturbar VMM03S0Y
 conturbi conturbar VMSP1S0Y
 conturbi conturbar VMSP3S0Y
@@ -15529,7 +15391,6 @@ coralegessis coralejar VMSI2S02
 coralegeu coralejar VMIP2P00
 coralegeu coralejar VMM02P0X
 coralegeu coralejar VMSP2P00
-coralegi coralejar VMIP1S0S
 coralegi coralejar VMM03S0Y
 coralegi coralejar VMSP1S0Y
 coralegi coralejar VMSP3S0Y
@@ -15692,7 +15553,6 @@ corlliguessis corlligar VMSI2S02
 corlligueu corlligar VMIP2P00
 corlligueu corlligar VMM02P0X
 corlligueu corlligar VMSP2P00
-corlligui corlligar VMIP1S0S
 corlligui corlligar VMM03S0Y
 corlligui corlligar VMSP1S0Y
 corlligui corlligar VMSP3S0Y
@@ -15793,7 +15653,6 @@ cornuguessis cornugar VMSI2S02
 cornugueu cornugar VMIP2P00
 cornugueu cornugar VMM02P0X
 cornugueu cornugar VMSP2P00
-cornugui cornugar VMIP1S0S
 cornugui cornugar VMM03S0Y
 cornugui cornugar VMSP1S0Y
 cornugui cornugar VMSP3S0Y
@@ -15977,7 +15836,6 @@ cossigollegessis cossigollejar VMSI2S02
 cossigollegeu cossigollejar VMIP2P00
 cossigollegeu cossigollejar VMM02P0X
 cossigollegeu cossigollejar VMSP2P00
-cossigollegi cossigollejar VMIP1S0S
 cossigollegi cossigollejar VMM03S0Y
 cossigollegi cossigollejar VMSP1S0Y
 cossigollegi cossigollejar VMSP3S0Y
@@ -16080,7 +15938,6 @@ costralegessis costralejar VMSI2S02
 costralegeu costralejar VMIP2P00
 costralegeu costralejar VMM02P0X
 costralegeu costralejar VMSP2P00
-costralegi costralejar VMIP1S0S
 costralegi costralejar VMM03S0Y
 costralegi costralejar VMSP1S0Y
 costralegi costralejar VMSP3S0Y
@@ -16192,7 +16049,6 @@ covardegessis covardejar VMSI2S02
 covardegeu covardejar VMIP2P00
 covardegeu covardejar VMM02P0X
 covardegeu covardejar VMSP2P00
-covardegi covardejar VMIP1S0S
 covardegi covardejar VMM03S0Y
 covardegi covardejar VMSP1S0Y
 covardegi covardejar VMSP3S0Y
@@ -16368,7 +16224,6 @@ craquessis cracar VMSI2S02
 craqueu cracar VMIP2P00
 craqueu cracar VMM02P0X
 craqueu cracar VMSP2P00
-craqui cracar VMIP1S0S
 craqui cracar VMM03S0Y
 craqui cracar VMSP1S0Y
 craqui cracar VMSP3S0Y
@@ -16506,7 +16361,6 @@ criodeshidratessis criodeshidratar VMSI2S02
 criodeshidrateu criodeshidratar VMIP2P00
 criodeshidrateu criodeshidratar VMM02P0X
 criodeshidrateu criodeshidratar VMSP2P00
-criodeshidrati criodeshidratar VMIP1S0S
 criodeshidrati criodeshidratar VMM03S0Y
 criodeshidrati criodeshidratar VMSP1S0Y
 criodeshidrati criodeshidratar VMSP3S0Y
@@ -16599,7 +16453,6 @@ crisalidessis crisalidar VMSI2S02
 crisalideu crisalidar VMIP2P00
 crisalideu crisalidar VMM02P0X
 crisalideu crisalidar VMSP2P00
-crisalidi crisalidar VMIP1S0S
 crisalidi crisalidar VMM03S0Y
 crisalidi crisalidar VMSP1S0Y
 crisalidi crisalidar VMSP3S0Y
@@ -16714,7 +16567,6 @@ cromitzessis cromitzar VMSI2S02
 cromitzeu cromitzar VMIP2P00
 cromitzeu cromitzar VMM02P0X
 cromitzeu cromitzar VMSP2P00
-cromitzi cromitzar VMIP1S0S
 cromitzi cromitzar VMM03S0Y
 cromitzi cromitzar VMSP1S0Y
 cromitzi cromitzar VMSP3S0Y
@@ -16822,7 +16674,6 @@ cromolitografiésseu cromolitografiar VMSI2P05
 cromolitografiéssim cromolitografiar VMSI1P02
 cromolitografiéssiu cromolitografiar VMSI2P02
 cromolitografií cromolitografiar VMIS1S00
-cromolitografiï cromolitografiar VMIP1S0S
 cromolitografiï cromolitografiar VMM03S0Y
 cromolitografiï cromolitografiar VMSP1S0Y
 cromolitografiï cromolitografiar VMSP3S0Y
@@ -16898,7 +16749,6 @@ crostessis crostar VMSI2S02
 crosteu crostar VMIP2P00
 crosteu crostar VMM02P0X
 crosteu crostar VMSP2P00
-crosti crostar VMIP1S0S
 crosti crostar VMM03S0Y
 crosti crostar VMSP1S0Y
 crosti crostar VMSP3S0Y
@@ -17005,7 +16855,6 @@ culleregessis cullerejar VMSI2S02
 culleregeu cullerejar VMIP2P00
 culleregeu cullerejar VMM02P0X
 culleregeu cullerejar VMSP2P00
-culleregi cullerejar VMIP1S0S
 culleregi cullerejar VMM03S0Y
 culleregi cullerejar VMSP1S0Y
 culleregi cullerejar VMSP3S0Y
@@ -17092,7 +16941,6 @@ culmenegessis culmenejar VMSI2S02
 culmenegeu culmenejar VMIP2P00
 culmenegeu culmenejar VMM02P0X
 culmenegeu culmenejar VMSP2P00
-culmenegi culmenejar VMIP1S0S
 culmenegi culmenejar VMM03S0Y
 culmenegi culmenejar VMSP1S0Y
 culmenegi culmenejar VMSP3S0Y
@@ -17244,7 +17092,6 @@ culturalitzessis culturalitzar VMSI2S02
 culturalitzeu culturalitzar VMIP2P00
 culturalitzeu culturalitzar VMM02P0X
 culturalitzeu culturalitzar VMSP2P00
-culturalitzi culturalitzar VMIP1S0S
 culturalitzi culturalitzar VMM03S0Y
 culturalitzi culturalitzar VMSP1S0Y
 culturalitzi culturalitzar VMSP3S0Y
@@ -17346,7 +17193,6 @@ cuscarressis cuscarrar VMSI2S02
 cuscarreu cuscarrar VMIP2P00
 cuscarreu cuscarrar VMM02P0X
 cuscarreu cuscarrar VMSP2P00
-cuscarri cuscarrar VMIP1S0S
 cuscarri cuscarrar VMM03S0Y
 cuscarri cuscarrar VMSP1S0Y
 cuscarri cuscarrar VMSP3S0Y
@@ -17439,7 +17285,6 @@ cutinitzessis cutinitzar VMSI2S02
 cutinitzeu cutinitzar VMIP2P00
 cutinitzeu cutinitzar VMM02P0X
 cutinitzeu cutinitzar VMSP2P00
-cutinitzi cutinitzar VMIP1S0S
 cutinitzi cutinitzar VMM03S0Y
 cutinitzi cutinitzar VMSP1S0Y
 cutinitzi cutinitzar VMSP3S0Y
@@ -17495,7 +17340,6 @@ cutxamandegessis cutxamandejar VMSI2S02
 cutxamandegeu cutxamandejar VMIP2P00
 cutxamandegeu cutxamandejar VMM02P0X
 cutxamandegeu cutxamandejar VMSP2P00
-cutxamandegi cutxamandejar VMIP1S0S
 cutxamandegi cutxamandejar VMM03S0Y
 cutxamandegi cutxamandejar VMSP1S0Y
 cutxamandegi cutxamandejar VMSP3S0Y
@@ -17676,7 +17520,6 @@ dactilografiésseu dactilografiar VMSI2P05
 dactilografiéssim dactilografiar VMSI1P02
 dactilografiéssiu dactilografiar VMSI2P02
 dactilografií dactilografiar VMIS1S00
-dactilografiï dactilografiar VMIP1S0S
 dactilografiï dactilografiar VMM03S0Y
 dactilografiï dactilografiar VMSP1S0Y
 dactilografiï dactilografiar VMSP3S0Y
@@ -18138,7 +17981,6 @@ deprequessis deprecar VMSI2S02
 deprequeu deprecar VMIP2P00
 deprequeu deprecar VMM02P0X
 deprequeu deprecar VMSP2P00
-deprequi deprecar VMIP1S0S
 deprequi deprecar VMM03S0Y
 deprequi deprecar VMSP1S0Y
 deprequi deprecar VMSP3S0Y
@@ -18346,7 +18188,6 @@ desabonyessis desabonyar VMSI2S02
 desabonyeu desabonyar VMIP2P00
 desabonyeu desabonyar VMM02P0X
 desabonyeu desabonyar VMSP2P00
-desabonyi desabonyar VMIP1S0S
 desabonyi desabonyar VMM03S0Y
 desabonyi desabonyar VMSP1S0Y
 desabonyi desabonyar VMSP3S0Y
@@ -18431,7 +18272,6 @@ desabotonessis desabotonar VMSI2S02
 desabotoneu desabotonar VMIP2P00
 desabotoneu desabotonar VMM02P0X
 desabotoneu desabotonar VMSP2P00
-desabotoni desabotonar VMIP1S0S
 desabotoni desabotonar VMM03S0Y
 desabotoni desabotonar VMSP1S0Y
 desabotoni desabotonar VMSP3S0Y
@@ -18522,7 +18362,6 @@ desacampessis desacampar VMSI2S02
 desacampeu desacampar VMIP2P00
 desacampeu desacampar VMM02P0X
 desacampeu desacampar VMSP2P00
-desacampi desacampar VMIP1S0S
 desacampi desacampar VMM03S0Y
 desacampi desacampar VMSP1S0Y
 desacampi desacampar VMSP3S0Y
@@ -18615,7 +18454,6 @@ desacomodessis desacomodar VMSI2S02
 desacomodeu desacomodar VMIP2P00
 desacomodeu desacomodar VMM02P0X
 desacomodeu desacomodar VMSP2P00
-desacomodi desacomodar VMIP1S0S
 desacomodi desacomodar VMM03S0Y
 desacomodi desacomodar VMSP1S0Y
 desacomodi desacomodar VMSP3S0Y
@@ -18702,7 +18540,6 @@ desacompanyessis desacompanyar VMSI2S02
 desacompanyeu desacompanyar VMIP2P00
 desacompanyeu desacompanyar VMM02P0X
 desacompanyeu desacompanyar VMSP2P00
-desacompanyi desacompanyar VMIP1S0S
 desacompanyi desacompanyar VMM03S0Y
 desacompanyi desacompanyar VMSP1S0Y
 desacompanyi desacompanyar VMSP3S0Y
@@ -18881,7 +18718,6 @@ desacumulessis desacumular VMSI2S02
 desacumuleu desacumular VMIP2P00
 desacumuleu desacumular VMM02P0X
 desacumuleu desacumular VMSP2P00
-desacumuli desacumular VMIP1S0S
 desacumuli desacumular VMM03S0Y
 desacumuli desacumular VMSP1S0Y
 desacumuli desacumular VMSP3S0Y
@@ -18971,7 +18807,6 @@ desafaenessis desafaenar VMSI2S02
 desafaeneu desafaenar VMIP2P00
 desafaeneu desafaenar VMM02P0X
 desafaeneu desafaenar VMSP2P00
-desafaeni desafaenar VMIP1S0S
 desafaeni desafaenar VMM03S0Y
 desafaeni desafaenar VMSP1S0Y
 desafaeni desafaenar VMSP3S0Y
@@ -19081,7 +18916,6 @@ desagraviésseu desagraviar VMSI2P05
 desagraviéssim desagraviar VMSI1P02
 desagraviéssiu desagraviar VMSI2P02
 desagravií desagraviar VMIS1S00
-desagraviï desagraviar VMIP1S0S
 desagraviï desagraviar VMM03S0Y
 desagraviï desagraviar VMSP1S0Y
 desagraviï desagraviar VMSP3S0Y
@@ -19201,7 +19035,6 @@ desairegessis desairejar VMSI2S02
 desairegeu desairejar VMIP2P00
 desairegeu desairejar VMM02P0X
 desairegeu desairejar VMSP2P00
-desairegi desairejar VMIP1S0S
 desairegi desairejar VMM03S0Y
 desairegi desairejar VMSP1S0Y
 desairegi desairejar VMSP3S0Y
@@ -19329,7 +19162,6 @@ desalabessis desalabar VMSI2S02
 desalabeu desalabar VMIP2P00
 desalabeu desalabar VMM02P0X
 desalabeu desalabar VMSP2P00
-desalabi desalabar VMIP1S0S
 desalabi desalabar VMM03S0Y
 desalabi desalabar VMSP1S0Y
 desalabi desalabar VMSP3S0Y
@@ -19411,7 +19243,6 @@ desalessis desalar VMSI2S02
 desaleu desalar VMIP2P00
 desaleu desalar VMM02P0X
 desaleu desalar VMSP2P00
-desali desalar VMIP1S0S
 desali desalar VMM03S0Y
 desali desalar VMSP1S0Y
 desali desalar VMSP3S0Y
@@ -19475,7 +19306,6 @@ desalmidonessis desalmidonar VMSI2S02
 desalmidoneu desalmidonar VMIP2P00
 desalmidoneu desalmidonar VMM02P0X
 desalmidoneu desalmidonar VMSP2P00
-desalmidoni desalmidonar VMIP1S0S
 desalmidoni desalmidonar VMM03S0Y
 desalmidoni desalmidonar VMSP1S0Y
 desalmidoni desalmidonar VMSP3S0Y
@@ -19563,7 +19393,6 @@ desalquitranessis desalquitranar VMSI2S02
 desalquitraneu desalquitranar VMIP2P00
 desalquitraneu desalquitranar VMM02P0X
 desalquitraneu desalquitranar VMSP2P00
-desalquitrani desalquitranar VMIP1S0S
 desalquitrani desalquitranar VMM03S0Y
 desalquitrani desalquitranar VMSP1S0Y
 desalquitrani desalquitranar VMSP3S0Y
@@ -19678,7 +19507,6 @@ desamoblessis desamoblar VMSI2S02
 desamobleu desamoblar VMIP2P00
 desamobleu desamoblar VMM02P0X
 desamobleu desamoblar VMSP2P00
-desamobli desamoblar VMIP1S0S
 desamobli desamoblar VMM03S0Y
 desamobli desamoblar VMSP1S0Y
 desamobli desamoblar VMSP3S0Y
@@ -19763,7 +19591,6 @@ desamodorressis desamodorrar VMSI2S02
 desamodorreu desamodorrar VMIP2P00
 desamodorreu desamodorrar VMM02P0X
 desamodorreu desamodorrar VMSP2P00
-desamodorri desamodorrar VMIP1S0S
 desamodorri desamodorrar VMM03S0Y
 desamodorri desamodorrar VMSP1S0Y
 desamodorri desamodorrar VMSP3S0Y
@@ -19848,7 +19675,6 @@ desamortallessis desamortallar VMSI2S02
 desamortalleu desamortallar VMIP2P00
 desamortalleu desamortallar VMM02P0X
 desamortalleu desamortallar VMSP2P00
-desamortalli desamortallar VMIP1S0S
 desamortalli desamortallar VMM03S0Y
 desamortalli desamortallar VMSP1S0Y
 desamortalli desamortallar VMSP3S0Y
@@ -19933,7 +19759,6 @@ desansessis desansar VMSI2S02
 desanseu desansar VMIP2P00
 desanseu desansar VMM02P0X
 desanseu desansar VMSP2P00
-desansi desansar VMIP1S0S
 desansi desansar VMM03S0Y
 desansi desansar VMSP1S0Y
 desansi desansar VMSP3S0Y
@@ -20032,7 +19857,6 @@ desaparquessis desaparcar VMSI2S02
 desaparqueu desaparcar VMIP2P00
 desaparqueu desaparcar VMM02P0X
 desaparqueu desaparcar VMSP2P00
-desaparqui desaparcar VMIP1S0S
 desaparqui desaparcar VMM03S0Y
 desaparqui desaparcar VMSP1S0Y
 desaparqui desaparcar VMSP3S0Y
@@ -20103,7 +19927,6 @@ desapilessis desapilar VMSI2S02
 desapileu desapilar VMIP2P00
 desapileu desapilar VMM02P0X
 desapileu desapilar VMSP2P00
-desapili desapilar VMIP1S0S
 desapili desapilar VMM03S0Y
 desapili desapilar VMSP1S0Y
 desapili desapilar VMSP3S0Y
@@ -20188,7 +20011,6 @@ desaquarteressis desaquarterar VMSI2S02
 desaquartereu desaquarterar VMIP2P00
 desaquartereu desaquarterar VMM02P0X
 desaquartereu desaquarterar VMSP2P00
-desaquarteri desaquarterar VMIP1S0S
 desaquarteri desaquarterar VMM03S0Y
 desaquarteri desaquarterar VMSP1S0Y
 desaquarteri desaquarterar VMSP3S0Y
@@ -20277,7 +20099,6 @@ desarraïlessis desarraïlar VMSI2S02
 desarraïleu desarraïlar VMIP2P00
 desarraïleu desarraïlar VMM02P0X
 desarraïleu desarraïlar VMSP2P00
-desarraïli desarraïlar VMIP1S0S
 desarraïli desarraïlar VMM03S0Y
 desarraïli desarraïlar VMSP1S0Y
 desarraïli desarraïlar VMSP3S0Y
@@ -20370,7 +20191,6 @@ desasfaltessis desasfaltar VMSI2S02
 desasfalteu desasfaltar VMIP2P00
 desasfalteu desasfaltar VMM02P0X
 desasfalteu desasfaltar VMSP2P00
-desasfalti desasfaltar VMIP1S0S
 desasfalti desasfaltar VMM03S0Y
 desasfalti desasfaltar VMSP1S0Y
 desasfalti desasfaltar VMSP3S0Y
@@ -20455,7 +20275,6 @@ desasseguressis desassegurar VMSI2S02
 desassegureu desassegurar VMIP2P00
 desassegureu desassegurar VMM02P0X
 desassegureu desassegurar VMSP2P00
-desasseguri desassegurar VMIP1S0S
 desasseguri desassegurar VMM03S0Y
 desasseguri desassegurar VMSP1S0Y
 desasseguri desassegurar VMSP3S0Y
@@ -20542,7 +20361,6 @@ desatesoressis desatesorar VMSI2S02
 desatesoreu desatesorar VMIP2P00
 desatesoreu desatesorar VMM02P0X
 desatesoreu desatesorar VMSP2P00
-desatesori desatesorar VMIP1S0S
 desatesori desatesorar VMM03S0Y
 desatesori desatesorar VMSP1S0Y
 desatesori desatesorar VMSP3S0Y
@@ -20627,7 +20445,6 @@ desatresoressis desatresorar VMSI2S02
 desatresoreu desatresorar VMIP2P00
 desatresoreu desatresorar VMM02P0X
 desatresoreu desatresorar VMSP2P00
-desatresori desatresorar VMIP1S0S
 desatresori desatresorar VMM03S0Y
 desatresori desatresorar VMSP1S0Y
 desatresori desatresorar VMSP3S0Y
@@ -20674,7 +20491,6 @@ desavancessis desavançar VMSI2S02
 desavanceu desavançar VMIP2P00
 desavanceu desavançar VMM02P0X
 desavanceu desavançar VMSP2P00
-desavanci desavançar VMIP1S0S
 desavanci desavançar VMM03S0Y
 desavanci desavançar VMSP1S0Y
 desavanci desavançar VMSP3S0Y
@@ -20796,7 +20612,6 @@ desavisessis desavisar VMSI2S02
 desaviseu desavisar VMIP2P00
 desaviseu desavisar VMM02P0X
 desaviseu desavisar VMSP2P00
-desavisi desavisar VMIP1S0S
 desavisi desavisar VMM03S0Y
 desavisi desavisar VMSP1S0Y
 desavisi desavisar VMSP3S0Y
@@ -20893,7 +20708,6 @@ desbellussessis desbellussar VMSI2S02
 desbellusseu desbellussar VMIP2P00
 desbellusseu desbellussar VMM02P0X
 desbellusseu desbellussar VMSP2P00
-desbellussi desbellussar VMIP1S0S
 desbellussi desbellussar VMM03S0Y
 desbellussi desbellussar VMSP1S0Y
 desbellussi desbellussar VMSP3S0Y
@@ -20943,7 +20757,6 @@ desbordegessis desbordejar VMSI2S02
 desbordegeu desbordejar VMIP2P00
 desbordegeu desbordejar VMM02P0X
 desbordegeu desbordejar VMSP2P00
-desbordegi desbordejar VMIP1S0S
 desbordegi desbordejar VMM03S0Y
 desbordegi desbordejar VMSP1S0Y
 desbordegi desbordejar VMSP3S0Y
@@ -21065,7 +20878,6 @@ desbordissessis desbordissar VMSI2S02
 desbordisseu desbordissar VMIP2P00
 desbordisseu desbordissar VMM02P0X
 desbordisseu desbordissar VMSP2P00
-desbordissi desbordissar VMIP1S0S
 desbordissi desbordissar VMM03S0Y
 desbordissi desbordissar VMSP1S0Y
 desbordissi desbordissar VMSP3S0Y
@@ -21151,7 +20963,6 @@ desborrellessis desborrellar VMSI2S02
 desborrelleu desborrellar VMIP2P00
 desborrelleu desborrellar VMM02P0X
 desborrelleu desborrellar VMSP2P00
-desborrelli desborrellar VMIP1S0S
 desborrelli desborrellar VMM03S0Y
 desborrelli desborrellar VMSP1S0Y
 desborrelli desborrellar VMSP3S0Y
@@ -21244,7 +21055,6 @@ desbrafessis desbrafar VMSI2S02
 desbrafeu desbrafar VMIP2P00
 desbrafeu desbrafar VMM02P0X
 desbrafeu desbrafar VMSP2P00
-desbrafi desbrafar VMIP1S0S
 desbrafi desbrafar VMM03S0Y
 desbrafi desbrafar VMSP1S0Y
 desbrafi desbrafar VMSP3S0Y
@@ -21330,7 +21140,6 @@ desbraguessis desbragar VMSI2S02
 desbragueu desbragar VMIP2P00
 desbragueu desbragar VMM02P0X
 desbragueu desbragar VMSP2P00
-desbragui desbragar VMIP1S0S
 desbragui desbragar VMM03S0Y
 desbragui desbragar VMSP1S0Y
 desbragui desbragar VMSP3S0Y
@@ -21422,7 +21231,6 @@ desbromessis desbromar VMSI2S02
 desbromeu desbromar VMIP2P00
 desbromeu desbromar VMM02P0X
 desbromeu desbromar VMSP2P00
-desbromi desbromar VMIP1S0S
 desbromi desbromar VMM03S0Y
 desbromi desbromar VMSP1S0Y
 desbromi desbromar VMSP3S0Y
@@ -21530,7 +21338,6 @@ desburguessis desburgar VMSI2S02
 desburgueu desburgar VMIP2P00
 desburgueu desburgar VMM02P0X
 desburgueu desburgar VMSP2P00
-desburgui desburgar VMIP1S0S
 desburgui desburgar VMM03S0Y
 desburgui desburgar VMSP1S0Y
 desburgui desburgar VMSP3S0Y
@@ -21620,7 +21427,6 @@ desbutzessis desbutzar VMSI2S02
 desbutzeu desbutzar VMIP2P00
 desbutzeu desbutzar VMM02P0X
 desbutzeu desbutzar VMSP2P00
-desbutzi desbutzar VMIP1S0S
 desbutzi desbutzar VMM03S0Y
 desbutzi desbutzar VMSP1S0Y
 desbutzi desbutzar VMSP3S0Y
@@ -21753,7 +21559,6 @@ descabellonessis descabellonar VMSI2S02
 descabelloneu descabellonar VMIP2P00
 descabelloneu descabellonar VMM02P0X
 descabelloneu descabellonar VMSP2P00
-descabelloni descabellonar VMIP1S0S
 descabelloni descabellonar VMM03S0Y
 descabelloni descabellonar VMSP1S0Y
 descabelloni descabellonar VMSP3S0Y
@@ -21850,7 +21655,6 @@ descabestressis descabestrar VMSI2S02
 descabestreu descabestrar VMIP2P00
 descabestreu descabestrar VMM02P0X
 descabestreu descabestrar VMSP2P00
-descabestri descabestrar VMIP1S0S
 descabestri descabestrar VMM03S0Y
 descabestri descabestrar VMSP1S0Y
 descabestri descabestrar VMSP3S0Y
@@ -21881,7 +21685,6 @@ descabestrí descabestrar VMIS1S00
 descabeu descabar VMIP2P00
 descabeu descabar VMM02P0X
 descabeu descabar VMSP2P00
-descabi descabar VMIP1S0S
 descabi descabar VMM03S0Y
 descabi descabar VMSP1S0Y
 descabi descabar VMSP3S0Y
@@ -21966,7 +21769,6 @@ descadarsessis descadarsar VMSI2S02
 descadarseu descadarsar VMIP2P00
 descadarseu descadarsar VMM02P0X
 descadarseu descadarsar VMSP2P00
-descadarsi descadarsar VMIP1S0S
 descadarsi descadarsar VMM03S0Y
 descadarsi descadarsar VMSP1S0Y
 descadarsi descadarsar VMSP3S0Y
@@ -22051,7 +21853,6 @@ descalabressis descalabrar VMSI2S02
 descalabreu descalabrar VMIP2P00
 descalabreu descalabrar VMM02P0X
 descalabreu descalabrar VMSP2P00
-descalabri descalabrar VMIP1S0S
 descalabri descalabrar VMM03S0Y
 descalabri descalabrar VMSP1S0Y
 descalabri descalabrar VMSP3S0Y
@@ -22136,7 +21937,6 @@ descamessis descamar VMSI2S02
 descameu descamar VMIP2P00
 descameu descamar VMM02P0X
 descameu descamar VMSP2P00
-descami descamar VMIP1S0S
 descami descamar VMM03S0Y
 descami descamar VMSP1S0Y
 descami descamar VMSP3S0Y
@@ -22201,7 +22001,6 @@ descamotxessis descamotxar VMSI2S02
 descamotxeu descamotxar VMIP2P00
 descamotxeu descamotxar VMM02P0X
 descamotxeu descamotxar VMSP2P00
-descamotxi descamotxar VMIP1S0S
 descamotxi descamotxar VMM03S0Y
 descamotxi descamotxar VMSP1S0Y
 descamotxi descamotxar VMSP3S0Y
@@ -22309,7 +22108,6 @@ descapellessis descapellar VMSI2S02
 descapelleu descapellar VMIP2P00
 descapelleu descapellar VMM02P0X
 descapelleu descapellar VMSP2P00
-descapelli descapellar VMIP1S0S
 descapelli descapellar VMM03S0Y
 descapelli descapellar VMSP1S0Y
 descapelli descapellar VMSP3S0Y
@@ -22394,7 +22192,6 @@ descaputxessis descaputxar VMSI2S02
 descaputxeu descaputxar VMIP2P00
 descaputxeu descaputxar VMM02P0X
 descaputxeu descaputxar VMSP2P00
-descaputxi descaputxar VMIP1S0S
 descaputxi descaputxar VMM03S0Y
 descaputxi descaputxar VMSP1S0Y
 descaputxi descaputxar VMSP3S0Y
@@ -22479,7 +22276,6 @@ descaracteritzessis descaracteritzar VMSI2S02
 descaracteritzeu descaracteritzar VMIP2P00
 descaracteritzeu descaracteritzar VMM02P0X
 descaracteritzeu descaracteritzar VMSP2P00
-descaracteritzi descaracteritzar VMIP1S0S
 descaracteritzi descaracteritzar VMM03S0Y
 descaracteritzi descaracteritzar VMSP1S0Y
 descaracteritzi descaracteritzar VMSP3S0Y
@@ -22566,7 +22362,6 @@ descaramullessis descaramullar VMSI2S02
 descaramulleu descaramullar VMIP2P00
 descaramulleu descaramullar VMM02P0X
 descaramulleu descaramullar VMSP2P00
-descaramulli descaramullar VMIP1S0S
 descaramulli descaramullar VMM03S0Y
 descaramulli descaramullar VMSP1S0Y
 descaramulli descaramullar VMSP3S0Y
@@ -22661,7 +22456,6 @@ descatolitzessis descatolitzar VMSI2S02
 descatolitzeu descatolitzar VMIP2P00
 descatolitzeu descatolitzar VMM02P0X
 descatolitzeu descatolitzar VMSP2P00
-descatolitzi descatolitzar VMIP1S0S
 descatolitzi descatolitzar VMM03S0Y
 descatolitzi descatolitzar VMSP1S0Y
 descatolitzi descatolitzar VMSP3S0Y
@@ -22760,7 +22554,6 @@ desclafollessis desclafollar VMSI2S02
 desclafolleu desclafollar VMIP2P00
 desclafolleu desclafollar VMM02P0X
 desclafolleu desclafollar VMSP2P00
-desclafolli desclafollar VMIP1S0S
 desclafolli desclafollar VMM03S0Y
 desclafolli desclafollar VMSP1S0Y
 desclafolli desclafollar VMSP3S0Y
@@ -22892,7 +22685,6 @@ descontagiésseu descontagiar VMSI2P05
 descontagiéssim descontagiar VMSI1P02
 descontagiéssiu descontagiar VMSI2P02
 descontagií descontagiar VMIS1S00
-descontagiï descontagiar VMIP1S0S
 descontagiï descontagiar VMM03S0Y
 descontagiï descontagiar VMSP1S0Y
 descontagiï descontagiar VMSP3S0Y
@@ -22956,7 +22748,6 @@ descopessis descopar VMSI2S02
 descopeu descopar VMIP2P00
 descopeu descopar VMM02P0X
 descopeu descopar VMSP2P00
-descopi descopar VMIP1S0S
 descopi descopar VMM03S0Y
 descopi descopar VMSP1S0Y
 descopi descopar VMSP3S0Y
@@ -23021,7 +22812,6 @@ descopronessis descopronar VMSI2S02
 descoproneu descopronar VMIP2P00
 descoproneu descopronar VMM02P0X
 descoproneu descopronar VMSP2P00
-descoproni descopronar VMIP1S0S
 descoproni descopronar VMM03S0Y
 descoproni descopronar VMSP1S0Y
 descoproni descopronar VMSP3S0Y
@@ -23186,7 +22976,6 @@ descorfollessis descorfollar VMSI2S02
 descorfolleu descorfollar VMIP2P00
 descorfolleu descorfollar VMM02P0X
 descorfolleu descorfollar VMSP2P00
-descorfolli descorfollar VMIP1S0S
 descorfolli descorfollar VMM03S0Y
 descorfolli descorfollar VMSP1S0Y
 descorfolli descorfollar VMSP3S0Y
@@ -23233,7 +23022,6 @@ descorquessis descorcar VMSI2S02
 descorqueu descorcar VMIP2P00
 descorqueu descorcar VMM02P0X
 descorqueu descorcar VMSP2P00
-descorqui descorcar VMIP1S0S
 descorqui descorcar VMM03S0Y
 descorqui descorcar VMSP1S0Y
 descorqui descorcar VMSP3S0Y
@@ -23320,7 +23108,6 @@ descosquessis descoscar VMSI2S02
 descosqueu descoscar VMIP2P00
 descosqueu descoscar VMM02P0X
 descosqueu descoscar VMSP2P00
-descosqui descoscar VMIP1S0S
 descosqui descoscar VMM03S0Y
 descosqui descoscar VMSP1S0Y
 descosqui descoscar VMSP3S0Y
@@ -23395,7 +23182,6 @@ descromessis descromar VMSI2S02
 descromeu descromar VMIP2P00
 descromeu descromar VMM02P0X
 descromeu descromar VMSP2P00
-descromi descromar VMIP1S0S
 descromi descromar VMM03S0Y
 descromi descromar VMSP1S0Y
 descromi descromar VMSP3S0Y
@@ -23484,7 +23270,6 @@ descugulessis descugular VMSI2S02
 descuguleu descugular VMIP2P00
 descuguleu descugular VMM02P0X
 descuguleu descugular VMSP2P00
-descuguli descugular VMIP1S0S
 descuguli descugular VMM03S0Y
 descuguli descugular VMSP1S0Y
 descuguli descugular VMSP3S0Y
@@ -23569,7 +23354,6 @@ descuixessis descuixar VMSI2S02
 descuixeu descuixar VMIP2P00
 descuixeu descuixar VMM02P0X
 descuixeu descuixar VMSP2P00
-descuixi descuixar VMIP1S0S
 descuixi descuixar VMM03S0Y
 descuixi descuixar VMSP1S0Y
 descuixi descuixar VMSP3S0Y
@@ -23665,7 +23449,6 @@ desdoguessis desdogar VMSI2S02
 desdogueu desdogar VMIP2P00
 desdogueu desdogar VMM02P0X
 desdogueu desdogar VMSP2P00
-desdogui desdogar VMIP1S0S
 desdogui desdogar VMM03S0Y
 desdogui desdogar VMSP1S0Y
 desdogui desdogar VMSP3S0Y
@@ -23764,7 +23547,6 @@ desembainessis desembainar VMSI2S02
 desembaineu desembainar VMIP2P00
 desembaineu desembainar VMM02P0X
 desembaineu desembainar VMSP2P00
-desembaini desembainar VMIP1S0S
 desembaini desembainar VMM03S0Y
 desembaini desembainar VMSP1S0Y
 desembaini desembainar VMSP3S0Y
@@ -23849,7 +23631,6 @@ desembambollessis desembambollar VMSI2S02
 desembambolleu desembambollar VMIP2P00
 desembambolleu desembambollar VMM02P0X
 desembambolleu desembambollar VMSP2P00
-desembambolli desembambollar VMIP1S0S
 desembambolli desembambollar VMM03S0Y
 desembambolli desembambollar VMSP1S0Y
 desembambolli desembambollar VMSP3S0Y
@@ -23937,7 +23718,6 @@ desembornessis desembornar VMSI2S02
 desemborneu desembornar VMIP2P00
 desemborneu desembornar VMM02P0X
 desemborneu desembornar VMSP2P00
-desemborni desembornar VMIP1S0S
 desemborni desembornar VMM03S0Y
 desemborni desembornar VMSP1S0Y
 desemborni desembornar VMSP3S0Y
@@ -24024,7 +23804,6 @@ desemmasqueressis desemmasquerar VMSI2S02
 desemmasquereu desemmasquerar VMIP2P00
 desemmasquereu desemmasquerar VMM02P0X
 desemmasquereu desemmasquerar VMSP2P00
-desemmasqueri desemmasquerar VMIP1S0S
 desemmasqueri desemmasquerar VMM03S0Y
 desemmasqueri desemmasquerar VMSP1S0Y
 desemmasqueri desemmasquerar VMSP3S0Y
@@ -24109,7 +23888,6 @@ desemmetxessis desemmetxar VMSI2S02
 desemmetxeu desemmetxar VMIP2P00
 desemmetxeu desemmetxar VMM02P0X
 desemmetxeu desemmetxar VMSP2P00
-desemmetxi desemmetxar VMIP1S0S
 desemmetxi desemmetxar VMM03S0Y
 desemmetxi desemmetxar VMSP1S0Y
 desemmetxi desemmetxar VMSP3S0Y
@@ -24193,7 +23971,6 @@ desempastissessis desempastissar VMSI2S02
 desempastisseu desempastissar VMIP2P00
 desempastisseu desempastissar VMM02P0X
 desempastisseu desempastissar VMSP2P00
-desempastissi desempastissar VMIP1S0S
 desempastissi desempastissar VMM03S0Y
 desempastissi desempastissar VMSP1S0Y
 desempastissi desempastissar VMSP3S0Y
@@ -24278,7 +24055,6 @@ desempastressis desempastrar VMSI2S02
 desempastreu desempastrar VMIP2P00
 desempastreu desempastrar VMM02P0X
 desempastreu desempastrar VMSP2P00
-desempastri desempastrar VMIP1S0S
 desempastri desempastrar VMM03S0Y
 desempastri desempastrar VMSP1S0Y
 desempastri desempastrar VMSP3S0Y
@@ -24364,7 +24140,6 @@ desempavonessis desempavonar VMSI2S02
 desempavoneu desempavonar VMIP2P00
 desempavoneu desempavonar VMM02P0X
 desempavoneu desempavonar VMSP2P00
-desempavoni desempavonar VMIP1S0S
 desempavoni desempavonar VMM03S0Y
 desempavoni desempavonar VMSP1S0Y
 desempavoni desempavonar VMSP3S0Y
@@ -24544,7 +24319,6 @@ desempeleguessis desempelegar VMSI2S02
 desempelegueu desempelegar VMIP2P00
 desempelegueu desempelegar VMM02P0X
 desempelegueu desempelegar VMSP2P00
-desempelegui desempelegar VMIP1S0S
 desempelegui desempelegar VMM03S0Y
 desempelegui desempelegar VMSP1S0Y
 desempelegui desempelegar VMSP3S0Y
@@ -24629,7 +24403,6 @@ desempelloguessis desempellogar VMSI2S02
 desempellogueu desempellogar VMIP2P00
 desempellogueu desempellogar VMM02P0X
 desempellogueu desempellogar VMSP2P00
-desempellogui desempellogar VMIP1S0S
 desempellogui desempellogar VMM03S0Y
 desempellogui desempellogar VMSP1S0Y
 desempellogui desempellogar VMSP3S0Y
@@ -24714,7 +24487,6 @@ desempindonguessis desempindongar VMSI2S02
 desempindongueu desempindongar VMIP2P00
 desempindongueu desempindongar VMM02P0X
 desempindongueu desempindongar VMSP2P00
-desempindongui desempindongar VMIP1S0S
 desempindongui desempindongar VMM03S0Y
 desempindongui desempindongar VMSP1S0Y
 desempindongui desempindongar VMSP3S0Y
@@ -24802,7 +24574,6 @@ desempotressis desempotrar VMSI2S02
 desempotreu desempotrar VMIP2P00
 desempotreu desempotrar VMM02P0X
 desempotreu desempotrar VMSP2P00
-desempotri desempotrar VMIP1S0S
 desempotri desempotrar VMM03S0Y
 desempotri desempotrar VMSP1S0Y
 desempotri desempotrar VMSP3S0Y
@@ -24891,7 +24662,6 @@ desencalessis desencalar VMSI2S02
 desencaleu desencalar VMIP2P00
 desencaleu desencalar VMM02P0X
 desencaleu desencalar VMSP2P00
-desencali desencalar VMIP1S0S
 desencali desencalar VMM03S0Y
 desencali desencalar VMSP1S0Y
 desencali desencalar VMSP3S0Y
@@ -24976,7 +24746,6 @@ desencapellessis desencapellar VMSI2S02
 desencapelleu desencapellar VMIP2P00
 desencapelleu desencapellar VMM02P0X
 desencapelleu desencapellar VMSP2P00
-desencapelli desencapellar VMIP1S0S
 desencapelli desencapellar VMM03S0Y
 desencapelli desencapellar VMSP1S0Y
 desencapelli desencapellar VMSP3S0Y
@@ -25061,7 +24830,6 @@ desencastellessis desencastellar VMSI2S02
 desencastelleu desencastellar VMIP2P00
 desencastelleu desencastellar VMM02P0X
 desencastelleu desencastellar VMSP2P00
-desencastelli desencastellar VMIP1S0S
 desencastelli desencastellar VMM03S0Y
 desencastelli desencastellar VMSP1S0Y
 desencastelli desencastellar VMSP3S0Y
@@ -25146,7 +24914,6 @@ desenceressis desencerar VMSI2S02
 desencereu desencerar VMIP2P00
 desencereu desencerar VMM02P0X
 desencereu desencerar VMSP2P00
-desenceri desencerar VMIP1S0S
 desenceri desencerar VMM03S0Y
 desenceri desencerar VMSP1S0Y
 desenceri desencerar VMSP3S0Y
@@ -25231,7 +24998,6 @@ desenclavillessis desenclavillar VMSI2S02
 desenclavilleu desenclavillar VMIP2P00
 desenclavilleu desenclavillar VMM02P0X
 desenclavilleu desenclavillar VMSP2P00
-desenclavilli desenclavillar VMIP1S0S
 desenclavilli desenclavillar VMM03S0Y
 desenclavilli desenclavillar VMSP1S0Y
 desenclavilli desenclavillar VMSP3S0Y
@@ -25316,7 +25082,6 @@ desenclotxessis desenclotxar VMSI2S02
 desenclotxeu desenclotxar VMIP2P00
 desenclotxeu desenclotxar VMM02P0X
 desenclotxeu desenclotxar VMSP2P00
-desenclotxi desenclotxar VMIP1S0S
 desenclotxi desenclotxar VMM03S0Y
 desenclotxi desenclotxar VMSP1S0Y
 desenclotxi desenclotxar VMSP3S0Y
@@ -25401,7 +25166,6 @@ desencollessis desencollar VMSI2S02
 desencolleu desencollar VMIP2P00
 desencolleu desencollar VMM02P0X
 desencolleu desencollar VMSP2P00
-desencolli desencollar VMIP1S0S
 desencolli desencollar VMM03S0Y
 desencolli desencollar VMSP1S0Y
 desencolli desencollar VMSP3S0Y
@@ -25488,7 +25252,6 @@ desendenyessis desendenyar VMSI2S02
 desendenyeu desendenyar VMIP2P00
 desendenyeu desendenyar VMM02P0X
 desendenyeu desendenyar VMSP2P00
-desendenyi desendenyar VMIP1S0S
 desendenyi desendenyar VMM03S0Y
 desendenyi desendenyar VMSP1S0Y
 desendenyi desendenyar VMSP3S0Y
@@ -25573,7 +25336,6 @@ desendiablessis desendiablar VMSI2S02
 desendiableu desendiablar VMIP2P00
 desendiableu desendiablar VMM02P0X
 desendiableu desendiablar VMSP2P00
-desendiabli desendiablar VMIP1S0S
 desendiabli desendiablar VMM03S0Y
 desendiabli desendiablar VMSP1S0Y
 desendiabli desendiablar VMSP3S0Y
@@ -25748,7 +25510,6 @@ desenfaixessis desenfaixar VMSI2S02
 desenfaixeu desenfaixar VMIP2P00
 desenfaixeu desenfaixar VMM02P0X
 desenfaixeu desenfaixar VMSP2P00
-desenfaixi desenfaixar VMIP1S0S
 desenfaixi desenfaixar VMM03S0Y
 desenfaixi desenfaixar VMSP1S0Y
 desenfaixi desenfaixar VMSP3S0Y
@@ -25841,7 +25602,6 @@ desengarrofessis desengarrofar VMSI2S02
 desengarrofeu desengarrofar VMIP2P00
 desengarrofeu desengarrofar VMM02P0X
 desengarrofeu desengarrofar VMSP2P00
-desengarrofi desengarrofar VMIP1S0S
 desengarrofi desengarrofar VMM03S0Y
 desengarrofi desengarrofar VMSP1S0Y
 desengarrofi desengarrofar VMSP3S0Y
@@ -25926,7 +25686,6 @@ desengolessis desengolar VMSI2S02
 desengoleu desengolar VMIP2P00
 desengoleu desengolar VMM02P0X
 desengoleu desengolar VMSP2P00
-desengoli desengolar VMIP1S0S
 desengoli desengolar VMM03S0Y
 desengoli desengolar VMSP1S0Y
 desengoli desengolar VMSP3S0Y
@@ -26101,7 +25860,6 @@ desengramponessis desengramponar VMSI2S02
 desengramponeu desengramponar VMIP2P00
 desengramponeu desengramponar VMM02P0X
 desengramponeu desengramponar VMSP2P00
-desengramponi desengramponar VMIP1S0S
 desengramponi desengramponar VMM03S0Y
 desengramponi desengramponar VMSP1S0Y
 desengramponi desengramponar VMSP3S0Y
@@ -26286,7 +26044,6 @@ desenredressis desenredrar VMSI2S02
 desenredreu desenredrar VMIP2P00
 desenredreu desenredrar VMM02P0X
 desenredreu desenredrar VMSP2P00
-desenredri desenredrar VMIP1S0S
 desenredri desenredrar VMM03S0Y
 desenredri desenredrar VMSP1S0Y
 desenredri desenredrar VMSP3S0Y
@@ -26482,7 +26239,6 @@ desensariésseu desensariar VMSI2P05
 desensariéssim desensariar VMSI1P02
 desensariéssiu desensariar VMSI2P02
 desensarií desensariar VMIS1S00
-desensariï desensariar VMIP1S0S
 desensariï desensariar VMM03S0Y
 desensariï desensariar VMSP1S0Y
 desensariï desensariar VMSP3S0Y
@@ -26546,7 +26302,6 @@ desensinistressis desensinistrar VMSI2S02
 desensinistreu desensinistrar VMIP2P00
 desensinistreu desensinistrar VMM02P0X
 desensinistreu desensinistrar VMSP2P00
-desensinistri desensinistrar VMIP1S0S
 desensinistri desensinistrar VMM03S0Y
 desensinistri desensinistrar VMSP1S0Y
 desensinistri desensinistrar VMSP3S0Y
@@ -26631,7 +26386,6 @@ desensolessis desensolar VMSI2S02
 desensoleu desensolar VMIP2P00
 desensoleu desensolar VMM02P0X
 desensoleu desensolar VMSP2P00
-desensoli desensolar VMIP1S0S
 desensoli desensolar VMM03S0Y
 desensoli desensolar VMSP1S0Y
 desensoli desensolar VMSP3S0Y
@@ -26716,7 +26470,6 @@ desentabuixessis desentabuixar VMSI2S02
 desentabuixeu desentabuixar VMIP2P00
 desentabuixeu desentabuixar VMM02P0X
 desentabuixeu desentabuixar VMSP2P00
-desentabuixi desentabuixar VMIP1S0S
 desentabuixi desentabuixar VMM03S0Y
 desentabuixi desentabuixar VMSP1S0Y
 desentabuixi desentabuixar VMSP3S0Y
@@ -26811,7 +26564,6 @@ desentonellessis desentonellar VMSI2S02
 desentonelleu desentonellar VMIP2P00
 desentonelleu desentonellar VMM02P0X
 desentonelleu desentonellar VMSP2P00
-desentonelli desentonellar VMIP1S0S
 desentonelli desentonellar VMM03S0Y
 desentonelli desentonellar VMSP1S0Y
 desentonelli desentonellar VMSP3S0Y
@@ -26898,7 +26650,6 @@ desentortillessis desentortillar VMSI2S02
 desentortilleu desentortillar VMIP2P00
 desentortilleu desentortillar VMM02P0X
 desentortilleu desentortillar VMSP2P00
-desentortilli desentortillar VMIP1S0S
 desentortilli desentortillar VMM03S0Y
 desentortilli desentortillar VMSP1S0Y
 desentortilli desentortillar VMSP3S0Y
@@ -27004,7 +26755,6 @@ desescoriésseu desescoriar VMSI2P05
 desescoriéssim desescoriar VMSI1P02
 desescoriéssiu desescoriar VMSI2P02
 desescorií desescoriar VMIS1S00
-desescoriï desescoriar VMIP1S0S
 desescoriï desescoriar VMM03S0Y
 desescoriï desescoriar VMSP1S0Y
 desescoriï desescoriar VMSP3S0Y
@@ -27068,7 +26818,6 @@ desesmaltessis desesmaltar VMSI2S02
 desesmalteu desesmaltar VMIP2P00
 desesmalteu desesmaltar VMM02P0X
 desesmalteu desesmaltar VMSP2P00
-desesmalti desesmaltar VMIP1S0S
 desesmalti desesmaltar VMM03S0Y
 desesmalti desesmaltar VMSP1S0Y
 desesmalti desesmaltar VMSP3S0Y
@@ -27115,7 +26864,6 @@ desespongessis desesponjar VMSI2S02
 desespongeu desesponjar VMIP2P00
 desespongeu desesponjar VMM02P0X
 desespongeu desesponjar VMSP2P00
-desespongi desesponjar VMIP1S0S
 desespongi desesponjar VMM03S0Y
 desespongi desesponjar VMSP1S0Y
 desespongi desesponjar VMSP3S0Y
@@ -27237,7 +26985,6 @@ desestalzinessis desestalzinar VMSI2S02
 desestalzineu desestalzinar VMIP2P00
 desestalzineu desestalzinar VMM02P0X
 desestalzineu desestalzinar VMSP2P00
-desestalzini desestalzinar VMIP1S0S
 desestalzini desestalzinar VMM03S0Y
 desestalzini desestalzinar VMSP1S0Y
 desestalzini desestalzinar VMSP3S0Y
@@ -27333,7 +27080,6 @@ desetiquetessis desetiquetar VMSI2S02
 desetiqueteu desetiquetar VMIP2P00
 desetiqueteu desetiquetar VMM02P0X
 desetiqueteu desetiquetar VMSP2P00
-desetiqueti desetiquetar VMIP1S0S
 desetiqueti desetiquetar VMM03S0Y
 desetiqueti desetiquetar VMSP1S0Y
 desetiqueti desetiquetar VMSP3S0Y
@@ -27436,7 +27182,6 @@ desfibril·lessis desfibril·lar VMSI2S02
 desfibril·leu desfibril·lar VMIP2P00
 desfibril·leu desfibril·lar VMM02P0X
 desfibril·leu desfibril·lar VMSP2P00
-desfibril·li desfibril·lar VMIP1S0S
 desfibril·li desfibril·lar VMM03S0Y
 desfibril·li desfibril·lar VMSP1S0Y
 desfibril·li desfibril·lar VMSP3S0Y
@@ -27542,7 +27287,6 @@ desfiduciésseu desfiduciar VMSI2P05
 desfiduciéssim desfiduciar VMSI1P02
 desfiduciéssiu desfiduciar VMSI2P02
 desfiducií desfiduciar VMIS1S00
-desfiduciï desfiduciar VMIP1S0S
 desfiduciï desfiduciar VMM03S0Y
 desfiduciï desfiduciar VMSP1S0Y
 desfiduciï desfiduciar VMSP3S0Y
@@ -27605,7 +27349,6 @@ desfilagassessis desfilagassar VMSI2S02
 desfilagasseu desfilagassar VMIP2P00
 desfilagasseu desfilagassar VMM02P0X
 desfilagasseu desfilagassar VMSP2P00
-desfilagassi desfilagassar VMIP1S0S
 desfilagassi desfilagassar VMM03S0Y
 desfilagassi desfilagassar VMSP1S0Y
 desfilagassi desfilagassar VMSP3S0Y
@@ -27691,7 +27434,6 @@ desfilarxessis desfilarxar VMSI2S02
 desfilarxeu desfilarxar VMIP2P00
 desfilarxeu desfilarxar VMM02P0X
 desfilarxeu desfilarxar VMSP2P00
-desfilarxi desfilarxar VMIP1S0S
 desfilarxi desfilarxar VMM03S0Y
 desfilarxi desfilarxar VMSP1S0Y
 desfilarxi desfilarxar VMSP3S0Y
@@ -27775,7 +27517,6 @@ desfilassessis desfilassar VMSI2S02
 desfilasseu desfilassar VMIP2P00
 desfilasseu desfilassar VMM02P0X
 desfilasseu desfilassar VMSP2P00
-desfilassi desfilassar VMIP1S0S
 desfilassi desfilassar VMM03S0Y
 desfilassi desfilassar VMSP1S0Y
 desfilassi desfilassar VMSP3S0Y
@@ -27917,7 +27658,6 @@ desforrellessis desforrellar VMSI2S02
 desforrelleu desforrellar VMIP2P00
 desforrelleu desforrellar VMM02P0X
 desforrelleu desforrellar VMSP2P00
-desforrelli desforrellar VMIP1S0S
 desforrelli desforrellar VMM03S0Y
 desforrelli desforrellar VMSP1S0Y
 desforrelli desforrellar VMSP3S0Y
@@ -27960,7 +27700,6 @@ desforressis desforrar VMSI2S02
 desforreu desforrar VMIP2P00
 desforreu desforrar VMM02P0X
 desforreu desforrar VMSP2P00
-desforri desforrar VMIP1S0S
 desforri desforrar VMM03S0Y
 desforri desforrar VMSP1S0Y
 desforri desforrar VMSP3S0Y
@@ -28059,7 +27798,6 @@ desfortifiquessis desfortificar VMSI2S02
 desfortifiqueu desfortificar VMIP2P00
 desfortifiqueu desfortificar VMM02P0X
 desfortifiqueu desfortificar VMSP2P00
-desfortifiqui desfortificar VMIP1S0S
 desfortifiqui desfortificar VMM03S0Y
 desfortifiqui desfortificar VMSP1S0Y
 desfortifiqui desfortificar VMSP3S0Y
@@ -28150,7 +27888,6 @@ desgallonessis desgallonar VMSI2S02
 desgalloneu desgallonar VMIP2P00
 desgalloneu desgallonar VMM02P0X
 desgalloneu desgallonar VMSP2P00
-desgalloni desgallonar VMIP1S0S
 desgalloni desgallonar VMM03S0Y
 desgalloni desgallonar VMSP1S0Y
 desgalloni desgallonar VMSP3S0Y
@@ -28305,7 +28042,6 @@ desganyitessis desganyitar VMSI2S02
 desganyiteu desganyitar VMIP2P00
 desganyiteu desganyitar VMM02P0X
 desganyiteu desganyitar VMSP2P00
-desganyiti desganyitar VMIP1S0S
 desganyiti desganyitar VMM03S0Y
 desganyiti desganyitar VMSP1S0Y
 desganyiti desganyitar VMSP3S0Y
@@ -28414,7 +28150,6 @@ desgarramellessis desgarramellar VMSI2S02
 desgarramelleu desgarramellar VMIP2P00
 desgarramelleu desgarramellar VMM02P0X
 desgarramelleu desgarramellar VMSP2P00
-desgarramelli desgarramellar VMIP1S0S
 desgarramelli desgarramellar VMM03S0Y
 desgarramelli desgarramellar VMSP1S0Y
 desgarramelli desgarramellar VMSP3S0Y
@@ -28500,7 +28235,6 @@ desgasolinessis desgasolinar VMSI2S02
 desgasolineu desgasolinar VMIP2P00
 desgasolineu desgasolinar VMM02P0X
 desgasolineu desgasolinar VMSP2P00
-desgasolini desgasolinar VMIP1S0S
 desgasolini desgasolinar VMM03S0Y
 desgasolini desgasolinar VMSP1S0Y
 desgasolini desgasolinar VMSP3S0Y
@@ -28586,7 +28320,6 @@ desgropessis desgropar VMSI2S02
 desgropeu desgropar VMIP2P00
 desgropeu desgropar VMM02P0X
 desgropeu desgropar VMSP2P00
-desgropi desgropar VMIP1S0S
 desgropi desgropar VMM03S0Y
 desgropi desgropar VMSP1S0Y
 desgropi desgropar VMSP3S0Y
@@ -28752,7 +28485,6 @@ desimpressionessis desimpressionar VMSI2S02
 desimpressioneu desimpressionar VMIP2P00
 desimpressioneu desimpressionar VMM02P0X
 desimpressioneu desimpressionar VMSP2P00
-desimpressioni desimpressionar VMIP1S0S
 desimpressioni desimpressionar VMM03S0Y
 desimpressioni desimpressionar VMSP1S0Y
 desimpressioni desimpressionar VMSP3S0Y
@@ -28840,7 +28572,6 @@ desllapissessis desllapissar VMSI2S02
 desllapisseu desllapissar VMIP2P00
 desllapisseu desllapissar VMM02P0X
 desllapisseu desllapissar VMSP2P00
-desllapissi desllapissar VMIP1S0S
 desllapissi desllapissar VMM03S0Y
 desllapissi desllapissar VMSP1S0Y
 desllapissi desllapissar VMSP3S0Y
@@ -28944,7 +28675,6 @@ desllengüessis desllenguar VMSI2S02
 desllengüeu desllenguar VMIP2P00
 desllengüeu desllenguar VMM02P0X
 desllengüeu desllenguar VMSP2P00
-desllengüi desllenguar VMIP1S0S
 desllengüi desllenguar VMM03S0Y
 desllengüi desllenguar VMSP1S0Y
 desllengüi desllenguar VMSP3S0Y
@@ -29027,7 +28757,6 @@ desmallolessis desmallolar VMSI2S02
 desmalloleu desmallolar VMIP2P00
 desmalloleu desmallolar VMM02P0X
 desmalloleu desmallolar VMSP2P00
-desmalloli desmallolar VMIP1S0S
 desmalloli desmallolar VMM03S0Y
 desmalloli desmallolar VMSP1S0Y
 desmalloli desmallolar VMSP3S0Y
@@ -29111,7 +28840,6 @@ desmargenessis desmargenar VMSI2S02
 desmargeneu desmargenar VMIP2P00
 desmargeneu desmargenar VMM02P0X
 desmargeneu desmargenar VMSP2P00
-desmargeni desmargenar VMIP1S0S
 desmargeni desmargenar VMM03S0Y
 desmargeni desmargenar VMSP1S0Y
 desmargeni desmargenar VMSP3S0Y
@@ -29197,7 +28925,6 @@ desmedressis desmedrar VMSI2S02
 desmedreu desmedrar VMIP2P00
 desmedreu desmedrar VMM02P0X
 desmedreu desmedrar VMSP2P00
-desmedri desmedrar VMIP1S0S
 desmedri desmedrar VMM03S0Y
 desmedri desmedrar VMSP1S0Y
 desmedri desmedrar VMSP3S0Y
@@ -29282,7 +29009,6 @@ desmelessis desmelar VMSI2S02
 desmeleu desmelar VMIP2P00
 desmeleu desmelar VMM02P0X
 desmeleu desmelar VMSP2P00
-desmeli desmelar VMIP1S0S
 desmeli desmelar VMM03S0Y
 desmeli desmelar VMSP1S0Y
 desmeli desmelar VMSP3S0Y
@@ -29371,7 +29097,6 @@ desmesuressis desmesurar VMSI2S02
 desmesureu desmesurar VMIP2P00
 desmesureu desmesurar VMM02P0X
 desmesureu desmesurar VMSP2P00
-desmesuri desmesurar VMIP1S0S
 desmesuri desmesurar VMM03S0Y
 desmesuri desmesurar VMSP1S0Y
 desmesuri desmesurar VMSP3S0Y
@@ -29501,7 +29226,6 @@ desmolleguessis desmollegar VMSI2S02
 desmollegueu desmollegar VMIP2P00
 desmollegueu desmollegar VMM02P0X
 desmollegueu desmollegar VMSP2P00
-desmollegui desmollegar VMIP1S0S
 desmollegui desmollegar VMM03S0Y
 desmollegui desmollegar VMSP1S0Y
 desmollegui desmollegar VMSP3S0Y
@@ -29605,7 +29329,6 @@ desmolleriquessis desmollericar VMSI2S02
 desmolleriqueu desmollericar VMIP2P00
 desmolleriqueu desmollericar VMM02P0X
 desmolleriqueu desmollericar VMSP2P00
-desmolleriqui desmollericar VMIP1S0S
 desmolleriqui desmollericar VMM03S0Y
 desmolleriqui desmollericar VMSP1S0Y
 desmolleriqui desmollericar VMSP3S0Y
@@ -29628,7 +29351,6 @@ desmollessis desmollar VMSI2S02
 desmolleu desmollar VMIP2P00
 desmolleu desmollar VMM02P0X
 desmolleu desmollar VMSP2P00
-desmolli desmollar VMIP1S0S
 desmolli desmollar VMM03S0Y
 desmolli desmollar VMSP1S0Y
 desmolli desmollar VMSP3S0Y
@@ -29719,7 +29441,6 @@ desmotxessis desmotxar VMSI2S02
 desmotxeu desmotxar VMIP2P00
 desmotxeu desmotxar VMM02P0X
 desmotxeu desmotxar VMSP2P00
-desmotxi desmotxar VMIP1S0S
 desmotxi desmotxar VMM03S0Y
 desmotxi desmotxar VMSP1S0Y
 desmotxi desmotxar VMSP3S0Y
@@ -29804,7 +29525,6 @@ desmulleressis desmullerar VMSI2S02
 desmullereu desmullerar VMIP2P00
 desmullereu desmullerar VMM02P0X
 desmullereu desmullerar VMSP2P00
-desmulleri desmullerar VMIP1S0S
 desmulleri desmullerar VMM03S0Y
 desmulleri desmullerar VMSP1S0Y
 desmulleri desmullerar VMSP3S0Y
@@ -29903,7 +29623,6 @@ desmultipliquessis desmultiplicar VMSI2S02
 desmultipliqueu desmultiplicar VMIP2P00
 desmultipliqueu desmultiplicar VMM02P0X
 desmultipliqueu desmultiplicar VMSP2P00
-desmultipliqui desmultiplicar VMIP1S0S
 desmultipliqui desmultiplicar VMM03S0Y
 desmultipliqui desmultiplicar VMSP1S0Y
 desmultipliqui desmultiplicar VMSP3S0Y
@@ -29974,7 +29693,6 @@ desnevessis desnevar VMSI2S02
 desneveu desnevar VMIP2P00
 desneveu desnevar VMM02P0X
 desneveu desnevar VMSP2P00
-desnevi desnevar VMIP1S0S
 desnevi desnevar VMM03S0Y
 desnevi desnevar VMSP1S0Y
 desnevi desnevar VMSP3S0Y
@@ -30059,7 +29777,6 @@ desniquelessis desniquelar VMSI2S02
 desniqueleu desniquelar VMIP2P00
 desniqueleu desniquelar VMM02P0X
 desniqueleu desniquelar VMSP2P00
-desniqueli desniquelar VMIP1S0S
 desniqueli desniquelar VMM03S0Y
 desniqueli desniquelar VMSP1S0Y
 desniqueli desniquelar VMSP3S0Y
@@ -30144,7 +29861,6 @@ desniuessis desniuar VMSI2S02
 desniueu desniuar VMIP2P00
 desniueu desniuar VMM02P0X
 desniueu desniuar VMSP2P00
-desniui desniuar VMIP1S0S
 desniui desniuar VMM03S0Y
 desniui desniuar VMSP1S0Y
 desniui desniuar VMSP3S0Y
@@ -30243,7 +29959,6 @@ despanollessis despanollar VMSI2S02
 despanolleu despanollar VMIP2P00
 despanolleu despanollar VMM02P0X
 despanolleu despanollar VMSP2P00
-despanolli despanollar VMIP1S0S
 despanolli despanollar VMM03S0Y
 despanolli despanollar VMSP1S0Y
 despanolli despanollar VMSP3S0Y
@@ -30327,7 +30042,6 @@ desparafinessis desparafinar VMSI2S02
 desparafineu desparafinar VMIP2P00
 desparafineu desparafinar VMM02P0X
 desparafineu desparafinar VMSP2P00
-desparafini desparafinar VMIP1S0S
 desparafini desparafinar VMM03S0Y
 desparafini desparafinar VMSP1S0Y
 desparafini desparafinar VMSP3S0Y
@@ -30552,7 +30266,6 @@ despecatessis despecatar VMSI2S02
 despecateu despecatar VMIP2P00
 despecateu despecatar VMM02P0X
 despecateu despecatar VMSP2P00
-despecati despecatar VMIP1S0S
 despecati despecatar VMM03S0Y
 despecati despecatar VMSP1S0Y
 despecati despecatar VMSP3S0Y
@@ -30681,7 +30394,6 @@ desperdiciésseu desperdiciar VMSI2P05
 desperdiciéssim desperdiciar VMSI1P02
 desperdiciéssiu desperdiciar VMSI2P02
 desperdicií desperdiciar VMIS1S00
-desperdiciï desperdiciar VMIP1S0S
 desperdiciï desperdiciar VMM03S0Y
 desperdiciï desperdiciar VMSP1S0Y
 desperdiciï desperdiciar VMSP3S0Y
@@ -30764,7 +30476,6 @@ despeçonessis despeçonar VMSI2S02
 despeçoneu despeçonar VMIP2P00
 despeçoneu despeçonar VMM02P0X
 despeçoneu despeçonar VMSP2P00
-despeçoni despeçonar VMIP1S0S
 despeçoni despeçonar VMM03S0Y
 despeçoni despeçonar VMSP1S0Y
 despeçoni despeçonar VMSP3S0Y
@@ -30799,7 +30510,6 @@ despeésseu despear VMSI2P05
 despeéssim despear VMSI1P02
 despeéssiu despear VMSI2P02
 despeí despear VMIS1S00
-despeï despear VMIP1S0S
 despeï despear VMM03S0Y
 despeï despear VMSP1S0Y
 despeï despear VMSP3S0Y
@@ -30881,7 +30591,6 @@ desplanxessis desplanxar VMSI2S02
 desplanxeu desplanxar VMIP2P00
 desplanxeu desplanxar VMM02P0X
 desplanxeu desplanxar VMSP2P00
-desplanxi desplanxar VMIP1S0S
 desplanxi desplanxar VMM03S0Y
 desplanxi desplanxar VMSP1S0Y
 desplanxi desplanxar VMSP3S0Y
@@ -30928,7 +30637,6 @@ desplategessis desplatejar VMSI2S02
 desplategeu desplatejar VMIP2P00
 desplategeu desplatejar VMM02P0X
 desplategeu desplatejar VMSP2P00
-desplategi desplatejar VMIP1S0S
 desplategi desplatejar VMM03S0Y
 desplategi desplatejar VMSP1S0Y
 desplategi desplatejar VMSP3S0Y
@@ -31057,7 +30765,6 @@ despopularitzessis despopularitzar VMSI2S02
 despopularitzeu despopularitzar VMIP2P00
 despopularitzeu despopularitzar VMM02P0X
 despopularitzeu despopularitzar VMSP2P00
-despopularitzi despopularitzar VMIP1S0S
 despopularitzi despopularitzar VMM03S0Y
 despopularitzi despopularitzar VMSP1S0Y
 despopularitzi despopularitzar VMSP3S0Y
@@ -31141,7 +30848,6 @@ desportinessis desportinar VMSI2S02
 desportineu desportinar VMIP2P00
 desportineu desportinar VMM02P0X
 desportineu desportinar VMSP2P00
-desportini desportinar VMIP1S0S
 desportini desportinar VMM03S0Y
 desportini desportinar VMSP1S0Y
 desportini desportinar VMSP3S0Y
@@ -31233,7 +30939,6 @@ desquallessis desquallar VMSI2S02
 desqualleu desquallar VMIP2P00
 desqualleu desquallar VMM02P0X
 desqualleu desquallar VMSP2P00
-desqualli desquallar VMIP1S0S
 desqualli desquallar VMM03S0Y
 desqualli desquallar VMSP1S0Y
 desqualli desquallar VMSP3S0Y
@@ -31322,7 +31027,6 @@ desraspessis desraspar VMSI2S02
 desraspeu desraspar VMIP2P00
 desraspeu desraspar VMM02P0X
 desraspeu desraspar VMSP2P00
-desraspi desraspar VMIP1S0S
 desraspi desraspar VMM03S0Y
 desraspi desraspar VMSP1S0Y
 desraspi desraspar VMSP3S0Y
@@ -31410,7 +31114,6 @@ desregularitzessis desregularitzar VMSI2S02
 desregularitzeu desregularitzar VMIP2P00
 desregularitzeu desregularitzar VMM02P0X
 desregularitzeu desregularitzar VMSP2P00
-desregularitzi desregularitzar VMIP1S0S
 desregularitzi desregularitzar VMM03S0Y
 desregularitzi desregularitzar VMSP1S0Y
 desregularitzi desregularitzar VMSP3S0Y
@@ -31495,7 +31198,6 @@ desrenglessis desrenglar VMSI2S02
 desrengleu desrenglar VMIP2P00
 desrengleu desrenglar VMM02P0X
 desrengleu desrenglar VMSP2P00
-desrengli desrenglar VMIP1S0S
 desrengli desrenglar VMM03S0Y
 desrengli desrenglar VMSP1S0Y
 desrengli desrenglar VMSP3S0Y
@@ -31580,7 +31282,6 @@ desrenyonessis desrenyonar VMSI2S02
 desrenyoneu desrenyonar VMIP2P00
 desrenyoneu desrenyonar VMM02P0X
 desrenyoneu desrenyonar VMSP2P00
-desrenyoni desrenyonar VMIP1S0S
 desrenyoni desrenyonar VMM03S0Y
 desrenyoni desrenyonar VMSP1S0Y
 desrenyoni desrenyonar VMSP3S0Y
@@ -31685,7 +31386,6 @@ dessolidaritzessis dessolidaritzar VMSI2S02
 dessolidaritzeu dessolidaritzar VMIP2P00
 dessolidaritzeu dessolidaritzar VMM02P0X
 dessolidaritzeu dessolidaritzar VMSP2P00
-dessolidaritzi dessolidaritzar VMIP1S0S
 dessolidaritzi dessolidaritzar VMM03S0Y
 dessolidaritzi dessolidaritzar VMSP1S0Y
 dessolidaritzi dessolidaritzar VMSP3S0Y
@@ -31774,7 +31474,6 @@ dessulfitessis dessulfitar VMSI2S02
 dessulfiteu dessulfitar VMIP2P00
 dessulfiteu dessulfitar VMM02P0X
 dessulfiteu dessulfitar VMSP2P00
-dessulfiti dessulfitar VMIP1S0S
 dessulfiti dessulfitar VMM03S0Y
 dessulfiti dessulfitar VMSP1S0Y
 dessulfiti dessulfitar VMSP3S0Y
@@ -31859,7 +31558,6 @@ destaconessis destaconar VMSI2S02
 destaconeu destaconar VMIP2P00
 destaconeu destaconar VMM02P0X
 destaconeu destaconar VMSP2P00
-destaconi destaconar VMIP1S0S
 destaconi destaconar VMM03S0Y
 destaconi destaconar VMSP1S0Y
 destaconi destaconar VMSP3S0Y
@@ -31947,7 +31645,6 @@ destaressis destarar VMSI2S02
 destareu destarar VMIP2P00
 destareu destarar VMM02P0X
 destareu destarar VMSP2P00
-destari destarar VMIP1S0S
 destari destarar VMM03S0Y
 destari destarar VMSP1S0Y
 destari destarar VMSP3S0Y
@@ -32008,7 +31705,6 @@ destarifessis destarifar VMSI2S02
 destarifeu destarifar VMIP2P00
 destarifeu destarifar VMM02P0X
 destarifeu destarifar VMSP2P00
-destarifi destarifar VMIP1S0S
 destarifi destarifar VMM03S0Y
 destarifi destarifar VMSP1S0Y
 destarifi destarifar VMSP3S0Y
@@ -32117,7 +31813,6 @@ destemplessis destemplar VMSI2S02
 destempleu destemplar VMIP2P00
 destempleu destemplar VMM02P0X
 destempleu destemplar VMSP2P00
-destempli destemplar VMIP1S0S
 destempli destemplar VMM03S0Y
 destempli destemplar VMSP1S0Y
 destempli destemplar VMSP3S0Y
@@ -32270,7 +31965,6 @@ destinyessis destinyar VMSI2S02
 destinyeu destinyar VMIP2P00
 destinyeu destinyar VMM02P0X
 destinyeu destinyar VMSP2P00
-destinyi destinyar VMIP1S0S
 destinyi destinyar VMM03S0Y
 destinyi destinyar VMSP1S0Y
 destinyi destinyar VMSP3S0Y
@@ -32373,7 +32067,6 @@ destoxiquessis destoxicar VMSI2S02
 destoxiqueu destoxicar VMIP2P00
 destoxiqueu destoxicar VMM02P0X
 destoxiqueu destoxicar VMSP2P00
-destoxiqui destoxicar VMIP1S0S
 destoxiqui destoxicar VMM03S0Y
 destoxiqui destoxicar VMSP1S0Y
 destoxiqui destoxicar VMSP3S0Y
@@ -32460,7 +32153,6 @@ desvellessis desvellar VMSI2S02
 desvelleu desvellar VMIP2P00
 desvelleu desvellar VMM02P0X
 desvelleu desvellar VMSP2P00
-desvelli desvellar VMIP1S0S
 desvelli desvellar VMM03S0Y
 desvelli desvellar VMSP1S0Y
 desvelli desvellar VMSP3S0Y
@@ -32577,7 +32269,6 @@ devallessis devallar VMSI2S02
 devalleu devallar VMIP2P00
 devalleu devallar VMM02P0X
 devalleu devallar VMSP2P00
-devalli devallar VMIP1S0S
 devalli devallar VMM03S0Y
 devalli devallar VMSP1S0Y
 devalli devallar VMSP3S0Y
@@ -32930,7 +32621,6 @@ drissessis drissar VMSI2S02
 drisseu drissar VMIP2P00
 drisseu drissar VMM02P0X
 drisseu drissar VMSP2P00
-drissi drissar VMIP1S0S
 drissi drissar VMM03S0Y
 drissi drissar VMSP1S0Y
 drissi drissar VMSP3S0Y
@@ -33102,7 +32792,6 @@ editorialitzessis editorialitzar VMSI2S02
 editorialitzeu editorialitzar VMIP2P00
 editorialitzeu editorialitzar VMM02P0X
 editorialitzeu editorialitzar VMSP2P00
-editorialitzi editorialitzar VMIP1S0S
 editorialitzi editorialitzar VMM03S0Y
 editorialitzi editorialitzar VMSP1S0Y
 editorialitzi editorialitzar VMSP3S0Y
@@ -33233,7 +32922,6 @@ eixarretessis eixarretar VMSI2S02
 eixarreteu eixarretar VMIP2P00
 eixarreteu eixarretar VMM02P0X
 eixarreteu eixarretar VMSP2P00
-eixarreti eixarretar VMIP1S0S
 eixarreti eixarretar VMM03S0Y
 eixarreti eixarretar VMSP1S0Y
 eixarreti eixarretar VMSP3S0Y
@@ -33391,7 +33079,6 @@ eixartiguessis eixartigar VMSI2S02
 eixartigueu eixartigar VMIP2P00
 eixartigueu eixartigar VMM02P0X
 eixartigueu eixartigar VMSP2P00
-eixartigui eixartigar VMIP1S0S
 eixartigui eixartigar VMM03S0Y
 eixartigui eixartigar VMSP1S0Y
 eixartigui eixartigar VMSP3S0Y
@@ -33475,7 +33162,6 @@ eixetessis eixetar VMSI2S02
 eixeteu eixetar VMIP2P00
 eixeteu eixetar VMM02P0X
 eixeteu eixetar VMSP2P00
-eixeti eixetar VMIP1S0S
 eixeti eixetar VMM03S0Y
 eixeti eixetar VMSP1S0Y
 eixeti eixetar VMSP3S0Y
@@ -33718,7 +33404,6 @@ embabuixessis embabuixar VMSI2S02
 embabuixeu embabuixar VMIP2P00
 embabuixeu embabuixar VMM02P0X
 embabuixeu embabuixar VMSP2P00
-embabuixi embabuixar VMIP1S0S
 embabuixi embabuixar VMM03S0Y
 embabuixi embabuixar VMSP1S0Y
 embabuixi embabuixar VMSP3S0Y
@@ -33900,7 +33585,6 @@ embainessis embainar VMSI2S02
 embaineu embainar VMIP2P00
 embaineu embainar VMM02P0X
 embaineu embainar VMSP2P00
-embaini embainar VMIP1S0S
 embaini embainar VMM03S0Y
 embaini embainar VMSP1S0Y
 embaini embainar VMSP3S0Y
@@ -33991,7 +33675,6 @@ embalsemessis embalsemar VMSI2S02
 embalsemeu embalsemar VMIP2P00
 embalsemeu embalsemar VMM02P0X
 embalsemeu embalsemar VMSP2P00
-embalsemi embalsemar VMIP1S0S
 embalsemi embalsemar VMM03S0Y
 embalsemi embalsemar VMSP1S0Y
 embalsemi embalsemar VMSP3S0Y
@@ -34076,7 +33759,6 @@ embambollessis embambollar VMSI2S02
 embambolleu embambollar VMIP2P00
 embambolleu embambollar VMM02P0X
 embambolleu embambollar VMSP2P00
-embambolli embambollar VMIP1S0S
 embambolli embambollar VMM03S0Y
 embambolli embambollar VMSP1S0Y
 embambolli embambollar VMSP3S0Y
@@ -34161,7 +33843,6 @@ embanyessis embanyar VMSI2S02
 embanyeu embanyar VMIP2P00
 embanyeu embanyar VMM02P0X
 embanyeu embanyar VMSP2P00
-embanyi embanyar VMIP1S0S
 embanyi embanyar VMM03S0Y
 embanyi embanyar VMSP1S0Y
 embanyi embanyar VMSP3S0Y
@@ -34246,7 +33927,6 @@ embaranessis embaranar VMSI2S02
 embaraneu embaranar VMIP2P00
 embaraneu embaranar VMM02P0X
 embaraneu embaranar VMSP2P00
-embarani embaranar VMIP1S0S
 embarani embaranar VMM03S0Y
 embarani embaranar VMSP1S0Y
 embarani embaranar VMSP3S0Y
@@ -34341,7 +34021,6 @@ embardollessis embardollar VMSI2S02
 embardolleu embardollar VMIP2P00
 embardolleu embardollar VMM02P0X
 embardolleu embardollar VMSP2P00
-embardolli embardollar VMIP1S0S
 embardolli embardollar VMM03S0Y
 embardolli embardollar VMSP1S0Y
 embardolli embardollar VMSP3S0Y
@@ -34429,7 +34108,6 @@ embaülessis embaülar VMSI2S02
 embaüleu embaülar VMIP2P00
 embaüleu embaülar VMM02P0X
 embaüleu embaülar VMSP2P00
-embaüli embaülar VMIP1S0S
 embaüli embaülar VMM03S0Y
 embaüli embaülar VMSP1S0Y
 embaüli embaülar VMSP3S0Y
@@ -34536,7 +34214,6 @@ embelquessis embelcar VMSI2S02
 embelqueu embelcar VMIP2P00
 embelqueu embelcar VMM02P0X
 embelqueu embelcar VMSP2P00
-embelqui embelcar VMIP1S0S
 embelqui embelcar VMM03S0Y
 embelqui embelcar VMSP1S0Y
 embelqui embelcar VMSP3S0Y
@@ -34719,7 +34396,6 @@ embiquessis embicar VMSI2S02
 embiqueu embicar VMIP2P00
 embiqueu embicar VMM02P0X
 embiqueu embicar VMSP2P00
-embiqui embicar VMIP1S0S
 embiqui embicar VMM03S0Y
 embiqui embicar VMSP1S0Y
 embiqui embicar VMSP3S0Y
@@ -34889,7 +34565,6 @@ emborrussessis emborrussar VMSI2S02
 emborrusseu emborrussar VMIP2P00
 emborrusseu emborrussar VMM02P0X
 emborrusseu emborrussar VMSP2P00
-emborrussi emborrussar VMIP1S0S
 emborrussi emborrussar VMM03S0Y
 emborrussi emborrussar VMSP1S0Y
 emborrussi emborrussar VMSP3S0Y
@@ -34989,7 +34664,6 @@ embrasquillessis embrasquillar VMSI2S02
 embrasquilleu embrasquillar VMIP2P00
 embrasquilleu embrasquillar VMM02P0X
 embrasquilleu embrasquillar VMSP2P00
-embrasquilli embrasquillar VMIP1S0S
 embrasquilli embrasquillar VMM03S0Y
 embrasquilli embrasquillar VMSP1S0Y
 embrasquilli embrasquillar VMSP3S0Y
@@ -35081,7 +34755,6 @@ embrinessis embrinar VMSI2S02
 embrineu embrinar VMIP2P00
 embrineu embrinar VMM02P0X
 embrineu embrinar VMSP2P00
-embrini embrinar VMIP1S0S
 embrini embrinar VMM03S0Y
 embrini embrinar VMSP1S0Y
 embrini embrinar VMSP3S0Y
@@ -35191,7 +34864,6 @@ emmaliciésseu emmaliciar VMSI2P05
 emmaliciéssim emmaliciar VMSI1P02
 emmaliciéssiu emmaliciar VMSI2P02
 emmalicií emmaliciar VMIS1S00
-emmaliciï emmaliciar VMIP1S0S
 emmaliciï emmaliciar VMM03S0Y
 emmaliciï emmaliciar VMSP1S0Y
 emmaliciï emmaliciar VMSP3S0Y
@@ -35257,7 +34929,6 @@ emmasqueressis emmasquerar VMSI2S02
 emmasquereu emmasquerar VMIP2P00
 emmasquereu emmasquerar VMM02P0X
 emmasquereu emmasquerar VMSP2P00
-emmasqueri emmasquerar VMIP1S0S
 emmasqueri emmasquerar VMM03S0Y
 emmasqueri emmasquerar VMSP1S0Y
 emmasqueri emmasquerar VMSP3S0Y
@@ -35342,7 +35013,6 @@ emmurtessis emmurtar VMSI2S02
 emmurteu emmurtar VMIP2P00
 emmurteu emmurtar VMM02P0X
 emmurteu emmurtar VMSP2P00
-emmurti emmurtar VMIP1S0S
 emmurti emmurtar VMM03S0Y
 emmurti emmurtar VMSP1S0Y
 emmurti emmurtar VMSP3S0Y
@@ -35426,7 +35096,6 @@ empaperinessis empaperinar VMSI2S02
 empaperineu empaperinar VMIP2P00
 empaperineu empaperinar VMM02P0X
 empaperineu empaperinar VMSP2P00
-empaperini empaperinar VMIP1S0S
 empaperini empaperinar VMM03S0Y
 empaperini empaperinar VMSP1S0Y
 empaperini empaperinar VMSP3S0Y
@@ -35521,7 +35190,6 @@ emparadisessis emparadisar VMSI2S02
 emparadiseu emparadisar VMIP2P00
 emparadiseu emparadisar VMM02P0X
 emparadiseu emparadisar VMSP2P00
-emparadisi emparadisar VMIP1S0S
 emparadisi emparadisar VMM03S0Y
 emparadisi emparadisar VMSP1S0Y
 emparadisi emparadisar VMSP3S0Y
@@ -35631,7 +35299,6 @@ empatequessis empatecar VMSI2S02
 empatequeu empatecar VMIP2P00
 empatequeu empatecar VMM02P0X
 empatequeu empatecar VMSP2P00
-empatequi empatecar VMIP1S0S
 empatequi empatecar VMM03S0Y
 empatequi empatecar VMSP1S0Y
 empatequi empatecar VMSP3S0Y
@@ -35904,7 +35571,6 @@ empiuessis empiuar VMSI2S02
 empiueu empiuar VMIP2P00
 empiueu empiuar VMM02P0X
 empiueu empiuar VMSP2P00
-empiui empiuar VMIP1S0S
 empiui empiuar VMM03S0Y
 empiui empiuar VMSP1S0Y
 empiui empiuar VMSP3S0Y
@@ -35989,7 +35655,6 @@ empolessis empolar VMSI2S02
 empoleu empolar VMIP2P00
 empoleu empolar VMM02P0X
 empoleu empolar VMSP2P00
-empoli empolar VMIP1S0S
 empoli empolar VMM03S0Y
 empoli empolar VMSP1S0Y
 empoli empolar VMSP3S0Y
@@ -36054,7 +35719,6 @@ empolseressis empolserar VMSI2S02
 empolsereu empolserar VMIP2P00
 empolsereu empolserar VMM02P0X
 empolsereu empolserar VMSP2P00
-empolseri empolserar VMIP1S0S
 empolseri empolserar VMM03S0Y
 empolseri empolserar VMSP1S0Y
 empolseri empolserar VMSP3S0Y
@@ -36159,7 +35823,6 @@ emponessis emponar VMSI2S02
 emponeu emponar VMIP2P00
 emponeu emponar VMM02P0X
 emponeu emponar VMSP2P00
-emponi emponar VMIP1S0S
 emponi emponar VMM03S0Y
 emponi emponar VMSP1S0Y
 emponi emponar VMSP3S0Y
@@ -36248,7 +35911,6 @@ empotressis empotrar VMSI2S02
 empotreu empotrar VMIP2P00
 empotreu empotrar VMM02P0X
 empotreu empotrar VMSP2P00
-empotri empotrar VMIP1S0S
 empotri empotrar VMM03S0Y
 empotri empotrar VMSP1S0Y
 empotri empotrar VMSP3S0Y
@@ -36335,7 +35997,6 @@ empugonessis empugonar VMSI2S02
 empugoneu empugonar VMIP2P00
 empugoneu empugonar VMM02P0X
 empugoneu empugonar VMSP2P00
-empugoni empugonar VMIP1S0S
 empugoni empugonar VMM03S0Y
 empugoni empugonar VMSP1S0Y
 empugoni empugonar VMSP3S0Y
@@ -36426,7 +36087,6 @@ encamallessis encamallar VMSI2S02
 encamalleu encamallar VMIP2P00
 encamalleu encamallar VMM02P0X
 encamalleu encamallar VMSP2P00
-encamalli encamallar VMIP1S0S
 encamalli encamallar VMM03S0Y
 encamalli encamallar VMSP1S0Y
 encamalli encamallar VMSP3S0Y
@@ -36519,7 +36179,6 @@ encaramitessis encaramitar VMSI2S02
 encaramiteu encaramitar VMIP2P00
 encaramiteu encaramitar VMM02P0X
 encaramiteu encaramitar VMSP2P00
-encaramiti encaramitar VMIP1S0S
 encaramiti encaramitar VMM03S0Y
 encaramiti encaramitar VMSP1S0Y
 encaramiti encaramitar VMSP3S0Y
@@ -36624,7 +36283,6 @@ encasaquessis encasacar VMSI2S02
 encasaqueu encasacar VMIP2P00
 encasaqueu encasacar VMM02P0X
 encasaqueu encasacar VMSP2P00
-encasaqui encasacar VMIP1S0S
 encasaqui encasacar VMM03S0Y
 encasaqui encasacar VMSP1S0Y
 encasaqui encasacar VMSP3S0Y
@@ -36703,7 +36361,6 @@ encegueressis enceguerar VMSI2S02
 enceguereu enceguerar VMIP2P00
 enceguereu enceguerar VMM02P0X
 enceguereu enceguerar VMSP2P00
-encegueri enceguerar VMIP1S0S
 encegueri enceguerar VMM03S0Y
 encegueri enceguerar VMSP1S0Y
 encegueri enceguerar VMSP3S0Y
@@ -36788,7 +36445,6 @@ encerolessis encerolar VMSI2S02
 enceroleu encerolar VMIP2P00
 enceroleu encerolar VMM02P0X
 enceroleu encerolar VMSP2P00
-enceroli encerolar VMIP1S0S
 enceroli encerolar VMM03S0Y
 enceroli encerolar VMSP1S0Y
 enceroli encerolar VMSP3S0Y
@@ -36901,7 +36557,6 @@ encisquessis enciscar VMSI2S02
 encisqueu enciscar VMIP2P00
 encisqueu enciscar VMM02P0X
 encisqueu enciscar VMSP2P00
-encisqui enciscar VMIP1S0S
 encisqui enciscar VMM03S0Y
 encisqui enciscar VMSP1S0Y
 encisqui enciscar VMSP3S0Y
@@ -36974,7 +36629,6 @@ encoleritzessis encoleritzar VMSI2S02
 encoleritzeu encoleritzar VMIP2P00
 encoleritzeu encoleritzar VMM02P0X
 encoleritzeu encoleritzar VMSP2P00
-encoleritzi encoleritzar VMIP1S0S
 encoleritzi encoleritzar VMM03S0Y
 encoleritzi encoleritzar VMSP1S0Y
 encoleritzi encoleritzar VMSP3S0Y
@@ -37063,7 +36717,6 @@ encolleressis encollerar VMSI2S02
 encollereu encollerar VMIP2P00
 encollereu encollerar VMM02P0X
 encollereu encollerar VMSP2P00
-encolleri encollerar VMIP1S0S
 encolleri encollerar VMM03S0Y
 encolleri encollerar VMSP1S0Y
 encolleri encollerar VMSP3S0Y
@@ -37148,7 +36801,6 @@ encorbatessis encorbatar VMSI2S02
 encorbateu encorbatar VMIP2P00
 encorbateu encorbatar VMM02P0X
 encorbateu encorbatar VMSP2P00
-encorbati encorbatar VMIP1S0S
 encorbati encorbatar VMM03S0Y
 encorbati encorbatar VMSP1S0Y
 encorbati encorbatar VMSP3S0Y
@@ -37197,7 +36849,6 @@ encorretgessis encorretjar VMSI2S02
 encorretgeu encorretjar VMIP2P00
 encorretgeu encorretjar VMM02P0X
 encorretgeu encorretjar VMSP2P00
-encorretgi encorretjar VMIP1S0S
 encorretgi encorretjar VMM03S0Y
 encorretgi encorretjar VMSP1S0Y
 encorretgi encorretjar VMSP3S0Y
@@ -37322,7 +36973,6 @@ encuixessis encuixar VMSI2S02
 encuixeu encuixar VMIP2P00
 encuixeu encuixar VMM02P0X
 encuixeu encuixar VMSP2P00
-encuixi encuixar VMIP1S0S
 encuixi encuixar VMM03S0Y
 encuixi encuixar VMSP1S0Y
 encuixi encuixar VMSP3S0Y
@@ -37413,7 +37063,6 @@ endobleguessis endoblegar VMSI2S02
 endoblegueu endoblegar VMIP2P00
 endoblegueu endoblegar VMM02P0X
 endoblegueu endoblegar VMSP2P00
-endoblegui endoblegar VMIP1S0S
 endoblegui endoblegar VMM03S0Y
 endoblegui endoblegar VMSP1S0Y
 endoblegui endoblegar VMSP3S0Y
@@ -37504,7 +37153,6 @@ endonguessis endongar VMSI2S02
 endongueu endongar VMIP2P00
 endongueu endongar VMM02P0X
 endongueu endongar VMSP2P00
-endongui endongar VMIP1S0S
 endongui endongar VMM03S0Y
 endongui endongar VMSP1S0Y
 endongui endongar VMSP3S0Y
@@ -37691,7 +37339,6 @@ enfeleguessis enfelegar VMSI2S02
 enfelegueu enfelegar VMIP2P00
 enfelegueu enfelegar VMM02P0X
 enfelegueu enfelegar VMSP2P00
-enfelegui enfelegar VMIP1S0S
 enfelegui enfelegar VMM03S0Y
 enfelegui enfelegar VMSP1S0Y
 enfelegui enfelegar VMSP3S0Y
@@ -37776,7 +37423,6 @@ enferreguessis enferregar VMSI2S02
 enferregueu enferregar VMIP2P00
 enferregueu enferregar VMM02P0X
 enferregueu enferregar VMSP2P00
-enferregui enferregar VMIP1S0S
 enferregui enferregar VMM03S0Y
 enferregui enferregar VMSP1S0Y
 enferregui enferregar VMSP3S0Y
@@ -37866,7 +37512,6 @@ enfilatessis enfilatar VMSI2S02
 enfilateu enfilatar VMIP2P00
 enfilateu enfilatar VMM02P0X
 enfilateu enfilatar VMSP2P00
-enfilati enfilatar VMIP1S0S
 enfilati enfilatar VMM03S0Y
 enfilati enfilatar VMSP1S0Y
 enfilati enfilatar VMSP3S0Y
@@ -37951,7 +37596,6 @@ enflocallessis enflocallar VMSI2S02
 enflocalleu enflocallar VMIP2P00
 enflocalleu enflocallar VMM02P0X
 enflocalleu enflocallar VMSP2P00
-enflocalli enflocallar VMIP1S0S
 enflocalli enflocallar VMM03S0Y
 enflocalli enflocallar VMSP1S0Y
 enflocalli enflocallar VMSP3S0Y
@@ -38040,7 +37684,6 @@ enforrellessis enforrellar VMSI2S02
 enforrelleu enforrellar VMIP2P00
 enforrelleu enforrellar VMM02P0X
 enforrelleu enforrellar VMSP2P00
-enforrelli enforrellar VMIP1S0S
 enforrelli enforrellar VMM03S0Y
 enforrelli enforrellar VMSP1S0Y
 enforrelli enforrellar VMSP3S0Y
@@ -38125,7 +37768,6 @@ enforrunessis enforrunar VMSI2S02
 enforruneu enforrunar VMIP2P00
 enforruneu enforrunar VMM02P0X
 enforruneu enforrunar VMSP2P00
-enforruni enforrunar VMIP1S0S
 enforruni enforrunar VMM03S0Y
 enforruni enforrunar VMSP1S0Y
 enforruni enforrunar VMSP3S0Y
@@ -38214,7 +37856,6 @@ enfraressis enfrarar VMSI2S02
 enfrareu enfrarar VMIP2P00
 enfrareu enfrarar VMM02P0X
 enfrareu enfrarar VMSP2P00
-enfrari enfrarar VMIP1S0S
 enfrari enfrarar VMM03S0Y
 enfrari enfrarar VMSP1S0Y
 enfrari enfrarar VMSP3S0Y
@@ -38313,7 +37954,6 @@ enfrasquessis enfrascar VMSI2S02
 enfrasqueu enfrascar VMIP2P00
 enfrasqueu enfrascar VMM02P0X
 enfrasqueu enfrascar VMSP2P00
-enfrasqui enfrascar VMIP1S0S
 enfrasqui enfrascar VMM03S0Y
 enfrasqui enfrascar VMSP1S0Y
 enfrasqui enfrascar VMSP3S0Y
@@ -38384,7 +38024,6 @@ engambalessis engambalar VMSI2S02
 engambaleu engambalar VMIP2P00
 engambaleu engambalar VMM02P0X
 engambaleu engambalar VMSP2P00
-engambali engambalar VMIP1S0S
 engambali engambalar VMM03S0Y
 engambali engambalar VMSP1S0Y
 engambali engambalar VMSP3S0Y
@@ -38485,7 +38124,6 @@ engatussessis engatussar VMSI2S02
 engatusseu engatussar VMIP2P00
 engatusseu engatussar VMM02P0X
 engatusseu engatussar VMSP2P00
-engatussi engatussar VMIP1S0S
 engatussi engatussar VMM03S0Y
 engatussi engatussar VMSP1S0Y
 engatussi engatussar VMSP3S0Y
@@ -38667,7 +38305,6 @@ engorritessis engorritar VMSI2S02
 engorriteu engorritar VMIP2P00
 engorriteu engorritar VMM02P0X
 engorriteu engorritar VMSP2P00
-engorriti engorritar VMIP1S0S
 engorriti engorritar VMM03S0Y
 engorriti engorritar VMSP1S0Y
 engorriti engorritar VMSP3S0Y
@@ -38756,7 +38393,6 @@ engrauessis engrauar VMSI2S02
 engraueu engrauar VMIP2P00
 engraueu engrauar VMM02P0X
 engraueu engrauar VMSP2P00
-engraui engrauar VMIP1S0S
 engraui engrauar VMM03S0Y
 engraui engrauar VMSP1S0Y
 engraui engrauar VMSP3S0Y
@@ -38841,7 +38477,6 @@ engrisessis engrisar VMSI2S02
 engriseu engrisar VMIP2P00
 engriseu engrisar VMM02P0X
 engriseu engrisar VMSP2P00
-engrisi engrisar VMIP1S0S
 engrisi engrisar VMM03S0Y
 engrisi engrisar VMSP1S0Y
 engrisi engrisar VMSP3S0Y
@@ -39018,7 +38653,6 @@ engrossessis engrossar VMSI2S02
 engrosseu engrossar VMIP2P00
 engrosseu engrossar VMM02P0X
 engrosseu engrossar VMSP2P00
-engrossi engrossar VMIP1S0S
 engrossi engrossar VMM03S0Y
 engrossi engrossar VMSP1S0Y
 engrossi engrossar VMSP3S0Y
@@ -39107,7 +38741,6 @@ enguatessis enguatar VMSI2S02
 enguateu enguatar VMIP2P00
 enguateu enguatar VMM02P0X
 enguateu enguatar VMSP2P00
-enguati enguatar VMIP1S0S
 enguati enguatar VMM03S0Y
 enguati enguatar VMSP1S0Y
 enguati enguatar VMSP3S0Y
@@ -39196,7 +38829,6 @@ enjuliolessis enjuliolar VMSI2S02
 enjulioleu enjuliolar VMIP2P00
 enjulioleu enjuliolar VMM02P0X
 enjulioleu enjuliolar VMSP2P00
-enjulioli enjuliolar VMIP1S0S
 enjulioli enjuliolar VMM03S0Y
 enjulioli enjuliolar VMSP1S0Y
 enjulioli enjuliolar VMSP3S0Y
@@ -39304,7 +38936,6 @@ enjuïciésseu enjuïciar VMSI2P05
 enjuïciéssim enjuïciar VMSI1P02
 enjuïciéssiu enjuïciar VMSI2P02
 enjuïcií enjuïciar VMIS1S00
-enjuïciï enjuïciar VMIP1S0S
 enjuïciï enjuïciar VMM03S0Y
 enjuïciï enjuïciar VMSP1S0Y
 enjuïciï enjuïciar VMSP3S0Y
@@ -39375,7 +39006,6 @@ enllençolessis enllençolar VMSI2S02
 enllençoleu enllençolar VMIP2P00
 enllençoleu enllençolar VMM02P0X
 enllençoleu enllençolar VMSP2P00
-enllençoli enllençolar VMIP1S0S
 enllençoli enllençolar VMM03S0Y
 enllençoli enllençolar VMSP1S0Y
 enllençoli enllençolar VMSP3S0Y
@@ -39476,7 +39106,6 @@ enrastressis enrastrar VMSI2S02
 enrastreu enrastrar VMIP2P00
 enrastreu enrastrar VMM02P0X
 enrastreu enrastrar VMSP2P00
-enrastri enrastrar VMIP1S0S
 enrastri enrastrar VMM03S0Y
 enrastri enrastrar VMSP1S0Y
 enrastri enrastrar VMSP3S0Y
@@ -39561,7 +39190,6 @@ enrengleressis enrenglerar VMSI2S02
 enrenglereu enrenglerar VMIP2P00
 enrenglereu enrenglerar VMM02P0X
 enrenglereu enrenglerar VMSP2P00
-enrengleri enrenglerar VMIP1S0S
 enrengleri enrenglerar VMM03S0Y
 enrengleri enrenglerar VMSP1S0Y
 enrengleri enrenglerar VMSP3S0Y
@@ -39645,7 +39273,6 @@ enresinessis enresinar VMSI2S02
 enresineu enresinar VMIP2P00
 enresineu enresinar VMM02P0X
 enresineu enresinar VMSP2P00
-enresini enresinar VMIP1S0S
 enresini enresinar VMM03S0Y
 enresini enresinar VMSP1S0Y
 enresini enresinar VMSP3S0Y
@@ -39735,7 +39362,6 @@ enrodessis enrodar VMSI2S02
 enrodeu enrodar VMIP2P00
 enrodeu enrodar VMM02P0X
 enrodeu enrodar VMSP2P00
-enrodi enrodar VMIP1S0S
 enrodi enrodar VMM03S0Y
 enrodi enrodar VMSP1S0Y
 enrodi enrodar VMSP3S0Y
@@ -39820,7 +39446,6 @@ enroglessis enroglar VMSI2S02
 enrogleu enroglar VMIP2P00
 enrogleu enroglar VMM02P0X
 enrogleu enroglar VMSP2P00
-enrogli enroglar VMIP1S0S
 enrogli enroglar VMM03S0Y
 enrogli enroglar VMSP1S0Y
 enrogli enroglar VMSP3S0Y
@@ -39877,7 +39502,6 @@ ensagessis ensajar VMSI2S02
 ensageu ensajar VMIP2P00
 ensageu ensajar VMM02P0X
 ensageu ensajar VMSP2P00
-ensagi ensajar VMIP1S0S
 ensagi ensajar VMM03S0Y
 ensagi ensajar VMSP1S0Y
 ensagi ensajar VMSP3S0Y
@@ -40020,7 +39644,6 @@ ensanguinessis ensanguinar VMSI2S02
 ensanguineu ensanguinar VMIP2P00
 ensanguineu ensanguinar VMM02P0X
 ensanguineu ensanguinar VMSP2P00
-ensanguini ensanguinar VMIP1S0S
 ensanguini ensanguinar VMM03S0Y
 ensanguini ensanguinar VMSP1S0Y
 ensanguini ensanguinar VMSP3S0Y
@@ -40168,7 +39791,6 @@ ensarionessis ensarionar VMSI2S02
 ensarioneu ensarionar VMIP2P00
 ensarioneu ensarionar VMM02P0X
 ensarioneu ensarionar VMSP2P00
-ensarioni ensarionar VMIP1S0S
 ensarioni ensarionar VMM03S0Y
 ensarioni ensarionar VMSP1S0Y
 ensarioni ensarionar VMSP3S0Y
@@ -40216,7 +39838,6 @@ ensariésseu ensariar VMSI2P05
 ensariéssim ensariar VMSI1P02
 ensariéssiu ensariar VMSI2P02
 ensarií ensariar VMIS1S00
-ensariï ensariar VMIP1S0S
 ensariï ensariar VMM03S0Y
 ensariï ensariar VMSP1S0Y
 ensariï ensariar VMSP3S0Y
@@ -40280,7 +39901,6 @@ enseguidessis enseguidar VMSI2S02
 enseguideu enseguidar VMIP2P00
 enseguideu enseguidar VMM02P0X
 enseguideu enseguidar VMSP2P00
-enseguidi enseguidar VMIP1S0S
 enseguidi enseguidar VMM03S0Y
 enseguidi enseguidar VMSP1S0Y
 enseguidi enseguidar VMSP3S0Y
@@ -40366,7 +39986,6 @@ ensoguessis ensogar VMSI2S02
 ensogueu ensogar VMIP2P00
 ensogueu ensogar VMM02P0X
 ensogueu ensogar VMSP2P00
-ensogui ensogar VMIP1S0S
 ensogui ensogar VMM03S0Y
 ensogui ensogar VMSP1S0Y
 ensogui ensogar VMSP3S0Y
@@ -40450,7 +40069,6 @@ ensolessis ensolar VMSI2S02
 ensoleu ensolar VMIP2P00
 ensoleu ensolar VMM02P0X
 ensoleu ensolar VMSP2P00
-ensoli ensolar VMIP1S0S
 ensoli ensolar VMM03S0Y
 ensoli ensolar VMSP1S0Y
 ensoli ensolar VMSP3S0Y
@@ -40556,7 +40174,6 @@ ensomiésseu ensomiar VMSI2P05
 ensomiéssim ensomiar VMSI1P02
 ensomiéssiu ensomiar VMSI2P02
 ensomií ensomiar VMIS1S00
-ensomiï ensomiar VMIP1S0S
 ensomiï ensomiar VMM03S0Y
 ensomiï ensomiar VMSP1S0Y
 ensomiï ensomiar VMSP3S0Y
@@ -40620,7 +40237,6 @@ ensonillessis ensonillar VMSI2S02
 ensonilleu ensonillar VMIP2P00
 ensonilleu ensonillar VMM02P0X
 ensonilleu ensonillar VMSP2P00
-ensonilli ensonillar VMIP1S0S
 ensonilli ensonillar VMM03S0Y
 ensonilli ensonillar VMSP1S0Y
 ensonilli ensonillar VMSP3S0Y
@@ -40705,7 +40321,6 @@ ensordessis ensordar VMSI2S02
 ensordeu ensordar VMIP2P00
 ensordeu ensordar VMM02P0X
 ensordeu ensordar VMSP2P00
-ensordi ensordar VMIP1S0S
 ensordi ensordar VMM03S0Y
 ensordi ensordar VMSP1S0Y
 ensordi ensordar VMSP3S0Y
@@ -40819,7 +40434,6 @@ entebiésseu entebiar VMSI2P05
 entebiéssim entebiar VMSI1P02
 entebiéssiu entebiar VMSI2P02
 entebií entebiar VMIS1S00
-entebiï entebiar VMIP1S0S
 entebiï entebiar VMM03S0Y
 entebiï entebiar VMSP1S0Y
 entebiï entebiar VMSP3S0Y
@@ -40882,7 +40496,6 @@ entemenessis entemenar VMSI2S02
 entemeneu entemenar VMIP2P00
 entemeneu entemenar VMM02P0X
 entemeneu entemenar VMSP2P00
-entemeni entemenar VMIP1S0S
 entemeni entemenar VMM03S0Y
 entemeni entemenar VMSP1S0Y
 entemeni entemenar VMSP3S0Y
@@ -40970,7 +40583,6 @@ enteressis enterar VMSI2S02
 entereu enterar VMIP2P00
 entereu enterar VMM02P0X
 entereu enterar VMSP2P00
-enteri enterar VMIP1S0S
 enteri enterar VMM03S0Y
 enteri enterar VMSP1S0Y
 enteri enterar VMSP3S0Y
@@ -41057,7 +40669,6 @@ enteulessis enteular VMSI2S02
 enteuleu enteular VMIP2P00
 enteuleu enteular VMM02P0X
 enteuleu enteular VMSP2P00
-enteuli enteular VMIP1S0S
 enteuli enteular VMM03S0Y
 enteuli enteular VMSP1S0Y
 enteuli enteular VMSP3S0Y
@@ -41152,7 +40763,6 @@ entramessis entramar VMSI2S02
 entrameu entramar VMIP2P00
 entrameu entramar VMM02P0X
 entrameu entramar VMSP2P00
-entrami entramar VMIP1S0S
 entrami entramar VMM03S0Y
 entrami entramar VMSP1S0Y
 entrami entramar VMSP3S0Y
@@ -41239,7 +40849,6 @@ entrefiletessis entrefiletar VMSI2S02
 entrefileteu entrefiletar VMIP2P00
 entrefileteu entrefiletar VMM02P0X
 entrefileteu entrefiletar VMSP2P00
-entrefileti entrefiletar VMIP1S0S
 entrefileti entrefiletar VMM03S0Y
 entrefileti entrefiletar VMSP1S0Y
 entrefileti entrefiletar VMSP3S0Y
@@ -41324,7 +40933,6 @@ entrefolressis entrefolrar VMSI2S02
 entrefolreu entrefolrar VMIP2P00
 entrefolreu entrefolrar VMM02P0X
 entrefolreu entrefolrar VMSP2P00
-entrefolri entrefolrar VMIP1S0S
 entrefolri entrefolrar VMM03S0Y
 entrefolri entrefolrar VMSP1S0Y
 entrefolri entrefolrar VMSP3S0Y
@@ -41409,7 +41017,6 @@ entreforressis entreforrar VMSI2S02
 entreforreu entreforrar VMIP2P00
 entreforreu entreforrar VMM02P0X
 entreforreu entreforrar VMSP2P00
-entreforri entreforrar VMIP1S0S
 entreforri entreforrar VMM03S0Y
 entreforri entreforrar VMSP1S0Y
 entreforri entreforrar VMSP3S0Y
@@ -41510,7 +41117,6 @@ entullessis entullar VMSI2S02
 entulleu entullar VMIP2P00
 entulleu entullar VMM02P0X
 entulleu entullar VMSP2P00
-entulli entullar VMIP1S0S
 entulli entullar VMM03S0Y
 entulli entullar VMSP1S0Y
 entulli entullar VMSP3S0Y
@@ -41599,7 +41205,6 @@ enventrellessis enventrellar VMSI2S02
 enventrelleu enventrellar VMIP2P00
 enventrelleu enventrellar VMM02P0X
 enventrelleu enventrellar VMSP2P00
-enventrelli enventrellar VMIP1S0S
 enventrelli enventrellar VMM03S0Y
 enventrelli enventrellar VMSP1S0Y
 enventrelli enventrellar VMSP3S0Y
@@ -41705,7 +41310,6 @@ enviciésseu enviciar VMSI2P05
 enviciéssim enviciar VMSI1P02
 enviciéssiu enviciar VMSI2P02
 envicií enviciar VMIS1S00
-enviciï enviciar VMIP1S0S
 enviciï enviciar VMM03S0Y
 enviciï enviciar VMSP1S0Y
 enviciï enviciar VMSP3S0Y
@@ -41808,7 +41412,6 @@ envidriolessis envidriolar VMSI2S02
 envidrioleu envidriolar VMIP2P00
 envidrioleu envidriolar VMM02P0X
 envidrioleu envidriolar VMSP2P00
-envidrioli envidriolar VMIP1S0S
 envidrioli envidriolar VMM03S0Y
 envidrioli envidriolar VMSP1S0Y
 envidrioli envidriolar VMSP3S0Y
@@ -41946,7 +41549,6 @@ envitrallessis envitrallar VMSI2S02
 envitralleu envitrallar VMIP2P00
 envitralleu envitrallar VMM02P0X
 envitralleu envitrallar VMSP2P00
-envitralli envitrallar VMIP1S0S
 envitralli envitrallar VMM03S0Y
 envitralli envitrallar VMSP1S0Y
 envitralli envitrallar VMSP3S0Y
@@ -42045,7 +41647,6 @@ enxiquessis enxicar VMSI2S02
 enxiqueu enxicar VMIP2P00
 enxiqueu enxicar VMM02P0X
 enxiqueu enxicar VMSP2P00
-enxiqui enxicar VMIP1S0S
 enxiqui enxicar VMM03S0Y
 enxiqui enxicar VMSP1S0Y
 enxiqui enxicar VMSP3S0Y
@@ -42159,7 +41760,6 @@ eruguessis erugar VMSI2S02
 erugueu erugar VMIP2P00
 erugueu erugar VMM02P0X
 erugueu erugar VMSP2P00
-erugui erugar VMIP1S0S
 erugui erugar VMM03S0Y
 erugui erugar VMSP1S0Y
 erugui erugar VMSP3S0Y
@@ -42255,7 +41855,6 @@ esbarrallessis esbarrallar VMSI2S02
 esbarralleu esbarrallar VMIP2P00
 esbarralleu esbarrallar VMM02P0X
 esbarralleu esbarrallar VMSP2P00
-esbarralli esbarrallar VMIP1S0S
 esbarralli esbarrallar VMM03S0Y
 esbarralli esbarrallar VMSP1S0Y
 esbarralli esbarrallar VMSP3S0Y
@@ -42356,7 +41955,6 @@ esbarranquessis esbarrancar VMSI2S02
 esbarranqueu esbarrancar VMIP2P00
 esbarranqueu esbarrancar VMM02P0X
 esbarranqueu esbarrancar VMSP2P00
-esbarranqui esbarrancar VMIP1S0S
 esbarranqui esbarrancar VMM03S0Y
 esbarranqui esbarrancar VMSP1S0Y
 esbarranqui esbarrancar VMSP3S0Y
@@ -42618,7 +42216,6 @@ esbordeguessis esbordegar VMSI2S02
 esbordegueu esbordegar VMIP2P00
 esbordegueu esbordegar VMM02P0X
 esbordegueu esbordegar VMSP2P00
-esbordegui esbordegar VMIP1S0S
 esbordegui esbordegar VMM03S0Y
 esbordegui esbordegar VMSP1S0Y
 esbordegui esbordegar VMSP3S0Y
@@ -42704,7 +42301,6 @@ esbramessis esbramar VMSI2S02
 esbrameu esbramar VMIP2P00
 esbrameu esbramar VMM02P0X
 esbrameu esbramar VMSP2P00
-esbrami esbramar VMIP1S0S
 esbrami esbramar VMM03S0Y
 esbrami esbramar VMSP1S0Y
 esbrami esbramar VMSP3S0Y
@@ -42765,7 +42361,6 @@ escabussegessis escabussejar VMSI2S02
 escabussegeu escabussejar VMIP2P00
 escabussegeu escabussejar VMM02P0X
 escabussegeu escabussejar VMSP2P00
-escabussegi escabussejar VMIP1S0S
 escabussegi escabussejar VMM03S0Y
 escabussegi escabussejar VMSP1S0Y
 escabussegi escabussejar VMSP3S0Y
@@ -42889,7 +42484,6 @@ escaiolessis escaiolar VMSI2S02
 escaioleu escaiolar VMIP2P00
 escaioleu escaiolar VMM02P0X
 escaioleu escaiolar VMSP2P00
-escaioli escaiolar VMIP1S0S
 escaioli escaiolar VMM03S0Y
 escaioli escaiolar VMSP1S0Y
 escaioli escaiolar VMSP3S0Y
@@ -43176,7 +42770,6 @@ escampiésseu escampiar VMSI2P05
 escampiéssim escampiar VMSI1P02
 escampiéssiu escampiar VMSI2P02
 escampií escampiar VMIS1S00
-escampiï escampiar VMIP1S0S
 escampiï escampiar VMM03S0Y
 escampiï escampiar VMSP1S0Y
 escampiï escampiar VMSP3S0Y
@@ -43240,7 +42833,6 @@ escamporrullessis escamporrullar VMSI2S02
 escamporrulleu escamporrullar VMIP2P00
 escamporrulleu escamporrullar VMM02P0X
 escamporrulleu escamporrullar VMSP2P00
-escamporrulli escamporrullar VMIP1S0S
 escamporrulli escamporrullar VMM03S0Y
 escamporrulli escamporrullar VMSP1S0Y
 escamporrulli escamporrullar VMSP3S0Y
@@ -43346,7 +42938,6 @@ escanellessis escanellar VMSI2S02
 escanelleu escanellar VMIP2P00
 escanelleu escanellar VMM02P0X
 escanelleu escanellar VMSP2P00
-escanelli escanellar VMIP1S0S
 escanelli escanellar VMM03S0Y
 escanelli escanellar VMSP1S0Y
 escanelli escanellar VMSP3S0Y
@@ -43442,7 +43033,6 @@ escarramallessis escarramallar VMSI2S02
 escarramalleu escarramallar VMIP2P00
 escarramalleu escarramallar VMM02P0X
 escarramalleu escarramallar VMSP2P00
-escarramalli escarramallar VMIP1S0S
 escarramalli escarramallar VMM03S0Y
 escarramalli escarramallar VMSP1S0Y
 escarramalli escarramallar VMSP3S0Y
@@ -43489,7 +43079,6 @@ escatainegessis escatainejar VMSI2S02
 escatainegeu escatainejar VMIP2P00
 escatainegeu escatainejar VMM02P0X
 escatainegeu escatainejar VMSP2P00
-escatainegi escatainejar VMIP1S0S
 escatainegi escatainejar VMM03S0Y
 escatainegi escatainejar VMSP1S0Y
 escatainegi escatainejar VMSP3S0Y
@@ -43623,7 +43212,6 @@ esclafunyessis esclafunyar VMSI2S02
 esclafunyeu esclafunyar VMIP2P00
 esclafunyeu esclafunyar VMM02P0X
 esclafunyeu esclafunyar VMSP2P00
-esclafunyi esclafunyar VMIP1S0S
 esclafunyi esclafunyar VMM03S0Y
 esclafunyi esclafunyar VMSP1S0Y
 esclafunyi esclafunyar VMSP3S0Y
@@ -43722,7 +43310,6 @@ escolleressis escollerar VMSI2S02
 escollereu escollerar VMIP2P00
 escollereu escollerar VMM02P0X
 escollereu escollerar VMSP2P00
-escolleri escollerar VMIP1S0S
 escolleri escollerar VMM03S0Y
 escolleri escollerar VMSP1S0Y
 escolleri escollerar VMSP3S0Y
@@ -43810,7 +43397,6 @@ escorfollessis escorfollar VMSI2S02
 escorfolleu escorfollar VMIP2P00
 escorfolleu escorfollar VMM02P0X
 escorfolleu escorfollar VMSP2P00
-escorfolli escorfollar VMIP1S0S
 escorfolli escorfollar VMM03S0Y
 escorfolli escorfollar VMSP1S0Y
 escorfolli escorfollar VMSP3S0Y
@@ -43934,7 +43520,6 @@ esllissessis esllissar VMSI2S02
 esllisseu esllissar VMIP2P00
 esllisseu esllissar VMM02P0X
 esllisseu esllissar VMSP2P00
-esllissi esllissar VMIP1S0S
 esllissi esllissar VMM03S0Y
 esllissi esllissar VMSP1S0Y
 esllissi esllissar VMSP3S0Y
@@ -44046,7 +43631,6 @@ espardalitzessis espardalitzar VMSI2S02
 espardalitzeu espardalitzar VMIP2P00
 espardalitzeu espardalitzar VMM02P0X
 espardalitzeu espardalitzar VMSP2P00
-espardalitzi espardalitzar VMIP1S0S
 espardalitzi espardalitzar VMM03S0Y
 espardalitzi espardalitzar VMSP1S0Y
 espardalitzi espardalitzar VMSP3S0Y
@@ -44188,7 +43772,6 @@ espectacularitzessis espectacularitzar VMSI2S02
 espectacularitzeu espectacularitzar VMIP2P00
 espectacularitzeu espectacularitzar VMM02P0X
 espectacularitzeu espectacularitzar VMSP2P00
-espectacularitzi espectacularitzar VMIP1S0S
 espectacularitzi espectacularitzar VMM03S0Y
 espectacularitzi espectacularitzar VMSP1S0Y
 espectacularitzi espectacularitzar VMSP3S0Y
@@ -44276,7 +43859,6 @@ espeésseu espear VMSI2P05
 espeéssim espear VMSI1P02
 espeéssiu espear VMSI2P02
 espeí espear VMIS1S00
-espeï espear VMIP1S0S
 espeï espear VMM03S0Y
 espeï espear VMSP1S0Y
 espeï espear VMSP3S0Y
@@ -44346,7 +43928,6 @@ espilleressis espillerar VMSI2S02
 espillereu espillerar VMIP2P00
 espillereu espillerar VMM02P0X
 espillereu espillerar VMSP2P00
-espilleri espillerar VMIP1S0S
 espilleri espillerar VMM03S0Y
 espilleri espillerar VMSP1S0Y
 espilleri espillerar VMSP3S0Y
@@ -44464,7 +44045,6 @@ espolleguessis espollegar VMSI2S02
 espollegueu espollegar VMIP2P00
 espollegueu espollegar VMM02P0X
 espollegueu espollegar VMSP2P00
-espollegui espollegar VMIP1S0S
 espollegui espollegar VMM03S0Y
 espollegui espollegar VMSP1S0Y
 espollegui espollegar VMSP3S0Y
@@ -44672,7 +44252,6 @@ estaconessis estaconar VMSI2S02
 estaconeu estaconar VMIP2P00
 estaconeu estaconar VMM02P0X
 estaconeu estaconar VMSP2P00
-estaconi estaconar VMIP1S0S
 estaconi estaconar VMM03S0Y
 estaconi estaconar VMSP1S0Y
 estaconi estaconar VMSP3S0Y
@@ -44763,7 +44342,6 @@ estanquitzessis estanquitzar VMSI2S02
 estanquitzeu estanquitzar VMIP2P00
 estanquitzeu estanquitzar VMM02P0X
 estanquitzeu estanquitzar VMSP2P00
-estanquitzi estanquitzar VMIP1S0S
 estanquitzi estanquitzar VMM03S0Y
 estanquitzi estanquitzar VMSP1S0Y
 estanquitzi estanquitzar VMSP3S0Y
@@ -44987,7 +44565,6 @@ estopessis estopar VMSI2S02
 estopeu estopar VMIP2P00
 estopeu estopar VMM02P0X
 estopeu estopar VMSP2P00
-estopi estopar VMIP1S0S
 estopi estopar VMM03S0Y
 estopi estopar VMSP1S0Y
 estopi estopar VMSP3S0Y
@@ -45076,7 +44653,6 @@ estorrufessis estorrufar VMSI2S02
 estorrufeu estorrufar VMIP2P00
 estorrufeu estorrufar VMM02P0X
 estorrufeu estorrufar VMSP2P00
-estorrufi estorrufar VMIP1S0S
 estorrufi estorrufar VMM03S0Y
 estorrufi estorrufar VMSP1S0Y
 estorrufi estorrufar VMSP3S0Y
@@ -45174,7 +44750,6 @@ estridulessis estridular VMSI2S02
 estriduleu estridular VMIP2P00
 estriduleu estridular VMM02P0X
 estriduleu estridular VMSP2P00
-estriduli estridular VMIP1S0S
 estriduli estridular VMM03S0Y
 estriduli estridular VMSP1S0Y
 estriduli estridular VMSP3S0Y
@@ -45258,7 +44833,6 @@ estrocussessis estrocussar VMSI2S02
 estrocusseu estrocussar VMIP2P00
 estrocusseu estrocussar VMM02P0X
 estrocusseu estrocussar VMSP2P00
-estrocussi estrocussar VMIP1S0S
 estrocussi estrocussar VMM03S0Y
 estrocussi estrocussar VMSP1S0Y
 estrocussi estrocussar VMSP3S0Y
@@ -45350,7 +44924,6 @@ estufarressis estufarrar VMSI2S02
 estufarreu estufarrar VMIP2P00
 estufarreu estufarrar VMM02P0X
 estufarreu estufarrar VMSP2P00
-estufarri estufarrar VMIP1S0S
 estufarri estufarrar VMM03S0Y
 estufarri estufarrar VMSP1S0Y
 estufarri estufarrar VMSP3S0Y
@@ -45443,7 +45016,6 @@ esvedillessis esvedillar VMSI2S02
 esvedilleu esvedillar VMIP2P00
 esvedilleu esvedillar VMM02P0X
 esvedilleu esvedillar VMSP2P00
-esvedilli esvedillar VMIP1S0S
 esvedilli esvedillar VMM03S0Y
 esvedilli esvedillar VMSP1S0Y
 esvedilli esvedillar VMSP3S0Y
@@ -45568,7 +45140,6 @@ esventolegessis esventolejar VMSI2S02
 esventolegeu esventolejar VMIP2P00
 esventolegeu esventolejar VMM02P0X
 esventolegeu esventolejar VMSP2P00
-esventolegi esventolejar VMIP1S0S
 esventolegi esventolejar VMM03S0Y
 esventolegi esventolejar VMSP1S0Y
 esventolegi esventolejar VMSP3S0Y
@@ -45759,7 +45330,6 @@ exemplaritzessis exemplaritzar VMSI2S02
 exemplaritzeu exemplaritzar VMIP2P00
 exemplaritzeu exemplaritzar VMM02P0X
 exemplaritzeu exemplaritzar VMSP2P00
-exemplaritzi exemplaritzar VMIP1S0S
 exemplaritzi exemplaritzar VMM03S0Y
 exemplaritzi exemplaritzar VMSP1S0Y
 exemplaritzi exemplaritzar VMSP3S0Y
@@ -45848,7 +45418,6 @@ exoressis exorar VMSI2S02
 exoreu exorar VMIP2P00
 exoreu exorar VMM02P0X
 exoreu exorar VMSP2P00
-exori exorar VMIP1S0S
 exori exorar VMM03S0Y
 exori exorar VMSP1S0Y
 exori exorar VMSP3S0Y
@@ -46017,7 +45586,6 @@ extraditessis extraditar VMSI2S02
 extraditeu extraditar VMIP2P00
 extraditeu extraditar VMM02P0X
 extraditeu extraditar VMSP2P00
-extraditi extraditar VMIP1S0S
 extraditi extraditar VMM03S0Y
 extraditi extraditar VMSP1S0Y
 extraditi extraditar VMSP3S0Y
@@ -46128,7 +45696,6 @@ extremaunciésseu extremaunciar VMSI2P05
 extremaunciéssim extremaunciar VMSI1P02
 extremaunciéssiu extremaunciar VMSI2P02
 extremauncií extremaunciar VMIS1S00
-extremaunciï extremaunciar VMIP1S0S
 extremaunciï extremaunciar VMM03S0Y
 extremaunciï extremaunciar VMSP1S0Y
 extremaunciï extremaunciar VMSP3S0Y
@@ -46167,7 +45734,6 @@ facilegessis facilejar VMSI2S02
 facilegeu facilejar VMIP2P00
 facilegeu facilejar VMM02P0X
 facilegeu facilejar VMSP2P00
-facilegi facilejar VMIP1S0S
 facilegi facilejar VMM03S0Y
 facilegi facilejar VMSP1S0Y
 facilegi facilejar VMSP3S0Y
@@ -46304,7 +45870,6 @@ faldonegessis faldonejar VMSI2S02
 faldonegeu faldonejar VMIP2P00
 faldonegeu faldonejar VMM02P0X
 faldonegeu faldonejar VMSP2P00
-faldonegi faldonejar VMIP1S0S
 faldonegi faldonejar VMM03S0Y
 faldonegi faldonejar VMSP1S0Y
 faldonegi faldonejar VMSP3S0Y
@@ -46400,7 +45965,6 @@ faluguegessis faluguejar VMSI2S02
 faluguegeu faluguejar VMIP2P00
 faluguegeu faluguejar VMM02P0X
 faluguegeu faluguejar VMSP2P00
-faluguegi faluguejar VMIP1S0S
 faluguegi faluguejar VMM03S0Y
 faluguegi faluguejar VMSP1S0Y
 faluguegi faluguejar VMSP3S0Y
@@ -46489,7 +46053,6 @@ fandanguegessis fandanguejar VMSI2S02
 fandanguegeu fandanguejar VMIP2P00
 fandanguegeu fandanguejar VMM02P0X
 fandanguegeu fandanguejar VMSP2P00
-fandanguegi fandanguejar VMIP1S0S
 fandanguegi fandanguejar VMM03S0Y
 fandanguegi fandanguejar VMSP1S0Y
 fandanguegi fandanguejar VMSP3S0Y
@@ -46585,7 +46148,6 @@ farandulegessis farandulejar VMSI2S02
 farandulegeu farandulejar VMIP2P00
 farandulegeu farandulejar VMM02P0X
 farandulegeu farandulejar VMSP2P00
-farandulegi farandulejar VMIP1S0S
 farandulegi farandulejar VMM03S0Y
 farandulegi farandulejar VMSP1S0Y
 farandulegi farandulejar VMSP3S0Y
@@ -46684,7 +46246,6 @@ fargessis farjar VMSI2S02
 fargeu farjar VMIP2P00
 fargeu farjar VMM02P0X
 fargeu farjar VMSP2P00
-fargi farjar VMIP1S0S
 fargi farjar VMM03S0Y
 fargi farjar VMSP1S0Y
 fargi farjar VMSP3S0Y
@@ -46861,7 +46422,6 @@ fastidiésseu fastidiar VMSI2P05
 fastidiéssim fastidiar VMSI1P02
 fastidiéssiu fastidiar VMSI2P02
 fastidií fastidiar VMIS1S00
-fastidiï fastidiar VMIP1S0S
 fastidiï fastidiar VMM03S0Y
 fastidiï fastidiar VMSP1S0Y
 fastidiï fastidiar VMSP3S0Y
@@ -46901,7 +46461,6 @@ faxegessis faxejar VMSI2S02
 faxegeu faxejar VMIP2P00
 faxegeu faxejar VMM02P0X
 faxegeu faxejar VMSP2P00
-faxegi faxejar VMIP1S0S
 faxegi faxejar VMM03S0Y
 faxegi faxejar VMSP1S0Y
 faxegi faxejar VMSP3S0Y
@@ -47060,7 +46619,6 @@ feniquessis fenicar VMSI2S02
 feniqueu fenicar VMIP2P00
 feniqueu fenicar VMM02P0X
 feniqueu fenicar VMSP2P00
-feniqui fenicar VMIP1S0S
 feniqui fenicar VMM03S0Y
 feniqui fenicar VMSP1S0Y
 feniqui fenicar VMSP3S0Y
@@ -47171,7 +46729,6 @@ festonessis festonar VMSI2S02
 festoneu festonar VMIP2P00
 festoneu festonar VMM02P0X
 festoneu festonar VMSP2P00
-festoni festonar VMIP1S0S
 festoni festonar VMM03S0Y
 festoni festonar VMSP1S0Y
 festoni festonar VMSP3S0Y
@@ -47256,7 +46813,6 @@ fibressis fibrar VMSI2S02
 fibreu fibrar VMIP2P00
 fibreu fibrar VMM02P0X
 fibreu fibrar VMSP2P00
-fibri fibrar VMIP1S0S
 fibri fibrar VMM03S0Y
 fibri fibrar VMSP1S0Y
 fibri fibrar VMSP3S0Y
@@ -47307,7 +46863,6 @@ ficessis fiçar VMSI2S02
 ficeu fiçar VMIP2P00
 ficeu fiçar VMM02P0X
 ficeu fiçar VMSP2P00
-fici fiçar VMIP1S0S
 fici fiçar VMM03S0Y
 fici fiçar VMSP1S0Y
 fici fiçar VMSP3S0Y
@@ -47379,7 +46934,6 @@ fideïcomissessis fideïcomissar VMSI2S02
 fideïcomisseu fideïcomissar VMIP2P00
 fideïcomisseu fideïcomissar VMM02P0X
 fideïcomisseu fideïcomissar VMSP2P00
-fideïcomissi fideïcomissar VMIP1S0S
 fideïcomissi fideïcomissar VMM03S0Y
 fideïcomissi fideïcomissar VMSP1S0Y
 fideïcomissi fideïcomissar VMSP3S0Y
@@ -47650,7 +47204,6 @@ flabel·lessis flabel·lar VMSI2S02
 flabel·leu flabel·lar VMIP2P00
 flabel·leu flabel·lar VMM02P0X
 flabel·leu flabel·lar VMSP2P00
-flabel·li flabel·lar VMIP1S0S
 flabel·li flabel·lar VMM03S0Y
 flabel·li flabel·lar VMSP1S0Y
 flabel·li flabel·lar VMSP3S0Y
@@ -47713,7 +47266,6 @@ flautegessis flautejar VMSI2S02
 flautegeu flautejar VMIP2P00
 flautegeu flautejar VMM02P0X
 flautegeu flautejar VMSP2P00
-flautegi flautejar VMIP1S0S
 flautegi flautejar VMM03S0Y
 flautegi flautejar VMSP1S0Y
 flautegi flautejar VMSP3S0Y
@@ -47866,7 +47418,6 @@ fletxessis fletxar VMSI2S02
 fletxeu fletxar VMIP2P00
 fletxeu fletxar VMM02P0X
 fletxeu fletxar VMSP2P00
-fletxi fletxar VMIP1S0S
 fletxi fletxar VMM03S0Y
 fletxi fletxar VMSP1S0Y
 fletxi fletxar VMSP3S0Y
@@ -47969,7 +47520,6 @@ fliquessis flicar VMSI2S02
 fliqueu flicar VMIP2P00
 fliqueu flicar VMM02P0X
 fliqueu flicar VMSP2P00
-fliqui flicar VMIP1S0S
 fliqui flicar VMM03S0Y
 fliqui flicar VMSP1S0Y
 fliqui flicar VMSP3S0Y
@@ -48020,7 +47570,6 @@ flotegessis flotejar VMSI2S02
 flotegeu flotejar VMIP2P00
 flotegeu flotejar VMM02P0X
 flotegeu flotejar VMSP2P00
-flotegi flotejar VMIP1S0S
 flotegi flotejar VMM03S0Y
 flotegi flotejar VMSP1S0Y
 flotegi flotejar VMSP3S0Y
@@ -48260,7 +47809,6 @@ forceguegessis forceguejar VMSI2S02
 forceguegeu forceguejar VMIP2P00
 forceguegeu forceguejar VMM02P0X
 forceguegeu forceguejar VMSP2P00
-forceguegi forceguejar VMIP1S0S
 forceguegi forceguejar VMM03S0Y
 forceguegi forceguejar VMSP1S0Y
 forceguegi forceguejar VMSP3S0Y
@@ -48347,7 +47895,6 @@ formategessis formatejar VMSI2S02
 formategeu formatejar VMIP2P00
 formategeu formatejar VMM02P0X
 formategeu formatejar VMSP2P00
-formategi formatejar VMIP1S0S
 formategi formatejar VMM03S0Y
 formategi formatejar VMSP1S0Y
 formategi formatejar VMSP3S0Y
@@ -48502,7 +48049,6 @@ francesegessis francesejar VMSI2S02
 francesegeu francesejar VMIP2P00
 francesegeu francesejar VMM02P0X
 francesegeu francesejar VMSP2P00
-francesegi francesejar VMIP1S0S
 francesegi francesejar VMM03S0Y
 francesegi francesejar VMSP1S0Y
 francesegi francesejar VMSP3S0Y
@@ -48608,7 +48154,6 @@ frauegessis frauejar VMSI2S02
 frauegeu frauejar VMIP2P00
 frauegeu frauejar VMM02P0X
 frauegeu frauejar VMSP2P00
-frauegi frauejar VMIP1S0S
 frauegi frauejar VMM03S0Y
 frauegi frauejar VMSP1S0Y
 frauegi frauejar VMSP3S0Y
@@ -48774,7 +48319,6 @@ fricativitzessis fricativitzar VMSI2S02
 fricativitzeu fricativitzar VMIP2P00
 fricativitzeu fricativitzar VMM02P0X
 fricativitzeu fricativitzar VMSP2P00
-fricativitzi fricativitzar VMIP1S0S
 fricativitzi fricativitzar VMM03S0Y
 fricativitzi fricativitzar VMSP1S0Y
 fricativitzi fricativitzar VMSP3S0Y
@@ -48827,7 +48371,6 @@ frontegessis frontejar VMSI2S02
 frontegeu frontejar VMIP2P00
 frontegeu frontejar VMM02P0X
 frontegeu frontejar VMSP2P00
-frontegi frontejar VMIP1S0S
 frontegi frontejar VMM03S0Y
 frontegi frontejar VMSP1S0Y
 frontegi frontejar VMSP3S0Y
@@ -48955,7 +48498,6 @@ fumeregessis fumerejar VMSI2S02
 fumeregeu fumerejar VMIP2P00
 fumeregeu fumerejar VMM02P0X
 fumeregeu fumerejar VMSP2P00
-fumeregi fumerejar VMIP1S0S
 fumeregi fumerejar VMM03S0Y
 fumeregi fumerejar VMSP1S0Y
 fumeregi fumerejar VMSP3S0Y
@@ -49089,7 +48631,6 @@ funyessis funyar VMSI2S02
 funyeu funyar VMIP2P00
 funyeu funyar VMM02P0X
 funyeu funyar VMSP2P00
-funyi funyar VMIP1S0S
 funyi funyar VMM03S0Y
 funyi funyar VMSP1S0Y
 funyi funyar VMSP3S0Y
@@ -49136,7 +48677,6 @@ furegessis furejar VMSI2S02
 furegeu furejar VMIP2P00
 furegeu furejar VMM02P0X
 furegeu furejar VMSP2P00
-furegi furejar VMIP1S0S
 furegi furejar VMM03S0Y
 furegi furejar VMSP1S0Y
 furegi furejar VMSP3S0Y
@@ -49299,7 +48839,6 @@ fussessis fussar VMSI2S02
 fusseu fussar VMIP2P00
 fusseu fussar VMM02P0X
 fusseu fussar VMSP2P00
-fussi fussar VMIP1S0S
 fussi fussar VMM03S0Y
 fussi fussar VMSP1S0Y
 fussi fussar VMSP3S0Y
@@ -49397,7 +48936,6 @@ gafessis gafar VMSI2S02
 gafeu gafar VMIP2P00
 gafeu gafar VMM02P0X
 gafeu gafar VMSP2P00
-gafi gafar VMIP1S0S
 gafi gafar VMM03S0Y
 gafi gafar VMSP1S0Y
 gafi gafar VMSP3S0Y
@@ -49568,7 +49106,6 @@ galdufessis galdufar VMSI2S02
 galdufeu galdufar VMIP2P00
 galdufeu galdufar VMM02P0X
 galdufeu galdufar VMSP2P00
-galdufi galdufar VMIP1S0S
 galdufi galdufar VMM03S0Y
 galdufi galdufar VMSP1S0Y
 galdufi galdufar VMSP3S0Y
@@ -49679,7 +49216,6 @@ galleguitzessis galleguitzar VMSI2S02
 galleguitzeu galleguitzar VMIP2P00
 galleguitzeu galleguitzar VMM02P0X
 galleguitzeu galleguitzar VMSP2P00
-galleguitzi galleguitzar VMIP1S0S
 galleguitzi galleguitzar VMM03S0Y
 galleguitzi galleguitzar VMSP1S0Y
 galleguitzi galleguitzar VMSP3S0Y
@@ -49778,7 +49314,6 @@ gallonessis gallonar VMSI2S02
 galloneu gallonar VMIP2P00
 galloneu gallonar VMM02P0X
 galloneu gallonar VMSP2P00
-galloni gallonar VMIP1S0S
 galloni gallonar VMM03S0Y
 galloni gallonar VMSP1S0Y
 galloni gallonar VMSP3S0Y
@@ -49906,7 +49441,6 @@ ganguegessis ganguejar VMSI2S02
 ganguegeu ganguejar VMIP2P00
 ganguegeu ganguejar VMM02P0X
 ganguegeu ganguejar VMSP2P00
-ganguegi ganguejar VMIP1S0S
 ganguegi ganguejar VMM03S0Y
 ganguegi ganguejar VMSP1S0Y
 ganguegi ganguejar VMSP3S0Y
@@ -50009,7 +49543,6 @@ gargolegessis gargolejar VMSI2S02
 gargolegeu gargolejar VMIP2P00
 gargolegeu gargolejar VMM02P0X
 gargolegeu gargolejar VMSP2P00
-gargolegi gargolejar VMIP1S0S
 gargolegi gargolejar VMM03S0Y
 gargolegi gargolejar VMSP1S0Y
 gargolegi gargolejar VMSP3S0Y
@@ -50140,7 +49673,6 @@ garrapinyessis garrapinyar VMSI2S02
 garrapinyeu garrapinyar VMIP2P00
 garrapinyeu garrapinyar VMM02P0X
 garrapinyeu garrapinyar VMSP2P00
-garrapinyi garrapinyar VMIP1S0S
 garrapinyi garrapinyar VMM03S0Y
 garrapinyi garrapinyar VMSP1S0Y
 garrapinyi garrapinyar VMSP3S0Y
@@ -50237,7 +49769,6 @@ gasonessis gasonar VMSI2S02
 gasoneu gasonar VMIP2P00
 gasoneu gasonar VMM02P0X
 gasoneu gasonar VMSP2P00
-gasoni gasonar VMIP1S0S
 gasoni gasonar VMM03S0Y
 gasoni gasonar VMSP1S0Y
 gasoni gasonar VMSP3S0Y
@@ -50447,7 +49978,6 @@ giteressis giterar VMSI2S02
 gitereu giterar VMIP2P00
 gitereu giterar VMM02P0X
 gitereu giterar VMSP2P00
-giteri giterar VMIP1S0S
 giteri giterar VMM03S0Y
 giteri giterar VMSP1S0Y
 giteri giterar VMSP3S0Y
@@ -50527,7 +50057,6 @@ glotonegessis glotonejar VMSI2S02
 glotonegeu glotonejar VMIP2P00
 glotonegeu glotonejar VMM02P0X
 glotonegeu glotonejar VMSP2P00
-glotonegi glotonejar VMIP1S0S
 glotonegi glotonejar VMM03S0Y
 glotonegi glotonejar VMSP1S0Y
 glotonegi glotonejar VMSP3S0Y
@@ -50684,7 +50213,6 @@ gorrinessis gorrinar VMSI2S02
 gorrineu gorrinar VMIP2P00
 gorrineu gorrinar VMM02P0X
 gorrineu gorrinar VMSP2P00
-gorrini gorrinar VMIP1S0S
 gorrini gorrinar VMM03S0Y
 gorrini gorrinar VMSP1S0Y
 gorrini gorrinar VMSP3S0Y
@@ -50842,7 +50370,6 @@ graonessis graonar VMSI2S02
 graoneu graonar VMIP2P00
 graoneu graonar VMM02P0X
 graoneu graonar VMSP2P00
-graoni graonar VMIP1S0S
 graoni graonar VMM03S0Y
 graoni graonar VMSP1S0Y
 graoni graonar VMSP3S0Y
@@ -50899,7 +50426,6 @@ greguegessis greguejar VMSI2S02
 greguegeu greguejar VMIP2P00
 greguegeu greguejar VMM02P0X
 greguegeu greguejar VMSP2P00
-greguegi greguejar VMIP1S0S
 greguegi greguejar VMM03S0Y
 greguegi greguejar VMSP1S0Y
 greguegi greguejar VMSP3S0Y
@@ -51031,7 +50557,6 @@ gripessis gripar VMSI2S02
 gripeu gripar VMIP2P00
 gripeu gripar VMM02P0X
 gripeu gripar VMSP2P00
-gripi gripar VMIP1S0S
 gripi gripar VMM03S0Y
 gripi gripar VMSP1S0Y
 gripi gripar VMSP3S0Y
@@ -51143,7 +50668,6 @@ gruguessis grugar VMSI2S02
 grugueu grugar VMIP2P00
 grugueu grugar VMM02P0X
 grugueu grugar VMSP2P00
-grugui grugar VMIP1S0S
 grugui grugar VMM03S0Y
 grugui grugar VMSP1S0Y
 grugui grugar VMSP3S0Y
@@ -51246,7 +50770,6 @@ guinyegessis guinyejar VMSI2S02
 guinyegeu guinyejar VMIP2P00
 guinyegeu guinyejar VMM02P0X
 guinyegeu guinyejar VMSP2P00
-guinyegi guinyejar VMIP1S0S
 guinyegi guinyejar VMM03S0Y
 guinyegi guinyejar VMSP1S0Y
 guinyegi guinyejar VMSP3S0Y
@@ -51404,7 +50927,6 @@ halotessis halotar VMSI2S02
 haloteu halotar VMIP2P00
 haloteu halotar VMM02P0X
 haloteu halotar VMSP2P00
-haloti halotar VMIP1S0S
 haloti halotar VMM03S0Y
 haloti halotar VMSP1S0Y
 haloti halotar VMSP3S0Y
@@ -51515,7 +51037,6 @@ harquessis harcar VMSI2S02
 harqueu harcar VMIP2P00
 harqueu harcar VMM02P0X
 harqueu harcar VMSP2P00
-harqui harcar VMIP1S0S
 harqui harcar VMM03S0Y
 harqui harcar VMSP1S0Y
 harqui harcar VMSP3S0Y
@@ -51628,7 +51149,6 @@ hemolitzessis hemolitzar VMSI2S02
 hemolitzeu hemolitzar VMIP2P00
 hemolitzeu hemolitzar VMM02P0X
 hemolitzeu hemolitzar VMSP2P00
-hemolitzi hemolitzar VMIP1S0S
 hemolitzi hemolitzar VMM03S0Y
 hemolitzi hemolitzar VMSP1S0Y
 hemolitzi hemolitzar VMSP3S0Y
@@ -51828,7 +51348,6 @@ hidrofuguessis hidrofugar VMSI2S02
 hidrofugueu hidrofugar VMIP2P00
 hidrofugueu hidrofugar VMM02P0X
 hidrofugueu hidrofugar VMSP2P00
-hidrofugui hidrofugar VMIP1S0S
 hidrofugui hidrofugar VMM03S0Y
 hidrofugui hidrofugar VMSP1S0Y
 hidrofugui hidrofugar VMSP3S0Y
@@ -51924,7 +51443,6 @@ himnegessis himnejar VMSI2S02
 himnegeu himnejar VMIP2P00
 himnegeu himnejar VMM02P0X
 himnegeu himnejar VMSP2P00
-himnegi himnejar VMIP1S0S
 himnegi himnejar VMM03S0Y
 himnegi himnejar VMSP1S0Y
 himnegi himnejar VMSP3S0Y
@@ -52065,7 +51583,6 @@ hiperexcitessis hiperexcitar VMSI2S02
 hiperexciteu hiperexcitar VMIP2P00
 hiperexciteu hiperexcitar VMM02P0X
 hiperexciteu hiperexcitar VMSP2P00
-hiperexciti hiperexcitar VMIP1S0S
 hiperexciti hiperexcitar VMM03S0Y
 hiperexciti hiperexcitar VMSP1S0Y
 hiperexciti hiperexcitar VMSP3S0Y
@@ -52178,7 +51695,6 @@ hiperventilessis hiperventilar VMSI2S02
 hiperventileu hiperventilar VMIP2P00
 hiperventileu hiperventilar VMM02P0X
 hiperventileu hiperventilar VMSP2P00
-hiperventili hiperventilar VMIP1S0S
 hiperventili hiperventilar VMM03S0Y
 hiperventili hiperventilar VMSP1S0Y
 hiperventili hiperventilar VMSP3S0Y
@@ -52415,7 +51931,6 @@ hostiésseu hostiar VMSI2P05
 hostiéssim hostiar VMSI1P02
 hostiéssiu hostiar VMSI2P02
 hostií hostiar VMIS1S00
-hostiï hostiar VMIP1S0S
 hostiï hostiar VMM03S0Y
 hostiï hostiar VMSP1S0Y
 hostiï hostiar VMSP3S0Y
@@ -52498,7 +52013,6 @@ humanessis humanar VMSI2S02
 humaneu humanar VMIP2P00
 humaneu humanar VMM02P0X
 humaneu humanar VMSP2P00
-humani humanar VMIP1S0S
 humani humanar VMM03S0Y
 humani humanar VMSP1S0Y
 humani humanar VMSP3S0Y
@@ -52752,7 +52266,6 @@ imbecil·litzessis imbecil·litzar VMSI2S02
 imbecil·litzeu imbecil·litzar VMIP2P00
 imbecil·litzeu imbecil·litzar VMM02P0X
 imbecil·litzeu imbecil·litzar VMSP2P00
-imbecil·litzi imbecil·litzar VMIP1S0S
 imbecil·litzi imbecil·litzar VMM03S0Y
 imbecil·litzi imbecil·litzar VMSP1S0Y
 imbecil·litzi imbecil·litzar VMSP3S0Y
@@ -52849,7 +52362,6 @@ impastessis impastar VMSI2S02
 impasteu impastar VMIP2P00
 impasteu impastar VMM02P0X
 impasteu impastar VMSP2P00
-impasti impastar VMIP1S0S
 impasti impastar VMM03S0Y
 impasti impastar VMSP1S0Y
 impasti impastar VMSP3S0Y
@@ -53034,7 +52546,6 @@ imprimessis imprimar VMSI2S02
 imprimeu imprimar VMIP2P00
 imprimeu imprimar VMM02P0X
 imprimeu imprimar VMSP2P00
-imprimi imprimar VMIP1S0S
 imprimi imprimar VMM03S0Y
 imprimi imprimar VMSP1S0Y
 imprimi imprimar VMSP3S0Y
@@ -53179,7 +52690,6 @@ incordiésseu incordiar VMSI2P05
 incordiéssim incordiar VMSI1P02
 incordiéssiu incordiar VMSI2P02
 incordií incordiar VMIS1S00
-incordiï incordiar VMIP1S0S
 incordiï incordiar VMM03S0Y
 incordiï incordiar VMSP1S0Y
 incordiï incordiar VMSP3S0Y
@@ -53243,7 +52753,6 @@ incrassessis incrassar VMSI2S02
 incrasseu incrassar VMIP2P00
 incrasseu incrassar VMM02P0X
 incrasseu incrassar VMSP2P00
-incrassi incrassar VMIP1S0S
 incrassi incrassar VMM03S0Y
 incrassi incrassar VMSP1S0Y
 incrassi incrassar VMSP3S0Y
@@ -53457,7 +52966,6 @@ indiferenciésseu indiferenciar VMSI2P05
 indiferenciéssim indiferenciar VMSI1P02
 indiferenciéssiu indiferenciar VMSI2P02
 indiferencií indiferenciar VMIS1S00
-indiferenciï indiferenciar VMIP1S0S
 indiferenciï indiferenciar VMM03S0Y
 indiferenciï indiferenciar VMSP1S0Y
 indiferenciï indiferenciar VMSP3S0Y
@@ -53609,7 +53117,6 @@ infartessis infartar VMSI2S02
 infarteu infartar VMIP2P00
 infarteu infartar VMM02P0X
 infarteu infartar VMSP2P00
-infarti infartar VMIP1S0S
 infarti infartar VMM03S0Y
 infarti infartar VMSP1S0Y
 infarti infartar VMSP3S0Y
@@ -53700,7 +53207,6 @@ inferioritzessis inferioritzar VMSI2S02
 inferioritzeu inferioritzar VMIP2P00
 inferioritzeu inferioritzar VMM02P0X
 inferioritzeu inferioritzar VMSP2P00
-inferioritzi inferioritzar VMIP1S0S
 inferioritzi inferioritzar VMM03S0Y
 inferioritzi inferioritzar VMSP1S0Y
 inferioritzi inferioritzar VMSP3S0Y
@@ -53801,7 +53307,6 @@ infradotessis infradotar VMSI2S02
 infradoteu infradotar VMIP2P00
 infradoteu infradotar VMM02P0X
 infradoteu infradotar VMSP2P00
-infradoti infradotar VMIP1S0S
 infradoti infradotar VMM03S0Y
 infradoti infradotar VMSP1S0Y
 infradoti infradotar VMSP3S0Y
@@ -53890,7 +53395,6 @@ infrarepresentessis infrarepresentar VMSI2S02
 infrarepresenteu infrarepresentar VMIP2P00
 infrarepresenteu infrarepresentar VMM02P0X
 infrarepresenteu infrarepresentar VMSP2P00
-infrarepresenti infrarepresentar VMIP1S0S
 infrarepresenti infrarepresentar VMM03S0Y
 infrarepresenti infrarepresentar VMSP1S0Y
 infrarepresenti infrarepresentar VMSP3S0Y
@@ -54000,7 +53504,6 @@ ingeniésseu ingeniar VMSI2P05
 ingeniéssim ingeniar VMSI1P02
 ingeniéssiu ingeniar VMSI2P02
 ingenií ingeniar VMIS1S00
-ingeniï ingeniar VMIP1S0S
 ingeniï ingeniar VMM03S0Y
 ingeniï ingeniar VMSP1S0Y
 ingeniï ingeniar VMSP3S0Y
@@ -54072,7 +53575,6 @@ innivessis innivar VMSI2S02
 inniveu innivar VMIP2P00
 inniveu innivar VMM02P0X
 inniveu innivar VMSP2P00
-innivi innivar VMIP1S0S
 innivi innivar VMM03S0Y
 innivi innivar VMSP1S0Y
 innivi innivar VMSP3S0Y
@@ -54512,7 +54014,6 @@ joquegessis joquejar VMSI2S02
 joquegeu joquejar VMIP2P00
 joquegeu joquejar VMM02P0X
 joquegeu joquejar VMSP2P00
-joquegi joquejar VMIP1S0S
 joquegi joquejar VMM03S0Y
 joquegi joquejar VMSP1S0Y
 joquegi joquejar VMSP3S0Y
@@ -54764,7 +54265,6 @@ lateritzessis lateritzar VMSI2S02
 lateritzeu lateritzar VMIP2P00
 lateritzeu lateritzar VMM02P0X
 lateritzeu lateritzar VMSP2P00
-lateritzi lateritzar VMIP1S0S
 lateritzi lateritzar VMM03S0Y
 lateritzi lateritzar VMSP1S0Y
 lateritzi lateritzar VMSP3S0Y
@@ -54893,7 +54393,6 @@ letifiquessis letificar VMSI2S02
 letifiqueu letificar VMIP2P00
 letifiqueu letificar VMM02P0X
 letifiqueu letificar VMSP2P00
-letifiqui letificar VMIP1S0S
 letifiqui letificar VMM03S0Y
 letifiqui letificar VMSP1S0Y
 letifiqui letificar VMSP3S0Y
@@ -55082,7 +54581,6 @@ llafardessis llafardar VMSI2S02
 llafardeu llafardar VMIP2P00
 llafardeu llafardar VMM02P0X
 llafardeu llafardar VMSP2P00
-llafardi llafardar VMIP1S0S
 llafardi llafardar VMM03S0Y
 llafardi llafardar VMSP1S0Y
 llafardi llafardar VMSP3S0Y
@@ -55154,7 +54652,6 @@ llampegessis llampejar VMSI2S02
 llampegeu llampejar VMIP2P00
 llampegeu llampejar VMM02P0X
 llampegeu llampejar VMSP2P00
-llampegi llampejar VMIP1S0S
 llampegi llampejar VMM03S0Y
 llampegi llampejar VMSP1S0Y
 llampegi llampejar VMSP3S0Y
@@ -55322,7 +54819,6 @@ llarguessis llargar VMSI2S02
 llargueu llargar VMIP2P00
 llargueu llargar VMM02P0X
 llargueu llargar VMSP2P00
-llargui llargar VMIP1S0S
 llargui llargar VMM03S0Y
 llargui llargar VMSP1S0Y
 llargui llargar VMSP3S0Y
@@ -55477,7 +54973,6 @@ llemenessis llemenar VMSI2S02
 llemeneu llemenar VMIP2P00
 llemeneu llemenar VMM02P0X
 llemeneu llemenar VMSP2P00
-llemeni llemenar VMIP1S0S
 llemeni llemenar VMM03S0Y
 llemeni llemenar VMSP1S0Y
 llemeni llemenar VMSP3S0Y
@@ -55537,7 +55032,6 @@ llenguotegessis llenguotejar VMSI2S02
 llenguotegeu llenguotejar VMIP2P00
 llenguotegeu llenguotejar VMM02P0X
 llenguotegeu llenguotejar VMSP2P00
-llenguotegi llenguotejar VMIP1S0S
 llenguotegi llenguotejar VMM03S0Y
 llenguotegi llenguotejar VMSP1S0Y
 llenguotegi llenguotejar VMSP3S0Y
@@ -55632,7 +55126,6 @@ llengüegessis llengüejar VMSI2S02
 llengüegeu llengüejar VMIP2P00
 llengüegeu llengüejar VMM02P0X
 llengüegeu llengüejar VMSP2P00
-llengüegi llengüejar VMIP1S0S
 llengüegi llengüejar VMM03S0Y
 llengüegi llengüejar VMSP1S0Y
 llengüegi llengüejar VMSP3S0Y
@@ -55794,7 +55287,6 @@ llogregessis llogrejar VMSI2S02
 llogregeu llogrejar VMIP2P00
 llogregeu llogrejar VMM02P0X
 llogregeu llogrejar VMSP2P00
-llogregi llogrejar VMIP1S0S
 llogregi llogrejar VMM03S0Y
 llogregi llogrejar VMSP1S0Y
 llogregi llogrejar VMSP3S0Y
@@ -55987,7 +55479,6 @@ macadamitzessis macadamitzar VMSI2S02
 macadamitzeu macadamitzar VMIP2P00
 macadamitzeu macadamitzar VMM02P0X
 macadamitzeu macadamitzar VMSP2P00
-macadamitzi macadamitzar VMIP1S0S
 macadamitzi macadamitzar VMM03S0Y
 macadamitzi macadamitzar VMSP1S0Y
 macadamitzi macadamitzar VMSP3S0Y
@@ -56140,7 +55631,6 @@ malmulleressis malmullerar VMSI2S02
 malmullereu malmullerar VMIP2P00
 malmullereu malmullerar VMM02P0X
 malmullereu malmullerar VMSP2P00
-malmulleri malmullerar VMIP1S0S
 malmulleri malmullerar VMM03S0Y
 malmulleri malmullerar VMSP1S0Y
 malmulleri malmullerar VMSP3S0Y
@@ -56314,7 +55804,6 @@ maltessis maltar VMSI2S02
 malteu maltar VMIP2P00
 malteu maltar VMM02P0X
 malteu maltar VMSP2P00
-malti maltar VMIP1S0S
 malti maltar VMM03S0Y
 malti maltar VMSP1S0Y
 malti maltar VMSP3S0Y
@@ -56395,7 +55884,6 @@ manifessegessis manifessejar VMSI2S02
 manifessegeu manifessejar VMIP2P00
 manifessegeu manifessejar VMM02P0X
 manifessegeu manifessejar VMSP2P00
-manifessegi manifessejar VMIP1S0S
 manifessegi manifessejar VMM03S0Y
 manifessegi manifessejar VMSP1S0Y
 manifessegi manifessejar VMSP3S0Y
@@ -56523,7 +56011,6 @@ manjonguessis manjongar VMSI2S02
 manjongueu manjongar VMIP2P00
 manjongueu manjongar VMM02P0X
 manjongueu manjongar VMSP2P00
-manjongui manjongar VMIP1S0S
 manjongui manjongar VMM03S0Y
 manjongui manjongar VMSP1S0Y
 manjongui manjongar VMSP3S0Y
@@ -56683,7 +56170,6 @@ mapifiquessis mapificar VMSI2S02
 mapifiqueu mapificar VMIP2P00
 mapifiqueu mapificar VMM02P0X
 mapifiqueu mapificar VMSP2P00
-mapifiqui mapificar VMIP1S0S
 mapifiqui mapificar VMM03S0Y
 mapifiqui mapificar VMSP1S0Y
 mapifiqui mapificar VMSP3S0Y
@@ -56738,7 +56224,6 @@ mardanegessis mardanejar VMSI2S02
 mardanegeu mardanejar VMIP2P00
 mardanegeu mardanejar VMM02P0X
 mardanegeu mardanejar VMSP2P00
-mardanegi mardanejar VMIP1S0S
 mardanegi mardanejar VMM03S0Y
 mardanegi mardanejar VMSP1S0Y
 mardanegi mardanejar VMSP3S0Y
@@ -56896,7 +56381,6 @@ marmoritzessis marmoritzar VMSI2S02
 marmoritzeu marmoritzar VMIP2P00
 marmoritzeu marmoritzar VMM02P0X
 marmoritzeu marmoritzar VMSP2P00
-marmoritzi marmoritzar VMIP1S0S
 marmoritzi marmoritzar VMM03S0Y
 marmoritzi marmoritzar VMSP1S0Y
 marmoritzi marmoritzar VMSP3S0Y
@@ -57095,7 +56579,6 @@ martafallessis martafallar VMSI2S02
 martafalleu martafallar VMIP2P00
 martafalleu martafallar VMM02P0X
 martafalleu martafallar VMSP2P00
-martafalli martafallar VMIP1S0S
 martafalli martafallar VMM03S0Y
 martafalli martafallar VMSP1S0Y
 martafalli martafallar VMSP3S0Y
@@ -57223,7 +56706,6 @@ matacanessis matacanar VMSI2S02
 matacaneu matacanar VMIP2P00
 matacaneu matacanar VMM02P0X
 matacaneu matacanar VMSP2P00
-matacani matacanar VMIP1S0S
 matacani matacanar VMM03S0Y
 matacani matacanar VMSP1S0Y
 matacani matacanar VMSP3S0Y
@@ -57274,7 +56756,6 @@ mategessis matejar VMSI2S02
 mategeu matejar VMIP2P00
 mategeu matejar VMM02P0X
 mategeu matejar VMSP2P00
-mategi matejar VMIP1S0S
 mategi matejar VMM03S0Y
 mategi matejar VMSP1S0Y
 mategi matejar VMSP3S0Y
@@ -57371,7 +56852,6 @@ matraquegessis matraquejar VMSI2S02
 matraquegeu matraquejar VMIP2P00
 matraquegeu matraquejar VMM02P0X
 matraquegeu matraquejar VMSP2P00
-matraquegi matraquejar VMIP1S0S
 matraquegi matraquejar VMM03S0Y
 matraquegi matraquejar VMSP1S0Y
 matraquegi matraquejar VMSP3S0Y
@@ -57498,7 +56978,6 @@ matritzessis matritzar VMSI2S02
 matritzeu matritzar VMIP2P00
 matritzeu matritzar VMM02P0X
 matritzeu matritzar VMSP2P00
-matritzi matritzar VMIP1S0S
 matritzi matritzar VMM03S0Y
 matritzi matritzar VMSP1S0Y
 matritzi matritzar VMSP3S0Y
@@ -57582,7 +57061,6 @@ matxinessis matxinar VMSI2S02
 matxineu matxinar VMIP2P00
 matxineu matxinar VMM02P0X
 matxineu matxinar VMSP2P00
-matxini matxinar VMIP1S0S
 matxini matxinar VMM03S0Y
 matxini matxinar VMSP1S0Y
 matxini matxinar VMSP3S0Y
@@ -57837,7 +57315,6 @@ mensualitzessis mensualitzar VMSI2S02
 mensualitzeu mensualitzar VMIP2P00
 mensualitzeu mensualitzar VMM02P0X
 mensualitzeu mensualitzar VMSP2P00
-mensualitzi mensualitzar VMIP1S0S
 mensualitzi mensualitzar VMM03S0Y
 mensualitzi mensualitzar VMSP1S0Y
 mensualitzi mensualitzar VMSP3S0Y
@@ -57988,7 +57465,6 @@ metxonessis metxonar VMSI2S02
 metxoneu metxonar VMIP2P00
 metxoneu metxonar VMM02P0X
 metxoneu metxonar VMSP2P00
-metxoni metxonar VMIP1S0S
 metxoni metxonar VMM03S0Y
 metxoni metxonar VMSP1S0Y
 metxoni metxonar VMSP3S0Y
@@ -58172,7 +57648,6 @@ minsessis minsar VMSI2S02
 minseu minsar VMIP2P00
 minseu minsar VMM02P0X
 minseu minsar VMSP2P00
-minsi minsar VMIP1S0S
 minsi minsar VMM03S0Y
 minsi minsar VMSP1S0Y
 minsi minsar VMSP3S0Y
@@ -58371,7 +57846,6 @@ mondessis mondar VMSI2S02
 mondeu mondar VMIP2P00
 mondeu mondar VMM02P0X
 mondeu mondar VMSP2P00
-mondi mondar VMIP1S0S
 mondi mondar VMM03S0Y
 mondi mondar VMSP1S0Y
 mondi mondar VMSP3S0Y
@@ -58569,7 +58043,6 @@ morgonessis morgonar VMSI2S02
 morgoneu morgonar VMIP2P00
 morgoneu morgonar VMM02P0X
 morgoneu morgonar VMSP2P00
-morgoni morgonar VMIP1S0S
 morgoni morgonar VMM03S0Y
 morgoni morgonar VMSP1S0Y
 morgoni morgonar VMSP3S0Y
@@ -58640,7 +58113,6 @@ mostegessis mostejar VMSI2S02
 mostegeu mostejar VMIP2P00
 mostegeu mostejar VMM02P0X
 mostegeu mostejar VMSP2P00
-mostegi mostejar VMIP1S0S
 mostegi mostejar VMM03S0Y
 mostegi mostejar VMSP1S0Y
 mostegi mostejar VMSP3S0Y
@@ -58815,7 +58287,6 @@ mundialitzessis mundialitzar VMSI2S02
 mundialitzeu mundialitzar VMIP2P00
 mundialitzeu mundialitzar VMM02P0X
 mundialitzeu mundialitzar VMSP2P00
-mundialitzi mundialitzar VMIP1S0S
 mundialitzi mundialitzar VMM03S0Y
 mundialitzi mundialitzar VMSP1S0Y
 mundialitzi mundialitzar VMSP3S0Y
@@ -58902,7 +58373,6 @@ nabegessis nabejar VMSI2S02
 nabegeu nabejar VMIP2P00
 nabegeu nabejar VMM02P0X
 nabegeu nabejar VMSP2P00
-nabegi nabejar VMIP1S0S
 nabegi nabejar VMM03S0Y
 nabegi nabejar VMSP1S0Y
 nabegi nabejar VMSP3S0Y
@@ -59098,7 +58568,6 @@ nerviésseu nerviar VMSI2P05
 nerviéssim nerviar VMSI1P02
 nerviéssiu nerviar VMSI2P02
 nervií nerviar VMIS1S00
-nerviï nerviar VMIP1S0S
 nerviï nerviar VMM03S0Y
 nerviï nerviar VMSP1S0Y
 nerviï nerviar VMSP3S0Y
@@ -59168,7 +58637,6 @@ nevarsessis nevarsar VMSI2S02
 nevarseu nevarsar VMIP2P00
 nevarseu nevarsar VMM02P0X
 nevarseu nevarsar VMSP2P00
-nevarsi nevarsar VMIP1S0S
 nevarsi nevarsar VMM03S0Y
 nevarsi nevarsar VMSP1S0Y
 nevarsi nevarsar VMSP3S0Y
@@ -59215,7 +58683,6 @@ nevasquegessis nevasquejar VMSI2S02
 nevasquegeu nevasquejar VMIP2P00
 nevasquegeu nevasquejar VMM02P0X
 nevasquegeu nevasquejar VMSP2P00
-nevasquegi nevasquejar VMIP1S0S
 nevasquegi nevasquejar VMM03S0Y
 nevasquegi nevasquejar VMSP1S0Y
 nevasquegi nevasquejar VMSP3S0Y
@@ -59341,7 +58808,6 @@ nevassegessis nevassejar VMSI2S02
 nevassegeu nevassejar VMIP2P00
 nevassegeu nevassejar VMM02P0X
 nevassegeu nevassejar VMSP2P00
-nevassegi nevassejar VMIP1S0S
 nevassegi nevassejar VMM03S0Y
 nevassegi nevassejar VMSP1S0Y
 nevassegi nevassejar VMSP3S0Y
@@ -59422,7 +58888,6 @@ nevassessis nevassar VMSI2S02
 nevasseu nevassar VMIP2P00
 nevasseu nevassar VMM02P0X
 nevasseu nevassar VMSP2P00
-nevassi nevassar VMIP1S0S
 nevassi nevassar VMM03S0Y
 nevassi nevassar VMSP1S0Y
 nevassi nevassar VMSP3S0Y
@@ -59514,7 +58979,6 @@ nidessis nidar VMSI2S02
 nideu nidar VMIP2P00
 nideu nidar VMM02P0X
 nideu nidar VMSP2P00
-nidi nidar VMIP1S0S
 nidi nidar VMM03S0Y
 nidi nidar VMSP1S0Y
 nidi nidar VMSP3S0Y
@@ -59618,7 +59082,6 @@ nivellessis nivellar VMSI2S02
 nivelleu nivellar VMIP2P00
 nivelleu nivellar VMM02P0X
 nivelleu nivellar VMSP2P00
-nivelli nivellar VMIP1S0S
 nivelli nivellar VMM03S0Y
 nivelli nivellar VMSP1S0Y
 nivelli nivellar VMSP3S0Y
@@ -59697,7 +59160,6 @@ nordestegessis nordestejar VMSI2S02
 nordestegeu nordestejar VMIP2P00
 nordestegeu nordestejar VMM02P0X
 nordestegeu nordestejar VMSP2P00
-nordestegi nordestejar VMIP1S0S
 nordestegi nordestejar VMM03S0Y
 nordestegi nordestejar VMSP1S0Y
 nordestegi nordestejar VMSP3S0Y
@@ -59782,7 +59244,6 @@ nordoestegessis nordoestejar VMSI2S02
 nordoestegeu nordoestejar VMIP2P00
 nordoestegeu nordoestejar VMM02P0X
 nordoestegeu nordoestejar VMSP2P00
-nordoestegi nordoestejar VMIP1S0S
 nordoestegi nordoestejar VMM03S0Y
 nordoestegi nordoestejar VMSP1S0Y
 nordoestegi nordoestejar VMSP3S0Y
@@ -59936,7 +59397,6 @@ nuvolessis nuvolar VMSI2S02
 nuvoleu nuvolar VMIP2P00
 nuvoleu nuvolar VMM02P0X
 nuvoleu nuvolar VMSP2P00
-nuvoli nuvolar VMIP1S0S
 nuvoli nuvolar VMM03S0Y
 nuvoli nuvolar VMSP1S0Y
 nuvoli nuvolar VMSP3S0Y
@@ -60021,7 +59481,6 @@ nyaulessis nyaular VMSI2S02
 nyauleu nyaular VMIP2P00
 nyauleu nyaular VMM02P0X
 nyauleu nyaular VMSP2P00
-nyauli nyaular VMIP1S0S
 nyauli nyaular VMM03S0Y
 nyauli nyaular VMSP1S0Y
 nyauli nyaular VMSP3S0Y
@@ -60266,7 +59725,6 @@ ofertessis ofertar VMSI2S02
 oferteu ofertar VMIP2P00
 oferteu ofertar VMM02P0X
 oferteu ofertar VMSP2P00
-oferti ofertar VMIP1S0S
 oferti ofertar VMM03S0Y
 oferti ofertar VMSP1S0Y
 oferti ofertar VMSP3S0Y
@@ -60525,7 +59983,6 @@ oprobiésseu oprobiar VMSI2P05
 oprobiéssim oprobiar VMSI1P02
 oprobiéssiu oprobiar VMSI2P02
 oprobií oprobiar VMIS1S00
-oprobiï oprobiar VMIP1S0S
 oprobiï oprobiar VMM03S0Y
 oprobiï oprobiar VMSP1S0Y
 oprobiï oprobiar VMSP3S0Y
@@ -60554,7 +60011,6 @@ oradegessis oradejar VMSI2S02
 oradegeu oradejar VMIP2P00
 oradegeu oradejar VMM02P0X
 oradegeu oradejar VMSP2P00
-oradegi oradejar VMIP1S0S
 oradegi oradejar VMM03S0Y
 oradegi oradejar VMSP1S0Y
 oradegi oradejar VMSP3S0Y
@@ -60660,7 +60116,6 @@ orellegessis orellejar VMSI2S02
 orellegeu orellejar VMIP2P00
 orellegeu orellejar VMM02P0X
 orellegeu orellejar VMSP2P00
-orellegi orellejar VMIP1S0S
 orellegi orellejar VMM03S0Y
 orellegi orellejar VMSP1S0Y
 orellegi orellejar VMSP3S0Y
@@ -60760,7 +60215,6 @@ orinquegessis orinquejar VMSI2S02
 orinquegeu orinquejar VMIP2P00
 orinquegeu orinquejar VMM02P0X
 orinquegeu orinquejar VMSP2P00
-orinquegi orinquejar VMIP1S0S
 orinquegi orinquejar VMM03S0Y
 orinquegi orinquejar VMSP1S0Y
 orinquegi orinquejar VMSP3S0Y
@@ -61072,7 +60526,6 @@ palometats palometat AQ0MP0
 palomeu palomar VMIP2P00
 palomeu palomar VMM02P0X
 palomeu palomar VMSP2P00
-palomi palomar VMIP1S0S
 palomi palomar VMM03S0Y
 palomi palomar VMSP1S0Y
 palomi palomar VMSP3S0Y
@@ -61168,7 +60621,6 @@ panderegessis panderejar VMSI2S02
 panderegeu panderejar VMIP2P00
 panderegeu panderejar VMM02P0X
 panderegeu panderejar VMSP2P00
-panderegi panderejar VMIP1S0S
 panderegi panderejar VMM03S0Y
 panderegi panderejar VMSP1S0Y
 panderegi panderejar VMSP3S0Y
@@ -61292,7 +60744,6 @@ pantoflegessis pantoflejar VMSI2S02
 pantoflegeu pantoflejar VMIP2P00
 pantoflegeu pantoflejar VMM02P0X
 pantoflegeu pantoflejar VMSP2P00
-pantoflegi pantoflejar VMIP1S0S
 pantoflegi pantoflejar VMM03S0Y
 pantoflegi pantoflejar VMSP1S0Y
 pantoflegi pantoflejar VMSP3S0Y
@@ -61510,7 +60961,6 @@ parcialitzessis parcialitzar VMSI2S02
 parcialitzeu parcialitzar VMIP2P00
 parcialitzeu parcialitzar VMM02P0X
 parcialitzeu parcialitzar VMSP2P00
-parcialitzi parcialitzar VMIP1S0S
 parcialitzi parcialitzar VMM03S0Y
 parcialitzi parcialitzar VMSP1S0Y
 parcialitzi parcialitzar VMSP3S0Y
@@ -61587,7 +61037,6 @@ parpallegessis parpallejar VMSI2S02
 parpallegeu parpallejar VMIP2P00
 parpallegeu parpallejar VMM02P0X
 parpallegeu parpallejar VMSP2P00
-parpallegi parpallejar VMIP1S0S
 parpallegi parpallejar VMM03S0Y
 parpallegi parpallejar VMSP1S0Y
 parpallegi parpallejar VMSP3S0Y
@@ -61721,7 +61170,6 @@ pastissegessis pastissejar VMSI2S02
 pastissegeu pastissejar VMIP2P00
 pastissegeu pastissejar VMM02P0X
 pastissegeu pastissejar VMSP2P00
-pastissegi pastissejar VMIP1S0S
 pastissegi pastissejar VMM03S0Y
 pastissegi pastissejar VMSP1S0Y
 pastissegi pastissejar VMSP3S0Y
@@ -61825,7 +61273,6 @@ pategessis patejar VMSI2S02
 pategeu patejar VMIP2P00
 pategeu patejar VMM02P0X
 pategeu patejar VMSP2P00
-pategi patejar VMIP1S0S
 pategi patejar VMM03S0Y
 pategi patejar VMSP1S0Y
 pategi patejar VMSP3S0Y
@@ -61984,7 +61431,6 @@ pausessis pausar VMSI2S02
 pauseu pausar VMIP2P00
 pauseu pausar VMM02P0X
 pauseu pausar VMSP2P00
-pausi pausar VMIP1S0S
 pausi pausar VMM03S0Y
 pausi pausar VMSP1S0Y
 pausi pausar VMSP3S0Y
@@ -62050,7 +61496,6 @@ pecegessis pecejar VMSI2S02
 pecegeu pecejar VMIP2P00
 pecegeu pecejar VMM02P0X
 pecegeu pecejar VMSP2P00
-pecegi pecejar VMIP1S0S
 pecegi pecejar VMM03S0Y
 pecegi pecejar VMSP1S0Y
 pecegi pecejar VMSP3S0Y
@@ -62215,7 +61660,6 @@ peitessis peitar VMSI2S02
 peiteu peitar VMIP2P00
 peiteu peitar VMM02P0X
 peiteu peitar VMSP2P00
-peiti peitar VMIP1S0S
 peiti peitar VMM03S0Y
 peiti peitar VMSP1S0Y
 peiti peitar VMSP3S0Y
@@ -62530,7 +61974,6 @@ peroliésseu peroliar VMSI2P05
 peroliéssim peroliar VMSI1P02
 peroliéssiu peroliar VMSI2P02
 perolií peroliar VMIS1S00
-peroliï peroliar VMIP1S0S
 peroliï peroliar VMM03S0Y
 peroliï peroliar VMSP1S0Y
 peroliï peroliar VMSP3S0Y
@@ -62614,7 +62057,6 @@ persolessis persolar VMSI2S02
 persoleu persolar VMIP2P00
 persoleu persolar VMM02P0X
 persoleu persolar VMSP2P00
-persoli persolar VMIP1S0S
 persoli persolar VMM03S0Y
 persoli persolar VMSP1S0Y
 persoli persolar VMSP3S0Y
@@ -62891,7 +62333,6 @@ peuegessis peuejar VMSI2S02
 peuegeu peuejar VMIP2P00
 peuegeu peuejar VMM02P0X
 peuegeu peuejar VMSP2P00
-peuegi peuejar VMIP1S0S
 peuegi peuejar VMM03S0Y
 peuegi peuejar VMSP1S0Y
 peuegi peuejar VMSP3S0Y
@@ -63000,7 +62441,6 @@ picolegessis picolejar VMSI2S02
 picolegeu picolejar VMIP2P00
 picolegeu picolejar VMM02P0X
 picolegeu picolejar VMSP2P00
-picolegi picolejar VMIP1S0S
 picolegi picolejar VMM03S0Y
 picolegi picolejar VMSP1S0Y
 picolegi picolejar VMSP3S0Y
@@ -63146,7 +62586,6 @@ piquerolegessis piquerolejar VMSI2S02
 piquerolegeu piquerolejar VMIP2P00
 piquerolegeu piquerolejar VMM02P0X
 piquerolegeu piquerolejar VMSP2P00
-piquerolegi piquerolejar VMIP1S0S
 piquerolegi piquerolejar VMM03S0Y
 piquerolegi piquerolejar VMSP1S0Y
 piquerolegi piquerolejar VMSP3S0Y
@@ -63285,7 +62724,6 @@ piuegessis piuejar VMSI2S02
 piuegeu piuejar VMIP2P00
 piuegeu piuejar VMM02P0X
 piuegeu piuejar VMSP2P00
-piuegi piuejar VMIP1S0S
 piuegi piuejar VMM03S0Y
 piuegi piuejar VMSP1S0Y
 piuegi piuejar VMSP3S0Y
@@ -63457,7 +62895,6 @@ plasmolitzessis plasmolitzar VMSI2S02
 plasmolitzeu plasmolitzar VMIP2P00
 plasmolitzeu plasmolitzar VMM02P0X
 plasmolitzeu plasmolitzar VMSP2P00
-plasmolitzi plasmolitzar VMIP1S0S
 plasmolitzi plasmolitzar VMM03S0Y
 plasmolitzi plasmolitzar VMSP1S0Y
 plasmolitzi plasmolitzar VMSP3S0Y
@@ -63521,7 +62958,6 @@ pleitegessis pleitejar VMSI2S02
 pleitegeu pleitejar VMIP2P00
 pleitegeu pleitejar VMM02P0X
 pleitegeu pleitejar VMSP2P00
-pleitegi pleitejar VMIP1S0S
 pleitegi pleitejar VMM03S0Y
 pleitegi pleitejar VMSP1S0Y
 pleitegi pleitejar VMSP3S0Y
@@ -63627,7 +63063,6 @@ plomallegessis plomallejar VMSI2S02
 plomallegeu plomallejar VMIP2P00
 plomallegeu plomallejar VMM02P0X
 plomallegeu plomallejar VMSP2P00
-plomallegi plomallejar VMIP1S0S
 plomallegi plomallejar VMM03S0Y
 plomallegi plomallejar VMSP1S0Y
 plomallegi plomallejar VMSP3S0Y
@@ -63765,7 +63200,6 @@ ploramiquessis ploramicar VMSI2S02
 ploramiqueu ploramicar VMIP2P00
 ploramiqueu ploramicar VMM02P0X
 ploramiqueu ploramicar VMSP2P00
-ploramiqui ploramicar VMIP1S0S
 ploramiqui ploramicar VMM03S0Y
 ploramiqui ploramicar VMSP1S0Y
 ploramiqui ploramicar VMSP3S0Y
@@ -63852,7 +63286,6 @@ plorimiquessis plorimicar VMSI2S02
 plorimiqueu plorimicar VMIP2P00
 plorimiqueu plorimicar VMM02P0X
 plorimiqueu plorimicar VMSP2P00
-plorimiqui plorimicar VMIP1S0S
 plorimiqui plorimicar VMM03S0Y
 plorimiqui plorimicar VMSP1S0Y
 plorimiqui plorimicar VMSP3S0Y
@@ -63990,7 +63423,6 @@ polimentessis polimentar VMSI2S02
 polimenteu polimentar VMIP2P00
 polimenteu polimentar VMM02P0X
 polimenteu polimentar VMSP2P00
-polimenti polimentar VMIP1S0S
 polimenti polimentar VMM03S0Y
 polimenti polimentar VMSP1S0Y
 polimenti polimentar VMSP3S0Y
@@ -64088,7 +63520,6 @@ pontegessis pontejar VMSI2S02
 pontegeu pontejar VMIP2P00
 pontegeu pontejar VMM02P0X
 pontegeu pontejar VMSP2P00
-pontegi pontejar VMIP1S0S
 pontegi pontejar VMM03S0Y
 pontegi pontejar VMSP1S0Y
 pontegi pontejar VMSP3S0Y
@@ -64255,7 +63686,6 @@ porfidiésseu porfidiar VMSI2P05
 porfidiéssim porfidiar VMSI1P02
 porfidiéssiu porfidiar VMSI2P02
 porfidií porfidiar VMIS1S00
-porfidiï porfidiar VMIP1S0S
 porfidiï porfidiar VMM03S0Y
 porfidiï porfidiar VMSP1S0Y
 porfidiï porfidiar VMSP3S0Y
@@ -64338,7 +63768,6 @@ porressis porrar VMSI2S02
 porreu porrar VMIP2P00
 porreu porrar VMM02P0X
 porreu porrar VMSP2P00
-porri porrar VMIP1S0S
 porri porrar VMM03S0Y
 porri porrar VMSP1S0Y
 porri porrar VMSP3S0Y
@@ -64447,7 +63876,6 @@ postesessis postesar VMSI2S02
 posteseu postesar VMIP2P00
 posteseu postesar VMM02P0X
 posteseu postesar VMSP2P00
-postesi postesar VMIP1S0S
 postesi postesar VMM03S0Y
 postesi postesar VMSP1S0Y
 postesi postesar VMSP3S0Y
@@ -64654,7 +64082,6 @@ pregravessis pregravar VMSI2S02
 pregraveu pregravar VMIP2P00
 pregraveu pregravar VMM02P0X
 pregraveu pregravar VMSP2P00
-pregravi pregravar VMIP1S0S
 pregravi pregravar VMM03S0Y
 pregravi pregravar VMSP1S0Y
 pregravi pregravar VMSP3S0Y
@@ -64749,7 +64176,6 @@ prelibessis prelibar VMSI2S02
 prelibeu prelibar VMIP2P00
 prelibeu prelibar VMM02P0X
 prelibeu prelibar VMSP2P00
-prelibi prelibar VMIP1S0S
 prelibi prelibar VMM03S0Y
 prelibi prelibar VMSP1S0Y
 prelibi prelibar VMSP3S0Y
@@ -64844,7 +64270,6 @@ preseleccionessis preseleccionar VMSI2S02
 preseleccioneu preseleccionar VMIP2P00
 preseleccioneu preseleccionar VMM02P0X
 preseleccioneu preseleccionar VMSP2P00
-preseleccioni preseleccionar VMIP1S0S
 preseleccioni preseleccionar VMM03S0Y
 preseleccioni preseleccionar VMSP1S0Y
 preseleccioni preseleccionar VMSP3S0Y
@@ -65132,7 +64557,6 @@ provençalitzessis provençalitzar VMSI2S02
 provençalitzeu provençalitzar VMIP2P00
 provençalitzeu provençalitzar VMM02P0X
 provençalitzeu provençalitzar VMSP2P00
-provençalitzi provençalitzar VMIP1S0S
 provençalitzi provençalitzar VMM03S0Y
 provençalitzi provençalitzar VMSP1S0Y
 provençalitzi provençalitzar VMSP3S0Y
@@ -65219,7 +64643,6 @@ provincialitzessis provincialitzar VMSI2S02
 provincialitzeu provincialitzar VMIP2P00
 provincialitzeu provincialitzar VMM02P0X
 provincialitzeu provincialitzar VMSP2P00
-provincialitzi provincialitzar VMIP1S0S
 provincialitzi provincialitzar VMM03S0Y
 provincialitzi provincialitzar VMSP1S0Y
 provincialitzi provincialitzar VMSP3S0Y
@@ -65303,7 +64726,6 @@ purnegessis purnejar VMSI2S02
 purnegeu purnejar VMIP2P00
 purnegeu purnejar VMM02P0X
 purnegeu purnejar VMSP2P00
-purnegi purnejar VMIP1S0S
 purnegi purnejar VMM03S0Y
 purnegi purnejar VMSP1S0Y
 purnegi purnejar VMSP3S0Y
@@ -65589,7 +65011,6 @@ rabassessis rabassar VMSI2S02
 rabasseu rabassar VMIP2P00
 rabasseu rabassar VMM02P0X
 rabasseu rabassar VMSP2P00
-rabassi rabassar VMIP1S0S
 rabassi rabassar VMM03S0Y
 rabassi rabassar VMSP1S0Y
 rabassi rabassar VMSP3S0Y
@@ -65724,7 +65145,6 @@ raixmessis raixmar VMSI2S02
 raixmeu raixmar VMIP2P00
 raixmeu raixmar VMM02P0X
 raixmeu raixmar VMSP2P00
-raixmi raixmar VMIP1S0S
 raixmi raixmar VMM03S0Y
 raixmi raixmar VMSP1S0Y
 raixmi raixmar VMSP3S0Y
@@ -65787,7 +65207,6 @@ ramonegessis ramonejar VMSI2S02
 ramonegeu ramonejar VMIP2P00
 ramonegeu ramonejar VMM02P0X
 ramonegeu ramonejar VMSP2P00
-ramonegi ramonejar VMIP1S0S
 ramonegi ramonejar VMM03S0Y
 ramonegi ramonejar VMSP1S0Y
 ramonegi ramonejar VMSP3S0Y
@@ -65912,7 +65331,6 @@ rampessis rampar VMSI2S02
 rampeu rampar VMIP2P00
 rampeu rampar VMM02P0X
 rampeu rampar VMSP2P00
-rampi rampar VMIP1S0S
 rampi rampar VMM03S0Y
 rampi rampar VMSP1S0Y
 rampi rampar VMSP3S0Y
@@ -65997,7 +65415,6 @@ rancallessis rancallar VMSI2S02
 rancalleu rancallar VMIP2P00
 rancalleu rancallar VMM02P0X
 rancalleu rancallar VMSP2P00
-rancalli rancallar VMIP1S0S
 rancalli rancallar VMM03S0Y
 rancalli rancallar VMSP1S0Y
 rancalli rancallar VMSP3S0Y
@@ -66082,7 +65499,6 @@ ratolinegessis ratolinejar VMSI2S02
 ratolinegeu ratolinejar VMIP2P00
 ratolinegeu ratolinejar VMM02P0X
 ratolinegeu ratolinejar VMSP2P00
-ratolinegi ratolinejar VMIP1S0S
 ratolinegi ratolinejar VMM03S0Y
 ratolinegi ratolinejar VMSP1S0Y
 ratolinegi ratolinejar VMSP3S0Y
@@ -66170,7 +65586,6 @@ ratxegessis ratxejar VMSI2S02
 ratxegeu ratxejar VMIP2P00
 ratxegeu ratxejar VMM02P0X
 ratxegeu ratxejar VMSP2P00
-ratxegi ratxejar VMIP1S0S
 ratxegi ratxejar VMM03S0Y
 ratxegi ratxejar VMSP1S0Y
 ratxegi ratxejar VMSP3S0Y
@@ -66301,7 +65716,6 @@ raïlessis raïlar VMSI2S02
 raïleu raïlar VMIP2P00
 raïleu raïlar VMM02P0X
 raïleu raïlar VMSP2P00
-raïli raïlar VMIP1S0S
 raïli raïlar VMM03S0Y
 raïli raïlar VMSP1S0Y
 raïli raïlar VMSP3S0Y
@@ -66398,7 +65812,6 @@ rebavessis rebavar VMSI2S02
 rebaveu rebavar VMIP2P00
 rebaveu rebavar VMM02P0X
 rebaveu rebavar VMSP2P00
-rebavi rebavar VMIP1S0S
 rebavi rebavar VMM03S0Y
 rebavi rebavar VMSP1S0Y
 rebavi rebavar VMSP3S0Y
@@ -66501,7 +65914,6 @@ rebossessis rebossar VMSI2S02
 rebosseu rebossar VMIP2P00
 rebosseu rebossar VMM02P0X
 rebosseu rebossar VMSP2P00
-rebossi rebossar VMIP1S0S
 rebossi rebossar VMM03S0Y
 rebossi rebossar VMSP1S0Y
 rebossi rebossar VMSP3S0Y
@@ -66548,7 +65960,6 @@ rebotegessis rebotejar VMSI2S02
 rebotegeu rebotejar VMIP2P00
 rebotegeu rebotejar VMM02P0X
 rebotegeu rebotejar VMSP2P00
-rebotegi rebotejar VMIP1S0S
 rebotegi rebotejar VMM03S0Y
 rebotegi rebotejar VMSP1S0Y
 rebotegi rebotejar VMSP3S0Y
@@ -66713,7 +66124,6 @@ recalcifiquessis recalcificar VMSI2S02
 recalcifiqueu recalcificar VMIP2P00
 recalcifiqueu recalcificar VMM02P0X
 recalcifiqueu recalcificar VMSP2P00
-recalcifiqui recalcificar VMIP1S0S
 recalcifiqui recalcificar VMM03S0Y
 recalcifiqui recalcificar VMSP1S0Y
 recalcifiqui recalcificar VMSP3S0Y
@@ -66805,7 +66215,6 @@ recapiésseu recapiar VMSI2P05
 recapiéssim recapiar VMSI1P02
 recapiéssiu recapiar VMSI2P02
 recapií recapiar VMIS1S00
-recapiï recapiar VMIP1S0S
 recapiï recapiar VMM03S0Y
 recapiï recapiar VMSP1S0Y
 recapiï recapiar VMSP3S0Y
@@ -66869,7 +66278,6 @@ recatalanitzessis recatalanitzar VMSI2S02
 recatalanitzeu recatalanitzar VMIP2P00
 recatalanitzeu recatalanitzar VMM02P0X
 recatalanitzeu recatalanitzar VMSP2P00
-recatalanitzi recatalanitzar VMIP1S0S
 recatalanitzi recatalanitzar VMM03S0Y
 recatalanitzi recatalanitzar VMSP1S0Y
 recatalanitzi recatalanitzar VMSP3S0Y
@@ -66979,7 +66387,6 @@ recordinessis recordinar VMSI2S02
 recordineu recordinar VMIP2P00
 recordineu recordinar VMM02P0X
 recordineu recordinar VMSP2P00
-recordini recordinar VMIP1S0S
 recordini recordinar VMM03S0Y
 recordini recordinar VMSP1S0Y
 recordini recordinar VMSP3S0Y
@@ -67103,7 +66510,6 @@ redescomptessis redescomptar VMSI2S02
 redescompteu redescomptar VMIP2P00
 redescompteu redescomptar VMM02P0X
 redescompteu redescomptar VMSP2P00
-redescompti redescomptar VMIP1S0S
 redescompti redescomptar VMM03S0Y
 redescompti redescomptar VMSP1S0Y
 redescompti redescomptar VMSP3S0Y
@@ -67196,7 +66602,6 @@ reencontressis reencontrar VMSI2S02
 reencontreu reencontrar VMIP2P00
 reencontreu reencontrar VMM02P0X
 reencontreu reencontrar VMSP2P00
-reencontri reencontrar VMIP1S0S
 reencontri reencontrar VMM03S0Y
 reencontri reencontrar VMSP1S0Y
 reencontri reencontrar VMSP3S0Y
@@ -67330,7 +66735,6 @@ regolessis regolar VMSI2S02
 regoleu regolar VMIP2P00
 regoleu regolar VMM02P0X
 regoleu regolar VMSP2P00
-regoli regolar VMIP1S0S
 regoli regolar VMM03S0Y
 regoli regolar VMSP1S0Y
 regoli regolar VMSP3S0Y
@@ -67419,7 +66823,6 @@ reguaretessis reguaretar VMSI2S02
 reguareteu reguaretar VMIP2P00
 reguareteu reguaretar VMM02P0X
 reguareteu reguaretar VMSP2P00
-reguareti reguaretar VMIP1S0S
 reguareti reguaretar VMM03S0Y
 reguareti reguaretar VMSP1S0Y
 reguareti reguaretar VMSP3S0Y
@@ -67510,7 +66913,6 @@ reixiuessis reixiuar VMSI2S02
 reixiueu reixiuar VMIP2P00
 reixiueu reixiuar VMM02P0X
 reixiueu reixiuar VMSP2P00
-reixiui reixiuar VMIP1S0S
 reixiui reixiuar VMM03S0Y
 reixiui reixiuar VMSP1S0Y
 reixiui reixiuar VMSP3S0Y
@@ -67595,7 +66997,6 @@ rellavessis rellavar VMSI2S02
 rellaveu rellavar VMIP2P00
 rellaveu rellavar VMM02P0X
 rellaveu rellavar VMSP2P00
-rellavi rellavar VMIP1S0S
 rellavi rellavar VMM03S0Y
 rellavi rellavar VMSP1S0Y
 rellavi rellavar VMSP3S0Y
@@ -67679,7 +67080,6 @@ rellissessis rellissar VMSI2S02
 rellisseu rellissar VMIP2P00
 rellisseu rellissar VMM02P0X
 rellisseu rellissar VMSP2P00
-rellissi rellissar VMIP1S0S
 rellissi rellissar VMM03S0Y
 rellissi rellissar VMSP1S0Y
 rellissi rellissar VMSP3S0Y
@@ -67737,7 +67137,6 @@ remenegessis remenejar VMSI2S02
 remenegeu remenejar VMIP2P00
 remenegeu remenejar VMM02P0X
 remenegeu remenejar VMSP2P00
-remenegi remenejar VMIP1S0S
 remenegi remenejar VMM03S0Y
 remenegi remenejar VMSP1S0Y
 remenegi remenejar VMSP3S0Y
@@ -67873,7 +67272,6 @@ remotivessis remotivar VMSI2S02
 remotiveu remotivar VMIP2P00
 remotiveu remotivar VMM02P0X
 remotiveu remotivar VMSP2P00
-remotivi remotivar VMIP1S0S
 remotivi remotivar VMM03S0Y
 remotivi remotivar VMSP1S0Y
 remotivi remotivar VMSP3S0Y
@@ -67992,7 +67390,6 @@ repostessis repostar VMSI2S02
 reposteu repostar VMIP2P00
 reposteu repostar VMM02P0X
 reposteu repostar VMSP2P00
-reposti repostar VMIP1S0S
 reposti repostar VMM03S0Y
 reposti repostar VMSP1S0Y
 reposti repostar VMSP3S0Y
@@ -68151,7 +67548,6 @@ repretessis repretar VMSI2S02
 repreteu repretar VMIP2P00
 repreteu repretar VMM02P0X
 repreteu repretar VMSP2P00
-repreti repretar VMIP1S0S
 repreti repretar VMM03S0Y
 repreti repretar VMSP1S0Y
 repreti repretar VMSP3S0Y
@@ -68250,7 +67646,6 @@ resaludessis resaludar VMSI2S02
 resaludeu resaludar VMIP2P00
 resaludeu resaludar VMM02P0X
 resaludeu resaludar VMSP2P00
-resaludi resaludar VMIP1S0S
 resaludi resaludar VMM03S0Y
 resaludi resaludar VMSP1S0Y
 resaludi resaludar VMSP3S0Y
@@ -68470,7 +67865,6 @@ retestinessis retestinar VMSI2S02
 retestineu retestinar VMIP2P00
 retestineu retestinar VMM02P0X
 retestineu retestinar VMSP2P00
-retestini retestinar VMIP1S0S
 retestini retestinar VMM03S0Y
 retestini retestinar VMSP1S0Y
 retestini retestinar VMSP3S0Y
@@ -68592,7 +67986,6 @@ retrenquessis retrencar VMSI2S02
 retrenqueu retrencar VMIP2P00
 retrenqueu retrencar VMM02P0X
 retrenqueu retrencar VMSP2P00
-retrenqui retrencar VMIP1S0S
 retrenqui retrencar VMM03S0Y
 retrenqui retrencar VMSP1S0Y
 retrenqui retrencar VMSP3S0Y
@@ -68641,7 +68034,6 @@ retuitegessis retuitejar VMSI2S02
 retuitegeu retuitejar VMIP2P00
 retuitegeu retuitejar VMM02P0X
 retuitegeu retuitejar VMSP2P00
-retuitegi retuitejar VMIP1S0S
 retuitegi retuitejar VMM03S0Y
 retuitegi retuitejar VMSP1S0Y
 retuitegi retuitejar VMSP3S0Y
@@ -68770,7 +68162,6 @@ revaculessis revacular VMSI2S02
 revaculeu revacular VMIP2P00
 revaculeu revacular VMM02P0X
 revaculeu revacular VMSP2P00
-revaculi revacular VMIP1S0S
 revaculi revacular VMM03S0Y
 revaculi revacular VMSP1S0Y
 revaculi revacular VMSP3S0Y
@@ -68859,7 +68250,6 @@ revencillessis revencillar VMSI2S02
 revencilleu revencillar VMIP2P00
 revencilleu revencillar VMM02P0X
 revencilleu revencillar VMSP2P00
-revencilli revencillar VMIP1S0S
 revencilli revencillar VMM03S0Y
 revencilli revencillar VMSP1S0Y
 revencilli revencillar VMSP3S0Y
@@ -68916,7 +68306,6 @@ revoltegessis revoltejar VMSI2S02
 revoltegeu revoltejar VMIP2P00
 revoltegeu revoltejar VMM02P0X
 revoltegeu revoltejar VMSP2P00
-revoltegi revoltejar VMIP1S0S
 revoltegi revoltejar VMM03S0Y
 revoltegi revoltejar VMSP1S0Y
 revoltegi revoltejar VMSP3S0Y
@@ -69044,7 +68433,6 @@ rexuplessis rexuplar VMSI2S02
 rexupleu rexuplar VMIP2P00
 rexupleu rexuplar VMM02P0X
 rexupleu rexuplar VMSP2P00
-rexupli rexuplar VMIP1S0S
 rexupli rexuplar VMM03S0Y
 rexupli rexuplar VMSP1S0Y
 rexupli rexuplar VMSP3S0Y
@@ -69136,7 +68524,6 @@ riatxessis riatxar VMSI2S02
 riatxeu riatxar VMIP2P00
 riatxeu riatxar VMM02P0X
 riatxeu riatxar VMSP2P00
-riatxi riatxar VMIP1S0S
 riatxi riatxar VMM03S0Y
 riatxi riatxar VMSP1S0Y
 riatxi riatxar VMSP3S0Y
@@ -69260,7 +68647,6 @@ risclessis risclar VMSI2S02
 riscleu risclar VMIP2P00
 riscleu risclar VMM02P0X
 riscleu risclar VMSP2P00
-riscli risclar VMIP1S0S
 riscli risclar VMM03S0Y
 riscli risclar VMSP1S0Y
 riscli risclar VMSP3S0Y
@@ -69379,7 +68765,6 @@ roflessis roflar VMSI2S02
 rofleu roflar VMIP2P00
 rofleu roflar VMM02P0X
 rofleu roflar VMSP2P00
-rofli roflar VMIP1S0S
 rofli roflar VMM03S0Y
 rofli roflar VMSP1S0Y
 rofli roflar VMSP3S0Y
@@ -69476,7 +68861,6 @@ rompissessis rompissar VMSI2S02
 rompisseu rompissar VMIP2P00
 rompisseu rompissar VMM02P0X
 rompisseu rompissar VMSP2P00
-rompissi rompissar VMIP1S0S
 rompissi rompissar VMM03S0Y
 rompissi rompissar VMSP1S0Y
 rompissi rompissar VMSP3S0Y
@@ -69580,7 +68964,6 @@ rossessis rossar VMSI2S02
 rosseu rossar VMIP2P00
 rosseu rossar VMM02P0X
 rosseu rossar VMSP2P00
-rossi rossar VMIP1S0S
 rossi rossar VMM03S0Y
 rossi rossar VMSP1S0Y
 rossi rossar VMSP3S0Y
@@ -69679,7 +69062,6 @@ rotogravessis rotogravar VMSI2S02
 rotograveu rotogravar VMIP2P00
 rotograveu rotogravar VMM02P0X
 rotograveu rotogravar VMSP2P00
-rotogravi rotogravar VMIP1S0S
 rotogravi rotogravar VMM03S0Y
 rotogravi rotogravar VMSP1S0Y
 rotogravi rotogravar VMSP3S0Y
@@ -69774,7 +69156,6 @@ rovallessis rovallar VMSI2S02
 rovalleu rovallar VMIP2P00
 rovalleu rovallar VMM02P0X
 rovalleu rovallar VMSP2P00
-rovalli rovallar VMIP1S0S
 rovalli rovallar VMM03S0Y
 rovalli rovallar VMSP1S0Y
 rovalli rovallar VMSP3S0Y
@@ -69862,7 +69243,6 @@ rovinyessis rovinyar VMSI2S02
 rovinyeu rovinyar VMIP2P00
 rovinyeu rovinyar VMM02P0X
 rovinyeu rovinyar VMSP2P00
-rovinyi rovinyar VMIP1S0S
 rovinyi rovinyar VMM03S0Y
 rovinyi rovinyar VMSP1S0Y
 rovinyi rovinyar VMSP3S0Y
@@ -69956,7 +69336,6 @@ ruglonessis ruglonar VMSI2S02
 rugloneu ruglonar VMIP2P00
 rugloneu ruglonar VMM02P0X
 rugloneu ruglonar VMSP2P00
-rugloni ruglonar VMIP1S0S
 rugloni ruglonar VMM03S0Y
 rugloni ruglonar VMSP1S0Y
 rugloni ruglonar VMSP3S0Y
@@ -70015,7 +69394,6 @@ rumiegessis rumiejar VMSI2S02
 rumiegeu rumiejar VMIP2P00
 rumiegeu rumiejar VMM02P0X
 rumiegeu rumiejar VMSP2P00
-rumiegi rumiejar VMIP1S0S
 rumiegi rumiejar VMM03S0Y
 rumiegi rumiejar VMSP1S0Y
 rumiegi rumiejar VMSP3S0Y
@@ -70100,7 +69478,6 @@ rumrumegessis rumrumejar VMSI2S02
 rumrumegeu rumrumejar VMIP2P00
 rumrumegeu rumrumejar VMM02P0X
 rumrumegeu rumrumejar VMSP2P00
-rumrumegi rumrumejar VMIP1S0S
 rumrumegi rumrumejar VMM03S0Y
 rumrumegi rumrumejar VMSP1S0Y
 rumrumegi rumrumejar VMSP3S0Y
@@ -70240,7 +69617,6 @@ safaregessis safarejar VMSI2S02
 safaregeu safarejar VMIP2P00
 safaregeu safarejar VMM02P0X
 safaregeu safarejar VMSP2P00
-safaregi safarejar VMIP1S0S
 safaregi safarejar VMM03S0Y
 safaregi safarejar VMSP1S0Y
 safaregi safarejar VMSP3S0Y
@@ -70349,7 +69725,6 @@ salabregessis salabrejar VMSI2S02
 salabregeu salabrejar VMIP2P00
 salabregeu salabrejar VMM02P0X
 salabregeu salabrejar VMSP2P00
-salabregi salabrejar VMIP1S0S
 salabregi salabrejar VMM03S0Y
 salabregi salabrejar VMSP1S0Y
 salabregi salabrejar VMSP3S0Y
@@ -70491,7 +69866,6 @@ salpassessis salpassar VMSI2S02
 salpasseu salpassar VMIP2P00
 salpasseu salpassar VMM02P0X
 salpasseu salpassar VMSP2P00
-salpassi salpassar VMIP1S0S
 salpassi salpassar VMM03S0Y
 salpassi salpassar VMSP1S0Y
 salpassi salpassar VMSP3S0Y
@@ -70576,7 +69950,6 @@ salpresessis salpresar VMSI2S02
 salpreseu salpresar VMIP2P00
 salpreseu salpresar VMM02P0X
 salpreseu salpresar VMSP2P00
-salpresi salpresar VMIP1S0S
 salpresi salpresar VMM03S0Y
 salpresi salpresar VMSP1S0Y
 salpresi salpresar VMSP3S0Y
@@ -70667,7 +70040,6 @@ saltiguessis saltigar VMSI2S02
 saltigueu saltigar VMIP2P00
 saltigueu saltigar VMM02P0X
 saltigueu saltigar VMSP2P00
-saltigui saltigar VMIP1S0S
 saltigui saltigar VMM03S0Y
 saltigui saltigar VMSP1S0Y
 saltigui saltigar VMSP3S0Y
@@ -70793,7 +70165,6 @@ sampessis sampar VMSI2S02
 sampeu sampar VMIP2P00
 sampeu sampar VMM02P0X
 sampeu sampar VMSP2P00
-sampi sampar VMIP1S0S
 sampi sampar VMM03S0Y
 sampi sampar VMSP1S0Y
 sampi sampar VMSP3S0Y
@@ -70956,7 +70327,6 @@ sarandessis sarandar VMSI2S02
 sarandeu sarandar VMIP2P00
 sarandeu sarandar VMM02P0X
 sarandeu sarandar VMSP2P00
-sarandi sarandar VMIP1S0S
 sarandi sarandar VMM03S0Y
 sarandi sarandar VMSP1S0Y
 sarandi sarandar VMSP3S0Y
@@ -71021,7 +70391,6 @@ sarsallegessis sarsallejar VMSI2S02
 sarsallegeu sarsallejar VMIP2P00
 sarsallegeu sarsallejar VMM02P0X
 sarsallegeu sarsallejar VMSP2P00
-sarsallegi sarsallejar VMIP1S0S
 sarsallegi sarsallejar VMM03S0Y
 sarsallegi sarsallejar VMSP1S0Y
 sarsallegi sarsallejar VMSP3S0Y
@@ -71272,7 +70641,6 @@ sequiésseu sequiar VMSI2P05
 sequiéssim sequiar VMSI1P02
 sequiéssiu sequiar VMSI2P02
 sequií sequiar VMIS1S00
-sequiï sequiar VMIP1S0S
 sequiï sequiar VMM03S0Y
 sequiï sequiar VMSP1S0Y
 sequiï sequiar VMSP3S0Y
@@ -71308,7 +70676,6 @@ sessegessis sessejar VMSI2S02
 sessegeu sessejar VMIP2P00
 sessegeu sessejar VMM02P0X
 sessegeu sessejar VMSP2P00
-sessegi sessejar VMIP1S0S
 sessegi sessejar VMM03S0Y
 sessegi sessejar VMSP1S0Y
 sessegi sessejar VMSP3S0Y
@@ -71538,7 +70905,6 @@ sobreplategessis sobreplatejar VMSI2S02
 sobreplategeu sobreplatejar VMIP2P00
 sobreplategeu sobreplatejar VMM02P0X
 sobreplategeu sobreplatejar VMSP2P00
-sobreplategi sobreplatejar VMIP1S0S
 sobreplategi sobreplatejar VMM03S0Y
 sobreplategi sobreplatejar VMSP1S0Y
 sobreplategi sobreplatejar VMSP3S0Y
@@ -71667,7 +71033,6 @@ sobreviressis sobrevirar VMSI2S02
 sobrevireu sobrevirar VMIP2P00
 sobrevireu sobrevirar VMM02P0X
 sobrevireu sobrevirar VMSP2P00
-sobreviri sobrevirar VMIP1S0S
 sobreviri sobrevirar VMM03S0Y
 sobreviri sobrevirar VMSP1S0Y
 sobreviri sobrevirar VMSP3S0Y
@@ -71754,7 +71119,6 @@ sociabilitzessis sociabilitzar VMSI2S02
 sociabilitzeu sociabilitzar VMIP2P00
 sociabilitzeu sociabilitzar VMM02P0X
 sociabilitzeu sociabilitzar VMSP2P00
-sociabilitzi sociabilitzar VMIP1S0S
 sociabilitzi sociabilitzar VMM03S0Y
 sociabilitzi sociabilitzar VMSP1S0Y
 sociabilitzi sociabilitzar VMSP3S0Y
@@ -71918,7 +71282,6 @@ sorribaldessis sorribaldar VMSI2S02
 sorribaldeu sorribaldar VMIP2P00
 sorribaldeu sorribaldar VMM02P0X
 sorribaldeu sorribaldar VMSP2P00
-sorribaldi sorribaldar VMIP1S0S
 sorribaldi sorribaldar VMM03S0Y
 sorribaldi sorribaldar VMSP1S0Y
 sorribaldi sorribaldar VMSP3S0Y
@@ -72005,7 +71368,6 @@ sosllevessis sosllevar VMSI2S02
 soslleveu sosllevar VMIP2P00
 soslleveu sosllevar VMM02P0X
 soslleveu sosllevar VMSP2P00
-sosllevi sosllevar VMIP1S0S
 sosllevi sosllevar VMM03S0Y
 sosllevi sosllevar VMSP1S0Y
 sosllevi sosllevar VMSP3S0Y
@@ -72100,7 +71462,6 @@ sovietitzessis sovietitzar VMSI2S02
 sovietitzeu sovietitzar VMIP2P00
 sovietitzeu sovietitzar VMM02P0X
 sovietitzeu sovietitzar VMSP2P00
-sovietitzi sovietitzar VMIP1S0S
 sovietitzi sovietitzar VMM03S0Y
 sovietitzi sovietitzar VMSP1S0Y
 sovietitzi sovietitzar VMSP3S0Y
@@ -72205,7 +71566,6 @@ suberifiquessis suberificar VMSI2S02
 suberifiqueu suberificar VMIP2P00
 suberifiqueu suberificar VMM02P0X
 suberifiqueu suberificar VMSP2P00
-suberifiqui suberificar VMIP1S0S
 suberifiqui suberificar VMM03S0Y
 suberifiqui suberificar VMSP1S0Y
 suberifiqui suberificar VMSP3S0Y
@@ -72578,7 +71938,6 @@ telefonegessis telefonejar VMSI2S02
 telefonegeu telefonejar VMIP2P00
 telefonegeu telefonejar VMM02P0X
 telefonegeu telefonejar VMSP2P00
-telefonegi telefonejar VMIP1S0S
 telefonegi telefonejar VMM03S0Y
 telefonegi telefonejar VMSP1S0Y
 telefonegi telefonejar VMSP3S0Y
@@ -72717,7 +72076,6 @@ templessis templar VMSI2S02
 templeu templar VMIP2P00
 templeu templar VMM02P0X
 templeu templar VMSP2P00
-templi templar VMIP1S0S
 templi templar VMM03S0Y
 templi templar VMSP1S0Y
 templi templar VMSP3S0Y
@@ -72844,7 +72202,6 @@ tesauritzessis tesauritzar VMSI2S02
 tesauritzeu tesauritzar VMIP2P00
 tesauritzeu tesauritzar VMM02P0X
 tesauritzeu tesauritzar VMSP2P00
-tesauritzi tesauritzar VMIP1S0S
 tesauritzi tesauritzar VMM03S0Y
 tesauritzi tesauritzar VMSP1S0Y
 tesauritzi tesauritzar VMSP3S0Y
@@ -72891,7 +72248,6 @@ tesoregessis tesorejar VMSI2S02
 tesoregeu tesorejar VMIP2P00
 tesoregeu tesorejar VMM02P0X
 tesoregeu tesorejar VMSP2P00
-tesoregi tesorejar VMIP1S0S
 tesoregi tesorejar VMM03S0Y
 tesoregi tesorejar VMSP1S0Y
 tesoregi tesorejar VMSP3S0Y
@@ -73108,7 +72464,6 @@ topetessis topetar VMSI2S02
 topeteu topetar VMIP2P00
 topeteu topetar VMM02P0X
 topeteu topetar VMSP2P00
-topeti topetar VMIP1S0S
 topeti topetar VMM03S0Y
 topeti topetar VMSP1S0Y
 topeti topetar VMSP3S0Y
@@ -73221,7 +72576,6 @@ torrefactessis torrefactar VMSI2S02
 torrefacteu torrefactar VMIP2P00
 torrefacteu torrefactar VMM02P0X
 torrefacteu torrefactar VMSP2P00
-torrefacti torrefactar VMIP1S0S
 torrefacti torrefactar VMM03S0Y
 torrefacti torrefactar VMSP1S0Y
 torrefacti torrefactar VMSP3S0Y
@@ -73292,7 +72646,6 @@ trampolegessis trampolejar VMSI2S02
 trampolegeu trampolejar VMIP2P00
 trampolegeu trampolejar VMM02P0X
 trampolegeu trampolejar VMSP2P00
-trampolegi trampolejar VMIP1S0S
 trampolegi trampolejar VMM03S0Y
 trampolegi trampolejar VMSP1S0Y
 trampolegi trampolejar VMSP3S0Y
@@ -73389,7 +72742,6 @@ trapitgessis trapitjar VMSI2S02
 trapitgeu trapitjar VMIP2P00
 trapitgeu trapitjar VMM02P0X
 trapitgeu trapitjar VMSP2P00
-trapitgi trapitjar VMIP1S0S
 trapitgi trapitjar VMM03S0Y
 trapitgi trapitjar VMSP1S0Y
 trapitgi trapitjar VMSP3S0Y
@@ -73549,7 +72901,6 @@ traüquessis traücar VMSI2S02
 traüqueu traücar VMIP2P00
 traüqueu traücar VMM02P0X
 traüqueu traücar VMSP2P00
-traüqui traücar VMIP1S0S
 traüqui traücar VMM03S0Y
 traüqui traücar VMSP1S0Y
 traüqui traücar VMSP3S0Y
@@ -73622,7 +72973,6 @@ tregillessis tregillar VMSI2S02
 tregilleu tregillar VMIP2P00
 tregilleu tregillar VMM02P0X
 tregilleu tregillar VMSP2P00
-tregilli tregillar VMIP1S0S
 tregilli tregillar VMM03S0Y
 tregilli tregillar VMSP1S0Y
 tregilli tregillar VMSP3S0Y
@@ -73706,7 +73056,6 @@ treginessis treginar VMSI2S02
 tregineu treginar VMIP2P00
 tregineu treginar VMM02P0X
 tregineu treginar VMSP2P00
-tregini treginar VMIP1S0S
 tregini treginar VMM03S0Y
 tregini treginar VMSP1S0Y
 tregini treginar VMSP3S0Y
@@ -73855,7 +73204,6 @@ triumfessis triumfar VMSI2S02
 triumfeu triumfar VMIP2P00
 triumfeu triumfar VMM02P0X
 triumfeu triumfar VMSP2P00
-triumfi triumfar VMIP1S0S
 triumfi triumfar VMM03S0Y
 triumfi triumfar VMSP1S0Y
 triumfi triumfar VMSP3S0Y
@@ -73963,7 +73311,6 @@ trotxessis trotxar VMSI2S02
 trotxeu trotxar VMIP2P00
 trotxeu trotxar VMM02P0X
 trotxeu trotxar VMSP2P00
-trotxi trotxar VMIP1S0S
 trotxi trotxar VMM03S0Y
 trotxi trotxar VMSP1S0Y
 trotxi trotxar VMSP3S0Y
@@ -74034,7 +73381,6 @@ tuitegessis tuitejar VMSI2S02
 tuitegeu tuitejar VMIP2P00
 tuitegeu tuitejar VMM02P0X
 tuitegeu tuitejar VMSP2P00
-tuitegi tuitejar VMIP1S0S
 tuitegi tuitejar VMM03S0Y
 tuitegi tuitejar VMSP1S0Y
 tuitegi tuitejar VMSP3S0Y
@@ -74295,7 +73641,6 @@ vehiculitzessis vehiculitzar VMSI2S02
 vehiculitzeu vehiculitzar VMIP2P00
 vehiculitzeu vehiculitzar VMM02P0X
 vehiculitzeu vehiculitzar VMSP2P00
-vehiculitzi vehiculitzar VMIP1S0S
 vehiculitzi vehiculitzar VMM03S0Y
 vehiculitzi vehiculitzar VMSP1S0Y
 vehiculitzi vehiculitzar VMSP3S0Y
@@ -74416,7 +73761,6 @@ ventisquessis ventiscar VMSI2S02
 ventisqueu ventiscar VMIP2P00
 ventisqueu ventiscar VMM02P0X
 ventisqueu ventiscar VMSP2P00
-ventisqui ventiscar VMIP1S0S
 ventisqui ventiscar VMM03S0Y
 ventisqui ventiscar VMSP1S0Y
 ventisqui ventiscar VMSP3S0Y
@@ -74467,7 +73811,6 @@ verduguegessis verduguejar VMSI2S02
 verduguegeu verduguejar VMIP2P00
 verduguegeu verduguejar VMM02P0X
 verduguegeu verduguejar VMSP2P00
-verduguegi verduguejar VMIP1S0S
 verduguegi verduguejar VMM03S0Y
 verduguegi verduguejar VMSP1S0Y
 verduguegi verduguejar VMSP3S0Y
@@ -74592,7 +73935,6 @@ vernacularitzessis vernacularitzar VMSI2S02
 vernacularitzeu vernacularitzar VMIP2P00
 vernacularitzeu vernacularitzar VMM02P0X
 vernacularitzeu vernacularitzar VMSP2P00
-vernacularitzi vernacularitzar VMIP1S0S
 vernacularitzi vernacularitzar VMM03S0Y
 vernacularitzi vernacularitzar VMSP1S0Y
 vernacularitzi vernacularitzar VMSP3S0Y
@@ -74753,7 +74095,6 @@ xafallegessis xafallejar VMSI2S02
 xafallegeu xafallejar VMIP2P00
 xafallegeu xafallejar VMM02P0X
 xafallegeu xafallejar VMSP2P00
-xafallegi xafallejar VMIP1S0S
 xafallegi xafallejar VMM03S0Y
 xafallegi xafallejar VMSP1S0Y
 xafallegi xafallejar VMSP3S0Y
@@ -74881,7 +74222,6 @@ xafunguessis xafungar VMSI2S02
 xafungueu xafungar VMIP2P00
 xafungueu xafungar VMM02P0X
 xafungueu xafungar VMSP2P00
-xafungui xafungar VMIP1S0S
 xafungui xafungar VMM03S0Y
 xafungui xafungar VMSP1S0Y
 xafungui xafungar VMSP3S0Y
@@ -74949,7 +74289,6 @@ xancegessis xancejar VMSI2S02
 xancegeu xancejar VMIP2P00
 xancegeu xancejar VMM02P0X
 xancegeu xancejar VMSP2P00
-xancegi xancejar VMIP1S0S
 xancegi xancejar VMM03S0Y
 xancegi xancejar VMSP1S0Y
 xancegi xancejar VMSP3S0Y
@@ -75105,7 +74444,6 @@ xapurregessis xapurrejar VMSI2S02
 xapurregeu xapurrejar VMIP2P00
 xapurregeu xapurrejar VMM02P0X
 xapurregeu xapurrejar VMSP2P00
-xapurregi xapurrejar VMIP1S0S
 xapurregi xapurrejar VMM03S0Y
 xapurregi xapurrejar VMSP1S0Y
 xapurregi xapurrejar VMSP3S0Y
@@ -75189,7 +74527,6 @@ xapurressis xapurrar VMSI2S02
 xapurreu xapurrar VMIP2P00
 xapurreu xapurrar VMM02P0X
 xapurreu xapurrar VMSP2P00
-xapurri xapurrar VMIP1S0S
 xapurri xapurrar VMM03S0Y
 xapurri xapurrar VMSP1S0Y
 xapurri xapurrar VMSP3S0Y
@@ -75276,7 +74613,6 @@ xarcolessis xarcolar VMSI2S02
 xarcoleu xarcolar VMIP2P00
 xarcoleu xarcolar VMM02P0X
 xarcoleu xarcolar VMSP2P00
-xarcoli xarcolar VMIP1S0S
 xarcoli xarcolar VMM03S0Y
 xarcoli xarcolar VMSP1S0Y
 xarcoli xarcolar VMSP3S0Y
@@ -75380,7 +74716,6 @@ xibessis xibar VMSI2S02
 xibeu xibar VMIP2P00
 xibeu xibar VMM02P0X
 xibeu xibar VMSP2P00
-xibi xibar VMIP1S0S
 xibi xibar VMM03S0Y
 xibi xibar VMSP1S0Y
 xibi xibar VMSP3S0Y
@@ -75475,7 +74810,6 @@ xillessis xillar VMSI2S02
 xilleu xillar VMIP2P00
 xilleu xillar VMM02P0X
 xilleu xillar VMSP2P00
-xilli xillar VMIP1S0S
 xilli xillar VMM03S0Y
 xilli xillar VMSP1S0Y
 xilli xillar VMSP3S0Y
@@ -75715,7 +75049,6 @@ xurruplessis xurruplar VMSI2S02
 xurrupleu xurruplar VMIP2P00
 xurrupleu xurruplar VMM02P0X
 xurrupleu xurruplar VMSP2P00
-xurrupli xurruplar VMIP1S0S
 xurrupli xurruplar VMM03S0Y
 xurrupli xurruplar VMSP1S0Y
 xurrupli xurruplar VMSP3S0Y
