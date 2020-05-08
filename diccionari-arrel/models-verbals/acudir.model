@@ -9,6 +9,8 @@ ir o ir VMIP1S0C # acudo
 r sc ir VMIP1S0V # acudisc
 ir esc ir VMIP1S0Z # acudesc
 dir t ir VMIP1S0Z # acut
+ir eixi ir VMIP1S0S # acudeixi
+ir i ir VMIP1S0S # acudi
 ir eixes ir VMIP2S00 # acudeixes
 dir ts ir VMIP2S00 # acuts
 r xes ir VMIP2S0V # acudixes

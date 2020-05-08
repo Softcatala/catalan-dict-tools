@@ -6,6 +6,7 @@ r ts ir VMP00PM0 # deseixits
 r des ir VMP00PF0 # deseixides
 eixir ixo ir VMIP1S0C # desixo
 eixir isc ir VMIP1S0Z # desisc
+eixir ixi ir VMIP1S0S # desixi
 eixir ixes ir VMIP2S00 # desixes
 eixir ix ir VMIP3S00 # desix
 r m ir VMIP1P00 # deseixim

@@ -6,6 +6,7 @@ r ts ir VMP00PM0 # cosits
 r des ir VMP00PF0 # cosides
 osir uso ir VMIP1S0C # cuso
 osir us ir VMIP1S0Z # cus
+osir usi ir VMIP1S0S # cusi
 osir uses ir VMIP2S00 # cuses
 osir us ir VMIP3S00 # cus
 r m ir VMIP1P00 # cosim

@@ -9,6 +9,8 @@ ir eixo ir VMIP1S0C # llueixo
 ir o ir VMIP1S0C # lluo
 ir ïsc ir VMIP1S0V # lluïsc
 ir esc ir VMIP1S0Z # lluesc
+ir eixi ir VMIP1S0S # llueixi
+ir ï ir VMIP1S0S # lluï
 ir eixes ir VMIP2S00 # llueixes
 ir s ir VMIP2S00 # llus
 ir us ir VMIP2S00 # lluus

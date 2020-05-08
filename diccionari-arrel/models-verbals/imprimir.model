@@ -8,6 +8,7 @@ imir eses ir VMP00PF0 # impreses
 ir eixo ir VMIP1S0C # imprimeixo
 r sc ir VMIP1S0V # imprimisc
 ir esc ir VMIP1S0Z # imprimesc
+ir eixi ir VMIP1S0S # imprimeixi
 ir eixes ir VMIP2S00 # imprimeixes
 r xes ir VMIP2S0V # imprimixes
 ir eix ir VMIP3S00 # imprimeix

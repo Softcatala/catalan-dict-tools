@@ -7,6 +7,7 @@ r des ar VMP00PF0 # lligades
 ar o ar VMIP1S0C # lligo
 ar ue ar VMIP1S0V # lligue
 gar c ar VMIP1S0B # llic única diferència amb el model de pregar
+ar ui ar VMIP1S0S # lligui
 ar ues ar VMIP2S00 # lligues
 r 0 ar VMIP3S00 # lliga
 ar uem ar VMIP1P00 # lliguem

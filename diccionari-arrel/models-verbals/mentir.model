@@ -9,6 +9,7 @@ ir o ir VMIP1S0C # mento
 r sc ir VMIP1S0V # mentisc
 ir 0 ir VMIP1S0Z # ment
 ir esc ir VMIP1S0Z # mentesc
+ir eixi ir VMIP1S0S # menteixi
 ir eixes ir VMIP2S00 # menteixes
 ir s ir VMIP2S00 # ments
 r xes ir VMIP2S0V # mentixes

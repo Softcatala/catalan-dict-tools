@@ -7,6 +7,7 @@ r nt ir VMG00000 # argüint
 ir eixo ir VMIP1S0C # argüeixo
 üir uïsc ir VMIP1S0V # arguïsc
 ir esc ir VMIP1S0Z # argüesc
+ir eixi ir VMIP1S0S # argüeixi
 ir eixes ir VMIP2S00 # argüeixes
 üir uïxes ir VMIP2S0V # arguïxes
 ir eix ir VMIP3S00 # argüeix

@@ -7,6 +7,7 @@ r des ar VMP00PF0 # menjades
 ar o ar VMIP1S0C # menjo
 jar ge ar VMIP1S0V # menge
 ar 0 ar VMIP1S0B # menj
+jar gi ar VMIP1S0S # mengi
 jar ges ar VMIP2S00 # menges
 r 0 ar VMIP3S00 # menja
 jar gem ar VMIP1P00 # mengem

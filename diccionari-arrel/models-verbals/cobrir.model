@@ -7,6 +7,7 @@ rir ertes ir VMP00PF0 # cobertes
 ir eixo ir VMIP1S0C # cobreixo
 r sc ir VMIP1S0V # cobrisc
 ir esc ir VMIP1S0Z # cobresc
+ir eixi ir VMIP1S0S # cobreixi
 ir eixes ir VMIP2S00 # cobreixes
 r xes ir VMIP2S0V # cobrixes
 ir eix ir VMIP3S00 # cobreix

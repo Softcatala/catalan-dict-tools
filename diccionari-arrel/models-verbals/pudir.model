@@ -6,6 +6,7 @@ r ts ir VMP00PM0 # pudits
 r des ir VMP00PF0 # pudides
 ir o ir VMIP1S0C # pudo
 dir t ir VMIP1S0Z # put
+ir i ir VMIP1S0S # pudi
 dir ts ir VMIP2S00 # puts
 dir t ir VMIP3S00 # put
 r m ir VMIP1P00 # pudim

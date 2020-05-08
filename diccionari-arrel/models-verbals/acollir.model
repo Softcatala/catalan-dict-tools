@@ -6,6 +6,7 @@ r ts ir VMP00PM0 # acollits
 r des ir VMP00PF0 # acollides
 ollir ullo ir VMIP1S0C # acullo
 ollir ull ir VMIP1S0Z # acull
+ollir ulli ir VMIP1S0S # aculli
 ollir ulls ir VMIP2S00 # aculls
 ollir ull ir VMIP3S00 # acull
 r m ir VMIP1P00 # acollim

@@ -8,6 +8,7 @@ ir eixo ir VMIP1S0C # teixeixo
 r sc ir VMIP1S0V # teixisc
 ir esc ir VMIP1S0Z # teixesc
 eixir ix ir VMIP1S0Z # tix
+ir eixi ir VMIP1S0S # teixeixi
 ir eixes ir VMIP2S00 # teixeixes
 r xes ir VMIP2S0V # teixixes
 eixir ixes ir VMIP2S0Z # tixes
