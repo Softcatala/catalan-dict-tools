@@ -7,7 +7,7 @@ r r er VMN00000 # irèixer
 èixer escudes er VMP00PF0 # irescudes
 èixer eixo er VMIP1S0C # ireixo
 èixer esc er VMIP1S0Z # iresc
-èixer eixi er VMIP1S0S # ireixi
+#èixer eixi er VMIP1S0S # ireixi
 èixer eixes er VMIP2S00 # ireixes
 èixer eix er VMIP3S00 # ireix
 èixer eixem er VMIP1P00 # ireixem

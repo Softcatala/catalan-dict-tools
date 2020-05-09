@@ -9,8 +9,8 @@ ollir ullo ir VMIP1S0C # escullo
 r sc ir VMIP1S0V # escollisc
 ir esc ir VMIP1S0Z # escollesc
 ollir ull ir VMIP1S0Z # escull
-ir eixi ir VMIP1S0S # escolleixi
-ollir ulli ir VMIP1S0S # esculli
+#ir eixi ir VMIP1S0S # escolleixi
+#ollir ulli ir VMIP1S0S # esculli
 ir eixes ir VMIP2S00 # escolleixes
 ollir ulls ir VMIP2S00 # esculls
 r xes ir VMIP2S0V # escollixes

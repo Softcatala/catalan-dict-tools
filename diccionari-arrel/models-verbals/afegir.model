@@ -9,7 +9,7 @@ r sc ir VMIP1S0V # afegisc
 ir esc ir VMIP1S0Z # afegesc
 egir ig ir VMIP1S0Z # afig
 egir igc ir VMIP1S0V # afigc IGNOREHUNSPELL
-ir eixi ir VMIP1S0S # afegeixi
+#ir eixi ir VMIP1S0S # afegeixi
 ir eixes ir VMIP2S00 # afegeixes
 r xes ir VMIP2S0V # afegixes
 egir iges ir VMIP2S0Z # afiges

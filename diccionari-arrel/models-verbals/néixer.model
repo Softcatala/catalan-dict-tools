@@ -9,7 +9,7 @@ r r er VMN00000 # néixer
 éixer eixo er VMIP1S0C # neixo
 éixer asc er VMIP1S0V # nasc
 éixer esc er VMIP1S0B # nesc
-éixer eixi er VMIP1S0S # neixi
+#éixer eixi er VMIP1S0S # neixi
 éixer aixes er VMIP2S00 # naixes
 éixer eixes er VMIP2S00 # neixes
 éixer aix er VMIP3S00 # naix

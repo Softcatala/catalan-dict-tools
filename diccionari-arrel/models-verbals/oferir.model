@@ -11,7 +11,7 @@ ir tes ir VMP00PF0 # ofertes
 ir eixo ir VMIP1S0C # ofereixo
 r sc ir VMIP1S0V # oferisc
 ir esc ir VMIP1S0Z # oferesc
-ir eixi ir VMIP1S0S # ofereixi
+#ir eixi ir VMIP1S0S # ofereixi
 ir eixes ir VMIP2S00 # ofereixes
 r xes ir VMIP2S0V # oferixes
 ir eix ir VMIP3S00 # ofereix

@@ -6,7 +6,7 @@ re uts re VMP00PM0 # apercebuts
 re udes re VMP00PF0 # apercebudes
 re o re VMIP1S0C # apercebo
 bre p re VMIP1S0Z # apercep
-re i re VMIP1S0S # apercebi
+#re i re VMIP1S0S # apercebi
 bre ps re VMIP2S00 # aperceps
 bre p re VMIP3S00 # apercep
 re em re VMIP1P00 # apercebem

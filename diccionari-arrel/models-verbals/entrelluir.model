@@ -9,7 +9,7 @@ ir o ir VMIP1S0C # entrelluo
 ir ïsc ir VMIP1S0V # entrelluïsc
 ir u ir VMIP1S0B # entrelluu
 ir esc ir VMIP1S0Z # entrelluesc
-ir ï ir VMIP1S0S # entrelluï
+#ir ï ir VMIP1S0S # entrelluï
 ir eixes ir VMIP2S00 # entrellueixes
 ir us ir VMIP2S00 # entrelluus
 uir ús ir VMIP2S00 # entrellús

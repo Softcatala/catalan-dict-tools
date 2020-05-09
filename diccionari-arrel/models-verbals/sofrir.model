@@ -11,7 +11,7 @@ r des ir VMP00PF0 # sofrides
 ir eixo ir VMIP1S0C # sofreixo
 r sc ir VMIP1S0V # sofrisc
 ir esc ir VMIP1S0Z # sofresc
-ir eixi ir VMIP1S0S # sofreixi
+#ir eixi ir VMIP1S0S # sofreixi
 ir eixes ir VMIP2S00 # sofreixes
 r xes ir VMIP2S0V # sofrixes
 ir eix ir VMIP3S00 # sofreix

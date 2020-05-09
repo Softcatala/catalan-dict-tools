@@ -10,7 +10,7 @@ r des ir VMP00PF0 # confugides
 gir ites ir VMP00PFB # confuites
 gir jo ir VMIP1S0C # confujo
 gir ig ir VMIP1S0B # confuig
-gir gi ir VMIP1S0S # confugi
+#gir gi ir VMIP1S0S # confugi
 ir es ir VMIP2S00 # confuges
 gir ig ir VMIP3S00 # confuig
 r m ir VMIP1P00 # confugim

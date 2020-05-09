@@ -6,7 +6,7 @@ r ts ir VMP00PM0 # escopits
 r des ir VMP00PF0 # escopides
 opir upo ir VMIP1S0C # escupo
 opir up ir VMIP1S0Z # escup
-opir upi ir VMIP1S0S # escupi
+#opir upi ir VMIP1S0S # escupi
 opir ups ir VMIP2S00 # escups
 opir up ir VMIP3S00 # escup
 r m ir VMIP1P00 # escopim

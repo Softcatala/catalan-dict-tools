@@ -7,7 +7,7 @@ r des ar VMP00PF0 # entravessades
 ar o ar VMIP1S0C # entravesso
 ar e ar VMIP1S0V # entravesse
 essar ès ar VMIP1S0B # entravès
-ar i ar VMIP1S0S # entravessi
+#ar i ar VMIP1S0S # entravessi
 ar es ar VMIP2S00 # entravesses
 r 0 ar VMIP3S00 # entravessa
 ar em ar VMIP1P00 # entravessem

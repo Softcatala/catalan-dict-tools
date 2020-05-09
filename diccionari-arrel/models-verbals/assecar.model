@@ -7,7 +7,7 @@ r des ar VMP00PF0 # assecades
 ar 0 ar VMIP1S00 # assec
 ar o ar VMIP1S0C # asseco
 car que ar VMIP1S0V # asseque
-car qui ar VMIP1S0S # assequi
+#car qui ar VMIP1S0S # assequi
 car ques ar VMIP2S00 # asseques
 r 0 ar VMIP3S00 # asseca
 car quem ar VMIP1P00 # assequem

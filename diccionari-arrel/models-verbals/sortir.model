@@ -6,7 +6,7 @@ r ts ir VMP00PM0 # sortits
 r des ir VMP00PF0 # sortides
 ortir urto ir VMIP1S0C # surto
 ortir urt ir VMIP1S0Z # surt
-ortir urti ir VMIP1S0S # surti
+#ortir urti ir VMIP1S0S # surti
 ortir urts ir VMIP2S00 # surts
 ortir urt ir VMIP3S00 # surt
 r m ir VMIP1P00 # sortim

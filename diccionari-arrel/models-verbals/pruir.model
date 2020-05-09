@@ -6,7 +6,7 @@ ir ïts ir VMP00PM0 # pruïts
 ir ïdes ir VMP00PF0 # pruïdes
 ir u ir VMIP1S00 # pruu
 ir o ir VMIP1S0C # pruo
-ir ï ir VMIP1S0S # pruï
+#ir ï ir VMIP1S0S # pruï
 ir s ir VMIP2S00 # prus
 ir us ir VMIP2S00 # pruus
 ir 0 ir VMIP3S00 # pru

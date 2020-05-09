@@ -6,7 +6,7 @@ r ts ir VMP00PM0 # reeixits
 r des ir VMP00PF0 # reeixides
 eixir ïxo ir VMIP1S0C # reïxo
 eixir ïsc ir VMIP1S0Z # reïsc
-eixir ïxi ir VMIP1S0S # reïxi
+#eixir ïxi ir VMIP1S0S # reïxi
 eixir ïxes ir VMIP2S00 # reïxes
 eixir ïx ir VMIP3S00 # reïx
 r m ir VMIP1P00 # reeixim

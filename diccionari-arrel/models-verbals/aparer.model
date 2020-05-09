@@ -5,7 +5,7 @@ er uts er VMP00PM0 # aparuts
 er udes er VMP00PF0 # aparudes
 er o er VMIP1S0C # aparo
 er 0 er VMIP1S0B # apar
-er i er VMIP1S0S # apari
+#er i er VMIP1S0S # apari
 er s er VMIP2S00 # apars
 er 0 er VMIP3S00 # apar
 r m er VMIP1P00 # aparem

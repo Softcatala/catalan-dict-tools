@@ -7,7 +7,7 @@ ir ïdes ir VMP00PF0 # traduïdes
 ir eixo ir VMIP1S0C # tradueixo
 ir ïsc ir VMIP1S0V # traduïsc
 ir esc ir VMIP1S0Z # traduesc
-ir eixi ir VMIP1S0S # tradueixi
+#ir eixi ir VMIP1S0S # tradueixi
 ir eixes ir VMIP2S00 # tradueixes
 ir ïxes ir VMIP2S0V # traduïxes
 ir eix ir VMIP3S00 # tradueix

@@ -7,7 +7,7 @@ r des ar VMP00PF0 # capbussades
 ar o ar VMIP1S0C # capbusso
 ar e ar VMIP1S0V # capbusse
 ussar ús ar VMIP1S0B # capbús
-ar i ar VMIP1S0S # capbussi
+#ar i ar VMIP1S0S # capbussi
 ar es ar VMIP2S00 # capbusses
 r 0 ar VMIP3S00 # capbussa
 ar em ar VMIP1P00 # capbussem

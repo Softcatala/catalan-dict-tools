@@ -7,7 +7,7 @@ r des ar VMP00PF0 # aüssades
 ar o ar VMIP1S0C # aüsso
 ar e ar VMIP1S0V # aüsse
 üssar ús ar VMIP1S0B # aús
-ar i ar VMIP1S0S # aüssi
+#ar i ar VMIP1S0S # aüssi
 ar es ar VMIP2S00 # aüsses
 r 0 ar VMIP3S00 # aüssa
 ar em ar VMIP1P00 # aüssem

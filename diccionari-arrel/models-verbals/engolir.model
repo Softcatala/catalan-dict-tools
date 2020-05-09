@@ -8,7 +8,7 @@ ir eixo ir VMIP1S0C # engoleixo
 r sc ir VMIP1S0V # engolisc
 olir ul ir VMIP1S0V # engul
 ir esc ir VMIP1S0Z # engolesc
-ir eixi ir VMIP1S0S # engoleixi
+#ir eixi ir VMIP1S0S # engoleixi
 ir eixes ir VMIP2S00 # engoleixes
 r xes ir VMIP2S0V # engolixes
 olir uls ir VMIP2S0V # enguls

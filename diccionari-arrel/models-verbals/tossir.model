@@ -6,7 +6,7 @@ r ts ir VMP00PM0 # tossits
 r des ir VMP00PF0 # tossides
 ossir usso ir VMIP1S0C # tusso
 ossir us ir VMIP1S0Z # tus
-ossir ussi ir VMIP1S0S # tussi
+#ossir ussi ir VMIP1S0S # tussi
 ossir usses ir VMIP2S00 # tusses
 ossir us ir VMIP3S00 # tus
 r m ir VMIP1P00 # tossim

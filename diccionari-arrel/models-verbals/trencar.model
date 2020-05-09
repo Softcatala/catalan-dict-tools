@@ -7,7 +7,7 @@ r des ar VMP00PF0 # trencades
 ar o ar VMIP1S0C # trenco
 car que ar VMIP1S0V # trenque
 ar 0 ar VMIP1S0B # trenc
-car qui ar VMIP1S0S # trenqui
+#car qui ar VMIP1S0S # trenqui
 car ques ar VMIP2S00 # trenques
 r 0 ar VMIP3S00 # trenca
 car quem ar VMIP1P00 # trenquem

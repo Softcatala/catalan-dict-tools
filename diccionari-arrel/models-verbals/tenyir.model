@@ -8,7 +8,7 @@ ir eixo ir VMIP1S0C # tenyeixo
 r sc ir VMIP1S0V # tenyisc
 ir esc ir VMIP1S0Z # tenyesc
 enyir iny ir VMIP1S0Z # tiny
-ir eixi ir VMIP1S0S # tenyeixi
+#ir eixi ir VMIP1S0S # tenyeixi
 ir eixes ir VMIP2S00 # tenyeixes
 r xes ir VMIP2S0V # tenyixes
 enyir inys ir VMIP2S0Z # tinys

@@ -6,7 +6,7 @@ r r er VMN00000 # acréixer
 éixer escudes er VMP00PF0 # acrescudes
 éixer eixo er VMIP1S0C # acreixo
 éixer esc er VMIP1S0Z # acresc
-éixer eixi er VMIP1S0S # acreixi
+#éixer eixi er VMIP1S0S # acreixi
 éixer eixes er VMIP2S00 # acreixes
 éixer eix er VMIP3S00 # acreix
 éixer eixem er VMIP1P00 # acreixem

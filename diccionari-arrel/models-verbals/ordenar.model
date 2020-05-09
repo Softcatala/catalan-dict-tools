@@ -7,7 +7,7 @@ r des ar VMP00PF0 # ordenades
 ar o ar VMIP1S0C # ordeno
 ar e ar VMIP1S0V # ordene
 enar én ar VMIP1S0B # ordén
-ar i ar VMIP1S0S # ordeni
+#ar i ar VMIP1S0S # ordeni
 ar es ar VMIP2S00 # ordenes
 r 0 ar VMIP3S00 # ordena
 ar em ar VMIP1P00 # ordenem

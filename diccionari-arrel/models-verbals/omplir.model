@@ -11,7 +11,7 @@ r des ir VMP00PF0 # omplides
 ir o ir VMIP1S0C # omplo
 omplir òmplic ir VMIP1S0V # òmplic
 ir 0 ir VMIP1S0B # ompl
-ir i ir VMIP1S0S # ompli
+#ir i ir VMIP1S0S # ompli
 ir es ir VMIP2S00 # omples
 r s ir VMIP2S0Z # omplis
 ir e ir VMIP3S00 # omple

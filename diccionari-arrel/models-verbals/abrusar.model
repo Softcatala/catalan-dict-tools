@@ -7,7 +7,7 @@ r des ar VMP00PF0 # abrusades
 ar o ar VMIP1S0C # abruso
 ar e ar VMIP1S0V # abruse
 usar ús ar VMIP1S0B # abrús
-ar i ar VMIP1S0S # abrusi
+#ar i ar VMIP1S0S # abrusi
 ar es ar VMIP2S00 # abruses
 r 0 ar VMIP3S00 # abrusa
 ar em ar VMIP1P00 # abrusem

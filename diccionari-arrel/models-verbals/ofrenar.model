@@ -7,7 +7,7 @@ r des ar VMP00PF0 # ofrenades
 ar o ar VMIP1S0C # ofreno
 ar e ar VMIP1S0V # ofrene
 enar èn ar VMIP1S0B # ofrèn
-ar i ar VMIP1S0S # ofreni
+#ar i ar VMIP1S0S # ofreni
 ar es ar VMIP2S00 # ofrenes
 r 0 ar VMIP3S00 # ofrena
 ar em ar VMIP1P00 # ofrenem

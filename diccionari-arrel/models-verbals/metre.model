@@ -6,7 +6,7 @@ tre sos re VMP00PM0 # mesos
 tre ses re VMP00PF0 # meses
 re o re VMIP1S0C # meto
 re 0 re VMIP1S0B # met
-re i re VMIP1S0S # meti
+#re i re VMIP1S0S # meti
 re s re VMIP2S00 # mets
 re 0 re VMIP3S00 # met
 re em re VMIP1P00 # metem
