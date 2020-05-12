@@ -22857,7 +22857,7 @@ Tuzla Tuzla NPCSG00
 Tuébols Tuébols NPCNSP0
 Tuïr Tuïr NPCSG00
 Tver Tver NPCSG00
-Twain Twain NPCNSP00
+Twain Twain NPCNSP0
 Twitter Twitter NPMSO00
 Txad Txad NPMSG00
 Txaikovski Txaikovski NPCNSP0
