@@ -47,7 +47,7 @@ do
     #convert catalan_tags.txt to DOS file
     #sed 's/$'"/`echo \\\r`/" ${targetdict}_tags.txt > ${targetdict}_tags_dos.txt
     #rm ${targetdict}_tags.txt
-    mv ${targetdict}_synth.dict ${targetdict}_tags.txt
+    mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt
 
     cp ${targetdict}_tags.txt $target_dir
     cp ${targetdict}.dict $target_dir
