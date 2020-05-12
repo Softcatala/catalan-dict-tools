@@ -269,7 +269,6 @@ PC=categories: MI;fonts: esadir;
 PCB=categories: FI;fonts: dsalut;
 PCP=categories: FI;fonts: dsalut;
 PCR=categories: FI;fonts: dsalut;
-PCR=categories: MFI;fonts: sigla;
 PD=categories: MFI;fonts: sigla (postdata, poc difícil);
 PDF=categories: MI;fonts: termcat;
 PDI=categories: MS;fonts: sigles;

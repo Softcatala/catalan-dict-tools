@@ -32,6 +32,7 @@ assecar
 asseure
 atendre
 atènyer
+aüssar
 beure
 bressar
 brunzir
@@ -154,4 +155,4 @@ venir
 vestir
 veure
 voler
-vore
+
