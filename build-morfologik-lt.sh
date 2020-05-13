@@ -36,8 +36,8 @@ do
     # create synthesis dictionary with morfologik tools
     java -cp $jarfile org.languagetool.tools.SynthDictionaryBuilder -i ${targetdict}_tabs.txt -info ${targetdict}_synth.info -o ${targetdict}_synth.dict
 
-    cp /tmp/SynthDictionaryBuilder*_tags.txt ./${targetdict}_tags.txt
-    rm /tmp/SynthDictionaryBuilder*_tags.txt
+    #cp /tmp/SynthDictionaryBuilder*_tags.txt ./${targetdict}_tags.txt
+    #rm /tmp/SynthDictionaryBuilder*_tags.txt
 
     # dump synthesis dictionary
     java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_synth.dict -o ${targetdict}_synth_lt.txt -info ${targetdict}_synth.info
