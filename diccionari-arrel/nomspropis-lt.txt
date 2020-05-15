@@ -4773,6 +4773,7 @@ Cacheu Cacheu NPCSG00
 Cachot Cachot NPCNSP0
 Cadafal Cadafal NPCNSP0
 Cadafalc Cadafalc NPCNSP0
+Cadafalch Cadafalch NPCNSP0
 Cadanet Cadanet NPCNSP0
 Cadaqués Cadaqués NPCSG00
 Cadarache Cadarache NPCSG00
@@ -11241,6 +11242,7 @@ Honshu Honshu NPCSG00
 Honshū Honshū NPCSG00
 Honòria Honòria NPFSSP0 # avl: noms de persona
 Hooghly Hooghly NPCSG00
+Hopkins Hopkins NPCNSP0
 Horaci Horaci NPMSSP0
 Horacis Horaci NPMPSP0
 Horkheimer Horkheimer NPCNSP0
@@ -11460,6 +11462,7 @@ Iguvium Iguvium NPMSG00
 Igüerri Igüerri NPCSG00
 Ikea Ikea NPCNO00
 Ikrame Ikrame NPFSSP0
+Ilamatepec Ilamatepec NPMSG00
 Ilawe-Ekiti Ilawe-Ekiti NPCSG00
 Ilda Ilda NPFSSP0 # avl: noms de persona
 Ildefons Ildefons NPMPSP0
@@ -22169,6 +22172,7 @@ Tietê Tietê NPCSG00
 Tigre Tigre NPCSG00
 Tigris Tigris NPCSG00
 Tijuana Tijuana NPCSG00
+TikTok NPMSO00
 Tikal Tikal NPCSG00
 Tikrit Tikrit NPCSG00
 Tilburg Tilburg NPCSG00

@@ -6,6 +6,7 @@
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
 #fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
+#googlejar=categories: V;model:envejar;fonts:LT NOU!!!
 #malvore=categories: V;model:vore;fonts: DNV;
 #revore=categories: V;model:vore;fonts: DNV;
 abacallanar=categories: V;model:cantar;fonts:LT
