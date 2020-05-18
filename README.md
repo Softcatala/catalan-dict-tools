@@ -16,7 +16,7 @@ El diccionari arrel (en el directori "diccionari-arrel") conté les dades bàsiq
 
 ##### build-hunspell.sh
 
-Genera diccionaris Hunspell en variant general i valenciana a partir del diccionari arrel. 
+Genera diccionaris Hunspell en versió general i valenciana a partir del diccionari arrel. 
 
 En el fitxer fdic-to-hunspell/dades/exclusions.txt s'indiquen formes i lemes que han de ser exclosos dels diccionaris Hunspell per diferents motius. 
 
