@@ -22457,6 +22457,7 @@ debanatge=categories: M;fonts: LT;
 debanell=categories: M;fonts: LT;
 debat=categories: M;fonts: LT;
 debategament=categories: M;fonts: LT;
+debatent=categories: MF;fonts: derivat;
 debatiment=categories: M;fonts: LT;
 debatuda=categories: F;fonts: LT;
 debel·lador=categories: MS;fonts: LT;
