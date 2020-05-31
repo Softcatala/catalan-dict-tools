@@ -87,6 +87,7 @@
 #Ione Ione NPFSSP0 # avl: noms de persona
 #Iria Iria NPFSSP0 # avl: noms de persona
 #Iris Iris NPFSSP0 # avl: noms de persona
+#Iva Iva NPFSSP0 # avl: noms de persona
 #Ió Ió NPMSSP0 # avl: noms de persona
 #Laure Laure NPMSSP0 # avl: noms de persona
 #Major Major NPMSSP0 # avl: noms de persona
@@ -2883,6 +2884,7 @@ Balliol Balliol NPCNSP0
 Ballús Ballús NPCNSP0
 Balma Balma NPFSSP0 # avl: noms de persona
 Balmes Balmes NPCNSP0
+Balmis Balmis NPCNSP0
 Balomer Balomer NPCNSP0
 Balones Balones NPCSG00
 Balot Balot NPCNSP0
@@ -11664,7 +11666,6 @@ Iu Iu NPMSSP0
 Iugoslàvia Iugoslàvia NPFSG00
 Ius Iu NPMPSP0
 Iussuf Iussuf NPMSSP0 # avl: noms de persona
-Iva Iva NPFSSP0 # avl: noms de persona
 Ivan Ivan NPMSSP0
 Ivano-Frankivs'k Ivano-Frankivs'k NPCSG00
 Ivano-Frankivsk Ivano-Frankivsk NPCSG00

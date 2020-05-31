@@ -30598,6 +30598,7 @@ escureta=categories: F;fonts: LT;
 escurim=categories: M;fonts: LT;
 escurina=categories: F;fonts: LT;
 escurçada=categories: F;fonts: LT;
+escurçador=categories: M;fonts: termcat;
 escurçadura=categories: F;fonts: LT;
 escurçament=categories: M;fonts: LT;
 escurçana=categories: F;fonts: LT;
