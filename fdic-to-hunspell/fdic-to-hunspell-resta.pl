@@ -17,11 +17,14 @@ open( my $ofh,  ">:encoding(UTF-8)", $outputfile );
 foreach my $file (@files) {
     open( my $fh,  "<:encoding(UTF-8)", $file );
     LINE: while (my $line = <$fh>) {
+    next if ($line =~ /^#/);
+    $line =~ s/ ?#.+//;
 	if ($line =~ /^(.+) (.+) (.+)$/) {
 	    my $forma = $1;
 	    if ($forma =~ /^['-]|['-]$/) { next LINE; }
 	    my $lema = $2;
 	    my $postag = $3;
+
 	    my $apostrofacions="";
 	    # apostrofa d'
 	    if ($postag =~ /^(RG.*|NP.*|D[DI].*|PD0NS000|PI.*|PP3[MF][SP]000|SPS00)$/) {

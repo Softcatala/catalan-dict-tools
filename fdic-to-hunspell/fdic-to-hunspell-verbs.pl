@@ -41,6 +41,7 @@ open( my $ofh, ">:encoding(UTF-8)", $out );
 my %formes = ();
 while ( my $line = <$fh> ) {
     chomp($line);
+    next if ($line =~ /^#/);
     if ( $line =~ /^([^#]+)(er|re|ir|ar|r)=categories:(.+?);model:(.+?);/ ) {
         my $infinitiu  = $1 . $2;
         my $terminacio = $2;
@@ -64,6 +65,7 @@ while ( my $line = <$fh> ) {
             if ( $infinitiu =~ /^h?[aeo]/ ) {
                 open( my $modelfh, "<:encoding(UTF-8)", $modelsdir . $model . ".model" );
                 while ( my $modelline = <$modelfh> ) {
+                    next if ($modelline =~ /^#/);
                     if ( $modelline =~ /^(.+) (.+) (.+) (.+) #.*$/ ) {
                         my $forma   = $infinitiu;
                         my $trau    = $1;
@@ -72,7 +74,7 @@ while ( my $line = <$fh> ) {
                         if ( $forma =~ /^(.*)$trau$/ ) {
                             $forma = $1;
                         } else {
-                            print $ofh "!!!!ERROR en $forma\n";
+                            print $ofh "!!!!ERROR 2 en $forma: $modelline\n";
                         }
                         if ( $afegeix !~ /^0$/ ) {
                             $forma .= $afegeix;
@@ -88,6 +90,7 @@ while ( my $line = <$fh> ) {
         } else {  # DESPLEGA EL VERB AMB TOTES LES SEVES FORMES
             open( my $modelfh, "<:encoding(UTF-8)", $modelsdir . $model . ".model" );
                 LINE: while ( my $modelline = <$modelfh> ) {
+                    next if ($modelline =~ /^#/);
                     if ( $modelline =~ /^(.+) (.+) (.+) (.+) #.*$/ ) {
                         my $forma   = $infinitiu;
                         my $trau    = $1;
@@ -96,7 +99,7 @@ while ( my $line = <$fh> ) {
                         if ( $forma =~ /^(.*)$trau$/ ) {
                             $forma = $1;
                         } else {
-                            print $ofh "!!!!ERROR en $forma\n";
+                            print $ofh "!!!!ERROR 3 en $forma: $modelline\n";
                         }
                         if ( $afegeix !~ /^0$/ ) {
                             $forma .= $afegeix;

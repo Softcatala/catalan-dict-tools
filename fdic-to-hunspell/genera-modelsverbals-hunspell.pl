@@ -34,7 +34,7 @@ foreach my $file (@files) {
     open( my $modelfh, "<:encoding(UTF-8)", $file );
     my $compta = 0;
   LINE: while ( my $modelline = <$modelfh> ) {
-
+        next if ($modelline =~ /^#/);
         if (   $modelline =~ /^(.+) (.+) (.+) (.+) #.*$/
             && $modelline !~ /IGNOREHUNSPELL/ )
         {
@@ -47,7 +47,7 @@ foreach my $file (@files) {
                 $forma = $1;
             }
             else {
-                print $ofh "!!!!ERROR en $forma\n";
+                print $ofh "!!!!ERROR en $forma: $modelline\n";
             }
             if ( $afegeix !~ /^0$/ ) {
                 $forma .= $afegeix;
