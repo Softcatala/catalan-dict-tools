@@ -21912,6 +21912,7 @@ orleanista=categories: A;fonts: LT;
 ornamental=categories: A;fonts: LT;
 ornamentari ornamentària=categories: A;fonts: LT;
 ornitològic ornitològica=categories: A;fonts: LT;
+ornitonímic ornitonímica=categories: A;fonts: DIEC;
 ornitòfil ornitòfila=categories: A;fonts: LT;
 ornític ornítica=categories: A;fonts: LT;
 oroanal=categories: A;fonts: dsalut;

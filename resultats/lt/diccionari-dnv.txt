@@ -60281,12 +60281,8 @@ orinquejàssiu orinquejar VMSI2P04
 orinquejàvem orinquejar VMII1P00
 orinquejàveu orinquejar VMII2P00
 oriònides oriònides NCFP000
-ornitonímia ornitonímia NCFS000
-ornitonímies ornitonímia NCFP000
 orniture orniture NCMS000
 ornitures orniture NCMP000
-ornitònim ornitònim NCMS000
-ornitònims ornitònim NCMP000
 oronada oronada NCFS000
 oronades oronada NCFP000
 oronal oronal NCMS000
