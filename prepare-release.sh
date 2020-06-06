@@ -10,13 +10,13 @@ done
 
 echo $VERSION
 
+mkdir -p resultats/release
+rm -rf resultats/release/*
+
 ./build-lt.sh
 ./build-hunspell.sh -v "$VERSION" 
 ./build-oxt-all.sh -p -v "$VERSION"
-./build-xpi-all.sh -p -v "$VERSION"
-
-mkdir resultats/release
-rm -rf resultats/release/*
+./build-xpi-all.webext.sh "$VERSION" resultats/release/
 
 cp LICENSE resultats/release/
 cp gpl-2.0.txt resultats/release/
@@ -26,8 +26,6 @@ cp resultats/hunspell/* resultats/release/
 
 cp oxt/ca-valencia/ca-valencia.$VERSION.oxt resultats/release/
 cp oxt/ca/ca.$VERSION.oxt resultats/release/
-cp xpi/ca-valencia/ca-valencia.$VERSION.xpi resultats/release/
-cp xpi/ca/ca.$VERSION.xpi resultats/release/
 
 cd resultats/release
 zip ca.$VERSION-all.zip *

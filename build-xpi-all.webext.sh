@@ -15,7 +15,7 @@ code=([ca]=ca [ca-valencia]=ca-ES-valencia)
 
 for lang in "${langs[@]}"
 do
-    cd $TARGET
+    cd $ORIGIN/$TARGET
     mkdir $lang
     cd $lang
     cp $ORIGIN/xpi/$lang/manifest.json .
@@ -25,8 +25,8 @@ do
     cp $ORIGIN/resultats/hunspell/${original[$lang]}.aff dictionaries/${code[$lang]}.aff
     cp $ORIGIN/resultats/hunspell/${original[$lang]}.dic dictionaries/${code[$lang]}.dic
 
-    zip -r $lang.xpi *
-    mv $lang.xpi ../
+    zip -r $lang.$VERSION.xpi *
+    mv $lang.$VERSION.xpi ../
     cd ..
     rm -rf $lang
 done
