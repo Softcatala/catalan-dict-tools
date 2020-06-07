@@ -28,7 +28,7 @@ Genera el diccionari amb etiquetatge gramatical per al corrector Languagetool.
 
 És un test que converteix el fitxer de LT en format de diccionari; aquest es converteix de nou en format LT i es compara amb el fitxer inicial. 
 
-##### build-xpi-all.sh
+##### build-xpi-all.sh (obsolet)
 Genera fitxers xpi (compatibles amb el Firefox) a partir dels resultats per al Hunspell.
 * ./build-xpi-all.sh -> Genera paquets de desenvolupament (versió 9.9.9).
 * ./build-xpi-all.sh -p -v '3.0.0' -> Genera paquets de producció (versió 3.0.0).
