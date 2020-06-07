@@ -151,6 +151,7 @@
 #Sir Sir NPMSSP0 # avl: noms de persona
 #Sufragi Sufragi NPFSSP0 # avl: noms de persona
 #Tolomeu Tolomeu NPMSSP0 # avl: noms de persona
+#Torreón Torreón NPCSG00
 #Trànsit Trànsit NPFSSP0 # avl: noms de persona
 #Vald Vald NPMSSP0 # avl: noms de persona
 #Valda Valda NPFSSP0 # avl: noms de persona
@@ -22505,7 +22506,6 @@ Torrets Torrets NPCNSP0
 Torrevedell Torrevedell NPCNSP0
 Torrevellisca Torrevellisca NPCSG00
 Torreventosa Torreventosa NPCNSP0
-#Torreón Torreón NPCSG00
 Torricó Torricó NPMSG00
 Torriella Torriella NPCNSP0
 Torrigues Torrigues NPCNSP0
