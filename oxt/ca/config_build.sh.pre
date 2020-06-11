@@ -1,6 +1,6 @@
 APP_NAME=ca##DEV##.##VERSION##
 CLEAN_UP=1
-ROOT_FILES="dictionaries.xcu description.xml ca.aff ca.dic ca-ES-valencia.aff ca-ES-valencia.dic hyph_ca.dic README_hyph_ca.txt th_ca_ES_v3.dat th_ca_ES_v3.idx README_thes_ca.txt LICENSES-en.txt LLICENCIES-ca.txt package-description.txt SC-logo.png"
+ROOT_FILES="dictionaries.xcu description.xml ca.aff ca.dic ca-ES-valencia.aff ca-ES-valencia.dic hyph_ca.dic README.txt README_hyph_ca.txt th_ca_ES_v3.dat th_ca_ES_v3.idx README_thes_ca.txt LICENSES-en.txt LLICENCIES-ca.txt package-description.txt SC-logo.png"
 ROOT_DIRS="META-INF"
 BEFORE_BUILD=
 AFTER_BUILD=

@@ -1,4 +1,4 @@
 LICENSES :
-Spelling dictionary: LGPL, GPL
-Tesaurus: LGPL, GPL
-Hyphenation: LGPL, GPL
+Spelling dictionary: LGPL-2.1+, GPL-2.0+
+Tesaurus: LGPL-3.0+, GPL-3.0+
+Hyphenation: LGPL-3.0+, GPL-3.0+
