@@ -6,6 +6,7 @@ dir_arrel="diccionari-arrel"
 dir_resultat="resultats/hunspell"
 
 VERSION="9.9.9"
+YEAR=$(date "+%Y")
 MYDATE=$(date "+%d-%m-%Y")
 
 while getopts "v:" opt; do
@@ -53,6 +54,7 @@ do
     sed -i -r 's/^(.*)$/# \1/' $dir_intermedi/copyright.txt
 
     sed -i -e s/\#\#VERSION\#\#/$VERSION/ $dir_intermedi/copyright.txt
+    sed -i -e s/\#\#YEAR\#\#/$YEAR/ $dir_intermedi/copyright.txt
     sed -i -e s/\#\#DATE\#\#/$MYDATE/ $dir_intermedi/copyright.txt
 
     cd $dir_intermedi

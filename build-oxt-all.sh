@@ -2,6 +2,7 @@ ID="softcatala.catalan.dictionary.dev"
 IDvalencian="softcatala.catalan.valencian.dictionary.dev"
 TAG="-test"
 VERSION="9.9.9"
+YEAR=$(date "+%Y")
 current_time=$(date "+%Y%m%d%H%M%S")
 
 DEV=".dev.$current_time"
@@ -48,6 +49,9 @@ cp -rf ../thes/README_thes_ca.txt README_thes_ca.txt
 cp -rf root_files/LICENSES-en.txt LICENSES-en.txt
 cp -rf root_files/LLICENCIES-ca.txt LLICENCIES-ca.txt
 cp -rf root_files/SC-logo.png SC-logo.png
+cp -rf ../../README.txt README.txt
+sed -i -e s/\#\#VERSION\#\#/$VERSION/g README.txt README.txt
+sed -i -e s/\#\#YEAR\#\#/$YEAR/g README.txt README.txt
 
 
 ../../build-oxt.sh config_build.sh
@@ -68,6 +72,9 @@ cp package-description.txt.pre package-description.txt
 cp -rf root_files/LICENSES-en.txt LICENSES-en.txt
 cp -rf root_files/LLICENCIES-ca.txt LLICENCIES-ca.txt
 cp -rf root_files/SV-logo.png SV-logo.png
+cp -rf root_files/README.txt README.txt
+sed -i -e s/\#\#VERSION\#\#/$VERSION/g README.txt README.txt
+sed -i -e s/\#\#YEAR\#\#/$YEAR/g README.txt README.txt
  
 sed -i -e s/\#\#VERSION\#\#/$VERSION/g config_build.sh
 sed -i -e s/\#\#DEV\#\#/$DEV/g config_build.sh

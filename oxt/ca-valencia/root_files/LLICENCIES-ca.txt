@@ -1,2 +1,4 @@
 LLICÈNCIES:
-Corrector ortogràfic: LGPL, GPL
+Corrector ortogràfic: LGPL-2.1+, GPL-2.0+
+Tesaurus (sinònims i termes relacionats): LGPL-3.0+, GPL-3.0+
+Diccionari de partició de mots: LGPL-3.0+, GPL-3.0+
