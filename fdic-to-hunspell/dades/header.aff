@@ -5,6 +5,11 @@ FORBIDDENWORD ZZ
 
 WORDCHARS ·-'
 
+ICONV 3
+ICONV ’ '
+ICONV Ŀ L·
+ICONV ŀ l·
+
 TRY easirtocnlumdpgvfbqjwxyzhàèéïíòóúüç·-'
 KEY qwertyuiop|asdfghjklñ|zxcvbnm|qaw|saz|wse|dsx|sz|edr|fdc|dx|rft|gfv|fc|tgz|hgb|gv|zhu|jhn|hb|uji|kjm|jn|iko|lkmñ|plñç
 
