@@ -60289,12 +60289,10 @@ oronal oronal NCMS000
 oronals oronal NCMP000
 orsera orsera NCFS000
 orseres orsera NCFP000
-ort ort NCMS000
 ortodoncista ortodoncista NCCS000
 ortodoncistes ortodoncista NCCP000
 ortoplàstia ortoplàstia NCFS000
 ortoplàsties ortoplàstia NCFP000
-orts ort NCMP000
 orça orça NCFS000
 oscense oscense AQ0CS0
 oscense oscense NCCS000

@@ -5,6 +5,7 @@
 #embaltir=categories: V;model:servir;fonts: DNV;
 #embeltir=categories: V;model:servir;fonts: DNV;
 #multidisciplinar=categories: A;fonts: DNV;
+#ort=categories: M;fonts: DNV; pot confondre (hort)
 #platirí=categories: M;fonts: DNV; abandonat segons nova ortografia 2017
 #titolitis=categories: FS;fonts: DNV;
 Pentecostès=categories: MS;fonts: DNV;
@@ -4185,7 +4186,6 @@ orniture=categories: M;fonts: DNV;
 oronada=categories: F;fonts: DNV;
 oronal=categories: M;fonts: DNV;
 orsera=categories: F;fonts: DNV;
-ort=categories: M;fonts: DNV;
 ortodoncista=categories: MF;fonts: DNV;
 ortoplàstia=categories: F;fonts: DNV;
 orça=categories: F;fonts: DNV;

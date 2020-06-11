@@ -98,7 +98,12 @@ foreach my $file (@files) {
             }
 
             $compta++;
-            push( @regles, "SFX $sufix $trau $afegeix/$afixos $condiciofinal" );
+            if ($afixos=~/./) {
+                push( @regles, "SFX $sufix $trau $afegeix/$afixos $condiciofinal" );    
+            } else {
+                push( @regles, "SFX $sufix $trau $afegeix $condiciofinal" );    
+            }
+            
         }
     }
 

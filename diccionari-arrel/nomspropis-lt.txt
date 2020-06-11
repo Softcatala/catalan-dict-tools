@@ -6083,6 +6083,7 @@ Ciríacs Ciríac NPMPSP0
 Ciríaques Ciríaca NPFPSP0
 Ciscle Ciscle NPCNSP0
 Cisjordània Cisjordània NPFSG00
+Cisneros Cisneros NPCNSP0
 Cisquella Cisquella NPCNSP0
 Cistaner Cistaner NPCNSP0
 Cistella Cistella NPCNSP0
