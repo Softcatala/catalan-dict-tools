@@ -2,7 +2,7 @@
 #                              Corrector ortogràfic català
 #                          Fitxer d'afixos i llista de paraules
 # =======================================================================================
-#                                Versió 3.0.6 (11-06-2020)
+#                                Versió 9.9.9 (14-06-2020)
 # =======================================================================================
 # Copyright (C) 2013-2020 Jaume Ortolà <jaumeortola@gmail.com>
 # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
@@ -40,7 +40,7 @@ ICONV ’ '
 ICONV Ŀ L·
 ICONV ŀ l·
 
-TRY easirtocnlumdpgvfbqjwxyzhàèéïíòóúüç·-'
+TRY easirtocnlumdpgvfbqjwxyzhàèéïíòóúüç·-'Ωµ
 KEY qwertyuiop|asdfghjklñ|zxcvbnm|qaw|saz|wse|dsx|sz|edr|fdc|dx|rft|gfv|fc|tgz|hgb|gv|zhu|jhn|hb|uji|kjm|jn|iko|lkmñ|plñç
 
 MAP 24
@@ -681,6 +681,42 @@ PFX _Z 0 m' [aàeèéiíoòóhuú]
 PFX _Z 0 t' [aàeèéiíoòóhuú]
 PFX _Z 0 s' [aàeèéiíoòóhuú]
 PFX _Z 0 l' [aàeèéiíoòóhuú]
+
+PFX 1001 N 8
+PFX 1001 0 Y .
+PFX 1001 0 Z .
+PFX 1001 0 E .
+PFX 1001 0 P .
+PFX 1001 0 T .
+PFX 1001 0 G .
+PFX 1001 0 M .
+PFX 1001 0 k .
+
+PFX 1002 N 2
+PFX 1002 0 h .
+PFX 1002 0 da .
+
+PFX 1003 N 10
+PFX 1003 0 d .
+PFX 1003 0 c .
+PFX 1003 0 m .
+PFX 1003 0 µ .
+PFX 1003 0 n .
+PFX 1003 0 p .
+PFX 1003 0 f .
+PFX 1003 0 a .
+PFX 1003 0 z .
+PFX 1003 0 y .
+
+PFX 1004 N 8
+PFX 1004 0 Yi .
+PFX 1004 0 Zi .
+PFX 1004 0 Ei .
+PFX 1004 0 Pi .
+PFX 1004 0 Ti .
+PFX 1004 0 Gi .
+PFX 1004 0 Mi .
+PFX 1004 0 ki .
 
 # Model de conjugació: cantar, sense apostrofació inicial
 SFX 00 Y 84

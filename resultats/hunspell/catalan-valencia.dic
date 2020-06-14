@@ -1,8 +1,7 @@
-204421
+204447
 10a
 10es
 10ns
-10è
 10é
 11a/_V_Y
 11es
@@ -99,6 +98,7 @@
 9ns
 9è
 9é
+A/1001,1002,1003
 A3/_V_Y
 A4/_V_Y
 A5/_V_Y
@@ -2468,6 +2468,7 @@ Aïnsa/_Y_V
 Aïr/_Y_V
 Aķtöbe/_Y_V
 Aškhabad/_Y_V
+B/1001,1004
 BBC
 BBVA
 BCE
@@ -4037,6 +4038,7 @@ Boí
 Boïgues
 Boïl
 Boïls
+Bq/1001,1002,1003
 Brabant
 Bracons
 Braga
@@ -4374,6 +4376,7 @@ Bāqarganj
 Bălţi
 Bīkāner
 C
+C/1001,1002,1003
 CCCB
 CCMA
 CCOO
@@ -8136,6 +8139,7 @@ Ezequies/_Y_V
 Eòlia/_Y_V
 Eşfahān/_Y_V
 Ešnunna/_Y_V
+F/1001,1002,1003
 F1
 FAI
 FAO
@@ -10174,6 +10178,7 @@ Gwened
 Gwent
 Gweru
 Gwynedd
+Gy/1001,1002,1003
 Gydanskij
 Gyor
 Győr
@@ -10218,6 +10223,7 @@ Güell
 Güives
 Gürtel
 Güímar
+H/1001,1002,1003
 HCH
 HGH
 HTML
@@ -10679,6 +10685,7 @@ Hyderabad
 Hyderābād
 Hyundai
 Hz
+Hz/1001,1002,1003
 Hàsdrubal/_Y_V
 Hágion
 Hälsingborg
@@ -11027,6 +11034,7 @@ Iñaki/_Y_V
 Iō-jima/_Y_V
 Išim/_Y_V
 Iževsk/_Y_V
+J/1001,1002,1003
 JJOO
 JOC
 Jabaliya
@@ -11353,6 +11361,7 @@ Júlies
 Júpiter
 Jünger
 Jāmnagar
+K/1001,1002,1003
 K2
 KGB
 KMPlayer
@@ -14692,6 +14701,7 @@ Mḗlos
 N'Djamena
 N'Gounié
 N'Zérékoré
+N/1001,1002,1003
 NASA
 NBA
 NEE
@@ -15778,6 +15788,7 @@ PURA
 PVC
 PVP
 PZI
+Pa/1001,1002,1003
 Pabianice
 Pablo
 Pabó
@@ -18617,6 +18628,7 @@ Rāvi
 Rāwalpindi
 Rīgestān
 S'Agaró
+S/1001,1002,1003
 SA
 SARS
 SARS-CoV
@@ -20298,6 +20310,7 @@ Suárez
 Suècia
 Suïls
 Suïssa
+Sv/1001,1002,1003
 Svalbard
 Svanètia
 Svealand
@@ -20375,6 +20388,7 @@ Sōka
 T'aichung
 T'ainan
 T'aipei
+T/1001,1002,1003
 TAE
 TCDD
 TDA
@@ -21835,6 +21849,7 @@ Uşak/_Y_V
 Užhorod/_Y_V
 V
 V'atka
+V/1001,1002,1003
 VAR
 VCG
 VI
@@ -22746,6 +22761,7 @@ Vínnitsia
 Vístula
 Vólos
 Vöcklabruck
+W/1001,1002,1003
 WC
 Waal
 Waalwijk
@@ -22796,6 +22812,7 @@ Waziristan
 Wazīristān
 Wałbrzych
 Waššukkani
+Wb/1001,1002,1003
 Weald
 Weber
 Webern
@@ -44715,6 +44732,7 @@ aürt/_E_V_Y
 aürtada/_V_Y
 aürtar/08
 b-nicotirina/_E
+b/1001,1004
 baasista/_E
 baba/_E
 babaganuix/_I
@@ -110530,6 +110548,7 @@ fútil/_E
 fútilment
 fúting/_E
 g
+g/1001,1002,1003
 gabaonita/_E
 gabapentina/_E
 gabar/00
@@ -127082,6 +127101,7 @@ kasai/_E
 kasimovià/_G
 kasimovià/_H
 kasseri/_E
+kat/1001,1002,1003
 katacalcina/_E
 katakana/_E
 katayama/_E
@@ -130945,6 +130965,7 @@ llúdria/_E
 llúdriga/_E
 llúpia/_E
 llúpol/_E
+lm/1001,1002,1003
 lo-lo/_E
 loaiasi/_E
 loaosi/_E
@@ -131397,6 +131418,7 @@ luxós/_J
 luxúria/_E
 luètic/_F
 lx
+lx/1001,1002,1003
 lyn/_E
 lyonització/_G
 làban/_E
@@ -131531,6 +131553,7 @@ lúzula/_E
 m
 m'hi
 m'ho
+m/1001,1002,1003
 ma
 maastrichtià/_G
 maastrichtià/_H
@@ -178763,6 +178786,7 @@ rútil/_E
 s
 s'hi
 s'ho
+s/1001,1002,1003
 sa
 sa/_H
 saba/_E
@@ -186552,6 +186576,7 @@ spin/_E
 spinor/_E
 spissatus
 sr
+sr/1001,1002,1003
 sra
 sres
 srs
@@ -204417,6 +204442,7 @@ zúdnic/_E
 Žižek
 Žytomyr
 Ǧidda
+Ω/1001,1002,100310è
 Ḥaǧǧa
 Ḥaḍramawt
 Ṭanṭā

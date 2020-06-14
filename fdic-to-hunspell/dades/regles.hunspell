@@ -1449,3 +1449,42 @@ REGLA _Z PFX+ Pronoms personals prefixats
 000     0      l'          [aàeèéiíoòóhuú]  # l'abillo
 /REGLA
 
+REGLA 1001 PFX Múltiples1
+000     0      Y     .
+000     0      Z     .
+000     0      E     .
+000     0      P     .
+000     0      T     .
+000     0      G     .
+000     0      M     .
+000     0      k     .
+/REGLA
+
+REGLA 1002 PFX Múltiples2
+000     0     h      .
+000     0     da     .
+/REGLA
+
+REGLA 1003 PFX Submúltiples
+000     0     d     .
+000     0     c     .
+000     0     m     .
+000     0     µ     .
+000     0     n     .
+000     0     p     .
+000     0     f     .
+000     0     a     .
+000     0     z     .
+000     0     y     .
+/REGLA
+
+REGLA 1004 PFX Múltiples binaris
+000     0     Yi     .
+000     0     Zi     .
+000     0     Ei     .
+000     0     Pi     .
+000     0     Ti     .
+000     0     Gi     .
+000     0     Mi     .
+000     0     ki     .
+/REGLA
