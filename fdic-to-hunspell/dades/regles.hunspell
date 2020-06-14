@@ -1449,7 +1449,7 @@ REGLA _Z PFX+ Pronoms personals prefixats
 000     0      l'          [aàeèéiíoòóhuú]  # l'abillo
 /REGLA
 
-REGLA 1001 PFX Múltiples1
+REGLA U1 PFX Múltiples1
 000     0      Y     .
 000     0      Z     .
 000     0      E     .
@@ -1460,12 +1460,12 @@ REGLA 1001 PFX Múltiples1
 000     0      k     .
 /REGLA
 
-REGLA 1002 PFX Múltiples2
+REGLA U2 PFX Múltiples2
 000     0     h      .
 000     0     da     .
 /REGLA
 
-REGLA 1003 PFX Submúltiples
+REGLA U3 PFX Submúltiples
 000     0     d     .
 000     0     c     .
 000     0     m     .
@@ -1478,7 +1478,7 @@ REGLA 1003 PFX Submúltiples
 000     0     y     .
 /REGLA
 
-REGLA 1004 PFX Múltiples binaris
+REGLA U4 PFX Múltiples binaris
 000     0     Yi     .
 000     0     Zi     .
 000     0     Ei     .

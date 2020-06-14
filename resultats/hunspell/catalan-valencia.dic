@@ -99,7 +99,7 @@
 9ns
 9è
 9é
-A/1001,1002,1003
+A/U1U2U3
 A3/_V_Y
 A4/_V_Y
 A5/_V_Y
@@ -2469,7 +2469,7 @@ Aïnsa/_Y_V
 Aïr/_Y_V
 Aķtöbe/_Y_V
 Aškhabad/_Y_V
-B/1001,1004
+B/U1U4
 BBC
 BBVA
 BCE
@@ -4039,7 +4039,7 @@ Boí
 Boïgues
 Boïl
 Boïls
-Bq/1001,1002,1003
+Bq/U1U2U3
 Brabant
 Bracons
 Braga
@@ -4377,7 +4377,7 @@ Bāqarganj
 Bălţi
 Bīkāner
 C
-C/1001,1002,1003
+C/U1U2U3
 CCCB
 CCMA
 CCOO
@@ -8140,7 +8140,7 @@ Ezequies/_Y_V
 Eòlia/_Y_V
 Eşfahān/_Y_V
 Ešnunna/_Y_V
-F/1001,1002,1003
+F/U1U2U3
 F1
 FAI
 FAO
@@ -10179,7 +10179,7 @@ Gwened
 Gwent
 Gweru
 Gwynedd
-Gy/1001,1002,1003
+Gy/U1U2U3
 Gydanskij
 Gyor
 Győr
@@ -10224,7 +10224,7 @@ Güell
 Güives
 Gürtel
 Güímar
-H/1001,1002,1003
+H/U1U2U3
 HCH
 HGH
 HTML
@@ -10686,7 +10686,7 @@ Hyderabad
 Hyderābād
 Hyundai
 Hz
-Hz/1001,1002,1003
+Hz/U1U2U3
 Hàsdrubal/_Y_V
 Hágion
 Hälsingborg
@@ -11035,7 +11035,7 @@ Iñaki/_Y_V
 Iō-jima/_Y_V
 Išim/_Y_V
 Iževsk/_Y_V
-J/1001,1002,1003
+J/U1U2U3
 JJOO
 JOC
 Jabaliya
@@ -11362,7 +11362,7 @@ Júlies
 Júpiter
 Jünger
 Jāmnagar
-K/1001,1002,1003
+K/U1U2U3
 K2
 KGB
 KMPlayer
@@ -14702,7 +14702,7 @@ Mḗlos
 N'Djamena
 N'Gounié
 N'Zérékoré
-N/1001,1002,1003
+N/U1U2U3
 NASA
 NBA
 NEE
@@ -15789,7 +15789,7 @@ PURA
 PVC
 PVP
 PZI
-Pa/1001,1002,1003
+Pa/U1U2U3
 Pabianice
 Pablo
 Pabó
@@ -18629,7 +18629,7 @@ Rāvi
 Rāwalpindi
 Rīgestān
 S'Agaró
-S/1001,1002,1003
+S/U1U2U3
 SA
 SARS
 SARS-CoV
@@ -20311,7 +20311,7 @@ Suárez
 Suècia
 Suïls
 Suïssa
-Sv/1001,1002,1003
+Sv/U1U2U3
 Svalbard
 Svanètia
 Svealand
@@ -20389,7 +20389,7 @@ Sōka
 T'aichung
 T'ainan
 T'aipei
-T/1001,1002,1003
+T/U1U2U3
 TAE
 TCDD
 TDA
@@ -21850,7 +21850,7 @@ Uşak/_Y_V
 Užhorod/_Y_V
 V
 V'atka
-V/1001,1002,1003
+V/U1U2U3
 VAR
 VCG
 VI
@@ -22762,7 +22762,7 @@ Vínnitsia
 Vístula
 Vólos
 Vöcklabruck
-W/1001,1002,1003
+W/U1U2U3
 WC
 Waal
 Waalwijk
@@ -22813,7 +22813,7 @@ Waziristan
 Wazīristān
 Wałbrzych
 Waššukkani
-Wb/1001,1002,1003
+Wb/U1U2U3
 Weald
 Weber
 Webern
@@ -44733,7 +44733,7 @@ aürt/_E_V_Y
 aürtada/_V_Y
 aürtar/08
 b-nicotirina/_E
-b/1001,1004
+b/U1U4
 baasista/_E
 baba/_E
 babaganuix/_I
@@ -110549,7 +110549,7 @@ fútil/_E
 fútilment
 fúting/_E
 g
-g/1001,1002,1003
+g/U1U2U3
 gabaonita/_E
 gabapentina/_E
 gabar/00
@@ -127102,7 +127102,7 @@ kasai/_E
 kasimovià/_G
 kasimovià/_H
 kasseri/_E
-kat/1001,1002,1003
+kat/U1U2U3
 katacalcina/_E
 katakana/_E
 katayama/_E
@@ -130966,7 +130966,7 @@ llúdria/_E
 llúdriga/_E
 llúpia/_E
 llúpol/_E
-lm/1001,1002,1003
+lm/U1U2U3
 lo-lo/_E
 loaiasi/_E
 loaosi/_E
@@ -131419,7 +131419,7 @@ luxós/_J
 luxúria/_E
 luètic/_F
 lx
-lx/1001,1002,1003
+lx/U1U2U3
 lyn/_E
 lyonització/_G
 làban/_E
@@ -131554,7 +131554,7 @@ lúzula/_E
 m
 m'hi
 m'ho
-m/1001,1002,1003
+m/U1U2U3
 ma
 maastrichtià/_G
 maastrichtià/_H
@@ -178787,7 +178787,7 @@ rútil/_E
 s
 s'hi
 s'ho
-s/1001,1002,1003
+s/U1U2U3
 sa
 sa/_H
 saba/_E
@@ -186577,7 +186577,7 @@ spin/_E
 spinor/_E
 spissatus
 sr
-sr/1001,1002,1003
+sr/U1U2U3
 sra
 sres
 srs
@@ -204443,7 +204443,7 @@ zúdnic/_E
 Žižek
 Žytomyr
 Ǧidda
-Ω/1001,1002,1003
+Ω/U1U2U3
 Ḥaǧǧa
 Ḥaḍramawt
 Ṭanṭā

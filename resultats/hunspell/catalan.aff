@@ -673,41 +673,41 @@ PFX _Z 0 t' [aàeèéiíoòóhuú]
 PFX _Z 0 s' [aàeèéiíoòóhuú]
 PFX _Z 0 l' [aàeèéiíoòóhuú]
 
-PFX 1001 N 8
-PFX 1001 0 Y .
-PFX 1001 0 Z .
-PFX 1001 0 E .
-PFX 1001 0 P .
-PFX 1001 0 T .
-PFX 1001 0 G .
-PFX 1001 0 M .
-PFX 1001 0 k .
+PFX U1 N 8
+PFX U1 0 Y .
+PFX U1 0 Z .
+PFX U1 0 E .
+PFX U1 0 P .
+PFX U1 0 T .
+PFX U1 0 G .
+PFX U1 0 M .
+PFX U1 0 k .
 
-PFX 1002 N 2
-PFX 1002 0 h .
-PFX 1002 0 da .
+PFX U2 N 2
+PFX U2 0 h .
+PFX U2 0 da .
 
-PFX 1003 N 10
-PFX 1003 0 d .
-PFX 1003 0 c .
-PFX 1003 0 m .
-PFX 1003 0 µ .
-PFX 1003 0 n .
-PFX 1003 0 p .
-PFX 1003 0 f .
-PFX 1003 0 a .
-PFX 1003 0 z .
-PFX 1003 0 y .
+PFX U3 N 10
+PFX U3 0 d .
+PFX U3 0 c .
+PFX U3 0 m .
+PFX U3 0 µ .
+PFX U3 0 n .
+PFX U3 0 p .
+PFX U3 0 f .
+PFX U3 0 a .
+PFX U3 0 z .
+PFX U3 0 y .
 
-PFX 1004 N 8
-PFX 1004 0 Yi .
-PFX 1004 0 Zi .
-PFX 1004 0 Ei .
-PFX 1004 0 Pi .
-PFX 1004 0 Ti .
-PFX 1004 0 Gi .
-PFX 1004 0 Mi .
-PFX 1004 0 ki .
+PFX U4 N 8
+PFX U4 0 Yi .
+PFX U4 0 Zi .
+PFX U4 0 Ei .
+PFX U4 0 Pi .
+PFX U4 0 Ti .
+PFX U4 0 Gi .
+PFX U4 0 Mi .
+PFX U4 0 ki .
 
 # Model de conjugació: cantar, sense apostrofació inicial
 SFX 00 Y 84
