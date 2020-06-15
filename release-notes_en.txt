@@ -1,5 +1,5 @@
-Version 3.0.6 (11/06/2020)
-Fix issue with Hunspell dictionaries. Update README and copyright.
+Version 3.0.6 (15/06/2020)
+Fix issue with Hunspell dictionaries. Fix manifest json for Thunderbird compatibility. Update README and copyright.
 
 Version 3.0.5 (01/06/2020)
 Additions and changes done during the last year.
