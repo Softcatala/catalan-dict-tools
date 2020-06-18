@@ -23705,6 +23705,7 @@ desglaciació=categories: F;fonts: LT;
 desglaç=categories: M;fonts: LT;
 desglaça=categories: F;fonts: LT;
 desglaçament=categories: M;fonts: LT;
+desglobalització=categories: F;fonts: derivat;
 desglobulització=categories: F;fonts: dsalut;
 desglossament=categories: M;fonts: LT;
 desgomatge=categories: M;fonts: LT;

@@ -8,6 +8,7 @@
 #jóc joca=categories: A;fonts: LT; molt poc usual
 #nostras=categories: AI;fonts: dsalut;
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
+#recorrible=categories: A;fonts: LT; ERROR!
 #resecable=categories: A;fonts: dsalut;
 #vivace=categories: AMS;fonts: AVL,GDLC; Pot ser confús
 #víking=categories: A;fonts: LT; #eliminat de DIEC i DNV
@@ -25885,7 +25886,6 @@ recordable=categories: A;fonts: LT;
 recordador recordadora=categories: A;fonts: LT;
 recordatiu recordativa=categories: A;fonts: LT;
 recordatori recordatòria=categories: A;fonts: LT;
-recorrible=categories: A;fonts: LT;
 recreable=categories: A;fonts: LT;
 recreador -a=categories: A; fonts: Jané;
 recreatiu recreativa=categories: A;fonts: LT;
