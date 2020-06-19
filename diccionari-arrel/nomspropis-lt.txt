@@ -6877,6 +6877,7 @@ Cruixent Cruixent NPCNSP0
 Crusat Crusat NPCNSP0
 Crusell Crusell NPCNSP0
 Cruset Cruset NPCNSP0
+Crusoe Crusoe NPCNSP0
 Crusó Crusó NPCNSP0
 Cruyff Cruyff NPCNSP0
 Cruïlles Cruïlles NPCNSP0
@@ -7762,6 +7763,7 @@ Edmunda Edmunda NPFSSP0 # avl: noms de persona
 Edmunds Edmund NPMPSP0
 Edna Edna NPFSSP0 # avl: noms de persona
 Edom Edom NPMSG00
+Edson Edson NPMSSP0
 Eduard Eduard NPCNSP0
 Eduard Eduard NPMSSP0
 Eduarda Eduarda NPFSSP0 # avl: noms de persona
@@ -9076,6 +9078,7 @@ Fius Fius NPCNSP0
 Fiveller Fiveller NPCNSP0
 Fivizzano Fivizzano NPCSG00
 Fiònia Fiònia NPCSG00
+Fiódor Fiódor NPMSSP0
 Flacq Flacq NPCSG00
 Flameric Flameric NPCNSP0
 Flamini Flamini NPMSSP0
@@ -11442,6 +11445,7 @@ Idumea Idumea NPFSG00
 Idàlia Idàlia NPFSSP0 # avl: noms de persona
 Idèfix Idèfix NPMSSP0
 Iecla Iecla NPFSG00
+Iekaterinburg Iekaterinburg NPCSG00
 Iemen Iemen NPMSG00
 Ienissei Ienissei NPCSG00
 Ieper Ieper NPCSG00
@@ -12723,6 +12727,7 @@ Ligòria Ligòria NPFSSP0 # avl: noms de persona
 Ligúria Ligúria NPFSG00
 Likasi Likasi NPCSG00
 Likouala Likouala NPCSG00
+Likud Likud NPMSO00
 Lila Lila NPFSSP0
 Liles Lila NPFPSP0
 Liliana Liliana NPFSSP0 # avl: noms de persona
@@ -22126,6 +22131,7 @@ Thatcher Thatcher NPCNSP0
 Thaís Thaís NPFSSP0 # avl: noms de persona
 Thiais Thiais NPCSG00
 Thiene Thiene NPCSG00
+Thiessen Thiessen NPCNSP0
 Thimbu Thimbu NPCSG00
 Thionville Thionville NPCSG00
 Thiès Thiès NPCSG00
