@@ -8,6 +8,7 @@
 #fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
 #googlejar=categories: V;model:envejar;fonts:LT NOU!!!
 #malvore=categories: V;model:vore;fonts: DNV;
+#postposar=categories: V;model:anquilosar;fonts:LT
 #revore=categories: V;model:vore;fonts: DNV;
 abacallanar=categories: V;model:cantar;fonts:LT
 abaconar=categories: V;model:cantar;fonts:LT
@@ -8001,7 +8002,6 @@ posteritzar=categories: V;model:cantar;fonts: softcatala, termcat;
 postermejar=categories: V;model:envejar;fonts:LT
 posticar=categories: V;model:trencar;fonts:LT
 postil·lar=categories: V;model:anul·lar;fonts:LT
-postposar=categories: V;model:anquilosar;fonts:LT
 postprocessar=categories: V;model:entravessar;fonts: derivat;
 postrar=categories: V;model:cantar;fonts:LT
 posttesar=categories: V;model:aburgesar;fonts:LT

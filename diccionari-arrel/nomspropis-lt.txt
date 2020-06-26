@@ -172,6 +172,7 @@
 ACNUR ACNUR NPMSO00
 AEAT AEAT NPFSO00
 AGPL AGPL NPCNO00
+AIReF AIReF NPFSO00
 ANSI ANSI NPMSO00
 ATM ATM NPFSO00
 ATP ATP NPFSO00
@@ -3577,6 +3578,7 @@ Benvingudes Benvinguda NPFPSP0
 Benvingut Benvingut NPMSSP0
 Benvinguts Benvingut NPMPSP0
 Benxi Benxi NPCSG00
+Benz Benz NPCNO00
 Benàger Benàger NPCSG00
 Benés Benés NPCNSP0
 Benés Benés NPCSG00
@@ -4229,6 +4231,7 @@ Borissov Borissov NPCSG00
 Borja Borja NPCNSP0
 Borjons Borjons NPCNSP0
 Borkou Borkou NPCSG00
+Bornemisza Bornemisza NPCNSP0
 Borneo Borneo NPCSG00
 Bornholm Bornholm NPCSG00
 Borniol Borniol NPCNSP0
@@ -14498,6 +14501,7 @@ Mercader Mercader NPCNSP0
 Mercadona Mercadona NPCNO00
 Mercant Mercant NPCNSP0
 Mercator Mercator NPCNSP0
+Mercedes Mercedes NPCNO00
 Mercer Mercer NPCNSP0
 Mercuri Mercuri NPMSG00 # avl: noms de persona
 Mercè Mercè NPCNSP0
@@ -19744,6 +19748,7 @@ Rāwalpindi Rāwalpindi NPCSG00
 Rīgestān Rīgestān NPCSG00
 S'Agaró S'Agaró NPCSG00
 SA SA NPCNO00
+SER SER NPCSO00
 SGAE SGAE NPFSO00
 SQLite SQLite NPCNO00
 SS SS NPCNO00
@@ -20330,6 +20335,7 @@ Saragossí Saragossí NPCNSP0
 Sarai Sarai NPFSSP0 # avl: noms de persona
 Sarajevo Sarajevo NPCSG00
 Saramacca Saramacca NPCSG00
+Saramago Saramago NPCNSP0
 Sarandë Sarandë NPCSG00
 Saransk Saransk NPCSG00
 Saranya Saranya NPCNSP0
@@ -21425,6 +21431,7 @@ Stralsund Stralsund NPCSG00
 Stratford-on-Avon Stratford-on-Avon NPCSG00
 Strathclyde Strathclyde NPCSG00
 Strauss Strauss NPCNSP0
+Strauss-Kahn Strauss-Kahn NPCNSP0
 Stravinski Stravinski NPCNSP0
 Stromboli Stromboli NPCSG00
 Strozzi Strozzi NPCNSP0
@@ -22146,6 +22153,8 @@ Thunderbird Thunderbird NPMSO00
 Thurgau Thurgau NPCSG00
 Thurrock Thurrock NPCSG00
 Thyolo Thyolo NPCSG00
+Thyssen Thyssen NPCNSP0
+Thyssen-Bornemisza Thyssen-Bornemisza NPCNSP0
 Thórshavn Thórshavn NPCSG00
 Thāna Thāna NPCSG00
 Tiador Tiador NPCNSP0
