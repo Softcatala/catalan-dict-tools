@@ -4351,6 +4351,7 @@ Bracons Bracons NPCNSP0
 Braga Braga NPCSG00
 Bragança Bragança NPCSG00
 Brageirac Brageirac NPCSG00
+Bragg Braff NPCNSP0
 Bragolat Bragolat NPCNSP0
 Bragulat Bragulat NPCNSP0
 Bragulí Bragulí NPCNSP0
