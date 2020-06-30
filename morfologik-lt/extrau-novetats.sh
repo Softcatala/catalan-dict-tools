@@ -36,5 +36,16 @@ cat spelling.head novetats_sense_tag.txt > spelling.txt
 cat manual-tagger.head novetats_amb_tag.txt > manual-tagger.txt
 cp manual-tagger.txt ~/caresource/added.txt
 cp spelling.txt ~/caresource
+
+
+echo "Extraient paraules esborrades"
+grep -E "^> " diff.txt > removed-body.txt
+sed -i 's/^> //g' removed-body.txt
+sed -i 's/ /\t/g' removed-body.txt
+sed -i '/^\s*$/d' removed-body.txt
+cat removed-tagger.head removed-body.txt > removed.txt
+cp removed.txt /home/jaume/github/languagetool/languagetool-language-modules/ca/src/main/resources/org/languagetool/resource/ca/
+
+
 echo "Resultats en spelling.txt manual-tagger.txt"
 # emacs novetats_* &

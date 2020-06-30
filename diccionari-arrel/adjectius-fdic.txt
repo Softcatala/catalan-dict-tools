@@ -20636,6 +20636,7 @@ nacionalcatòlic -a=categories: A;fonts: derivat;
 nacionalista=categories: A;fonts: LT;
 nacionalitari nacionalitària=categories: A;fonts: derivat, esadir;
 nacionalitzador -a=categories: A;fonts: derivat;
+nacionalpopulista=categories: A;fonts: derivat;
 nacionalsindicalista=categories: A;fonts: LT;
 nacionalsocialista=categories: A;fonts: LT;
 nacrat nacrada=categories: A;fonts: LT;

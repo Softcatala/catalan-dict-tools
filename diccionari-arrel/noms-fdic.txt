@@ -55625,6 +55625,7 @@ nacionalisme=categories: M;fonts: LT;
 nacionalista=categories: MF;fonts: LT;
 nacionalitat=categories: F;fonts: LT;
 nacionalització=categories: F;fonts: LT;
+nacionalpopulisme=categories: M;fonts: derivat;
 nacionalsindicalisme=categories: M;fonts: LT;
 nacionalsindicalista=categories: MF;fonts: LT;
 nacionalsocialisme=categories: M;fonts: LT;
