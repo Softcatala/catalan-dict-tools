@@ -22107,6 +22107,7 @@ ovigen -ígena=categories: A;fonts: dsalut;
 ovista=categories: A;fonts: LT;
 ovoidal=categories: A;fonts: LT;
 ovoide=categories: A;fonts: LT;
+ovolactovegetarià ovolactovegetariana=categories: A;fonts: termcat;
 ovovegetarià ovovegetariana=categories: A;fonts: LT;
 ovovivípar ovovivípara=categories: A;fonts: LT;
 ovular=categories: A;fonts: LT;

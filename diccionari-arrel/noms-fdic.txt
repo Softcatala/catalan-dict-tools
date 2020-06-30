@@ -59623,6 +59623,7 @@ ovogemma=categories: F;fonts: LT;
 ovoglobulina=categories: F;fonts: LT;
 ovogènesi=categories: F;fonts: LT;
 ovogònia=categories: F;fonts: LT;
+ovolactovegetarianisme=categories: M;fonts: termcat;
 ovolecitina=categories: F;fonts: dsalut;
 ovolisina=categories: F;fonts: dsalut;
 ovomucina=categories: F;fonts: dsalut;
