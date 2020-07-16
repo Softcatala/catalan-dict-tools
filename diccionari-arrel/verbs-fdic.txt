@@ -7430,6 +7430,7 @@ mustiar=categories: V;model:crear;fonts:LT
 mustigar=categories: V;model:lligar;fonts:LT
 mutar=categories: V;model:cantar;fonts:LT
 mutilar=categories: V;model:cantar;fonts:LT
+mutualitzar=categories: V;model:cantar;fonts: esadir;
 nacionalitzar=categories: V;model:cantar;fonts:LT
 nadar=categories: V;model:cantar;fonts:LT
 nafrar=categories: V;model:cantar;fonts:LT
