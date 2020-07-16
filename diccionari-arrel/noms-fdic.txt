@@ -228,6 +228,7 @@ HTML=categories: MI;fonts: termcat;
 HTTP=categories: MI;fonts: sigla;
 HTTPS=categories: MI;fonts: sigla;
 H₂O=categories: MS;fonts: simbol;
+IA=categories: FI;fonts: sigla;
 IAE=categories: MS;fonts: esadir;
 IBAN=categories: MI;fonts: termcat,sigla;
 IC=categories: FI;fonts: dsalut;
