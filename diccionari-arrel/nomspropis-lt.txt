@@ -3145,6 +3145,7 @@ Bascònia Bascònia NPFSG00
 Bascó Bascó NPCNSP0
 Bascós Bascós NPCNSP0
 Bascú Bascú NPCNSP0
+Bash Bash NPMSO00
 Basians Basià NPMPSP0
 Basigó Basigó NPCNSP0
 Basil Basil NPCNSP0
@@ -4629,6 +4630,7 @@ Burjons Burjons NPCNSP0
 Burjó Burjó NPCNSP0
 Burke Burke NPCNSP0
 Burkina Burkina NPFSG00
+Burmeister Burmeister NPCNSP0
 Burniac Burniac NPCNSP0
 Burniguer Burniguer NPCNSP0
 Burrià Burrià NPCNSP0
@@ -4736,6 +4738,7 @@ Cabanes Cabanes NPCNSP0
 Cabanes Cabanes NPCSG00
 Cabanes Cabanes NPFPG00
 Cabanet Cabanet NPCNSP0
+Cabanis Cabanis NPCNSP0
 Cabanyal Cabanyal NPMSG00
 Cabanyes Cabanyes NPCNSP0
 Cabanyes Cabanyes NPCSG00
@@ -5917,6 +5920,7 @@ Chantilly Chantilly NPCSG00
 Chaoyang Chaoyang NPCSG00
 Chapala Chapala NPCSG00
 Chaplin Chaplin NPCNSP0
+Chapman Chapman NPCNSP0
 Chapra Chapra NPCSG00
 Chapultepec Chapultepec NPCSG00
 Charente Charente NPCSG00
@@ -10958,6 +10962,7 @@ Hanníbals Hanníbal NPMPSP0
 Hanoi Hanoi NPCSG00
 Hansa Hansa NPFSG00
 Hanukkà Hanukkà NPFSO00
+Hanuman Hanuman NPMSSP0
 Harare Harare NPCSG00
 Harbin Harbin NPCSG00
 Harcourt Harcourt NPCNSP0
@@ -11019,6 +11024,7 @@ Heliodor Heliodor NPMSSP0
 Heliodora Heliodora NPFSSP0 # avl: noms de persona
 Heliodors Heliodor NPMPSP0
 Heliòpolis Heliòpolis NPCSG00
+Hellmayr Hellmayr NPCNSP0
 Hellín Hellín NPCSG00
 Helmand Helmand NPCSG00
 Helmholtz Helmholtz NPCNSP0
@@ -12333,6 +12339,7 @@ Kristiansand Kristiansand NPCSG00
 Krixna Krixna NPMSSP0
 Krk Krk NPCSG00
 Krkonoše Krkonoše NPCSG00
+Krone Krone NPCNSP0
 Kronstadt Kronstadt NPCSG00
 Kropotkin Kropotkin NPCNSP0
 Krugersdorp Krugersdorp NPCSG00
@@ -12504,6 +12511,7 @@ Lannemezan Lannemezan NPCSG00
 Lannion Lannion NPCSG00
 Lansac Lansac NPCSG00
 Lansing Lansing NPCSG00
+Lanyon Lanyon NPCNSP0
 Lanzarote Lanzarote NPCSG00
 Lanzhou Lanzhou NPCSG00
 Lançac Lançac NPCSG00
@@ -16961,6 +16969,7 @@ Paretdelgada Paretdelgada NPCSG00
 Pareto Pareto NPCNSP0
 Parets Parets NPCNSP0
 Paris Paris NPMSSP0
+Parker Parker NPCNSP0
 Parla Parla NPCSG00
 Parlader Parlader NPCNSP0
 Parlarís Parlarís NPCNSP0
@@ -18999,6 +19008,7 @@ Reiners Reiners NPCNSP0
 Reiners Reiners NPCSG00
 Reinosa Reinosa NPCSG00
 Reirós Reirós NPCSG00
+Reiser Reiser NPCNSP0
 Reixac Reixac NPCNSP0
 Reixac Reixac NPCSG00
 Relat Relat NPCNSP0
@@ -20524,6 +20534,7 @@ Sciacca Sciacca NPCSG00
 Scicli Scicli NPCSG00
 Scilla Scilla NPCSG00
 Scilly Scilly NPFPG00
+Sclater Sclater NPCNSP0
 Scorsese Scorsese NPCNSP0
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
@@ -23100,6 +23111,7 @@ Urgenč Urgenč NPCSG00
 Urgés Urgés NPCNSP0
 Uri Uri NPCSG00
 Uriac Uriac NPCNSP0
+Urich Urich NPCNSP0
 Uriel Uriel NPMSSP0
 Uries Uries NPMSSP0 # avl: noms de persona
 Urmella Urmella NPCSG00
@@ -23912,6 +23924,7 @@ Villalba Villalba NPCSG00
 Villamartín Villamartín NPCSG00
 Villans Villans NPCSG00
 Villar Villar NPMSG00
+Villarejo Villarejo NPCNSP0
 Villargordo Villargordo NPCSG00
 Villarrobledo Villarrobledo NPCSG00
 Villarroel Villarroel NPCNSP0
