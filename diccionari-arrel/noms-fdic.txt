@@ -70589,6 +70589,7 @@ rematada=categories: F;fonts: LT;
 rematant=categories: MF;fonts: LT;
 remaulit=categories: M;fonts: LT;
 rembasme=categories: M;fonts: LT;
+remdesivir=categories: MS;fonts: LT;
 remediació=categories: F;fonts: termcat;
 remei=categories: M;fonts: LT;
 remeier remeiera=categories: MF;fonts LT;
