@@ -812,6 +812,7 @@ envitricolladament envitricolladament RG
 enxampurradament enxampurradament RG
 enzimàticament enzimàticament RG
 enèrgicament enèrgicament RG
+epidemiològicament epidemiològicament RG
 epidèmicament epidèmicament RG
 epigramàticament epigramàticament RG
 episcopalment episcopalment RG

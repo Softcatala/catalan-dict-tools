@@ -1628,6 +1628,7 @@ Andarax Andarax NPCSG00
 Anderlecht Anderlecht NPCSG00
 Andermatt Andermatt NPCSG00
 Anders Anders NPCSG00
+Andersen Andersen NPCNSP0
 Anderson Anderson NPCSG00
 Anderstorp Anderstorp NPCSG00
 Andes Andes NPMPG00
@@ -4243,6 +4244,7 @@ Bornió Bornió NPCNSP0
 Borno Borno NPCSG00
 Bornu Bornu NPCSG00
 Bornís Bornís NPCNSP0
+Boronat Boronat NPCNSP0
 Borrassell Borrassell NPCNSP0
 Borrasser Borrasser NPCNSP0
 Borrassà Borrassà NPCSG00
@@ -17377,6 +17379,7 @@ Perpunter Perpunter NPCNSP0
 Perpètua Perpètua NPFSSP0
 Perpètues Perpètua NPFPSP0
 Perramon Perramon NPCNSP0
+Perrault Perrault NPCNSP0
 Perseids Perseids NPMPG00
 Perseu Perseu NPCSG00
 Perseveranda Perseveranda NPFSSP0
