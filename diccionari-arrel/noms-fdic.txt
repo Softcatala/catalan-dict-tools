@@ -51905,6 +51905,7 @@ menjançó=categories: F;fonts: LT;
 menjapinyols=categories: MI;fonts: LT;
 menjapà=categories: MF;fonts: LT;
 menjar=categories: M;fonts: LT;
+menjaretes=categories: MFI;fonts: termcat;
 menjavents=categories: MI;fonts: LT;
 menjua=categories: F;fonts: LT;
 menjuc=categories: M;fonts: LT;

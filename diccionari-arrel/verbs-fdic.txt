@@ -6,7 +6,6 @@
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
 #fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
-#googlejar=categories: V;model:envejar;fonts:LT NOU!!!
 #malvore=categories: V;model:vore;fonts: DNV;
 #postposar=categories: V;model:anquilosar;fonts:LT
 #revore=categories: V;model:vore;fonts: DNV;
@@ -6441,6 +6440,7 @@ golafrejar=categories: V;model:envejar;fonts:LT
 golejar=categories: V;model:envejar;fonts:LT
 gomboldar=categories: V;model:cantar;fonts:LT
 gonadectomitzar=categories: V;model:cantar;fonts:dsalut,termcat;
+googlejar=categories: V;model:envejar;fonts:
 gormandejar=categories: V;model:envejar;fonts:LT
 gornejar=categories: V;model:envejar;fonts:LT
 gorrejar=categories: V;model:envejar;fonts:LT

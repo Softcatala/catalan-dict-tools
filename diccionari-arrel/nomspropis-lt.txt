@@ -168,7 +168,9 @@
 #Òria Òria NPFSSP0 # avl: noms de persona
 'Ndrangheta 'Ndrangheta NPFSO00
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
+13TV 13TV NPCNO00
 7-Zip 7-Zip NPCNO00
+8TV 8TV NPCNO00
 ACNUR ACNUR NPMSO00
 AEAT AEAT NPFSO00
 AGPL AGPL NPCNO00
@@ -4942,6 +4944,7 @@ Calvet Calvet NPCNSP0
 Calvi Calvi NPCSG00
 Calvinyac Calvinyac NPCNSP0
 Calvià Calvià NPCSG00
+Calviño Calviño NPCNSP0
 Calví Calví NPMSSP0
 Cal·limer Cal·limer NPMSSP0 # avl: noms de persona
 Cal·limera Cal·limera NPFSSP0 # avl: noms de persona
@@ -8674,6 +8677,7 @@ FAI FAI NPFSO00
 FAO FAO NPFSO00
 FARC FARC NPFPO00
 FBI FBI NPMSO00
+FEDER FEDER NPMNO00
 FGC FGC NPMPO00
 FIAT FIAT NPFSO00
 FIBA FIBA NPFSO00
@@ -12043,6 +12047,7 @@ Juvència Juvència NPFSSP0 # avl: noms de persona
 Juárez Juárez NPCNSP0
 Juïnyà Juïnyà NPCSG00
 Južno-Sakhalinsk Južno-Sakhalinsk NPCSG00
+JxCAT JxCAT NPCNO00
 Jyoetsu Jyoetsu NPCSG00
 Jyväskylä Jyväskylä NPCSG00
 Jàfer Jàfer NPCNSP0
