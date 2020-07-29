@@ -2588,6 +2588,7 @@ Ausió Ausió NPCNSP0
 Ausona Ausona NPFSG00
 Auspici Auspici NPMSSP0
 Auspicis Auspici NPMPSP0
+Austen Austen NPCNSP0
 Austerlitz Austerlitz NPCSG00
 Austin Austin NPCSG00
 Austrell Austrell NPCNSP0
@@ -2677,6 +2678,7 @@ BCE BCE NPMSO00
 BCN BCN NPFSG00
 BMW BMW NPCNO00
 BOE BOE NPMSO00
+BTV BTV NPCNO00
 BUP BUP NPMSO00
 Baal Baal NPMSSP0
 Babahoyo Babahoyo NPCSG00
@@ -3854,6 +3856,7 @@ Billarac Billarac NPCNSP0
 Billeneta Billeneta NPFSG00
 Billingshurst Billingshurst NPCSG00
 Billot Billot NPCNSP0
+Bingen Bingen NPCSG00
 Bingerville Bingerville NPCSG00
 Binghamton Binghamton NPCSG00
 Biniagual Biniagual NPCSG00
@@ -10219,6 +10222,7 @@ Ginjoan Ginjoan NPCNSP0
 Ginjoler Ginjoler NPCNSP0
 Gino Gino NPMSSP0 # avl: noms de persona
 Ginés Ginés NPCNSP0
+Gioachino Gioachino NPMSSP0
 Gioconda Gioconda NPFSSP0
 Giol Giol NPCNSP0
 Giovanni Giovanni NPMSSP0
@@ -15964,6 +15968,7 @@ Nkhota-Kota Nkhota-Kota NPCSG00
 Noa Noa NPFSSP0
 Noalles Noalles NPCNSP0
 Noals Noals NPCSG00
+Noam Noam NPMSSP0
 Nobel Nobel NPMSSP0
 Nobels Nobel NPMPSP0
 Nobeoka Nobeoka NPCSG00
@@ -17342,6 +17347,7 @@ Perfecta Perfecta NPFSSP0
 Perfecte Perfecte NPMSSP0
 Perfectes Perfecta NPFPSP0
 Perfectes Perfecte NPMPSP0
+Pergolesi Pergolesi NPCNSP0
 Peric Peric NPCNSP0
 Perica Perica NPFSSP0 # avl: noms de persona
 Pericàs Pericàs NPCNSP0
@@ -24244,6 +24250,7 @@ Wasatch Wasatch NPCSG00
 Washington Washington NPCSG00
 Wassy Wassy NPCSG00
 Waterbury Waterbury NPCSG00
+Watergate Watergate NPMSO00
 Waterloo Waterloo NPCSG00
 Watford Watford NPCSG00
 Watson Watson NPCNSP0
