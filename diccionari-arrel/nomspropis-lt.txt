@@ -24145,6 +24145,7 @@ Voghera Voghera NPCSG00
 Voivodina Voivodina NPCSG00
 Vol'sk Vol'sk NPCSG00
 Vola Vola NPFSG00
+Voldemort Voldemort NPMSSP0
 Volella Volella NPFSG00
 Volendam Volendam NPCSG00
 Volga Volga NPCSG00
