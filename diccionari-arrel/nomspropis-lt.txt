@@ -24935,3 +24935,5 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+GDPR GDPR NPMSO00
+RGPD RGPD NPMSO00
