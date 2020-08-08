@@ -13,10 +13,12 @@ target_dir=../resultats/java-lt/src/main/resources/org/languagetool/resource/ca
 # catalan
 cp ../resultats/lt/diccionari.txt /tmp/ca-ES.txt
 sed -i '/ VMIP1S0S/d' /tmp/ca-ES.txt
+sed -i '/ ciar /d' /tmp/ca-ES.txt
 
 #catalan including DNV
 cat ../resultats/lt/diccionari.txt ../resultats/lt/diccionari-dnv.txt > /tmp/ca-ES-valencia.txt
 sed -i '/ VMIP1S0S/d' /tmp/ca-ES-valencia.txt
+sed -i '/ ciar /d' /tmp/ca-ES-valencia.txt
 sort -u /tmp/ca-ES-valencia.txt -o /tmp/ca-ES-valencia.txt
 
 for targetdict in ca-ES ca-ES-valencia
