@@ -45,6 +45,10 @@
 -vos tu P020P000
 -vos tu PP2CP000
 Ctrl Ctrl Y
+Dr Dr NCMS000
+Dra Dr NCFS000
+Dres Dr NCFP000
+Drs Dr NCMP000
 Excm excel·lentíssim Y
 Excma excel·lentíssima Y
 GB GB NCMN000
@@ -56,6 +60,10 @@ MHz MHz NCMN000
 Mbit Mbit NCMN000
 R+D R+D NCFS000
 R+D+I R+D+I NCFS000
+Sr Sr NCMS000
+Sra Sr NCFS000
+Sres Sr NCFP000
+Srs Sr NCMP000
 a a SPS00
 abans abans CS
 abr abril Y
@@ -268,9 +276,6 @@ dos dos DN0MP0
 dos-centes dos-cents DN0FP0
 dos-cents dos-cents DN0MP0
 dotze dotze DN0CP0
-dr doctor Y
-dra doctora Y
-drs doctor Y
 ds dissabte Y
 dt dimarts Y
 dta dreta Y
@@ -805,10 +810,6 @@ son son DP3MSC
 sos son DP3MPC
 sota sota SPS00
 sots sots SPS00
-sr senyor Y
-sra senyora Y
-sres senyora Y
-srs senyor Y
 st sant Y
 sta santa Y
 subsp subespècies Y
