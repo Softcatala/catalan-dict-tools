@@ -10984,6 +10984,7 @@ Harlem Harlem NPCSG00
 Harmagedon Harmagedon NPMSG00
 Harold Harold NPMSSP0
 Harolds Harold NPMPSP0
+Harris Harris NPCNSP0
 Harrisburg Harrisburg NPCSG00
 Harry Harry NPMSSP0
 Hartford Hartford NPCSG00
@@ -12103,6 +12104,7 @@ Kaluga Kaluga NPCSG00
 Kalutara Kalutara NPCSG00
 Kama Kama NPCSG00
 Kamaishi Kamaishi NPCSG00
+Kamala Kamala NPFSSP0
 Kamarhati Kamarhati NPCSG00
 Kambia Kambia NPCSG00
 Kamensk-Šakhtinskij Kamensk-Šakhtinskij NPCSG00
@@ -13293,6 +13295,7 @@ Lugano Lugano NPCSG00
 Lugansk Lugansk NPCSG00
 Lugo Lugo NPCSG00
 Luimneach Luimneach NPCSG00
+Lukaixenko Lukaixenko NPCNSP0
 Lukács Lukács NPCNSP0
 Lulua Lulua NPCSG00
 Lumezzane Lumezzane NPCSG00
