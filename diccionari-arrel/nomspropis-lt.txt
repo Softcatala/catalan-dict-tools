@@ -13297,6 +13297,7 @@ Lugo Lugo NPCSG00
 Luimneach Luimneach NPCSG00
 Lukaixenko Lukaixenko NPCNSP0
 Lukács Lukács NPCNSP0
+Lula Lula NPMSSP0
 Lulua Lulua NPCSG00
 Lumezzane Lumezzane NPCSG00
 Lumière Lumière NPCNSP0

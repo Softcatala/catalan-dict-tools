@@ -19634,6 +19634,7 @@ conspecte=categories: M;fonts: LT;
 conspicuïtat=categories: F;fonts: LT;
 conspiració=categories: F;fonts: LT;
 conspirador conspiradora=categories: MF;fonts: LT;
+conspiranoia=categories: F;fonts: esadir;
 constant=categories: F;fonts: LT;
 constantinenc constantinenca=categories: MF;fonts: LT;
 constantà=categories: M;fonts: LT;

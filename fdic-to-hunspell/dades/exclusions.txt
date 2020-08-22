@@ -97,6 +97,7 @@ volei
 voret
 
 EXCLOU LEMA DE TOTS
+enric
 ciar
 binar
 ganyar
