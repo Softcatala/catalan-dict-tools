@@ -98,6 +98,7 @@ voret
 
 EXCLOU LEMA DE TOTS
 ciar
+binar
 ganyar
 conseguir
 estricament

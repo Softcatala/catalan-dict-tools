@@ -11764,6 +11764,7 @@ exemplar [sup. exemplaríssim]=categories: A;fonts: LT;
 exemplaritzant=categories: A;fonts: LT;
 exemplificador exemplificadora=categories: A;fonts: LT;
 exemplificatiu exemplificativa=categories: A;fonts: LT;
+preparacionista=categories: A;fonts: wiki;
 exempt exempta=categories: A;fonts: LT;
 exencefàlic exencefàlica=categories: A;fonts: dsalut;
 exencèfal exencèfala=categories: A;fonts: dsalut;
