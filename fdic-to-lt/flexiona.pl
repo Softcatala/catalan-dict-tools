@@ -54,9 +54,7 @@ while ( my $line = <$fh> ) {
         $excepcions = $3;
         $categoria  = $4;
 
-        ( $mot_fem, $found ) =
-          Flexio::desplega_femeni_amb_guionet( $mot_masc, $2 );
-
+        ( $mot_fem, $found ) = Flexio::desplega_femeni_amb_guionet( $mot_masc, $2 );
         if ( !$found ) {
             print $ofh "***POSSIBLE ERROR*** $line\n";
             next;
@@ -64,7 +62,7 @@ while ( my $line = <$fh> ) {
 
         $numAccepcio = "";
         if ( $mot_masc !~ /$Flexio::number_exceptions/ )
-        {    # Excepció: el número forma part del mot
+        { # Excepció: el número forma part del mot
             if ( $mot_masc =~ /^(.+)([0-9])$/ ) {
                 $mot_masc    = $1;
                 $numAccepcio = $2;
@@ -87,9 +85,7 @@ while ( my $line = <$fh> ) {
         }
 
         # plural a partir del femení
-        elsif (
-            $mot_masc =~ /.+([àéèíóòú]|[aàeéèiíoóòuú][sn]|ix)$/ )
-        {
+        elsif ($mot_masc =~ /.+([àéèíóòú]|[aàeéèiíoóòuú][sn]|ix)$/ ) {
             $mp = Flexio::pluralMasc_del_fem($mot_fem);
         }
         else {

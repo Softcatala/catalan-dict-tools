@@ -27,12 +27,13 @@ sub plural {
 	}
 	$paraula=~s/^([^àèéíòóú]+x)$/$1s/; # les floxs (paraula aguda)
     } else {
-	$paraula=~s/([^àèéíòóú]s)$/$1os/; # quars quarsos, tens tensos
-	$paraula=~s/^([^àèéíòóú]+[çx])$/$1os/; # annex annexos (paraula aguda)
+	   $paraula=~s/([^àèéíòóú]s)$/$1os/; # quars quarsos, tens tensos
+	   $paraula=~s/^([^àèéíòóú]+[çx])$/$1os/; # annex annexos (paraula aguda)
     }
 
     $paraula=~s/([çx])$/$1s/; # índex índexs (plana o esdrúixola)
     $paraula=~s/(\d+)a$/$1es/; #ordinals amb xifres
+    $paraula=~s/^([SD]r)a$/$1es/; # excepcions Sra, Dra
     $paraula=~s/^([^àéèíòóúïüaeiou]+[aeiou])$/$1ns/;     #monosíl·labs acabats amb vocal: blens, bruns...
     $paraula=~s/gua$/gües/;
     $paraula=~s/qua$/qües/;

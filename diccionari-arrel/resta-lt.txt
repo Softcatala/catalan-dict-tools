@@ -45,10 +45,6 @@
 -vos tu P020P000
 -vos tu PP2CP000
 Ctrl Ctrl Y
-Dr Dr NCMS000
-Dra Dr NCFS000
-Dres Dr NCFP000
-Drs Dr NCMP000
 Excm excel·lentíssim Y
 Excma excel·lentíssima Y
 GB GB NCMN000
@@ -60,10 +56,6 @@ MHz MHz NCMN000
 Mbit Mbit NCMN000
 R+D R+D NCFS000
 R+D+I R+D+I NCFS000
-Sr Sr NCMS000
-Sra Sr NCFS000
-Sres Sr NCFP000
-Srs Sr NCMP000
 a a SPS00
 abans abans CS
 abr abril Y
