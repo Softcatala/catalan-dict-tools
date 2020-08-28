@@ -26,6 +26,7 @@ sed -i '/ aguar /d' novetats_amb_tag.txt #excloure aguar
 sed -i '/ VMIP1S0S/d' novetats_amb_tag.txt #excloure formes del septentrional
 sed -i 's/^[^<].*$//g' novetats_amb_tag.txt
 sed -i 's/^< //g' novetats_amb_tag.txt
+sed -i -E '/ (aguar|ciar|emblar|binar) /d' novetats_amb_tag.txt #EXCLUSIÓ D'ALGUNS VERBS
 sed -i 's/ /\t/g' novetats_amb_tag.txt
 sed -i '/^\s*$/d' novetats_amb_tag.txt
 cp novetats_amb_tag.txt novetats_sense_tag.txt

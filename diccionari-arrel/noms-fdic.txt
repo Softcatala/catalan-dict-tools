@@ -177,6 +177,7 @@ CDIAP=categories: MI;fonts: sigla;
 CEIP=categories: MI;fonts: termcat;
 CFGM=categories: MI;fonts: sigles;
 CFGS=categories: MI;fonts: sigles;
+CIE=categories: MI;fonts: sigles;
 CIF=categories: MI;fonts: LT;
 CMC=categories: FI;fonts: dsalut;
 CMOS=categories: MI;fonts: termcat;
