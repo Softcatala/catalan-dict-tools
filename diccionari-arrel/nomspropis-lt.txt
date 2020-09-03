@@ -20716,6 +20716,7 @@ Senç Senç NPCSG00
 Senès Senès NPCNSP0
 Senén Senén NPMSSP0
 Septimània Septimània NPFSG00
+Septuaginta Septuaginta NPFSO00
 Sepúlveda Sepúlveda NPCSG00
 Serafina Serafina NPFSSP0
 Serafines Serafina NPFPSP0
