@@ -62943,6 +62943,7 @@ pesatanins=categories: MI;fonts: LT;
 pesatge=categories: M;fonts: LT;
 pesaàcids=categories: MI;fonts: LT;
 pesca=categories: F;fonts: LT;
+pescaclics=categories: MS;fonts: termcat;
 pescada=categories: F;fonts: LT;
 pescador pescadora=categories: MF;fonts LT;
 pescaire=categories: MF;fonts: LT;
