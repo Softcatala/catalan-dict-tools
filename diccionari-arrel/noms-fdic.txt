@@ -269,6 +269,7 @@ Muschelkalk=categories: MI;fonts: termcat;
 NEE=categories: FP;fonts: sigles;
 NIF=categories: MI;fonts: LT;
 NPA=categories: MI;fonts: dsalut;
+Novitxok=categories: MS;fonts: LT; esadir;
 ONG=categories: FI;fonts: LT;
 Oscar=categories: M;fonts: esadir;
 Ostpolitik=categories: FS;fonts: alemany;
