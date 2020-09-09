@@ -23717,6 +23717,7 @@ plosiu plosiva=categories: A;fonts: LT;
 plotinià plotiniana=categories: A;fonts: LT;
 plovedor plovedora=categories: A;fonts: LT;
 plover plovera=categories: A;fonts: LT;
+ploviscós -osa=categories: A;fonts: DNV;
 plugisser plugissera=categories: A;fonts: LT;
 pluig=categories: AM;fonts: LT;
 plujà plujana=categories: A;fonts: LT;

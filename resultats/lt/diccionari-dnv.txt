@@ -63293,10 +63293,6 @@ plorimiquésseu plorimicar VMSI2P05
 plorimiquéssim plorimicar VMSI1P02
 plorimiquéssiu plorimicar VMSI2P02
 plorimiquí plorimicar VMIS1S00
-ploviscosa ploviscós AQ0FS0
-ploviscoses ploviscós AQ0FP0
-ploviscosos ploviscós AQ0MP0
-ploviscós ploviscós AQ0MS0
 pluricolor pluricolor AQ0CS0
 pluricolors pluricolor AQ0CP0
 plurinervada plurinervat AQ0FS0

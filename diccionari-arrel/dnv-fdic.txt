@@ -4608,7 +4608,6 @@ plomallejar=categories: V;model:envejar;fonts: DNV;
 ploramicar=categories: V;model:trencar;fonts: DNV;
 ploreguera=categories: F;fonts: DNV;
 plorimicar=categories: V;model:trencar;fonts: DNV;
-ploviscós -osa=categories: A;fonts: DNV;
 pluricolor=categories: A;fonts: DNV;
 plurinervat -ada=categories: A;fonts: DNV;
 pneumostoma=categories: M;fonts: DNV;
