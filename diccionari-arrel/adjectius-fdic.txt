@@ -4939,6 +4939,7 @@ bradipsíquic -a=categories: A;fonts: derivat;
 bradisísmic bradisísmica=categories: A;fonts: LT;
 brafimenc brafimenca=categories: A;fonts: LT;
 bragat bragada=categories: A;fonts: LT;
+brahmi=categories: AI;fonts: derivat;
 bramador bramadora=categories: A;fonts: LT;
 bramaire=categories: A;fonts: LT;
 bramànic bramànica=categories: A;fonts: LT;
