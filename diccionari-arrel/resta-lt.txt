@@ -78,7 +78,7 @@ algunes algun DI0FP0
 algunes algun PI0FP000
 alguns algun DI0MP0
 alguns algun PI0MP000
-algú algú PI0CS000
+algú algú PI0MS000
 allò allò PD0NS000
 als a+els SP+DA
 alto alto I

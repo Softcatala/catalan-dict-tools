@@ -21137,6 +21137,7 @@ niçard niçarda=categories: A;fonts: LT;
 niòbic niòbica=categories: A;fonts: LT;
 no-alineat no-alineada=categories: A;fonts:DIEC;
 no-bel·ligerant=categories: A;fonts: DNV;
+no-euclidià no-euclidiana=categories: A;fonts: IEC;
 no-metàl·lic no-metàl·lica=categories: A;fonts: DIEC;
 nobiliari nobiliària=categories: A;fonts: LT;
 noble [sup. nobilíssim]=categories: A;fonts: LT;
