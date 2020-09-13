@@ -8037,6 +8037,7 @@ precintar=categories: V;model:cantar;fonts:LT
 precipitar=categories: V;model:cantar;fonts:LT
 precisar=categories: V;model:abalisar;fonts:LT
 preclassificar=categories: V;model:trencar;fonts:LT
+precompilar=categories: V;model:cantar;fonts: derivat;
 preconcebre=categories: V;model:apercebre;fonts:LT
 preconfigurar=categories: V;model:cantar;fonts:LT
 preconitzar=categories: V;model:cantar;fonts:LT

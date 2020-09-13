@@ -2,6 +2,7 @@
 #avist avista=categories: A;fonts: LT; arcaisme
 #baador=categories: A;fonts: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
+#cristal=categories: A;fonts: dsalut;  #ATENCIÓ: relatiu a la cresta!
 #emperadora=categories: A;fonts: LT;
 #eret ereta=categories: A;fonts: DIEC; arcaisme
 #eret ereta=categories: A;fonts: LT; arcaisme, es confon amb érets
@@ -7825,7 +7826,6 @@ crismal=categories: A;fonts: LT;
 crisogràfic crisogràfica=categories: A;fonts: LT;
 crispatiu crispativa=categories: A;fonts: LT;
 crispetaire=categories: A;fonts: LT;
-cristal=categories: A;fonts: dsalut;
 cristal·litzable=categories: A;fonts: LT;
 cristal·lofíl·lic cristal·lofíl·lica=categories: A;fonts: LT;
 cristal·logràfic cristal·logràfica=categories: A;fonts: LT;

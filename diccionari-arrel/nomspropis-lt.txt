@@ -1130,6 +1130,7 @@ Alexis Alexis NPMSSP0 # avl: noms de persona
 Alf Alf NPCSG00
 Alfafar Alfafar NPCSG00
 Alfafara Alfafara NPFSG00
+Alfaguara Alfaguara NPCNO00
 Alfama Alfama NPCSG00
 Alfambra Alfambra NPCSG00
 Alfara Alfara NPCNSP0
@@ -3702,6 +3703,7 @@ Berrús Berrús NPCSG00
 Bert Bert NPCNSP0
 Berta Berta NPCNSP0
 Berta Berta NPFSSP0
+Bertelsmann Bertelsmann NPCNO00
 Bertes Berta NPFPSP0
 Bertet Bertet NPCNSP0
 Bertila Bertila NPFSSP0
@@ -17248,6 +17250,7 @@ Penella Penella NPFSG00
 Penelles Penelles NPCSG00
 Peneu Peneu NPCSG00
 Penghu Penghu NPCSG00
+Penguin Penguin NPCNO00
 Penina Penina NPCNSP0
 Penitents Penitents NPMPG00
 Penne Penne NPCSG00
@@ -19973,6 +19976,7 @@ Saint-Simon Saint-Simon NPCNSP0
 Saint-Simon Saint-Simon NPCSG00
 Saint-Étienne Saint-Étienne NPCSG00
 Saint-Étienne-du-Rouvray Saint-Étienne-du-Rouvray NPCSG00
+Sainte-Beuve Sainte-Beuve NPCNSP0
 Sainte-Enimie Sainte-Enimie NPCSG00
 Sainte-Geneviève-des-Bois Sainte-Geneviève-des-Bois NPCSG00
 Saintes Saintes NPCSG00
@@ -22905,6 +22909,7 @@ Turó Turó NPCNSP0
 Tusac Tusac NPCNSP0
 Tuscaloosa Tuscaloosa NPCSG00
 Tuscania Tuscania NPCSG00
+Tusquets Tusquets NPCNO00
 Tutankamon Tutankamon NPMSSP0
 Tutau Tutau NPCNSP0
 Tuticorin Tuticorin NPCSG00
@@ -23438,6 +23443,7 @@ Varazze Varazze NPCSG00
 Vardak Vardak NPCSG00
 Vardar Vardar NPCSG00
 Varese Varese NPCSG00
+Vargas Vargas NPCNSP0
 Varimanha Varimanha NPCSG00
 Varna Varna NPCSG00
 Varoi Varoi NPCNSP0
