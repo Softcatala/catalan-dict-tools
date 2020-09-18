@@ -7726,6 +7726,7 @@ Düren Düren NPCSG00
 Düsseldorf Düsseldorf NPMSG00
 Dāmodar Dāmodar NPCSG00
 Džezkazgan Džezkazgan NPCSG00
+EAU EAU NPMPG00
 ECTS ECTS NPCNO00
 EGB EGB NPFSO00
 EI EI NPMSO00
