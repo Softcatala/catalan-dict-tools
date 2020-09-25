@@ -1088,6 +1088,7 @@ Aleixar Aleixar NPCSG00
 Aleixos Aleix NPMPSP0
 Aleixos Aleixos NPCNSP0
 Aleksandrija Aleksandrija NPCSG00
+Aleksei Aleksei NPMSSP0
 Aleksin Aleksin NPCSG00
 Aleksinac Aleksinac NPCSG00
 Aleksiévitx Aleksiévitx NPCNSP0
@@ -10099,6 +10100,7 @@ Gerards Gerard NPMPSP0
 Gerb Gerb NPCSG00
 Gerba Gerba NPCSG00
 Gerbe Gerbe NPCSG00
+Gerhard Gerhard NPCNSP0
 Gericó Gericó NPCNSP0
 Gerinald Gerinald NPMSSP0 # avl: noms de persona
 Germana Germana NPFSSP0
@@ -15751,6 +15753,7 @@ Navaiol Navaiol NPCSG00
 Naval Naval NPCNSP0
 Navall Navall NPCNSP0
 Navalls Navalls NPCNSP0
+Navalni Navalni NPCNSP0
 Navaló Navaló NPCSG00
 Navarcles Navarcles NPCSG00
 Navarino Navarino NPCSG00
@@ -20545,7 +20548,9 @@ Schindler Schindler NPCNSP0
 Schio Schio NPCSG00
 Schlegel Schlegel NPCNSP0
 Schleswig-Holstein Schleswig-Holstein NPCSG00
+Schneider Schneider NPCNSP0
 Schopenhauer Schopenhauer NPCNSP0
+Schröder Schröder NPCNSP0
 Schrödinger Schrödinger NPCNSP0
 Schubert Schubert NPCNSP0
 Schumann Schumann NPCNSP0

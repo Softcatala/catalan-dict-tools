@@ -56,6 +56,7 @@ MHz MHz NCMN000
 Mbit Mbit NCMN000
 R+D R+D NCFS000
 R+D+I R+D+I NCFS000
+TB TB NCMN000
 a a SPS00
 abans abans CS
 abr abril Y
