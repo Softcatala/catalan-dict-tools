@@ -6178,6 +6178,7 @@ Clarís Clarís NPMSSP0 # avl: noms de persona
 Claró Claró NPCNSP0
 Clarós Clarós NPCNSP0
 Clascar Clascar NPCNSP0
+Claude Claude NPMSSP0
 Claudi Claudi NPMSSP0
 Claudians Claudià NPMPSP0
 Claudina Claudina NPFSSP0 # avl: noms de persona
@@ -9451,6 +9452,7 @@ Frankfurt Frankfurt NPCSG00
 Franquesa Franquesa NPCNSP0
 Franquet Franquet NPCNSP0
 Franquès Franquès NPCNSP0
+Franz Franz NPMSSP0
 França França NPFSG00
 François François NPMSSP0
 Françoy Françoy NPCNSP0
@@ -19201,6 +19203,7 @@ Ricós Ricós NPCNSP0
 Ridaura Ridaura NPCNSP0
 Ridecós Ridecós NPCSG00
 Riells Riells NPCNSP0
+Riemann Riemann NPCNSP0
 Riera Riera NPCNSP0
 Riera Riera NPFSG00
 Rierada Rierada NPFSG00
