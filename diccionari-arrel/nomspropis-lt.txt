@@ -2329,6 +2329,7 @@ Artola Artola NPCNSP0
 Artola Artola NPFSSP0
 Artoles Artola NPFPSP0
 Artorc Artorc NPCNSP0
+Artsakh Artsakh NPCSG00
 Artur Artur NPCSG00
 Artur Artur NPMSSP0
 Artura Artura NPFSSP0 # avl: noms de persona
@@ -12140,6 +12141,7 @@ Kapoeta Kapoeta NPCSG00
 Kaposvár Kaposvár NPCSG00
 Kara Kara NPCNSP0
 Kara Kara NPCSG00
+Karabakh Karabakh NPCSG00
 Karachi Karachi NPCSG00
 Karaganda Karaganda NPCSG00
 Karakalpakistan Karakalpakistan NPMSG00
@@ -15641,6 +15643,7 @@ Nagano Nagano NPCSG00
 Nagaoka Nagaoka NPCSG00
 Nagasaki Nagasaki NPCSG00
 Nagol Nagol NPCSG00
+Nagorno-Karabakh Nagorno-Karabakh NPCSG00
 Nagoya Nagoya NPCSG00
 Nagrella Nagrella NPCNSP0
 Naha Naha NPCSG00
