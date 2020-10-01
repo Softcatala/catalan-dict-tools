@@ -15643,7 +15643,7 @@ Nagano Nagano NPCSG00
 Nagaoka Nagaoka NPCSG00
 Nagasaki Nagasaki NPCSG00
 Nagol Nagol NPCSG00
-Nagorno-Karabakh Nagorno-Karabakh NPCSG00
+Nagorno Nagorno NPCSG00
 Nagoya Nagoya NPCSG00
 Nagrella Nagrella NPCNSP0
 Naha Naha NPCSG00
