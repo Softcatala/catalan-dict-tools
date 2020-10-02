@@ -2655,6 +2655,7 @@ Ayamonte Ayamonte NPCSG00
 Aydın Aydın NPCSG00
 Aylesbury Aylesbury NPCSG00
 Ayr Ayr NPCSG00
+Ayuso Ayuso NPCNSP0
 Ayutthaya Ayutthaya NPCSG00
 Az-Zawiyah Az-Zawiyah NPCSG00
 Azaries Azaries NPMPSP0
@@ -14229,6 +14230,7 @@ Massuet Massuet NPCNSP0
 Massutí Massutí NPCNSP0
 Massy Massy NPCSG00
 Massàlia Massàlia NPFSG00
+MasterChef MasterChef NPCNO00
 Mastercard Mastercard NPCNSP0
 Mastia Mastia NPCSG00
 Masuques Masuques NPFPG00
