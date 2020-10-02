@@ -3644,7 +3644,6 @@ làmpara=categories: F;fonts: DNV,col·loquial;
 lúrex=categories: M;fonts: DNV;
 mabra=categories: F;fonts: DNV;
 macadamitzar=categories: V;model:cantar;fonts: DNV;
-macarra=categories: M;fonts: DNV,col·loquial;
 macroampliació=categories: F;fonts: DNV;
 macroscòpia=categories: F;fonts: DNV;
 madalena=categories: F;fonts: DNV,col·loquial;

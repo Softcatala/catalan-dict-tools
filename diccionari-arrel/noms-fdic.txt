@@ -49710,6 +49710,7 @@ macaleu=categories: M;fonts: LT;
 macam=categories: M;fonts: LT;
 macar=categories: M;fonts: LT;
 macaroni=categories: M;fonts: LT;
+macarra=categories: M;fonts: DNV,col·loquial;
 macarró=categories: M;fonts: LT;
 macarulla=categories: F;fonts: LT;
 macassar=categories: M;fonts: LT;

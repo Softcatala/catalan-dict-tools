@@ -55506,8 +55506,6 @@ macadamitzésseu macadamitzar VMSI2P05
 macadamitzéssim macadamitzar VMSI1P02
 macadamitzéssiu macadamitzar VMSI2P02
 macadamitzí macadamitzar VMIS1S00
-macarra macarra NCMS000
-macarres macarra NCMP000
 macroampliacions macroampliació NCFP000
 macroampliació macroampliació NCFS000
 macroscòpia macroscòpia NCFS000
