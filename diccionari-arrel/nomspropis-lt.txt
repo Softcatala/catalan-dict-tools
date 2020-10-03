@@ -16706,6 +16706,8 @@ P'enghu P'enghu NPCSG00
 P'ingtung P'ingtung NPCSG00
 P'ohang P'ohang NPCSG00
 PAC PAC NPFNO00
+PCE PCE NPFNO00 # sigla
+PCE PCE NPMSO00
 PCR PCR NPFNO00
 PCR PCR NPMSO00
 PDeCAT PDeCAT NPMSO00
@@ -22202,6 +22204,7 @@ Thjórsá Thjórsá NPCSG00
 Tholonet Tholonet NPCSG00
 Thompson Thompson NPCNO00
 Thonon-les-Bains Thonon-les-Bains NPCSG00
+Thor Thor NPMSSP0
 Thoreau Thoreau NPCNSP0
 Thule Thule NPCSG00
 Thun Thun NPCSG00
@@ -22652,6 +22655,7 @@ Tougué Tougué NPCSG00
 Toul Toul NPCSG00
 Tour Tour NPMSO00
 Tourcoing Tourcoing NPCSG00
+Tourette Tourette NPCNSP0
 Tourmalet Tourmalet NPMSG00
 Tournai Tournai NPCSG00
 Tournus Tournus NPCSG00
