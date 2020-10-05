@@ -11,6 +11,7 @@
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
 #recorrible=categories: A;fonts: LT; ERROR!
 #resecable=categories: A;fonts: dsalut;
+#vende=categories: A;fonts: GDLC; inusual
 #vivace=categories: AMS;fonts: AVL,GDLC; Pot ser confús
 #víking=categories: A;fonts: LT; #eliminat de DIEC i DNV
 10è 10a [pl. 10ns]=categories: AO;fonts: LT;
@@ -31200,7 +31201,6 @@ venal=categories: A;fonts: LT;
 venatori venatòria=categories: A;fonts: LT;
 vencedor vencedora=categories: A;fonts: LT;
 vencible=categories: A;fonts: LT;
-vende=categories: A;fonts: LT;
 vendible=categories: A;fonts: LT;
 vendrellenc vendrellenca=categories: A;fonts: LT;
 venecià veneciana=categories: A;fonts: LT;

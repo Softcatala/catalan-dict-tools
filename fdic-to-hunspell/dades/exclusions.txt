@@ -97,6 +97,9 @@ volei
 voret
 
 EXCLOU LEMA DE TOTS
+vende
+git
+get
 enric
 ciar
 binar
