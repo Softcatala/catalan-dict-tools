@@ -313,6 +313,7 @@ tio
 tios
 
 EXCLOU LEMA DE catalan
+abraç
 bollir
 rebollir
 ensaig
