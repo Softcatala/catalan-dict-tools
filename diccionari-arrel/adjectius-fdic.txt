@@ -16629,6 +16629,7 @@ intercartilaginós -osa=categories: A;fonts: dsalut;
 intercavernós intercavernosa=categories: A;fonts: dsalut;
 intercel·lular=categories: A;fonts: LT;
 intercensal=categories: A;fonts: idescat;
+intercentres=categories: AI;fonts: termcat;
 interceptable=categories: A;fonts: LT;
 interceptiu interceptiva=categories: A;fonts: LT;
 interceptor interceptora=categories: A;fonts: LT;
