@@ -3360,6 +3360,7 @@ desinvitar=categories: V;model:cantar;fonts:LT
 desionitzar=categories: V;model:cantar;fonts:LT
 desistir=categories: V;model:servir;fonts:LT
 desitjar=categories: V;model:menjar;fonts:LT
+desjudicialitzar=categories: V;model:cantar;fonts: derivat;
 desjunyir=categories: V;model:servir;fonts:LT
 deslabialitzar=categories: V;model:cantar;fonts:LT
 deslegitimar=categories: V;model:cantar;fonts:LT

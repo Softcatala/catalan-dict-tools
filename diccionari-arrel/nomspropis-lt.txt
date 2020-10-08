@@ -7226,6 +7226,7 @@ Davos Davos NPCSG00
 Davézieux Davézieux NPCSG00
 Davídia Davídia NPFSSP0 # avl: noms de persona
 Davínia Davínia NPFSSP0 # avl: noms de persona
+Dawkins Dawkins NPCNSP0
 Dawley Dawley NPCSG00
 Dax Dax NPCSG00
 Dašava Dašava NPCSG00
