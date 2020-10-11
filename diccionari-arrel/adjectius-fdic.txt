@@ -22464,6 +22464,7 @@ paracèfal paracèfala=categories: A;fonts: dsalut;
 paracític paracítica=categories: A;fonts: dsalut;
 paradiftèric paradiftèrica=categories: A;fonts: dsalut;
 paradigmàtic paradigmàtica=categories: A;fonts: LT;
+paradiplomàtic paradiplomàtica=categories: A;fonts: derivat;
 paradisíac paradisíaca=categories: A;fonts: LT;
 paradoxal=categories: A;fonts: LT;
 paraergàstic paraergàstica=categories: A;fonts: dsalut;

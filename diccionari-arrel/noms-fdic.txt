@@ -60837,6 +60837,7 @@ paradiabetis=categories: FI;fonts: dsalut;
 paradiafonia=categories: F;fonts: LT;
 paradigma=categories: M;fonts: LT;
 paradiona=categories: FS;fonts: dsalut;
+paradiplomàcia=categories: F;fonts: derivat;
 paradiseid=categories: M;fonts: LT;
 paradisenteria=categories: F;fonts: dsalut;
 paradista=categories: MF;fonts: esadir;
