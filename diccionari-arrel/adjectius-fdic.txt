@@ -16082,6 +16082,7 @@ indomesticable=categories: A;fonts: LT;
 indomesticat indomesticada=categories: A;fonts: LT;
 indomtable=categories: A;fonts: LT;
 indonesi indonèsia=categories: A;fonts: LT;
+indopakistanès indopakistanesa=categories: A;fonts: derivat;
 indostànic indostànica=categories: A;fonts: LT;
 indotat indotada=categories: A;fonts: LT;
 indoxinès indoxinesa=categories: A;fonts: LT;

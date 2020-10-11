@@ -12272,6 +12272,7 @@ Kilinochchi Kilinochchi NPCSG00
 Kimberley Kimberley NPCSG00
 Kindia Kindia NPCSG00
 Kindle Kindle NPMNO00
+King King NPCNSP0
 Kingston Kingston NPCSG00
 Kingstown Kingstown NPCSG00
 Kinshasa Kinshasa NPCSG00
