@@ -3634,6 +3634,7 @@ Berga Berga NPCNSP0
 Berga Berga NPFSG00
 Bergantes Bergantes NPCNG00
 Bergen Bergen NPCSG00
+Bergoglio Bergoglio NPCNSP0
 Berguedà Berguedà NPCNSP0
 Berguedà Berguedà NPCSG00
 Bergues Bergues NPCNSP0
@@ -20091,6 +20092,7 @@ Salics Salics NPCNSP0
 Salieri Salieri NPCNSP0
 Salies-de-Béarn Salies-de-Béarn NPCSG00
 Salima Salima NPCSG00
+Salinger Salinger NPCNSP0
 Salisacs Salisacs NPCNSP0
 Salisbury Salisbury NPCSG00
 Salitja Salitja NPCSG00
