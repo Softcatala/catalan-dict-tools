@@ -2397,6 +2397,7 @@ Ashikaga Ashikaga NPCNSP0
 Ashikaga Ashikaga NPCSG00
 Ashkelon Ashkelon NPCSG00
 Ashquelon Ashquelon NPCSG00
+Asimov Asimov NPCNSP0 # wiki
 Asinara Asinara NPCSG00
 Asincrit Asincrit NPMSSP0 # avl: noms de persona
 Asir Asir NPCSG00
@@ -11732,6 +11733,7 @@ Ixena Ixena NPFSSP0 # avl: noms de persona
 Izan Izan NPMSSP0
 Izoard Izoard NPCSG00
 Iñaki Iñaki NPMSSP0
+Ióssif Ióssif NPMSSP0
 Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
 Iževsk Iževsk NPCSG00
@@ -16145,6 +16147,7 @@ Nyasa Nyasa NPCSG00
 Nyer Nyer NPCSG00
 Nyköping Nyköping NPCSG00
 Nyon Nyon NPCSG00
+Nyong'o Nyong'o NPCNSP0
 Nyus Nyus NPCSG00
 Nyíregyháza Nyíregyháza NPCSG00
 Nàdia Nàdia NPFSSP0
