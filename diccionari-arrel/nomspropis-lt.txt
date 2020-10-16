@@ -12651,6 +12651,7 @@ Lavit Lavit NPCSG00
 Lavoisier Lavoisier NPCNSP0
 Lavongai Lavongai NPCSG00
 Lavínia Lavínia NPFSSP0 # avl: noms de persona
+Lawrence Lawrence NPCNSP0
 Laxou Laxou NPCSG00
 Layret Layret NPCNSP0
 Lea Lea NPFSSP0
@@ -13308,6 +13309,7 @@ Lourdes Lourdes NPFSG00
 Louviers Louviers NPCSG00
 Louvre Louvre NPMSG00
 Lovaina Lovaina NPCSG00
+Lovelace Lovelace NPCNSP0
 Loveč Loveč NPCSG00
 Lowestoft Lowestoft NPCSG00
 Lowlands Lowlands NPCPG00
@@ -13592,6 +13594,7 @@ Main Main NPMSG00
 Mainader Mainader NPCNSP0
 Mainal Mainal NPCNSP0
 Mainar Mainar NPCNSP0
+Mainat Mainat NPCNSP0
 Maine Maine NPCSG00
 Mainer Mainer NPCNSP0
 Mainland Mainland NPCSG00
@@ -15763,6 +15766,7 @@ Naron Naron NPCSG00
 Narro Narro NPCNSP0
 Narva Narva NPCSG00
 Narvik Narvik NPCSG00
+Narváez Narváez NPCNSP0
 Naryškin Naryškin NPCNSP0
 Nas Nas NPCNSP0
 Nas Nas NPCSG00
@@ -19677,6 +19681,7 @@ Rotes Rotes NPCNSP0
 Rotes Rotes NPFPG00
 Rotglà Rotglà NPCSG00
 Rotherham Rotherham NPCSG00
+Rothschild Rothschild NPCNSP0
 Rotlan Rotlan NPCNSP0
 Rotliegendes Rotliegendes NPCSG00
 Rotlleus Rotlleus NPCNSP0
@@ -20052,6 +20057,7 @@ Sainte-Enimie Sainte-Enimie NPCSG00
 Sainte-Geneviève-des-Bois Sainte-Geneviève-des-Bois NPCSG00
 Saintes Saintes NPCSG00
 Saintonge Saintonge NPCSG00
+Sainz Sainz NPCNSP0
 Saiol Saiol NPCNSP0
 Saipan Saipan NPCSG00
 Sais Sais NPCSG00
@@ -21445,6 +21451,7 @@ Sornàs Sornàs NPCSG00
 Sorocaba Sorocaba NPCSG00
 Sorolla Sorolla NPCNSP0
 Sorollera Sorollera NPFSG00
+Soros Soros NPCNSP0
 Sorpe Sorpe NPCSG00
 Sorre Sorre NPCSG00
 Sorrento Sorrento NPCSG00
@@ -22065,6 +22072,7 @@ Teixidor Teixidor NPCNSP0
 Teixonera Teixonera NPCNSP0
 Teixonera Teixonera NPFSG00
 Teià Teià NPCSG00
+Tel-Aviv Tel-Aviv NPCSG00
 Tel-Aviv-Yafō Tel-Aviv-Yafō NPCSG00
 Telde Telde NPCSG00
 Telegram Telegram NPMSO00
