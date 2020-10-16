@@ -412,6 +412,7 @@ kVA kVA NCMN000
 kW kW NCMN000
 kWh kWh NCMN000
 kbit kbit NCMN000
+kcal kcal NCFN000
 kg kg NCMN000
 km km NCMN000
 l l NCMN000
