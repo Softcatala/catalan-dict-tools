@@ -11230,6 +11230,7 @@ Hilari Hilari NPMSSP0
 Hilarions Hilarió NPMPSP0
 Hilaris Hilari NPMPSP0
 Hilarió Hilarió NPMSSP0
+Hilary Hilary NPFSSP0
 Hilbert Hilbert NPMSSP0 # avl: noms de persona
 Hilda Hilda NPFSSP0
 Hildebert Hildebert NPMSSP0

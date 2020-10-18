@@ -30795,6 +30795,7 @@ esfigmoviscosimetria=categories: F;fonts: dsalut;
 esfigmòfon=categories: M;fonts: dsalut;
 esfigmògraf=categories: M;fonts: LT;
 esfigmòmetre=categories: M;fonts: LT;
+esfilagarsament=categories: M;fonts: derivat;
 esfingolipidosi=categories: F;fonts: dsalut;
 esfingoliposi=categories: F;fonts: LT;
 esfingolípid=categories: M;fonts: LT;
