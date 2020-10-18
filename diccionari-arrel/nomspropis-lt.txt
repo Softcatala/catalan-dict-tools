@@ -3839,6 +3839,7 @@ Bicing Bicing NPMSO00
 Bicol Bicol NPCSG00
 Bidell Bidell NPCNSP0
 Bidellet Bidellet NPCNSP0
+Biden Biden NPCNSP0
 Biel Biel NPCSG00
 Bielefeld Bielefeld NPCSG00
 Bielet Bielet NPCNSP0
@@ -7742,6 +7743,7 @@ Dídaca Dídaca NPFSSP0 # avl: noms de persona
 Dídacs Dídac NPMPSP0
 Dídim Dídim NPMSSP0
 Dídims Dídim NPMPSP0
+Díez Díez NPCNSP0
 Dòmnul Dòmnul NPMSSP0
 Dòmnuls Dòmnul NPMPSP0
 Dòria Dòria NPCNSP0
@@ -10651,6 +10653,7 @@ Grosseto Grosseto NPCSG00
 Grossglockner Grossglockner NPCSG00
 Grottaferrata Grottaferrata NPCSG00
 Grottaglie Grottaglie NPCSG00
+Groucho Groucho NPMSSP0
 Grozni Grozni NPCSG00
 Groznyj Groznyj NPCSG00
 Grua Grua NPCNSP0

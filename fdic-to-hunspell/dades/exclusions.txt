@@ -97,6 +97,8 @@ volei
 voret
 
 EXCLOU LEMA DE TOTS
+raport
+raportar
 depenjar
 vende
 git

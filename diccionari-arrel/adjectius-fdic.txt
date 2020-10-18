@@ -11451,6 +11451,7 @@ estreptocòccic estreptocòccica=categories: A;fonts: dsalut;
 estreptogènic estreptogènica=categories: A;fonts: dsalut;
 estressant=categories: A;fonts: LT;
 estret estreta [sup. estretíssim]=categories: A; font:apertium;
+estretet estreteta=categories: A; font:diminutiu;
 estriat estriada [sup. estriadíssim]=categories: A; font:apertium;
 estriatal=categories: A;fonts: dsalut;
 estricador estricadora=categories: A;fonts: LT;

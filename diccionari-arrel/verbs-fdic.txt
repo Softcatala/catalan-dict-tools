@@ -7928,6 +7928,7 @@ platinar=categories: V;model:abominar;fonts:LT
 platonar=categories: V;model:cantar;fonts:LT
 plaure=categories: V;model:complaure;fonts:LT
 plaçar=categories: V;model:començar;fonts:LT
+plebiscitar=categories: V;model:cantar;fonts: DDLC;
 pledejar=categories: V;model:envejar;fonts:LT
 plegar=categories: V;model:pregar;fonts:LT
 pleixellar=categories: V;model:cantar;fonts:LT
