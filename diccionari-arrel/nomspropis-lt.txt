@@ -71,6 +71,7 @@
 #Felicita Felicita NPFSSP0 # avl: noms de persona
 #Feliç Feliç NPMSSP0 # avl: noms de persona
 #Felo Felo NPMSSP0 # avl: noms de persona
+#Fortaleza Fortaleza NPCSG00
 #Fortunya Fortunya NPFSSP0 # avl: noms de persona
 #Gad Gad NPMSSP0 # avl: noms de persona
 #Gesmil Gesmil NPFSSP0 # avl: noms de persona
@@ -9402,7 +9403,6 @@ Fort Fort NPCNSP0
 Fort-de-France Fort-de-France NPCSG00
 Fort-de-l'Eau Fort-de-l'Eau NPCSG00
 Fortaleny Fortaleny NPCSG00
-Fortaleza Fortaleza NPCSG00
 Fortesa Fortesa NPCNSP0
 Fortesa Fortesa NPFSG00
 Fortet Fortet NPCNSP0

@@ -58443,6 +58443,7 @@ omentotomia=categories: F;fonts: dsalut;
 omentovòlvul=categories: M;fonts: dsalut;
 omentumectomia=categories: F;fonts: dsalut;
 omeprazole=categories: M;fonts: dsalut;
+omertà=categories: FS;fonts: italià;
 ometenc ometenca=categories: MF;fonts: LT;
 omfacita=categories: F;fonts: LT;
 omfalectomia=categories: F;fonts: dsalut;
