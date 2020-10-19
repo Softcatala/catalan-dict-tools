@@ -11013,6 +11013,7 @@ Han Han NPCNSP0
 Hangouts Hangouts NPCNO00
 Hangzhou Hangzhou NPCSG00
 Hankou Hankou NPCSG00
+Hannah Hannah NPFSSP0
 Hannover Hannover NPCNSP0
 Hannover Hannover NPCSG00
 Hanníbal Hanníbal NPMSSP0
