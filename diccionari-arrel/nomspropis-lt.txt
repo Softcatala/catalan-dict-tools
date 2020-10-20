@@ -92,6 +92,7 @@
 #Iva Iva NPFSSP0 # avl: noms de persona
 #Ió Ió NPMSSP0 # avl: noms de persona
 #Laure Laure NPMSSP0 # avl: noms de persona
+#Llibre Llibre NPCNSP0
 #Major Major NPMSSP0 # avl: noms de persona
 #Malic Malic NPMSSP0 # avl: noms de persona
 #Mar Mar NPFSSP0 # avl: noms de persona
@@ -13044,7 +13045,6 @@ Lliberós Lliberós NPCNSP0
 Llibori Llibori NPMSSP0
 Lliboris Llibori NPMPSP0
 Llibra Llibra NPFSG00
-Llibre Llibre NPCNSP0
 Llibèria Llibèria NPFSSP0 # avl: noms de persona
 Llibòria Llibòria NPFSSP0 # avl: noms de persona
 Llidera Llidera NPCNSP0

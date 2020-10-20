@@ -13218,8 +13218,6 @@ cavutxéssim cavutxar VMSI1P02
 cavutxéssiu cavutxar VMSI2P02
 cavutxí cavutxar VMIS1S00
 caçatorpeders caçatorpeders NCMN000
-caïnisme caïnisme NCMS000
-caïnismes caïnisme NCMP000
 caüla caüla NCFS000
 caüles caüla NCFP000
 caüllada caüllada NCFS000
@@ -63765,8 +63763,6 @@ porris porrar VMSP2S0Y
 porrito porrito NCMS000
 porritos porrito NCMP000
 porro porrar VMIP1S0C
-porronada porronada NCFS000
-porronades porronada NCFP000
 porroner porroner NCMS000
 porronera porroner NCFS000
 porroneres porroner NCFP000
@@ -72119,8 +72115,6 @@ termofílics termofílic AQ0MP0
 termofíliques termofílic AQ0FP0
 termorecuperador termorecuperador NCMS000
 termorecuperadors termorecuperador NCMP000
-terra-aire terra-aire AQ0CN0
-terra-terra terra-terra AQ0CN0
 terrallona terralló NCFS000
 terrallones terralló NCFP000
 terrallons terralló NCMP000
