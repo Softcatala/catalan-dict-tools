@@ -22006,6 +22006,7 @@ ortogonal=categories: A;fonts: LT;
 ortogràfic ortogràfica=categories: A;fonts: LT;
 ortològic ortològica=categories: A;fonts: LT;
 ortomagmàtic ortomagmàtica=categories: A;fonts: LT;
+ortomolecular=categories: A;fonts: termcat;
 ortomòrfic ortomòrfica=categories: A;fonts: LT;
 ortonormal=categories: A;fonts: LT;
 ortoperiòdic ortoperiòdica=categories: A;fonts: LT;
