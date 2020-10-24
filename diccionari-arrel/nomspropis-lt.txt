@@ -1,3 +1,4 @@
+
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -6243,6 +6244,7 @@ Cliceri Cliceri NPMSSP0
 Cliceris Cliceri NPMPSP0
 Clichy Clichy NPCSG00
 Clichy-sous-Bois Clichy-sous-Bois NPCSG00
+Clickedu Clickedu NPMSO00
 Climent Climent NPCNSP0
 Climent Climent NPMSSP0
 Climents Climent NPMPSP0
@@ -7974,6 +7976,7 @@ Elpídia Elpídia NPFSSP0 # avl: noms de persona
 Elsa Elsa NPFSSP0
 Elsene Elsene NPCSG00
 Elses Elsa NPFPSP0
+Elton Elton NPMSSP0
 Elvas Elvas NPCSG00
 Elvira Elvira NPCNSP0
 Elvira Elvira NPCSG00
@@ -11790,7 +11793,7 @@ Ióssif Ióssif NPMSSP0
 Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
 Iževsk Iževsk NPCSG00
-JOC JOC NPFSO00
+JOC JOC NPCSO00
 Jabaliya Jabaliya NPCSG00
 Jabalpur Jabalpur NPCSG00
 Jablanica Jablanica NPCSG00
@@ -22793,6 +22796,7 @@ Transvaal Transvaal NPCSG00
 Trapagaran Trapagaran NPCSG00
 Trapani Trapani NPCSG00
 Traper Traper NPCNSP0
+Trapero Trapero NPCNSP0
 Trappes Trappes NPCSG00
 Trarza Trarza NPCSG00
 Trascoll Trascoll NPCNSP0
@@ -25072,3 +25076,7 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Iceta Iceta NPCNSP0
+BRIMO BRIMO NPFSO00
+Niccolò Niccolò NPMSSP0
+Paganini Paganini NPCNSP0
