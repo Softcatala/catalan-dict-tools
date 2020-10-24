@@ -2691,6 +2691,7 @@ BCE BCE NPMSO00
 BCN BCN NPFSG00
 BMW BMW NPCNO00
 BOE BOE NPMSO00
+BRIMO BRIMO NPFSO00
 BTV BTV NPCNO00
 BUP BUP NPMSO00
 Baal Baal NPMSSP0
@@ -11522,6 +11523,7 @@ Ibsen Ibsen NPCNSP0
 Ibáñez Ibáñez NPCNSP0
 Ibèria Ibèria NPFSG00
 Ica Ica NPCSG00
+Iceta Iceta NPCNSP0
 Ichihara Ichihara NPCSG00
 Ichikawa Ichikawa NPCSG00
 Ichinomiya Ichinomiya NPCSG00
@@ -15977,6 +15979,7 @@ Nicaragua Nicaragua NPFSG00
 Nicasi Nicasi NPCNSP0
 Nicasi Nicasi NPMSSP0
 Nicasis Nicasi NPMPSP0
+Niccolò Niccolò NPMSSP0
 Nicea Nicea NPFSG00
 Nichelino Nichelino NPCSG00
 Nicholson Nicholson NPCNSP0
@@ -16840,6 +16843,7 @@ Pafos Pafos NPCSG00
 Pagalu Pagalu NPCSG00
 Pagan Pagan NPCSG00
 Pagani Pagani NPCSG00
+Paganini Paganini NPCNSP0
 Paganins Paganins NPCNSP0
 Pagans Pagans NPCNSP0
 Pagases Pagases NPCSG00
@@ -25076,7 +25080,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Iceta Iceta NPCNSP0
-BRIMO BRIMO NPFSO00
-Niccolò Niccolò NPMSSP0
-Paganini Paganini NPCNSP0
