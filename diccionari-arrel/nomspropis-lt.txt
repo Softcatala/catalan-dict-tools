@@ -2712,6 +2712,7 @@ Baccarat Baccarat NPCSG00
 Baccus Baccus NPMPSP0
 Baccus Baccus NPMSSP0
 Bach Bach NPCNSP0
+Bachelet Bachelet NPCNSP0
 Back Back NPCSG00
 Bacoli Bacoli NPCSG00
 Bacolod Bacolod NPCSG00
@@ -3297,6 +3298,7 @@ Beatrius Beatriu NPFPSP0
 Beats Beat NPMPSP0
 Beaucaire Beaucaire NPCSG00
 Beauchamp Beauchamp NPCNSP0
+Beaufort Beaufort NPCNSP0
 Beaulencourt Beaulencourt NPCSG00
 Beaulieu-lès-Loches Beaulieu-lès-Loches NPCSG00
 Beaumont Beaumont NPCNSP0
@@ -12278,6 +12280,7 @@ Kenema Kenema NPCSG00
 Kenitra Kenitra NPCSG00
 Kenmare Kenmare NPCSG00
 Kennedy Kennedy NPCNSP0
+Kenneth Kenneth NPMSSP0
 Kent Kent NPCSG00
 Kentucky Kentucky NPCSG00
 Kenya Kenya NPFSG00
@@ -17879,6 +17882,7 @@ Pol Pol NPCNSP0
 Pola Pola NPCNSP0
 Pola Pola NPFSG00
 Polalbert Polalbert NPCNSP0
+Polanco Polanco NPCNSP0
 Polaroid Polaroid NPCNO00
 Poldo Poldo NPMSSP0 # avl: noms de persona
 Pole Pole NPCNSP0
@@ -21532,6 +21536,7 @@ Spa Spa NPCSG00
 Spandau Spandau NPCSG00
 Sparta Sparta NPMSO00
 Spartak Spartak NPMSO00
+Spencer Spencer NPCNSP0
 Spessart Spessart NPCSG00
 Spiderman Spiderman NPMSSP0
 Spielberg Spielberg NPCNSP0

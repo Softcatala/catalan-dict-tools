@@ -73938,6 +73938,7 @@ semiperíode=categories: M;fonts: LT;
 semiplacenta=categories: F;fonts: dsalut;
 semiplà=categories: M;fonts: LT;
 semipotença=categories: F;fonts: LT;
+semipresencialitat=categories: F;fonts: derivati;
 semipresidencialisme=categories: M;fonts: termcat;
 semiprivatització=categories: F;fonts: LT;
 semiprofessionalització=categories: F;fonts: derivat;
