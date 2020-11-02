@@ -17651,6 +17651,7 @@ Pigròs Pigròs NPCNSP0
 Piguillem Piguillem NPCNSP0
 Pijaume Pijaume NPCNSP0
 Pijoan Pijoan NPCNSP0
+Piketty Piketty NPCNSP0
 Pila Pila NPCNSP0
 Pilar Pilar NPFSSP0
 Pilar Pilar NPMSSP0
@@ -18735,6 +18736,7 @@ Querós Querós NPCNSP0
 Querós Querós NPCSG00
 Quesa Quesa NPFSG00
 Quesada Quesada NPCNSP0
+Quesnay Quesnay NPCNSP0
 Quet Quet NPCNSP0
 Quetgles Quetgles NPCNSP0
 Quetta Quetta NPCSG00
