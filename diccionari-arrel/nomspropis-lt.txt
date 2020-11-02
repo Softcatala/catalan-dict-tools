@@ -1,4 +1,3 @@
-
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -2758,6 +2757,7 @@ Baell Baell NPMSG00
 Baella Baella NPCNSP0
 Baells Baells NPFSG00
 Baelo Baelo NPCSG00
+Baena Baena NPCNSP0
 Baerum Baerum NPCSG00
 Baetà Baetà NPMSSP0 # avl: noms de persona
 Bafalui Bafalui NPCSG00
@@ -3192,6 +3192,7 @@ Basilià Basilià NPMSSP0
 Basilís Basilís NPMSSP0 # avl: noms de persona
 Basià Basià NPMSSP0
 Baskerville Baskerville NPCNSP0
+Baskonia Baskonia NPMSO00
 Basquens Basquens NPCNSP0
 Basquer Basquer NPCNSP0
 Bassa Bassa NPCNSP0
@@ -4751,6 +4752,7 @@ CGPJ CGPJ NPMSO00
 CGT CGT NPFSO00
 CIS CIS NPMSO00
 CNN CNN NPFSO00
+CNP CNP NPMSO00
 CNT CNT NPFSO00
 COI COI NPMSO00
 COU COU NPMSO00
@@ -5417,6 +5419,7 @@ Carnisser Carnisser NPCNSP0
 Carnàtic Carnàtic NPCSG00
 Caro Caro NPCNSP0
 Caro Caro NPMSG00
+Carod-Rovira Carod-Rovira NPCNSP0
 Caroig Caroig NPMSG00
 Carol Carol NPCSSP0 # avl: noms de persona
 Carola Carola NPFSSP0 # avl: noms de persona
@@ -9675,6 +9678,8 @@ GIEC GIEC NPFSO00
 GNOME GNOME NPMSO00
 GNU GNU NPMSO00
 GPL GPL NPCNO00
+GSM GSM NPCNO00
+GSMA GSMA NPFSO00
 Gabana Gabana NPCNSP0
 Gabaon Gabaon NPMSG00
 Gabarret Gabarret NPCSG00
@@ -14848,6 +14853,7 @@ Miril·la Miril·la NPFSSP0 # avl: noms de persona
 Mirim Mirim NPCSG00
 Mirmanda Mirmanda NPCSG00
 Mirosa Mirosa NPCNSP0
+Mirotić Mirotić NPCNSP0
 Mirra Mirra NPFSSP0 # avl: noms de persona
 Mirtil Mirtil NPMSSP0 # avl: noms de persona
 Mirtil·la Mirtil·la NPFSSP0 # avl: noms de persona
@@ -23121,6 +23127,7 @@ UAO UAO NPFSO00
 UB UB NPFSO00
 UCE UCE NPFSO00
 UDC UDC NPFSO00
+UDEF UDEF NPFSO00
 UE UE NPFSG00
 UEFA UEFA NPFSO00
 UGT UGT NPFSO00
