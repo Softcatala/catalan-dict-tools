@@ -12095,6 +12095,7 @@ Juneda Juneda NPFSG00
 Jungfrau Jungfrau NPCSG00
 Juno Juno NPFSSP0
 Junqueras Junqueras NPCNSP0
+JuntsxCat JuntsxCat NPCNO00
 Junyell Junyell NPCNSP0
 Junyell Junyell NPMSG00
 Junyells Junyells NPCNSP0
@@ -12138,7 +12139,7 @@ Juvència Juvència NPFSSP0 # avl: noms de persona
 Juárez Juárez NPCNSP0
 Juïnyà Juïnyà NPCSG00
 Južno-Sakhalinsk Južno-Sakhalinsk NPCSG00
-JxCAT JxCAT NPCNO00
+JxCat JxCat NPCNO00
 Jyoetsu Jyoetsu NPCSG00
 Jyväskylä Jyväskylä NPCSG00
 Jàfer Jàfer NPCNSP0
@@ -16802,7 +16803,8 @@ PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00
 PCR PCR NPFNO00
 PCR PCR NPMSO00
-PDeCAT PDeCAT NPMSO00
+PDECat PDECat NPMSO00 # La Vanguardia
+PDeCAT PDeCAT NPMSO00 # esadir
 PNB PNB NPMSO00
 POUM POUM NPMSO00
 PP PP NPMSO00
