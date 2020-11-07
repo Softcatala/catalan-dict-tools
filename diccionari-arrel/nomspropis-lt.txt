@@ -6209,6 +6209,7 @@ Clarís Clarís NPMSSP0 # avl: noms de persona
 Claró Claró NPCNSP0
 Clarós Clarós NPCNSP0
 Clascar Clascar NPCNSP0
+Classroom Classroom NPCNO00
 Claude Claude NPMSSP0
 Claudi Claudi NPMSSP0
 Claudians Claudià NPMPSP0
@@ -7089,6 +7090,7 @@ Cèlies Cèlia NPFPSP0
 Cèsar Cèsar NPMSSP0
 Cèsars Cèsar NPMPSP0
 Cèsia Cèsia NPFSSP0 # avl: noms de persona
+Céline Céline NPCNSP0
 Cérilly Cérilly NPCSG00
 Cérvoles Cérvoles NPCSG00
 Cézanne Cézanne NPCNSP0
@@ -11888,6 +11890,7 @@ Javaloies Javaloies NPCNSP0
 Jaworzno Jaworzno NPCSG00
 Jazztel Jazztel NPCNO00
 Jaén Jaén NPCSG00
+Jean-Baptiste Jean-Baptiste NPMSSP0
 Jebús Jebús NPMSG00
 Jedrzejów Jedrzejów NPCSG00
 Jefferson Jefferson NPCNSP0
@@ -13388,6 +13391,7 @@ Luimneach Luimneach NPCSG00
 Lukaixenko Lukaixenko NPCNSP0
 Lukács Lukács NPCNSP0
 Lula Lula NPMSSP0
+Lully Lully NPMSSP0
 Lulua Lulua NPCSG00
 Lumezzane Lumezzane NPCSG00
 Lumière Lumière NPCNSP0
@@ -14493,6 +14497,7 @@ Medees Medea NPFPSP0
 Medellín Medellín NPCSG00
 Mederic Mederic NPMSSP0 # avl: noms de persona
 Medes Medes NPFPG00
+Mediapro Mediapro NPCNO00
 Medias Medias NPCSG00
 Mediases Mediases NPCSG00
 Medina Medina NPCNSP0
@@ -16799,6 +16804,7 @@ P'enghu P'enghu NPCSG00
 P'ingtung P'ingtung NPCSG00
 P'ohang P'ohang NPCSG00
 PAC PAC NPFNO00
+PAH PAH NPFSO00
 PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00
 PCR PCR NPFNO00
@@ -18642,6 +18648,7 @@ Pèrmia Pèrmia NPFSG00
 Pèrsia Pèrsia NPFSG00
 Pécs Pécs NPCSG00
 Pérez Pérez NPCNSP0
+Pérez-Reverte Pérez-Reverte NPCNSP0
 Périgueux Périgueux NPCSG00
 Péssah Péssah NPFSO00
 Píndar Píndar NPMSSP0

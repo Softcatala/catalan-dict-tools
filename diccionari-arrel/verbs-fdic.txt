@@ -8477,6 +8477,7 @@ reconduir=categories: V;model:traduir;fonts:LT
 reconfigurar=categories: V;model:cantar;fonts:LT
 reconfirmar=categories: V;model:cantar;fonts:LT
 reconfortar=categories: V;model:cantar;fonts:LT
+recongelar=categories: V;model:cantar;fonts: derivat;
 reconnectar=categories: V;model:cantar;fonts: derivat;
 reconquerir=categories: V;model:servir;fonts:LT
 reconquistar=categories: V;model:cantar;fonts:LT
