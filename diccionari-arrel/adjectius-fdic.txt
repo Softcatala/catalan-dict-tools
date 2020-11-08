@@ -20901,6 +20901,7 @@ neocolonialista=categories: A;fonts: LT;
 neocomià neocomiana=categories: A;fonts: LT;
 neocon=categories: A;fonts: esadir;
 neoconservador neoconservadora=categories: A;fonts: LT;
+neoconvergent=categories: A;fonts: derivat;
 neocriticista=categories: A;fonts: LT;
 neodadaista=categories: A;fonts: LT;
 neodarwinista=categories: A;fonts: LT;
