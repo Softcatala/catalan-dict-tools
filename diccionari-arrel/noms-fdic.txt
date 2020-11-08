@@ -60018,6 +60018,7 @@ pagofigo=categories: M;fonts: LT;
 pagofàgia=categories: F;fonts: dsalut;
 pagoplegia=categories: F;fonts: dsalut;
 pagre=categories: M;fonts: LT;
+pagueta=categories: F;fonts: diminutiu;
 pagà pagana=categories: MF;fonts LT;
 pagès pagesa=categories: MF;fonts: LT;
 pagúrid=categories: M;fonts: LT;

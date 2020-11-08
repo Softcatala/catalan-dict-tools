@@ -14180,6 +14180,7 @@ guilsenc guilsenca=categories: A;fonts: LT;
 guineuer guineuera=categories: A;fonts: LT;
 guineà guineana=categories: A;fonts: LT;
 guinguetès guinguetesa=categories: A;fonts: LT;
+guinyolesc guinyolesca=categories: A;fonts: DDLC;
 guinyós guinyosa=categories: A;fonts: LT;
 guipuscoà guipuscoana=categories: A;fonts: LT;
 guirra=categories: AF;fonts: LT;
