@@ -17738,6 +17738,7 @@ Piquet Piquet NPCNSP0
 Pira Pira NPCSG00
 Piracicaba Piracicaba NPCSG00
 Piramsès Piramsès NPCSG00
+Pirandello Pirandello NPCNSP0
 Pireu Pireu NPMSG00
 Pirgos Pirgos NPCSG00
 Pirin Pirin NPCSG00
