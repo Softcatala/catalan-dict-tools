@@ -255,11 +255,14 @@ devuit devuit DN0CP0
 deçà deçà SPS00
 dg dg NCMN000
 dg diumenge Y
+diferents diferents DI0CP0
 dinou dinou DN0CP0
 dins dins SPS00
 dintre dintre SPS00
 disset disset DN0CP0
 distr districte Y
+diverses diversos DI0FP0
+diversos diversos DI0MP0
 divuit divuit DN0CP0
 dj dijous Y
 dl dilluns Y

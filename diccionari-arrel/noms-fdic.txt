@@ -76789,6 +76789,7 @@ superestructura=categories: F;fonts: LT;
 superfamília=categories: F;fonts: LT;
 superfecundació=categories: F;fonts: LT;
 superfemella=categories: F;fonts: LT;
+superfesta=categories: F;fonts: derivat;
 superfetació=categories: F;fonts: LT;
 superficialitat=categories: F;fonts: LT;
 superficiari superficiària=categories: MF;fonts: LT;
