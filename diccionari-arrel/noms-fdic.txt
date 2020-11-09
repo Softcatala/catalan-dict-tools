@@ -7655,6 +7655,7 @@ astròmetre=categories: M;fonts: LT;
 astrònom astrònoma=categories: MF;fonts: LT;
 astur=categories: MF;fonts: LT;
 asturià asturiana=categories: MF;fonts: LT;
+asturlleonès=categories: M;fonts: DNV;
 astàsia-abàsia=categories: F;fonts: dsalut;
 astàsia=categories: F;fonts: LT;
 astèlia=categories: F;fonts: LT;
