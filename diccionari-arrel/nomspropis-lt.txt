@@ -3996,6 +3996,7 @@ Bloemfontein Bloemfontein NPCSG00
 Blois Blois NPCSG00
 Blondel Blondel NPCNSP0
 Bloomberg Bloomberg NPCNSP0
+Bloomsbury Bloomsbury NPCSG00
 Bluetooth Bluetooth NPMNO00
 Blàsia Blàsia NPFSSP0 # avl: noms de persona
 Blàzquez Blàzquez NPCNSP0
@@ -6795,6 +6796,7 @@ Cots Cots NPCNSP0
 Cots Cots NPFPG00
 Cottbus Cottbus NPCSG00
 Cotxer Cotxer NPMSG00
+Cotxinxina Cotxinxina NPFSG00
 Coudekerque-Branche Coudekerque-Branche NPCSG00
 Couperin Couperin NPCNSP0
 Courbevoie Courbevoie NPCSG00
