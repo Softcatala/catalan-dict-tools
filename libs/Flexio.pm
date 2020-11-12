@@ -3,7 +3,7 @@ use utf8;
 use Text::Unaccent::PurePerl qw(unac_string);
 
 our $carac="[₂²³a-zA-ZûêàéèíòóúïüäöîâÄÖÀÈÉÍÒÓÚÏÜÎÂçÇñÑáå·0-9'\-]";
-our $number_exceptions="^(?i)(P[345]|MP[34]|A[345]|goma-2|4x4|.*Covid-19|SARS-CoV-2)\$";
+our $number_exceptions="^(?i)(P[345]|MP[34]|A[345]|goma-2|4x4|.*Covid-19|SARS-CoV-2|súper-[0-9]+)\$";
 
 my $hacaspirada = "Haarlem|hack.*|Harlem|Haifa|haikus?|haima|haimes|halal|halar|hall.*|Halloweens?|Hamada|Hamas|Hamàs|hamilton.*|Hamlet.*|Hammond|Hampton|handicaps?|Hannover|Hanoi|Hans|Hansa|hardware|harolds?|Harrison|harrods?|harry|Hartmann?|Haruki|Harvard|Harz|Havilland|hawai.*|hawk.*|Haydn|Hayworth|Heard|hearst|Heathrow|heav.*|hegel.*|Heidelberg|Heide[gn].*|Heilig.*|hein.*|Heisen.*|Heitz|Helen|Heming.*|henna|hennes|Henry|Hepburn|herbert.*|Herder|Hereford|Hesse|Hessen|Hewlett.*|Hezboll.+|high.*|hilbert.*|Hilda|hinden.*|hinterlands?|Hitch.*|hitler.*|hobbes.*|hobby|hobbies|Hohen.*|holdings?|hollywood.*|Holmes.*|Holstein|Hong|hongk.+|Honolu.+|Honsh[uū]|h[òo]bbits?|hoover.*|hopkins|Hork.*|horst|H[ou]f.*|Houston|Howard|Hubble|humbold.*|Hume|hunting.*|husseinit.+|Higgs|high|Hill|Himmler|hip-hop|hippies|hippy|Hirado|His|Hubei|Hudson|Hunter|Husserl|Huygens|Utah";
 

@@ -76849,6 +76849,7 @@ superproducció=categories: F;fonts: LT;
 superpurgació=categories: F;fonts: LT;
 superrealisme=categories: M;fonts: LT;
 superrealista=categories: MF;fonts: LT;
+superrebaixa=categories: F;fonts: derivat;
 superscripció=categories: F;fonts: dsalut;
 supersensibilitat=categories: F;fonts: dsalut;
 supersimetria=categories: F;fonts: LT;
