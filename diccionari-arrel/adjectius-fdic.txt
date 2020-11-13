@@ -38,6 +38,7 @@
 7è 7a [pl. 7ns]=categories: AO;fonts: LT;
 8è 8a [pl. 8ns]=categories: AO;fonts: LT;
 9è 9a [pl. 9ns]=categories: AO;fonts: LT;
+ABS=categories: AI;fonts: termcat;
 CMYK=categories: AI; fonts: termcat;
 LGBT-fòbic LGBT-fòbica=categories: A;fonts: termcat;
 LGBT=categories: AI; fonts: termcat;

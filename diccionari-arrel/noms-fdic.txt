@@ -53364,6 +53364,7 @@ microprogramari=categories: M;fonts: LT;
 micropropagació=categories: F;fonts: termcat;
 microprosop=categories: M;fonts: dsalut;
 microprotal·lus=categories: MI;fonts: LT;
+micropréstec=categories: M;fonts: derivat;
 micropterígid=categories: M;fonts: LT;
 micropòdia=categories: F;fonts: LT;
 microquimatoteràpia=categories: F;fonts: dsalut;

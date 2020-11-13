@@ -15682,6 +15682,7 @@ Mèxic Mèxic NPMSG00
 Mégève Mégève NPCSG00
 Méricourt Méricourt NPCSG00
 Mérida Mérida NPCSG00
+Mérimée Mérimée NPCNSP0
 Mézières Mézières NPCSG00
 Míkonos Míkonos NPCSG00
 Míriam Míriam NPFSSP0
