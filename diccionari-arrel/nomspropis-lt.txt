@@ -7326,6 +7326,7 @@ Delhort Delhort NPCNSP0
 Deli Deli NPMSSP0 # avl: noms de persona
 Delibes Delibes NPCNSP0
 Delisau Delisau NPCNSP0
+Dell Dell NPCNO00
 Dellys Dellys NPCSG00
 Dellà Dellà NPCSG00
 Delmenhorst Delmenhorst NPCSG00
