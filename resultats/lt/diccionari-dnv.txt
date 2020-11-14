@@ -7070,6 +7070,8 @@ arropíssem arropir VMSI1P05
 arropísseu arropir VMSI2P05
 arropíssim arropir VMSI1P02
 arropíssiu arropir VMSI2P02
+arrossal arrossal NCMS000
+arrossals arrossal NCMP000
 arrugons arrugó NCMP000
 arrugó arrugó NCMS000
 arruixadina arruixadina NCFS000

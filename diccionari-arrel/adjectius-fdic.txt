@@ -12093,6 +12093,7 @@ eòlic eòlica=categories: A;fonts: LT;
 fabianista=categories: A;fonts: LT;
 fabià fabiana=categories: A;fonts: LT;
 fabricador fabricadora=categories: A;fonts: LT;
+fabricant=categories: A;fonts: DDLC;
 fabril=categories: A;fonts: LT;
 fabrista=categories: A;fonts: LT;
 fabrià fabriana=categories: A;fonts: LT;
