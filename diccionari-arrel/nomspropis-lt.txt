@@ -10,6 +10,7 @@
 #Ampar Ampar NPFSSP0 # avl: noms de persona
 #Ampliada Ampliada NPFSSP0 # avl: noms de persona
 #Ampliat Ampliat NPMSSP0 # avl: noms de persona
+#Ana Ana NPFSSP0
 #Angústies Angústies NPFSSP0 # avl: noms de persona
 #Ariana Ariana NPFSSP0 # avl: noms de persona
 #Arquímedes Arquímedes NPMSSP0 # avl: noms de persona
@@ -107,6 +108,7 @@
 #Mend Mend NPMSSP0 # avl: noms de persona
 #Menda Menda NPFSSP0 # avl: noms de persona
 #Mides Mides NPMSSP0 # avl: noms de persona
+#Miguel Miguel NPMSSP0
 #Misteri Misteri NPFSSP0 # avl: noms de persona
 #Mohamet Mohamet NPMSSP0 # avl: noms de persona
 #Nel Nel NPMSSP0 # avl: noms de persona
@@ -1586,7 +1588,6 @@ An-Gaillimh An-Gaillimh NPCSG00
 An-Iarmhí An-Iarmhí NPCSG00
 An-Longfort An-Longfort NPCSG00
 An-Mhí An-Mhí NPCSG00
-Ana Ana NPFSSP0
 Anabar Anabar NPCSG00
 Anaclet Anaclet NPMSSP0
 Anacleta Anacleta NPFSSP0 # avl: noms de persona
@@ -12260,6 +12261,7 @@ Kassel Kassel NPCSG00
 Kasugai Kasugai NPCSG00
 Kasungu Kasungu NPCSG00
 Kasupe Kasupe NPCSG00
+Katherine Katherine NPFSSP0
 Katiola Katiola NPCSG00
 Katmandú Katmandú NPCSG00
 Katowice Katowice NPCSG00
@@ -14745,7 +14747,6 @@ Mifsut Mifsut NPCNSP0
 Migdia-Pirineus Migdia-Pirineus NPCSG00
 Migdonius Migdonius NPMSSP0 # avl: noms de persona
 Migdònia Migdònia NPCSG00
-Miguel Miguel NPMSSP0
 Mijaran Mijaran NPCSG00
 Mike Mike NPMSSP0
 Mikhaïl Mikhaïl NPMSSP0
@@ -16042,6 +16043,7 @@ Niihama Niihama NPCSG00
 Nike Nike NPCNO00
 Nikko Nikko NPCSG00
 Nikola Nikola NPMSSP0
+Nikolai Nikolai NPMSSP0
 Nikon Nikon NPCNO00
 Nil Nil NPMSG00
 Nil Nil NPMSSP0

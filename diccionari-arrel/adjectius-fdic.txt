@@ -24276,6 +24276,7 @@ posthipnòtic posthipnòtica=categories: A;fonts: dsalut;
 posthipoglicèmic posthipoglicèmica=categories: A;fonts: dsalut;
 posthipòxic posthipòxica=categories: A;fonts: dsalut;
 posthospitalari posthospitalària=categories: A;fonts: derivat;
+posthumà posthumana=categories: A;fonts: derivat;
 postimperialista=categories: A;fonts: derivat;
 postimpressionista=categories: A;fonts: LT;
 postindustrial=categories: A;fonts: LT;
