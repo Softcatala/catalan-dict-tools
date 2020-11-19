@@ -4376,6 +4376,7 @@ Bover Bover NPCNSP0
 Bover Bover NPCSG00
 Bovet Bovet NPCNSP0
 Boyacá Boyacá NPCSG00
+Boyle Boyle NPCNSP0
 Bozeman Bozeman NPCSG00
 Bozen Bozen NPCSG00
 Boí Boí NPCSG00
@@ -7703,6 +7704,7 @@ Duisburg Duisburg NPMSG00
 Duixanbe Duixanbe NPCSG00
 Duixans Duixans NPCNSP0
 Dukas Dukas NPCNSP0
+Duke Duke NPCNSP0
 Duluth Duluth NPCSG00
 Dumas Dumas NPCNSP0
 Dumfries Dumfries NPCSG00
@@ -7803,6 +7805,7 @@ Eckhart Eckhart NPMSSP0
 Eclesiastès Eclesiastès NPMSO00
 Edda Edda NPFSSP0 # avl: noms de persona
 Ede Ede NPCSG00
+Edebé Edebé NPCNO00
 Edelbert Edelbert NPMSSP0 # avl: noms de persona
 Edelberta Edelberta NPFSSP0 # avl: noms de persona
 Edelmir Edelmir NPMSSP0 # avl: noms de persona
@@ -7968,6 +7971,7 @@ Elizalde Elizalde NPCNSP0
 Elià Elià NPMSSP0 # avl: noms de persona
 Ellesmere Ellesmere NPCSG00
 Ellice Ellice NPFPG00
+Ellington Ellington NPCNSP0
 Ello Ello NPCSG00
 Ellsworth Ellsworth NPCSG00
 Elm Elm NPMSSP0
@@ -9152,6 +9156,7 @@ Fita Fita NPCNSP0
 Fiter Fiter NPCNSP0
 Fiterol Fiterol NPCNSP0
 Fitor Fitor NPCSG00
+Fitzgerald Fitzgerald NPCNSP0
 Fitzroy Fitzroy NPCSG00
 Fitó Fitó NPCNSP0
 Fius Fius NPCNSP0
@@ -10350,6 +10355,7 @@ Giseles Gisela NPFPSP0
 Gispert Gispert NPCNSP0
 Gistaín Gistaín NPCSG00
 GitHub GitHub NPMSO00
+Giuseppe Giuseppe NPMSSP0
 Givors Givors NPCSG00
 Gizeh Gizeh NPCSG00
 Gjirokaster Gjirokaster NPCSG00
@@ -10363,6 +10369,7 @@ Glaucó Glaucó NPMSSP0
 Glaudis Glaudis NPCNSP0
 Glenda Glenda NPFSSP0 # avl: noms de persona
 Glendale Glendale NPCSG00
+Glenn Glenn NPCNSP0
 Gliceri Gliceri NPMSSP0
 Gliceris Gliceri NPMPSP0
 Glicèria Glicèria NPFSSP0 # avl: noms de persona
@@ -11063,6 +11070,7 @@ Harold Harold NPMSSP0
 Harolds Harold NPMPSP0
 Harris Harris NPCNSP0
 Harrisburg Harrisburg NPCSG00
+Harrison Harrison NPCNSP0
 Harry Harry NPMSSP0
 Hartford Hartford NPCSG00
 Hartlepool Hartlepool NPCSG00
@@ -11997,6 +12005,7 @@ Joplin Joplin NPCSG00
 Jorba Jorba NPCNSP0
 Jorba Jorba NPFSG00
 Jorbeta Jorbeta NPCNSP0
+Jordan Jordan NPCNSP0
 Jordana Jordana NPCNSP0
 Jordans Jordà NPMPSP0
 Jordi Jordi NPCNSP0
@@ -12733,6 +12742,7 @@ Lena Lena NPCSG00
 Lenin Lenin NPCNSP0
 Leningrad Leningrad NPCSG00
 Leninsk-Kuzneckij Leninsk-Kuzneckij NPCSG00
+Lennon Lennon NPCNSP0
 Lens Lens NPCSG00
 Lentini Lentini NPCSG00
 Leo Leo NPMSSP0
@@ -14477,6 +14487,7 @@ Mbandaka Mbandaka NPCSG00
 Mbeya Mbeya NPCSG00
 Mbini Mbini NPCSG00
 Mbuji-Mayi Mbuji-Mayi NPCSG00
+McCartney McCartney NPCNSP0
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
 McGraw-Hill McGraw-Hill NPCNO00
@@ -16836,6 +16847,7 @@ Pabó Pabó NPCNSP0
 Pac Pac NPCNSP0
 Paca Paca NPFSSP0 # avl: noms de persona
 Pacareu Pacareu NPCNSP0
+Pacheco Pacheco NPCNSP0
 Pachelbel Pachelbel NPCNSP0
 Pachino Pachino NPCSG00
 Pachuca Pachuca NPCSG00
@@ -16857,6 +16869,7 @@ Paddington Paddington NPCNSP0
 Paderborn Paderborn NPCSG00
 Padern Padern NPCNSP0
 Paderniu Paderniu NPCSG00
+Padilla Padilla NPCNSP0
 Padollers Padollers NPCNSP0
 Padrinàs Padrinàs NPCSG00
 Padró Padró NPCNSP0
@@ -19376,6 +19389,7 @@ Rin Rin NPCSG00
 Rinadal Rinadal NPMSG00
 Rincón Rincón NPCSG00
 Riner Riner NPCSG00
+Ringo Ringo NPCNSP0
 Rinjani Rinjani NPCSG00
 Riodeva Riodeva NPCSG00
 Rioja Rioja NPFSG00
@@ -19799,6 +19813,7 @@ Rubies Rubies NPCNSP0
 Rubik Rubik NPCNSP0
 Rubinat Rubinat NPCNSP0
 Rubinat Rubinat NPCSG00
+Rubio Rubio NPCNSP0
 Rubiol Rubiol NPCNSP0
 Rubiola Rubiola NPCNSP0
 Rubiols Rubiols NPCSG00
@@ -20705,6 +20720,7 @@ Scilla Scilla NPCSG00
 Scilly Scilly NPFPG00
 Sclater Sclater NPCNSP0
 Scorsese Scorsese NPCNSP0
+Scott Scott NPCNSP0
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
 Scratch Scratch NPCNO00
