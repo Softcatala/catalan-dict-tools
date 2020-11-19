@@ -253,6 +253,7 @@ Aberdaugleddau Aberdaugleddau NPCSG00
 Aberdeen Aberdeen NPCSG00
 Abertis Abertis NPCSO00
 Aberystwyth Aberystwyth NPCSG00
+AbiWord AbiWord NPMSO00
 Abiar Abiar NPCSG00
 Abiatar Abiatar NPMSSP0 # avl: noms de persona
 Abidjan Abidjan NPCSG00
@@ -5062,6 +5063,7 @@ Campaneta Campaneta NPFSG00
 Campany Campany NPCNSP0
 Campanyà Campanyà NPCNSP0
 Campassol Campassol NPCNSP0
+Campbell Campbell NPCNSP0
 Campdelacreu Campdelacreu NPCNSP0
 Campdelaroca Campdelaroca NPCNSP0
 Campdelcoll Campdelcoll NPCNSP0
@@ -7520,6 +7522,7 @@ Divina Divina NPFSSP0 # avl: noms de persona
 Diví Diví NPCNSP0
 Diwaniya Diwaniya NPCSG00
 Diyarbakir Diyarbakir NPCSG00
+Dizzy Dizzy NPCNSP0
 Diògenes Diògenes NPMPSP0
 Diògenes Diògenes NPMSSP0
 Djibouti Djibouti NPMSG00
@@ -7591,6 +7594,7 @@ Donasà Donasà NPMSG00
 Donat Donat NPCNSP0
 Donat Donat NPMSSP0
 Donata Donata NPFSSP0
+Donatello Donatello NPCNSP0
 Donates Donata NPFPSP0
 Donatila Donatila NPFSSP0
 Donatiles Donatila NPFPSP0
@@ -7884,6 +7888,7 @@ Eina Eina NPCSG00
 Eindhoven Eindhoven NPCSG00
 Einer Einer NPCNSP0
 Eisack Eisack NPCSG00
+Eisenach Eisenach NPCSG00
 Eisenerz Eisenerz NPCSG00
 Eisenhower Eisenhower NPCNSP0
 Eisenhüttenstadt Eisenhüttenstadt NPCSG00
@@ -10267,6 +10272,7 @@ Gilet Gilet NPCNSP0
 Gilet Gilet NPCSG00
 Gili Gili NPCNSP0
 Gilirribó Gilirribó NPCNSP0
+Gillespie Gillespie NPCNSP0
 Gillette Gillette NPCNO00
 Gillingham Gillingham NPCSG00
 Gilmé Gilmé NPCNSP0
@@ -10469,6 +10475,7 @@ Gonçaga Gonçaga NPFSSP0
 Gonçagues Gonçaga NPFPSP0
 Gonçal Gonçal NPMSSP0
 Gonçals Gonçal NPMPSP0
+Goodman Goodman NPCNSP0
 Google Google NPMSO00
 Gorakhpur Gorakhpur NPCSG00
 Gorazde Gorazde NPCSG00
@@ -10628,6 +10635,7 @@ Gravesend Gravesend NPCSG00
 Graz Graz NPCSG00
 Grazalema Grazalema NPCSG00
 Gredos Gredos NPCSG00
+Green Green NPCNSP0
 Greenpeace Greenpeace NPFSO00
 Greensboro Greensboro NPCSG00
 Greenwich Greenwich NPCSG00
@@ -11041,6 +11049,7 @@ Hamilton Hamilton NPCNSP0
 Hamlet Hamlet NPMSSP0
 Hammamet Hammamet NPCSG00
 Hammond Hammond NPCSG00
+Hammurabi Hammurabi NPMSSP0
 Hampton Hampton NPCSG00
 Hamàs Hamàs NPFSO00
 Hamílcar Hamílcar NPMSSP0 # avl: noms de persona
@@ -11112,6 +11121,7 @@ Heidelberg Heidelberg NPCSG00
 Heidi Heidi NPFSSP0 # avl: noms de persona
 Heilbronn Heilbronn NPCSG00
 Heilongjiang Heilongjiang NPCSG00
+Heinrich Heinrich NPMSSP0
 Heisenberg Heisenberg NPCNSP0
 Hekla Hekla NPCSG00
 Heladi Heladi NPMSSP0 # avl: noms de persona
@@ -11983,6 +11993,7 @@ Johann Johann NPMSSP0
 Johannes Johannes NPMSSP0
 Johannesburg Johannesburg NPCSG00
 John John NPMSSP0
+Johnny Johnny NPMSSP0
 Johnson Johnson NPCNSP0
 Joigny Joigny NPCSG00
 Joinvile Joinvile NPCSG00
@@ -16805,6 +16816,7 @@ Ovidis Ovidi NPMPSP0
 Oviedo Oviedo NPFSG00
 Ovídia Ovídia NPFSSP0 # avl: noms de persona
 Owen Owen NPCNSP0
+Owens Owens NPCNSP0
 Owo Owo NPCSG00
 Oxfam Oxfam NPCNO00
 Oxford Oxford NPCSG00
@@ -21609,6 +21621,7 @@ Staffordshire Staffordshire NPCSG00
 Stains Stains NPCSG00
 Stalin Stalin NPCNSP0
 Stalingrad Stalingrad NPCSG00
+Stallman Stallman NPCNSP0
 Stamford Stamford NPCSG00
 Stanford Stanford NPCNSP0
 Stanford Stanford NPCSG00
