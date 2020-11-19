@@ -2277,6 +2277,7 @@ Arrecife Arrecife NPCSG00
 Arregall Arregall NPCNSP0
 Arrei Arrei NPCNSP0
 Arres Arres NPCSG00
+Arriaga Arriaga NPCNSP0
 Arrià Arrià NPCNSP0
 Arro Arro NPCNSP0
 Arro Arro NPCSG00
