@@ -6306,6 +6306,7 @@ Clàudia Clàudia NPFSSP0
 Clàudies Clàudia NPFPSP0
 Cnidos Cnidos NPCSG00
 Cnossos Cnossos NPCSG00
+CoNCA CoNCA NPMSO00
 Coa-rasa Coa-rasa NPCNSP0
 Coatbridge Coatbridge NPCSG00
 Coatzacoalcos Coatzacoalcos NPCSG00
@@ -17905,6 +17906,7 @@ Pola Pola NPCNSP0
 Pola Pola NPFSG00
 Polalbert Polalbert NPCNSP0
 Polanco Polanco NPCNSP0
+Polanski Polanski NPCNSP0
 Polaroid Polaroid NPCNO00
 Poldo Poldo NPMSSP0 # avl: noms de persona
 Pole Pole NPCNSP0

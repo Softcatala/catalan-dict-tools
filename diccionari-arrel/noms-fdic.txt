@@ -26117,6 +26117,7 @@ dracunculiasi=categories: F;fonts: dsalut;
 dracunculosi=categories: F;fonts: LT;
 dracunculoïdeu=categories: M;fonts: LT;
 dracuncúlid=categories: M;fonts: LT;
+draft=categories: M;fonts: english;
 draga=categories: F;fonts: LT;
 dragador dragadora=categories: MF;fonts LT;
 dragalina=categories: F;fonts: LT;
