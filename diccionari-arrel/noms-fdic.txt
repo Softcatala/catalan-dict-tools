@@ -360,6 +360,7 @@ TRC=categories: FI;fonts: dsalut;
 TSJ=categories: MS;fonts: LT;
 TV=categories: FI;fonts: LT;
 TdR=categories: MI;fonts: sigles (treball de recerca);
+Tedax=categories: MI;fonts: esadir;
 Totpoderós=categories: MS;fonts: LT;
 UCI=categories: FS;fonts: esadir, termcat;
 UPU=categories: FI;fonts: dsalut;
