@@ -6511,6 +6511,7 @@ Compostel·la Compostel·la NPCSG00
 Compàs Compàs NPMSG00
 Comte Comte NPCNSP0
 Comí Comí NPCNSP0
+Comín Comín NPCNSP0
 Conakry Conakry NPCSG00
 Conan Conan NPMSSP0
 Conangle Conangle NPCSG00
@@ -11202,6 +11203,7 @@ Hergé Hergé NPMSSP0
 Heribert Heribert NPMSSP0
 Heriberta Heriberta NPFSSP0 # avl: noms de persona
 Heriberts Heribert NPMPSP0
+Hermann Hermann NPCNSP0
 Hermelinda Hermelinda NPFSSP0
 Hermelindes Hermelinda NPFPSP0
 Hermenegild Hermenegild NPMSSP0
@@ -22311,6 +22313,7 @@ Terris Terris NPCNSP0
 Terroc Terroc NPCNSP0
 Terrós Terrós NPCNSP0
 Terrús Terrús NPCNSP0
+Tertsch Tertsch NPCNSP0
 Tertuliana Tertuliana NPFSSP0 # avl: noms de persona
 Tertulià Tertulià NPMSSP0 # avl: noms de persona
 Tertul·liana Tertul·liana NPFSSP0 # avl: noms de persona

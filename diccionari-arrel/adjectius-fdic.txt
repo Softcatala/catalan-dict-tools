@@ -30705,6 +30705,7 @@ ultradiari ultradiària=categories: A;fonts: dsalut;
 ultradolicocèfal ultradolicocèfala=categories: A;fonts: dsalut;
 ultradretà ultradretana=categories: A;fonts: LT;
 ultradí ultradina=categories: A;fonts: LT;
+ultraespanyolista=categories: A;fonts: derivat;
 ultraesquerrà ultraesquerrana=categories: A;fonts: LT;
 ultrafranquista=categories: A;fonts: derivat;
 ultrafí ultrafina=categories: A;fonts: LT;
