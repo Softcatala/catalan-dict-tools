@@ -2186,6 +2186,7 @@ Arkansas Arkansas NPCSG00
 Arkhànguelsk Arkhànguelsk NPCSG00
 Arles Arles NPCSG00
 Arlet Arlet NPFSSP0
+Arlington Arlington NPCSG00
 Arlà Arlà NPCNSP0
 Armadans Armadans NPCNSP0
 Armadà Armadà NPCNSP0
@@ -15732,6 +15733,7 @@ Múria Múria NPFSG00
 Músser Músser NPCSG00
 Mûr-de-Bretagne Mûr-de-Bretagne NPCSG00
 Mülhausen Mülhausen NPCSG00
+Müller Müller NPCNSP0
 Münchhausen Münchhausen NPCNSP0
 Münster Münster NPCSG00
 Mālegaon Mālegaon NPCSG00
@@ -23186,6 +23188,7 @@ UIB UIB NPFSO00
 UIC UIC NPFSO00
 UJI UJI NPFSO00
 UMH UMH NPFSO00
+UNE UNE NPCNO00
 UNED UNED NPFSO00
 UNESCO Unesco NPFSO00
 UNIX Unix NPMSO00
