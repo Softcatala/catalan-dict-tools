@@ -5133,6 +5133,7 @@ Campània Campània NPFSG00
 Campàs Campàs NPCNSP0
 Campí Campí NPCNSP0
 Campís Campís NPCNSP0
+Camus Camus NPCNSP0
 Camèlia Camèlia NPFSSP0 # avl: noms de persona
 Camí Camí NPCNSP0
 Camí Camí NPCSG00
@@ -7674,6 +7675,7 @@ Drava Drava NPCSG00
 Drenthe Drenthe NPCSG00
 Dresden Dresden NPMSG00
 Dreux Dreux NPCSG00
+Dreyfus Dreyfus NPCNSP0
 Drin Drin NPCSG00
 Drina Drina NPCSG00
 Drive Drive NPMSO00
@@ -19856,6 +19858,7 @@ Rufiji Rufiji NPCSG00
 Rufina Rufina NPFSSP0
 Rufines Rufina NPFPSP0
 Rufins Rufí NPMPSP0
+Rufián Rufián NPCNSP0
 Rufs Ruf NPMPSP0
 Rufà Rufà NPCNSP0
 Rufé Rufé NPCNSP0

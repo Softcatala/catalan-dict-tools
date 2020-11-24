@@ -34007,6 +34007,7 @@ exúvia=categories: F;fonts: LT;
 ezetimiba=categories: F;fonts: dsalut;
 eòlic=categories: M;fonts: LT;
 eòlit=categories: M;fonts: LT;
+eònia=categories: MS;fonts: termcat;
 eó=categories: M;fonts: LT;
 fa [pl. fas]=categories: M;fonts: LT;
 fabada=categories: F;fonts: LT;
