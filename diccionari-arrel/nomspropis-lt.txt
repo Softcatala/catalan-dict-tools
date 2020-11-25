@@ -7749,6 +7749,7 @@ Dušanbe Dušanbe NPCSG00
 Dvorák Dvorák NPCNSP0
 Dvořák Dvořák NPCNSP0
 Dyfed Dyfed NPCSG00
+Dylan Dylan NPCNSP0
 Dzeržinsk Dzeržinsk NPCSG00
 Dzialyn'ski Dzialyn'ski NPCNSP0
 Dàcia Dàcia NPFSG00
@@ -13918,6 +13919,7 @@ Manzini Manzini NPCSG00
 Manòsca Manòsca NPCSG00
 Manāslu Manāslu NPCSG00
 Mao Mao NPMSSP0
+Mapfre Mapfre NPCNO00
 Maputo Maputo NPCSG00
 Maquiavel Maquiavel NPMSSP0
 Maquiavels Maquiavel NPMPSP0
@@ -16353,6 +16355,7 @@ Occam Occam NPCNSP0
 Occitània Occitània NPFSG00
 Oceania Oceania NPFSG00
 Oceja Oceja NPFSG00
+Ochoa Ochoa NPCNSP0
 Ocotepeque Ocotepeque NPCSG00
 Octant Octant NPCSG00
 Octavi Octavi NPMSSP0
@@ -16573,6 +16576,7 @@ Onèssims Onèssim NPMPSP0
 Oosterbeek Oosterbeek NPCSG00
 Opatija Opatija NPCSG00
 Opava Opava NPCSG00
+Opel Opel NPCNO00
 OpenOffice OpenOffice NPMSO00
 OpenStreetMap OpenStreetMap NPMSO00
 OpenType OpenType NPCNO00
@@ -16783,6 +16787,7 @@ Oswiecim Oswiecim NPCSG00
 Osó Osó NPCNSP0
 Ot Ot NPMSSP0
 Otanell Otanell NPCSG00
+Otegi Otegi NPCNSP0
 Otel·lo Otel·lo NPMSSP0
 Otger Otger NPCNSP0
 Oti Oti NPCSG00

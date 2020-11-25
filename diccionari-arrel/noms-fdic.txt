@@ -66696,6 +66696,7 @@ processador processadora=categories: MF;fonts LT;
 processament=categories: M;fonts: LT;
 processional=categories: M;fonts: LT;
 processionària=categories: F;fonts: LT;
+processisme=categories: M;fonts: derivat;
 processió=categories: F;fonts: LT;
 processó=categories: F;fonts: LT;
 proci=categories: M;fonts: LT;
