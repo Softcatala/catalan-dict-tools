@@ -79110,6 +79110,7 @@ tialisme=categories: M;fonts: LT;
 tiama=categories: F;fonts: LT;
 tiamazole=categories: M;fonts: dsalut;
 tiambutosina=categories: FS;fonts: dsalut;
+tiamfenicol=categories: M;fonts: termcat, salut;
 tiamilal=categories: M;fonts: dsalut;
 tiamina=categories: F;fonts: LT;
 tiaminasa=categories: F;fonts: dsalut;

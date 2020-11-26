@@ -10372,6 +10372,7 @@ entremetedor entremetedora=categories: A;fonts: LT;
 entremetent entremetenta=categories: A;fonts: LT;
 entrenable=categories: A;fonts: derivat;
 entrepelós entrepelosa=categories: A;fonts: LT;
+entretingut entretinguda [sup. entretingudíssim]=categories: A;fonts: participi;
 entreverat entreverada=categories: A;fonts: LT;
 entreviat entreviada=categories: A;fonts: LT;
 entrevirat entrevirada=categories: A;fonts: LT;
