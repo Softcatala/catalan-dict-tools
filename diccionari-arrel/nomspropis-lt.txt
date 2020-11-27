@@ -22109,6 +22109,7 @@ Tarzan Tarzan NPMSSP0
 Tarés Tarés NPCNSP0
 Tarí Tarí NPCNSP0
 Tarṭūs Tarṭūs NPCSG00
+Taser Taser NPCNO00
 Tasi Tasi NPMSSP0 # avl: noms de persona
 Tasmània Tasmània NPFSG00
 Tasquer Tasquer NPCNSP0
