@@ -69495,6 +69495,7 @@ ramegall=categories: M;fonts: LT;
 ramell=categories: M;fonts: LT;
 rameller ramellera=categories: MF;fonts LT;
 ramellet=categories: M;fonts: DCVB;
+ramen=categories: M;fonts: termcat;
 rament=categories: M;fonts: LT;
 ramera=categories: F;fonts: LT;
 rameta=categories: F;fonts: diminutiu;
