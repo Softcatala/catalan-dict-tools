@@ -74990,6 +74990,7 @@ sindicatura=categories: F;fonts: LT;
 sindoer=categories: M;fonts: LT;
 sindriar=categories: M;fonts: LT;
 sindriera=categories: F;fonts: LT;
+sindèmia=categories: F;fonts: termcat;
 sindèresi=categories: F;fonts: LT;
 sindèsmia=categories: F;fonts: dsalut;
 sinecologia=categories: F;fonts: LT;
