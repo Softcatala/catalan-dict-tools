@@ -21556,6 +21556,7 @@ Sorollera Sorollera NPFSG00
 Soros Soros NPCNSP0
 Sorpe Sorpe NPCSG00
 Sorre Sorre NPCSG00
+Sorrentino Sorrentino NPCNSP0 
 Sorrento Sorrento NPCSG00
 Sorriba Sorriba NPCNSP0
 Sorribes Sorribes NPCNSP0
@@ -21736,6 +21737,7 @@ Sunnyvale Sunnyvale NPCSG00
 Sunyer Sunyer NPCNSP0
 Sunyer Sunyer NPCSG00
 Sunyol Sunyol NPCNSP0
+Super3 Super3 NPMSO00
 Superman Superman NPMSSP0
 Superna Superna NPCSG00
 Suquet Suquet NPCNSP0
