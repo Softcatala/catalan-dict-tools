@@ -21307,6 +21307,7 @@ criptoglioma=categories: M;fonts: dsalut;
 criptografia=categories: F;fonts: LT;
 criptograma=categories: M;fonts: LT;
 criptogàmia=categories: F;fonts: LT;
+criptogínia=categories: F;fonts: DNV;
 criptoleucèmia=categories: F;fonts: dsalut;
 criptologia=categories: F;fonts: LT;
 criptomelana=categories: F;fonts: LT;

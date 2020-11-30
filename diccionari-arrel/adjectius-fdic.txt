@@ -15264,6 +15264,7 @@ iberista=categories: A;fonts: LT;
 iberoamericà iberoamericana=categories: A;fonts: LT;
 iberoinsular=categories: A;fonts: LT;
 iberollatí iberollatina=categories: A;fonts: LT;
+iberopúnic iberopúnica=categories: A;fonts: derivat;
 iberoromà iberoromana=categories: A;fonts: LT;
 iberoromànic iberoromànica=categories: A;fonts: LT;
 iberut iberuda=categories: A;fonts: LT;
