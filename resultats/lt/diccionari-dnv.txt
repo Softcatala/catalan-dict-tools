@@ -57910,14 +57910,6 @@ mont-rasencs mont-rasenc AQ0MP0
 mont-rasencs mont-rasenc NCMP000
 mont-rasenques mont-rasenc AQ0FP0
 mont-rasenques mont-rasenc NCFP000
-mont-rogenc mont-rogenc AQ0MS0
-mont-rogenc mont-rogenc NCMS000
-mont-rogenca mont-rogenc AQ0FS0
-mont-rogenca mont-rogenc NCFS000
-mont-rogencs mont-rogenc AQ0MP0
-mont-rogencs mont-rogenc NCMP000
-mont-rogenques mont-rogenc AQ0FP0
-mont-rogenques mont-rogenc NCFP000
 montanya montanya NCFS000
 montanyenc montanyenc AQ0MS0
 montanyenc montanyenc NCMS000

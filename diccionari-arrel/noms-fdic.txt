@@ -54833,6 +54833,7 @@ monstriparitat=categories: F;fonts: dsalut;
 monstruositat=categories: F;fonts: LT;
 monsènyer=categories: M;fonts: LT;
 monsó=categories: M;fonts: LT;
+mont-rogenc mont-rogenca=categories: MF;fonts: DNV;
 mont=categories: M;fonts: LT;
 montagutenc montagutenca=categories: MF;fonts: LT;
 montanisme=categories: M;fonts: LT;

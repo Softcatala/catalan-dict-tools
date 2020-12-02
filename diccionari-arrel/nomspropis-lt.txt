@@ -8662,6 +8662,7 @@ Euromed Euromed NPMNO00
 Europa Europa NPFSG00
 Europarlament Europarlament NPMSO00
 Eurosi Eurosi NPMSSP0 # avl: noms de persona
+Eurostar Eurostar NPMSO00
 Eurostat Eurostat NPFSO00
 Eurotúnel Eurotúnel NPMSO00
 Eurovisió Eurovisió NPFSO00
