@@ -8663,7 +8663,7 @@ Europa Europa NPFSG00
 Europarlament Europarlament NPMSO00
 Eurosi Eurosi NPMSSP0 # avl: noms de persona
 Eurostar Eurostar NPMSO00
-Eurostat Eurostat NPFSO00
+Eurostat Eurostat NPCSO00
 Eurotúnel Eurotúnel NPMSO00
 Eurovisió Eurovisió NPFSO00
 Euràsia Euràsia NPCSG00
