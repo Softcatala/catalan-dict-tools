@@ -97,6 +97,7 @@ volei
 voret
 
 EXCLOU LEMA DE TOTS
+custodir
 raport
 raportar
 depenjar

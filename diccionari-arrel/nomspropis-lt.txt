@@ -13551,6 +13551,7 @@ Macrines Macrina NPFPSP0
 Macris Macris NPFSSP0 # avl: noms de persona
 Macrobi Macrobi NPMSSP0
 Macrobis Macrobi NPMPSP0
+Macron Macron NPCNSP0
 Macària Macària NPFSSP0 # avl: noms de persona
 Madagascar Madagascar NPCSG00
 Madara Madara NPCSG00

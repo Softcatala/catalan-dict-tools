@@ -1494,6 +1494,7 @@ buidar=categories: V;model:cantar;fonts:LT
 buixardar=categories: V;model:cantar;fonts:LT
 buixir=categories: V;model:servir;fonts:LT
 bullir=categories: V;model:dormir;fonts:LT
+bunqueritzar=categories: V;model:cantar;fonts: esadir;
 burinar=categories: V;model:abominar;fonts:LT
 burjar=categories: V;model:menjar;fonts:LT
 burlar=categories: V;model:cantar;fonts:LT

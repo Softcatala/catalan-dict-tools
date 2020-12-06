@@ -2501,6 +2501,7 @@ antireformista=categories: A;fonts: derivat;
 antireglamentari antireglamentària=categories: A;fonts: LT;
 antireialista=categories: A;fonts: derivat;
 antireligiós antireligiosa=categories: A;fonts: LT;
+antirepressiu antirepressiva=categories: A;fonts: derivat;
 antirepublicà antirepublicana=categories: A;fonts: LT;
 antiressonant=categories: A;fonts: LT;
 antiretorn=categories: AI;fonts: LT;
