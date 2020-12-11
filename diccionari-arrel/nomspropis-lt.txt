@@ -13935,6 +13935,7 @@ Maragall Maragall NPMSSP0
 Maragalls Maragall NPMPSP0
 Maragda Maragda NPFSSP0 # avl: noms de persona
 Maraguat Maraguat NPCNSP0
+Marais Marais NPCNSP0
 Maramureş Maramureş NPCSG00
 Maranhão Maranhão NPCSG00
 Maranjó Maranjó NPCNSP0
@@ -16938,6 +16939,7 @@ Palafolls Palafolls NPCSG00
 Palafox Palafox NPCNSP0
 Palafrugell Palafrugell NPCSG00
 Palagret Palagret NPCSG00
+Palais-Royal Palais-Royal NPMSG00
 Palaiseau Palaiseau NPCSG00
 Palaldà Palaldà NPCSG00
 Palamó Palamó NPMSG00
@@ -21422,6 +21424,7 @@ Sogdiana Sogdiana NPFSG00
 Sognefjord Sognefjord NPCSG00
 Sogues Sogues NPCNSP0
 Sohar Sohar NPCSG00
+Soho Soho NPMSG00
 Soissons Soissons NPCSG00
 Sokol Sokol NPCSG00
 Sokoto Sokoto NPCSG00
