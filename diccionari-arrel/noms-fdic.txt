@@ -278,7 +278,6 @@ MPOC=categories: FI;fonts: sigles, salut;
 MRI=categories: MI;fonts: dsalut;
 MRSA=categories: MI;fonts: dsalut;
 Muschelkalk=categories: MI;fonts: termcat;
-M€=categories: MP;fonts: abreviatura;
 NEE=categories: FP;fonts: sigles;
 NIF=categories: MI;fonts: LT;
 NPA=categories: MI;fonts: dsalut;
