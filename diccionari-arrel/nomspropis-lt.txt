@@ -8075,6 +8075,7 @@ Emèrita Emèrita NPFSSP0 # avl: noms de persona
 Emígdia Emígdia NPFSSP0 # avl: noms de persona
 Emília Emília NPFSG00
 Emília Emília NPFSSP0
+Emília-Romanya Emília-Romanya NPFSG00
 Emílies Emília NPFPSP0
 En-Gaddí En-Gaddí NPCSG00
 Encalladora Encalladora NPCSG00

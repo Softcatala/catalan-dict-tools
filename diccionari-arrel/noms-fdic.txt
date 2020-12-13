@@ -55,6 +55,7 @@
 #espil=categories: M;fonts: dsalut;
 #estrus=categories: M;fonts: dsalut;
 #fauces=categories: FP;fonts: dsalut;
+#fe2=categories: M;fonts: LT; molt inusual, sinònims de "fenc"
 #feredetat=categories: M;fonts: dsalut;
 #ferrapedres=categories: MI;fonts: LT;
 #fusellatge=categories: M;fonts: GDLC (impròpiament);
@@ -34679,8 +34680,7 @@ faç=categories: F;fonts: LT;
 façana=categories: F;fonts: LT;
 faïment=categories: M;fonts: LT;
 faüllada=categories: F;fonts: LT;
-fe1 [pl. fes]=categories: F;fonts: LT;
-fe2=categories: M;fonts: LT;
+fe [pl. fes]=categories: F;fonts: LT;
 feaci feàcia=categories: MF;fonts: LT;
 febantel=categories: M;fonts: dsalut;
 febarbamat=categories: M;fonts: dsalut;

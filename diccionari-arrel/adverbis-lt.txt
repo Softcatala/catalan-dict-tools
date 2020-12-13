@@ -237,6 +237,7 @@ pler pler RG
 plus plus RG
 poc poc RG
 poder poder RG
+poquet poquet RG
 poquíssim poquíssim RG
 potser potser RG
 prest prest RG
