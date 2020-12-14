@@ -1,3 +1,5 @@
+
+ 
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -218,6 +220,7 @@ Abdalong Abdalong NPMSSP0
 Abdalongs Abdalong NPMPSP0
 Abdal·là Abdal·là NPMSSP0 # avl: noms de persona
 Abdelasís Abdelasís NPMSSP0 # avl: noms de persona
+Abdelbaki Abdelbaki NPMSSP0
 Abdenagó Abdenagó NPMSSP0 # avl: noms de persona
 Abdera Abdera NPCSG00
 Abderraman Abderraman NPMSSP0 # avl: noms de persona
@@ -4758,6 +4761,7 @@ CERN CERN NPMSO00
 CGPJ CGPJ NPMSO00
 CGT CGT NPFSO00
 CIS CIS NPMSO00
+CNI CNI NPMSO00
 CNN CNN NPFSO00
 CNP CNP NPMSO00
 CNT CNT NPFSO00
@@ -18329,6 +18333,7 @@ Priština Priština NPCSG00
 Probus Probus NPMPSP0
 Probus Probus NPMSSP0
 Processos Procés NPMPSP0
+Procicat Procicat NPMSO00
 Procida Procida NPCSG00
 Proció Proció NPCSG00
 Procle Procle NPMSSP0
@@ -21872,6 +21877,7 @@ Sōka Sōka NPCSG00
 T'aichung T'aichung NPCSG00
 T'ainan T'ainan NPCSG00
 T'aipei T'aipei NPCSG00
+TEDH TEDH NPMSO00
 TJUE TJUE NPMSO00
 TMB TMB NPMPO00
 TNC TNC NPMSO00
@@ -24975,6 +24981,7 @@ Zújar Zújar NPCSG00
 Zābol Zābol NPCSG00
 al-Àndalus al-Àndalus NPCSG00
 eBay eBay NPCNO00
+es-Satty es-Satty NPCNSP0
 ex-Iugoslàvia ex-Iugoslàvia NPFSG00
 ex-URSS ex-URSS NPFSG00
 iMac iMac NPMNO00

@@ -3357,6 +3357,7 @@ desinteressar=categories: V;model:entravessar;fonts:LT
 desinterlinear=categories: V;model:crear;fonts:LT
 desintoxicar=categories: V;model:trencar;fonts:LT
 desintubar=categories: V;model:cantar;fonts: DNV;
+desinvertir=categories: V;model:servir;fonts: derivat;
 desinvitar=categories: V;model:cantar;fonts:LT
 desionitzar=categories: V;model:cantar;fonts:LT
 desistir=categories: V;model:servir;fonts:LT
