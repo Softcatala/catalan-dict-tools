@@ -4,6 +4,7 @@
 #coldre=categories: V;model:absoldre;fonts:LT
 #consellar=categories: V;model:cantar;fonts:LT #poc usual i crea confusions
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
+#domdar=categories: V;model:cantar;fonts: DCVB, antic 
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
 #fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
 #malvore=categories: V;model:vore;fonts: DNV;
@@ -3845,7 +3846,6 @@ doldre=categories: V;model:doldre;fonts:LT
 dollejar=categories: V;model:envejar;fonts:LT
 dolorejar=categories: V;model:envejar;fonts:LT
 domar=categories: V;model:cantar;fonts:LT
-#domdar=categories: V;model:cantar;fonts: DCVB, antic 
 domesticar=categories: V;model:trencar;fonts:LT
 domiciliar=categories: V;model:crear;fonts:LT
 dominar=categories: V;model:abominar;fonts:LT

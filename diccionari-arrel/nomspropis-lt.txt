@@ -130,6 +130,8 @@
 #Orígenes Orígenes NPMSSP0 # avl: noms de persona
 #Patro Patro NPFSSP0 # avl: noms de persona
 #Pelegrina Pelegrina NPFSSP0 # avl: noms de persona
+#Penedes Penedes NPCNSP0
+#Penedes Penedes NPCSG00
 #Persi Persi NPMSSP0 # avl: noms de persona
 #Presentació Presentació NPFSSP0 # avl: noms de persona
 #Ptolomeu Ptolomeu NPMSSP0 # avl: noms de persona
@@ -156,6 +158,7 @@
 #Siles Siles NPMSSP0 # avl: noms de persona
 #Sir Sir NPMSSP0 # avl: noms de persona
 #Sufragi Sufragi NPFSSP0 # avl: noms de persona
+#Tanger Tanger NPCSG00
 #Tolomeu Tolomeu NPMSSP0 # avl: noms de persona
 #Torreón Torreón NPCSG00
 #Trànsit Trànsit NPFSSP0 # avl: noms de persona
@@ -178,7 +181,6 @@
 7-Zip 7-Zip NPCNO00
 8TV 8TV NPCNO00
 ABC ABC NPMSO00
-Abc Abc NPMSO00
 ACNUR ACNUR NPMSO00
 AEAT AEAT NPFSO00
 AGPL AGPL NPCNO00
@@ -217,6 +219,7 @@ Abbai Abbai NPCSG00
 Abbeville Abbeville NPCSG00
 Abbiategrasso Abbiategrasso NPCSG00
 Abbottabad Abbottabad NPCSG00
+Abc Abc NPMSO00
 Abdalong Abdalong NPMSSP0
 Abdalongs Abdalong NPMPSP0
 Abdal·là Abdal·là NPMSSP0 # avl: noms de persona
@@ -17411,8 +17414,6 @@ Penalba Penalba NPCNSP0
 Penaleda Penaleda NPCNSP0
 Penallonga Penallonga NPCSG00
 Penavera Penavera NPCSG00
-Penedes Penedes NPCNSP0
-Penedes Penedes NPCSG00
 Penedès Penedès NPCNSP0
 Penedès Penedès NPMSG00
 Penell Penell NPCNSP0
@@ -22036,7 +22037,6 @@ Tander Tander NPCNSP0
 Tanga Tanga NPCSG00
 Tanganika Tanganika NPCSG00
 Tanganyika Tanganyika NPCSG00
-Tanger Tanger NPCSG00
 Tanggu Tanggu NPCSG00
 Tangshan Tangshan NPCSG00
 Tanis Tanis NPCSG00
