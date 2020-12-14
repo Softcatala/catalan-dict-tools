@@ -150,6 +150,8 @@
 #víking=categories: MF;fonts: LT; # eliminat de DIEC i DNV
 #xin=categories: F;fonts: LT; lletra hebrea
 #ínsula de Reil=categories: F;fonts: dsalut;
+17-A=categories: MS;fonts: data;
+17A=categories: MS;fonts: data;
 4x4=categories: MI;fonts: esadir,termcat;
 A3=categories: MI;fonts: simbol;
 A4=categories: MI;fonts: simbol;
