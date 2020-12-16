@@ -24530,6 +24530,7 @@ Wesergebirge Wesergebirge NPCSG00
 Western Western NPCSG00
 Westerwald Westerwald NPCSG00
 Westfàlia Westfàlia NPFSG00
+Westinghouse Westinghouse NPCNO00
 Westminster Westminster NPCSG00
 Weston-super-Mare Weston-super-Mare NPCSG00
 Wetterau Wetterau NPCSG00
@@ -25177,4 +25178,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Westinghouse Westinghouse NPCNO00
