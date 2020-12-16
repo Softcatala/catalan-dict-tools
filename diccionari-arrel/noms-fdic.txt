@@ -49154,6 +49154,7 @@ llitera=categories: F;fonts: LT;
 llitet=categories: M;fonts: derivat;
 llitja=categories: F;fonts: LT;
 llitotxa=categories: F;fonts: LT;
+llitàs [pl. llitassos]=categories: M;fonts: augmentatiu;
 lliura=categories: F;fonts: LT;
 lliurable=categories: M;fonts: termcat;
 lliurador lliuradora=categories: MF;fonts LT;

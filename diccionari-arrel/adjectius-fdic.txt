@@ -12284,6 +12284,7 @@ fatigós fatigosa [sup. fatigosíssim]=categories: A; font:apertium;
 fatimita=categories: A;fonts: LT;
 fatimí [pl. fatimís]=categories: A;fonts: LT;
 fatu fàtua=categories: A;fonts: LT;
+fatxenda=categories: A;fonts: GDLC;
 fatxender fatxendera=categories: A;fonts: LT;
 fatxendós fatxendosa=categories: A;fonts: LT;
 fatídic fatídica=categories: A;fonts: LT;

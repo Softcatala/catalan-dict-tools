@@ -8765,6 +8765,7 @@ Eòlia Eòlia NPFSG00
 Eşfahān Eşfahān NPCSG00
 Ešnunna Ešnunna NPCSG00
 F1 F1 NPFSO00
+FAD FAD NPMSO00
 FAI FAI NPFSO00
 FAO FAO NPFSO00
 FARC FARC NPFPO00
@@ -25176,3 +25177,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Westinghouse Westinghouse NPCNO00
