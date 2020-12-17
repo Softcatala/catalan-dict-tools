@@ -53784,6 +53784,7 @@ minicentral=categories: F;fonts: LT;
 minicicle=categories: M;fonts: LT;
 minicine=categories: M;fonts: LT;
 minicomputadora=categories: F;fonts: LT;
+minicàmera=categories: F;fonts: derivat;
 minidisc=categories: M;fonts: LT;
 minifalda=categories: F;fonts: LT;
 minifaldilla=categories: F;fonts: LT;
