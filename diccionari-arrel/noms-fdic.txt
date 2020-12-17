@@ -120,6 +120,7 @@
 #rexi=categories: F;fonts: dsalut;
 #rosina=categories: F;fonts: dsalut;
 #ròtol (arcaisme)
+#sagrista=categories: M;fonts: LT; #forma antiga de sagristà
 #sarcomices=categories: M;fonts: dsalut;
 #semala=categories: F;fonts: LT;
 #siqua=categories: F;fonts: dsalut;
@@ -33688,6 +33689,7 @@ exmilitant=categories: MF;fonts: LT;
 exmilitar=categories: MF;fonts: LT;
 exministra=categories: F;fonts: LT;
 exministre=categories: M;fonts: LT;
+exmonarca=categories: MF;fonts: derivat;
 exmonjo exmonja=categories: MF;fonts: LT;
 exmosso=categories: M;fonts: LT;
 exmuller=categories: F;fonts: LT;
@@ -72862,7 +72864,6 @@ sagrari=categories: M;fonts: LT;
 sagrat=categories: M;fonts: LT;
 sagrer=categories: M;fonts: LT;
 sagrera=categories: F;fonts: LT;
-sagrista=categories: M;fonts: LT;
 sagristania=categories: F;fonts: LT;
 sagristia=categories: F;fonts: LT;
 sagristà sagristana=categories: MF;fonts LT;
