@@ -1,5 +1,3 @@
-
- 
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -80,6 +78,7 @@
 #Gesmí Gesmí NPFSSP0 # avl: noms de persona
 #Gessamí Gessamí NPFSSP0 # avl: noms de persona
 #Giner Giner NPMSSP0 # avl: noms de persona
+#Grima Grima NPCNSP0
 #Gòria Gòria NPFSSP0 # avl: noms de persona
 #Harmonia Harmonia NPFSSP0 # avl: noms de persona
 #Her Her NPMSSP0 # avl: noms de persona
@@ -10683,7 +10682,6 @@ Grifell Grifell NPCNSP0
 Grifoll Grifoll NPCNSP0
 Grifols Grifols NPCNO00
 Grifé Grifé NPCSG00
-Grima Grima NPCNSP0
 Grimald Grimald NPMSSP0 # avl: noms de persona
 Grimalda Grimalda NPFSSP0 # avl: noms de persona
 Grimaldi Grimaldi NPCNSP0

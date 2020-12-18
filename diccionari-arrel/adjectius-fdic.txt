@@ -30229,6 +30229,7 @@ triatòmic triatòmica=categories: A;fonts: LT;
 triauricular=categories: A;fonts: dsalut;
 triaxial=categories: A;fonts: LT;
 tribal=categories: A;fonts: LT;
+tribalista=categories: A;fonts: derivat;
 tribanda=categories: A;fonts: LT;
 triblàstic triblàstica=categories: A;fonts: LT;
 tribunici tribunícia=categories: A;fonts: LT;
