@@ -112,6 +112,8 @@
 #Miguel Miguel NPMSSP0
 #Misteri Misteri NPFSSP0 # avl: noms de persona
 #Mohamet Mohamet NPMSSP0 # avl: noms de persona
+#Nadal Nadal NPCNSP0
+#Nadal Nadal NPMSSP0
 #Nel Nel NPMSSP0 # avl: noms de persona
 #Nunya Nunya NPFSSP0 # avl: noms de persona
 #Nunyo Nunyo NPMSSP0 # avl: noms de persona
@@ -15774,8 +15776,6 @@ Nabucco Nabucco NPMSSP0
 Nabucodonosor Nabucodonosor NPMSSP0
 Nabókov Nabókov NPCNSP0
 Nacla Nacla NPCSG00
-Nadal Nadal NPCNSP0
-Nadal Nadal NPMSSP0
 Nadala Nadala NPFSSP0 # avl: noms de persona
 Nadalmai Nadalmai NPCNSP0
 Nadals Nadal NPMPSP0
