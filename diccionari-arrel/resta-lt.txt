@@ -284,6 +284,7 @@ durant durant SPS00
 dv divendres Y
 dènou dènou DN0CP0
 dèsset dèsset DN0CP0
+déu-n'hi-do déu-n'hi-do I
 díhuit díhuit DN0CP0
 ec ec I
 ecs ecs I

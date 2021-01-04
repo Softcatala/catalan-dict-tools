@@ -22876,6 +22876,7 @@ Toès Toès NPCSG00
 Trabal Trabal NPCNSP0
 Trabald Trabald NPMSSP0 # avl: noms de persona
 Trabucador Trabucador NPMSG00
+Trafalgar Trafalgar NPCSG00
 Tragant Tragant NPCNSP0
 Traginer Traginer NPCNSP0
 Tragurà Tragurà NPCNSP0
