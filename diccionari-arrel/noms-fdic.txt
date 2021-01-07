@@ -370,6 +370,7 @@ Tedax=categories: MI;fonts: esadir;
 Totpoderós=categories: MS;fonts: LT;
 UCI=categories: FI;fonts: esadir, termcat;
 UPU=categories: FI;fonts: dsalut;
+URI=categories: MI;fonts: sigla;
 URL=categories: MI;fonts: LT;
 USB=categories: MI;fonts: termcat;
 UVI=categories: FS;fonts: termcat;
