@@ -1106,6 +1106,7 @@ Aleixar Aleixar NPCNSP0
 Aleixar Aleixar NPCSG00
 Aleixos Aleix NPMPSP0
 Aleixos Aleixos NPCNSP0
+Aleksandr Aleksandr NPMSSP0
 Aleksandrija Aleksandrija NPCSG00
 Aleksei Aleksei NPMSSP0
 Aleksin Aleksin NPCSG00
@@ -3296,6 +3297,7 @@ Bavià Bavià NPCNSP0
 Bay Bay NPCSG00
 Bayamo Bayamo NPCSG00
 Bayamón Bayamón NPCSG00
+Bayern Bayern NPCSO00
 Bayes Bayes NPCNSP0
 Bayeux Bayeux NPCSG00
 Bayreuth Bayreuth NPCSG00
@@ -7541,6 +7543,7 @@ Dizzy Dizzy NPCNSP0
 Diògenes Diògenes NPMPSP0
 Diògenes Diògenes NPMSSP0
 Djibouti Djibouti NPMSG00
+Djokovic Djokovic NPCNSP0
 Dmitri Dmitri NPMSSP0
 Dnipropetrovsk Dnipropetrovsk NPCSG00
 Dnièper Dnièper NPCSG00
@@ -12135,6 +12138,7 @@ Julites Julita NPFPSP0
 Julivert Julivert NPCNSP0
 Julià Julià NPCNSP0
 Jullundur Jullundur NPCSG00
+Jumbo-Visma Jumbo-Visma NPMSO00
 Jumella Jumella NPCSG00
 Junceda Junceda NPCNSP0
 Juncosa Juncosa NPFSG00
@@ -16231,6 +16235,7 @@ Nouadhibou Nouadhibou NPCSG00
 Nouakchott Nouakchott NPCSG00
 Nouméa Nouméa NPCSG00
 Nouviles Nouviles NPCNSP0
+Novak Novak NPMSSP0
 Novaliches Novaliches NPCSG00
 Novalis Novalis NPCNSP0
 Novara Novara NPCSG00

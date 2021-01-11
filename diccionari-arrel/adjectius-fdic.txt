@@ -28867,6 +28867,7 @@ suprapatel·lar=categories: A;fonts: dsalut;
 suprapelvià suprapelviana=categories: A;fonts: dsalut;
 suprapetrós suprapetrosa=categories: A;fonts: dsalut;
 suprapineal=categories: A;fonts: dsalut;
+supraprovincial=categories: A;fonts: derivat;
 suprapòntic suprapòntica=categories: A;fonts: dsalut;
 suprapúbic suprapúbica=categories: A;fonts: dsalut;
 supraquiasmàtic -a=categories: A;fonts: termcat;
