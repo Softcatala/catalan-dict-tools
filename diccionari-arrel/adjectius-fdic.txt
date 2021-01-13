@@ -26072,6 +26072,7 @@ reembossable=categories: A;fonts: LT;
 reemplaçable=categories: A;fonts: LT;
 reemplaçant=categories: A;fonts: LT;
 reenregistrable=categories: A;fonts: LT;
+reequilibrador reequilibradora=categories: A;fonts: derivat;
 reexportable=categories: A;fonts: LT;
 refaccionari refaccionària=categories: A;fonts: LT;
 referencial=categories: A;fonts: LT;

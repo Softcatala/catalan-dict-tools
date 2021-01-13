@@ -53,6 +53,7 @@
 #escondit=categories: M;fonts: LT; gènere poètic occità, poc usual
 #esfinter d'Oddi=categories: M;fonts: dsalut;
 #espil=categories: M;fonts: dsalut;
+#espàrec=categories: M;fonts: LT; antic, inusual
 #estrus=categories: M;fonts: dsalut;
 #fauces=categories: FP;fonts: dsalut;
 #fe2=categories: M;fonts: LT; molt inusual, sinònims de "fenc"
@@ -31793,7 +31794,6 @@ esputació=categories: F;fonts: LT;
 espuçada=categories: F;fonts: LT;
 espàdix=categories: M;fonts: LT;
 espàndex=categories: M;fonts: LT;
-espàrec=categories: M;fonts: LT;
 espàrgol=categories: M;fonts: LT;
 espàrid=categories: M;fonts: LT;
 espàrrec=categories: M;fonts: LT;
