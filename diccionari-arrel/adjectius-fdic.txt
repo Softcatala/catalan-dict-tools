@@ -25874,6 +25874,7 @@ reabsorbible=categories: A;fonts: derivat;
 reaccionari reaccionària=categories: A;fonts: LT;
 reactiu reactiva=categories: A;fonts: LT;
 readaptable=categories: A;fonts: LT;
+readaptador readaptadora=categories: A;fonts: derivat;
 readobat readobada=categories: A;fonts: LT;
 ready-made=categories: AI;fonts: termcat;
 reagínic reagínica=categories: A;fonts: dsalut;
