@@ -9506,6 +9506,7 @@ Fotins Fotí NPMPSP0
 Fotí Fotí NPMSSP0
 Foucault Foucault NPCNSP0
 Fourier Fourier NPCNSP0
+Fox Fox NPFSO00
 Foyle Foyle NPCSG00
 Fraga Fraga NPCNSP0
 Fraga Fraga NPCSG00
@@ -20844,6 +20845,7 @@ Segura Segura NPCSG00
 Seguró Seguró NPCNSP0
 Seguró Seguró NPMSG00
 Seguí Seguí NPCNSP0
+Segària Segària NPFSG00
 Segòbriga Segòbriga NPFSG00
 Segòvia Segòvia NPFSG00
 Segúries Segúries NPCSG00
