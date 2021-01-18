@@ -31,7 +31,7 @@ while ( my $line = <$fh> ) {
 
 
     #Superlatiu: abrandat abrandada [sup. abrandadíssim]
-    if ( $line =~ /^($Flexio::carac+) .*\[sup\. ([^ ]+)\]/ ) {
+    if ( $line =~ /^($Flexio::carac+) .*\[sup\. ([^ ]+?)\]/ ) {
         my $lemma = $1;
         my $superlatiu = $2;
         print $ofh "$superlatiu $superlatiu AQAMS0\n";
@@ -236,7 +236,7 @@ while ( my $line = <$fh> ) {
             }
         }
 
-        if ( $entrada =~ /\[fem\. (.+)]/ ) {    # una forma extra femení
+        if ( $entrada =~ /\[fem\. (.+?)]/ ) {    # una forma extra femení
             $femenisingular2 = $1;
         }
 
