@@ -11517,6 +11517,7 @@ Huércal-Overa Huércal-Overa NPCSG00
 Huíla Huíla NPCSG00
 Hvannadalshnúkur Hvannadalshnúkur NPCSG00
 Hvítá Hvítá NPCSG00
+Hyde Hyde NPCNSP0
 Hyderabad Hyderabad NPCSG00
 Hyderābād Hyderābād NPCSG00
 Hyundai Hyundai NPCNO00
@@ -11945,6 +11946,7 @@ Jebús Jebús NPMSG00
 Jedrzejów Jedrzejów NPCSG00
 Jefferson Jefferson NPCNSP0
 Jehovà Jehovà NPMSSP0
+Jekyll Jekyll NPCNSP0
 Jena Jena NPCSG00
 Jenakijeve Jenakijeve NPCSG00
 Jenin Jenin NPCSG00
@@ -24517,6 +24519,7 @@ Waššukkani Waššukkani NPCSG00
 Weald Weald NPCSG00
 Weber Weber NPCNSP0
 Webern Webern NPCNSP0
+Wegener Wegener NPCNSP0
 Weiden Weiden NPCSG00
 Weifang Weifang NPCSG00
 Weimar Weimar NPCSG00
