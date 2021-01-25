@@ -57721,10 +57721,10 @@ mitjolet mitjolet NCMS000
 mitjolets mitjolet NCMP000
 mitocrítica mitocrítica NCFS000
 mitocrítiques mitocrítica NCFP000
-mitons mitó NCFP000
+mitons mitó NCMP000
 mitxelins mitxelí NCMP000
 mitxelí mitxelí NCMS000
-mitó mitó NCFS000
+mitó mitó NCMS000
 miura miura NCMS000
 miures miura NCMP000
 mixedematosa mixedematós AQ0FS0

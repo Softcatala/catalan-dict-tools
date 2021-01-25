@@ -2271,6 +2271,7 @@ Aroha Aroha NPFSSP0 # avl: noms de persona
 Aromir Aromir NPCNSP0
 Arona Arona NPCSG00
 Arous Arous NPCSG00
+Arp Arp NPCNSP0
 Arpí Arpí NPCNSP0
 Arquela Arquela NPCSG00
 Arquelau Arquelau NPMSSP0
@@ -4313,6 +4314,7 @@ Borseral Borseral NPMSG00
 Borsot Borsot NPCNSP0
 Borén Borén NPCSG00
 Borés Borés NPCNSP0
+Borís Borís NPMSSP0
 Bos Bos NPCNSP0
 Bosc Bosc NPCNSP0
 Boscana Boscana NPCNSP0
@@ -4650,6 +4652,7 @@ Bulawayo Bulawayo NPCSG00
 Bulbena Bulbena NPCNSP0
 Bulgària Bulgària NPFSG00
 Bull Bull NPCNSP0
+Bulli Bulli NPMSO00
 Bullidor Bullidor NPMSG00
 Bulès Bulès NPMSG00
 Bundesliga Bundesliga NPFSO00
@@ -4774,6 +4777,7 @@ CNN CNN NPFSO00
 CNP CNP NPMSO00
 CNT CNT NPFSO00
 COI COI NPMSO00
+COPE COPE NPFSO00
 COU COU NPMSO00
 CSIC CSIC NPMSO00
 CSIF CSIF NPCSO00
@@ -5311,6 +5315,7 @@ Caplliure Caplliure NPCNSP0
 Capmany Capmany NPCNG00
 Capodimonte Capodimonte NPCSG00
 Capolat Capolat NPMSG00
+Capote Capote NPCNSP0
 Caprabo Caprabo NPCNO00
 Caprala Caprala NPCSG00
 Caprasi Caprasi NPMSSP0
@@ -5721,6 +5726,7 @@ Castlereagh Castlereagh NPCSG00
 Castora Castora NPFSSP0 # avl: noms de persona
 Castori Castori NPMSSP0
 Castoris Castori NPMPSP0
+Castre Castre NPMSG00
 Castres Castres NPCSG00
 Castries Castries NPCSG00
 Castrillón Castrillón NPCSG00
@@ -5830,6 +5836,7 @@ Ceferins Ceferí NPMPSP0
 Ceferí Ceferí NPMSSP0
 Cefeu Cefeu NPCSG00
 Cehegín Cehegín NPCSG00
+Cela Cela NPNPSP0
 Celdoni Celdoni NPMSSP0
 Celdonis Celdoni NPMPSP0
 Celedoni Celedoni NPMSSP0
@@ -6383,6 +6390,7 @@ Colet Colet NPCNSP0
 Colgate Colgate NPCNO00
 Coli Coli NPCNSP0
 Colima Colima NPCSG00
+Colin Colin NPCNSP0
 Coll Coll NPCNSP0
 Coll Coll NPMSG00
 Collargenter Collargenter NPCNSP0
@@ -7506,6 +7514,7 @@ Dinarés Dinarés NPCNSP0
 Dindigul Dindigul NPCSG00
 Dinguiraye Dinguiraye NPCSG00
 Dinha Dinha NPCSG00
+Dino Dino NPMSSP0
 Dinslaken Dinslaken NPCSG00
 Dinàrics Dinàrics NPMPG00
 Diocleci Diocleci NPMSSP0
@@ -8778,6 +8787,7 @@ FAO FAO NPFSO00
 FARC FARC NPFPO00
 FBI FBI NPMSO00
 FEDER FEDER NPMNO00
+FEN FEN NPFSO00
 FGC FGC NPMPO00
 FIAT FIAT NPFSO00
 FIBA FIBA NPFSO00
@@ -9730,6 +9740,7 @@ Gabarrou Gabarrou NPCNSP0
 Gabina Gabina NPFSSP0 # avl: noms de persona
 Gabins Gabí NPMPSP0
 Gabinyà Gabinyà NPCNSP0
+Gabo Gabo NPMSSP0
 Gabon Gabon NPMSG00
 Gaborone Gaborone NPCSG00
 Gabriel Gabriel NPCNSP0
@@ -11056,6 +11067,7 @@ Hainan Hainan NPCSG00
 Hainaut Hainaut NPCSG00
 Haití Haití NPMSG00
 Hakodate Hakodate NPCSG00
+Hal Hal NPMSSP0
 Halef Halef NPMSSP0 # avl: noms de persona
 Halesowen Halesowen NPCSG00
 Halifax Halifax NPCSG00
@@ -14127,6 +14139,7 @@ Marquilló Marquilló NPCNSP0
 Marquixanes Marquixanes NPCSG00
 Marquès Marquès NPCNSP0
 Marqués Marqués NPCNSP0
+Marr Marr NPCNSP0
 Marra Marra NPCNSP0
 Marrades Marrades NPCNSP0
 Marrades Marrades NPCSG00
@@ -15960,6 +15973,7 @@ Nebraska Nebraska NPCSG00
 Nebreda Nebreda NPCNSP0
 Nebrija Nebrija NPMSSP0
 Neckar Neckar NPCSG00
+Ned Ned NPMSSP0
 Neera Neera NPFSSP0 # avl: noms de persona
 Nefertiti Nefertiti NPFSSP0
 Nefiac Nefiac NPCSG00
@@ -17621,6 +17635,7 @@ Pessoa Pessoa NPCNSP0
 Pessonada Pessonada NPCSG00
 Pestell Pestell NPCNSP0
 Petare Petare NPCSG00
+Pete Pete NPMSSP0
 Peter Peter NPMSSP0
 Peterborough Peterborough NPCSG00
 Petersburg Petersburg NPMSG00
@@ -17954,6 +17969,7 @@ Podgorica Podgorica NPCSG00
 Podlàquia Podlàquia NPCSG00
 Podrony Podrony NPCNSP0
 Podòlia Podòlia NPCSG00
+Poe Poe NPCNSP0
 Poggibonsi Poggibonsi NPCSG00
 Poincaré Poincaré NPCNSP0
 Pointe-Noire Pointe-Noire NPCSG00
@@ -18673,6 +18689,7 @@ Puno Puno NPCSG00
 Punta Punta NPFSG00
 Puntarenas Puntarenas NPCSG00
 Puntils Puntils NPCNSP0
+Puntí Puntí NPCNSP0
 Punxuat Punxuat NPCSG00
 Punyet Punyet NPCNSP0
 Pura Pura NPFSSP0 # avl: noms de persona
@@ -19229,6 +19246,7 @@ Reiners Reiners NPCSG00
 Reinosa Reinosa NPCSG00
 Reirós Reirós NPCSG00
 Reiser Reiser NPCNSP0
+Reiter Reiter NPCNSP0
 Reixac Reixac NPCNSP0
 Reixac Reixac NPCSG00
 Relat Relat NPCNSP0
@@ -19518,6 +19536,7 @@ Roaia Roaia NPCSG00
 Roanne Roanne NPCSG00
 Roanoke Roanoke NPCSG00
 Roart Roart NPCNSP0
+Rob Rob NPCNSP0
 Robau Robau NPCNSP0
 Robau Robau NPCSG00
 Roberja Roberja NPCNSP0
@@ -19604,6 +19623,7 @@ Roderics Roderic NPMPSP0
 Rodes Rodes NPCNSP0
 Rodes Rodes NPCSG00
 Rodez Rodez NPCSG00
+Rodin Rodin NPCNSP0
 Rodié Rodié NPCNSP0
 Rodolf Rodolf NPMSSP0
 Rodolfa Rodolfa NPFSSP0 # avl: noms de persona
@@ -19756,6 +19776,7 @@ Rosdelatorre Rosdelatorre NPCNSP0
 Rosdevall Rosdevall NPCNSP0
 Roseau Roseau NPCSG00
 Rosella Rosella NPCNSP0
+Rosen Rosen NPCNSP0
 Roser Roser NPCNSP0
 Roser Roser NPCSSP0
 Roseret Roseret NPMSG00
@@ -20544,6 +20565,7 @@ Sanxenxo Sanxenxo NPCSG00
 Sanxet Sanxet NPCSG00
 Sanxo Sanxo NPCNSP0
 Sanyo Sanyo NPCNO00
+Sanà Sanà NPFSG00
 Sanç Sanç NPCNSP0
 Sanç Sanç NPCSG00
 Sanç Sanç NPMSSP0
@@ -22518,6 +22540,7 @@ Tisza Tisza NPCSG00
 Tit Tit NPMSSP0 # avl: noms de persona
 Titano Titano NPCSG00
 Titicaca Titicaca NPMSG00
+Tito Tito NPMSSP0
 Titus Titus NPMPSP0
 Titus Titus NPMSSP0
 Titó Titó NPCNSP0
@@ -22994,6 +23017,7 @@ Trillo Trillo NPCSG00
 Trillà Trillà NPCSG00
 Trilló Trilló NPCNSP0
 Trincomalee Trincomalee NPCSG00
+Trini Trini NPFSSP0
 Trinitat Trinitat NPFSG00
 Trinitat Trinitat NPFSSP0
 Trinitats Trinitat NPFPSP0

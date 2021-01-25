@@ -282,6 +282,7 @@ MP4=categories: MI;fonts: LT;
 MPOC=categories: FI;fonts: sigles, salut;
 MRI=categories: MI;fonts: dsalut;
 MRSA=categories: MI;fonts: dsalut;
+MTS=categories: MFI;fonts: sigles;
 Muschelkalk=categories: MI;fonts: termcat;
 NEE=categories: FP;fonts: sigles;
 NIF=categories: MI;fonts: LT;
