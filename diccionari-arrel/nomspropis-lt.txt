@@ -22,6 +22,7 @@
 #Bertomeua Bertomeua NPFSSP0 # avl: noms de persona
 #Bertomeva Bertomeva NPFSSP0 # avl: noms de persona
 #Brunissén (o Brunissèn) Brunissén (o Brunissèn) NPFSSP0 # avl: noms de persona
+#Busca Busca NPCSG00
 #Bàrbera Bàrbera NPFSSP0 # avl: noms de persona
 #Caetana Caetana NPFSSP0 # avl: noms de persona
 #Caetà Caetà NPMSSP0 # avl: noms de persona
@@ -110,6 +111,7 @@
 #Menda Menda NPFSSP0 # avl: noms de persona
 #Mides Mides NPMSSP0 # avl: noms de persona
 #Miguel Miguel NPMSSP0
+#Mira Mira NPCSG00
 #Misteri Misteri NPFSSP0 # avl: noms de persona
 #Mohamet Mohamet NPMSSP0 # avl: noms de persona
 #Nadal Nadal NPCNSP0
@@ -4696,7 +4698,6 @@ Burundi Burundi NPMSG00
 Bury Bury NPCSG00
 Busa Busa NPCSG00
 Busanya Busanya NPCNSP0
-Busca Busca NPCSG00
 Buscader Buscader NPCNSP0
 Buscall Buscall NPCNSP0
 Buscallar Buscallar NPCNSP0
@@ -14887,7 +14888,6 @@ Miquels Miquel NPMPSP0
 Mir Mir NPCNSP0
 Mir Mir NPMSG00
 Mira Mira NPCNSP0
-Mira Mira NPCSG00
 Mira-rosa Mira-rosa NPCSG00
 Mira-sol Mira-sol NPCSG00
 Mirabell Mirabell NPCNSP0
