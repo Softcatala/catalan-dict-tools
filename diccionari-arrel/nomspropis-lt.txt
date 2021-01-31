@@ -13510,6 +13510,7 @@ Lèucada Lèucada NPCSG00
 Lékoumou Lékoumou NPCSG00
 Léman Léman NPCSG00
 Lérmontov Lérmontov NPCNSP0
+Lévi-Strauss Lévi-Strauss NPCNSP0
 Líban Líban NPMSG00
 Líbia Líbia NPFSG00
 Lícia Lícia NPFSG00
@@ -14878,6 +14879,7 @@ Minorisa Minorisa NPCSG00
 Minos Minos NPCSG00
 Minoves Minoves NPCNSP0
 Minsk Minsk NPCSG00
+Minsky Minsky NPCNSP0
 Miporquet Miporquet NPCSG00
 Miquees Miquees NPMSSP0
 Miquel Miquel NPCNSP0
@@ -14972,6 +14974,7 @@ Mitjà Mitjà NPCSG00
 Mitla Mitla NPCSG00
 Mito Mito NPCSG00
 Mitra Mitra NPCSSP0
+Mitre Mitre NPCNSP0
 Mitrovica Mitrovica NPCSG00
 Mitry-Mory Mitry-Mory NPCSG00
 Mitríades Mitríades NPMSSP0 # avl: noms de persona
@@ -17458,6 +17461,7 @@ Pennsilvània Pennsilvània NPFSG00
 Penoleda Penoleda NPCNSP0
 Penoles Penoles NPCNSP0
 Penoso Penoso NPMSG00
+Penrose Penrose NPCNSP0
 Pensacola Pensacola NPCSG00
 Pentesilea Pentesilea NPFSSP0 # avl: noms de persona
 Pentinat Pentinat NPCNSP0
@@ -23149,6 +23153,7 @@ Turet Turet NPCNSP0
 Turfan Turfan NPCSG00
 Turiga Turiga NPCNSP0
 Turigues Turigues NPCNSP0
+Turing Turing NPCNSP0
 Turkmenistan Turkmenistan NPMSG00
 Turks Turks NPCSG00
 Turku Turku NPCSG00
