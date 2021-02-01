@@ -218,6 +218,7 @@ Abakan Abakan NPCSG00
 Abarca Abarca NPCNSP0
 Abarques Abarques NPCNSP0
 Abarán Abarán NPCSG00
+Abascal Abascal NPCNSP0
 Abat Abat NPCNSP0
 Abbai Abbai NPCSG00
 Abbeville Abbeville NPCSG00
