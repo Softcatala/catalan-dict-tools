@@ -12633,6 +12633,7 @@ Lagaš Lagaš NPCSG00
 Laghmān Laghmān NPCSG00
 Lagny-sur-Marne Lagny-sur-Marne NPCSG00
 Lagos Lagos NPCSG00
+Lagrange Lagrange NPCNSP0
 Lagrifa Lagrifa NPCNSP0
 Laguar Laguar NPCSG00
 Laguart Laguart NPCSG00
@@ -16114,6 +16115,7 @@ Nigorra Nigorra NPCNSP0
 Nigran Nigran NPCSG00
 Nigèria Nigèria NPFSG00
 Niihama Niihama NPCSG00
+Nijinski Nijinski NPCNSP0
 Nike Nike NPCNO00
 Nikko Nikko NPCSG00
 Nikola Nikola NPMSSP0
