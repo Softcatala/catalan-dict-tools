@@ -7689,6 +7689,7 @@ Doyle Doyle NPCNSP0
 Doñana Doñana NPFSG00
 Drac Drac NPCNSP0
 Draconci Draconci NPMSSP0
+Draghi Draghi NPCNSP0
 Draguignan Draguignan NPCSG00
 Dragó Dragó NPMSG00
 Drakensberg Drakensberg NPCSG00
