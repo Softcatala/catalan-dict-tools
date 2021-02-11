@@ -17,6 +17,7 @@
 #botgera de la cascadura=categories: F;fonts: dsalut;
 #bretuges=categories: FP;fonts: dsalut;
 #brevicollis=categories: M;fonts: dsalut;
+#bullició=categories: F;fonts: LT; antic
 #bul·la=categories: F;fonts: dsalut;
 #caf=categories: F;fonts: LT; lletra hebrea
 #catechu=categories: M;fonts: dsalut;
@@ -12655,7 +12656,6 @@ bullabessa=categories: F;fonts: LT;
 bullanga=categories: F;fonts: LT;
 bullentor=categories: F;fonts: LT;
 bullici=categories: M;fonts: LT;
-bullició=categories: F;fonts: LT;
 bullida=categories: F;fonts: LT;
 bullidera=categories: F;fonts: LT;
 bullidor bullidora=categories: MF;fonts: LT;
