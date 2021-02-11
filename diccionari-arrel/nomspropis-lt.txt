@@ -4029,6 +4029,7 @@ Boadella Boadella NPCNSP0
 Boadella Boadella NPFSG00
 Boades Boades NPFPG00
 Boatella Boatella NPCSG00
+Bobby Bobby NPMSSP0
 Bobigny Bobigny NPCSG00
 Bobo-Dioulasso Bobo-Dioulasso NPCSG00
 Bobrujsk Bobrujsk NPCSG00
@@ -9195,6 +9196,7 @@ Firmat Firmat NPCNSP0
 Firmat Firmat NPMSSP0
 Firmats Firmat NPMPSP0
 Firms Firm NPMPSP0
+Fischer Fischer NPCNSP0
 Fita Fita NPCNSP0
 Fiter Fiter NPCNSP0
 Fiterol Fiterol NPCNSP0
@@ -12555,6 +12557,7 @@ Kyushu Kyushu NPCSG00
 Kyzyl Kyzyl NPCSG00
 Kyūshū Kyūshū NPCSG00
 Kzyl-Orda Kzyl-Orda NPCSG00
+Kàrpov Kàrpov NPCNSP0
 Kàtia Kàtia NPFSSP0 # avl: noms de persona
 Kàtmandu Kàtmandu NPCSG00
 Kálymnos Kálymnos NPCSG00
@@ -21664,6 +21667,7 @@ Spa Spa NPCSG00
 Spandau Spandau NPCSG00
 Sparta Sparta NPMSO00
 Spartak Spartak NPMSO00
+Spasski Spasski NPCNSP0
 Spencer Spencer NPCNSP0
 Spessart Spessart NPCSG00
 Spiderman Spiderman NPMSSP0

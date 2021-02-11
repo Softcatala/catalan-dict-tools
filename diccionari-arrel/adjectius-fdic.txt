@@ -24485,6 +24485,7 @@ precolonial=categories: A;fonts: derivat;
 precompetitiu precompetitiva=categories: A;fonts: derivat;
 precompost precomposta=categories: A;fonts: derivat;
 preconcebut preconcebuda=categories: A;fonts: LT;
+preconcedit preconcedida=categories: A;fonts: derivat;
 preconcepcional=categories: A;fonts: dsalut;
 preconciliar=categories: A;fonts: LT;
 precongelat precongelada=categories: A;fonts: derivat;

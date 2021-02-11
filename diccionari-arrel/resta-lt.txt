@@ -968,7 +968,7 @@ vuitanta-tres vuitanta-tres DN0CP0
 vuitanta-un vuitanta-un DN0MP0
 vuitanta-una vuitanta-un DN0FP0
 vuitanta-vuit vuitanta-vuit DN0CP0
-vós tu PP2CN00P
+vós tu PP2CP00P
 xang xang I
 xe xe I
 xec xec I
