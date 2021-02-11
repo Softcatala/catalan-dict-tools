@@ -3902,6 +3902,7 @@ Billarac Billarac NPCNSP0
 Billeneta Billeneta NPFSG00
 Billingshurst Billingshurst NPCSG00
 Billot Billot NPCNSP0
+Billy Billy NPCNSP0
 Bingen Bingen NPCSG00
 Bingerville Bingerville NPCSG00
 Binghamton Binghamton NPCSG00
@@ -5003,6 +5004,7 @@ Calverol Calverol NPCNSP0
 Calverons Calverons NPCNSP0
 Calvet Calvet NPCNSP0
 Calvi Calvi NPCSG00
+Calvin Calvin NPCNSP0
 Calvinyac Calvinyac NPCNSP0
 Calvià Calvià NPCSG00
 Calviño Calviño NPCNSP0
@@ -22902,6 +22904,7 @@ Totxo Totxo NPCNSP0
 Touba Touba NPCSG00
 Tougué Tougué NPCSG00
 Toul Toul NPCSG00
+Toulouse-Lautrec Toulouse-Lautrec NPMSSP0
 Tour Tour NPMSO00
 Tourcoing Tourcoing NPCSG00
 Tourette Tourette NPCNSP0
