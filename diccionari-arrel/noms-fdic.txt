@@ -7660,6 +7660,7 @@ astronàutic astronàutica=categories: MF;fonts LT;
 astropartícula=categories: F;fonts: wikipedia;
 astroquímica=categories: F;fonts: LT;
 astrosfera=categories: F;fonts: LT;
+astroturisme=categories: M;fonts: derivat
 astroturisme=categories: MS;fonts: LT;
 astrovirus=categories: MI;fonts: LT;
 astruc=categories: M;fonts: LT;

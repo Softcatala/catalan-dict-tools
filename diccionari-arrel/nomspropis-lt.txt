@@ -6853,6 +6853,7 @@ Coïmbra Coïmbra NPCSG00
 Crabasia Crabasia NPCSG00
 Cracòvia Cracòvia NPCSG00
 Craiova Craiova NPCSG00
+Cranagh Cranagh NPCNSP0
 Cranc Cranc NPMSG00
 Crawley Crawley NPCSG00
 Creil Creil NPCSG00
@@ -10678,6 +10679,7 @@ Gravelines Gravelines NPCSG00
 Gravesend Gravesend NPCSG00
 Graz Graz NPCSG00
 Grazalema Grazalema NPCSG00
+Greco Greco NPMSSP0
 Gredos Gredos NPCSG00
 Green Green NPCNSP0
 Greenpeace Greenpeace NPFSO00
@@ -10703,6 +10705,7 @@ Grevolosa Grevolosa NPCNSP0
 Grevolós Grevolós NPCNSP0
 Gri Gri NPCNSP0
 Griber Griber NPCNSP0
+Grieg Grieg NPCNSP0
 Grier Grier NPMSG00
 Griera Griera NPCNSP0
 Grifell Grifell NPCNSP0
@@ -11137,6 +11140,7 @@ Hasbro Hasbro NPCNO00
 Haspengouw Haspengouw NPCSG00
 Hassan Hassan NPMSSP0 # avl: noms de persona
 Hastings Hastings NPCSG00
+Hasél Hasél NPCNSP0
 Haut-Folin Haut-Folin NPCSG00
 Hauteville Hauteville NPCNSP0
 Havana Havana NPFSG00
@@ -18994,6 +18998,7 @@ Rafeques Rafeques NPCNSP0
 Raffadali Raffadali NPCSG00
 Rafí Rafí NPCNSP0
 Ragusa Ragusa NPCSG00
+Rahola Rahola NPCNSP0
 Raier Raier NPCNSP0
 Raigada Raigada NPCNSP0
 Raiguer Raiguer NPMSG00
@@ -22562,6 +22567,7 @@ Tiurana Tiurana NPFSG00
 Tivenys Tivenys NPCSG00
 Tivissa Tivissa NPFSG00
 Tizi-Ouzou Tizi-Ouzou NPCSG00
+Tiziano Tiziano NPMSSP0
 Tiznit Tiznit NPCSG00
 Tièrs Tièrs NPCSG00
 Tió Tió NPCNSP0

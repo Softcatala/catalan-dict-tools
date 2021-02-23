@@ -28016,6 +28016,7 @@ sinistroocular=categories: A;fonts: dsalut;
 sinistropedal=categories: A;fonts: dsalut;
 sinistrors sinistrorsa=categories: A;fonts: LT;
 sino-vietnamita=categories: A;fonts: derivat;
+sinoamericà sinoamericana=categories: A;fonts: derivat;
 sinoatrial=categories: A;fonts: dsalut;
 sinoauricular=categories: A;fonts: termcat;
 sinodal=categories: A;fonts: LT;
