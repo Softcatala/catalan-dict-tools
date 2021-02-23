@@ -8282,6 +8282,7 @@ autoedició=categories: F;fonts: LT;
 autoeditor autoeditora=categories: MF;fonts: derivat;
 autoeducació=categories: F;fonts: LT;
 autoeficàcia=categories: F;fonts: derivat, UOC;
+autoeliminació=categories: F;fonts: derivat;
 autoempelt=categories: M;fonts: LT;
 autoencebament=categories: M;fonts: LT;
 autoencesa=categories: F;fonts: LT;
