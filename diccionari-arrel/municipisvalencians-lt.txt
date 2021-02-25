@@ -66,8 +66,6 @@ Domeño Domenyo NPCSG0O
 Enguera Énguera NPCSG0O
 Espadella Espadella NPCSG0V
 Espadilla Espadella NPCSG0O
-Facheca Fageca NPCSG0O
-Fageca Fageca NPCSG0V
 Figueres Figueres NPCSG0V
 Gestalgar Xestalgar NPCSG0O
 Gàtova Gàtova NPCSG0V

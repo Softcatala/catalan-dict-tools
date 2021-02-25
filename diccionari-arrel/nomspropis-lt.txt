@@ -7800,6 +7800,7 @@ Dèlia Dèlia NPFSSP0
 Dèlies Dèlia NPFPSP0
 Décines-Charpieu Décines-Charpieu NPCSG00
 Dénia Dénia NPFSG00
+Fageca Fageca NPFSG00
 Déroute Déroute NPCSG00
 Déu Déu NPMSSP0
 Díaz Díaz NPCNSP0
