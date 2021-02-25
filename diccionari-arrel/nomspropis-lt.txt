@@ -25241,3 +25241,7 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Nàrnia Nàrnia NPFSG00
+Harper Harper NPCNSP0
+Zweig Zweig NPCNSP0
+Grande-Marlaska Grande-Marlaska NPCNSP0
