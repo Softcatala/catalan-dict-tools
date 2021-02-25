@@ -7800,7 +7800,6 @@ Dèlia Dèlia NPFSSP0
 Dèlies Dèlia NPFPSP0
 Décines-Charpieu Décines-Charpieu NPCSG00
 Dénia Dénia NPFSG00
-Fageca Fageca NPFSG00
 Déroute Déroute NPCSG00
 Déu Déu NPMSSP0
 Díaz Díaz NPCNSP0
@@ -8832,6 +8831,7 @@ Fadra Fadra NPCSG00
 Fadrica Fadrica NPFSSP0 # avl: noms de persona
 Fadó Fadó NPCNSP0
 Faenza Faenza NPCSG00
+Fageca Fageca NPFSG00
 Fageda Fageda NPCNSP0
 Fagedes Fagedes NPCNSP0
 Fagella Fagella NPCNSP0
@@ -10632,6 +10632,7 @@ Granadella Granadella NPFSG00
 Granados Granados NPCNSP0
 Grand-Port Grand-Port NPCSG00
 Grande Grande NPCSG00
+Grande-Marlaska Grande-Marlaska NPCNSP0
 Grande-Terre Grande-Terre NPCSG00
 Grandia Grandia NPCNSP0
 Grandvalira Grandvalira NPFSO00
@@ -11125,6 +11126,7 @@ Harlem Harlem NPCSG00
 Harmagedon Harmagedon NPMSG00
 Harold Harold NPMSSP0
 Harolds Harold NPMPSP0
+Harper Harper NPCNSP0
 Harris Harris NPCNSP0
 Harrisburg Harrisburg NPCSG00
 Harrison Harrison NPCNSP0
@@ -16339,6 +16341,7 @@ Nàdia Nàdia NPFSSP0
 Nàger Nàger NPCNSP0
 Nàpols Nàpols NPCSG00
 Nàquera Nàquera NPCSG00
+Nàrnia Nàrnia NPFSG00
 Nàsia Nàsia NPFSSP0 # avl: noms de persona
 Nàuplia Nàuplia NPCSG00
 Nájera Nájera NPCSG00
@@ -25030,6 +25033,7 @@ Zuwarah Zuwarah NPCSG00
 Zuénoula Zuénoula NPCSG00
 Zvornik Zvornik NPCSG00
 Zweibrücken Zweibrücken NPCSG00
+Zweig Zweig NPCNSP0
 Zwickau Zwickau NPCSG00
 Zwolle Zwolle NPCSG00
 Zàmbia Zàmbia NPFSG00
@@ -25241,7 +25245,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Nàrnia Nàrnia NPFSG00
-Harper Harper NPCNSP0
-Zweig Zweig NPCNSP0
-Grande-Marlaska Grande-Marlaska NPCNSP0
