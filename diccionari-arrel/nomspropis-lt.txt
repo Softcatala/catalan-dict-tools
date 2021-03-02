@@ -3960,6 +3960,7 @@ Bixkek Bixkek NPCSG00
 Bizacena Bizacena NPCSG00
 Bizanci Bizanci NPCSG00
 Bizerta Bizerta NPCSG00
+Bizum Bizum NPMNO00
 Bié Bié NPCSG00
 BlaBlaCar BlaBlaCar NPCNO00
 Black Black NPCNSP0
@@ -9415,6 +9416,7 @@ Fonts Fonts NPCSG00
 Fonts Fonts NPFPG00
 Fontsagrada Fontsagrada NPCSG00
 Fontsanta Fontsanta NPFSSP0 # avl: noms de persona
+Fontscaldes Fontscaldes NPCNG00
 Fontscaldetes Fontscaldetes NPCSG00
 Fontà Fontà NPCNSP0
 Fontàs Fontàs NPCNSP0
@@ -12426,6 +12428,7 @@ Kigoma Kigoma NPCSG00
 Kii Kii NPCSG00
 Kikwit Kikwit NPCSG00
 Kilauea Kilauea NPCSG00
+Kilian Kilian NPMSSP0
 Kilimanjaro Kilimanjaro NPCSG00
 Kilinochchi Kilinochchi NPCSG00
 Kimberley Kimberley NPCSG00
@@ -19544,6 +19547,7 @@ Riutés Riutés NPCSG00
 Rivas Rivas NPCSG00
 Rivera Rivera NPCSG00
 Riverd Riverd NPCNSP0
+Riverdale Riverdale NPCSG00
 Rivers Rivers NPCSG00
 Riverside Riverside NPCSG00
 Rivert Rivert NPCSG00
@@ -24621,6 +24625,7 @@ Wiesbaden Wiesbaden NPCSG00
 Wigan Wigan NPCSG00
 Wight Wight NPCSG00
 Wii Wii NPFSO00
+Wikiloc Wikiloc NPCNO00
 Wikipedia Wikipedia NPFSO00
 Wildspitze Wildspitze NPCSG00
 Wilfred Wilfred NPMSSP0 # avl: noms de persona
