@@ -10119,6 +10119,7 @@ beneceptor=categories: M;fonts: LT;
 benedicció=categories: F;fonts: LT;
 benedictina=categories: F;fonts: LT;
 benedictí=categories: M;fonts: LT;
+ebitda=categories: M;fonts: esadir;
 benefactor benefactora=categories: MF;fonts: LT;
 benefactoria=categories: F;fonts: LT;
 benefici=categories: M;fonts: LT;
