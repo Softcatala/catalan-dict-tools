@@ -12384,6 +12384,7 @@ Kerguelen Kerguelen NPCSG00
 Kerkrade Kerkrade NPCSG00
 Kermadec Kermadec NPFPG00
 Kermanshah Kermanshah NPCSG00
+Kerouac Kerouac NPCNSP0
 Kertx Kertx NPCSG00
 Kertész Kertész NPCNSP0
 Kerulen Kerulen NPCSG00
@@ -14565,6 +14566,7 @@ Mbandaka Mbandaka NPCSG00
 Mbeya Mbeya NPCSG00
 Mbini Mbini NPCSG00
 Mbuji-Mayi Mbuji-Mayi NPCSG00
+McCarthy McCarthy NPCNSP0
 McCartney McCartney NPCNSP0
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
