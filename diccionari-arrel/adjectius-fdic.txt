@@ -2,6 +2,7 @@
 #avist avista=categories: A;fonts: LT; arcaisme
 #baador=categories: A;fonts: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
+#blauverda=categories: A;fonts: LT; error? de quina font? En el DDLC blauverd -a
 #cristal=categories: A;fonts: dsalut;  #ATENCIÓ: relatiu a la cresta!
 #curd curda=categories: A;fonts: GDLC; forma no usada de kurd
 #emperadora=categories: A;fonts: LT;
@@ -4753,7 +4754,6 @@ blastomicòtic blastomicòtica=categories: A;fonts: dsalut;
 blastular=categories: A;fonts: dsalut;
 blau blava [sup. blavíssim]=categories: A;fonts: LT;
 blaugrana=categories: A;fonts: DIEC;
-#blauverda=categories: A;fonts: LT; error? de quina font? En el DDLC blauverd -a
 blavenc blavenca=categories: A;fonts: LT;
 blaver blavera=categories: A;fonts: LT;
 blavinós blavinosa=categories: A;fonts: LT;

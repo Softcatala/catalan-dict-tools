@@ -7965,6 +7965,7 @@ Elca Elca NPCSG00
 Elcano Elcano NPCNSP0
 Elda Elda NPFSG00
 Eldorado Eldorado NPCSG00
+Elea Elea NPFSG00
 Eleatzar Eleatzar NPCSSP0 # avl: noms de persona
 Electra Electra NPFSSP0
 Electrolux Electrolux NPCNO00
@@ -25252,4 +25253,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Elea Elea NPFSG00
