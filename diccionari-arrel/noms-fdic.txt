@@ -74,6 +74,7 @@
 #indusium griseum=categories: M;fonts: dsalut;
 #infermetat=categories: F;fonts: LT; arcaisme o poc usual
 #inotuzumab ozogamicina=categories: M;fonts: dsalut;
+#input-output=categories: MS;fonts: DNV,anglès;
 #lab=categories: M;fonts: dsalut;
 #legibilitat=categories: F;fonts: LT; error, d'on ve?
 #lentor=categories: F;fonts: dsalut;
@@ -45445,7 +45446,6 @@ inotagma=categories: M;fonts: dsalut;
 inotrop=categories: M;fonts: dsalut;
 inotropisme=categories: M;fonts: LT;
 inproquona=categories: FS;fonts: dsalut;
-input-output=categories: MS;fonts: DNV,anglès;
 input=categories: M;fonts: LT;
 inquartata=categories: F;fonts: LT;
 inquer inquera=categories: MF;fonts LT;

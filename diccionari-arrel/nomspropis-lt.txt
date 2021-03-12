@@ -21722,6 +21722,7 @@ Stanford Stanford NPCNSP0
 Stanford Stanford NPCSG00
 Stanislavski Stanislavski NPCNSP0
 Stanley Stanley NPMSSP0
+StarCraft StarCraft NPMNO00
 Starbucks Starbucks NPMNO00
 Starhemberg Starhemberg NPCNSP0
 Stavanger Stavanger NPCSG00
@@ -22203,6 +22204,7 @@ Tassos Tassos NPCSG00
 Tata Tata NPCSG00
 Tatabánya Tatabánya NPCSG00
 Tatiana Tatiana NPFSG00
+Tatoeba Tatoeba NPCNO00
 Tatxer Tatxer NPCNSP0
 Taubaté Taubaté NPCSG00
 Tauler Tauler NPCNSP0
