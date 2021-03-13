@@ -8696,6 +8696,7 @@ Eurolligues Eurolliga NPFSO00
 Euromed Euromed NPMNO00
 Europa Europa NPFSG00
 Europarlament Europarlament NPMSO00
+Europes Europa NPFPG00
 Eurosi Eurosi NPMSSP0 # avl: noms de persona
 Eurostar Eurostar NPMSO00
 Eurostat Eurostat NPCSO00
