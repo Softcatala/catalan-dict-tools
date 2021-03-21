@@ -8525,6 +8525,7 @@ redescobrir=categories: V;model:cobrir;fonts:LT
 redhibir=categories: V;model:servir;fonts:LT
 redibuixar=categories: V;model:cantar;fonts:LT
 redifondre=categories: V;model:confondre;fonts:termcat;
+redignificar=categories: V;model:trencar;fonts: derivat;
 redimensionar=categories: V;model:cantar;fonts:LT
 redimir=categories: V;model:servir;fonts:LT
 redinamitzar=categories: V;model:cantar;fonts:LT

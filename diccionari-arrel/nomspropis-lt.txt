@@ -3454,6 +3454,7 @@ Belzunces Belzunces NPCSG00
 Bel·lerofontes Bel·lerofontes NPMSSP0 # avl: noms de persona
 Belém Belém NPCSG00
 Bemaraha Bemaraha NPCSG00
+Ben-Gurion Ben-Gurion NPCNSP0
 Ben-Sliman Ben-Sliman NPCSG00
 Bena Bena NPCSG00
 Benaadir Benaadir NPCSG00
@@ -11576,6 +11577,7 @@ Hölderlin Hölderlin NPCNSP0
 IBM IBM NPCNO00
 ICAB ICAB NPMSO00
 ICE ICE NPMSO00
+ICO ICO NPMSO00
 ICV ICV NPFSO00
 IEC IEC NPMSO00
 IJssel IJssel NPCSG00
@@ -16048,6 +16050,7 @@ Nestlé Nestlé NPCNO00
 Nestos Nestos NPCSG00
 Nestòria Nestòria NPFSSP0 # avl: noms de persona
 Netanya Netanya NPCSG00
+Netanyahu Netanyahu NPCNSP0
 Netflix Netflix NPMSO00
 Netscape Netscape NPCNO00
 Neubrandenburg Neubrandenburg NPCSG00
