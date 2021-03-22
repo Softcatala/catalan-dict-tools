@@ -5843,7 +5843,7 @@ Ceferins Ceferí NPMPSP0
 Ceferí Ceferí NPMSSP0
 Cefeu Cefeu NPCSG00
 Cehegín Cehegín NPCSG00
-Cela Cela NPNPSP0
+Cela Cela NPCNSP0
 Celdoni Celdoni NPMSSP0
 Celdonis Celdoni NPMPSP0
 Celedoni Celedoni NPMSSP0
