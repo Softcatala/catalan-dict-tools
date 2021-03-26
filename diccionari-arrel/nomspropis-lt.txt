@@ -477,6 +477,7 @@ Adèlia Adèlia NPFSSP0 # avl: noms de persona
 Adí Adí NPMSSP0 # avl: noms de persona
 Adília Adília NPFSSP0
 Adílies Adília NPFPSP0
+Aeroméxico Aeroméxico NPCSO00
 Afganistan Afganistan NPMSG00
 Afognak Afognak NPCSG00
 Afra Afra NPFSSP0
@@ -1710,6 +1711,7 @@ Angelu Angelu NPCSG00
 Angelí Angelí NPMSSP0 # avl: noms de persona
 Angeló Angeló NPCNSP0
 Angers Angers NPMSG00
+Angie Angie NPFSSP0
 Angilbert Angilbert NPMSSP0
 Angilberts Angilbert NPMPSP0
 Angkor Angkor NPCSG00
@@ -4765,6 +4767,7 @@ Bāmīān Bāmīān NPCSG00
 Bāqarganj Bāqarganj NPCSG00
 Bălţi Bălţi NPCSG00
 Bīkāner Bīkāner NPCSG00
+CBC CBC NPCNO00
 CCCB CCCB NPMSO00
 CCMA CCMA NPFSO00
 CCOO CCOO NPFPO00
@@ -11580,6 +11583,7 @@ ICE ICE NPMSO00
 ICO ICO NPMSO00
 ICV ICV NPFSO00
 IEC IEC NPMSO00
+IFS IFS NPCNO00
 IJssel IJssel NPCSG00
 INE INE NPMSO00
 IOC IOC NPMSO00
@@ -24972,6 +24976,7 @@ Zeitz Zeitz NPCSG00
 Zel'onodol'sk Zel'onodol'sk NPCSG00
 Zelanda Zelanda NPFSG00
 Zelaya Zelaya NPCSG00
+Zelinski Zelinski NPCNSP0
 Zenaida Zenaida NPFSSP0 # avl: noms de persona
 Zenes Zenes NPMSSP0 # avl: noms de persona
 Zengirli Zengirli NPCSG00
