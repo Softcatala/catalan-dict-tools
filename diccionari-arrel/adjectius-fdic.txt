@@ -21621,6 +21621,7 @@ odelloní odellonina=categories: A;fonts: LT;
 odenenc odenenca=categories: A;fonts: LT;
 odenès odenesa=categories: A;fonts: LT;
 odiable=categories: A;fonts: DDLC;
+odiador odiadora=categories: A;fonts: termcat;
 odiós odiosa [sup. odiosíssim]=categories: A;fonts: LT;
 odontal=categories: A;fonts: dsalut;
 odontinoide=categories: A;fonts: dsalut;
