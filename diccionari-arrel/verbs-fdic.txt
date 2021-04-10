@@ -9942,6 +9942,7 @@ ujar=categories: V;model:envejar;fonts:LT
 ulcerar=categories: V;model:cantar;fonts:LT
 ullar=categories: V;model:cantar;fonts:LT
 ullprendre=categories: V;model:ofendre;fonts:LT
+ulsteritzar=categories: V;model:cantar;fonts: derivat;
 ultimar=categories: V;model:cantar;fonts:LT
 ultracongelar=categories: V;model:cantar;fonts:LT
 ultrapassar=categories: V;model:adobassar;fonts:LT
