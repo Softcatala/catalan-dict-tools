@@ -3296,6 +3296,7 @@ desgolfar=categories: V;model:cantar;fonts:LT
 desgomar=categories: V;model:cantar;fonts:LT
 desgotar=categories: V;model:cantar;fonts:LT
 desgovernar=categories: V;model:cantar;fonts:LT
+cogovernar=categories: V;model:cantar;fonts: derivat;
 desgraciar=categories: V;model:crear;fonts:LT
 desgramar=categories: V;model:cantar;fonts:LT
 desgramaticalitzar=categories: V;model:cantar;fonts:LT
