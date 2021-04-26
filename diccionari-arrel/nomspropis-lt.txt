@@ -25265,3 +25265,7 @@ uTorrent uTorrent NPCNO00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
 Koeman Koeman NPCNSP0
+Adif Adif NPCNO00
+Nostradamus Nostradamus NPMSSP0
+Nielsen Nielsen NPCNSP0
+

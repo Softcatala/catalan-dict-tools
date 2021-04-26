@@ -11,6 +11,7 @@
 #baador=categories: MF;fonts: GDLC, arcaisme;
 #back=categories: M;fonts: termcat, polo;
 #baladí baladina=categories: MF;fonts: LT; arcaisme
+vertiport=categories: M;fonts: anglès, fundeu;
 #bantú [pl. bantús]=categories: MF;fonts: IEC, però no DNV;
 #barsa=categories: F;fonts: LT; poc comú i confús
 #bet=categories: F;fonts: LT; lletra hebrea
@@ -18063,7 +18064,7 @@ coavaluació=categories: F;fonts: LT;
 cob=categories: M;fonts: LT;
 cobai=categories: M;fonts: LT;
 cobalamina=categories: F;fonts: LT;
-cobalma=categories: F; fonts: Jané;
+#cobalma=categories: F; fonts: Jané; cap altra font
 cobalt=categories: M;fonts: LT;
 cobaltita=categories: F;fonts: LT;
 cobaltosi=categories: F;fonts: dsalut;
