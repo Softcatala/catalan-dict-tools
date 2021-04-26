@@ -1,3 +1,4 @@
+
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -418,6 +419,7 @@ Adern Adern NPCNSP0
 Ades Ada NPFPSP0
 Adiabè Adiabè NPCSG00
 Adidas Adidas NPCNO00
+Adif Adif NPCNO00
 Adige Adige NPCSG00
 Adilons Adiló NPMPSP0
 Adiló Adiló NPMSSP0
@@ -12480,6 +12482,7 @@ Kobe Kobe NPCSG00
 Kodak Kodak NPCNO00
 Kodiak Kodiak NPCSG00
 Kodály Kodály NPCNSP0
+Koeman Koeman NPCNSP0
 Kohtla-Järve Kohtla-Järve NPCSG00
 Koinadugu Koinadugu NPCSG00
 Kokand Kokand NPCSG00
@@ -16135,6 +16138,7 @@ Nidwalden Nidwalden NPCSG00
 Niebla Niebla NPCSG00
 Niell Niell NPCNSP0
 Niella Niella NPCNSP0
+Nielsen Nielsen NPCNSP0
 Nier Nier NPCNSP0
 Nietzsche Nietzsche NPCNSP0
 Nieva Nieva NPCSG00
@@ -16273,6 +16277,7 @@ Noruega Noruega NPFSG00
 Norwich Norwich NPCSG00
 Norís Norís NPCSG00
 Nosferatu Nosferatu NPMSSP0
+Nostradamus Nostradamus NPMSSP0
 Nostrort Nostrort NPCNSP0
 Not Not NPCNSP0
 Notepad Notepad NPCNO00
@@ -25264,8 +25269,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Koeman Koeman NPCNSP0
-Adif Adif NPCNO00
-Nostradamus Nostradamus NPMSSP0
-Nielsen Nielsen NPCNSP0
-
