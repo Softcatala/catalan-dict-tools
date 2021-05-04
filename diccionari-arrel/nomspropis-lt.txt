@@ -12492,6 +12492,7 @@ Kolgujev Kolgujev NPCSG00
 Kolhāpur Kolhāpur NPCSG00
 Kolontár Kolontár NPCSG00
 Kommunarsk Kommunarsk NPCSG00
+Komodo Komodo NPMSG00
 Komsomol's-na-Amur Komsomol's-na-Amur NPCSG00
 Kona Kona NPCSG00
 Konarhā Konarhā NPCSG00
@@ -20354,6 +20355,7 @@ Sallent Sallent NPMSG00
 Sallents Sallents NPCNSP0
 Salliura Salliura NPCNSP0
 Sallot Sallot NPCNSP0
+Salma Salma NPFSSP0
 Salmanui Salmanui NPCSG00
 Salo Salo NPCSG00
 Salom Salom NPCNSP0

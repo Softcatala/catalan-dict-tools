@@ -3806,7 +3806,6 @@ meigo -a=categories: MF;fonts: DNV;
 melanorràgia=categories: F;fonts: DNV;
 melenut -uda=categories: A;fonts: DNV;
 meliquera=categories: F;fonts: DNV;
-meliquisme=categories: M;fonts: DNV;
 mellat -ada=categories: A;fonts: DNV;
 melonada=categories: F;fonts: DNV;
 mel·lifluïtat=categories: F;fonts: DNV;

@@ -57220,8 +57220,6 @@ melenut melenut AQ0MS0
 melenuts melenut AQ0MP0
 meliquera meliquera NCFS000
 meliqueres meliquera NCFP000
-meliquisme meliquisme NCMS000
-meliquismes meliquisme NCMP000
 mellada mellat AQ0FS0
 mellades mellat AQ0FP0
 mellat mellat AQ0MS0
