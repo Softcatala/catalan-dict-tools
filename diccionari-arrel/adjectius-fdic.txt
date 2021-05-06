@@ -42,6 +42,7 @@
 9è 9a [pl. 9ns]=categories: AO;fonts: LT;
 ABS=categories: AI;fonts: termcat;
 CMYK=categories: AI; fonts: termcat;
+FFP2=categories: AI;fonts: fundeu;
 LGBT-fòbic LGBT-fòbica=categories: A;fonts: termcat;
 LGBT=categories: AI; fonts: termcat;
 LGBTI-fòbic LGBTI-fòbica=categories: A;fonts: termcat;
@@ -54,6 +55,7 @@ LGTB-fòbic LGTB-fòbica=categories: A;fonts: termcat;
 LGTB=categories: AI; fonts: termcat;
 LGTBI=categories: AI; fonts: derivat;
 LGTBIQ=categories: AI; fonts: derivat;
+N95=categories: AI;fonts: fundeu;
 NP-complet NP-completa=categories: A;fonts: LT;
 P3=categories: AI;fonts: wikipedia;
 P4=categories: AI;fonts: wikipedia;

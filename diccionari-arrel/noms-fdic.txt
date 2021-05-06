@@ -27908,6 +27908,7 @@ encarriladora=categories: F;fonts: LT;
 encarrilament=categories: M;fonts: LT;
 encartadora=categories: F;fonts: LT;
 encartament=categories: M;fonts: LT;
+encartellada=categories: F;fonts: DNV;
 encartonament=categories: M;fonts: LT;
 encasament=categories: M;fonts: LT;
 encasellament=categories: M;fonts: LT;

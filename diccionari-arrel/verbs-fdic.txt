@@ -4395,6 +4395,7 @@ encarrerar=categories: V;model:cantar;fonts:LT
 encarreronar=categories: V;model:cantar;fonts:LT
 encarrilar=categories: V;model:cantar;fonts:LT
 encartar=categories: V;model:cantar;fonts:LT
+encartellar=categories: V;model:cantar;fonts: DNV;
 encartonar=categories: V;model:cantar;fonts:LT
 encartutxar=categories: V;model:cantar;fonts:LT
 encasar=categories: V;model:arrasar;fonts:LT
