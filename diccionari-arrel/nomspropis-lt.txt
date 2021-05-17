@@ -115,6 +115,7 @@
 #Mira Mira NPCSG00
 #Misteri Misteri NPFSSP0 # avl: noms de persona
 #Mohamet Mohamet NPMSSP0 # avl: noms de persona
+#Moldova Moldova NPCSG00
 #Nadal Nadal NPCNSP0
 #Nadal Nadal NPMSSP0
 #Nel Nel NPMSSP0 # avl: noms de persona
@@ -15084,7 +15085,6 @@ Mola Mola NPCNSP0
 Mola Mola NPFSG00
 Molar Molar NPCNSP0
 Molar Molar NPMSG00
-Moldova Moldova NPCSG00
 Moldàvia Moldàvia NPFSG00
 Molera Molera NPCNSP0
 Moleres Moleres NPCNSP0
@@ -23301,6 +23301,7 @@ UDC UDC NPFSO00
 UDEF UDEF NPFSO00
 UE UE NPFSG00
 UEFA UEFA NPFSO00
+UER UER NPFSO00
 UGT UGT NPFSO00
 UIB UIB NPFSO00
 UIC UIC NPFSO00
