@@ -2372,6 +2372,7 @@ Artèmia Artèmia NPFSSP0 # avl: noms de persona
 Artés Artés NPCNSP0
 Artés Artés NPCSG00
 Artí Artí NPCNSP0
+Artís-Gener Artís-Gener NPCNSP0
 Artós Artós NPCNSP0
 Artús Artús NPCNSP0
 Aru Aru NPCSG00
@@ -2785,6 +2786,7 @@ Baena Baena NPCNSP0
 Baerum Baerum NPCSG00
 Baetà Baetà NPMSSP0 # avl: noms de persona
 Bafalui Bafalui NPCSG00
+Bafta Bafta NPMNO00
 Bagdad Bagdad NPCSG00
 Bagergue Bagergue NPCSG00
 Bages Bages NPCNSP0
