@@ -24484,6 +24484,7 @@ Volga Volga NPCSG00
 Volgograd Volgograd NPCSG00
 Voliac Voliac NPCNSP0
 Volkswagen Volkswagen NPCNO00
+Voll-Damm Voll-Damm NPFNO00
 Vologda Vologda NPCSG00
 Voloriu Voloriu NPCSG00
 Volta Volta NPFSO00
@@ -25274,4 +25275,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Voll-Damm Voll-Damm NPFNO00

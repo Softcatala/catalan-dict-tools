@@ -11,6 +11,8 @@
 #mercar=categories: V;model:trencar;fonts:LT
 #postposar=categories: V;model:anquilosar;fonts:LT
 #revore=categories: V;model:vore;fonts: DNV;
+#vidrar=categories: V;model:cantar;fonts:LT
+#vidriar=categories: V;model:crear;fonts:LT
 abacallanar=categories: V;model:cantar;fonts:LT
 abaconar=categories: V;model:cantar;fonts:LT
 abadanar=categories: V;model:cantar;fonts:LT
@@ -10068,8 +10070,6 @@ vibrar=categories: V;model:cantar;fonts:LT
 viciar=categories: V;model:crear;fonts:LT
 victimitzar=categories: V;model:cantar;fonts: AVL;
 victorejar=categories: V;model:envejar;fonts:LT
-#vidrar=categories: V;model:cantar;fonts:LT
-#vidriar=categories: V;model:crear;fonts:LT
 vigilar=categories: V;model:cantar;fonts:LT
 vigir=categories: V;model:servir;fonts:LT
 vigoritzar=categories: V;model:cantar;fonts:LT
