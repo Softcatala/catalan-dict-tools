@@ -35599,6 +35599,7 @@ finasterida=categories: F;fonts: dsalut;
 finat finada=categories: MF;fonts LT;
 finca=categories: F;fonts: LT;
 finerenona=categories: F;fonts: dsalut;
+sociovergència=categories: FS;fonts: wiki;
 finestra=categories: F;fonts: LT;
 finestrada=categories: F;fonts: LT;
 finestral=categories: M;fonts: LT;
