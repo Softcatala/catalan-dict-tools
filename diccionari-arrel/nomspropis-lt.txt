@@ -1,4 +1,3 @@
-
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -1937,7 +1936,7 @@ Apol·linis Apol·lini NPMPSP0
 Apol·linària Apol·linària NPFSSP0 # avl: noms de persona
 Apol·lo Apol·lo NPMSSP0
 Apol·loni Apol·loni NPMSSP0 # avl: noms de persona
-Apol·los apol·lo NPMPSP0
+Apol·los Apol·lo NPMPSP0
 Apol·lònia Apol·lònia NPFSSP0
 Apol·lònies Apol·lònia NPFPSP0
 Apol·ló Apol·ló NPMSSP0 # avl: noms de persona
@@ -17059,6 +17058,7 @@ Palet Palet NPCNSP0
 Paleòleg Paleòleg NPCNSP0
 Palikir Palikir NPCSG00
 Pallac Pallac NPCNSP0
+Palladio Palladio NPCNSP0
 Pallarans Pallarans NPCNSP0
 Pallardó Pallardó NPCNSP0
 Pallaresos Pallaresos NPMPG00

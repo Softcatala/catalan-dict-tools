@@ -46325,8 +46325,6 @@ faroleria faroleria NCFS000
 faroleries faroleria NCFP000
 farolet farolet NCMS000
 farolets farolet NCMP000
-farra farra NCFS000
-farres farra NCFP000
 farruca farruca NCFS000
 farruques farruca NCFP000
 fartabous fartabous NCFN000
@@ -61097,8 +61095,6 @@ parrupador parrupador AQ0MS0
 parrupadora parrupador AQ0FS0
 parrupadores parrupador AQ0FP0
 parrupadors parrupador AQ0MP0
-partita partita NCFS000
-partites partita NCFP000
 parvicel·lular parvicel·lular AQ0CS0
 parvicel·lulars parvicel·lular AQ0CP0
 paràclit paràclit NCMS000
