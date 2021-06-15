@@ -54166,8 +54166,6 @@ kremlinòlegs kremlinòleg NCMP000
 kremlinòloga kremlinòleg NCFS000
 kremlinòlogues kremlinòleg NCFP000
 krill krill NCMS000
-kung-fu kung-fu NCMS000
-kung-fus kung-fu NCMP000
 kuru kuru NCMS000
 kurus kuru NCMP000
 kúfia kúfia NCFS000
@@ -57224,8 +57222,6 @@ mellat mellat AQ0MS0
 mellats mellat AQ0MP0
 melonada melonada NCFS000
 melonades melonada NCFP000
-mel·lifluïtat mel·lifluïtat NCFS000
-mel·lifluïtats mel·lifluïtat NCFP000
 mendaces mendaç AQ0FP0
 mendaces mendaç NCFP000
 mendaç mendaç AQ0CS0

@@ -51915,6 +51915,7 @@ melsera=categories: F;fonts: LT;
 melusina=categories: F;fonts: LT;
 melva=categories: F;fonts: LT;
 mel·lificació=categories: F;fonts: LT;
+mel·lifluïtat=categories: F;fonts: DNV;
 mel·lit=categories: M;fonts: dsalut;
 mel·litúria=categories: F;fonts: dsalut;
 melàfir=categories: M;fonts: LT;
