@@ -12190,6 +12190,7 @@ June June NPFSSP0 # avl: noms de persona
 Juneau Juneau NPCSG00
 Juneda Juneda NPCNSP0
 Juneda Juneda NPFSG00
+Juneteenth Juneteenth NPMSO00
 Jungfrau Jungfrau NPCSG00
 Juno Juno NPFSSP0
 Junqueras Junqueras NPCNSP0
@@ -12548,6 +12549,7 @@ Krone Krone NPCNSP0
 Kronstadt Kronstadt NPCSG00
 Kropotkin Kropotkin NPCNSP0
 Krugersdorp Krugersdorp NPCSG00
+Krugman Krugman NPCNSP0
 Krujë Krujë NPCSG00
 Kubrick Kubrick NPCNSP0
 Kuiper Kuiper NPCNSP0
@@ -15029,6 +15031,7 @@ Mjøsa Mjøsa NPCSG00
 Mljet Mljet NPCSG00
 Mmabatho Mmabatho NPCSG00
 Mo Mo NPCNSP0
+MoMA MoMA NPMSO00
 Moab Moab NPMSG00
 Moaña Moaña NPCSG00
 Mobilcat Mobilcat NPCNO00
