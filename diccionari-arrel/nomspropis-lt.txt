@@ -19077,6 +19077,8 @@ Rambla Rambla NPFSG00
 Ramblar Ramblar NPMSG00
 Ramblelles Ramblelles NPFPG00
 Rambleta Rambleta NPFSG00
+Rambo Rambo NPMSSP0
+Rambos Rambo NPMPSP0
 Rambouillet Rambouillet NPCSG00
 Rameau Rameau NPCNSP0
 Ramell Ramell NPCNSP0
