@@ -5977,6 +5977,7 @@ Ch'unch'ŏn Ch'unch'ŏn NPCSG00
 Ch'ŏngjin Ch'ŏngjin NPCSG00
 Ch'ŏngju Ch'ŏngju NPCSG00
 Chablis Chablis NPCSG00
+Chabàs Chabàs NPCNSP0
 Chaco Chaco NPCSG00
 Chagang Chagang NPCSG00
 Chaghcharan Chaghcharan NPCSG00
