@@ -14304,6 +14304,7 @@ habitable=categories: A;fonts: LT;
 habitacular=categories: A;fonts: LT;
 habitador habitadora=categories: A;fonts: LT;
 habitual [sup. habitualíssim]=categories: A;fonts: LT;
+hacktivista=categories: A;fonts: derivat;
 hadal=categories: A;fonts: LT;
 hadrònic hadrònica=categories: A;fonts: LT;
 hagiogràfic hagiogràfica=categories: A;fonts: LT;

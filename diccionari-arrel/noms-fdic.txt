@@ -2477,6 +2477,7 @@ aiguafredenc aiguafredenca=categories: MF;fonts: LT;
 aiguagim=categories: M;fonts: LT;
 aigual=categories: M;fonts: LT;
 aigualada=categories: F;fonts: LT;
+aigualeig=categories: M;fonts: termcat;
 aigualera=categories: F;fonts: LT;
 aigualiment=categories: M;fonts: LT;
 aiguall=categories: M; fonts: Jané;
