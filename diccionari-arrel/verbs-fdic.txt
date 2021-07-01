@@ -10,6 +10,7 @@
 #malvore=categories: V;model:vore;fonts: DNV;
 #mercar=categories: V;model:trencar;fonts:LT
 #postposar=categories: V;model:anquilosar;fonts:LT
+#revoldre=categories: V;model:absoldre;fonts:LT no normatiu, només DCVB
 #revore=categories: V;model:vore;fonts: DNV;
 #vidrar=categories: V;model:cantar;fonts:LT
 #vidriar=categories: V;model:crear;fonts:LT
@@ -9029,7 +9030,6 @@ revivificar=categories: V;model:trencar;fonts:LT
 revocar=categories: V;model:trencar;fonts:LT
 revolantigar=categories: V;model:lligar;fonts:LT
 revolar=categories: V;model:cantar;fonts:LT
-revoldre=categories: V;model:absoldre;fonts:LT
 revolejar=categories: V;model:envejar;fonts:LT
 revolotejar=categories: V;model:envejar;fonts:LT
 revoltar=categories: V;model:cantar;fonts:LT
