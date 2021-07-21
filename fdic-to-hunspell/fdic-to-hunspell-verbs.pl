@@ -157,8 +157,11 @@ while ( my $line = <$fh> ) {
                                 $afixos .= "_C";    #imperatiu acabat en consonat o u
                             }
                         }
-
-                        print $ofh "$forma/$afixos\n";
+                        if ($afixos =~ /.+/) {
+                            print $ofh "$forma/$afixos\n";
+                        } else {
+                            print $ofh "$forma\n";
+                        }
                     }
                 }
                 close($modelfh);
