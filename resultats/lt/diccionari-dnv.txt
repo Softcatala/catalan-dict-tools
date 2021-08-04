@@ -55564,10 +55564,6 @@ malmarrosa malmarrós AQ0FS0
 malmarroses malmarrós AQ0FP0
 malmarrosos malmarrós AQ0MP0
 malmarrós malmarrós AQ0MS0
-malmenjador malmenjador AQ0MS0
-malmenjadora malmenjador AQ0FS0
-malmenjadores malmenjador AQ0FP0
-malmenjadors malmenjador AQ0MP0
 malmuller malmullerar VMIP1S0B
 malmullera malmullerar VMIP3S00
 malmullera malmullerar VMM02S00

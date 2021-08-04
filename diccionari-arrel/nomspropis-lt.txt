@@ -2808,6 +2808,7 @@ Bagà Bagà NPCNSP0
 Bagà Bagà NPCSG00
 Bagó Bagó NPCNSP0
 Bahames Bahames NPFPG00
+Bahamonde Bahamonde NPCNSP0
 Bahia Bahia NPCSG00
 Bahoruco Bahoruco NPCSG00
 Bahrain Bahrain NPCNG00
@@ -4668,6 +4669,7 @@ Bull Bull NPCNSP0
 Bulli Bulli NPMSO00
 Bullidor Bullidor NPMSG00
 Bulès Bulès NPMSG00
+Bundesbank Bundesbank NPMSO00
 Bundesliga Bundesliga NPFSO00
 Bundēlkhand Bundēlkhand NPCSG00
 Bunsen Bunsen NPCNSP0

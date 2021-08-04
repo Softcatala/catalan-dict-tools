@@ -3671,7 +3671,6 @@ malifet=categories: M;fonts: DNV;
 malignós -osa=categories: A;fonts: DNV;
 mallador -a=categories: MF;fonts: DNV;
 malmarrós -osa=categories: A;fonts: DNV;
-malmenjador -a=categories: A;fonts: DNV;
 malmullerar=categories: V;model:cantar;fonts: DNV;
 malnascut -uda=categories: A;fonts: DNV;
 malnascut -uda=categories: MF;fonts: DNV;pejoratiu
