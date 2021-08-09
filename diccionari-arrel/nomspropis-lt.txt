@@ -8311,6 +8311,7 @@ Escaler Escaler NPCNSP0
 Escales Escales NPCNSP0
 Escalona Escalona NPCSG00
 Escalons Escalons NPMPG00
+Escamilla Escamilla NPCNSP0
 Escandell Escandell NPCNSP0
 Escandella Escandella NPCSG00
 Escandinàvia Escandinàvia NPFSG00
@@ -9072,6 +9073,7 @@ Ferran Ferran NPMSSP0
 Ferranda Ferranda NPFSSP0 # avl: noms de persona
 Ferrandell Ferrandell NPCNSP0
 Ferrandis Ferrandis NPCNSP0
+Ferrando Ferrando NPCNSP0
 Ferrandí Ferrandí NPCNSP0
 Ferrans Ferran NPMPSP0
 Ferrara Ferrara NPCSG00
@@ -10364,6 +10366,7 @@ Ginestarre Ginestarre NPCSG00
 Ginestet Ginestet NPCNSP0
 Ginestosa Ginestosa NPFSG00
 Ginestós Ginestós NPCNSP0
+Gini Gini NPCNSP0
 Ginjaume Ginjaume NPCNSP0
 Ginjoan Ginjoan NPCNSP0
 Ginjoler Ginjoler NPCNSP0
@@ -12616,6 +12619,7 @@ L'Aquila L'Aquila NPCSG00
 L'ubercy L'ubercy NPCSG00
 LGPL LGPL NPCNO00
 LOGSE LOGSE NPFSO00
+LOMCE LMOCE NPFSO00
 Labadia Labadia NPCNSP0
 Laban Laban NPMSSP0
 Labastida Labastida NPCNSP0
@@ -14703,6 +14707,7 @@ Mendel Mendel NPCNSP0
 Mendelssohn Mendelssohn NPCNSP0
 Mendeléiev Mendeléiev NPCNSP0
 Menderes Menderes NPCSG00
+Mendieta Mendieta NPCNSP0
 Mendiola Mendiola NPCNSP0
 Mendizábal Mendizábal NPCSSP0
 Mendoza Mendoza NPCNSP0
@@ -17217,7 +17222,6 @@ Paramaribo Paramaribo NPCSG00
 Paranaíba Paranaíba NPCSG00
 Paranxet Paranxet NPCSG00
 Paranà Paranà NPCSG00
-Paraná Paraná NPCSG00
 Paratge Paratge NPCNSP0
 Paray-le-Monial Paray-le-Monial NPCSG00
 Paraíba Paraíba NPCSG00
@@ -18375,6 +18379,7 @@ Preston Preston NPCSG00
 Pretextat Pretextat NPMSSP0
 Pretextats Pretextat NPMPSP0
 Pretòria Pretòria NPCSG00
+Prezi Prezi NPMSO00
 Priestley Priestley NPCNSP0
 Prieto Prieto NPCNSP0
 Prignitz Prignitz NPCSG00
@@ -18777,9 +18782,11 @@ Pàmfila Pàmfila NPFSSP0 # avl: noms de persona
 Pàmfils Pàmfil NPMPSP0
 Pàmies Pàmies NPCNSP0
 Pàmies Pàmies NPCSG00
+Pàndols Pàndols NPCNG00
 Pàrmenes Pàrmenes NPMSSP0 # avl: noms de persona
 Pàrtia Pàrtia NPCSG00
 Pàtrocle Pàtrocle NPMSSP0 # avl: noms de persona
+Pàvlov Pàvlov NPCNSP0
 Pájara Pájara NPCSG00
 Pánuco Pánuco NPCSG00
 Pèrgam Pèrgam NPCSG00
@@ -18963,6 +18970,7 @@ RAE RAE NPFSO00
 RAI RAI NPFSO00
 RDA RDA NPFSG00
 RFA RFA NPFSG00
+RFEF RFEF NPFSO00
 RGPD RGPD NPMSO00
 RTVE RTVE NPFSO00
 RTVV RTVV NPFSO00
@@ -20942,6 +20950,7 @@ Seller Seller NPCNSP0
 Selles Selles NPCNSP0
 Sellons Sellons NPCNSP0
 Selló Selló NPCNSP0
+Selma Selma NPFSG00
 Sels Sels NPCNSP0
 Selva Selva NPCNSP0
 Selvasembrada Selvasembrada NPCNSP0
@@ -21826,6 +21835,7 @@ Sulcis Sulcis NPCSG00
 Sulema Sulema NPFSSP0 # avl: noms de persona
 Sullastre Sullastre NPCNSP0
 Suller Suller NPCNSP0
+Sullivan Sullivan NPCNSP0
 Sulmona Sulmona NPCSG00
 Sulpici Sulpici NPMSSP0
 Sulpicis Sulpici NPMPSP0
@@ -23471,6 +23481,7 @@ Urmella Urmella NPCSG00
 Urmia Urmia NPCSG00
 Urquinaona Urquinaona NPCNSP0
 Urrea Urrea NPCNSP0
+Urrutia Urrutia NPCNSP0
 Ursici Ursici NPMSSP0
 Ursicina Ursicina NPFSSP0
 Ursicines Ursicina NPFPSP0
@@ -24001,6 +24012,7 @@ Vichada Vichada NPCSG00
 Vichy Vichy NPCSG00
 Viciat Viciat NPCNSP0
 Vicksburg Vicksburg NPCSG00
+Vicky Vicky NPFSSP0
 Victori Victori NPCNSP0
 Victoriana Victoriana NPFSSP0 # avl: noms de persona
 Victorians Victorià NPMPSP0
