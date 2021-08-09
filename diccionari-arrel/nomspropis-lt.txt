@@ -1,3 +1,4 @@
+
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -25105,10 +25106,14 @@ eBay eBay NPCNO00
 es-Satty es-Satty NPCNSP0
 ex-Iugoslàvia ex-Iugoslàvia NPFSG00
 ex-URSS ex-URSS NPFSG00
-iMac iMac NPMNO00
-iPad iPad NPMNO00
-iPhone iPhone NPMNO00
-iPod iPod NPMNO00
+iMac iMac NPMSO00
+iMacs iMac NPMPO00
+iPad iPad NPMSO00
+iPads iPad NPMPO00
+iPhone iPhone NPMSO00
+iPhones iPhone NPMPO00
+iPod iPod NPMSO00
+iPods iPod NPMPO00
 iTunes iTunes NPMNO00
 phpBB phpBB NPMSO00
 uTorrent uTorrent NPCNO00
