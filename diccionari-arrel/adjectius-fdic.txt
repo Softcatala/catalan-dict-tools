@@ -3701,6 +3701,7 @@ autoconscient=categories: A;fonts: LT;
 autocopiador autocopiadora=categories: A;fonts: LT;
 autocor autocora=categories: A;fonts: LT;
 autocorrectiu autocorrectiva=categories: A;fonts: LT;
+autocorrector autocorrectora=categories: A;fonts: derivat;
 autocorregible=categories: A;fonts: derivat;
 autocrom autocroma=categories: A;fonts: termcat;
 autocràtic autocràtica=categories: A;fonts: LT;

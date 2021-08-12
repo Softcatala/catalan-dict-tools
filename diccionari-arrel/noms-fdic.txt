@@ -8275,6 +8275,7 @@ autoconvecció=categories: F;fonts: termcat;
 autocop=categories: M;fonts: LT;
 autocorologia=categories: F;fonts: LT;
 autocorrecció=categories: F;fonts: LT;
+autocorrector=categories: M;fonts: derivat;
 autocorrelació=categories: F;fonts: LT;
 autocràcia=categories: F;fonts: LT;
 autocrítica=categories: F;fonts: LT;
