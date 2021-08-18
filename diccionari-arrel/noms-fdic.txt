@@ -15,6 +15,7 @@
 #barsa=categories: F;fonts: LT; poc comú i confús
 #bet=categories: F;fonts: LT; lletra hebrea
 #botgera de la cascadura=categories: F;fonts: dsalut;
+fox-terrier=categories: M;fonts: DNV;
 #bretuges=categories: FP;fonts: dsalut;
 #brevicollis=categories: M;fonts: dsalut;
 #bullició=categories: F;fonts: LT; antic
