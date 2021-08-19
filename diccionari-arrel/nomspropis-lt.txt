@@ -21858,6 +21858,7 @@ Sunyer Sunyer NPCNSP0
 Sunyer Sunyer NPCSG00
 Sunyol Sunyol NPCNSP0
 Super3 Super3 NPMSO00
+Superlliga Superlliga NPFSO00
 Superman Superman NPMSSP0
 Superna Superna NPCSG00
 Suquet Suquet NPCNSP0
@@ -25302,4 +25303,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Superlliga Superlliga NPFSO00
