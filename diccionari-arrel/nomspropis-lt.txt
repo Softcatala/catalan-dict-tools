@@ -7333,6 +7333,7 @@ Dedeu Dedeu NPCNSP0
 Dedza Dedza NPCSG00
 Dee Dee NPCSG00
 Defla Defla NPCSG00
+Defoe Defoe NPCNSP0
 Degollada Degollada NPCNSP0
 Deianira Deianira NPFSSP0 # avl: noms de persona
 Deig Deig NPCNSP0
