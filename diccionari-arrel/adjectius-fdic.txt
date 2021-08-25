@@ -6260,6 +6260,7 @@ cerca-renyines=categories: AI;fonts: LT;
 cerca-revolts=categories: AI;fonts: LT;
 cercable=categories: A;fonts: softcatala;
 cercabregues=categories: AI;fonts: LT;
+buscabaralles=categories: AI;fonts: LT;
 cercafresses=categories: AI;fonts: LT;
 cercorí cercorina=categories: A;fonts: LT;
 cerdanyolenc cerdanyolenca=categories: A;fonts: LT;
