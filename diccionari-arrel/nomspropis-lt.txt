@@ -1,4 +1,3 @@
-
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -4902,7 +4901,7 @@ Cais Cai NPMPSP0
 Cais Cais NPCSG00
 Caius Caius NPMPSP0
 Caius Caius NPMSSP0
-CaixaBank CaixaBank NPMSO00
+CaixaBank CaixaBank NPCNO00
 CaixaForum CaixaForum NPMSO00
 Caixac Caixac NPCNSP0
 Caixans Caixans NPCNSP0
