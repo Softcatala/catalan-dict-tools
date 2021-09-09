@@ -78285,6 +78285,7 @@ teleomitosi=categories: F;fonts: dsalut;
 teleomorf=categories: M;fonts: LT;
 teleonomia=categories: F;fonts: LT;
 teleoperació=categories: F;fonts: LT;
+DRM=categories: MI;fonts: termcat;
 teleoperador -a=categories: MF;fonts: termcat;
 teleordinador=categories: M;fonts: LT;
 teleosaure=categories: M;fonts: LT;
