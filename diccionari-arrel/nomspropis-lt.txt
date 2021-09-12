@@ -188,7 +188,6 @@ ABC ABC NPMSO00
 ACNUR ACNUR NPMSO00
 AEAT AEAT NPFSO00
 AENA AENA NPFSO00
-Aena Aena NPFSO00
 AGPL AGPL NPCNO00
 AIReF AIReF NPFSO00
 ANSI ANSI NPMSO00
@@ -480,6 +479,7 @@ Adèlia Adèlia NPFSSP0 # avl: noms de persona
 Adí Adí NPMSSP0 # avl: noms de persona
 Adília Adília NPFSSP0
 Adílies Adília NPFPSP0
+Aena Aena NPFSO00
 Aeroméxico Aeroméxico NPCSO00
 Afganistan Afganistan NPMSG00
 Afognak Afognak NPCSG00

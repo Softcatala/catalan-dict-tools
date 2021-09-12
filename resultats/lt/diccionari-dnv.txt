@@ -60288,7 +60288,6 @@ ossiforme ossiforme AQ0CS0
 ossiformes ossiforme AQ0CP0
 ossobuco ossobuco NCMS000
 ossobucos ossobuco NCMP000
-osteoartritis osteoartritis NCFN000
 osteogenètic osteogenètic AQ0MS0
 osteogenètica osteogenètic AQ0FS0
 osteogenètics osteogenètic AQ0MP0
