@@ -4189,7 +4189,6 @@ ossell=categories: M;fonts: DNV;
 ossenc -a=categories: A;fonts: DNV;
 ossiforme=categories: A;fonts: DNV;
 ossobuco=categories: M;fonts: DNV;
-osteoartritis=categories: FI;fonts: DNV;
 osteogenètic -a=categories: A;fonts: DNV;
 osteàlgic -a=categories: A;fonts: DNV;
 ostricultor -a=categories: MF;fonts: DNV;
