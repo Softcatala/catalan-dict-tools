@@ -5564,7 +5564,6 @@ tovallol=categories: M;fonts: DNV;
 trabuquer -a=categories: MF;fonts: DNV;
 tragabales=categories: MFI;fonts: DNV;
 tragabales=categories: MI;fonts: DNV;
-tragineria=categories: F;fonts: DNV;
 tragó -ona=categories: A;fonts: DNV;
 tragó -ona=categories: MF;fonts: DNV;
 trampolejar=categories: V;model:envejar;fonts: DNV;

@@ -80499,6 +80499,7 @@ tragina=categories: F;fonts: LT;
 traginada=categories: F;fonts: LT;
 traginadora=categories: F;fonts: LT;
 traginer=categories: M;fonts: LT;
+tragineria=categories: F;fonts: DNV;
 tragirament=categories: M;fonts: LT;
 tragit=categories: M;fonts: LT;
 trago=categories: M;fonts: LT;

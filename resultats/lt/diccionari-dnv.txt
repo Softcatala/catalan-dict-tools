@@ -72578,8 +72578,6 @@ trabuqueres trabuquer NCFP000
 trabuquers trabuquer NCMP000
 tragabales tragabales NCCN000
 tragabales tragabales NCMN000
-tragineria tragineria NCFS000
-tragineries tragineria NCFP000
 tragona tragó AQ0FS0
 tragona tragó NCFS000
 tragones tragó AQ0FP0
