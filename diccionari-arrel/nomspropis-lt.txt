@@ -11192,6 +11192,7 @@ Heidelberg Heidelberg NPCSG00
 Heidi Heidi NPFSSP0 # avl: noms de persona
 Heilbronn Heilbronn NPCSG00
 Heilongjiang Heilongjiang NPCSG00
+Heine Heine NPCNSP0
 Heinrich Heinrich NPMSSP0
 Heisenberg Heisenberg NPCNSP0
 Hekla Hekla NPCSG00
