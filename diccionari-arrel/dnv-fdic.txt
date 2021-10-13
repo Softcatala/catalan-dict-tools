@@ -4908,7 +4908,6 @@ recerada=categories: F;fonts: DNV;
 recerós -osa=categories: A;fonts: DNV;
 reclusori=categories: M;fonts: DNV;
 recoedor=categories: M;fonts: DNV;
-recomanador -a=categories: A;fonts: DNV;
 recomanatori -òria=categories: A;fonts: DNV;
 recompressió=categories: F;fonts: DNV;
 reconeiximent=categories: M;fonts: DNV;

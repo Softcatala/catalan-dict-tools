@@ -66280,10 +66280,6 @@ reclusori reclusori NCMS000
 reclusoris reclusori NCMP000
 recoedor recoedor NCMS000
 recoedors recoedor NCMP000
-recomanador recomanador AQ0MS0
-recomanadora recomanador AQ0FS0
-recomanadores recomanador AQ0FP0
-recomanadors recomanador AQ0MP0
 recomanatori recomanatori AQ0MS0
 recomanatoris recomanatori AQ0MP0
 recomanatòria recomanatori AQ0FS0

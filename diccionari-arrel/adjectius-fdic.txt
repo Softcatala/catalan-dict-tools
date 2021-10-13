@@ -26060,6 +26060,7 @@ recolzant=categories: A;fonts: LT;
 recol·lecte recol·lecta=categories: A;fonts: LT;
 recol·lector recol·lectora=categories: A;fonts: LT;
 recomanable=categories: A;fonts: LT;
+recomanador recomanadora=categories: A;fonts: DNV;
 recombinable=categories: A;fonts: LT;
 recombinant=categories: A;fonts: LT;
 recompensable=categories: A;fonts: LT;
