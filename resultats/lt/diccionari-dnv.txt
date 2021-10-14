@@ -59618,8 +59618,6 @@ obstructores obstructor AQ0FP0
 obstructors obstructor AQ0MP0
 obstruïble obstruïble AQ0CS0
 obstruïbles obstruïble AQ0CP0
-obtenible obtenible AQ0CS0
-obtenibles obtenible AQ0CP0
 ocascle ocascle NCMS000
 ocascles ocascle NCMP000
 ocrodèrmia ocrodèrmia NCFS000
