@@ -32387,3 +32387,4 @@ zírida=categories: A;fonts: LT;
 úric úrica=categories: A;fonts: LT;
 ústaixa=categories: A;fonts: LT;
 útil [sup. utilíssim]=categories: A;fonts: LT;
+postfabrià postfabriana==categories: A;fonts: derivat;
