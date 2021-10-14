@@ -32364,6 +32364,7 @@ zírida=categories: A;fonts: LT;
 ínsubre=categories: A;fonts: LT;
 íntegre íntegra=categories: A;fonts: LT;
 íntim íntima [sup. intimíssim]=categories: A;fonts: LT;
+obtenible=categories: A;fonts: DNV;
 írrit írrita=categories: A;fonts: LT;
 ístmic ístmica=categories: A;fonts: LT;
 ítric ítrica=categories: A;fonts: LT;

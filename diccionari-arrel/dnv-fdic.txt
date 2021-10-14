@@ -4111,7 +4111,6 @@ obrecotxes=categories: MFI;fonts: DNV;
 obstaculista=categories: MF;fonts: DNV;
 obstructor -a=categories: A;fonts: DNV;
 obstruïble=categories: A;fonts: DNV;
-obtenible=categories: A;fonts: DNV;
 ocascle=categories: M;fonts: DNV;
 ocrodèrmia=categories: F;fonts: DNV;
 octaveta=categories: F;fonts: DNV;
