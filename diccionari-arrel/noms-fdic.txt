@@ -153,6 +153,7 @@
 #uta comú=categories: M;fonts: dsalut;
 #uçol=categories: M;fonts: dsalut; forma secundària
 #valproat pivoxil=categories: M;fonts: dsalut;
+#vaser=categories: M;fonts: LT; arcaisme; confusió "va ser"
 #vau=categories: F;fonts: LT; nom de lletra hebrea
 #vende=categories: MF;fonts: LT; inusual
 #ventana=categories: F;fonts: LT; #en el DIEC, no en el DNV, però poc usual i castellà
@@ -83434,7 +83435,6 @@ vasculopatia=categories: F;fonts: dsalut;
 vascó vascona=categories: MF;fonts LT;
 vasectomia=categories: F;fonts: LT;
 vaselina=categories: F;fonts: LT;
-#vaser=categories: M;fonts: LT; arcaisme; confusió "va ser"
 vaset=categories: M;fonts: LT;
 vasitis=categories: FI;fonts: dsalut;
 vasocentesi=categories: F;fonts: dsalut;
