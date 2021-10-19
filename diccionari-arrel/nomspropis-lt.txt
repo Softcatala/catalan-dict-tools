@@ -172,6 +172,7 @@
 #Servi Servi NPMSSP0 # avl: noms de persona
 #Seré (o Serè) Seré (o Serè) NPMSSP0 # avl: noms de persona
 #Set Set NPMSSP0 # avl: noms de persona
+#Sever Sever NPCNSP0 # medical
 #Siles Siles NPMSSP0 # avl: noms de persona
 #Sir Sir NPMSSP0 # avl: noms de persona
 #Sufragi Sufragi NPFSSP0 # avl: noms de persona
@@ -6003,6 +6004,7 @@ Cavallol Cavallol NPCNSP0
 Cavally Cavally NPCSG00
 Cavamont Cavamont NPCSG00
 Cavanilles Cavanilles NPCNSP0
+Cavare-Westphal Cavare-Westphal NPCNSP0
 Cavendish Cavendish NPCNSP0
 Caxito Caxito NPCSG00
 Cayo Cayo NPCSG00
@@ -21902,7 +21904,6 @@ Seu Seu NPCSG00
 Seva Seva NPCNSP0
 Seva Seva NPFSG00
 Sevan Sevan NPCSG00
-#Sever Sever NPCNSP0 # medical
 Sever Sever NPMSSP0
 Severa Severa NPFSSP0
 Severes Severa NPFPSP0

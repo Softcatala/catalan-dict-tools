@@ -50,6 +50,7 @@ atressí atressí RG
 ausades ausades RG
 avall avall RG
 avant avant RG
+aviadíssim aviadíssim RG
 aviat aviat RG
 avui avui RG
 baix baix RG
