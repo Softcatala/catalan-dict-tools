@@ -49832,6 +49832,7 @@ lújula=categories: F;fonts: LT;
 lúnula=categories: F;fonts: LT;
 lúxmetre=categories: M;fonts: LT;
 lúzula=categories: F;fonts: LT;
+mL=categories: MI;fonts: simbols;
 mRNA=categories: MI;fonts: termcat;
 maastrichtià=categories: M;fonts: LT;
 maba=categories: MF;fonts: LT;

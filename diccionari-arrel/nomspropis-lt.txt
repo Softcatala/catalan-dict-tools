@@ -1563,6 +1563,7 @@ Amenguals Amengual NPMPSP0
 Amer Amer NPCNSP0
 Amer Amer NPCSG00
 Americana Americana NPCSG00
+Amerigo Amerigo NPMSSP0
 Amersfoort Amersfoort NPCSG00
 Ames Ames NPCNSP0 # medical
 Amet Amet NPCNSP0
@@ -3919,6 +3920,7 @@ Besòs Besòs NPMSG00
 Betanzos Betanzos NPCSG00
 Betelgeuse Betelgeuse NPCSG00
 Betesa Betesa NPCSG00
+Betevé Betevé NPFSO00
 Betfagé Betfagé NPCSG00
 Beties Beties NPCSG00
 Betis Betis NPMSO00
@@ -5078,6 +5080,7 @@ CaixaForum CaixaForum NPMSO00
 Caixac Caixac NPCNSP0
 Caixans Caixans NPCNSP0
 Caixmir Caixmir NPMSG00
+Cajal Cajal NPCPSP0
 Cajamarca Cajamarca NPCSG00
 Calabar Calabar NPCSG00
 Calabuig Calabuig NPCNSP0
@@ -5197,6 +5200,7 @@ Calvo Calvo NPCNSP0
 Calví Calví NPMSSP0
 Cal·limer Cal·limer NPMSSP0 # avl: noms de persona
 Cal·limera Cal·limera NPFSSP0 # avl: noms de persona
+Cal·lícrates Cal·lícrates NPMSSP0
 Cal·lídia Cal·lídia NPFSSP0 # avl: noms de persona
 Cal·límac Cal·límac NPMSSP0 # avl: noms de persona
 Cal·líope Cal·líope NPFSSP0
@@ -5313,6 +5317,7 @@ Campmanyes Campmanyes NPCNSP0
 Campoamor Campoamor NPCSG00
 Campobasso Campobasso NPCSG00
 Campolier Campolier NPCNSP0
+Campomanes Campomanes NPCNSP0
 Campomar Campomar NPCNSP0
 Campome Campome NPCSG00
 Camporiol Camporiol NPCNSP0
@@ -6174,6 +6179,7 @@ Chaman Chaman NPCSG00
 Chamberlain Chamberlain NPCNSP0 # medical
 Chambéry Chambéry NPCSG00
 Chamonix-Mont-Blanc Chamonix-Mont-Blanc NPCSG00
+Chamorro Chamorro NPCNSP0
 Champasak Champasak NPCSG00
 Champigny-sur-Marne Champigny-sur-Marne NPCSG00
 Champlain Champlain NPCSG00
@@ -7493,6 +7499,7 @@ Danone Danone NPCNO00
 Danot Danot NPCNSP0
 Dant Dant NPMSSP0
 Dante Dante NPMSSP0
+Danton Danton NPCNSP0
 Dantí Dantí NPCNSP0
 Danubi Danubi NPCSG00
 Danzig Danzig NPCSG00
@@ -8910,6 +8917,7 @@ Eteri Eteri NPMSSP0
 Eteris Eteri NPMPSP0
 Ethan Ethan NPMSSP0
 Ethel Ethel NPFSSP0 # avl: noms de persona
+Ethernet Ethernet NPCNO00
 Etiòpia Etiòpia NPFSG00
 Etna Etna NPFSG00
 Etrúria Etrúria NPFSG00
@@ -9064,6 +9072,7 @@ Excel Excel NPMNO00
 Expectació Expectació NPFSSP0 # avl: noms de persona
 Expedit Expedit NPMSSP0
 Expedits Expedit NPMPSP0
+Expósito Expósito NPCNSP0
 Extremadura Extremadura NPFSG00
 Extrems Extrems NPCNSP0
 Exuperanci Exuperanci NPMSSP0
@@ -9091,6 +9100,7 @@ FAI FAI NPFSO00
 FAO FAO NPFSO00
 FARC FARC NPFPO00
 FBI FBI NPMSO00
+FEDAC FEDAC NPFSO00
 FEDER FEDER NPMNO00
 FEN FEN NPFSO00
 FGC FGC NPMPO00
@@ -9355,6 +9365,7 @@ Fermí Fermí NPCNSP0
 Fermí Fermí NPMSSP0
 Fernando Fernando NPMSSP0
 Fernández Fernández NPCNSP0
+Fernão Fernão NPMSSP0
 Ferradura Ferradura NPFSG00
 Ferragut Ferragut NPCNSP0
 Ferraire Ferraire NPCNSP0
@@ -9527,6 +9538,7 @@ Fiveller Fiveller NPCNSP0
 Fivizzano Fivizzano NPCSG00
 Fiònia Fiònia NPCSG00
 Fiódor Fiódor NPMSSP0
+Fiódorovna Fiódorovna NPFSSP0
 Flacq Flacq NPCSG00
 Flameric Flameric NPCNSP0
 Flamini Flamini NPMSSP0
@@ -11138,6 +11150,7 @@ Gréixer Gréixer NPCSG00
 Grífol Grífol NPCNSP0
 Grífols Grífols NPCNSP0
 Grímsvötn Grímsvötn NPCSG00
+Grönholm Grönholm NPCNSP0
 Grüntzig Grüntzig NPCNSP0 # medical
 Gstaad Gstaad NPCSG00
 Guadalajara Guadalajara NPFSG00
@@ -12381,6 +12394,7 @@ Jardí Jardí NPCNSP0
 Jarinje Jarinje NPCSG00
 Jasmina Jasmina NPFSSP0 # avl: noms de persona
 Jasons Jasó NPMPSP0
+Jaspers Jaspers NPCNSP0
 Jaspert Jaspert NPMSSP0 # avl: noms de persona
 Jasó Jasó NPMSSP0
 Jaufré Jaufré NPMSSP0 # avl: noms de persona
@@ -12411,6 +12425,7 @@ Jekyll Jekyll NPCNSP0
 Jena Jena NPCSG00
 Jenakijeve Jenakijeve NPCSG00
 Jenin Jenin NPCSG00
+Jennifer Jennifer NPFSSP0 # anglès
 Jepús Jepús NPCNSP0
 Jeremies Jeremies NPMPSP0
 Jeremies Jeremies NPMSSP0
@@ -12551,6 +12566,7 @@ Joval Joval NPCSG00
 Jovals Jovals NPCSG00
 Jove Jove NPCNSP0
 Jovell Jovell NPCNSP0
+Jovellanos Jovellanos NPCNSP0
 Jovenet Jovenet NPCNSP0
 Jovenic Jovenic NPCNSP0
 Joventeny Joventeny NPCNSP0
@@ -13524,6 +13540,7 @@ Litija Litija NPCSG00
 Littré Littré NPCNSP0 # medical
 Lituània Lituània NPFSG00
 Liuzhou Liuzhou NPCSG00
+Livermore Livermore NPCNG00
 Liverpool Liverpool NPCSG00
 Livi Livi NPMSSP0 # avl: noms de persona
 Livingston Livingston NPCSG00
@@ -14159,6 +14176,7 @@ Madison Madison NPCSG00
 Madiun Madiun NPCSG00
 Madonie Madonie NPCSG00
 Madonna Madonna NPFSSP0
+Madoz Madoz NPCNSP0
 Madremany Madremany NPCNSP0
 Madremanya Madremanya NPFSG00
 Madrenes Madrenes NPCNSP0
@@ -14187,6 +14205,7 @@ Mafeteng Mafeteng NPCSG00
 Mafucci Mafucci NPCNSP0 # medical
 Mafumet Mafumet NPCSG00
 Magadan Magadan NPCSG00
+Magalhães Magalhães NPCNSP0
 Magallanes Magallanes NPCSG00
 Magallons Magallons NPCNSP0
 Magalló Magalló NPCNSP0
@@ -15392,6 +15411,7 @@ Michaelis Michaelis NPCNSP0 # medical
 Michaelis-Menten Michaelis-Menten NPCNSP0 # medical
 Michelangelo Michelangelo NPMSSP0
 Michelin Michelin NPCNO00
+Michelle Michelle NPFSSP0
 Michigan Michigan NPCSG00
 Michoacán Michoacán NPCSG00
 Mickey Mickey NPMSSP0
@@ -18873,6 +18893,7 @@ Portland Portland NPCSG00
 Portlligat Portlligat NPCSG00
 Portmany Portmany NPCSG00
 Porto-Novo Porto-Novo NPCSG00
+Portocolom Portocolom NPMSG00
 Portocristo Portocristo NPCSG00
 Portoferraio Portoferraio NPCSG00
 Portofino Portofino NPCSG00
@@ -19363,6 +19384,7 @@ Pujós Pujós NPCNSP0
 Pula Pula NPCSG00
 Pulitzer Pulitzer NPCNSP0
 Pulla Pulla NPFSG00
+Pullman Pullman NPCNSP0
 Pullès Pullès NPCNSP0
 Pulquèria Pulquèria NPFSSP0
 Pulquèries Pulquèria NPFPSP0
@@ -21191,6 +21213,7 @@ Sandali Sandali NPMSSP0 # avl: noms de persona
 Sandhurst Sandhurst NPCSG00
 Sandra Sandra NPFSSP0 # avl: noms de persona
 Sandre Sandre NPMSSP0 # avl: noms de persona
+Sandro Sandro NPMSSP0
 Sandwich Sandwich NPCSG00
 Sandàlia Sandàlia NPFSSP0 # avl: noms de persona
 Saneja Saneja NPCSG00
@@ -22199,6 +22222,7 @@ Slov'ans'k Slov'ans'k NPCSG00
 Sluder Sluder NPCNSP0 # medical
 Slupsk Slupsk NPCSG00
 Smara Smara NPCSG00
+Smeaton Smeaton NPCNSP0
 Smith Smith NPCNSP0
 Smith-Robinson Smith-Robinson NPCNSP0 # medical
 Smolensk Smolensk NPCSG00
@@ -23057,6 +23081,7 @@ Teixidor Teixidor NPCNSP0
 Teixonera Teixonera NPCNSP0
 Teixonera Teixonera NPFSG00
 Teià Teià NPCSG00
+Tejero Tejero NPCNSP0
 Tel-Aviv Tel-Aviv NPCSG00
 Tel-Aviv-Yafō Tel-Aviv-Yafō NPCSG00
 Telde Telde NPCSG00
@@ -24751,6 +24776,7 @@ Vespa Vespa NPFSG00
 Vespasiana Vespasiana NPFSSP0 # avl: noms de persona
 Vespasià Vespasià NPMSSP0
 Vespella Vespella NPFSG00
+Vespucci Vespucci NPCNSP0
 Vesta Vesta NPCSG00
 Vestfjorden Vestfjorden NPCSG00
 Vestit Vestit NPCNSP0
@@ -25954,6 +25980,7 @@ Zòtics Zòtic NPMPSP0
 Zújar Zújar NPCSG00
 Zābol Zābol NPCSG00
 al-Àndalus al-Àndalus NPCSG00
+d'Alembert d'Alembert NPCNSP0
 eBay eBay NPCNO00
 es-Satty es-Satty NPCNSP0
 ex-Iugoslàvia ex-Iugoslàvia NPFSG00
