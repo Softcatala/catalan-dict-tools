@@ -12395,7 +12395,7 @@ fal·lanàstrof=categories: A;fonts: dsalut;
 fal·laç [sup. fal·lacíssim]=categories: A;fonts: LT;
 fal·lible=categories: A;fonts: LT;
 fal·liforme=categories: A;fonts: LT;
-fal·locentristacategories: A;fonts: derivat;
+fal·locentrista=categories: A;fonts: derivat;
 fal·locèntric fal·locèntrica=categories: A; fonts: termcat;
 fal·lopià fal·lopiana=categories: A;fonts: dsalut;
 fal·lòcrata=categories: A;fonts: LT;
