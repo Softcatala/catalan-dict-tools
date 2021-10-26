@@ -335,6 +335,7 @@ artificialment artificialment RG
 artificiosament artificiosament RG
 artríticament artríticament RG # extrets de corpus
 artísticament artísticament RG
+ascendentment ascendentment RG # derivat
 ascèticament ascèticament RG # extrets de corpus
 asexuadament asexuadament RG
 asexualment asexualment RG # extrets de corpus
@@ -1008,6 +1009,7 @@ descansadament descansadament RG
 descaradament descaradament RG
 descarnadament descarnadament RG
 descarreradament descarreradament RG
+descendentment descendentment RG # derivat
 descentralitzadament descentralitzadament RG # extrets de corpus
 descobertament descobertament RG
 descompassadament descompassadament RG
