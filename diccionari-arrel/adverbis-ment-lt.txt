@@ -1,3 +1,6 @@
+#apresament apresament RG # extrets de corpus
+#calentament calentament RG # extrets de corpus
+#lelament lelament RG # extrets de corpus
 abaltidament abaltidament RG # extrets de corpus
 abandonadament abandonadament RG
 abarrocadament abarrocadament RG # extrets de corpus
@@ -280,7 +283,6 @@ apoteòsicament apoteòsicament RG
 apreciablement apreciablement RG
 apreciativament apreciativament RG # extrets de corpus
 aprensivament aprensivament RG # extrets de corpus
-apresament apresament RG # extrets de corpus
 apressadament apressadament RG
 aprimoradament aprimoradament RG # extrets de corpus
 apriorísticament apriorísticament RG # extrets de corpus
@@ -537,7 +539,6 @@ caducament caducament RG
 calamitosament calamitosament RG
 calculadament calculadament RG
 calculadorament calculadorament RG # extrets de corpus
-calentament calentament RG # extrets de corpus
 calladament calladament RG
 calmadament calmadament RG # extrets de corpus
 calmament calmament RG # extrets de corpus
@@ -2672,7 +2673,6 @@ lectivament lectivament RG # extrets de corpus
 legalment legalment RG
 legislativament legislativament RG
 legítimament legítimament RG
-lelament lelament RG # extrets de corpus
 lenitivament lenitivament RG # extrets de corpus
 lentament lentament RG
 letalment letalment RG
@@ -2869,6 +2869,7 @@ metafòricament metafòricament RG
 metalingüísticament metalingüísticament RG
 metal·lúrgicament metal·lúrgicament RG # extrets de corpus
 metamèricament metamèricament RG # extrets de corpus
+meteorològicament meteorològicament RG
 meteòricament meteòricament RG
 meticulosament meticulosament RG
 metodològicament metodològicament RG
