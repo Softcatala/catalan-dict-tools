@@ -70417,10 +70417,6 @@ sarsallosa sarsallós AQ0FS0
 sarsalloses sarsallós AQ0FP0
 sarsallosos sarsallós AQ0MP0
 sarsallós sarsallós AQ0MS0
-saudins saudí AQ0CP0
-saudins saudí NCCP000
-saudí saudí AQ0CS0
-saudí saudí NCCS000
 scout scout AQ0CS0
 scout scout NCCS000
 scouts scout AQ0CP0
