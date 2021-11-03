@@ -16475,6 +16475,7 @@ infanticida=categories: A;fonts: LT;
 infantil=categories: A;fonts: LT;
 infantilitzador infantilitzadora=categories: A;fonts: derivat;
 infantiloide=categories: AA;fonts: LT;
+infantojuvenil=categories: A;fonts: termcat;
 infantívol infantívola=categories: A;fonts: LT;
 infartat infartada=categories: A;fonts: LT;
 infatigable=categories: A;fonts: LT;
