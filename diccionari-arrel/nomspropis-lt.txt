@@ -8569,6 +8569,7 @@ Erols Erols NPMPG00
 Eros Eros NPCSG00
 Eroski Eroski NPCNO00
 Erra Erra NPCNSP0
+Errejón Errejón NPCNSP0
 Erta Erta NPCSG00
 Erts Erts NPCSG00
 Ertzaintza Ertzaintza NPFSO00
