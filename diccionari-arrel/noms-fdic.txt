@@ -147,6 +147,7 @@
 #timpani inferior=categories: M;fonts: dsalut;
 #tocom=categories: M;fonts: LT; ghost noun!
 #trinitrat de gliceril=categories: M;fonts: dsalut;
+#trompicó=categories: M;fonts: DCVB, però no DNV;
 #tropat d'escopina=categories: M;fonts: dsalut;
 #uixol=categories: M;fonts: dsalut; forma secundària
 #ulcus terebrans=categories: M;fonts: dsalut;
@@ -81832,7 +81833,6 @@ trompeteig=categories: M;fonts: LT;
 trompeter trompetera=categories: MF;fonts LT;
 trompeteria=categories: F;fonts: LT;
 trompetista=categories: MF;fonts: LT;
-trompicó=categories: M;fonts: LT;
 trompista=categories: MF;fonts: derivat;
 trompitja=categories: F;fonts: LT;
 trompitxol=categories: M;fonts: LT;
