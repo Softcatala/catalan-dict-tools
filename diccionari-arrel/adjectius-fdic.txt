@@ -22073,6 +22073,7 @@ onilenc onilenca=categories: A;fonts: LT;
 oniler onilera=categories: A;fonts: LT;
 onirogen onirògena=categories: A;fonts: dsalut;
 oniroide=categories: A;fonts: dsalut;
+online=categories: AI;fonts: anglès;
 onomasiològic onomasiològica=categories: A;fonts: LT;
 onomatopeic onomatopeica=categories: A;fonts: LT;
 onomàstic onomàstica=categories: A;fonts: LT;
