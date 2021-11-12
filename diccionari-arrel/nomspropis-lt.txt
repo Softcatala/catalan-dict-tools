@@ -4233,6 +4233,8 @@ Boksburg Boksburg NPCSG00
 Bolama-Bijagós Bolama-Bijagós NPCSG00
 Bolangé Bolangé NPCNSP0
 Bolart Bolart NPCNSP0
+Bolaño Bolaño NPCNSP0
+Bolaños Bolaños NPCNSP0
 Bolcàssim Bolcàssim NPCSG00
 Boldissos Boldissos NPMPG00
 Boldobà Boldobà NPCNSP0
@@ -11693,6 +11695,7 @@ Herminda Herminda NPFSSP0 # avl: noms de persona
 Hermini Hermini NPMSSP0
 Herminis Hermini NPMPSP0
 Hermione Hermione NPFSSP0
+Hermitage Hermitage NPMSO00
 Hermon Hermon NPCSG00
 Hermosillo Hermosillo NPCSG00
 Hermínia Hermínia NPFSSP0
@@ -26182,6 +26185,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Bolaños Bolaños NPCNSP0
-Bolaño Bolaño NPCNSP0
-Hermitage Hermitage NPMSO00
