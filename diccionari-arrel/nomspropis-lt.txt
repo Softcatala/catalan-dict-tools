@@ -26182,3 +26182,6 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Bolaños Bolaños NPCNSP0
+Bolaño Bolaño NPCNSP0
+Hermitage Hermitage NPMSO00
