@@ -37,6 +37,8 @@
 #Cel Cel NPFSSP0 # avl: noms de persona
 #Celest Celest NPFSSP0 # avl: noms de persona
 #Celi Celi NPMSSP0 # avl: noms de persona
+#Cellerers Cellerers NPCNSP0
+#Cellers Cellers NPCSG00
 #Celí Celí NPMSSP0 # avl: noms de persona
 #Cloé (o Cloè) Cloé (o Cloè) NPFSSP0 # avl: noms de persona
 #Colassa Colassa NPFSSP0 # avl: noms de persona
@@ -4597,6 +4599,7 @@ Brauli Brauli NPMSSP0
 Braulis Brauli NPMPSP0
 Braun Braun NPCNSP0 # medical
 Braunau Braunau NPCSG00
+Braveheart Braveheart NPCNSP0
 Bravo Bravo NPCNSP0
 Brazzaville Brazzaville NPCSG00
 Brač Brač NPCSG00
@@ -6063,8 +6066,6 @@ Celje Celje NPCSG00
 Celle Celle NPCSG00
 Celle-Saint-Cloud Celle-Saint-Cloud NPFSG00
 Cellera Cellera NPFSG00
-#Cellerers Cellerers NPCNSP0
-#Cellers Cellers NPCSG00
 Celoni Celoni NPCNSP0
 Celoni Celoni NPCSG00
 Celrà Celrà NPCNSP0
@@ -10852,6 +10853,7 @@ Goiânia Goiânia NPCSG00
 Gojam Gojam NPCSG00
 Golan Golan NPMSG00
 Goldberg Goldberg NPCNSP0
+Goldfinger Goldfinger NPCNSP0
 Goldman Goldman NPCNSP0
 Goldman Goldman NPCNSP0 # medical
 Goldman-Favre Goldman-Favre NPCNSP0 # medical
@@ -13375,6 +13377,7 @@ Leonil·la Leonil·la NPFSSP0 # avl: noms de persona
 Leonor Leonor NPFSSP0 # avl: noms de persona
 Leontina Leontina NPFSSP0 # avl: noms de persona
 Leopard Leopard NPCNSP0 # medical
+Leopardi Leopardi NPCNSP0
 Leopold Leopold NPCNSP0 # medical
 Leopold Leopold NPMSSP0
 Leopolda Leopolda NPFSSP0 # avl: noms de persona
@@ -17123,6 +17126,7 @@ Oix Oix NPCSG00
 Ojika Ojika NPCSG00
 Ojm'akon Ojm'akon NPCSG00
 Oka Oka NPCSG00
+Okavango Okavango NPMSG00
 Okayama Okayama NPCSG00
 Okazaki Okazaki NPCNSP0 # medical
 Okazaki Okazaki NPCSG00
@@ -20597,6 +20601,7 @@ Rotliegendes Rotliegendes NPCSG00
 Rotlleus Rotlleus NPCNSP0
 Rotllà Rotllà NPMSSP0
 Rotlà Rotlà NPMSSP0
+Rottenmeier Rottenmeier NPCNSP0
 Rotterdam Rotterdam NPCSG00
 Roubaix Roubaix NPCSG00
 Rouen Rouen NPCSG00
@@ -25526,6 +25531,7 @@ Wiesbaden Wiesbaden NPCSG00
 Wigan Wigan NPCSG00
 Wight Wight NPCSG00
 Wii Wii NPFSO00
+Wikileaks Wikileaks NPMNO00
 Wikiloc Wikiloc NPCNO00
 Wikipedia Wikipedia NPFSO00
 Wildspitze Wildspitze NPCSG00
@@ -25963,6 +25969,7 @@ Zululàndia Zululàndia NPFSG00
 Zumarraga Zumarraga NPCSG00
 Zumbush Zumbush NPCNSP0 # medical
 Zunyi Zunyi NPCSG00
+Zurbarán Zurbarán NPCNSP0
 Zuric Zuric NPCSG00
 Zutphen Zutphen NPCSG00
 Zuwarah Zuwarah NPCSG00
@@ -26186,10 +26193,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Rottenmeier Rottenmeier NPCNSP0
-Goldfinger Goldfinger NPCNSP0
-Braveheart Braveheart NPCNSP0
-Leopardi Leopardi NPCNSP0
-Okavango Okavango NPMSG00
-Wikileaks Wikileaks NPMNO00
-Zurbarán Zurbarán NPCNSP0
