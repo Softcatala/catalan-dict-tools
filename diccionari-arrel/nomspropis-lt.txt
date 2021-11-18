@@ -6063,8 +6063,8 @@ Celje Celje NPCSG00
 Celle Celle NPCSG00
 Celle-Saint-Cloud Celle-Saint-Cloud NPFSG00
 Cellera Cellera NPFSG00
-Cellerers Cellerers NPCNSP0
-Cellers Cellers NPCSG00
+#Cellerers Cellerers NPCNSP0
+#Cellers Cellers NPCSG00
 Celoni Celoni NPCNSP0
 Celoni Celoni NPCSG00
 Celrà Celrà NPCNSP0
@@ -26186,3 +26186,10 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Rottenmeier Rottenmeier NPCNSP0
+Goldfinger Goldfinger NPCNSP0
+Braveheart Braveheart NPCNSP0
+Leopardi Leopardi NPCNSP0
+Okavango Okavango NPMSG00
+Wikileaks Wikileaks NPMNO00
+Zurbarán Zurbarán NPCNSP0
