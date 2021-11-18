@@ -2755,6 +2755,7 @@ Aydın Aydın NPCSG00
 Aylesbury Aylesbury NPCSG00
 Ayr Ayr NPCSG00
 Ayre Ayre NPCNSP0 # medical
+Ayreflor Ayreflor NPCNSP0
 Ayuso Ayuso NPCNSP0
 Ayutthaya Ayutthaya NPCSG00
 Az-Zawiyah Az-Zawiyah NPCSG00
