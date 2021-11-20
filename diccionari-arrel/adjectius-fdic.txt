@@ -14403,6 +14403,7 @@ guaridor guaridora=categories: A;fonts: LT;
 guarnidor guarnidora=categories: A;fonts: LT;
 guatemalenc guatemalenca=categories: A;fonts: LT;
 guenyo guenya=categories: A;fonts: LT;
+guerracivilista=categories: A;fonts: derivat;
 guerrejador guerrejadora=categories: A;fonts: LT;
 guerrer guerrera=categories: A;fonts: LT;
 guerriller guerrillera=categories: A;fonts: LT;

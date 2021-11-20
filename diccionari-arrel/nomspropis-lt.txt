@@ -25531,7 +25531,7 @@ Wiesbaden Wiesbaden NPCSG00
 Wigan Wigan NPCSG00
 Wight Wight NPCSG00
 Wii Wii NPFSO00
-Wikileaks Wikileaks NPMNO00
+WikiLeaks WikiLeaks NPMNO00
 Wikiloc Wikiloc NPCNO00
 Wikipedia Wikipedia NPFSO00
 Wildspitze Wildspitze NPCSG00
