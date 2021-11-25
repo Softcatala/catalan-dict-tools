@@ -29145,6 +29145,7 @@ superoextern superoexterna=categories: A;fonts: dsalut;
 superointern superointerna=categories: A;fonts: dsalut;
 superoriginal=categories: A;fonts: derivat;
 superovàric superovàrica=categories: A;fonts: LT;
+superperillós superperillosa=categories: A; font:derivat;
 superpesant=categories: A;fonts: derivat;
 superpesat superpesada=categories: A;fonts: derivat;
 superplàstic superplàstica=categories: A;fonts: LT;
