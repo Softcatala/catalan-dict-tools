@@ -58,6 +58,8 @@
 #Duna Duna NPFSSP0 # avl: noms de persona
 #Durà Durà NPMSSP0 # avl: noms de persona
 #Elisén (o Elisèn) Elisén (o Elisèn) NPMSSP0 # avl: noms de persona
+#Emperador Emperador NPCNSP0
+#Emperador Emperador NPCSG00
 #Ena Ena NPFSSP0 # avl: noms de persona
 #Enec Enec NPMSSP0 # avl: noms de persona
 #Erb #Erb NPCNSP0 # medical
@@ -8391,8 +8393,6 @@ Empalme Empalme NPCSG00
 Empanada Empanada NPCSG00
 Empar Empar NPFSSP0
 Empars Empar NPFPSP0
-Emperador Emperador NPCNSP0
-Emperador Emperador NPCSG00
 Empoli Empoli NPCSG00
 Empordanet Empordanet NPMSG00
 Empordà Empordà NPMSG00
