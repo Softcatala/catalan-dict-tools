@@ -12214,6 +12214,7 @@ extrafutbolístic extrafutbolística=categories: A;fonts: derivat;
 extrafí extrafina=categories: A;fonts: LT;
 extragalàctic extragalàctica=categories: A;fonts: LT;
 extragenital=categories: A;fonts: dsalut;
+extragran=categories: A; font:derivat;
 extragènic extragènica=categories: A;fonts: dsalut;
 extrahepàtic -a=categories: A;fonts: dsalut;
 extraheterodiegètic extraheterodiegètica=categories: A;fonts: termcat;
