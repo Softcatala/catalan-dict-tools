@@ -1,4 +1,3 @@
-
 #PCR=categories: FI;fonts: dsalut;
 #altamira borda=categories: F;fonts: dsalut;
 #angor=categories: M;fonts: dsalut;
@@ -217,6 +216,7 @@ CRAE=categories: MI;fonts: sigles;
 CRS=categories: MI;fonts: dsalut;
 CSS=categories: MI;fonts: termcat;
 CUAP=categories: MI;fonts: sigles;
+Ciberdilluns=categories MI; fonts: esadir;
 Cinquagesma=categories: F;fonts: LT;
 Cinquecento=categories: MS;fonts: italià;
 Contrareforma=categories: F;fonts: LT;
