@@ -79910,6 +79910,7 @@ toisó=categories: M;fonts: LT;
 toixarrudesa=categories: F;fonts: LT;
 toixesa=categories: F; fonts: Jané;
 toixó=categories: M;fonts: LT;
+token [pl. tokens]=categories: M;fonts: english;
 tokhari tokhària=categories: MF;fonts: LT;
 tola=categories: F;fonts: LT;
 tolamolol=categories: MS;fonts: dsalut;
