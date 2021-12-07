@@ -2788,6 +2788,7 @@ BCN BCN NPFSG00
 BMW BMW NPCNO00
 BOE BOE NPMSO00
 BRIMO BRIMO NPCNO00
+BSC BSC NPMSO00
 BTV BTV NPCNO00
 BUP BUP NPMSO00
 Baal Baal NPMSSP0
@@ -3568,6 +3569,7 @@ Bena Bena NPCSG00
 Benaadir Benaadir NPCSG00
 Benac Benac NPCNSP0
 Benacantil Benacantil NPMSG00
+Benach Benach NPCNSP0
 Benafer Benafer NPCSG00
 Benafigos Benafigos NPCSG00
 Benages Benages NPCNSP0
@@ -4259,6 +4261,7 @@ Boloix Boloix NPCNSP0
 Bolonya Bolonya NPFSG00
 Bolquera Bolquera NPFSG00
 Bolsena Bolsena NPCSG00
+Bolsonaro Bolsonaro NPCNSP0
 Bolton Bolton NPCSG00
 Boltzmann Boltzmann NPCNSP0
 Boltà Boltà NPCNSP0
@@ -12182,6 +12185,7 @@ Innocenci Innocenci NPMSSP0
 Innocencis Innocenci NPMPSP0
 Innocent Innocent NPCSSP0 # avl: noms de persona
 Innocència Innocència NPFSSP0 # avl: noms de persona
+Innovamat Innovamat NPCNO00
 Innsbruck Innsbruck NPCSG00
 Inowrocław Inowrocław NPCSG00
 Instagram Instagram NPMSO00
@@ -19636,6 +19640,7 @@ Qustol Qustol NPCSG00
 Quthing Quthing NPCSG00
 Quzhou Quzhou NPCSG00
 RAC RAC NPFSO00
+RACC RACC NPMSO00
 RACCTel RACCTel NPCNO00
 RAE RAE NPFSO00
 RAI RAI NPFSO00
@@ -23294,6 +23299,7 @@ Thanjāvur Thanjāvur NPCSG00
 Thar Thar NPCSG00
 Thatcher Thatcher NPCNSP0
 Thaís Thaís NPFSSP0 # avl: noms de persona
+Thaïs Thaïs NPFSSP0
 Thiais Thiais NPCSG00
 Thiene Thiene NPCSG00
 Thiessen Thiessen NPCNSP0
@@ -24745,6 +24751,7 @@ Verges Verges NPCSG00
 Verginet Verginet NPCNSP0
 Vergonyà Vergonyà NPCNSP0
 Vergonyós Vergonyós NPCNSP0
+Vergés Vergés NPCNSP0
 Vergós Vergós NPCNSP0
 Veri Veri NPCSG00
 Verkami Verkami NPMSO00

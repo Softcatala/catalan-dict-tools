@@ -63008,8 +63008,6 @@ pleitejàveu pleitejar VMII2P00
 pleits pleit NCMP000
 pleuràlgia pleuràlgia NCFS000
 pleuràlgies pleuràlgia NCFP000
-plis-plai plis-plai NCMS000
-plis-plais plis-plai NCMP000
 plomalla plomalla NCFS000
 plomallege plomallejar VMIP1S0V
 plomallege plomallejar VMM03S0V

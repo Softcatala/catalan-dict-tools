@@ -4592,7 +4592,6 @@ pleitejant=categories: A;fonts: DNV;
 pleitejant=categories: MF;fonts: DNV;
 pleitejar=categories: V;model:envejar;fonts: DNV;
 pleuràlgia=categories: F;fonts: DNV;
-plis-plai=categories: M;fonts: DNV;
 plomalla=categories: F;fonts: DNV;
 plomallejar=categories: V;model:envejar;fonts: DNV;
 ploramicar=categories: V;model:trencar;fonts: DNV;
