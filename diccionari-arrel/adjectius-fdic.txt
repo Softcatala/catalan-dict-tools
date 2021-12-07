@@ -29126,7 +29126,6 @@ superfranc superfranca=categories: A;fonts: derivat;
 superfàcil=categories: A;fonts: derivat, colloquial;
 superfí superfina=categories: A;fonts: LT;
 supergamberro supergamberra=categories: A;fonts: derivat;
-supergegant supergeganta=categories: A;fonts: derivat;
 supergegant=categories: A;fonts: derivat;
 superglicerinat=categories: A;fonts: LT;
 supergran=categories: A; font:derivat;
