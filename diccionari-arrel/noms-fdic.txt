@@ -45310,6 +45310,7 @@ inflicció=categories: F;fonts: LT;
 infliximab=categories: M;fonts: dsalut;
 inflor=categories: F;fonts: LT;
 inflorescència=categories: F;fonts: LT;
+influenciabilitat=categories: F;fonts: derivat;
 influenciador influenciadora=categories: MF;fonts: LT;
 influença=categories: F;fonts: LT;
 influx=categories: M;fonts: LT;
