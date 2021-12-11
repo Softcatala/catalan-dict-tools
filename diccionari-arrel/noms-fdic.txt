@@ -77079,6 +77079,7 @@ superrealisme=categories: M;fonts: LT;
 superrealista=categories: MF;fonts: LT;
 superrealitat=categories: F;fonts: derivat;
 superrebaixa=categories: F;fonts: derivat;
+superresistència=categories: F;fonts: LT;
 superscripció=categories: F;fonts: dsalut;
 supersensibilitat=categories: F;fonts: dsalut;
 supersimetria=categories: F;fonts: LT;
