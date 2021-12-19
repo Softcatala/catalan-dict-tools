@@ -52792,6 +52792,7 @@ metatròfia=categories: F;fonts: dsalut;
 metatuberculosi=categories: F;fonts: dsalut;
 metatàlem=categories: M;fonts: LT;
 metatòrax=categories: M;fonts: LT;
+metavers=categories: M;fonts: termcat;
 metaxalona=categories: F;fonts: dsalut;
 metaxènia=categories: F;fonts: dsalut;
 metazoea=categories: F;fonts: LT;
