@@ -326,6 +326,7 @@ PEV=categories: FI;fonts: dsalut;
 PIB=categories: MI;fonts: LT;
 PIME=categories: FI;fonts: LT;
 PLC=categories: MI;fonts: termcat;
+PMF=categories: FP; fonts: plural;
 PMMA=categories: MI;fonts: dsalut;
 PNR=categories: MS;fonts: sigla, english;
 PPD=categories: MI;fonts: dsalut;
