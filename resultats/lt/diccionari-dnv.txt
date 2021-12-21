@@ -55222,10 +55222,6 @@ lletxola lletxola NCFS000
 lletxoles lletxola NCFP000
 lleuderia lleuderia NCFS000
 lleuderies lleuderia NCFP000
-llevantinisme llevantinisme NCMS000
-llevantinismes llevantinisme NCMP000
-llibertarisme llibertarisme NCMS000
-llibertarismes llibertarisme NCMP000
 llibrejoc llibrejoc NCMS000
 llibrejocs llibrejoc NCMP000
 llicera llicera NCFS000
