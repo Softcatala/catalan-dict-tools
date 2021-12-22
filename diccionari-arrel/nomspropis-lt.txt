@@ -17859,6 +17859,7 @@ Paranaíba Paranaíba NPCSG00
 Paranxet Paranxet NPCSG00
 Paranà Paranà NPCSG00
 Paratge Paratge NPCNSP0
+Paraulògic Paraulògic NPMSO00
 Paray-le-Monial Paray-le-Monial NPCSG00
 Paraíba Paraíba NPCSG00
 Parañaque Parañaque NPCSG00
