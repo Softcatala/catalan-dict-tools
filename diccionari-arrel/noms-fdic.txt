@@ -77,6 +77,7 @@
 #infermetat=categories: F;fonts: LT; arcaisme o poc usual
 #inotuzumab ozogamicina=categories: M;fonts: dsalut;
 #input-output=categories: MS;fonts: DNV,anglès;
+#intima=categories: F;fonts: LT; arcaisme
 #lab=categories: M;fonts: dsalut;
 #legibilitat=categories: F;fonts: LT; error, d'on ve?
 #lentor=categories: F;fonts: dsalut;
@@ -45887,7 +45888,6 @@ intestificació=categories: F;fonts: LT;
 intestí=categories: M;fonts: LT;
 inti=categories: M;fonts: LT;
 intifada=categories: F;fonts: LT;
-intima=categories: F;fonts: LT;
 intimació=categories: F;fonts: LT;
 intimidació=categories: F;fonts: LT;
 intimisme=categories: M;fonts: LT;
