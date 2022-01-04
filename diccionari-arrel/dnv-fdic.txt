@@ -177,7 +177,6 @@ amixi=categories: F;fonts: DNV;
 amnioscopi=categories: M;fonts: DNV;
 amodorrament=categories: M;fonts: DNV;
 amodorrar=categories: V;model:cantar;fonts: LT;
-amoixamat -ada=categories: A;fonts: DNV;
 amollonador -a=categories: MF;fonts: DNV;
 amonestable=categories: A;fonts: DNV;
 amonita=categories: F;fonts: DNV;

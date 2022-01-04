@@ -4222,10 +4222,6 @@ amodorrésseu amodorrar VMSI2P05
 amodorréssim amodorrar VMSI1P02
 amodorréssiu amodorrar VMSI2P02
 amodorrí amodorrar VMIS1S00
-amoixamada amoixamat AQ0FS0
-amoixamades amoixamat AQ0FP0
-amoixamat amoixamat AQ0MS0
-amoixamats amoixamat AQ0MP0
 amollonador amollonador NCMS000
 amollonadora amollonador NCFS000
 amollonadores amollonador NCFP000
