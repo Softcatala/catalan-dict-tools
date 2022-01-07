@@ -16976,6 +16976,7 @@ Nunavut Nunavut NPCSG00
 Nuncarga Nuncarga NPCSG00
 Nuneaton Nuneaton NPCSG00
 Nuoro Nuoro NPCSG00
+Nur-Sultan Nur-Sultan NPCSG00
 Nuremberg Nuremberg NPCSG00
 Nurestan Nurestan NPMSG00
 Nuristan Nuristan NPMSG00
