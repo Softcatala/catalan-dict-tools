@@ -24569,6 +24569,7 @@ Valric Valric NPCSG00
 Valriu Valriu NPCNSP0
 Valsalva Valsalva NPCNSP0 # medical
 Valtellina Valtellina NPCSG00
+Valtònyc Valtònyc NPMSSP0
 Valveralla Valveralla NPCNSP0
 Valveralla Valveralla NPCSG00
 Valverde Valverde NPCSG00

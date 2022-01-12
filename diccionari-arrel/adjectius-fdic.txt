@@ -24353,6 +24353,7 @@ politicolingüístic -a=categories: A;fonts: derivat;
 politicomediàtic politicomediàtica=categories: A;fonts: derivat;
 politicomilitar=categories: A;fonts: LT;
 politiconacional=categories: A;fonts: derivat;
+politicoperiodístic politicoperiodística=categories: A;fonts: derivat;
 politicoreligiós politicoreligiosa=categories: A;fonts: LT;
 politicosindical=categories: A;fonts: derivat;
 politicosocial=categories: A;fonts: LT;
