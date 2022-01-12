@@ -13361,7 +13361,7 @@ Lennon Lennon NPCNSP0
 Lennox-Gastaut Lennox-Gastaut NPCNSP0 # medical
 Lens Lens NPCSG00
 Lentini Lentini NPCSG00
-Leo Leo NPMSSP0
+Leo Leo NPCSSP0 # pot ser masculí i femení
 Leobard Leobard NPMSSP0
 Leobards Leobard NPMPSP0
 Leobi Leobi NPMSSP0
