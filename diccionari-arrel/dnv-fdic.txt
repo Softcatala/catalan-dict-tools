@@ -4188,7 +4188,6 @@ pacense=categories: A;fonts: DNV;
 pacense=categories: MF;fonts: DNV;
 pacienciós -osa=categories: A;fonts: DNV;
 pacienciüt -üda=categories: A;fonts: DNV;
-pack=categories: MS;fonts: DNV,anglès;
 pagania=categories: F;fonts: DNV;
 paidofília=categories: F;fonts: DNV;
 paidòfil -a=categories: MF;fonts: DNV;

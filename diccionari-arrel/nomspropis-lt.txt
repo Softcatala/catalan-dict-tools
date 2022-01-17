@@ -13242,6 +13242,7 @@ Lanzarote Lanzarote NPCSG00
 Lanzhou Lanzhou NPCSG00
 Lançac Lançac NPCSG00
 Lanús Lanús NPCSG00
+Lao Lao NPCSG00
 Laocont Laocont NPMSSP0 # avl: noms de persona
 Laocoont Laocoont NPMSSP0 # avl: noms de persona
 Laodicea Laodicea NPCSG00

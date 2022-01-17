@@ -60298,7 +60298,6 @@ pacienciüda pacienciüt AQ0FS0
 pacienciüdes pacienciüt AQ0FP0
 pacienciüt pacienciüt AQ0MS0
 pacienciüts pacienciüt AQ0MP0
-pack pack NCMS000
 pagania pagania NCFS000
 paganies pagania NCFP000
 paidofília paidofília NCFS000

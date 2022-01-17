@@ -15424,6 +15424,7 @@ hostatjador hostatjadora=categories: A; font:DDLC;
 hostil=categories: A;fonts: LT;
 hoteler hotelera=categories: A;fonts: LT;
 hotentot=categories: A;fonts: LT;
+houthi=categories: A;fonts: esadir;
 huasteca=categories: A;fonts: LT;
 huaxteca=categories: A;fonts: LT;
 hugonot hugonota=categories: A;fonts: LT;
