@@ -20799,6 +20799,7 @@ multiorgànic multiorgànica=categories: A;fonts: LT;
 multiorgànic multiorgànica=categories: A;fonts: dsalut;
 multipala=categories: AI;fonts: LT;
 multipantalla=categories: AI;fonts: derivat;
+multipaquet=categories: AI;fonts: termcat;
 multiparamètric multiparamètrica=categories: A;fonts: LT;
 multipart=categories: AI;fonts: LT;
 multipartidista=categories: A;fonts: viquipedia;
