@@ -1738,6 +1738,7 @@ Andust Andust NPCSG00
 Andèol Andèol NPMSSP0
 Andèols Andèol NPMPSP0
 Andújar Andújar NPCSG00
+Anecoop Anecoop NPFSO00
 Anecte Anecte NPMSSP0
 Anectes Anecte NPMPSP0
 Anes Anes NPCSG00
@@ -6479,6 +6480,7 @@ Claudis Claudi NPMPSP0
 Claudià Claudià NPMSSP0
 Claudí Claudí NPMSSP0 # avl: noms de persona
 Claus Claus NPCNSP0
+Clausewitz Clausewitz NPCNSP0
 Clavell Clavell NPCNSP0
 Claver Claver NPCNSP0
 Clavera Clavera NPCNSP0
@@ -26207,4 +26209,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Clausewitz Clausewitz NPCNSP0
