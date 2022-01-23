@@ -1294,6 +1294,7 @@ Allegheny Allegheny NPCNG00
 Allen Allen NPCNSP0
 Allen-Doisy Allen-Doisy NPCNSP0 # medical
 Allen-Masters Allen-Masters NPCNSP0 # medical
+Allende Allende NPCNSP0
 Allentown Allentown NPCSG00
 Alleppey Alleppey NPCSG00
 Aller Aller NPCNSP0
