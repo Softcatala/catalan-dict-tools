@@ -7694,6 +7694,7 @@ Dercum Dercum NPCNSP0 # medical
 Derner Derner NPCNSP0
 Derqui Derqui NPCNSP0
 Derramador Derramador NPMSG00
+Derrida Derrida NPCNSP0
 Derry Derry NPCSG00
 Dertosa Dertosa NPFSG00
 Desbac Desbac NPCNSP0
@@ -10040,6 +10041,7 @@ Fullac Fullac NPCNSP0
 Fulladosa Fulladosa NPCNSP0
 Fullana Fullana NPCNSP0
 Fullat Fullat NPCNSP0
+Fullbright Fullbright NPCNSP0
 Fulleda Fulleda NPCNSP0
 Fulleda Fulleda NPFSG00
 Fuller Fuller NPCNSP0
@@ -13140,6 +13142,7 @@ Labé Labé NPCSG00
 Labòria Labòria NPCNSP0
 Lacadives Lacadives NPCSG00
 Lacambra Lacambra NPCNSP0
+Lacan Lacan NPCNSP0
 Lacasa Lacasa NPCNSP0
 Lacavalleria Lacavalleria NPCNSP0
 Lacedemònia Lacedemònia NPFSG00
