@@ -10028,6 +10028,7 @@ Fukuoka Fukuoka NPCSG00
 Fukushima Fukushima NPCSG00
 Fulbert Fulbert NPMSSP0
 Fulberts Fulbert NPMPSP0
+Fulbright Fulbright NPCNSP0
 Fulc Fulc NPMSSP0
 Fulcs Fulc NPMPSP0
 Fulda Fulda NPCSG00
@@ -10041,7 +10042,6 @@ Fullac Fullac NPCNSP0
 Fulladosa Fulladosa NPCNSP0
 Fullana Fullana NPCNSP0
 Fullat Fullat NPCNSP0
-Fullbright Fullbright NPCNSP0
 Fulleda Fulleda NPCNSP0
 Fulleda Fulleda NPFSG00
 Fuller Fuller NPCNSP0
