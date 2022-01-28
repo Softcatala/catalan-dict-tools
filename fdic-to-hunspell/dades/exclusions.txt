@@ -112,6 +112,7 @@ candida
 candides
 
 EXCLOU LEMA DE TOTS
+quema
 conter
 endarreriar
 gabar
