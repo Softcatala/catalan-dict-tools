@@ -13284,6 +13284,7 @@ francmaçònic francmaçònica=categories: A;fonts: LT;
 francoafricà francoafricana=categories: A;fonts: derivat;
 francoalemany francoalemanya=categories: A;fonts: derivat;
 francoamericà francoamericana=categories: A;fonts: LT;
+francobelga=categories: A;fonts: derivat;
 francocanadenc francocanadenca=categories: A;fonts: LT;
 francocantàbric francocantàbrica=categories: A;fonts: LT;
 francoespanyol francoespanyola=categories: A;fonts: LT;

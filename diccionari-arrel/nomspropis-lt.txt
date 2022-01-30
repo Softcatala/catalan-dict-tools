@@ -12977,6 +12977,7 @@ Kodiak Kodiak NPCSG00
 Kodály Kodály NPCNSP0
 Koeman Koeman NPCNSP0
 Koeppe Koeppe NPCNSP0 # medical
+Kohlhaas Kohlhaas NPCNSP0
 Kohn Kohn NPCNSP0 # medical
 Kohtla-Järve Kohtla-Järve NPCSG00
 Koinadugu Koinadugu NPCSG00
@@ -12999,6 +13000,7 @@ Konk-Kerme Konk-Kerme NPCSG00
 Kono Kono NPCSG00
 Konobougou Konobougou NPCSG00
 Konya Konya NPCSG00
+Koolhaas Koolhaas NPCNSP0
 Koper Koper NPCSG00
 Korhogo Korhogo NPCSG00
 Korsakov Korsakov NPCNSP0 # medical
@@ -16664,7 +16666,6 @@ Nelspruit Nelspruit NPCSG00
 Nemea Nemea NPCSG00
 Nemesi Nemesi NPMSSP0
 Nemesians Nemesià NPMPSP0
-Nemesis Nemesi NPMPSP0
 Nemesià Nemesià NPMSSP0
 Nemours Nemours NPCSG00
 Nemunas Nemunas NPCSG00
@@ -17012,6 +17013,7 @@ Nájera Nájera NPCSG00
 Näfels Näfels NPCSG00
 Nèfol Nèfol NPCSG00
 Nèlida Nèlida NPFSSP0 # avl: noms de persona
+Nèmesi Nèmesi NPFSSP0
 Nèstor Nèstor NPCSG00
 Nèstor Nèstor NPMSSP0
 Nèstors Nèstor NPMPSP0
