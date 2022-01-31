@@ -13020,6 +13020,7 @@ bòston=categories: M;fonts: LT;
 bòstrix=categories: M;fonts: LT;
 bòtid=categories: M;fonts: LT;
 bòtil=categories: M;fonts: LT;
+bòtox=categories: MI;fonts: esadir;
 bòvid=categories: M;fonts: LT;
 bòxer=categories: M;fonts: LT;
 bóta=categories: F;fonts: LT;
