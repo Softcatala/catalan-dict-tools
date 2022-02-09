@@ -18703,6 +18703,7 @@ Poitiers Poitiers NPCSG00
 Poitou Poitou NPCSG00
 Poitou-Charentes Poitou-Charentes NPCSG00
 Pokhara Pokhara NPCSG00
+Pokémon Pokémon NPMNSP0
 Pol Pol NPCNSP0
 Pola Pola NPCNSP0
 Pola Pola NPFSG00
