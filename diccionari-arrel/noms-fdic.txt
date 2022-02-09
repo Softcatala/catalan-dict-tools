@@ -8311,6 +8311,7 @@ autodiagnosi=categories: F;fonts: derivat;
 autodiagnòstic=categories: M;fonts: derivat;
 autodidacte autodidacta=categories: MF;fonts: LT;
 autodidactisme=categories: M;fonts: LT;
+autodidaxi=categories: FS;fonts: GEC;
 autodifusió=categories: F;fonts: LT;
 autodigestió=categories: F;fonts: LT;
 autodiploïdia=categories: F;fonts: dsalut;
