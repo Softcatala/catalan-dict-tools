@@ -372,6 +372,7 @@ SARS=categories: FS;fonts: esadir;
 SD=categories: MI;fonts: dsalut;
 SDPI=categories: MI;fonts: sigles;
 SL=categories: FI;fonts: sigla;
+SMI=categories: MS;fonts: sigla;
 SMS=categories: MI;fonts: LT;
 SMTP=categories: MI;fonts: termcat;
 SOCIMI=categories: FI;fonts: termcat;
