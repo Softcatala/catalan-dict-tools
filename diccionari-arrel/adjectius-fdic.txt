@@ -7948,6 +7948,7 @@ cricotiroidal=categories: A;fonts: dsalut;
 cridador cridadora=categories: A;fonts: LT;
 cridaire=categories: A;fonts: LT;
 cridaner cridanera=categories: A;fonts: LT;
+crimeà crimeana=categories: A;fonts: DNV, esadir;
 criminal=categories: A;fonts: LT;
 criminalista=categories: A;fonts: LT;
 criminogen criminògena=categories: A;fonts: termcat;

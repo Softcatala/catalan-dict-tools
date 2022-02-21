@@ -172,12 +172,14 @@
 #San #San NPCNSP0 # medical
 #Santes Santes NPFSSP0 # avl: noms de persona
 #Saro Saro NPMSSP0 # avl: noms de persona
+#Sebastopol Sebastopol NPCSG00
 #Segona Segona NPFSSP0 # avl: noms de persona
 #Servi Servi NPMSSP0 # avl: noms de persona
 #Seré (o Serè) Seré (o Serè) NPMSSP0 # avl: noms de persona
 #Set Set NPMSSP0 # avl: noms de persona
 #Sever Sever NPCNSP0 # medical
 #Siles Siles NPMSSP0 # avl: noms de persona
+#Simferopol Simferopol NPCSG00
 #Sir Sir NPMSSP0 # avl: noms de persona
 #Sufragi Sufragi NPFSSP0 # avl: noms de persona
 #Tanger Tanger NPCSG00
@@ -21627,7 +21629,6 @@ Sebastianes Sebastiana NPFPSP0
 Sebastians Sebastià NPMPSP0
 Sebastià Sebastià NPCNSP0
 Sebastià Sebastià NPMSSP0
-Sebastopol Sebastopol NPCSG00
 Sebastòpol Sebastòpol NPCSG00
 Sebolla Sebolla NPCSG00
 Sebou Sebou NPCSG00
@@ -22120,7 +22121,7 @@ Simeona Simeona NPFSSP0 # avl: noms de persona
 Simeons Simeó NPMPSP0
 Simeto Simeto NPCSG00
 Simeó Simeó NPMSSP0
-Simferopol Simferopol NPCSG00
+Simferòpol Simferòpol NPCSG00
 Simforians Simforià NPMPSP0
 Simforià Simforià NPMSSP0
 Simforosa Simforosa NPFSSP0
