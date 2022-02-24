@@ -66529,6 +66529,7 @@ prenoxdiazina=categories: F;fonts: dsalut;
 prensió=categories: F;fonts: LT;
 prenunci=categories: M;fonts: LT;
 prenyat=categories: M;fonts: LT;
+preobertura=categories: F;fonts: termcat;
 preobesitat=categories: F;fonts: GEC;
 preocupació=categories: F;fonts: LT;
 preofegament=categories: M;fonts: dsalut;

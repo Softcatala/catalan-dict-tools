@@ -22651,6 +22651,7 @@ palpebrat palpebrada=categories: A;fonts: LT;
 palpeta=categories: A;fonts: LT;
 palpiforme=categories: A;fonts: LT;
 palpitant=categories: A;fonts: LT;
+palplantat palplantada=categories: A;fonts: GDLC;
 palput palpuda=categories: A;fonts: LT;
 palsenc palsenca=categories: A;fonts: LT;
 paludigènic paludigènica=categories: A;fonts: dsalut;

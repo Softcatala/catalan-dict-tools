@@ -3809,6 +3809,7 @@ Berklee Berklee NPCSG00
 Berlandina Berlandina NPFSSP0 # avl: noms de persona
 Berlandí Berlandí NPMSSP0 # avl: noms de persona
 Berlanga Berlanga NPCNSP0
+Berlinale Berlinale NPFSO00
 Berlioz Berlioz NPCNSP0
 Berloke Berloke NPCNSP0 # medical
 Berlusconi Berlusconi NPCNSP0
@@ -6254,6 +6255,7 @@ Cherrapunji Cherrapunji NPCSG00
 Cheshunt Cheshunt NPCSG00
 Chester Chester NPCSG00
 Chesterfield Chesterfield NPCSG00
+Chesterton Chesterton NPCNSP0
 Chevrolet Chevrolet NPCNO00
 Cheyenne Cheyenne NPCSG00
 Cheyne-Stokes Cheyne-Stokes NPCNSP0 # medical
