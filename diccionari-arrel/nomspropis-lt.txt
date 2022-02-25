@@ -4801,6 +4801,7 @@ Bucards Bucard NPMPSP0
 Bucarest Bucarest NPCSG00
 Bucart Bucart NPCNSP0
 Buchenwald Buchenwald NPCSG00
+Buckingham Buckingham NPMSG00
 Buckinghamshire Buckinghamshire NPCSG00
 Bucovina Bucovina NPCSG00
 Buda Buda NPMSSP0 # avl: noms de persona
@@ -7849,8 +7850,8 @@ Djibouti Djibouti NPMSG00
 Djokovic Djokovic NPCNSP0
 Dmitri Dmitri NPMSSP0
 Dnipropetrovsk Dnipropetrovsk NPCSG00
-Dnièper Dnièper NPCSG00
 Dnièster Dnièster NPCSG00
+Dniéper Dniéper NPMSG00
 Dobrutja Dobrutja NPCSG00
 Doda Doda NPFSSP0
 Dodat Dodat NPCNSP0
@@ -7921,6 +7922,7 @@ Donath-Landsteiner Donath-Landsteiner NPCNSP0 # medical
 Donatila Donatila NPFSSP0
 Donatiles Donatila NPFPSP0
 Donats Donat NPMPSP0
+Donbass Donbass NPMSG00
 Doncaster Doncaster NPCSG00
 Donderis Donderis NPCNSP0
 Donetsk Donetsk NPCSG00
@@ -12056,6 +12058,7 @@ Iaiza Iaiza NPFSSP0 # avl: noms de persona
 Ialta Ialta NPCSG00
 Iammo Iammo NPCSG00
 Iang-Tsé Iang-Tsé NPCSG00
+Ianukóvitx Ianukóvitx NPCNSP0
 Iasmina Iasmina NPFSSP0 # avl: noms de persona
 Iaşi Iaşi NPCSG00
 Ibadan Ibadan NPCSG00
@@ -12093,6 +12096,7 @@ Idàlia Idàlia NPFSSP0 # avl: noms de persona
 Idèfix Idèfix NPMSSP0
 Iecla Iecla NPFSG00
 Iekaterinburg Iekaterinburg NPCSG00
+Ieltsin Ieltsin NPCNSP0
 Iemen Iemen NPMSG00
 Ienissei Ienissei NPCSG00
 Ieper Ieper NPCSG00
@@ -15218,6 +15222,7 @@ Medir Medir NPCNSP0
 Medir Medir NPMSSP0
 Medirs Medir NPMPSP0
 Medjerda Medjerda NPCSG00
+Medvédev Medvédev NPCNSP0
 Medòc Medòc NPCSG00
 Meerut Meerut NPCSG00
 Meesmann Meesmann NPCNSP0 # medical
@@ -25358,6 +25363,7 @@ Voliac Voliac NPCNSP0
 Volkmann Volkmann NPCNSP0 # medical
 Volkswagen Volkswagen NPCNO00
 Voll-Damm Voll-Damm NPFNO00
+Volodímir Volodímir NPMSSP0
 Vologda Vologda NPCSG00
 Voloriu Voloriu NPCSG00
 Volta Volta NPFSO00
@@ -25922,6 +25928,7 @@ Zeitz Zeitz NPCSG00
 Zel'onodol'sk Zel'onodol'sk NPCSG00
 Zelanda Zelanda NPFSG00
 Zelaya Zelaya NPCSG00
+Zelenski Zelenski NPCNSP0
 Zelinski Zelinski NPCNSP0
 Zellweger Zellweger NPCNSP0 # medical
 Zenaida Zenaida NPFSSP0 # avl: noms de persona
