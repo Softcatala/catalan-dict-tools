@@ -16410,6 +16410,7 @@ Màrcia Màrcia NPFSSP0 # avl: noms de persona
 Màrgens Màrgens NPCNSP0
 Màrius Màrius NPMPSP0
 Màrius Màrius NPMSSP0
+Màrkov Màrkov NPCNSP0
 Màrmara Màrmara NPCSG00
 Màrsica Màrsica NPFSG00
 Màrtirs Màrtirs NPMPG00
