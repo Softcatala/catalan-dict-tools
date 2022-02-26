@@ -350,6 +350,7 @@ Paràclit=categories: M;fonts: LT;
 Pasqua=categories: F;fonts: LT;
 Pasqüetes=categories: FP;fonts: LT;
 Pentecosta=categories: F;fonts: LT;
+Preeuropeu=categories: MS;fonts: derivat;
 QI=categories: MI;fonts: dsalut;
 Quaresma=categories: F;fonts: LT;
 Quattrocento=categories: MS;fonts: italià;
