@@ -12894,7 +12894,6 @@ Khakàssia Khakàssia NPCSG00
 Khambhāt Khambhāt NPCSG00
 Khammouan Khammouan NPCSG00
 Kharagpur Kharagpur NPCSG00
-Kharkiv Kharkiv NPCSG00
 Kharq Kharq NPCSG00
 Khartum Khartum NPCSG00
 Khaskovo Khaskovo NPCSG00
@@ -13116,7 +13115,8 @@ Kárpathos Kárpathos NPCSG00
 Kènia Kènia NPFSG00
 Kénédougou Kénédougou NPCSG00
 Kêb Kêb NPCSG00
-Kíev Kíev NPMSG00
+Kíev Kíev NPCSG00
+Kíiv Kíiv NPCSG00
 Köebner Köebner NPCNSP0 # medical
 Kültepe Kültepe NPCSG00
 Kütahya Kütahya NPCSG00
