@@ -12099,6 +12099,7 @@ Iekaterinburg Iekaterinburg NPCSG00
 Ieltsin Ieltsin NPCNSP0
 Iemen Iemen NPMSG00
 Ienissei Ienissei NPCSG00
+Ienàkieve Ienàkieve NPCSG00
 Ieper Ieper NPCSG00
 Ierai Ierai NPMSSP0 # avl: noms de persona
 Ieras Ieras NPCSG00
@@ -12451,7 +12452,6 @@ Jefferson Jefferson NPCNSP0
 Jehovà Jehovà NPMSSP0
 Jekyll Jekyll NPCNSP0
 Jena Jena NPCSG00
-Jenakijeve Jenakijeve NPCSG00
 Jenin Jenin NPCSG00
 Jennifer Jennifer NPFSSP0 # anglès
 Jepús Jepús NPCNSP0
@@ -16446,6 +16446,7 @@ Mònaco Mònaco NPCSG00
 Mònic Mònic NPMSSP0 # avl: noms de persona
 Mònica Mònica NPFSSP0
 Mòniques Mònica NPFPSP0
+Mólotov Mólotov NPCNSP0
 Móra Móra NPFSG00
 Móstoles Móstoles NPCSG00
 Môn Môn NPCSG00
@@ -20157,6 +20158,7 @@ Ribalta Ribalta NPCNSP0
 Ribalta Ribalta NPFSG00
 Ribamala Ribamala NPCSG00
 Ribau Ribau NPCNSP0
+Ribbentrop Ribbentrop NPCNSP0
 Ribeiro Ribeiro NPCSG00
 Ribelles Ribelles NPCNG00
 Ribelles Ribelles NPCNSP0
