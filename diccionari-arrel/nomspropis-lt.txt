@@ -14231,6 +14231,7 @@ Maebashi Maebashi NPCSG00
 Maella Maella NPFSG00
 Maestrat Maestrat NPMSG00
 Maestre Maestre NPCNSP0 # medical
+Maeterlinck Maeterlinck NPCNSP0
 Mafalda Mafalda NPFSSP0
 Mafaldes Mafalda NPFPSP0
 Mafet Mafet NPCSG00
