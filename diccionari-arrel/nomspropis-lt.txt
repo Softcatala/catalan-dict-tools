@@ -23834,6 +23834,7 @@ Tramús Tramús NPCNSP0
 Trani Trani NPCSG00
 Transbaikal Transbaikal NPCSG00
 Transcarpàcia Transcarpàcia NPFSG00
+Transdnièster Transdnièster NPMSG00
 Transjordània Transjordània NPFSG00
 Transmediterránea Transmediterránea NPFSO00
 Transnístria Transnístria NPFSG00
