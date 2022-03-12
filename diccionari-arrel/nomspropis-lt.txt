@@ -22657,6 +22657,7 @@ Sumacàrcer Sumacàrcer NPCSG00
 Sumatra Sumatra NPCSG00
 Sumer Sumer NPCSG00
 Sumgait Sumgait NPCSG00
+Sumi Sumi NPCSG00
 Sumy Sumy NPCSG00
 Sundarbans Sundarbans NPMPG00
 Sunderland Sunderland NPCSG00
