@@ -14730,8 +14730,8 @@ Mariquita Mariquita NPCSG00
 Marisa Marisa NPFSSP0
 Marisol Marisol NPFSSP0 # avl: noms de persona
 Maristany Maristany NPCNSP0
-Mariupol Mariupol NPCSG00
 Marià Marià NPMSSP0
+Mariúpol Mariúpol NPCSG00
 Marjal Marjal NPFSG00
 Marjuquera Marjuquera NPFSG00
 Markham Markham NPCSG00
