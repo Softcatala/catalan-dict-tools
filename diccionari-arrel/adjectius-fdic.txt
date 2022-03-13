@@ -29945,6 +29945,7 @@ terminològic terminològica=categories: A;fonts: LT;
 terminoterminal=categories: A;fonts: dsalut;
 termoalgèsic termoalgèsica=categories: A;fonts: dsalut;
 termoaïllant=categories: A;fonts: derivat;
+termobàric termobàrica=categories: A;fonts: derivat;
 termocontraïble=categories: A;fonts: derivat;
 termocroic termocroica=categories: A;fonts: LT;
 termodinàmic termodinàmica=categories: A;fonts: LT;
