@@ -4,6 +4,7 @@
 #ditar=categories: V;model:cantar;fonts: DNV; #dóna molts problemes
 #embaltir=categories: V;model:servir;fonts: DNV;
 #embeltir=categories: V;model:servir;fonts: DNV;
+#equisetata=categories: F;fonts: DNV;
 #kung-fu=categories: M;fonts: DNV;
 #multidisciplinar=categories: A;fonts: DNV;
 #ort=categories: M;fonts: DNV; pot confondre (hort)
@@ -2214,7 +2215,6 @@ epipelàgic -a=categories: A;fonts: DNV;
 epiploïtis=categories: FI;fonts: DNV;
 equilingüisme=categories: M;fonts: DNV;
 equiliquà=categories: RG;fonts: DNV;
-equisetata=categories: F;fonts: DNV;
 ergàstula=categories: F;fonts: DNV;
 ergògraf=categories: M;fonts: DNV;
 ergònom -a=categories: MF;fonts: DNV;

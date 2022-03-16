@@ -41684,8 +41684,6 @@ epiploïtis epiploïtis NCFN000
 equilingüisme equilingüisme NCMS000
 equilingüismes equilingüisme NCMP000
 equiliquà equiliquà RG
-equisetata equisetata NCFS000
-equisetates equisetata NCFP000
 ergàstula ergàstula NCFS000
 ergàstules ergàstula NCFP000
 ergògraf ergògraf NCMS000
