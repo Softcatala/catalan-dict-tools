@@ -46998,8 +46998,6 @@ filetejadores filetejador NCFP000
 filetejadors filetejador NCMP000
 filibusterri filibusterri NCMS000
 filibusterris filibusterri NCMP000
-filicata filicata NCFS000
-filicates filicata NCFP000
 filicida filicida NCCS000
 filicides filicida NCCP000
 filicidi filicidi NCMS000
@@ -64589,8 +64587,6 @@ pròtome pròtome AQ0CS0
 pròtomes pròtome AQ0CP0
 psicodelisme psicodelisme NCFS000
 psicodelismes psicodelisme NCFP000
-psilotata psilotata NCFS000
-psilotates psilotata NCFP000
 pteridòpsid pteridòpsid NCMS000
 pteridòpsids pteridòpsid NCMP000
 ptolemeic ptolemeic AQ0MS0
