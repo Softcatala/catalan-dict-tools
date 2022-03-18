@@ -15516,6 +15516,7 @@ Minden Minden NPCSG00
 Mindoro Mindoro NPCSG00
 Minerva Minerva NPFSSP0 # avl: noms de persona
 Minervus Minervus NPMSSP0 # avl: noms de persona
+Ming Ming NPCNSP0
 Minga Minga NPFSSP0 # avl: noms de persona
 Mingall Mingall NPCNSP0
 Mingarro Mingarro NPCNSP0
@@ -25643,6 +25644,7 @@ Woolf Woolf NPCNSP0
 Worcester Worcester NPCSG00
 Word Word NPMSO00
 WordPress WordPress NPMNO00
+Wordle Wordle NPMSO00
 Woringer-Kolopp Woringer-Kolopp NPCNSP0
 Woringer-Kolopp Woringer-Kolopp NPCNSP0 # medical
 Worms Worms NPCSG00
