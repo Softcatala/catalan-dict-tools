@@ -3165,6 +3165,7 @@ Bardó Bardó NPCNSP0
 Barea Barea NPCSG00
 Bareilly Bareilly NPCSG00
 Barella Barella NPCNSP0
+Barenboim Barenboim NPCNSP0
 Barentsz Barentsz NPCSG00
 Barentu Barentu NPCSG00
 Barenys Barenys NPCNSP0
