@@ -13159,6 +13159,7 @@ Lacavalleria Lacavalleria NPCNSP0
 Lacedemònia Lacedemònia NPFSG00
 Lacetània Lacetània NPFSG00
 Laci Laci NPMSG00
+Laclau Laclau NPCNSP0
 Lacoma Lacoma NPCNSP0
 Lacomba Lacomba NPCNSP0
 Lacort Lacort NPCNSP0
@@ -14144,6 +14145,7 @@ MIDI MIDI NPMSO00
 MIME MIME NPMNO00
 MIR MIR NPCNO00
 MNAC MNAC NPMSO00
+MWC MWC NPMSO00
 Ma'rib Ma'rib NPCSG00
 Maastricht Maastricht NPCSG00
 Mabel Mabel NPFSSP0 # avl: noms de persona

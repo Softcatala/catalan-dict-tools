@@ -47250,6 +47250,7 @@ lacre=categories: M;fonts: LT;
 lacrimació=categories: F;fonts: LT;
 lacrimatori=categories: M;fonts: LT;
 lacrimotomia=categories: F;fonts: dsalut;
+lacrosse=categories: MS;fonts: wiki;
 lactacidogen=categories: M;fonts: dsalut;
 lactacidèmia=categories: F;fonts: LT;
 lactacidúria=categories: F;fonts: dsalut;
