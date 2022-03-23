@@ -13282,6 +13282,7 @@ Laredo Laredo NPCSG00
 Larmor Larmor NPCNSP0 # medical
 Larne Larne NPCSG00
 Laron Laron NPCNSP0 # medical
+Larousse Larousse NPCNO00
 Larraix Larraix NPCSG00
 Larriba Larriba NPCNSP0
 Larrosa Larrosa NPCNSP0
@@ -21602,6 +21603,7 @@ Schleswig-Holstein Schleswig-Holstein NPCSG00
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lantermann Schmidt-Lantermann NPCNSP0 # medical
 Schneider Schneider NPCNSP0
+Scholz Scholz NPCNSP0
 Schopenhauer Schopenhauer NPCNSP0
 Schröder Schröder NPCNSP0
 Schrödinger Schrödinger NPCNSP0
