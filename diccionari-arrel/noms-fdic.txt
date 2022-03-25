@@ -1,4 +1,3 @@
-
 #PCR=categories: FI;fonts: dsalut;
 #alentorn=categories: M;fonts: LT;
 #altamira borda=categories: F;fonts: dsalut;
@@ -26623,6 +26622,7 @@ ecmofòbia=categories: F;fonts: dsalut;
 ecmovirus=categories: MI;fonts: dsalut;
 eco=categories: M;fonts: LT;
 ecoacúsia=categories: F;fonts: dsalut;
+ecoblanqueig=categories: MS;fonts: termcat;
 ecocardiografia=categories: F;fonts: LT;
 ecocardiograma=categories: M;fonts: dsalut;
 ecocardiògraf=categories: M;fonts: termcat;
