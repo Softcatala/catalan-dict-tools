@@ -26200,6 +26200,7 @@ uTorrent uTorrent NPCNO00
 Úrsula Úrsula NPFSSP0
 Úrsules Úrsula NPFPSP0
 Útica Útica NPCSG00
+ésAdir ésAdir NPMSO00
 Ābādān Ābādān NPCSG00
 Ākōla Ākōla NPCSG00
 Čapajevsk Čapajevsk NPCSG00
