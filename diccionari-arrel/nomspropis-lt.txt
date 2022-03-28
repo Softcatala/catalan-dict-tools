@@ -25436,6 +25436,7 @@ Vínnitsia Vínnitsia NPCSG00
 Vístula Vístula NPCSG00
 Vólos Vólos NPCSG00
 Vöcklabruck Vöcklabruck NPCSG00
+W3C W3C NPMSO00
 Waal Waal NPCSG00
 Waalwijk Waalwijk NPCSG00
 Wabash Wabash NPCSG00
