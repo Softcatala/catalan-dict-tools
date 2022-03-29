@@ -9942,6 +9942,7 @@ Frederics Frederic NPMPSP0
 Fredericton Fredericton NPCSG00
 Frederiksberg Frederiksberg NPCSG00
 Frederiques Frederica NPFPSP0
+FreeHand FreeHand NPMSO00
 Freetown Freetown NPCSG00
 Freginals Freginals NPCNSP0
 Freginals Freginals NPCSG00
@@ -15535,6 +15536,7 @@ Minho Minho NPCSG00
 Ministrells Ministrells NPCSG00
 Minkowski Minkowski NPCNSP0
 Minneapolis Minneapolis NPCSG00
+Minnelli Minnelli NPCNSP0
 Minnesota Minnesota NPCSG00
 Minorisa Minorisa NPCSG00
 Minos Minos NPCSG00
