@@ -242,6 +242,7 @@ poquet poquet RG
 poquíssim poquíssim RG
 potser potser RG
 prest prest RG
+prestissimo prestissimo RG
 presto presto RG
 primer primer RG
 prompte prompte RG

@@ -31312,6 +31312,7 @@ ultrarelativista=categories: A;fonts: LT;
 ultraric ultrarica=categories: A; font:derivat;
 ultraroig ultraroja=categories: A;fonts: LT;
 ultraràpid ultraràpida=categories: A;fonts: LT;
+ultrasecret ultrasecreta=categories: A; font:derivat;
 ultrasensible=categories: A;fonts: LT;
 ultrasonor ultrasonora=categories: A;fonts: LT;
 ultrasònic ultrasònica=categories: A;fonts: LT;

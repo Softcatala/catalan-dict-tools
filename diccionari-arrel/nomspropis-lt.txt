@@ -4458,6 +4458,7 @@ Bornió Bornió NPCNSP0
 Borno Borno NPCSG00
 Bornu Bornu NPCSG00
 Bornís Bornís NPCNSP0
+Borodianka Borodianka NPCSG00
 Boronat Boronat NPCNSP0
 Borrassell Borrassell NPCNSP0
 Borrasser Borrasser NPCNSP0
@@ -4923,6 +4924,7 @@ Butart Butart NPCNSP0
 Butinyà Butinyà NPCNSP0
 Butrot Butrot NPCSG00
 Butuan Butuan NPCSG00
+Butxa Butxa NPCSG00
 Butxaca Butxaca NPCNSP0
 Buzǎu Buzǎu NPCSG00
 Byant Byant NPCNSP0 # medical
