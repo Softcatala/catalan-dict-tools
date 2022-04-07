@@ -7021,6 +7021,7 @@ Cortsaví Cortsaví NPCSG00
 Cortscastell Cortscastell NPCSG00
 Cortvassill Cortvassill NPCSG00
 Cortàs Cortàs NPCSG00
+Cortázar Cortázar NPCNSP0
 Cortès Cortès NPCNSP0
 Cortès Cortès NPMSG00
 Cortés Cortés NPCNSP0
@@ -25545,6 +25546,7 @@ Weschler Weschler NPCNSP0 # medical
 Wesel Wesel NPCSG00
 Weser Weser NPCSG00
 Wesergebirge Wesergebirge NPCSG00
+Wesley Wesley NPCNSP0
 Western Western NPCNSP0
 Western Western NPCNSP0 # medical
 Western Western NPCSG00

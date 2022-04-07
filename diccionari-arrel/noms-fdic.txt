@@ -65834,6 +65834,7 @@ portacreu=categories: MF;fonts: LT;
 portacuixes=categories: MI;fonts: dsalut;
 portada=categories: F;fonts: LT;
 portadella=categories: F;fonts: LT;
+portadista=categories: MF;fonts: termcat;
 portadocuments=categories: MI;fonts: LT;
 portadops=categories: MI;fonts: LT;
 portador portadora=categories: MF;fonts LT;
