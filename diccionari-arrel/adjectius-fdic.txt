@@ -24839,6 +24839,7 @@ postpsicòtic postpsicòtica=categories: A;fonts: dsalut;
 postpuberal=categories: A;fonts: dsalut;
 postpubescent=categories: A;fonts: dsalut;
 postpujolista=categories: A;fonts: LT;
+postpèrdua=categories: AI;fonts: derivat;
 postquirúrgic postquirúrgica=categories: A;fonts: derivat;
 postquirúrgic postquirúrgica=categories: A;fonts: dsalut;
 postrem postrema=categories: A;fonts: LT;

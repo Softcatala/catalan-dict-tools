@@ -66108,6 +66108,7 @@ postprocessament=categories: M;fonts: derivat;
 postproducció=categories: F;fonts: LT;
 postpubertat=categories: F;fonts: dsalut;
 postpujolisme=categories: M;fonts: derivat;
+postpèrdua=categories: FS;fonts: LT;
 postració=categories: F;fonts: LT;
 postradiació=categories: F;fonts: dsalut;
 postremitat=categories: F;fonts: LT;
