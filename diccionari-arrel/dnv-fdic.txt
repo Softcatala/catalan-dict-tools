@@ -5380,7 +5380,6 @@ sufista=categories: A;fonts: DNV;
 sufista=categories: MF;fonts: DNV;
 sulcular=categories: A;fonts: DNV;
 sunyir=categories: V;model:servir;fonts: DNV;
-superdona=categories: F;fonts: DNV;
 supletorietat=categories: F;fonts: DNV;
 supondre=categories: V;model:compondre;fonts: DNV;
 supracomunitari -ària=categories: A;fonts: DNV;

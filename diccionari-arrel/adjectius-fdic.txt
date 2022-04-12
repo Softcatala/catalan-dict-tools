@@ -29343,6 +29343,7 @@ superexpert superexperta=categories: A;fonts: derivat;
 superextens superextensa=categories: A;fonts: derivat;
 superfals superfalsa=categories: A;fonts: derivat;
 superfamós superfamosa=categories: A;fonts: derivat;
+superfantàstic superfantàstica=categories: A;fonts: derivat;
 superfavorit superfavorita=categories: A;fonts: derivat;
 superfeliç=categories: A;fonts: derivat;
 superfemení superfemenina=categories: A;fonts: derivat;

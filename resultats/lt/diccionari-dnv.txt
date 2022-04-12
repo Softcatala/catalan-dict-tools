@@ -71588,8 +71588,6 @@ sunyíssem sunyir VMSI1P05
 sunyísseu sunyir VMSI2P05
 sunyíssim sunyir VMSI1P02
 sunyíssiu sunyir VMSI2P02
-superdona superdona NCFS000
-superdones superdona NCFP000
 supletorietat supletorietat NCFS000
 supletorietats supletorietat NCFP000
 supon supondre VMIP3S00

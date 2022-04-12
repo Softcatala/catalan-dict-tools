@@ -77013,6 +77013,7 @@ superdissabte=categories: M;fonts: derivat;
 superdisseminador=categories: M;fonts: derivat;
 superdominant=categories: F;fonts: LT;
 superdominància=categories: F;fonts: LT;
+superdona=categories: F;fonts: DNV;
 superdotació=categories: F; fonts: termcat;
 superego=categories: M;fonts: LT;
 superelasticitat=categories: F;fonts: termcat;
