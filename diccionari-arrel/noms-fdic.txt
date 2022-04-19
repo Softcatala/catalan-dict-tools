@@ -167,6 +167,7 @@
 #vitriol de zinc=categories: M;fonts: dsalut;
 #víking=categories: MF;fonts: LT; # eliminat de DIEC i DNV
 #xin=categories: F;fonts: LT; lletra hebrea
+#xopet=categories: M;fonts: LT;
 #ínsula de Reil=categories: F;fonts: dsalut;
 17-A=categories: MS;fonts: data;
 17A=categories: MS;fonts: data;
@@ -85672,7 +85673,6 @@ xona=categories: F;fonts: LT;
 xop=categories: M;fonts: LT;
 xopada=categories: F;fonts: LT;
 xopador=categories: M;fonts: LT;
-xopet=categories: M;fonts: LT;
 xopina=categories: F;fonts: LT;
 xopoll=categories: M;fonts: LT;
 xoquí=categories: M;fonts: LT;

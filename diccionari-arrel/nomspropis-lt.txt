@@ -12737,6 +12737,8 @@ KMPlayer KMPlayer NPCNO00
 Kabardins Kabardins NPMPG00
 Kabul Kabul NPCSG00
 Kabwe Kabwe NPCSG00
+Kaczynski Kaczynski NPCNSP0
+Kaczyński Kaczyński NPCNSP0
 Kadeš Kadeš NPCSG00
 Kadijivka Kadijivka NPCSG00
 Kadiköy Kadiköy NPCSG00
@@ -25924,6 +25926,7 @@ Zamora Zamora NPCNSP0
 Zamora Zamora NPFSG00
 Zamoyski Zamoyski NPCNSP0
 Zanzíbar Zanzíbar NPCSG00
+Zapata Zapata NPCNSN0
 Zapatero Zapatero NPCNSP0
 Zaplana Zaplana NPCNSP0
 Zaporojie Zaporojie NPCSG00
