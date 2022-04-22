@@ -5100,7 +5100,7 @@ Cais Cais NPCSG00
 Caius Caius NPMPSP0
 Caius Caius NPMSSP0
 CaixaBank CaixaBank NPCNO00
-CaixaForum CaixaForum NPMSO00
+CaixaForum CaixaForum NPMNO00
 Caixac Caixac NPCNSP0
 Caixans Caixans NPCNSP0
 Caixmir Caixmir NPMSG00
