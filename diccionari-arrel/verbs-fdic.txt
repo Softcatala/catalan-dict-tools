@@ -14,6 +14,7 @@
 #postposar=categories: V;model:anquilosar;fonts:LT
 #revoldre=categories: V;model:absoldre;fonts:LT no normatiu, només DCVB
 #revore=categories: V;model:vore;fonts: DNV;
+#titar=categories: V;model:cantar;fonts:LT, rar, confusions?
 #vidrar=categories: V;model:cantar;fonts:LT
 #vidriar=categories: V;model:crear;fonts:LT
 abacallanar=categories: V;model:cantar;fonts:LT
@@ -9695,7 +9696,6 @@ tirar=categories: V;model:cantar;fonts:LT
 tirassar=categories: V;model:adobassar;fonts:LT
 tirejar=categories: V;model:envejar;fonts:LT
 tirotejar=categories: V;model:envejar;fonts:LT
-titar=categories: V;model:cantar;fonts:LT
 titil·lar=categories: V;model:anul·lar;fonts:LT
 titlar=categories: V;model:cantar;fonts:LT
 titllar=categories: V;model:cantar;fonts:LT
