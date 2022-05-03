@@ -20485,6 +20485,7 @@ Roixel·la Roixel·la NPFSG00
 Roja Roja NPCNSP0
 Rojalons Rojalons NPCSG00
 Rojals Rojals NPCNSP0
+Rojava Rojava NPFSG00
 Rokitansky-Küster Rokitansky-Küster NPCNSP0 # medical
 Roland Roland NPMSSP0
 Rolands Roland NPMPSP0
