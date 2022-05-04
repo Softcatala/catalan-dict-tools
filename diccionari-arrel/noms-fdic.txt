@@ -50034,6 +50034,7 @@ macroordinador=categories: M;fonts: LT;
 macroparàsit=categories: M;fonts: dsalut;
 macropatologia=categories: F;fonts: dsalut;
 macropia=categories: F;fonts: dsalut;
+macroplà=categories: M;fonts: derivat;
 macroplàncton=categories: M;fonts: LT;
 macroplàsia=categories: F;fonts: dsalut;
 macropolícit=categories: M;fonts: dsalut;
