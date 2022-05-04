@@ -76415,6 +76415,7 @@ subcrepitació=categories: F;fonts: dsalut;
 subcultiu=categories: M;fonts: termcat;
 subcultura=categories: F;fonts: LT;
 subcutis=categories: MI;fonts: dsalut;
+subcàs=categories: M;fonts: derivat;
 subcòrtex=categories: M;fonts: dsalut;
 subcòs [pl. subcossos]=categories: M;fonts: LT;
 subdelegació=categories: F;fonts: LT;

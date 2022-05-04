@@ -18098,6 +18098,7 @@ Pedró Pedró NPCNSP0
 Pedró Pedró NPMSG00
 Pedrós Pedrós NPCNSP0
 Pedrós Pedrós NPCSG00
+Pegasus Pegasus NPMSSP0
 Pego Pego NPCSG00
 Pegu Pegu NPCSG00
 Peguera Peguera NPCNSP0
@@ -20358,6 +20359,7 @@ Roberts Robert NPMPSP0
 Robertí Robertí NPMSSP0 # avl: noms de persona
 Robespierre Robespierre NPCNSP0
 Robinson Robinson NPCNSP0
+Robles Robles NPCNSP0
 Robson Robson NPCSG00
 Robuster Robuster NPCNSP0
 Robustiana Robustiana NPFSSP0
