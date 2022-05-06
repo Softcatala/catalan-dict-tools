@@ -8424,6 +8424,7 @@ recalcar=categories: V;model:trencar;fonts:LT
 recalcitrar=categories: V;model:cantar;fonts:LT
 recalcular=categories: V;model:cantar;fonts:LT
 recalfar=categories: V;model:cantar;fonts:LT
+recalibrar=categories: V;model:cantar;fonts: derivat;
 recalçar=categories: V;model:començar;fonts:LT
 recamar=categories: V;model:cantar;fonts:LT
 recanviar=categories: V;model:crear;fonts:LT

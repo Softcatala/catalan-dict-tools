@@ -5075,7 +5075,6 @@ romp-roques=categories: MI;fonts: DNV;
 rompissada=categories: F;fonts: DNV;
 rompissar=categories: V;model:acarnissar;fonts: DNV;
 rondallesc -a=categories: A;fonts: DNV;
-ronquit=categories: M;fonts: DNV;
 roqueret=categories: M;fonts: DNV;
 roqueretes=categories: FP;fonts: DNV;
 rosegadura=categories: F;fonts: DNV;

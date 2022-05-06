@@ -68797,8 +68797,6 @@ rondallesca rondallesc AQ0FS0
 rondallescos rondallesc AQ0MP0
 rondallescs rondallesc AQ0MP0
 rondallesques rondallesc AQ0FP0
-ronquit ronquit NCMS000
-ronquits ronquit NCMP000
 roqueret roqueret NCMS000
 roqueretes roqueretes NCFP000
 roquerets roqueret NCMP000
