@@ -51825,10 +51825,6 @@ horrorífic horrorífic AQ0MS0
 horrorífica horrorífic AQ0FS0
 horrorífics horrorífic AQ0MP0
 horrorífiques horrorífic AQ0FP0
-hortera hortera AQ0CS0
-horterada horterada NCFS000
-horterades horterada NCFP000
-horteres hortera AQ0CP0
 hostada hostat AQ0FS0
 hostades hostat AQ0FP0
 hostalatenc hostalatenc AQ0MS0

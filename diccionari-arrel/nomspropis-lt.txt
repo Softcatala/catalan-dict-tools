@@ -9312,6 +9312,7 @@ Fedora Fedora NPCNO00
 Fedora Fedora NPFSSP0
 Fedra Fedra NPFSSP0
 Fedre Fedre NPMSSP0 # avl: noms de persona
+Feijóo Feijóo NPCNSP0
 Feiner Feiner NPCNSP0
 Feixa Feixa NPCNSP0
 Feixes Feixes NPCNSP0
@@ -12052,6 +12053,7 @@ IFS IFS NPCNO00
 IJssel IJssel NPCSG00
 INE INE NPMSO00
 IOC IOC NPMSO00
+IPCC IPCC NPCNO00
 ISBN ISBN NPMNO00
 ISIL ISIL NPMSO00
 ISIS ISIS NPMSO00
@@ -12362,6 +12364,7 @@ Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
 Iževsk Iževsk NPCSG00
 JOC JOC NPCSO00
+JQCV JQCV NPFSO00
 Jabaliya Jabaliya NPCSG00
 Jabalpur Jabalpur NPCSG00
 Jablanica Jablanica NPCSG00

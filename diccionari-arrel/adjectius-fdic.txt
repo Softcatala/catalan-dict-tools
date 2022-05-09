@@ -15504,6 +15504,7 @@ hortafanenc hortafanenca=categories: A;fonts: LT;
 hortellà hortellana=categories: A;fonts: LT;
 hortenc hortenca=categories: A;fonts: LT;
 hortense=categories: A;fonts: LT;
+hortera=categories: A;fonts: DNV;
 hortofructícola=categories: A;fonts: LT;
 hortolà hortolana=categories: A;fonts: LT;
 hortonenc hortonenca=categories: A;fonts: LT;
