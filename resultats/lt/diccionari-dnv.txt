@@ -47435,8 +47435,6 @@ fletxésseu fletxar VMSI2P05
 fletxéssim fletxar VMSI1P02
 fletxéssiu fletxar VMSI2P02
 fletxí fletxar VMIS1S00
-flexaedre flexaedre NCMS000
-flexaedres flexaedre NCMP000
 flexura flexura NCFS000
 flexures flexura NCFP000
 flic flicar VMIP1S0B

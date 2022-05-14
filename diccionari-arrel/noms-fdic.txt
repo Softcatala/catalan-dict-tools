@@ -36066,6 +36066,7 @@ fletxeta=categories: F;fonts: diminutiu;
 fleuma=categories: F;fonts: LT;
 fleumàtic fleumàtica=categories: MF;fonts LT;
 fleumó=categories: M;fonts: LT;
+flexaedre=categories: M;fonts: DNV;
 flexatò=categories: M;fonts: termcat;
 flexibilitat=categories: F;fonts: LT;
 flexibilització=categories: F;fonts: LT;

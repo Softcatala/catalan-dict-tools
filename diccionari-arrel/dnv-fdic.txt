@@ -2624,7 +2624,6 @@ flemós -osa=categories: A;fonts: DNV;
 flequeria=categories: F;fonts: DNV;
 flerovi=categories: M;fonts: DNV;
 fletxar=categories: V;model:cantar;fonts: DNV;
-flexaedre=categories: M;fonts: DNV;
 flexura=categories: F;fonts: DNV;
 flicar=categories: V;model:trencar;fonts: DNV;
 flitador=categories: M;fonts: DNV;
