@@ -18859,6 +18859,7 @@ Ponts Ponts NPCNSP0
 Pontí Pontí NPCNSP0
 Pontós Pontós NPCNSP0
 Pontós Pontós NPCSG00
+Ponzi Ponzi NPCNSP0
 Ponç Ponç NPCNSP0
 Ponç Ponç NPMSSP0
 Ponça Ponça NPCNSP0
