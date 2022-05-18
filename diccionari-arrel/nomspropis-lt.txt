@@ -203,6 +203,7 @@
 'Ndrangheta 'Ndrangheta NPFSO00
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 13TV 13TV NPCNO00
+3XL 3XL NPMSO00
 7-Zip 7-Zip NPCNO00
 8TV 8TV NPCNO00
 ABC ABC NPMSO00
@@ -5972,6 +5973,7 @@ CatSalut CatSalut NPMSO00
 Catadau Catadau NPCSG00
 Catai Catai NPCSG00
 Catalana Catalana NPFSG00
+Catalangate Catalangate NPMSO00
 Catalanitzador Catalanitzador NPMSO00
 Catalina Catalina NPFSSP0
 Catalines Catalina NPFPSP0
@@ -8785,6 +8787,7 @@ Esponellà Esponellà NPCNSP0
 Esponellà Esponellà NPCSG00
 Espoo Espoo NPCSG00
 Esporles Esporles NPCSG00
+Esports3 Esports3 NPMSO00
 Esposende Esposende NPCSG00
 Esposolla Esposolla NPCSG00
 Espriu Espriu NPCNSP0
