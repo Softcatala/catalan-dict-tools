@@ -33943,6 +33943,7 @@ explosòfor=categories: M;fonts: LT;
 explotabilitat=categories: F;fonts: LT;
 explotació=categories: F;fonts: LT;
 explotador explotadora=categories: MF;fonts LT;
+expolític expolítica=categories: MF;fonts: derivat
 exponent=categories: M;fonts: LT;
 exportació=categories: F;fonts: LT;
 exportador exportadora=categories: MF;fonts LT;

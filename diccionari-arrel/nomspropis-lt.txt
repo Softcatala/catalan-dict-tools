@@ -4856,6 +4856,8 @@ Bullidor Bullidor NPMSG00
 Bulès Bulès NPMSG00
 Bundesbank Bundesbank NPMSO00
 Bundesliga Bundesliga NPFSO00
+Bundesrat Bundesrat NPMSO00
+Bundestag Bundestag NPMSO00
 Bundēlkhand Bundēlkhand NPCSG00
 Bunnell Bunnell NPCNSP0 # medical
 Bunsen Bunsen NPCNSP0
