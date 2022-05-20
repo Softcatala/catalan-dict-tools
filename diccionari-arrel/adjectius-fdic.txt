@@ -17972,6 +17972,7 @@ judicial=categories: A;fonts: LT;
 judiciari judiciària=categories: A;fonts: LT;
 judiciós judiciosa [sup. judiciosíssim]=categories: A; font:apertium;
 jueu jueva=categories: A;fonts: LT;
+jugable=categories: A;fonts: termcat;
 jugador jugadora=categories: A;fonts: LT;
 jugaire=categories: A;fonts: Jané;
 jugal=categories: A;fonts: LT;
