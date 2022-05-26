@@ -55712,6 +55712,7 @@ music-hall=categories: M;fonts: LT;
 musicació=categories: F;fonts: DNV;
 musicadura=categories: F;fonts: LT;
 musicalitat=categories: F;fonts: LT;
+musicalització=categories: F;fonts: termcat;
 musicasset=categories: F;fonts: LT;
 musicastre musicastra=categories: MF;fonts: LT;
 musicografia=categories: F;fonts: LT;
