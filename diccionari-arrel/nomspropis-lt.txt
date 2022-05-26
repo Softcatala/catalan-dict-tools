@@ -2555,6 +2555,7 @@ Astol Astol NPCNSP0
 Astor Astor NPCNSP0
 Astor Astor NPCSG00
 Astorga Astorga NPFSG00
+Astoria Astoria NPCNO00
 Astorina Astorina NPFSSP0 # avl: noms de persona
 Astrakhan Astrakhan NPCSG00
 Astrid Astrid NPFSSP0 # avl: noms de persona
@@ -10876,6 +10877,7 @@ Goebbels Goebbels NPCNSP0
 Goeckerman Goeckerman NPCNSP0 # medical
 Goethe Goethe NPCNSP0
 Gofau Gofau NPCNSP0
+Goicoechea Goicoechea NPCNSP0
 Goig Goig NPCNSP0
 Goikoetxea Goikoetxea NPCNSP0
 Goixens Goixens NPCNSP0
@@ -12828,6 +12830,7 @@ Karman Karman NPCNSP0 # medical
 Karnak Karnak NPCSG00
 Karnāl Karnāl NPCSG00
 Karnātaka Karnātaka NPCSG00
+Karol Karol NPCSSP0
 Karonga Karonga NPCSG00
 Karoo Karoo NPCSG00
 Kars Kars NPCSG00
@@ -24414,6 +24417,7 @@ Utrera Utrera NPCSG00
 Utrillas Utrillas NPCSG00
 Utsunomiya Utsunomiya NPCSG00
 Utxafava Utxafava NPFSG00
+Uvalde Uvalde NPCSG00
 Uxellodunum Uxellodunum NPCSG00
 Uxmal Uxmal NPCSG00
 Uzbekistan Uzbekistan NPMSG00

@@ -7440,6 +7440,7 @@ murriejar=categories: V;model:envejar;fonts:LT
 musar=categories: V;model:cantar;fonts:LT
 musclejar=categories: V;model:envejar;fonts:LT
 museïtzar=categories: V;model:cantar;fonts:LT
+musicalitzar=categories: V;model:cantar;fonts: termcat;
 musicar=categories: V;model:trencar;fonts:LT
 mussitar=categories: V;model:cantar;fonts:LT
 musteir=categories: V;model:traduir;fonts:LT
