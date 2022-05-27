@@ -1983,6 +1983,7 @@ Apia Apia NPCSG00
 Apians Apià NPMPSP0
 Apià Apià NPMSSP0
 Apolima Apolima NPCSG00
+Apollinaire Apollinaire NPCNSP0
 Apollo Apollo NPCNO00
 Apol·linar Apol·linar NPMSSP0
 Apol·linara Apol·linara NPFSSP0 # avl: noms de persona
@@ -1992,6 +1993,7 @@ Apol·lini Apol·lini NPMSSP0
 Apol·linis Apol·lini NPMPSP0
 Apol·linària Apol·linària NPFSSP0 # avl: noms de persona
 Apol·lo Apol·lo NPMSSP0
+Apol·lodor Apol·lodor NPMSSP0
 Apol·loni Apol·loni NPMSSP0 # avl: noms de persona
 Apol·los Apol·lo NPMPSP0
 Apol·lònia Apol·lònia NPFSSP0
@@ -2630,6 +2632,7 @@ Auckland Auckland NPCSG00
 Audacte Audacte NPMSSP0
 Audactes Audacte NPMPSP0
 Aude Aude NPCSG00
+Audenis Audenis NPCNSP0
 Audet Audet NPCNSP0
 Audi Audi NPCNO00
 Audinac Audinac NPCNSP0
@@ -2775,6 +2778,7 @@ Az-Zawiyah Az-Zawiyah NPCSG00
 Azaries Azaries NPMPSP0
 Azaries Azaries NPMSSP0
 Azawad Azawad NPMSG00
+Azaña Azaña NPCNSP0
 Azcapotzalco Azcapotzalco NPCSG00
 Azcona Azcona NPCNSP0
 Azerbaidjan Azerbaidjan NPMSG00
@@ -3411,6 +3415,7 @@ Bavià Bavià NPCNSP0
 Bay Bay NPCSG00
 Bayamo Bayamo NPCSG00
 Bayamón Bayamón NPCSG00
+Bayer Bayer NPCNO00
 Bayern Bayern NPCSO00
 Bayes Bayes NPCNSP0
 Bayes Bayes NPCNSP0 # medical
@@ -4220,6 +4225,7 @@ Boi Boi NPCNSP0
 Boi Boi NPMSG00
 Boi Boi NPMSSP0
 Boia Boia NPCNSP0
+Boileau Boileau NPCNSP0
 Boira Boira NPCNSP0
 Boirac Boirac NPCNSP0
 Boiro Boiro NPCSG00
@@ -6327,7 +6333,8 @@ Christmas Christmas NPCNSP0 # medical
 Christmas Christmas NPCSG00
 Christopher Christopher NPCSG00
 Chrome Chrome NPMSO00
-Chromebook Chromebook NPMNO00
+Chromebook Chromebook NPMSO00
+Chromebooks Chromebook NPMPO00
 Chrysler Chrysler NPCNO00
 Chubut Chubut NPCSG00
 Chungyang Chungyang NPCSG00
@@ -7412,6 +7419,7 @@ Cèfal Cèfal NPMSSP0 # avl: noms de persona
 Cèlebes Cèlebes NPCSG00
 Cèlia Cèlia NPFSSP0
 Cèlies Cèlia NPFPSP0
+Cèrber Cèrber NPMSSP0
 Cèsar Cèsar NPMSSP0
 Cèsars Cèsar NPMPSP0
 Cèsia Cèsia NPFSSP0 # avl: noms de persona
@@ -7424,6 +7432,7 @@ Cília Cília NPFSSP0 # avl: noms de persona
 Cíntia Cíntia NPFSSP0 # avl: noms de persona
 Cízic Cízic NPCSG00
 Còdol Còdol NPCNSP0
+Còlquida Còlquida NPFSG00
 Còrdova Còrdova NPFSG00
 Còrdul Còrdul NPMSSP0 # avl: noms de persona
 Còrdula Còrdula NPFSSP0
@@ -7750,6 +7759,7 @@ Desvilar Desvilar NPCNSP0
 Detmold Detmold NPCSG00
 Detroit Detroit NPCSG00
 Deu Deu NPCNSP0
+Deucalió Deucalió NPMSSP0
 Deuclar Deuclar NPCNSP0
 Deudat Deudat NPCNSP0
 Deulofeu Deulofeu NPCNSP0
@@ -9908,6 +9918,7 @@ Francesc Francesc NPMSSP0
 Francesca Francesc NPFSSP0
 Franceschetti Franceschetti NPCNSP0 # medical
 Franceschetti-Thier Franceschetti-Thier NPCNSP0 # medical
+Francesco Francesco NPMSSP0
 Francescs Francesc NPMPSP0
 Francesques Francesc NPFPSP0
 Franciac Franciac NPCSG00
@@ -11751,6 +11762,7 @@ Herons Heró NPMPSP0
 Heros Heros NPMSSP0 # avl: noms de persona
 Herragudo Herragudo NPCSG00
 Herrera Herrera NPCSG00
+Herrero Herrero NPCNSP0
 Herring Herring NPCNSP0 # medical
 Hers Hers NPCNSP0 # medical
 Herten Herten NPCSG00
@@ -14007,6 +14019,7 @@ Longí Longí NPMSSP0
 Lons-le-Saunier Lons-le-Saunier NPCSG00
 Loos Loos NPCSG00
 Looser Looser NPCNSP0 # medical
+Lorca Lorca NPCNSP0
 Lorda Lorda NPCNSP0
 Lorena Lorena NPCNSP0
 Lorena Lorena NPFSG00
@@ -15852,6 +15865,7 @@ Monroe Monroe NPCNSP0
 Monròvia Monròvia NPCSG00
 Mons Mons NPCSG00
 Mons-en-Baroeul Mons-en-Baroeul NPCSG00
+Monsanto Monsanto NPCNO00
 Monselice Monselice NPCSG00
 Mont-Saint-Aignan Mont-Saint-Aignan NPCSG00
 Mont-de-Marsan Mont-de-Marsan NPCSG00
@@ -19661,6 +19675,7 @@ Quint Quint NPMSSP0
 Quintana Quintana NPCNSP0
 Quintana Quintana NPFSG00
 Quintanes Quintanes NPFPG00
+Quintanilla Quintanilla NPCNSP0
 Quintili Quintili NPMSSP0 # avl: noms de persona
 Quintiliana Quintiliana NPFSSP0 # avl: noms de persona
 Quintilians Quintilià NPMPSP0
@@ -19880,6 +19895,7 @@ Ranvier Ranvier NPCNSP0 # medical
 Raola Raola NPCNSP0
 Raons Raons NPCSG00
 Rapallo Rapallo NPCSG00
+Rapunzel Rapunzel NPFSSP0
 Raquel Raquel NPFSSP0
 Raquels Raquel NPFPSP0
 Rarotonga Rarotonga NPCSG00
@@ -20695,6 +20711,7 @@ Rovirola Rovirola NPCSG00
 Rovirola Rovirola NPFSG00
 Rovirosa Rovirosa NPCNSP0
 Roviró Roviró NPCNSP0
+Rowling Rowling NPCNSP0
 Roxana Roxana NPFSSP0 # avl: noms de persona
 Royo Royo NPMSG00
 Rozzano Rozzano NPCSG00
