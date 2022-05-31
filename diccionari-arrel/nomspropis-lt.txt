@@ -5232,6 +5232,7 @@ Calvinyac Calvinyac NPCNSP0
 Calvià Calvià NPCSG00
 Calviño Calviño NPCNSP0
 Calvo Calvo NPCNSP0
+Calvo-Sotelo Calvo-Sotelo NPCNSP0
 Calví Calví NPMSSP0
 Cal·limer Cal·limer NPMSSP0 # avl: noms de persona
 Cal·limera Cal·limera NPFSSP0 # avl: noms de persona
@@ -10139,6 +10140,7 @@ Gabana Gabana NPCNSP0
 Gabaon Gabaon NPMSG00
 Gabarret Gabarret NPCSG00
 Gabarrou Gabarrou NPCNSP0
+Gabilondo Gabilondo NPCNSP0
 Gabina Gabina NPFSSP0 # avl: noms de persona
 Gabins Gabí NPMPSP0
 Gabinyà Gabinyà NPCNSP0
@@ -13361,6 +13363,7 @@ Lavinya Lavinya NPCNSP0
 Lavit Lavit NPCSG00
 Lavoisier Lavoisier NPCNSP0
 Lavongai Lavongai NPCSG00
+Lavrov Lavrov NPCNSP0
 Lavínia Lavínia NPFSSP0 # avl: noms de persona
 Lawrence Lawrence NPCNSP0
 Lawrence-Moon-Bield Lawrence-Moon-Bield NPCNSP0 # medical
