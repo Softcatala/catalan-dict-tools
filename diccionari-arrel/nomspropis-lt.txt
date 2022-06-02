@@ -7257,6 +7257,7 @@ Cruanya Cruanya NPCNSP0
 Cruell Cruell NPCNSP0
 Cruesa Cruesa NPCSG00
 Crueta Crueta NPCNSP0
+Cruise Cruise NPCNSP0
 Cruixelles Cruixelles NPCNSP0
 Cruixens Cruixens NPCNSP0
 Cruixent Cruixent NPCNSP0
@@ -12964,6 +12965,7 @@ Kilauea Kilauea NPCSG00
 Kilian Kilian NPMSSP0
 Kilimanjaro Kilimanjaro NPCSG00
 Kilinochchi Kilinochchi NPCSG00
+Kilmer Kilmer NPCNSP0
 Kimberley Kimberley NPCSG00
 Kimmelstiel-Wilson Kimmelstiel-Wilson NPCNSP0 # medical
 Kimura Kimura NPCNSP0 # medical
@@ -15167,6 +15169,7 @@ Maurí Maurí NPCSG00
 Maurícia Maurícia NPFSSP0 # avl: noms de persona
 Mauthausen Mauthausen NPCSG00
 Mauá Mauá NPCSG00
+Maverick Maverick NPCNSP0
 Mavi Mavi NPFSSP0 # avl: noms de persona
 Mavromikhalis Mavromikhalis NPCNSP0
 Max Max NPMSSP0 # avl: noms de persona
@@ -23568,6 +23571,7 @@ Tolzó Tolzó NPCSG00
 Toló Toló NPCNSP0
 Toló Toló NPCSG00
 Tolós Tolós NPCNSP0
+Tom Tom NPMSSP0
 Tomakomai Tomakomai NPCSG00
 Tomar Tomar NPCSG00
 Tomasa Tomasa NPFSSP0 # avl: noms de persona
