@@ -16623,6 +16623,7 @@ ciberassetjament=categories: M;fonts: termcat;
 ciberatac=categories: M;fonts: neolosfera;
 cibercafè [pl. cibercafès]=categories: M;fonts: LT;
 cibercrim=categories: M;fonts: derivat;
+cibercriminal=categories: MF;fonts: derivat;
 cibercriminologia=categories: F;fonts: LT;
 cibercultura=categories: F;fonts: LT;
 ciberdelicte=categories: M;fonts: LT;
