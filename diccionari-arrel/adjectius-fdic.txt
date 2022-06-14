@@ -31449,6 +31449,7 @@ ultimiesternal=categories: A;fonts: dsalut;
 ultra=categories: A;fonts: LT;
 ultraample ultraampla=categories: A;fonts: LT;
 ultraatòmic ultraatòmica=categories: A;fonts: LT;
+ultraavançat ultraavançada=categories: A;fonts: derivat;
 ultrabraquicèfal ultrabraquicèfala=categories: A;fonts: dsalut;
 ultrabàsic ultrabàsica=categories: A;fonts: LT;
 ultracatòlic ultracatòlica=categories: A;fonts: derivat;

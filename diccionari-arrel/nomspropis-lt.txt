@@ -12032,6 +12032,7 @@ Huron Huron NPCSG00
 Hussein Hussein NPCNSP0
 Husserl Husserl NPCNSP0
 Hutchinson Hutchinson NPCNSP0 # medical
+Huxley Huxley NPCNSP0
 Huy Huy NPCSG00
 Huygens Huygens NPCNSP0
 Huércal-Overa Huércal-Overa NPCSG00
