@@ -32353,10 +32353,6 @@ dicromàtic dicromàtic AQ0MS0
 dicromàtica dicromàtic AQ0FS0
 dicromàtics dicromàtic AQ0MP0
 dicromàtiques dicromàtic AQ0FP0
-dictaminador dictaminador AQ0MS0
-dictaminadora dictaminador AQ0FS0
-dictaminadores dictaminador AQ0FP0
-dictaminadors dictaminador AQ0MP0
 dicèfal dicèfal AQ0MS0
 dicèfal dicèfal NCMS000
 dicèfala dicèfal AQ0FS0

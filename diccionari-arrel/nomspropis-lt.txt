@@ -22309,6 +22309,7 @@ Skellefteå Skellefteå NPCSG00
 Skene Skene NPCNSP0 # medical
 Skinner Skinner NPCNSP0
 Skopje Skopje NPCSG00
+Skriabin Skriabin NPCNSP0
 Skype Skype NPMSO00
 Skyros Skyros NPCSG00
 Skòpelos Skòpelos NPCSG00

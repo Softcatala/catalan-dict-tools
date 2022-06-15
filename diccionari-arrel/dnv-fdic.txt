@@ -1850,7 +1850,6 @@ dibuixador -a=categories: A;fonts: DNV;
 dicacitat=categories: F;fonts: DNV;
 dicefàlia=categories: F;fonts: DNV;
 dicromàtic -a=categories: A;fonts: DNV;
-dictaminador -a=categories: A;fonts: DNV;
 dicèfal -a=categories: A;fonts: DNV;
 dicèfal -a=categories: MF;fonts: DNV;
 didelf=categories: M;fonts: DNV;

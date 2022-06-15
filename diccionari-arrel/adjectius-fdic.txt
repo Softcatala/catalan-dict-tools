@@ -9166,6 +9166,7 @@ dicotòmic dicotòmica=categories: A;fonts: LT;
 dicroic dicroica=categories: A;fonts: LT;
 dicromòfil dicromòfila=categories: A;fonts: dsalut;
 dictador dictadora=categories: A;fonts: LT;
+dictaminador dictaminadora=categories: A;fonts: DNV;
 dictatorial=categories: A;fonts: LT;
 dicàlcic dicàlcica=categories: A;fonts: dsalut;
 dicèntric dicèntrica=categories: A;fonts: dsalut;
