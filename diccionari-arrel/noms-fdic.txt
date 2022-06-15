@@ -82721,6 +82721,7 @@ ultraisme=categories: M;fonts: LT;
 ultraista=categories: MF;fonts: LT;
 ultraliberalisme=categories: M;fonts: LT;
 ultralleuger=categories: M;fonts: LT;
+ultraluxe=categories: MS;fonts: derivat;
 ultramar=categories: M;fonts: LT;
 ultramarató=categories: F;fonts: LT;
 ultramarins=categories: MP;fonts: LT;
