@@ -63744,6 +63744,7 @@ pinteria=categories: F;fonts: LT;
 pintor pintora=categories: MF;fonts LT;
 pintoresquisme=categories: M;fonts: LT;
 pintura=categories: F;fonts: LT;
+pintureta=categories: F;fonts: dim;
 pinxo=categories: M;fonts: LT;
 pinya=categories: F;fonts: LT;
 pinyac=categories: M;fonts: LT;
