@@ -12455,6 +12455,7 @@ Jaraguas Jaraguas NPCSG00
 Jarama Jarama NPMSG00
 Jardí Jardí NPCNSP0
 Jarinje Jarinje NPCSG00
+Jasikevicius Jasikevicius NPCNSP0
 Jasmina Jasmina NPFSSP0 # avl: noms de persona
 Jasons Jasó NPMPSP0
 Jaspers Jaspers NPCNSP0
@@ -15637,6 +15638,7 @@ Miril·la Miril·la NPFSSP0 # avl: noms de persona
 Mirim Mirim NPCSG00
 Mirmanda Mirmanda NPCSG00
 Mirosa Mirosa NPCNSP0
+Mirotic Mirotic NPCNSP0
 Mirotić Mirotić NPCNSP0
 Mirra Mirra NPFSSP0 # avl: noms de persona
 Mirtil Mirtil NPMSSP0 # avl: noms de persona

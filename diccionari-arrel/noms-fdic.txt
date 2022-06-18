@@ -50695,6 +50695,7 @@ manfla=categories: F;fonts: LT;
 manga=categories: M;fonts: LT;
 mangabei=categories: M;fonts: LT;
 mangafodipir=categories: MS;fonts: dsalut;
+mangaka=categories: MF;fonts: esadir,wiki;
 mangala=categories: F;fonts: LT;
 manganat=categories: M;fonts: LT;
 manganell=categories: M;fonts: LT;
