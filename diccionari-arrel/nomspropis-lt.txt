@@ -25974,7 +25974,7 @@ Zamora Zamora NPCNSP0
 Zamora Zamora NPFSG00
 Zamoyski Zamoyski NPCNSP0
 Zanzíbar Zanzíbar NPCSG00
-Zapata Zapata NPCNSN0
+Zapata Zapata NPCNSP0
 Zapatero Zapatero NPCNSP0
 Zaplana Zaplana NPCNSP0
 Zaporojie Zaporojie NPCSG00
