@@ -4727,6 +4727,7 @@ Brotó Brotó NPCNSP0
 Brouardel Brouardel NPCNSP0 # medical
 Brown Brown NPCNSP0
 Brown-Séquard Brown-Séquard NPCNSP0 # medical
+Browning Browning NPCNSP0
 Bru Bru NPCNSP0
 Bruac Bruac NPCNSP0
 Bruay-la-Buissière Bruay-la-Buissière NPCSG00
@@ -8190,6 +8191,7 @@ Edelberta Edelberta NPFSSP0 # avl: noms de persona
 Edelmir Edelmir NPMSSP0 # avl: noms de persona
 Edelmira Edelmira NPFSSP0
 Edelmires Edelmira NPFPSP0
+Edelvives Edelvives NPCNSP0
 Eder Eder NPCSG00
 Edesi Edesi NPMSSP0
 Edesis Edesi NPMPSP0
@@ -20530,6 +20532,7 @@ Rokitansky-Küster Rokitansky-Küster NPCNSP0 # medical
 Roland Roland NPMSSP0
 Rolands Roland NPMPSP0
 Roldors Roldors NPCNSP0
+Rolling Rolling NPCNSP0
 Rolls-Royce Rolls-Royce NPCNO00
 Rom Rom NPCNSP0
 Rom Rom NPMSG00
@@ -23164,6 +23167,7 @@ Tbilisi Tbilisi NPCSG00
 Tbilissi Tbilissi NPCSG00
 Teano Teano NPCSG00
 Teatreneu Teatreneu NPMSO00
+Tebaida Tebaida NPFSG00
 Teberga Teberga NPCNSP0
 Tebes Tebes NPCSG00
 Tec Tec NPMSG00
@@ -24343,6 +24347,7 @@ Umeå Umeå NPCSG00
 Umia Umia NPCSG00
 Umma Umma NPCSG00
 Umtata Umtata NPCSG00
+Umtiti Umtiti NPCNSP0
 Unai Unai NPMSSP0
 Unamuno Unamuno NPCNSP0
 Unarre Unarre NPCSG00

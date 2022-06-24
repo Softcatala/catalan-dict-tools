@@ -25212,6 +25212,7 @@ dinamògraf=categories: M;fonts: dsalut;
 dinamòmetre=categories: M;fonts: LT;
 dinantià=categories: M;fonts: LT;
 dinar=categories: M;fonts: LT;
+dinarot=categories: M;fonts: augm;
 dinasta=categories: MF;fonts: LT;
 dinastia=categories: F;fonts: LT;
 dinastisme=categories: M;fonts: LT;
