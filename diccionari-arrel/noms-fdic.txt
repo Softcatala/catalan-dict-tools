@@ -35637,6 +35637,7 @@ fil·lotràquea=categories: F;fonts: LT;
 fil·loxera=categories: F;fonts: LT;
 fil·lòdia=categories: F;fonts: LT;
 fil·lòlit=categories: M;fonts: dsalut;
+filàntrop filàntropa=categories: MF;fonts: DNV;
 filària=categories: F;fonts: LT;
 filàrid=categories: M;fonts: LT;
 filàstica=categories: F;fonts: LT;
