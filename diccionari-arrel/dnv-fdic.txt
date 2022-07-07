@@ -3713,7 +3713,6 @@ margallar=categories: M;fonts: DNV;
 margemitger margemitgera=categories: A;fonts: DNV;
 margemitger=categories: M;fonts: DNV;
 mariachi=categories: M;fonts: DNV;
-mariconada=categories: F;fonts: DNV;pejoratiu
 mariconera=categories: F;fonts: DNV;
 marisqueig=categories: M;fonts: DNV;
 marisquer -a=categories: A;fonts: DNV;

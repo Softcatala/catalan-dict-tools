@@ -22,6 +22,7 @@
 #Bertomeua Bertomeua NPFSSP0 # avl: noms de persona
 #Bertomeva Bertomeva NPFSSP0 # avl: noms de persona
 #Brunissén (o Brunissèn) Brunissén (o Brunissèn) NPFSSP0 # avl: noms de persona
+#Buenos Buenos NPCSG00
 #Busca Busca NPCSG00
 #Bàrbera Bàrbera NPFSSP0 # avl: noms de persona
 #Caetana Caetana NPFSSP0 # avl: noms de persona
@@ -4825,7 +4826,6 @@ Budellera Budellera NPFSG00
 Budellers Budellers NPCNSP0
 Budó Budó NPCNSP0
 Buenaventura Buenaventura NPCSG00
-Buenos Buenos NPCSG00
 Buerger Buerger NPCNSP0 # medical
 Bueu Bueu NPCSG00
 Bufaganyes Bufaganyes NPCNSP0
@@ -5559,6 +5559,7 @@ Caprasis Caprasi NPMPSP0
 Capri Capri NPCSG00
 Capricorn Capricorn NPCSG00
 Capsec Capsec NPCSG00
+Caputxinada Caputxinada NPFSO00
 Capçanes Capçanes NPCSG00
 Capó Capó NPCNSP0
 Caquetá Caquetá NPCSG00
@@ -7402,7 +7403,7 @@ Càpua Càpua NPCSG00
 Càrcer Càrcer NPCNSP0
 Càrcer Càrcer NPCSG00
 Cària Cària NPFSG00
-Càritas Càritas NPFSO00
+Càritas Càritas NPFNO00
 Càrrica Càrrica NPCSG00
 Càrrova Càrrova NPFSG00
 Càsia Càsia NPFSSP0
@@ -8243,6 +8244,7 @@ Efréns Efrén NPMPSP0
 Efèsia Efèsia NPFSSP0 # avl: noms de persona
 Ega Ega NPCSG00
 Eger Eger NPCSG00
+Egeu Egeu NPMSG00
 Egidi Egidi NPMSSP0
 Egidis Egidi NPMPSP0
 Egidià Egidià NPMSSP0 # avl: noms de persona

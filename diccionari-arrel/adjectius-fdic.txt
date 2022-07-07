@@ -2248,6 +2248,7 @@ antidemocràtic antidemocràtica=categories: A;fonts: LT;
 antidemoníac antidemoníaca=categories: A;fonts: LT;
 antidemòcrata=categories: A;fonts: derivat;
 antidepressiu antidepressiva=categories: A;fonts: LT;
+antidesinformació=categories: AI;fonts: derivat;
 antidesnonaments=categories: AI;fonts: derivat;
 antidetonant=categories: A;fonts: LT;
 antidiabètic antidiabètica=categories: A;fonts: LT;

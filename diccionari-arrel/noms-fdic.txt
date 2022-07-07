@@ -51053,6 +51053,7 @@ marialluïsa=categories: F;fonts: LT;
 marianisme=categories: M;fonts: LT;
 maribavir=categories: MS;fonts: dsalut;
 maribo=categories: M;fonts: LT;
+mariconada=categories: F;fonts: DNV, pejoratiu
 maricultura=categories: F;fonts: termcat;
 maricó=categories: M;fonts: LT;
 maridatge=categories: M;fonts: LT;
