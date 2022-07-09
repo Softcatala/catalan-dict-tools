@@ -26223,6 +26223,7 @@ uTorrent uTorrent NPCNO00
 Équeurdreville-Hainneville Équeurdreville-Hainneville NPCSG00
 Éssera Éssera NPFSG00
 Étampes Étampes NPCSG00
+Étienne Étienne NPMSSP0
 Évol Évol NPCSG00
 Évora Évora NPCSG00
 Évreux Évreux NPCNSP0
