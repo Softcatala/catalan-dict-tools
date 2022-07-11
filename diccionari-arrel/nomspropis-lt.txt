@@ -732,6 +732,7 @@ Aitor Aitor NPMSSP0
 Aitutaki Aitutaki NPCSG00
 Aituà Aituà NPCSG00
 Aitó Aitó NPMSSP0 # avl: noms de persona
+Aix Aix NPCSG00
 Aix-les-Bains Aix-les-Bains NPCSG00
 Aixa Aixa NPFSSP0 # avl: noms de persona
 Aixac Aixac NPCNSP0
@@ -5805,6 +5806,7 @@ Casaní Casaní NPCNSP0
 Casaoliva Casaoliva NPCNSP0
 Casaponça Casaponça NPCNSP0
 Casaramona Casaramona NPCNSP0
+Casares Casares NPCNSP0
 Casarilh Casarilh NPCSG00
 Casarrius Casarrius NPCNSP0
 Casarromaní Casarromaní NPCNSP0
@@ -9539,6 +9541,7 @@ Fillat Fillat NPCNSP0
 Fillol Fillol NPCNSP0
 Fillols Fillols NPCNSP0
 Fillols Fillols NPCSG00
+Filmin Filmin NPMSO00
 Filomena Filomena NPFSSP0
 Filomenes Filomena NPFPSP0
 Filomens Filomè NPMPSP0
@@ -19729,6 +19732,7 @@ RACCTel RACCTel NPCNO00
 RAE RAE NPFSO00
 RAI RAI NPFSO00
 RDA RDA NPFSG00
+RETA RETA NPMSO00
 RFA RFA NPFSG00
 RFEF RFEF NPFSO00
 RGPD RGPD NPMSO00
@@ -20270,6 +20274,7 @@ Rieralta Rieralta NPCNSP0
 Rierola Rierola NPCNSP0
 Riesa Riesa NPCSG00
 Rieti Rieti NPCSG00
+Rif Rif NPMSG00
 Rifà Rifà NPCNSP0
 Rifé Rifé NPCNSP0
 Riga Riga NPCSG00
@@ -24397,6 +24402,7 @@ Uriac Uriac NPCNSP0
 Urich Urich NPCNSP0
 Uriel Uriel NPMSSP0
 Uries Uries NPMSSP0 # avl: noms de persona
+Urkullu Urkullu NPCNSP0
 Urmella Urmella NPCSG00
 Urmia Urmia NPCSG00
 Urquinaona Urquinaona NPCNSP0
@@ -25085,6 +25091,7 @@ Vilagrassa Vilagrassa NPCNSP0
 Vilagrassa Vilagrassa NPFSG00
 Vilagrasseta Vilagrasseta NPCSG00
 Vilagrau Vilagrau NPCSG00
+Vilagrà Vilagrà NPCNSP0
 Vilagut Vilagut NPCNSP0
 Vilaine Vilaine NPCSG00
 Vilajoan Vilajoan NPCSG00
