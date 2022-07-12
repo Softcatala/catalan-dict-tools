@@ -12138,6 +12138,7 @@ expedit expedita=categories: A;fonts: LT;
 expeditiu expeditiva=categories: A;fonts: LT;
 expeditíssim expeditíssima=categories: A;fonts: superlative;
 expel·lent=categories: A;fonts: LT;
+expenedor expenedora=categories: A;fonts DDLC;
 experiencial=categories: A;fonts: LT;
 experimentable=categories: A;fonts: LT;
 experimentador experimentadora=categories: A;fonts: LT;
