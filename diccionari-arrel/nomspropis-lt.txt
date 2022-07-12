@@ -11970,6 +11970,7 @@ Hostalric Hostalric NPCSG00
 Hostenc Hostenc NPCNSP0
 Hostoles Hostoles NPCNSP0
 Hostoles Hostoles NPCSG00
+Houellebecq Houellebecq NPCNSP0
 Houla Houla NPCSG00
 Houston Houston NPCSG00
 Hove Hove NPCSG00
