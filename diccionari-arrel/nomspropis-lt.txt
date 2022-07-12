@@ -8010,7 +8010,7 @@ Douglas Douglas NPCNSP0
 Dover Dover NPCSG00
 Dovrefjell Dovrefjell NPCSG00
 Dowa Dowa NPCSG00
-Down Down NPCSG00
+Down Down NPCNSP0
 Doyle Doyle NPCNSP0
 Doñana Doñana NPFSG00
 Drac Drac NPCNSP0
@@ -19772,6 +19772,7 @@ Radom Radom NPCSG00
 Raduà Raduà NPCNSP0
 Radziwill Radziwill NPCNSP0
 Raedor Raedor NPCNSP0
+Rafa Rafa NPMSSP0 # col·loquial
 Rafael Rafael NPMSSP0
 Rafaela Rafaela NPFSSP0
 Rafaeles Rafaela NPFPSP0

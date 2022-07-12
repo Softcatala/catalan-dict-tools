@@ -76125,6 +76125,7 @@ sopa=categories: F;fonts: LT;
 sopada=categories: F;fonts: LT;
 sopalma=categories: F;fonts: LT;
 sopar=categories: M;fonts: LT;
+soparot=categories: M;fonts: augm;
 sopera=categories: F;fonts: LT;
 sopeta=categories: F;fonts: LT;
 sopitesa=categories: F;fonts: LT;
