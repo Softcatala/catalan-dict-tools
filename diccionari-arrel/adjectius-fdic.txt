@@ -4187,6 +4187,7 @@ barraample barraampla=categories: A;fonts: LT;
 barragana=categories: A;fonts: LT;
 barrancós barrancosa=categories: A;fonts: LT;
 barraprim barraprima=categories: A;fonts: LT;
+barrejable=categories: A; fonts: derivat;
 barrejador barrejadora=categories: A;fonts: LT;
 barrejadís barrejadissa=categories: A;fonts: LT;
 barremià barremiana=categories: A;fonts: LT;

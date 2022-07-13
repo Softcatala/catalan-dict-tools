@@ -15474,6 +15474,7 @@ Metodi Metodi NPMSSP0
 Metodis Metodi NPMPSP0
 Metohija Metohija NPCSG00
 Metro-Goldwyn-Mayer Metro-Goldwyn-Mayer NPFSO00
+Metrovalència Metrovalència NPFSO00
 Metz Metz NPCSG00
 Metòdia Metòdia NPFSSP0 # avl: noms de persona
 Meudon Meudon NPCSG00
@@ -17899,6 +17900,7 @@ Pantaleu Pantaleu NPCSG00
 Pantaleó Pantaleó NPMSSP0
 Pantel·leria Pantel·leria NPCSG00
 Pantin Pantin NPCSG00
+Pantoja Pantoja NPCNSP0
 Pantone Pantone NPMNO00
 Pantídia Pantídia NPFSSP0 # avl: noms de persona
 Panós Panós NPCNSP0
@@ -22199,6 +22201,7 @@ Silèsia Silèsia NPFSG00
 Simancas Simancas NPCSG00
 Simat Simat NPCSG00
 Simbirsk Simbirsk NPCSG00
+Simca Simca NPCNSP0
 Simen Simen NPCSG00
 Simeona Simeona NPFSSP0 # avl: noms de persona
 Simeons Simeó NPMPSP0
