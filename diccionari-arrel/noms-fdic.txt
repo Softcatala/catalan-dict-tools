@@ -262,6 +262,7 @@ ERO=categories: MI;fonts: LT;
 ERTO=categories: MI;fonts: sigles;
 Eurobaròmetre=categories: M;fonts: esadir;
 Excelsior=categories: M; fonts: termcat;
+FIC=categories: MFI;fonts: sigla;
 FM=categories: FI;fonts: esadir;
 FOD=categories: FI;fonts: dsalut;
 FP=categories: FS;fonts: esadir;

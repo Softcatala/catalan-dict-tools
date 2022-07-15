@@ -25439,6 +25439,7 @@ Vodafone Vodafone NPCNO00
 Voghera Voghera NPCSG00
 Vogt Vogt NPCNSP0 # medical
 Vogt-Koyanagi-Harada Vogt-Koyanagi-Harada NPCNSP0 # medical
+Vogue Vogue NPCNO00
 Vohwinkel Vohwinkel NPCNSP0 # medical
 Voivodina Voivodina NPCSG00
 Vol'sk Vol'sk NPCSG00
