@@ -13330,6 +13330,7 @@ franc franca=categories: A;fonts: LT;
 franciscà franciscana=categories: A;fonts: LT;
 francià franciana=categories: A;fonts: LT;
 francmaçònic francmaçònica=categories: A;fonts: LT;
+francmaçó francmaçona=categories: A;fonts: DDLC;
 francoafricà francoafricana=categories: A;fonts: derivat;
 francoalemany francoalemanya=categories: A;fonts: derivat;
 francoamericà francoamericana=categories: A;fonts: LT;
