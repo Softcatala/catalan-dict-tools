@@ -11921,6 +11921,7 @@ euroescèptic euroescèptica=categories: A;fonts: LT;
 eurofederalista=categories: A;fonts: derivat;
 eurohostil=categories: A;fonts: derivat;
 euromediterrani euromediterrània=categories: A;fonts: derivat;
+europarlamentari europarlamentària=categories: A;fonts: derivat;
 europeista=categories: A;fonts: LT;
 europeu europea=categories: A;fonts: LT;
 eurosiberià eurosiberiana=categories: A;fonts: LT;

@@ -1,4 +1,5 @@
 EXCLOU FORMA DE TOTS
+aver
 bilingues
 sur
 bora
@@ -114,6 +115,7 @@ candida
 candides
 
 EXCLOU LEMA DE TOTS
+lienal
 assa
 quema
 conter
