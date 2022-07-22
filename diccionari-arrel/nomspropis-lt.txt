@@ -209,6 +209,7 @@
 8TV 8TV NPCNO00
 ABC ABC NPMSO00
 ACNUR ACNUR NPMSO00
+ACPV ACPV NPFSO00
 AEAT AEAT NPFSO00
 AEMET AEMET NPMSO00
 AENA AENA NPFSO00
@@ -2016,6 +2017,7 @@ Apòl·lon Apòl·lon NPMSSP0
 Apòl·lons Apòl·lon NPMPSP0
 Apúlia Apúlia NPFSG00
 Aqaba Aqaba NPCSG00
+Aquabrava Aquabrava NPFSG00
 Aquari Aquari NPCSG00
 Aqueront Aqueront NPMSSP0
 Aqueu Aqueu NPMSSP0 # avl: noms de persona
@@ -4994,6 +4996,7 @@ CEOE CEOE NPFSO00
 CERN CERN NPMSO00
 CGPJ CGPJ NPMSO00
 CGT CGT NPFSO00
+CIDOB CIDOB NPMSO00
 CIS CIS NPMSO00
 CNI CNI NPMSO00
 CNN CNN NPFSO00
@@ -10141,6 +10144,7 @@ GDPR GDPR NPMSO00
 GIEC GIEC NPFSO00
 GNOME GNOME NPMSO00
 GNU GNU NPMSO00
+GOB GOB NPMSO00
 GPL GPL NPCNO00
 GSM GSM NPCNO00
 GSMA GSMA NPFSO00
@@ -13674,6 +13678,7 @@ Llançamà Llançamà NPCNSP0
 Llançà Llançà NPCNSP0
 Llançà Llançà NPCSG00
 Llardecans Llardecans NPCSG00
+Llarena Llarena NPCNSP0
 Llarg Llarg NPCNSP0
 Llarguers Llarguers NPCNSP0
 Llarvén Llarvén NPCSG00
@@ -14782,6 +14787,7 @@ Mariquita Mariquita NPCSG00
 Marisa Marisa NPFSSP0
 Marisol Marisol NPFSSP0 # avl: noms de persona
 Maristany Maristany NPCNSP0
+Marivent Marivent NPCSG00
 Marià Marià NPMSSP0
 Mariúpol Mariúpol NPCSG00
 Marjal Marjal NPFSG00
@@ -15474,6 +15480,7 @@ Metodi Metodi NPMSSP0
 Metodis Metodi NPMPSP0
 Metohija Metohija NPCSG00
 Metro-Goldwyn-Mayer Metro-Goldwyn-Mayer NPFSO00
+Metrovacesa Metrovacesa NPCNO00
 Metrovalència Metrovalència NPFSO00
 Metz Metz NPCSG00
 Metòdia Metòdia NPFSSP0 # avl: noms de persona
@@ -16491,6 +16498,7 @@ Mèrope Mèrope NPFSSP0 # avl: noms de persona
 Mèsia Mèsia NPCSG00
 Mèxic Mèxic NPMSG00
 Mégève Mégève NPCSG00
+Méliès Méliès NPCNSP0
 Ménière Ménière NPCNSP0 # medical
 Méricourt Méricourt NPCSG00
 Mérida Mérida NPCSG00
@@ -18490,6 +18498,7 @@ Picassent Picassent NPCSG00
 Picasso Picasso NPCNSP0
 Picassàries Picassàries NPCSG00
 Picassó Picassó NPCNSP0
+Picazo Picazo NPCNSP0
 Piccolomini Piccolomini NPCNSP0
 Pichincha Pichincha NPCSG00
 Pick Pick NPCNSP0 # medical
@@ -20887,6 +20896,7 @@ Rīgestān Rīgestān NPCSG00
 S&P S&P NPCNO00
 S'Agaró S'Agaró NPCSG00
 SA SA NPCNO00
+SEPA SEPA NPMSO00
 SER SER NPCSO00
 SGAE SGAE NPFSO00
 SNP SNP NPMSO00
@@ -22673,6 +22683,7 @@ Stuart-Power Stuart-Power NPCNSP0 # medical
 Student Student NPCNSP0
 Stupino Stupino NPCSG00
 Sturge-Weber Sturge-Weber NPCNSP0 # medical
+Sturgeon Sturgeon NPCNSP0
 Sturmdorf Sturmdorf NPCNSP0 # medical
 Stuttgart Stuttgart NPMSG00
 Suagres Suagres NPCSG00
@@ -22882,7 +22893,9 @@ TGUE TGUE NPMSO00
 TJUE TJUE NPMSO00
 TMB TMB NPMPO00
 TNC TNC NPMSO00
+TS TS NPMSO00
 TSJC TSJC NPMSO00
+TSJCV TSJCV NPMSO00
 TV3 TV3 NPFSO00
 TVE TVE NPFSO00
 Ta'izz Ta'izz NPCSG00
@@ -23208,6 +23221,7 @@ Tejero Tejero NPCNSP0
 Tel-Aviv Tel-Aviv NPCSG00
 Tel-Aviv-Yafō Tel-Aviv-Yafō NPCSG00
 Telde Telde NPCSG00
+Telecinco Telecinco NPCNO00
 Telegram Telegram NPMSO00
 Telemadrid Telemadrid NPFSO00
 Telentrada Telentrada NPMSO00
@@ -25536,6 +25550,7 @@ Waldorf Waldorf NPCNSP0
 Walensee Walensee NPCSG00
 Wallapop Wallapop NPCNO00
 Wallasey Wallasey NPCSG00
+Wallbox Wallbox NPCNO00
 Wallers Wallers NPCSG00
 Wallis Wallis NPCSG00
 Walsall Walsall NPCSG00
@@ -25626,6 +25641,7 @@ Westfàlia Westfàlia NPFSG00
 Westinghouse Westinghouse NPCNO00
 Westminster Westminster NPCSG00
 Weston-super-Mare Weston-super-Mare NPCSG00
+Wetransfer Wetransfer NPCNO00
 Wetterau Wetterau NPCSG00
 Wetterhorn Wetterhorn NPCSG00
 Wetterstein Wetterstein NPCSG00
@@ -25988,6 +26004,7 @@ Zakopane Zakopane NPCSG00
 Zalaegerszeg Zalaegerszeg NPCSG00
 Zambezi Zambezi NPCSG00
 Zamboanga Zamboanga NPCSG00
+Zambrano Zambrano NPCNSP0
 Zambézia Zambézia NPCSG00
 Zamenhof Zamenhof NPCNSP0
 Zamit Zamit NPCNSP0
