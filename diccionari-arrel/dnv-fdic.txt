@@ -2210,7 +2210,6 @@ epagomen -a=categories: A;fonts: DNV;
 epidermoide=categories: A;fonts: DNV;
 epidermoide=categories: M;fonts: DNV;
 epiglossi=categories: F;fonts: DNV;
-epipelàgic -a=categories: A;fonts: DNV;
 epiploïtis=categories: FI;fonts: DNV;
 equilingüisme=categories: M;fonts: DNV;
 equiliquà=categories: RG;fonts: DNV;
