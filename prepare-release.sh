@@ -16,11 +16,16 @@ rm -rf resultats/release/*
 
 ./build-lt.sh
 ./build-hunspell.sh -v "$VERSION" 
+echo "Creant OXT..."
 ./build-oxt-all.sh -p -v "$VERSION"
+echo "Creant XPI..."
 ./build-xpi-all.webext.sh "$VERSION" resultats/release/
 
+echo "Preparant llicències..."
 cp LICENSE resultats/release/
+echo "copiant README.txt..."
 cp README.txt resultats/release/
+echo "Copiat README.txt!"
 sed -i -e s/\#\#VERSION\#\#/$VERSION/g resultats/release/README.txt resultats/release/README.txt
 sed -i -e s/\#\#YEAR\#\#/$YEAR/g resultats/release/README.txt resultats/release/README.txt
 

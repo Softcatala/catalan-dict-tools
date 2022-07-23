@@ -49,6 +49,7 @@ cp -rf ../thes/README_thes_ca.txt README_thes_ca.txt
 cp -rf root_files/LICENSES-en.txt LICENSES-en.txt
 cp -rf root_files/LLICENCIES-ca.txt LLICENCIES-ca.txt
 cp -rf root_files/SC-logo.png SC-logo.png
+echo "Copiant README a oxt ca"
 cp -rf ../../README.txt README.txt
 sed -i -e s/\#\#VERSION\#\#/$VERSION/g README.txt README.txt
 sed -i -e s/\#\#YEAR\#\#/$YEAR/g README.txt README.txt
@@ -72,7 +73,8 @@ cp package-description.txt.pre package-description.txt
 cp -rf root_files/LICENSES-en.txt LICENSES-en.txt
 cp -rf root_files/LLICENCIES-ca.txt LLICENCIES-ca.txt
 cp -rf root_files/SV-logo.png SV-logo.png
-cp -rf root_files/README.txt README.txt
+echo "Copiant README a oxt va"
+cp -rf ../../README.txt README.txt
 sed -i -e s/\#\#VERSION\#\#/$VERSION/g README.txt README.txt
 sed -i -e s/\#\#YEAR\#\#/$YEAR/g README.txt README.txt
  

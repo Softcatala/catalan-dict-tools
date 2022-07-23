@@ -1,3 +1,6 @@
+Version 3.0.7 (23/07/2022)
+Additions and changes done during the last two years.
+
 Version 3.0.6 (15/06/2020)
 Fix issue with Hunspell dictionaries. Fix manifest json for Thunderbird compatibility. Update README and copyright.
 
