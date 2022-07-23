@@ -52,6 +52,7 @@
 #Darius Darius NPMSSP0 # avl: noms de persona
 #Dat Dat NPMSSP0 # avl: noms de persona
 #Daviu Daviu NPMSSP0 # avl: noms de persona
+#Dela Dela NPCNSP0
 #Desemparats Desemparats NPFSSP0 # avl: noms de persona
 #Doménec (o Domènec) Doménec (o Domènec) NPMSSP0 # avl: noms de persona
 #Dris Dris NPMSSP0 # avl: noms de persona
@@ -7640,7 +7641,6 @@ Deirgdheirc Deirgdheirc NPCSG00
 Deià Deià NPCNSP0
 Deià Deià NPCSG00
 Dejoan Dejoan NPCNSP0
-Dela Dela NPCNSP0
 Delacroix Delacroix NPCNSP0
 Delafont Delafont NPCNSP0
 Delagenière Delagenière NPCNSP0 # medical

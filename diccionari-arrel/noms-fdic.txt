@@ -9373,6 +9373,7 @@ bancassegurança=categories: F;fonts: LT;
 bancocràcia=categories: F;fonts: LT;
 banda=categories: F;fonts: LT;
 bandada=categories: F;fonts: LT;
+bandana=categories: F;fonts: termcat;
 bandarra=categories: MF;fonts: LT;
 bandarrada=categories: F;fonts: LT;
 bandatge=categories: M;fonts: LT;
