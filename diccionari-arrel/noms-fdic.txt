@@ -71911,6 +71911,7 @@ rickèttsia=categories: F;fonts: LT;
 ricor=categories: F;fonts: LT;
 rictus=categories: MI;fonts: LT;
 ricí=categories: M;fonts: LT;
+rider=categories: MF;fonts: English;
 ridiculesa=categories: F;fonts: LT;
 ridiculització=categories: F;fonts: LT;
 ridorta=categories: F;fonts: LT;

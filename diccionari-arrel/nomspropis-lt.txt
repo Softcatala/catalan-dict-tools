@@ -726,6 +726,7 @@ Airbus Airbus NPMNO00
 Airelles Airelles NPFPG00
 Airolo Airolo NPCSG00
 Airways Airways NPCNO00
+Airí Airí NPFSSP0
 Aisne Aisne NPCSG00
 Aitana Aitana NPFSG00
 Aiter Aiter NPCNSP0
@@ -6612,6 +6613,7 @@ Coba Coba NPCSG00
 Cobarsí Cobarsí NPCNSP0
 Cobb Cobb NPCNSP0 # medical
 Cobertorer Cobertorer NPCNSP0
+Cobi Cobi NPMSSP0
 Coblença Coblença NPCSG00
 Coburg Coburg NPCSG00
 Coc Coc NPCNSP0
@@ -22749,6 +22751,7 @@ Sumy Sumy NPCSG00
 Sundarbans Sundarbans NPMPG00
 Sunderland Sunderland NPCSG00
 Sundsvall Sundsvall NPCSG00
+Sunifred Sunifred NPMSSP0
 Sunja Sunja NPCSG00
 Sunnyvale Sunnyvale NPCSG00
 Sunyer Sunyer NPCNSP0
