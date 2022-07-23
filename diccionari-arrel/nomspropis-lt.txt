@@ -4102,6 +4102,7 @@ Biskra Biskra NPCSG00
 Bismarck Bismarck NPCSG00
 Bismutia Bismutia NPCNSP0 # medical
 Bisquerra Bisquerra NPCNSP0
+Bisquert Bisquert NPCNSP0
 Bissau Bissau NPMSG00
 Bissaürri Bissaürri NPCSG00
 Bistriţa Bistriţa NPCSG00
@@ -13422,6 +13423,7 @@ Leinster Leinster NPCSG00
 Leipzig Leipzig NPCSG00
 Leire Leire NPFSSP0
 Leiria Leiria NPCSG00
+Lejárraga Lejárraga NPCNSP0
 Lel Lel NPCSG00
 Lemdiyya Lemdiyya NPCSG00
 Lemnos Lemnos NPCSG00
@@ -14739,6 +14741,7 @@ Margeneda Margeneda NPCNSP0
 Marget Marget NPCNSP0
 Margets Margets NPCNSP0
 Margoret Margoret NPCNSP0
+Margot Margot NPFSSP0
 Marguí Marguí NPCNSP0
 Maria Maria NPCNSP0
 Maria Maria NPFSSP0
