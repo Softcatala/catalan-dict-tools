@@ -12,3 +12,5 @@ resultats/release
 target
 *.csv
 termcat/downloads
+.dat
+.idx
