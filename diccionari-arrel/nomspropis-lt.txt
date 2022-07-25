@@ -6896,6 +6896,7 @@ Cooley Cooley NPCNSP0 # medical
 Coombs Coombs NPCNSP0 # medical
 Cooper Cooper NPCNSP0
 Cooper Cooper NPCSG00
+Copacabana Copacabana NPFSG00
 Copenhaguen Copenhaguen NPCSG00
 Copertino Copertino NPCSG00
 Copiapó Copiapó NPCSG00
