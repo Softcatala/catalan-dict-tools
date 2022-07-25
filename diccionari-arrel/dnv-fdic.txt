@@ -2664,7 +2664,6 @@ forceguejar=categories: V;model:envejar;fonts: DNV;
 foresta=categories: F;fonts: DNV;
 formateig=categories: F;fonts: DNV;
 formatejar=categories: V;model:envejar;fonts: DNV;
-fornet=categories: M;fonts: DNV;
 fornil=categories: M;fonts: DNV;
 forniller -a=categories: MF;fonts: DNV;
 forradura=categories: F;fonts: DNV;

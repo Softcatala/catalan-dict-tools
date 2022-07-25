@@ -36697,6 +36697,7 @@ fornellenc fornellenca=categories: MF;fonts: LT;
 forner fornera=categories: MF;fonts: LT;
 forneret=categories: M;fonts: LT;
 forneria=categories: F;fonts: LT;
+fornet=categories: M;fonts: DNV, dim;
 fornicació=categories: F;fonts: LT;
 fornicador fornicadora=categories: MF;fonts LT;
 fornicari fornicària=categories: MF;fonts LT;

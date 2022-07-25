@@ -7,7 +7,11 @@ current_time=$(date "+%Y%m%d%H%M%S")
 
 DEV=".dev.$current_time"
 
-
+echo "Downloading thesaurus latest version..."
+rm oxt/thes/*
+wget https://github.com/Softcatala/sinonims-cat/releases/latest/download/th_ca_ES.dat -O oxt/thes/th_ca_ES.dat
+wget https://github.com/Softcatala/sinonims-cat/releases/latest/download/th_ca_ES.idx -O oxt/thes/th_ca_ES.idx
+wget https://github.com/Softcatala/sinonims-cat/releases/latest/download/README.txt -O oxt/thes/README_thes_ca.txt
 
 while getopts "pv:" opt; do
     case "$opt" in
@@ -43,8 +47,8 @@ cp -rf ../../resultats/hunspell/catalan-valencia.aff ca-ES-valencia.aff
 cp -rf ../../resultats/hunspell/catalan-valencia.dic ca-ES-valencia.dic
 cp -rf ../hyph/hyph_ca.dic hyph_ca.dic
 cp -rf ../hyph/README_hyph_ca.txt README_hyph_ca.txt
-cp -rf ../thes/th_ca_ES_v3.dat th_ca_ES_v3.dat
-cp -rf ../thes/th_ca_ES_v3.idx th_ca_ES_v3.idx
+cp -rf ../thes/th_ca_ES.dat th_ca_ES.dat
+cp -rf ../thes/th_ca_ES.idx th_ca_ES.idx
 cp -rf ../thes/README_thes_ca.txt README_thes_ca.txt
 cp -rf root_files/LICENSES-en.txt LICENSES-en.txt
 cp -rf root_files/LLICENCIES-ca.txt LLICENCIES-ca.txt

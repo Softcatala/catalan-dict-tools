@@ -47942,8 +47942,6 @@ formatejàssim formatejar VMSI1P04
 formatejàssiu formatejar VMSI2P04
 formatejàvem formatejar VMII1P00
 formatejàveu formatejar VMII2P00
-fornet fornet NCMS000
-fornets fornet NCMP000
 fornil fornil NCMS000
 forniller forniller NCMS000
 fornillera forniller NCFS000
