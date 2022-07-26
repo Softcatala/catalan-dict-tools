@@ -33980,6 +33980,7 @@ expressivitat=categories: F;fonts: LT;
 expressió=categories: F;fonts: LT;
 exprofessor exprofessora=categories: MF;fonts: LT;
 expromissió=categories: F;fonts: LT;
+expromès expromesa=categories: MF;fonts: LT;
 expropiació=categories: F;fonts: LT;
 exprés [pl. expressos]=categories: M;fonts: LT;
 expugnació=categories: F;fonts: LT;
