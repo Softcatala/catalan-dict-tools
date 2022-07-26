@@ -7805,6 +7805,7 @@ Deó Deó NPCNSP0
 Dhaulāgiri Dhaulāgiri NPCSG00
 Dhofar Dhofar NPCSG00
 Dhānbād Dhānbād NPCSG00
+DiCaprio DiCaprio NPCNSP0
 Diabali Diabali NPCSG00
 Diadema Diadema NPCSG00
 Diafebus Diafebus NPMSSP0
@@ -15741,6 +15742,7 @@ Moebius Moebius NPCNSP0 # medical
 Moers Moers NPCSG00
 Mogadiscio Mogadiscio NPCSG00
 Mogil'ov Mogil'ov NPCSG00
+Mogoda Mogoda NPCNSP0
 Mogoda Mogoda NPFSG00
 Mogues Mogues NPCNSP0
 Mohamed Mohamed NPMSSP0 # forma més usual
@@ -18626,6 +18628,7 @@ Piquera Piquera NPCNSP0
 Piqueres Piqueres NPCNSP0
 Piques Piques NPCNSP0
 Piquet Piquet NPCNSP0
+Piqué Piqué NPCNSP0
 Pira Pira NPCSG00
 Piracicaba Piracicaba NPCSG00
 Piramsès Piramsès NPCSG00
