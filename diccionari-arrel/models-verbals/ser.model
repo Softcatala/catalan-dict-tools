@@ -11,11 +11,8 @@ ser estats er VSP00PM0 # estats
 er iguts er VSP00PM0 # siguts
 ser estades er VSP00PF0 # estades
 er igudes er VSP00PF0 # sigudes
-#er ó er VSIP1S00 # só
+er oc er VSIP1S00 # soc
 er óc er VSIP1S00 # sóc
-er oc er VSIP1S00 # soc diacriticsIEC
-#er om er VSIP1S0B # som
-#er om er VSIP1S0S # som
 ser ets er VSIP2S00 # ets
 ser és er VSIP3S00 # és
 er om er VSIP1P00 # som
@@ -40,13 +37,13 @@ r rà er VSIF3S00 # serà
 r rem er VSIF1P00 # serem
 r reu er VSIF2P00 # sereu
 r ran er VSIF3P00 # seran
+ser fora er VSIC1S00 # fora
 ser fóra er VSIC1S00 # fóra
-ser fora er VSIC1S00 # fora diacriticsIEC
 r ria er VSIC1S00 # seria
 ser fores er VSIC2S00 # fores
 r ries er VSIC2S00 # series
+ser fora er VSIC3S00 # fora
 ser fóra er VSIC3S00 # fóra
-ser fora er VSIC3S00 # fora diacriticsIEC
 r ria er VSIC3S00 # seria
 ser fórem er VSIC1P00 # fórem
 r ríem er VSIC1P00 # seríem
@@ -54,25 +51,25 @@ ser fóreu er VSIC2P00 # fóreu
 r ríeu er VSIC2P00 # seríeu
 ser foren er VSIC3P00 # foren
 r rien er VSIC3P00 # serien
-er iga er VSSP1S0V # siga
 er igui er VSSP1S0Y # sigui
-er igues er VSSP2S0V # sigues
+er iga er VSSP1S0V # siga
 er iguis er VSSP2S0Y # siguis
-er iga er VSSP3S0V # siga
+er igues er VSSP2S0V # sigues
 er igui er VSSP3S0Y # sigui
+er iga er VSSP3S0V # siga
 er iguem er VSSP1P00 # siguem
 er igueu er VSSP2P00 # sigueu
-er iguen er VSSP3P0V # siguen
 er iguin er VSSP3P0Y # siguin
+er iguen er VSSP3P0V # siguen
 ser fos er VSSI1S01 # fos
+ser fora er VSSI1S03 # fora
 ser fóra er VSSI1S03 # fóra
-ser fora er VSSI1S03 # fora diacriticsIEC
 ser fossis er VSSI2S02 # fossis
 ser fores er VSSI2S03 # fores
 ser fosses er VSSI2S05 # fosses
 ser fos er VSSI3S01 # fos
+ser fora er VSSI3S03 # fora
 ser fóra er VSSI3S03 # fóra
-ser fora er VSSI3S03 # fora diacriticsIEC
 ser fóssim er VSSI1P02 # fóssim
 ser fórem er VSSI1P03 # fórem
 ser fóssem er VSSI1P05 # fóssem
@@ -83,9 +80,9 @@ ser fossin er VSSI3P02 # fossin
 ser foren er VSSI3P03 # foren
 ser fossen er VSSI3P05 # fossen
 er igues er VSM02S00 # sigues
-er iga er VSM03S0V # siga
 er igui er VSM03S0Y # sigui
+er iga er VSM03S0V # siga
 er iguem er VSM01P00 # siguem
 er igueu er VSM02P00 # sigueu
-er iguen er VSM03P0V # siguen
 er iguin er VSM03P0Y # siguin
+er iguen er VSM03P0V # siguen

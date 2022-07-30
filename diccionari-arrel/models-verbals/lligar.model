@@ -6,8 +6,7 @@ r ts ar VMP00PM0 # lligats
 r des ar VMP00PF0 # lligades
 ar o ar VMIP1S0C # lligo
 ar ue ar VMIP1S0V # lligue
-gar c ar VMIP1S0B # llic única diferència amb el model de pregar
-#ar ui ar VMIP1S0S # lligui
+gar c ar VMIP1S0B # llic
 ar ues ar VMIP2S00 # lligues
 r 0 ar VMIP3S00 # lliga
 ar uem ar VMIP1P00 # lliguem
@@ -39,16 +38,16 @@ r ria ar VMIC3S00 # lligaria
 r ríem ar VMIC1P00 # lligaríem
 r ríeu ar VMIC2P00 # lligaríeu
 r rien ar VMIC3P00 # lligarien
-ar ue ar VMSP1S0V # lligue
 ar ui ar VMSP1S0Y # lligui
-ar ues ar VMSP2S0V # lligues
+ar ue ar VMSP1S0V # lligue
 ar uis ar VMSP2S0Y # lliguis
-ar ue ar VMSP3S0V # lligue
+ar ues ar VMSP2S0V # lligues
 ar ui ar VMSP3S0Y # lligui
+ar ue ar VMSP3S0V # lligue
 ar uem ar VMSP1P00 # lliguem
 ar ueu ar VMSP2P00 # lligueu
-ar uen ar VMSP3P0V # lliguen
 ar uin ar VMSP3P0Y # lliguin
+ar uen ar VMSP3P0V # lliguen
 ar ués ar VMSI1S01 # lligués
 r ra ar VMSI1S03 # lligara
 ar às ar VMSI1S07 # lligàs
@@ -76,10 +75,10 @@ r ssin ar VMSI3P04 # lligassin
 ar uessen ar VMSI3P05 # lliguessen
 r ssen ar VMSI3P06 # lligassen
 r 0 ar VMM02S00 # lliga
-ar ue ar VMM03S0V # lligue
 ar ui ar VMM03S0Y # lligui
+ar ue ar VMM03S0V # lligue
 ar uem ar VMM01P00 # lliguem
-r u ar VMM02P0B # lligau
 ar ueu ar VMM02P0X # lligueu
-ar uen ar VMM03P0V # lliguen
+r u ar VMM02P0B # lligau
 ar uin ar VMM03P0Y # lliguin
+ar uen ar VMM03P0V # lliguen

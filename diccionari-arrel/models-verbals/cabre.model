@@ -5,9 +5,8 @@ re ut re VMP00SM0 # cabut
 re uda re VMP00SF0 # cabuda
 re uts re VMP00PM0 # cabuts
 re udes re VMP00PF0 # cabudes
-re o re VMIP1S0C # cabo
 bre p re VMIP1S0Z # cap
-#re i re VMIP1S0S # cabi
+re o re VMIP1S0C # cabo
 bre ps re VMIP2S00 # caps
 bre p re VMIP3S00 # cap
 re em re VMIP1P00 # cabem

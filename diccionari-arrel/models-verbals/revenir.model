@@ -2,23 +2,23 @@ r r ir VMN00000 # revenir
 enir indre ir VMN00000 # revindre
 r nt ir VMG00000 # revenint
 enir ingut ir VMP00SM0 # revingut
-ir gut ir VMP00SMB # revengut
 enir inguda ir VMP00SF0 # revinguda
+ir gut ir VMP00SMB # revengut
 ir guda ir VMP00SFB # revenguda
 enir inguts ir VMP00PM0 # revinguts
-ir guts ir VMP00PMB # revenguts
 enir ingudes ir VMP00PF0 # revingudes
+ir guts ir VMP00PMB # revenguts
 ir gudes ir VMP00PFB # revengudes
 enir inc ir VMIP1S00 # revinc
+ir c ir VMIP1S0B # revenc
 enir énc ir VMIP1S0B # revénc
-enir enc ir VMIP1S0B # revenc diacriticsIEC
+ir s ir VMIP2S00 # revens
 enir éns ir VMIP2S00 # revéns
-enir ens ir VMIP2S00 # revens diacriticsIEC
 enir é ir VMIP3S00 # revé
 r m ir VMIP1P00 # revenim
 r u ir VMIP2P00 # reveniu
+ir en ir VMIP3P00 # revenen
 enir énen ir VMIP3P00 # revénen
-enir enen ir VMIP3P00 # revenen diacriticsIEC
 r a ir VMII1S00 # revenia
 r es ir VMII2S00 # revenies
 r a ir VMII3S00 # revenia
@@ -61,58 +61,58 @@ enir indríeu ir VMIC2P00 # revindríeu
 ir dríeu ir VMIC2P0B # revendríeu
 enir indrien ir VMIC3P00 # revindrien
 ir drien ir VMIC3P0B # revendrien
-enir inga ir VMSP1S0V # revinga
-enir éngui ir VMSP1S0B # revéngui
-enir engui ir VMSP1S0B # revengui diacriticsIEC
 enir ingui ir VMSP1S0Y # revingui
-enir ingues ir VMSP2S0V # revingues
-enir énguis ir VMSP2S0B # revénguis
-enir enguis ir VMSP2S0B # revenguis diacriticsIEC
+enir inga ir VMSP1S0V # revinga
+ir gui ir VMSP1S0B # revengui
+enir éngui ir VMSP1S0B # revéngui
 enir inguis ir VMSP2S0Y # revinguis
-enir inga ir VMSP3S0V # revinga
-enir éngui ir VMSP3S0B # revéngui
-enir engui ir VMSP3S0B # revengui diacriticsIEC
+enir ingues ir VMSP2S0V # revingues
+ir guis ir VMSP2S0B # revenguis
+enir énguis ir VMSP2S0B # revénguis
 enir ingui ir VMSP3S0Y # revingui
+enir inga ir VMSP3S0V # revinga
+ir gui ir VMSP3S0B # revengui
+enir éngui ir VMSP3S0B # revéngui
 enir inguem ir VMSP1P00 # revinguem
 ir guem ir VMSP1P0B # revenguem
 enir ingueu ir VMSP2P00 # revingueu
 ir gueu ir VMSP2P0B # revengueu
-enir inguen ir VMSP3P0V # revinguen
-enir énguin ir VMSP3P0B # revénguin
-enir enguin ir VMSP3P0B # revenguin diacriticsIEC
 enir inguin ir VMSP3P0Y # revinguin
+enir inguen ir VMSP3P0V # revinguen
+ir guin ir VMSP3P0B # revenguin
+enir énguin ir VMSP3P0B # revénguin
+ir gués ir VMSI1S0B # revengués
 enir ingués ir VMSI1S01 # revingués
 enir inguera ir VMSI1S03 # revinguera
-ir gués ir VMSI1S0B # revengués
+ir guessis ir VMSI2S0B # revenguessis
 enir inguessis ir VMSI2S02 # revinguessis
 enir ingueres ir VMSI2S03 # revingueres
 enir inguesses ir VMSI2S05 # revinguesses
-ir guessis ir VMSI2S0B # revenguessis
+ir gués ir VMSI3S0B # revengués
 enir ingués ir VMSI3S01 # revingués
 enir inguera ir VMSI3S03 # revinguera
-ir gués ir VMSI3S0B # revengués
+ir guéssim ir VMSI1P0B # revenguéssim
 enir inguéssim ir VMSI1P02 # revinguéssim
 enir inguérem ir VMSI1P03 # revinguérem
 enir inguéssem ir VMSI1P05 # revinguéssem
-ir guéssim ir VMSI1P0B # revenguéssim
+ir guéssiu ir VMSI2P0B # revenguéssiu
 enir inguéssiu ir VMSI2P02 # revinguéssiu
 enir inguéreu ir VMSI2P03 # revinguéreu
 enir inguésseu ir VMSI2P05 # revinguésseu
-ir guéssiu ir VMSI2P0B # revenguéssiu
+ir guessin ir VMSI3P0B # revenguessin
 enir inguessin ir VMSI3P02 # revinguessin
 enir ingueren ir VMSI3P03 # revingueren
 enir inguessen ir VMSI3P05 # revinguessen
-ir guessin ir VMSI3P0B # revenguessin
 enir én ir VMM02S00 # revén
 enir ín ir VMM02S0V # revín
-enir inga ir VMM03S0V # revinga
-enir éngui ir VMM03S0B # revéngui
-enir engui ir VMM03S0B # revengui diacriticsIEC
 enir ingui ir VMM03S0Y # revingui
+enir inga ir VMM03S0V # revinga
+ir gui ir VMM03S0B # revengui
+enir éngui ir VMM03S0B # revéngui
 enir inguem ir VMM01P00 # revinguem
 ir guem ir VMM01P0B # revenguem
 r u ir VMM02P00 # reveniu
-enir inguen ir VMM03P0V # revinguen
-enir énguin ir VMM03P0B # revénguin
-enir enguin ir VMM03P0B # revenguin diacriticsIEC
 enir inguin ir VMM03P0Y # revinguin
+enir inguen ir VMM03P0V # revinguen
+ir guin ir VMM03P0B # revenguin
+enir énguin ir VMM03P0B # revénguin

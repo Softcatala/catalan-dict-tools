@@ -23,10 +23,10 @@ er éieu er VMII2P00 # féieu
 r ien er VMII3P00 # feien
 er iu er VMIS1S00 # fiu
 r res er VMIS2S00 # feres
+r u er VMIS3S00 # feu
 er éu er VMIS3S00 # féu
-er eu er VMIS3S00 # feu diacriticsIEC
+r 0 er VMIS3S0B # fe
 er é er VMIS3S0B # fé
-er e er VMIS3S0B # fe diacriticsIEC
 er érem er VMIS1P00 # férem
 er éreu er VMIS2P00 # féreu
 r ren er VMIS3P00 # feren
@@ -42,18 +42,18 @@ er aria er VMIC3S00 # faria
 er aríem er VMIC1P00 # faríem
 er aríeu er VMIC2P00 # faríeu
 er arien er VMIC3P00 # farien
-er aça er VMSP1S0V # faça
 er aci er VMSP1S0Y # faci
-er aces er VMSP2S0V # faces
+er aça er VMSP1S0V # faça
 er acis er VMSP2S0Y # facis
-er aça er VMSP3S0V # faça
+er aces er VMSP2S0V # faces
 er aci er VMSP3S0Y # faci
+er aça er VMSP3S0V # faça
 r m er VMSP1P00 # fem
 er acem er VMSP1P0B # facem
 r u er VMSP2P00 # feu
 er aceu er VMSP2P0B # faceu
-er acen er VMSP3P0V # facen
 er acin er VMSP3P0Y # facin
+er acen er VMSP3P0V # facen
 r s er VMSI1S01 # fes
 r ra er VMSI1S03 # fera
 r ssis er VMSI2S02 # fessis
@@ -72,11 +72,11 @@ r ren er VMSI3P03 # feren
 r ssen er VMSI3P05 # fessen
 r s er VMM02S00 # fes
 er é er VMM02S0B # fé
-er aça er VMM03S0V # faça
 er aci er VMM03S0Y # faci
+er aça er VMM03S0V # faça
 r m er VMM01P00 # fem
 er acem er VMM01P0B # facem
 r u er VMM02P00 # feu
 r is er VMM02P0B # feis
-er acen er VMM03P0V # facen
 er acin er VMM03P0Y # facin
+er acen er VMM03P0V # facen

@@ -23,8 +23,8 @@ er éieu er VMII2P00 # contraféieu
 r ien er VMII3P00 # contrafeien
 er iu er VMIS1S00 # contrafiu
 r res er VMIS2S00 # contraferes
+r u er VMIS3S00 # contrafeu
 er éu er VMIS3S00 # contraféu
-er eu er VMIS3S00 # contrafeu diacriticsIEC
 er é er VMIS3S0B # contrafé
 er érem er VMIS1P00 # contraférem
 er éreu er VMIS2P00 # contraféreu
@@ -41,18 +41,18 @@ er aria er VMIC3S00 # contrafaria
 er aríem er VMIC1P00 # contrafaríem
 er aríeu er VMIC2P00 # contrafaríeu
 er arien er VMIC3P00 # contrafarien
-er aça er VMSP1S0V # contrafaça
 er aci er VMSP1S0Y # contrafaci
-er aces er VMSP2S0V # contrafaces
+er aça er VMSP1S0V # contrafaça
 er acis er VMSP2S0Y # contrafacis
-er aça er VMSP3S0V # contrafaça
+er aces er VMSP2S0V # contrafaces
 er aci er VMSP3S0Y # contrafaci
+er aça er VMSP3S0V # contrafaça
 r m er VMSP1P00 # contrafem
 er acem er VMSP1P0B # contrafacem
 r u er VMSP2P00 # contrafeu
 er aceu er VMSP2P0B # contrafaceu
-er acen er VMSP3P0V # contrafacen
 er acin er VMSP3P0Y # contrafacin
+er acen er VMSP3P0V # contrafacen
 er és er VMSI1S01 # contrafés
 r ra er VMSI1S03 # contrafera
 r ssis er VMSI2S02 # contrafessis
@@ -71,11 +71,11 @@ r ren er VMSI3P03 # contraferen
 r ssen er VMSI3P05 # contrafessen
 er és er VMM02S00 # contrafés
 er é er VMM02S0B # contrafé
-er aça er VMM03S0V # contrafaça
 er aci er VMM03S0Y # contrafaci
+er aça er VMM03S0V # contrafaça
 r m er VMM01P00 # contrafem
 er acem er VMM01P0B # contrafacem
 r u er VMM02P00 # contrafeu
 r is er VMM02P0B # contrafeis
-er acen er VMM03P0V # contrafacen
 er acin er VMM03P0Y # contrafacin
+er acen er VMM03P0V # contrafacen
