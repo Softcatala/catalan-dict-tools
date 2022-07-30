@@ -53,8 +53,8 @@ while(my $line = <$fh>){
     if ($persona =~ /2/) { $points += 40}
     if ($persona =~ /3/) { $points += 30}
 
-    if ($gender =~ /M/) { $points += 5}
-    if ($gender =~ /F/) { $points += 4}
+    if ($gender =~ /M/) { $points += 20}
+    if ($gender =~ /F/) { $points += 19}
 
     if ($variant =~ /0/) { $points += 15}
     if ($variant =~ /Z/) { $points += 14}
@@ -63,13 +63,12 @@ while(my $line = <$fh>){
     if ($variant =~ /C/) { $points += 11}
     if ($variant =~ /V/) { $points += 10}
     if ($variant =~ /B/) { $points += 9}
-    if ($variant =~ /B/) { $points += 8}
-    if ($variant =~ /1/) { $points += 7}
-    if ($variant =~ /2/) { $points += 6}
-    if ($variant =~ /3/) { $points += 5}
-    if ($variant =~ /4/) { $points += 4}
-    if ($variant =~ /5/) { $points += 3}
-    if ($variant =~ /6/) { $points += 2}
+    if ($variant =~ /1/) { $points += 8}
+    if ($variant =~ /2/) { $points += 7}
+    if ($variant =~ /3/) { $points += 6}
+    if ($variant =~ /4/) { $points += 5}
+    if ($variant =~ /5/) { $points += 4}
+    if ($variant =~ /6/) { $points += 3}
 
     $scores{$line} = $points;
 }
