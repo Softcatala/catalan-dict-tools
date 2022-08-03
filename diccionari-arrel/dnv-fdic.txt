@@ -2626,7 +2626,6 @@ flicar=categories: V;model:trencar;fonts: DNV;
 flitador=categories: M;fonts: DNV;
 flixament=categories: M;fonts: DNV;
 floquer -a=categories: MF;fonts: DNV;
-floresta=categories: F;fonts: DNV;
 floriforme=categories: A;fonts: DNV;
 floràlia=categories: F;fonts: DNV;
 flotaire=categories: A;fonts: DNV;

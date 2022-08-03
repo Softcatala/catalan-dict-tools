@@ -10070,6 +10070,7 @@ Fugurull Fugurull NPMSG00
 Fuirosos Fuirosos NPCSG00
 Fuji Fuji NPCSG00
 Fujian Fujian NPCSG00
+Fujifilm Fujifilm NPCNO00
 Fujinomiya Fujinomiya NPCSG00
 Fujisawa Fujisawa NPCSG00
 Fukala Fukala NPCNSP0 # medical
@@ -11314,6 +11315,7 @@ Guiamets Guiamets NPMPG00
 Guibert Guibert NPMSSP0
 Guiberts Guibert NPMPSP0
 Guic Guic NPCNSP0
+Guida Guida NPFSSP0
 Guidimaka Guidimaka NPCSG00
 Guiena Guiena NPFSG00
 Guier Guier NPCNSP0
@@ -12101,6 +12103,7 @@ ISIL ISIL NPMSO00
 ISIS ISIS NPMSO00
 ISO ISO NPFSO00
 ISSN ISSN NPMNO00
+ITC ITC NPCNO00
 ITV ITV NPFSO00
 IVAM IVAM NPMSO00
 IVAP IVAP NPMSO00
@@ -15147,6 +15150,7 @@ Matifoll Matifoll NPCNSP0
 Matilda Matilda NPFSSP0 # avl: noms de persona
 Matilde Matilde NPFSSP0
 Matildes Matilde NPFPSP0
+Matisse Matisse NPCNSP0
 Matola Matola NPCSG00
 Matons Matons NPCNSP0
 Matoses Matoses NPCNSP0
@@ -15254,6 +15258,7 @@ McKinley McKinley NPCSG00
 McLaren McLaren NPCNO00
 McLeod McLeod NPCNSP0 # medical
 McLuhan McLuhan NPCNO00
+McNamara McNamara NPCNSP0
 Mchinji Mchinji NPCSG00
 Meanes Meanes NPCSG00
 Meaux Meaux NPCSG00
@@ -16334,6 +16339,7 @@ Moulins Moulins NPCSG00
 Moulmein Moulmein NPCSG00
 Mouskron Mouskron NPCSG00
 Movistar Movistar NPCNO00
+Mowgli Mowgli NPMSSP0
 Moxico Moxico NPCSG00
 Moyamba Moyamba NPCSG00
 Moyeuvre-Grande Moyeuvre-Grande NPCSG00

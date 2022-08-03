@@ -47437,8 +47437,6 @@ floquer floquer NCMS000
 floquera floquer NCFS000
 floqueres floquer NCFP000
 floquers floquer NCMP000
-floresta floresta NCFS000
-florestes floresta NCFP000
 floriforme floriforme AQ0CS0
 floriformes floriforme AQ0CP0
 floràlia floràlia NCFS000
