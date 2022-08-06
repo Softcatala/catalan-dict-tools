@@ -19,6 +19,7 @@
 #vende=categories: A;fonts: GDLC; inusual
 #vivace=categories: AMS;fonts: AVL,GDLC; Pot ser confús
 #víking=categories: A;fonts: LT; #eliminat de DIEC i DNV
+#xotxo xotxa=categories: A;fonts: LT; castellanimse, només DIEC
 10è 10a [pl. 10ns]=categories: AO;fonts: LT;
 11è 11a [pl. 11ns]=categories: AO;fonts: LT;
 12è 12a [pl. 12ns]=categories: AO;fonts: LT;
@@ -32874,8 +32875,7 @@ xorigueresc xorigueresca=categories: A;fonts: LT;
 xoroll xorolla=categories: A;fonts: LT;
 xorrollós xorrollosa=categories: A;fonts: DNV;
 xosa=categories: A;fonts: LT;
-xotro xotra=categories: A;fonts: LT;
-xotxo xotxa=categories: A;fonts: LT;
+#xotro xotra=categories: A;fonts: LT; només DIEC, dialectal
 xovato=categories: A;fonts: LT;
 xover xovera=categories: A;fonts: LT;
 xovinista=categories: A;fonts: LT;
