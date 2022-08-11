@@ -4686,6 +4686,7 @@ Brighton Brighton NPCSG00
 Brignoles Brignoles NPCSG00
 Briguets Briguets NPCNSP0
 Brill Brill NPCNSP0
+Brillouin Brillouin NPCNSP0
 Bringueret Bringueret NPCNSP0
 Brinhòlas Brinhòlas NPCSG00
 Brioude Brioude NPCSG00

@@ -8629,6 +8629,7 @@ reformar=categories: V;model:cantar;fonts:LT
 reformatar=categories: V;model:cantar;fonts:LT
 reformular=categories: V;model:cantar;fonts:LT
 reforçar=categories: V;model:començar;fonts:LT
+refotre=categories: V;model:abatre;fonts: DCVB,vulgar
 refractar=categories: V;model:cantar;fonts:LT
 refredar=categories: V;model:cantar;fonts:LT
 refregar=categories: V;model:pregar;fonts:LT
