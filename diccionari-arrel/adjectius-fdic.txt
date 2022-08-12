@@ -26686,6 +26686,7 @@ refotut refotuda=categories: AA;fonts: LT;
 refractari refractària=categories: A;fonts: LT;
 refracte refracta=categories: A;fonts: LT;
 refractiu refractiva=categories: A;fonts: LT;
+refractor refractora=categories: A;fonts: DDLC;
 refrangible=categories: A;fonts: LT;
 refranyer refranyera=categories: A;fonts: LT;
 refredador refredadora=categories: A;fonts: LT;
