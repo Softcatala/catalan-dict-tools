@@ -69810,6 +69810,7 @@ ranolazina=categories: F;fonts: dsalut;
 ranpirnasa=categories: F;fonts: dsalut;
 ranquejament=categories: M;fonts: LT;
 ransal=categories: M;fonts: LT;
+ransomware=categories: MS;fonts: English;
 rantell=categories: M;fonts: LT;
 rantella=categories: F;fonts: LT;
 rantelleta=categories: F;fonts: LT;

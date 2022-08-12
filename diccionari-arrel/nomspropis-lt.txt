@@ -7624,6 +7624,7 @@ Dayton Dayton NPCSG00
 Dašava Dašava NPCSG00
 Daḫla Daḫla NPCSG00
 DeLorean DeLorean NPCNO00
+Dean Dean NPCNSP0
 Dearborn Dearborn NPCSG00
 Deauville Deauville NPCSG00
 Deba Deba NPCSG00
