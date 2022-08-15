@@ -116,6 +116,7 @@ candida
 candides
 
 EXCLOU LEMA DE TOTS
+captan
 maltret
 lienal
 assa
