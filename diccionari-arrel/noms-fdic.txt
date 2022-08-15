@@ -54005,6 +54005,7 @@ minimització=categories: F;fonts: LT;
 miniordinador=categories: M;fonts: LT;
 minipís=categories: M;fonts: derivat;
 miniranura=categories: F;fonts: LT;
+minireportatge=categories: M;fonts: derivat;
 minirepresentació=categories: F;fonts: derivat;
 minirobot=categories: M;fonts: derivat;
 minirosquilla=categories: F;fonts: LT;
