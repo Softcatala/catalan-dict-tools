@@ -4180,6 +4180,8 @@ Blaye-les-Mines Blaye-les-Mines NPCSG00
 Bleda Bleda NPFSG00
 Blida Blida NPCSG00
 Bloemfontein Bloemfontein NPCSG00
+Blogger Blogger NPMSO00
+Blogspot Blogspot NPMSO00
 Blois Blois NPCSG00
 Blondel Blondel NPCNSP0
 Bloomberg Bloomberg NPCNSP0
@@ -9920,6 +9922,7 @@ Foster-Kennedy Foster-Kennedy NPCNSP0 # medical
 Fotina Fotina NPFSSP0
 Fotines Fotina NPFPSP0
 Fotins Fotí NPMPSP0
+Fotolog Fotolog NPMSO00
 Fotí Fotí NPMSSP0
 Foucault Foucault NPCNSP0
 Fourier Fourier NPCNSP0
