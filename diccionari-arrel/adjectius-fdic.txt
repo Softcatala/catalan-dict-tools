@@ -32718,6 +32718,7 @@ wittgensteinià wittgensteiniana=categories: A;fonts: derivat;
 wolffià wolffiana=categories: A;fonts: dsalut;
 wolfràmic wolfràmica=categories: A;fonts: LT;
 wolhynià wolhyniana=categories: A;fonts: dsalut;
+wonton=categories: AI;fonts: termcat;
 wormià wormiana=categories: A;fonts: dsalut;
 wronskià wronskiana=categories: A;fonts: LT;
 wòlof=categories: A;fonts: LT;

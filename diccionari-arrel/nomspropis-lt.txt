@@ -5324,6 +5324,7 @@ Campanet Campanet NPCSG00
 Campaneta Campaneta NPFSG00
 Campany Campany NPCNSP0
 Campanyà Campanyà NPCNSP0
+Campari Campari NPCNO00
 Campassol Campassol NPCNSP0
 Campbell Campbell NPCNSP0
 Campdelacreu Campdelacreu NPCNSP0
