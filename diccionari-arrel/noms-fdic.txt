@@ -434,6 +434,7 @@ VO=categories: FI;fonts: esadir;
 VOS=categories: FI;fonts: esadir;
 VPH=categories: MI;fonts: sigla;
 VPN=categories: FI;fonts: sigla;
+VTC=categories: MFI;fonts: sigla;
 Volksgeist=categories: MS;fonts: alemany;
 WC=categories: MI;fonts: esadir;
 Wi-Fi=categories: MFI;fonts: termcat;
