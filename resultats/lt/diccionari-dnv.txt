@@ -16190,8 +16190,6 @@ criaturesca criaturesc AQ0FS0
 criaturescos criaturesc AQ0MP0
 criaturescs criaturesc AQ0MP0
 criaturesques criaturesc AQ0FP0
-cric-crec cric-crec NCMS000
-cric-crecs cric-crec NCMP000
 cricoaritenoide cricoaritenoide AQ0CS0
 cricoaritenoides cricoaritenoide AQ0CP0
 cricoconàrid cricoconàrid NCMS000

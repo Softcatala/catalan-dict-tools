@@ -1257,7 +1257,6 @@ crespina=categories: F;fonts: DNV;
 creuellera=categories: F;fonts: DNV;
 creïllada=categories: F;fonts: DNV;
 criaturesc -a=categories: A;fonts: DNV;
-cric-crec=categories: M;fonts: DNV;
 cricoaritenoide=categories: A;fonts: DNV;
 cricoconàrid=categories: M;fonts: DNV;
 cridament=categories: M;fonts: DNV;

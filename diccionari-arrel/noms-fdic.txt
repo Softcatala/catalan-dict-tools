@@ -21296,6 +21296,7 @@ criatureta=categories: F;fonts: derivat;
 cribel=categories: M;fonts: LT;
 cribratge=categories: M;fonts: LT;
 cric-crac=categories: M;fonts: LT;
+cric-crec=categories: M;fonts: DNV;
 cric=categories: M;fonts: LT;
 cricodèrmia=categories: F;fonts: dsalut;
 cricoide=categories: M;fonts: LT;
