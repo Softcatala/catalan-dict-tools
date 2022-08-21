@@ -5924,6 +5924,7 @@ Castellcir Castellcir NPCSG00
 Castellciutat Castellciutat NPCSG00
 Castelldans Castelldans NPCSG00
 Castelldefels Castelldefels NPCSG00
+Castelles Castella NPFPG00
 Castellet Castellet NPCNSP0
 Castellet Castellet NPMSG00
 Castellets Castellets NPCNSP0
