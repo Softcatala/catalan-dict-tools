@@ -122,7 +122,6 @@
 #polià poliana=categories: MF;fonts: LT; es confon amb polaines
 #pori=categories: M;fonts: dsalut;
 #porosi=categories: F;fonts: dsalut;
-#posader posadera=categories: MF;fonts: LT; antic
 #prosti=categories: M;fonts: dsalut;
 #pulegi=categories: M;fonts: dsalut;
 #rash=categories: M;fonts: dsalut;
@@ -66044,6 +66043,7 @@ poròmfal=categories: M;fonts: dsalut;
 posa=categories: F;fonts: LT;
 posaconazole=categories: M;fonts: dsalut;
 posada=categories: F;fonts: LT;
+posader posadera=categories: MF;fonts: LT; antic, mallorquí
 posador posadora=categories: MF;fonts LT;
 posagots=categories: MI;fonts: LT;
 posapeus=categories: MI;fonts: LT;
