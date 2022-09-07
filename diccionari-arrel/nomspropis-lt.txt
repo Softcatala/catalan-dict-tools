@@ -12857,6 +12857,7 @@ Kara Kara NPCSG00
 Karabakh Karabakh NPCSG00
 Karachi Karachi NPCSG00
 Karaganda Karaganda NPCSG00
+Karajan Karajan NPCNSP0
 Karakalpakistan Karakalpakistan NPMSG00
 Karakoram Karakoram NPMNG00
 Karakorum Karakorum NPCSG00
