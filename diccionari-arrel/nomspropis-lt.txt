@@ -1745,6 +1745,7 @@ Andròmeda Andròmeda NPCSG00
 Andrònic Andrònic NPMSSP0
 Andrònica Andrònica NPFSSP0 # avl: noms de persona
 Andrònics Andrònic NPMPSP0
+Andrópov Andrópov NPCNSP0
 Andurell Andurell NPCNSP0
 Andust Andust NPCSG00
 Andèol Andèol NPMSSP0
@@ -3976,6 +3977,7 @@ Bexacunill Bexacunill NPCNSP0
 Bexley Bexley NPCSG00
 Beyla Beyla NPCSG00
 Bezons Bezons NPCSG00
+Bezos Bezos NPCNSP0
 Beç Beç NPCNSP0
 Beòcia Beòcia NPFSG00
 Beüt Beüt NPCNSP0
@@ -4809,6 +4811,7 @@ Brutau Brutau NPCNSP0
 Brutus Brutus NPMSSP0
 Bràfim Bràfim NPCSG00
 Bràulia Bràulia NPFSSP0 # avl: noms de persona
+Bréjnev Bréjnev NPCNSP0
 Brígida Brígida NPFSSP0
 Brígides Brígida NPFPSP0
 Bríndisi Bríndisi NPCSG00
@@ -4834,6 +4837,7 @@ Budd-Chiari Budd-Chiari NPCNSP0 # medical
 Budellera Budellera NPFSG00
 Budellers Budellers NPCNSP0
 Budó Budó NPCNSP0
+Buenafuente Buenafuente NPCNSP0
 Buenaventura Buenaventura NPCSG00
 Buerger Buerger NPCNSP0 # medical
 Bueu Bueu NPCSG00
@@ -12386,6 +12390,7 @@ Itàlia Itàlia NPFSG00
 Itàlica Itàlica NPFSG00
 Iu Iu NPMSSP0
 Iugoslàvia Iugoslàvia NPFSG00
+Iuri Iuri NPMSSP0
 Ius Iu NPMPSP0
 Iussuf Iussuf NPMSSP0 # avl: noms de persona
 Ivan Ivan NPMSSP0
@@ -12513,6 +12518,7 @@ Jean-Paul Jean-Paul NPMSSP0
 Jebús Jebús NPMSG00
 Jedrzejów Jedrzejów NPCSG00
 Jefferson Jefferson NPCNSP0
+Jeffrey Jeffrey NPMSSP0
 Jehovà Jehovà NPMSSP0
 Jekyll Jekyll NPCNSP0
 Jena Jena NPCSG00
@@ -12981,6 +12987,7 @@ Khorsābād Khorsābād NPCSG00
 Khotan Khotan NPMSG00
 Khotān Khotān NPCSG00
 Khouribga Khouribga NPCSG00
+Khrusxov Khrusxov NPCNSP0
 Khulna Khulna NPCSG00
 Khuzestan Khuzestan NPCSG00
 Khàrkiv Khàrkiv NPCSG00
@@ -13075,6 +13082,7 @@ Konjic Konjic NPCSG00
 Konk-Kerme Konk-Kerme NPCSG00
 Kono Kono NPCSG00
 Konobougou Konobougou NPCSG00
+Konstantín Konstantín NPMSSP0
 Konya Konya NPCSG00
 Koolhaas Koolhaas NPCNSP0
 Koper Koper NPCSG00
@@ -16892,6 +16900,7 @@ Nigèria Nigèria NPFSG00
 Niihama Niihama NPCSG00
 Nijinski Nijinski NPCNSP0
 Nike Nike NPCNO00
+Nikita Nikita NPMSSP0
 Nikko Nikko NPCSG00
 Nikola Nikola NPMSSP0
 Nikolai Nikolai NPMSSP0
@@ -21927,6 +21936,7 @@ Sergi Sergi NPMSSP0
 Sergipe Sergipe NPCSG00
 Sergis Sergi NPMPSP0
 Serguei Serguei NPMSSP0
+Serguéievitx Serguéievitx NPMSSP0
 Serigó Serigó NPCNSP0
 Serinanell Serinanell NPCNSP0
 Serinyac Serinyac NPCNSP0
@@ -24231,6 +24241,7 @@ Txecoslovàquia Txecoslovàquia NPFSG00
 Txeliàbinsk Txeliàbinsk NPCSG00
 Txell Txell NPFSSP0
 Txerkessos Txerkessos NPMPG00
+Txernenko Txernenko NPCNSP0
 Txernòbil Txernòbil NPCSG00
 Txetxènia Txetxènia NPFSG00
 Txèquia Txèquia NPFSG00
