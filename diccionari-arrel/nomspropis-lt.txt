@@ -10644,6 +10644,7 @@ Gençà Gençà NPCNSP0
 Genís Genís NPCNSP0
 Genís Genís NPMSSP0
 GeoGebra GeoGebra NPMSO00
+Geoffrey Geoffrey NPMSSP0
 Georg Georg NPMSSP0
 George George NPMSSP0
 Georgetown Georgetown NPCSG00
@@ -17727,6 +17728,7 @@ Pachuca Pachuca NPCSG00
 Paciana Paciana NPFSSP0 # avl: noms de persona
 Pacians Pacià NPMPSP0
 Pacini Pacini NPCNSP0 # medical
+Pacino Pacino NPCNSP0
 Pacià Pacià NPMSSP0
 Paciència Paciència NPFSSP0 # avl: noms de persona
 Packard Packard NPCNSP0
@@ -25744,7 +25746,7 @@ Windermere Windermere NPCSG00
 Windhoek Windhoek NPCSG00
 Windisch-Graetz Windisch-Graetz NPCNSP0
 Windows Windows NPMSO00
-Windsor Windsor NPCSG00
+Windsor Windsor NPCNSP0
 Winnipeg Winnipeg NPCSG00
 Winston-Salem Winston-Salem NPCSG00
 Winterthur Winterthur NPCSG00
