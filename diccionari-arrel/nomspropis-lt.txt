@@ -3035,6 +3035,7 @@ Ballús Ballús NPCNSP0
 Balma Balma NPFSSP0 # avl: noms de persona
 Balmes Balmes NPCNSP0
 Balmis Balmis NPCNSP0
+Balmoral Balmoral NPCSG00
 Balomer Balomer NPCNSP0
 Balones Balones NPCSG00
 Balot Balot NPCNSP0
@@ -11920,6 +11921,8 @@ Holmes Holmes NPCNSP0
 Holofernes Holofernes NPMSSP0 # avl: noms de persona
 Holon Holon NPCSG00
 Holstein Holstein NPCSG00
+Holyrood Holyrood NPCSG00
+Holyroodhouse Holyroodhouse NPCSG00
 Homdedeu Homdedeu NPCNSP0
 Homer Homer NPMSSP0
 Homers Homer NPMPSP0
