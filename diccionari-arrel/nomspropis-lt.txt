@@ -12237,6 +12237,7 @@ Imo Imo NPCSG00
 Imola Imola NPCSG00
 Imperia Imperia NPCSG00
 Imphāl Imphāl NPCSG00
+Imserso Imserso NPMSO00
 InDesign InDesign NPMSO00
 Inawashiro Inawashiro NPCSG00
 Inca Inca NPCSG00
@@ -24361,6 +24362,7 @@ Udunell Udunell NPCNSP0
 Uele Uele NPCSG00
 Uelzen Uelzen NPCSG00
 Ufa Ufa NPCSG00
+Uffizi Uffizi NPMPO00
 Uganda Uganda NPFSG00
 Ugarit Ugarit NPCSG00
 Uglič Uglič NPCSG00

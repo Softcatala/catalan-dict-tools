@@ -3409,6 +3409,7 @@ desmaquillar=categories: V;model:cantar;fonts:LT
 desmarcar=categories: V;model:trencar;fonts:LT
 desmaridar=categories: V;model:cantar;fonts:LT
 desmarxar=categories: V;model:cantar;fonts:LT
+desmassificar=categories: V;model:trencar;fonts: derivat;
 desmaterialitzar=categories: V;model:cantar;fonts:LT
 desmatricular=categories: V;model:cantar;fonts: derivat;
 desmaximitzar=categories: V;model:cantar;fonts: softcatala;
