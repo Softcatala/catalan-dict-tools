@@ -16715,6 +16715,7 @@ infralitoral=categories: A;fonts: termcat;
 inframamari inframamària=categories: A;fonts: dsalut;
 inframamil·lar=categories: A;fonts: dsalut;
 inframandibular=categories: A;fonts: dsalut;
+inframarginal=categories: A;fonts: derivat;
 inframaxil·lar=categories: A;fonts: dsalut;
 inframunicipal=categories: A;fonts: idescat;
 infrangible=categories: A;fonts: LT;
