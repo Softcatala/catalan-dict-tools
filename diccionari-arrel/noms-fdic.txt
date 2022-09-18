@@ -85892,6 +85892,7 @@ xítxero=categories: M;fonts: LT;
 xòanon=categories: M;fonts: LT;
 xòfer xòfera=categories: MF;fonts: LT;
 xòlbit=categories: M;fonts: LT;
+xòped=categories: M;fonts: termcat;
 xòrrec=categories: M;fonts: LT;
 yakitori=categories: M;fonts: LT;
 yang=categories: MS;fonts: termcat
