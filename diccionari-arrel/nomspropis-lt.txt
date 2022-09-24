@@ -2920,6 +2920,7 @@ Baies Baies NPCSG00
 Baies Baies NPFPG00
 Baig Baig NPCNSP0
 Baigual Baigual NPCNSP0
+Baikal Baikal NPMSG00
 Baikonur Baikonur NPCSG00
 Baila Baila NPCNSP0
 Bailac Bailac NPCNSP0
@@ -14535,6 +14536,7 @@ Malondra Malondra NPCNSP0
 Malpeu Malpeu NPCNSP0
 Malpigio Malpigio NPCNSP0 # medical
 Malpàs Malpàs NPCSG00
+Malraux Malraux NPCNSP0
 Malràs Malràs NPCNSP0
 Malsoler Malsoler NPCNSP0
 Malta Malta NPFSG00
