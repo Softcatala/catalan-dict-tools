@@ -1,4 +1,5 @@
 #aguar=categories: V;model:aguar;fonts:LT #antic i dialectal, crea confusions
+#ahuixar=categories: V;model:cantar;fonts: només DCVB, resta -> aüixar
 #arrocar=categories: V;model:trencar;fonts:LT dialectal, i crea confusions
 #avortir=categories: V;model:servir;fonts:LT #antic
 #coldre=categories: V;model:absoldre;fonts:LT
@@ -443,7 +444,6 @@ aguisar=categories: V;model:abalisar;fonts:LT
 aguissar=categories: V;model:acarnissar;fonts:LT
 agullonar=categories: V;model:cantar;fonts:LT
 agusar=categories: V;model:abrusar;fonts:LT
-ahuixar=categories: V;model:cantar;fonts:LT
 aidar=categories: V;model:cantar;fonts:LT
 aiguabarrejar=categories: V;model:envejar;fonts:LT
 aiguabatre=categories: V;model:abatre;fonts:LT

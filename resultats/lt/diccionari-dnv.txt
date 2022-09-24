@@ -8958,12 +8958,6 @@ axampanyat axampanyat AQ0MS0
 axampanyats axampanyat AQ0MP0
 ayn ayn NCFS000
 ayns ayn NCFP000
-aüixador aüixador NCMS000
-aüixadors aüixador NCMP000
-aüixament aüixament NCMS000
-aüixaments aüixament NCMP000
-aüixons aüixó NCMP000
-aüixó aüixó NCMS000
 aüssada aüssada NCFS000
 aüssades aüssada NCFP000
 aüssador aüssador AQ0MS0

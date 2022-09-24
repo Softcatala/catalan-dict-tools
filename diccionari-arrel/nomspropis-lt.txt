@@ -14379,6 +14379,7 @@ Magreb Magreb NPMSG00
 Magret Magret NPCNSP0
 Magrib Magrib NPMSG00
 Magrinyà Magrinyà NPCNSP0
+Magris Magris NPCNSP0
 Magrià Magrià NPCNSP0
 Magrí Magrí NPCNSP0
 Maguindanao Maguindanao NPCSG00
@@ -21756,6 +21757,7 @@ Schönberg Schönberg NPCNSP0
 Schönebeck Schönebeck NPCSG00
 Schönlein-Henoch Schönlein-Henoch NPCNSP0 # medical
 Sciacca Sciacca NPCSG00
+Sciacia Sciacia NPCNSP0
 Scicli Scicli NPCSG00
 Science Science NPFSO00
 Scilla Scilla NPCSG00
