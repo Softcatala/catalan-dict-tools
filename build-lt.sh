@@ -50,4 +50,4 @@ cat $dir_resultat/diccionari* | sort > $dir_resultat/dicc.txt
 
 echo "Resultat en el directori $dir_resultat"
 echo "FET!"
-git --no-pager diff --no-index
+git diff

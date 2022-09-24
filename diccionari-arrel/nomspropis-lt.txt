@@ -12142,6 +12142,7 @@ Iaşi Iaşi NPCSG00
 Ibadan Ibadan NPCSG00
 Ibagué Ibagué NPCSG00
 Ibarretxe Ibarretxe NPCNSP0
+Ibarz Ibarz NPCNSP0
 Ibercom Ibercom NPCNO00
 Iberdrola Iberdrola NPFSO00
 Iberoamèrica Iberoamèrica NPFSG00
