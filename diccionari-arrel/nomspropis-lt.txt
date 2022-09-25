@@ -21757,7 +21757,7 @@ Schönberg Schönberg NPCNSP0
 Schönebeck Schönebeck NPCSG00
 Schönlein-Henoch Schönlein-Henoch NPCNSP0 # medical
 Sciacca Sciacca NPCSG00
-Sciacia Sciacia NPCNSP0
+Sciascia Sciascia NPCNSP0
 Scicli Scicli NPCSG00
 Science Science NPFSO00
 Scilla Scilla NPCSG00
