@@ -68021,6 +68021,7 @@ pseudoradicalisme=categories: M;fonts: LT;
 pseudorafe=categories: F;fonts: LT;
 pseudoreacció=categories: F;fonts: dsalut;
 pseudoreducció=categories: F;fonts: dsalut;
+pseudoreferèndum=categories: M;fonts: derivat;
 pseudoreminiscència=categories: F;fonts: dsalut;
 pseudoretinitis=categories: FI;fonts: dsalut;
 pseudoreumatisme=categories: M;fonts: dsalut;
