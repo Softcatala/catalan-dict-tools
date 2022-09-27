@@ -30111,6 +30111,7 @@ tenicida=categories: A;fonts: LT;
 teniforme=categories: A;fonts: LT;
 tenioide=categories: A;fonts: dsalut;
 tenoic tenoica=categories: A;fonts: dsalut;
+tenor=categories: A;fonts: LT;
 tenosinovial=categories: A;fonts: dsalut;
 tens tensa=categories: A;fonts: LT;
 tensioactiu tensioactiva=categories: A;fonts: LT;
