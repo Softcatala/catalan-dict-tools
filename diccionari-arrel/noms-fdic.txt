@@ -35137,6 +35137,7 @@ ferberita=categories: F;fonts: LT;
 feredat=categories: F;fonts: LT;
 feresa=categories: F;fonts: LT;
 ferestia=categories: F;fonts: LT;
+ferida=categories: F;fonts: LT;
 feridura=categories: F;fonts: LT;
 feristela=categories: F;fonts: LT;
 ferit ferida=categories: MF;fonts: LT;
