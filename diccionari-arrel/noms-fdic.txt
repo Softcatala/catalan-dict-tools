@@ -10095,6 +10095,7 @@ beiner=categories: M;fonts: LT;
 beirutí beirutina=categories: MF;fonts: LT;
 beisa=categories: F;fonts: LT;
 beisbol=categories: M;fonts: LT;
+beisbolista=categories: MF;fonts: termcat;
 beix=categories: M;fonts: LT;
 beixamel=categories: F;fonts: LT;
 beja=categories: MF;fonts: LT;

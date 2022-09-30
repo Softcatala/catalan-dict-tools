@@ -4335,6 +4335,7 @@ beguí beguina=categories: A;fonts: LT;
 behaviorista=categories: A;fonts: LT;
 beilical=categories: A;fonts: LT;
 beirutí beirutina=categories: A;fonts: LT;
+beisbolista=categories: A;fonts: termcat;
 beix=categories: AI;fonts: LT;
 beja=categories: A;fonts: LT;
 belador beladora=categories: A;fonts: LT;
