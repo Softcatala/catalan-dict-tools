@@ -77410,6 +77410,7 @@ sàlpinx=categories: M;fonts: dsalut;
 sàlvia=categories: F;fonts: LT;
 sàmara=categories: F;fonts: LT;
 sàmec=categories: F;fonts: LT;
+sàmpler=categories: M;fonts: esadir;
 sàndal=categories: M;fonts: LT;
 sànies=categories: FI;fonts: LT;
 sànscrit=categories: M;fonts: LT;
