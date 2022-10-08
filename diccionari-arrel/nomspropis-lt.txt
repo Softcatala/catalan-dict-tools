@@ -18092,6 +18092,7 @@ Passapera Passapera NPCNSP0
 Passau Passau NPCSG00
 Passavant Passavant NPCSG00
 Passerell Passerell NPCNSP0
+Passola Passola NPCNSP0
 Passoré Passoré NPCSG00
 Pastaza Pastaza NPCSG00
 Pastells Pastells NPCSG00
