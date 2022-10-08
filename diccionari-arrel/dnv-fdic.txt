@@ -1307,7 +1307,6 @@ cucuc=categories: M;fonts: DNV;
 cudolet=categories: M;fonts: DNV;
 cuetina=categories: F;fonts: DNV;
 cuirada=categories: F;fonts: DNV;
-cuixam=categories: M;fonts: DNV;
 culabela=categories: F;fonts: DNV;
 culató=categories: M;fonts: DNV;
 culejador -a=categories: A;fonts: DNV;

@@ -16722,8 +16722,6 @@ cuetina cuetina NCFS000
 cuetines cuetina NCFP000
 cuirada cuirada NCFS000
 cuirades cuirada NCFP000
-cuixam cuixam NCMS000
-cuixams cuixam NCMP000
 culabela culabela NCFS000
 culabeles culabela NCFP000
 culatons culató NCMP000
