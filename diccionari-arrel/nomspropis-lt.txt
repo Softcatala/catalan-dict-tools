@@ -4725,6 +4725,7 @@ Brockhart Brockhart NPCNSP0 # medical
 Brocà Brocà NPCNSP0
 Brodie Brodie NPCNSP0 # medical
 Brodmann Brodmann NPCNSP0 # medical
+Broggi Broggi NPCNSP0
 Brokopondo Brokopondo NPCSG00
 Brondby Brondby NPCSG00
 Brondo Brondo NPCNSP0
