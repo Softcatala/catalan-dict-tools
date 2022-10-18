@@ -7885,6 +7885,7 @@ Dionísies Dionísia NPFPSP0
 Dioscòrides Dioscòrides NPMSSP0
 Diourbel Diourbel NPCSG00
 Dipilo Dipilo NPCSG00
+Diplocat Diplocat NPMSO00
 Dirac Dirac NPCNSP0
 Dirla Dirla NPCNSP0
 Disney Disney NPCNSP0
@@ -12982,6 +12983,7 @@ Khabarovsk Khabarovsk NPCSG00
 Khafji Khafji NPCSG00
 Khakàssia Khakàssia NPCSG00
 Khambhāt Khambhāt NPCSG00
+Khamenei Khamenei NPCNSP0
 Khammouan Khammouan NPCSG00
 Kharagpur Kharagpur NPCSG00
 Kharq Kharq NPCSG00
@@ -24238,6 +24240,7 @@ Turó Turó NPCNSP0
 Tusac Tusac NPCNSP0
 Tuscaloosa Tuscaloosa NPCSG00
 Tuscania Tuscania NPCSG00
+Tusk Tusk NPCNSP0
 Tusquets Tusquets NPCNO00
 Tutankamon Tutankamon NPMSSP0
 Tutau Tutau NPCNSP0

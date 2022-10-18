@@ -12750,6 +12750,7 @@ festívol festívola=categories: A;fonts: LT;
 festós festosa=categories: A;fonts: LT;
 fetal=categories: A;fonts: LT;
 fetillador fetilladora=categories: A;fonts: LT;
+fetiller fetillera=categories: A;fonts: DNV;
 fetitxista=categories: A;fonts: LT;
 fetjut fetjuda=categories: A;fonts: LT;
 fetofetal=categories: A;fonts: dsalut;
