@@ -13594,6 +13594,7 @@ Licurg Licurg NPMSSP0 # avl: noms de persona
 Licínia Licínia NPFSSP0 # avl: noms de persona
 Lida Lida NPFSSP0 # avl: noms de persona
 Liddle Liddle NPCNSP0 # medical
+Lidl Lidl NPMNO00
 Liduvina Liduvina NPFSSP0
 Liduvines Liduvina NPFPSP0
 Liduví Liduví NPMSSP0 # avl: noms de persona

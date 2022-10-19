@@ -28152,6 +28152,7 @@ semifred semifreda=categories: A;fonts: LT;
 semifós semifosa=categories: A;fonts: LT;
 semigironat semigironada=categories: A;fonts: LT;
 semiinconscient=categories: A;fonts: derivat;
+semiindustrial=categories: A;fonts: derivat;
 semiinformal=categories: A;fonts: LT;
 semiinterquartílic semiinterquartílica=categories: A;fonts: termcat;
 semilent semilenta=categories: A;fonts: dsalut;
