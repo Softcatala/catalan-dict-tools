@@ -84,6 +84,7 @@
 #Fortaleza Fortaleza NPCSG00
 #Fortunya Fortunya NPFSSP0 # avl: noms de persona
 #Fos #Fos NPCNSP0 # medical
+#Frankfort Frankfort NPCSG00 # ciutat petita, es pot confondre anb Frankfurt
 #Friederich Friederich NPCNSP0 # medical
 #Gad Gad NPMSSP0 # avl: noms de persona
 #Gesmil Gesmil NPFSSP0 # avl: noms de persona
@@ -9981,7 +9982,6 @@ Francí Francí NPCNSP0
 Francònia Francònia NPFSG00
 Frangipane Frangipane NPCNSP0
 Frankenstein Frankenstein NPCNSP0
-Frankfort Frankfort NPCSG00
 Frankfurt Frankfurt NPCSG00
 Franquesa Franquesa NPCNSP0
 Franquet Franquet NPCNSP0

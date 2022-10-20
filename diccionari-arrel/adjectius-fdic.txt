@@ -6603,6 +6603,7 @@ cirsoide=categories: A;fonts: dsalut;
 cirtorràquic cirtorràquica=categories: A;fonts: dsalut;
 ciré [pl. cirés]=categories: A;fonts: LT;
 ciríl·lic ciríl·lica=categories: A;fonts: LT;
+cis=categories: AI;fonts termcat;
 cisador cisadora=categories: A;fonts: LT;
 cisalpí cisalpina=categories: A;fonts: LT;
 cisexual=categories: A;fonts: termcat;
