@@ -62405,6 +62405,7 @@ pelvímetre=categories: M;fonts: LT;
 pel·lagra=categories: F;fonts: LT;
 pel·letierina=categories: F;fonts: LT;
 pel·letització=categories: F;fonts: LT;
+pel·li=categories: F;fonts: col·loquial;
 pel·liculació=categories: F;fonts: termcat;
 pel·listor=categories: M;fonts: LT;
 pel·lorneid=categories: M;fonts: termcat;
