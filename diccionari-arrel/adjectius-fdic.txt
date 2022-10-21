@@ -25754,6 +25754,7 @@ pseudofilosòfic pseudofilosòfica=categories: A;fonts: LT;
 pseudofol·licular=categories: A;fonts: dsalut;
 pseudohermafrodita=categories: A;fonts: LT;
 pseudohipertròfic pseudohipertròfica=categories: A;fonts: dsalut;
+pseudohistòric pseudohistòrica=categories: A;fonts: derivat;
 pseudointel·lectual=categories: A;fonts: derivat;
 pseudolegal=categories: A;fonts: LT;
 pseudoliterari pseudoliterària=categories: A;fonts: derivat;

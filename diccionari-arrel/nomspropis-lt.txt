@@ -12860,6 +12860,7 @@ Kandahar Kandahar NPCSG00
 Kandani Kandani NPCSG00
 Kandinski Kandinski NPCNSP0
 Kandy Kandy NPCSG00
+Kane Kane NPCNSP0
 Kangaroo Kangaroo NPCSG00
 Kanggye Kanggye NPCSG00
 Kanghwa Kanghwa NPCSG00
