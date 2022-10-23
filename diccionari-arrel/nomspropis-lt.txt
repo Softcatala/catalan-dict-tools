@@ -6135,6 +6135,7 @@ Cels Cels NPMSSP0
 Celsa Celsa NPCSG00
 Celsius Celsius NPCNSP0
 Celtibèria Celtibèria NPFSG00
+Celtics Celtics NPMPO00
 Celònia Celònia NPFSSP0 # avl: noms de persona
 Cendra Cendra NPCNSP0
 Cendrosa Cendrosa NPFSG00
@@ -6576,6 +6577,7 @@ Climents Climent NPMPSP0
 Climenç Climenç NPCSG00
 Clinton Clinton NPCNSP0
 Clio Clio NPFSSP0 # avl: noms de persona
+Clippers Clippers NPMPO00
 Clitemnestra Clitemnestra NPFSSP0
 Clodoald Clodoald NPMSSP0
 Clodoalds Clodoald NPMPSP0
@@ -13302,6 +13304,7 @@ Laila Laila NPFSSP0
 Lairet Lairet NPCNSP0
 Lairissa Lairissa NPCSG00
 Lajunta Lajunta NPCNSP0
+Lakers Lakers NPMPO00
 Lakota Lakota NPCSG00
 Lakshadweep Lakshadweep NPCSG00
 Lalanda Lalanda NPCNSP0
@@ -13370,6 +13373,7 @@ Laplace Laplace NPCNSP0
 Laplana Laplana NPCNSP0
 Laporta Laporta NPCNSP0
 Lappeenranta Lappeenranta NPCSG00
+Lapuente Lapuente NPCNSP0
 Lapurdi Lapurdi NPCSG00
 Lapònia Lapònia NPFSG00
 Lara Lara NPCNSP0
@@ -15392,6 +15396,7 @@ Melitó Melitó NPMSSP0
 Melià Melià NPCNSP0
 Melk Melk NPCSG00
 Mellon Mellon NPCNSP0
+Meloni Meloni NPCNSP0
 Melquisedec Melquisedec NPMSSP0
 Melquisedecs Melquisedec NPMPSP0
 Melquíades Melquíades NPMPSP0
@@ -17718,6 +17723,7 @@ PAC PAC NPFNO00
 PAH PAH NPFSO00
 PCE PCE NPFNO00 # sigla
 PCE PCE NPMSO00
+PCI PCI NPMSO00
 PCR PCR NPFNO00
 PCR PCR NPMSO00
 PDECat PDECat NPMSO00 # La Vanguardia
@@ -25836,6 +25842,7 @@ Wāh Wāh NPCSG00
 Włocławek Włocławek NPCSG00
 Wŏnju Wŏnju NPCSG00
 Wŏnsan Wŏnsan NPCSG00
+X-Men X-Men NPCNO00
 Xacarelleta Xacarelleta NPCSG00
 Xafart Xafart NPCNSP0
 Xafes Xafes NPCNSP0
