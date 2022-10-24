@@ -392,6 +392,7 @@ SMI=categories: MS;fonts: sigla;
 SMS=categories: MI;fonts: LT;
 SMTP=categories: MI;fonts: termcat;
 SOCIMI=categories: FI;fonts: termcat;
+SOS=categories: MI;fonts: sigla;
 Santfermins=categories: MP;fonts: DNV;
 Sir=categories: MS;fonts: esadir,Viquipèdia;
 Sr Sra=categories: MF;fonts: abreviatura;
