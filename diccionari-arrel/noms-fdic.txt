@@ -325,6 +325,7 @@ Muschelkalk=categories: MI;fonts: termcat;
 NAS=categories; MI;fonts: sigla;
 NEE=categories: FP;fonts: sigles;
 NFT=categories: MI;fonts: sigla;
+NIE=categories: MI;fonts: LT;
 NIF=categories: MI;fonts: LT;
 NPA=categories: MI;fonts: dsalut;
 NT=categories: MS; fonts: sigla;

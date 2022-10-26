@@ -20417,6 +20417,7 @@ Ris Ris NPCNSP0
 Ris-Orangis Ris-Orangis NPCSG00
 Risaralda Risaralda NPCSG00
 Risent Risent NPCNSP0
+Rishi Rishi NPMSSP0
 Rispa Rispa NPCNSP0
 Rispau Rispau NPCNSP0
 Rissec Rissec NPCSG00
@@ -21322,6 +21323,7 @@ Salves Salves NPCNSP0
 Salvet Salvet NPCNSP0
 Salvi Salvi NPCNSP0
 Salvi Salvi NPMSSP0
+Salvini Salvini NPCNSP0
 Salvis Salvi NPMPSP0
 Salvà Salvà NPCNSP0
 Salvà Salvà NPCSG00
@@ -22815,6 +22817,7 @@ Sumer Sumer NPCSG00
 Sumgait Sumgait NPCSG00
 Sumi Sumi NPCSG00
 Sumy Sumy NPCSG00
+Sunak Sunak NPCNSP0
 Sundarbans Sundarbans NPMPG00
 Sunderland Sunderland NPCSG00
 Sundsvall Sundsvall NPCSG00
@@ -24153,6 +24156,7 @@ Truman Truman NPCNSP0
 Trump Trump NPCNSP0
 Trunyó Trunyó NPCNSP0
 Truquet Truquet NPCNSP0
+Truss Truss NPCNSP0
 Tràcia Tràcia NPFSG00
 Trèveris Trèveris NPCSG00
 Trémol Trémol NPCNSP0
