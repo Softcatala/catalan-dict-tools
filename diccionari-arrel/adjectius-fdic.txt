@@ -1,6 +1,6 @@
 #anidi -ídia=categories: A;fonts: dsalut;
 #avist avista=categories: A;fonts: LT; arcaisme
-#baador=categories: A;fonts: GDLC, arcaisme;
+#baador=categories: A;fontsg: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
 #blauverda=categories: A;fonts: LT; error? de quina font? En el DDLC blauverd -a
 #cingalès cingalesa=categories: A;fonts: LT; Només GDLC, equivalent a singalès

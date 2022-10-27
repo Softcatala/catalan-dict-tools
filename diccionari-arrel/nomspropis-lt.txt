@@ -12575,6 +12575,7 @@ Jinan Jinan NPCSG00
 Jingdezhen Jingdezhen NPCSG00
 Jining Jining NPCSG00
 Jinotega Jinotega NPCSG00
+Jinping Jinping NPMSSP0
 Jinzhou Jinzhou NPCSG00
 Jitómir Jitómir NPCSG00
 Jiujiang Jiujiang NPCSG00
@@ -25925,6 +25926,7 @@ Xertó Xertó NPCNSP0
 Xerxes Xerxes NPMSSP0
 Xesco Xesco NPMSSP0
 Xeta Xeta NPCSG00
+Xi Xi NPCNSP0
 Xi'an Xi'an NPCSG00
 Xiamen Xiamen NPCSG00
 Xian Xian NPCSG00

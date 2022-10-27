@@ -52192,6 +52192,7 @@ meniscòtom=categories: M;fonts: dsalut;
 menispermàcia=categories: F;fonts: LT;
 menja=categories: F;fonts: LT;
 menjacapellans=categories: MFI;fonts: LT;
+menjaclosques=categories: MI;fonts: termcat;
 menjada=categories: F;fonts: LT;
 menjador=categories: M;fonts LT;
 menjadora=categories: F;fonts LT;
