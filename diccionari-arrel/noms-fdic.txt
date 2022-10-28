@@ -33824,6 +33824,7 @@ exlibris=categories: MI;fonts: LT;
 exlibrisme=categories: M;fonts: LT;
 exlibrista=categories: MF;fonts: LT;
 exlíder=categories: MF;fonts: LT;
+exmagistrat exmagistrada=categories: MF;fonts: derivat;
 exmandatari exmandatària=categories: MF;fonts: derivat;
 exmarit=categories: M;fonts: LT;
 exmembre=categories: MF;fonts: LT;
