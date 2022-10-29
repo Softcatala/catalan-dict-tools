@@ -8373,6 +8373,7 @@ Eliodor Eliodor NPMSSP0 # avl: noms de persona
 Elionor Elionor NPFSSP0
 Elionora Elionora NPFSSP0 # avl: noms de persona
 Elionors Elionor NPFPSP0
+Eliot Eliot NPCNSP0
 Elisa Elisa NPFSSP0
 Elisabet Elisabet NPFSSP0
 Elisabets Elisabet NPFPSP0
