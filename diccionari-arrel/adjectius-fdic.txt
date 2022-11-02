@@ -20815,6 +20815,7 @@ morrut morruda=categories: A;fonts: LT;
 morrènic morrènica=categories: A;fonts: LT;
 morsal=categories: A;fonts: dsalut;
 morse=categories: AI;fonts: LT;
+mort morta=categories: A;fonts: LT;
 mortal=categories: A;fonts: LT;
 mortificador mortificadora=categories: A;fonts: LT;
 mortificant=categories: A;fonts: LT;
