@@ -62958,7 +62958,6 @@ polemòleg polemòleg NCMS000
 polemòlegs polemòleg NCMP000
 polemòloga polemòleg NCFS000
 polemòlogues polemòleg NCFP000
-poli poli NCCS000
 policlàdide policlàdide NCMS000
 policlàdides policlàdide NCMP000
 policlínic policlínic AQ0MS0
@@ -63085,7 +63084,6 @@ polipeptídics polipeptídic AQ0MP0
 polipeptídiques polipeptídic AQ0FP0
 polipoide polipoide AQ0CS0
 polipoides polipoide AQ0CP0
-polis poli NCCP000
 politicomania politicomania NCFS000
 politicomanies politicomania NCFP000
 politiquer politiquer AQ0MS0

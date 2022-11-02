@@ -4571,7 +4571,6 @@ podògraf=categories: M;fonts: DNV;
 polaroid=categories: F;fonts: DNV;
 polemològic -a=categories: A;fonts: DNV;
 polemòleg -òloga=categories: MF;fonts: DNV;
-poli=categories: MF;fonts: DNV,col·loquial;
 policlàdide=categories: M;fonts: DNV;
 policlínic -a=categories: A;fonts: DNV;
 polideportiu=categories: M;fonts: DNV;

@@ -2668,6 +2668,7 @@ antitiroidal=categories: A;fonts: dsalut;
 antitirotòxic antitirotòxica=categories: A;fonts: dsalut;
 antitiròtrop antitiròtropa=categories: A;fonts: dsalut;
 antitopspin=categories: AI;fonts: LT;
+antitotalitari antitotalitària=categories: A;fonts: derivat;
 antitotalitarista=categories: A;fonts: LT;
 antitoxigen antitoxígena=categories: A;fonts: dsalut;
 antitoxinogen antitoxinògena=categories: A;fonts: dsalut;
