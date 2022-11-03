@@ -60759,9 +60759,7 @@ parètics parètic NCMP000
 parètiques parètic AQ0FP0
 parètiques parètic NCFP000
 paró paró NCMS000
-pasma pasma NCFS000
 pasme pasme NCMS000
-pasmes pasma NCFP000
 pasmes pasme NCMP000
 passaforats passaforats NCMS000
 passaforatsos passaforats NCMP000

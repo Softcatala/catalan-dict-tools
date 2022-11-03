@@ -61723,6 +61723,7 @@ pascal=categories: M;fonts: LT;
 pascor=categories: M;fonts: LT;
 pasdoble=categories: M;fonts: LT;
 pasiniazida=categories: FS;fonts: dsalut;
+pasma=categories: F;fonts: DNV,col·loquial;
 paspalisme=categories: M;fonts: dsalut;
 paspartú [pl. paspartús]=categories: M;fonts: LT;
 pasqua=categories: F;fonts: LT;
