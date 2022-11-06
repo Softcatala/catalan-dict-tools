@@ -7892,6 +7892,7 @@ Dipilo Dipilo NPCSG00
 Diplocat Diplocat NPMSO00
 Dirac Dirac NPCNSP0
 Dirla Dirla NPCNSP0
+Discord Discord NPMSO00
 Disney Disney NPCNSP0
 Disneyland Disneyland NPFSG00
 Diu Diu NPCNSP0
@@ -9520,6 +9521,7 @@ Fiambalá Fiambalá NPCSG00
 Fianarantsoa Fianarantsoa NPCSG00
 Fibla Fibla NPCNSP0
 Fibonacci Fibonacci NPCNSP0
+Fibracat Fibracat NPCNO00
 Ficapal Ficapal NPCNSP0
 Fichte Fichte NPCNSP0
 Fichtelgebirge Fichtelgebirge NPCSG00
@@ -17216,6 +17218,7 @@ Obihiro Obihiro NPCSG00
 Obiol Obiol NPCNSP0
 Obiols Obiols NPCNSP0
 Obispo Obispo NPCSG00
+Objective-C Objective-C NPMSO00
 Obon Obon NPCNSP0
 Obrador Obrador NPCNSP0
 Obwalden Obwalden NPCSG00
