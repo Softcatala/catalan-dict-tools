@@ -6634,6 +6634,7 @@ il·lusionar=categories: V;model:cantar;fonts: LT;
 il·lustrar=categories: V;model:cantar;fonts: LT;
 imaginar=categories: V;model:abominar;fonts: LT;
 imantar=categories: V;model:cantar;fonts: LT;
+imbecil·litzar=categories: V;model:cantar;fonts: DNV;
 imbricar=categories: V;model:trencar;fonts: LT;
 imbuir=categories: V;model:traduir;fonts: LT;
 imitar=categories: V;model:cantar;fonts: LT;

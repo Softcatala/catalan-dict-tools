@@ -44628,6 +44628,7 @@ imatgista=categories: MF;fonts: LT;
 imatinib=categories: M;fonts: dsalut;
 imbatibilitat=categories: F;fonts: LT;
 imbecil=categories: MF;fonts: LT;
+imbecil·lada=categories: F;fonts: DNV;
 imbecil·litat=categories: F;fonts: LT;
 imbibició=categories: F;fonts: LT;
 imbricació=categories: F;fonts: LT;
