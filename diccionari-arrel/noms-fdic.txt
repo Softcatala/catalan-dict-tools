@@ -5446,7 +5446,6 @@ antiespanyolisme=categories: M;fonts: derivat;
 antiespasmòdic=categories: M;fonts: LT;
 antiespecisme=categories: M;fonts: derivat;
 antiesportivitat=categories: F;fonts: termcat;
-antiespumant=categories: M;fonts: LT;
 antiestafilolisina=categories: F;fonts: dsalut;
 antiestreptocinasa=categories: F;fonts: dsalut;
 antiestreptolisina=categories: F;fonts: LT;

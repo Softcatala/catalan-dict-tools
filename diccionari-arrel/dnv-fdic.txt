@@ -207,7 +207,6 @@ anoueta=categories: F;fonts: DNV;
 antedit -a=categories: A;fonts: DNV;
 anteprojecte=categories: M;fonts: DNV;
 antiartístic -a=categories: A;fonts: DNV;
-antibromera=categories: AI;fonts: DNV;
 anticomunitari -ària=categories: A;fonts: DNV;
 anticomunitari -ària=categories: MF;fonts: DNV;
 anticongestiu -iva=categories: A;fonts: DNV;
