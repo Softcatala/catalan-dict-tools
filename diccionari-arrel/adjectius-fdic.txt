@@ -11939,6 +11939,7 @@ euriterm euriterma=categories: A;fonts: LT;
 euroafricà euroafricana=categories: A;fonts: LT;
 euroaliat euroaliada=categories: A;fonts: LT;
 euroamericà euroamericana=categories: A;fonts: derivat;
+euroatlàntic euroatlàntica=categories: A;fonts: derivat;
 eurocentrista=categories: A;fonts: derivat;
 eurocomunista=categories: A;fonts: LT;
 eurocèntric eurocèntrica=categories: A;fonts: derivat;
