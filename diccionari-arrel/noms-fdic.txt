@@ -82209,6 +82209,7 @@ trumfau=categories: M;fonts: LT;
 trumfera=categories: F;fonts: LT;
 trumferar=categories: M;fonts: LT;
 trumfo=categories: M;fonts: LT;
+trumpisme=categories: MS;fonts: derivat;
 truncació=categories: F;fonts: LT;
 truncament=categories: M;fonts: LT;
 trunyella=categories: F;fonts: LT;
