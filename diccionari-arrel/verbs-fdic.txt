@@ -4979,6 +4979,7 @@ entendrir=categories: V;model:servir;fonts: LT;
 entenebrar=categories: V;model:cantar;fonts: LT;
 entenebrir=categories: V;model:servir;fonts: LT;
 enteranyinar=categories: V;model:abominar;fonts: LT;
+enterar=categories: V;model:cantar;fonts: DNV, colloquial;
 enterbolir=categories: V;model:servir;fonts: LT;
 entercar=categories: V;model:trencar;fonts: LT;
 enterrar=categories: V;model:cantar;fonts: LT;

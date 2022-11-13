@@ -2167,7 +2167,6 @@ entaulellament=categories: M;fonts: DNV;
 entebiar=categories: V;model:crear;fonts: DNV;
 entemenar=categories: V;model:ofrenar;fonts: DNV;
 entente=categories: F;fonts: DNV;
-enterar=categories: V;model:cantar;fonts: DNV;
 enterobiosi=categories: F;fonts: DNV;
 enteular=categories: V;model:cantar;fonts: DNV;
 entortillament=categories: M;fonts: DNV;
