@@ -4275,6 +4275,7 @@ empollastrir=categories: V;model:servir;fonts: LT;
 empolsar=categories: V;model:cantar;fonts: LT;
 empolsegar=categories: V;model:pregar;fonts: LT;
 empolsimar=categories: V;model:cantar;fonts: LT;
+empolsinar=categories: V;model:abominar;fonts: DNV;
 empoltronir=categories: V;model:servir;fonts: LT;
 empolvorar=categories: V;model:cantar;fonts: LT;
 empomar=categories: V;model:cantar;fonts: LT;
