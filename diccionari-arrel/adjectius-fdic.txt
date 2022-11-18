@@ -32363,6 +32363,7 @@ victimològic victimològica=categories: A;fonts: termcat;
 victorià victoriana=categories: A;fonts: LT;
 victoriós victoriosa [sup. victoriosíssim]=categories: A; font:apertium;
 victorí victorina=categories: A;fonts: LT;
+videoassistit videoassistida=categories: A;fonts: termcat, medicina;
 videogràfic videogràfica=categories: A;fonts: LT;
 videovigilat videovigilada=categories: A;fonts: derivat;
 vidià vidiana=categories: A;fonts: dsalut;
