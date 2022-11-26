@@ -14543,6 +14543,7 @@ Malloles Malloles NPCNG00
 Malloles Malloles NPCNSP0
 Mallolís Mallolís NPCSG00
 Mallorca Mallorca NPFSG00
+Mallorca Mallorca NPMSO00
 Mallorquines Mallorquines NPFPG00
 Mallorquins Mallorquins NPMPG00
 Mallorquí Mallorquí NPCNSP0
@@ -17970,6 +17971,7 @@ Paner Paner NPCNSP0
 Panevėžys Panevėžys NPCSG00
 Pangea Pangea NPFSG00
 Panillo Panillo NPCSG00
+Panini Panini NPCNSP0
 Panjab Panjab NPMSG00
 Pankow Pankow NPCSG00
 Panmunjeom Panmunjeom NPCSG00
@@ -21091,6 +21093,7 @@ Sagarriga Sagarriga NPCNSP0
 Sagarriu Sagarriu NPCNSP0
 Sagars Sagars NPCNSP0
 Sagaró Sagaró NPCNSP0
+Sagasta Sagasta NPCNSP0
 Sagau Sagau NPCNSP0
 Sageta Sageta NPCNSP0
 Sageta Sageta NPFSG00
