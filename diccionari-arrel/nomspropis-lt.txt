@@ -4066,6 +4066,7 @@ Billingshurst Billingshurst NPCSG00
 Billot Billot NPCNSP0
 Billroth Billroth NPCNSP0 # medical
 Billy Billy NPCNSP0
+Bimbo Bimbo NPCNO00
 Bingen Bingen NPCSG00
 Bingerville Bingerville NPCSG00
 Binghamton Binghamton NPCSG00

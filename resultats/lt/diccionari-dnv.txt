@@ -31995,12 +31995,6 @@ desventament desventament NCMS000
 desventaments desventament NCMP000
 desvirador desvirador NCMS000
 desviradors desvirador NCMP000
-desvirtuacions desvirtuació NCFP000
-desvirtuació desvirtuació NCFS000
-desvitaminada desvitaminat AQ0FS0
-desvitaminades desvitaminat AQ0FP0
-desvitaminat desvitaminat AQ0MS0
-desvitaminats desvitaminat AQ0MP0
 desvoler desvoler NCMS000
 desvolers desvoler NCMP000
 detorsions detorsió NCFP000
