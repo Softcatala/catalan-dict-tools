@@ -22762,6 +22762,7 @@ Strauss Strauss NPCNSP0
 Strauss-Kahn Strauss-Kahn NPCNSP0
 Stravinski Stravinski NPCNSP0
 Streisand Streisand NPCNSP0
+Strindberg Strindberg NPCNSP0
 Stromboli Stromboli NPCSG00
 Strozzi Strozzi NPCNSP0
 Struthers Struthers NPCNSP0 # medical
