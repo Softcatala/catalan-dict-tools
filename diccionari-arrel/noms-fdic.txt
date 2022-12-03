@@ -38400,6 +38400,7 @@ gasificant=categories: M;fonts: LT;
 gasiu=categories: M;fonts: LT;
 gasiva=categories: F;fonts: LT;
 gasiveria=categories: F;fonts: LT;
+gaslighting=categories: MS;fonts: english;
 gasodomèstic=categories: M;fonts: LT;
 gasoducte=categories: M;fonts: LT;
 gasogen=categories: M;fonts: LT;
