@@ -12100,6 +12100,7 @@ Hyderābād Hyderābād NPCSG00
 Hyundai Hyundai NPCNO00
 Hàsdrubal Hàsdrubal NPMSSP0 # avl: noms de persona
 Hágion Hágion NPMSG00
+Häagen-Dazs Häagen-Dazs NPCNO00
 Hälsingborg Hälsingborg NPCSG00
 Hälsingland Hälsingland NPCSG00
 Händel Händel NPCNSP0
