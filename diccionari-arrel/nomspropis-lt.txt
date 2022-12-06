@@ -19815,6 +19815,7 @@ Quitet Quitet NPCNSP0
 Quito Quito NPCSG00
 Quitèria Quitèria NPFSSP0
 Quitèries Quitèria NPFPSP0
+Qumran Qumran NPMSG00
 Quneitra Quneitra NPCSG00
 Qustol Qustol NPCSG00
 Quthing Quthing NPCSG00
@@ -26237,6 +26238,7 @@ Zòtics Zòtic NPMPSP0
 Zújar Zújar NPCSG00
 Zābol Zābol NPCSG00
 al-Din al-Din NPCNSP0
+al-Sadat al-Sadat NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
 d'Alembert d'Alembert NPCNSP0
 eBay eBay NPCNO00
