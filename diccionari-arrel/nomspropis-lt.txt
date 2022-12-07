@@ -4,6 +4,7 @@
 #Alegries Alegries NPFSSP0 # avl: noms de persona
 #Alà Alà NPMSSP0 # avl: noms de persona
 #Amar Amar NPMSSP0 # avl: noms de persona
+#Americana Americana NPCSG00
 #Amic Amic NPMSSP0 # avl: noms de persona
 #Amiga Amiga NPFSSP0 # avl: noms de persona
 #Amorosa Amorosa NPFSSP0 # avl: noms de persona
@@ -1581,7 +1582,6 @@ Amengual Amengual NPMSSP0
 Amenguals Amengual NPMPSP0
 Amer Amer NPCNSP0
 Amer Amer NPCSG00
-Americana Americana NPCSG00
 Amerigo Amerigo NPMSSP0
 Amersfoort Amersfoort NPCSG00
 Ames Ames NPCNSP0 # medical
@@ -18579,6 +18579,7 @@ Picasso Picasso NPCNSP0
 Picassàries Picassàries NPCSG00
 Picassó Picassó NPCNSP0
 Picazo Picazo NPCNSP0
+Piccadilly Piccadilly NPCNG00
 Piccolomini Piccolomini NPCNSP0
 Pichincha Pichincha NPCSG00
 Pick Pick NPCNSP0 # medical
@@ -23317,6 +23318,7 @@ Telde Telde NPCSG00
 Telecinco Telecinco NPCNO00
 Telegram Telegram NPMSO00
 Telemadrid Telemadrid NPFSO00
+Telemann Telemann NPCNSP0
 Telentrada Telentrada NPMSO00
 Telescopi Telescopi NPMSG00
 Telesfor Telesfor NPMSSP0
