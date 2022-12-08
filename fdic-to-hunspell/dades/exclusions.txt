@@ -117,6 +117,7 @@ candida
 candides
 
 EXCLOU LEMA DE TOTS
+sentar
 enterar
 reva
 ata

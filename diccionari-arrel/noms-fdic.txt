@@ -47692,6 +47692,7 @@ lavatge=categories: M;fonts: LT;
 lavativa=categories: F;fonts: LT;
 lavatori=categories: M;fonts: LT;
 laverània=categories: F;fonts: dsalut;
+lawfare=categories: MS;fonts: English;
 lawrenci=categories: M;fonts: LT;
 lawsona=categories: F;fonts: LT;
 lawsonita=categories: F;fonts: LT;

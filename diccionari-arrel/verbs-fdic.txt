@@ -9243,6 +9243,7 @@ semblar=categories: V;model:cantar;fonts: LT;
 sembrar=categories: V;model:cantar;fonts: LT;
 sensibilitzar=categories: V;model:cantar;fonts: LT;
 sensualitzar=categories: V;model:cantar;fonts:Jané;
+sentar=categories: V;model:cantar;fonts: DCVB, no normatiu però necessari per a anàlisi!;
 sentenciar=categories: V;model:crear;fonts: LT;
 sentir=categories: V;model:dormir;fonts: LT;
 senyalar=categories: V;model:cantar;fonts: LT;
