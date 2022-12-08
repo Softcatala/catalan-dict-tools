@@ -16,17 +16,18 @@ open( my $fh,  "<:encoding(UTF-8)", $fitxer_exclusions );
 my $fesexclusio=0;
 my $formaolema="";
 while (my $line = <$fh>) {
-    if ($line =~ /^EXCLOU (FORMA|LEMA) DE (.*)$/) {
-	$formaolema = $1;
-	my $mydiccionari =$2;
-	if ($mydiccionari =~ /^(TOTS|tots|$variant)$/) { # fes exclusió
-	    $fesexclusio=1;
-	} else {
-	    $fesexclusio=0;
-	}
+    if ($line =~ /^\#EXCLOU (FORMA|LEMA) DE (.*)$/) {
+		$formaolema = $1;
+		my $mydiccionari =$2;
+		if ($mydiccionari =~ /^(TOTS|tots|$variant)$/) { # fes exclusió
+		    $fesexclusio=1;
+		} else {
+		    $fesexclusio=0;
+		}
     } elsif ($fesexclusio && $line =~ /^.+$/) {
-	chomp ($line);
-	$exclusions{$line}=$formaolema;
+    	$line =~ s/(.*)\#.*/$1/;
+		chomp ($line);
+		$exclusions{$line}=$formaolema;
     }
 }
 close($fh);

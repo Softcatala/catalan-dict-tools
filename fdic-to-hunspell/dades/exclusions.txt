@@ -1,4 +1,8 @@
-EXCLOU FORMA DE TOTS
+# Aquestes formes són en el diccionari arrel, però són formes dialectals, 
+# col·loquials o antigues. Convé excloure-les en algunes aplicaciones 
+# en què no hi ha revisió gramatical, com ara diccionaris ortogràfics. 
+ 
+#EXCLOU FORMA DE TOTS
 encim
 artic
 aver
@@ -116,7 +120,7 @@ candits
 candida
 candides
 
-EXCLOU LEMA DE TOTS
+#EXCLOU LEMA DE TOTS
 sentar
 enterar
 reva
@@ -346,7 +350,7 @@ incautar
 incautació
 resecar
 
-EXCLOU FORMA DE catalan
+#EXCLOU FORMA DE catalan
 coenta
 coentes
 deprés
@@ -356,7 +360,7 @@ pudentes
 tio
 tios
 
-EXCLOU LEMA DE catalan
+#EXCLOU LEMA DE catalan
 abraç
 bollir
 rebollir
@@ -498,9 +502,9 @@ vore
 vosté
 vostés
 
-EXCLOU FORMA DE catalan-valencia
+#EXCLOU FORMA DE catalan-valencia
 bastanta
 bastantes
 
-EXCLOU LEMA DE catalan-valencia
+#EXCLOU LEMA DE catalan-valencia
 
