@@ -5625,6 +5625,7 @@ antipruriginós=categories: M;fonts: LT;
 antipsiquiatria=categories: F;fonts: LT;
 antipsòric=categories: M;fonts: LT;
 antiptosi=categories: F;fonts: LT;
+antipujolisme=categories: M;fonts: derivat;
 antipà=categories: M;fonts: LT;
 antipíic=categories: M;fonts: LT;
 antiquari=categories: M;fonts LT;
