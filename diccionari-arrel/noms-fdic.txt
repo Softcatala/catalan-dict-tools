@@ -78235,6 +78235,7 @@ tat=categories: M;fonts: LT;
 tata=categories: M;fonts: LT;
 tataki=categories: M;fonts: LT;
 tatami=categories: M;fonts: LT;
+tatanet=categories: M;fonts: diminutiu;
 tatarià=categories: M;fonts: LT;
 tato=categories: M;fonts: LT;
 tatuador tatuadora=categories: MF;fonts: LT;
