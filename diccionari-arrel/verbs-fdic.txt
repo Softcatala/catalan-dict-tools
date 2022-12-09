@@ -2326,6 +2326,7 @@ dar=categories: V;model:dar;fonts: LT;
 dardar=categories: V;model:cantar;fonts: LT;
 dardellar=categories: V;model:cantar;fonts: LT;
 datar=categories: V;model:cantar;fonts: LT;
+datificar=categories: V;model:trencar;fonts: derivat;
 daurar=categories: V;model:cantar;fonts: LT;
 davallar=categories: V;model:cantar;fonts: LT;
 davantejar=categories: V;model:envejar;fonts: LT;

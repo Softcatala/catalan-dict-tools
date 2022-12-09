@@ -18670,6 +18670,7 @@ Pinet Pinet NPCNSP0
 Pinet Pinet NPCSG00
 Pinetell Pinetell NPCNSP0
 Piniello Piniello NPCSG00
+Pinocchio Pinocchio NPMSSP0
 Pinochet Pinochet NPCNSP0
 Pinos Pinos NPCSG00
 Pinosa Pinosa NPCNSP0
@@ -18690,6 +18691,7 @@ Pinyeres Pinyeres NPFPG00
 Pinyol Pinyol NPCNSP0
 Pinyot Pinyot NPCNSP0
 Pinçac Pinçac NPCSG00
+Pinòquio Pinòquio NPMSSP0
 Pinós Pinós NPCNG00
 Pinós Pinós NPCNSP0
 Pioltello Pioltello NPCSG00

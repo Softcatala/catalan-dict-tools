@@ -22625,6 +22625,7 @@ datador datadora=categories: MF;fonts: LT;
 datagrama=categories: M;fonts: LT;
 datari=categories: M;fonts: LT;
 dataria=categories: F;fonts: LT;
+datificació=categories: F;fonts: LT;
 datiler datilera=categories: MF;fonts LT;
 datisme=categories: M;fonts: LT;
 datiu=categories: M;fonts: LT;
