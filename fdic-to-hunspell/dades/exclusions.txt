@@ -1,5 +1,5 @@
 # Aquestes formes són en el diccionari arrel, però són formes dialectals, 
-# col·loquials o antigues. Convé excloure-les en algunes aplicaciones 
+# col·loquials o antigues. Convé excloure-les en algunes aplicacions
 # en què no hi ha revisió gramatical, com ara diccionaris ortogràfics. 
  
 #EXCLOU FORMA DE TOTS
