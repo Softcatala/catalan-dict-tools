@@ -2813,6 +2813,7 @@ BMW BMW NPCNO00
 BOE BOE NPMSO00
 BRIMO BRIMO NPCNO00
 BSC BSC NPMSO00
+BTS BTS NPMPO00
 BTV BTV NPCNO00
 BUP BUP NPMSO00
 Baal Baal NPMSSP0
@@ -7489,6 +7490,7 @@ DGT DGT NPFSO00
 DIEC DIEC NPMSO00
 DIN DIN NPCNO00
 DNV DNV NPMSO00
+DUDH DUDH NPFSO00
 Dabakala Dabakala NPCSG00
 Dabau Dabau NPCNSP0
 Dabola Dabola NPCSG00
@@ -13244,6 +13246,7 @@ L'ubercy L'ubercy NPCSG00
 LGPL LGPL NPCNO00
 LOGSE LOGSE NPFSO00
 LOMCE LMOCE NPFSO00
+LOMLOE LOMLOE NPFSO00
 Labadia Labadia NPCNSP0
 Laban Laban NPMSSP0
 Labastida Labastida NPCNSP0
@@ -16998,6 +17001,7 @@ Nobels Nobel NPMPSP0
 Nobeoka Nobeoka NPCSG00
 Noc Noc NPCNSP0
 Nocelles Nocelles NPCSG00
+Nocilla Nocilla NPFSO00
 Noedes Noedes NPCSG00
 Noel Noel NPMSSP0
 Noels Noel NPMPSP0
@@ -21720,6 +21724,7 @@ Savella Savella NPCSG00
 Savelli Savelli NPCNSP0
 Savellà Savellà NPCNSP0
 Savigliano Savigliano NPCSG00
+Savigny Savigny NPCNSP0
 Savigny-sur-Orge Savigny-sur-Orge NPCSG00
 Savina Savina NPCNSP0
 Savinosa Savinosa NPFSG00
@@ -22984,6 +22989,7 @@ Sōka Sōka NPCSG00
 T'aichung T'aichung NPCSG00
 T'ainan T'ainan NPCSG00
 T'aipei T'aipei NPCSG00
+TC TC NPMSO00
 TEDH TEDH NPMSO00
 TGUE TGUE NPMSO00
 TJUE TJUE NPMSO00
@@ -25113,6 +25119,7 @@ Vigneux-sur-Seine Vigneux-sur-Seine NPCSG00
 Vignola Vignola NPCSG00
 Vigo Vigo NPCNSP0
 Vigo Vigo NPCSG00
+Vigotski Vigotski NPCNSP0
 Viguet Viguet NPCNSP0
 Viipuri Viipuri NPCSG00
 Vijayanagara Vijayanagara NPCSG00
@@ -25392,6 +25399,7 @@ Vinaixa Vinaixa NPFSG00
 Vinalesa Vinalesa NPFSG00
 Vinallop Vinallop NPCNSP0
 Vinallop Vinallop NPCSG00
+Vinalopons Vinalopó NPMPG00
 Vinalopó Vinalopó NPMSG00
 Vinarragell Vinarragell NPCSG00
 Vinaròs Vinaròs NPCSG00

@@ -8381,6 +8381,7 @@ reanomenar=categories: V;model:ofrenar;fonts: derivat;
 reaparèixer=categories: V;model:conèixer;fonts: LT;
 reaprendre=categories: V;model:ofendre;fonts: LT;
 reaprofitar=categories: V;model:cantar;fonts: LT;
+reapropiar=categories: V;model:crear;fonts: LT;
 rearmar=categories: V;model:cantar;fonts: LT;
 rearpar=categories: V;model:cantar;fonts: LT;
 rearranjar=categories: V;model:menjar;fonts:derivat;

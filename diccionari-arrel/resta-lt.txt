@@ -895,6 +895,7 @@ tu tu PP2CS000
 tururut tururut I
 u un PI0MS000
 uah uah I
+uau uau I
 uei uei I
 uf uf I
 ui ui I
