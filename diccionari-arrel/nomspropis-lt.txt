@@ -3763,6 +3763,7 @@ Bennàsser Bennàsser NPCNSP0
 Benoni Benoni NPCSG00
 Bensa Bensa NPCSG00
 Bensau Bensau NPCNSP0
+Bentham Bentahm NPCNSP0
 Bentiu Bentiu NPCSG00
 Benue Benue NPCSG00
 Benumea Benumea NPCSG00
@@ -4210,6 +4211,7 @@ Boadella Boadella NPFSG00
 Boades Boades NPFPG00
 Boari Boari NPCNSP0 # medical
 Boatella Boatella NPCSG00
+Bobbio Bobbio NPCNSP0
 Bobby Bobby NPMSSP0
 Bobigny Bobigny NPCSG00
 Bobo-Dioulasso Bobo-Dioulasso NPCSG00
@@ -11231,6 +11233,7 @@ Gros Gros NPCNSP0
 Grosset Grosset NPCNSP0
 Grosseto Grosseto NPCSG00
 Grossglockner Grossglockner NPCSG00
+Grotius Grotius NPMSSP0
 Grottaferrata Grottaferrata NPCSG00
 Grottaglie Grottaglie NPCSG00
 Groucho Groucho NPMSSP0
@@ -12557,6 +12560,7 @@ Jennifer Jennifer NPFSSP0 # anglès
 Jepús Jepús NPCNSP0
 Jeremies Jeremies NPMPSP0
 Jeremies Jeremies NPMSSP0
+Jeremy Jeremy NPMSSP0
 Jerez Jerez NPCSG00
 Jericó Jericó NPCSG00
 Jeroni Jeroni NPMSSP0
