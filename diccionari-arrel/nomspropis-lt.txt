@@ -18519,6 +18519,7 @@ Peter Peter NPMSSP0
 Peterborough Peterborough NPCSG00
 Peters Peters NPCNSP0 # medical
 Petersburg Petersburg NPMSG00
+Peterson Peterson NPCNSP0
 Petit Petit NPCNSP0
 Petite-Synthe Petite-Synthe NPCSG00
 Petra Petra NPFSG00
