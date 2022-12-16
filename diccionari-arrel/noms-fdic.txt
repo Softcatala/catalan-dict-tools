@@ -84473,6 +84473,7 @@ videojugador videojugadora=categories: MF;fonts: termcat;
 videolaringostroboscòpia=categories: F;fonts: dsalut;
 videolector=categories: M;fonts: LT;
 videollibre=categories: M;fonts: LT;
+videomapatge=categories: M;fonts: LT;
 videomarcador=categories: M;fonts: LT;
 videomissatge=categories: M;fonts: LT;
 videomuntatge=categories: M;fonts: LT;
