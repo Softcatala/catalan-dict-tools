@@ -49579,6 +49579,8 @@ ghayn ghayn NCFS000
 ghayns ghayn NCFP000
 gigatona gigatona NCFS000
 gigatones gigatona NCFP000
+gigavat gigavat NCMS000
+gigavats gigavat NCMP000
 gimlet gimlet NCMS000
 gimlets gimlet NCMP000
 gimnet gimnet AQ0CS0

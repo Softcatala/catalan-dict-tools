@@ -2860,6 +2860,7 @@ gesminer=categories: M;fonts: DNV;
 gesmí=categories: M;fonts: DNV;
 ghayn=categories: F;fonts: DNV;
 gigatona=categories: F;fonts: DNV;
+gigavat=categories: M;fonts: DNV;
 gimlet=categories: M;fonts: DNV;
 gimnet=categories: A;fonts: DNV;
 gimnet=categories: MF;fonts: DNV;
