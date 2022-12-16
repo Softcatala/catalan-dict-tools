@@ -10951,6 +10951,7 @@ biooxidació=categories: F;fonts: termcat;
 biopatologia=categories: F;fonts: dsalut;
 biopel·lícula=categories: F;fonts: termcat;
 biopic=categories: M;fonts: LT;
+bioplàstia=categories: F;fonts: derivat;
 bioplàstic=categories: M;fonts: termcat;
 biopoesi=categories: F;fonts: LT;
 biopolímer=categories: M;fonts: dsalut;

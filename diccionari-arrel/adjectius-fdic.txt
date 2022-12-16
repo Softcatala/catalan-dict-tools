@@ -29371,6 +29371,7 @@ superable=categories: A;fonts: LT;
 superabsorbent=categories: A;fonts: derivat;
 superaccessible=categories: A;fonts: derivat;
 superacostumat superacostumada=categories: A;fonts: derivat;
+superactiu superactiva=categories: A;fonts: derivat;
 superador superadora=categories: A;fonts: derivat;
 superafectuós superafectuosa=categories: A;fonts: derivat;
 superagradable=categories: A;fonts: derivat;
