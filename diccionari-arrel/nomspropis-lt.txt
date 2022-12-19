@@ -11116,6 +11116,7 @@ Granada Granada NPFSG00
 Granadell Granadell NPCNSP0
 Granadella Granadella NPFSG00
 Granados Granados NPCNSP0
+Grand-Place Grand-Place NPFSG00
 Grand-Port Grand-Port NPCSG00
 Grande Grande NPCSG00
 Grande-Marlaska Grande-Marlaska NPCNSP0
@@ -15323,6 +15324,7 @@ McLuhan McLuhan NPCNO00
 McNamara McNamara NPCNSP0
 Mchinji Mchinji NPCSG00
 Meanes Meanes NPCSG00
+Meatpacking Meatpacking NPMSG00
 Meaux Meaux NPCSG00
 Meca Meca NPCNSP0
 Meca Meca NPFSG00
