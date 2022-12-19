@@ -1,0 +1,17 @@
+# Verbs que s'exclouen del conjugador de Softcatalà perquè no són normatius. 
+# Són en el diccionari perquè tenen algunes aplicacions 
+enterar
+sentar
+afiançar
+aplaçar
+apretar
+bollir
+despreciar
+midar
+vesar
+xivar
+xivatar
+ralentitzar
+
+
+# aborregar, afiançar, afincar, aguar, aguardar, alcançar, amurallar, ansiar, apenar, aplaçar, apretar, atronar, beneficar, binar, birlar, bollir, ciar, composar, custodir, decepcionar, depenjar, descollonar, despedir, despreciar, disfrutar, emblar, encorsetar, endarreriar, enrecordar, escomençar, estropejar, gabar, ganyar, incautar, mediar, midar, mundar, ralentitzar, raportar, rebollir, resecar, rossegar, secar, tatxar, transir, tupar, vesar, xivar, xivatar
