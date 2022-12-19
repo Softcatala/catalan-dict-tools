@@ -7088,6 +7088,7 @@ Coscollar Coscollar NPCNSP0
 Coscollar Coscollar NPMSG00
 Coscollola Coscollola NPCNSP0
 Coscollosa Coscollosa NPCSG00
+Coscubiela Coscubiela NPCNSP0
 Coscó Coscó NPCNSP0
 Coscó Coscó NPCSG00
 Cosenza Cosenza NPCSG00
@@ -26463,3 +26464,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+UCD UCD NPFSO00
