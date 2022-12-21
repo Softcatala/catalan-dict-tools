@@ -2616,6 +2616,7 @@ Atocha Atocha NPCSG00
 Atotxa Atotxa NPFSSP0 # avl: noms de persona
 Atrato Atrato NPCSG00
 Attigny Attigny NPCSG00
+Atwood Atwood NPCNSP0
 Atxon Atxon NPCSG00
 Atyrau Atyrau NPCSG00
 Atzavares Atzavares NPFPG00
@@ -17041,6 +17042,7 @@ Noisy-le-Grand Noisy-le-Grand NPCSG00
 Noisy-le-Sec Noisy-le-Sec NPCSG00
 Noja Noja NPCSG00
 Nola Nola NPCSG00
+Nolan Nolan NPCNSP0
 Nolasc Nolasc NPCNSP0
 Nolla Nolla NPCNSP0
 Nomdedeu Nomdedeu NPCNSP0
@@ -21284,6 +21286,7 @@ Sales Sales NPCNSP0
 Saleta Saleta NPCNSP0
 Salford Salford NPCSG00
 Salgar Salgar NPCSG00
+Salgari Salgari NPCNSP0
 Salgot Salgot NPCNSP0
 Salgueda Salgueda NPCNSP0
 Salguera Salguera NPCNSP0
@@ -25691,6 +25694,7 @@ Warenne Warenne NPCNSP0
 Wargla Wargla NPCSG00
 Warley Warley NPCSG00
 Warmia Warmia NPCSG00
+Warner Warner NPCNO00
 Warnock Warnock NPCNSP0
 Warnock Warnock NPCNSP0 # medical
 Warren Warren NPCSG00
@@ -26467,5 +26471,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Warner Warner NPCNO00
-Nolan Nolan NPCNSP0
