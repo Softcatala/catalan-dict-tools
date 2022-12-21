@@ -293,6 +293,7 @@ IAE=categories: MS;fonts: esadir;
 IBAN=categories: MI;fonts: termcat,sigla;
 IC=categories: FI;fonts: dsalut;
 IDH=categories: MI; fonts: sigla;
+IEA=categories: MS;fonts: sigla;
 IED=categories: FI;fonts: dsalut;
 IES=categories: MI;fonts: termcat;
 ILP=categories: FI;fonts: esadir;

@@ -92,6 +92,7 @@
 #Gesmí Gesmí NPFSSP0 # avl: noms de persona
 #Gessamí Gessamí NPFSSP0 # avl: noms de persona
 #Giner Giner NPMSSP0 # avl: noms de persona
+#Grande Grande NPCSG00
 #Grima Grima NPCNSP0
 #Gòria Gòria NPFSSP0 # avl: noms de persona
 #Harmonia Harmonia NPFSSP0 # avl: noms de persona
@@ -2795,6 +2796,7 @@ Azerbaidjan Azerbaidjan NPMSG00
 Azkoitia Azkoitia NPCSG00
 Aznar Aznar NPCNSP0
 Azorín Azorín NPCNSP0
+Azov Azov NPCSG00
 Azua Azua NPCSG00
 Azuay Azuay NPCSG00
 Açores Açores NPFPG00
@@ -11119,7 +11121,6 @@ Granadella Granadella NPFSG00
 Granados Granados NPCNSP0
 Grand-Place Grand-Place NPFSG00
 Grand-Port Grand-Port NPCSG00
-Grande Grande NPCSG00
 Grande-Marlaska Grande-Marlaska NPCNSP0
 Grande-Terre Grande-Terre NPCSG00
 Grandia Grandia NPCNSP0
@@ -12988,7 +12989,7 @@ Kenya Kenya NPFSG00
 Kepler Kepler NPCNSP0
 Kerala Kerala NPCSG00
 Keren Keren NPCSG00
-Kerguelen Kerguelen NPCSG00
+Kerguelen Kerguelen NPFPG00
 Kerkrade Kerkrade NPCSG00
 Kerley Kerley NPCNSP0 # medical
 Kermadec Kermadec NPFPG00
@@ -13267,7 +13268,7 @@ Labrós Labrós NPCNSP0
 Labèrnia Labèrnia NPCNSP0
 Labé Labé NPCSG00
 Labòria Labòria NPCNSP0
-Lacadives Lacadives NPCSG00
+Lacadives Lacadives NPFPG00
 Lacambra Lacambra NPCNSP0
 Lacan Lacan NPCNSP0
 Lacasa Lacasa NPCNSP0
@@ -14263,6 +14264,7 @@ Lünen Lünen NPCSG00
 Lüshun Lüshun NPCSG00
 Lāhaur Lāhaur NPCSG00
 MACBA MACBA NPMSO00
+MECRL MECRL NPMSO00 # sigla
 MI5 MI5 NPMSO00
 MI6 MI6 NPMSO00
 MIDI MIDI NPMSO00
@@ -21445,7 +21447,7 @@ Sandhurst Sandhurst NPCSG00
 Sandra Sandra NPFSSP0 # avl: noms de persona
 Sandre Sandre NPMSSP0 # avl: noms de persona
 Sandro Sandro NPMSSP0
-Sandwich Sandwich NPCSG00
+Sandwich Sandwich NPFPG00
 Sandàlia Sandàlia NPFSSP0 # avl: noms de persona
 Saneja Saneja NPCSG00
 Sanelo Sanelo NPCNSP0
@@ -24374,6 +24376,7 @@ UA UA NPFSO00
 UAB UAB NPFSO00
 UAO UAO NPFSO00
 UB UB NPFSO00
+UCD UCD NPFSO00
 UCE UCE NPFSO00
 UDC UDC NPFSO00
 UDEF UDEF NPFSO00
@@ -26464,4 +26467,5 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-UCD UCD NPFSO00
+Warner Warner NPCNO00
+Nolan Nolan NPCNSP0
