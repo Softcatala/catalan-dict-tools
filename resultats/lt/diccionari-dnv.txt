@@ -62897,10 +62897,6 @@ poliomielítiques poliomielític AQ0FP0
 poliomielítiques poliomielític NCFP000
 polipectomia polipectomia NCFS000
 polipectomies polipectomia NCFP000
-polipeptídic polipeptídic AQ0MS0
-polipeptídica polipeptídic AQ0FS0
-polipeptídics polipeptídic AQ0MP0
-polipeptídiques polipeptídic AQ0FP0
 polipoide polipoide AQ0CS0
 polipoides polipoide AQ0CP0
 politicomania politicomania NCFS000

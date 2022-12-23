@@ -4575,7 +4575,6 @@ polimentar=categories: V;model:cantar;fonts: DNV;
 poliomielític -a=categories: A;fonts: DNV;
 poliomielític -a=categories: MF;fonts: DNV;
 polipectomia=categories: F;fonts: DNV;
-polipeptídic -a=categories: A;fonts: DNV;
 polipoide=categories: A;fonts: DNV;
 politicomania=categories: F;fonts: DNV;
 politiquer -a=categories: A;fonts: DNV;

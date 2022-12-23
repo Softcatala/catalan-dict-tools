@@ -214,6 +214,7 @@
 8TV 8TV NPCNO00
 ABC ABC NPMSO00
 ACB ACB NPFSO00
+ACN ACN NPFSO00
 ACNUR ACNUR NPMSO00
 ACPV ACPV NPFSO00
 AEAT AEAT NPFSO00
@@ -224,6 +225,7 @@ AIReF AIReF NPFSO00
 AMS-800 AMS-800 NPCNSP0 # medical
 ANSI ANSI NPMSO00
 ARRO ARRO NPCNO00
+ATC ATC NPFSO00
 ATM ATM NPFSO00
 ATP ATP NPFSO00
 AVE AVE NPMNO00
@@ -9198,6 +9200,7 @@ FAO FAO NPFSO00
 FARC FARC NPFPO00
 FBI FBI NPMSO00
 FCB FCB NPMSO00
+FCC FCC NPMSO00
 FEDAC FEDAC NPFSO00
 FEDER FEDER NPMNO00
 FEN FEN NPFSO00
@@ -16722,6 +16725,7 @@ Narváez Narváez NPCNSP0
 Naryškin Naryškin NPCNSP0
 Nas Nas NPCNSP0
 Nas Nas NPCSG00
+Nash Nash NPCNSP0
 Nashville Nashville NPCSG00
 Nashville-Davidson Nashville-Davidson NPCSG00
 Nasi Nasi NPMSSP0 # avl: noms de persona
@@ -18951,6 +18955,7 @@ Pomerola Pomerola NPCNSP0
 Pomers Pomers NPCNSP0
 Pomerània Pomerània NPFSG00
 Pomerèlia Pomerèlia NPFSG00
+Pompadour Pompadour NPCNSP0
 Pompe Pompe NPCNSP0 # medical
 Pompeia Pompeia NPFSG00
 Pompeia Pompeia NPFSSP0
@@ -20057,6 +20062,7 @@ Ratingen Ratingen NPCSG00
 Ratisbona Ratisbona NPFSG00
 Ratlām Ratlām NPCSG00
 Ratnapura Ratnapura NPCSG00
+Ratzinger Ratzinger NPCNSP0
 Raubert Raubert NPCNSP0
 Raulina Raulina NPCNSP0
 Raulí Raulí NPCNSP0
@@ -21824,6 +21830,7 @@ Scott Scott NPCNSP0
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
 Scratch Scratch NPCNO00
+Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
 Scunthorpe Scunthorpe NPCSG00
 Seana Seana NPFSG00
@@ -22214,6 +22221,7 @@ Shenyang Shenyang NPCSG00
 Shenzhen Shenzhen NPCSG00
 Sherbro Sherbro NPCSG00
 Sherlock Sherlock NPCNSP0
+Sherwood Sherwood NPCNSP0
 Shetland Shetland NPFPG00
 Shewa Shewa NPCSG00
 Shijiazhuang Shijiazhuang NPCSG00
@@ -22768,6 +22776,7 @@ Stevenson Stevenson NPCNSP0
 Stewart-Holmes Stewart-Holmes NPCNSP0 # medical
 Steyr Steyr NPCSG00
 Stif Stif NPCSG00
+Stiglitz Stiglitz NPCNSP0
 Still Still NPCNSP0 # medical
 Stockhausen Stockhausen NPCNSP0
 Stockport Stockport NPCSG00
@@ -24331,6 +24340,7 @@ Txetxènia Txetxènia NPFSG00
 Txèquia Txèquia NPFSG00
 Txékhov Txékhov NPCNSP0
 Tychy Tychy NPCSG00
+Tyler Tyler NPCNSP0
 Tyndall Tyndall NPCNSP0 # medical
 Tyne Tyne NPCSG00
 Tynemouth Tynemouth NPCSG00
@@ -25983,6 +25993,7 @@ Xiang Xiang NPCSG00
 Xiangfan Xiangfan NPCSG00
 Xiangkhoang Xiangkhoang NPCSG00
 Xiangtan Xiangtan NPCSG00
+Xiaoping Xiaoping NPCNSP0
 Xibeques Xibeques NPCNSP0
 Xic Xic NPCNSP0
 Xica Xica NPCNSP0
