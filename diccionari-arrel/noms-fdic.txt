@@ -63,6 +63,7 @@
 #espàrec=categories: M;fonts: LT; antic, inusual
 #estrus=categories: M;fonts: dsalut;
 #falconera=categories: M;fonts: LT;
+#fallat=categories: M;fonts: LT;
 #fauces=categories: FP;fonts: dsalut;
 #fe2=categories: M;fonts: LT; molt inusual, sinònims de "fenc"
 #feredetat=categories: M;fonts: dsalut;
@@ -34432,7 +34433,6 @@ falla=categories: F;fonts: LT;
 fallada=categories: F;fonts: LT;
 fallaire=categories: MF;fonts: LT;
 fallanca=categories: F;fonts: LT;
-fallat=categories: M;fonts: LT;
 falleba=categories: F;fonts: LT;
 fallença=categories: F;fonts: LT;
 faller fallera=categories: MF;fonts: LT;
