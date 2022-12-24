@@ -4193,6 +4193,7 @@ Blaví Blaví NPCNSP0
 Blavís Blavís NPCNSP0
 Blaye-les-Mines Blaye-les-Mines NPCSG00
 Bleda Bleda NPFSG00
+Blender Blender NPMSO00
 Blida Blida NPCSG00
 Bloemfontein Bloemfontein NPCSG00
 Blogger Blogger NPMSO00
@@ -9199,7 +9200,7 @@ FAO FAO NPFSO00
 FARC FARC NPFPO00
 FBI FBI NPMSO00
 FCB FCB NPMSO00
-FCC FCC NPMSO00
+FCC FCC NPCSO00
 FEDAC FEDAC NPFSO00
 FEDER FEDER NPMNO00
 FEN FEN NPFSO00
@@ -13347,6 +13348,7 @@ Lamolla Lamolla NPCNSP0
 Lampedusa Lampedusa NPCSG00
 Lampung Lampung NPCSG00
 Lanau Lanau NPCNSP0
+Lancashire Lancashire NPCSG00
 Lancaster Lancaster NPCNSP0
 Lancaster Lancaster NPCSG00
 Lancelot Lancelot NPMSSP0
@@ -13374,6 +13376,7 @@ LanguageTool LanguageTool NPMSO00
 Lanka Lanka NPFSG00
 Lannemezan Lannemezan NPCSG00
 Lannion Lannion NPCSG00
+Lannister Lannister NPCNSP0
 Lansac Lansac NPCSG00
 Lansing Lansing NPCSG00
 Lanyon Lanyon NPCNSP0
