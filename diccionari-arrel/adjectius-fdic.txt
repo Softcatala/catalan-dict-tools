@@ -25767,6 +25767,7 @@ psammític psammítica=categories: A;fonts: LT;
 psammòfil psammòfila=categories: A;fonts: LT;
 psefític psefítica=categories: A;fonts: LT;
 pseudoacèfal pseudoacèfala=categories: A;fonts: dsalut;
+pseudoagustinià pseudoagustiniana=categories: A;fonts: derivat;
 pseudoaleatori pseudoaleatòria=categories: A;fonts: LT;
 pseudoangiomatós pseudoangiomatosa=categories: A;fonts: dsalut;
 pseudoarteriós pseudoarteriosa=categories: A;fonts: dsalut;

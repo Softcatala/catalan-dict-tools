@@ -13059,6 +13059,7 @@ Kingston Kingston NPCSG00
 Kingstown Kingstown NPCSG00
 Kinshasa Kinshasa NPCSG00
 Kintyre Kintyre NPCSG00
+Kipling Kipling NPCNSP0
 Kirchner Kirchner NPCNSP0
 Kirguizistan Kirguizistan NPMSG00
 Kiribati Kiribati NPMSG00
