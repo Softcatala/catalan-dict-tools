@@ -27393,6 +27393,7 @@ roig roja [sup. rogíssim]=categories: A; font:apertium;
 roiner roinera=categories: A;fonts: LT;
 rojal=categories: A;fonts: LT;
 rojaler rojalera=categories: A;fonts: LT;
+rojoncós rojoncosa=categories: A;fonts: eugeni;
 rojós rojosa=categories: A;fonts: LT;
 rolàndic rolàndica=categories: A;fonts: dsalut;
 rom roma=categories: A;fonts: LT;
