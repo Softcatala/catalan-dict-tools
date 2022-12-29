@@ -4598,6 +4598,7 @@ Bover Bover NPCNSP0
 Bover Bover NPCSG00
 Bovet Bovet NPCNSP0
 Bowen Bowen NPCNSP0 # medical
+Bowie Bowie NPCNSP0
 Bowman Bowman NPCNSP0 # medical
 Boyacá Boyacá NPCSG00
 Boyden Boyden NPCNSP0 # medical
@@ -25021,6 +25022,7 @@ Veri Veri NPCSG00
 Verkami Verkami NPMSO00
 Verkhojansk Verkhojansk NPCSG00
 Verlaine Verlaine NPCNSP0
+Vermeer Vermeer NPCNSP0
 Vermell Vermell NPCNSP0
 Vermont Vermont NPCSG00
 Vern Vern NPCNSP0
