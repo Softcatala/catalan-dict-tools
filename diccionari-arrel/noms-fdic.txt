@@ -44497,6 +44497,7 @@ idiota=categories: MF;fonts: LT;
 idiotesa=categories: F;fonts: LT;
 idiotip=categories: M;fonts: LT;
 idiotisme=categories: M;fonts: LT;
+idiotització=categories: F;fonts: derivat, esadir;
 idiotoxina=categories: F;fonts: dsalut;
 idiotòpia=categories: F;fonts: dsalut;
 idiovariació=categories: F;fonts: dsalut;

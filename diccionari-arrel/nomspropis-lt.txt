@@ -25843,7 +25843,7 @@ Wiltshire Wiltshire NPCSG00
 Wiltz Wiltz NPCSG00
 Wimbledon Wimbledon NPCSG00
 WinRAR WinRAR NPCNO00
-Winchester Winchester NPCSG00
+Winchester Winchester NPCNG00
 Windermere Windermere NPCSG00
 Windhoek Windhoek NPCSG00
 Windisch-Graetz Windisch-Graetz NPCNSP0
