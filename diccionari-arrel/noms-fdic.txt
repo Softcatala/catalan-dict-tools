@@ -37680,6 +37680,7 @@ furrier furriera=categories: MF;fonts: LT;
 fursultiamina=categories: F;fonts: dsalut;
 furt=categories: M;fonts: LT;
 furtador furtadora=categories: MF;fonts LT;
+furtamantes=categories: MFI;fonts: DNV;
 furtivisme=categories: M;fonts: dfrequencies;
 furunculosi=categories: F;fonts: LT;
 furó=categories: M;fonts: LT;

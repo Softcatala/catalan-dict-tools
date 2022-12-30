@@ -115,6 +115,7 @@
 #Malic Malic NPMSSP0 # avl: noms de persona
 #Mar Mar NPFSSP0 # avl: noms de persona
 #Maravella Maravella NPFSSP0 # avl: noms de persona
+#Martes Marta NPFPSP0
 #Martiri Martiri NPFSSP0 # avl: noms de persona
 #Març Març NPMSSP0 # avl: noms de persona
 #Marça Marça NPFSSP0 # avl: noms de persona
@@ -14935,7 +14936,6 @@ Marta Marta NPFSSP0
 Martell Martell NPCNSP0
 Martellago Martellago NPCSG00
 Martenot Martenot NPCNSP0
-Martes Marta NPFPSP0
 Martigny Martigny NPCSG00
 Martigues Martigues NPCSG00
 Martin Martin NPCNSP0 # medical

@@ -2738,7 +2738,6 @@ furgamenta=categories: F;fonts: DNV,col·loquial;
 furgatxo=categories: M;fonts: DNV;
 furgona=categories: F;fonts: DNV;
 furri fúrria=categories: A;fonts: DNV;
-furtamantes=categories: MFI;fonts: DNV;
 furtó -ona=categories: A;fonts: DNV;
 furtó -ona=categories: MF;fonts: DNV;
 fusellatge=categories: M;fonts: DNV;

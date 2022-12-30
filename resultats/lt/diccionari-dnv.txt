@@ -48451,7 +48451,6 @@ furgona furgona NCFS000
 furgones furgona NCFP000
 furri furri AQ0MS0
 furris furri AQ0MP0
-furtamantes furtamantes NCCN000
 furtona furtó AQ0FS0
 furtona furtó NCFS000
 furtones furtó AQ0FP0
