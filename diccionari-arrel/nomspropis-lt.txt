@@ -12878,6 +12878,7 @@ Kamarhati Kamarhati NPCSG00
 Kambia Kambia NPCSG00
 Kamensk-Šakhtinskij Kamensk-Šakhtinskij NPCSG00
 Kampala Kampala NPCSG00
+Kamputxea Kamputxea NPFSG00
 Kamtxatka Kamtxatka NPCSG00
 Kamyšin Kamyšin NPCSG00
 Kananga Kananga NPCSG00
