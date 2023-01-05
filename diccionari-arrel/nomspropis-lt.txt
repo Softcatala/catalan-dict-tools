@@ -14983,6 +14983,7 @@ Marull Marull NPCNSP0
 Maruny Maruny NPCNSP0
 Marvel Marvel NPCNO00
 Marvila Marvila NPCSG00
+Marvin Marvin NPMSSP0
 Marvà Marvà NPCNSP0
 Marx Marx NPMSSP0
 Marxalenes Marxalenes NPCSG00

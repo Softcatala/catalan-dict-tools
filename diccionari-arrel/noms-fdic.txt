@@ -84326,6 +84326,7 @@ veterinari veterinària=categories: MF;fonts LT;
 veterà veterana=categories: MF;fonts LT;
 vetesifils=categories: MFI;fonts: LT;
 vetla=categories: F;fonts: IEC,AVL;
+vetlador vetladora=categories: MF;fonts LT;
 vetlaire=categories: MF;fonts: LT;
 vetlatori=categories: M;fonts: AVL;
 vetlla=categories: F;fonts: LT;
