@@ -175,6 +175,7 @@
 #Sacrament Sacrament NPFSSP0 # avl: noms de persona
 #Sagrament Sagrament NPFSSP0 # avl: noms de persona
 #Sagrari Sagrari NPFSSP0 # avl: noms de persona
+#Salvada Salvada NPCNSP0
 #San #San NPCNSP0 # medical
 #Santes Santes NPFSSP0 # avl: noms de persona
 #Saro Saro NPMSSP0 # avl: noms de persona
@@ -783,6 +784,7 @@ Al-Fujayrah Al-Fujayrah NPCSG00
 Al-Hilla Al-Hilla NPCSG00
 Al-Hindīya Al-Hindīya NPCSG00
 Al-Hoceima Al-Hoceima NPCSG00
+Al-Jawf Al-Jawf NPCSG00
 Al-Kufra Al-Kufra NPCSG00
 Al-Kūfa Al-Kūfa NPCSG00
 Al-Manzila Al-Manzila NPCSG00
@@ -21355,7 +21357,6 @@ Saludes Saludes NPCNSP0
 Salut Salut NPCNSP0
 Salut Salut NPFSG00
 Saluzzo Saluzzo NPCSG00
-Salvada Salvada NPCNSP0
 Salvador Salvador NPCNSP0
 Salvador Salvador NPMSG00
 Salvador Salvador NPMSSP0
