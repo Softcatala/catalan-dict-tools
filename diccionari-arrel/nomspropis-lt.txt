@@ -15823,6 +15823,7 @@ Modests Modest NPMPSP0
 Modica Modica NPCSG00
 Modolell Modolell NPCNSP0
 Modugno Modugno NPCSG00
+Modula-2 Modula-2 NPMSSP0
 Modó Modó NPCSG00
 Moebius Moebius NPCNSP0 # medical
 Moers Moers NPCSG00
