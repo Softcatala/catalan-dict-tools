@@ -3134,7 +3134,6 @@ hipologia=categories: F;fonts: DNV;
 hipovolèmia=categories: F;fonts: DNV;
 hipovolèmic -a=categories: A;fonts: DNV;
 hippisme=categories: M;fonts: DNV;
-hippiós -osa=categories: A;fonts: DNV;
 hipòfag -a=categories: A;fonts: DNV;
 hispanització=categories: F;fonts: DNV;
 hispanofòbia=categories: F;fonts: DNV;

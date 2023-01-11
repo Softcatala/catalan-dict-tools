@@ -424,6 +424,7 @@ kbps kbps NCMN000
 kcal kcal NCFN000
 kg kg NCMN000
 km km NCMN000
+l el DA0MS0
 l l NCMN000
 l' el DA0CS0
 l' ell PP3CSA00
@@ -438,6 +439,7 @@ llur son DP3CSP
 llurs son DP3CPP
 lo lo DA0MS0
 los lo DA0MP0
+ls el DA0MP0
 lx lx NCMN000
 làm làmina Y
 m m NCMN000

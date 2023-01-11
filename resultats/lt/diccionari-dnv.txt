@@ -51472,12 +51472,8 @@ hipovolèmica hipovolèmic AQ0FS0
 hipovolèmics hipovolèmic AQ0MP0
 hipovolèmies hipovolèmia NCFP000
 hipovolèmiques hipovolèmic AQ0FP0
-hippiosa hippiós AQ0FS0
-hippioses hippiós AQ0FP0
-hippiosos hippiós AQ0MP0
 hippisme hippisme NCMS000
 hippismes hippisme NCMP000
-hippiós hippiós AQ0MS0
 hipòfag hipòfag AQ0MS0
 hipòfaga hipòfag AQ0FS0
 hipòfags hipòfag AQ0MP0

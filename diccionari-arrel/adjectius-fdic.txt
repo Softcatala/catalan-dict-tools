@@ -15283,6 +15283,7 @@ hipoxicoisquèmic hipoxicoisquèmica=categories: A;fonts: dsalut;
 hipoxèmic hipoxèmica=categories: A;fonts: dsalut;
 hipoèrgic hipoèrgica=categories: A;fonts: dsalut;
 hippie=categories: A;fonts: LT;
+hippiós hippiosa=categories: A;fonts: DNV;
 hippy=categories: A;fonts: LT;
 hipsibraquicefàlic hipsibraquicefàlica=categories: A;fonts: dsalut;
 hipsiestenocefàlic hipsiestenocefàlica=categories: A;fonts: dsalut;
