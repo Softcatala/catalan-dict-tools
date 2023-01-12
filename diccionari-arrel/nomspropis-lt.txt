@@ -14723,6 +14723,7 @@ Mapleson Mapleson NPCNSP0 # medical
 Maputo Maputo NPCSG00
 Maquiavel Maquiavel NPMSSP0
 Maquiavels Maquiavel NPMPSP0
+Mar-a-Lago Mar-a-Lago NPCSG00
 Mara Mara NPCSG00
 Maracaibo Maracaibo NPCSG00
 Maracay Maracay NPCSG00

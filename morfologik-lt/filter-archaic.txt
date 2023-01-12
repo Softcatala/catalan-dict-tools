@@ -75,3 +75,6 @@ hagueren	haver	VAIC3P00
 hagueres	haver	VAIC2S00
 haguérem	haver	VAIC1P00
 haguéreu	haver	VAIC2P00
+#contraccions
+l	el	DA0MS0
+ls	el	DA0MP0
