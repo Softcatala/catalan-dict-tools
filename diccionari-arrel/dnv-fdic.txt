@@ -5421,6 +5421,7 @@ telefonejar=categories: V;model:envejar;fonts: DNV;
 telegestió=categories: F;fonts: DNV;
 teleruta=categories: F;fonts: DNV;
 teloeretisme=categories: M;fonts: DNV;
+temerós temerosa=categories: A;fonts: DNV;
 templador=categories: M;fonts: DNV,col·loquial;
 templament=categories: M;fonts: DNV,col·loquial;
 templança=categories: F;fonts: DNV,col·loquial;

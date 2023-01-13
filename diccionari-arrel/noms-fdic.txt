@@ -14771,6 +14771,7 @@ carbolúria=categories: F;fonts: dsalut;
 carbometilè=categories: M;fonts: LT;
 carbomicina=categories: F;fonts: dsalut;
 carbonada=categories: F;fonts: LT;
+carbonara=categories: F;fonts: DNV;
 carbonari carbonària=categories: MF;fonts LT;
 carbonarisme=categories: M;fonts: LT;
 carbonat=categories: M;fonts: LT;

@@ -30099,7 +30099,6 @@ tel·lúric tel·lúrica=categories: A;fonts: LT;
 temedor temedora=categories: A;fonts: LT;
 tement=categories: A;fonts: LT;
 temerari temerària=categories: A;fonts: LT;
-temerós temerosa=categories: A;fonts: LT;
 temibilíssim temibilíssima=categories: A;fonts: superlative;
 temible=categories: A;fonts: LT;
 temorec temorega=categories: A;fonts: LT;
