@@ -45855,7 +45855,6 @@ intercepció=categories: F;fonts: LT;
 interceptor interceptora=categories: MF;fonts LT;
 intercessió=categories: F;fonts: LT;
 intercessor intercessora=categories: MF;fonts LT;
-intercesssió=categories: F;fonts: termcat;
 intercinesi=categories: F;fonts: LT;
 intercisió=categories: F;fonts: LT;
 interciutats=categories: MI;fonts: LT;

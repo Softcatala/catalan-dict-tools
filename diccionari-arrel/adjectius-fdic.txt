@@ -886,6 +886,7 @@ agafador agafadora=categories: A;fonts: LT;
 agafadís agafadissa=categories: A;fonts: LT;
 agafallós agafallosa=categories: A;fonts: LT;
 agafant=categories: A;fonts: LT;
+agafat agafada [sup. agafadíssim]=categories: A;fonts: participi;
 agafatós agafatosa=categories: A;fonts: LT;
 agafós agafosa=categories: A;fonts: LT;
 agalàctic agalàctica=categories: A;fonts: dsalut;
