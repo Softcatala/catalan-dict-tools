@@ -23729,6 +23729,7 @@ desdiferenciació=categories: F;fonts: LT;
 desdita=categories: F;fonts: LT;
 desdoblament=categories: M;fonts: LT;
 desdonament=categories: M;fonts: LT;
+desduplicació=categories: F;fonts: derivat;
 desduïda=categories: F;fonts: LT;
 desduïment=categories: M;fonts: LT;
 desedificació=categories: F;fonts: LT;

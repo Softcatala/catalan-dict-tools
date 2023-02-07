@@ -18179,6 +18179,7 @@ Patiāla Patiāla NPCSG00
 Patmos Patmos NPCSG00
 Patna Patna NPCSG00
 Patraix Patraix NPCSG00
+Patreon Patreon NPMSO00
 Patres Patres NPCSG00
 Patrici Patrici NPMSSP0
 Patricis Patrici NPMPSP0
