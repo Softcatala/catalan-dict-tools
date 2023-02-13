@@ -27196,6 +27196,7 @@ retromandibular=categories: A;fonts: dsalut;
 retromastoidal=categories: A;fonts: dsalut;
 retromaxil·lar=categories: A;fonts: dsalut;
 retromolar=categories: A;fonts: dsalut;
+retronador retronadora=categories: A;fonts: derivat;
 retronant=categories: A;fonts: LT;
 retronasal=categories: A;fonts: dsalut;
 retroocular=categories: A;fonts: dsalut;
