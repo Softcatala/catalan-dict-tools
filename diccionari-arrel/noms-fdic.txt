@@ -74877,6 +74877,7 @@ sevirat=categories: M;fonts: LT;
 sevoflurà=categories: M;fonts: dsalut;
 sevícia=categories: F;fonts: LT;
 sex-shop=categories: M;fonts: DNV,anglès;
+sex-symbol=categories: MF;fonts: English, esadir;
 sexagenari sexagenària=categories: MF;fonts LT;
 sexatge=categories: M;fonts: LT;
 sexdigitat sexdigitada=categories: MF;fonts LT;

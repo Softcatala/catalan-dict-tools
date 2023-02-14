@@ -2942,6 +2942,7 @@ Bainbridge Bainbridge NPCNSP0 # medical
 Baiona Baiona NPCSG00
 Bairiki Bairiki NPCSG00
 Baixaries Baixaries NPCNSP0
+Baixauli Baixauli NPCNSP0
 Baixeres Baixeres NPCNSP0
 Baixkortostan Baixkortostan NPCSG00
 Baixkíria Baixkíria NPFSG00
