@@ -3,6 +3,7 @@
 # en què no hi ha revisió gramatical, com ara diccionaris ortogràfics. 
  
 #EXCLOU FORMA DE TOTS
+presura
 encim
 artic
 aver

@@ -2306,6 +2306,7 @@ culpar=categories: V;model:cantar;fonts: LT;
 cultivar=categories: V;model:cantar;fonts: LT;
 culturitzar=categories: V;model:cantar;fonts: LT;
 curar=categories: V;model:cantar;fonts: LT;
+currar=categories: V;model:cantar;fonts: esadir; #necessari per a donar alternatives
 cursar=categories: V;model:cantar;fonts: LT;
 curtcircuitar=categories: V;model:cantar;fonts: LT;
 curtejar=categories: V;model:envejar;fonts: LT;
