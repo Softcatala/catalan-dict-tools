@@ -19060,6 +19060,7 @@ Porbandar Porbandar NPCSG00
 Porc Porc NPCNSP0
 Porcalla Porcalla NPCNSP0
 Porcar Porcar NPCNSP0
+Porcelanosa Porcelanosa NPCNO00
 Porcell Porcell NPCNSP0
 Porci Porci NPMSSP0 # avl: noms de persona
 Porcingles Porcingles NPCSG00
