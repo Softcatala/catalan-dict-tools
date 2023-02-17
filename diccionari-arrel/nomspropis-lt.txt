@@ -15953,7 +15953,7 @@ Mondor Mondor NPCNSP0 # medical
 Mondovì Mondovì NPCSG00
 Mondragone Mondragone NPCSG00
 Mondrian Mondrian NPCNSP0
-Mondúber Mondúber NPCSG00
+Mondúver Mondúver NPCSG00
 Monegals Monegals NPCSG00
 Monegre Monegre NPCSG00
 Monegres Monegres NPMPG00
