@@ -13,6 +13,8 @@
 #Ampliat Ampliat NPMSSP0 # avl: noms de persona
 #Ana Ana NPFSSP0
 #Angústies Angústies NPFSSP0 # avl: noms de persona
+#Antic Antic NPCNSP0
+#Antic Antic NPCSG00
 #Ariana Ariana NPFSSP0 # avl: noms de persona
 #Arquímedes Arquímedes NPMSSP0 # avl: noms de persona
 #Audaç Audaç NPMSSP0 # avl: noms de persona
@@ -1892,8 +1894,6 @@ Antequera Antequera NPCSG00
 Anter Anter NPMSSP0
 Anters Anter NPMPSP0
 Antibes Antibes NPCSG00
-Antic Antic NPCNSP0
-Antic Antic NPCSG00
 Anticosti Anticosti NPCSG00
 Anticó Anticó NPCNSP0
 Antidi Antidi NPMSSP0
@@ -13909,6 +13909,7 @@ Lliteres Lliteres NPCNSP0
 Lliterà Lliterà NPCSG00
 Lliu Lliu NPCNSP0
 Lliurat Lliurat NPCNSP0
+LliureX LliureX NPMSO00
 Lliurella Lliurella NPCNSP0
 Lliuret Lliuret NPCNSP0
 Llivi Llivi NPMSSP0 # avl: noms de persona
@@ -24449,6 +24450,7 @@ Ubiergo Ubiergo NPCSG00
 Ubrique Ubrique NPCSG00
 Ubuntu Ubuntu NPMNO00
 Ucayali Ucayali NPCSG00
+Uchida Uchida NPCNSP0
 Uckermark Uckermark NPCSG00
 Ucraïna Ucraïna NPFSG00
 UdA UdA NPFSO00
