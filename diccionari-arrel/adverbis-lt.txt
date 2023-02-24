@@ -272,6 +272,7 @@ sovent sovent RG
 sovint sovint RG
 suara suara RG
 superbé superbé RG
+supertard supertard RG
 sí sí RG
 súper súper1 RG
 tal tal RG

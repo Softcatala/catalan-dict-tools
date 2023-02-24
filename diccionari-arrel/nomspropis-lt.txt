@@ -12752,6 +12752,7 @@ Judith Judith NPFSSP0
 Judits Judit NPFPSP0
 Judkins Judkins NPCNSP0 # medical
 Judà Judà NPCSG00
+Juilliard Juilliard NPCNSP0
 Juià Juià NPCNSP0
 Juià Juià NPCSG00
 Jujol Jujol NPCNSP0
@@ -22896,7 +22897,10 @@ Sunyol Sunyol NPCNSP0
 Super3 Super3 NPMSO00
 Superlliga Superlliga NPFSO00
 Superman Superman NPMSSP0
+Supermirafiori Supermirafiori NPCNO00
 Superna Superna NPCSG00
+Supernena Supernena NPFSSP0
+Supernenes Supernena NPFPSP0
 Suquet Suquet NPCNSP0
 Suquets Suquets NPCSG00
 Suquṭrā Suquṭrā NPCSG00
