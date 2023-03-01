@@ -29481,6 +29481,7 @@ superentusiasmat superentusiasmada=categories: A;fonts: derivat;
 superenutjat superenutjada=categories: A;fonts: derivat;
 superequipat superequipada=categories: A;fonts: derivat;
 supererogatori supererogatòria=categories: A;fonts: LT;
+supererràtic supererràtica=categories: A;fonts: derivat;
 superescalar=categories: A;fonts: derivat;
 superescalfat superescalfada=categories: A;fonts: derivat;
 superescandalós superescandalosa=categories: A;fonts: derivat;

@@ -8469,6 +8469,7 @@ Emerenciana Emerenciana NPFSSP0
 Emerencianes Emerenciana NPFPSP0
 Emerencià Emerencià NPMSSP0 # avl: noms de persona
 Emeri Emeri NPMSSP0 # avl: noms de persona
+Emerson Emerson NPCNSP0
 Emery-Dreyfus Emery-Dreyfus NPCNSP0 # medical
 Emeteri Emeteri NPMSSP0
 Emeteris Emeteri NPMPSP0
