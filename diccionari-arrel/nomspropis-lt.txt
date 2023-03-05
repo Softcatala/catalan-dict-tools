@@ -8126,6 +8126,7 @@ Duke Duke NPCNSP0
 Dukes Dukes NPCNSP0 # medical
 Duluth Duluth NPCSG00
 Dumas Dumas NPCNSP0
+Dumbledore Dumbledore NPCNSP0
 Dumfries Dumfries NPCSG00
 Dunaújaváros Dunaújaváros NPCSG00
 Duncan Duncan NPCNSP0 # medical

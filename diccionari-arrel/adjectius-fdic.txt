@@ -28147,6 +28147,7 @@ semiaquàtic semiaquàtica=categories: A;fonts: derivat;
 semiarià semiariana=categories: A;fonts: LT;
 semiarponat semiarponada=categories: A;fonts: LT;
 semiarrià semiarriana=categories: A;fonts: LT;
+semiassistit semiassistida=categories: A;fonts: derivat;
 semiautomatitzat semiautomatitzada=categories: A;fonts: dsalut;
 semiautomàtic semiautomàtica=categories: A;fonts: LT;
 semiautopropulsat semiautopropulsada=categories: A;fonts: LT;
