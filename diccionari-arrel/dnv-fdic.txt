@@ -1204,7 +1204,6 @@ costellatge=categories: M;fonts: DNV;
 costerada=categories: F;fonts: DNV;
 costerenc -a=categories: A;fonts: DNV;
 costerenc -a=categories: MF;fonts: DNV;
-costra=categories: F;fonts: DNV;
 costralada=categories: F;fonts: DNV;
 costralejar=categories: V;model:envejar;fonts: DNV;
 costraler=categories: M;fonts: DNV;

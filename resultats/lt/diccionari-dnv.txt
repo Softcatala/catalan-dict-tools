@@ -15821,7 +15821,6 @@ costerencs costerenc AQ0MP0
 costerencs costerenc NCMP000
 costerenques costerenc AQ0FP0
 costerenques costerenc NCFP000
-costra costra NCFS000
 costralada costralada NCFS000
 costralades costralada NCFP000
 costralege costralejar VMIP1S0V
@@ -15910,7 +15909,6 @@ costralejàvem costralejar VMII1P00
 costralejàveu costralejar VMII2P00
 costraler costraler NCMS000
 costralers costraler NCMP000
-costres costra NCFP000
 cotimanya cotimanya NCFS000
 cotimanyes cotimanya NCFP000
 cotnosa cotnós AQ0FS0

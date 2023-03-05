@@ -8018,6 +8018,7 @@ Doodle Doodle NPCNO00
 Doppler Doppler NPCNSP0
 Doppler Doppler NPCNSP0 # medical
 Dora Dora NPFSSP0
+Doraemon Doraemon NPMSSP0
 Dordal Dordal NPCNSP0
 Dordonya Dordonya NPCSG00
 Dordonya Dordonya NPFSG00
@@ -15375,6 +15376,7 @@ Medinaceli Medinaceli NPCNSP0
 Medinaceli Medinaceli NPCSG00
 Medinyà Medinyà NPCNSP0
 Medinyà Medinyà NPCSG00
+Mediolanum Mediolanum NPMNO00
 Mediona Mediona NPCNSP0
 Mediona Mediona NPFSG00
 Medir Medir NPCNSP0
@@ -26302,6 +26304,7 @@ Zābol Zābol NPCSG00
 al-Din al-Din NPCNSP0
 al-Sadat al-Sadat NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
+bonÀrea bonÀrea NPCNO00
 d'Alembert d'Alembert NPCNSP0
 eBay eBay NPCNO00
 es-Satty es-Satty NPCNSP0
