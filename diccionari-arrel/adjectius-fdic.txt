@@ -4124,6 +4124,7 @@ bambau bambaua=categories: A;fonts: LT;
 bambo bamba=categories: A;fonts: LT;
 bamileké [pl. bamilekés]=categories: A;fonts: LT;
 banal [sup. banalíssim]=categories: A;fonts: LT;
+banalitzador banalitzadora=categories: A;fonts: derivat;
 bananer bananera=categories: A; fonts: GDLC, AVL;
 bancari bancària=categories: A;fonts: LT;
 bancassegurador bancasseguradora=categories: A;fonts: termcat;

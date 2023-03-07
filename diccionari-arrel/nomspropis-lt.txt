@@ -5761,6 +5761,7 @@ Carreró Carreró NPCNSP0
 Carreter Carreter NPCNSP0
 Carreu Carreu NPCSG00
 Carrickfergus Carrickfergus NPCSG00
+Carrillo Carrilo NPCNSP0
 Carriol Carriol NPCNSP0
 Carritg Carritg NPCNSP0
 Carrió Carrió NPCNSP0
@@ -12361,6 +12362,7 @@ Irlanda Irlanda NPFSG00
 Irles Irles NPFPG00
 Irma Irma NPFSSP0 # avl: noms de persona
 Irmina Irmina NPFSSP0 # avl: noms de persona
+Irta Irta NPFSG00
 Irtyš Irtyš NPCSG00
 Irun Irun NPCSG00
 Irvine-Gass Irvine-Gass NPCNSP0 # medical
@@ -17779,6 +17781,7 @@ PCE PCE NPMSO00
 PCI PCI NPMSO00
 PCR PCR NPFNO00
 PCR PCR NPMSO00
+PCUS PCUS NPMSO00
 PDECat PDECat NPMSO00 # La Vanguardia
 PDeCAT PDeCAT NPMSO00 # esadir
 PEN PEN NPMNO00

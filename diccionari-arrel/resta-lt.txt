@@ -250,6 +250,8 @@ des desembre Y
 desset desset DN0CP0
 dessús dessús SPS00
 deu deu DN0CP0
+deunidoret deunidoret I
+deunidó deunidó I
 devers devers SPS00
 devora devora SPS00
 devuit devuit DN0CP0

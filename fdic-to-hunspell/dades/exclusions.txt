@@ -123,6 +123,8 @@ candida
 candides
 
 #EXCLOU LEMA DE TOTS
+caval
+pinxar
 sentar
 enterar
 reva
