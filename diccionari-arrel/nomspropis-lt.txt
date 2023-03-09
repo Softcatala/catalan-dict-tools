@@ -10011,6 +10011,7 @@ Francès Francès NPCNSP0
 Francí Francí NPCNSP0
 Francònia Francònia NPFSG00
 Frangipane Frangipane NPCNSP0
+Frank Frank NPMSSP0
 Frankenstein Frankenstein NPCNSP0
 Frankfurt Frankfurt NPCSG00
 Franquesa Franquesa NPCNSP0
@@ -12566,7 +12567,9 @@ Javaloies Javaloies NPCNSP0
 Jaworzno Jaworzno NPCSG00
 Jazztel Jazztel NPCNO00
 Jaén Jaén NPCSG00
+Jean Jean NPMSSP0
 Jean-Baptiste Jean-Baptiste NPMSSP0
+Jean-Michel Jean-Michel NPMSSP0
 Jean-Paul Jean-Paul NPMSSP0
 Jebús Jebús NPMSG00
 Jedrzejów Jedrzejów NPCSG00
@@ -13584,6 +13587,7 @@ Leucata Leucata NPCSG00
 Leuci Leuci NPMSSP0
 Leucip Leucip NPMSSP0 # avl: noms de persona
 Leucis Leuci NPMPSP0
+Levallois Levallois NPCNSP0
 Levallois-Perret Levallois-Perret NPCSG00
 Levante-EMV Levante-EMV NPMSO00
 Leverkusen Leverkusen NPCSG00
@@ -15004,6 +15008,7 @@ Marxalenes Marxalenes NPCSG00
 Marxandó Marxandó NPCNSP0
 Marxant Marxant NPCNSP0
 Marxuac Marxuac NPCNSP0
+Mary Mary NPFSSP0
 Maryland Maryland NPCSG00
 Marzà Marzà NPCSG00
 Marçac Marçac NPCSG00
@@ -18563,6 +18568,7 @@ Petrer Petrer NPCSG00
 Petrinja Petrinja NPCSG00
 Petritxol Petritxol NPMSG00
 Petrodvorec Petrodvorec NPCSG00
+Petrograd Petrograd NPCSG00
 Petroni Petroni NPMSSP0
 Petronil Petronil NPMSSP0 # avl: noms de persona
 Petronil·la Petronil·la NPFSSP0 # avl: noms de persona

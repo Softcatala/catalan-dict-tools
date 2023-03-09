@@ -29502,6 +29502,7 @@ epilobi=categories: M;fonts: LT;
 epilogisme=categories: M;fonts: LT;
 epilogista=categories: MF;fonts: LT;
 epilosi=categories: F;fonts: dsalut;
+epiluminiscència=categories: F;fonts: wiki;
 epilèpsia=categories: F;fonts: LT;
 epilèptic epilèptica=categories: MF;fonts LT;
 epilímnion=categories: M;fonts: LT;
