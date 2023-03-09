@@ -12309,6 +12309,7 @@ Indoxina Indoxina NPFSG00
 Indre Indre NPCSG00
 Indus Indus NPCSG00
 Indíbil Indíbil NPMSSP0 # avl: noms de persona
+InfoK InfoK NPMNO00
 Ingla Ingla NPCNSP0
 Inglabaga Inglabaga NPCNSP0
 Ingmar Ingmar NPMSSP0

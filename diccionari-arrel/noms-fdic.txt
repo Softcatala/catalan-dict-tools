@@ -300,6 +300,7 @@ IED=categories: FI;fonts: dsalut;
 IES=categories: MI;fonts: termcat;
 ILP=categories: FI;fonts: esadir;
 IMC=categories: MI;fonts: sigles;
+INS=categories: MI;fonts: abreviació;
 IP=categories: FI;fonts: termcat;
 IPC=categories: MI;fonts: LT;
 IRPF=categories: MI;fonts: LT;
