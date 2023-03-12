@@ -12174,6 +12174,7 @@ Iago Iago NPMSSP0 # avl: noms de persona
 Iaiza Iaiza NPFSSP0 # avl: noms de persona
 Ialta Ialta NPCSG00
 Iammo Iammo NPCSG00
+Ian Ian NPMSSP0
 Iang-Tsé Iang-Tsé NPCSG00
 Ianukóvitx Ianukóvitx NPCNSP0
 Iasmina Iasmina NPFSSP0 # avl: noms de persona
@@ -16852,6 +16853,7 @@ Nefiac Nefiac NPCSG00
 Neftalí Neftalí NPMSSP0
 Negrals Negrals NPMPG00
 Negrell Negrell NPCNSP0
+Negrín Negrín NPCNSP0
 Negrón Negrón NPCSG00
 Nehemies Nehemies NPMSSP0
 Neijiang Neijiang NPCSG00
