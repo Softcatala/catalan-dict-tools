@@ -54021,6 +54021,7 @@ mil·liröntgen=categories: M;fonts: dsalut;
 mil·lisegon=categories: M;fonts: LT;
 mil·livolt=categories: M;fonts: LT;
 mil·livoltímetre=categories: M;fonts: LT;
+mil·liwatt=categories: M;fonts: derivat;
 mil·límetre=categories: M;fonts: LT;
 milà=categories: M;fonts: LT;
 milícia=categories: F;fonts: LT;

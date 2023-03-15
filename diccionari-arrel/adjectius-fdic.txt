@@ -31671,6 +31671,7 @@ ultraesquerrà ultraesquerrana=categories: A;fonts: LT;
 ultraestatista=categories: A;fonts: derivat;
 ultraestructural=categories: A;fonts: DNV;
 ultrafranquista=categories: A;fonts: derivat;
+ultrafred ultrafreda=categories: A; font:derivat;
 ultrafí ultrafina=categories: A;fonts: LT;
 ultragasós ultragasosa=categories: A;fonts: LT;
 ultrahumà ultrahumana=categories: A;fonts: DNV;
