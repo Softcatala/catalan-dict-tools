@@ -24995,7 +24995,7 @@ Ventures Ventura NPCPSP0
 Venturi Venturi NPCNSP0 # medical
 Venturós Venturós NPCNSP0
 Ventós Ventós NPCNSP0
-Venus Venus NPFNG00
+Venus Venus NPCNG00
 Venustians Venustià NPMPSP0
 Venustià Venustià NPMSSP0
 Veny Veny NPCNSP0
