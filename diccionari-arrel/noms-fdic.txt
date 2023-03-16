@@ -42879,6 +42879,7 @@ hipercolumna=categories: F;fonts: dsalut;
 hipercondroplàsia=categories: F;fonts: dsalut;
 hiperconjugació=categories: F;fonts: LT;
 hiperconnectivitat=categories: F;fonts: termcat;
+hiperconnexió=categories: F;fonts: derivat;
 hiperconsum=categories: MS;fonts: derivat;
 hiperconsumidor hiperconsumidora=categories: MF;fonts: derivat;
 hiperconsumisme=categories: MS;fonts: derivat;
