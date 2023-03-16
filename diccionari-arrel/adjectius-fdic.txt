@@ -29645,7 +29645,6 @@ superselecte superselecta=categories: A;fonts: derivat;
 supersensible=categories: A;fonts: derivat;
 supersensual=categories: A;fonts: derivat;
 supersenzill supersenzilla=categories: A;fonts: derivat;
-supersenzill=categories: A;fonts: derivat;
 supersexi=categories: A;fonts: derivat;
 supersexual=categories: A;fonts: dsalut;
 supersimple=categories: A;fonts: derivat;
