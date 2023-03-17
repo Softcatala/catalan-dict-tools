@@ -9542,6 +9542,7 @@ Fezzān Fezzān NPCSG00
 Fhar Fhar NPCNSP0 # medical
 Fiambalá Fiambalá NPCSG00
 Fianarantsoa Fianarantsoa NPCSG00
+Fiat Fiat NPCNO00
 Fibla Fibla NPCNSP0
 Fibonacci Fibonacci NPCNSP0
 Fibracat Fibracat NPCNO00
@@ -13616,6 +13617,7 @@ Lhasa Lhasa NPCSG00
 Lhermitte Lhermitte NPCNSP0 # medical
 Lhotse Lhotse NPCSG00
 Lia Lia NPFSSP0
+Liam Liam NPMSSP0
 Lianyungang Lianyungang NPCSG00
 Liaoning Liaoning NPCSG00
 Liaoyang Liaoyang NPCSG00
