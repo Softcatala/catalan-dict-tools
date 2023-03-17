@@ -218,6 +218,7 @@ mínim mínim RG
 net net RG
 nogensmenys nogensmenys RG
 només només RG
+non-stop non-stop RG
 oc oc RG
 oimés oimés RG
 on on RG
