@@ -286,7 +286,6 @@ arenador -a=categories: A;fonts: DNV;
 arenadora=categories: F;fonts: DNV;
 argamassar=categories: V;model:adobassar;fonts: DNV;
 argirosi=categories: F;fonts: DNV;
-armatost=categories: M;fonts: DNV;
 armut=categories: M;fonts: DNV;
 arquejador -a=categories: MF;fonts: DNV;
 arqueozoòleg -òloga=categories: MF;fonts: DNV;

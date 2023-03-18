@@ -6136,9 +6136,6 @@ argamassí argamassar VMIS1S00
 argamàs argamassar VMIP1S0B
 argirosi argirosi NCFS000
 argirosis argirosi NCFP000
-armatost armatost NCMS000
-armatostos armatost NCMP000
-armatosts armatost NCMP000
 armut armut NCMS000
 armuts armut NCMP000
 arquejador arquejador NCMS000

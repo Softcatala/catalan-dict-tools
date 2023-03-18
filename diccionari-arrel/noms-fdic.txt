@@ -6808,6 +6808,7 @@ armarill=categories: M;fonts: LT;
 armat=categories: M;fonts: LT;
 armatge=categories: M;fonts: LT;
 armatol=categories: M;fonts: LT;
+armatost=categories: M;fonts: DNV;
 armella=categories: F;fonts: LT;
 armellada=categories: F;fonts: LT;
 armellader=categories: M;fonts: LT;
