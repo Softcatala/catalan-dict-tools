@@ -10466,6 +10466,7 @@ Garric Garric NPCNSP0
 Garrido Garrido NPCNSP0
 Garriga Garriga NPCNSP0
 Garriga Garriga NPFSG00
+Garrigasait Garrigasait NPCNSP0
 Garrigola Garrigola NPCNSP0
 Garrigoles Garrigoles NPCNSP0
 Garrigoles Garrigoles NPCSG00
@@ -15504,6 +15505,7 @@ Menthons Menthon NPMPSP0
 Menton Menton NPCSG00
 Mentruit Mentruit NPCNSP0
 Mentui Mentui NPCSG00
+Menuhin Menuhin NPCNSP0
 Menàrguens Menàrguens NPCSG00
 Menéndez Menéndez NPCNSP0
 Mequinensa Mequinensa NPFSG00
@@ -22762,6 +22764,7 @@ Spinea Spinea NPCSG00
 Spinoza Spinoza NPCNSP0
 Spitzbergen Spitzbergen NPFNG00
 Split Split NPCSG00
+Spohr Spohr NPCNSP0
 Spokane Spokane NPCSG00
 Spoleto Spoleto NPCSG00
 Sporting Sporting NPMSO00
