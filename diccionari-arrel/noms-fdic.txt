@@ -8530,6 +8530,7 @@ autopoliploide=categories: M;fonts: LT;
 autopoliploïdia=categories: F;fonts: LT;
 autopol·linització=categories: F;fonts: LT;
 autoprecipitina=categories: F;fonts: dsalut;
+autopregunta=categories: F;fonts: derivat;
 autopreservació=categories: F;fonts: derivat;
 autoproclamació=categories: F;fonts: LT;
 autoproducció=categories: F;fonts: LT;
