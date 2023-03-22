@@ -8633,6 +8633,7 @@ autotropisme=categories: M;fonts: LT;
 autotròfia=categories: F;fonts: LT;
 autotuberculina=categories: F;fonts: dsalut;
 autotuberculinització=categories: F;fonts: dsalut;
+autotune=categories: M;fonts: english;
 autotutela=categories: F;fonts: termcat;
 autotípia=categories: F;fonts: LT;
 autoubicació=categories: F;fonts: derivat;

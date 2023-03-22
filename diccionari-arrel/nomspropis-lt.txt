@@ -22591,6 +22591,7 @@ Solans Solans NPCNSP0
 Solans Solans NPCSG00
 Solaní Solaní NPCNSP0
 Solasegalés Solasegalés NPCNSP0
+Solbes Solbes NPCNSP0
 Solchaga Solchaga NPCNSP0
 Soldadell Soldadell NPCNSP0
 Soldeu Soldeu NPCSG00
