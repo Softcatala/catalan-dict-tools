@@ -22671,6 +22671,7 @@ Sony Sony NPCNO00
 Sopeira Sopeira NPFSG00
 Sopena Sopena NPCNSP0
 Soperuny Soperuny NPCSG00
+Sophie Sophie NPFSSP0
 Sopot Sopot NPCSG00
 Sopron Sopron NPCSG00
 Soques Soques NPCNSP0
