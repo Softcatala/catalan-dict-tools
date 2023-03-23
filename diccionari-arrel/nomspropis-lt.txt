@@ -217,6 +217,7 @@
 7-Zip 7-Zip NPCNO00
 8TV 8TV NPCNO00
 ABC ABC NPMSO00
+ACA ACA NPFSO00
 ACB ACB NPFSO00
 ACN ACN NPFSO00
 ACNUR ACNUR NPMSO00
@@ -7611,6 +7612,7 @@ Dari Dari NPMSSP0 # avl: noms de persona
 Daria Daria NPFSSP0 # avl: noms de persona
 Darier Darier NPCNSP0 # medical
 Darién Darién NPCSG00
+Darling Darling NPCNSP0
 Darling Darling NPCSG00
 Darlington Darlington NPCSG00
 Darmstadt Darmstadt NPCSG00
@@ -12162,6 +12164,7 @@ INE INE NPMSO00
 IOC IOC NPMSO00
 IPCC IPCC NPCNO00
 IRTA IRTA NPMSO00
+IS IS NPCNO00
 ISBN ISBN NPMNO00
 ISIL ISIL NPMSO00
 ISIS ISIS NPMSO00
@@ -14377,7 +14380,7 @@ Madrenes Madrenes NPCNSP0
 Madreny Madreny NPCNSP0
 Madrid Madrid NPCSG00
 Madridejos Madridejos NPCSG00
-Madrigueres Madrigueres NPCSG00
+Madrigueres Madrigueres NPFPG00
 Madriz Madriz NPCSG00
 Madrona Madrona NPCNSP0
 Madrona Madrona NPFSG00
@@ -23055,6 +23058,7 @@ Sōka Sōka NPCSG00
 T'aichung T'aichung NPCSG00
 T'ainan T'ainan NPCSG00
 T'aipei T'aipei NPCSG00
+TAC TAC NPCNO00
 TC TC NPMSO00
 TEDH TEDH NPMSO00
 TGUE TGUE NPMSO00
@@ -24114,7 +24118,7 @@ Trascoll Trascoll NPCNSP0
 Trasimè Trasimè NPCSG00
 Trassamària Trassamària NPCSG00
 Trastevere Trastevere NPCSG00
-Trastàmara Trastàmara NPMSSP0
+Trastàmara Trastàmara NPMNSP0
 Trastàmares Trastàmara NPMPSP0
 Trave Trave NPCSG00
 Traver Traver NPCNSP0
@@ -26201,6 +26205,7 @@ Zapata Zapata NPCNSP0
 Zapatero Zapatero NPCNSP0
 Zaplana Zaplana NPCNSP0
 Zaporojie Zaporojie NPCSG00
+Zaporíjia Zaporíjia NPCSG00
 Zapporižž'a Zapporižž'a NPCSG00
 Zaqueu Zaqueu NPMSSP0
 Zaqueus Zaqueu NPMPSP0
