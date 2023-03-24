@@ -15934,7 +15934,7 @@ Moller Moller NPCNSP0
 Mollera Mollera NPCNSP0
 Mollerac Mollerac NPCNSP0
 Molleres Molleres NPFPG00
-Mollerussa Mollerussa NPFSG00
+Mollerussa Mollerussa NPCSG00
 Mollet Mollet NPCNSP0
 Mollet Mollet NPCSG00
 Mollfulleda Mollfulleda NPCSG00
@@ -18787,6 +18787,7 @@ Pisà Pisà NPCNSP0
 Pisístrat Pisístrat NPMSSP0 # avl: noms de persona
 Pita Pita NPCSG00
 Pitarc Pitarc NPCNSP0
+Pitarra Pitarra NPCNSP0
 Pitart Pitart NPCNSP0
 Pitcairn Pitcairn NPCSG00
 Pite Pite NPCSG00
@@ -21159,6 +21160,7 @@ Sagalí Sagalí NPCNSP0
 Sagamihara Sagamihara NPCSG00
 Saganyoles Saganyoles NPCNSP0
 Sagar Sagar NPCSG00
+Sagarra Sagarra NPCNSP0
 Sagarriga Sagarriga NPCNSP0
 Sagarriu Sagarriu NPCNSP0
 Sagars Sagars NPCNSP0

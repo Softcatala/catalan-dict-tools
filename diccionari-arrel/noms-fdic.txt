@@ -82531,6 +82531,7 @@ tuijò=categories: M;fonts: LT;
 tuiona=categories: F;fonts: dsalut;
 tuit=categories: M;fonts: AVL, termcat, esadir;
 tuitaire=categories: MF;fonts: termcat, esadir;
+tuiter tuitera=categories: MF;fonts: esadir;
 tuixentí tuixentina=categories: MF;fonts: LT;
 tuixos=categories: MP;fonts: LT;
 tukulor=categories: MFI;fonts: LT;
