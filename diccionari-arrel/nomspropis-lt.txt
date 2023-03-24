@@ -11624,6 +11624,7 @@ Hamaoka Hamaoka NPCSG00
 Hambantota Hambantota NPCSG00
 Hamburg Hamburg NPMSG00
 Hameln Hameln NPCSG00
+Hamelín Hamelín NPCSG00
 Hamhŭng Hamhŭng NPCSG00
 Hamilton Hamilton NPCNSP0
 Hamlet Hamlet NPMSSP0
@@ -14899,6 +14900,7 @@ Mariquita Mariquita NPCSG00
 Marisa Marisa NPFSSP0
 Marisol Marisol NPFSSP0 # avl: noms de persona
 Maristany Maristany NPCNSP0
+Maritain Maritain NPCNSP0
 Marivent Marivent NPCSG00
 Marià Marià NPMSSP0
 Mariúpol Mariúpol NPCSG00
@@ -16447,6 +16449,7 @@ Mottola Mottola NPCSG00
 Moudjéria Moudjéria NPCSG00
 Moulins Moulins NPCSG00
 Moulmein Moulmein NPCSG00
+Mounier Mounier NPCNSP0
 Mouskron Mouskron NPCSG00
 Movistar Movistar NPCNO00
 Mowgli Mowgli NPMSSP0
@@ -20782,6 +20785,7 @@ Roquets Roquets NPCNSP0
 Roquí Roquí NPCNSP0
 Roraima Roraima NPCSG00
 Rorschach Rorschach NPCNSP0 # medical
+Rorty Rorty NPCNSP0
 Ros Ros NPCNSP0
 Rosa Rosa NPCNSP0
 Rosa Rosa NPFSSP0

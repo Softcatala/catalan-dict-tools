@@ -74024,6 +74024,7 @@ schwannomatosi=categories: F;fonts: dsalut;
 schwannosi=categories: F;fonts: dsalut;
 schwatzita=categories: F;fonts: LT;
 script=categories: M;fonts: LT;
+scroll=categories: MS;fonts: english;
 seaborgi=categories: M;fonts: LT;
 sebacat=categories: M;fonts: LT;
 sebaptista=categories: MF;fonts: LT;
