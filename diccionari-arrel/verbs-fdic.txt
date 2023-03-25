@@ -7672,6 +7672,7 @@ palesar=categories: V;model:aburgesar;fonts: LT;
 paletitzar=categories: V;model:cantar;fonts: LT;
 pallar=categories: V;model:cantar;fonts: LT;
 pallejar=categories: V;model:envejar;fonts: LT;
+palmar=categories: V;model:cantar;fonts: DNV,esadir;
 palmejar=categories: V;model:envejar;fonts: LT;
 palmetejar=categories: V;model:envejar;fonts: LT;
 palometejar=categories: V;model:envejar;fonts: LT;
