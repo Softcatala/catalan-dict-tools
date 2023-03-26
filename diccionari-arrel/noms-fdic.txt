@@ -84316,6 +84316,7 @@ versista=categories: MF;fonts: LT;
 versió=categories: F;fonts: LT;
 verso=categories: M;fonts: LT;
 versor=categories: M;fonts: LT;
+versot=categories: M;fonts: termcat;
 versta=categories: F;fonts: LT;
 vertebració=categories: F;fonts: LT;
 vertebrat=categories: M;fonts: LT;
