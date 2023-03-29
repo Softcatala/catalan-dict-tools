@@ -8450,6 +8450,7 @@ autoinducció=categories: F;fonts: LT;
 autoinductància=categories: F;fonts: LT;
 autoinfecció=categories: F;fonts: LT;
 autoinflamació=categories: F;fonts: LT;
+autoinforme=categories: M;fonts: derivat;
 autoinfusió=categories: F;fonts: dsalut;
 autoinjectable=categories: M;fonts: LT;
 autoinoculació=categories: F;fonts: LT;

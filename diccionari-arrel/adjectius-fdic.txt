@@ -4309,6 +4309,7 @@ batusser batussera=categories: A;fonts: LT;
 batxiller batxillera=categories: A;fonts: LT;
 batzoler batzolera=categories: A;fonts: LT;
 baudelairià baudelairiana=categories: A;fonts: dfrequencies;
+bauhasià bauhasiana=categories: A;fonts: derivat;
 baule=categories: A;fonts: LT;
 bausador bausadora=categories: A;fonts: LT;
 bauxític bauxítica=categories: A;fonts: LT;

@@ -8378,6 +8378,7 @@ realinear=categories: V;model:crear;fonts: LT;
 realitzar=categories: V;model:cantar;fonts: LT;
 reallotjar=categories: V;model:menjar;fonts: LT;
 realçar=categories: V;model:començar;fonts: LT;
+reanalitzar=categories: V;model:cantar;fonts: derivat;
 reanimar=categories: V;model:cantar;fonts: LT;
 reanomenar=categories: V;model:ofrenar;fonts: derivat;
 reaparèixer=categories: V;model:conèixer;fonts: LT;
