@@ -1313,6 +1313,7 @@ Alkmaar Alkmaar NPCSG00
 All All NPCSG00
 All-Star All-Star NPMSO00
 Allahābād Allahābād NPCSG00
+Allan Allan NPCNSP0
 Allau Allau NPCSG00
 Allegheny Allegheny NPCNG00
 Allen Allen NPCNSP0
@@ -15154,6 +15155,7 @@ Massachusetts Massachusetts NPCSG00
 Massacs Massacs NPCNSP0
 Massafont Massafont NPCNSP0
 Massafra Massafra NPCSG00
+Massagran Massagran NPMSSP0
 Massal Massal NPCNSP0
 Massalali Massalali NPCSG00
 Massalavés Massalavés NPCSG00
