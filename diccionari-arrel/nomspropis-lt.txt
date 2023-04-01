@@ -6038,6 +6038,7 @@ Catalunya Catalunya NPFSG00
 Català Català NPCNSP0
 Catamarca Catamarca NPCSG00
 Catamarruc Catamarruc NPCSG00
+Catan Catan NPMSO00
 Catany Catany NPCNSP0
 Catanzaro Catanzaro NPCSG00
 Catarineu Catarineu NPCNSP0
@@ -12974,7 +12975,6 @@ Kassel Kassel NPCSG00
 Kasugai Kasugai NPCSG00
 Kasungu Kasungu NPCSG00
 Kasupe Kasupe NPCSG00
-Katan Katan NPMSO00
 Katherine Katherine NPFSSP0
 Katiola Katiola NPCSG00
 Katmandú Katmandú NPCSG00
