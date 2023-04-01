@@ -21014,6 +21014,7 @@ multilínia=categories: AI; fonts: termcat;
 multilínia=categories: AI;fonts: derivat;
 multimarca=categories: AI;fonts: neolosfera;
 multimedicat multimedicada=categories: A;fonts: derivat;
+multimediàtic multimediàtica=categories: A;fonts: derivat;
 multimilionari multimilionària=categories: A;fonts: LT;
 multimodal=categories: A;fonts: termcat;
 multimode=categories: AI;fonts: LT;

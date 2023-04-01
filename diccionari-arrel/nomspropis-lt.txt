@@ -12974,6 +12974,7 @@ Kassel Kassel NPCSG00
 Kasugai Kasugai NPCSG00
 Kasungu Kasungu NPCSG00
 Kasupe Kasupe NPCSG00
+Katan Katan NPMSO00
 Katherine Katherine NPFSSP0
 Katiola Katiola NPCSG00
 Katmandú Katmandú NPCSG00
@@ -13210,6 +13211,7 @@ Krugersdorp Krugersdorp NPCSG00
 Krugman Krugman NPCNSP0
 Krujë Krujë NPCSG00
 Krukenberg Krukenberg NPCNSP0 # medical
+Kubala Kubala NPCNSP0
 Kubrick Kubrick NPCNSP0
 Kufs Kufs NPCNSP0 # medical
 Kugelberg-Welander Kugelberg-Welander NPCNSP0 # medical
@@ -25848,6 +25850,7 @@ WhatsApp WhatsApp NPMNO00
 Whipple Whipple NPCNSP0
 Whipple Whipple NPCNSP0 # medical
 Whirlpool Whirlpool NPCNO00
+Whisper Whisper NPMSO00
 Whisplash Whisplash NPCNSP0
 Whisplash Whisplash NPCNSP0 # medical
 White White NPCNSP0
