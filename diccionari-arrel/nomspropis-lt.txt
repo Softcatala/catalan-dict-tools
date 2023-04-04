@@ -756,6 +756,7 @@ Aixel Aixel NPMSSP0 # avl: noms de persona
 Aixirivall Aixirivall NPCSG00
 Aixkhabad Aixkhabad NPCSG00
 Aixovall Aixovall NPCSG00
+Aixurà Aixurà NPFSO00
 Aixàviga Aixàviga NPCSG00
 Aizuwakamatsu Aizuwakamatsu NPCSG00
 Ajaccio Ajaccio NPCSG00
@@ -15861,6 +15862,7 @@ Modó Modó NPCSG00
 Moebius Moebius NPCNSP0 # medical
 Moers Moers NPCSG00
 Mogadiscio Mogadiscio NPCSG00
+Mogent Mogent NPMSG00
 Mogil'ov Mogil'ov NPCSG00
 Mogoda Mogoda NPCNSP0
 Mogoda Mogoda NPFSG00
