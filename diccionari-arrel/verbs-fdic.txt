@@ -6512,6 +6512,7 @@ grifonar=categories: V;model:cantar;fonts: LT;
 grillar=categories: V;model:cantar;fonts: LT;
 grimpar=categories: V;model:cantar;fonts: LT;
 grinyolar=categories: V;model:cantar;fonts: LT;
+gripalitzar=categories: V;model:cantar;fonts: esadir;
 grisejar=categories: V;model:envejar;fonts: LT;
 groguejar=categories: V;model:envejar;fonts: LT;
 gronsar=categories: V;model:cantar;fonts: LT;
