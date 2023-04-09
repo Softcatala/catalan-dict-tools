@@ -8890,6 +8890,7 @@ deslligassat deslligassada=categories: A;fonts: LT;
 deslliurable=categories: A;fonts: LT;
 deslliurador deslliuradora=categories: A;fonts: LT;
 deslliure=categories: A;fonts: LT;
+deslocalitzable=categories: A;fonts: derivat;
 desmadeixat desmadeixada=categories: A;fonts: LT;
 desmamador desmamadora=categories: A;fonts: LT;
 desmanegat desmanegada [sup. desmanegadíssim]=categories: A; font:apertium;
