@@ -778,6 +778,7 @@ Akure Akure NPCSG00
 Akureyri Akureyri NPCSG00
 Akşehir Akşehir NPCSG00
 Al-Aaiun Al-Aaiun NPCSG00
+Al-Aqsa Al-Aqsa NPCSG00
 Al-Arid Al-Arid NPCSG00
 Al-Azhar Al-Azhar NPCSG00
 Al-Bayda Al-Bayda NPCSG00

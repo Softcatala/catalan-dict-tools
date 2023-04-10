@@ -51188,6 +51188,7 @@ marguera=categories: F;fonts: LT;
 marguiller=categories: M;fonts: LT;
 marheixvan=categories: M;fonts: LT;
 maria=categories: F;fonts: LT;
+mariachi=categories: MF;fonts: esadir;
 marialluïsa=categories: F;fonts: LT;
 marianisme=categories: M;fonts: LT;
 maribavir=categories: MS;fonts: dsalut;
