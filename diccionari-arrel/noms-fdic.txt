@@ -46419,6 +46419,7 @@ irrenunciabilitat=categories: F;fonts: LT;
 irreparabilitat=categories: F;fonts: LT;
 irrepetibilitat=categories: F;fonts: DDLC;
 irrepresentabilitat=categories: F;fonts: derivat;
+irreproductibilitat=categories: F;fonts: derivat;
 irreprotxabilitat=categories: F;fonts: LT;
 irresistibilitat=categories: F;fonts: LT;
 irresolubilitat=categories: F;fonts: LT;
