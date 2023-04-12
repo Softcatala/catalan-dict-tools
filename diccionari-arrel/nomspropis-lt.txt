@@ -12589,6 +12589,8 @@ Jebús Jebús NPMSG00
 Jedrzejów Jedrzejów NPCSG00
 Jefferson Jefferson NPCNSP0
 Jeffrey Jeffrey NPMSSP0
+Jeftè Jeftè NPMSSP0
+Jefté Jeftè NPMSSP0
 Jehovà Jehovà NPMSSP0
 Jekyll Jekyll NPCNSP0
 Jena Jena NPCSG00
