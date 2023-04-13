@@ -10755,6 +10755,7 @@ Getuli Getuli NPMSSP0
 Getulis Getuli NPMPSP0
 Getxo Getxo NPCSG00
 Getúlia Getúlia NPFSSP0 # avl: noms de persona
+Gewandhaus Gewandhaus NPFSO00
 Geòrgia Geòrgia NPFSG00
 Geòrgia Geòrgia NPFSSP0
 Geòrgies Geòrgia NPFPSP0

@@ -274,6 +274,7 @@ EPO=categories: FI;fonts: dsalut;
 EPUB=categories: MI;fonts: termcat;
 ERO=categories: MI;fonts: LT;
 ERTO=categories: MI;fonts: sigles;
+ETT=categories: FI;fonts: sigla;
 Eurobaròmetre=categories: M;fonts: esadir;
 Excelsior=categories: M; fonts: termcat;
 FC=categories: MI;fonts: sigla;
