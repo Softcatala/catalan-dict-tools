@@ -314,6 +314,7 @@ IgE=categories: FI;fonts: dsalut;
 IgG=categories: FI;fonts: dsalut;
 IgM=categories: FI;fonts: dsalut;
 JJOO=categories: MP;fonts: esadir;
+KO=categories: MI;fonts: english;
 LCD=categories: MFI;fonts: termcat;
 LGBT-fòbia=categories: FS;fonts: termcat;
 LGBTI-fòbia=categories: FS;fonts: termcat;
