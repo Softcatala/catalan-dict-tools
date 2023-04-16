@@ -20388,8 +20388,8 @@ Riart Riart NPCNSP0
 Riau Riau NPCSG00
 Riba Riba NPCNSP0
 Riba Riba NPFSG00
-Riba-Roja Riba-Roja NPFSG00
 Riba-roja Riba-roja NPCNSP0
+Riba-roja Riba-roja NPFSG00
 Ribadavia Ribadavia NPCSG00
 Ribafort Ribafort NPCNSP0
 Ribagorça Ribagorça NPFSG00

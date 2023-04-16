@@ -24877,6 +24877,7 @@ postdorsal=categories: A;fonts: LT;
 postdícrot postdícrota=categories: A;fonts: dsalut;
 postelectoral=categories: A;fonts: LT;
 postembrionari postembrionària=categories: A;fonts: dsalut;
+postemergència=categories: AI;fonts: derivat;
 postencefalític postencefalítica=categories: A;fonts: dsalut;
 postendoscòpic postendoscòpica=categories: A;fonts: dsalut;
 postepilèptic postepilèptica=categories: A;fonts: dsalut;
