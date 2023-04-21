@@ -19169,7 +19169,7 @@ Portland Portland NPCSG00
 Portlligat Portlligat NPCSG00
 Portmany Portmany NPCSG00
 Porto-Novo Porto-Novo NPCSG00
-Porto-salè NPCSG00
+Porto-salè Porto-salè NPCSG00
 Portocolom Portocolom NPMSG00
 Portocristo Portocristo NPCSG00
 Portoferraio Portoferraio NPCSG00
