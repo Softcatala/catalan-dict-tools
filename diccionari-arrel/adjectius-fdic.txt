@@ -24870,6 +24870,7 @@ postcrisi=categories: AI;fonts: derivat;
 postcristià postcristiana=categories: A;fonts: derivat;
 postdental=categories: A;fonts: LT;
 postdiastòlic postdiastòlica=categories: A;fonts: dsalut;
+postdictatorial=categories: A;fonts: derivat;
 postdiftèric postdiftèrica=categories: A;fonts: dsalut;
 postdiluvià postdiluviana=categories: A;fonts: LT;
 postdiscal=categories: A;fonts: LT;

@@ -13585,6 +13585,7 @@ Lerma Lerma NPCSG00
 Lermoyez Lermoyez NPCNSP0 # medical
 Lerroux Lerroux NPCNSP0
 Lesbos Lesbos NPCSG00
+Lescaut Lescaut NPCNSP0
 Lesch-Nyhan Lesch-Nyhan NPCNSP0 # medical
 Lesmes Lesmes NPMPSP0
 Lesmes Lesmes NPMSSP0
@@ -14712,6 +14713,7 @@ Manlleu Manlleu NPCSG00
 Mannar Mannar NPCSG00
 Mannheim Mannheim NPCSG00
 Manol Manol NPMSG00
+Manon Manon NPFSSP0
 Manonelles Manonelles NPCNSP0
 Manono Manono NPCSG00
 Manresa Manresa NPCNSP0
@@ -15188,6 +15190,7 @@ Massat Massat NPCNSP0
 Massaveu Massaveu NPCNSP0
 Massawa Massawa NPCSG00
 Massegur Massegur NPCNSP0
+Massenet Massenet NPCNSP0
 Masserof Masserof NPMSG00
 Masset Masset NPCNSP0
 Massic Massic NPCNSP0
