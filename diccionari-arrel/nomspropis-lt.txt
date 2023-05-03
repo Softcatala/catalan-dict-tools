@@ -9207,6 +9207,7 @@ Ezequiels Ezequiel NPMPSP0
 Ezequies Ezequies NPMPSP0
 Ezequies Ezequies NPMSSP0
 Eòlia Eòlia NPFSG00
+Eötvös Eötvös NPCNSP0
 Eşfahān Eşfahān NPCSG00
 Ešnunna Ešnunna NPCSG00
 F1 F1 NPFSO00
@@ -16642,6 +16643,7 @@ Mèrope Mèrope NPFSSP0 # avl: noms de persona
 Mèsia Mèsia NPCSG00
 Mèxic Mèxic NPMSG00
 Mégève Mégève NPCSG00
+Mélenchon Mélenchon NPCNSP0
 Méliès Méliès NPCNSP0
 Ménière Ménière NPCNSP0 # medical
 Méricourt Méricourt NPCSG00

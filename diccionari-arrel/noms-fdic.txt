@@ -53649,6 +53649,7 @@ micromàstia=categories: F;fonts: dsalut;
 micromèlia=categories: F;fonts: LT;
 micromètode=categories: M;fonts: dsalut;
 micromòdul=categories: M;fonts: LT;
+micronació=categories: F;fonts: derivat;
 micronesi micronèsia=categories: MF;fonts: LT;
 microneurocirurgia=categories: F;fonts: dsalut;
 microneurografia=categories: F;fonts: dsalut;
