@@ -29089,6 +29089,7 @@ enterrador enterradora=categories: MF;fonts: LT;
 enterrament=categories: M;fonts: LT;
 enterramorts=categories: MFI;fonts: LT;
 enterratge=categories: M;fonts: LT;
+enterro=categories: M;fonts: DNV;
 enterrossament=categories: M;fonts: LT;
 enteràlgia=categories: F;fonts: LT;
 enterèctasi=categories: F;fonts: dsalut;
