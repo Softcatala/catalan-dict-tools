@@ -16792,6 +16792,7 @@ Nasi Nasi NPMSSP0 # avl: noms de persona
 Nasiriya Nasiriya NPCSG00
 Nassau Nassau NPCNSP0
 Nassau Nassau NPCSG00
+Nasser Nasser NPMSSP0
 Nataixa Nataixa NPFSSP0 # avl: noms de persona
 Natal Natal NPCSG00
 Natali Natali NPMSSP0 # avl: noms de persona

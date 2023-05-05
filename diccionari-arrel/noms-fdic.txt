@@ -56309,6 +56309,7 @@ naspra=categories: F;fonts: LT;
 nassada=categories: F;fonts: LT;
 nassal=categories: M;fonts: LT;
 nassarell=categories: M;fonts: LT;
+nasserisme=categories: MS;fonts: wiki;
 nasset=categories: M;fonts: diminutiu;
 nassot=categories: M;fonts: LT;
 nassí [pl. nassís]=categories: M;fonts: LT;

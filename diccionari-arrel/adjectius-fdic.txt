@@ -21299,6 +21299,7 @@ nasotraqueal=categories: A;fonts: termcat;
 nasoturbinal=categories: A;fonts: dsalut;
 nassarita=categories: A;fonts: LT;
 nassarrut nassarruda=categories: A;fonts: DCVB;
+nasserista=categories: A;fonts: wiki;
 nassut nassuda=categories: A;fonts: LT;
 nat nada=categories: A;fonts: LT;
 natal=categories: A;fonts: LT;
