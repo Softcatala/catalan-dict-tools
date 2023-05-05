@@ -16691,6 +16691,7 @@ inferencial=categories: A;fonts: termcat;
 inferent=categories: A;fonts: LT;
 inferible=categories: A;fonts: LT;
 inferior=categories: A;fonts: LT;
+infermer infermera=categories: A;fonts: termcat;
 infernal=categories: A;fonts: LT;
 inferoanterior=categories: A;fonts: termcat;
 inferoextern inferoexterna=categories: A;fonts: dsalut;
