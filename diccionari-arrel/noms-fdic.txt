@@ -76573,6 +76573,7 @@ stickman=categories: M;fonts: LT;
 stilb=categories: M;fonts: LT;
 stockli=categories: M;fonts: LT;
 stokes=categories: MI;fonts: LT;
+stolperstein [pl. stolpersteine]=categories: F;fonts: alemany;
 stop-motion=categories: FS;fonts: termcat;
 stop=categories: M;fonts: LT;
 storytelling=categories: MS;fonts: english;
