@@ -735,6 +735,7 @@ Ainés Ainès NPFSSP0 # avl: noms de persona
 Aioi Aioi NPCSG00
 Airasses Airasses NPFPG00
 Airbus Airbus NPMNO00
+Airef Airef NPFSO00
 Airelles Airelles NPFPG00
 Airolo Airolo NPCSG00
 Airways Airways NPCNO00
@@ -12475,6 +12476,7 @@ Ivars Ivars NPCNSP0
 Ivars Ivars NPCSG00
 Ivarsos Ivarsos NPMPG00
 Ivet Ivet NPFSSP0
+Ivie Ivie NPMSO00
 Ivona Ivona NPFSSP0 # avl: noms de persona
 Ivons Ivó NPMPSP0
 Ivor Ivor NPMSSP0 # avl: noms de persona
@@ -16488,6 +16490,7 @@ Mucha-Haberman Mucha-Haberman NPCNSP0 # medical
 Mudanjiang Mudanjiang NPCSG00
 Mudoi Mudoi NPCNSP0
 Mudug Mudug NPCSG00
+Muface Muface NPFSO00
 Mufulira Mufulira NPCSG00
 Muga Muga NPFSG00
 Mugello Mugello NPCSG00

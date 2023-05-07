@@ -9511,6 +9511,7 @@ sublevar=categories: V;model:cantar;fonts: LT;
 sublimar=categories: V;model:cantar;fonts: LT;
 submergir=categories: V;model:servir;fonts: LT;
 subministrar=categories: V;model:cantar;fonts: LT;
+subocupar=categories: V;model:cantar;fonts: derivat;
 subordinar=categories: V;model:abominar;fonts: LT;
 subornar=categories: V;model:cantar;fonts: LT;
 subratllar=categories: V;model:cantar;fonts: LT;
