@@ -9684,6 +9684,7 @@ terminar=categories: V;model:abominar;fonts: LT;
 termofixar=categories: V;model:cantar;fonts: LT;
 termometrar=categories: V;model:cantar;fonts:dsalut;
 terrabastejar=categories: V;model:envejar;fonts: LT;
+terraformar=categories: V;model:cantar;fonts: derivat;
 terraplenar=categories: V;model:ofrenar;fonts: LT;
 terrar=categories: V;model:cantar;fonts: LT;
 terratrémer=categories: V;model:témer;fonts: LT;
