@@ -25561,6 +25561,7 @@ Viquer Viquer NPCNSP0
 Viquidites Viquidites NPCNO00
 Viquillibres Viquillibres NPMNO00
 Viquipèdia Viquipèdia NPFSO00
+Viquipèdies Viquipèdia NPFPO00
 Viquitexts Viquitexts NPMNO00
 Vira Vira NPCNSP0
 Viran Viran NPCSG00
@@ -25898,6 +25899,7 @@ Wii Wii NPFSO00
 WikiLeaks WikiLeaks NPMNO00
 Wikiloc Wikiloc NPCNO00
 Wikipedia Wikipedia NPFSO00
+Wikipedies Wikipedia NPFPO00
 Wildspitze Wildspitze NPCSG00
 Wilfred Wilfred NPMSSP0 # avl: noms de persona
 Wilfreda Wilfreda NPFSSP0 # avl: noms de persona
