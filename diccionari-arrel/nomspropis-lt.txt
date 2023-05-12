@@ -19681,7 +19681,7 @@ Pulquèries Pulquèria NPFPSP0
 Pulí Pulí NPCNSP0
 Punakha Punakha NPCSG00
 Pune Pune NPCSG00
-Punjab Punjab NPMSG00
+#Punjab Punjab NPMSG00
 Puno Puno NPCSG00
 Punta Punta NPFSG00
 Puntarenas Puntarenas NPCSG00
