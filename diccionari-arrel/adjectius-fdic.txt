@@ -32654,6 +32654,7 @@ violinístic -a=categories: A;fonts: derivat;
 viperat viperada=categories: A;fonts: LT;
 viperí viperina=categories: A;fonts: LT;
 viquipedista=categories: A;fonts: derivat;
+wikipedista=categories: A;fonts: derivat;
 viral=categories: A;fonts: LT;
 viralitzador viralitzadora=categories: A;fonts: derivat;
 virescent=categories: A;fonts: LT;
