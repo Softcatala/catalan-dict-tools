@@ -2959,6 +2959,7 @@ Baiés Baiés NPCNSP0
 Baió Baió NPCNSP0
 Baja Baja NPCSG00
 Bajhang Bajhang NPCSG00
+Bakhmut Bakhmut NPCSG00
 Bakunin Bakunin NPCNSP0
 Bakú Bakú NPCSG00
 Balaam Balaam NPMSSP0
