@@ -3856,6 +3856,7 @@ doctorejar=categories: V;model:envejar;fonts: LT;
 documentar=categories: V;model:cantar;fonts: LT;
 dogmatitzar=categories: V;model:cantar;fonts: LT;
 dolar=categories: V;model:cantar;fonts: LT;
+dolaritzar=categories: V;model:cantar;fonts: derivat;
 dolcejar=categories: V;model:envejar;fonts: LT;
 doldre=categories: V;model:doldre;fonts: LT;
 dollejar=categories: V;model:envejar;fonts: LT;

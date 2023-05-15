@@ -26102,6 +26102,7 @@ doiut doiuda=categories: MF;fonts LT;
 dol=categories: M;fonts: LT;
 dolador doladora=categories: MF;fonts LT;
 doladura=categories: F;fonts: LT;
+dolarització=categories: F;fonts: obeno;
 dolasetró=categories: M;fonts: dsalut;
 dolcesa=categories: F;fonts: LT;
 dolceta=categories: F;fonts: LT;

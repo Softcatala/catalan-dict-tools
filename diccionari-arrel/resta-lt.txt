@@ -308,10 +308,10 @@ el el DA0MS0
 el ell PP3MSA00
 ela ela I
 elis elis I
-ell ell PP3MS000
-ella ell PP3FS000
-elles ell PP3FP000
-ells ell PP3MP000
+ell ell PP3MSN00
+ella ell PP3FSN00
+elles ell PP3FPN00
+ells ell PP3MPN00
 els el DA0MP0
 els ell PP3CP000
 em jo P010S000
@@ -554,7 +554,7 @@ noranta-tres noranta-tres DN0CP0
 noranta-un noranta-un DN0MP0
 noranta-una noranta-un DN0FP0
 noranta-vuit noranta-vuit DN0CP0
-nosaltres jo PP1CP000
+nosaltres jo PP1CPN00
 nostra nostre DP1FSP
 nostra nostre PX1FS0P0
 nostre nostre DP1MSP
@@ -895,7 +895,7 @@ tres-centes tres-cents DN0FP0
 tres-cents tres-cents DN0MP0
 tret tret SPS00
 tretze tretze DN0CP0
-tu tu PP2CS000
+tu tu PP2CSN00
 tururut tururut I
 u un PI0MS000
 uah uah I
@@ -946,7 +946,7 @@ vol volum Y
 vora vora SPS00
 vos tu P020P000
 vos tu PP2CP000
-vosaltres tu PP2CP000
+vosaltres tu PP2CPN00
 vostra vostre DP2FSP
 vostra vostre PX2FS0P0
 vostre vostre DP2MSP
