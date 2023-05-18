@@ -24964,6 +24964,7 @@ Vaud Vaud NPCSG00
 Vaulx-en-Velin Vaulx-en-Velin NPCSG00
 Vaupés Vaupés NPCSG00
 Vavuniya Vavuniya NPCSG00
+Vayreda Vayreda NPCNSP0
 Vea Vea NPCNSP0
 Veciana Veciana NPCNSP0
 Veciana Veciana NPFSG00
