@@ -1,4 +1,26 @@
 UTF-8
+% ======================================================================
+% Catalan Hunspell Hyphenation Dictionary. Release 1.5 (May 2023)
+% Copyright (C) 2012-2023 Jaume Ortolà i Font - www.riuraueditors.cat
+% ======================================================================
+%
+% This program is free software: you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation, either version 3 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program.  If not, see <http://www.gnu.org/licenses/>.
+%
+% ======================================================================
+%
+% This configuration has been tested for Adobe InDesign Hunspell Plugin
+%
 LEFTHYPHENMIN 1
 RIGHTHYPHENMIN 1
 COMPOUNDLEFTHYPHENMIN 1
@@ -1870,7 +1892,7 @@ heix1va
 .hu3astec
 .huas1te
 .hu3asteq
-ho1llywo4od
+ho2l3lywo4od
 holly1wo
 hollywo1o
 .iu5an.
@@ -1950,6 +1972,8 @@ hollywo1o
 .inter4n.
 .inte5r4ès.
 .inte1rè
+.inte5r4és.
+.inte1ré
 .inte5r4ess
 .inte1re
 .i4n3útil
@@ -2761,10 +2785,10 @@ ho8oligan
 ho1o
 hoo1li
 hooli1ga
-rockabi8l9ly
+roc4k5abi4l5ly
 roc1ka
 rocka1bi
-rockabi8l9li8es
+roc4k5abi4l5li4es
 rockabi1l2li
 rockabilli1e
 thri8l9ler
@@ -2841,6 +2865,42 @@ fi1e
 .okla1ho
 orwe8l9li
 or1we
+fre4elan4ce.
+fre1e
+free1la
+freelan1ce
+fre4elancer
+gana4che.
+ga1na
+gana1c2he
+gana4ches.
+ha4l5lo4w5e4en
+ha3l2lo
+hallo1we
+hallowe1e
+jambore4e
+jam1bo
+jambo1re
+mon4t5real
+mon1t2re
+montre1a
+spring9s8te8en
+s1p2ri
+springs1te
+springste1e
+te4l5entra1da
+te1le
+telen1t2ra
+waterlo4o
+wa1te
+water1lo
+what4s5app
+w1ha
+what1sa
+1yo
+youtu4be.
+you1tu
+youtu1be
 x4vi
 x4x
 xc4v
@@ -2860,7 +2920,6 @@ xl4v
 1ñò
 1ye
 1yi
-1yo
 1yu
 1yá
 1yé
@@ -3014,6 +3073,10 @@ e1n2he
 .e1n2ho
 .enho1ra
 .enhora1bo
+.esta4t5unid
+.es1ta
+.esta1tu
+.estatu3ni
 fi2l3hel
 fi1l2he
 .genti2l3ho1me
@@ -3080,6 +3143,18 @@ li4echten5s4tein
 li1e
 liech1te
 liechtens1te
+taig8ne.
+taig1ne
+pascu8al
+pas1cu
+pascu1a
+be8e8t9hoven
+be1e
+bee1t2ho
+beetho1ve
+star8t9up
+s1ta
+star1tu
 l·1l2y3i
 2yita.
 yi1ta
@@ -3135,12 +3210,13 @@ ch2r
 -agu4ant
 .agu4ait
 -agu4ait
-.l's8p
-.l's8c
-.l'f8t
-.d's8p
-.d's8c
-.d'f8t
+.l'8s8p
+.l'8s8c
+.l'8f8t
+.d'8s8p
+.d'8s8c
+.d'8f8t
+.n'6
 n'8hi
 -o4est.
 -o1e
@@ -3150,3 +3226,9 @@ n'8hi
 pu1ta
 6putes.
 pu1te
+sud-a4
+nord-a4
+sud-e4
+nord-e4
+sud-o4
+nord-o4
