@@ -39148,6 +39148,7 @@ geògraf geògrafa=categories: MF;fonts: LT;
 geòleg geòloga=categories: MF;fonts: LT;
 geòmetra=categories: MF;fonts: LT;
 ghanès ghanesa=categories: MF;fonts: LT;
+ghosting=categories: MS;fonts: English;
 giam=categories: M;fonts: LT;
 giardiosi=categories: F;fonts: LT;
 gibberel·lina=categories: F;fonts: LT;
