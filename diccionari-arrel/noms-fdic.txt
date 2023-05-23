@@ -20067,6 +20067,7 @@ contrafase=categories: F;fonts: LT;
 contrafaïment=categories: M;fonts: LT;
 contrafemella=categories: F;fonts: LT;
 contrafibra=categories: F;fonts: LT;
+contrafigura=categories: F;fonts: DNV;
 contrafilera=categories: F;fonts: LT;
 contrafilet=categories: M;fonts: LT;
 contrafinestra=categories: F;fonts: LT;

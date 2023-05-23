@@ -1096,7 +1096,6 @@ contracosta=categories: F;fonts: DNV;
 contradenúncia=categories: F;fonts: DNV;
 contradogal=categories: M;fonts: DNV;
 contraescota=categories: F;fonts: DNV;
-contrafigura=categories: F;fonts: DNV;
 contraflorat -ada=categories: A;fonts: DNV;
 contraforro=categories: M;fonts: DNV;
 contrai=categories: M;fonts: DNV;

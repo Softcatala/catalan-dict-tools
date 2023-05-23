@@ -14909,8 +14909,6 @@ contradogal contradogal NCMS000
 contradogals contradogal NCMP000
 contraescota contraescota NCFS000
 contraescotes contraescota NCFP000
-contrafigura contrafigura NCFS000
-contrafigures contrafigura NCFP000
 contraflorada contraflorat AQ0FS0
 contraflorades contraflorat AQ0FP0
 contraflorat contraflorat AQ0MS0

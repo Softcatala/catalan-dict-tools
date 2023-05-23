@@ -11960,6 +11960,7 @@ Hispaniola Hispaniola NPCSG00
 Hispanoamèrica Hispanoamèrica NPFSG00
 Hispània Hispània NPFSG00
 Hitchcock Hitchcock NPCNSP0
+Hitchens Hitchens NPCNSP0
 Hitler Hitler NPCNSP0
 Hobart Hobart NPCSG00
 Hobbes Hobbes NPCNSP0
@@ -22850,6 +22851,7 @@ Stepanakert Stepanakert NPCSG00
 Stephen Stephen NPMSSP0
 Stephenson Stephenson NPCNSP0
 Sterlitamak Sterlitamak NPCSG00
+Sterne Sterne NPCNSP0
 Stevens-Johnson Stevens-Johnson NPCNSP0 # medical
 Stevenson Stevenson NPCNSP0
 Stewart-Holmes Stewart-Holmes NPCNSP0 # medical
@@ -23015,6 +23017,7 @@ Svanètia Svanètia NPCSG00
 Svealand Svealand NPCSG00
 Svendborg Svendborg NPCSG00
 Sverdrup Sverdrup NPCSG00
+Sviatoslav Sviatoslav NPMSSP0
 Swakopmund Swakopmund NPCSG00
 Swan-Ganz Swan-Ganz NPCNSP0 # medical
 Swansea Swansea NPCSG00
