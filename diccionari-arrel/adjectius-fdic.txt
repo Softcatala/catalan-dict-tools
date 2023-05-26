@@ -3,6 +3,7 @@
 #baador=categories: A;fontsg: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
 #blauverda=categories: A;fonts: LT; error? de quina font? En el DDLC blauverd -a
+#camelès camelesa=categories: A;fonts: LT; RAR
 #cingalès cingalesa=categories: A;fonts: LT; Només GDLC, equivalent a singalès
 #cristal=categories: A;fonts: dsalut;  #ATENCIÓ: relatiu a la cresta!
 #curd curda=categories: A;fonts: GDLC; forma no usada de kurd
@@ -5586,7 +5587,6 @@ cambrià cambriana=categories: A;fonts: LT;
 cambrístic cambrística=categories: A;fonts: derivat;
 camecefàlic camecefàlica=categories: A;fonts: dsalut;
 camejador camejadora=categories: A;fonts: LT;
-camelès camelesa=categories: A;fonts: LT;
 cameral=categories: A;fonts: LT;
 cameralista=categories: A;fonts: LT;
 camerunès camerunesa=categories: A;fonts: LT;

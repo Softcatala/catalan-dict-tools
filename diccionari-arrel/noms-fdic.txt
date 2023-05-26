@@ -23,6 +23,7 @@
 #bullició=categories: F;fonts: LT; antic
 #bul·la=categories: F;fonts: dsalut;
 #caf=categories: F;fonts: LT; lletra hebrea
+#camelès camelesa=categories: MF;fonts: LT; RAR
 #catechu=categories: M;fonts: dsalut;
 #catecu=categories: M;fonts: dsalut;
 #catina=categories: F;fonts: dsalut;
@@ -13910,7 +13911,6 @@ camell camella=categories: MF;fonts: LT;
 cameller camellera=categories: MF;fonts: LT;
 camellot=categories: M;fonts: LT;
 camelot=categories: M;fonts: LT;
-camelès camelesa=categories: MF;fonts: LT;
 camembert=categories: M;fonts: LT;
 camena=categories: F;fonts: LT;
 cameo=categories: M;fonts: neolosfera, esadir;
