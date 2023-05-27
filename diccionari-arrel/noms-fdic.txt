@@ -40034,6 +40034,7 @@ got goda=categories: MF;fonts: LT;
 gota=categories: F;fonts: LT;
 gotada=categories: F;fonts: LT;
 gotaina=categories: F;fonts: LT;
+goteig=categories: M;fonts: DNV;
 gotellada=categories: F;fonts: LT;
 gotellera=categories: F;fonts: LT;
 gotellim=categories: M;fonts: LT;
