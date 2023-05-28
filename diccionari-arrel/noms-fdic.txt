@@ -85826,6 +85826,7 @@ xibeca=categories: F;fonts: LT;
 xibiu=categories: M;fonts: LT;
 xibornol=categories: M;fonts: dsalut;
 xibuc=categories: M;fonts: LT;
+xibòlet=categories: M;fonts: wikipedia;
 xic xica=categories: MF;fonts LT;
 xic-xac=categories: M;fonts: LT;
 xicada=categories: F;fonts: LT;
