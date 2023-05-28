@@ -10185,6 +10185,7 @@ Fuxin Fuxin NPCSG00
 Fuzhou Fuzhou NPCSG00
 Fàbia Fàbia NPCNSP0
 Fàbrega Fàbrega NPCNSP0
+Fàbregas Fàbregas NPCNSP0
 Fàbregues Fàbregues NPCNSP0
 Fànnia Fànnia NPCNSP0
 Fàrgolos Fàrgolos NPCSG00
