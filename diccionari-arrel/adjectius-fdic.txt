@@ -28128,6 +28128,7 @@ segrestador segrestadora=categories: A;fonts: LT;
 segrestant=categories: A;fonts: LT;
 segrianenc segrianenca=categories: A;fonts: LT;
 segrià segriana=categories: A;fonts: LT;
+seguidet seguideta=categories: A; font:diminutiu;
 seguidista=categories: A;fonts: LT;
 seguidor seguidora=categories: A;fonts: LT;
 seguit seguida [sup. seguidíssim]=categories: A; font:apertium;
