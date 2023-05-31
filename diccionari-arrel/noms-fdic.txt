@@ -22817,6 +22817,7 @@ decorativista=categories: MF;fonts: LT;
 decorriment=categories: M;fonts: LT;
 decorticació=categories: F;fonts: LT;
 decreixement=categories: M;fonts: LT;
+decreixentisme=categories: M;fonts: derivat;
 decreixença=categories: F;fonts: LT;
 decrement=categories: M;fonts: LT;
 decrepitació=categories: F;fonts: LT;

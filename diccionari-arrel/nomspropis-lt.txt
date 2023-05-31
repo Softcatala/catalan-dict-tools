@@ -207,6 +207,7 @@
 #Vital Vital NPMSSP0 # avl: noms de persona
 #Vladimir Vladimir NPMSSP0 # avl: noms de persona
 #Vladimira Vladimira NPFSSP0 # avl: noms de persona
+#Àurea Àurea NPFSSP0 # avl: noms de persona
 #Òptim Òptim NPMSSP0 # avl: noms de persona
 #Òptima Òptima NPFSSP0 # avl: noms de persona
 #Òria Òria NPFSSP0 # avl: noms de persona
@@ -26441,7 +26442,6 @@ uTorrent uTorrent NPCNO00
 Àtica Àtica NPFSG00
 Àtila Àtila NPMSSP0
 Àtxinsk Àtxinsk NPCSG00
-Àurea Àurea NPFSSP0 # avl: noms de persona
 Àuria Àuria NPFSSP0
 Àuries Àuria NPFPSP0
 Àustria Àustria NPCSG00
