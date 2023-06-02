@@ -12810,6 +12810,7 @@ Jullundur Jullundur NPCSG00
 Jumbo-Visma Jumbo-Visma NPMSO00
 Jumella Jumella NPCSG00
 Junceda Junceda NPCNSP0
+Juncker Juncker NPCNSP0
 Juncosa Juncosa NPFSG00
 Jundiaí Jundiaí NPCSG00
 June June NPFSSP0 # avl: noms de persona
@@ -13764,6 +13765,7 @@ Livingstone Livingstone NPCSG00
 Livorno Livorno NPCSG00
 Livry-Gargan Livry-Gargan NPCSG00
 Livònia Livònia NPFSG00
+Lizarra Lizarra NPCSG00
 Lió Lió NPCSG00
 Ljouwert Ljouwert NPCSG00
 Ljubljana Ljubljana NPCSG00
@@ -23470,6 +23472,7 @@ Tenayuca Tenayuca NPCSG00
 Tendrui Tendrui NPCSG00
 Tenerife Tenerife NPCSG00
 Tenes Tenes NPCNSP0
+Tenet Tenet NPCNSP0
 Tengréla Tengréla NPCSG00
 Tennessee Tennessee NPCSG00
 Tennison-Randall Tennison-Randall NPCNSP0 # medical
