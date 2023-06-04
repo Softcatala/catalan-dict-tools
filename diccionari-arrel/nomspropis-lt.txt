@@ -2825,6 +2825,7 @@ BCE BCE NPMSO00
 BCN BCN NPFSG00
 BEA BEA NPMSO00
 BMW BMW NPCNO00
+BNG BNG NPMSO00
 BOE BOE NPMSO00
 BRIMO BRIMO NPCNO00
 BSC BSC NPMSO00
@@ -4585,6 +4586,7 @@ Bouaké Bouaké NPCSG00
 Bouenza Bouenza NPCSG00
 Boufarik Boufarik NPCSG00
 Bougainville Bougainville NPCSG00
+Boulanger Boulanger NPCNSP0
 Boulemane Boulemane NPCSG00
 Boulez Boulez NPCNSP0
 Boulgou Boulgou NPCSG00
@@ -20671,6 +20673,7 @@ Rocosa Rocosa NPCNSP0
 Rocs Roc NPMPSP0
 Rocío Rocío NPCSSP0
 Roda Roda NPCNSP0
+RodaMots RodaMots NPMNO00
 Rodamilans Rodamilans NPCNSP0
 Rodeja Rodeja NPCNSP0
 Rodeja Rodeja NPCSG00
