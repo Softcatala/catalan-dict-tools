@@ -290,6 +290,7 @@ GR=categories: MI;fonts: sigla;
 Generalitat=categories: F;fonts: LT;
 H1N1=categories: MFI;fonts: termcat;
 HCH=categories: MI;fonts: dsalut;
+HFC=categories: MI;fonts: wiki;
 HGH=categories: FI;fonts: dsalut;
 HTML=categories: MI;fonts: termcat;
 HTTP=categories: MI;fonts: sigla;
