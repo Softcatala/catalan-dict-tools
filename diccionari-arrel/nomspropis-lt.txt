@@ -4979,6 +4979,7 @@ Busquets Busquets NPCNSP0
 BusyBox BusyBox NPMSO00
 Butart Butart NPCNSP0
 Butinyà Butinyà NPCNSP0
+Butler Butler NPCNSP0
 Butrot Butrot NPCSG00
 Butuan Butuan NPCSG00
 Butxa Butxa NPCSG00
