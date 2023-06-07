@@ -3093,6 +3093,7 @@ Banaba Banaba NPCSG00
 Banal Banal NPCNSP0
 Banat Banat NPMSG00
 Banbridge Banbridge NPCSG00
+Bancaixa Bancaixa NPFSO00
 Bandama Bandama NPCSG00
 Bander Bander NPCNSP0
 Bandirma Bandirma NPCSG00
@@ -5026,6 +5027,7 @@ Bāmīān Bāmīān NPCSG00
 Bāqarganj Bāqarganj NPCSG00
 Bălţi Bălţi NPCSG00
 Bīkāner Bīkāner NPCSG00
+CAM CAM NPFSO00
 CBC CBC NPCNO00
 CCCB CCCB NPMSO00
 CCMA CCMA NPFSO00
