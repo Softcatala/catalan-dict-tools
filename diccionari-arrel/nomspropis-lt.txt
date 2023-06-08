@@ -10426,6 +10426,7 @@ Gaoual Gaoual NPCSG00
 Gap Gap NPCSG00
 Garaikoetxea Garaikoetxea NPCNSP0
 Garait Garait NPCSG00
+Garajonay Garajonay NPCSG00
 Garalda Garalda NPCNSP0
 Garamond Garamond NPCNSP0
 Garangou Garangou NPCNSP0
@@ -16025,6 +16026,7 @@ Monesma Monesma NPFSG00
 Monet Monet NPCNSP0
 Monfalcone Monfalcone NPCSG00
 Monfort Monfort NPCSG00
+Monfragüe Monfragüe NPCSG00
 Monge Monge NPCNSP0 # medical
 Monghyr Monghyr NPCSG00
 Mongia Mongia NPFSG00

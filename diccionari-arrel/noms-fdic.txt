@@ -204,6 +204,7 @@ AZT=categories: FI;fonts: dsalut;
 Apocalipsi=categories: M;fonts: GDLC;
 Australopithecus=categories: MI;fonts: científic;
 BCG=categories: MI;fonts: dsalut;
+BCIN=categories: MI;fonts: sigla;
 BCNU=categories: FS;fonts: dsalut;
 BCR=categories: MI;fonts: dsalut;
 BD=categories: FI;fonts: abreviatura;
