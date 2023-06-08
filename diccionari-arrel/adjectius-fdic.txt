@@ -5971,6 +5971,7 @@ carnal=categories: A;fonts: LT;
 carnal·lític carnal·lítica=categories: A;fonts: LT;
 carnavalesc carnavalesca=categories: A;fonts: LT;
 carner carnera=categories: A;fonts: LT;
+carnerià carneriana=categories: A;fonts: derivat;
 carnestoltesc carnestoltesca=categories: A;fonts: LT;
 carni càrnia=categories: A;fonts: LT;
 carnisser carnissera=categories: A;fonts: LT;
