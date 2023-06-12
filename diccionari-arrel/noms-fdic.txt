@@ -49875,6 +49875,7 @@ lucànid=categories: M;fonts: LT;
 luda=categories: F;fonts: LT;
 luddisme=categories: M;fonts: LT;
 ludibri=categories: M;fonts: LT;
+ludicitat=categories: F;fonts: derivat;
 ludificació=categories: F;fonts: LT;
 ludisme=categories: M;fonts: LT;
 ludià=categories: M;fonts: LT;
