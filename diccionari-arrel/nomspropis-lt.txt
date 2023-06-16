@@ -3187,7 +3187,6 @@ Barceloneta Barceloneta NPFSG00
 Barcelonès Barcelonès NPMSG00
 Barcelos Barcelos NPCSG00
 Barceló Barceló NPCNSP0
-Barcino Barcino NPCSG00
 Barcoo Barcoo NPCNSP0 # medical
 Bard Bard NPMSSP0
 Bardat Bardat NPCNSP0
@@ -4992,6 +4991,7 @@ Byron Byron NPCNSP0
 Bànyols Bànyols NPCSG00
 Bàrbara Bàrbara NPFSSP0
 Bàrbares Bàrbara NPFPSP0
+Bàrcino Bàrcino NPCSG00
 Bàscara Bàscara NPFSG00
 Bàssora Bàssora NPCSG00
 Bárcenas Bárcenas NPCNSP0
