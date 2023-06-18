@@ -5506,6 +5506,7 @@ antigenoteràpia=categories: F;fonts: dsalut;
 antigenèmia=categories: F;fonts: LT;
 antiginy=categories: M;fonts: LT;
 antiginys=categories: MI;fonts: LT;
+antiglobalisme=categories: M;fonts: derivat;
 antiglobulina=categories: F;fonts: termcat;
 antigor=categories: F;fonts: LT;
 antigorita=categories: F;fonts: LT;

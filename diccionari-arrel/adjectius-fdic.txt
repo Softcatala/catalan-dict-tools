@@ -2363,6 +2363,7 @@ antigermànic antigermànica=categories: A;fonts: derivat;
 antigihadista=categories: A;fonts: derivat;
 antigir=categories: AI;fonts: LT;
 antiglaç=categories: AI;fonts: GDLC,termcat;
+antiglobalista=categories: A;fonts: derivat;
 antiglobalització=categories: AI;fonts: derivat;
 antigonadotròpic antigonadotròpica=categories: A;fonts: dsalut;
 antigonorreic antigonorreica=categories: A;fonts: dsalut;
