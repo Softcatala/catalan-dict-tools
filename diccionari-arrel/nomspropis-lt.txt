@@ -24973,6 +24973,7 @@ Vargas Vargas NPCNSP0
 Varimanha Varimanha NPCSG00
 Varna Varna NPCSG00
 Varoi Varoi NPCNSP0
+Varoufakis Varoufakis NPCNSP0
 Varradòs Varradòs NPCSG00
 Varsòvia Varsòvia NPFSG00
 Varínia Varínia NPFSSP0 # avl: noms de persona
