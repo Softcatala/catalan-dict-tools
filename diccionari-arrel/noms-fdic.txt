@@ -86,6 +86,7 @@
 #inotuzumab ozogamicina=categories: M;fonts: dsalut;
 #input-output=categories: MS;fonts: DNV,anglès;
 #intima=categories: F;fonts: LT; arcaisme
+#junior juniora=categories: MF;fonts: LT; rar, no DIEC, DNV
 #lab=categories: M;fonts: dsalut;
 #legibilitat=categories: F;fonts: LT; error, d'on ve?
 #lentor=categories: F;fonts: dsalut;
@@ -47089,7 +47090,6 @@ jungermannial=categories: F;fonts: LT;
 jungermanníida=categories: F;fonts: LT;
 jungermanníide=categories: F;fonts: LT;
 jungla=categories: F;fonts: LT;
-junior juniora=categories: MF;fonts: LT;
 juniorat=categories: M;fonts: LT;
 junquera=categories: F;fonts: LT;
 junt=categories: M;fonts: LT;

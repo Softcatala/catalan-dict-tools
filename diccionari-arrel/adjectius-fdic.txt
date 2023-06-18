@@ -10,6 +10,7 @@
 #emperadora=categories: A;fonts: LT;
 #eret ereta=categories: A;fonts: DIEC; arcaisme
 #eret ereta=categories: A;fonts: LT; arcaisme, es confon amb érets
+#junior juniora=categories: A;fonts: LT;
 #jóc joca=categories: A;fonts: LT; molt poc usual
 #nostras=categories: AI;fonts: dsalut;
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
@@ -18116,7 +18117,6 @@ junciforme=categories: A;fonts: LT;
 juncional=categories: A;fonts: dsalut;
 juncosà juncosana=categories: A;fonts: LT;
 junedenc junedenca=categories: A;fonts: LT;
-junior juniora=categories: A;fonts: LT;
 junt junta=categories: A;fonts: LT;
 juntet junteta=categories: A;fonts: derivat;
 juntíssim juntíssima=categories: A;fonts: superlative;
