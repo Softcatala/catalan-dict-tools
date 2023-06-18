@@ -15155,6 +15155,7 @@ hiperplàstic hiperplàstica=categories: A;fonts: dsalut;
 hiperpneic hiperpneica=categories: A;fonts: dsalut;
 hiperpotassèmic hiperpotassèmica=categories: A;fonts: dsalut;
 hiperpredador hiperpredadora=categories: A;fonts: LT;
+hiperprogressista=categories: A;fonts: derivat;
 hiperprolactinèmic hiperprolactinèmica=categories: A;fonts: dsalut;
 hiperproteic -a=categories: A;fonts: derivat;
 hiperpícric hiperpícrica=categories: A;fonts: dsalut;

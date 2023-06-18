@@ -6734,6 +6734,7 @@ Collargenter Collargenter NPCNSP0
 Collbataller Collbataller NPCNSP0
 Collbató Collbató NPCSG00
 Collblanc Collblanc NPCSG00
+Collboni Collboni NPCNSP0
 Collbosc Collbosc NPCNSP0
 Colldarnat Colldarnat NPCSG00
 Colldeboix Colldeboix NPCSG00
@@ -14940,6 +14941,7 @@ Marjal Marjal NPFSG00
 Marjuquera Marjuquera NPFSG00
 Markham Markham NPCSG00
 Marl Marl NPCSG00
+Marlaska Marlaska NPCNSP0
 Marlborough Marlborough NPCNSP0
 Marlem Marlem NPFSSP0 # avl: noms de persona
 Marly Marly NPCSG00
@@ -17298,6 +17300,7 @@ OAP OAP NPFSO00
 OCDE OCDE NPFSO00
 OECD OECD NPFSO00
 OIT OIT NPFSO00
+OMC OMC NPFSO00
 OMS OMS NPFSO00
 ONCE ONCE NPFSO00
 ONU ONU NPFSO00
@@ -24675,6 +24678,7 @@ Ursins Ursí NPMPSP0
 Ursulina Ursulina NPFSSP0 # avl: noms de persona
 Ursulí Ursulí NPMSSP0 # avl: noms de persona
 Ursí Ursí NPMSSP0
+Urtasun Urtasun NPCNSP0
 Urtx Urtx NPCNSP0
 Urtx Urtx NPCSG00
 Uruapan Uruapan NPCSG00
