@@ -61943,6 +61943,7 @@ pastelista=categories: MF;fonts: LT;
 pastell=categories: M;fonts: LT;
 pastera=categories: F;fonts: LT;
 pasterada=categories: F;fonts: LT;
+pastereig=categories: M;fonts: derivat;
 pastereta=categories: F;fonts: LT;
 pasterol=categories: M;fonts: LT;
 pastetes=categories: FP;fonts: LT;
