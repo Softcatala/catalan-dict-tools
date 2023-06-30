@@ -16698,6 +16698,7 @@ cibenzolina=categories: F;fonts: dsalut;
 ciberactivisme=categories: M;fonts: LT;
 ciberactivista=categories: MF;fonts: LT;
 ciberaddicció=categories: F;fonts: derivat;
+ciberagressió=categories: F;fonts: derivat;
 ciberalumne ciberalumna=categories: MF;fonts: LT;
 ciberamic ciberamiga=categories: MF;fonts: LT;
 ciberaprenent ciberaprenenta=categories: MF;fonts: LT;

@@ -12916,6 +12916,7 @@ Kairouan Kairouan NPCSG00
 Kaiserslautern Kaiserslautern NPCSG00
 Kaiyuan Kaiyuan NPCSG00
 Kakamigahara Kakamigahara NPCSG00
+Kakhovka Kakhovka NPFSG00
 Kakhètia Kakhètia NPCSG00
 Kalahari Kalahari NPMSG00
 Kalemie Kalemie NPCSG00
