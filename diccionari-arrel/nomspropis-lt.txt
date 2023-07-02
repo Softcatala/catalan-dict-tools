@@ -9673,6 +9673,7 @@ Fiveller Fiveller NPCNSP0
 Fivizzano Fivizzano NPCSG00
 Fiònia Fiònia NPCSG00
 Fiódor Fiódor NPMSSP0
+Fiódorov Fiódorov NPMSSP0
 Fiódorovna Fiódorovna NPFSSP0
 Flacq Flacq NPCSG00
 Flameric Flameric NPCNSP0
@@ -12255,6 +12256,8 @@ Ierai Ierai NPMSSP0 # avl: noms de persona
 Ieras Ieras NPCSG00
 Iesi Iesi NPCSG00
 Iessa Iessa NPFSG00
+Ievgueni Ievgueni NPMSSP0
+Ievtuixenko Ievtuixenko NPMSSP0
 Ifac Ifac NPMSG00
 Ife Ife NPCSG00
 Ifigeni Ifigeni NPMSSP0 # avl: noms de persona
@@ -17546,6 +17549,7 @@ Ondina Ondina NPFSSP0 # avl: noms de persona
 Ondo Ondo NPCSG00
 Ondí Ondí NPMSSP0 # avl: noms de persona
 Onega Onega NPCSG00
+Oneguin Oneguin NPMSSP0
 Onesífor Onesífor NPMSSP0 # avl: noms de persona
 Onesífora Onesífora NPFSSP0 # avl: noms de persona
 Onil Onil NPCSG00
@@ -19342,10 +19346,12 @@ Pribnow Pribnow NPCNSP0 # medical
 Priestley Priestley NPCNSP0
 Prieto Prieto NPCNSP0
 Prignitz Prignitz NPCSG00
+Prigojin Prigojin NPMSSP0
 Prilep Prilep NPCSG00
 Prim Prim NPCNSP0
 Prim Prim NPMSSP0
 Prima Prima NPFSSP0 # avl: noms de persona
+Primakov Primakov NPMSSP0
 Primians Primià NPMPSP0
 Primitiu Primitiu NPMSSP0
 Primitius Primitiu NPMPSP0
@@ -21084,6 +21090,7 @@ Ròmula Ròmula NPFSSP0
 Ròmules Ròmula NPFPSP0
 Ròmuls Ròmul NPMPSP0
 Ròvol Ròvol NPMSG00
+Róizman Róizman NPMSSP0
 Rúbies Rúbies NPCSG00
 Rússia Rússia NPFSG00
 Rügen Rügen NPCSG00
@@ -26100,6 +26107,7 @@ Xertó Xertó NPCNSP0
 Xerxes Xerxes NPMSSP0
 Xesco Xesco NPMSSP0
 Xeta Xeta NPCSG00
+Xevtxuk Xevtxuk NPMSSP0
 Xi Xi NPCNSP0
 Xi'an Xi'an NPCSG00
 Xiamen Xiamen NPCSG00
@@ -26167,6 +26175,7 @@ Xumet Xumet NPCNSP0
 Xup Xup NPMSG00
 Xuzhou Xuzhou NPCSG00
 Xàbia Xàbia NPFSG00
+Xàpoixnikov Xàpoixnikov NPMSSP0
 Xàtiva Xàtiva NPFSG00
 Xènia Xènia NPFSSP0 # avl: noms de persona
 Xènius Xènius NPMSSP0 # avl: noms de persona
