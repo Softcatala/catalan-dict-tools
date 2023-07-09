@@ -5660,6 +5660,7 @@ espernetegar=categories: V;model:pregar;fonts: LT;
 esperonar=categories: V;model:cantar;fonts: LT;
 esperonejar=categories: V;model:envejar;fonts: LT;
 esperrucar=categories: V;model:trencar;fonts: LT;
+espertinar=categories: V;model:abominar;fonts: diec;
 espesseir=categories: V;model:traduir;fonts: LT;
 espessigar=categories: V;model:lligar;fonts: LT;
 espessir=categories: V;model:servir;fonts: LT;
