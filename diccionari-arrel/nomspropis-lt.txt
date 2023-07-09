@@ -5143,6 +5143,7 @@ Cadí Cadí NPCSG00
 Caen Caen NPCSG00
 Cafarnaüm Cafarnaüm NPCSG00
 Caffey Caffey NPCNSP0 # medical
+Cage Cage NPCNSP0
 Cahan Cahan NPCSG00
 Cahors Cahors NPCSG00
 Cahué Cahué NPCNSP0
@@ -5530,6 +5531,7 @@ Cantonigròs Cantonigròs NPCSG00
 Cantunis Cantunis NPCSG00
 Canturri Canturri NPCSG00
 Cantàbria Cantàbria NPFSG00
+Cantània Cantània NPFSO00
 Cantí Cantí NPCNSP0
 Cantó Cantó NPCNSP0
 Cantó Cantó NPMSG00
@@ -7519,6 +7521,7 @@ Cúper Cúper NPCSG00
 Cúrcia Cúrcia NPFSSP0 # avl: noms de persona
 Cǎlǎraşi Cǎlǎraşi NPCSG00
 DCVB DCVB NPMSO00
+DGAIA DGAIA NPFSO00
 DGT DGT NPFSO00
 DIEC DIEC NPMSO00
 DIN DIN NPCNO00
@@ -8132,6 +8135,7 @@ Dubà Dubà NPCNSP0
 Duc Duc NPCNSP0
 Duca Duca NPCNSP0
 Ducati Ducati NPCNO00
+Duchamp Duchamp NPCNSP0
 Duchenne Duchenne NPCNSP0 # medical
 Duckett Duckett NPCNSP0 # medical
 Duero Duero NPCSG00
@@ -11559,6 +11563,7 @@ Gweru Gweru NPCSG00
 Gwynedd Gwynedd NPCSG00
 Gydanskij Gydanskij NPCSG00
 Gyor Gyor NPCSG00
+György György NPMSSP0
 Győr Győr NPCSG00
 Gàlvez Gàlvez NPCNSP0
 Gàl·lia Gàl·lia NPFSG00
@@ -13242,6 +13247,7 @@ Krugersdorp Krugersdorp NPCSG00
 Krugman Krugman NPCNSP0
 Krujë Krujë NPCSG00
 Krukenberg Krukenberg NPCNSP0 # medical
+Krzysztof Krzysztof NPMSSP0
 Kubala Kubala NPCNSP0
 Kubrick Kubrick NPCNSP0
 Kufs Kufs NPCNSP0 # medical
@@ -13315,6 +13321,7 @@ Kōfu Kōfu NPCSG00
 Kōriyama Kōriyama NPCSG00
 L'Aquila L'Aquila NPCSG00
 L'ubercy L'ubercy NPCSG00
+LEC LEC NPFSO00
 LGPL LGPL NPCNO00
 LOGSE LOGSE NPFSO00
 LOMCE LMOCE NPFSO00
@@ -13699,6 +13706,7 @@ Lieja Lieja NPFSG00
 Lielupe Lielupe NPCSG00
 Lierp Lierp NPCSG00
 Ligees Ligees NPMSSP0 # avl: noms de persona
+Ligeti Ligeti NPCNSP0
 Ligori Ligori NPMSSP0
 Ligoris Ligori NPMPSP0
 Ligòria Ligòria NPFSSP0 # avl: noms de persona
@@ -18422,6 +18430,7 @@ Penalba Penalba NPCNSP0
 Penaleda Penaleda NPCNSP0
 Penallonga Penallonga NPCSG00
 Penavera Penavera NPCSG00
+Penderecki Penderecki NPCNSP0
 Pendred Pendred NPCNSP0 # medical
 Penedès Penedès NPCNSP0
 Penedès Penedès NPMSG00
@@ -24986,6 +24995,7 @@ Varoi Varoi NPCNSP0
 Varoufakis Varoufakis NPCNSP0
 Varradòs Varradòs NPCSG00
 Varsòvia Varsòvia NPFSG00
+Varèse Varèse NPCNSP0
 Varínia Varínia NPFSSP0 # avl: noms de persona
 Vasa Vasa NPCNSP0
 Vasto Vasto NPCSG00
