@@ -17530,6 +17530,7 @@ Ombria Ombria NPFSG00
 Ombrone Ombrone NPCSG00
 Omeda Omeda NPCNSP0
 Omedes Omedes NPCNSP0
+OmegaT OmegaT NPMSO00
 Omegna Omegna NPCSG00
 Omella Omella NPCNSP0
 Omellons Omellons NPMPG00
