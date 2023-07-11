@@ -19209,6 +19209,7 @@ magritxol magritxola=categories: A;fonts: LT;
 magrós magrosa=categories: A;fonts: LT;
 maguntí maguntina=categories: A;fonts: LT;
 mahdista=categories: A;fonts: LT;
+mahlerià mahleriana=categories: A;fonts: LT;
 mahometà mahometana=categories: A;fonts: LT;
 mahomètic mahomètica=categories: A;fonts: LT;
 maia=categories: A;fonts: LT;
