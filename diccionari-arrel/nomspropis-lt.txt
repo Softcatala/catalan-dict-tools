@@ -26317,6 +26317,7 @@ Zelaya Zelaya NPCSG00
 Zelenski Zelenski NPCNSP0
 Zelinski Zelinski NPCNSP0
 Zellweger Zellweger NPCNSP0 # medical
+Zemmour Zemmour NPCNSP0
 Zenaida Zenaida NPFSSP0 # avl: noms de persona
 Zenes Zenes NPMSSP0 # avl: noms de persona
 Zengirli Zengirli NPCSG00
