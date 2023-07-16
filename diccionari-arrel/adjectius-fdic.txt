@@ -18410,6 +18410,7 @@ laïcitzant=categories: A;fonts: derivat;
 lecanorí lecanorina=categories: A;fonts: LT;
 lecideí lecideïna=categories: A;fonts: LT;
 lecitoide=categories: A;fonts: dsalut;
+lecorbusierià lecorbusieriana=categories: A;fonts: derivat;
 lectiu lectiva=categories: A;fonts: LT;
 lectoescriptor lectoescriptora=categories: A;fonts: derivat, viquipedia;
 lector lectora=categories: A;fonts: LT;
