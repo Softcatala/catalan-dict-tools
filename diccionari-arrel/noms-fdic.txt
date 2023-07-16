@@ -366,6 +366,7 @@ PC=categories: MI;fonts: esadir;
 PCB=categories: FI;fonts: dsalut;
 PCP=categories: FI;fonts: dsalut;
 PD=categories: MFI;fonts: sigla (postdata, poc difícil);
+PDA=categories: MFI;fonts: sigla;
 PDF=categories: MI;fonts: termcat;
 PDI=categories: MS;fonts: sigles;
 PEV=categories: FI;fonts: dsalut;
