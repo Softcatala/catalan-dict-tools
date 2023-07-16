@@ -27969,7 +27969,6 @@ sanuienc sanuienca=categories: A;fonts: LT;
 saorrà saorrana=categories: A;fonts: LT;
 sapastre sapastra=categories: A;fonts: LT;
 sapiencial=categories: A;fonts: LT;
-sapiens=categories: AI;fonts: termcat;
 sapient=categories: A;fonts: LT;
 sapientíssim sapientíssima=categories: A;fonts: superlative;
 saponaci saponàcia=categories: A;fonts: LT;

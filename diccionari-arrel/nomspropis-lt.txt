@@ -21705,7 +21705,6 @@ Sapena Sapena NPCNSP0
 Sapera Sapera NPCNSP0
 Saperes Saperes NPCNSP0
 Sapieha Sapieha NPCNSP0
-Sapiens Sapiens NPCNSP0
 Sapinya Sapinya NPCNSP0
 Sapitwa Sapitwa NPCSG00
 Saplana Saplana NPCNSP0

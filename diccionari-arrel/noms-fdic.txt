@@ -77656,6 +77656,7 @@ sàmpler=categories: M;fonts: esadir;
 sàndal=categories: M;fonts: LT;
 sànies=categories: FI;fonts: LT;
 sànscrit=categories: M;fonts: LT;
+sàpiens=categories: MI;fonts: esadir;
 sàput=categories: M;fonts: LT;
 sària=categories: F;fonts: LT;
 sàrmata=categories: MF;fonts: LT;
