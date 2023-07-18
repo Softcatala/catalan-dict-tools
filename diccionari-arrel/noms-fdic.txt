@@ -58263,6 +58263,7 @@ occitanista=categories: MF;fonts: LT;
 occitanització=categories: F;fonts: LT;
 occità occitana=categories: MF;fonts LT;
 occípit=categories: M;fonts: LT;
+oceanari=categories: M;fonts: termcat;
 oceanicultura=categories: F;fonts: LT;
 oceanitat=categories: F;fonts: LT;
 oceanografia=categories: F;fonts: LT;
