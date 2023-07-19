@@ -8546,6 +8546,7 @@ Encebres Encebres NPFPG00
 Encesa Encesa NPCNSP0
 Encontrella Encontrella NPCSG00
 Encèlad Encèlad NPMSG00
+Enderrock Enderrock NPCSO00
 Endesa Endesa NPFSO00
 Enedina Enedina NPFSSP0
 Enees Enees NPMPSP0
@@ -19370,6 +19371,7 @@ Primitives Primitiva NPFPSP0
 Primià Primià NPMSSP0
 Primorje Primorje NPCSG00
 Prims Prim NPMPSP0
+Prince Prince NPMSSP0
 Princeton Princeton NPCSG00
 Pringle Pringle NPCNSP0 # medical
 Prior Prior NPCNSP0

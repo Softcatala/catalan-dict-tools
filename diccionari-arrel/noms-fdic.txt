@@ -10737,6 +10737,7 @@ bifosfonat=categories: M;fonts: dsalut;
 biftalat=categories: M;fonts: LT;
 bifurcació=categories: F;fonts: LT;
 bifòbia=categories: F;fonts: termcat;
+big-bang=categories: M;fonts: GDLC, IEC;
 biga=categories: F;fonts: LT;
 bigal=categories: M;fonts: LT;
 bigalot=categories: M;fonts: LT;
