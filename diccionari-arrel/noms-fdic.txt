@@ -82,7 +82,6 @@
 #indole=categories: M;fonts: LT; terme de química, es confon amb índole
 #indole=categories: M;fonts: dsalut;
 #indusium griseum=categories: M;fonts: dsalut;
-#infermetat=categories: F;fonts: LT; arcaisme o poc usual
 #inotuzumab ozogamicina=categories: M;fonts: dsalut;
 #input-output=categories: MS;fonts: DNV,anglès;
 #intima=categories: F;fonts: LT; arcaisme
@@ -45483,6 +45482,7 @@ inferior=categories: M;fonts: LT;
 inferioritat=categories: F;fonts: LT;
 infermer infermera=categories: MF;fonts LT;
 infermeria=categories: F;fonts: LT;
+infermetat=categories: F;fonts: LT; arcaisme o poc usual
 infern=categories: M;fonts: LT;
 infertilitat=categories: F;fonts: LT;
 inferència=categories: F;fonts: LT;
