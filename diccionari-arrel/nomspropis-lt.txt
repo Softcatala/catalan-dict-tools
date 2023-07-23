@@ -23089,6 +23089,7 @@ Sàsser Sàsser NPCSG00
 Sáenz Sáenz NPCNSP0
 Sáez Sáez NPCNSP0
 Sánchez Sánchez NPCNSP0
+Sánchez-Cutillas Sánchez-Cutillas NPCNSP0
 Sèfora Sèfora NPFSSP0 # avl: noms de persona
 Sèneca Sèneca NPMSSP0 # avl: noms de persona
 Sèptim Sèptim NPMSSP0
@@ -25510,6 +25511,7 @@ Villafamés Villafamés NPCSG00
 Villagordo Villagordo NPCSG00
 Villalba Villalba NPCSG00
 Villamartín Villamartín NPCSG00
+Villangómez Villangómez NPCNSP0
 Villans Villans NPCSG00
 Villar Villar NPMSG00
 Villarejo Villarejo NPCNSP0
