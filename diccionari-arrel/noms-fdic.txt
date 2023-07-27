@@ -34963,6 +34963,7 @@ federació=categories: F;fonts: LT;
 federalisme=categories: M;fonts: LT;
 federalista=categories: MF;fonts: LT;
 federalització=categories: F;fonts: LT;
+fedivers=categories: M;fonts: wikipedia;
 fedotozina=categories: F;fonts: dsalut;
 fedrilat=categories: M;fonts: dsalut;
 feedback=categories: M;fonts: GDLC;
