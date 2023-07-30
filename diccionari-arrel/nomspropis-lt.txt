@@ -4618,6 +4618,7 @@ Bowie Bowie NPCNSP0
 Bowman Bowman NPCNSP0 # medical
 Boyacá Boyacá NPCSG00
 Boyden Boyden NPCNSP0 # medical
+Boye Boye NPCNSP0
 Boyer Boyer NPCNSP0 # medical
 Boyle Boyle NPCNSP0
 Bozeman Bozeman NPCSG00
