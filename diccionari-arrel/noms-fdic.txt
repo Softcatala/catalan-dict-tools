@@ -12605,6 +12605,7 @@ brusidor=categories: M;fonts: LT;
 brusquedat=categories: F;fonts: LT;
 brusquina=categories: F;fonts: LT;
 brussel·lador=categories: M; fonts: termcat;
+brussel·lització=categories: F;fonts: wiki;
 brut=categories: M;fonts: LT;
 brutal=categories: M;fonts: LT;
 brutalisme=categories: M;fonts: LT;
