@@ -11358,6 +11358,7 @@ Guanacaste Guanacaste NPCSG00
 Guanahaní Guanahaní NPCSG00
 Guanajuato Guanajuato NPCSG00
 Guangdong Guangdong NPCSG00
+Guangzhou Guangzhou NPCSG00
 Guansé Guansé NPCNSP0
 Guants Guants NPCNSP0
 Guantánamo Guantánamo NPCSG00
