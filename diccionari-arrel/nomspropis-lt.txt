@@ -14265,6 +14265,7 @@ Ludoví Ludoví NPMSSP0 # avl: noms de persona
 Ludwig Ludwig NPMSSP0
 Ludwigsburg Ludwigsburg NPCSG00
 Lufthansa Lufthansa NPCNO00
+Luftwaffe Luftwaffe NPFSO00
 Lugano Lugano NPCSG00
 Lugansk Lugansk NPCSG00
 Lugo Lugo NPCSG00

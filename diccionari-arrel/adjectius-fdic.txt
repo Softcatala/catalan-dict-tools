@@ -28296,6 +28296,7 @@ seminú seminua [pl. seminús]=categories: A;fonts: LT;
 semiobert semioberta=categories: A;fonts: DDLLC;
 semiocupat semiocupada=categories: A;fonts: derivat;
 semioficial=categories: A;fonts: LT;
+semiolímpic semiolímpica=categories: A;fonts: LT;
 semiològic semiològica=categories: A;fonts: LT;
 semiopac semiopaca=categories: A;fonts: LT;
 semioval=categories: A;fonts: LT;

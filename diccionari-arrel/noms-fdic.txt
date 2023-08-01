@@ -53596,6 +53596,7 @@ microfil·le=categories: M;fonts: LT;
 microfilària=categories: F;fonts: dsalut;
 microfinançament=categories: M;fonts: derivat;
 microfitxa=categories: F;fonts: LT;
+microflora=categories: F;fonts: termcat;
 microfonia=categories: F;fonts: LT;
 microfonisme=categories: M;fonts: LT;
 microfonoscopi=categories: M;fonts: dsalut;
