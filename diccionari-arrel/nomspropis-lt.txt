@@ -214,6 +214,7 @@
 'Ndrangheta 'Ndrangheta NPFSO00
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 13TV 13TV NPCNO00
+3Cat 3Cat NPCNO00
 3XL 3XL NPMSO00
 3i4 3i4 NPFSO00
 7-Zip 7-Zip NPCNO00
@@ -803,6 +804,7 @@ Al-Nafūd Al-Nafūd NPCSG00
 Al-Naǧaf Al-Naǧaf NPCSG00
 Al-Qaeda Al-Qaeda NPMSO00
 Al-Qaida Al-Qaida NPMSO00
+Al-Quds Al-Quds NPFPO00
 Al-Raqqa Al-Raqqa NPCSG00
 Al-Riyād Al-Riyād NPCSG00
 Al-Ruṣāfa Al-Ruṣāfa NPCSG00
@@ -1745,6 +1747,7 @@ Andorrà Andorrà NPCNSP0
 Andratx Andratx NPCSG00
 Andrea Andrea NPCSSP0
 Andrees Andrea NPCPSP0
+Andrei Andrei NPMSSP0
 Andreu Andreu NPCNSP0
 Andreu Andreu NPMSSP0
 Andreua Andreua NPFSSP0 # avl: noms de persona
@@ -3080,6 +3083,7 @@ Balutxistan Balutxistan NPMSG00
 Balutxistan-Sistan Balutxistan-Sistan NPCSG00
 Balué Balué NPCNSP0
 Balzac Balzac NPCNSP0
+Balàbine Balàbine NPCSG00
 Balàfia Balàfia NPCSG00
 Balàkirev Balàkirev NPCNSP0
 Balç Balç NPCNSP0
@@ -3094,6 +3098,7 @@ Banal Banal NPCNSP0
 Banat Banat NPMSG00
 Banbridge Banbridge NPCSG00
 Bancaixa Bancaixa NPFSO00
+Bandaaceh Bandaaceh NPCSG00
 Bandama Bandama NPCSG00
 Bander Bander NPCNSP0
 Bandirma Bandirma NPCSG00
@@ -6070,6 +6075,7 @@ Catllà Catllà NPCSG00
 Catoixà Catoixà NPCNSP0
 Catona Catona NPCSG00
 Catral Catral NPCSG00
+Catràdio Catràdio NPFSO00
 Catul Catul NPMSSP0 # avl: noms de persona
 Catà Catà NPCNSP0
 Catània Catània NPCSG00
@@ -7523,6 +7529,7 @@ Cúper Cúper NPCSG00
 Cúrcia Cúrcia NPFSSP0 # avl: noms de persona
 Cǎlǎraşi Cǎlǎraşi NPCSG00
 DCVB DCVB NPMSO00
+DEIEC DEIEC NPMSO00
 DGAIA DGAIA NPFSO00
 DGT DGT NPFSO00
 DIEC DIEC NPMSO00
@@ -7533,7 +7540,6 @@ Dabakala Dabakala NPCSG00
 Dabau Dabau NPCNSP0
 Dabola Dabola NPCSG00
 Dac Dac NPCNSP0
-Dacca Dacca NPCSG00
 Dachau Dachau NPCSG00
 Daci Daci NPMSSP0
 Daciana Daciana NPFSSP0 # avl: noms de persona
@@ -7867,6 +7873,7 @@ Dexeus Dexeus NPCNSP0
 Dezfūl Dezfūl NPCSG00
 Deífile Deífile NPFSSP0 # avl: noms de persona
 Deó Deó NPCNSP0
+Dhaka Dhaka NPCSG00
 Dhaulāgiri Dhaulāgiri NPCSG00
 Dhofar Dhofar NPCSG00
 Dhānbād Dhānbād NPCSG00
@@ -8025,7 +8032,7 @@ Donath-Landsteiner Donath-Landsteiner NPCNSP0 # medical
 Donatila Donatila NPFSSP0
 Donatiles Donatila NPFPSP0
 Donats Donat NPMPSP0
-Donbass Donbass NPMSG00
+Donbàs Donbàs NPMSG00
 Doncaster Doncaster NPCSG00
 Donderis Donderis NPCNSP0
 Donetsk Donetsk NPCSG00
@@ -9043,6 +9050,7 @@ Estíbalis Estíbalis NPFSSP0 # avl: noms de persona
 Estíria Estíria NPCSG00
 Estònia Estònia NPFSG00
 Esvetlana Esvetlana NPFSSP0 # avl: noms de persona
+Eswatini Eswatini NPCSG00
 Esztergom Esztergom NPCSG00
 Etelvina Etelvina NPFSSP0 # avl: noms de persona
 Etelví Etelví NPMSSP0 # avl: noms de persona
@@ -10930,7 +10938,6 @@ Gistaín Gistaín NPCSG00
 GitHub GitHub NPMSO00
 Giuseppe Giuseppe NPMSSP0
 Givors Givors NPCSG00
-Gizeh Gizeh NPCSG00
 Gjirokaster Gjirokaster NPCSG00
 Gladis Gladis NPFSSP0 # avl: noms de persona
 Glandon Glandon NPMSG00
@@ -11511,6 +11518,7 @@ Guixers Guixers NPCSG00
 Guixà Guixà NPCNSP0
 Guixà Guixà NPCSG00
 Guiyang Guiyang NPCSG00
+Guiza Guiza NPCSG00
 Guizhou Guizhou NPCSG00
 Gujarat Gujarat NPCSG00
 Gujarāt Gujarāt NPCSG00
@@ -11869,6 +11877,7 @@ Hermògenes Hermògenes NPMPSP0
 Hermògenes Hermògenes NPMSSP0
 Hermòpolis Hermòpolis NPCSG00
 Hernandis Hernandis NPCNSP0
+Hernangómez Hernangómez NPCNSP0
 Hernani Hernani NPCSG00
 Herne Herne NPCSG00
 Herning Herning NPCSG00
@@ -12255,6 +12264,7 @@ Idàlia Idàlia NPFSSP0 # avl: noms de persona
 Idèfix Idèfix NPMSSP0
 Iecla Iecla NPFSG00
 Iekaterinburg Iekaterinburg NPCSG00
+Ielets Ielets NPCSG00
 Ieltsin Ieltsin NPCNSP0
 Iemen Iemen NPMSG00
 Ienissei Ienissei NPCSG00
@@ -13057,6 +13067,7 @@ Kennedy Kennedy NPCNSP0
 Kenneth Kenneth NPMSSP0
 Kent Kent NPCSG00
 Kentucky Kentucky NPCSG00
+Kènia Kènia NPFSG00
 Kenya Kenya NPFSG00
 Kepler Kepler NPCNSP0
 Kerala Kerala NPCSG00
@@ -13129,7 +13140,7 @@ Kinshasa Kinshasa NPCSG00
 Kintyre Kintyre NPCSG00
 Kipling Kipling NPCNSP0
 Kirchner Kirchner NPCNSP0
-Kirguizistan Kirguizistan NPMSG00
+Kirguizstan Kirguizstan NPMSG00
 Kiribati Kiribati NPMSG00
 Kiritimati Kiritimati NPCSG00
 Kirkuk Kirkuk NPCSG00
@@ -13304,7 +13315,6 @@ Kàtmandu Kàtmandu NPCSG00
 Kálymnos Kálymnos NPCSG00
 Kárpas Kárpas NPCSG00
 Kárpathos Kárpathos NPCSG00
-Kènia Kènia NPFSG00
 Kénédougou Kénédougou NPCSG00
 Kêb Kêb NPCSG00
 Kíev Kíev NPCSG00
@@ -14267,8 +14277,8 @@ Ludwigsburg Ludwigsburg NPCSG00
 Lufthansa Lufthansa NPCNO00
 Luftwaffe Luftwaffe NPFSO00
 Lugano Lugano NPCSG00
-Lugansk Lugansk NPCSG00
 Lugo Lugo NPCSG00
+Luhansk Luhansk NPCSG00
 Luimneach Luimneach NPCSG00
 Lukaixenko Lukaixenko NPCNSP0
 Lukács Lukács NPCNSP0
@@ -15851,7 +15861,7 @@ Misrata Misrata NPCSG00
 Misser Misser NPCNSP0
 Misserol Misserol NPCNSP0
 Mississauga Mississauga NPCSG00
-Mississipí Mississipí NPCSG00
+Mississipi Mississipi NPCSG00
 Missouri Missouri NPCSG00
 Mistassini Mistassini NPCSG00
 Misterbianco Misterbianco NPCSG00
@@ -16080,7 +16090,6 @@ Mont-ral Mont-ral NPCSG00
 Mont-ras Mont-ras NPCNSP0
 Mont-ras Mont-ras NPCSG00
 Mont-real Mont-real NPCNSP0
-Mont-real Mont-real NPCSG00
 Mont-rebei Mont-rebei NPCSG00
 Mont-rodon Mont-rodon NPCNSP0
 Mont-rodon Mont-rodon NPCSG00
@@ -16312,6 +16321,7 @@ Montpeó Montpeó NPCNSP0
 Montpolt Montpolt NPCSG00
 Montpou Montpou NPCNSP0
 Montragull Montragull NPCNSP0
+Montreal Montreal NPCSG00
 Montreuil Montreuil NPCSG00
 Montreux Montreux NPCSG00
 Montroi Montroi NPCSG00
@@ -16563,7 +16573,6 @@ Mundó Mundó NPCNSP0
 Munell Munell NPCNSP0
 Mungia Mungia NPCSG00
 Muni Muni NPCSG00
-Munic Munic NPMSG00
 Munson Munson NPCNSP0 # medical
 Munster Munster NPCSG00
 Munt Munt NPCNSP0
@@ -16709,6 +16718,7 @@ Mönchengladbach Mönchengladbach NPCSG00
 Mössbauer Mössbauer NPCNSP0
 Møn Møn NPCSG00
 Múnia Múnia NPFSG00
+Múnic Múnic NPMSG00
 Múnter Múnter NPCSG00
 Múrcia Múrcia NPFSG00
 Múria Múria NPFSG00
@@ -18449,12 +18459,12 @@ Penguin Penguin NPCNO00
 Penina Penina NPCNSP0
 Penitents Penitents NPMPG00
 Penne Penne NPCSG00
-Pennsilvània Pennsilvània NPFSG00
 Penoleda Penoleda NPCNSP0
 Penoles Penoles NPCNSP0
 Penoso Penoso NPMSG00
 Penrose Penrose NPCNSP0
 Pensacola Pensacola NPCSG00
+Pensilvània Pensilvània NPFSG00
 Pentesilea Pentesilea NPFSSP0 # avl: noms de persona
 Pentinat Pentinat NPCNSP0
 Penya Penya NPCNSP0
@@ -19773,6 +19783,7 @@ Pàrmenes Pàrmenes NPMSSP0 # avl: noms de persona
 Pàrtia Pàrtia NPCSG00
 Pàtrocle Pàtrocle NPMSSP0 # avl: noms de persona
 Pàvlov Pàvlov NPCNSP0
+Pàvlovsk Pàvlovsk NPCSG00
 Pájara Pájara NPCSG00
 Pánuco Pánuco NPCSG00
 Pèrgam Pèrgam NPCSG00
@@ -20083,7 +20094,7 @@ Ralló Ralló NPCNSP0
 Ram Ram NPCNSP0
 Rama Rama NPCSG00
 Ramadi Ramadi NPCSG00
-Ramallah Ramallah NPCSG00
+Ramal·lah Ramal·lah NPCSG00
 Ramastué Ramastué NPCSG00
 Rambla Rambla NPFSG00
 Ramblar Ramblar NPMSG00
@@ -20694,6 +20705,7 @@ Rocavella Rocavella NPCSG00
 Rocciamelone Rocciamelone NPCSG00
 Rocha Rocha NPCSG00
 Rochdale Rochdale NPCSG00
+Roche Roche NPCNO00
 Roche-sur-Yon Roche-sur-Yon NPFSG00
 Rochefort Rochefort NPCSG00
 Rochelle Rochelle NPCSG00
@@ -22323,6 +22335,7 @@ Shabeelle Shabeelle NPCSG00
 Shaftesbury Shaftesbury NPCNSP0
 Shakespeare Shakespeare NPCNSP0
 Shandong Shandong NPCSG00
+Shanghai Shanghai NPCSG00
 Shangqiu Shangqiu NPCSG00
 Shantou Shantou NPCSG00
 Shanxi Shanxi NPCSG00
@@ -22445,6 +22458,7 @@ Silvèria Silvèria NPFSSP0 # avl: noms de persona
 Silví Silví NPMSSP0 # avl: noms de persona
 Sil·la Sil·la NPMSSP0 # avl: noms de persona
 Silèsia Silèsia NPFSG00
+Siló Siló NPCSG00
 Simancas Simancas NPCSG00
 Simat Simat NPCSG00
 Simbirsk Simbirsk NPCSG00
@@ -25765,6 +25779,7 @@ Voorburg Voorburg NPCSG00
 Vorarlberg Vorarlberg NPCSG00
 Vorner Vorner NPCNSP0 # medical
 Voro Voro NPMSSP0 # avl: noms de persona
+Vorobiov Vorobiov NPCNSP0
 Voronej Voronej NPCSG00
 Voronež Voronež NPCSG00
 Vosges Vosges NPMPG00
@@ -25791,7 +25806,7 @@ Västervik Västervik NPCSG00
 Västerås Västerås NPCSG00
 Vättern Vättern NPCSG00
 Växjö Växjö NPCSG00
-Vèneto Vèneto NPMSG00
+Vènet Vènet NPMSG00
 Vélez-Málaga Vélez-Málaga NPCSG00
 Vélizy-Villacoublay Vélizy-Villacoublay NPCSG00
 Vénissieux Vénissieux NPCSG00
@@ -26076,7 +26091,6 @@ Xancó Xancó NPCNSP0
 Xandiera Xandiera NPCNSP0
 Xandiu Xandiu NPCNSP0
 Xandó Xandó NPCNSP0
-Xangai Xangai NPCSG00
 Xantal Xantal NPFSSP0 # avl: noms de persona
 Xanten Xanten NPCSG00
 Xantipa Xantipa NPFSSP0
@@ -26213,8 +26227,10 @@ Yamaha Yamaha NPCNO00
 Yamato Yamato NPCSG00
 Yamoussoukro Yamoussoukro NPCSG00
 Yamuna Yamuna NPCSG00
+Yamunanagar Yamunanagar NPCSG00
 Yan'an Yan'an NPCSG00
 Yanggang Yanggang NPCSG00
+Yangon Yangon NPCSG00
 Yangquan Yangquan NPCSG00
 Yangzhou Yangzhou NPCSG00
 Yantai Yantai NPCSG00
@@ -26400,7 +26416,6 @@ Zumarraga Zumarraga NPCSG00
 Zumbush Zumbush NPCNSP0 # medical
 Zunyi Zunyi NPCSG00
 Zurbarán Zurbarán NPCNSP0
-Zuric Zuric NPCSG00
 Zutphen Zutphen NPCSG00
 Zuwarah Zuwarah NPCSG00
 Zuénoula Zuénoula NPCSG00
@@ -26421,6 +26436,7 @@ Zòsims Zòsim NPMPSP0
 Zòtic Zòtic NPMSSP0
 Zòtics Zòtic NPMPSP0
 Zújar Zújar NPCSG00
+Zúric Zúric NPCSG00
 Zābol Zābol NPCSG00
 al-Din al-Din NPCNSP0
 al-Sadat al-Sadat NPCNSP0
