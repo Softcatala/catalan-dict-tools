@@ -13067,7 +13067,6 @@ Kennedy Kennedy NPCNSP0
 Kenneth Kenneth NPMSSP0
 Kent Kent NPCSG00
 Kentucky Kentucky NPCSG00
-Kènia Kènia NPFSG00
 Kenya Kenya NPFSG00
 Kepler Kepler NPCNSP0
 Kerala Kerala NPCSG00
@@ -13315,6 +13314,7 @@ Kàtmandu Kàtmandu NPCSG00
 Kálymnos Kálymnos NPCSG00
 Kárpas Kárpas NPCSG00
 Kárpathos Kárpathos NPCSG00
+Kènia Kènia NPFSG00
 Kénédougou Kénédougou NPCSG00
 Kêb Kêb NPCSG00
 Kíev Kíev NPCSG00
