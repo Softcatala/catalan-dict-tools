@@ -5758,6 +5758,7 @@ esquerdar=categories: V;model:cantar;fonts: LT;
 esquerdejar=categories: V;model:envejar;fonts: LT;
 esquerdillar=categories: V;model:cantar;fonts: LT;
 esquerdissar=categories: V;model:acarnissar;fonts: LT;
+esquerranitzar=categories: V;model:cantar;fonts: esadir, dnv;
 esquerrar=categories: V;model:cantar;fonts: LT;
 esquiar=categories: V;model:crear;fonts: LT;
 esquifir=categories: V;model:servir;fonts: LT;

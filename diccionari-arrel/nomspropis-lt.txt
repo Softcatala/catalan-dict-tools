@@ -18776,6 +18776,7 @@ Piles Piles NPCNSP0
 Piles Piles NPFPG00
 Pili Pili NPFSSP0 # avl: noms de persona
 Pilica Pilica NPCSG00
+Pilos Pilos NPCSG00
 Piloña Piloña NPCSG00
 Pilsen Pilsen NPCSG00
 Pilzà Pilzà NPCSG00
