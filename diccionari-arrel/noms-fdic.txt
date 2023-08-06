@@ -57977,6 +57977,7 @@ numídid=categories: M;fonts: LT;
 nun=categories: F;fonts: LT;
 nunació=categories: F;fonts: dsalut;
 nunatak=categories: M;fonts: LT;
+nunchaku=categories: M;fonts: esadir;
 nunci núncia=categories: MF;fonts: LT;
 nunciatura=categories: F;fonts: LT;
 nuncupació=categories: F;fonts: LT;
