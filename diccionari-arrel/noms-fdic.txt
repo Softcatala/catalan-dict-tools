@@ -60395,6 +60395,7 @@ pacritinib=categories: M;fonts: dsalut;
 pacte=categories: M;fonts: LT;
 pactisme=categories: M;fonts: LT;
 pactista=categories: MF;fonts: LT;
+pactòmetre=categories: M;fonts: esadir;
 pacífic=categories: M;fonts: LT;
 pacífid pacífida=categories: MF;fonts: LT;
 pacòmetre=categories: M;fonts: LT;
