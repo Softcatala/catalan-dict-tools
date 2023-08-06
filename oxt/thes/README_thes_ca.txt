@@ -1,9 +1,9 @@
 _______________________________________________________________________________
 
 	DICCIONARI DE SINÒNIMS DE CATALÀ
-	versió 2.3 (maig 2023)
+	versió 2.3.1 (agost 2023)
 
-	Copyright (C) 2022 Jaume Ortolà <jaumeortola@gmail.com> --- Softcatalà
+	Copyright (C) 2023 Jaume Ortolà <jaumeortola@gmail.com> --- Softcatalà
    
 	Llicència:
 	    Creative Commons CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
