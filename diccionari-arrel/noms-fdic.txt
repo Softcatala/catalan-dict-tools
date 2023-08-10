@@ -10687,6 +10687,7 @@ bicicleta=categories: F;fonts: LT;
 bicicletada=categories: F;fonts: neolosfera;
 biciclista=categories: MF;fonts: Jané;
 bicicròs=categories: MI;fonts: LT;
+bicitaxi=categories: M;fonts: esadir;
 bicitopènia=categories: F;fonts: dsalut;
 bicitrial=categories: M;fonts: LT;
 bicitrineu=categories: F;fonts: LT;
