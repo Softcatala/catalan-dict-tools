@@ -39797,6 +39797,7 @@ glutol=categories: M;fonts: dsalut;
 glutosa=categories: F;fonts: dsalut;
 glutoscopi=categories: M;fonts: dsalut;
 gluó=categories: M;fonts: LT;
+glàmping=categories: MS;fonts: termcat;
 glàndula=categories: F;fonts: LT;
 glànola=categories: F;fonts: LT;
 glàsnost=categories: FS; fonts: esadir;
