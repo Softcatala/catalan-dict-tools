@@ -7527,6 +7527,7 @@ Cúcuta Cúcuta NPCSG00
 Cúmbria Cúmbria NPCSG00
 Cúper Cúper NPCSG00
 Cúrcia Cúrcia NPFSSP0 # avl: noms de persona
+Cărtărescu Cărtărescu NPCNSP0
 Cǎlǎraşi Cǎlǎraşi NPCSG00
 DCVB DCVB NPMSO00
 DEIEC DEIEC NPMSO00
@@ -26445,6 +26446,7 @@ al-Sadat al-Sadat NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
 bonÀrea bonÀrea NPCNO00
 d'Alembert d'Alembert NPCNSP0
+d'Holbach d'Holbach NPCNSP0
 eBay eBay NPCNO00
 es-Satty es-Satty NPCNSP0
 ex-Iugoslàvia ex-Iugoslàvia NPFSG00
