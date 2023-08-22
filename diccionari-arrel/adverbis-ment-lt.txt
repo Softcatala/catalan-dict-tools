@@ -1113,6 +1113,7 @@ despreocupadament despreocupadament RG
 despresament despresament RG # extrets de corpus
 desprevingudament desprevingudament RG
 desproporcionadament desproporcionadament RG
+desproporcionalment desproporcionalment RG
 despulladament despulladament RG # extrets de corpus
 despòticament despòticament RG
 destacadament destacadament RG # extrets de corpus

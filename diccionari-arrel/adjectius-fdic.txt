@@ -8997,6 +8997,7 @@ desposseïdor desposseïdora=categories: A;fonts: LT;
 despreciable=categories: A;fonts: LT;
 desprevingut desprevinguda [sup. desprevingudíssim]=categories: A; font:apertium;
 desprogramador desprogramadora=categories: A;fonts: LT;
+desproporcional=categories: A;fonts: derivat;
 desproporcionat desproporcionada [sup. desproporcionadíssim]=categories: A; font:apertium;
 desprotegit desprotegida [sup. desprotegidíssim]=categories: A; font:apertium;
 despullat despullada [sup. despulladíssim]=categories: A; font:apertium;

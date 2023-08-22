@@ -24372,6 +24372,7 @@ desprestigi=categories: M;fonts: LT;
 desprevenció=categories: F;fonts: LT;
 desprofessionalització=categories: F;fonts: derivat;
 desprofit=categories: M;fonts: LT;
+despropocionalitat=categories: F;fonts: derivat;
 desproporcionació=categories: F;fonts: LT;
 desproporcionalitat=categories: F;fonts: derivat;
 desproporció=categories: F;fonts: LT;
