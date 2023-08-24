@@ -7640,6 +7640,7 @@ Dari Dari NPMSSP0 # avl: noms de persona
 Daria Daria NPFSSP0 # avl: noms de persona
 Darier Darier NPCNSP0 # medical
 Darién Darién NPCSG00
+Darjeeling Darjeeling NPCSG00
 Darling Darling NPCNSP0
 Darling Darling NPCSG00
 Darlington Darlington NPCSG00
