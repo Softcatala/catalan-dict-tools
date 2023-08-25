@@ -2616,6 +2616,7 @@ desatendar=categories: V;model:cantar;fonts: LT;
 desatendre=categories: V;model:atendre;fonts: LT;
 desatesar=categories: V;model:aburgesar;fonts: LT;
 desatracar=categories: V;model:trencar;fonts: LT;
+desatresorar=categories: V;model:cantar;fonts: DNV;
 desatrossar=categories: V;model:adossar;fonts: LT;
 desautoritzar=categories: V;model:cantar;fonts: LT;
 desavenir=categories: V;model:prevenir;fonts: LT;
