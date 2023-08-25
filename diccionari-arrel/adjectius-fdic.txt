@@ -7182,6 +7182,7 @@ compressor compressora=categories: A;fonts: LT;
 comprimible=categories: A;fonts: LT;
 comprometedor comprometedora=categories: A;fonts: LT;
 compromissori compromissòria=categories: A;fonts: LT;
+compromès compromesa=categories: A;fonts: DNV, ;
 comprovable=categories: A;fonts: LT;
 comprovador comprovadora=categories: A;fonts: LT;
 comprovant=categories: A;fonts: LT;

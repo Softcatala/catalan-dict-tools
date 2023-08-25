@@ -191,6 +191,8 @@ cascunes cascun PI0FP000
 cascuns cascun PI0MP000
 cascú cascú PI0CS000
 catorze catorze DN0CP0
+catso catso I
+catsoleta catsoleta I
 cent cent DN0CP0
 cert cert DI0MS0
 certa cert DI0FS0
