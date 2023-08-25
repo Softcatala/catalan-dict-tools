@@ -13351,10 +13351,6 @@ clapissal clapissal NCMS000
 clapissals clapissal NCMP000
 clarianda clarianda NCFS000
 clariandes clarianda NCFP000
-clarífic clarífic AQ0MS0
-clarífica clarífic AQ0FS0
-clarífics clarífic AQ0MP0
-clarífiques clarífic AQ0FP0
 claudiera claudiera NCFS000
 claudieres claudiera NCFP000
 clauquill clauquillar VMIP1S0B
@@ -33752,10 +33748,6 @@ embarassador embarassador AQ0MS0
 embarassadora embarassador AQ0FS0
 embarassadores embarassador AQ0FP0
 embarassadors embarassador AQ0MP0
-embarassosa embarassós AQ0FS0
-embarassoses embarassós AQ0FP0
-embarassosos embarassós AQ0MP0
-embarassós embarassós AQ0MS0
 embarbador embarbador NCMS000
 embarbadors embarbador NCMP000
 embardoll embardollar VMIP1S0B
@@ -46578,8 +46570,6 @@ ficésseu fiçar VMSI2P05
 ficéssim fiçar VMSI1P02
 ficéssiu fiçar VMSI2P02
 ficí fiçar VMIS1S00
-fideuaes fideuà NCFP000
-fideuà fideuà NCFS000
 fideïcomissa fideïcomissar VMIP3S00
 fideïcomissa fideïcomissar VMM02S00
 fideïcomissada fideïcomissar VMP00SF0
@@ -60162,7 +60152,6 @@ pansers panser AQ0MP0
 pansers panser NCMP000
 pantigana pantigana NCFS000
 pantiganes pantigana NCFP000
-pantofla pantofla NCFS000
 pantoflada pantoflada NCFS000
 pantoflades pantoflada NCFP000
 pantoflege pantoflejar VMIP1S0V
@@ -60253,7 +60242,6 @@ pantofler pantofler NCMS000
 pantoflera pantofler NCFS000
 pantofleres pantofler NCFP000
 pantoflers pantofler NCMP000
-pantofles pantofla NCFP000
 pantofàgia pantofàgia NCFS000
 pantofàgies pantofàgia NCFP000
 pantofòbia pantofòbia NCFS000
