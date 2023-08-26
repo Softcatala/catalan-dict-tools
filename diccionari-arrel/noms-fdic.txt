@@ -6185,6 +6185,7 @@ apoastre=categories: M;fonts: LT;
 apoatropina=categories: F;fonts: LT;
 apobiosi=categories: F;fonts: dsalut;
 apocalipsi=categories: F;fonts: LT;
+apocalipticisme=categories: M;fonts: derivat;
 apocament=categories: M;fonts: LT;
 apocamnosi=categories: F;fonts: dsalut;
 apocarp=categories: M;fonts: LT;

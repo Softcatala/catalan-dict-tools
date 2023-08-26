@@ -5746,6 +5746,7 @@ Carnisser Carnisser NPCNSP0
 Carnàtic Carnàtic NPCSG00
 Caro Caro NPCNSP0
 Caro Caro NPMSG00
+Caro-Kann Caro-Kann NPCNSP0
 Carod-Rovira Carod-Rovira NPCNSP0
 Caroig Caroig NPMSG00
 Carol Carol NPCSSP0 # avl: noms de persona
