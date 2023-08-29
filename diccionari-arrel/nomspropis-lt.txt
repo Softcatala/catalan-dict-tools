@@ -11330,7 +11330,7 @@ Guadalajara Guadalajara NPFSG00
 Guadalcanal Guadalcanal NPCSG00
 Guadalest Guadalest NPCSG00
 Guadalete Guadalete NPCSG00
-Guadalhorce Guadalhorce NPCSG00
+Guadalhorce Guadalhorce NPMSG00
 Guadalimar Guadalimar NPCSG00
 Guadalmellato Guadalmellato NPCSG00
 Guadalop Guadalop NPCSG00
@@ -16563,6 +16563,7 @@ Mulet Mulet NPCNSP0
 Mulet Mulet NPMSSP0
 Muleta Muleta NPCSG00
 Mulets Mulet NPMPSP0
+Mulhacén Mulhacén NPMSG00
 Mulhouse Mulhouse NPCSG00
 Mull Mull NPCSG00
 Mullaitivu Mullaitivu NPCSG00
