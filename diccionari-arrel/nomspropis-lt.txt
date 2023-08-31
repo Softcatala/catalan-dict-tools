@@ -12045,6 +12045,7 @@ Honshū Honshū NPCSG00
 Honòria Honòria NPFSSP0 # avl: noms de persona
 Hooghly Hooghly NPCSG00
 Hopkins Hopkins NPCNSP0
+Hopkins-Cole Hopkins-Cole NPCNSP0
 Horaci Horaci NPMSSP0
 Horacis Horaci NPMPSP0
 Horkheimer Horkheimer NPCNSP0
@@ -12400,6 +12401,7 @@ Iqaluit Iqaluit NPCSG00
 Iquique Iquique NPCSG00
 Iraida Iraida NPFSSP0 # avl: noms de persona
 Iran Iran NPMSG00
+Iranzo Iranzo NPCNSP0
 Irapuato Irapuato NPCSG00
 Iraq Iraq NPMSG00
 Irati Irati NPCSG00
@@ -13447,6 +13449,7 @@ Landelina Landelina NPFSSP0 # avl: noms de persona
 Landelins Landelí NPMPSP0
 Landelí Landelí NPMSSP0
 Landes Landes NPFPG00
+Landete Landete NPCNSP0
 Landolf Landolf NPMSSP0 # avl: noms de persona
 Landolfa Landolfa NPFSSP0 # avl: noms de persona
 Landshut Landshut NPCSG00
