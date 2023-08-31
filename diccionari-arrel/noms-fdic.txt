@@ -35610,6 +35610,7 @@ fideu=categories: M;fonts: LT;
 fideuada=categories: F;fonts: LT;
 fideuer fideuera=categories: MF;fonts LT;
 fideueria=categories: F;fonts: LT;
+fideuet=categories: M;fonts: diminutiu;
 fideuà [pl. fideuaes]=categories: F;fonts: DNV,col·loquial;
 fideïcomissari fideïcomissària=categories: MF;fonts LT;
 fideïcomitent=categories: MF;fonts: LT;

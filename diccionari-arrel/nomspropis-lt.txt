@@ -12935,6 +12935,7 @@ Kaesǒng Kaesǒng NPCSG00
 Kaffir Kaffir NPCNSP0 # medical
 Kafka Kafka NPCNSP0
 Kagera Kagera NPCSG00
+Kahneman Kahneman NPCNSP0
 Kahoot Kahoot NPCNO00
 Kaifeng Kaifeng NPCSG00
 Kailahun Kailahun NPCSG00
@@ -24477,6 +24478,7 @@ Tuzla Tuzla NPCSG00
 Tuébols Tuébols NPCNSP0
 Tuïr Tuïr NPCSG00
 Tver Tver NPCSG00
+Tversky Tversky NPCNSP0
 Twain Twain NPCNSP0
 Twitter Twitter NPMSO00
 Txad Txad NPMSG00
