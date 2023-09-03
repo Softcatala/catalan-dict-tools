@@ -19013,6 +19013,7 @@ lorquià -ana=categories: A;fonts: DNV;
 lorrat lorrada=categories: A;fonts: LT;
 losanjat losanjada=categories: A;fonts: LT;
 lotaringià lotaringiana=categories: A;fonts: LT;
+low-cost=categories: AI;fonts: English;
 loxodròmic loxodròmica=categories: A;fonts: LT;
 loxòtic loxòtica=categories: A;fonts: dsalut;
 lubricant=categories: A;fonts: LT;
