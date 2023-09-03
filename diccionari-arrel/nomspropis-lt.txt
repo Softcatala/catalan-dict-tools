@@ -3280,6 +3280,7 @@ Barrons Barrons NPCNSP0
 Barrot Barrot NPCNSP0
 Barruera Barruera NPFSG00
 Barrufet Barrufet NPCNSP0
+Barry Barry NPCNSP0
 Bars Bars NPCNSP0
 Barset Barset NPCNSP0
 Barsimeu Barsimeu NPMSSP0 # avl: noms de persona
@@ -7455,6 +7456,7 @@ Cuxhaven Cuxhaven NPCSG00
 Cuza Cuza NPCNSP0
 Cwmbran Cwmbran NPCSG00
 Cybo Cybo NPCNSP0
+Cynthia Cynthia NPFSSP0
 Czartoryski Czartoryski NPCNSP0
 Czepa Czepa NPCNSP0 # medical
 Czestochowa Czestochowa NPCSG00
@@ -23724,6 +23726,7 @@ Thygeson Thygeson NPCNSP0 # medical
 Thyolo Thyolo NPCSG00
 Thyssen Thyssen NPCNSP0
 Thyssen-Bornemisza Thyssen-Bornemisza NPCNSP0
+Thérèse Thérèse NPFSSP0
 Thórshavn Thórshavn NPCSG00
 Thāna Thāna NPCSG00
 Tiador Tiador NPCNSP0
@@ -25918,6 +25921,7 @@ Wembley Wembley NPCSG00
 Wenceslau Wenceslau NPMSSP0
 Wenceslaus Wenceslau NPMPSP0
 Wenceslava Wenceslava NPFSSP0 # avl: noms de persona
+Wendy Wendy NPFSSP0
 Wenzhou Wenzhou NPCSG00
 Werdnig-Hoffmann Werdnig-Hoffmann NPCNSP0
 Werdnig-Hoffmann Werdnig-Hoffmann NPCNSP0 # medical
@@ -26226,6 +26230,7 @@ Xènius Xènius NPMSSP0 # avl: noms de persona
 Xèrica Xèrica NPCNSP0
 Xúquer Xúquer NPMSG00
 Yafō Yafō NPCSG00
+Yago Yago NPMSSP0
 Yahata Yahata NPCSG00
 Yahoo Yahoo NPCNO00
 Yakima Yakima NPCSG00
