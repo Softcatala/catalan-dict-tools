@@ -31723,6 +31723,7 @@ ullcluc ullcluca=categories: A;fonts: LT;
 ulldeconenc ulldeconenca=categories: A;fonts: LT;
 ulldemolinenc ulldemolinenca=categories: A;fonts: LT;
 ullerat ullerada=categories: A;fonts: LT;
+ullerut ulleruda=categories: A;fonts: DNV;
 ullerós ullerosa=categories: A;fonts: LT;
 ullnegre ullnegra=categories: A;fonts: LT;
 ullprenedor ullprenedora=categories: A;fonts: LT;
