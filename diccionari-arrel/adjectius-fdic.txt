@@ -21479,6 +21479,7 @@ nemàtic nemàtica=categories: A;fonts: LT;
 nentsi=categories: AI;fonts: LT;
 nentsià nentsiana=categories: A;fonts: LT;
 neoadjuvant=categories: A;fonts: LT;
+neoautonomista=categories: A;fonts: derivat;
 neobabilònic neobabilònica=categories: A;fonts: LT;
 neobarroc neobarroca=categories: A;fonts: LT;
 neoblàstic neoblàstica=categories: A;fonts: LT;
