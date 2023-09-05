@@ -2629,6 +2629,7 @@ desbalair=categories: V;model:traduir;fonts: LT;
 desbalbar=categories: V;model:cantar;fonts: LT;
 desballestar=categories: V;model:cantar;fonts: LT;
 desbancar=categories: V;model:trencar;fonts: LT;
+desbancaritzar=categories: V;model:cantar;fonts: derivat;
 desbandar=categories: V;model:cantar;fonts: LT;
 desbaratar=categories: V;model:cantar;fonts: LT;
 desbarbar=categories: V;model:cantar;fonts: LT;
