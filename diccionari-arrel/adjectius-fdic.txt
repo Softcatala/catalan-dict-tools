@@ -21809,6 +21809,7 @@ nonogràvida=categories: A;fonts: dsalut;
 nonàgon nonàgona=categories: A;fonts: LT;
 noològic noològica=categories: A;fonts: LT;
 noostènic noostènica=categories: A;fonts: LT;
+nootròpic nootròpica=categories: A;fonts: wiki;
 noradrenèrgic noradrenèrgica=categories: A;fonts: dsalut;
 noranta-cinquè noranta-cinquena=categories: AO;fonts: LT;
 noranta-dosè noranta-dosena=categories: AO;fonts: LT;

@@ -57714,6 +57714,7 @@ noologia=categories: F;fonts: LT;
 noometria=categories: F;fonts: LT;
 nooscòpia=categories: F;fonts: LT;
 noosfera=categories: F;fonts: LT;
+nootròpic=categories: M;fonts: wiki;
 nopal=categories: M;fonts: LT;
 nora=categories: F;fonts: LT;
 noradrenalina=categories: F;fonts: LT;
