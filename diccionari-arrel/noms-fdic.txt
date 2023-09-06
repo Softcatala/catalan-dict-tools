@@ -430,6 +430,7 @@ Santfermins=categories: MP;fonts: DNV;
 Sir=categories: MS;fonts: esadir,Viquipèdia;
 Sr Sra=categories: MF;fonts: abreviatura;
 Srta=categories: F;fonts: abreviatura;
+Superbowl=categories: F;fonts: esadir;
 Supercopa=categories: F;fonts: esadir;
 TAE=categories: FI;fonts: sigla;
 TAPSD=categories: MFI; fonts: sigla;
