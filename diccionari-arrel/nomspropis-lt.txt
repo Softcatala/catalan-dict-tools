@@ -2411,6 +2411,7 @@ Arsègol Arsègol NPCNSP0
 Arsèguel Arsèguel NPCSG00
 Arsènia Arsènia NPFSSP0 # avl: noms de persona
 Arta Arta NPCSG00
+Artadi Artadi NPCNSP0
 Artafull Artafull NPCNSP0
 Artaix Artaix NPCSG00
 Artal Artal NPCNSP0
@@ -12538,7 +12539,7 @@ Ióssif Ióssif NPMSSP0
 Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
 Iževsk Iževsk NPCSG00
-JMJ JMJ NPFNO00
+JMJ JMJ NPCNO00
 JOC JOC NPCSO00
 JONC JONC NPFSO00
 JQCV JQCV NPFSO00
@@ -18088,6 +18089,7 @@ Palància Palància NPMSG00
 Palència Palència NPFSG00
 Pamela Pamela NPFSSP0
 Pameles Pamela NPFPSP0
+Pamesa Pamesa NPCNO00
 Pamiers Pamiers NPCSG00
 Pamir Pamir NPCSG00
 Pamis Pamis NPCSG00
