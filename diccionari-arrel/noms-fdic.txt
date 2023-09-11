@@ -73152,6 +73152,7 @@ röntgenteràpia=categories: F;fonts: LT;
 rúbrica=categories: F;fonts: LT;
 rúpia=categories: F;fonts: LT;
 rússula=categories: F;fonts: LT;
+rúter=categories: M;fonts: anglès, esadir;
 rútil=categories: M;fonts: LT;
 saba=categories: F;fonts: LT;
 sabadall=categories: M;fonts: LT;
