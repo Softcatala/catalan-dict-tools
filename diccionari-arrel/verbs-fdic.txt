@@ -5267,6 +5267,7 @@ esbrostar=categories: V;model:cantar;fonts: LT;
 esbrostimar=categories: V;model:cantar;fonts: LT;
 esbrotar=categories: V;model:cantar;fonts: LT;
 esbrotonar=categories: V;model:cantar;fonts: LT;
+esbrufar=categories: V;model:cantar;fonts: DCVB;
 esbucar=categories: V;model:trencar;fonts: LT;
 esbudellar=categories: V;model:cantar;fonts: LT;
 esbufegar=categories: V;model:pregar;fonts: LT;

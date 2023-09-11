@@ -8048,6 +8048,7 @@ crioluminescent=categories: A;fonts: LT;
 criològic criològica=categories: A;fonts: LT;
 criomètric criomètrica=categories: A;fonts: LT;
 crioscòpic crioscòpica=categories: A;fonts: LT;
+cripto=categories: AI;fonts: colloquial;
 criptocristal·lí criptocristal·lina=categories: A;fonts: LT;
 criptocèfal criptocèfala=categories: A;fonts: dsalut;
 criptocòccic criptocòccica=categories: A;fonts: dsalut;
