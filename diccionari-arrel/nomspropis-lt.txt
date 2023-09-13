@@ -12533,6 +12533,7 @@ Iwo Iwo NPCSG00
 Ix Ix NPCSG00
 Ixena Ixena NPFSSP0 # avl: noms de persona
 Izan Izan NPMSSP0
+Izmaïl Izmaïl NPCSG00
 Izoard Izoard NPCSG00
 Iñaki Iñaki NPMSSP0
 Ióssif Ióssif NPMSSP0
@@ -26663,4 +26664,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Izmaïl Izmaïl NPCSG00

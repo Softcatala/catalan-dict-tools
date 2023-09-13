@@ -6416,6 +6416,7 @@ apòtesi=categories: F;fonts: LT;
 apòzema=categories: M;fonts: LT;
 aquacicle=categories: M;fonts: LT;
 aquacobalamina=categories: F;fonts: dsalut;
+aquafaba=categories: FS;fonts: esadir;
 aquafèresi=categories: F;fonts: dsalut;
 aquafòbia=categories: F;fonts: dsalut;
 aquagym=categories: MS;fonts: anglès, AVL;
