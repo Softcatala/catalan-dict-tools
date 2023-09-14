@@ -730,6 +730,8 @@ Ain Ain NPCSG00
 Aina Aina NPFSSP0
 Ainara Ainara NPFSSP0
 Aines Aina NPFPSP0
+Ainet Ainet NPCSG00
+Ainet Ainet NPFSSP0
 Aineto Aineto NPCSG00
 Ainhoa Ainhoa NPFSSP0
 Ainoa Ainoa NPFSSP0
