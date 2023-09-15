@@ -4581,6 +4581,7 @@ Botarell Botarell NPCSG00
 Botei Botei NPCNSP0
 Botella Botella NPCNSP0
 Boter Boter NPCNSP0
+Botero Botero NPCNSP0
 Botet Botet NPCNSP0
 Botifoll Botifoll NPCNSP0
 Botines Botines NPCNSP0

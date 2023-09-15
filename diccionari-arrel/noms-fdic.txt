@@ -34205,6 +34205,7 @@ extinent extinenta=categories: MF;fonts: LT;
 extintor=categories: M;fonts: LT;
 extirpació=categories: F;fonts: LT;
 extirpador extirpadora=categories: MF;fonts LT;
+extorero extorera=categories: MF;fonts: derivat;
 extorn=categories: M;fonts: LT;
 extorsionador extorsionadora=categories: MF;fonts: LT;
 extorsió=categories: F;fonts: LT;
