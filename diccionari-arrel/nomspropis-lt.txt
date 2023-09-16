@@ -12,6 +12,7 @@
 #Ampliada Ampliada NPFSSP0 # avl: noms de persona
 #Ampliat Ampliat NPMSSP0 # avl: noms de persona
 #Ana Ana NPFSSP0
+#Anglès Anglès NPCSG00
 #Angústies Angústies NPFSSP0 # avl: noms de persona
 #Antic Antic NPCNSP0
 #Antic Antic NPCSG00
@@ -1808,7 +1809,6 @@ Anglesill Anglesill NPCNSP0
 Anglesola Anglesola NPCNSP0
 Anglesola Anglesola NPCSG00
 Anglona Anglona NPCSG00
-Anglès Anglès NPCSG00
 Anglí Anglí NPCNSP0
 Angoixes Angoixes NPFPSP0
 Angoixes Angoixes NPFSSP0
