@@ -138,6 +138,7 @@
 #reix=categories: F;fonts: LT; lletra hebrea
 #rexi=categories: F;fonts: dsalut;
 #rosina=categories: F;fonts: dsalut;
+#rugoso=categories: M;fonts: LT;
 #ruló [pl. rulós]=categories: M;fonts: GDLC;
 #ròtol (arcaisme)
 #sagrista=categories: M;fonts: LT; #forma antiga de sagristà
@@ -72984,7 +72985,6 @@ rugbi=categories: M;fonts: LT;
 rugina=categories: F;fonts: dsalut;
 rugit=categories: M;fonts: LT;
 rugositat=categories: F;fonts: LT;
-rugoso=categories: M;fonts: LT;
 rugosímetre=categories: M;fonts: LT;
 rugós=categories: M;fonts: LT;
 ruibarbre=categories: M;fonts: LT;
