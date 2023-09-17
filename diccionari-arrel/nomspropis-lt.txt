@@ -22865,6 +22865,7 @@ Sovici Sovici NPCSG00
 Soviètica Soviètica NPFSG00
 Soweto Soweto NPCSG00
 Spa Spa NPCSG00
+SpaceX SpaceX NPCNO00
 Spandau Spandau NPCSG00
 Sparta Sparta NPMSO00
 Spartak Spartak NPMSO00
