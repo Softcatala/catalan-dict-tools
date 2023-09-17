@@ -12503,6 +12503,7 @@ faionenc faionenca=categories: A;fonts: LT;
 faisandé [pl. faisandés]=categories: A;fonts: LT;
 faista=categories: A;fonts: LT;
 faiúmic faiúmica=categories: A;fonts: LT;
+fake=categories: AI;fonts: english, esadir;
 falaguer falaguera=categories: A;fonts: LT;
 falaixa=categories: A;fonts: LT;
 falangista=categories: A;fonts: LT;
