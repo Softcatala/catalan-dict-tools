@@ -10116,6 +10116,7 @@ Frey Frey NPCNSP0 # medical
 Friburg Friburg NPCSG00
 Frida Frida NPFSSP0
 Friedland Friedland NPCSG00
+Friedman Friedman NPCNSP0
 Friedreich Friedreich NPCNSP0 # medical
 Friedrich Friedrich NPMSSP0
 Friedrichshafen Friedrichshafen NPCSG00
@@ -12241,6 +12242,7 @@ Iasmina Iasmina NPFSSP0 # avl: noms de persona
 Iaşi Iaşi NPCSG00
 Ibadan Ibadan NPCSG00
 Ibagué Ibagué NPCSG00
+Ibarra Ibarra NPCNSP0
 Ibarretxe Ibarretxe NPCNSP0
 Ibarz Ibarz NPCNSP0
 Ibercom Ibercom NPCNO00
@@ -13440,6 +13442,7 @@ Lambert Lambert NPMSSP0
 Lamberta Lamberta NPFSSP0 # avl: noms de persona
 Lamberts Lambert NPMPSP0
 Lambeth Lambeth NPCSG00
+Lambán Lambán NPCNSP0
 Lamic Lamic NPCNSP0
 Lamolla Lamolla NPCNSP0
 Lampedusa Lampedusa NPCSG00
@@ -14467,6 +14470,7 @@ Maduixer Maduixer NPMSG00
 Madura Madura NPFSG00
 Madurai Madurai NPCSG00
 Madurell Madurell NPCNSP0
+Maduro Maduro NPCNSP0
 Maebashi Maebashi NPCSG00
 Maella Maella NPFSG00
 Maestrat Maestrat NPMSG00

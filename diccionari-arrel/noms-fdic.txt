@@ -64431,6 +64431,7 @@ pitancer pitancera=categories: MF;fonts LT;
 pitança=categories: F;fonts: LT;
 pitavastatina=categories: F;fonts: dsalut;
 pitavola=categories: F;fonts: LT;
+pitbull=categories: M;fonts: esadir;
 pitecantrop=categories: M;fonts: LT;
 piter=categories: M;fonts: LT;
 pitera=categories: F;fonts: LT;

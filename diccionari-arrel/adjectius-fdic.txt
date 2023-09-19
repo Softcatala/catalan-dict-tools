@@ -13188,6 +13188,7 @@ foliífer foliífera=categories: A;fonts: LT;
 foliós foliosa=categories: A;fonts: LT;
 folk=categories: AI;fonts: LT;
 folklorista=categories: A;fonts: dfrequencies;
+folkloritzador folkloritzadora=categories: A;fonts: derivat;
 folklòric folklòrica=categories: A;fonts: LT;
 foll folla=categories: A;fonts: LT;
 follador folladora=categories: A;fonts: LT;
