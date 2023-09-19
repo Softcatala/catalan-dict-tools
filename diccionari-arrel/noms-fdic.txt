@@ -63575,6 +63575,7 @@ petricó=categories: M;fonts: LT;
 petriel·lidosi=categories: F;fonts: dsalut;
 petrificació=categories: F;fonts: LT;
 petrodòlar=categories: M;fonts: LT;
+petroestat=categories: M;fonts: derivat;
 petrografia=categories: F;fonts: LT;
 petrogènesi=categories: F;fonts: LT;
 petrogènia=categories: F;fonts: LT;
