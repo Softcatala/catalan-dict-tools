@@ -430,6 +430,7 @@ Adapazari Adapazari NPCSG00
 Adaptxt Adaptxt NPCNO00
 Adarró Adarró NPCNSP0
 Adasig Adasig NPCSG00
+Adassil Adassil NPCSG00
 Adaucta Adaucta NPFSSP0 # avl: noms de persona
 Adaucte Adaucte NPMSSP0
 Adauctes Adaucte NPMPSP0
@@ -2812,6 +2813,7 @@ Azaña Azaña NPCNSP0
 Azcapotzalco Azcapotzalco NPCSG00
 Azcona Azcona NPCNSP0
 Azerbaidjan Azerbaidjan NPMSG00
+Azgour Azgour NPCSG00
 Azkoitia Azkoitia NPCSG00
 Aznar Aznar NPCNSP0
 Azorín Azorín NPCNSP0
@@ -7810,6 +7812,7 @@ Derbent Derbent NPCSG00
 Derbi Derbi NPMNO00
 Derby Derby NPCSG00
 Dercum Dercum NPCNSP0 # medical
+Derna Derna NPCSG00
 Derner Derner NPCNSP0
 Derqui Derqui NPCNSP0
 Derramador Derramador NPMSG00
@@ -13159,6 +13162,7 @@ Kirchner Kirchner NPCNSP0
 Kirguizstan Kirguizstan NPMSG00
 Kiribati Kiribati NPMSG00
 Kiritimati Kiritimati NPCSG00
+Kirklareli Kirklareli NPCSG00
 Kirkuk Kirkuk NPCSG00
 Kirkūk Kirkūk NPCSG00
 Kirovohrad Kirovohrad NPCSG00
@@ -17118,6 +17122,7 @@ Ninyoles Ninyoles NPMPSP0
 Ninyoles Ninyoles NPMSSP0
 Niono Niono NPCSG00
 Niort Niort NPCSG00
+Nipah Nipah NPCSG00
 Nipigon Nipigon NPCSG00
 Nippur Nippur NPCSG00
 Niscemi Niscemi NPCSG00
@@ -17854,6 +17859,7 @@ Ouagadougou Ouagadougou NPCSG00
 Ouarsenis Ouarsenis NPCSG00
 Ouarzazate Ouarzazate NPCSG00
 Oubritenga Oubritenga NPCSG00
+Ouirgane Ouirgane NPCSG00
 Oujda Oujda NPCSG00
 Oullins Oullins NPCSG00
 Oulu Oulu NPCSG00

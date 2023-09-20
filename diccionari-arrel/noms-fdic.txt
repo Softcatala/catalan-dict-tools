@@ -50948,6 +50948,7 @@ mania=categories: F;fonts: LT;
 manicomi=categories: M;fonts: LT;
 manicord=categories: M;fonts: LT;
 manicur manicura=categories: MF;fonts: LT;
+manicurista=categories: MF;fonts: esadir;
 manidipina=categories: F;fonts: dsalut;
 manierisme=categories: M;fonts: LT;
 manierista=categories: MF;fonts: LT;
