@@ -794,6 +794,7 @@ Al-Buraymī Al-Buraymī NPCSG00
 Al-Dawḥa Al-Dawḥa NPCSG00
 Al-Dāḫila Al-Dāḫila NPCSG00
 Al-Fujayrah Al-Fujayrah NPCSG00
+Al-Haouz Al-Haouz NPCSG00
 Al-Hilla Al-Hilla NPCSG00
 Al-Hindīya Al-Hindīya NPCSG00
 Al-Hoceima Al-Hoceima NPCSG00
@@ -1689,6 +1690,7 @@ Anaclet Anaclet NPMSSP0
 Anacleta Anacleta NPFSSP0 # avl: noms de persona
 Anaclets Anaclet NPMPSP0
 Anaconda Anaconda NPCSG00
+Anadia Anadia NPCSG00
 Anagni Anagni NPCSG00
 Anaheim Anaheim NPCSG00
 Anaimudi Anaimudi NPCSG00
@@ -2814,6 +2816,7 @@ Azcapotzalco Azcapotzalco NPCSG00
 Azcona Azcona NPCNSP0
 Azerbaidjan Azerbaidjan NPMSG00
 Azgour Azgour NPCSG00
+Azilal Azilal NPCSG00
 Azkoitia Azkoitia NPCSG00
 Aznar Aznar NPCNSP0
 Azorín Azorín NPCNSP0
@@ -12299,6 +12302,7 @@ Ifigènia Ifigènia NPFSSP0
 Ifigènies Ifigènia NPFPSP0
 Ifni Ifni NPMSG00
 Ifrane Ifrane NPCSG00
+Ighil Ighil NPCSG00
 Ignasi Ignasi NPMSSP0
 Ignasis Ignasi NPMPSP0
 Ignàsia Ignàsia NPFSSP0
@@ -23406,6 +23410,7 @@ Tarnów Tarnów NPCSG00
 Tarongers Tarongers NPMPG00
 Tarongí Tarongí NPCNSP0
 Taroudannt Taroudannt NPCSG00
+Taroudant Taroudant NPCSG00
 Tarquini Tarquini NPMSSP0
 Tarquínia Tarquínia NPCSG00
 Tarra Tarra NPCSG00
@@ -24403,6 +24408,7 @@ Trøndelag Trøndelag NPCSG00
 Tsaratanana Tsaratanana NPCSG00
 Tsavo Tsavo NPCSG00
 Tshāidam Tshāidam NPCSG00
+Tsiolkovski Tsiolkovski NPCNSP0
 Tsipras Tsipras NPCNSP0
 Tskhinvali Tskhinvali NPCSG00
 Tsu Tsu NPCSG00
@@ -26303,6 +26309,7 @@ Yosemite Yosemite NPCSG00
 YouTube YouTube NPMSO00
 Youngstown Youngstown NPCSG00
 Youssef Youssef NPCNSP0 # medical
+Youssoufia Youssoufia NPCSG00
 Ypsilantis Ypsilantis NPCNSP0
 Yser Yser NPCSG00
 Ysmaïl Ysmaïl NPCSG00
