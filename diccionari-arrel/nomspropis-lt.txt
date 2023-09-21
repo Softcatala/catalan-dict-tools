@@ -131,6 +131,7 @@
 #Mend Mend NPMSSP0 # avl: noms de persona
 #Menda Menda NPFSSP0 # avl: noms de persona
 #Mendelsson #Mendelsson NPCNSP0 # medical
+#Messages Messages NPMSO00
 #Mides Mides NPMSSP0 # avl: noms de persona
 #Miguel Miguel NPMSSP0
 #Minnesot Minnesot NPCNSP0 # medical
@@ -9270,6 +9271,7 @@ FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00
 FMI FMI NPMSO00
 FNAC FNAC NPFSO00
+FSE FSE NPCNO00
 FSMCV FSMCV NPFSO00
 Fabi Fabi NPMSSP0
 Fabiana Fabiana NPFSSP0 # avl: noms de persona
@@ -17388,6 +17390,7 @@ Obispo Obispo NPCSG00
 Objective-C Objective-C NPMSO00
 Obon Obon NPCNSP0
 Obrador Obrador NPCNSP0
+Obsidian Obsidian NPMSO00
 Obwalden Obwalden NPCSG00
 Obèlix Obèlix NPMSSP0
 Obís Obís NPCNSP0
@@ -17628,6 +17631,7 @@ Opel Opel NPCNO00
 OpenOffice OpenOffice NPMSO00
 OpenStreetMap OpenStreetMap NPMSO00
 OpenType OpenType NPCNO00
+Opera Opera NPMSO00
 Opole Opole NPCSG00
 Oppenheim Oppenheim NPCNSP0 # medical
 Oppenheimer Oppenheimer NPCNSP0
@@ -22831,7 +22835,7 @@ Sorollera Sorollera NPFSG00
 Soros Soros NPCNSP0
 Sorpe Sorpe NPCSG00
 Sorre Sorre NPCSG00
-Sorrentino Sorrentino NPCNSP0 
+Sorrentino Sorrentino NPCNSP0
 Sorrento Sorrento NPCSG00
 Sorriba Sorriba NPCNSP0
 Sorribes Sorribes NPCNSP0
@@ -26498,6 +26502,7 @@ iPhones iPhone NPMPO00
 iPod iPod NPMSO00
 iPods iPod NPMPO00
 iTunes iTunes NPMNO00
+oXygen oXygen NPMSO00
 phpBB phpBB NPMSO00
 uTorrent uTorrent NPCNO00
 Àccium Àccium NPCSG00
