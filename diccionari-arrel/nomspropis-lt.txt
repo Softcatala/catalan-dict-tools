@@ -6291,6 +6291,7 @@ Chagang Chagang NPCSG00
 Chaghcharan Chaghcharan NPCSG00
 Chagos Chagos NPCSG00
 Chaitén Chaitén NPCSG00
+Challenger Challenger NPCNO00
 Chalon-sur-Saône Chalon-sur-Saône NPCSG00
 Chalossa Chalossa NPCSG00
 Chaman Chaman NPCSG00
@@ -18985,6 +18986,7 @@ Plaute Plaute NPMSSP0
 Plautes Plaute NPMPSP0
 Plautila Plautila NPFSSP0
 Plautiles Plautila NPFPSP0
+Play Play NPCNO00
 PlayStation PlayStation NPFNO00
 Playmobil Playmobil NPCNO00
 Plegamans Plegamans NPCSG00
