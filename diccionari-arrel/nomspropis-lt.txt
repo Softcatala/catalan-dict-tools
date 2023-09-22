@@ -9274,6 +9274,7 @@ FMI FMI NPMSO00
 FNAC FNAC NPFSO00
 FSE FSE NPCNO00
 FSMCV FSMCV NPFSO00
+FTSE FTSE NPMSO00
 Fabi Fabi NPMSSP0
 Fabiana Fabiana NPFSSP0 # avl: noms de persona
 Fabians Fabià NPMPSP0
@@ -26692,3 +26693,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Perales Perales NPCNSP0
