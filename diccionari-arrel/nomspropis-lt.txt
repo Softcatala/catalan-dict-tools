@@ -18542,6 +18542,7 @@ Perak Perak NPCSG00
 Peralada Peralada NPFSG00
 Peralba Peralba NPCNSP0
 Peralba Peralba NPCSG00
+Perales Perales NPCNSP0
 Peralta Peralta NPCNSP0
 Peralta Peralta NPFSG00
 Peraltes Peraltes NPCSG00
@@ -26693,4 +26694,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Perales Perales NPCNSP0
