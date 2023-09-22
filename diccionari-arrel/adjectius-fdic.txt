@@ -18350,6 +18350,7 @@ laminador laminadora=categories: A;fonts: LT;
 laminar=categories: A;fonts: LT;
 laminós laminosa=categories: A;fonts: LT;
 lampassat lampassada=categories: A;fonts: LT;
+lampedusià lampedusiana=categories: A;fonts: esadir;
 lanceolat lanceolada=categories: A;fonts: LT;
 lancinant=categories: A;fonts: LT;
 landenià landeniana=categories: A;fonts: LT;

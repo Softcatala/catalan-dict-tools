@@ -353,6 +353,7 @@ Absalons Absalò NPMPSP0
 Absalons Absaló NPMPSP0
 Absalò Absalò NPMSSP0
 Absaló Absaló NPMSSP0
+Abseron Abseron NPCSG00
 Abstraction-Création Abstraction-Création NPCSG00
 Abuja Abuja NPCSG00
 Abulí Abulí NPCNSP0
@@ -1306,6 +1307,7 @@ Alidó Alidó NPMSSP0 # avl: noms de persona
 Alier Alier NPCNSP0
 Alier Alier NPCSG00
 Alighieri Alighieri NPMSSP0
+Aliminusa Aliminusa NPCSG00
 Alina Alina NPFSSP0 # avl: noms de persona
 Alins Alins NPCSG00
 Alinyà Alinyà NPCSG00
@@ -3469,6 +3471,7 @@ Bayeux Bayeux NPCSG00
 Bayley Bayley NPCNSP0 # medical
 Bayreuth Bayreuth NPCSG00
 Baza Baza NPCSG00
+Bazardüzü Bazardüzü NPCSG00
 Bazin Bazin NPCNSP0 # medical
 Baén Baén NPCSG00
 Baó Baó NPCSG00
@@ -13226,6 +13229,7 @@ Kolontár Kolontár NPCSG00
 Kommunarsk Kommunarsk NPCSG00
 Komodo Komodo NPMSG00
 Komsomol's-na-Amur Komsomol's-na-Amur NPCSG00
+Komsomolsk Komsomolsk NPCSG00
 Kona Kona NPCSG00
 Konarhā Konarhā NPCSG00
 Kong Kong NPMSG00
@@ -13487,6 +13491,7 @@ Langreo Langreo NPCSG00
 Langres Langres NPCSG00
 LanguageTool LanguageTool NPMSO00
 Lanka Lanka NPFSG00
+Lankaran Lankaran NPCSG00
 Lannemezan Lannemezan NPCSG00
 Lannion Lannion NPCSG00
 Lannister Lannister NPCNSP0
