@@ -8618,6 +8618,7 @@ dentíger dentígera=categories: A;fonts: LT;
 dentípar dentípara=categories: A;fonts: dsalut;
 denunciable=categories: A;fonts: LT;
 denunciador denunciadora=categories: A;fonts: LT;
+denunciant=categories: A;fonts: DDLC;
 denunciatori denunciatòria=categories: A;fonts: LT;
 deontològic deontològica=categories: A;fonts: LT;
 departamental=categories: A;fonts: LT;

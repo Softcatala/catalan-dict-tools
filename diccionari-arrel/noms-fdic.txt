@@ -66426,6 +66426,7 @@ postpart=categories: M;fonts: LT;
 postpotencial=categories: M;fonts: dsalut;
 postprecipitació=categories: F;fonts: LT;
 postprocessament=categories: M;fonts: derivat;
+postprocés=categories: MS;fonts: derivat;
 postproducció=categories: F;fonts: LT;
 postpubertat=categories: F;fonts: dsalut;
 postpujolisme=categories: M;fonts: derivat;
