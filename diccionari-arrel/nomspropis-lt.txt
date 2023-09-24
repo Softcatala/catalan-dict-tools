@@ -210,6 +210,7 @@
 #Vladimir Vladimir NPMSSP0 # avl: noms de persona
 #Vladimira Vladimira NPFSSP0 # avl: noms de persona
 #Àurea Àurea NPFSSP0 # avl: noms de persona
+#Ènova Ènova NPFSG00
 #Òptim Òptim NPMSSP0 # avl: noms de persona
 #Òptima Òptima NPFSSP0 # avl: noms de persona
 #Òria Òria NPFSSP0 # avl: noms de persona
@@ -26594,7 +26595,6 @@ uTorrent uTorrent NPCNO00
 Èlia Èlia NPFSSP0
 Èlide Èlide NPCSG00
 Èlies Èlia NPFPSP0
-Ènova Ènova NPFSG00
 Ènyec Ènyec NPMSSP0 # avl: noms de persona
 Èol Èol NPMSSP0 # avl: noms de persona
 Èrato Èrato NPFSSP0
