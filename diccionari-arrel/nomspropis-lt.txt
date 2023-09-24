@@ -3039,7 +3039,7 @@ Baldy-Franke Baldy-Franke NPCNSP0 # medical
 Baldé Baldé NPCNSP0
 Baldí Baldí NPMSSP0 # avl: noms de persona
 Baldó Baldó NPCNSP0
-Balears balear NPCPG00
+Balears Balears NPFPG00
 Balenyà Balenyà NPCNSP0
 Balenyà Balenyà NPCSG00
 Balestui Balestui NPCSG00
