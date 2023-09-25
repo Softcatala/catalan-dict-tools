@@ -284,6 +284,7 @@ EMD=categories: FI; fonts: sigla;
 EMDA=categories: FI;fonts: dsalut;
 EMG=categories: MI;fonts: dsalut;
 EOG=categories: MI;fonts: dsalut;
+EPA=categories: MFI;fonts: sigla;
 EPI=categories: MI;fonts: sigles, equip de protecció individual;
 EPO=categories: FI;fonts: dsalut;
 EPUB=categories: MI;fonts: termcat;
