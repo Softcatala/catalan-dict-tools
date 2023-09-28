@@ -56848,6 +56848,7 @@ neonatòleg neonatòloga=categories: MF;fonts: LT;
 neonazi=categories: MF;fonts: LT;
 neonazisme=categories: M;fonts: LT;
 neopal·li=categories: M;fonts: LT;
+neoparlant=categories: MF;fonts: derivat;
 neopatia=categories: F;fonts: dsalut;
 neopilina=categories: F;fonts: LT;
 neopiritiamina=categories: F;fonts: dsalut;

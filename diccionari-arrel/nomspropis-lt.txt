@@ -255,6 +255,7 @@ Aaró Aaró NPMSSP0
 Aba Aba NPCSG00
 Abaco Abaco NPCSG00
 Abacuc Abacuc NPMSSP0 # avl: noms de persona
+Abacus Abacus NPMNO00
 Abada Abada NPCNSP0
 Abadal Abadal NPCNSP0
 Abadals Abadals NPCNSP0
@@ -21143,6 +21144,7 @@ Ryanair Ryanair NPCNO00
 Rybačij Rybačij NPCSG00
 Rybinsk Rybinsk NPCSG00
 Rybnik Rybnik NPCSG00
+Ryder Ryder NPCNO00
 Ryūkyū Ryūkyū NPCSG00
 Rzeszów Rzeszów NPCSG00
 Ràfels Ràfels NPCSG00
