@@ -3882,6 +3882,7 @@ Bermud Bermud NPMSSP0
 Bermuda Bermuda NPFSG00
 Bermuds Bermud NPMPSP0
 Bermut Bermut NPMSSP0 # avl: noms de persona
+Bermúdez Bermúdez NPCNSP0
 Berna Berna NPFSG00
 Bernabeu Bernabeu NPMSSP0 # avl: noms de persona
 Bernabé Bernabé NPMSSP0
@@ -16613,6 +16614,7 @@ Mundó Mundó NPCNSP0
 Munell Munell NPCNSP0
 Mungia Mungia NPCSG00
 Muni Muni NPCSG00
+Munné-Jordà Munné-Jordà NPCNSP0
 Munson Munson NPCNSP0 # medical
 Munster Munster NPCSG00
 Munt Munt NPCNSP0
@@ -18828,6 +18830,7 @@ Pilsen Pilsen NPCSG00
 Pilzà Pilzà NPCSG00
 Pilçà Pilçà NPCNSP0
 Pimec Pimec NPFSO00
+Pimentel Pimentel NPCNSP0
 Pimorent Pimorent NPCSG00
 Pimpí Pimpí NPCSG00
 Pimàs Pimàs NPCNSP0
