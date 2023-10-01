@@ -5185,6 +5185,7 @@ brianós brianosa=categories: A;fonts: LT;
 brigant=categories: A;fonts: LT;
 brightic brightica=categories: A;fonts: dsalut;
 brillant [sup. brillantíssim]=categories: A; font:apertium;
+brilli-brilli=categories: AI;fonts: colloquial;
 brillós brillosa=categories: A;fonts: LT;
 brinós brinosa=categories: A;fonts: LT;
 britànic britànica=categories: A;fonts: LT;

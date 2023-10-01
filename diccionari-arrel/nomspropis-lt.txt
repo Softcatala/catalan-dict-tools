@@ -17253,6 +17253,7 @@ Notepad Notepad NPCNO00
 Notepad++ Notepad++ NPCNO00
 Noteć Noteć NPCSG00
 Noto Noto NPCSG00
+Notre-Dame Notre-Dame NPCSG00
 Nottingham Nottingham NPCSG00
 Nottinghamshire Nottinghamshire NPCSG00
 Nouadhibou Nouadhibou NPCSG00
@@ -19844,6 +19845,7 @@ Pèrsia Pèrsia NPFSG00
 Pécs Pécs NPCSG00
 Pérez Pérez NPCNSP0
 Pérez-Reverte Pérez-Reverte NPCNSP0
+Pérignon Pérignon NPCNSP0
 Périgueux Périgueux NPCSG00
 Péssah Péssah NPFSO00
 Píndar Píndar NPMSSP0

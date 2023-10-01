@@ -12303,6 +12303,7 @@ brillantina=categories: F;fonts: LT;
 brillantor=categories: F;fonts: LT;
 brillanté [pl. brillantés]=categories: M;fonts: LT;
 brillantòmetre=categories: M;fonts: termcat;
+brilli-brilli=categories: M;fonts: colloquial;
 brillor=categories: F;fonts: LT;
 brilló=categories: M;fonts: LT;
 brima=categories: F;fonts: LT;
