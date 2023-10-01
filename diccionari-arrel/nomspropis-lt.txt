@@ -12658,8 +12658,11 @@ Jazztel Jazztel NPCNO00
 Jaén Jaén NPCSG00
 Jean Jean NPMSSP0
 Jean-Baptiste Jean-Baptiste NPMSSP0
+Jean-François Jean-François NPMSSP0
+Jean-Luc Jean-Luc NPMSSP0
 Jean-Michel Jean-Michel NPMSSP0
 Jean-Paul Jean-Paul NPMSSP0
+Jean-Philippe Jean-Philippe NPMSSP0
 Jebús Jebús NPMSG00
 Jedrzejów Jedrzejów NPCSG00
 Jefferson Jefferson NPCNSP0
