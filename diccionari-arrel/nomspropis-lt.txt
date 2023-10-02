@@ -17997,6 +17997,7 @@ Paganini Paganini NPCNSP0
 Paganins Paganins NPCNSP0
 Pagans Pagans NPCNSP0
 Pagases Pagases NPCSG00
+Pages Pages NPCNO00
 Paget Paget NPCNSP0 # medical
 Pago Pago NPMSG00
 Pagà Pagà NPCNSP0

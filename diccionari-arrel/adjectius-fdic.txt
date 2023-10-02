@@ -7667,6 +7667,7 @@ convulsiu convulsiva=categories: A;fonts: LT;
 convulsivant=categories: A;fonts: dsalut;
 conídic conídica=categories: A;fonts: LT;
 cooficial=categories: A;fonts: LT;
+cool=categories: AI;fonts: esadir, English;
 cooperatiu cooperativa=categories: A;fonts: LT;
 cooperativista=categories: A;fonts: LT;
 coordinable=categories: A;fonts: LT;
