@@ -85494,6 +85494,7 @@ wenlockià=categories: M;fonts: LT;
 werfenià=categories: M;fonts: LT;
 wesleyà wesleyana=categories: MF;fonts: LT;
 western=categories: M;fonts: LT;
+whats=categories: MI;fonts: esadir;
 whatsapp=categories: M;fonts: esadir;
 whiskeria=categories: F;fonts: LT;
 whisky [pl. whiskies o whiskys]=categories: M;fonts: LT;
