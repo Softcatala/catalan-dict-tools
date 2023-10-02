@@ -25153,6 +25153,7 @@ Venerandes Veneranda NPFPSP0
 Venerands Venerand NPMPSP0
 Veneçuela Veneçuela NPFSG00
 Venlo Venlo NPCSG00
+Venom Venom NPMSSP0
 Venosa Venosa NPCSG00
 Vensilló Vensilló NPCSG00
 Ventafarines Ventafarines NPCSG00
@@ -26417,6 +26418,7 @@ Zelaya Zelaya NPCSG00
 Zelenski Zelenski NPCNSP0
 Zelinski Zelinski NPCNSP0
 Zellweger Zellweger NPCNSP0 # medical
+Zelàndia Zelàndia NPFSG00
 Zemmour Zemmour NPCNSP0
 Zenaida Zenaida NPFSSP0 # avl: noms de persona
 Zenes Zenes NPMSSP0 # avl: noms de persona
