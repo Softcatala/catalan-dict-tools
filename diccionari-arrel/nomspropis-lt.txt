@@ -6740,6 +6740,7 @@ Cogullada Cogullada NPFSG00
 Cogullons Cogullons NPMPG00
 Cohen Cohen NPCNSP0 # medical
 Cohn Cohn NPCNSP0 # medical
+Cohn-Bendit Cohn-Bendit NPCNSP0
 Cohèlet Cohèlet NPMSO00
 Coimbatore Coimbatore NPCSG00
 Cointreau Cointreau NPMNO00
@@ -26516,6 +26517,7 @@ Zújar Zújar NPCSG00
 Zúric Zúric NPCSG00
 Zābol Zābol NPCSG00
 al-Din al-Din NPCNSP0
+al-Hussein al-Hussein NPCNSP0
 al-Sadat al-Sadat NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
 bonÀrea bonÀrea NPCNO00
