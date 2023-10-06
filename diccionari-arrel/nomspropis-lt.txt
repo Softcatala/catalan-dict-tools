@@ -2295,6 +2295,7 @@ Aristòtil Aristòtil NPMSSP0
 Aristòtils Aristòtil NPMPSP0
 Aristó Aristó NPMSSP0
 Aritja Aritja NPCNSP0
+Aritz Aritz NPMSSP0
 Arizona Arizona NPFSG00
 Arià Arià NPMSSP0 # avl: noms de persona
 Arjó Arjó NPCNSP0
@@ -3797,6 +3798,8 @@ Benlliure Benlliure NPCNSP0
 Benlloc Benlloc NPCNSP0
 Benlloc Benlloc NPMSG00
 Bennett Bennett NPCNSP0 # medical
+Bennie Bennie NPMSSP0
+Benny Benny NPMSSP0
 Bennàsser Bennàsser NPCNSP0
 Benoni Benoni NPCSG00
 Bensa Bensa NPCSG00
@@ -10247,6 +10250,7 @@ Fèlixs Fèlix NPMPSP0
 Fènix Fènix NPCSG00
 Fèroe Fèroe NPFPG00
 Fécamp Fécamp NPCSG00
+Félez Félez NPCNSP0
 Fídies Fídies NPMPSP0
 Fídies Fídies NPMSSP0
 Fígaro Fígaro NPMSSP0

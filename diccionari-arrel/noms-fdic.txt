@@ -65658,6 +65658,7 @@ polipapil·loma=categories: M;fonts: dsalut;
 poliparasitisme=categories: M;fonts: dsalut;
 poliparèsia=categories: F;fonts: dsalut;
 polipatia=categories: F;fonts: LT;
+polipectomia=categories: F;fonts: termcat;
 polipell=categories: F;fonts: esadir;
 polipeptidasa=categories: F;fonts: LT;
 polipeptidorràquia=categories: F;fonts: dsalut;
