@@ -12101,6 +12101,7 @@ Honshu Honshu NPCSG00
 Honshū Honshū NPCSG00
 Honòria Honòria NPFSSP0 # avl: noms de persona
 Hooghly Hooghly NPCSG00
+Hoover Hoover NPCNSP0
 Hopkins Hopkins NPCNSP0
 Hopkins-Cole Hopkins-Cole NPCNSP0
 Horaci Horaci NPMSSP0
