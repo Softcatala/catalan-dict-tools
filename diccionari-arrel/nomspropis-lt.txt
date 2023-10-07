@@ -8251,6 +8251,7 @@ Dénia Dénia NPFSG00
 Déroute Déroute NPCSG00
 Déu Déu NPMSSP0
 Díaz Díaz NPCNSP0
+Díaz-Plaja Díaz-Plaja NPCNSP0
 Dídac Dídac NPMSSP0
 Dídaca Dídaca NPFSSP0 # avl: noms de persona
 Dídacs Dídac NPMPSP0
@@ -19855,6 +19856,7 @@ Pàrtia Pàrtia NPCSG00
 Pàtrocle Pàtrocle NPMSSP0 # avl: noms de persona
 Pàvlov Pàvlov NPCNSP0
 Pàvlovsk Pàvlovsk NPCSG00
+Páez Páez NPCNSP0
 Pájara Pájara NPCSG00
 Pánuco Pánuco NPCSG00
 Pèrgam Pèrgam NPCSG00
