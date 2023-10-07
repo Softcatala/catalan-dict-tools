@@ -2092,6 +2092,7 @@ Araix Araix NPCNSP0
 Araixa Araixa NPCNSP0
 Arajol Arajol NPCNSP0
 Aral Aral NPCSG00
+Aramis Aramis NPMSSP0
 Aramon Aramon NPCNSP0
 Aran Aran NPCSG00
 Aranda Aranda NPCNSP0
@@ -2630,6 +2631,7 @@ Atenàgores Atenàgores NPMSSP0
 Atenògenes Atenògenes NPMPSP0
 Atenògenes Atenògenes NPMSSP0
 Athabasca Athabasca NPCSG00
+Athos Athos NPMSSP0
 Atilana Atilana NPFSSP0 # avl: noms de persona
 Atilans Atilà NPMPSP0
 Atilà Atilà NPMSSP0
@@ -2784,6 +2786,7 @@ Avel·lí Avel·lí NPMSSP0
 Avencar Avencar NPCNSP0
 Avencó Avencó NPCNSP0
 Aventí Aventí NPCSG00
+Averell Averell NPMSSP0
 Averrois Averrois NPMSSP0
 Aveyron Aveyron NPCSG00
 Avicenna Avicenna NPMSSP0
@@ -2825,6 +2828,7 @@ Azgour Azgour NPCSG00
 Azilal Azilal NPCSG00
 Azkoitia Azkoitia NPCSG00
 Aznar Aznar NPCNSP0
+Azog Azog NPMSSP0
 Azorín Azorín NPCNSP0
 Azov Azov NPCSG00
 Azua Azua NPCSG00
@@ -3055,6 +3059,7 @@ Baliar Baliar NPCNSP0
 Baliarda Baliarda NPCNSP0
 Balielles Balielles NPCNSP0
 Balikpapan Balikpapan NPCSG00
+Balin Balin NPMSSP0
 Balint Balint NPCNSP0 # medical
 Baliu Baliu NPCNSP0
 Balkars Balkars NPMPG00
@@ -3102,6 +3107,7 @@ Balàfia Balàfia NPCSG00
 Balàkirev Balàkirev NPCNSP0
 Balç Balç NPCNSP0
 Bam Bam NPCSG00
+Bam-bam Bam-bam NPFSSP0
 Bamako Bamako NPCSG00
 Bamberg Bamberg NPCSG00
 Bambouk Bambouk NPCSG00
@@ -4086,8 +4092,10 @@ Biescas Biescas NPCSG00
 Biett Biett NPCNSP0 # medical
 Bietti Bietti NPCNSP0 # medical
 Bifet Bifet NPCNSP0
+Bifur Bifur NPMSSP0
 Bigaire Bigaire NPCNSP0
 Bigastrum Bigastrum NPCSG00
+Bigfoot Bigfoot NPMSSP0
 Bigordà Bigordà NPCNSP0
 Bigorra Bigorra NPFSG00
 Bigues Bigues NPCNSP0
@@ -4102,6 +4110,7 @@ Bikini Bikini NPCSG00
 Bilbao Bilbao NPCSG00
 Bilbeny Bilbeny NPCNSP0
 Bilbert Bilbert NPCNSP0
+Bilbo Bilbo NPMSPO0
 Bilderberg Bilderberg NPCNSP0
 Bildu Bildu NPMSO00
 Billarac Billarac NPCNSP0
@@ -4280,6 +4289,7 @@ Boerhaave Boerhaave NPCNSP0 # medical
 Bofarull Bofarull NPCNSP0
 Bofill Bofill NPCNG00
 Bofill Bofill NPCNSP0
+Bofur Bofur NPMSSP0
 Bogatell Bogatell NPCNSP0
 Bogotà Bogotà NPCSG00
 Bogunyac Bogunyac NPCNSP0
@@ -4366,6 +4376,7 @@ Bombai Bombai NPCNSP0
 Bombai Bombai NPCSG00
 Bombardes Bombardes NPFPG00
 Bombardó Bombardó NPCNSP0
+Bombur Bombur NPMSSP0
 Bompar Bompar NPCNSP0
 Bompart Bompart NPCNSP0
 Bompàs Bompàs NPCSG00
@@ -4772,6 +4783,7 @@ Bro Bro NPCNSP0
 Broadway Broadway NPMSG00
 Broc Broc NPCNSP0
 Broca Broca NPCNSP0 # medical
+Brocelianda Brocelianda NPCSG00
 Brock Brock NPCNSP0 # medical
 Brocken Brocken NPMSG00
 Brockenbrough Brockenbrough NPCNSP0 # medical
@@ -6355,6 +6367,7 @@ Chaucer Chaucer NPCNSP0
 Chaumont Chaumont NPCSG00
 Chaumont-sur-Loire Chaumont-sur-Loire NPCSG00
 Chediak-Higashi Chediak-Higashi NPCNSP0 # medical
+Cheetah Cheetah NPMSSP0
 Cheju Cheju NPCSG00
 Cheliff Cheliff NPCSG00
 Chelles Chelles NPCSG00
@@ -7554,6 +7567,7 @@ Cúper Cúper NPCSG00
 Cúrcia Cúrcia NPFSSP0 # avl: noms de persona
 Cărtărescu Cărtărescu NPCNSP0
 Cǎlǎraşi Cǎlǎraşi NPCSG00
+D'Artagnan D'Artagnan NPMSSP0
 DCVB DCVB NPMSO00
 DEIEC DEIEC NPMSO00
 DGAIA DGAIA NPFSO00
@@ -7577,6 +7591,7 @@ Dadaab Dadaab NPCSG00
 Daegu Daegu NPCSG00
 Daesh Daesh NPMSO00
 Daewo Daewo NPCNO00
+Daffy Daffy NPMSSP0
 Dafne Dafne NPFSSP0
 Dafnis Dafnis NPFSSP0 # avl: noms de persona
 Dagobert Dagobert NPMSSP0
@@ -7596,6 +7611,7 @@ Daidí Daidí NPCNSP0
 Daimiel Daimiel NPCSG00
 Daimés Daimés NPCSG00
 Daimús Daimús NPCSG00
+Dain Dain NPMSSP0
 Daitō Daitō NPCSG00
 Dajabón Dajabón NPCSG00
 Dakar Dakar NPCSG00
@@ -7615,6 +7631,7 @@ Dalmau Dalmau NPMSSP0
 Dalmaus Dalmau NPMPSP0
 Dalmàcia Dalmàcia NPFSG00
 Daloa Daloa NPCSG00
+Dalton Dalton NPCNSP0
 Dalí Dalí NPCNSP0
 Dalós Dalós NPCNSP0
 Damanhūr Damanhūr NPCSG00
@@ -8223,6 +8240,7 @@ Duékoué Duékoué NPCSG00
 Dušanbe Dušanbe NPCSG00
 Dvorák Dvorák NPCNSP0
 Dvořák Dvořák NPCNSP0
+Dwalin Dwalin NPMSSP0
 Dyfed Dyfed NPCSG00
 Dylan Dylan NPCNSP0
 Dzeržinsk Dzeržinsk NPCSG00
@@ -8482,6 +8500,7 @@ Ellsworth Ellsworth NPCSG00
 Ellsworth-Howard Ellsworth-Howard NPCNSP0 # medical
 Elm Elm NPMSSP0
 Elma Elma NPFSSP0 # avl: noms de persona
+Elmo Elmo NPMSSP0
 Elms Elm NPMPSP0
 Elna Elna NPFSG00
 Elodi Elodi NPMSSP0 # avl: noms de persona
@@ -8645,6 +8664,7 @@ Enviure Enviure NPCSG00
 Eo Eo NPCSG00
 Eoghain Eoghain NPCSG00
 Epaminondes Epaminondes NPMSSP0
+Epi Epi NPMSSP0
 Epicari Epicari NPMSSP0 # avl: noms de persona
 Epictet Epictet NPMSSP0
 Epictets Epictet NPMPSP0
@@ -10146,6 +10166,7 @@ Frigoler Frigoler NPCNSP0
 Frigolet Frigolet NPCNSP0
 Friné Friné NPFSSP0 # avl: noms de persona
 Friül Friül NPMSG00
+Frodo Frodo NPMSSP0
 Frodobert Frodobert NPMSSP0
 Frodoberts Frodobert NPMPSP0
 Froilans Froilà NPMPSP0
@@ -10429,6 +10450,7 @@ Gal·lura Gal·lura NPFSG00
 Gal·lès Gal·lès NPCNSP0
 Gal·lípoli Gal·lípoli NPCSG00
 Galàcia Galàcia NPFSG00
+Galàdriel Galàdriel NPFSSP0
 Galápagos Galápagos NPFPG00
 Galè Galè NPMSSP0
 Galè Galè NPMSSP0 # avl: noms de persona
@@ -10990,6 +11012,7 @@ Gliceris Gliceri NPMPSP0
 Glicèria Glicèria NPFSSP0 # avl: noms de persona
 Glisson Glisson NPCNSP0 # medical
 Gliwice Gliwice NPCSG00
+Gloin Gloin NPMSSP0
 Glorianes Glorianes NPCSG00
 Glorieta Glorieta NPCSG00
 Glorieta Glorieta NPMSG00
@@ -11501,6 +11524,7 @@ Guimet Guimet NPCNSP0
 Guimferrer Guimferrer NPCNSP0
 Guimjaume Guimjaume NPCNSP0
 Guimjoan Guimjoan NPCNSP0
+Guimli Guimli NPMSSP0
 Guims Guim NPMPSP0
 Guimó Guimó NPCNSP0
 Guinard Guinard NPCNSP0
@@ -11614,6 +11638,7 @@ Gàlvez Gàlvez NPCNSP0
 Gàl·lia Gàl·lia NPFSG00
 Gàl·lies Gàl·lia NPFPG00
 Gàmbia Gàmbia NPFSG00
+Gàndalf Gàndalf NPMSSP0
 Gàrzola Gàrzola NPCSG00
 Gáldar Gáldar NPCSG00
 Gállego Gállego NPCSG00
@@ -11627,6 +11652,7 @@ Gèrs Gèrs NPCSG00
 Géant Géant NPCSG00
 Gíger Gíger NPCSG00
 Gòlgota Gòlgota NPMSG00
+Gòl·lum Gòl·lum NPMSSP0
 Gòrdion Gòrdion NPCSG00
 Gòrgies Gòrgies NPMSSP0
 Gòrgona Gòrgona NPFSSP0
@@ -11906,6 +11932,7 @@ Hermon Hermon NPCSG00
 Hermosillo Hermosillo NPCSG00
 Hermínia Hermínia NPFSSP0
 Hermínies Hermínia NPFPSP0
+Hermíone Hermíone NPFSSP0
 Hermògenes Hermògenes NPMPSP0
 Hermògenes Hermògenes NPMSSP0
 Hermòpolis Hermòpolis NPCSG00
@@ -12165,6 +12192,7 @@ Hugó Hugó NPMSSP0
 Huila Huila NPCSG00
 Huix Huix NPCNSP0
 Hulf Hulf NPMSSP0 # avl: noms de persona
+Hulk Hulk NPMSSP0
 Humberside Humberside NPCSG00
 Humbert Humbert NPCNSP0
 Humbert Humbert NPMSSP0
@@ -12290,6 +12318,7 @@ Iconi Iconi NPCSG00
 Icària Icària NPCSG00
 Ida Ida NPFSSP0
 Idaho Idaho NPCSG00
+Ideafix Ideafix NPMSSP0
 Ides Ida NPFPSP0
 Idescat Idescat NPMSO00
 Idoberga Idoberga NPFSSP0
@@ -12751,6 +12780,7 @@ Jocasta Jocasta NPFSSP0 # avl: noms de persona
 Jod-Basedow Jod-Basedow NPCNSP0 # medical
 Jodar Jodar NPCNSP0
 Jodhpur Jodhpur NPCSG00
+Joe Joe NPMSSP0
 Joel Joel NPMSSP0
 Joels Joel NPMPSP0
 Jofre Jofre NPCNSP0
@@ -13176,6 +13206,7 @@ Kigoma Kigoma NPCSG00
 Kii Kii NPCSG00
 Kikwit Kikwit NPCSG00
 Kilauea Kilauea NPCSG00
+Kili Kili NPMSSP0
 Kilian Kilian NPMSSP0
 Kilimanjaro Kilimanjaro NPCSG00
 Kilinochchi Kilinochchi NPCSG00
@@ -15928,6 +15959,7 @@ Mistral Mistral NPCNSP0
 Mistràs Mistràs NPCSG00
 Mitaka Mitaka NPCSG00
 Mitchell Mitchell NPCSG00
+Mithràndir Mithràndir NPMSSP0
 Mitidja Mitidja NPCSG00
 Mitilene Mitilene NPCSG00
 Mitjana Mitjana NPCNSP0
@@ -16454,6 +16486,7 @@ Moratxell Moratxell NPCSG00
 Morava Morava NPCSG00
 Morazán Morazán NPCSG00
 Morbihan Morbihan NPCSG00
+Mordred Mordred NPMSSP0
 Morecambe Morecambe NPCSG00
 Morei Morei NPCNSP0
 Morelia Morelia NPCSG00
@@ -16592,6 +16625,7 @@ Mualles Mualles NPCNSP0
 Mubarak Mubarak NPCNSP0
 Mucha-Haberman Mucha-Haberman NPCNSP0 # medical
 Mudanjiang Mudanjiang NPCSG00
+Mudet Mudet NPMSSP0
 Mudoi Mudoi NPCNSP0
 Mudug Mudug NPCSG00
 Muface Muface NPFSO00
@@ -18394,6 +18428,7 @@ Paül Paül NPCSG00
 Paüls Paüls NPCNSP0
 Paüls Paüls NPFPG00
 Peace Peace NPCSG00
+Pebbles Pebbles NPCNSP0
 Pebrades Pebrades NPFPG00
 Pec Pec NPCNSP0
 Pecos Pecos NPCSG00
@@ -18778,6 +18813,7 @@ Picamoixons Picamoixons NPCSG00
 Picany Picany NPCNSP0
 Picanya Picanya NPFSG00
 Picanyol Picanyol NPCNSP0
+Picapedra Picapedra NPCNSP0
 Picard Picard NPCNSP0
 Picardia Picardia NPFSG00
 Picasa Picasa NPMSO00
@@ -18948,6 +18984,7 @@ Pittsburgh Pittsburgh NPCSG00
 Pitxot Pitxot NPCNSP0
 Pitàgores Pitàgores NPMPSP0
 Pitàgores Pitàgores NPMSSP0
+Piuet Piuet NPMSSP0
 Piulacs Piulacs NPCNSP0
 Piulats Piulats NPCNSP0
 Piura Piura NPCSG00
@@ -19074,6 +19111,7 @@ Poincaré Poincaré NPCNSP0
 Pointe-Noire Pointe-Noire NPCSG00
 Pointe-à-Pitre Pointe-à-Pitre NPCSG00
 Pointes Pointes NPCNSP0 # medical
+Poirot Poirot NPCNSP0
 Poisson Poisson NPCNSP0
 Poissy Poissy NPCSG00
 Poitiers Poitiers NPCSG00
@@ -19133,6 +19171,7 @@ Pols Pols NPCSG00
 Poltava Poltava NPCSG00
 Polvorers Polvorers NPMPG00
 Polvorí Polvorí NPMSG00
+Polzet Polzet NPMSSP0
 Polèsia Polèsia NPFSG00
 Polònia Polònia NPFSG00
 Poma Poma NPCNSP0
@@ -19252,6 +19291,7 @@ Porfiris Porfiri NPMPSP0
 Porfíria Porfíria NPFSSP0 # avl: noms de persona
 Pori Pori NPCSG00
 Porkkala Porkkala NPCSG00
+Porky Porky NPMSSP0
 Porquera Porquera NPCNSP0
 Porqueres Porqueres NPCNSP0
 Porquerisses Porquerisses NPCSG00
@@ -19294,6 +19334,7 @@ Porter Porter NPCNSP0
 Portera Portera NPFSG00
 Portes Portes NPCNSP0
 Portet Portet NPMSG00
+Porthos Porthos NPMSSP0
 Portici Portici NPCSG00
 Portimao Portimao NPCSG00
 Portimão Portimão NPCSG00
@@ -20245,6 +20286,7 @@ Rashkind Rashkind NPCNSP0 # medical
 Rasht Rasht NPCSG00
 Rasigueres Rasigueres NPCSG00
 Rasiguèras Rasiguèras NPCSG00
+Raskólnikov Raskólnikov NPCNSP0
 Rasmussen Rasmussen NPCNSP0 # medical
 Raspai Raspai NPCSG00
 Raspall Raspall NPCNSP0
@@ -21173,6 +21215,7 @@ Rybnik Rybnik NPCSG00
 Ryder Ryder NPCNO00
 Ryūkyū Ryūkyū NPCSG00
 Rzeszów Rzeszów NPCSG00
+Ràdagast Ràdagast NPMSSP0
 Ràfels Ràfels NPCSG00
 Ràfia Ràfia NPCSG00
 Ràfol Ràfol NPMSG00
@@ -21547,6 +21590,7 @@ Salso Salso NPCSG00
 Salt Salt NPCNSP0
 Salt Salt NPMSG00
 Salta Salta NPCSG00
+Saltacatrec Saltacatrec NPMSSP0
 Saltillo Saltillo NPCSG00
 Salto Salto NPCSG00
 Saltor Saltor NPCNSP0
@@ -22508,6 +22552,7 @@ Sil Sil NPCSG00
 Sila Sila NPCSG00
 Silas Silas NPMPSP0
 Silas Silas NPMSSP0
+Sildàvia Sildàvia NPFSG00
 Silhouette Silhouette NPCSG00
 Silistra Silistra NPCSG00
 Silkeborg Silkeborg NPCSG00
@@ -22678,6 +22723,7 @@ Slov'ans'k Slov'ans'k NPCSG00
 Sluder Sluder NPCNSP0 # medical
 Slupsk Slupsk NPCSG00
 Smara Smara NPCSG00
+Smaug Smaug NPMSSP0
 Smeaton Smeaton NPCNSP0
 Smith Smith NPCNSP0
 Smith-Robinson Smith-Robinson NPCNSP0 # medical
@@ -22991,6 +23037,7 @@ Steyr Steyr NPCSG00
 Stif Stif NPCSG00
 Stiglitz Stiglitz NPCNSP0
 Still Still NPCNSP0 # medical
+Stilton Stilton NPMSSP0
 Stockhausen Stockhausen NPCNSP0
 Stockport Stockport NPCSG00
 Stockton-on-Tees Stockton-on-Tees NPCSG00
@@ -23180,6 +23227,7 @@ Sàlvia Sàlvia NPFSSP0 # avl: noms de persona
 Sàlzer Sàlzer NPCSG00
 Sàrdica Sàrdica NPCSG00
 Sàrries Sàrries NPCNSP0
+Sàruman Sàruman NPMSSP0
 Sàsser Sàsser NPCSG00
 Sáenz Sáenz NPCNSP0
 Sáez Sáez NPCNSP0
@@ -23781,6 +23829,10 @@ Thompson Thompson NPCNO00
 Thonon-les-Bains Thonon-les-Bains NPCSG00
 Thor Thor NPMSSP0
 Thoreau Thoreau NPCNSP0
+Thorin Thorin NPMSSP0
+Thrain Thrain NPMSSP0
+Thror Thror NPMSSP0
+Thrànduil Thrànduil NPMSSP0
 Thule Thule NPCSG00
 Thun Thun NPCSG00
 Thunderbird Thunderbird NPMSO00
@@ -24549,6 +24601,7 @@ Tuïr Tuïr NPCSG00
 Tver Tver NPCSG00
 Tversky Tversky NPCNSP0
 Twain Twain NPCNSP0
+Tweety Tweety NPMSSP0
 Twitter Twitter NPMSO00
 Txad Txad NPMSG00
 Txaikovski Txaikovski NPCNSP0
@@ -26066,6 +26119,7 @@ William William NPMSSP0
 Williams Williams NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0 # medical
+Wilma Wilma NPFSSP0
 Wilmersdorf Wilmersdorf NPCSG00
 Wilmington Wilmington NPCSG00
 Wilms Wilms NPCNSP0
@@ -26335,6 +26389,7 @@ Yichang Yichang NPCSG00
 Yinchuan Yinchuan NPCSG00
 Yingkou Yingkou NPCSG00
 Yiyang Yiyang NPCSG00
+Yogi Yogi NPMSSP0
 Yogyakarta Yogyakarta NPCSG00
 Yokkaichi Yokkaichi NPCSG00
 Yokohama Yokohama NPCSG00
@@ -26635,6 +26690,7 @@ uTorrent uTorrent NPCNO00
 Èsquil Èsquil NPMSSP0
 Écija Écija NPFSG00
 Éller Éller NPCSG00
+Élrond Élrond NPCNSP0
 Énova Énova NPFSG00
 Ényec Ényec NPMSSP0 # avl: noms de persona
 Épernay Épernay NPCSG00
