@@ -6731,6 +6731,7 @@ Codrington Codrington NPCSG00
 Codroipo Codroipo NPCSG00
 Codí Codí NPCNSP0
 Codó Codó NPCNSP0
+Coen Coen NPCNSP0
 Cofita Cofita NPCSG00
 Coforb Coforb NPCSG00
 Cogan Cogan NPCNSP0 # medical

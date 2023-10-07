@@ -26048,6 +26048,7 @@ pugnaç [sup. pugnacíssim]=categories: A;fonts: LT;
 puigbaladonenc puigbaladonenca=categories: A;fonts: LT;
 puigcerdanenc puigcerdanenca=categories: A;fonts: LT;
 puigcerdanès puigcerdanesa=categories: A;fonts: LT;
+puigdemontista=categories: A;fonts: derivat;
 puigdenvaller puigdenvallera=categories: A;fonts: LT;
 puiggrossenc puiggrossenca=categories: A;fonts: LT;
 puigpelatenc puigpelatenca=categories: A;fonts: LT;

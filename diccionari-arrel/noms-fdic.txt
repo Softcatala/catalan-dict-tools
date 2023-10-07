@@ -68596,6 +68596,7 @@ pui=categories: M;fonts: LT;
 puig=categories: M;fonts: LT;
 puigbaladonenc puigbaladonenca=categories: MF;fonts: LT;
 puigcerdanès puigcerdanesa=categories: MF;fonts: LT;
+puigdemontisme=categories: MS;fonts: derivat;
 puiggrossenc puiggrossenca=categories: MF;fonts: LT;
 puigpelatenc puigpelatenca=categories: MF;fonts: LT;
 puigpunyetí puigpunyetina=categories: MF;fonts: LT;
