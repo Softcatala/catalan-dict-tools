@@ -4685,6 +4685,7 @@ Brancós Brancós NPCNSP0
 Brandan Brandan NPMSSP0
 Brandans Brandan NPMPSP0
 Brandenburg Brandenburg NPCSG00
+Brando Brando NPCNSP0
 Brangarí Brangarí NPCNSP0
 Brangolí Brangolí NPCNSP0
 Brangolí Brangolí NPCSG00
@@ -7007,6 +7008,7 @@ Copons Copons NPCNSP0
 Copparo Copparo NPCSG00
 Copperbelt Copperbelt NPCSG00
 Copperfield Copperfield NPCNSP0
+Coppola Coppola NPCNSP0
 Copra Copra NPCNSP0 # medical
 Coptos Coptos NPCSG00
 Copán Copán NPCSG00
@@ -7057,6 +7059,7 @@ Corint Corint NPCSG00
 Coriolà Coriolà NPMSSP0
 Corisco Corisco NPCSG00
 Coristanco Coristanco NPCSG00
+Corleone Corleone NPCNSP0
 Corminals Corminals NPCNSP0
 Cornador Cornador NPCNSP0
 Cornaro Cornaro NPCNSP0
@@ -19880,6 +19883,7 @@ Putti Putti NPCNSP0 # medical
 Putumayo Putumayo NPCSG00
 Puy-de-Dôme Puy-de-Dôme NPCSG00
 Puyehue Puyehue NPCSG00
+Puzo Puzo NPCNSP0
 Puça Puça NPCSG00
 Puçol Puçol NPCSG00
 Pwani Pwani NPCSG00
