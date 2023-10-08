@@ -955,10 +955,10 @@ vostre vostre DP2MSP
 vostre vostre PX2MS0P0
 vostres vostre DP2CPP
 vostres vostre PX2CP0P0
-vostè vostè PP3CS00P
-vostès vostè PP3CP00P
-vosté vostè PP3CS00P
-vostés vostè PP3CP00P
+vostè ell PP3CS00P
+vostès ell PP3CP00P
+vosté ell PP3CS00P
+vostés ell PP3CP00P
 vs versus SPS00
 vuit vuit DN0CP0
 vuit-centes vuit-cents DN0FP0
