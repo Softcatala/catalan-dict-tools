@@ -99,6 +99,7 @@
 #Grima Grima NPCNSP0
 #Gòria Gòria NPFSSP0 # avl: noms de persona
 #Harmonia Harmonia NPFSSP0 # avl: noms de persona
+#Hawkins Hawkins NPCNSP0
 #Her Her NPMSSP0 # avl: noms de persona
 #Ia Ia NPFSSP0 # avl: noms de persona
 #Igor Igor NPMSSP0 # avl: noms de persona
@@ -11794,7 +11795,6 @@ Havers Havers NPCNSP0 # medical
 Havre Havre NPCSG00
 Hawaii Hawaii NPFPG00
 Hawking Hawking NPCNSP0
-Hawkins Hawkins NPCNSP0
 Hawks Hawks NPCNSP0
 Haydn Haydn NPCNSP0
 Hayek Hayek NPCNSP0
