@@ -11794,6 +11794,7 @@ Havers Havers NPCNSP0 # medical
 Havre Havre NPCSG00
 Hawaii Hawaii NPFPG00
 Hawking Hawking NPCNSP0
+Hawkins Hawkins NPCNSP0
 Hawks Hawks NPCNSP0
 Haydn Haydn NPCNSP0
 Hayek Hayek NPCNSP0
@@ -24369,6 +24370,7 @@ Tregurà Tregurà NPCNSP0
 Tregurà Tregurà NPCSG00
 Treitz Treitz NPCNSP0
 Trejuvell Trejuvell NPCSG00
+Trelawny Trelawny NPCNSP0
 Trelleborg Trelleborg NPCSG00
 Tremat Tremat NPMSG00
 Tremblay-en-France Tremblay-en-France NPCSG00
