@@ -4728,6 +4728,7 @@ Bremona Bremona NPCNSP0
 Brenda Brenda NPFSSP0 # avl: noms de persona
 Brenner Brenner NPCNSP0 # medical
 Brenner Brenner NPCSG00
+Brent Brent NPCNSP0
 Brenui Brenui NPCNSP0
 Bres Bres NPCNSP0
 Brescia Brescia NPCSG00
@@ -7615,7 +7616,7 @@ Daidí Daidí NPCNSP0
 Daimiel Daimiel NPCSG00
 Daimés Daimés NPCSG00
 Daimús Daimús NPCSG00
-Dain Dain NPMSSP0
+Dain Dain NPCNSP0
 Daitō Daitō NPCSG00
 Dajabón Dajabón NPCSG00
 Dakar Dakar NPCSG00
@@ -8498,6 +8499,7 @@ Elizalde Elizalde NPCNSP0
 Elià Elià NPMSSP0 # avl: noms de persona
 Ellesmere Ellesmere NPCSG00
 Ellice Ellice NPFPG00
+Elling Elling NPCNSP0
 Ellington Ellington NPCNSP0
 Ello Ello NPCSG00
 Ellsworth Ellsworth NPCSG00
