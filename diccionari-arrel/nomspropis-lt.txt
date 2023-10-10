@@ -8371,6 +8371,7 @@ Eduvigis Eduvigis NPMPSP0
 Eduvigis Eduvigis NPMSSP0
 Edèsia Edèsia NPFSSP0 # avl: noms de persona
 Edžmiatsin Edžmiatsin NPCSG00
+Eevee Eevee NPMSSP0
 Efate Efate NPCSG00
 Efebus Efebus NPMPSP0
 Efebus Efebus NPMSSP0
@@ -18832,6 +18833,7 @@ Picazo Picazo NPCNSP0
 Piccadilly Piccadilly NPCNG00
 Piccolomini Piccolomini NPCNSP0
 Pichincha Pichincha NPCSG00
+Pichu Pichu NPMSSP0
 Pick Pick NPCNSP0 # medical
 Picola Picola NPCNSP0
 Picoll Picoll NPCNSP0
@@ -18875,6 +18877,7 @@ Pigròs Pigròs NPCNSP0
 Piguillem Piguillem NPCNSP0
 Pijaume Pijaume NPCNSP0
 Pijoan Pijoan NPCNSP0
+Pikachu Pikachu NPMSSP0
 Piketty Piketty NPCNSP0
 Pila Pila NPCNSP0
 Pilar Pilar NPFSSP0
@@ -20175,6 +20178,7 @@ Raffadali Raffadali NPCSG00
 Rafí Rafí NPCNSP0
 Ragusa Ragusa NPCSG00
 Rahola Rahola NPCNSP0
+Raichu Raichu NPMSSP0
 Raier Raier NPCNSP0
 Raigada Raigada NPCNSP0
 Raiguer Raiguer NPMSG00
