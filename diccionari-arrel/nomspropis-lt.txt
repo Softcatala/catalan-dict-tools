@@ -7256,6 +7256,7 @@ Coín Coín NPCSG00
 Coïmbra Coïmbra NPCSG00
 Crabasia Crabasia NPCSG00
 Cracòvia Cracòvia NPCSG00
+Craig Craig NPCNSP0
 Craiova Craiova NPCSG00
 Cramer Cramer NPCNSP0 # medical
 Cranagh Cranagh NPCNSP0

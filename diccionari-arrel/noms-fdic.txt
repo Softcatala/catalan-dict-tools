@@ -8384,6 +8384,7 @@ autoctonia=categories: F;fonts: DDLC;
 autoctonisme=categories: M;fonts: LT;
 autocultiu=categories: M;fonts: derivat;
 autocura=categories: F;fonts: dsalut;
+autocàstig=categories: M;fonts: esadir;
 autocèfal=categories: MS;fonts: LT;
 autocòria=categories: F;fonts: LT;
 autodefensa=categories: F;fonts: LT;
