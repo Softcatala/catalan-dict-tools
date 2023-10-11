@@ -3632,6 +3632,7 @@ Bellús Bellús NPCNSP0
 Bellús Bellús NPCSG00
 Belmopan Belmopan NPCSG00
 Belo Belo NPCSG00
+Belodonte Belodonte NPCNSP0
 Belsa Belsa NPCNSP0
 Belt Belt NPMNG00
 Beltran Beltran NPCNSP0
@@ -11803,6 +11804,7 @@ Havre Havre NPCSG00
 Hawaii Hawaii NPFPG00
 Hawking Hawking NPCNSP0
 Hawks Hawks NPCNSP0
+Hawthorne Hawthorne NPCNSP0
 Haydn Haydn NPCNSP0
 Hayek Hayek NPCNSP0
 Heard Heard NPMSG00
@@ -12459,6 +12461,7 @@ Intermón Intermón NPMSO00
 Interpol Interpol NPFSO00
 Intibucá Intibucá NPCSG00
 Inverness Inverness NPCSG00
+Invisalign Invisalign NPCNO00
 Iocasta Iocasta NPFSSP0 # avl: noms de persona
 Iolanda Iolanda NPFSSP0
 Iolandes Iolanda NPFPSP0
@@ -13616,6 +13619,7 @@ Laurentí Laurentí NPMSSP0
 Laures Laura NPFPSP0
 Laureà Laureà NPMSSP0
 Laurència Laurència NPFSSP0 # avl: noms de persona
+Laus Laus NPCNO00
 Lausana Lausana NPCSG00
 Lauseta Lauseta NPCSSP0 # avl: noms de persona
 Lautaret Lautaret NPMSG00
@@ -13897,6 +13901,7 @@ Livorno Livorno NPCSG00
 Livry-Gargan Livry-Gargan NPCSG00
 Livònia Livònia NPFSG00
 Lizarra Lizarra NPCSG00
+Lizondo Lizondo NPCNSP0
 Lió Lió NPCSG00
 Ljouwert Ljouwert NPCSG00
 Ljubljana Ljubljana NPCSG00
@@ -17871,6 +17876,7 @@ Osasco Osasco NPCSG00
 Osasuna Osasuna NPMSO00
 Osbert Osbert NPMSSP0
 Osberts Osbert NPMPSP0
+Osborne Osborne NPCNSP0
 Osca Osca NPCNSP0
 Osca Osca NPCSG00
 Osees Osees NPMPSP0
@@ -23032,6 +23038,7 @@ Starhemberg Starhemberg NPCNSP0
 Starling Starling NPCNSP0 # medical
 Stavanger Stavanger NPCSG00
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
+Steiner Steiner NPCNSP0
 Steinert Steinert NPCNSP0 # medical
 Steinway Steinway NPMNO00
 Stellwag Stellwag NPCNSP0 # medical
@@ -24657,6 +24664,7 @@ Támega Támega NPCSG00
 Tènedos Tènedos NPCSG00
 Tèspies Tèspies NPCSG00
 Télimélé Télimélé NPCSG00
+Téllez Téllez NPCNSP0
 Télégraphe Télégraphe NPMSG00
 Térmens Térmens NPCNSP0
 Térmens Térmens NPCSG00
@@ -26117,6 +26125,7 @@ WikiLeaks WikiLeaks NPMNO00
 Wikiloc Wikiloc NPCNO00
 Wikipedia Wikipedia NPFSO00
 Wikipedies Wikipedia NPFPO00
+Wilde Wilde NPCNSP0
 Wildspitze Wildspitze NPCSG00
 Wilfred Wilfred NPMSSP0 # avl: noms de persona
 Wilfreda Wilfreda NPFSSP0 # avl: noms de persona
