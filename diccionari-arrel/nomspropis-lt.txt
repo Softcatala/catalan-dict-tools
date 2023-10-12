@@ -798,6 +798,7 @@ Al-Bayda Al-Bayda NPCSG00
 Al-Buraymī Al-Buraymī NPCSG00
 Al-Dawḥa Al-Dawḥa NPCSG00
 Al-Dāḫila Al-Dāḫila NPCSG00
+Al-Fatah Al-Fatah NPCSO00
 Al-Fujayrah Al-Fujayrah NPCSG00
 Al-Haouz Al-Haouz NPCSG00
 Al-Hilla Al-Hilla NPCSG00
@@ -8208,6 +8209,7 @@ Duixans Duixans NPCNSP0
 Dukas Dukas NPCNSP0
 Duke Duke NPCNSP0
 Dukes Dukes NPCNSP0 # medical
+Dulcinea Dulcinea NPFSSP0
 Duluth Duluth NPCSG00
 Dumas Dumas NPCNSP0
 Dumbledore Dumbledore NPCNSP0
@@ -9454,6 +9456,7 @@ Farāh Farāh NPCSG00
 Farīdabād Farīdabād NPCSG00
 Fasano Fasano NPCSG00
 Faso Faso NPMSG00
+Fatah Fatah NPCSO00
 Fatarella Fatarella NPFSG00
 Fatjó Fatjó NPCNSP0
 Fau Fau NPCNSP0
@@ -15521,6 +15524,7 @@ Mbini Mbini NPCSG00
 Mbuji-Mayi Mbuji-Mayi NPCSG00
 McArdle McArdle NPCNSP0 # medical
 McBurney McBurney NPCNSP0 # medical
+McCain McCain NPCNSP0
 McCarthy McCarthy NPCNSP0
 McCartney McCartney NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
@@ -16804,6 +16808,7 @@ Mèxic Mèxic NPMSG00
 Mégève Mégève NPCSG00
 Mélenchon Mélenchon NPCNSP0
 Méliès Méliès NPCNSP0
+Méndez Méndez NPCNSP0
 Ménière Ménière NPCNSP0 # medical
 Méricourt Méricourt NPCSG00
 Mérida Mérida NPCSG00
@@ -26604,6 +26609,7 @@ Zābol Zābol NPCSG00
 al-Din al-Din NPCNSP0
 al-Hussein al-Hussein NPCNSP0
 al-Sadat al-Sadat NPCNSP0
+al-Sadr al-Sadr NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
 bonÀrea bonÀrea NPCNO00
 d'Alembert d'Alembert NPCNSP0
