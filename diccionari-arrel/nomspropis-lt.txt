@@ -17228,6 +17228,7 @@ Nivelles Nivelles NPCSG00
 Niàgara Niàgara NPMSG00
 Niça Niça NPCSG00
 Nièvre Nièvre NPCSG00
+Niño-Becerra Niño-Becerra NPCNSP0
 Niš Niš NPCSG00
 Nišava Nišava NPCSG00
 Nkhota-Kota Nkhota-Kota NPCSG00
