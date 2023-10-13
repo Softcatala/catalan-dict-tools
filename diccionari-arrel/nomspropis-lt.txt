@@ -72,6 +72,7 @@
 #Ermessén (o Ermessèn) Ermessén (o Ermessèn) NPFSSP0 # avl: noms de persona
 #Estel Estel NPFSSP0 # avl: noms de persona
 #Eu Eu NPMSSP0 # avl: noms de persona
+#Eugene Eugene NPCSG00
 #Fab #Fab NPCNSP0 # medical
 #Fad Fad NPMSSP0 # avl: noms de persona
 #Fada Fada NPFSSP0 # avl: noms de persona
@@ -210,6 +211,7 @@
 #Vital Vital NPMSSP0 # avl: noms de persona
 #Vladimir Vladimir NPMSSP0 # avl: noms de persona
 #Vladimira Vladimira NPFSSP0 # avl: noms de persona
+#Àngeles Àngela NPFPSP0
 #Àurea Àurea NPFSSP0 # avl: noms de persona
 #Ènova Ènova NPFSG00
 #Òptim Òptim NPMSSP0 # avl: noms de persona
@@ -9159,7 +9161,6 @@ Eufràsia Eufràsia NPFSSP0
 Eufràsies Eufràsia NPFPSP0
 Eufèmia Eufèmia NPFSSP0
 Eufèmies Eufèmia NPFPSP0
-Eugene Eugene NPCSG00
 Eugeni Eugeni NPMSSP0
 Eugenis Eugeni NPMPSP0
 Eugènia Eugènia NPFSSP0
@@ -18007,6 +18008,7 @@ PPE PPE NPMSO00
 PROCICAT PROCICAT NPMSO00
 PSAN PSAN NPMSO00
 PSC PSC NPMSO00
+PSG PSG NPMSO00
 PSI PSI NPMSO00
 PSOE PSOE NPMSO00
 PSPV PSPV NPMSO00
@@ -21455,6 +21457,7 @@ Saint-Lazare Saint-Lazare NPCSG00
 Saint-Louis Saint-Louis NPCSG00
 Saint-Lô Saint-Lô NPCSG00
 Saint-Malo Saint-Malo NPCSG00
+Saint-Martin Saint-Martin NPCSG00
 Saint-Martin-d'Hères Saint-Martin-d'Hères NPCSG00
 Saint-Maur-des-Fossés Saint-Maur-des-Fossés NPCSG00
 Saint-Michel Saint-Michel NPCSG00
@@ -26657,7 +26660,6 @@ uTorrent uTorrent NPCNO00
 Àngel Àngel NPCNSP0
 Àngel Àngel NPMSSP0
 Àngela Àngela NPFSSP0
-Àngeles Àngela NPFPSP0
 Àngels Àngel NPMPSP0
 Àngels Àngels NPFPSP0
 Àngels Àngels NPFSSP0
