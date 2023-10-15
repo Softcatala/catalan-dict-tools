@@ -2986,6 +2986,7 @@ Baiés Baiés NPCNSP0
 Baió Baió NPCNSP0
 Baja Baja NPCSG00
 Bajhang Bajhang NPCSG00
+Baker Baker NPCNSP0
 Bakhmut Bakhmut NPCSG00
 Bakunin Bakunin NPCNSP0
 Bakú Bakú NPCSG00
@@ -10232,6 +10233,7 @@ Fukala Fukala NPCNSP0 # medical
 Fukui Fukui NPCSG00
 Fukuoka Fukuoka NPCSG00
 Fukushima Fukushima NPCSG00
+Fukuyama Fukuyama NPCNSP0
 Fulbert Fulbert NPMSSP0
 Fulberts Fulbert NPMPSP0
 Fulbright Fulbright NPCNSP0
@@ -21363,6 +21365,7 @@ Sacreu Sacreu NPCNSP0
 Sacsahuamán Sacsahuamán NPCSG00
 Saddam Saddam NPMSSP0
 Saddams Saddam NPMPSP0
+Sade Sade NPCNSP0
 Sadernes Sadernes NPCSG00
 Saderra Saderra NPCNSP0
 Saderra Saderra NPCSG00

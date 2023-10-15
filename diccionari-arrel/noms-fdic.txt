@@ -461,6 +461,7 @@ THC=categories: MI;fonts: dsalut;
 TIC=categories: FP;fonts: LT;
 TIN=categories: MI;fonts: sigla;
 TIR=categories: FI;fonts: LT;
+TN=categories; MI;fonts: sigla;
 TPV=categories: MI;fonts: sigla;
 TRC=categories: FI;fonts: dsalut;
 TSJ=categories: MS;fonts: LT;
