@@ -13286,6 +13286,7 @@ Kodiak Kodiak NPCSG00
 Kodály Kodály NPCNSP0
 Koeman Koeman NPCNSP0
 Koeppe Koeppe NPCNSP0 # medical
+Koestler Koestler NPCNSP0
 Kohlhaas Kohlhaas NPCNSP0
 Kohn Kohn NPCNSP0 # medical
 Kohtla-Järve Kohtla-Järve NPCSG00
@@ -17013,6 +17014,7 @@ Navata Navata NPFSG00
 Navau Navau NPCNSP0
 Navesa Navesa NPCSG00
 Navia Navia NPCSG00
+Navier-Stokes Navier-Stokes NPCNSP0
 Navio Navio NPCNSP0
 Navoi Navoi NPCSG00
 Navàs Navàs NPCNSP0
