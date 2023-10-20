@@ -99,8 +99,8 @@ while ($line = <$fh>) {
 	    }
 	    &aplica_afixos($forma, $afixos, $lema, $postag);
 	    if (Flexio::apostrofa_masculi($forma)) {
-		print $ofh "l'".$forma." ".$lema." _".$postag."\n";
-		print $ofh "d'".$forma." ".$lema." _".$postag."\n";
+		print $ofh "l'".$forma."\n";
+		print $ofh "d'".$forma."\n";
 		&aplica_afixos("l'".$forma, $afixos, $lema, $postag);
 		&aplica_afixos("d'".$forma, $afixos, $lema, $postag);
 	    }
@@ -116,35 +116,35 @@ while ($line = <$fh>) {
 	    &aplica_afixos($forma, $afixos, $lema, $postag);
 	} elsif ($postag =~ /^V.P.*$/) {
 	    if (Flexio::apostrofa_masculi($forma)) {
-		print $ofh "d'".$forma." ".$lema." _".$postag."\n";
+		print $ofh "d'".$forma."\n";
 		if ($postag =~ /^V.P.*SM.$/) {
-		    print $ofh "l'".$forma." ".$lema." _".$postag."\n";
+		    print $ofh "l'".$forma."\n";
 		}
 	    }
 	    if ($postag =~ /^V.P.*SF.$/ && Flexio::apostrofa_femeni($forma)) {
-		print $ofh "l'".$forma." ".$lema." _".$postag."\n";
+		print $ofh "l'".$forma."\n";
 	    }
 	} elsif ($postag =~ /^V.[SI].*$/ && Flexio::apostrofa_masculi($forma)) {
-	    print $ofh "m'".$forma." ".$lema." _".$postag."\n";
-	    print $ofh "t'".$forma." ".$lema." _".$postag."\n";
-	    print $ofh "s'".$forma." ".$lema." _".$postag."\n";
-	    print $ofh "l'".$forma." ".$lema." _".$postag."\n";
-	    print $ofh "n'".$forma." ".$lema." _".$postag."\n";
+	    print $ofh "m'".$forma."\n";
+	    print $ofh "t'".$forma."\n";
+	    print $ofh "s'".$forma."\n";
+	    print $ofh "l'".$forma."\n";
+	    print $ofh "n'".$forma."\n";
 	} elsif ($postag =~ /^[NA].*$/) {
 	    if (Flexio::apostrofa_masculi($forma)) {
-		print $ofh "d'".$forma." ".$lema." _".$postag."\n";
+		print $ofh "d'".$forma."\n";
 		if ($postag =~ /^(A..[MC][SN].|N.[MC][SN].*)$/) {
-		    print $ofh "l'".$forma." ".$lema." _".$postag."\n";
+		    print $ofh "l'".$forma."\n";
 		} elsif ($postag =~ /^(A..[FC][SN].|N.[FC][SN].*)$/ && Flexio::apostrofa_femeni($forma)) {
-		    print $ofh "l'".$forma." ".$lema." _".$postag."\n";
+		    print $ofh "l'".$forma."\n";
 		}
 
 	    }
 	} elsif ($postag =~ /^(RG.*|D[DI].*|PD0NS000|PI.*|PP3[MF][SP]000|SPS00)$/) {
 	    if (Flexio::apostrofa_masculi($forma)) {
-		print $ofh "d'".$forma." ".$lema." _".$postag."\n";
+		print $ofh "d'".$forma."\n";
 		if ($postag =~ /^RG$/) {
-		    print $ofh "l'".$forma." ".$lema." _".$postag."\n";
+		    print $ofh "l'".$forma."\n";
 		}
 	    }
 	}
@@ -179,7 +179,7 @@ sub aplica_afixos {
 		    $forma .= $afegeix;
 		}
 		$forma =~ s/\/$//; # Elimina / al final 
-		print $ofh "$forma ".$lema." _".$postag."\n";
+		print $ofh "$forma\n";
 	    }
 	}
     }
