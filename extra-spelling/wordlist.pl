@@ -182,10 +182,13 @@ sub aplica_afixos {
       		} else {
       		    $forma .= $afegeix;
       		}
-      		if ($postag =~ /V.M.2S../ && ($afegeix =~ /-se/ || $afegeix =~ /'s/)) {
+      		if ($postag =~ /V.M.2S../ && ($afegeix =~ /-s/ || $afegeix =~ /'s/)) {
       		    next;
       		}
-      		if ($forma =~ /(fen|^pon)-/) {
+      		if ($postag =~ /V.M.3.../ && ($afegeix =~ /-t/ || $afegeix =~ /'t/)) {
+      		    next;
+      		}
+      		if ($forma =~ /(fen|^pon|^poden)-/) {
       		    next;
       		}
       	    $forma =~ s/\/$//; # Elimina / al final 

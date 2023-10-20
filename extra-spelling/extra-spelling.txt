@@ -2574,7 +2574,6 @@ acostem-los
 acostem-nos
 acostem-nos-hi
 acoste's
-acoste't
 acosteu-hi
 acosteu-ho
 acosteu-la
@@ -2908,7 +2907,6 @@ acudir-se't
 acudir-se-us
 acudir-vos
 acudi-se'n
-acudi't
 acudiu-hi
 acudiu-li
 acuitant-lo
@@ -4209,7 +4207,6 @@ afanyem-se
 afanyem-vos
 afanyen-nos
 afanye's
-afanye't
 afanyeu-se
 afanyeu-vos
 afanyeu-vos-en
@@ -4464,7 +4461,6 @@ afeixi-les
 afeixi'm
 afeixin-l'hi
 afeixin-li
-afeixi't
 afeixugant-la
 afeixugant-los
 afeixugant-me
@@ -4562,7 +4558,6 @@ aferrau-vos
 aferrau-vos-hi
 aferrem-nos
 aferre's
-aferre't
 aferreu-la
 aferreu-les
 aferreu-l'hi
@@ -4609,7 +4604,6 @@ aficionar-vos-hi
 aficiona't
 aficioneu-vos
 afig-hi
-afigin-te
 afig-la
 afig-les
 afig-li
@@ -5293,7 +5287,6 @@ agenolla-t'hi
 agenollau-vos
 agenollem-nos
 agenolle's
-agenolle't
 agenolleu-me
 agenolleu-se
 agenolleu-vos
@@ -5902,7 +5895,6 @@ aidar-te
 aida't
 aidau-me
 aidau-nos
-aide't
 aiguabarrejant-lo
 aiguabarrejar-se
 aigualeix-li
@@ -6134,7 +6126,6 @@ aixequem-li
 aixequem-lo
 aixequem-los
 aixequem-nos
-aixeque't
 aixequeu-la
 aixequeu-les
 aixequeu-l'hi
@@ -6454,10 +6445,8 @@ ajunti'ls
 ajuntin-les
 ajuntin-se
 ajunti's
-ajupa't
 ajupim-nos
 ajupin-se
-ajupin-te-la
 ajupint-la
 ajupint-li
 ajupint-los
@@ -6798,7 +6787,6 @@ alegrem-nos
 alegrem-nos-en
 alegren-se
 alegre's
-alegre't
 alegreu-la
 alegreu-nos
 alegre-us
@@ -7220,7 +7208,6 @@ alleugeriu-me
 alleugi-li
 alleugin-li
 alleugi'ns
-alleugi't
 alleuja'm
 alleujant-ho
 alleujant-la
@@ -8019,7 +8006,6 @@ amargar-vos
 amarguejant-li
 amarguejant-me
 amarguem-los-hi
-amargue't
 amar-hi
 amar-ho
 amarinant-me
@@ -8353,7 +8339,6 @@ amollau-la
 amollau-li
 amollau-me
 amollem-nos-en
-amolle't
 amolleu-ho
 amolleu-la
 amolleu-les
@@ -8996,7 +8981,6 @@ animar-te
 animar-t'hi
 animar-vos
 animar-vos-hi
-anima-s'hi
 anima't
 anima-t'hi
 animau-les
@@ -9016,7 +9000,6 @@ animen-los
 animen-nos
 animen-vos
 anime's
-anime't
 animeu-la
 animeu-les
 animeu-lo
@@ -9931,7 +9914,6 @@ apartem-nos-en
 aparten-se
 aparten-vos
 aparte's
-aparte't
 aparteu-ho
 aparteu-la
 aparteu-les
@@ -10577,7 +10559,6 @@ aposentar-se
 aposentar-s'hi
 aposentar-te
 aposentar-vos
-aposi't
 aposta-hi
 aposta-ho
 aposta'l
@@ -11378,7 +11359,6 @@ apuntar-vos-en
 apuntar-vos-hi
 apuntar-vos-ho
 apuntar-vos-la
-apunta-s'hi
 apunta't
 apunta-te'l
 apunta-te-la
@@ -11555,7 +11535,6 @@ arbrar-la
 arbrar-lo
 arbrar-ne
 arbrar-se
-arbri't
 arcaïtzar-lo
 arcant-lo
 aregar-la
@@ -11845,7 +11824,6 @@ arrambar-te
 arrambar-vos
 arramba't
 arrambem-nos
-arrambe't
 arrambeu-los
 arrambeu-vos
 arrambi's
@@ -11912,7 +11890,6 @@ arrancar-te
 arrancar-te-la
 arrancar-te-les
 arrancar-vos
-arranca-s'hi
 arrancau-vos
 arraneu-l'hi
 arrangem-nos
@@ -13437,7 +13414,6 @@ assedegar-se
 assedegar-te
 assedeguem-nos
 assega's
-assega't
 asseguem-los
 asseguem-nos
 assegui-ho
@@ -13446,7 +13422,6 @@ assegui-la
 asseguin-lo
 asseguin-se
 assegui's
-assegui't
 assegura'l
 assegura-la
 assegura-li
@@ -15212,7 +15187,6 @@ aturem-ne
 aturem-nos
 aturem-nos-hi
 aturen-vos
-ature't
 atureu-ho
 atureu-la
 atureu-les
@@ -16285,7 +16259,6 @@ baixem-lo
 baixem-los
 baixem-nos
 baixe-se'ls
-baixe't
 baixeu-hi
 baixeu-ho
 baixeu-la
@@ -16860,7 +16833,6 @@ bastir-se'n
 bastir-s'hi
 bastir-te
 bastir-vos
-basti't
 basti-us
 bastonejant-la
 bastonejant-lo
@@ -17885,7 +17857,6 @@ botonar-me'l
 botonar-se
 botonar-te
 botona't
-botone't
 botre-hi
 botre'l
 botre-li
@@ -18549,7 +18520,6 @@ busquin-me'n
 busquin-ne
 busqui'ns
 busquin-se
-busquin-t'ho
 busqui's
 busqui-se'l
 busqui-se'n
@@ -19082,7 +19052,6 @@ caminar-se
 caminar-te
 caminem-hi
 caminem-lo
-camine't
 campa'l
 campa'n
 campanejar-li
@@ -20262,7 +20231,6 @@ casem-la
 casem-nos
 casem-nos-hi
 case's
-case't
 caseu-la
 caseu-lo
 caseu-los
@@ -20721,7 +20689,6 @@ celebrar-se'n
 celebrar-s'hi
 celebrar-te
 celebrar-vos
-celebra-s'hi
 celebra't
 celebrau-ho
 celebre-ho
@@ -20864,7 +20831,6 @@ centrem-nos
 centrem-nos-hi
 centrem-se
 centre's
-centre't
 centreu-hi
 centreu-lo
 centreu-se
@@ -22005,7 +21971,6 @@ cohibir-te
 cohonestar-ho
 cohonestar-se
 coincideix-ho
-coincideixin-te'ls
 coincidint-hi
 coincidint-la
 coincidint-ne
@@ -22253,7 +22218,6 @@ col·limar-lo
 collim-les
 collim-los
 colli'ns
-collin-te
 collint-hi
 collint-la
 collint-les
@@ -23858,7 +23822,6 @@ compren-me
 comprèn-me
 comprèn-ne
 compre's
-compre't
 compreu-hi
 compreu-ho
 compreu-la
@@ -24288,7 +24251,6 @@ comuniquem-nos-ho
 comuniquen-ho
 comunique'ns-ho
 comunique's
-comunique't
 comuniqueu-hi
 comuniqueu-ho
 comuniqueu-la
@@ -24337,7 +24299,6 @@ concebent-los
 concebent-se
 concebeu-me
 concebin-lo
-concebi't
 concebre-hi
 concebre-ho
 concebre'l
@@ -24892,7 +24853,6 @@ coneguem-los
 coneguem-ne
 coneguem-nos
 coneguen-lo
-coneguen-te
 conegui-hi
 conegui-ho
 conegui'l
@@ -26088,7 +26048,6 @@ consensuar-se
 consensuem-ho
 consensueu-ho
 consent-hi
-consentin-te
 consentint-hi
 consentint-ho
 consentint-la
@@ -26280,7 +26239,6 @@ consideri'ls
 consideri'm
 considerin-me
 considerin-se
-considerin-t'ho
 consideri's
 consigna-hi
 consigna'ls
@@ -26503,7 +26461,6 @@ constrènyer-me
 constrènyer-ne
 constrènyer-se
 constrenyi-la
-constrenyi't
 constreny-los
 construeix-hi
 construeix-ho
@@ -27222,7 +27179,6 @@ continguem-nos
 continguin-los
 contingui's
 conti'ns
-contin-te
 continua-ho
 continua'l
 continua-la
@@ -27628,7 +27584,6 @@ controlem-ho
 controlem-la
 controlem-nos
 controle's
-controle't
 controleu-ho
 controleu-la
 controleu-lo
@@ -28102,7 +28057,6 @@ copejar-se'n
 copejar-te
 copejar-vos
 cope's
-cope't
 copia-hi
 copia-ho
 copia'l
@@ -28768,7 +28722,6 @@ costejar-s'ho
 costejar-te
 costi'l
 costi'n
-costin-te'l
 cota'l
 cotant-la
 cotar-se
@@ -28935,7 +28888,6 @@ creguem-nos-el
 creguem-nos-ho
 creguen-me
 creguen-se
-creguen-te
 cregui-ho
 cregui'l
 cregui'm
@@ -29171,7 +29123,6 @@ creuar-t'hi
 creuar-vos
 creue-hi
 creuem-ho
-creue't
 creueu-hi
 creueu-la
 creueu-les
@@ -29331,7 +29282,6 @@ cridem-lo
 cridem-los
 criden-nos
 cride'ns
-criden-te
 crideu-ho
 crideu-la
 crideu-les
@@ -29668,7 +29618,6 @@ cuidem-nos
 cuidem-nos-la
 cuiden-los
 cuiden-nos
-cuide't
 cuideu-la
 cuideu-les
 cuideu-li
@@ -29772,7 +29721,6 @@ cular-me
 cular-se
 culla-la
 cullen-se
-culli't
 cull-la
 cull-les
 cull-li
@@ -29915,7 +29863,6 @@ culturitza't
 culturitzau-vos
 culturitzem-nos
 culturitzeu-vos
-cuque't
 cuqui's
 cura-ho
 cura'l
@@ -47693,7 +47640,6 @@ debateu-les
 debateu-ne
 debati'm
 debatin-se
-debati't
 debatre-hi
 debatre-ho
 debatre'l
@@ -48115,7 +48061,6 @@ decolorar-me
 decolorar-nos
 decolorar-se
 decolorar-se-li
-decolori't
 d'ecomímia
 decomissa'l
 decomissant-los
@@ -48400,7 +48345,6 @@ dedicar-vos
 dedicar-vos-el
 dedicar-vos-hi
 dedicar-vos-la
-dedica-s'hi
 dedica't
 dedica-t'hi
 d'edició
@@ -48456,7 +48400,6 @@ dediquem-lo
 dediquem-los
 dediquem-nos
 dedique's
-dedique't
 dediqueu-hi
 dediqueu-ho
 dediqueu-la
@@ -48950,7 +48893,6 @@ deformar-se-li
 deformar-te
 deformar-vos
 deforma't
-deformen-te
 d'èfors
 d'efracció
 d'Efraïm
@@ -49564,7 +49506,6 @@ d'eixermat
 d'eixerri
 d'eixes
 deixe's
-deixe't
 deixeu-hi
 deixeu-ho
 deixeu-la
@@ -49677,7 +49618,6 @@ deixonda-hi
 deixondar-lo
 deixondar-se
 deixondeix-te
-deixonde't
 deixondint-la
 deixondint-me
 deixondint-nos
@@ -50647,7 +50587,6 @@ demanar-vos-els
 demanar-vos-en
 demanar-vos-ho
 demanar-vos-la
-demana-s'ho
 demana't
 demana-te-la
 demana-te'n
@@ -50785,7 +50724,6 @@ demanin-nos
 demani'ns
 demanin-se
 demani's
-demani't
 demarcant-nos
 demarcar-la
 demarcar-lo
@@ -56663,7 +56601,6 @@ d'entintar
 d'entintat
 d'entintatge
 d'entintats
-dentin-te'l
 d'entitat
 d'entitats
 d'entolladura
@@ -57988,11 +57925,9 @@ depositar-los
 depositar-ne
 depositar-nos
 depositar-se
-deposi-te'n
 depositeu-les
 depositeu-lo
 depositeu-los
-deposi-t'ho
 depositi'ls
 d'epoxi
 d'epòxid
@@ -60746,7 +60681,6 @@ descarreguem-la
 descarreguem-nos
 descarreguem-nos-la
 descarregue's
-descarregue't
 descarregueu-ho
 descarregueu-la
 descarregueu-les
@@ -63493,7 +63427,6 @@ desenganyem-nos-en
 desenganyem-se
 desenganyen-nos
 desenganye's
-desenganye't
 desenganyeu-se
 desenganyeu-vos
 desenganyeu-vos-en
@@ -66135,7 +66068,6 @@ desorbitar-la
 desorbitar-les
 desorbitar-ne
 desorbitar-se
-desorbiten-te
 desordena'n
 desordenant-ho
 desordenant-les
@@ -77307,7 +77239,6 @@ diga'ns
 diga'ns-ho
 diga's
 diga-se-li
-diga't
 digau-ho
 digau-les
 digau-li
@@ -77542,8 +77473,6 @@ diguen-ne
 diguen-n'hi
 diguen-nos
 diguen-se
-diguen-te
-diguen-t'hi
 d'Igüerri
 digues-hi
 digues-ho
@@ -77637,7 +77566,6 @@ diguin-se
 digui'ns-en
 digui'ns-ho
 digui'ns-la
-diguin-te
 digui's
 digui-se'n
 d'Iguvium
@@ -87729,7 +87657,6 @@ d'ones
 done's
 d'Onesífor
 d'Onèsim
-done't
 doneu-hi
 doneu-ho
 doneu-la
@@ -87805,7 +87732,6 @@ donin-se
 doni'ns-els
 doni'ns-en
 doni'ns-ho
-donin-te
 d'oniomania
 d'oníric
 d'onírica
@@ -89602,7 +89528,6 @@ dubte-ho
 dubte'l
 dubtem-ho
 dubte'ns
-dubte't
 dubteu-ho
 dubteu-ne
 dubte-us
@@ -90929,7 +90854,6 @@ edulcorar-ne
 edulcorar-nos
 edulcorar-se
 edulcorem-ho
-edulcoren-te
 eduquem-la
 eduquem-lo
 eduquem-los
@@ -91552,7 +91476,6 @@ embalar-se
 embalar-te
 embalar-vos
 embala't
-embalatgi't
 embalbir-se
 embalsamant-los
 embalsamar-la
@@ -92185,7 +92108,6 @@ embriagar-se
 embriagar-s'hi
 embriagar-te
 embriagar-vos
-embriaga-s'hi
 embriaga't
 embriaguem-nos
 embriagueu-lo
@@ -93360,11 +93282,9 @@ empenya'l
 empenya-la
 empenyalar-se
 empenya'ls
-empenya't
 empenyem-los
 empenyem-nos
 empenyen-la
-empenyen-te
 empenyent-hi
 empenyent-ho
 empenyent-la
@@ -94324,7 +94244,6 @@ enamorar-vos-en
 enamora't
 enamorem-nos
 enamoren-se
-enamore't
 enamoreu-vos
 enamoreu-vos-en
 enamori's
@@ -94724,7 +94643,6 @@ encaparrar-s'hi
 encaparrar-te
 encaparrar-t'hi
 encaparrar-vos
-encaparra-s'hi
 encaparrotar-se
 encapçala-la
 encapçalant-hi
@@ -96094,7 +96012,6 @@ endinsar-t'hi
 endinsar-vos
 endinsar-vos-en
 endinsar-vos-hi
-endinsa-s'hi
 endinsa't
 endinsa-t'hi
 endinsau-vos
@@ -96703,7 +96620,6 @@ enfilau-vos
 enfile'm
 enfilem-nos
 enfilem-nos-hi
-enfile't
 enfileu-hi
 enfileu-les
 enfileu-lo
@@ -97061,7 +96977,6 @@ enfrontar-te-li
 enfrontar-t'hi
 enfrontar-vos
 enfrontar-vos-hi
-enfronta-s'hi
 enfronta't
 enfronta-t'hi
 enfronte'm
@@ -97893,7 +97808,6 @@ enjoncar-se
 enjoncar-te
 enjovar-me
 enjovar-nos
-enjove't
 enjudiciant-se
 enjudiciar-ho
 enjudiciar-la
@@ -98130,7 +98044,6 @@ enlluernem-los
 enlluerneu-los
 enlluerneu-me
 enlluerni's
-enlluerni't
 enllumena'l
 enllumena'm
 enllumenant-ho
@@ -98518,7 +98431,6 @@ enregistrar-s'hi
 enregistrar-te
 enregistrar-vos
 enregistrar-vos-hi
-enregistra-s'hi
 enregistra't
 enregistreu-ho
 enregistreu-la
@@ -98663,8 +98575,6 @@ enriquir-te
 enriquir-vos
 enriquiu-lo
 enriquiu-vos
-enriue-te'n
-enriui-te'n
 enrivetar-lo
 enrobustint-los
 enrobustir-la
@@ -100377,7 +100287,6 @@ entretindre'ns
 entretindre's
 entretindre-s'hi
 entretindre't
-entretinga-t'hi
 entretinguem-nos
 entretinguem-nos-hi
 entretingues-lo
@@ -100482,7 +100391,6 @@ entristir-se'n
 entristir-te
 entristir-vos
 entristiu-vos
-entri't
 entrompant-me
 entrompant-se
 entrompant-te
@@ -102179,7 +102087,6 @@ escaldeu-lo
 escaldeu-los
 escaldeu-ne
 escalem-ho
-escalen-te
 esca-les
 escaleu-la
 escalfa-ho
@@ -103428,7 +103335,6 @@ escórrer-se'm
 escórrer-s'hi
 escórrer-te
 escórrer-te'm
-escorre-s'hi
 escorre't
 escorre-te'm
 escorreu-hi
@@ -103439,7 +103345,6 @@ escorreu-lo
 escorreu-los
 escorreu-ne
 escorri-les
-escorri't
 escorta'l
 escorta-la
 escortant-la
@@ -103732,7 +103637,6 @@ escull-ho
 esculli'ls
 esculli'n
 esculli's
-esculli't
 escull-la
 escull-les
 escull-lo
@@ -104715,7 +104619,6 @@ espaiar-ne
 espaiar-nos
 espaiar-se
 espaiar-s'hi
-espaie't
 espair-se
 espalmar-les
 espanta'l
@@ -104928,7 +104831,6 @@ espavilar-te
 espavilar-vos
 espavila't
 espavilem-nos
-espavile't
 espavileu-la
 espavileu-se
 espavileu-vos
@@ -105195,7 +105097,6 @@ esperem-nos-hi
 esperen-ne
 espere's
 esperesar-se
-espere't
 espereu-hi
 espereu-la
 espereu-lo
@@ -105361,7 +105262,6 @@ espirant-se
 espirar-lo
 espirar-nos
 espirejant-li
-espiri't
 espiritualitzant-ho
 espiritualitzant-la
 espiritualitzar-la
@@ -106044,7 +105944,6 @@ establir-t'hi
 establir-vos
 establir-vos-hi
 establi-s'hi
-establi't
 establiu-ho
 establiu-ne
 establiu-vos
@@ -106242,7 +106141,6 @@ estalviem-nos
 estalviem-nos-en
 estalviem-nos-ho
 estalviem-nos-la
-estalvie't
 estalvieu-ho
 estalvieu-li
 estalvieu-lo
@@ -106631,7 +106529,6 @@ estibar-lo
 estibar-se
 estifolla'ls
 estiga'm
-estiga't
 estigmatitzant-la
 estigmatitzant-les
 estigmatitzant-lo
@@ -107246,7 +107143,6 @@ estrenem-la
 estrenem-nos
 estreneu-la
 estreneu-vos
-estrenya't
 estrenyem-hi
 estrenyem-la
 estrenyem-nos
@@ -109117,7 +109013,6 @@ explicar-vos-en
 explicar-vos-ho
 explicar-vos-la
 explicar-vos-les
-explica-s'hi
 explica't
 explica-t'ho
 explicau-ho
@@ -110118,7 +110013,6 @@ facin-se'n
 facin-s'hi
 faci'ns-ho
 facin-s'ho
-facin-t'ho
 faci's
 faci-se'l
 faci-se-la
@@ -110191,7 +110085,6 @@ fagocitar-se
 fagocitar-se'ls
 fagocitar-te
 fagocitar-vos
-fagociten-te
 faixant-se
 faixar-li
 faixar-se
@@ -111278,7 +111171,6 @@ fidelitzar-se
 fidelitzar-te
 fiem-nos
 fiem-nos-en
-fie't
 fieu-ho
 fieu-me
 fieu-nos
@@ -111323,7 +111215,6 @@ figurem-nos
 figurem-nos-ho
 figuren-vos
 figure's
-figure't
 figureu-vos
 figureu-vos-ho
 figurin-se
@@ -111543,7 +111434,6 @@ fiquem-nos-hi
 fiquem-nos-ho
 fiquem-se
 fique-s'ho
-fique't
 fiqueu-hi
 fiqueu-ho
 fiqueu-la
@@ -111738,7 +111628,6 @@ fitxem-la
 fitxem-lo
 fitxem-nos
 fitxem-nos-hi
-fitxe't
 fitxeu-hi
 fitxeu-lo
 fitxeu-los
@@ -111829,7 +111718,6 @@ fixen-vos
 fixen-vos-hi
 fixe's
 fixe-s'hi
-fixe't
 fixeu-ho
 fixeu-la
 fixeu-les
@@ -112800,9 +112688,6 @@ fota-li
 fota'm
 fota-me'ls
 fota'ns
-fota't
-fota-t'hi
-fota-t'ho
 fotem-hi
 fotem-la
 fotem-li
@@ -112821,8 +112706,6 @@ foten-me
 foten-nos
 foten-se
 foten-se'n
-foten-te
-foten-t'hi
 fotent-hi
 fotent-ho
 fotent-la
@@ -113624,7 +113507,6 @@ fúmer-se
 fúmer-se'n
 fume's
 fume-se'l
-fume't
 fumeu-li
 fumeu-los
 fumeu-me
@@ -114465,7 +114347,6 @@ girem-la
 girem-li
 girem-lo
 girem-nos
-gire-t'hi
 gireu-hi
 gireu-ho
 gireu-la
@@ -114883,7 +114764,6 @@ gratar-te-la
 gratar-te'ls
 gratar-vos
 grata't
-grate't
 grateu-hi
 grateu-los
 grateu-ne
@@ -115430,8 +115310,6 @@ guardem-nos-en
 guardem-nos-ho
 guarde'n
 guarde's
-guarde't
-guarde-te'n
 guardeu-hi
 guardeu-ho
 guardeu-la
@@ -115829,7 +115707,6 @@ hagi'n
 hagi's
 haguem-ho
 haguem-me
-haguen-t'hi
 haja'n
 hajar-hi
 hajau-hi
@@ -116032,7 +115909,6 @@ heure's
 heure-se-les
 heure't
 heure-te-les
-heu-s'ho
 heu-vos
 heu-vos-el
 heu-vos-els
@@ -116694,7 +116570,6 @@ igualar-te
 iguala't
 igualem-los
 igualem-nos
-iguale't
 igualeu-les
 igualeu-los
 il·legalitzant-les
@@ -116956,7 +116831,6 @@ imaginen-nos-en
 imaginen-se
 imaginen-vos
 imagine's
-imagine't
 imagineu-ho
 imagineu-la
 imagineu-les
@@ -117978,7 +117852,6 @@ incapacitar-los
 incapacitar-me
 incapacitar-nos
 incapacitar-se
-incapaciten-te
 incardinant-hi
 incardinant-la
 incardinant-se
@@ -118174,7 +118047,6 @@ inclogui'ls
 inclogui'm
 incloguin-ho
 incloguin-me
-incloguin-te-les
 inclou-hi
 inclou-la
 inclou-les
@@ -118322,7 +118194,6 @@ incorporar-te'ls
 incorporar-t'hi
 incorporar-vos
 incorporar-vos-hi
-incorpora-s'hi
 incorpora't
 incorpora-t'hi
 incorporau-hi
@@ -118357,7 +118228,6 @@ incorre-hi
 incorrent-se
 incórrer-hi
 incórrer-se
-incorri't
 incrementa-la
 incrementa'n
 incrementant-hi
@@ -118516,7 +118386,6 @@ inculpar-se'm
 inculpar-te
 inculpar-vos
 inculpa't
-inculpe't
 inculquem-li
 inculquem-los
 inculqueu-li
@@ -119172,8 +119041,6 @@ informen-los
 informen-nos
 informe'ns
 informe's
-informe't
-informe-te'n
 informeu-ho
 informeu-la
 informeu-les
@@ -119770,7 +119637,6 @@ insolar-les
 insolar-se
 insolentant-se
 insolentar-se
-insoli't
 insonoritzant-les
 insonoritzant-lo
 insonoritzant-los
@@ -120234,7 +120100,6 @@ integrar-te
 integrar-t'hi
 integrar-vos
 integrar-vos-hi
-integra-s'hi
 integra't
 integrem-hi
 integrem-nos
@@ -120598,7 +120463,6 @@ internar-se
 internar-s'hi
 internar-te
 interna't
-interne't
 interneu-la
 interpel·lant-la
 interpel·lant-les
@@ -120803,7 +120667,6 @@ interrompi'l
 interrompi'm
 interrompin-me
 interrompin-se
-interrompi't
 interrompre-hi
 interrompre-ho
 interrompre'l
@@ -120883,7 +120746,6 @@ intimidar-nos
 intimidar-se
 intimidar-te
 intimidar-vos
-intimiden-te
 intimideu-los
 intimidin-lo
 intitulant-la
@@ -121467,7 +121329,6 @@ involucrar-te
 involucrar-t'hi
 involucrar-vos
 involucrar-vos-hi
-involucra-s'hi
 involucra't
 involucra-t'hi
 involucre'ls
@@ -121815,7 +121676,6 @@ juguem-nos
 juguem-nos-hi
 juguem-nos-ho
 juguem-nos-la
-jugue-t'hi
 jugueu-hi
 jugueu-lo
 jugueu-s'hi
@@ -121968,7 +121828,6 @@ jutgem-la
 jutgem-lo
 jutgem-los
 jutgem-nos
-jutge't
 jutgeu-ho
 jutgeu-la
 jutgeu-les
@@ -160288,7 +160147,6 @@ l'imitem
 limitem-los
 limitem-nos
 l'imiten
-limiten-te
 l'imites
 limite's
 l'imités
@@ -164403,7 +164261,6 @@ llaçant-los
 llaçar-la
 llaçar-los
 llaçar-se
-llace't
 lladrant-li
 lladrant-vos
 lladrar-ho
@@ -164526,7 +164383,6 @@ llançar-te'l
 llançar-t'hi
 llançar-vos
 llançar-vos-hi
-llança-s'hi
 llança't
 llança-t'hi
 llançau-me'ls
@@ -164844,8 +164700,6 @@ llegueu-lo
 llegui'm
 lleguin-la
 lleguin-lo
-lleguin-te
-llegui't
 lleixa-hi
 lleixa-la
 lleixa'm
@@ -164875,7 +164729,6 @@ lleixem-los
 lleixen-la
 lleixeu-me
 lleixeu-m'hi
-lleixi't
 llença-hi
 llença-ho
 llença'l
@@ -165221,7 +165074,6 @@ llevem-nos-les
 lleven-lo
 lleve's
 lleve-s'ho
-lleve't
 lleveu-la
 lleveu-li
 lleveu-lo
@@ -173568,7 +173420,6 @@ m'anirien
 m'aniries
 m'aniríeu
 mani's
-mani't
 m'anivella
 manlleva'l
 manlleva-li
@@ -173780,7 +173631,6 @@ mantindre-s'hi
 mantindre't
 mantinga'ls
 mantinga's
-mantinga't
 mantinga-us
 mantinguem-ho
 mantinguem-la
@@ -177445,7 +177295,6 @@ m'embraveixo
 m'embravia
 membrem-ho
 membre's
-membre't
 m'embriaga
 m'embriagà
 m'embriagaré
@@ -179393,7 +179242,6 @@ m'engendrares
 m'engendres
 m'engendressin
 menge-se-la
-menge't
 mengeu-hi
 mengeu-ho
 mengeu-la
@@ -184695,7 +184543,6 @@ millorem-les
 millorem-lo
 millorem-ne
 millorem-nos
-millore't
 milloreu-la
 milloreu-les
 milloreu-lo
@@ -186603,8 +186450,6 @@ miren-me
 miren-ne
 miren-vos-la
 mire's
-mire't
-mire-t'ho
 mireu-hi
 mireu-ho
 mireu-la
@@ -187460,11 +187305,9 @@ m'ofusqués
 m'ofusquessin
 m'ofusqui
 moga's
-moga't
 moga-us
 moguem-nos
 moguen-se
-moguen-te
 moguen-vos
 mogui'l
 mogui-la
@@ -187703,7 +187546,6 @@ m'oprimiu
 m'oprimix
 m'optaren
 moquejar-ne
-moque't
 moqueu-vos
 moqui's
 m'ora
@@ -187804,7 +187646,6 @@ m'orinés
 m'orini
 m'orino
 morin-se
-morin-te
 morint-hi
 morint-me
 morint-m'hi
@@ -188217,7 +188058,6 @@ motivar-vos
 motiva't
 motivem-les
 motivem-nos
-motiven-te
 motiveu-los
 motiveu-vos
 motllurant-li
@@ -188443,7 +188283,6 @@ mullerar-me
 mullerar-se
 mullerar-s'hi
 m'ullés
-mulle't
 mulleu-hi
 mulleu-ho
 mulleu-la
@@ -188743,7 +188582,6 @@ murar-lo
 murar-los
 murar-me
 murar-se
-mure't
 m'urgeix
 m'urgeixen
 m'urgí
@@ -199550,7 +199388,6 @@ oblidem-nos-en
 obliden-les
 obliden-se
 oblide's
-oblide't
 oblideu-ho
 oblideu-la
 oblideu-les
@@ -199722,8 +199559,6 @@ obrin-me
 obrin-ne
 obri'ns
 obrin-se
-obrin-te
-obrin-t'hi
 obrint-hi
 obrint-ho
 obrint-la
@@ -200166,7 +200001,6 @@ ocórrer-se'ls
 ocórrer-se'm
 ocórrer-se'ns
 ocorrin-se
-ocorri't
 octubrar-se
 oculta'l
 ocultant-ho
@@ -200662,7 +200496,6 @@ oliar-la
 oliar-lo
 oliar-los
 olieu-les
-oliïn-te
 oliva-la
 olivar-se
 oliva't
@@ -200703,7 +200536,6 @@ olora't
 olora-te'ls
 olorau-la
 olorau-me
-olore't
 oloreu-ho
 oloreu-la
 oloreu-lo
@@ -200790,7 +200622,6 @@ omplin-los
 omplin-me
 omplin-nos
 omplin-se
-omplin-te
 omplint-hi
 omplint-ho
 omplint-la
@@ -201280,7 +201111,6 @@ orientem-la
 orientem-les
 orientem-los
 orientem-nos
-orienten-te
 orienteu-ho
 orienteu-lo
 orienteu-los
@@ -202009,7 +201839,6 @@ parem-nos-ho
 parem-se
 pare'n
 pare's
-pare't
 pareu-hi
 pareu-ho
 pareu-la
@@ -202444,7 +202273,6 @@ passar-vos-en
 passar-vos-hi
 passar-vos-ho
 passar-vos-la
-passa-s'ho
 passa't
 passa-te'l
 passa-te-la
@@ -202558,7 +202386,6 @@ passen-hi
 passen-ho
 passe'ns
 passe's
-passe't
 passeu-hi
 passeu-ho
 passeu-la
@@ -202610,7 +202437,6 @@ passin-me'l
 passin-m'ho
 passi'ns
 passin-s'ho
-passin-t'ho
 passi's
 passi-s'hi
 passi-s'ho
@@ -202998,7 +202824,6 @@ penar-ho
 penar-lo
 penar-nos
 penar-se
-pena-s'ho
 penca'n
 pencant-hi
 pencar-hi
@@ -203262,7 +203087,6 @@ pensar-t'ho
 pensar-vos
 pensar-vos-hi
 pensar-vos-ho
-pensa-s'ho
 pensa't
 pensa-te-la
 pensa-te'n
@@ -203397,7 +203221,6 @@ percaçar-me
 percaçar-nos
 percaçar-se
 percebent-hi
-perceben-t'ho
 percebent-ho
 percebent-la
 percebent-les
@@ -203449,7 +203272,6 @@ perdem-nos-en
 perden-ho
 perden-los
 perden-se
-perden-te
 perdent-hi
 perdent-ho
 perdent-la
@@ -203873,7 +203695,6 @@ permeten-me
 permeten-ne
 permeten-nos
 permeten-se
-permeten-te
 permetent-hi
 permetent-ho
 permetent-la
@@ -203931,7 +203752,6 @@ permetin-ne
 permetin-nos
 permeti'ns
 permeti'ns-ho
-permetin-te-li
 permeti's
 permeti-se'm
 permeti-se'ns
@@ -204862,7 +204682,6 @@ pirogravar-los
 pisa-la
 pisar-se
 piscar-hi
-pise't
 pispa'ls-hi
 pispant-ho
 pispant-li
@@ -205024,7 +204843,6 @@ plagiar-se
 plagiar-te
 plaguejar-hi
 plagui'ns
-plagui't
 plagui-us
 plana-la
 planant-hi
@@ -205579,7 +205397,6 @@ plorar-vos
 plora't
 plorem-los
 ploren-la
-ploren-te
 ploreu-hi
 ploreu-lo
 ploriquejar-li
@@ -205636,7 +205453,6 @@ poble-la
 poble'ls
 poble'ns
 poble's
-poble't
 poda-ho
 poda'l
 poda-la
@@ -205678,9 +205494,7 @@ poden-ho
 poden-les
 poden-se
 pode'ns-el
-poden-te
 podent-hi
-poden-t'ho
 podent-ho
 podent-la
 podent-les
@@ -206220,10 +206034,8 @@ porten-los
 porten-me
 porten-me-la
 porte'ns
-porten-te
 porten-vos
 porte's
-porte't
 porteu-hi
 porteu-ho
 porteu-la
@@ -206297,7 +206109,6 @@ portin-se'n
 porti'ns-hi
 porti's
 porti-se'n
-porti't
 posa-hi
 posa-ho
 posa'l
@@ -206453,8 +206264,6 @@ posar-vos-hi
 posar-vos-ho
 posar-vos-la
 posar-vos-les
-posa-s'hi
-posa-s'ho
 posa't
 posa-te'l
 posa-te-la
@@ -206523,7 +206332,6 @@ pose'ns
 posen-se
 pose's
 pose-se-li
-pose't
 poseu-hi
 poseu-ho
 poseu-la
@@ -207995,7 +207803,6 @@ preparem-nos-hi
 preparen-nos
 preparen-vos
 prepare's
-prepare't
 prepareu-hi
 prepareu-ho
 prepareu-la
@@ -208203,7 +208010,6 @@ presentar-vos-hi
 presentar-vos-ho
 presentar-vos-la
 presentar-vos-les
-presenta-s'hi
 presenta't
 presenta-t'hi
 presentau-la
@@ -209805,7 +209611,6 @@ proposi'm
 proposi-me'n
 proposin-ho
 proposi'ns
-proposi't
 propugnant-ne
 propugnant-se
 propugnar-hi
@@ -210789,7 +210594,6 @@ quadra't
 quadra-t'hi
 quadrejar-la
 quadrejar-lo
-quadre't
 quadreu-vos
 quadricular-ho
 quadricular-la
@@ -211078,7 +210882,6 @@ queixa't
 queixe-ho
 queixe-la
 queixem-nos
-queixe't
 queixeu-vos
 queixeu-vos-en
 queixi's
@@ -211611,7 +211414,6 @@ ratar-los
 ratar-nos
 ratar-se
 rate's
-rate't
 ratificant-ho
 ratificant-la
 ratificant-les
@@ -212112,7 +211914,6 @@ rebatejar-nos
 rebatejar-se
 rebatejar-te
 rebaten-s'hi
-rebaten-te
 rebatent-la
 rebatent-les
 rebatent-li
@@ -212123,10 +211924,8 @@ rebatent-me
 rebatent-ne
 rebatent-se
 rebateu-los
-reba-t'hi
 rebatin-la
 rebatin-me'ls
-rebatin-te
 rebat-m'ho
 rebatre-hi
 rebatre-ho
@@ -212228,7 +212027,6 @@ rebentar-vos-les
 rebenta't
 rebentem-ho
 rebentem-los
-rebente't
 rebenteu-ho
 rebenteu-li
 rebenteu-lo
@@ -213960,7 +213758,6 @@ recorden-lo
 recorden-se
 recorde's
 recorde-se'n
-recorde-te'n
 recordeu-ho
 recordeu-la
 recordeu-les
@@ -213998,7 +213795,6 @@ recordin-me
 recordi'ns
 recordin-se
 recordin-se'n
-recordin-t'ho
 recordi's
 recordi-se'n
 recorregir-se
@@ -214206,7 +214002,6 @@ reculli'ls
 reculli'm
 reculli'n
 reculli's
-reculli't
 recull-la
 recull-les
 recull-lo
@@ -215621,7 +215416,6 @@ refrigerar-ne
 refrigerar-nos
 refrigerar-se
 refrigerar-vos
-refrigeren-te
 refrigereu-ho
 refrigereu-la
 refrigereu-los
@@ -216117,7 +215911,6 @@ registrem-ho
 registrem-lo
 registrem-nos
 registre's
-registre't
 registreu-la
 registreu-les
 registreu-lo
@@ -216829,7 +216622,6 @@ relaxar-vos-hi
 relaxa't
 relaxem-nos
 relaxe's
-relaxe't
 relaxeu-la
 relaxeu-los
 relaxeu-se
@@ -217213,7 +217005,6 @@ remeni'l
 remeni-les
 remenja'm
 remenjar-se
-remen-te
 remescla'm
 remesclar-ho
 remesclar-la
@@ -217222,7 +217013,6 @@ remesclar-lo
 remesclar-los
 remesclar-se
 remesclar-vos
-reme't
 remetem-los
 remetem-nos
 remeten-les
@@ -217763,7 +217553,6 @@ rentar-t'hi
 rentar-vos
 rentar-vos-en
 rentar-vos-les
-renta-s'hi
 renta't
 renta-te'l
 renta-te-la
@@ -217784,7 +217573,6 @@ rentem-lo
 rentem-los
 rentem-nos
 rentem-nos-les
-rente't
 renteu-ho
 renteu-la
 renteu-les
@@ -219898,7 +219686,6 @@ ressegueix-te
 resseguim-nos
 resseguin-la
 resseguin-los
-resseguin-te
 resseguint-hi
 resseguint-ho
 resseguint-la
@@ -220260,7 +220047,6 @@ resumim-los
 resumim-ne
 resumim-nos
 resumint-hi
-resumin-t'ho
 resumint-ho
 resumint-la
 resumint-les
@@ -220442,7 +220228,6 @@ retén-lo
 retén-los
 retén-me
 reten-ne
-reten-te
 retén-te
 retent-les
 retent-li
@@ -220696,7 +220481,6 @@ retòrcer-me
 retòrcer-nos
 retòrcer-se
 retorce's
-retorci't
 retorna-hi
 retorna-ho
 retorna'l
@@ -221900,7 +221684,6 @@ rissar-lo
 rissar-se
 ritmant-li
 ritmant-vos
-ritme't
 ritualitzar-la
 riu-les
 riu-li
@@ -222022,7 +221805,6 @@ robeu-me
 robeu-ne
 robeu-nos
 robi'm
-robin-te
 roborar-ho
 robotitzar-lo
 robotitzar-nos
@@ -222183,7 +221965,6 @@ rondar-nos
 rondar-te
 rondar-vos
 rondejar-la
-ronden-te
 rondinant-li
 rondinant-me
 rondinant-nos
@@ -222277,7 +222058,6 @@ rosteix-los
 rostim-lo
 rostin-nos
 rostin-se
-rostin-te
 rostint-la
 rostint-les
 rostint-li
@@ -231442,7 +231222,6 @@ seguin-lo
 seguin-los
 seguin-me
 segui'ns
-seguin-te
 seguint-hi
 seguint-ho
 seguint-la
@@ -236395,7 +236174,6 @@ s'entapissen
 s'entapissés
 s'entapissin
 s'entarima
-senta't
 s'entatxona
 s'entatxonà
 s'entatxonaran
@@ -236594,11 +236372,9 @@ s'entintà
 s'entintarà
 s'entintava
 s'entintaven
-sentin-te
 s'entinten
 s'entintés
 sentint-hi
-sentin-t'ho
 sentint-ho
 sentint-la
 sentint-les
@@ -236683,7 +236459,6 @@ sentir-vos-ho
 sentir-vos-la
 senti's
 senti-se'n
-senti't
 sentiu-hi
 sentiu-ho
 sentiu-la
@@ -237558,7 +237333,6 @@ senyar-te
 senyar-vos
 senya't
 senyem-nos
-senye't
 senyeu-vos
 senyin-nos
 senyin-se
@@ -237893,7 +237667,6 @@ s'erotitza
 s'erotitzava
 s'erotitzen
 s'erotitzi
-serpentegen-te
 serpentejant-hi
 serpentejant-la
 serpentejant-li
@@ -238032,7 +237805,6 @@ servim-lo
 servim-los
 servim-nos
 servim-nos-en
-servin-te
 servint-hi
 servint-ho
 servint-la
@@ -243233,9 +243005,7 @@ siguin-ho
 siguin-li
 siguin-me
 sigui'ns
-siguin-te
 sigui's
-sigui't
 silencia'l
 silenciant-hi
 silenciant-ho
@@ -246430,7 +246200,6 @@ sobresortir-ho
 sobresortir-li
 sobresortir-ne
 sobresortir-se'n
-sobre't
 sobrevalorant-ne
 sobrevalorant-nos
 sobrevalorant-se
@@ -247017,7 +246786,6 @@ sofregiu-lo
 sofregiu-los
 sofregiu-ne
 sofreixi'm
-sofreixi't
 sofreix-lo
 s'ofrena
 s'ofrenà
@@ -249027,7 +248795,6 @@ subtitular-se
 subtituleu-la
 subtituli'l
 subtitulin-lo
-subtituli't
 subvalorant-ne
 subvalorar-ho
 subvalorar-la
@@ -249220,7 +248987,6 @@ sufragar-vos
 sufragui-ho
 sufragui'm
 sufraguin-s'ho
-sufragui't
 suggereix-ho
 suggereixi-li
 suggereixi'ls
@@ -249448,7 +249214,6 @@ sumem-nos
 sumem-nos-hi
 sumen-nos
 sumen-se
-sume't
 sumeu-hi
 sumeu-ho
 sumeu-les
@@ -249704,7 +249469,6 @@ supervisar-me
 supervisar-ne
 supervisar-nos
 supervisar-se
-supervisa-s'hi
 supervisa't
 suplanta'l
 suplantant-ho
@@ -249876,7 +249640,6 @@ suposeu-me
 suposeu-vos
 suposin-se
 suposi's
-suposi't
 suprimeix-ho
 suprimeix-la
 suprimeix-lo
@@ -249987,7 +249750,6 @@ surtin-ne
 surti'ns-en
 surtin-se'n
 surti-se'n
-surti't
 surti-us-en
 surt-li
 surt-los
@@ -252153,11 +251915,9 @@ tallem-lo
 tallem-los
 tallem-ne
 tallem-nos-en
-tallen-te
 t'allera
 t'alleren
 t'alleris
-talle't
 t'alleta
 t'alletà
 t'alletaré
@@ -262053,7 +261813,6 @@ tire'n
 tiren-la
 tiren-li
 tiren-me
-tire't
 tireu-hi
 tireu-ho
 tireu-la
@@ -263080,7 +262839,6 @@ tòrcer-se
 tòrcer-se-li
 tòrcer-s'hi
 torce's
-torci't
 t'ordeixes
 t'ordena
 t'ordenà
@@ -263465,7 +263223,6 @@ torpedinar-se
 torpedinar-te
 torquem-nos
 t'orquestra
-torque't
 torqueu-vos
 torra-ho
 torra'l
@@ -263855,7 +263612,6 @@ traguem-nos-els
 traguem-nos-ho
 traguem-nos-les
 traguen-lo
-trague't
 tragueu-les
 tragueu-l'hi
 tragueu-li
@@ -263979,7 +263735,6 @@ tramar-los
 tramar-ne
 tramar-se
 trame-les
-trame-te-la
 trametem-vos
 trametent-ho
 trametent-la
@@ -264062,7 +263817,6 @@ tramiteu-la
 tramiteu-les
 tramiteu-ne
 tramitin-ho
-tramiti't
 trampejant-la
 trampejant-les
 trampejant-los
@@ -264146,7 +263900,6 @@ transcendir-vos
 transcorre-hi
 transcorrent-la
 transcorrent-lo
-transcorri't
 transcrigui-ho
 transcriu-la
 transcriu-les
@@ -265859,7 +265612,6 @@ trossejar-se-li
 trossejar-te
 trossejau-hi
 trossejau-lo
-trosse't
 trotant-li
 trotant-me
 trotar-hi
@@ -266891,7 +266643,6 @@ valga-li
 valga'm
 valga'n
 valga'ns
-valga't
 valga-us
 valguem-nos
 valguen-li
@@ -267093,7 +266844,6 @@ vantar-te'n
 vantar-vos
 vanta't
 vanteu-vos
-vapore't
 vaporitzant-los
 vaporitzant-se
 vaporitzar-la
@@ -267219,7 +266969,6 @@ vegin-ne
 vegin-se
 vegi's
 vegi-se'n
-vegi't
 vehiculant-ho
 vehiculant-la
 vehiculant-les
@@ -267305,7 +267054,6 @@ velar-se
 velar-te
 velem-ne
 veli'n
-velin-te
 vencem-los
 vencem-nos
 vencent-hi
@@ -268102,7 +267850,6 @@ viar-me
 viar-ne
 viar-nos
 viar-se
-viatge't
 viatgi'n
 viaticar-lo
 viatja-ho
@@ -268580,7 +268327,6 @@ visquem-les
 visquem-lo
 visquem-ne
 visquen-les
-visquen-te
 visqui-hi
 visqui-la
 visqui'm
@@ -268807,7 +268553,6 @@ vole'n
 volen-ho
 volen-ne
 volen-nos
-volen-te
 volent-hi
 volent-ho
 volent-la
@@ -269093,7 +268838,6 @@ vulgaritzem-ho
 vulguem-ho
 vulguem-ne
 vulguem-nos
-vulguen-t'ho
 vulgues-hi
 vulgues-ho
 vulgues-los
@@ -269399,7 +269143,6 @@ xiuleu-la
 xiuleu-los
 xiuleu-me
 xiuli'l
-xiuli't
 xiuxiuant-li
 xiuxiuant-nos
 xiuxiuar-li
