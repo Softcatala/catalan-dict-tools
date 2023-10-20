@@ -463,7 +463,6 @@ abolir-los
 abolir-ne
 abolir-nos
 abolir-se
-abombant-se
 abomina-ho
 abominant-la
 abominant-lo
@@ -594,10 +593,6 @@ aborronar-me
 aborronar-nos
 aborronar-se
 abotifarrar-se
-abotonar-les
-abotonar-li
-abotonar-se
-abotona't
 abraça'l
 abraça-la
 abraça'ls
@@ -1919,7 +1914,6 @@ acoltellar-lo
 acoltellar-los
 acoltellar-nos
 acoltellar-se
-acolxar-la
 acomboiant-hi
 acomboiant-la
 acomboiant-lo
@@ -1937,10 +1931,6 @@ acomboiar-se
 acomboiar-te
 acomboieu-lo
 acomboieu-vos
-acometre'l
-acometre-la
-acometre-les
-acometre'ls
 acomiada'l
 acomiada-la
 acomiada'ls
@@ -2144,19 +2134,6 @@ acomparant-la
 acomparar-la
 acomparar-se
 acompareu-hi
-acompassa'ns
-acompassant-la
-acompassant-los
-acompassant-nos
-acompassant-se
-acompassar-hi
-acompassar-les
-acompassar-los
-acompassar-nos
-acompassar-se
-acompassar-s'hi
-acompassar-te
-acompassa't
 acompleix-lo
 acompleix-los
 acomplexa-me'n
@@ -2204,9 +2181,6 @@ aconduir-los
 aconduir-me
 aconduir-nos
 aconduir-se
-aconformar-nos
-aconformar-se
-aconforma't
 aconhortant-la
 aconhortant-lo
 aconhortant-los
@@ -2732,7 +2706,6 @@ acotxa't
 acotxeu-lo
 acotxi'l
 acotxi'm
-acovardar-se
 acovardint-les
 acovardint-lo
 acovardint-se
@@ -3285,9 +3258,6 @@ adient-se
 adinerant-la
 adinerar-la
 adinerar-los
-adinsar-se
-adinsar-te
-adinsau-vos
 adinyar-ho
 adinyar-la
 adir-hi
@@ -4936,11 +4906,9 @@ afonar-se
 afonar-te
 afonar-vos
 afona't
-afondar-lo
 aforant-se
 aforar-ne
 aforestant-se
-aforrar-se
 afrancesant-lo
 afrancesant-se
 afrancesar-lo
@@ -5374,7 +5342,6 @@ agilitzar-se
 agilitzar-te
 agilitzem-ho
 agilitzeu-les
-agimponar-se
 agita-ho
 agita'l
 agita-la
@@ -5608,11 +5575,6 @@ agranar-lo
 agranar-los
 agranar-ne
 agraneu-me
-agraviar-la
-agraviar-lo
-agraviar-me
-agraviar-nos
-agraviar-se
 agredint-ho
 agredint-la
 agredint-les
@@ -5963,9 +5925,6 @@ aigualir-se
 aigualir-se'l
 aigualir-te
 aigualir-vos
-aiguar-li
-aiguar-se
-aiguar-te
 aïlla'l
 aïlla-la
 aïlla'ls
@@ -6251,8 +6210,6 @@ ajaient-s'hi
 ajaient-te
 ajaieu-les
 ajaieu-vos
-ajardinant-lo
-ajardinant-se
 ajau-me
 ajaure-hi
 ajaure'l
@@ -7540,7 +7497,6 @@ al·ludir-los
 al·ludir-nos
 al·ludir-se
 al·ludir-s'hi
-allumenar-se
 allunant-la
 allunant-me
 allunant-nos
@@ -8306,7 +8262,6 @@ amnistiar-lo
 amnistiar-los
 amnistiar-ne
 amnistiar-se
-amodorrar-se
 amoïnant-la
 amoïnant-les
 amoïnant-lo
@@ -8427,8 +8382,6 @@ amonesteu-lo
 amonesteu-vos
 amonesti'm
 amorant-lo
-amordassar-lo
-amordassar-nos
 amorejant-se
 amoroseix-me
 amorosint-ho
@@ -8521,15 +8474,6 @@ amortitzar-los
 amortitzar-ne
 amortitzar-se
 amortitzeu-ho
-amoscar-se
-amostrant-les
-amostrant-li
-amostrant-los
-amostrant-me
-amostrant-n'hi
-amostrant-se
-amostrant-vos
-amostrar-lo
 amotar-se
 amotinant-se
 amotinant-se-li
@@ -10192,7 +10136,6 @@ apinyar-te
 apinyem-nos
 apinyeu-vos
 apirrossar-se
-apitonar-se
 apitrar-hi
 aplaca-la
 aplacant-hi
@@ -10552,7 +10495,6 @@ apona't
 aponentar-se
 apoquir-los
 aporegar-los
-aporrejant-lo
 aporrinant-me
 aporrinant-se
 aporrinant-te
@@ -10725,8 +10667,6 @@ aprehendre'ls
 aprehendre'n
 aprehendre'ns
 aprehenent-se
-apremiant-los
-apremiar-la
 aprendre-hi
 aprendre-ho
 aprendre'l
@@ -11548,7 +11488,6 @@ apurar-se
 apura't
 apurem-la
 apuri's
-aquarel·lar-los
 aquarterant-se
 aquarterar-hi
 aquarterar-les
@@ -12407,7 +12346,6 @@ arremolinar-se'm
 arremolina't
 arremorant-se
 arremorar-se
-arremullar-los
 arrenca-ho
 arrenca'l
 arrenca-la
@@ -14003,7 +13941,6 @@ assigneu-vos
 assigni-l'hi
 assigni-li
 assigni'ls
-assilvestrar-se
 assimila-ho
 assimila'l
 assimila-la
@@ -14507,7 +14444,6 @@ atarda't
 atarterar-les
 atarterar-los
 atartereu-los
-ataular-te
 ataüllant-lo
 ataüllant-se
 ataüllar-hi
@@ -14533,20 +14469,9 @@ atemorir-nos
 atemorir-se
 atemorir-te
 atemorir-vos
-atemperant-lo
-atemperant-se
-atemperar-la
-atemperar-lo
-atemperar-nos
-atemperar-se
 atemptant-se
 atemptar-hi
 atemptar-ne
-atenallant-la
-atenallant-los
-atenallar-lo
-atenallar-me
-atenallar-nos
 atendar-nos
 atendar-se
 atendar-te
@@ -15925,10 +15850,6 @@ avenir-te
 avenir-t'hi
 avenir-vos
 aveniu-vos
-aventant-nos
-aventant-se
-aventar-me
-aventar-se
 aventurant-me
 aventurant-ne
 aventurant-nos
@@ -17510,7 +17431,6 @@ bifurcar-se
 bifurqueu-vos
 bilabialitzar-se
 billonar-hi
-bilocar-se
 bioacumulant-se
 bioacumular-se
 biografia-la
@@ -17907,28 +17827,6 @@ borinotejar-hi
 bori's
 borlar-la
 bornant-me
-borra-ho
-borra'l
-borrant-lo
-borrant-los
-borrant-me
-borrant-ne
-borrant-se
-borrar-ho
-borrar-la
-borrar-les
-borrar-li
-borrar-lo
-borrar-los
-borrar-me
-borrar-me-la
-borrar-ne
-borrar-nos
-borrar-se
-borrar-te
-borrar-vos
-borreu-ho
-borri'l
 boscar-la
 boscar-les
 boscar-me
@@ -19287,7 +19185,6 @@ cancel·leu-lo
 candint-me
 candint-se
 candir-se
-cangrenar-se-li
 canonar-la
 canonar-nos
 canonejant-nos
@@ -21757,7 +21654,6 @@ cloure's
 cloure't
 cloure-us
 clou-te
-clucant-li
 coaccionant-la
 coaccionant-les
 coaccionant-lo
@@ -22551,16 +22447,6 @@ colorar-lo
 colorar-los
 colorar-ne
 colorar-se
-coloreja-les
-colorejant-les
-colorejant-se
-colorejar-ho
-colorejar-la
-colorejar-les
-colorejar-li
-colorejar-lo
-colorejar-los
-colorejar-te
 colori'ns
 colpegem-les
 colpegem-nos
@@ -26499,7 +26385,6 @@ consolidem-lo
 consolidem-nos
 consolideu-vos
 consoli's
-consonantitzar-se
 consorciant-nos
 consorciar-se
 conspirar-hi
@@ -27192,20 +27077,7 @@ conteniu-me
 conteniu-vos
 conte'ns
 conte'ns-la
-contenta'm
-contentant-se
-contentar-la
-contentar-lo
-contentar-los
-contentar-me
-contentar-nos
-contentar-se
-contentar-te
-contentar-vos
 contén-te
-contentem-nos
-contenteu-se
-contenteu-vos
 conte's
 contesta-ho
 contesta'l
@@ -28754,9 +28626,6 @@ corrompre'ns
 corrompre's
 corrompre't
 corrompre-us
-corroure-la
-corroure'm
-corroure's
 corrugant-la
 corrugant-li
 corrugar-lo
@@ -28964,7 +28833,6 @@ covar-se
 covar-s'hi
 cova-te'n
 covau-la
-cracant-me
 crane's
 craquejant-se
 craquejar-ho
@@ -29505,7 +29373,6 @@ criminalitzar-se
 criminalitzar-vos
 criogenitzar-lo
 criogenitzar-se
-crisalidar-se
 crispant-la
 crispant-me
 crispant-se
@@ -30032,9 +29899,6 @@ cultivem-nos
 cultiveu-la
 cultiveu-lo
 cultiveu-vos
-culturalitzar-la
-culturalitzar-se
-culturalitza't
 culturitzant-me
 culturitzant-nos
 culturitzant-se
@@ -30197,7 +30061,6 @@ custodiar-nos
 custodiar-se
 custodiem-la
 custodieu-la
-cutinitzar-se
 d'AAA
 d'Aalborg
 d'Aalen
@@ -30674,7 +30537,6 @@ d'abolir-los
 d'abolir-ne
 d'abolir-se
 d'abolits
-d'abombada
 d'Abomey
 d'abominable
 d'abominables
@@ -30753,8 +30615,6 @@ d'abortiva
 d'abortivitat
 d'abotifarrament
 d'abotifarrar-se
-d'abotonar-se
-d'abotonar-te
 d'Abqayq
 d'abraçada
 d'abracadabra
@@ -31237,7 +31097,6 @@ d'acalorar-me
 d'acalorar-se
 d'acalorat
 d'acalorats
-d'acaminar
 d'acampada
 d'acampades
 d'acampador
@@ -31846,18 +31705,11 @@ d'acoltellar-la
 d'acoltellar-lo
 d'acoltellar-me
 d'acoltellar-ne
-d'acolxar
-d'acolxar-lo
-d'acolxat
-d'acolxats
 d'acomboiament
 d'acomboiar
 d'acomboiar-la
 d'acomboiar-los
 d'acomboiar-se
-d'acomesa
-d'acometre
-d'acometre-les
 d'acomiadada
 d'acomiadades
 d'acomiadament
@@ -31951,8 +31803,6 @@ d'acompanyat
 d'acompanyats
 d'acomparar
 d'acomparar-lo
-d'acompassar
-d'acompassar-se
 d'acomplert
 d'acomplertes
 d'acomplerts
@@ -32009,9 +31859,6 @@ d'aconduir-se
 d'aconduir-te
 d'aconfessional
 d'aconfessionalitat
-d'aconformar
-d'aconformar-nos
-d'aconformar-se
 d'aconhortar
 d'aconhortar-lo
 d'aconhortar-me
@@ -32091,8 +31938,6 @@ d'acontentar-s'hi
 d'acontentar-te
 d'acontentar-vos
 d'acontentat
-d'acontenyiment
-d'acontenyiments
 d'acopar
 d'acopar-li
 d'acopar-me
@@ -32258,7 +32103,6 @@ d'acotxar-s'hi
 d'acotxar-te
 d'acotxar-vos
 d'acotxat
-d'acovardament
 d'acovardida
 d'acovardiment
 d'acovardir
@@ -32847,7 +32691,6 @@ d'adinerar-ho
 d'adinerar-les
 d'adinerat
 d'adinerats
-d'adinsar-se
 d'adipocera
 d'adipòcits
 d'adipogènesis
@@ -34129,7 +33972,6 @@ d'aforisme
 d'aforismes
 d'aforístic
 d'aforística
-d'aforrar
 d'afortunada
 d'afortunades
 d'afortunadíssims
@@ -34698,12 +34540,6 @@ d'agrassó
 d'agrassons
 d'agrassot
 d'agravació
-d'agravi
-d'agraviar
-d'agraviar-les
-d'agraviat
-d'agraviats
-d'agravis
 d'agre
 d'Agre
 d'agredida
@@ -35112,7 +34948,6 @@ d'aiguanaf
 d'aiguaneix
 d'aiguaneixos
 d'aiguaneu
-d'aiguar
 d'aiguardent
 d'aiguardents
 d'aigua-ros
@@ -35225,7 +35060,6 @@ d'airbag
 d'airbags
 d'Airbus
 d'aire
-d'aireació
 d'airecel
 d'Airef
 d'AIReF
@@ -35280,7 +35114,6 @@ d'aixada
 d'aixadell
 d'aixadella
 d'aixades
-d'aixadeta
 d'aixadó
 d'aixafada
 d'aixafades
@@ -35359,7 +35192,6 @@ d'aixeteria
 d'aixeteries
 d'aixetes
 d'així
-d'aixina
 d'Aixirivall
 d'Aixkhabad
 d'Aix-les-Bains
@@ -35400,7 +35232,6 @@ d'ajagut
 d'ajaguts
 d'Ajaguz
 d'Ajantha
-d'ajardinar
 d'Ajarquía
 d'ajaure
 d'ajaure'm
@@ -35652,13 +35483,10 @@ d'Alamanda
 d'Alamània
 d'alamànic
 d'alamans
-d'alamar
 d'Alamar
 d'alamara
 d'alamares
-d'alamars
 d'alambí
-d'alambics
 d'alambinada
 d'alambinades
 d'alambinar
@@ -35670,7 +35498,6 @@ d'Alameda
 d'alamí
 d'Alamir
 d'Alamogordo
-d'alamon
 d'Alamús
 d'Alamūt
 d'Alan
@@ -35751,7 +35578,6 @@ d'Al-Azhar
 d'alb
 d'alba
 d'Alba
-d'albà
 d'Albà
 d'albacar
 d'Albacar
@@ -35760,7 +35586,6 @@ d'albada
 d'albadera
 d'albades
 d'albadina
-d'albaes
 d'Albagés
 d'Albagès
 d'albagesencs
@@ -35804,8 +35629,6 @@ d'albardes
 d'albardí
 d'Albarells
 d'Albarés
-d'albargina
-d'albargines
 d'albarís
 d'Alba-rosa
 d'albarrana
@@ -36523,7 +36346,6 @@ d'algàlia
 d'algals
 d'Algam
 d'Algama
-d'algar
 d'Algar
 d'algara
 d'algarada
@@ -36531,7 +36353,6 @@ d'algaravia
 d'algarot
 d'Algarra
 d'algarrades
-d'algars
 d'Algars
 d'Algarve
 d'algarvès
@@ -36573,7 +36394,6 @@ d'Algirós
 d'Algodar
 d'Algol
 d'algòleg
-d'algoleja
 d'algonquí
 d'algonquins
 d'algor
@@ -37189,9 +37009,6 @@ d'al·ludir-li
 d'al·ludir-lo
 d'al·ludit
 d'al·ludits
-d'allumenar
-d'allumenat
-d'allumenats
 d'allunament
 d'allunar
 d'allunar-nos
@@ -37252,7 +37069,6 @@ d'almanacs
 d'almanco
 d'almandina
 d'almangra
-d'almànguena
 d'almanjanecs
 d'Almansa
 d'Almansor
@@ -37278,7 +37094,6 @@ d'almegó
 d'Almela
 d'Almelo
 d'Almenar
-d'almenara
 d'Almenara
 d'Almendralejo
 d'almenys
@@ -37291,8 +37106,6 @@ d'almescat
 d'almesqueres
 d'almesquí
 d'almesquins
-d'almidó
-d'almidons
 d'Al-Minyā
 d'almirall
 d'Almirall
@@ -37326,10 +37139,8 @@ d'Almoradí
 d'almoràvit
 d'almoràvits
 d'Almorig
-d'almorranes
 d'almorratxa
 d'almorratxes
-d'almorzar
 d'Almoster
 d'almostes
 d'almucantarats
@@ -37439,7 +37250,6 @@ d'alquímies
 d'alquimista
 d'alquimistes
 d'alquins
-d'alquitrà
 d'Al-Raqqa
 d'Alric
 d'Al-Riyād
@@ -37683,7 +37493,6 @@ d'Alwaye
 d'Al-Zaqāziq
 d'Alzette
 d'alzheimer
-d'alzhèimer
 d'alzina
 d'Alzina
 d'alzinar
@@ -37806,7 +37615,6 @@ d'Amància
 d'Amand
 d'Amanda
 d'Amandes
-d'amanèixer
 d'amanerada
 d'amanerament
 d'amaneraments
@@ -38536,8 +38344,6 @@ d'amònics
 d'amonificació
 d'amonis
 d'Amonis
-d'amonita
-d'amonites
 d'amonoàcids
 d'amonòlisi
 d'amontillat
@@ -38550,7 +38356,6 @@ d'amoralitats
 d'amorals
 d'amorat
 d'Amorat
-d'amordassar
 d'Amorebieta-Etxano
 d'amorells
 d'amoret
@@ -38639,7 +38444,6 @@ d'amoxicil·lina
 d'AMPA
 d'Amparo
 d'ampelografia
-d'ampelogràfic
 d'amperatge
 d'amperatges
 d'ampere
@@ -39108,7 +38912,6 @@ d'andalusistes
 d'andalusita
 d'andalusos
 d'Andaman
-d'andami
 d'andamis
 d'andana
 d'andanada
@@ -39218,7 +39021,6 @@ d'anecdòtic
 d'anecdòtica
 d'anecdòtics
 d'anecdòtiques
-d'anecdotisme
 d'Anecoop
 d'ànecs
 d'anedons
@@ -39462,7 +39264,6 @@ d'Angren
 d'Angri
 d'Angrill
 d'àngstrom
-d'angstroms
 d'Angstroms
 d'àngstroms
 d'Anguera
@@ -40196,7 +39997,6 @@ d'anticristians
 d'anticristos
 d'anticrists
 d'antics
-d'anticultura
 d'anticultural
 d'antidegoteig
 d'antidemòcrata
@@ -40205,7 +40005,6 @@ d'antidemocràtic
 d'antidemocràtica
 d'antidemocràtics
 d'antidemocràtiques
-d'antideportiva
 d'antidepressiu
 d'antidepressius
 d'antidesnonaments
@@ -40298,13 +40097,11 @@ d'antigitanisme
 d'antiglobalització
 d'antiglobulina
 d'antiglobulines
-d'antigó
 d'antígon
 d'Antígon
 d'Antígona
 d'Antígones
 d'Antigonish
-d'antigons
 d'antigor
 d'antigorita
 d'antigravetat
@@ -40729,7 +40526,6 @@ d'anuari
 d'anuaris
 d'Anubis
 d'anuència
-d'anuir
 d'anular
 d'anul·labilitat
 d'anul·lació
@@ -40882,7 +40678,6 @@ d'apadrinar-ne
 d'apadrinar-nos
 d'apadrinat
 d'apadrinats
-d'apagaciris
 d'apagada
 d'apagades
 d'apagadors
@@ -40928,7 +40723,6 @@ d'apaivagar-ne
 d'apaivagar-nos
 d'apaivagar-se
 d'apaivagat
-d'apalancament
 d'apalancar
 d'apalancar-me
 d'apalancar-nos
@@ -41319,7 +41113,6 @@ d'apirètic
 d'apirèxia
 d'apis
 d'apiteràpia
-d'apitonar
 d'apitrar
 d'apitxament
 d'apitxar
@@ -41612,7 +41405,6 @@ d'apories
 d'aporisma
 d'aporismes
 d'aporofòbia
-d'aporrejar
 d'aporrinament
 d'aporrinar
 d'aporrinar-li
@@ -41765,10 +41557,6 @@ d'aprehendre-la
 d'aprehensible
 d'aprehensió
 d'aprehensions
-d'apremi
-d'apremiants
-d'apremiar
-d'apremis
 d'aprendre
 d'aprendre-hi
 d'aprendre-ho
@@ -41971,7 +41759,6 @@ d'apropiat
 d'apropiatiu
 d'apropiats
 d'apropinquar-se
-d'apropòsits
 d'aprotinina
 d'aprovació
 d'aprovacions
@@ -42291,7 +42078,6 @@ d'Aracil
 d'Aracne
 d'aràcnid
 d'aràcnids
-d'aracnofòbia
 d'aracnoïditis
 d'aracnòleg
 d'aracnòlegs
@@ -42575,7 +42361,6 @@ d'àrctids
 d'arcuació
 d'arcuacions
 d'Arcueil
-d'arcus
 d'Ardabil
 d'Ardakan
 dardar-hi
@@ -43188,7 +42973,6 @@ d'arqueometria
 d'arqueomorfologia
 d'arqueòpterix
 d'arqueòpterixs
-d'arqueozoòlegs
 d'arqueozoologia
 d'arquer
 d'Arquer
@@ -43287,8 +43071,6 @@ d'arraconar-te
 d'arraconat
 d'arraconats
 d'arraconers
-d'arraïl
-d'arraïls
 d'arraïmar
 d'arraïmar-se
 d'arrais
@@ -43555,8 +43337,6 @@ d'arremangar-s'hi
 d'arremangar-te
 d'arremangar-t'hi
 d'arremangar-vos
-d'arrematar
-d'arrematar-ho
 d'arremesa
 d'arremetre
 d'arremolinament
@@ -43568,7 +43348,6 @@ d'arremolinats
 d'arremorament
 d'arremorar
 d'arremorar-se
-d'arremullar-nos
 d'arrencada
 d'arrencades
 d'arrencador
@@ -43726,7 +43505,6 @@ d'arrià
 d'Arrià
 d'arriada
 d'arriades
-d'arriadora
 d'Arriaga
 d'arrianisme
 d'arrians
@@ -43890,8 +43668,6 @@ d'arrossada
 d'arrossades
 d'arrossaire
 d'arrossaires
-d'arrossal
-d'arrossals
 d'arrossar
 d'arrossars
 d'arrossar-se
@@ -44365,7 +44141,6 @@ d'ascitis
 d'ascla
 d'asclada
 d'asclades
-d'ascladors
 d'asclar
 d'asclar-li
 d'asclar-lo
@@ -44527,8 +44302,6 @@ d'Aspasis
 d'Aspect
 d'aspecte
 d'aspectes
-d'asper
-d'aspera
 d'Asperger
 d'asperges
 d'aspergil·loma
@@ -44538,7 +44311,6 @@ d'aspergir
 d'aspergir-los
 d'asperitats
 d'aspèrmia
-d'aspers
 d'aspersió
 d'aspersor
 d'aspersors
@@ -45040,8 +44812,6 @@ d'assignats
 d'assignatura
 d'assignatures
 d'assilvestrada
-d'assilvestrar-se
-d'assilvestrar-vos
 d'assilvestrats
 d'assimilable
 d'assimilables
@@ -45555,7 +45325,6 @@ d'ataronjats
 datar-se
 datar-se'n
 d'atarterar
-d'ataular
 d'Ataülf
 d'ataüllada
 d'ataüllar
@@ -45598,11 +45367,6 @@ d'atemorir-se
 d'atemorir-te
 d'atemorit
 d'atemorits
-d'atemperament
-d'atemperar
-d'atemperar-la
-d'atemperar-les
-d'atemperar-se
 d'atemporal
 d'atemporalitat
 d'atemporals
@@ -45615,7 +45379,6 @@ d'atemptatòria
 d'atemptats
 d'Atena
 d'Atenàgores
-d'atenallar
 d'atenció
 d'atencions
 d'atendar-se
@@ -45736,7 +45499,6 @@ d'aterrossar
 d'aterrossar-se
 d'atesa
 d'ateses
-d'atesorar
 d'atesos
 d'atestació
 d'atestacions
@@ -45791,7 +45553,6 @@ d'atipar-vos-en
 d'atípia
 d'atípic
 d'atípica
-d'atipicitat
 d'atípics
 d'àtiques
 d'atirantat
@@ -46094,7 +45855,6 @@ d'atribuir-te
 d'atribuir-vos
 d'atribuït
 d'atribuïts
-d'atribular-me
 d'atribut
 d'atributs
 d'atrició
@@ -46282,8 +46042,6 @@ d'audició
 d'audicions
 d'audiència
 d'audiències
-d'audífon
-d'audífons
 d'audímetre
 d'audímetres
 d'audimetria
@@ -46295,7 +46053,6 @@ d'audiocontes
 d'audiodescripció
 d'audiodescripcions
 d'audiòfon
-d'audiofonologia
 d'audiòfons
 d'audiofreqüència
 d'audiofreqüències
@@ -46311,8 +46068,6 @@ d'audiòmetre
 d'audiòmetres
 d'audiometria
 d'audiometries
-d'audiopròtesi
-d'audiopròtesis
 d'audioprotetista
 d'audioprotetistes
 d'àudios
@@ -46662,7 +46417,6 @@ d'autoanticossos
 d'autoantígens
 d'autoaprenentatge
 d'autoaprenentatges
-d'autoarrancada
 d'autoassegurança
 d'autoassignar-se
 d'autoassociació
@@ -46797,7 +46551,6 @@ d'autodefensa
 d'autodefenses
 d'autodefinició
 d'autodefinicions
-d'autodefinits
 d'autodegradar-se
 d'autodenominades
 d'autodenominar
@@ -46916,8 +46669,6 @@ d'autofinançament
 d'autofinançar
 d'autofinançar-me
 d'autofinançar-se
-d'autoflagel·lació
-d'autoflagel·lacions
 d'autofòbia
 d'autofocus
 d'autoformació
@@ -47315,8 +47066,6 @@ d'avalar-nos
 d'avalar-se
 d'avalar-te
 d'avalat
-d'avalista
-d'avalistes
 d'avall
 d'Avall
 davalla-la
@@ -47519,7 +47268,6 @@ d'Avel·lines
 d'avemaria
 d'avemaries
 d'avena
-d'avenar
 d'avenc
 d'avenç
 d'avençar
@@ -47547,8 +47295,6 @@ d'avenir-te
 d'avenir-t'hi
 d'avenir-vos-hi
 d'aventallada
-d'aventar
-d'aventar-li
 d'Aventí
 d'aventura
 d'aventurada
@@ -47859,8 +47605,6 @@ d'Ayacucho
 d'Ayamonte
 d'Aydın
 d'Aylesbury
-d'ayn
-d'ayns
 d'Ayr
 d'Ayre
 d'Ayreflor
@@ -47998,9 +47742,7 @@ debilitem-los
 d'ebitda
 d'Ebla
 d'Ebo
-d'ebola
 d'Ebola
-d'èbola
 d'Èboli
 d'ebonita
 d'e-book
@@ -48336,8 +48078,6 @@ d'ecoeficiència
 d'ecoemblanquiment
 d'ecoendoscòpia
 d'ecoendoscòpies
-d'ecoetiqueta
-d'ecoetiquetes
 d'ecofeminisme
 d'ecofeminismes
 d'ecofeministes
@@ -48349,11 +48089,9 @@ d'ecogestió
 d'ecògraf
 d'ecografia
 d'ecografies
-d'ecografistes
 d'ecògrafs
 d'ecogrames
 d'ecoguiatge
-d'ecoindústria
 d'ecolàlia
 d'ecòleg
 d'ecòlegs
@@ -48474,7 +48212,6 @@ d'ecosocialisme
 d'ecosocialista
 d'ecosocialistes
 d'ecosofia
-d'ecosonda
 d'ecotaxa
 d'ecotaxes
 d'ecotip
@@ -48770,7 +48507,6 @@ d'editores
 d'editorial
 d'editorialista
 d'editorialistes
-d'editorialitzar
 d'editorials
 d'editors
 d'Edmon
@@ -48784,7 +48520,6 @@ d'Edna
 d'Edom
 d'edomites
 d'edoxaban
-d'edra
 d'edredó
 d'edredons
 d'Edson
@@ -49184,7 +48919,6 @@ d'efluències
 d'efluent
 d'efluents
 d'efluir
-defluir-se
 d'efluvi
 d'efluvis
 d'efod
@@ -49301,10 +49035,8 @@ d'Egidi
 d'Egina
 d'egipci
 d'egípcia
-d'egipcíaca
 d'Egipcíaca
 d'egipcianes
-d'egipcíaques
 d'Egipcíaques
 d'egípcies
 d'egipcis
@@ -49684,7 +49416,6 @@ d'eixarreïment
 d'eixarreir-los
 d'eixarreir-me
 d'eixarreït
-d'eixarretar-nos
 deixar-se
 deixar-se'l
 deixar-se-la
@@ -49997,7 +49728,6 @@ d'eixugadores
 d'eixugadors
 d'eixugamà
 d'eixugamans
-d'eixugament
 d'eixugaparabrises
 d'eixugar
 d'eixugar-ho
@@ -50160,7 +49890,6 @@ d'eldorados
 d'ele
 d'Elea
 d'eleates
-d'eleatisme
 d'elecció
 d'eleccions
 delecionar-ne
@@ -50243,7 +49972,6 @@ d'electritzants
 d'electritzar
 d'electritzar-se
 d'electritzar-te
-d'electro
 d'electró
 d'electroacupuntura
 d'electroacústica
@@ -50355,7 +50083,6 @@ d'electroporació
 d'electroquímica
 d'electroquímics
 d'electroradiologia
-d'electros
 d'electroscopi
 d'electroscopis
 d'electrosensibilitat
@@ -50466,7 +50193,6 @@ d'Eleonor
 d'eleonorita
 d'eleoplasts
 d'eleosoma
-d'elepés
 deleri'm
 d'eles
 d'elet
@@ -50789,7 +50515,6 @@ d'e-mails
 d'emails
 d'emanació
 d'emanacions
-d'emanadors
 demana-ho
 demana'l
 demana-la
@@ -51150,8 +50875,6 @@ d'embalumada
 d'embalumar
 d'embalums
 d'embambats
-d'embanyar
-d'embanyar-lo
 d'embaràs
 d'embarassada
 d'embarassades
@@ -51204,7 +50927,6 @@ d'embardissar-nos
 d'embardissar-se
 d'embardissat
 d'embarg
-d'embargabilitat
 d'embargament
 d'embargaments
 d'embargar
@@ -51302,7 +51024,6 @@ d'embeure
 d'embeure-la
 d'embeure'n
 d'embeure's
-d'embicar
 d'embigar
 d'embigat
 d'embigats
@@ -51368,7 +51089,6 @@ d'emboirat
 d'emboirats
 d'èmbol
 d'embolades
-d'emboladors
 d'embolar
 d'embolar-lo
 d'embolat
@@ -52509,7 +52229,6 @@ d'empatar-ne
 d'empatar-nos
 d'empatat
 d'empatats
-d'empatecar-me
 d'empatia
 d'empàtic
 d'empàtica
@@ -52933,10 +52652,6 @@ d'empostissat
 d'empostissats
 d'empotar
 d'empotar-se
-d'empotrar
-d'empotrar-lo
-d'empotrar-me
-d'empotrar-se
 d'empouar
 d'empouar-lo
 d'emprada
@@ -53075,7 +52790,6 @@ d'empudegar-lo
 d'empudegar-los
 d'empudegar-me
 d'empudegar-nos
-d'empugonat
 d'empunyadura
 d'empunyadures
 d'empunyar
@@ -53288,7 +53002,6 @@ d'encaixar-te
 d'encaixat
 d'encaixats
 d'encaixonades
-d'encaixonament
 d'encaixonar
 d'encaixonar-ho
 d'encaixonar-lo
@@ -53348,7 +53061,6 @@ d'encallats
 d'encallir
 d'encallir-se
 d'encalmada
-d'encalmament
 d'encalmar
 d'encalmar-la
 d'encalmar-lo
@@ -53463,7 +53175,6 @@ d'encapelladura
 d'encapellar
 d'encaperutxar
 d'encapotat
-d'encapritxament
 d'encapritxar
 d'encapritxar-m'hi
 d'encapritxar-se
@@ -53486,7 +53197,6 @@ d'encaputxar-hi
 d'encaputxat
 d'encaputxats
 d'encara
-d'encarabassat
 d'encarada
 d'encaramel·lament
 d'encaramel·lar
@@ -53729,7 +53439,6 @@ d'encefalització
 d'encefalografia
 d'encefalograma
 d'encefalogrames
-d'encefalomalàcia
 d'encefalomielitis
 d'encefalopatia
 d'encefalopaties
@@ -53810,7 +53519,6 @@ d'encerclar-lo
 d'encerclar-los
 d'encerclar-nos
 d'encerclats
-d'encerolar
 d'encerrar
 d'encerrar-se
 d'encert
@@ -54125,7 +53833,6 @@ d'encorbar
 d'encorbar-se
 d'encorbar-s'hi
 d'encorbat
-d'encorbatar-se
 d'encorbatat
 d'encorbatats
 d'encordades
@@ -54191,7 +53898,6 @@ d'encriptar-lo
 d'encriptar-ne
 d'encriptat
 d'encriptats
-d'encrostament
 d'encrueliment
 d'encruelir
 d'encruelir-se
@@ -54296,7 +54002,6 @@ d'endemisme
 d'endemismes
 d'endengades
 d'endentar
-d'endenyament
 d'endergues
 d'enderiament
 d'enderiar-nos
@@ -54459,7 +54164,6 @@ d'endògena
 d'endògenes
 d'endògens
 d'endolades
-d'endolament
 d'endolar
 d'endolats
 d'endolcidor
@@ -54894,7 +54598,6 @@ d'enfiladores
 d'enfiladors
 d'enfilall
 d'enfilalls
-d'enfilament
 d'enfilant
 d'enfilar
 d'enfilar-hi
@@ -55239,7 +54942,6 @@ d'engandulir-se
 d'engans
 d'enganxada
 d'enganxades
-d'enganxadís
 d'enganxador
 d'enganxadora
 d'enganxadors
@@ -55338,7 +55040,6 @@ d'engarjolar-nos
 d'engarjolar-te
 d'engarjolats
 d'engarlandar-se
-d'engarrotament
 d'engarrotar
 d'engassar
 d'engassar-los
@@ -55353,10 +55054,6 @@ d'engatjaments
 d'engatjar
 d'engatjar-se
 d'engatjar-s'hi
-d'engatussar
-d'engatussar-la
-d'engatussar-me
-d'engatussats
 d'engavanyament
 d'engavanyaments
 d'engavanyar
@@ -55454,8 +55151,6 @@ d'englobar-los
 d'englobar-nos
 d'englobar-se
 d'englotir
-d'engolament
-d'engolaments
 d'engolar
 d'engolar-s'hi
 d'engolat
@@ -55586,8 +55281,6 @@ d'engrinyar-nos
 d'engrinyar-se
 d'engripat
 d'engripats
-d'engroguiment
-d'engroguiments
 d'engroguir
 d'engronsades
 d'engronsadores
@@ -55598,7 +55291,6 @@ d'engronxar-nos
 d'engrony
 d'engronyar-se
 d'engronyar-s'hi
-d'engrossar
 d'engrossiment
 d'engrossiments
 d'engrossir
@@ -55641,7 +55333,6 @@ d'Enguix
 d'enguixada
 d'enguixador
 d'enguixadors
-d'enguixament
 d'enguixar
 d'enguixar-la
 d'enguixar-li
@@ -55715,7 +55406,6 @@ d'enjudiciar
 d'enjudiciar-lo
 d'enjudiciar-ne
 d'enjudiciar-se
-d'enjuïciament
 d'enjús
 d'enlacrar
 d'enlairada
@@ -56161,7 +55851,6 @@ d'enrasament
 d'enrasar
 d'enrasat
 d'enrasats
-d'enrastrar
 d'enravenada
 d'enravenades
 d'enravenament
@@ -56345,7 +56034,6 @@ d'enrondar-se
 d'enrònia
 d'enrònies
 d'enroscades
-d'enroscaments
 d'enroscar
 d'enroscar-la
 d'enroscar-la-hi
@@ -56391,7 +56079,6 @@ d'enrunat
 d'enrunats
 d'ensabonada
 d'ensabonades
-d'ensabonament
 d'ensabonar
 d'ensabonar-la
 d'ensabonar-li
@@ -56406,7 +56093,6 @@ d'ensacada
 d'ensacadora
 d'ensacadores
 d'ensacadors
-d'ensacament
 d'ensacar
 d'ensacar-la
 d'ensacar-les
@@ -56420,7 +56106,6 @@ d'ensagnar
 d'ensaïmada
 d'ensaïmades
 d'ensalada
-d'ensaladera
 d'ensalades
 d'ensaladilla
 d'ensalgar
@@ -56589,8 +56274,6 @@ d'ensobrar
 d'ensobrat
 d'ensofrar
 d'ensofrar-me
-d'ensogar-vos
-d'ensolar-se
 d'ensolcar
 d'ensomni
 d'ensomniar
@@ -56671,7 +56354,6 @@ d'enstatita
 d'ensucrada
 d'ensucrades
 d'ensucradíssima
-d'ensucrament
 d'ensucrar
 d'ensucrar-les
 d'ensucrar-li-ho
@@ -56885,8 +56567,6 @@ d'entenimentades
 d'entenimentat
 d'entenimentats
 d'enteniments
-d'entente
-d'ententes
 d'enter
 d'entera
 d'enteràlgia
@@ -57084,7 +56764,6 @@ d'entradors
 d'Entraigües
 d'entra-i-surt
 d'entra-i-surts
-d'entramar
 d'entramat
 d'entramats
 d'entrament
@@ -57317,7 +56996,6 @@ d'entresols
 d'entresòls
 d'entreson
 d'entresons
-d'entresuament
 d'entresuat
 d'entresuors
 d'entretallada
@@ -57337,8 +57015,6 @@ d'entreteixits
 d'entretela
 d'entreteles
 d'entretemps
-d'entretenidor
-d'entretenidors
 d'entreteniment
 d'entreteniments
 d'entretenir
@@ -57830,7 +57506,6 @@ d'enviar-vos-ho
 d'enviar-vos-les
 d'enviat
 d'enviats
-d'enviciar-me
 d'envidar
 d'envidar-li
 d'envidar-se
@@ -57874,7 +57549,6 @@ d'environaments
 d'enviscar
 d'enviscar-hi
 d'envit
-d'envitrallar
 d'envitricoll
 d'envitricollada
 d'envitricollades
@@ -58640,7 +58314,6 @@ d'ergonomia
 d'ergonòmics
 d'ergonomies
 d'ergonòmiques
-d'ergònoms
 d'ergosterol
 d'ergotamina
 d'ergoteràpia
@@ -59044,8 +58717,6 @@ desacoblar-los
 desacoblar-me
 desacoblar-se
 desacoblar-se'n
-desacomodar-se
-desacompanyant-se
 desacomplexant-nos
 desacomplexant-se
 desacomplexar-la
@@ -59238,7 +58909,6 @@ desagradar-se
 desagradar-te
 desagradar-vos
 desagrair-les
-desagraviar-lo
 desagregant-ho
 desagregant-la
 desagregant-les
@@ -59281,7 +58951,6 @@ desajustar-ne
 desajustar-se
 desa'l
 desa-la
-desalar-les
 desalenant-se
 desalenar-se
 desa-les
@@ -59408,7 +59077,6 @@ desapegar-me
 desapegar-nos
 desapegar-se
 desapegar-te
-desapilar-lo
 desaplegar-se
 desaplicar-se
 desapoderant-les
@@ -59776,8 +59444,6 @@ d'esbargir-te
 d'esbarjo
 d'esbarjos
 d'esbarjosa
-d'esbarrallar-se
-d'esbarrancar-se
 d'esbarrar-me
 desbarrar-se
 desbarrem-hi
@@ -59845,8 +59511,6 @@ d'esberles
 d'Esbert
 d'esbiaixada
 d'esbiaixades
-d'esbiaixament
-d'esbiaixaments
 d'esbiaixar
 d'esbiaixar-se
 d'esbiaixat
@@ -60081,7 +59745,6 @@ d'esbotzar-me
 d'esbotzar-ne
 d'esbotzar-se
 d'esbotzar-se'm
-desbrafar-se
 d'esbramecs
 d'esbramegar
 d'esbrancar
@@ -60203,7 +59866,6 @@ d'esbullat
 d'esburbada
 d'esburbat
 d'esburbats
-desburgant-ho
 desburocratitzant-lo
 desburocratitzar-les
 desburocratitzar-lo
@@ -60256,7 +59918,6 @@ d'escabicides
 d'escabins
 d'escabiosa
 d'escabioses
-d'escabiosi
 d'escabotar-la
 d'escabotar-me
 d'escabrós
@@ -60275,7 +59936,6 @@ d'Escacs
 d'escada
 d'Escadarcs
 d'escades
-d'escadors
 d'escadusser
 d'escadussera
 d'escadusseres
@@ -60342,9 +60002,7 @@ d'escalaborn
 d'escalabornar
 d'escalaborns
 d'escalabrar-la
-descalabrar-nos
 d'escalabrar-se
-descalabrar-se
 d'escalada
 d'Escaladei
 d'escalades
@@ -60521,7 +60179,6 @@ d'escamarlà
 d'escamarlans
 d'escamarlar
 d'escamar-se
-descamar-se
 d'escamat
 d'escamats
 d'escambell
@@ -61941,7 +61598,6 @@ d'escombrats
 d'escombrera
 d'Escombreras
 d'escombreres
-d'escombreries
 d'escombres
 d'escombreta
 d'escombretes
@@ -62116,7 +61772,6 @@ desconcerteu-los
 descondicionar-lo
 descondicionar-los
 descondicionar-se
-d'escondit
 desconeixent-ho
 desconeixent-la
 desconeixent-les
@@ -62778,7 +62433,6 @@ d'escròfules
 d'escrofulisme
 d'escrofulós
 d'escrofulosi
-descromar-los
 descrostant-se
 descrostar-la
 descrostar-se
@@ -63476,7 +63130,6 @@ desempatxar-vos
 desempegant-li
 desempegar-li
 desempegar-se
-desempellogar-se
 desempenyorant-li
 desempenyorant-se
 desempenyorar-la
@@ -63634,13 +63287,10 @@ desencastar-lo
 desencastar-me
 desencastar-se
 desencastar-te'n
-desencastellar-lo
-desencastellar-los
 desencauar-les
 desencauar-los
 desencavallant-se
 desencegar-nos
-desencerar-la
 desencisant-se
 desencisar-la
 desencisar-lo
@@ -63724,7 +63374,6 @@ desenfadar-se
 desenfadar-te
 desenfada't
 desenfadem-nos
-desenfaixar-nos
 desenfangar-me
 desenfarfegant-me
 desenfarfegar-nos
@@ -63855,8 +63504,6 @@ desengatjar-se
 desengavanyar-se
 desengomar-les
 desengorronir-se
-desengramponar-la
-desengramponeu-vos
 desengranant-la
 desengranar-les
 desengranar-lo
@@ -63992,7 +63639,6 @@ desensopir-nos
 desensopir-se
 desensorrar-lo
 desentabanar-nos
-desentabuixar-se
 desentaular-nos
 desentaular-se
 desentelar-li
@@ -64304,9 +63950,6 @@ desestructurar-los
 desestructurar-ne
 desestructurar-nos
 desestructurar-se
-desetiquetar-nos-en
-desetiqueta't
-desetiquetem-nos
 deseu-hi
 deseu-ho
 deseu-la
@@ -64719,10 +64362,6 @@ d'esgambi
 desganant-se
 desganar-nos
 d'esganyar
-desganyitant-nos
-desganyitant-se
-desganyitar-me
-desganyitar-se
 d'esgardissar
 d'esgargamellar
 d'esgargamellar-me
@@ -64737,7 +64376,6 @@ d'esgaripar-los
 d'esgarips
 d'esgarrada
 d'esgarrades
-d'esgarramantes
 d'esgarrany
 d'esgarranys
 d'esgarrapacrestes
@@ -65294,8 +64932,6 @@ desil·lusionar-te
 desil·lusionar-vos
 desil·lusionem-nos
 desimantar-se
-desimboldre'ns
-desimboldre's
 desi'n
 desincentivant-ne
 desincentivar-ho
@@ -65690,7 +65326,6 @@ deslligui-li
 deslligui'm
 deslliguin-la
 deslliguin-me
-d'esllissar-se
 deslliura'ls-en
 deslliura'm
 deslliura-me'n
@@ -65962,11 +65597,7 @@ desmatricular-me
 desmatricular-se
 d'esme
 d'esmectita
-desmedrar-se
-d'esmegma
 d'esmegmàtic
-d'esmegmes
-desmelar-se
 desmembrant-la
 desmembrant-lo
 desmembrant-los
@@ -66071,8 +65702,6 @@ desmentiu-los
 desmentiu-me
 desmentiu-m'ho
 d'esments
-d'esmeperduda
-d'esmeperdut
 d'Esmeraldas
 d'esmerç
 d'esmerçar
@@ -66110,8 +65739,6 @@ d'esmerilar-los
 d'esmerilat
 d'esmerlides
 d'esmes
-desmesurar-lo
-desmesurar-se
 d'esmicar-la
 d'esmicar-se
 d'esmicolada
@@ -66199,7 +65826,6 @@ d'esmolats
 d'esmolet
 d'esmolets
 d'esmollar-lo
-desmollar-los
 d'esmollat
 d'esmòquing
 d'esmòquings
@@ -66755,7 +66381,6 @@ d'Esparc
 d'esparcet
 d'esparcines
 d'espardenya
-d'espardenyà
 d'espardenyades
 d'espardenyer
 d'espardenyera
@@ -66990,7 +66615,6 @@ d'espavilar-te
 d'espavilar-vos
 d'espavilat
 d'espavilats
-despear-se
 d'especejament
 d'especejaments
 d'especejar
@@ -67075,7 +66699,6 @@ d'espectacular
 d'espectacularitat
 d'espectacularitats
 d'espectacularització
-d'espectacularitzar
 d'espectaculars
 d'espectador
 d'espectadora
@@ -67329,9 +66952,6 @@ d'esperar-vos-hi
 d'esperat
 d'Esperat
 d'esperats
-desperdiciar-ho
-desperdiciar-la
-desperdiciar-lo
 d'esperes
 desperesant-se
 desperfilar-se
@@ -67591,7 +67211,6 @@ d'espiguetes
 d'espilencs
 d'espill
 d'espillar-vos
-d'espillets
 d'espills
 d'espín
 d'espina
@@ -67688,17 +67307,14 @@ d'espirals
 d'espirar
 d'espirat
 d'espirees
-d'espírees
 d'espires
 d'Espiridió
-d'espirit
 d'espiritisme
 d'espiritismes
 d'espiritista
 d'espiritistes
 d'espiritrompa
 d'espiritrompes
-d'espirits
 d'espiritual
 d'espiritualisme
 d'espiritualismes
@@ -67890,8 +67506,6 @@ d'esplendorosa
 d'esplendoroses
 d'esplendorosos
 d'esplendors
-d'esplenectomia
-d'esplenitis
 d'esplenomegàlia
 d'esplenomegàlies
 d'esplet
@@ -68504,7 +68118,6 @@ d'esquames
 d'esquàmules
 d'esquarterada
 d'esquarterades
-d'esquarterador
 d'esquarterament
 d'esquarteraments
 d'esquarterar
@@ -68630,8 +68243,6 @@ d'Esquerrà
 d'esquerrana
 d'esquerranisme
 d'esquerranismes
-d'esquerranista
-d'esquerranistes
 d'esquerranós
 d'esquerranosa
 d'esquerranosos
@@ -68822,13 +68433,9 @@ d'esquizotípics
 desratitzar-lo
 desregulant-los
 desregular-ho
-desregularitzant-lo
-desregularitzar-ho
-desregularitzar-se
 desregular-lo
 desregular-los
 desregular-se
-desrenyonar-se
 desresponsabilitzant-se
 desresponsabilitzar-los
 desresponsabilitzar-nos
@@ -69182,7 +68789,6 @@ d'estalinista
 d'estalinistes
 d'estall
 d'Estall
-d'estaller
 d'estaló
 d'estalocs
 d'estalonament
@@ -69309,7 +68915,6 @@ d'estància
 d'estàncies
 d'estancs
 d'estand
-d'estandard
 d'estàndard
 d'estandardització
 d'estandarditzacions
@@ -69326,7 +68931,6 @@ d'estandarditzar-se
 d'estandarditzar-te
 d'estandarditzat
 d'estandarditzats
-d'estandards
 d'estàndards
 d'estands
 d'Estanislau
@@ -69337,7 +68941,6 @@ d'estanqueres
 d'estanquers
 d'estanquitat
 d'estanquitats
-d'estanquitzar
 d'estant
 d'estanteria
 d'estanteries
@@ -69522,7 +69125,6 @@ d'estatista
 d'estatistes
 d'estatització
 d'estatitzar
-d'estatius
 d'estatja
 d'estatjar
 d'estatjar-los
@@ -69536,7 +69138,6 @@ d'estats
 d'estàtua
 d'estatuària
 d'estatuàries
-d'estatúder
 d'estàtues
 d'estatueta
 d'estatuetes
@@ -69555,7 +69156,6 @@ d'estatutària
 d'estatutaris
 d'estatutisme
 d'estatuts
-d'estatxa
 d'Estatxa
 d'Estavar
 d'estavellada
@@ -69647,7 +69247,6 @@ d'estendre-hi
 d'estendre-ho
 d'estendre'l
 d'estendre-la
-destendre-la
 d'estendre-les
 d'estendre-l'hi
 d'estendre-li
@@ -69660,7 +69259,6 @@ d'estendre'ns
 d'estendre'ns-el
 d'estendre'ns-en
 d'estendre's
-destendre's
 d'estendre-se-li
 d'estendre-se'm
 d'estendre-s'hi
@@ -69720,8 +69318,6 @@ d'estereoespecificitat
 d'estereofonia
 d'estereofònics
 d'estereografia
-d'estereograma
-d'estereogrames
 d'estereoisomeria
 d'estereoisòmers
 d'estereolitografia
@@ -69924,7 +69520,6 @@ d'estilitzar
 d'estilitzar-lo
 d'estilitzat
 d'estilitzats
-d'estill
 d'estil·lació
 destil·lant-hi
 destil·lant-ho
@@ -69945,7 +69540,6 @@ destil·lar-ne
 destil·lar-se
 destil·lar-s'hi
 d'estil·licidi
-d'estills
 d'estilobat
 d'estilòbates
 d'estilobats
@@ -70176,7 +69770,6 @@ d'estiró
 d'estirp
 d'estirps
 d'estisorades
-d'estisoradores
 d'estisorar
 d'estisores
 d'estisoretes
@@ -70295,7 +69888,6 @@ d'Estopa
 d'estopada
 d'estopades
 d'Estopanyà
-d'estopar
 d'estopejar
 d'estopenc
 d'estopes
@@ -70568,7 +70160,6 @@ d'estrela
 d'Estrela
 d'estrelada
 d'estreles
-d'estreletes
 d'estrelítzia
 d'estrelítzies
 d'estrella
@@ -70698,8 +70289,6 @@ d'estretes
 d'estretesa
 d'estreteses
 d'estreteta
-d'estretiment
-d'estretiments
 d'estretir
 d'estretir-la
 d'estretir-se
@@ -71222,7 +70811,6 @@ desvelar-nos
 desvelar-se
 desvelar-te
 desvelar-vos
-desvellar-te
 d'esvelt
 d'esvelta
 d'esveltes
@@ -72166,7 +71754,6 @@ d'eurocèntrica
 d'eurocentrisme
 d'eurocentrismes
 d'eurocentrista
-d'eurociutadans
 d'eurocomunisme
 d'eurocomunista
 d'eurocomunistes
@@ -72191,9 +71778,7 @@ d'euroescèptics
 d'eurofans
 d'eurofederalista
 d'Eurofighter
-d'eurofília
 d'euròfils
-d'eurofuncionaris
 d'Eurogrup
 d'Eurolliga
 d'Euromed
@@ -72307,15 +71892,6 @@ d'evaginació
 d'evaginacions
 d'evaginar
 d'Evagri
-devallar-hi
-devallar-ho
-devallar-la
-devallar-lo
-devallar-los
-devallar-me
-devallar-te
-devallar-vos
-devallen-lo
 devaluant-la
 devaluant-les
 devaluant-lo
@@ -72805,7 +72381,6 @@ d'excepcionalment
 d'excepcionals
 d'excepcions
 d'excepte
-d'exceptuació
 d'exceptuar
 d'exceptuar-lo
 d'exceptuar-los
@@ -73079,7 +72654,6 @@ d'exemplaritat
 d'exemplaritats
 d'exemplaritzant
 d'exemplaritzants
-d'exemplaritzar
 d'exemplars
 d'exemple
 d'exempleats
@@ -73427,7 +73001,6 @@ d'exoperidi
 d'exoplaneta
 d'exoplanetes
 d'exopodi
-d'exorar
 d'exorbitant
 d'exorbitat
 d'exorcisme
@@ -73554,7 +73127,6 @@ d'expeditius
 d'expeditiva
 d'expel·lir
 d'expel·lir-ne
-d'expendició
 d'expendre
 d'expenedor
 d'expenedores
@@ -73718,7 +73290,6 @@ d'explicitar-se
 d'explicitat
 d'explícites
 d'explícits
-d'explicitud
 d'exploració
 d'exploracions
 d'explorador
@@ -73781,7 +73352,6 @@ d'explotat
 d'explotats
 d'expolític
 d'expolítics
-d'expondre
 d'exponencial
 d'exponencials
 d'exponent
@@ -74204,11 +73774,6 @@ d'extradir-me
 d'extradir-nos
 d'extradir-se
 d'extradir-te
-d'extraditar
-d'extraditar-ho
-d'extraditar-lo
-d'extraditar-los
-d'extraditar-me
 d'extradós
 d'extradossat
 d'extradossats
@@ -74626,7 +74191,6 @@ d'hampa
 d'hams
 d'hàmster
 d'hàmsters
-d'hamza
 d'Han
 d'handbol
 d'hàndicap
@@ -74654,13 +74218,11 @@ d'haptofícies
 d'haptòfits
 d'haptoglobina
 d'haptonemes
-d'haptonomia
 d'haques
 d'harakiri
 d'Harare
 d'Harbin
 d'harca
-d'harcar-nos
 d'Harcourt
 d'harem
 d'harems
@@ -74857,7 +74419,6 @@ d'hedonismes
 d'hedonista
 d'hedonistes
 d'hedra
-d'hedrera
 d'Hefei
 d'Hefest
 d'heftalites
@@ -74887,7 +74448,6 @@ d'Heli
 d'Helí
 d'heliantem
 d'heliantems
-d'heliastes
 d'helicasa
 d'helicases
 d'hèlice
@@ -74919,7 +74479,6 @@ d'helions
 d'Heliòpolis
 d'Hèlios
 d'helioscopi
-d'heliosismologia
 d'heliòstats
 d'helioteràpia
 d'heliotípies
@@ -75059,8 +74618,6 @@ d'hemodiàlisi
 d'hemodiàlisis
 d'hemodilució
 d'hemodinàmica
-d'hemodonació
-d'hemodonacions
 d'hemòfil
 d'hemofília
 d'hemofílics
@@ -75077,8 +74634,6 @@ d'hemòlisi
 d'hemolisina
 d'hemolisines
 d'hemòlisis
-d'hemolitzar-se
-d'hemolitzats
 d'hemopatia
 d'hemopaties
 d'hemopatologia
@@ -75321,7 +74876,6 @@ d'Hernangómez
 d'Hernani
 d'Herne
 d'hèrnia
-d'herniació
 d'herniada
 d'herniar
 d'herniar-se
@@ -75376,7 +74930,6 @@ d'Hesíode
 d'hesitació
 d'hesitar
 d'Hespèria
-d'hespèrides
 d'Hespèrides
 d'hesperidi
 d'hesperidina
@@ -75387,8 +74940,6 @@ d'hessià
 d'hessiana
 d'hessians
 d'hessita
-d'hetaira
-d'hetaires
 d'hetera
 d'heteres
 d'hetero
@@ -75397,7 +74948,6 @@ d'heteroavaluació
 d'heterobranquis
 d'heteròcer
 d'heteròcers
-d'heterocicles
 d'heterocists
 d'heteròclites
 d'heteròclits
@@ -75407,7 +74957,6 @@ d'heterocromia
 d'heterocromosomes
 d'heterocronia
 d'heterocronies
-d'heterodeterminació
 d'heterodímer
 d'heterodímers
 d'heterodinar
@@ -75454,7 +75003,6 @@ d'heteroproteïnes
 d'heteròpters
 d'heteros
 d'heteroscedasticitat
-d'heterosexisme
 d'heterosexual
 d'heterosexualitat
 d'heterosexuals
@@ -75525,8 +75073,6 @@ d'hexatló
 d'hexavalent
 d'hexòminos
 d'hexosa
-d'hexosamina
-d'hexosamines
 d'hexoses
 d'hibernació
 d'hibernada
@@ -75566,7 +75112,6 @@ d'hidrartrosi
 d'hidrat
 d'hidratació
 d'hidratada
-d'hidratador
 d'hidratant
 d'hidratants
 d'hidratar
@@ -75620,7 +75165,6 @@ d'hidrodinamisme
 d'hidroelèctrica
 d'hidroelectricitat
 d'hidroelèctriques
-d'hidroenergia
 d'hidroestàtica
 d'hidroextracció
 d'hidròfil
@@ -75641,7 +75185,6 @@ d'hidròfon
 d'hidròfons
 d'hidrofracturació
 d'hidrofugació
-d'hidrofugat
 d'hidrogel
 d'hidrogels
 d'hidrogen
@@ -75663,13 +75206,10 @@ d'hidrogeologia
 d'hidrogimnàstica
 d'hidrografia
 d'hidrogràfica
-d'hidrògrafs
 d'hidrogrames
 d'hidrogrossulària
 d'hidroides
 d'hidroïdeus
-d'hidrojet
-d'hidrojets
 d'hidrolasa
 d'hidrolases
 d'hidrolat
@@ -75717,7 +75257,6 @@ d'hidropteridals
 d'hidròpters
 d'hidroquinona
 d'hidroquinones
-d'hidrorrees
 d'hidrosembra
 d'hidrosembres
 d'hidrosfera
@@ -75730,8 +75269,6 @@ d'hidroteràpia
 d'hidroteràpic
 d'hidroteràpies
 d'hidrotermal
-d'hidrotractament
-d'hidrotractaments
 d'hidroxiàcids
 d'hidroxicetones
 d'hidroxicloroquina
@@ -75838,7 +75375,6 @@ d'hiperactiva
 d'hiperactivació
 d'hiperactivitat
 d'hiperactivitats
-d'hiperacúsia
 d'hiperaldosteronisme
 d'hiperalgèsia
 d'hiperandrogenisme
@@ -75885,7 +75421,6 @@ d'hipercub
 d'hiperdulia
 d'hiperelasticitat
 d'hiperèmia
-d'hiperenllaços
 d'hiperesferes
 d'hiperespai
 d'hiperespecialització
@@ -75914,7 +75449,6 @@ d'hiperglicinèmia
 d'hiperglobalització
 d'hiperglucèmia
 d'hiperglucèmies
-d'hipergonadisme
 d'hiperhidratació
 d'hiperhidrosi
 d'hiperhidrosis
@@ -75975,7 +75509,6 @@ d'hiperrealitats
 d'hiperreflèxia
 d'hípers
 d'hipersalivació
-d'hipersecreció
 d'hipersegmentació
 d'hipersensibilitat
 d'hipersensibilitats
@@ -76022,14 +75555,9 @@ d'hiperuricèmia
 d'hiperventilació
 d'hiperventilacions
 d'hiperventilades
-d'hiperventilar
-d'hiperventilar-me
-d'hiperventilar-se
 d'hiperventilat
 d'hiperventilats
 d'hipervigilància
-d'hipervincle
-d'hipervincles
 d'hiperviscositat
 d'hipervisor
 d'hipervisors
@@ -76039,12 +75567,10 @@ d'hípic
 d'hípica
 d'hípiques
 d'hipisme
-d'hipnofòbia
 d'hipnògens
 d'hipnosedants
 d'hipnosi
 d'hipnosis
-d'hipnoteràpia
 d'hipnòtic
 d'hipnòtica
 d'hipnòtics
@@ -76114,7 +75640,6 @@ d'hipoglicèmies
 d'hipoglucèmia
 d'hipoglucemiants
 d'hipoglucèmies
-d'hipogonadisme
 d'hipogrif
 d'hipogrifs
 d'hipohidratació
@@ -76122,7 +75647,6 @@ d'hipolipemiants
 d'Hipòlit
 d'Hipòlita
 d'Hipòlits
-d'hipologia
 d'hipomagnesèmia
 d'hipomania
 d'hipomanies
@@ -76238,7 +75762,6 @@ d'hispanistes
 d'hispanística
 d'hispanitat
 d'hispanitats
-d'hispanització
 d'hispanitzar
 d'hispanoamericà
 d'Hispanoamèrica
@@ -76413,7 +75936,6 @@ d'holotipus
 d'holotúria
 d'holotúries
 d'holoturioïdeu
-d'holter
 d'Holyrood
 d'Holyroodhouse
 d'hom
@@ -76466,7 +75988,6 @@ d'homeòstasi
 d'homeòstasis
 d'homeòstat
 d'homeoterm
-d'homeotèrmics
 d'homeoterms
 d'Homer
 d'homèric
@@ -76734,7 +76255,6 @@ d'hornblenda
 d'Horner
 d'horòscop
 d'horòscops
-d'horrenda
 d'horrible
 d'horriblement
 d'horribles
@@ -76858,7 +76378,6 @@ d'hospitals
 d'Hostafrancs
 d'hostal
 d'Hostal
-d'hostalatencs
 d'hostalatge
 d'hostalatges
 d'hostaler
@@ -76898,7 +76417,6 @@ d'hostessa
 d'hostesses
 d'hòstia
 d'hostiar
-d'hostiaris
 d'hostiar-la
 d'hostiar-lo
 d'hostiar-los
@@ -76956,7 +76474,6 @@ d'humà
 d'humana
 d'humanal
 d'humanament
-d'humanar-se'ns
 d'humanes
 d'humanisme
 d'humanismes
@@ -77031,12 +76548,10 @@ d'humiliar-te
 d'humiliar-vos
 d'humiliat
 d'humiliats
-d'humilis
 d'humilitat
 d'Humilitat
 d'humilitats
 d'humils
-d'humiltat
 d'humina
 d'humines
 d'humit
@@ -77374,12 +76889,10 @@ dicti-les
 dicti-li
 dicti'm
 dicti-me'l
-d'ictiol
 d'ictiòleg
 d'ictiòlegs
 d'ictiòlits
 d'ictiologia
-d'ictionímia
 d'ictiònims
 d'ictioplàncton
 d'ictiornis
@@ -77432,7 +76945,6 @@ d'idebenona
 d'idees
 d'Idèfix
 d'ídem
-d'idempotència
 d'idèntic
 d'idèntica
 d'idènticament
@@ -78265,7 +77777,6 @@ d'il·lícits
 d'il·licitud
 d'il·licituds
 d'il·limitables
-d'il·limitació
 d'il·limitada
 d'il·limitades
 d'il·limitat
@@ -78299,7 +77810,6 @@ d'il·luminador
 d'il·luminadora
 d'il·luminadores
 d'il·luminadors
-d'il·luminància
 d'il·luminar
 d'il·luminar-ho
 d'il·luminar-la
@@ -78500,7 +78010,6 @@ d'imaginatius
 d'imaginativa
 d'imaginatives
 d'imaginats
-d'imaginologia
 d'imago
 d'imagos
 d'imam
@@ -78829,8 +78338,6 @@ d'immunoassajos
 d'immunobiologia
 d'immunocitoquímica
 d'immunocompetència
-d'immunocomplexes
-d'immunocomplexos
 d'immunocromatografia
 d'immunodeficiència
 d'immunodeficiències
@@ -79117,8 +78624,6 @@ d'implantada
 d'implantades
 d'implantador
 d'implantadors
-d'implantament
-d'implantaments
 d'implantar
 d'implantar-hi
 d'implantar-ho
@@ -79205,9 +78710,6 @@ d'impol·luta
 d'impol·lutes
 d'imponderable
 d'imponderables
-d'impondre
-d'impondre-li
-d'impondre's
 d'imponent
 d'imponents
 d'impopular
@@ -79305,7 +78807,6 @@ d'impositiva
 d'impositor
 d'impositora
 d'impositors
-d'impossibilitació
 d'impossibilitada
 d'impossibilitar
 d'impossibilitar-la
@@ -79374,7 +78875,6 @@ d'impremeditació
 d'impremta
 d'impremtat
 d'impremtes
-d'impreparació
 d'imprés
 d'imprès
 d'impresa
@@ -79429,9 +78929,6 @@ d'imprevista
 d'imprevistes
 d'imprevistos
 d'imprevists
-d'imprimació
-d'imprimacions
-d'imprimar
 d'imprimàtur
 d'imprimibilitat
 d'imprimible
@@ -79760,7 +79257,6 @@ d'inapropiades
 d'inapropiat
 d'inapropiats
 d'inaptes
-d'inaptitud
 dinar-hi
 dinar-la
 dinar-li
@@ -80191,7 +79687,6 @@ d'inconfessables
 d'inconformisme
 d'inconformista
 d'inconformistes
-d'inconformitat
 d'inconfortable
 d'inconfortables
 d'inconfusible
@@ -80227,7 +79722,6 @@ d'inconstitucional
 d'inconstitucionalitat
 d'inconstitucionalitats
 d'inconstitucionals
-d'incontables
 d'incontaminades
 d'incontaminat
 d'incontenible
@@ -80254,10 +79748,6 @@ d'incoordinació
 d'incoordinadament
 d'incopsables
 d'incordi
-d'incordiar
-d'incordiar-me
-d'incordiar-nos
-d'incordiar-se
 d'incordis
 d'incorporable
 d'incorporació
@@ -80431,14 +79921,11 @@ d'inculpar-se
 d'inculpat
 d'inculpatori
 d'inculpats
-d'incult
 d'inculta
 d'inculte
 d'incultes
 d'incultivat
-d'incults
 d'incultura
-d'inculturació
 d'incultures
 d'incumbència
 d'incumbent
@@ -80504,7 +79991,6 @@ d'indefinició
 d'indefinicions
 d'indefinida
 d'indefinides
-d'indefinir-lo
 d'indefinit
 d'indefinits
 d'indefugible
@@ -80828,14 +80314,12 @@ d'indivisos
 d'indoaris
 d'indòcil
 d'indocilitat
-d'indocumentació
 d'indocumentada
 d'indocumentat
 d'indocumentats
 d'indoeuropea
 d'indoeuropees
 d'indoeuropeistes
-d'indoeuropeística
 d'indoeuropeu
 d'indoeuropeus
 d'índole
@@ -80849,7 +80333,6 @@ d'indolor
 d'indomable
 d'indomables
 d'indomelànids
-d'indominable
 d'indòmit
 d'indòmita
 d'indòmits
@@ -80917,8 +80400,6 @@ d'indults
 d'indument
 d'indumentària
 d'indumentàries
-d'indumentarista
-d'indumentaristes
 d'induments
 d'induració
 d'Indus
@@ -81013,7 +80494,6 @@ d'inercial
 d'inercials
 d'inèrcies
 d'inerme
-d'inermitat
 d'inerrància
 d'inerrant
 d'inert
@@ -81085,7 +80565,6 @@ d'inexplorables
 d'inexplorat
 d'inexpressable
 d'inexpressables
-d'inexpressat
 d'inexpressió
 d'inexpressiu
 d'inexpressius
@@ -81163,7 +80642,6 @@ d'infantojuvenils
 d'infantons
 d'infants
 d'infart
-d'infartar
 d'infartat
 d'infartats
 d'infarts
@@ -81206,7 +80684,6 @@ d'infectats
 d'infecte
 d'infectes
 d'infectivitat
-d'infectocontagiosos
 d'infectòleg
 d'infectologia
 d'infecund
@@ -81222,8 +80699,6 @@ d'inferents
 d'inferior
 d'inferioritat
 d'inferioritats
-d'inferiorització
-d'inferioritzar
 d'inferiors
 d'inferir
 d'inferir-hi
@@ -81500,7 +80975,6 @@ d'infortunes
 d'infortuni
 d'infortunis
 d'infosa
-d'infovia
 d'infoxicació
 d'infracció
 d'infraccions
@@ -81513,7 +80987,6 @@ d'infradetecció
 d'infradiagnòstic
 d'infradotació
 d'infradotacions
-d'infradotar
 d'infraestimació
 d'infraestructura
 d'infraestructural
@@ -81531,7 +81004,6 @@ d'infranquejable
 d'infranquejables
 d'infraoctava
 d'infrarepresentació
-d'infrarepresentar
 d'infrarepresentat
 d'infraroges
 d'infraroig
@@ -81552,8 +81024,6 @@ d'infravalorar-ne
 d'infravalorar-te
 d'infravalorat
 d'infravalorats
-d'infravivenda
-d'infravivendes
 d'infreqüència
 d'infreqüent
 d'infreqüents
@@ -81595,7 +81065,6 @@ d'infusions
 d'infusori
 d'infusoris
 d'ingeni
-d'ingeniar
 d'ingenis
 d'ingènita
 d'ingent
@@ -81901,7 +81370,6 @@ d'innata
 d'innates
 d'innatisme
 d'innats
-d'innatural
 d'innavegable
 d'innecessari
 d'innecessària
@@ -81917,8 +81385,6 @@ d'innervació
 d'innervar
 d'innivació
 d'innivacions
-d'innivar
-d'innivar-se
 d'innoble
 d'innobles
 d'Innocenci
@@ -82007,7 +81473,6 @@ d'inoperàncies
 d'inoperant
 d'inoperants
 d'inoperatiu
-d'inoperativitat
 d'inòpia
 d'inòpies
 d'inopinada
@@ -82066,7 +81531,6 @@ d'inquilina
 d'inquilinat
 d'inquilinats
 d'inquilines
-d'inquilinisme
 d'inquilins
 d'inquirir
 d'inquirir-la
@@ -82177,7 +81641,6 @@ d'insegurs
 d'inselbergs
 d'inseminació
 d'inseminacions
-d'inseminadors
 d'inseminar
 d'inseminar-les
 d'inseminar-me
@@ -82328,7 +81791,6 @@ d'insomnis
 d'insondable
 d'insondables
 d'insonora
-d'insonoritat
 d'insonorització
 d'insonoritzar
 d'insonoritzar-ho
@@ -82394,8 +81856,6 @@ d'inspirar-vos
 d'inspirat
 d'inspirats
 d'instada
-d'instador
-d'instadors
 d'Instagram
 d'instagramer
 d'instagramers
@@ -82479,7 +81939,6 @@ d'instigador
 d'instigadora
 d'instigadores
 d'instigadors
-d'instigament
 d'instigar
 d'instigar-les
 d'instigar-lo
@@ -82899,8 +82358,6 @@ d'intercedir-hi
 d'intercentres
 d'intercepció
 d'intercepcions
-d'interceptació
-d'interceptacions
 d'interceptar
 d'interceptar-ho
 d'interceptar-la
@@ -83548,7 +83005,6 @@ d'intraprenedoria
 d'intraprenedors
 d'intravasació
 d'intravenoses
-d'intrencables
 d'intrèpid
 d'intrèpida
 d'intrèpides
@@ -83578,7 +83034,6 @@ d'intrigues
 d'intrincada
 d'intrincades
 d'intrincat
-d'intríngulis
 d'intrínsec
 d'intrínseca
 d'intrínsecament
@@ -83926,7 +83381,6 @@ d'inviables
 d'invicta
 d'invicte
 d'invictes
-d'invidència
 d'invident
 d'invidents
 d'inviolabilitat
@@ -84367,7 +83821,6 @@ d'irrebatible
 d'irrecognoscibles
 d'irreconciliable
 d'irreconciliables
-d'irreconciliació
 d'irreconeixible
 d'irreconeixibles
 d'irrecuperabilitat
@@ -84448,7 +83901,6 @@ d'irresolucions
 d'irrespectuós
 d'irrespectuosa
 d'irrespectuoses
-d'irrespectuositat
 d'irrespectuosos
 d'irrespirable
 d'irrespirables
@@ -84782,7 +84234,6 @@ d'Isère
 d'Iserlohn
 d'Isern
 d'Isernia
-d'iseta
 d'isetionat
 d'Iseu
 d'Iseyin
@@ -84998,7 +84449,6 @@ d'isòet
 d'isoetals
 d'isòets
 d'isoflurà
-d'isòfones
 d'isogàmetes
 d'isogàmia
 d'isoglosses
@@ -85058,7 +84508,6 @@ d'isoniazida
 d'isonomia
 d'Isop
 d'isòpaques
-d'isopatia
 d'isopletes
 d'isòpode
 d'isòpodes
@@ -85224,7 +84673,6 @@ disperseu-los
 disperseu-ne
 disperseu-vos
 dispersin-se
-dispondre-us
 disposa-hi
 disposa-ho
 disposa'l
@@ -86126,7 +85574,6 @@ d'obediència
 d'obediències
 d'obedient
 d'obedients
-d'obedir
 d'obeïment
 d'obeir
 d'obeir-ho
@@ -86880,15 +86327,12 @@ d'octau
 d'octaus
 d'octava
 d'octaves
-d'octaveta
-d'octavetes
 d'Octavi
 d'octavià
 d'Octavià
 d'Octàvia
 d'octaviana
 d'Octaviana
-d'octavilles
 d'Octavis
 d'octes
 d'octet
@@ -87024,7 +86468,6 @@ d'ocupador
 d'ocupadora
 d'ocupadores
 d'ocupadors
-d'ocupament
 d'ocupant
 d'ocupants
 d'ocupar
@@ -87249,12 +86692,6 @@ d'oferir-vos-les
 d'oferit
 d'ofert
 d'oferta
-d'ofertar
-d'ofertar-les
-d'ofertar-li
-d'ofertar-lo
-d'ofertar-los
-d'ofertar-se
 d'ofertes
 d'ofertori
 d'ofertoris
@@ -87267,7 +86704,6 @@ d'ofesos
 d'Offa
 d'office
 d'offline
-d'offside
 d'ofici
 d'oficiada
 d'oficial
@@ -87728,7 +87164,6 @@ d'om
 d'Om
 d'oma
 d'Omagh
-d'omagua
 d'Omaha
 doma'm
 doma'n
@@ -87923,8 +87358,6 @@ d'omplert
 d'omplerta
 d'omplertes
 d'omplida
-d'omplidor
-d'omplidora
 d'ompliment
 d'ompliments
 d'omplir
@@ -88393,7 +87826,6 @@ d'onomàstica
 d'onomàstiques
 d'onomatopeia
 d'onomatopeies
-d'onosa
 d'onsevulga
 d'onsevulla
 d'onso
@@ -88622,8 +88054,6 @@ d'opositors
 d'opòsits
 d'opòssum
 d'opòssums
-d'opost
-d'opostos
 d'opoteràpia
 d'Oppenheim
 d'Oppenheimer
@@ -88685,10 +88115,8 @@ d'optimar-ne
 d'òptimes
 d'optimisme
 d'optimismes
-d'optimist
 d'optimista
 d'optimistes
-d'optimists
 d'optimització
 d'optimitzacions
 d'optimitzada
@@ -88742,7 +88170,6 @@ d'oradores
 d'oradors
 d'oradura
 d'oradures
-d'orai
 d'oral
 d'Oral
 d'oralitat
@@ -88917,7 +88344,6 @@ d'oreneta
 d'orenetes
 d'orenga
 d'Orenga
-d'orengar
 d'orengues
 d'ores
 d'Orestes
@@ -89099,7 +88525,6 @@ d'oriflama
 d'oriflames
 d'origami
 d'origamis
-d'orige
 d'origen
 d'origenisme
 d'origenista
@@ -89150,7 +88575,6 @@ d'orioles
 d'oriolet
 d'Oriolet
 d'oriols
-d'oriònides
 d'oripell
 d'oripells
 d'Orís
@@ -89345,7 +88769,6 @@ d'orsai
 d'orsar
 d'orsat
 d'Orseolo
-d'orsera
 d'orses
 d'orseta
 d'Orsini
@@ -89379,8 +88802,6 @@ d'ortoceràtids
 d'ortòclasi
 d'ortodòncia
 d'ortodòncies
-d'ortodoncista
-d'ortodoncistes
 d'ortodontista
 d'ortodontistes
 d'ortodox
@@ -89619,7 +89040,6 @@ d'Ossinyà
 d'ossis
 d'ossó
 d'Ossó
-d'ossobuco
 d'ossos
 d'ossós
 d'óssos
@@ -89820,7 +89240,6 @@ d'Ouarsenis
 d'Ouarzazate
 d'Oubritenga
 d'Ouémé
-d'ouer
 d'ouera
 d'oueres
 d'ouet
@@ -90195,9 +89614,7 @@ d'Ucayali
 d'UCD
 d'UCE
 d'Uchida
-d'uci
 d'UCI
-d'ucis
 d'Uckermark
 d'Ucraïna
 d'ucraïnés
@@ -90822,7 +90239,6 @@ d'unt
 d'untada
 d'untades
 d'untador
-d'untall
 d'untament
 d'untar
 d'untar-hi
@@ -91197,7 +90613,6 @@ d'usos
 d'ussinguita
 d'ussona
 d'Ussuri
-d'usta
 d'ústaixa
 d'ústaixes
 dus-te
@@ -91211,7 +90626,6 @@ d'usuàries
 d'usuaris
 d'usucapió
 d'usucapir
-d'usufructe
 d'usufructuar
 d'usufructuari
 d'usufructuària
@@ -91354,7 +90768,6 @@ d'uvala
 d'Uvalde
 d'úvea
 d'uveïtis
-d'uvi
 d'UVI
 d'UVic
 d'uvita
@@ -91694,7 +91107,6 @@ eixorivir-los
 eixorivir-me
 eixorivir-se
 eixorivir-te
-eixorquir-lo
 eixuga-ho
 eixuga'l
 eixuga-la
@@ -92153,8 +91565,6 @@ embalsamar-vos
 embambar-me
 embambar-se
 embancar-se
-embanyar-lo
-embanyar-me
 embarassant-se
 embarassar-la
 embarassar-les
@@ -92608,7 +92018,6 @@ emborbollant-se
 emborbollar-se
 embordeir-les
 embordeir-se
-embordir-se
 embordonir-se
 emborniar-lo
 emborrascar-se
@@ -94311,7 +93720,6 @@ empolainar-vos
 empolaina't
 empolaineu-la
 empolaineu-vos
-empolar-la
 empolistrar-me
 empolistrar-se
 empollant-me
@@ -94429,7 +93837,6 @@ empomar-lo
 empomar-los
 empomar-me
 empomar-te
-emponar-se
 emporcant-les
 emporcant-se
 emporcar-ho
@@ -94584,15 +93991,6 @@ empotar-se-la
 empotar-se'ls
 empotau-los
 empoteu-vos
-empotrant-la
-empotrant-los
-empotrant-se
-empotrar-li
-empotrar-lo
-empotrar-me
-empotrar-nos
-empotrar-se
-empotrar-te
 empouant-nos
 empouar-ho
 empouar-lo
@@ -95204,7 +94602,6 @@ encalmar-me
 encalmar-se
 encalmeu-vos
 encalostrar-se
-encamallar-se
 encambrar-se
 encambra't
 encambre-hi
@@ -95808,7 +95205,6 @@ encegar-nos
 encegar-se
 encegar-te
 encega't
-enceguerar-nos
 encegueu-vos
 encelar-nos
 encelar-se
@@ -96154,8 +95550,6 @@ encolar-s'hi
 encolar-te
 encolerint-se
 encolerir-se
-encoleritzar-me
-encoleritzar-se
 encollint-se
 encollir-me
 encollir-nos
@@ -96379,9 +95773,6 @@ encorbar-me
 encorbar-se
 encorbar-vos
 encorba't
-encorbatar-me
-encorbatar-se
-encorbati's
 encordant-se
 encordar-la
 encordar-les
@@ -97609,10 +97000,6 @@ enfosquir-se
 enfosquir-se-li
 enfranqueix-te
 enfranquir-los
-enfrascant-nos
-enfrascant-se
-enfrascar-nos
-enfrascar-se
 enfredar-se
 enfredar-te
 enfredolicar-se
@@ -98039,10 +97426,6 @@ engatjar-m'hi
 engatjar-nos
 engatjar-se
 engatjar-s'hi
-engatussant-me
-engatussar-lo
-engatussar-los
-engatussar-nos
 engavanyant-li
 engavanyant-se
 engavanyar-la
@@ -98427,9 +97810,6 @@ engronsar-te
 engronxant-la
 engronxar-se
 engronyar-se
-engrossant-la
-engrossar-lo
-engrossar-se
 engrossint-lo
 engrossint-se
 engrossint-t'hi
@@ -98468,7 +97848,6 @@ engrunar-te
 engrunsant-se
 engrunsar-se
 engrunyonir-se
-enguatar-los
 enguerxinar-se
 enguerxir-se
 enguiscar-los
@@ -98523,7 +97902,6 @@ enjudiciar-lo
 enjudiciar-los
 enjudiciar-ne
 enjudiciar-se
-enjuïciant-se
 enjullar-se
 enlaira'l
 enlaira-la
@@ -99051,7 +98429,6 @@ enrasant-se
 enrasar-nos-els
 enrasar-se
 enraseu-lo
-enrastrant-les
 enravenant-li
 enravenant-me
 enravenant-se
@@ -99306,7 +98683,6 @@ enrocar-s'hi
 enrocar-te
 enrocar-vos
 enroca't
-enroda't
 enrodillant-los
 enrogallant-se
 enrogallant-se-li
@@ -99884,7 +99260,6 @@ ensopir-se
 ensopir-s'hi
 ensopir-te
 ensopiu-vos
-ensordin-nos
 ensordint-lo
 ensordint-los
 ensordint-me
@@ -100169,7 +99544,6 @@ entauli's
 entebeir-la
 entebeir-les
 entebeir-se
-entebiar-la
 entecar-se
 entelant-les
 entelant-li
@@ -101862,7 +101236,6 @@ enxarxa't
 enxarxem-nos
 enxarxeu-ho
 enxautar-se
-enxicar-se
 enxiquim-los
 enxiquint-les
 enxiquint-se
@@ -102247,9 +101620,6 @@ esbargir-s'hi
 esbargir-te
 esbargir-vos
 esbargiu-vos
-esbarrallar-me
-esbarrallar-se
-esbarrancar-se
 esbarrar-se
 esbarriant-la
 esbarriant-li
@@ -104998,8 +104368,6 @@ esllavissar-se'n
 esllenegant-se
 esllenegant-se'm
 esllenegar-se
-esllissar-l'hi
-esllissar-se
 esllomant-los
 esllomant-me
 esllomant-nos
@@ -105566,7 +104934,6 @@ espavileu-se
 espavileu-vos
 espavilin-se
 espavili's
-espear-se
 especejant-lo
 especejant-se
 especejar-la
@@ -105656,7 +105023,6 @@ especifiqueu-ne
 especifiqueu-nos
 especifiqueu-nos-ho
 especifiqui-les
-espectacularitzar-los
 especulant-hi
 especulant-me
 especulant-ne
@@ -107650,7 +107016,6 @@ estomaqueu-lo
 estomaqueu-los
 estontolar-s'hi
 estopejau-la
-estope's
 estoquejar-ne
 estorant-nos
 estorar-se
@@ -109059,8 +108424,6 @@ executeu-los
 executeu-ne
 executi'l
 executin-lo
-exemplaritzant-lo
-exemplaritzar-se
 exemplifica-ho
 exemplifica-les
 exemplifica'ls
@@ -109957,9 +109320,6 @@ explotem-ho
 explotem-lo
 exploten-la
 exploteu-me
-expondre-les
-exponent-la
-exponent-me
 exporta-hi
 exporta-ho
 exporta'l
@@ -110405,13 +109765,6 @@ extradir-lo
 extradir-los
 extradir-me
 extradir-se
-extradita'l
-extraditar-ho
-extraditar-la
-extraditar-li
-extraditar-lo
-extraditar-los
-extraditar-me
 extraent-ne
 extraient-hi
 extraient-ho
@@ -111068,7 +110421,6 @@ farga'm
 fargar-se
 fargar-te
 farga't
-farjant-me
 farolejar-vos
 faronejar-ne
 farta'm
@@ -111105,16 +110457,6 @@ fascinar-vos
 fascina't
 fascineu-me
 fascineu-vos
-fastidia'n
-fastidiar-ho
-fastidiar-la
-fastidiar-lo
-fastidiar-los
-fastidiar-me
-fastidiar-nos
-fastidiar-se
-fastidiar-te
-fastidiar-vos
 fastiguejant-ho
 fastiguejant-lo
 fastiguejant-me
@@ -111152,7 +110494,6 @@ fatigar-te
 fatigar-vos
 favorejant-hi
 favorejar-lo
-faxejar-nos
 febrejant-li
 fecunda'm
 fecundant-la
@@ -111337,22 +110678,7 @@ fendiu-vos
 fendre-la
 fendre-li
 fendre's
-fen-hi
-fen-ho
-fen-la
-fen-les
-fen-l'hi
-fen-li
-fen-lo
-fen-los
-fen-los-hi
-fen-me
-fen-ne
-fen-nos
-fen-te
-fen-te'l
 fent-hi
-fen-t'ho
 fent-ho
 fent-la
 fent-la-hi
@@ -111412,7 +110738,6 @@ fent-vos
 fent-vos-en
 fent-vos-hi
 fent-vos-ho
-fen-vos
 fenyent-la
 fenyent-se
 fènyer-la
@@ -111793,8 +111118,6 @@ fiblar-me
 fiblar-nos
 fiblar-te
 fiblonejant-lo
-fibrar-la
-fibrar-lo
 fibrosar-se
 fica-hi
 fica-ho
@@ -113267,12 +112590,6 @@ formatar-les
 formatar-lo
 formatar-los
 formatar-se
-formatejar-la
-formatejar-lo
-formatejar-los
-formatejar-nos
-formatejar-se
-formateja't
 formatjar-la
 formatjar-nos
 forme'm
@@ -114379,7 +113696,6 @@ fundin-se
 funyin-lo
 funyir-la
 furar-nos-ho
-furejar-ho
 furetejant-ho
 furetejar-ho
 furetejar-vos
@@ -114518,22 +113834,12 @@ fustigar-vos
 fustiguem-nos
 fustigueu-los
 fustigueu-me
-gafa'l
-gafa'n
-gafar-li
-gafar-lo
-gafa't
 galantejar-la
 galantejar-les
 galantejar-me
 galantejar-te
 galantejar-vos
-galdir-se
-galdir-se'n
 galivar-hi
-galleguitzar-los
-galleguitzar-nos
-galleguitzar-se
 gallejar-la
 gallejar-ne
 galopant-li
@@ -115474,7 +114780,6 @@ granar-se
 grane'ls
 granular-les
 granular-se
-graonar-se
 grapa-les
 grapant-lo
 grapant-se
@@ -115748,9 +115053,6 @@ grinyolar-li
 grinyolar-me
 grinyolar-ne
 gripalitzar-la
-gripant-li
-gripar-se
-gripar-te
 grisejar-li
 gronxa'l
 gronxa'm
@@ -116784,8 +116086,6 @@ hidrateu-les
 hidrateu-lo
 hidrateu-los
 hidrateu-vos
-hidrofugant-lo
-hidrofugant-los
 hidrogenant-se
 hidrogenar-lo
 hidrolitzant-los
@@ -116805,12 +116105,8 @@ higienitzar-se
 hiperbolitzar-ho
 hiperbolitzar-lo
 hiperbolitzar-se
-hiperexcitar-nos
 hipertrofiar-la
 hipertrofiar-se
-hiperventilant-se
-hiperventilar-lo
-hiperventilar-se
 hipnotitza'l
 hipnotitza'm
 hipnotitzant-la
@@ -118213,10 +117509,6 @@ implorar-nos
 implorar-se
 implorar-te
 implorar-vos
-impondre-la
-impondre'ns
-impondre's
-imponent-se
 importa-ho
 importa'l
 importa-li
@@ -118457,8 +117749,6 @@ impressionar-vos
 impressiona't
 impressioneu-vos
 impressioni'm
-imprimar-les
-imprimar-lo
 imprimeix-ho
 imprimeixi'l
 imprimeixi-la
@@ -118971,12 +118261,6 @@ incomunicar-nos
 incomunicar-se
 incomunicar-vos
 incomuniqueu-me
-incordiant-me
-incordiar-lo
-incordiar-los
-incordiar-me
-incordiar-se
-incordiar-te
 incorpora-hi
 incorpora-ho
 incorpora'l
@@ -119253,8 +118537,6 @@ indagar-ne
 indagar-se
 indaga't
 indagueu-ho
-indefinint-se
-indefinir-se
 indemnitzant-la
 indemnitzant-les
 indemnitzant-lo
@@ -119447,7 +118729,6 @@ indiqui'ns
 indiqui'ns-ho
 indisciplinar-me
 indisciplinar-se
-indispondre's
 indisposant-se
 indisposant-s'hi
 indisposar-la
@@ -119562,9 +118843,6 @@ infantilitzar-lo
 infantilitzar-los
 infantilitzar-nos
 infantilitzar-se
-infartar-me
-infartar-se
-infartar-vos
 infatuant-se
 infatuar-se
 infecta'm
@@ -119596,9 +118874,6 @@ inferint-ho
 inferint-la
 inferint-li
 inferint-ne
-inferioritzant-la
-inferioritzant-los
-inferioritzar-lo
 inferir-ho
 inferir-la
 inferir-li
@@ -119930,8 +119205,6 @@ informi'ns-en
 informin-se'n
 informi's
 informi-se'n
-infrarepresentant-ne
-infrarepresentar-los
 infrautilitzant-lo
 infrautilitzar-la
 infrautilitzar-les
@@ -119979,9 +119252,6 @@ infusiona't
 infusioneu-hi
 infusioneu-ho
 infusioneu-lo
-ingeniar-nos
-ingeniar-se
-ingeniar-te-les
 ingerint-la
 ingerint-les
 ingerint-lo
@@ -120219,8 +119489,6 @@ injuriar-nos
 injuriar-se
 injurieu-los
 innervar-se
-innivar-la
-innivar-se
 innova'n
 innovant-hi
 innovant-la
@@ -123246,9 +122514,6 @@ l'abolís
 l'abolissin
 l'abolit
 l'abomasitis
-l'abomba
-l'abombada
-l'abombat
 l'abomina
 l'abominà
 l'abominable
@@ -123367,10 +122632,6 @@ l'aborronador
 l'aborronadora
 l'aborronava
 l'aborronaven
-l'abotonà
-l'abotonava
-l'above
-l'abovo
 l'abraça
 l'abraçà
 l'abraçada
@@ -124552,8 +123813,6 @@ l'acoltellat
 l'acoltellava
 l'acoltellaven
 l'acoltellem
-l'acolxar
-l'acolxat
 l'acomboï
 l'acomboia
 l'acomboià
@@ -124567,10 +123826,6 @@ l'acomboiaven
 l'acomboien
 l'acomboiés
 l'acomboiessin
-l'acomesa
-l'acomet
-l'acometa
-l'acometre
 l'acomiad
 l'acomiada
 l'acomiadà
@@ -124696,9 +123951,6 @@ l'acompara
 l'acomparava
 l'acompare
 l'acomparem
-l'acompassada
-l'acompassar
-l'acompassat
 l'acompleix
 l'acompleixen
 l'acompleixes
@@ -124876,7 +124128,6 @@ l'acontentem
 l'acontenten
 l'acontentes
 l'acontentessin
-l'acontenyiment
 l'acop
 l'acopi
 l'acoquina
@@ -125078,9 +124329,6 @@ l'acotxessin
 l'acotxi
 l'acotxin
 l'acotxo
-l'acovarda
-l'acovardament
-l'acovardarien
 l'acovardeix
 l'acovardeixen
 l'acovardeixi
@@ -126949,7 +126197,6 @@ l'afinat
 l'afinava
 l'afinàvem
 l'afinaven
-l'afincament
 l'afinem
 l'afinen
 l'afines
@@ -127076,7 +126323,6 @@ l'aforí
 l'aforisme
 l'aforística
 l'aforo
-l'aforrament
 l'afortunada
 l'afortunadament
 l'afortunadíssim
@@ -127292,7 +126538,6 @@ l'agàmid
 l'agammaglobulinèmia
 l'agamogènesi
 l'agamospèrmia
-l'agan
 l'aganyit
 l'agapant
 l'Agape
@@ -127502,7 +126747,6 @@ l'agnició
 l'agnocast
 l'agnom
 l'agnòsia
-l'agnòsica
 l'agnòstic
 l'agnòstica
 l'agnosticisme
@@ -127538,7 +126782,6 @@ l'agòmfia
 l'agonia
 l'agònic
 l'agònica
-l'agonie
 l'agonista
 l'agonístic
 l'agonística
@@ -127668,10 +126911,6 @@ l'agràs
 l'Agràs
 l'agrassó
 l'agravació
-l'agravi
-l'agraviada
-l'agraviat
-l'agravies
 l'agre
 l'Agre
 l'agredeix
@@ -128020,7 +127259,6 @@ l'Aielo
 l'aieloner
 l'Aiet
 l'aigua
-l'aiguà
 l'aiguabarreig
 l'aiguabatre
 l'Aiguabella
@@ -128062,7 +127300,6 @@ l'aiguall
 l'aigualleix
 l'aiguallimó
 l'aigualós
-l'aiguam
 l'aiguamans
 l'aiguamarina
 l'aiguamel
@@ -128073,14 +127310,12 @@ l'aiguamort
 l'aiguanaf
 l'aiguaneix
 l'aiguaneu
-l'aiguar
 l'aiguardent
 l'aiguardenta
 l'aiguardenter
 l'aigua-ros
 l'aiguarrada
 l'aiguarràs
-l'aiguàs
 l'aigua-sal
 l'aiguat
 l'aiguatge
@@ -128088,16 +127323,13 @@ l'aiguatinta
 l'aiguavés
 l'aiguavessant
 l'Aiguaviva
-l'aigüe
 l'aigüer
 l'aigüera
 l'aigüerol
 l'aigüerola
-l'aigües
 l'Aigüesverds
 l'Aigueta
 l'aigüeta
-l'aiguo
 l'aiguota
 l'aikido
 l'aikidoka
@@ -128168,7 +127400,6 @@ l'aïrava
 l'airbag
 l'Airbus
 l'aire
-l'aireació
 l'airecel
 l'Airef
 l'AIReF
@@ -128221,7 +127452,6 @@ l'aixà
 l'aixada
 l'aixadell
 l'aixadella
-l'aixadeta
 l'aixadó
 l'aixadonet
 l'aixaf
@@ -128261,7 +127491,6 @@ l'aixafin
 l'aixafis
 l'aixafo
 l'aixam
-l'aixama
 l'aixamfranat
 l'aixanti
 l'aixara
@@ -128330,7 +127559,6 @@ l'aixereta
 l'aixeta
 l'aixeteria
 l'així
-l'aixina
 l'aixinguer
 l'aixol
 l'aixopluc
@@ -128371,8 +127599,6 @@ l'ajagués
 l'ajagueu
 l'ajagut
 l'ajaiem
-l'ajardinada
-l'ajardinat
 l'Ajarquía
 l'ajau
 l'ajauen
@@ -128654,10 +127880,8 @@ l'alamana
 l'Alamanda
 l'Alamània
 l'alamànic
-l'alamar
 l'Alamar
 l'alambí
-l'alambic
 l'alambina
 l'alambinada
 l'alambinament
@@ -128734,7 +127958,6 @@ l'Al-Azhar
 l'alb
 l'alba
 l'Alba
-l'albà
 l'Albà
 l'albacar
 l'Albacar
@@ -128767,7 +127990,6 @@ l'Albany
 l'Albanyà
 l'albar
 l'albarà
-l'albaranet
 l'Albarca
 l'albarda
 l'albardà
@@ -128779,7 +128001,6 @@ l'albarder
 l'albarderia
 l'albardí
 l'albardó
-l'albargina
 l'Alba-rosa
 l'albarrana
 l'Albarrasí
@@ -128915,8 +128136,6 @@ l'Alboraia
 l'alboraier
 l'alboraiera
 l'Alborán
-l'alborç
-l'alborcer
 l'Albornà
 l'Albornar
 l'Albret
@@ -129253,7 +128472,6 @@ l'Aleny
 l'Alenyà
 l'Alep
 l'àlep
-l'alepí
 l'aler
 l'Aler
 l'alera
@@ -129372,7 +128590,6 @@ l'alficossera
 l'alfil
 l'alfòndec
 l'alfondeguer
-l'alfòndic
 l'Alfons
 l'Alfonsa
 l'alfonsí
@@ -129395,7 +128612,6 @@ l'algaidí
 l'algaidina
 l'algàlia
 l'Algama
-l'algar
 l'Algar
 l'algara
 l'algarada
@@ -129443,7 +128659,6 @@ l'Algoda
 l'Algodar
 l'Algol
 l'algolagnia
-l'algoleja
 l'algologia
 l'algometria
 l'algonquí
@@ -129891,7 +129106,6 @@ l'alliçoneu
 l'alliçoni
 l'alliçonin
 l'Allier
-l'al·liga
 l'al·ligàtor
 l'al·liïna
 l'al·lil
@@ -130039,8 +129253,6 @@ l'al·ludien
 l'al·ludir
 l'al·ludís
 l'al·ludit
-l'allumenarà
-l'allumenat
 l'allunament
 l'allunaren
 l'allunatge
@@ -130124,7 +129336,6 @@ l'almegó
 l'almeixia
 l'Almela
 l'Almenar
-l'almenara
 l'Almenara
 l'Almendralejo
 l'almenys
@@ -130137,8 +129348,6 @@ l'almescat
 l'Almesquer
 l'almesquera
 l'almesquí
-l'almidó
-l'almidon
 l'almiquí
 l'almirall
 l'Almirall
@@ -130167,9 +129376,7 @@ l'Almonte
 l'Almoradí
 l'almorat
 l'almoràvit
-l'almorrana
 l'almorratxa
-l'almorzar
 l'almosta
 l'Almoster
 l'almosterenc
@@ -130201,7 +129408,6 @@ l'aloïna
 l'aloja
 l'aloma
 l'Aloma
-l'alomància
 l'Alomar
 l'Alonso
 l'alopècia
@@ -130261,8 +129467,6 @@ l'alquímica
 l'alquimista
 l'alquinal
 l'alquinil
-l'alquitrà
-l'alquitranat
 l'Alric
 l'Als
 l'alsacià
@@ -130471,7 +129675,6 @@ l'alvocater
 l'Alwaye
 l'Alzette
 l'alzheimer
-l'alzhèimer
 l'alzina
 l'Alzina
 l'alzinada
@@ -130600,8 +129803,6 @@ l'Amanda
 l'amandina
 l'amaneix
 l'amaneixen
-l'amanéixer
-l'amanèixer
 l'amaneixes
 l'amaneixi
 l'amaneixin
@@ -130644,7 +129845,6 @@ l'amansi
 l'amansí
 l'amansia
 l'amansida
-l'amansidor
 l'amansiment
 l'amansin
 l'amansiré
@@ -130775,7 +129975,6 @@ l'amarri
 l'amar-se
 l'amartella
 l'amartellà
-l'amartellament
 l'amartellar
 l'amartellat
 l'amartellava
@@ -131084,7 +130283,6 @@ l'ametlat
 l'ametler
 l'Ametler
 l'Ametlera
-l'ametleral
 l'ametlerar
 l'Ametlerar
 l'ametlla
@@ -131095,7 +130293,6 @@ l'ametllatà
 l'ametller
 l'Ametller
 l'Ametllera
-l'ametlleral
 l'ametllerar
 l'ametlló
 l'ametló
@@ -131257,7 +130454,6 @@ l'Amita
 l'amitger
 l'amitgera
 l'amitjanada
-l'amitjanament
 l'amitjanaria
 l'amitraz
 l'amitriptilina
@@ -131405,7 +130601,6 @@ l'Amoni
 l'amoníac
 l'amoniacal
 l'amonificació
-l'amonita
 l'amontillat
 l'amor
 l'Amor
@@ -131511,8 +130706,6 @@ l'amortitzeu
 l'amortitzi
 l'amortitzo
 l'Amós
-l'amostra
-l'amostraren
 l'amot
 l'amotina
 l'amotinament
@@ -131957,7 +131150,6 @@ l'andalusisme
 l'andalusista
 l'andalusita
 l'andamanès
-l'andami
 l'andan
 l'andana
 l'andanà
@@ -131993,7 +131185,6 @@ l'andorrà
 l'Andorrà
 l'andorrana
 l'andradita
-l'andragó
 l'Andratx
 l'André
 l'Andrea
@@ -132048,7 +131239,6 @@ l'anècdota
 l'anecdotari
 l'anecdòtic
 l'anecdòtica
-l'anecdotisme
 l'àneda
 l'anedó
 l'aneg
@@ -132492,7 +131682,6 @@ l'anisol
 l'anisole
 l'anisometropia
 l'anisòpter
-l'anisosil·labisme
 l'anisotropia
 l'anisset
 l'anit
@@ -132802,7 +131991,6 @@ l'antedatat
 l'antedespatx
 l'antediluvià
 l'antediluviana
-l'antedit
 l'antefirma
 l'antefixa
 l'anteflexió
@@ -132837,7 +132025,6 @@ l'anteposes
 l'anteposició
 l'anteposin
 l'anteposo
-l'anteprojecte
 l'Antequera
 l'Anter
 l'antera
@@ -132960,7 +132147,6 @@ l'anticoncepció
 l'anticonceptiu
 l'anticonceptiva
 l'anticongelant
-l'anticongestiva
 l'anticonstitucional
 l'anticonstitucionalitat
 l'anticonvencional
@@ -132975,12 +132161,10 @@ l'anticrisi
 l'anticrist
 l'anticristiana
 l'anticristianisme
-l'anticultura
 l'antidegoteig
 l'antidemòcrata
 l'antidemocràtic
 l'antidemocràtica
-l'antideportiva
 l'antidepressiu
 l'antidepressiva
 l'antidesnonaments
@@ -133050,7 +132234,6 @@ l'antigitanisme
 l'antiglobalisme
 l'antiglobalització
 l'antiglobulina
-l'antigó
 l'antígon
 l'Antígon
 l'Antígona
@@ -133169,7 +132352,6 @@ l'antioxidant
 l'antipalúdic
 l'antipalúdica
 l'antipapa
-l'antipapat
 l'antiparal·lela
 l'antiparàsit
 l'antiparasitari
@@ -133195,7 +132377,6 @@ l'antípoda
 l'antipodisme
 l'antipodista
 l'antipoliomelítica
-l'antipoliomielítica
 l'antipolític
 l'antipolítica
 l'antipopular
@@ -133308,7 +132489,6 @@ l'Antofagasta
 l'antòfil
 l'antofil·lita
 l'antogènesi
-l'antoix
 l'antòleg
 l'Antolí
 l'Antolina
@@ -133395,7 +132575,6 @@ l'antroponímia
 l'antroponímic
 l'antroponímica
 l'antroponosi
-l'antropòsof
 l'antroposofia
 l'antrostomia
 l'antrotomia
@@ -133591,7 +132770,6 @@ l'apagàvem
 l'apagaven
 l'apagaves
 l'apago
-l'apagó
 l'apagoge
 l'apague
 l'apaguem
@@ -133630,7 +132808,6 @@ l'apaivagués
 l'apaivagui
 l'apaivaguin
 l'apalancada
-l'apalancament
 l'apalancarien
 l'apalanque
 l'apalanquem
@@ -133911,7 +133088,6 @@ l'apegada
 l'apegalós
 l'apegalosa
 l'apegalosament
-l'apegalositat
 l'apegaré
 l'apego
 l'apeguem
@@ -134507,12 +133683,6 @@ l'aprehendre
 l'aprehenem
 l'aprehensió
 l'aprehès
-l'apremi
-l'apremia
-l'apremiant
-l'apremiara
-l'apremiava
-l'apremien
 l'apremilast
 l'aprén
 l'aprèn
@@ -134735,7 +133905,6 @@ l'apropin
 l'apropio
 l'apropis
 l'apropo
-l'apropòsit
 l'aprotinina
 l'aprov
 l'aprova
@@ -134971,7 +134140,6 @@ l'Aqaba
 l'Aquabrava
 l'aquagym
 l'aquaporina
-l'aquarel
 l'aquarel·la
 l'aquarel·lista
 l'aquari
@@ -135069,7 +134237,6 @@ l'Aracil
 l'Aracne
 l'aràcnid
 l'aracnodactília
-l'aracnofòbia
 l'aracnoide
 l'aracnoïditis
 l'aracnòleg
@@ -135130,7 +134297,6 @@ l'aranzelari
 l'aranzelària
 l'arapaho
 l'arapaima
-l'araquidònic
 l'Ararat
 l'Arau
 l'arauac
@@ -135297,7 +134463,6 @@ l'arcsinus
 l'arctangent
 l'àrctia
 l'arcuació
-l'arcus
 l'ardada
 l'ardat
 l'Ardecha
@@ -135852,8 +135017,6 @@ l'arqueometria
 l'arqueomorfologia
 l'arqueopetrologia
 l'arqueòpterix
-l'arqueozoòleg
-l'arqueozoòloga
 l'arqueozoologia
 l'arquer
 l'Arquer
@@ -135950,9 +135113,6 @@ l'arraconin
 l'arraconis
 l'arracono
 l'arraià
-l'arraïl
-l'arraïlada
-l'arraïlament
 l'arrais
 l'arraix
 l'arramadaven
@@ -136098,7 +135258,6 @@ l'arrastrem
 l'arrastren
 l'arrastri
 l'arrastro
-l'arrastró
 l'arrauleix
 l'arraulí
 l'arraulia
@@ -136166,7 +135325,6 @@ l'arreglador
 l'arregladora
 l'arreglam
 l'arreglament
-l'arreglaparròquies
 l'arreglar
 l'arreglara
 l'arreglarà
@@ -136227,7 +135385,6 @@ l'arremanga
 l'arremangarà
 l'arremangat
 l'arremangava
-l'arrematar
 l'arremesa
 l'arremeté
 l'arremetia
@@ -136241,8 +135398,6 @@ l'arremolinat
 l'arremolinava
 l'arremolinaven
 l'arremorament
-l'arremulla
-l'arremullada
 l'arrenc
 l'arrenca
 l'arrencà
@@ -136567,7 +135722,6 @@ l'arrose
 l'arrossa
 l'arrossada
 l'arrossaire
-l'arrossal
 l'arrossar
 l'arrossega
 l'arrossegà
@@ -136889,7 +136043,6 @@ l'àrum
 l'Arús
 l'Arusha
 l'arúspex
-l'aruspicina
 l'Aruwimi
 l'arvellola
 l'arvense
@@ -136900,7 +136053,6 @@ l'Arxé
 l'arxicanceller
 l'arxiconeguda
 l'arxiconegut
-l'arxiconfrare
 l'arxiconfraria
 l'arxidiaca
 l'arxidiaconat
@@ -137021,7 +136173,6 @@ l'ascitis
 l'ascla
 l'asclà
 l'asclada
-l'asclador
 l'asclaràs
 l'asclat
 l'asclaven
@@ -137063,7 +136214,6 @@ l'asexuat
 l'asfalt
 l'asfalta
 l'asfaltada
-l'asfaltadora
 l'asfaltaran
 l'asfaltarem
 l'asfaltaria
@@ -137158,8 +136308,6 @@ l'aspat
 l'Aspect
 l'aspecte
 l'aspenc
-l'asper
-l'aspera
 l'aspergeix
 l'aspergeixen
 l'Asperger
@@ -137286,7 +136434,6 @@ l'assaborissin
 l'assaboríssiu
 l'assaboriu
 l'assacia
-l'assaciament
 l'assaciaran
 l'assaciava
 l'assadolla
@@ -137743,9 +136890,7 @@ l'assigneu
 l'assigni
 l'assignin
 l'assigno
-l'assilvestra
 l'assilvestrada
-l'assilvestrament
 l'assilvestrat
 l'assimil
 l'assimila
@@ -137984,8 +137129,6 @@ l'assuauja
 l'assuaujadora
 l'assuaujament
 l'assuaviment
-l'assuca
-l'assucar
 l'assumeix
 l'assumeixen
 l'assumeixes
@@ -138028,7 +137171,6 @@ l'assumix
 l'assumixen
 l'assumpció
 l'Assumpció
-l'assumpt
 l'assumpta
 l'Assumpta
 l'assumpte
@@ -138120,7 +137262,6 @@ l'astròloga
 l'astrologia
 l'astrològic
 l'astrològica
-l'astromància
 l'astròmetre
 l'astrometria
 l'astromètrica
@@ -138130,7 +137271,6 @@ l'astronàutic
 l'astronàutica
 l'astrònom
 l'astrònoma
-l'astronometria
 l'astronomia
 l'astronòmic
 l'astronòmica
@@ -138147,8 +137287,6 @@ l'astur
 l'àstur
 l'asturià
 l'asturiana
-l'asturianisme
-l'asturianista
 l'asturianolleonès
 l'asturianolleonesa
 l'Astúries
@@ -138355,10 +137493,6 @@ l'atemoriria
 l'atemorís
 l'atemorissen
 l'atemorit
-l'atempera
-l'atemperament
-l'atemperaven
-l'atemperin
 l'atemporal
 l'atemporalitat
 l'atempt
@@ -138368,10 +137502,6 @@ l'atemptar
 l'atemptat
 l'atén
 l'Atena
-l'atenalla
-l'atenallava
-l'atenallaven
-l'atenallen
 l'atenc
 l'atenció
 l'atencional
@@ -138468,7 +137598,6 @@ lateralitzar-se
 l'aterectomia
 l'aterià
 l'ateriana
-lateritzar-se
 l'atermància
 l'atermenà
 l'atermenament
@@ -138525,10 +137654,6 @@ l'aterro
 l'aterrossament
 l'atès
 l'atesa
-l'atesà
-l'atesat
-l'atesi
-l'atesis
 l'atesta
 l'atestació
 l'atestar
@@ -138554,7 +137679,6 @@ l'atiaria
 l'atiava
 l'atiàvem
 l'atiaven
-l'atib
 l'àtic
 l'àtica
 l'Àtica
@@ -138567,8 +137691,6 @@ l'atiés
 l'atiessin
 l'atieu
 l'atifell
-l'atigrada
-l'atigrat
 l'atiï
 l'atiïn
 l'Atilà
@@ -138598,7 +137720,6 @@ l'atipi
 l'atípia
 l'atípic
 l'atípica
-l'atipicitat
 l'atipin
 l'atipis
 l'atiplà
@@ -138949,9 +138070,6 @@ l'atribuït
 l'atribuïu
 l'atribuïx
 l'atribuïxen
-l'atribulada
-l'atribulat
-l'atribulava
 l'atribut
 l'atributiu
 l'atributiva
@@ -139163,7 +138281,6 @@ l'audibilitat
 l'audible
 l'audició
 l'audiència
-l'audífon
 l'audímetre
 l'audimetria
 l'àudio
@@ -139181,7 +138298,6 @@ l'audiòloga
 l'audiologia
 l'audiòmetre
 l'audiometria
-l'audiopròtesi
 l'audioprotetista
 l'audiotext
 l'audiovisual
@@ -139200,7 +138316,6 @@ l'auditor
 l'auditora
 l'auditori
 l'auditoria
-l'auditòrium
 l'Audivert
 l'Aue
 l'Auerbach
@@ -139385,8 +138500,6 @@ l'austericidi
 l'austeritat
 l'Austerlitz
 l'Austin
-l'austracisme
-l'austracista
 l'austral
 l'australià
 l'Austràlia
@@ -139508,7 +138621,6 @@ l'autoconcepte
 l'autoconducció
 l'autoconeixement
 l'autoconeixença
-l'autoconeiximent
 l'autoconfiança
 l'autoconfiguració
 l'autoconfinament
@@ -139542,7 +138654,6 @@ l'autocultiu
 l'autocura
 l'autodefensa
 l'autodefinició
-l'autodefinit
 l'autodenominada
 l'autodenominat
 l'autodenominen
@@ -139626,7 +138737,6 @@ l'autofecundació
 l'autofertilitat
 l'autoficció
 l'autofinançament
-l'autoflagel·lació
 l'autofòbia
 l'autofocus
 l'autofonia
@@ -139968,7 +139078,6 @@ l'avalessin
 l'avali
 l'avalin
 l'avalis
-l'avalista
 l'avall
 l'Avall
 l'avalo
@@ -140143,7 +139252,6 @@ l'avellutada
 l'avellutat
 l'avemaria
 l'avena
-l'avenar
 l'avenc
 l'avenç
 l'avença
@@ -140157,13 +139265,7 @@ l'avenguda
 l'avenir
 l'avenir-se
 l'avens
-l'avent
-l'aventador
-l'aventar-se
-l'aventi
-l'aventí
 l'Aventí
-l'aventin
 l'aventur
 l'aventura
 l'aventurada
@@ -140517,7 +139619,6 @@ l'Ayacucho
 l'Ayamonte
 l'Aydın
 l'Aylesbury
-l'ayn
 l'Ayr
 l'Ayre
 l'ayurveda
@@ -140576,9 +139677,7 @@ l'ebitda
 l'Ebla
 l'eblaïta
 l'Ebo
-l'ebola
 l'Ebola
-l'èbola
 l'Èboli
 l'ebonita
 l'e-book
@@ -140595,7 +139694,6 @@ l'ebullioscòpia
 l'ebullioscòpica
 l'eburni
 l'ebúrnia
-l'ebusitana
 l'ecartament
 l'Ecbàtana
 l'eccehomo
@@ -140659,7 +139757,6 @@ l'ecoencefalògraf
 l'ecoencefalograma
 l'ecoendoscòpia
 l'ecoestructura
-l'ecoetiqueta
 l'ecofeminisme
 l'ecofeminista
 l'ecofilosofia
@@ -140671,10 +139768,8 @@ l'ecogestió
 l'ecògraf
 l'ecografia
 l'ecogràfica
-l'ecografista
 l'ecograma
 l'ecoic
-l'ecoindústria
 l'ecolàlia
 l'ecòleg
 l'ecolocalització
@@ -140716,7 +139811,6 @@ l'ecosobiranista
 l'ecosocialisme
 l'ecosocialista
 l'ecosofia
-l'ecosonda
 l'ecotaxa
 l'ecotecnologia
 l'ecoteràpia
@@ -140874,7 +139968,6 @@ l'Edom
 l'edòmetre
 l'edometria
 l'edomita
-l'edra
 l'edredó
 l'edrera
 l'Edson
@@ -141071,7 +140164,6 @@ l'Egina
 l'egipci
 l'egipcià
 l'egípcia
-l'egipcíac
 l'egipciana
 l'Egipte
 l'egiptòleg
@@ -141133,7 +140225,6 @@ l'egotista
 l'egregi
 l'egrègia
 l'egua
-l'eguada
 l'eguassada
 l'eguasser
 l'eguassera
@@ -141240,7 +140331,6 @@ l'eixerma
 l'eixermada
 l'eixermat
 l'eixermataire
-l'eixeta
 l'eixia
 l'eixida
 l'eixidiu
@@ -141297,7 +140387,6 @@ l'eixugadora
 l'eixugall
 l'eixugamà
 l'eixugamans
-l'eixugament
 l'eixugaparabrisa
 l'eixugarà
 l'eixugaran
@@ -141385,7 +140474,6 @@ l'elaboro
 l'elació
 l'Eladi
 l'Elàdia
-l'elàfode
 l'Elam
 l'elamita
 l'elapé
@@ -141422,7 +140510,6 @@ l'Elea
 l'eleata
 l'eleàtic
 l'eleàtica
-l'eleatisme
 l'Eleatzar
 l'elecció
 l'electa
@@ -141455,7 +140542,6 @@ l'electritzava
 l'electritzaven
 l'electritzen
 l'electriu
-l'electro
 l'electró
 l'electroacupuntura
 l'electroacústic
@@ -141537,7 +140623,6 @@ l'electromotor
 l'electromusculació
 l'electronegatiu
 l'electronegativitat
-l'electroneurografia
 l'electrònic
 l'electrònica
 l'electronistagmografia
@@ -141622,7 +140707,6 @@ l'elenc
 l'Eleonor
 l'eleonorita
 l'eleosoma
-l'elepé
 l'elet
 l'eleusínia
 l'Eleusis
@@ -141635,7 +140719,6 @@ l'elevadíssim
 l'elevadíssima
 l'elevador
 l'elevadora
-l'elevament
 l'elevar
 l'elevara
 l'elevarà
@@ -141866,7 +140949,6 @@ l'eman
 l'emana
 l'emanació
 l'emanada
-l'emanador
 l'emanar
 l'emanat
 l'emanatisme
@@ -141975,14 +141057,11 @@ l'embalum
 l'embambament
 l'embanderada
 l'embanyada
-l'embanyés
 l'embaràs
 l'embarassa
 l'embarassà
 l'embarassada
 l'embarassadíssima
-l'embarassador
-l'embarassadora
 l'embarassàs
 l'embarassat
 l'embarassava
@@ -142018,7 +141097,6 @@ l'embardissava
 l'embarg
 l'embarga
 l'embargà
-l'embargabilitat
 l'embargament
 l'embargaran
 l'embargaria
@@ -142135,7 +141213,6 @@ l'embenatge
 l'embenava
 l'embenaven
 l'embene
-l'embeneitia
 l'embenen
 l'embenés
 l'embenessin
@@ -142224,7 +141301,6 @@ l'émbol
 l'èmbol
 l'embolà
 l'embolada
-l'embolador
 l'embolaran
 l'embolarem
 l'embolat
@@ -142315,7 +141391,6 @@ l'embone
 l'emboniqueixen
 l'emboqui
 l'embordeït
-l'embordeix
 l'embordoniren
 l'embornada
 l'embornal
@@ -143126,9 +142201,7 @@ l'empaperem
 l'empaperen
 l'empaperi
 l'empaperin
-l'empaperinat
 l'empapussada
-l'empapussament
 l'empapussaria
 l'empapussat
 l'empapussava
@@ -143157,7 +142230,6 @@ l'Empar
 l'empara
 l'emparà
 l'emparada
-l'emparador
 l'emparament
 l'emparamentar
 l'emparança
@@ -143354,7 +142426,6 @@ l'empegueïment
 l'empegueiria
 l'empegueït
 l'empegués
-l'empeguit
 l'empelt
 l'empelta
 l'empeltà
@@ -143689,8 +142760,6 @@ l'empolainat
 l'empolainava
 l'empolainen
 l'empolainessin
-l'empolat
-l'empoli
 l'Empoli
 l'empolistrat
 l'empolla
@@ -143815,11 +142884,6 @@ l'empostissaren
 l'empostissat
 l'empotam
 l'empotarem
-l'empotrà
-l'empotraria
-l'empotrava
-l'empotre
-l'empotrem
 l'empouada
 l'empr
 l'empra
@@ -144233,7 +143297,6 @@ l'encaixi
 l'encaixo
 l'encaixona
 l'encaixonada
-l'encaixonament
 l'encaixonaren
 l'encaixonar-lo
 l'encaixonat
@@ -144304,7 +143367,6 @@ l'encallen
 l'encalli
 l'encalma
 l'encalmada
-l'encalmament
 l'encalmar
 l'encalmat
 l'encalmava
@@ -144429,7 +143491,6 @@ l'encapotada
 l'encapotat
 l'encapritxà
 l'encapritxada
-l'encapritxament
 l'encapritxat
 l'encapsat
 l'encapsula
@@ -144535,7 +143596,6 @@ l'encarni
 l'encarnin
 l'encarno
 l'encaro
-l'encaró
 l'encarranquina
 l'encàrrec
 l'encarreg
@@ -145074,8 +144134,6 @@ l'encolarà
 l'encolat
 l'encolatge
 l'encoleria
-l'encoleritza
-l'encoleritzà
 l'encolis
 l'encolla
 l'encollat
@@ -145286,7 +144344,6 @@ l'encriptada
 l'encriptarà
 l'encriptarem
 l'encriptat
-l'encrostament
 l'encroste
 l'encrostissat
 l'encrueliment
@@ -145387,7 +144444,6 @@ l'endemiologia
 l'endemisme
 l'endenta
 l'endentà
-l'endenyament
 l'endenyen
 l'enderga
 l'enderia
@@ -145534,7 +144590,6 @@ l'endívia
 l'endivieta
 l'endobasidi
 l'endoblaren
-l'endoblegue
 l'endocannabinoide
 l'endocardi
 l'endocarditis
@@ -145568,7 +144623,6 @@ l'endògena
 l'endogrup
 l'endol
 l'endolada
-l'endolament
 l'endolat
 l'endolava
 l'endolceix
@@ -145951,7 +145005,6 @@ l'enfiladís
 l'enfiladissa
 l'enfilador
 l'enfilall
-l'enfilament
 l'enfilar
 l'enfilarà
 l'enfilaràs
@@ -146346,7 +145399,6 @@ l'enganx
 l'enganxa
 l'enganxà
 l'enganxada
-l'enganxadissa
 l'enganxador
 l'enganxadora
 l'enganxall
@@ -146474,7 +145526,6 @@ l'engarlandada
 l'engarlandava
 l'engarrota
 l'engarrotador
-l'engarrotament
 l'engarrotava
 l'engarrotaven
 l'engassat
@@ -146484,9 +145535,6 @@ l'engatara
 l'engatarem
 l'engaten
 l'engatjament
-l'engatussa
-l'engatussà
-l'engatussada
 l'engavany
 l'engavanya
 l'engavanyà
@@ -146617,7 +145665,6 @@ l'englotia
 l'englotís
 l'engola
 l'engolada
-l'engolament
 l'engolar-se
 l'engolat
 l'engoleix
@@ -146786,7 +145833,6 @@ l'engrillonen
 l'engrillonessin
 l'engrillonin
 l'engripat
-l'engroguiment
 l'engrons
 l'engronsa
 l'engronsà
@@ -146798,7 +145844,6 @@ l'engronsi
 l'engronxada
 l'engronxadora
 l'engrosseix
-l'engrossi
 l'engrossí
 l'engrossia
 l'engrossida
@@ -146831,7 +145876,6 @@ l'enguantada
 l'enguantat
 l'enguantava
 l'enguany
-l'enguata
 l'Énguera
 l'enguerí
 l'enguerximent
@@ -146839,7 +145883,6 @@ l'enguix
 l'Enguix
 l'enguixada
 l'enguixador
-l'enguixament
 l'enguixat
 l'enguixaven
 l'enguixen
@@ -146961,7 +146004,6 @@ l'enllaunament
 l'enllaunat
 l'enlleferne
 l'enllefisca
-l'enllençolat
 l'enllepoleixen
 l'enllepolia
 l'enllepolien
@@ -147148,7 +146190,6 @@ l'enorgulleixi
 l'enorgulleixin
 l'enorgullí
 l'enorgullia
-l'enorgullidor
 l'enorgullien
 l'enorgulliment
 l'enorgulliria
@@ -147474,7 +146515,6 @@ l'enrogien
 l'enrogim
 l'enrogiment
 l'enrogit
-l'enroglàvem
 l'enrojola
 l'enrojolà
 l'enrojolada
@@ -147502,7 +146542,6 @@ l'enronia
 l'enrònia
 l'enrosca
 l'enroscà
-l'enroscament
 l'enroscarem
 l'enroscar-se
 l'enroscat
@@ -147556,7 +146595,6 @@ l'enrunat
 l'ensabona
 l'ensabonà
 l'ensabonada
-l'ensabonament
 l'ensabonarà
 l'ensabonaràs
 l'ensabonaré
@@ -147578,7 +146616,6 @@ l'ensacà
 l'ensacada
 l'ensacador
 l'ensacadora
-l'ensacament
 l'ensacar
 l'ensacat
 l'ensacàvem
@@ -147591,7 +146628,6 @@ l'ensagnen
 l'ensagnés
 l'ensaïmada
 l'ensalada
-l'ensaladera
 l'ensaladilla
 l'ensaliv
 l'ensaliva
@@ -147723,8 +146759,6 @@ l'ensofrada
 l'ensofrador
 l'ensofrar
 l'ensofrat
-l'ensogà
-l'ensogat
 l'ensomni
 l'ensomnia
 l'ensonyada
@@ -147804,7 +146838,6 @@ l'ensotanat
 l'enstatita
 l'ensucrada
 l'ensucradíssim
-l'ensucrament
 l'ensucrarem
 l'ensucraries
 l'ensucrat
@@ -148058,7 +147091,6 @@ l'enteniment
 l'entenimentada
 l'entenimentat
 l'entens
-l'entente
 l'enter
 l'entera
 l'enteràlgia
@@ -148088,7 +147120,6 @@ l'enterca
 l'entercament
 l'enteresa
 l'enteritis
-l'enterobiosi
 l'enterocèlia
 l'enteròcit
 l'enterococ
@@ -148304,12 +147335,8 @@ l'entrada
 l'entradeta
 l'entrador
 l'entra-i-surt
-l'entrajat
-l'entrama
-l'entramar
 l'entramat
 l'entrament
-l'entrames
 l'entrampa
 l'entrampada
 l'entrampava
@@ -148577,7 +147604,6 @@ l'entretenen
 l'entretenguessin
 l'entretengui
 l'entretenia
-l'entretenidor
 l'entretenien
 l'entretenies
 l'entretenim
@@ -148613,7 +147639,6 @@ l'entretop
 l'entretopar-se
 l'entretopen
 l'entreu
-l'entreval
 l'entrevall
 l'Entrevalls
 l'entrevé
@@ -148931,7 +147956,6 @@ l'envela
 l'envelada
 l'envelador
 l'envelam
-l'envelament
 l'envelat
 l'envelleix
 l'envelleixen
@@ -149568,7 +148592,6 @@ l'equilibris
 l'equilibrisme
 l'equilibrista
 l'equilibro
-l'equilingüisme
 l'equimosi
 l'equina
 l'equinàcia
@@ -149704,14 +148727,12 @@ l'Erfurt
 l'erg
 l'ergastoplasma
 l'ergàstul
-l'ergàstula
 l'ergatiu
 l'ergativitat
 l'ergocalciferol
 l'ergocriptina
 l'ergocristina
 l'ergodicitat
-l'ergògraf
 l'ergolina
 l'ergòmetre
 l'ergometria
@@ -149784,7 +148805,6 @@ l'eritema
 l'eritrasma
 l'eritrea
 l'Eritrea
-l'eritrèmia
 l'eritreu
 l'eritrina
 l'eritrisme
@@ -150029,7 +149049,6 @@ l'esbargissin
 l'esbarjo
 l'esbarjós
 l'esbarjosa
-l'esbarrallada
 l'esbarria
 l'esbarrià
 l'esbarriada
@@ -150087,7 +149106,6 @@ l'Esbert
 l'esbiaix
 l'esbiaixa
 l'esbiaixada
-l'esbiaixament
 l'esbiaixat
 l'esbiaixen
 l'esbiaixi
@@ -150222,7 +149240,6 @@ l'esbossa
 l'esbossà
 l'esbossada
 l'esbossam
-l'esbossament
 l'esbossar
 l'esbossarà
 l'esbossarem
@@ -150393,7 +149410,6 @@ l'escabetxen
 l'escabetxessin
 l'escabetxina
 l'escabiosa
-l'escabiosi
 l'escabot
 l'escabotell
 l'escabrós
@@ -150431,7 +149447,6 @@ l'escaigut
 l'escaïment
 l'escainada
 l'escainar
-l'escaiol
 l'Escaiol
 l'escaiola
 l'Escaiola
@@ -150524,7 +149539,6 @@ l'escaléssim
 l'escalessin
 l'escalessis
 l'escaleta
-l'escaleter
 l'escalèxtric
 l'escalf
 l'escalfa
@@ -150734,7 +149748,6 @@ l'escanejau
 l'escanejava
 l'escanejaven
 l'escanejo
-l'escanell
 l'escàner
 l'Escània
 l'escansió
@@ -151191,7 +150204,6 @@ l'esclatarada
 l'esclatar-li
 l'esclata-sang
 l'esclatat
-l'esclaterada
 l'esclates
 l'esclatés
 l'esclató
@@ -151351,7 +150363,6 @@ l'escolleixen
 l'escolleixi
 l'escolleixin
 l'escolleixo
-l'escollera
 l'escolli
 l'escollí
 l'escollia
@@ -151517,7 +150528,6 @@ l'escometria
 l'escometrien
 l'escomets
 l'escon
-l'escondit
 l'esconillaven
 l'esconyaràs
 l'escopelisme
@@ -151734,7 +150744,6 @@ l'escotopia
 l'escotòpic
 l'escotòpica
 l'escotorida
-l'escotxec
 l'escotxegar
 l'escovilló
 l'escrache
@@ -152309,7 +151318,6 @@ l'esglesiada
 l'esglesieta
 l'esglesiola
 l'esgolador
-l'esgoladora
 l'esgota
 l'esgotà
 l'esgotada
@@ -152414,7 +151422,6 @@ l'esguardo
 l'esguell
 l'esgüell
 l'esgüellaven
-l'esguerda
 l'esguerra
 l'esguerrada
 l'esguerram
@@ -152546,7 +151553,6 @@ l'esme
 l'esmèctic
 l'esmèctica
 l'esmectita
-l'esmegma
 l'esmem
 l'esmen
 l'esmena
@@ -152612,7 +151618,6 @@ l'esmenti
 l'esmentin
 l'esmentis
 l'esmento
-l'esmeperduda
 l'Esmeraldas
 l'esmerç
 l'esmerça
@@ -152682,7 +151687,6 @@ l'esmoladíssim
 l'esmoladíssima
 l'esmolador
 l'esmoladora
-l'esmolaire
 l'esmolall
 l'esmolament
 l'esmolar
@@ -152957,7 +151961,6 @@ l'Esparc
 l'esparcet
 l'esparceta
 l'espardenya
-l'espardenyà
 l'espardenyada
 l'espardenyer
 l'espardenyera
@@ -153015,7 +152018,6 @@ l'esparta
 l'Esparta
 l'espartà
 l'Espàrtac
-l'espartal
 l'espartam
 l'espartana
 l'espartaquisme
@@ -153030,7 +152032,6 @@ l'esparteria
 l'Espartero
 l'espartí
 l'espartina
-l'espartosa
 l'Espartosa
 l'esparver
 l'esparvera
@@ -153150,8 +152151,6 @@ l'espavilés
 l'espavili
 l'espavilin
 l'espavilo
-l'espea
-l'espearan
 l'especejament
 l'especejarà
 l'especejarem
@@ -153258,7 +152257,6 @@ l'espèculum
 l'espedaçaven
 l'espedacen
 l'espedacés
-l'espei
 l'espeleobusseig
 l'espeleobussejador
 l'espeleòleg
@@ -153295,7 +152293,6 @@ l'espelma
 l'Espelt
 l'espelta
 l'Espelta
-l'espeltar
 l'espelunca
 l'espencat
 l'espenqueu
@@ -153571,7 +152568,6 @@ l'espifiïs
 l'espifio
 l'espiga
 l'espigada
-l'espigadora
 l'espigall
 l'espigat
 l'espignet
@@ -153601,14 +152597,12 @@ l'espiïn
 l'espill
 l'espilla
 l'espilleig
-l'espillet
 l'espín
 l'espina
 l'Espina
 l'espinac
 l'Espinac
 l'espinacal
-l'espinacard
 l'espinada
 l'espinadella
 l'espinagada
@@ -153630,12 +152624,10 @@ l'Espinavessa
 l'espina-xoca
 l'espine
 l'espinela
-l'espinella
 l'espinel·la
 l'espinen
 l'espines
 l'espinés
-l'espinescència
 l'Espinet
 l'espineta
 l'espingar
@@ -153686,7 +152678,6 @@ l'espirejaven
 l'espiri
 l'Espiridió
 l'espiril
-l'espirit
 l'espiritisme
 l'espiritista
 l'espiritrompa
@@ -153770,7 +152761,6 @@ l'esplendor
 l'esplendorós
 l'esplendorosa
 l'esplenèctasi
-l'esplenectomia
 l'espleni
 l'esplenial
 l'esplènica
@@ -153910,7 +152900,6 @@ l'esporgada
 l'esporgadissa
 l'esporgador
 l'esporgadora
-l'esporgadura
 l'esporgar
 l'esporgaran
 l'esporgaré
@@ -153925,12 +152914,10 @@ l'esporguessin
 l'esporidi
 l'esporlerí
 l'Esporles
-l'esporobolus
 l'esporocarp
 l'esporocist
 l'esporofil·le
 l'esporòfit
-l'esporogènesi
 l'esporont
 l'esporopol·lenina
 l'esporotricosi
@@ -154069,7 +153056,6 @@ l'esquamós
 l'esquartera
 l'esquarterà
 l'esquarterada
-l'esquarterador
 l'esquarterament
 l'esquarterarà
 l'esquarteraran
@@ -154196,7 +153182,6 @@ l'esquerrà
 l'Esquerrà
 l'esquerrana
 l'esquerranisme
-l'esquerranista
 l'esquerranós
 l'esquerranosa
 l'esquerrat
@@ -154207,7 +153192,6 @@ l'esquerrera
 l'esquerres
 l'esquerri
 l'esques
-l'esqueta
 l'esquetx
 l'esqueu
 l'esqui
@@ -154716,7 +153700,6 @@ l'estancat
 l'estancaven
 l'estància
 l'estand
-l'estandard
 l'estàndard
 l'estandarditza
 l'estandardització
@@ -154837,7 +153820,6 @@ l'estatina
 l'estatisme
 l'estatista
 l'estatització
-l'estatiu
 l'estatja
 l'estatjaven
 l'estatocist
@@ -154849,7 +153831,6 @@ l'estatoscopi
 l'estàtua
 l'estatuari
 l'estatuària
-l'estatúder
 l'estatuesc
 l'estatuesca
 l'estatueta
@@ -154865,7 +153846,6 @@ l'estatut
 l'estatutari
 l'estatutària
 l'estatutàriament
-l'estatxa
 l'Estatxa
 l'estau
 l'estaurolita
@@ -155024,7 +154004,6 @@ l'estereògraf
 l'estereografia
 l'estereogràfic
 l'estereogràfica
-l'estereograma
 l'estereoisòmer
 l'estereoisomeria
 l'estereolitografia
@@ -155208,7 +154187,6 @@ l'estilitzat
 l'estilitzava
 l'estilitzaven
 l'estilitzen
-l'estill
 l'estilnovista
 l'estilo
 l'estilobat
@@ -155519,7 +154497,6 @@ l'estomatognàtic
 l'estomatòleg
 l'estomatòloga
 l'estomatologia
-l'estómec
 l'estomodeu
 l'estona
 l'estonada
@@ -155533,10 +154510,8 @@ l'estopa
 l'Estopa
 l'estopada
 l'Estopanyà
-l'estopar
 l'estopeig
 l'estopeja
-l'estopi
 l'estopí
 l'Estopinyà
 l'estoquejà
@@ -155883,7 +154858,6 @@ l'estretejaven
 l'estretesa
 l'estretet
 l'estreteta
-l'estretiment
 l'estretíssim
 l'estretíssima
 l'estretor
@@ -156245,7 +155219,6 @@ l'eterització
 l'etern
 l'eterna
 l'eternal
-l'eternalisme
 l'eternament
 l'eternitat
 l'eternitza
@@ -156419,7 +155392,6 @@ l'etzibin
 l'etzibo
 l'eubacteri
 l'Eubea
-l'eucaliptar
 l'eucaliptol
 l'eucaliptus
 l'eucariont
@@ -156530,7 +155502,6 @@ l'eurocomunisme
 l'eurocomunista
 l'euroconnector
 l'Eurocopa
-l'eurocràcia
 l'euròcrata
 l'eurodiputada
 l'eurodiputat
@@ -156544,9 +155515,6 @@ l'euroexèrcit
 l'eurofan
 l'Eurofighter
 l'euròfil
-l'eurofília
-l'eurofuncionari
-l'eurofuncionària
 l'Eurogrup
 l'Eurolliga
 l'Euromed
@@ -156573,7 +155541,6 @@ l'eurosiberià
 l'eurosiberiana
 l'Eurostar
 l'Eurostat
-l'eurosúper
 l'Eurotúnel
 l'eurovinyeta
 l'Eurovisió
@@ -157070,7 +156037,6 @@ l'excepcionalíssima
 l'excepcionalitat
 l'excepcionalment
 l'exceptua
-l'exceptuació
 l'exceptuàs
 l'exceptuat
 l'exceptuava
@@ -157170,8 +156136,6 @@ l'excomunica
 l'excomunicà
 l'excomunicació
 l'excomunicada
-l'excomunicador
-l'excomunicadora
 l'excomunicara
 l'excomunicarà
 l'excomunicaran
@@ -157767,7 +156731,6 @@ l'exoneressin
 l'exoneri
 l'exonerin
 l'exònim
-l'exonímia
 l'exonucleasa
 l'exoperidi
 l'exoplaneta
@@ -157787,7 +156750,6 @@ l'exorcitzen
 l'exorcitzés
 l'exorcitzi
 l'exordi
-l'exores
 l'exornació
 l'exornaven
 l'exornen
@@ -157905,7 +156867,6 @@ l'expel·liren
 l'expel·lís
 l'expel·lit
 l'expèn
-l'expendició
 l'expenedor
 l'expenedora
 l'expenedoria
@@ -158063,7 +157024,6 @@ l'explicités
 l'expliciti
 l'explicitin
 l'explicito
-l'explicitud
 l'explico
 l'explique
 l'expliquem
@@ -158158,8 +157118,6 @@ l'explotis
 l'exploto
 l'expolític
 l'expolítica
-l'expon
-l'expondre
 l'exponencial
 l'exponent
 l'export
@@ -158244,8 +157202,6 @@ l'Expósito
 l'expositor
 l'expositora
 l'exposo
-l'expost
-l'exposta
 l'exprefecte
 l'ex-pres
 l'exprés
@@ -158606,21 +157562,6 @@ l'extradirien
 l'extradís
 l'extradissin
 l'extradit
-l'extradita
-l'extradità
-l'extraditar
-l'extraditarà
-l'extraditaran
-l'extraditarem
-l'extraditaria
-l'extraditarien
-l'extraditat
-l'extraditava
-l'extraditaven
-l'extraditen
-l'extradités
-l'extraditi
-l'extraditin
 l'extradiu
 l'extradós
 l'extradossat
@@ -158677,7 +157618,6 @@ l'extrasalarial
 l'extrasec
 l'extrasístole
 l'extrasistòlia
-l'extrasolar
 l'extraterrestre
 l'extraterritorial
 l'extraterritorialitat
@@ -158730,8 +157670,6 @@ l'extremal
 l'extremament
 l'extremar
 l'extremat
-l'extremaunciaran
-l'extremaunció
 l'extreme
 l'extremeny
 l'extremenya
@@ -158745,7 +157683,6 @@ l'extremitud
 l'extremo
 l'extremós
 l'extremosa
-l'extremositat
 l'Extrems
 l'extremuncia
 l'extremuncià
@@ -158902,7 +157839,6 @@ l'Hacendado
 l'Haddock
 l'hades
 l'hadit
-l'hadopelàgica
 l'hadró
 l'hadrònic
 l'hadrosaure
@@ -159005,7 +157941,6 @@ l'halogenació
 l'halogenur
 l'haloperidol
 l'haloragàcia
-l'halotà
 l'halter
 l'halteròfil
 l'halteròfila
@@ -159032,7 +157967,6 @@ l'hammam
 l'Hamman
 l'hampa
 l'hàmster
-l'hamza
 l'han
 l'Han
 l'hanbalita
@@ -159062,7 +157996,6 @@ l'hàptica
 l'hapticitat
 l'haptoglobina
 l'haptonema
-l'haptonomia
 l'harakiri
 l'hàram
 l'Harare
@@ -159200,12 +158133,9 @@ l'Hèctor
 l'Hècuba
 l'hedenbergita
 l'hedera
-l'hedònic
-l'hedònica
 l'hedonisme
 l'hedonista
 l'hedra
-l'hedrera
 l'Heerenveen
 l'Hefei
 l'Hefest
@@ -159230,7 +158160,6 @@ l'heli
 l'Heli
 l'heliàmfora
 l'heliantem
-l'heliasta
 l'helicasa
 l'hèlice
 l'helicicultor
@@ -159260,7 +158189,6 @@ l'Heliòpolis
 l'Hèlios
 l'helioscopi
 l'heliosfera
-l'heliosismologia
 l'heliòstat
 l'helioteràpia
 l'heliotípia
@@ -159317,7 +158245,6 @@ l'hematia
 l'hemàtica
 l'hematina
 l'hematites
-l'hematocele
 l'hematocolpos
 l'hematòcrit
 l'hematocromatosi
@@ -159389,7 +158316,6 @@ l'hemodiàlisi
 l'hemodialitzador
 l'hemodinàmica
 l'hemodinamòmetre
-l'hemodonació
 l'hemòfil
 l'hemofília
 l'hemofílica
@@ -159412,7 +158338,6 @@ l'hemorràgia
 l'hemorràgic
 l'hemorràgica
 l'hemorroide
-l'hemorroïssa
 l'hemosiderina
 l'hemosiderosi
 l'hemospèrmia
@@ -159437,7 +158362,6 @@ l'heparinització
 l'hepatectomia
 l'hepàtic
 l'hepàtica
-l'hepatític
 l'hepatitis
 l'hepatoblastoma
 l'hepatocarcinogènesi
@@ -159454,8 +158378,6 @@ l'hepatoscòpia
 l'hepatosplenomegàlia
 l'hepatotoxicitat
 l'heptà
-l'heptacampió
-l'heptacampiona
 l'heptaclor
 l'heptacord
 l'heptaedre
@@ -159619,7 +158541,6 @@ l'Hernani
 l'Herne
 l'hernia
 l'hèrnia
-l'herniació
 l'herniaria
 l'herniària
 l'herniat
@@ -159667,7 +158588,6 @@ l'hesperornitiforme
 l'hessià
 l'hessiana
 l'hessita
-l'hetaira
 l'hetera
 l'hetero
 l'heteroagressivitat
@@ -159676,7 +158596,6 @@ l'heteroauxina
 l'heteroavaluació
 l'heterocariosi
 l'heterocentrisme
-l'heterocicle
 l'heterocíclic
 l'heterocist
 l'heteròclit
@@ -159723,7 +158642,6 @@ l'heteropolisacàrid
 l'heteroproteïna
 l'heteròpter
 l'heteroscedasticitat
-l'heterosexisme
 l'heterosexual
 l'heterosexualitat
 l'heterosfera
@@ -159738,7 +158656,6 @@ l'heteròtrofa
 l'heterotròfia
 l'heterozigosi
 l'heterozigot
-l'heteu
 l'hettangià
 l'heu
 l'heuen
@@ -159785,7 +158702,6 @@ l'hexetidina
 l'hexilè
 l'hexobarbital
 l'hexosa
-l'hexosamina
 l'hibern
 l'hibernaran
 l'hibernat
@@ -159839,7 +158755,6 @@ l'hidrogensulfit
 l'hidrogensulfur
 l'hidrogeòleg
 l'hidrogeològic
-l'hidrògraf
 l'hidrogràfic
 l'hidrograma
 l'hidrolat
@@ -159850,7 +158765,6 @@ l'hidrolitzat
 l'hidrolitzen
 l'hidrolliscador
 l'hidrològic
-l'hidroma
 l'hidromassatge
 l'hidromel
 l'hidròmetre
@@ -159866,8 +158780,6 @@ l'hidropònic
 l'hidroport
 l'hidròpter
 l'hidrosàlpinx
-l'hidroscopi
-l'hidrotímetre
 l'hidrotrineu
 l'hidrourèter
 l'hídrox
@@ -159943,7 +158855,6 @@ l'hiperespai
 l'hiperestàtic
 l'hiperestrogenisme
 l'hiperflexible
-l'hiperfuncionament
 l'hipèric
 l'hiperinsulinisme
 l'Hiperió
@@ -159974,9 +158885,7 @@ l'hipertrofiat
 l'hipertròfic
 l'hipertrofiï
 l'hipertrucatge
-l'hiperventila
 l'hiperventilat
-l'hipervincle
 l'hipervisor
 l'hípetre
 l'hípic
@@ -159986,7 +158895,6 @@ l'hipnagògic
 l'hipnosedant
 l'hipnòtic
 l'hipnotisme
-l'hipnotista
 l'hipnotitza
 l'hipnotitzador
 l'hipnotitzant
@@ -160030,7 +158938,6 @@ l'hipogàstric
 l'hipogeu
 l'hipoglòs
 l'hipoglucemiant
-l'hipogonadisme
 l'hipogrif
 l'hipòleg
 l'hipolimni
@@ -160171,7 +159078,6 @@ l'holisme
 l'holístic
 l'holística
 l'holmi
-l'holobiont
 l'holocaust
 l'holocé
 l'holocè
@@ -160459,8 +159365,6 @@ l'hornblenda
 l'horografia
 l'horòpter
 l'horòscop
-l'horrend
-l'horrenda
 l'horribilitat
 l'horrible
 l'horriblement
@@ -160473,7 +159377,6 @@ l'horripilava
 l'horripilaven
 l'horríson
 l'horror
-l'horrorífic
 l'horroritza
 l'horroritzà
 l'horroritzada
@@ -160549,7 +159452,6 @@ l'hospitalocentrisme
 l'Hostafrancs
 l'hostal
 l'Hostal
-l'hostalatenc
 l'hostalatge
 l'hostaler
 l'hostalera
@@ -160586,7 +159488,6 @@ l'hòstia
 l'hostiada
 l'hostiaran
 l'hostiaré
-l'hostiari
 l'hostiaria
 l'hostiava
 l'hostiera
@@ -160603,7 +159504,6 @@ l'hostilitzaven
 l'hostilitzen
 l'hostio
 l'Hostoles
-l'hot-dog
 l'hotel
 l'hoteler
 l'hotelera
@@ -160627,14 +159527,8 @@ l'hule
 l'Hulk
 l'hulla
 l'humà
-l'human
-l'humana
 l'humanal
 l'humanament
-l'humanar
-l'humane
-l'humani
-l'humanis
 l'humanisme
 l'humaníssim
 l'humanista
@@ -160701,7 +159595,6 @@ l'humiliïn
 l'humiliïs
 l'humilio
 l'humilíssim
-l'humir
 l'humit
 l'humitegem
 l'humitegen
@@ -160721,7 +159614,6 @@ l'humitejo
 l'hummus
 l'humor
 l'humoral
-l'humoralisme
 l'humorisme
 l'humorista
 l'humorístic
@@ -160736,7 +159628,6 @@ l'hura
 l'huracà
 l'huracanat
 l'Huron
-l'huronià
 l'hurrita
 l'husky
 l'hússar
@@ -160745,7 +159636,6 @@ l'hussitisme
 l'hutu
 l'Huxley
 l'Huy
-l'ibadisme
 l'ibadita
 l'IBAN
 libant-me
@@ -160857,7 +159747,6 @@ l'icosidodecaedre
 l'icositetraedre
 l'icositetràedre
 l'ictèric
-l'ictiol
 l'ictiòleg
 l'ictiònim
 l'ictioplàncton
@@ -161050,7 +159939,6 @@ l'ignominiosíssim
 l'ignor
 l'ignora
 l'ignorà
-l'ignorador
 l'ignoram
 l'ignorant
 l'ignorantisme
@@ -161256,7 +160144,6 @@ l'imagín
 l'imagina
 l'imaginà
 l'imaginable
-l'imaginador
 l'imaginaire
 l'imaginam
 l'imaginar
@@ -161532,7 +160419,6 @@ l'immunitzés
 l'immunitzessin
 l'immunitzi
 l'immunoassaig
-l'immunocomplex
 l'immunogen
 l'immunòleg
 l'immunològic
@@ -161614,8 +160500,6 @@ l'impartix
 l'impàs
 l'impassable
 l'impassible
-l'impast
-l'impasto
 l'impàvid
 l'impecable
 l'impecablement
@@ -161711,7 +160595,6 @@ l'implant
 l'implanta
 l'implantà
 l'implantador
-l'implantament
 l'implantar
 l'implantarà
 l'implantarem
@@ -161792,7 +160675,6 @@ l'implorés
 l'imploro
 l'impluvi
 l'impol·lut
-l'impon
 l'imponderable
 l'imponderablement
 l'imponent
@@ -161846,7 +160728,6 @@ l'importunis
 l'importuno
 l'imposa
 l'imposà
-l'imposador
 l'imposant
 l'imposar
 l'imposarà
@@ -161930,7 +160811,6 @@ l'impregnés
 l'impregni
 l'impregnin
 l'impremta
-l'impreparat
 l'imprequessin
 l'imprés
 l'imprès
@@ -162006,7 +160886,6 @@ l'improperi
 l'impropi
 l'improrrogable
 l'improv
-l'improvable
 l'improvís
 l'improvisa
 l'improvisà
@@ -162161,7 +161040,6 @@ l'inaudible
 l'inaudit
 l'inaugura
 l'inaugurà
-l'inaugurador
 l'inaugural
 l'inaugurar
 l'inaugurarà
@@ -162511,11 +161389,6 @@ l'inconvencional
 l'inconvenient
 l'incopsable
 l'incordi
-l'incordiava
-l'incordiaven
-l'incordiem
-l'incordien
-l'incordio
 l'incorpora
 l'incorporà
 l'incorporal
@@ -162676,7 +161549,6 @@ l'inculpin
 l'inculquem
 l'inculquen
 l'inculqués
-l'incult
 l'inculte
 l'incumbeix
 l'incumbeixen
@@ -162703,7 +161575,6 @@ l'indeclinable
 l'indecorós
 l'indefallent
 l'indefectible
-l'indefendible
 l'indefens
 l'indefensable
 l'indefinible
@@ -162747,7 +161618,6 @@ l'independitzar-se
 l'independitzar-te
 l'independitzava
 l'independitzen
-l'inderrocable
 l'indescriptible
 l'InDesign
 l'indesitjable
@@ -162808,7 +161678,6 @@ l'indiciari
 l'indicible
 l'indico
 l'indie
-l'indiferencia
 l'indiferent
 l'indiferentisme
 l'indiferible
@@ -162971,7 +161840,6 @@ l'indultessin
 l'indulti
 l'indultin
 l'indument
-l'indumentarista
 l'Indus
 l'indusi
 l'industria
@@ -163031,7 +161899,6 @@ l'inexplicablement
 l'inexplorable
 l'inexplorat
 l'inexpressable
-l'inexpressat
 l'inexpressiu
 l'inexpugnable
 l'inextens
@@ -163138,7 +162005,6 @@ l'infixe
 l'infla
 l'inflà
 l'inflable
-l'inflacionisme
 l'inflador
 l'inflama
 l'inflamà
@@ -163284,7 +162150,6 @@ l'informi
 l'informin
 l'informis
 l'informo
-l'informulat
 l'infortunadíssim
 l'infortunat
 l'infortuni
@@ -163343,8 +162208,6 @@ l'infusionava
 l'infusionem
 l'infusori
 l'ingeni
-l'ingenie
-l'ingenio
 l'ingènit
 l'ingent
 l'ingenu
@@ -163594,7 +162457,6 @@ l'inoculaven
 l'inoculen
 l'inoculi
 l'inoculin
-l'inocultable
 l'inodor
 l'inofensiu
 l'inoïble
@@ -163637,7 +162499,6 @@ l'inquietin
 l'inquietis
 l'inquilí
 l'inquilinat
-l'inquilinisme
 l'inquireix
 l'inquireixen
 l'inquireixi
@@ -163707,7 +162568,6 @@ l'insectívor
 l'insegur
 l'inselberg
 l'insemina
-l'inseminador
 l'insensat
 l'insensibilitzà
 l'insensibilitzava
@@ -163843,11 +162703,9 @@ l'inspireu
 l'inspiri
 l'inspirin
 l'inspiro
-l'inspiròmetre
 l'inst
 l'insta
 l'instà
-l'instador
 l'Instagram
 l'instagramer
 l'instal
@@ -164278,7 +163136,6 @@ l'intercontinental
 l'intercostal
 l'intercreixement
 l'intercrural
-l'intercultiu
 l'intercultural
 l'interculturalisme
 l'interdental
@@ -164738,7 +163595,6 @@ l'intraoperatori
 l'intrapersonal
 l'intraprenedor
 l'intrapsíquic
-l'intravaginal
 l'intrèpid
 l'intricadíssim
 l'intricat
@@ -164757,7 +163613,6 @@ l'intrigués
 l'intrigui
 l'intrincadíssim
 l'intrincat
-l'intríngulis
 l'intrínsec
 l'intrínsecament
 l'intró
@@ -164808,7 +163663,6 @@ l'introspectiu
 l'introvertit
 l'intrús
 l'intrusisme
-l'intubador
 l'intubar
 l'intubem
 l'intuben
@@ -164821,7 +163675,6 @@ l'intueixo
 l'intuesc
 l'intuïa
 l'intuïcionisme
-l'intuïcionista
 l'intuíem
 l'intuïen
 l'intuïm
@@ -165351,7 +164204,6 @@ l'irriti
 l'irritin
 l'irrompible
 l'irrompre
-l'irruptor
 l'Irta
 l'IRTA
 l'Irtyš
@@ -165448,7 +164300,6 @@ l'isopropil
 l'isopropilbenzè
 l'isoproterenol
 l'isòsceles
-l'isosil·labisme
 l'isospín
 l'isotèrmic
 l'isotiocianat
@@ -165710,10 +164561,6 @@ llanci'ns
 llanci's
 llanguint-se
 llanguir-se
-llargar-los
-llargar-me
-llargar-se
-llarga't
 llassar-vos-en
 llastant-la
 llastant-li
@@ -166121,7 +164968,6 @@ llenci's
 llenegant-li
 llenegar-hi
 llengotejar-me
-llengüejant-lo
 llepa-ho
 llepa'l
 llepa-la
@@ -166996,7 +165842,6 @@ l'obducció
 l'Obduli
 l'Obdúlia
 l'obduració
-l'obedien
 l'obediència
 l'obedient
 l'obeeix
@@ -167445,7 +166290,6 @@ l'obsolet
 l'obsoleta
 l'obst
 l'obstacle
-l'obstaculista
 l'obstaculitza
 l'obstaculització
 l'obstaculitzador
@@ -167477,8 +166321,6 @@ l'obstrucció
 l'obstruccionisme
 l'obstruccionista
 l'obstructiva
-l'obstructor
-l'obstructora
 l'obstrueix
 l'obstrueixen
 l'obstrueixi
@@ -167752,7 +166594,6 @@ l'octàstil
 l'octau
 l'octava
 l'octavari
-l'octaveta
 l'Octavi
 l'octaví
 l'octavià
@@ -167760,7 +166601,6 @@ l'Octavià
 l'Octàvia
 l'octaviana
 l'Octaviana
-l'octavilla
 l'octet
 l'octinoxat
 l'octisalat
@@ -167832,7 +166672,6 @@ l'ocupadíssima
 l'ocupador
 l'ocupadora
 l'ocupam
-l'ocupament
 l'ocupant
 l'ocupar
 l'ocupara
@@ -167942,7 +166781,6 @@ l'odissea
 l'Odisseu
 l'Odó
 l'Odolí
-l'odòmetre
 l'odonat
 l'O'Donnell
 l'odontàlgia
@@ -168122,19 +166960,7 @@ l'oferix
 l'oferixen
 l'ofert
 l'oferta
-l'ofertada
-l'ofertar
-l'ofertarà
-l'ofertat
-l'ofertava
-l'ofertaven
-l'oferte
-l'ofertem
-l'oferten
 l'oferter
-l'ofertes
-l'ofertés
-l'oferti
 l'ofertor
 l'ofertori
 l'ofés
@@ -168143,7 +166969,6 @@ l'ofesa
 l'office
 l'off-line
 l'offline
-l'offside
 l'ofici
 l'oficia
 l'oficià
@@ -168563,7 +167388,6 @@ l'Olzinelles
 l'om
 l'Om
 l'oma
-l'omagua
 l'Omaha
 l'omalizumab
 l'Oman
@@ -168678,8 +167502,6 @@ l'omplí
 l'omplia
 l'òmplic
 l'omplida
-l'omplidor
-l'omplidora
 l'omplíem
 l'omplien
 l'omplies
@@ -168745,7 +167567,6 @@ l'oncologia
 l'oncològic
 l'oncològica
 l'oncopediatria
-l'oncoratolí
 l'oncosfera
 l'oncosi
 l'oncòtica
@@ -168854,7 +167675,6 @@ l'ontològica
 l'ontològicament
 l'ontologisme
 l'ONU
-l'onubense
 l'Onyar
 l'onze
 l'onzé
@@ -168992,8 +167812,6 @@ l'opistòdom
 l'opistografia
 l'opistorquiosi
 l'opistosoma
-l'opon
-l'oponen
 l'oponent
 l'opopònac
 l'oportú
@@ -169033,8 +167851,6 @@ l'opositor
 l'opositora
 l'oposo
 l'opòssum
-l'opost
-l'oposta
 l'opoteràpia
 l'Oppenheim
 l'Oppenheimer
@@ -169093,7 +167909,6 @@ l'òptimament
 l'optimat
 l'optimis
 l'optimisme
-l'optimist
 l'optimista
 l'optimitza
 l'optimitzà
@@ -169143,8 +167958,6 @@ l'Oral
 l'oralisme
 l'oralitat
 l'oram
-l'oranès
-l'oranesa
 l'Orange
 l'orangisme
 l'orangista
@@ -169195,7 +168008,6 @@ l'orbitin
 l'orbo
 l'orc
 l'orca
-l'orça
 l'Orcau
 l'orceïna
 l'orcina
@@ -169310,11 +168122,8 @@ l'Orenç
 l'oreneta
 l'orenga
 l'Orenga
-l'orengar
 l'orenol
 l'orenola
-l'orensà
-l'orensana
 l'orenyola
 l'oreopitec
 l'ores
@@ -169432,7 +168241,6 @@ l'orí
 l'Oriac
 l'Oriamendi
 l'Oriana
-l'oribí
 l'oricalc
 l'orictologia
 l'orient
@@ -169481,7 +168289,6 @@ l'oriento
 l'orifici
 l'oriflama
 l'origami
-l'orige
 l'origen
 l'origenisme
 l'origina
@@ -169728,7 +168535,6 @@ l'ortocentre
 l'ortòclasi
 l'ortocromàtica
 l'ortodòncia
-l'ortodoncista
 l'ortodontista
 l'ortodox
 l'ortodoxa
@@ -169823,7 +168629,6 @@ l'oscaritzable
 l'oscaritzada
 l'oscaritzat
 l'oscat
-l'oscense
 l'oscil
 l'oscil·lació
 l'oscil·lador
@@ -169893,7 +168698,6 @@ l'ossificació
 l'ossífrag
 l'ossó
 l'Ossó
-l'ossobuco
 l'ossosa
 l'ossuda
 l'ossut
@@ -169985,8 +168789,6 @@ l'ostrer
 l'ostrera
 l'ostreria
 l'òstria
-l'ostricultor
-l'ostricultura
 l'ostrogot
 l'O'Sullivan
 l'Osuna
@@ -170296,7 +169098,6 @@ l'ucàs
 l'ucat
 l'Ucayali
 l'UCE
-l'uci
 l'UCI
 l'Uckermark
 l'uco
@@ -170363,7 +169164,6 @@ l'Ulla
 l'ullà
 l'Ullà
 l'ullal
-l'ullalós
 l'ullar
 l'ullaren
 l'ullàs
@@ -170592,7 +169392,6 @@ l'unicolor
 l'unicorn
 l'Unicorn
 l'unicorne
-l'unidentat
 l'unidimensional
 l'unien
 l'unifamiliar
@@ -170893,14 +169692,12 @@ l'Usina
 l'usis
 l'uso
 l'Ussuri
-l'usta
 l'ústaixa
 l'ustekinumab
 l'Ustrell
 l'usual
 l'usualment
 l'usuari
-l'usufructe
 l'usufructua
 l'usufructuari
 l'usufructuaria
@@ -170990,7 +169787,6 @@ l'Utrera
 l'utricle
 l'Utsunomiya
 l'úvea
-l'uvi
 l'UVI
 l'úvula
 l'uvular
@@ -171210,7 +170006,6 @@ m'abordin
 m'aborrona
 m'aborronava
 m'aborrone
-m'abotonaves
 m'abraça
 m'abraçà
 m'abraçarà
@@ -171793,7 +170588,6 @@ m'acompanyí
 m'acompanyin
 m'acompanyis
 m'acompanyo
-m'acompassa
 m'acompleixo
 m'acomplexa
 m'acomplexaran
@@ -171810,9 +170604,6 @@ m'aconduïa
 m'aconduiràs
 m'aconduïren
 m'aconduís
-m'aconformaré
-m'aconformaria
-m'aconformo
 m'aconhort
 m'aconhorta
 m'aconhortà
@@ -172002,7 +170793,6 @@ m'acotxés
 m'acotxi
 m'acotxin
 m'acotxo
-m'acovarda
 m'acovardeix
 m'acovardeixen
 m'acovardeixi
@@ -172979,7 +171769,6 @@ m'agomboles
 m'agombolés
 m'agomboli
 m'agombolo
-m'agosaria
 m'agraciaria
 m'agraciés
 m'agraciïn
@@ -173044,10 +171833,6 @@ m'agraïssis
 m'agraïu
 m'agrana
 m'agranes
-m'agravia
-m'agravien
-m'agravies
-m'agraviïs
 m'agredeix
 m'agredeixen
 m'agredeixes
@@ -173976,8 +172761,6 @@ malpensar-me
 malpensar-ne
 malpensar-se
 malprendre'm
-malsentir-la
-maltar-lo
 m'alter
 m'altera
 m'alterà
@@ -174336,8 +173119,6 @@ m'amortalléssiu
 m'amortalleu
 m'amortallin
 m'amortia
-m'amostra
-m'amostres
 m'amotinés
 m'amplia
 m'ampliaran
@@ -175055,9 +173836,6 @@ mantingui-se'n
 mantín-la
 mantín-lo
 mantín-te
-m'antoixa
-m'antoixava
-m'antoixe
 m'antulla
 m'antullava
 m'antullen
@@ -175365,7 +174143,6 @@ m'apilotava
 m'apilotaven
 m'apinyaven
 mapi's
-m'apitge
 m'aplaca
 m'aplacaran
 m'aplacaràs
@@ -175523,8 +174300,6 @@ m'apreciïn
 m'apreciïs
 m'aprecio
 m'apregonava
-m'apremià
-m'apremiaven
 m'aprèn
 m'aprenc
 m'aprendré
@@ -176032,7 +174807,6 @@ m'armo
 marmolant-lo
 marmolant-los
 marmolar-nos
-marmoritzar-me
 m'arnava
 m'aroma
 m'aromes
@@ -176316,7 +175090,6 @@ m'arreplegués
 m'arreplegueu
 m'arreplegui
 m'arrepleguin
-m'arrepreta
 m'arresta
 m'arrestarà
 m'arrestaran
@@ -177293,13 +176066,8 @@ m'atemorirà
 m'atemoriran
 m'atemoriria
 m'atemorís
-m'atemperen
 m'atemptava
 m'atén
-m'atenalla
-m'atenallà
-m'atenallava
-m'atenallaven
 m'atenc
 m'atendrà
 m'atendran
@@ -177385,7 +176153,6 @@ m'aterriria
 m'aterrís
 m'aterrix
 m'aterro
-m'atès
 m'atesta
 m'atestes
 mateu-ho
@@ -177640,7 +176407,6 @@ m'atribuïssin
 m'atribuïu
 m'atribuïx
 m'atribuïxen
-m'atribula
 matriculant-les
 matriculant-lo
 matriculant-los
@@ -177753,7 +176519,6 @@ m'aturí
 m'aturin
 m'aturis
 m'aturo
-m'aturrulles
 matxuca-ho
 matxuca'l
 matxuca-les
@@ -177972,8 +176737,6 @@ m'avendria
 m'avengués
 m'avengui
 m'avenia
-m'aventà
-m'avento
 m'aventur
 m'aventura
 m'aventuraré
@@ -178191,23 +176954,7 @@ m'edificaven
 m'edifico
 m'edifiquen
 m'edifiquin
-medim-nos
-medint-los
-medint-ne
-medint-nos
-medint-se
 mediqueu-lo
-medir-ho
-medir-la
-medir-les
-medir-lo
-medir-los
-medir-me
-medir-ne
-medir-nos
-medir-se
-medir-te
-medir-vos
 m'edita
 m'edità
 medita-hi
@@ -178257,7 +177004,6 @@ mediti-hi
 mediti-ho
 m'editis
 m'edito
-mediu-li
 m'educa
 m'educà
 m'educaren
@@ -178574,7 +177320,6 @@ m'embeno
 m'embetumés
 m'embetumessin
 m'embevia
-m'embica
 m'emblanquia
 m'emblanquina
 m'emblanquinaran
@@ -179103,7 +177848,6 @@ m'empegueeixo
 m'empegueesc
 m'empegueí
 m'empegueïa
-m'empegueix
 m'empella
 m'empelta
 m'empeltaven
@@ -179291,9 +178035,6 @@ m'emportis
 m'emporto
 m'emposto
 m'empotinguis
-m'empotrà
-m'empotrava
-m'empotro
 m'empoua
 m'empra
 m'empraria
@@ -180591,7 +179332,6 @@ m'engatjaria
 m'engatjava
 m'engatjo
 m'engato
-m'engatussa
 m'engavanya
 m'engavanyarà
 m'engavanyava
@@ -181385,7 +180125,6 @@ m'ensinistro
 m'ensobro
 m'ensofrony
 m'ensofronyava
-m'ensolo
 m'ensomnio
 m'ensonyava
 m'ensopeg
@@ -181408,7 +180147,6 @@ m'ensopeixo
 m'ensopia
 m'ensopien
 m'ensopís
-m'ensordà
 m'ensordeix
 m'ensordeixen
 m'ensordeixi
@@ -182488,7 +181226,6 @@ m'erren
 m'errés
 m'erri
 m'erro
-m'eruga
 m'és
 mesant-me
 mesar-te
@@ -185533,8 +184270,6 @@ m'extradirà
 m'extradiran
 m'extradirien
 m'extradissin
-m'extraditen
-m'extraditin
 m'extradixen
 m'extragués
 m'extraguessin
@@ -185659,8 +184394,6 @@ m'hidratara
 m'hidratarà
 m'hidrataré
 m'hidrato
-m'hiperventilava
-m'hiperventilo
 m'hipnotitza
 m'hipnotitzà
 m'hipnotitzarà
@@ -186575,9 +185308,6 @@ m'incomunico
 m'incomuniquen
 m'incomuniqui
 m'incomuniquin
-m'incordia
-m'incordien
-m'incordii
 m'incorpor
 m'incorpora
 m'incorporà
@@ -188871,8 +187601,6 @@ m'omplissis
 m'ompliu
 m'omplo
 m'onda
-mondar-se
-monde's
 m'ondo
 m'ondula
 m'ondulava
@@ -189831,7 +188559,6 @@ m'ultratjaven
 m'ulule
 m'umpl
 m'umpli
-mundialitzar-la
 m'uneix
 m'uneixen
 m'uneixi
@@ -191538,7 +190265,6 @@ n'agraïm
 n'agrairia
 n'agrairien
 n'agrames
-n'agraviïs
 n'agredeix
 n'agredeixen
 n'agredia
@@ -193531,7 +192257,6 @@ n'ataqueu
 n'ataqui
 n'ataquin
 n'ataüllem
-n'atemperaven
 n'atén
 n'atendrà
 n'atendran
@@ -194770,7 +193495,6 @@ n'emportin
 n'emportín
 n'emporto
 n'empotarà
-n'empotra
 n'empr
 n'empra
 n'emprà
@@ -196043,7 +194767,6 @@ n'erren
 n'erres
 n'erri
 n'erro
-nerviar-nos
 n'és
 n'esbadellava
 n'esbajoca
@@ -196146,7 +194869,6 @@ n'esbuquin
 n'esca
 n'escaigué
 n'escaigui
-n'escaiola
 n'escala
 n'escalà
 n'escalarà
@@ -199007,7 +197729,6 @@ n'infringia
 n'infringim
 n'infringiran
 n'infringiria
-n'ingeniem
 n'ingereix
 n'ingereixen
 n'ingereixi
@@ -199534,12 +198255,6 @@ n'itera
 n'iteres
 nitrogenar-la
 niuar-hi
-nivellar-hi
-nivellar-ho
-nivellar-les
-nivellar-lo
-nivellar-los
-nivellar-se
 n'ix
 n'ixen
 n'ixes
@@ -199930,14 +198645,6 @@ n'oferíssiu
 n'oferiu
 n'oferix
 n'oferixen
-n'oferta
-n'ofertarà
-n'ofertaran
-n'ofertàrem
-n'ofertava
-n'oferten
-n'oferti
-n'ofertin
 n'oficialitza
 n'oficialitzà
 n'oficialitzi
@@ -200144,7 +198851,6 @@ n'opineu
 n'opini
 n'opinin
 n'opino
-n'opon
 n'oposa
 n'oposà
 n'oposarem
@@ -200707,8 +199413,6 @@ n'utilitzi
 n'utilitzin
 n'utilitzis
 n'utilitzo
-nuvolant-se
-nuvolar-se
 obcecar-me
 obcecar-nos
 obcecar-se
@@ -201863,20 +200567,6 @@ oferiu-nos
 oferiu-nos-en
 oferiu-vos
 oferiu-vos-hi
-ofertant-li
-ofertant-ne
-ofertant-se
-ofertar-ho
-ofertar-la
-ofertar-les
-ofertar-li
-ofertar-lo
-ofertar-los
-ofertar-me
-ofertar-ne
-ofertar-nos
-ofertar-se
-ofertar-vos
 oficialitza-la
 oficialitzant-ho
 oficialitzant-ne
@@ -202250,9 +200940,6 @@ opine-ho
 opinem-ne
 opineu-hi
 opineu-ne
-opondre's
-oponent-se
-opon-te
 oposa-hi
 oposa-li
 oposa'ls
@@ -203291,8 +201978,6 @@ parcel·lar-les
 parcel·lar-lo
 parcel·lar-los
 parcel·lar-se
-parcialitzar-lo
-parcialitzar-se
 paredar-la
 paredar-les
 paredar-lo
@@ -203988,24 +202673,6 @@ pateixin-lo
 pateixi's
 pateix-ne
 pateix-te
-patejant-la
-patejant-les
-patejant-li
-patejant-los
-patejant-me
-patejant-nos
-patejant-se
-patejar-ho
-patejar-la
-patejar-les
-patejar-li
-patejar-lo
-patejar-los
-patejar-me
-patejar-nos
-patejar-se
-patejar-te
-patejar-vos
 patenta'l
 patenta-la
 patentant-lo
@@ -204092,14 +202759,6 @@ patrullar-la
 patrullar-los
 pauperitzant-se
 pauperitzar-la
-pausant-se
-pausar-ho
-pausar-la
-pausar-les
-pausar-lo
-pausar-se
-pausar-te
-pausa't
 pautant-se
 pautar-ho
 pautar-la
@@ -204125,8 +202784,6 @@ pavimentar-se
 pavonant-se
 pecar-hi
 pecar-les
-pecegeu-lo
-pecejar-los
 pedalant-hi
 pedalant-ne
 pedalar-hi
@@ -207353,13 +206010,8 @@ ponent-los
 ponent-se
 ponent-vos
 poneu-vos
-pon-l'hi
-pon-ne
-pon-n'hi
 pontar-los
 pontar-se
-pontejant-lo
-pontejar-los
 pontificant-ho
 pontificar-hi
 pontificar-ne
@@ -208647,7 +207299,6 @@ pregonar-se
 pregonar-s'hi
 pregoneu-ho
 pregoneu-lo
-pregravar-se
 preguem-hi
 preguem-la
 preguem-li
@@ -209418,10 +208069,6 @@ prescrivint-los
 prescrivint-me
 prescrivint-ne
 prescrivint-se
-preseleccionant-lo
-preseleccionar-los
-preseleccionar-ne
-preseleccionar-se
 presencia'ls
 presenciant-ho
 presenciant-la
@@ -210954,8 +209601,6 @@ propinar-se
 propinar-te
 propinar-vos
 propineu-los
-propondre-li
-propondre's
 proporciona'l
 proporciona-les
 proporciona-l'hi
@@ -211568,9 +210213,6 @@ provi-la
 provi-les
 provi'm
 provi'n
-provincialitzar-lo
-provincialitzar-nos
-provincialitzar-se
 provin-ho
 provin-lo
 provi'ns
@@ -213700,13 +212342,6 @@ rebolquem-nos
 rebolqueu-vos
 rebordeir-se
 rebordonir-se
-rebossant-les
-rebossant-nos
-rebossar-ho
-rebossar-la
-rebossar-les
-rebossar-lo
-rebossar-se
 rebostejant-hi
 rebostejar-me
 rebotant-la
@@ -214047,12 +212682,6 @@ recarregar-s'ho
 recarregar-te
 recarregar-vos
 recarrega't
-recatalanitzant-se
-recatalanitzar-ho
-recatalanitzar-la
-recatalanitzar-lo
-recatalanitzar-los
-recatalanitzar-se
 recaure-hi
 recaure-li
 recaure'ls
@@ -216163,9 +214792,6 @@ reencarnar-nos
 reencarnar-se
 reencarnar-te
 reencarnar-vos
-reencontrar-me
-reencontrar-nos
-reencontrar-se
 reencunyar-la
 reenfocant-hi
 reenfocant-lo
@@ -218575,8 +217201,6 @@ remena't
 remenau-ho
 remenau-la
 remene-ho
-remenejant-los
-remenejar-les
 remenem-ho
 remenem-los
 remenem-ne
@@ -218738,8 +217362,6 @@ remollir-se
 remolquem-la
 remordir-la
 remordir-li
-remotivar-nos
-remotivar-te
 remou-ho
 remou-la
 remou-les
@@ -220123,10 +218745,6 @@ reposicionar-nos
 reposicionar-se
 reposicionar-te
 reposicionem-nos
-repostant-los
-repostar-hi
-repostar-lo
-repostar-ne
 repreguntant-los
 repreguntant-nos
 repreguntar-li
@@ -220242,7 +218860,6 @@ representeu-los
 representeu-vos
 representeu-vos-em
 representin-nos
-repretar-los
 reprimeixi'ls
 reprimeixi's
 reprimeix-lo
@@ -220549,7 +219166,6 @@ reressagar-se
 resa-la
 resa-li
 resa'ls
-resaludar-te
 resa'm
 resant-hi
 resant-la
@@ -222493,15 +221109,6 @@ retuitant-ne
 retuitar-ho
 retuitar-lo
 retuitar-los
-retuiteja'ns
-retuitejant-los
-retuitejant-nos
-retuitejar-ho
-retuitejar-la
-retuitejar-lo
-retuitejar-los
-retuitejar-nos
-retuitejar-se
 returant-se
 returar-los
 returar-me
@@ -223186,9 +221793,6 @@ revolucionar-vos
 revoluciona't
 revolucionem-ho
 revolucionem-nos
-rexupla'm
-riatxant-se
-riatxar-se
 ribotant-la
 ribotar-la
 ribotar-les
@@ -223642,9 +222246,6 @@ rosegueu-ne
 rose'n
 rose's
 rosi's
-rossar-los
-rossar-me
-rossar-te
 rossegeu-hi
 rossegeu-ho
 rossegeu-les
@@ -224222,9 +222823,6 @@ s'abolissen
 s'abolissin
 s'abolix
 s'abolixen
-s'abomba
-s'abombava
-s'abomben
 s'abomina
 s'abominen
 s'abomini
@@ -224310,8 +222908,6 @@ sabotejar-nos
 sabotejar-se
 sabotejar-te
 sabotejar-vos
-s'abotona
-s'abotonava
 s'abraça
 s'abraçà
 s'abraçarà
@@ -225015,14 +223611,6 @@ s'acomboiaven
 s'acomboie
 s'acomboien
 s'acomboiessin
-s'acomet
-s'acometé
-s'acometen
-s'acometera
-s'acometia
-s'acometien
-s'acometrà
-s'acometran
 s'acomiada
 s'acomiadà
 s'acomiadara
@@ -225079,15 +223667,6 @@ s'acompanyi
 s'acompanyin
 s'acompare
 s'acomparen
-s'acompassa
-s'acompassà
-s'acompassaren
-s'acompassava
-s'acompassaven
-s'acompasse
-s'acompassen
-s'acompassi
-s'acompassin
 s'acompleix
 s'acompleixen
 s'acompleixi
@@ -225132,14 +223711,6 @@ s'aconduïen
 s'aconduirà
 s'aconduiran
 s'aconduïren
-s'aconforma
-s'aconformà
-s'aconformarà
-s'aconformaria
-s'aconformava
-s'aconformaven
-s'aconformen
-s'aconformin
 s'aconhorta
 s'aconhortà
 s'aconhortarà
@@ -225341,15 +223912,11 @@ s'acotxaven
 s'acotxen
 s'acotxés
 s'acotxin
-s'acovarda
-s'acovardà
 s'acovardeix
 s'acovardeixen
 s'acovardeixi
 s'acovardeixin
-s'acovarden
 s'acovardesquen
-s'acovardi
 s'acovardí
 s'acovardia
 s'acovardien
@@ -225811,9 +224378,6 @@ s'adiïn
 s'adinera
 s'adinerava
 s'adineraven
-s'adinsa
-s'adinsà
-s'adinsen
 s'adirà
 s'adiran
 s'adiria
@@ -226613,7 +225177,6 @@ s'aforen
 s'aforesta
 s'aforesten
 s'aforesti
-s'aforri
 s'afrancesa
 s'afrancesà
 s'afrancesarà
@@ -226804,7 +225367,6 @@ s'agilitzés
 s'agilitzessin
 s'agilitzi
 s'agilitzin
-s'agimpona
 s'agita
 s'agità
 s'agitanava
@@ -226889,13 +225451,9 @@ s'agombolés
 s'agombolessin
 s'agomboli
 s'agombolin
-s'agonia
-s'agonià
 s'agonitza
 s'agonitzaren
 s'agonitzava
-s'agosaven
-s'agosen
 s'agosta
 s'agostava
 s'agostejaven
@@ -226943,10 +225501,6 @@ sagramentin-la
 s'agrana
 s'agranaran
 s'agranen
-s'agravia
-s'agravià
-s'agraviaria
-s'agravie
 s'agredeix
 s'agredeixen
 s'agredeixi
@@ -227097,7 +225651,6 @@ s'agullona
 s'agusa
 s'agusava
 s'aida
-s'aigua
 s'aiguabarregen
 s'aiguabarreja
 s'aiguabarrejaven
@@ -227219,8 +225772,6 @@ s'ajaguera
 s'ajagueren
 s'ajagués
 s'ajaguessin
-s'ajardinarà
-s'ajardinaran
 s'ajau
 s'ajauen
 s'ajaurà
@@ -227827,9 +226378,6 @@ s'al·ludisca
 s'al·ludissin
 s'al·ludix
 s'alluentà
-s'alluentia
-s'allumena
-s'allumenen
 s'alluna
 s'allunà
 s'allunarà
@@ -227857,11 +226405,9 @@ s'allunyin
 salmodiant-la
 salmodiar-los
 salmodiar-te
-s'almorzen
 salpar-hi
 salpar-li
 salpar-ne
-salpassar-ho
 salpebra-ho
 salpebra'l
 salpebra-la
@@ -228372,7 +226918,6 @@ s'amarren
 s'amarri
 s'amarrin
 s'amarriran
-s'amarronen
 s'amartella
 s'amartellava
 s'amassa
@@ -228520,7 +227065,6 @@ s'amonestarà
 s'amonestava
 s'amonestaven
 s'amore
-s'amorgona
 s'amoroseix
 s'amoroseixen
 s'amoroseixi
@@ -228579,8 +227123,6 @@ s'amortitzen
 s'amortitzés
 s'amortitzi
 s'amortitzin
-s'amostra
-s'amostraren
 s'amotina
 s'amotinà
 s'amotinarà
@@ -228594,8 +227136,6 @@ s'amotinés
 s'amotinessin
 s'amotini
 s'amotinin
-sampa'm
-sampant-se
 s'amplia
 s'amplià
 s'ampliara
@@ -229059,9 +227599,6 @@ santifiquem-nos
 santifiqueu-la
 santifiqueu-los
 santifiqueu-vos
-s'antoixa
-s'antoixaven
-s'antoixen
 s'antropomorfitza
 s'antulla
 s'antullava
@@ -229435,7 +227972,6 @@ s'apinyin
 s'apirrossa
 s'apirrossen
 s'apirrossessin
-s'apitona
 s'apitxa
 s'apitxava
 s'apitxe
@@ -229649,8 +228185,6 @@ s'apregonen
 s'aprehèn
 s'aprehendrien
 s'aprehenen
-s'apremia
-s'apremie
 s'aprén
 s'aprèn
 s'aprendrà
@@ -229908,8 +228442,6 @@ s'apurés
 s'apuressin
 s'apuri
 s'apurin
-s'aquarel·la
-s'aquarel·len
 s'aquartera
 s'aquarterà
 s'aquarteraren
@@ -230006,7 +228538,6 @@ s'arengava
 s'arenguen
 s'arengués
 s'arengui
-s'argamassa
 sargeix-l'hi
 sargeix-li-la
 sargeix-lo
@@ -230365,8 +228896,6 @@ s'arremangués
 s'arremanguessin
 s'arremangui
 s'arremanguin
-s'arremata
-s'arrematà
 s'arremet
 s'arremeteren
 s'arremeti
@@ -230391,7 +228920,6 @@ s'arremoraren
 s'arremorava
 s'arremoraven
 s'arremoren
-s'arremulla
 s'arrenca
 s'arrencà
 s'arrencarà
@@ -230599,7 +229127,6 @@ s'arrogaria
 s'arrogarien
 s'arrogava
 s'arrogaven
-s'arroglaven
 s'arrogue
 s'arroguen
 s'arrogués
@@ -231105,9 +229632,6 @@ s'assignés
 s'assignessin
 s'assigni
 s'assignin
-s'assilvestrarà
-s'assilvestraren
-s'assilvestren
 s'assimila
 s'assimilà
 s'assimilarà
@@ -231402,12 +229926,6 @@ s'atemoririen
 s'atemorís
 s'atemorisca
 s'atemorissin
-s'atempera
-s'atemperarà
-s'atemperava
-s'atemperen
-s'atemperés
-s'atemperi
 s'atempta
 s'atemptà
 s'atemptarà
@@ -231418,7 +229936,6 @@ s'atempte
 s'atemptés
 s'atempti
 s'atén
-s'atenallà
 s'atenda
 s'atendà
 s'atendaran
@@ -231495,7 +230012,6 @@ s'aterriran
 s'aterriren
 s'aterrossa
 s'aterrossava
-s'atesa
 s'atesta
 s'atesten
 s'atia
@@ -231735,8 +230251,6 @@ s'atribuïssen
 s'atribuïssin
 s'atribuïx
 s'atribuïxen
-s'atribula
-s'atribulin
 s'atrinxera
 s'atrinxerà
 s'atrinxerara
@@ -231762,7 +230276,6 @@ s'atrofiés
 s'atrofiessin
 s'atrofiï
 s'atrofiïn
-s'atronca
 s'atropella
 s'atropellà
 s'atropellarà
@@ -231826,7 +230339,6 @@ s'aturessin
 s'aturi
 s'aturin
 saturi's
-s'aturrullava
 s'aücaven
 s'audita
 s'auditarà
@@ -232357,11 +230869,6 @@ s'avengui
 s'avenguin
 s'avenia
 s'avenien
-s'aventa
-s'aventà
-s'aventava
-s'aventaven
-s'aventen
 s'aventura
 s'aventurà
 s'aventurara
@@ -232541,7 +231048,6 @@ s'avortés
 s'avortessin
 s'avorti
 s'avortin
-s'axamfranarà
 sebolleix-les
 sebollim-lo
 sebollim-nos-hi
@@ -233843,7 +232349,6 @@ s'embriagui
 s'embriaguin
 s'embrida
 s'embriden
-s'embrinaven
 s'embrolla
 s'embrollà
 s'embrollava
@@ -234013,7 +232518,6 @@ s'emmalaltissin
 s'emmalaltixen
 s'emmaleí
 s'emmaleïa
-s'emmalicia
 s'emmallaria
 s'emmallaven
 s'emmalli
@@ -234464,7 +232968,6 @@ s'empedreïen
 s'empedreiran
 s'empedreïren
 s'empedreiria
-s'empedreix
 s'empedren
 s'empedrin
 s'empega
@@ -234791,11 +233294,6 @@ s'empotaren
 s'empotaria
 s'empoten
 s'empotessin
-s'empotra
-s'empotrà
-s'empotrarà
-s'empotrava
-s'empotren
 s'empoua
 s'empouà
 s'empouava
@@ -235129,8 +233627,6 @@ s'encalmés
 s'encalmessin
 s'encalmi
 s'encalmin
-s'encamallen
-s'encamallessin
 s'encambra
 s'encambrà
 s'encamella
@@ -235680,11 +234176,6 @@ s'encoleria
 s'encolerien
 s'encoleriria
 s'encolerís
-s'encoleritza
-s'encoleritzà
-s'encoleritzaren
-s'encoleritzava
-s'encoleritzés
 s'encolin
 s'encolla
 s'encollaren
@@ -235777,10 +234268,6 @@ s'encorba
 s'encorbà
 s'encorbaran
 s'encorbaren
-s'encorbata
-s'encorbatava
-s'encorbataven
-s'encorbaten
 s'encorbava
 s'encorbaven
 s'encorben
@@ -236269,7 +234756,6 @@ s'enfereeix
 s'enfereixen
 s'enferesteixi
 s'enferestí
-s'enferregava
 s'enferritgen
 s'enferritgessin
 s'enferritja
@@ -236452,7 +234938,6 @@ s'enfosquiria
 s'enfosquís
 s'enfosquissin
 s'enfosquix
-s'enfrasca
 s'enfredava
 s'enfreden
 s'enfredés
@@ -236690,7 +235175,6 @@ s'engatja
 s'engatjaren
 s'engatjava
 s'engatjaven
-s'engatussa
 s'engavanya
 s'engavanyà
 s'engavanyava
@@ -236912,7 +235396,6 @@ s'engronxa
 s'engronxava
 s'engronxaven
 s'engronxen
-s'engrossa
 s'engrosseix
 s'engrosseixen
 s'engrosseixi
@@ -237434,7 +235917,6 @@ s'enreixaren
 s'enrella
 s'enrellenteixen
 s'enrellenteixi
-s'enrengleren
 s'enretira
 s'enretirà
 s'enretirarà
@@ -237533,7 +236015,6 @@ s'enrocarien
 s'enrocassin
 s'enrocava
 s'enrocaven
-s'enrodà
 s'enrodilla
 s'enrodillà
 s'enrodillen
@@ -237810,7 +236291,6 @@ s'ensopisca
 s'ensopissin
 s'ensordeix
 s'ensordeixen
-s'ensordi
 s'ensordien
 s'ensordiren
 s'ensordixen
@@ -238336,7 +236816,6 @@ s'entotsolen
 s'entotsolés
 s'entra
 s'entrà
-s'entramen
 s'entrampa
 s'entramparien
 s'entrampava
@@ -239747,7 +238226,6 @@ s'esbargissin
 s'esbargix
 s'esbarra
 s'esbarrà
-s'esbarrallaven
 s'esbarrava
 s'esbarraven
 s'esbarren
@@ -239841,9 +238319,7 @@ s'esblanqueïa
 s'esblanqueïen
 s'esblanqueirà
 s'esblanqueïren
-s'esblanqueix
 s'esblanqueïxen
-s'esblanquia
 s'esblena
 s'esblenava
 s'esboca
@@ -240157,9 +238633,7 @@ s'escalfés
 s'escalfessen
 s'escalfessin
 s'escalfi
-s'escalfí
 s'escalfin
-s'escalfissin
 s'escali
 s'escalin
 s'escaliva
@@ -240630,7 +239104,6 @@ s'escolleixen
 s'escolleixi
 s'escolleixin
 s'escollen
-s'escollera
 s'escolli
 s'escollí
 s'escollia
@@ -241353,10 +239826,6 @@ s'esllenegarà
 s'esllenegava
 s'esllenegaven
 s'eslleneguen
-s'esllissà
-s'esllissava
-s'esllissaven
-s'esllissés
 s'eslloma
 s'esllomà
 s'esllomarà
@@ -241704,8 +240173,6 @@ s'espavilés
 s'espavilessin
 s'espavili
 s'espavilin
-s'espea
-s'espeava
 s'especegen
 s'especegi
 s'especegin
@@ -241747,7 +240214,6 @@ s'especifiqués
 s'especifiquessin
 s'especifiqui
 s'especifiquin
-s'espectacularitza
 s'especula
 s'especulà
 s'especulara
@@ -241765,7 +240231,6 @@ s'espedaçà
 s'espedaçava
 s'espedacen
 s'espedregaven
-s'espee
 s'espella
 s'espellarà
 s'espellava
@@ -241994,7 +240459,6 @@ s'espolsés
 s'espolsessin
 s'espolsi
 s'espolsin
-s'espolteix
 s'espoltreix
 s'espoltreixen
 s'espoltria
@@ -242699,7 +241163,6 @@ s'estomacaven
 s'estomaquen
 s'estomaquessin
 s'estomaquin
-s'estopa
 s'estopeja
 s'estopejava
 s'estora
@@ -243884,14 +242347,6 @@ s'explotés
 s'explotessin
 s'exploti
 s'explotin
-s'expon
-s'expondrà
-s'expondran
-s'exponen
-s'expongué
-s'exponguin
-s'exponia
-s'exponien
 s'exporta
 s'exportà
 s'exportara
@@ -244095,10 +242550,6 @@ s'extradiran
 s'extradiria
 s'extradís
 s'extradissin
-s'extradita
-s'extraditarà
-s'extraditen
-s'extraditi
 s'extraga
 s'extragué
 s'extraguen
@@ -244358,7 +242809,6 @@ s'higienitzés
 s'higienitzi
 s'hipertrofia
 s'hipertrofien
-s'hiperventilen
 s'hipnotitza
 s'hipnotitzà
 s'hipnotitzava
@@ -244548,7 +242998,6 @@ s'humanitzessin
 s'humanitzi
 s'humanitzin
 s'humecta
-s'humia
 s'humidifica
 s'humidificarà
 s'humidifiquen
@@ -245236,11 +243685,6 @@ s'impliquin
 s'implora
 s'implorava
 s'imploren
-s'impon
-s'impondran
-s'imponen
-s'imponga
-s'impongueren
 s'importa
 s'importà
 s'importara
@@ -245325,13 +243769,10 @@ s'impressionen
 s'impressionés
 s'impressioni
 s'impressionin
-s'imprima
-s'imprime
 s'imprimeix
 s'imprimeixen
 s'imprimeixi
 s'imprimeixin
-s'imprimi
 s'imprimí
 s'imprimia
 s'imprimien
@@ -245908,8 +244349,6 @@ s'indicaven
 s'indicia
 s'indiciarà
 s'indicien
-s'indiferenciava
-s'indiferenciessin
 s'indigesta
 s'indigestarà
 s'indigestaran
@@ -246023,7 +244462,6 @@ s'infantilitzaven
 s'infantilitze
 s'infantilitzen
 s'infantilitzi
-s'infarta
 s'infatua
 s'infeccionen
 s'infecta
@@ -246048,7 +244486,6 @@ s'infereixi
 s'infereixin
 s'inferia
 s'inferien
-s'inferioritza
 s'inferira
 s'inferirà
 s'inferiran
@@ -246235,7 +244672,6 @@ s'infusionés
 s'infusionessin
 s'infusioni
 s'infusionin
-s'ingenia
 s'ingereix
 s'ingereixen
 s'ingereixi
@@ -246387,7 +244823,6 @@ s'injuriés
 s'injuriï
 s'innerva
 s'innerven
-s'inniva
 s'innova
 s'innovà
 s'innovarà
@@ -246980,8 +245415,6 @@ s'interpolaven
 s'interpolen
 s'interpolés
 s'interpoli
-s'interpon
-s'interpondrà
 s'interposa
 s'interposà
 s'interposara
@@ -248020,7 +246453,6 @@ sobrevenir-ne
 sobrevenir-nos
 sobrevenir-se
 sobrevenir-te
-sobrevireu-hi
 sobrevisquen-la
 sobrevisquen-lo
 sobreviure-hi
@@ -248328,13 +246760,6 @@ s'occiran
 s'occiren
 s'occitanitza
 s'occitanitzà
-sociabilitzant-nos
-sociabilitzant-se
-sociabilitzar-los
-sociabilitzar-me
-sociabilitzar-nos
-sociabilitzar-se
-sociabilitzar-te
 socialitza'l
 socialitza-la
 socialitzant-la
@@ -248518,20 +246943,6 @@ s'oferissen
 s'oferissin
 s'oferix
 s'oferixen
-s'oferta
-s'ofertarà
-s'ofertaran
-s'ofertaren
-s'ofertaria
-s'ofertarien
-s'ofertava
-s'ofertaven
-s'oferte
-s'oferten
-s'ofertés
-s'ofertessin
-s'oferti
-s'ofertin
 s'oficia
 s'oficià
 s'oficialitza
@@ -249254,15 +247665,6 @@ soplujar-se
 soplujar-s'hi
 soplujar-te
 sopluja't
-s'opon
-s'opondrà
-s'oponen
-s'oponga
-s'opongué
-s'oponguen
-s'oponguera
-s'opongueren
-s'oponien
 s'oposa
 s'oposà
 s'oposara
@@ -249556,7 +247958,6 @@ sorregant-se
 sorrejant-lo
 sorrejar-ne
 sorrejar-se
-sorribaldeu-les
 sortegem-la
 sorteja'n
 sortejant-lo
@@ -250099,7 +248500,6 @@ subdividir-ne
 subdividir-nos
 subdividir-se
 subduint-se
-suberifica't
 subespecialitzant-me
 subespecialitzar-se
 subestimant-la
@@ -251395,8 +249795,6 @@ suplir-nos
 suplir-se
 suplir-te
 suplir-vos
-supondre'n
-suponent-los
 suporta-ho
 suporta'ls
 suporta-me'n
@@ -253199,8 +251597,6 @@ t'agombolava
 t'agombolaven
 t'agombolen
 t'agomboli
-t'agonia
-t'agonies
 t'agost
 t'agostes
 t'agotzones
@@ -253323,7 +251719,6 @@ t'agusa
 t'agusarà
 t'aidaré
 t'aiden
-t'aigua
 t'aigualeix
 t'aigualeixen
 t'aigualeixes
@@ -254126,7 +252521,6 @@ t'amonesti
 t'amonestin
 t'amonesto
 t'amor
-t'amorgonis
 t'amoroseix
 t'amorosirà
 t'amorra
@@ -255986,10 +254380,7 @@ t'atemoreixen
 t'atemoreixes
 t'atemoria
 t'atemorien
-t'atempera
-t'atemperes
 t'atén
-t'atenalla
 t'atenc
 t'atendrà
 t'atendran
@@ -256405,8 +254796,6 @@ t'avantatgi
 t'avantatja
 t'avenies
 t'avens
-t'aventaré
-t'avente
 t'aventuraràs
 t'aventuraries
 t'aventuraves
@@ -256743,8 +255132,6 @@ telefonar-se
 telefonar-te
 telefonar-vos
 telefonau-nos
-telefoneja'm
-telefonejant-me
 telefone'm
 telefone'ns
 telefoneu-li
@@ -256942,7 +255329,6 @@ t'embenarà
 t'embenaran
 t'embenaré
 t'embenarem
-t'embeneiteixen
 t'embenem
 t'embenen
 t'embenes
@@ -257449,11 +255835,6 @@ t'emplaça
 t'emplacem
 t'emplacen
 t'emplaci
-templant-la
-templar-la
-templar-lo
-templar-los
-templar-se
 t'emplastra
 t'emplastri
 t'emplena
@@ -257464,7 +255845,6 @@ t'emplenava
 t'emplenen
 t'emplenes
 t'empleni
-temple's
 t'empobreix
 t'empobreixen
 t'empobreixes
@@ -257526,7 +255906,6 @@ t'emportin
 t'emportis
 t'emporto
 t'empotingues
-t'empotro
 t'empra
 temprar-les
 temprar-lo
@@ -257875,7 +256254,6 @@ t'encegaven
 t'encego
 t'encegue
 t'enceguen
-t'enceguera
 t'encegues
 t'encegués
 t'encegui
@@ -258465,7 +256843,6 @@ t'engarrotes
 t'engarrotin
 t'engata
 t'engatges
-t'engatussa
 t'engavanya
 t'engavanyaran
 t'engavanyava
@@ -261855,8 +260232,6 @@ t'extorsionés
 t'extradeixen
 t'extradeixin
 t'extradiran
-t'extraditen
-t'extraditin
 t'extraguem
 t'extralimites
 t'extralimitis
@@ -262454,7 +260829,6 @@ t'imprimeixis
 t'imprimeixo
 t'imprimien
 t'imprimim
-t'imprimin
 t'imprimirà
 t'imprimiran
 t'imprimirem
@@ -262564,8 +260938,6 @@ t'incomodo
 t'incomunica
 t'incomuniquen
 t'incomuniquin
-t'incordia
-t'incordiïn
 t'incorpora
 t'incorporaràs
 t'incorporaré
@@ -262726,7 +261098,6 @@ t'infantes
 t'infanti
 t'infantilitza
 t'infantilitzen
-t'infartes
 t'infecta
 t'infectarà
 t'infectaran
@@ -264245,7 +262616,6 @@ t'oferissis
 t'oferix
 t'oferixen
 t'oferixes
-t'ofertem
 toflar-se
 t'ofrena
 t'ofrenaré
@@ -264533,11 +262903,6 @@ t'operi
 t'operin
 t'operis
 t'opero
-topetant-se
-topetar-la
-topetar-me
-topetar-nos
-topetar-se
 t'opina
 t'oposa
 t'oposarà
@@ -266162,10 +264527,6 @@ transvestir-me
 transvestir-se
 transvestir-te
 tranuitant-hi
-trapitja'ns
-trapitjar-la
-trapitjar-ne
-trapitjar-vos
 trasbalsant-ho
 trasbalsant-la
 trasbalsant-lo
@@ -267505,7 +265866,6 @@ trotar-hi
 trotar-li
 trotar-ne
 trotar-se
-trotxant-li
 truca-hi
 truca'l
 truca-la
@@ -267617,17 +265977,6 @@ tufar-se
 tuita'ls
 tuita'n
 tuitar-ho
-tuitegem-lo
-tuiteja-ho
-tuiteja'l
-tuitejant-la
-tuitejant-li
-tuitejar-ho
-tuitejar-la
-tuitejar-les
-tuitejar-lo
-tuitejar-ne
-tuitejar-se
 t'ulla
 t'ullarà
 t'ullaven
@@ -268890,9 +267239,6 @@ vehicular-ne
 vehicular-nos
 vehicular-se
 vehicular-t'hi
-vehiculitzar-ho
-vehiculitzar-la
-vehiculitzar-se
 veient-hi
 veient-ho
 veient-la
@@ -270889,9 +269235,6 @@ xapau-lo
 xapeu-vos
 xapotejar-hi
 xapotejar-lo
-xapurrejar-la
-xapurrejar-lo
-xapurrejar-ne
 xarbota'ls
 xarbotant-la
 xarbotant-vos
@@ -271005,9 +269348,6 @@ xifrar-los
 xifrar-ne
 xifrar-nos
 xifrar-se
-xillant-me
-xillar-li
-xillar-te
 xina-la
 xinant-la
 xinxollant-ho
