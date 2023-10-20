@@ -1235,7 +1235,6 @@ acarar-se-li
 acarar-s'hi
 acarar-te
 acarar-vos
-acara's
 acara't
 acarcanyar-se
 acarem-nos
@@ -2587,7 +2586,6 @@ acostar-vos-el
 acostar-vos-els
 acostar-vos-en
 acostar-vos-hi
-acosta's
 acosta't
 acosta-te'l
 acosta-te-la
@@ -2902,7 +2900,6 @@ actuar-lo
 actuar-los
 actuar-ne
 actuar-se
-actua's
 actua-te'm
 actuem-hi
 actueu-hi
@@ -2917,7 +2914,6 @@ acubillant-se
 acubillar-se
 acubillar-s'hi
 acudeix-hi
-acudeix-se'n
 acudi-hi
 acudi'm
 acudim-ne
@@ -3169,7 +3165,6 @@ addicionar-li
 addicionar-lo
 addicionar-los
 addicionar-se
-addiciona's
 addicioneu-hi
 adduint-hi
 adduint-ho
@@ -3789,7 +3784,6 @@ adorar-se
 adorar-se'n
 adorar-te
 adorar-vos
-adora-se'n
 adorem-lo
 adorem-los
 adoreu-la
@@ -4075,7 +4069,6 @@ adverteix-la
 adverteix-li
 adverteix-lo
 adverteix-los
-adverteix-se
 advertesca's
 advertim-ho
 advertint-hi
@@ -4125,7 +4118,6 @@ advertiu-los
 advertiu-me'n
 advertiu-nos
 advertix-los
-advertix-se
 advocant-la
 advocant-ne
 advocar-hi
@@ -4408,7 +4400,6 @@ afegeix-ne
 afegeix-n'hi
 afegeix-nos
 afegeix-nos-hi
-afegeix-se
 afegeix-te
 afegeix-t'hi
 afegim-hi
@@ -4959,7 +4950,6 @@ afranquint-se
 afranquir-me
 afranquir-se
 africar-se
-africa's
 afronta-ho
 afronta'l
 afronta-la
@@ -5152,7 +5142,6 @@ agafar-vos
 agafar-vos-els
 agafar-vos-hi
 agafar-vos-ho
-agafa's
 agafa't
 agafa-te'l
 agafa-te-la
@@ -5330,7 +5319,6 @@ agenollar-s'hi
 agenollar-te
 agenollar-t'hi
 agenollar-vos
-agenolla's
 agenolla't
 agenolla-te'm
 agenolla-t'hi
@@ -6119,7 +6107,6 @@ aixafin-me
 aixa-la
 aixamfranar-lo
 aixar-se
-aixa's
 aixeca-hi
 aixeca-ho
 aixeca'l
@@ -6177,7 +6164,6 @@ aixecar-te
 aixecar-te-les
 aixecar-te'n
 aixecar-vos
-aixeca's
 aixeca't
 aixeca-te-les
 aixeca-te'n
@@ -6489,7 +6475,6 @@ ajuntar-te
 ajuntar-te-li
 ajuntar-t'hi
 ajuntar-vos
-ajunta's
 ajunta't
 ajunta-t'hi
 ajuntau-vos
@@ -6779,7 +6764,6 @@ alçar-se'ls
 alçar-se'n
 alçar-te
 alçar-vos
-alça's
 alça't
 alçau-vos
 alcem-la
@@ -6848,7 +6832,6 @@ alegrar-te-la
 alegrar-te'm
 alegrar-te'n
 alegrar-vos
-alegra's
 alegra't
 alegra-te'n
 alegrau-vos
@@ -6973,7 +6956,6 @@ aliar-s'hi
 aliar-te
 aliar-t'hi
 aliar-vos
-alia's
 alia't
 alia-te'n
 alia-t'hi
@@ -7831,7 +7813,6 @@ amagar-vos
 amagar-vos-en
 amagar-vos-ho
 amagar-vos-la
-amaga's
 amaga't
 amaga-te'l
 amaga-te-la
@@ -8135,7 +8116,6 @@ amartellar-lo
 amartellar-los
 amartellar-se
 amar-vos
-ama's
 amassa-ho
 amassa-la
 amassant-ho
@@ -8964,7 +8944,6 @@ aneu-vos-ens
 aneu-vos-hi
 aneu-vos-ho
 aneu-vos-la
-angelica's
 angelitza'm
 angoixa'm
 angoixant-la
@@ -9886,7 +9865,6 @@ aparellar-s'hi
 aparellar-te
 aparellar-t'hi
 aparellar-vos
-aparella's
 aparella't
 aparellau-vos
 aparelle's
@@ -10952,7 +10930,6 @@ aprofitar-te
 aprofitar-te'n
 aprofitar-vos
 aprofitar-vos-en
-aprofita-se'n
 aprofita't
 aprofita-te'l
 aprofita-te'n
@@ -11739,7 +11716,6 @@ arnar-la
 arnar-lo
 arnar-los
 arnar-se
-arna's
 arna't
 arne's
 arnie's
@@ -15110,7 +15086,6 @@ atribueixi'l
 atribueixi'ls
 atribueix-les
 atribueix-li
-atribueix-se
 atribuïm-ho
 atribuïm-li
 atribuïm-los
@@ -15911,7 +15886,6 @@ avarar-la
 avarar-les
 avarar-lo
 avarar-se
-avara-se'n
 avarem-hi
 avariant-se
 avariar-la
@@ -17067,7 +17041,6 @@ batiant-lo
 batiar-lo
 batiar-los
 batiar-se
-batia's
 batiau-los
 batie's
 bat-la
@@ -17098,7 +17071,6 @@ batzegant-lo
 batzegar-hi
 batzegar-li
 batzegar-lo
-bava's
 bavejant-hi
 bavejant-la
 bavejant-li
@@ -17552,7 +17524,6 @@ bisant-nos
 bisar-ho
 bisecant-lo
 bisecar-li
-bita's
 bitllar-la
 bitllar-li
 bitllar-se-la
@@ -17769,7 +17740,6 @@ boicotejar-se
 boicotejar-te
 boicoteja't
 boirar-se
-boira's
 boixa'm
 boixar-hi
 boixar-se
@@ -17962,7 +17932,6 @@ borri'l
 boscar-la
 boscar-les
 boscar-me
-bosca's
 bota-hi
 bota'l
 bota-li
@@ -18193,7 +18162,6 @@ brindi-li
 briva'l
 brive-la
 brocant-lo
-broca's
 broda-hi
 brodant-hi
 brodant-ho
@@ -18278,7 +18246,6 @@ brunzint-nos
 brunzint-te
 brunzir-li
 brunzir-me
-buba's
 bufa-hi
 bufa'l
 bufa-l'hi
@@ -18489,7 +18456,6 @@ burlar-te
 burlar-te'n
 burlar-vos
 burlar-vos-en
-burla-se'n
 burla't
 burla-te'n
 burlau-vos
@@ -18774,7 +18740,6 @@ caceu-nos
 caci-les
 cacin-los
 cacin-nos
-cadena's
 caducant-se'n
 caducar-li
 caducar-los
@@ -18892,7 +18857,6 @@ calar-se'ls
 calar-s'hi
 calar-te
 calar-vos
-cala's
 cala't
 calca-ho
 calca'l
@@ -19218,7 +19182,6 @@ caminar-ne
 caminar-nos
 caminar-se
 caminar-te
-camina's
 caminem-hi
 caminem-lo
 camine't
@@ -19449,7 +19412,6 @@ cantar-te-la
 cantar-t'ho
 cantar-vos
 cantar-vos-en
-canta's
 canta't
 canta-t'ho
 cantau-la
@@ -20375,7 +20337,6 @@ casar-te
 casar-t'hi
 casar-vos
 casar-vos-hi
-casa's
 casa't
 casa-t'hi
 casau-vos
@@ -20666,7 +20627,6 @@ causar-se
 causar-s'hi
 causar-te
 causar-vos
-cau-se
 cause'm
 causen-los
 cau-te
@@ -20724,7 +20684,6 @@ cavar-nos
 cavar-se
 cavar-se'l
 cavar-te
-cava's
 cave's
 caveu-hi
 caveu-me
@@ -20999,7 +20958,6 @@ centrar-s'hi
 centrar-te
 centrar-t'hi
 centrar-vos
-centra's
 centra't
 centrau-vos
 centre-la
@@ -21242,7 +21200,6 @@ cicatritzar-los
 cicatritzar-se
 ciclostilar-les
 cilindrar-les
-cima's
 cimentant-lo
 cimentant-los
 cimentant-ne
@@ -21434,7 +21391,6 @@ clamar-nos
 clamar-nos-les
 clamar-se
 clamar-te
-clama's
 clameu-vos
 clameu-vos-en
 clapant-se
@@ -21785,7 +21741,6 @@ cloroformitzar-lo
 cloroformitzar-nos
 cloroformitzar-te
 closcar-lo
-closca's
 clota-la
 clou-me
 cloure-hi
@@ -22344,7 +22299,6 @@ collar-se
 collar-se-la
 collar-te
 collar-te'l
-colla's
 col·lecciona-les
 col·lecciona'ls
 col·leccionant-les
@@ -22653,7 +22607,6 @@ colpejar-nos
 colpejar-se
 colpejar-te
 colpejar-vos
-colpeja's
 colpeja't
 colpint-la
 colpint-les
@@ -22726,7 +22679,6 @@ comandar-se
 comanditar-me
 comarcalitzar-lo
 comarcalitzar-los
-coma's
 combatem-ho
 combatem-la
 combatem-lo
@@ -23028,7 +22980,6 @@ comerciar-lo
 comerciar-los
 comerciar-ne
 comerciar-se
-comercia's
 comerciejar-li
 comerciejar-se
 come's
@@ -23800,7 +23751,6 @@ componeu-ne
 componguem-nos
 compongui-se-les
 compon-li
-compon-se
 compon-te
 compon-te-les
 comporta-ho
@@ -23950,7 +23900,6 @@ comprar-vos-el
 comprar-vos-els
 comprar-vos-en
 comprar-vos-la
-compra-se'l
 compra't
 compra-te'l
 compra-te-la
@@ -25139,11 +25088,6 @@ coneix-los
 coneix-me
 coneix-ne
 coneix-nos
-coneix-se
-coneix-se'l
-coneix-se'ls
-coneix-se'ns
-coneix-se't
 coneix-te
 confabulant-me
 confabulant-se
@@ -25679,7 +25623,6 @@ confonguem-los
 confongui's
 confon-lo
 confon-los
-confon-se
 confon-te
 conforma'ls-hi
 conformant-hi
@@ -26234,7 +26177,6 @@ conscienciar-se
 conscienciar-se'n
 conscienciar-te
 conscienciar-vos
-consciencia's
 consciencia't
 conscienciejant-me
 conscienciejant-nos
@@ -27923,7 +27865,6 @@ convenç-lo
 convenç-los
 convenç-me
 convenç-nos
-convenç-se'l
 convenç-te
 convenç-te'n
 convenint-li
@@ -27974,7 +27915,6 @@ converteix-lo
 converteix-los
 converteix-me
 converteix-nos
-converteix-se
 converteix-te
 convertim-ho
 convertim-la
@@ -28566,7 +28506,6 @@ coronar-se'n
 coronar-s'hi
 coronar-te
 coronar-vos
-corona's
 corona't
 coronem-la
 coronem-nos
@@ -28707,7 +28646,6 @@ córrer-se
 córrer-se-li
 córrer-te
 córrer-vos
-corre's
 correspondre-hi
 correspondre-ho
 correspondre'l
@@ -28938,7 +28876,6 @@ costar-se
 costar-te
 costar-te'n
 costar-vos
-costa's
 costejant-la
 costejant-lo
 costejant-los
@@ -29094,7 +29031,6 @@ crear-te'n
 crear-vos
 crear-vos-en
 crear-vos-hi
-crea's
 crea't
 creau-ne
 crebantant-li
@@ -29430,7 +29366,6 @@ creure-us
 creure-us-el
 creure-us-ho
 creure-us-les
-creu-se
 creu-te
 creu-te'l
 creu-te-la
@@ -29516,7 +29451,6 @@ cridar-se-li
 cridar-se'ls
 cridar-te
 cridar-vos
-crida's
 crida't
 cridau-nos
 cride'l
@@ -29847,7 +29781,6 @@ cuidar-t'ho
 cuidar-vos
 cuidar-vos-en
 cuidar-vos-les
-cuida's
 cuida't
 cuida-te-les
 cuida-te'n
@@ -30057,7 +29990,6 @@ culpar-se'n
 culpar-te
 culpar-te'n
 culpar-vos
-culpa's
 culpa't
 culpeu-ne
 culpin-ne
@@ -36928,7 +36860,6 @@ dallar-li
 dallar-lo
 dallar-los
 dallar-se
-dalla's
 d'allasses
 d'allau
 d'Allau
@@ -44370,7 +44301,6 @@ d'Arzano
 d'Arzignano
 d'Arziw
 d'as
-da's
 d'asafètida
 d'Asahikawa
 d'Asbert
@@ -48733,7 +48663,6 @@ dedicar-vos
 dedicar-vos-el
 dedicar-vos-hi
 dedicar-vos-la
-dedica-se-les
 dedica-s'hi
 dedica't
 dedica-t'hi
@@ -49116,7 +49045,6 @@ defensar-te
 defensar-te'n
 defensar-vos
 defensar-vos-en
-defensa-se'n
 defensa't
 defensa-te-la
 defensau-ho
@@ -50994,7 +50922,6 @@ demanar-vos-els
 demanar-vos-en
 demanar-vos-ho
 demanar-vos-la
-demana's
 demana-s'ho
 demana't
 demana-te-la
@@ -58356,7 +58283,6 @@ deportar-nos
 deportar-se
 deportar-te
 deportar-vos
-deporta's
 deposant-les
 deposant-lo
 deposant-se
@@ -60923,7 +60849,6 @@ descaragolar-les
 descaragolar-lo
 descaragolar-ne
 descaragolar-se
-descaragola's
 d'escaramussa
 d'escaramusses
 descarant-se
@@ -61700,7 +61625,6 @@ descobreix-los-en
 descobreix-me
 descobreix-ne
 descobreix-nos
-descobreix-se
 descobreix-te
 descobrim-hi
 descobrim-ho
@@ -62091,7 +62015,6 @@ descomponent-se'n
 descomponeu-lo
 descomponeu-ne
 descomponguem-la
-descompon-se
 descomprimeix-lo
 descomprimeix-los
 descomprimint-lo
@@ -62595,7 +62518,6 @@ d'escórrer-se
 descórrer-se
 d'escórrer-te
 d'escórrer-vos
-descorre's
 d'escorrialles
 d'escorriment
 d'escorrims
@@ -63679,7 +63601,6 @@ desencantar-se
 desencantar-se'n
 desencantar-s'hi
 desencantar-te
-desencanta's
 desencanta-te'n
 desencantem-nos
 desencantem-nos-en
@@ -65350,7 +65271,6 @@ designar-se
 designar-s'hi
 designar-te
 designar-vos
-designa's
 designem-lo
 designeu-vos
 desigualar-se
@@ -66450,7 +66370,6 @@ desniar-la
 desniar-nos
 desniar-se
 desniar-te
-desnia-se'n
 d'èsnid
 d'esnifades
 d'esnifar
@@ -68000,7 +67919,6 @@ desplomar-se'ns
 desplomar-s'hi
 d'esplomar-te
 desplomar-te
-desploma's
 desploma't
 d'esplomatgegat
 desplomeu-lo
@@ -77744,7 +77662,6 @@ diferenciar-te
 diferenciar-te'n
 diferenciar-vos
 diferenciar-vos-en
-diferencia's
 diferencia't
 diferenciem-nos
 diferencieu-los
@@ -85706,7 +85623,6 @@ distanciar-te
 distanciar-te'n
 distanciar-vos
 distanciar-vos-en
-distancia's
 distancia't
 distancia-te'n
 distancieu-vos
@@ -86337,7 +86253,6 @@ doblar-ne
 doblar-nos
 doblar-se
 doblar-te
-dobla's
 d'oblat
 d'oblata
 d'oblates
@@ -87796,7 +87711,6 @@ d'olotines
 d'olotins
 d'Olp
 d'olpes
-dol-se
 d'Olsztyn
 d'Olt
 d'Òlt
@@ -88250,7 +88164,6 @@ donar-vos-hi
 donar-vos-ho
 donar-vos-la
 donar-vos-les
-dona's
 dona't
 dóna't
 dóna-te'm
@@ -90197,7 +90110,6 @@ dropar-la
 d'u
 dualitzar-ho
 dualitzar-se
-duana's
 d'UB
 d'Ubach
 d'Ubald
@@ -94616,11 +94528,6 @@ emportar-vos-en
 emportar-vos-ho
 emportar-vos-la
 emportar-vos-les
-emporta's
-emporta-se'l
-emporta-se-la
-emporta-se'ls
-emporta-se'n
 emporta't
 emporta-te'l
 emporta-te-la
@@ -95016,7 +94923,6 @@ enamorar-te'n
 enamorar-t'hi
 enamorar-vos
 enamorar-vos-en
-enamora's
 enamora't
 enamorem-nos
 enamoren-se
@@ -95534,8 +95440,6 @@ encarar-s'hi
 encarar-te
 encarar-t'hi
 encarar-vos
-encara's
-encara-se'n
 encara't
 encara-t'hi
 encarcanyar-se
@@ -97085,7 +96989,6 @@ endurar-hi
 endurar-la
 endurar-lo
 endurar-se
-endura's
 endureix-te
 endure-se'ls
 endur-ho
@@ -98073,7 +97976,6 @@ enganyar-se
 enganyar-s'hi
 enganyar-te
 enganyar-vos
-enganya's
 enganya't
 enganye'm
 enganyem-los
@@ -100725,7 +100627,6 @@ entrar-te
 entrar-te'n
 entrar-t'hi
 entrar-vos
-entra-se'n
 entra't
 entra-te'n
 entrau-hi
@@ -102002,7 +101903,6 @@ enyorar-se'n
 enyorar-s'hi
 enyorar-te
 enyorar-vos
-enyora's
 enyora't
 enyoreu-vos
 epiloga'l
@@ -102168,7 +102068,6 @@ erigir-vos
 erigiu-vos
 erogar-se
 erolar-se
-erola's
 erosiona'l
 erosionant-la
 erosionant-les
@@ -104010,8 +103909,6 @@ escometre'ns
 escometre's
 escometre't
 escometre-us
-escomet-se
-escomet-se'm
 esconillant-se
 esconillar-me
 esconillar-se
@@ -104161,7 +104058,6 @@ escórrer-se'm
 escórrer-s'hi
 escórrer-te
 escórrer-te'm
-escorre's
 escorre-s'hi
 escorre't
 escorre-te'm
@@ -104274,7 +104170,6 @@ escridassar-nos
 escridassar-se
 escridassar-te
 escridassar-vos
-escridassa-se'n
 escridassa't
 escridasse'm
 escridassem-los
@@ -104950,7 +104845,6 @@ esgotar-se'ls
 esgotar-se'n
 esgotar-te
 esgotar-vos
-esgota-se'n
 esgotem-lo
 esgotem-nos
 esgoteu-vos
@@ -105041,7 +104935,6 @@ esguardar-se
 esguardar-te
 esguardar-te'ls
 esguardar-vos
-esguarda's
 esguarda't
 esguarda-te'ls
 esguardeu-la
@@ -105134,7 +105027,6 @@ esmar-me'ls
 esmarrant-se
 esmarrar-se
 esmar-se
-esma's
 esmena-ho
 esmena'l
 esmena-la
@@ -105507,7 +105399,6 @@ espanyar-la
 espanyar-la-hi
 espanyar-les
 espanyar-lo
-espanya's
 espanyolitzant-ho
 espanyolitzant-la
 espanyolitzant-les
@@ -105718,7 +105609,6 @@ especiar-les
 especiar-lo
 especiar-me
 especiar-se
-especia's
 especifica-ho
 especifica-la
 especifica'n
@@ -106517,7 +106407,6 @@ esquerra-les
 esquerranitzar-se
 esquerrar-los
 esquerrar-se
-esquerra's
 esquiant-hi
 esquiar-hi
 esquiar-ho
@@ -108064,7 +107953,6 @@ estreny-los
 estreny-me
 estreny-me-la
 estreny-me-les
-estreny-se
 estreny-te
 estressant-lo
 estressant-los
@@ -109866,7 +109754,6 @@ explicar-vos-en
 explicar-vos-ho
 explicar-vos-la
 explicar-vos-les
-explica's
 explica-s'hi
 explica't
 explica-t'ho
@@ -111007,7 +110894,6 @@ fallar-nos
 fallar-se
 fallar-te
 fallar-vos
-falla's
 fallint-li
 fallint-me
 fallint-vos
@@ -111463,7 +111349,6 @@ fen-los-hi
 fen-me
 fen-ne
 fen-nos
-fen-se
 fen-te
 fen-te'l
 fent-hi
@@ -111689,7 +111574,6 @@ ferrar-li
 ferrar-lo
 ferrar-los
 ferrar-se
-ferra's
 ferratjant-se
 ferrejar-lo
 ferreu-me
@@ -111765,8 +111649,6 @@ fes-nos-en
 fes-nos-ho
 fes-nos-la
 fes-nos-les
-fes-se
-fes-se'm
 fes-te
 festegem-ho
 festegem-la
@@ -111894,7 +111776,6 @@ fiar-te
 fiar-te'n
 fiar-vos
 fiar-vos-en
-fia's
 fia't
 fia-te'n
 fiau-vos
@@ -112032,7 +111913,6 @@ ficar-vos
 ficar-vos-el
 ficar-vos-hi
 ficar-vos-la
-fica-se'n
 fica't
 fica-te'l
 fica-te-la
@@ -112294,7 +112174,6 @@ finance's
 financi-hi
 finar-nos
 finar-se
-fina's
 fine's
 finestrejar-hi
 fingint-ho
@@ -112603,7 +112482,6 @@ fixar-te
 fixar-t'hi
 fixar-vos
 fixar-vos-hi
-fixa's
 fixa't
 fixa-t'hi
 fixa-t'ho
@@ -113129,7 +113007,6 @@ fon-li
 fon-los
 fon-me
 fon-ne
-fon-se
 fon-te
 fon-te'm
 fonyant-ho
@@ -113381,7 +113258,6 @@ formar-te'n
 formar-vos
 formar-vos-en
 formar-vos-hi
-forma's
 forma't
 formatant-lo
 formatant-los
@@ -114503,7 +114379,6 @@ fundin-se
 funyin-lo
 funyir-la
 furar-nos-ho
-fura's
 furejar-ho
 furetejant-ho
 furetejar-ho
@@ -115071,7 +114946,6 @@ generar-se'n
 generar-s'hi
 generar-te
 generar-vos
-genera's
 genera't
 generau-lo
 generem-la
@@ -115264,7 +115138,6 @@ girar-s'hi
 girar-te
 girar-t'hi
 girar-vos
-gira's
 gira't
 gira-t'hi
 girau-les
@@ -115324,7 +115197,6 @@ gitar-se
 gitar-s'hi
 gitar-te
 gitar-vos
-gita's
 gita't
 gitau-vos
 gitem-lo
@@ -115402,7 +115274,6 @@ gloriar-te
 gloriar-te'n
 gloriar-vos
 gloriar-vos-en
-gloria's
 gloriejant-se
 gloriejant-te
 gloriejar-me
@@ -115460,7 +115331,6 @@ glossar-ne
 glossar-nos
 glossar-se
 glotalitzant-les
-godina's
 gojant-se
 gojar-la
 gojar-lo
@@ -115550,7 +115420,6 @@ governem-los
 governem-nos
 governeu-los
 governeu-nos
-gracia's
 gracie's
 gradua-la
 gradua-les
@@ -115708,7 +115577,6 @@ gratar-te
 gratar-te-la
 gratar-te'ls
 gratar-vos
-grata's
 grata't
 grate't
 grateu-hi
@@ -115821,7 +115689,6 @@ gravar-te'l
 gravar-te'n
 gravar-t'ho
 gravar-vos
-grava's
 grava't
 grava-te'l
 grava-te-les
@@ -115916,7 +115783,6 @@ gronxar-s'hi
 gronxar-te
 gronxar-t'hi
 gronxar-vos
-gronxa's
 gronxa't
 gronxem-nos-hi
 gronxi-s'hi
@@ -115926,7 +115792,6 @@ gronxolar-se
 gruar-la
 gruar-lo
 gruar-se-la
-grua's
 grufant-hi
 grufar-hi
 grufar-se
@@ -116230,8 +116095,6 @@ guardar-vos-el
 guardar-vos-els
 guardar-vos-ho
 guardar-vos-la
-guarda's
-guarda-se'l
 guarda't
 guarda-te'l
 guarda-te-la
@@ -116867,8 +116730,6 @@ heure's
 heure-se-les
 heure't
 heure-te-les
-heu-se
-heu-se'l
 heu-s'ho
 heu-vos
 heu-vos-el
@@ -117376,7 +117237,6 @@ idear-ne
 idear-nos
 idear-se
 idear-se'n
-idea's
 idea't
 idee's
 identifica-hi
@@ -117535,7 +117395,6 @@ igualar-nos
 igualar-se
 igualar-s'hi
 igualar-te
-iguala's
 iguala't
 igualem-los
 igualem-nos
@@ -120475,7 +120334,6 @@ inscriure't
 inscriure-t'hi
 inscriure-us
 inscriure-us-hi
-inscriu-se
 inscriu-te
 inscriu-t'hi
 inscriu-vos
@@ -122366,7 +122224,6 @@ ira'm
 irant-li
 irar-lo
 irar-se
-ira's
 irèixer-se
 ire's
 ireu-nos
@@ -131182,7 +131039,6 @@ lamentar-te
 lamentar-te'n
 lamentar-vos
 lamentar-vos-en
-lamenta's
 lamenta't
 lamentem-ho
 lamentem-nos
@@ -161129,7 +160985,6 @@ lidiar-la
 lidiar-lo
 lidiar-los
 lidiar-se
-lidia's
 l'idiazabal
 l'idil·li
 l'idíl·lic
@@ -165512,7 +165367,6 @@ l'isard
 lisar-les
 lisar-se
 l'Isart
-lisa's
 l'isauri
 l'isàuric
 l'Isàvena
@@ -166175,7 +166029,6 @@ lleixen-la
 lleixeu-me
 lleixeu-m'hi
 lleixi't
-llemena's
 llença-hi
 llença-ho
 llença'l
@@ -166235,7 +166088,6 @@ llençar-te
 llençar-te-les
 llençar-t'hi
 llençar-vos
-llença's
 llença't
 llença-t'hi
 llencem-hi
@@ -166501,7 +166353,6 @@ llevar-te'n
 llevar-t'ho
 llevar-vos
 llevar-vos-els
-lleva's
 lleva't
 lleva-te'l
 lleva-te-la
@@ -166663,7 +166514,6 @@ llig-les
 llig-lo
 llig-los
 llig-me
-llig-se
 llig-te
 llig-te'ls
 lligue'ls
@@ -171637,7 +171487,6 @@ m'acaronis
 m'acarono
 macar-se
 m'acartonava
-maca's
 m'acat
 maca't
 m'acata
@@ -171927,12 +171776,10 @@ m'acompanyàs
 m'acompanyasses
 m'acompanyassin
 m'acompanyava
-m'acompanyàvem
 m'acompanyaven
 m'acompanyaves
 m'acompanyàveu
 m'acompanye
-m'acompanyem
 m'acompanyen
 m'acompanyes
 m'acompanyés
@@ -173016,7 +172863,6 @@ m'agafaven
 m'agafaves
 m'agafàveu
 m'agafe
-m'agafem
 m'agafen
 m'agafes
 m'agafés
@@ -173140,7 +172986,6 @@ m'agraciïn
 m'agrad
 m'agrada
 m'agradà
-m'agradam
 m'agradara
 m'agradarà
 m'agradaran
@@ -173160,7 +173005,6 @@ m'agradaven
 m'agradaves
 m'agradàveu
 m'agrade
-m'agradem
 m'agraden
 m'agrades
 m'agradés
@@ -173443,7 +173287,6 @@ m'ajeus
 m'ajoco
 m'ajoque
 m'ajoquí
-majora's
 m'ajornen
 m'ajorneu
 m'ajorni
@@ -173474,7 +173317,6 @@ m'ajudaven
 m'ajudaves
 m'ajudàveu
 m'ajude
-m'ajudem
 m'ajuden
 m'ajudes
 m'ajudés
@@ -174360,7 +174202,6 @@ mamar-te-la
 mamar-te-les
 m'amartellava
 mamar-te'ls
-mama's
 m'amassava
 mama't
 m'amava
@@ -174607,7 +174448,6 @@ manau-me
 manau-m'ho
 mana-us-ho
 m'anava
-m'anàvem
 m'anaven
 m'anaves
 m'anàveu
@@ -174637,7 +174477,6 @@ mancar-se
 mancar-se'n
 mancar-te
 mancar-vos
-manca's
 mancomunant-la
 mancomunant-los
 mancomunant-se
@@ -174744,7 +174583,6 @@ mangar-los
 mangar-me
 mangar-ne
 mangar-nos
-manga's
 m'angoixa
 m'angoixà
 m'angoixaré
@@ -174879,7 +174717,6 @@ m'animaven
 m'animaves
 m'animàveu
 m'anime
-m'animem
 m'animen
 m'animes
 m'animés
@@ -175691,7 +175528,6 @@ m'apremiaven
 m'aprèn
 m'aprenc
 m'aprendré
-m'aprendrem
 m'aprendria
 m'aprenga
 m'aprengués
@@ -176026,7 +175862,6 @@ marcar-te
 marcar-te'n
 marcar-vos
 marcar-vos-en
-marca's
 marca't
 marca-te'ls
 marca-te'n
@@ -176081,7 +175916,6 @@ marfondre't
 marfonent-me
 marfonent-se
 marfonent-te
-marga's
 margina-la
 marginalitzant-la
 marginalitzar-la
@@ -176175,7 +176009,6 @@ marinar-lo
 marinar-los
 marinar-se
 marinar-s'hi
-marina's
 marineu-ho
 marineu-la
 marineu-les
@@ -176515,7 +176348,6 @@ m'arribarà
 m'arribaran
 m'arribaràs
 m'arribaré
-m'arribarem
 m'arribaren
 m'arribareu
 m'arribaria
@@ -176525,7 +176357,6 @@ m'arribàs
 m'arribassen
 m'arribassin
 m'arribava
-m'arribàvem
 m'arribaven
 m'arribaves
 m'arribe
@@ -176533,7 +176364,6 @@ m'arriben
 m'arribes
 m'arribés
 m'arribessen
-m'arribéssim
 m'arribessin
 m'arribessis
 m'arribéssiu
@@ -177436,7 +177266,6 @@ m'atarterava
 matar-t'hi
 matar-vos
 matar-vos-hi
-mata's
 mata't
 matau-la
 matau-lo
@@ -177841,7 +177670,6 @@ matricular-te
 matricular-t'hi
 matricular-vos
 matricular-vos-hi
-matricula's
 matricula't
 matricula-t'hi
 matriculau-vos
@@ -177981,7 +177809,6 @@ m'augurés
 m'augurin
 m'auguro
 m'aüixà
-maula's
 maurant-la
 maurar-la
 maurar-li
@@ -178119,7 +177946,6 @@ m'avançarien
 m'avançava
 m'avançaven
 m'avance
-m'avancem
 m'avancen
 m'avances
 m'avancés
@@ -178230,7 +178056,6 @@ m'avisaven
 m'avisaves
 m'avisàveu
 m'avise
-m'avisem
 m'avisen
 m'avises
 m'avisés
@@ -179629,7 +179454,6 @@ menar-te
 menar-te'n
 m'enartes
 menar-vos
-mena's
 m'enastessin
 m'enasteu
 mena't
@@ -179757,7 +179581,6 @@ m'encantava
 m'encantaven
 m'encantaves
 m'encante
-m'encantem
 m'encanten
 m'encantes
 m'encantés
@@ -180705,7 +180528,6 @@ m'enganxo
 m'engany
 m'enganya
 m'enganyà
-m'enganyam
 m'enganyara
 m'enganyarà
 m'enganyaran
@@ -181104,7 +180926,6 @@ menjar-vos-en
 menjar-vos-ho
 menjar-vos-la
 menjar-vos-les
-menja's
 menja't
 menja-te'l
 menja-te-la
@@ -182448,7 +182269,6 @@ menysprear-nos
 menysprear-se
 menysprear-te
 menysprear-vos
-menysprea's
 menyspreeu-los
 menystenint-hi
 menystenint-ho
@@ -182549,7 +182369,6 @@ meravellar-te
 meravellar-te'n
 meravellar-vos
 meravellar-vos-hi
-meravella's
 meravella't
 meravellem-nos
 meravelleu-vos
@@ -182615,8 +182434,6 @@ mereixeu-ho
 mereix-ho
 mereixin-la
 mereix-la
-mereix-se'l
-mereix-se-les
 m'eren
 m'eres
 m'éreu
@@ -183222,7 +183039,6 @@ mesclar-se-li
 mesclar-s'hi
 mesclar-te
 mesclar-vos-hi
-mescla's
 m'esclat
 mescla't
 m'esclata
@@ -184098,12 +183914,10 @@ m'esperassen
 m'esperassin
 m'esperàssiu
 m'esperava
-m'esperàvem
 m'esperaven
 m'esperaves
 m'esperàveu
 m'espere
-m'esperem
 m'esperen
 m'esperes
 m'esperés
@@ -184521,7 +184335,6 @@ m'estavellés
 m'estavelli
 m'estavellin
 m'estavello
-m'estàvem
 m'estaven
 m'estaves
 m'estàveu
@@ -184531,7 +184344,6 @@ m'estellava
 m'estellen
 m'estelles
 m'estello
-m'estem
 m'estén
 m'estenalla
 m'estenallà
@@ -184596,7 +184408,6 @@ m'estilitzaven
 m'estim
 m'estima
 m'estimà
-m'estimam
 m'estimara
 m'estimarà
 m'estimaran
@@ -184630,7 +184441,6 @@ m'estimbi
 m'estimbis
 m'estimbo
 m'estime
-m'estimem
 m'estimen
 m'estimes
 m'estimés
@@ -185126,7 +184936,6 @@ metre-se-li
 metre't
 metre-t'hi
 m'ets
-met-se
 m'etzib
 m'etziba
 m'etzibà
@@ -185541,7 +185350,6 @@ m'explicarà
 m'explicaran
 m'explicaràs
 m'explicaré
-m'explicarem
 m'explicaren
 m'explicares
 m'explicareu
@@ -185804,7 +185612,6 @@ m'hagués
 m'haguessen
 m'haguesses
 m'haguésseu
-m'haguéssim
 m'haguessin
 m'haguessis
 m'haguéssiu
@@ -185828,7 +185635,6 @@ m'hauràs
 m'hauré
 m'haureu
 m'hauria
-m'hauríem
 m'haurien
 m'hauries
 m'hauríeu
@@ -185840,7 +185646,6 @@ m'havíeu
 m'he
 m'hec
 m'hegui
-m'hem
 m'heretareu
 m'hereti
 m'herniaré
@@ -186224,7 +186029,6 @@ m'imaginarien
 m'imaginaries
 m'imaginàs
 m'imaginava
-m'imaginàvem
 m'imaginaves
 m'imaginàveu
 m'imagine
@@ -186660,7 +186464,6 @@ minar-se
 minar-te
 minar-t'ho
 minar-vos
-mina's
 m'inaugur
 m'inaugura
 m'inauguraven
@@ -187160,7 +186963,6 @@ m'iniciaria
 m'iniciava
 m'iniciaves
 m'inicie
-m'iniciem
 m'inicien
 m'iniciés
 m'iniciïn
@@ -188020,8 +187822,6 @@ mirar-vos-hi
 mirar-vos-ho
 mirar-vos-la
 mirar-vos-les
-mira's
-mira-se-la
 mira't
 mira-te'l
 mira-te-la
@@ -188532,7 +188332,6 @@ mocar-se
 mocar-s'hi
 mocar-te
 mocar-vos
-moca's
 m'ocasiona
 m'ocasionà
 m'ocasionarà
@@ -188719,7 +188518,6 @@ m'odiava
 m'odiaven
 m'odiaves
 m'odie
-m'odiem
 m'odien
 m'odies
 m'odiés
@@ -189012,7 +188810,6 @@ m'olia
 molina-la
 molinar-lo
 molinar-los
-molina's
 m'olio
 mol-la
 mollejant-la
@@ -189358,7 +189155,6 @@ morrejar-nos
 morrejar-se
 morrejar-te
 morrejar-vos
-mor-se
 mor-te
 mor-te'm
 mor-t'hi
@@ -189385,7 +189181,6 @@ mortificar-vos
 mortifiquem-nos
 mortifiqueu-vos
 moscallejar-me
-mosca's
 m'oscava
 m'oscil·lava
 mosquejant-me
@@ -189599,8 +189394,6 @@ mostrar-vos-en
 mostrar-vos-ho
 mostrar-vos-la
 mostrar-vos-les
-mostra's
-mostra-se'n
 mostra't
 mostra-t'hi
 mostrau-li
@@ -189745,7 +189538,6 @@ moure-t'hi
 moure-us
 moure-us-en
 moure-us-hi
-mou-se
 mou-te
 mou-t'hi
 m'ovaciona
@@ -189834,7 +189626,6 @@ mudar-s'hi
 mudar-te
 mudar-t'hi
 mudar-vos
-muda's
 muda't
 mudau-li
 mudau-vos
@@ -190268,7 +190059,6 @@ m'urpen
 m'usa
 m'usaran
 musar-hi
-musa's
 m'usava
 m'use
 museïtzant-la
@@ -192486,7 +192276,6 @@ n'aniríeu
 n'anís
 n'anivellà
 n'anivellarà
-nanna's
 n'annexa
 n'annexà
 n'annexiona
@@ -197761,7 +197550,6 @@ n'evaporin
 nevar-hi
 nevar-la
 nevar-me
-neva's
 neveu-hi
 neveu-lo
 neveu-los
@@ -198600,7 +198388,6 @@ niar-me
 niar-se
 niar-te
 niar-vos
-nia's
 n'idea
 n'ideà
 n'idealitzà
@@ -200250,7 +200037,6 @@ nomenar-se'n
 nomenar-te
 nomenar-te'n
 nomenar-vos
-nomena's
 nomena't
 nomeneu-ho
 nomeneu-lo
@@ -200600,7 +200386,6 @@ notar-s'ho
 notar-te
 notar-t'ho
 notar-vos
-nota's
 notem-ho
 note'n
 noten-la
@@ -201044,9 +200829,6 @@ oblidar-te
 oblidar-te'n
 oblidar-vos
 oblidar-vos-en
-oblida's
-oblida-se'm
-oblida-se'n
 oblida't
 oblida-te'n
 oblidau-ho
@@ -201188,7 +200970,6 @@ obrar-me
 obrar-ne
 obrar-nos
 obrar-se
-obra's
 obra't
 obre-hi
 obre-ho
@@ -201785,7 +201566,6 @@ ocupar-te-la
 ocupar-te'n
 ocupar-vos
 ocupar-vos-en
-ocupa-se'ls
 ocupa't
 ocupa-te'n
 ocupem-ho
@@ -202125,7 +201905,6 @@ oficiar-los
 oficiar-ne
 oficiar-se
 oficiar-vos
-oficia's
 ofrena-la
 ofrenant-li
 ofrenant-los
@@ -202196,7 +201975,6 @@ olieu-les
 oliïn-te
 oliva-la
 olivar-se
-oliva's
 oliva't
 olora-ho
 olora'l
@@ -202296,7 +202074,6 @@ omple-me-la
 omple-me'n
 omple'n
 omple'ns
-omple's
 omple't
 omple-te'n
 ompli-ho
@@ -202455,7 +202232,6 @@ operar-s'hi
 operar-te
 operar-te'l
 operar-vos
-opera's
 opera't
 operativitzar-ho
 operativitzar-la
@@ -202470,7 +202246,6 @@ opinant-ne
 opinar-hi
 opinar-ne
 opinar-se
-opina's
 opine-ho
 opinem-ne
 opineu-hi
@@ -202603,7 +202378,6 @@ optimitzar-te
 optimitzar-vos
 orar-se
 orar-te
-ora's
 orba'm
 orbitant-hi
 orbitant-la
@@ -202665,7 +202439,6 @@ ordenar-te
 ordenar-te-la
 ordenar-vos
 ordenar-vos-les
-ordena's
 ordena't
 ordenem-ho
 ordenem-la
@@ -203258,7 +203031,6 @@ palmejar-li
 palmejar-los
 palmejar-me
 palmejar-te
-paloma's
 palpa-ho
 palpa'l
 palpa-la
@@ -203373,7 +203145,6 @@ papar-hi
 papar-ne
 papar-nos
 papar-se
-papa's
 pape's
 papi-les
 papi'ls
@@ -203498,7 +203269,6 @@ parar-s'ho
 parar-te
 parar-t'hi
 parar-vos
-para's
 parasitant-la
 parasitant-les
 parasitant-lo
@@ -203665,7 +203435,6 @@ parlar-te'n
 parlar-vos
 parlar-vos-en
 parlar-vos-ho
-parla's
 parla't
 parlau-li
 parlau-los
@@ -203990,7 +203759,6 @@ passar-vos-en
 passar-vos-hi
 passar-vos-ho
 passar-vos-la
-passa's
 passa-s'ho
 passa't
 passa-te'l
@@ -204331,7 +204099,6 @@ pausar-les
 pausar-lo
 pausar-se
 pausar-te
-pausa's
 pausa't
 pautant-se
 pautar-ho
@@ -204761,7 +204528,6 @@ penjar-vos-el
 penjar-vos-els
 penjar-vos-en
 penjar-vos-la
-penja's
 penja't
 penja-te'l
 penja-te-la
@@ -204839,7 +204605,6 @@ pensar-t'ho
 pensar-vos
 pensar-vos-hi
 pensar-vos-ho
-pensa's
 pensa-s'ho
 pensa't
 pensa-te-la
@@ -205756,7 +205521,6 @@ personar-s'hi
 personar-te
 personar-vos
 personar-vos-hi
-persona's
 persona't
 persone's
 personeu-vos
@@ -205823,7 +205587,6 @@ pertànyer-te
 pertànyer-vos
 pertany-hi
 pertany-li
-pertany-se
 pertocar-li
 pertocar-los
 pertocar-me
@@ -205919,7 +205682,6 @@ pesar-nos
 pesar-se
 pesar-te
 pesar-vos
-pesa's
 pesa't
 pesau-los
 pesca-ho
@@ -206042,7 +205804,6 @@ petar-s'hi
 petar-s'ho
 petar-te
 petar-vos
-peta's
 peta't
 petejant-nos
 petejar-me
@@ -206162,7 +205923,6 @@ picar-s'hi
 picar-te
 picar-te-la
 picar-vos
-pica's
 pica't
 picau-les
 picolar-la
@@ -206271,7 +206031,6 @@ pilotar-me
 pilotar-ne
 pilotar-nos
 pilotar-se
-pilota's
 pilotejant-te
 pilotejar-lo
 pilotejar-me
@@ -206350,7 +206109,6 @@ pintar-te-la
 pintar-te-les
 pintar-te'ls
 pintar-vos
-pinta's
 pinta't
 pinta-te'l
 pinta-te-la
@@ -206446,7 +206204,6 @@ pireu-vos
 pirogravar-los
 pisa-la
 pisar-se
-pisa's
 piscar-hi
 pise't
 pispa'ls-hi
@@ -206622,7 +206379,6 @@ planar-li
 planar-los
 planar-se
 planar-te
-plana's
 plançonant-li
 planegem-ho
 planegeu-vos
@@ -206746,7 +206502,6 @@ plantar-te-li
 plantar-t'hi
 plantar-vos
 plantar-vos-la
-planta's
 planta't
 planta-t'hi
 plantau-vos
@@ -206984,7 +206739,6 @@ planyi-la
 planyi'm
 plany-me
 plany-ne
-plany-se
 plany-te
 plasma-la
 plasma'ls
@@ -207185,7 +206939,6 @@ ploure't
 plovent-hi
 plovent-li
 plovent-nos
-plovisqueja's
 pluralitzant-les
 pluralitzant-se
 pluralitzar-la
@@ -207603,7 +207356,6 @@ poneu-vos
 pon-l'hi
 pon-ne
 pon-n'hi
-pon-se
 pontar-los
 pontar-se
 pontejant-lo
@@ -207771,8 +207523,6 @@ portar-vos-hi
 portar-vos-ho
 portar-vos-la
 portar-vos-les
-porta's
-porta-se-la
 porta't
 porta-te'l
 porta-te-la
@@ -208051,7 +207801,6 @@ posar-vos-hi
 posar-vos-ho
 posar-vos-la
 posar-vos-les
-posa's
 posa-s'hi
 posa-s'ho
 posa't
@@ -209408,7 +209157,6 @@ pren-me'n
 pren-m'ho
 pren-ne
 pren-nos
-pren-se
 pren-te
 pren-te'l
 pren-te-la
@@ -209954,7 +209702,6 @@ pressentir-ne
 pressentir-nos
 pressentir-se
 pressentir-te
-pressent-se
 pressiona-hi
 pressiona-ho
 pressiona'l
@@ -210449,7 +210196,6 @@ proclamar-se'n
 proclamar-s'hi
 proclamar-te
 proclamar-vos
-proclama-se'n
 proclamem-ho
 proclamem-la
 proclamem-lo
@@ -211669,7 +211415,6 @@ protestar-me
 protestar-ne
 protestar-nos
 protestar-se
-protesta's
 protestem-hi
 protestem-ho
 protocol·litzant-lo
@@ -211742,7 +211487,6 @@ provar-t'ho
 provar-vos
 provar-vos-ho
 provar-vos-les
-prova's
 prova't
 prova-te'l
 prova-te-les
@@ -212399,7 +212143,6 @@ quadrar-se
 quadrar-se-la
 quadrar-s'hi
 quadrar-te
-quadra's
 quadra't
 quadra-t'hi
 quadrejar-la
@@ -212593,8 +212336,6 @@ quedar-vos-hi
 quedar-vos-ho
 quedar-vos-la
 quedar-vos-les
-queda's
-queda-se-la
 queda't
 queda-te'l
 queda-te-la
@@ -212691,7 +212432,6 @@ queixar-te
 queixar-te'n
 queixar-vos
 queixar-vos-en
-queixa's
 queixa't
 queixe-ho
 queixe-la
@@ -212806,7 +212546,6 @@ quitar-me'l
 quitar-me'n
 quitar-nos
 quitar-se
-rabassa's
 rabegem-nos
 rabegeu-vos-hi
 rabegi's
@@ -213120,7 +212859,6 @@ rascar-se'ls
 rascar-s'hi
 rascar-te
 rascar-vos
-rasca's
 rasca't
 rasclant-li
 rasclar-la
@@ -214140,7 +213878,6 @@ rebutjar-nos
 rebutjar-se
 rebutjar-te
 rebutjar-vos
-rebutja's
 rebutjau-ne
 recacegin-li
 recacejant-hi
@@ -214955,7 +214692,6 @@ recomanar-vos-hi
 recomanar-vos-ho
 recomanar-vos-la
 recomanar-vos-les
-recomana's
 recomana't
 recomanau-li
 recomanau-nos
@@ -215252,7 +214988,6 @@ reconeix-los
 reconeix-me
 reconeix-m'ho
 reconeix-ne
-reconeix-se'ls
 reconeix-te
 reconfigurant-la
 reconfigurant-lo
@@ -215408,7 +215143,6 @@ recontar-la
 recontar-les
 recontar-ne
 recontar-vos
-reconta's
 recontextualitzant-la
 recontextualitzar-les
 recontextualitzar-lo
@@ -215671,7 +215405,6 @@ recórrer-me
 recórrer-ne
 recórrer-se
 recórrer-te
-recorre's
 recorre't
 recorreu-lo
 recorreu-ne
@@ -216544,7 +216277,6 @@ reescriure'm
 reescriure'n
 reescriure'ns
 reescriure's
-reescriu-se
 reescrivint-ho
 reescrivint-la
 reescrivint-les
@@ -216631,7 +216363,6 @@ refent-te
 refereix-ho
 refereixi's
 refereix-me
-refereix-se
 refereix-te
 refereix-t'hi
 referencia'l
@@ -216999,7 +216730,6 @@ reformar-nos
 reformar-se
 reformar-se'n
 reformar-te
-reforma's
 reforma't
 reformatar-les
 reformatar-lo
@@ -217482,7 +217212,6 @@ regalar-vos-el
 regalar-vos-en
 regalar-vos-la
 regalar-vos-les
-regala-se-li
 regala't
 regala-te'l
 regala-te-les
@@ -217689,7 +217418,6 @@ regirar-s'hi
 regirar-te
 regirar-t'ho
 regirar-vos
-regira's
 regira't
 regirem-ho
 regireu-ho
@@ -220042,7 +219770,6 @@ repeteix-me'l
 repeteix-me-la
 repeteix-m'ho
 repeteix-ne
-repeteix-se
 repeteix-te
 repeteix-te-les
 repeteix-t'ho
@@ -220994,7 +220721,6 @@ reservar-vos
 reservar-vos-hi
 reservar-vos-ho
 reservar-vos-les
-reserva's
 reserva't
 reserva-te'l
 reserva-te-la
@@ -221496,7 +221222,6 @@ responsabilitzar-s'hi
 responsabilitzar-te
 responsabilitzar-te'n
 responsabilitzar-vos
-responsabilitza-se'n
 responsabilitza't
 responsabilitza-te'n
 responsabilitzau-vos
@@ -223770,7 +223495,6 @@ rodolar-hi
 rodolar-li
 rodolar-me
 roge-li
-rolla's
 romancejant-hi
 romancejar-hi
 romandre-hi
@@ -223872,7 +223596,6 @@ rosa-la
 rosant-nos
 rosar-se
 rosar-te
-rosa's
 roscant-lo
 roscar-hi
 roscar-se
@@ -224177,10 +223900,8 @@ s'abaixava
 s'abaixaven
 s'abaixe
 s'abaixen
-s'abaixes
 s'abaixés
 s'abaixessin
-s'abaixeu
 s'abaixi
 s'abaixin
 s'abalança
@@ -224223,7 +223944,6 @@ s'abanderaven
 s'abanderen
 s'abanderi
 s'abanderin
-s'abandon
 s'abandona
 s'abandonà
 s'abandonara
@@ -224239,7 +223959,6 @@ s'abandonava
 s'abandonaven
 s'abandone
 s'abandonen
-s'abandones
 s'abandonés
 s'abandonessin
 s'abandoni
@@ -224275,7 +223994,6 @@ s'abarroten
 s'abarroti
 s'abassegaran
 s'abasseguen
-s'abast
 s'abasta
 s'abastà
 s'abastarà
@@ -224291,7 +224009,6 @@ s'abasteixen
 s'abasteixi
 s'abasteixin
 s'abasten
-s'abastes
 s'abastés
 s'abastessin
 s'abasti
@@ -224318,7 +224035,6 @@ s'abateren
 s'abatés
 s'abatessin
 s'abati
-s'abatí
 s'abatia
 s'abatien
 s'abatin
@@ -224471,7 +224187,6 @@ s'ablanisca
 s'ablanisquen
 s'ablanix
 s'ablenen
-s'aboc
 s'aboca
 s'abocà
 s'abocara
@@ -224552,7 +224267,6 @@ s'aboqués
 s'aboquessin
 s'aboqui
 s'aboquin
-s'abord
 s'aborda
 s'abordà
 s'abordara
@@ -224611,7 +224325,6 @@ s'abrace
 s'abracen
 s'abracés
 s'abracessin
-s'abraceu
 s'abraci
 s'abracin
 s'abranda
@@ -224666,7 +224379,6 @@ s'abreviaria
 s'abreviava
 s'abreviaven
 s'abrevien
-s'abric
 s'abriga
 s'abrigà
 s'abrigallà
@@ -224716,7 +224428,6 @@ s'abrusen
 s'abrusés
 s'abrusi
 s'abrusin
-s'absent
 s'absenta
 s'absentà
 s'absentara
@@ -224786,7 +224497,6 @@ s'abstenia
 s'abstenien
 s'abstindrà
 s'abstindran
-s'abstindrem
 s'abstindria
 s'abstindrien
 s'abstinga
@@ -224797,7 +224507,6 @@ s'abstinguérem
 s'abstingueren
 s'abstingués
 s'abstinguessin
-s'abstinguessis
 s'abstingui
 s'abstinguin
 s'abstragué
@@ -224824,18 +224533,14 @@ s'aburgesen
 s'aburgesés
 s'aburgesi
 s'aburgesin
-s'abús
 s'abusa
 s'abusà
 s'abusarà
 s'abusava
 s'abusaven
 s'abuse
-s'abuses
 s'abusés
 s'abusi
-s'abuso
-s'acab
 s'acaba
 s'acabà
 s'acabala
@@ -224851,18 +224556,12 @@ s'acabassin
 s'acabava
 s'acabaven
 s'acabe
-s'acabem
 s'acaben
-s'acabes
 s'acabés
 s'acabessen
 s'acabessin
-s'acabéssiu
-s'acabeu
 s'acabi
-s'acabí
 s'acabin
-s'acabo
 s'acabussaren
 s'acabussàs
 s'acaça
@@ -224872,7 +224571,6 @@ s'academitza
 s'academitzà
 s'acagallonava
 s'acagallonaven
-s'acal
 s'acala
 s'acalà
 s'acalaren
@@ -224983,14 +224681,12 @@ s'acarnissassin
 s'acarnissava
 s'acarnissaven
 s'acarnisse
-s'acarnissem
 s'acarnissen
 s'acarnissés
 s'acarnissessin
 s'acarnissi
 s'acarnissin
 sacar-nos
-s'acaro
 s'acarona
 s'acaronà
 s'acaronarà
@@ -225077,16 +224773,13 @@ s'accentue
 s'accentuen
 s'accentués
 s'accentuessin
-s'accentuí
 s'accentuï
 s'accentuïn
-s'accept
 s'accepta
 s'acceptà
 s'acceptara
 s'acceptarà
 s'acceptaran
-s'acceptarem
 s'acceptaren
 s'acceptaria
 s'acceptarien
@@ -225095,14 +224788,11 @@ s'acceptassin
 s'acceptava
 s'acceptaven
 s'accepte
-s'acceptem
 s'accepten
-s'acceptes
 s'acceptés
 s'acceptessin
 s'accepti
 s'acceptin
-s'accident
 s'accidenta
 s'accidentà
 s'accidentarà
@@ -225187,14 +224877,12 @@ s'aclareix
 s'aclareixen
 s'aclareixi
 s'aclareixin
-s'aclareixo
 s'aclaresca
 s'aclaresquen
 s'aclaresqui
 s'aclarí
 s'aclaria
 s'aclarien
-s'aclarim
 s'aclarira
 s'aclarirà
 s'aclariran
@@ -225205,7 +224893,6 @@ s'aclarís
 s'aclarisca
 s'aclarisquen
 s'aclarissin
-s'aclariu
 s'aclarix
 s'aclarixen
 s'aclimata
@@ -225263,7 +224950,6 @@ s'acoblés
 s'acoblessin
 s'acobli
 s'acoblin
-s'acoll
 s'acolla
 s'acollaren
 s'acollen
@@ -225325,7 +225011,6 @@ s'acomboià
 s'acomboiarà
 s'acomboiaren
 s'acomboiava
-s'acomboiàvem
 s'acomboiaven
 s'acomboie
 s'acomboien
@@ -225338,13 +225023,11 @@ s'acometia
 s'acometien
 s'acometrà
 s'acometran
-s'acomiad
 s'acomiada
 s'acomiadà
 s'acomiadara
 s'acomiadarà
 s'acomiadaran
-s'acomiadarem
 s'acomiadaren
 s'acomiadaria
 s'acomiadarien
@@ -225353,9 +225036,7 @@ s'acomiadassin
 s'acomiadava
 s'acomiadaven
 s'acomiade
-s'acomiadem
 s'acomiaden
-s'acomiades
 s'acomiadés
 s'acomiadessin
 s'acomiadi
@@ -225378,7 +225059,6 @@ s'acomodés
 s'acomodessin
 s'acomodi
 s'acomodin
-s'acompany
 s'acompanya
 s'acompanyà
 s'acompanyara
@@ -225392,9 +225072,7 @@ s'acompanyassin
 s'acompanyava
 s'acompanyaven
 s'acompanye
-s'acompanyem
 s'acompanyen
-s'acompanyes
 s'acompanyés
 s'acompanyessin
 s'acompanyi
@@ -225418,7 +225096,6 @@ s'acomplesca
 s'acomplesquen
 s'acomplesqui
 s'acomplesquin
-s'acomplex
 s'acomplexa
 s'acomplexarà
 s'acomplexava
@@ -225461,7 +225138,6 @@ s'aconformarà
 s'aconformaria
 s'aconformava
 s'aconformaven
-s'aconformem
 s'aconformen
 s'aconformin
 s'aconhorta
@@ -225472,10 +225148,8 @@ s'aconhortaven
 s'aconhortés
 s'aconsegueix
 s'aconsegueixen
-s'aconsegueixes
 s'aconsegueixi
 s'aconsegueixin
-s'aconsegueixis
 s'aconseguesca
 s'aconseguesquen
 s'aconseguesqui
@@ -225494,8 +225168,6 @@ s'aconseguisquen
 s'aconseguissin
 s'aconseguix
 s'aconseguixen
-s'aconseguixes
-s'aconsell
 s'aconsella
 s'aconsellà
 s'aconsellarà
@@ -225520,7 +225192,6 @@ s'aconsolava
 s'aconsolaven
 s'aconsolen
 s'aconsolés
-s'acontent
 s'acontenta
 s'acontentà
 s'acontentarà
@@ -225530,7 +225201,6 @@ s'acontentaria
 s'acontentarien
 s'acontentàs
 s'acontentava
-s'acontentàvem
 s'acontentaven
 s'acontente
 s'acontenten
@@ -225557,11 +225227,9 @@ s'acoquinés
 s'acoquinessin
 s'acoquini
 s'acoquinin
-s'acor
 s'acorarà
 s'acorava
 s'acoraven
-s'acord
 s'acorda
 s'acordà
 s'acordara
@@ -225576,12 +225244,10 @@ s'acordava
 s'acordaven
 s'acorde
 s'acorden
-s'acordes
 s'acordés
 s'acordessen
 s'acordessin
 s'acordi
-s'acordí
 s'acordin
 s'acordona
 s'acordonarà
@@ -225609,15 +225275,12 @@ s'acorruaven
 s'acorruen
 s'acorruessin
 s'acorrufen
-s'acost
 s'acosta
 s'acostà
-s'acostal
 s'acostala
 s'acostara
 s'acostarà
 s'acostaran
-s'acostarem
 s'acostaren
 s'acostaria
 s'acostarien
@@ -225625,19 +225288,13 @@ s'acostàs
 s'acostassen
 s'acostassin
 s'acostava
-s'acostàvem
 s'acostaven
 s'acoste
-s'acostem
 s'acosten
-s'acostes
 s'acostés
 s'acostessin
-s'acosteu
 s'acosti
 s'acostin
-s'acostis
-s'acosto
 s'acostuma
 s'acostumà
 s'acostumara
@@ -225651,12 +225308,9 @@ s'acostumassen
 s'acostumava
 s'acostumaven
 s'acostume
-s'acostumem
 s'acostumen
-s'acostumes
 s'acostumés
 s'acostumessin
-s'acostumeu
 s'acostumi
 s'acostumin
 s'acota
@@ -225715,7 +225369,6 @@ sacralitzar-lo
 sacralitzar-los
 sacralitzar-me
 sacralitzar-se
-s'acredit
 s'acredita
 s'acredità
 s'acreditara
@@ -225729,7 +225382,6 @@ s'acreditava
 s'acreditaven
 s'acredite
 s'acrediten
-s'acredites
 s'acredités
 s'acreditessin
 s'acrediti
@@ -225900,12 +225552,10 @@ s'activava
 s'activaven
 s'active
 s'activen
-s'actives
 s'activés
 s'activessin
 s'activi
 s'activin
-s'activo
 s'actua
 s'actuà
 s'actualitza
@@ -225913,7 +225563,6 @@ s'actualitzà
 s'actualitzara
 s'actualitzarà
 s'actualitzaran
-s'actualitzaràs
 s'actualitzaren
 s'actualitzaria
 s'actualitzarien
@@ -225923,11 +225572,9 @@ s'actualitzava
 s'actualitzaven
 s'actualitze
 s'actualitzen
-s'actualitzes
 s'actualitzés
 s'actualitzessin
 s'actualitzi
-s'actualitzí
 s'actualitzin
 s'actuara
 s'actuarà
@@ -225936,9 +225583,7 @@ s'actuàs
 s'actuava
 s'actue
 s'actuen
-s'actues
 s'actués
-s'actuí
 s'actuï
 s'actuïn
 s'acuba
@@ -225961,7 +225606,6 @@ s'acudira
 s'acudirà
 s'acudiran
 s'acudiria
-s'acudis
 s'acudís
 s'acudisca
 s'acudix
@@ -225977,7 +225621,6 @@ s'acuiten
 s'acuités
 s'acuitessin
 s'acuiti
-s'acul
 s'acula
 s'aculà
 s'acularen
@@ -225985,13 +225628,11 @@ s'acularia
 s'aculava
 s'aculaven
 s'aculen
-s'acules
 s'aculi
 s'aculin
 s'acull
 s'aculla
 s'acullen
-s'aculles
 s'aculli
 s'acullin
 s'acultura
@@ -225999,7 +225640,6 @@ s'aculturaren
 s'aculturassen
 s'aculturen
 s'aculturessin
-s'acumul
 s'acumula
 s'acumulà
 s'acumulara
@@ -226015,7 +225655,6 @@ s'acumulava
 s'acumulaven
 s'acumule
 s'acumulen
-s'acumules
 s'acumulés
 s'acumulessin
 s'acumuli
@@ -226053,7 +225692,6 @@ s'acusessin
 s'acusi
 s'acusin
 s'acut
-s'adapt
 s'adapta
 s'adaptà
 s'adaptara
@@ -226068,12 +225706,9 @@ s'adaptassin
 s'adaptava
 s'adaptaven
 s'adapte
-s'adaptem
 s'adapten
-s'adaptes
 s'adaptés
 s'adaptessin
-s'adapteu
 s'adapti
 s'adaptin
 s'adarga
@@ -226110,7 +225745,6 @@ s'adelera
 s'adelerà
 s'adelerava
 s'adeleraven
-s'adelit
 s'adelita
 s'adelitaren
 s'adelitava
@@ -226131,13 +225765,10 @@ s'adequava
 s'adequaven
 s'adeqüe
 s'adeqüen
-s'adeqües
 s'adeqüés
 s'adeqüessin
 s'adeqüi
-s'adeqüí
 s'adeqüin
-s'adès
 s'adhereix
 s'adhereixen
 s'adhereixi
@@ -226147,7 +225778,6 @@ s'adheresquin
 s'adherí
 s'adheria
 s'adherien
-s'adherim
 s'adherira
 s'adherirà
 s'adheriran
@@ -226159,7 +225789,6 @@ s'adherisca
 s'adherisquen
 s'adherissen
 s'adherissin
-s'adheriu
 s'adherix
 s'adherixen
 s'adia
@@ -226210,15 +225839,12 @@ s'adjudicàs
 s'adjudicassin
 s'adjudicava
 s'adjudicaven
-s'adjudico
 s'adjudique
 s'adjudiquen
-s'adjudiques
 s'adjudiqués
 s'adjudiquessin
 s'adjudiqui
 s'adjudiquin
-s'adjunt
 s'adjunta
 s'adjuntà
 s'adjuntara
@@ -226229,24 +225855,19 @@ s'adjuntaria
 s'adjuntava
 s'adjuntaven
 s'adjunte
-s'adjuntem
 s'adjunten
-s'adjuntes
 s'adjuntés
 s'adjuntessin
 s'adjunti
 s'adjuntin
-s'adjunto
 s'admet
 s'admeta
 s'admeté
 s'admeten
 s'admetera
 s'admeteren
-s'admetes
 s'admetés
 s'admetessin
-s'admeteu
 s'admeti
 s'admetia
 s'admetien
@@ -226268,12 +225889,10 @@ s'administrava
 s'administraven
 s'administre
 s'administren
-s'administres
 s'administrés
 s'administressin
 s'administri
 s'administrin
-s'admir
 s'admira
 s'admirà
 s'admirarà
@@ -226314,7 +225933,6 @@ s'adoctrinés
 s'adoctrinessin
 s'adoctrini
 s'adoctrinin
-s'adoll
 s'adolla
 s'adollà
 sadollant-lo
@@ -226349,38 +225967,27 @@ s'adoloreixen
 s'adolorí
 s'adoloria
 s'adolorien
-s'adon
 s'adona
 s'adonà
 s'adonara
 s'adonarà
 s'adonaran
-s'adonaré
-s'adonarem
 s'adonàrem
 s'adonaren
-s'adonareu
 s'adonaria
 s'adonarien
 s'adonàs
 s'adonassen
 s'adonassin
 s'adonava
-s'adonàvem
 s'adonaven
 s'adonden
 s'adone
-s'adonem
 s'adonen
-s'adones
 s'adonés
 s'adonessin
-s'adoneu
 s'adoni
 s'adonin
-s'adonis
-s'adono
-s'adopt
 s'adopta
 s'adoptà
 s'adoptara
@@ -226396,7 +226003,6 @@ s'adoptava
 s'adoptaven
 s'adopte
 s'adopten
-s'adoptes
 s'adoptés
 s'adoptessin
 s'adopti
@@ -226426,9 +226032,7 @@ s'adormirà
 s'adormiran
 s'adormiren
 s'adormiria
-s'adormiríem
 s'adormirien
-s'adormis
 s'adormís
 s'adormisca
 s'adormissa
@@ -226488,7 +226092,6 @@ s'adquirisquen
 s'adquirissin
 s'adquirix
 s'adquirixen
-s'adreç
 s'adreça
 s'adreçà
 s'adreçarà
@@ -226502,12 +226105,9 @@ s'adreçassin
 s'adreçava
 s'adreçaven
 s'adrece
-s'adrecem
 s'adrecen
-s'adreces
 s'adrecés
 s'adrecessin
-s'adreceu
 s'adreci
 s'adrecin
 s'adscriga
@@ -226549,7 +226149,6 @@ s'adunin
 s'advé
 s'advenen
 s'advenia
-s'adver
 s'advera
 s'adverà
 s'adverava
@@ -226610,7 +226209,6 @@ s'afaitaven
 s'afaiten
 s'afaités
 s'afaitessin
-s'afaiteu
 s'afaiti
 s'afaitin
 s'afalaga
@@ -226623,7 +226221,6 @@ s'afal·lerà
 s'afal·leren
 s'afamaran
 s'afamin
-s'afan
 s'afana
 s'afanà
 s'afanava
@@ -226631,7 +226228,6 @@ s'afanaven
 s'afanen
 s'afanés
 s'afanin
-s'afany
 s'afanya
 s'afanyà
 s'afanyara
@@ -226645,9 +226241,7 @@ s'afanyassin
 s'afanyava
 s'afanyaven
 s'afanye
-s'afanyem
 s'afanyen
-s'afanyes
 s'afanyés
 s'afanyessin
 s'afanyi
@@ -226736,7 +226330,6 @@ s'afecti
 s'afectin
 s'afegeix
 s'afegeixen
-s'afegeixes
 s'afegeixi
 s'afegeixin
 s'afegesca
@@ -226746,24 +226339,19 @@ s'afegesquin
 s'afegí
 s'afegia
 s'afegien
-s'afegies
-s'afegim
 s'afegira
 s'afegirà
 s'afegiran
 s'afegiren
 s'afegiria
-s'afegiríem
 s'afegirien
 s'afegís
 s'afegisca
 s'afegisquen
 s'afegissen
 s'afegissin
-s'afegiu
 s'afegix
 s'afegixen
-s'afeix
 s'afeixarà
 s'afeixaven
 s'afeixegaven
@@ -226790,9 +226378,7 @@ s'afermàs
 s'afermava
 s'afermaven
 s'aferme
-s'afermem
 s'afermen
-s'afermes
 s'afermés
 s'afermessin
 s'afermi
@@ -226840,7 +226426,6 @@ s'aficionaran
 s'aficionaren
 s'aficionava
 s'aficionaven
-s'aficionem
 s'aficionen
 s'aficionés
 s'aficionessin
@@ -226875,7 +226460,6 @@ s'afileraria
 s'afilerava
 s'afileraven
 s'afileren
-s'afiles
 s'afilessin
 s'afili
 s'afilia
@@ -226891,13 +226475,11 @@ s'afiliava
 s'afiliaven
 s'afilie
 s'afilien
-s'afilies
 s'afiliés
 s'afiliessin
 s'afiliï
 s'afiliïn
 s'afilin
-s'afilio
 s'afilla
 s'afillà
 s'afillarà
@@ -226920,7 +226502,6 @@ s'afinava
 s'afinaven
 s'afine
 s'afinen
-s'afines
 s'afinés
 s'afinessin
 s'afini
@@ -227060,7 +226641,6 @@ s'afrontés
 s'afrontessin
 s'afronti
 s'afrontin
-s'afrontis
 s'afua
 s'afuà
 s'afuarà
@@ -227101,12 +226681,9 @@ s'agafassen
 s'agafava
 s'agafaven
 s'agafe
-s'agafem
 s'agafen
-s'agafes
 s'agafés
 s'agafessin
-s'agafeu
 s'agafi
 s'agafin
 s'agallini
@@ -227129,7 +226706,6 @@ s'agarraven
 s'agarre
 s'agarren
 s'agarrés
-s'agarreu
 s'agarri
 s'agarrotava
 s'agarroten
@@ -227164,7 +226740,6 @@ s'agenciarien
 s'agenciava
 s'agenciaven
 s'agenciés
-s'agenoll
 s'agenolla
 s'agenollà
 s'agenollara
@@ -227179,12 +226754,10 @@ s'agenollava
 s'agenollaven
 s'agenolle
 s'agenollen
-s'agenolles
 s'agenollés
 s'agenollessin
 s'agenolli
 s'agenollin
-s'agerman
 s'agermana
 s'agermanà
 s'agermanara
@@ -227232,7 +226805,6 @@ s'agilitzessin
 s'agilitzi
 s'agilitzin
 s'agimpona
-s'agit
 s'agita
 s'agità
 s'agitanava
@@ -227324,7 +226896,6 @@ s'agonitzaren
 s'agonitzava
 s'agosaven
 s'agosen
-s'agost
 s'agosta
 s'agostava
 s'agostejaven
@@ -227349,7 +226920,6 @@ s'agradés
 s'agradessin
 s'agradi
 s'agradin
-s'agrado
 s'agraeix
 s'agraeixen
 s'agraeixi
@@ -227377,7 +226947,6 @@ s'agravia
 s'agravià
 s'agraviaria
 s'agravie
-s'agravii
 s'agredeix
 s'agredeixen
 s'agredeixi
@@ -227467,25 +227036,21 @@ s'agrumollen
 s'agrumolli
 s'agrunsava
 s'agrunsen
-s'agrup
 s'agrupa
 s'agrupà
 s'agruparà
 s'agruparan
-s'agruparem
 s'agruparen
 s'agruparia
 s'agruparien
 s'agrupava
 s'agrupaven
 s'agrupe
-s'agrupem
 s'agrupen
 s'agrupés
 s'agrupessin
 s'agrupi
 s'agrupin
-s'aguait
 s'aguaita
 s'aguaitara
 s'aguaitaren
@@ -227505,12 +227070,9 @@ s'aguantassin
 s'aguantava
 s'aguantaven
 s'aguante
-s'aguantem
 s'aguanten
-s'aguantes
 s'aguantés
 s'aguantessin
-s'aguanteu
 s'aguanti
 s'aguantin
 s'aguditza
@@ -227537,7 +227099,6 @@ s'agusava
 s'aida
 s'aigua
 s'aiguabarregen
-s'aiguabarreig
 s'aiguabarreja
 s'aiguabarrejaven
 s'aigualeix
@@ -227552,8 +227113,6 @@ s'aigualiria
 s'aigualirien
 s'aigualís
 s'aigualissin
-s'aiguardent
-s'aigües
 s'aïlla
 s'aïllà
 s'aïllarà
@@ -227607,18 +227166,15 @@ s'aixafessin
 s'aixafi
 s'aixafin
 s'aixafinaven
-s'aixam
 s'aixamfranarà
 s'aixamfranaran
 s'aixaragalla
 s'aixe
-s'aixec
 s'aixeca
 s'aixecà
 s'aixecara
 s'aixecarà
 s'aixecaran
-s'aixecarem
 s'aixecaren
 s'aixecaria
 s'aixecarien
@@ -227626,20 +227182,13 @@ s'aixecàs
 s'aixecassen
 s'aixecassin
 s'aixecava
-s'aixecàvem
 s'aixecaven
-s'aixeco
 s'aixeque
-s'aixequem
 s'aixequen
-s'aixeques
 s'aixequés
 s'aixequessin
-s'aixequeu
 s'aixequi
-s'aixequí
 s'aixequin
-s'així
 s'aixopluga
 s'aixoplugà
 s'aixoplugara
@@ -227695,7 +227244,6 @@ s'ajoquen
 s'ajoqués
 s'ajoqui
 s'ajoquin
-s'ajorn
 s'ajorna
 s'ajornà
 s'ajornala
@@ -227710,7 +227258,6 @@ s'ajornàs
 s'ajornava
 s'ajornaven
 s'ajorne
-s'ajornem
 s'ajornen
 s'ajornés
 s'ajornessin
@@ -227729,20 +227276,16 @@ s'ajudàs
 s'ajudava
 s'ajudaven
 s'ajude
-s'ajudem
 s'ajuden
-s'ajudes
 s'ajudés
 s'ajudessin
 s'ajudi
 s'ajudin
-s'ajunt
 s'ajunta
 s'ajuntà
 s'ajuntara
 s'ajuntarà
 s'ajuntaran
-s'ajuntarem
 s'ajuntaren
 s'ajuntaria
 s'ajuntarien
@@ -227752,16 +227295,12 @@ s'ajuntassin
 s'ajuntava
 s'ajuntaven
 s'ajunte
-s'ajuntem
 s'ajunten
-s'ajuntes
 s'ajuntés
 s'ajuntessen
 s'ajuntessin
-s'ajunteu
 s'ajunti
 s'ajuntin
-s'ajunto
 s'ajup
 s'ajupen
 s'ajupi
@@ -227775,16 +227314,13 @@ s'ajupiran
 s'ajupiren
 s'ajupiria
 s'ajupirien
-s'ajupis
 s'ajupís
 s'ajupissin
-s'ajust
 s'ajusta
 s'ajustà
 s'ajustara
 s'ajustarà
 s'ajustaran
-s'ajustarem
 s'ajustaren
 s'ajustaria
 s'ajustarien
@@ -227795,7 +227331,6 @@ s'ajustava
 s'ajustaven
 s'ajuste
 s'ajusten
-s'ajustes
 s'ajustés
 s'ajustessin
 s'ajusti
@@ -227804,9 +227339,7 @@ s'ajusticiava
 s'ajusticiaven
 s'ajusticien
 s'ajusticiessin
-s'ajusticii
 s'ajustin
-s'al
 s'ala
 s'alaba
 s'alabà
@@ -227859,16 +227392,13 @@ s'alarmés
 s'alarmessin
 s'alarmi
 s'alarmin
-s'alarmis
 salar-se
-sala's
 sala't
 salau-ho
 salau-la
 salau-les
 s'alava
 s'albardà
-s'alberg
 s'alberga
 s'albergà
 s'albergarà
@@ -227904,7 +227434,6 @@ s'alçara
 s'alçarà
 s'alçaran
 s'alçaren
-s'alçareu
 s'alçaria
 s'alçarien
 s'alçàs
@@ -227912,18 +227441,14 @@ s'alçassen
 s'alçava
 s'alçaven
 s'alce
-s'alcem
 s'alcen
-s'alces
 s'alcés
 s'alcessen
 s'alcessin
 s'alci
 s'alcin
-s'alcis
 s'alcofollà
 s'alcofollaven
-s'alcohol
 s'alcoholitza
 s'alcoholitzava
 s'alcoholitzen
@@ -227950,7 +227475,6 @@ s'aleatoritzaran
 s'aleatoritzava
 s'aleatoritzaven
 s'alegin
-s'alegr
 s'alegra
 s'alegrà
 s'alegrara
@@ -227964,15 +227488,11 @@ s'alegrassin
 s'alegrava
 s'alegraven
 s'alegre
-s'alegrem
 s'alegren
-s'alegres
 s'alegrés
 s'alegressin
-s'alegreu
 s'alegri
 s'alegrin
-s'alegro
 s'alen
 s'alena
 s'alenen
@@ -228006,7 +227526,6 @@ s'alertés
 s'alertessin
 s'alerti
 s'alertin
-s'ales
 sale's
 s'aleteja
 saleu-ho
@@ -228053,10 +227572,8 @@ s'alieni
 s'alienin
 s'aliés
 s'aliessin
-s'alii
 s'aliï
 s'aliïn
-s'aliment
 s'alimenta
 s'alimentà
 s'alimentara
@@ -228067,15 +227584,11 @@ s'alimentaria
 s'alimentarien
 s'alimentàs
 s'alimentava
-s'alimentàvem
 s'alimentaven
 s'alimente
-s'alimentem
 s'alimenten
-s'alimentes
 s'alimentés
 s'alimentessin
-s'alimenteu
 s'alimenti
 s'alimentin
 s'alin
@@ -228093,10 +227606,8 @@ s'alineava
 s'alineaven
 s'alinee
 s'alineen
-s'alinees
 s'alineés
 s'alineessin
-s'alinei
 s'alineï
 s'alineïn
 salinitzant-la
@@ -228111,18 +227622,14 @@ salivant-lo
 salivant-los
 salivar-los
 saliveja'n
-s'aljub
 sallant-los
-s'allar
 s'allararà
 s'allararan
-s'allarg
 s'allarga
 s'allargà
 s'allargara
 s'allargarà
 s'allargaran
-s'allargarem
 s'allargaren
 s'allargaria
 s'allargarien
@@ -228143,9 +227650,7 @@ s'allargassin
 s'allargava
 s'allargaven
 s'allargue
-s'allarguem
 s'allarguen
-s'allargues
 s'allargués
 s'allarguessin
 s'allargui
@@ -228209,7 +227714,6 @@ s'alleugerissin
 s'alleugés
 s'alleugessin
 s'alleugi
-s'alleugí
 s'alleugin
 s'alleuja
 s'alleujà
@@ -228238,7 +227742,6 @@ s'alliberava
 s'alliberaven
 s'allibere
 s'alliberen
-s'alliberes
 s'alliberés
 s'alliberessen
 s'alliberessin
@@ -228276,8 +227779,6 @@ s'allistessen
 s'allistessin
 s'allisti
 s'allistin
-s'allisto
-s'allit
 s'allita
 s'allità
 s'allitarà
@@ -228296,11 +227797,9 @@ s'alloca
 s'allonga
 s'allongàs
 s'allotge
-s'allotgem
 s'allotgen
 s'allotgés
 s'allotgessin
-s'allotgeu
 s'allotgi
 s'allotgin
 s'allotja
@@ -228308,7 +227807,6 @@ s'allotjà
 s'allotjara
 s'allotjarà
 s'allotjaran
-s'allotjarem
 s'allotjàrem
 s'allotjaren
 s'allotjaria
@@ -228338,7 +227836,6 @@ s'allunarà
 s'allunaran
 s'allunava
 s'allunen
-s'alluny
 s'allunya
 s'allunyà
 s'allunyara
@@ -228350,18 +227847,12 @@ s'allunyarien
 s'allunyàs
 s'allunyassin
 s'allunyava
-s'allunyàvem
 s'allunyaven
 s'allunye
 s'allunyen
-s'allunyes
 s'allunyés
-s'allunyéssim
 s'allunyessin
-s'allunyessis
-s'allunyeu
 s'allunyi
-s'allunyí
 s'allunyin
 salmodiant-la
 salmodiar-los
@@ -228523,7 +228014,6 @@ saltem-ho
 saltem-la
 saltem-nos
 saltem-nos-ho
-s'alter
 s'altera
 s'alterà
 s'alterara
@@ -228538,12 +228028,10 @@ s'alterava
 s'alteraven
 s'altere
 s'alteren
-s'alteres
 s'alterés
 s'alteressin
 s'alteri
 s'alterin
-s'alteris
 s'alterna
 s'alternà
 s'alternarà
@@ -228552,9 +228040,7 @@ s'alternaren
 s'alternaria
 s'alternarien
 s'alternava
-s'alternàvem
 s'alternaven
-s'alternem
 s'alternen
 s'alternés
 s'alternessin
@@ -228754,18 +228240,14 @@ s'alzinava
 s'alzinaven
 s'alzinen
 s'alzinessin
-s'am
 s'ama
 s'amaçava
-s'amag
 s'amaga
 s'amagà
 s'amagara
 s'amagarà
 s'amagaran
-s'amagarem
 s'amagaren
-s'amagareu
 s'amagaria
 s'amagarien
 s'amagàs
@@ -228773,7 +228255,6 @@ s'amagassen
 s'amagassin
 s'amagava
 s'amagaven
-s'amago
 s'amagreix
 s'amagreixen
 s'amagreixi
@@ -228785,13 +228266,10 @@ s'amagriren
 s'amagriria
 s'amagrís
 s'amague
-s'amaguem
 s'amaguen
-s'amagues
 s'amagués
 s'amaguessen
 s'amaguessin
-s'amagueu
 s'amagui
 s'amaguin
 s'amaina
@@ -228843,7 +228321,6 @@ s'amansiren
 s'amansiria
 s'amansís
 s'amansissin
-s'amant
 s'amanyaga
 s'amanyagà
 s'amanyagaran
@@ -228855,7 +228332,6 @@ s'amanyaguen
 s'amanyaguessin
 s'amanyaguin
 s'amanyogava
-s'amar
 s'amara
 s'amarà
 s'amaran
@@ -228917,7 +228393,6 @@ s'ambicionava
 s'ambicionen
 s'ambicionés
 s'ambicioni
-s'ambient
 s'ambienta
 s'ambientà
 s'ambientarà
@@ -228965,7 +228440,6 @@ s'americanitze
 s'americanitzen
 s'amessin
 s'ami
-s'amic
 s'amida
 s'amidà
 s'amidarà
@@ -228979,7 +228453,6 @@ s'amidés
 s'amidin
 s'amiga
 s'amiguen
-s'amigues
 s'amigui
 s'amista
 s'amistà
@@ -229000,7 +228473,6 @@ s'amnistien
 s'amnistiés
 s'amnistiessin
 s'amnistiï
-s'amo
 s'amoïna
 s'amoïnà
 s'amoïnara
@@ -229014,7 +228486,6 @@ s'amoïnava
 s'amoïnaven
 s'amoïne
 s'amoïnen
-s'amoïnes
 s'amoïnés
 s'amoïnessin
 s'amoïni
@@ -229048,7 +228519,6 @@ s'amonesta
 s'amonestarà
 s'amonestava
 s'amonestaven
-s'amor
 s'amore
 s'amorgona
 s'amoroseix
@@ -229065,7 +228535,6 @@ s'amorra
 s'amorrà
 s'amorraren
 s'amorrava
-s'amorràvem
 s'amorraven
 s'amorren
 s'amorrés
@@ -229107,11 +228576,9 @@ s'amortitzava
 s'amortitzaven
 s'amortitze
 s'amortitzen
-s'amortitzes
 s'amortitzés
 s'amortitzi
 s'amortitzin
-s'amosques
 s'amostra
 s'amostraren
 s'amotina
@@ -229142,9 +228609,7 @@ s'ampliassin
 s'ampliava
 s'ampliaven
 s'amplie
-s'ampliem
 s'amplien
-s'amplies
 s'ampliés
 s'ampliessin
 s'amplifica
@@ -229160,8 +228625,6 @@ s'amplifiquen
 s'amplifiqués
 s'amplifiqui
 s'amplifiquin
-s'amplii
-s'amplií
 s'ampliï
 s'ampliïn
 s'ampra
@@ -229212,13 +228675,11 @@ s'amura
 s'amusse
 s'anà
 sana'l
-s'analitz
 s'analitza
 s'analitzà
 s'analitzara
 s'analitzarà
 s'analitzaran
-s'analitzarem
 s'analitzaren
 s'analitzares
 s'analitzaria
@@ -229262,7 +228723,6 @@ s'anastomosen
 s'anatomitza
 s'anava
 s'anaven
-s'anaves
 sancionant-la
 sancionant-les
 sancionant-lo
@@ -229283,7 +228743,6 @@ sancionar-vos
 sancionem-lo
 sancionem-los
 sancioni'm
-s'ancor
 s'ancora
 s'ancorà
 s'ancorarà
@@ -229328,7 +228787,6 @@ sanejar-ne
 sanejar-nos
 sanejar-se
 sanejar-vos
-s'anell
 s'anella
 s'anellà
 s'anellarà
@@ -229338,7 +228796,6 @@ s'anellaven
 s'anellen
 s'anelli
 s'anellin
-s'anem
 sane's
 s'anés
 s'anessen
@@ -229351,7 +228808,6 @@ s'anestesiava
 s'anestesiaven
 s'anestesien
 s'anestesiï
-s'aneu
 sangcremar-se
 sangglaçar-se
 s'anglicitzaren
@@ -229405,7 +228861,6 @@ s'anihilés
 s'anihilessin
 s'anihili
 s'anihilin
-s'anim
 s'anima
 s'animà
 s'animalitza
@@ -229416,9 +228871,7 @@ s'animalitzi
 s'animara
 s'animarà
 s'animaran
-s'animarem
 s'animaren
-s'animareu
 s'animaria
 s'animarien
 s'animàs
@@ -229426,15 +228879,11 @@ s'animassin
 s'animava
 s'animaven
 s'anime
-s'animem
 s'animen
-s'animes
 s'animés
 s'animessin
-s'animeu
 s'animi
 s'animin
-s'animo
 s'aniquila
 s'aniquilà
 s'aniquilaran
@@ -229451,7 +228900,6 @@ s'anirà
 s'aniran
 s'aniria
 s'anirien
-s'anís
 s'anivella
 s'anivellà
 s'anivellarà
@@ -229468,7 +228916,6 @@ s'anivellés
 s'anivellessin
 s'anivelli
 s'anivellin
-s'annex
 s'annexa
 s'annexà
 s'annexara
@@ -229505,7 +228952,6 @@ s'anoditza
 s'anoditzen
 s'anomena
 s'anomenà
-s'anomenam
 s'anomenara
 s'anomenarà
 s'anomenaran
@@ -229514,17 +228960,12 @@ s'anomenaria
 s'anomenarien
 s'anomenàs
 s'anomenava
-s'anomenàvem
 s'anomenaven
 s'anomene
-s'anomenem
 s'anomenen
-s'anomenes
 s'anomenés
 s'anomenessin
-s'anomeneu
 s'anomeni
-s'anomení
 s'anomenin
 s'anonimitza
 s'anonimitzarà
@@ -229539,10 +228980,8 @@ s'anorrearia
 s'anorreava
 s'anorreen
 s'anorreés
-s'anorrei
 s'anostra
 s'anostraven
-s'anot
 s'anota
 s'anotà
 s'anotara
@@ -229558,7 +228997,6 @@ s'anote
 s'anoten
 s'anotés
 s'anotessin
-s'anoteu
 s'anoti
 s'anotin
 s'anquilosa
@@ -229568,7 +229006,6 @@ s'anquilosen
 s'anquilosés
 s'anquilosi
 s'anquilosin
-s'ans
 s'ansa
 s'ansiejava
 s'anteposa
@@ -229580,12 +229017,10 @@ s'anteposava
 s'anteposaven
 s'antepose
 s'anteposen
-s'anteposes
 s'anteposés
 s'anteposessin
 s'anteposi
 s'anteposin
-s'anticip
 s'anticipa
 s'anticipà
 s'anticipara
@@ -229597,7 +229032,6 @@ s'anticiparien
 s'anticipava
 s'anticipaven
 s'anticipe
-s'anticipem
 s'anticipen
 s'anticipés
 s'anticipessin
@@ -229635,7 +229069,6 @@ s'antullaven
 s'antullen
 s'antullés
 s'antulli
-s'anul
 s'anul·la
 s'anul·là
 s'anul·lara
@@ -229650,7 +229083,6 @@ s'anul·lava
 s'anul·laven
 s'anul·le
 s'anul·len
-s'anul·les
 s'anul·lés
 s'anul·lessin
 s'anul·li
@@ -229668,14 +229100,10 @@ s'anunciava
 s'anunciaven
 s'anuncie
 s'anuncien
-s'anuncies
 s'anunciés
 s'anunciessin
-s'anuncii
-s'anuncií
 s'anunciï
 s'anunciïn
-s'anyell
 s'aombra
 s'aombrà
 s'aombrava
@@ -229691,7 +229119,6 @@ s'apadrinen
 s'apadrinés
 s'apadrini
 s'apadrinin
-s'apag
 s'apaga
 s'apagà
 s'apagara
@@ -229703,18 +229130,12 @@ s'apagarien
 s'apagàs
 s'apagava
 s'apagaven
-s'apago
 s'apague
-s'apaguem
 s'apaguen
-s'apagues
 s'apagués
 s'apaguessin
-s'apagueu
 s'apagui
-s'apaguí
 s'apaguin
-s'apaivag
 s'apaivaga
 s'apaivagà
 s'apaivagara
@@ -229728,7 +229149,6 @@ s'apaivagava
 s'apaivagaven
 s'apaivague
 s'apaivaguen
-s'apaivagues
 s'apaivagués
 s'apaivaguessin
 s'apaivagui
@@ -229738,7 +229158,6 @@ s'apalancarà
 s'apalancaven
 s'apalanque
 s'apalanquen
-s'apalanques
 s'apalanqui
 s'apalanquin
 s'apalli
@@ -229768,7 +229187,6 @@ s'apanye
 s'apanyen
 s'apanyés
 s'apanyessin
-s'apanyeu
 s'apanyi
 s'apanyin
 s'apar
@@ -229806,7 +229224,6 @@ s'apareixeria
 s'apareixerien
 s'apareixia
 s'apareixien
-s'aparell
 s'aparella
 s'aparellà
 s'aparellarà
@@ -229850,7 +229267,6 @@ s'aparqui
 s'aparquin
 s'aparroquianen
 s'aparroquien
-s'apart
 s'aparta
 s'apartà
 s'apartara
@@ -229863,18 +229279,13 @@ s'apartàs
 s'apartassen
 s'apartassin
 s'apartava
-s'apartàvem
 s'apartaven
 s'aparte
-s'apartem
 s'aparten
-s'apartes
 s'apartés
 s'apartessin
-s'aparteu
 s'aparti
 s'apartin
-s'aparto
 s'apassiona
 s'apassionà
 s'apassionara
@@ -229906,7 +229317,6 @@ s'apegà
 s'apegarà
 s'apegaran
 s'apegaren
-s'apegau
 s'apegava
 s'apegaven
 s'apegue
@@ -229916,7 +229326,6 @@ s'apeguessin
 s'apegui
 s'apeguin
 s'apeixa
-s'apel
 s'apella
 s'apellà
 s'apel·la
@@ -229987,11 +229396,9 @@ s'apilarien
 s'apilava
 s'apilaven
 s'apilen
-s'apiles
 s'apilessin
 s'apili
 s'apilin
-s'apilis
 s'apilona
 s'apilonà
 s'apilonarà
@@ -230077,13 +229484,11 @@ s'aplaudiren
 s'aplaudiria
 s'aplaudís
 s'aplaudissin
-s'apleg
 s'aplega
 s'aplegà
 s'aplegara
 s'aplegarà
 s'aplegaran
-s'aplegarem
 s'aplegàrem
 s'aplegaren
 s'aplegaria
@@ -230094,7 +229499,6 @@ s'aplegassin
 s'aplegava
 s'aplegaven
 s'aplegue
-s'apleguem
 s'apleguen
 s'aplegués
 s'apleguessen
@@ -230103,7 +229507,6 @@ s'aplegui
 s'apleguin
 s'apleta
 s'apleten
-s'aplic
 s'aplica
 s'aplicà
 s'aplicara
@@ -230118,9 +229521,7 @@ s'aplicassin
 s'aplicava
 s'aplicaven
 s'aplique
-s'apliquem
 s'apliquen
-s'apliques
 s'apliqués
 s'apliquessin
 s'apliqui
@@ -230136,7 +229537,6 @@ s'apocava
 s'apocaven
 s'apocopa
 s'apocopés
-s'apoder
 s'apodera
 s'apoderà
 s'apoderara
@@ -230149,16 +229549,13 @@ s'apoderàs
 s'apoderassen
 s'apoderassin
 s'apoderava
-s'apoderàvem
 s'apoderaven
 s'apodere
 s'apoderen
-s'apoderes
 s'apoderés
 s'apoderessin
 s'apoderi
 s'apoderin
-s'apodero
 s'apoltrona
 s'apoltronen
 s'apoltroni
@@ -230207,7 +229604,6 @@ s'apostaren
 s'apostaria
 s'apostarien
 s'apostàs
-s'apostat
 s'apostatarà
 s'apostati
 s'apostava
@@ -230225,7 +229621,6 @@ s'apostrofaria
 s'apostrofava
 s'apostrofaven
 s'apostrofe
-s'apostrofem
 s'apostrofen
 s'aprecia
 s'aprecià
@@ -230239,13 +229634,9 @@ s'apreciàs
 s'apreciava
 s'apreciaven
 s'aprecie
-s'apreciem
 s'aprecien
-s'aprecies
 s'apreciés
 s'apreciessin
-s'aprecii
-s'aprecií
 s'apreciï
 s'apreciïn
 s'apregona
@@ -230262,7 +229653,6 @@ s'apremia
 s'apremie
 s'aprén
 s'aprèn
-s'aprenc
 s'aprendrà
 s'aprendran
 s'aprendria
@@ -230279,7 +229669,6 @@ s'aprengui
 s'aprenguin
 s'aprenia
 s'aprenien
-s'après
 s'apressa
 s'apressà
 s'apressara
@@ -230314,20 +229703,17 @@ s'aprima
 s'aprimà
 s'aprimarà
 s'aprimaran
-s'aprimarem
 s'aprimaren
 s'aprimaria
 s'aprimarien
 s'aprimàs
 s'aprimava
 s'aprimaven
-s'aprimem
 s'aprimen
 s'aprimés
 s'aprimessin
 s'aprimi
 s'aprimin
-s'aprofit
 s'aprofita
 s'aprofità
 s'aprofitara
@@ -230341,9 +229727,7 @@ s'aprofitassen
 s'aprofitava
 s'aprofitaven
 s'aprofite
-s'aprofitem
 s'aprofiten
-s'aprofites
 s'aprofités
 s'aprofitessin
 s'aprofiti
@@ -230380,12 +229764,9 @@ s'apropassin
 s'apropava
 s'apropaven
 s'aprope
-s'apropem
 s'apropen
-s'apropes
 s'apropés
 s'apropessin
-s'apropeu
 s'apropi
 s'apropia
 s'apropià
@@ -230402,20 +229783,16 @@ s'apropie
 s'apropien
 s'apropiés
 s'apropiessin
-s'apropii
-s'apropií
 s'apropiï
 s'apropiïn
 s'apropin
 s'apropinqua
 s'apropinquava
-s'aprov
 s'aprova
 s'aprovà
 s'aprovara
 s'aprovarà
 s'aprovaran
-s'aprovarem
 s'aprovaren
 s'aprovaria
 s'aprovarien
@@ -230425,13 +229802,10 @@ s'aprovassin
 s'aprovava
 s'aprovaven
 s'aprove
-s'aprovem
 s'aproven
-s'aproves
 s'aprovés
 s'aprovessin
 s'aprovi
-s'aproví
 s'aprovin
 s'aprovisiona
 s'aprovisionà
@@ -230451,17 +229825,13 @@ s'aproximarà
 s'aproximaran
 s'aproximaren
 s'aproximaria
-s'aproximaríem
 s'aproximarien
 s'aproximava
 s'aproximaven
 s'aproxime
-s'aproximem
 s'aproximen
-s'aproximes
 s'aproximés
 s'aproximessin
-s'aproximeu
 s'aproximi
 s'aproximin
 s'apuge
@@ -230479,7 +229849,6 @@ s'apujaria
 s'apujarien
 s'apujava
 s'apujaven
-s'apunt
 s'apunta
 s'apuntà
 s'apuntala
@@ -230508,15 +229877,11 @@ s'apuntassin
 s'apuntava
 s'apuntaven
 s'apunte
-s'apuntem
 s'apunten
-s'apuntes
 s'apuntés
 s'apuntessin
-s'apunteu
 s'apunti
 s'apuntin
-s'apunto
 s'apunyala
 s'apunyalà
 s'apunyalarà
@@ -230541,7 +229906,6 @@ s'apure
 s'apuren
 s'apurés
 s'apuressin
-s'apureu
 s'apuri
 s'apurin
 s'aquarel·la
@@ -230612,7 +229976,6 @@ s'arbitrava
 s'arbitraven
 s'arbitre
 s'arbitren
-s'arbitres
 s'arbitrés
 s'arbitressin
 s'arbitri
@@ -230633,11 +229996,8 @@ s'arbrarà
 s'arbraran
 s'arbre
 s'arbren
-s'arbres
-s'arc
 s'arca
 s'arcava
-s'arco
 s'arega
 s'areguen
 s'arena
@@ -230646,17 +230006,14 @@ s'arengava
 s'arenguen
 s'arengués
 s'arengui
-s'areno
 s'argamassa
 sargeix-l'hi
 sargeix-li-la
 sargeix-lo
 sargeix-me
-s'argent
 s'argenta
 s'argentava
 s'argentaven
-s'argentí
 s'argila
 sargint-la
 sargint-li
@@ -230686,7 +230043,6 @@ s'arguïa
 s'argüirà
 s'argüís
 s'arguïx
-s'argument
 s'argumenta
 s'argumentà
 s'argumentara
@@ -230698,14 +230054,12 @@ s'argumentava
 s'argumentaven
 s'argumente
 s'argumenten
-s'argumentes
 s'argumentés
 s'argumentessin
 s'argumenti
 s'argumentin
 s'aristocratitzà
 s'aristocratitzava
-s'arm
 s'arma
 s'armà
 s'armara
@@ -230720,12 +230074,10 @@ s'armava
 s'armaven
 s'arme
 s'armen
-s'armes
 s'armés
 s'armessin
 s'armi
 s'armin
-s'armo
 s'arna
 s'arnava
 s'arne
@@ -230769,7 +230121,6 @@ s'arrabassi
 s'arrabassin
 s'arracona
 s'arraconà
-s'arraconam
 s'arraconarà
 s'arraconaran
 s'arraconaren
@@ -230797,7 +230148,6 @@ s'arramaden
 s'arramassa
 s'arramassava
 s'arramassessin
-s'arramb
 s'arramba
 s'arrambà
 s'arrambara
@@ -230819,7 +230169,6 @@ s'arrambli
 s'arramellava
 s'arramellaven
 s'arramellen
-s'arran
 s'arrana
 s'arranà
 s'arranava
@@ -230858,7 +230207,6 @@ s'arranqués
 s'arranquessin
 s'arranqui
 s'arranquin
-s'arrap
 s'arrapa
 s'arrapà
 s'arraparà
@@ -230966,8 +230314,6 @@ s'arredossaven
 s'arredossen
 s'arredossi
 s'arree
-s'arrees
-s'arregl
 s'arregla
 s'arreglà
 s'arreglara
@@ -230980,21 +230326,16 @@ s'arreglàs
 s'arreglava
 s'arreglaven
 s'arregle
-s'arreglem
 s'arreglen
-s'arregles
 s'arreglés
 s'arreglessin
 s'arregli
-s'arreglí
 s'arreglin
-s'arreglo
 s'arregussa
 s'arregussà
 s'arregussava
 s'arregussaven
 s'arregussen
-s'arrel
 s'arrela
 s'arrelà
 s'arrelara
@@ -231085,7 +230426,6 @@ s'arrenglarien
 s'arrenglaven
 s'arrengle
 s'arrenglen
-s'arrengler
 s'arrenglera
 s'arrenglerà
 s'arrenglerarà
@@ -231094,11 +230434,9 @@ s'arrengleraren
 s'arrengleraria
 s'arrenglerarien
 s'arrenglerava
-s'arrengleràvem
 s'arrengleraven
 s'arrenglere
 s'arrengleren
-s'arrengleres
 s'arrenglerés
 s'arrengleressin
 s'arrengleri
@@ -231167,13 +230505,11 @@ s'arriaren
 s'arriaria
 s'arriava
 s'arriaven
-s'arrib
 s'arriba
 s'arribà
 s'arribara
 s'arribarà
 s'arribaran
-s'arribaré
 s'arribaren
 s'arribaria
 s'arribarien
@@ -231182,24 +230518,18 @@ s'arribassin
 s'arribava
 s'arribaven
 s'arribe
-s'arribem
 s'arriben
-s'arribes
 s'arribés
 s'arribessen
 s'arribessin
-s'arribeu
 s'arribi
 s'arribin
-s'arribis
-s'arribo
 s'arrie
 s'arrien
 s'arriés
 s'arrigola
 s'arrigolaran
 s'arrigoli
-s'arrii
 s'arriï
 s'arriïn
 s'arrima
@@ -231227,10 +230557,8 @@ s'arriscava
 s'arriscaven
 s'arrisque
 s'arrisquen
-s'arrisques
 s'arrisqués
 s'arrisquessin
-s'arrisqueu
 s'arrisqui
 s'arrisquin
 s'arrissa
@@ -231288,7 +230616,6 @@ s'arromangàs
 s'arromangava
 s'arromangaven
 s'arromangue
-s'arromanguem
 s'arromanguen
 s'arromangués
 s'arromanguessin
@@ -231311,20 +230638,15 @@ s'arronsaven
 s'arronsen
 s'arronsés
 s'arronsessin
-s'arronseu
 s'arronsi
 s'arronsin
-s'arrop
 s'arropen
-s'arropí
-s'arròs
 s'arrosa
 s'arrossa
 s'arrossarà
 s'arrosse
 s'arrossega
 s'arrossegà
-s'arrossegam
 s'arrossegara
 s'arrossegarà
 s'arrossegaran
@@ -231422,7 +230744,6 @@ s'articulava
 s'articulaven
 s'articule
 s'articulen
-s'articules
 s'articulés
 s'articulessin
 s'articuli
@@ -231432,7 +230753,6 @@ s'artigaren
 s'artigava
 s'artigaven
 s'artiguen
-s'artigues
 s'artillaren
 s'arxiva
 s'arxivà
@@ -231467,7 +230787,6 @@ s'asclava
 s'ascle
 s'asclen
 s'asclés
-s'asfalt
 s'asfalta
 s'asfaltà
 s'asfaltarà
@@ -231497,7 +230816,6 @@ s'asfixiés
 s'asfixiessin
 s'asfixiï
 s'asfixiïn
-s'asil
 s'asilà
 s'asilaren
 s'asilen
@@ -231516,17 +230834,14 @@ s'aspiraria
 s'aspirava
 s'aspire
 s'aspiren
-s'aspires
 s'aspirés
 s'aspiri
-s'assabent
 s'assabenta
 s'assabentà
 s'assabentara
 s'assabentarà
 s'assabentaran
 s'assabentaren
-s'assabentareu
 s'assabentàreu
 s'assabentaria
 s'assabentarien
@@ -231535,9 +230850,7 @@ s'assabentassin
 s'assabentava
 s'assabentaven
 s'assabente
-s'assabentem
 s'assabenten
-s'assabentes
 s'assabentés
 s'assabentessen
 s'assabentessin
@@ -231567,7 +230880,6 @@ s'assagi
 s'assagin
 s'assagués
 s'assaguessin
-s'assaig
 s'assaja
 s'assajà
 s'assajara
@@ -231578,7 +230890,6 @@ s'assajaria
 s'assajarien
 s'assajava
 s'assajaven
-s'assalt
 s'assalta
 s'assaltà
 s'assaltaren
@@ -231611,7 +230922,6 @@ s'assassinen
 s'assassinés
 s'assassini
 s'assassinin
-s'assec
 s'asseca
 s'assecà
 s'assecara
@@ -231636,9 +230946,7 @@ s'assegués
 s'asseguessen
 s'asseguessin
 s'assegui
-s'asseguí
 s'asseguin
-s'assegur
 s'assegura
 s'assegurà
 s'assegurara
@@ -231646,23 +230954,18 @@ s'assegurarà
 s'asseguraran
 s'asseguraren
 s'asseguraria
-s'asseguraríem
 s'assegurarien
 s'asseguràs
 s'assegurava
 s'asseguraven
 s'assegure
-s'assegurem
 s'asseguren
-s'assegures
 s'assegurés
 s'asseguressin
 s'asseguri
 s'assegurin
 s'asseia
 s'asseien
-s'asseieu
-s'assembl
 s'assembla
 s'assemblà
 s'assemblara
@@ -231677,14 +230980,11 @@ s'assemblassin
 s'assemblava
 s'assemblaven
 s'assemble
-s'assemblem
 s'assemblen
-s'assembles
 s'assemblés
 s'assemblessin
 s'assembli
 s'assemblin
-s'assent
 s'assenta
 s'assentà
 s'assentara
@@ -231700,9 +231000,7 @@ s'assente
 s'assenteix
 s'assenteixen
 s'assenteixi
-s'assentem
 s'assenten
-s'assentes
 s'assentés
 s'assentessin
 s'assenti
@@ -231712,13 +231010,11 @@ s'assentiria
 s'assentisca
 s'assentix
 s'assentixen
-s'assenyal
 s'assenyala
 s'assenyalà
 s'assenyalara
 s'assenyalarà
 s'assenyalaran
-s'assenyalaré
 s'assenyalaren
 s'assenyalaria
 s'assenyalarien
@@ -231726,16 +231022,12 @@ s'assenyalava
 s'assenyalaven
 s'assenyale
 s'assenyalen
-s'assenyales
 s'assenyalés
 s'assenyalessin
 s'assenyali
 s'assenyalin
-s'assenyalis
-s'assenyalo
 s'asseque
 s'assequen
-s'asseques
 s'assequés
 s'assequessin
 s'assequi
@@ -231859,15 +231151,10 @@ s'associava
 s'associaven
 s'associe
 s'associen
-s'associes
 s'associés
 s'associessin
-s'associi
-s'associí
 s'associï
 s'associïn
-s'associo
-s'assoco
 s'assola
 s'assolà
 s'assolara
@@ -231888,7 +231175,6 @@ s'assolellaven
 s'assolellen
 s'assolellessin
 s'assolelli
-s'assolellí
 s'assolellin
 s'assolen
 s'assolés
@@ -231903,11 +231189,9 @@ s'assolin
 s'assolira
 s'assolirà
 s'assoliran
-s'assolirem
 s'assoliren
 s'assoliria
 s'assolirien
-s'assolis
 s'assolís
 s'assolisca
 s'assolisquen
@@ -231959,7 +231243,6 @@ s'assuaviren
 s'assuavís
 s'assumeix
 s'assumeixen
-s'assumeixes
 s'assumeixi
 s'assumeixin
 s'assumesca
@@ -232004,10 +231287,8 @@ s'atabalaven
 s'atabalen
 s'atabalés
 s'atabalessin
-s'atabaleu
 s'atabali
 s'atabalin
-s'atac
 s'ataca
 s'atacà
 s'atacara
@@ -232045,7 +231326,6 @@ satanitzant-lo
 satanitzar-la
 satanitzar-les
 satanitzar-lo
-s'atans
 s'atansa
 s'atansà
 s'atansara
@@ -232083,7 +231363,6 @@ s'ataque
 s'ataquen
 s'ataqués
 s'ataquessin
-s'ataqueu
 s'ataqui
 s'ataquin
 s'ataquinaven
@@ -232153,7 +231432,6 @@ s'atendran
 s'atendria
 s'atendrien
 s'atenen
-s'ateneu
 s'atenga
 s'atengué
 s'atenguen
@@ -232180,7 +231458,6 @@ s'atenue
 s'atenuen
 s'atenués
 s'atenuessin
-s'atenuí
 s'atenuï
 s'atenuïn
 s'ateny
@@ -232328,7 +231605,6 @@ s'atordia
 s'atordiran
 s'atordiria
 s'atordissin
-s'atorg
 s'atorga
 s'atorgà
 s'atorgara
@@ -232342,7 +231618,6 @@ s'atorgava
 s'atorgaven
 s'atorgue
 s'atorguen
-s'atorgues
 s'atorgués
 s'atorguessin
 s'atorgui
@@ -232411,7 +231686,6 @@ s'atreu
 s'atreuen
 s'atreveix
 s'atreveixen
-s'atreveixes
 s'atreveixi
 s'atreveixin
 s'atrevesca
@@ -232421,21 +231695,17 @@ s'atrevesquin
 s'atreví
 s'atrevia
 s'atrevien
-s'atrevim
 s'atrevira
 s'atrevirà
 s'atreviran
-s'atrevirem
 s'atreviren
 s'atreviria
 s'atrevirien
 s'atrevís
-s'atrevisc
 s'atrevisca
 s'atrevisquen
 s'atrevissen
 s'atrevissin
-s'atreviu
 s'atrevix
 s'atrevixen
 s'atribola
@@ -232445,7 +231715,6 @@ s'atribolava
 s'atribolen
 s'atribueix
 s'atribueixen
-s'atribueixes
 s'atribueixi
 s'atribueixin
 s'atribuesca
@@ -232515,7 +231784,6 @@ s'atufa
 s'atuïen
 s'atuïren
 s'atupa
-s'atur
 s'atura
 s'aturà
 saturant-la
@@ -232528,7 +231796,6 @@ saturant-se
 s'aturara
 s'aturarà
 s'aturaran
-s'aturarem
 s'aturaren
 saturar-ho
 s'aturaria
@@ -232552,13 +231819,10 @@ s'aturassin
 s'aturava
 s'aturaven
 s'ature
-s'aturem
 s'aturen
-s'atures
 s'aturés
 s'aturessen
 s'aturessin
-s'atureu
 s'aturi
 s'aturin
 saturi's
@@ -232577,7 +231841,6 @@ s'audités
 s'auditessin
 s'auditi
 s'auditin
-s'augment
 s'augmenta
 s'augmentà
 s'augmentara
@@ -232591,7 +231854,6 @@ s'augmentassin
 s'augmentava
 s'augmentaven
 s'augmente
-s'augmentem
 s'augmenten
 s'augmentés
 s'augmentessin
@@ -232737,7 +231999,6 @@ s'autodetermina
 s'autodeterminà
 s'autodeterminarà
 s'autodeterminaran
-s'autodeterminareu
 s'autodeterminarien
 s'autodeterminava
 s'autodeterminaven
@@ -232899,9 +232160,7 @@ s'autoproclamarien
 s'autoproclamava
 s'autoproclamaven
 s'autoproclame
-s'autoproclamem
 s'autoproclamen
-s'autoproclames
 s'autoproclamés
 s'autoproclamessin
 s'autoproclami
@@ -232958,7 +232217,6 @@ s'autoritzava
 s'autoritzaven
 s'autoritze
 s'autoritzen
-s'autoritzes
 s'autoritzés
 s'autoritzessin
 s'autoritzi
@@ -232978,7 +232236,6 @@ s'auxiliaven
 s'auxiliés
 s'auxiliï
 s'auxiliïn
-s'aval
 s'avala
 s'avalarà
 s'avalaran
@@ -232991,8 +232248,6 @@ s'avalés
 s'avalessin
 s'avali
 s'avalin
-s'avalo
-s'avalot
 s'avalota
 s'avalotà
 s'avalotara
@@ -233004,7 +232259,6 @@ s'avalotàs
 s'avalotava
 s'avalotaven
 s'avaloten
-s'avalotes
 s'avalotés
 s'avaloti
 s'avalotin
@@ -233022,10 +232276,8 @@ s'avalue
 s'avaluen
 s'avalués
 s'avaluessin
-s'avaluí
 s'avaluï
 s'avaluïn
-s'avanç
 s'avança
 s'avançà
 s'avançara
@@ -233039,9 +232291,7 @@ s'avançassin
 s'avançava
 s'avançaven
 s'avance
-s'avancem
 s'avancen
-s'avances
 s'avancés
 s'avancessin
 s'avanci
@@ -233078,7 +232328,6 @@ s'avariés
 s'avariessin
 s'avariï
 s'avariïn
-s'avaro
 s'avé
 s'aveïna
 s'aveïnà
@@ -233087,8 +232336,6 @@ s'aveïnava
 s'aveïnaven
 s'aveïnen
 s'aveïnin
-s'avenc
-s'avenç
 s'avenca
 s'avença
 s'avençà
@@ -233115,7 +232362,6 @@ s'aventà
 s'aventava
 s'aventaven
 s'aventen
-s'aventur
 s'aventura
 s'aventurà
 s'aventurara
@@ -233130,7 +232376,6 @@ s'aventurava
 s'aventuraven
 s'aventure
 s'aventuren
-s'aventures
 s'aventurés
 s'aventuressin
 s'aventuri
@@ -233147,7 +232392,6 @@ s'avergonyesquin
 s'avergonyí
 s'avergonyia
 s'avergonyien
-s'avergonyim
 s'avergonyira
 s'avergonyirà
 s'avergonyiran
@@ -233158,10 +232402,8 @@ s'avergonyís
 s'avergonyisca
 s'avergonyisquen
 s'avergonyissin
-s'avergonyiu
 s'avergonyix
 s'avergonyixen
-s'avès
 s'avesa
 s'avesà
 s'avesarà
@@ -233193,7 +232435,6 @@ s'aviciessin
 s'aviciï
 s'avida
 s'avie
-s'aviem
 s'avien
 s'aviés
 s'aviï
@@ -233214,15 +232455,11 @@ s'avingué
 s'avinguen
 s'avinguera
 s'avingueren
-s'avingues
 s'avingués
 s'avinguessen
 s'avinguessin
-s'avingueu
 s'avingui
 s'avinguin
-s'avinguis
-s'avís
 s'avisa
 s'avisà
 s'avisara
@@ -233283,13 +232520,11 @@ s'avorrirà
 s'avorriran
 s'avorriren
 s'avorriria
-s'avorriríem
 s'avorririen
 s'avorrís
 s'avorrisca
 s'avorrisquen
 s'avorrissin
-s'avorriu
 s'avorrix
 s'avorrixen
 s'avorta
@@ -233400,7 +232635,6 @@ sedar-me
 sedar-nos
 sedar-se
 sedar-te
-seda's
 sedassant-se
 sedassar-ho
 sedassar-la
@@ -233408,7 +232642,6 @@ sedassar-lo
 sedassar-se
 sedentaritzar-los
 sedentaritzar-se
-s'edific
 s'edifica
 s'edificà
 s'edificara
@@ -233436,7 +232669,6 @@ sedimentar-la
 sedimentar-les
 sedimentar-lo
 sedimentar-se
-s'edit
 s'edita
 s'edità
 s'editara
@@ -233450,12 +232682,10 @@ s'editava
 s'editaven
 s'edite
 s'editen
-s'edites
 s'edités
 s'editessin
 s'editi
 s'editin
-s'educ
 s'educa
 s'educà
 s'educara
@@ -233519,10 +232749,8 @@ s'efectuava
 s'efectuaven
 s'efectue
 s'efectuen
-s'efectues
 s'efectués
 s'efectuessin
-s'efectuí
 s'efectuï
 s'efectuïn
 s'efemina
@@ -233678,7 +232906,6 @@ segueix-me
 segueix-m'hi
 segueix-ne
 segueix-nos
-segueix-se
 segueix-te
 seguem-hi
 seguem-les
@@ -233792,7 +233019,6 @@ seis-me
 seis-se
 seis-vos
 s'eixala
-s'eixam
 s'eixama
 s'eixamava
 s'eixamaven
@@ -233811,8 +233037,6 @@ s'eixamoren
 s'eixamorés
 s'eixamoressin
 s'eixamorin
-s'eixamoro
-s'eixampl
 s'eixampla
 s'eixamplà
 s'eixamplara
@@ -233826,7 +233050,6 @@ s'eixamplava
 s'eixamplaven
 s'eixample
 s'eixamplen
-s'eixamples
 s'eixamplés
 s'eixamplessin
 s'eixampli
@@ -233884,7 +233107,6 @@ s'eixorivirà
 s'eixoriviren
 s'eixorivís
 s'eixorivissin
-s'eixug
 s'eixuga
 s'eixugà
 s'eixugara
@@ -233899,11 +233121,9 @@ s'eixugava
 s'eixugaven
 s'eixugue
 s'eixuguen
-s'eixugues
 s'eixugués
 s'eixuguessin
 s'eixugui
-s'eixuguí
 s'eixuguin
 s'ejacula
 s'ejaculen
@@ -233914,7 +233134,6 @@ s'ejectaria
 s'ejectava
 s'ejectaven
 s'ejecten
-s'elabor
 s'elabora
 s'elaborà
 s'elaborara
@@ -234029,13 +233248,11 @@ s'elegissen
 s'elegissin
 s'elegix
 s'elegixen
-s'elev
 s'eleva
 s'elevà
 s'elevara
 s'elevarà
 s'elevaran
-s'elevarem
 s'elevaren
 s'elevaria
 s'elevarien
@@ -234070,7 +233287,6 @@ s'eliminava
 s'eliminaven
 s'elimine
 s'eliminen
-s'elimines
 s'eliminés
 s'eliminessen
 s'eliminessin
@@ -234084,7 +233300,6 @@ s'elogiava
 s'elogiaven
 s'elogien
 s'elogiés
-s'elogii
 s'elogiï
 s'elucida
 s'elucidà
@@ -234111,7 +233326,6 @@ s'elueixen
 s'eluïa
 semaforitzant-la
 sema'm
-s'eman
 s'emana
 s'emanaven
 s'emancipa
@@ -234185,12 +233399,10 @@ s'embalsamaven
 s'embalsamen
 s'embalsami
 s'embalsamin
-s'embalum
 s'embalumava
 s'embambava
 s'embamben
 s'embambi
-s'embaràs
 s'embarassa
 s'embarassaven
 s'embarassen
@@ -234212,13 +233424,11 @@ s'embarbussaven
 s'embarbussen
 s'embarbussés
 s'embarbussi
-s'embarc
 s'embarca
 s'embarcà
 s'embarcara
 s'embarcarà
 s'embarcaran
-s'embarcarem
 s'embarcaren
 s'embarcaria
 s'embarcarien
@@ -234248,7 +233458,6 @@ s'embarguessin
 s'embargui
 s'embarguin
 s'embarque
-s'embarquem
 s'embarquen
 s'embarqués
 s'embarquessin
@@ -234328,7 +233537,6 @@ s'embenaven
 s'embenen
 s'embenés
 s'embeni
-s'embeno
 s'embetuma
 s'embetumava
 s'embetumaven
@@ -234423,7 +233631,6 @@ s'embogia
 s'embogien
 s'embogirà
 s'embogiren
-s'emboir
 s'emboira
 s'emboirà
 s'emboiraren
@@ -234431,7 +233638,6 @@ s'emboirava
 s'emboiraven
 s'emboiren
 s'emboirés
-s'embol
 s'embola
 s'embolarà
 s'embolaran
@@ -234453,7 +233659,6 @@ s'embolcava
 s'embolcaven
 s'embolen
 s'emboli
-s'embolic
 s'embolica
 s'embolicà
 s'embolicara
@@ -234465,13 +233670,10 @@ s'embolicarien
 s'embolicàs
 s'embolicava
 s'embolicaven
-s'embolico
 s'embolique
 s'emboliquen
-s'emboliques
 s'emboliqués
 s'emboliquessin
-s'emboliqueu
 s'emboliqui
 s'emboliquin
 s'embolquen
@@ -234495,7 +233697,6 @@ s'emborratxava
 s'emborratxaven
 s'emborratxe
 s'emborratxen
-s'emborratxes
 s'emborratxés
 s'emborratxessin
 s'emborratxi
@@ -234538,7 +233739,6 @@ s'emboteix
 s'emboteixen
 s'embotella
 s'embotellà
-s'embotellam
 s'embotellara
 s'embotellarà
 s'embotellaran
@@ -234643,7 +233843,6 @@ s'embriagui
 s'embriaguin
 s'embrida
 s'embriden
-s'embrides
 s'embrinaven
 s'embrolla
 s'embrollà
@@ -234654,14 +233853,12 @@ s'embrollés
 s'embrossà
 s'embrossaven
 s'embrosti
-s'embruix
 s'embruixa
 s'embruixà
 s'embruixarà
 s'embruneix
 s'embruneixen
 s'embrunia
-s'embrut
 s'embruta
 s'embrutà
 s'embrutara
@@ -234678,7 +233875,6 @@ s'embrute
 s'embruteix
 s'embruteixen
 s'embruten
-s'embrutes
 s'embrutés
 s'embrutessin
 s'embruti
@@ -234689,10 +233885,7 @@ s'embrutin
 s'embrutirà
 s'embrutiran
 s'embrutiria
-s'embrutis
 s'embrutís
-s'embruto
-s'embull
 s'embulla
 s'embullà
 s'embullarà
@@ -234746,20 +233939,16 @@ s'emergia
 s'emet
 s'emeta
 s'emeté
-s'emetem
 s'emeten
 s'emetera
 s'emeteren
-s'emetes
 s'emetés
 s'emetessen
 s'emetessin
 s'emeti
-s'emetí
 s'emetia
 s'emetien
 s'emetin
-s'emetis
 s'emetrà
 s'emetran
 s'emetria
@@ -234790,7 +233979,6 @@ s'emigra
 s'emigrà
 s'emigrava
 semin-lo
-s'emmagatzem
 s'emmagatzema
 s'emmagatzemà
 s'emmagatzemara
@@ -234802,7 +233990,6 @@ s'emmagatzemarien
 s'emmagatzemava
 s'emmagatzemaven
 s'emmagatzeme
-s'emmagatzemem
 s'emmagatzemen
 s'emmagatzemés
 s'emmagatzemessin
@@ -234848,10 +234035,8 @@ s'emmanillen
 s'emmanillés
 s'emmanillin
 s'emmantellava
-s'emmar
 s'emmara
 s'emmarava
-s'emmarc
 s'emmarca
 s'emmarcà
 s'emmarcara
@@ -234867,7 +234052,6 @@ s'emmaridà
 s'emmaridaria
 s'emmariden
 s'emmarque
-s'emmarquem
 s'emmarquen
 s'emmarqués
 s'emmarquessin
@@ -235016,12 +234200,9 @@ s'emocionarien
 s'emocionava
 s'emocionaven
 s'emocione
-s'emocionem
 s'emocionen
-s'emociones
 s'emocionés
 s'emocionessin
-s'emocioneu
 s'emocioni
 s'emocionin
 s'empaca
@@ -235049,7 +234230,6 @@ s'empaiten
 s'empaitessin
 s'empaiti
 s'empaitin
-s'empal
 s'empala
 s'empalava
 s'empalaven
@@ -235117,7 +234297,6 @@ s'empaqueten
 s'empaquetés
 s'empaqueti
 s'empaquetin
-s'empar
 s'empara
 s'emparà
 s'emparara
@@ -235196,7 +234375,6 @@ s'empassaven
 s'empasse
 s'empassega
 s'empassen
-s'empasses
 s'empassés
 s'empassessin
 s'empassi
@@ -235233,7 +234411,6 @@ s'empastra
 s'empastrarà
 s'empastrava
 s'empastre
-s'empat
 s'empata
 s'empatà
 s'empatarà
@@ -235310,7 +234487,6 @@ s'empeguin
 s'empegunta
 s'empeguntaven
 s'empella
-s'empelt
 s'empelta
 s'empeltà
 s'empeltara
@@ -235339,7 +234515,6 @@ s'empentessin
 s'empeny
 s'empenya
 s'empenyé
-s'empenyem
 s'empenyen
 s'empenyerà
 s'empenyeran
@@ -235350,14 +234525,12 @@ s'empenyi
 s'empenyia
 s'empenyien
 s'empenyin
-s'empenyo
 s'empenyora
 s'empenyorà
 s'empenyoraren
 s'empenyoraria
 s'empenyorava
 s'empenyoraven
-s'empenyorem
 s'empenyoren
 s'empenyorés
 s'empenyori
@@ -235383,7 +234556,6 @@ s'empescava
 s'empescaven
 s'empesque
 s'empesquen
-s'empesques
 s'empesqués
 s'empesquessin
 s'empesqui
@@ -235493,7 +234665,6 @@ s'emplenava
 s'emplenaven
 s'emplene
 s'emplenen
-s'emplenes
 s'emplenés
 s'emplenessin
 s'empleni
@@ -235592,7 +234763,6 @@ s'emporquen
 s'emporraren
 s'emporren
 s'emporri
-s'emport
 s'emporta
 s'emportà
 s'emportara
@@ -235600,28 +234770,20 @@ s'emportarà
 s'emportaran
 s'emportàrem
 s'emportaren
-s'emportareu
 s'emportaria
 s'emportarien
 s'emportàs
 s'emportassen
 s'emportassin
 s'emportava
-s'emportàvem
 s'emportaven
 s'emporte
-s'emportem
 s'emporten
-s'emportes
 s'emportés
-s'emportéssim
 s'emportessin
-s'emporteu
 s'emporti
-s'emportí
 s'emportin
 s'empostissen
-s'empot
 s'empota
 s'empotarà
 s'empotaran
@@ -235638,7 +234800,6 @@ s'empoua
 s'empouà
 s'empouava
 s'empouaven
-s'empr
 s'empra
 s'emprà
 s'emprara
@@ -235652,14 +234813,12 @@ s'emprassin
 s'emprava
 s'empraven
 s'empre
-s'emprem
 s'empremta
 s'empremtarà
 s'empremten
 s'empren
 s'emprén
 s'emprèn
-s'emprenc
 s'emprendrà
 s'emprendran
 s'emprendria
@@ -235689,14 +234848,10 @@ s'emprenyava
 s'emprenyaven
 s'emprenye
 s'emprenyen
-s'emprenyes
 s'emprenyés
 s'emprenyessin
-s'emprenyeu
 s'emprenyi
 s'emprenyin
-s'emprenyo
-s'empres
 s'emprés
 s'empresona
 s'empresonà
@@ -235707,7 +234862,6 @@ s'empresonaria
 s'empresonava
 s'empresonaven
 s'empresonen
-s'empresones
 s'empresonés
 s'empresonessin
 s'empresoni
@@ -235719,7 +234873,6 @@ s'emprimaren
 s'emprimen
 s'emprimin
 s'emprin
-s'empro
 s'emproava
 s'emprova
 s'emprovà
@@ -235784,7 +234937,6 @@ s'enaltiran
 s'enaltiria
 s'enaltisca
 s'enaltix
-s'enamor
 s'enamora
 s'enamorà
 s'enamorara
@@ -235798,7 +234950,6 @@ s'enamorassin
 s'enamorava
 s'enamoraven
 s'enamore
-s'enamorem
 s'enamoren
 s'enamorés
 s'enamoressin
@@ -235809,7 +234960,6 @@ s'enamoriscà
 s'enamoriscarà
 s'enamorisqués
 s'enamorisquessin
-s'enamoro
 s'enarbora
 s'enarborà
 s'enarboràs
@@ -235870,7 +235020,6 @@ s'encabotava
 s'encabotaven
 s'encabote
 s'encaboten
-s'encaboteu
 s'encaboti
 s'encabotin
 s'encabrita
@@ -235925,7 +235074,6 @@ s'encaixonava
 s'encaixonen
 s'encaixoni
 s'encaixonin
-s'encal
 s'encalaven
 s'encalça
 s'encalçaran
@@ -235949,7 +235097,6 @@ s'encalentien
 s'encalentiren
 s'encalimava
 s'encalitjava
-s'encall
 s'encalla
 s'encallà
 s'encallarà
@@ -235965,7 +235112,6 @@ s'encalleixen
 s'encallen
 s'encallés
 s'encallessin
-s'encalleu
 s'encalli
 s'encallin
 s'encalma
@@ -236006,7 +235152,6 @@ s'encaminassin
 s'encaminava
 s'encaminaven
 s'encamine
-s'encaminem
 s'encaminen
 s'encaminés
 s'encaminessin
@@ -236026,7 +235171,6 @@ s'encanonà
 s'encanonava
 s'encanone
 s'encanonés
-s'encant
 s'encanta
 s'encantà
 s'encantarà
@@ -236039,7 +235183,6 @@ s'encante
 s'encanten
 s'encantés
 s'encantessin
-s'encanteu
 s'encanti
 s'encantin
 s'encaparra
@@ -236107,7 +235250,6 @@ s'encaputxaren
 s'encaputxava
 s'encaputxen
 s'encaputxin
-s'encar
 s'encara
 s'encarà
 s'encaramel·lava
@@ -236121,7 +235263,6 @@ s'encararien
 s'encaràs
 s'encarassin
 s'encarava
-s'encaràvem
 s'encaraven
 s'encarbonaven
 s'encarcara
@@ -236141,7 +235282,6 @@ s'encareixen
 s'encareixi
 s'encareixin
 s'encaren
-s'encares
 s'encarés
 s'encaressin
 s'encari
@@ -236159,7 +235299,6 @@ s'encarís
 s'encarisca
 s'encarissin
 s'encarix
-s'encarn
 s'encarna
 s'encarnà
 s'encarnara
@@ -236175,15 +235314,11 @@ s'encarnés
 s'encarnessin
 s'encarni
 s'encarnin
-s'encarno
-s'encaro
-s'encarreg
 s'encarrega
 s'encarregà
 s'encarregara
 s'encarregarà
 s'encarregaran
-s'encarregarem
 s'encarregaren
 s'encarregaria
 s'encarregarien
@@ -236191,14 +235326,10 @@ s'encarregàs
 s'encarregassin
 s'encarregava
 s'encarregaven
-s'encarrego
 s'encarregue
-s'encarreguem
 s'encarreguen
-s'encarregues
 s'encarregués
 s'encarreguessin
-s'encarregueu
 s'encarregui
 s'encarreguin
 s'encarrella
@@ -236299,7 +235430,6 @@ s'encatifaran
 s'encatifava
 s'encatifaven
 s'encatifen
-s'encau
 s'encaua
 s'encauà
 s'encauaren
@@ -236330,7 +235460,6 @@ s'encavalcaria
 s'encavalcarien
 s'encavalcava
 s'encavalcaven
-s'encavall
 s'encavalla
 s'encavallà
 s'encavallaran
@@ -236353,7 +235482,6 @@ s'encebe
 s'enceben
 s'encebés
 s'encebi
-s'enceg
 s'encega
 s'encegà
 s'encegarà
@@ -236362,7 +235490,6 @@ s'encegaria
 s'encegava
 s'encegaven
 s'encegue
-s'enceguem
 s'enceguen
 s'encegués
 s'enceguessen
@@ -236375,7 +235502,6 @@ s'encelava
 s'encelen
 s'enceli
 s'encén
-s'encenc
 s'encendra
 s'encendrà
 s'encendran
@@ -236388,19 +235514,15 @@ s'encengué
 s'encenguen
 s'encenguera
 s'encengueren
-s'encengues
 s'encengués
 s'encenguessin
 s'encengui
-s'encenguí
 s'encenguin
 s'encenia
 s'encenien
-s'encens
 s'encensa
 s'encensava
 s'encensaven
-s'encer
 s'encera
 s'encerava
 s'encercla
@@ -236418,7 +235540,6 @@ s'enceren
 s'encerin
 s'encerregaran
 s'encerregui
-s'encert
 s'encerta
 s'encertà
 s'encertarà
@@ -236451,7 +235572,6 @@ s'encetés
 s'encetessin
 s'enceti
 s'encetin
-s'enciam
 s'encima
 s'encimbella
 s'encimbellà
@@ -236580,7 +235700,6 @@ s'encolomava
 s'encolomaven
 s'encolomen
 s'encolomés
-s'encoman
 s'encomana
 s'encomanà
 s'encomanara
@@ -236593,7 +235712,6 @@ s'encomanàs
 s'encomanava
 s'encomanaven
 s'encomane
-s'encomanem
 s'encomanen
 s'encomanés
 s'encomanessin
@@ -236641,7 +235759,6 @@ s'encontre
 s'encontren
 s'encontrés
 s'encontressin
-s'encontro
 s'encoratge
 s'encoratgen
 s'encoratgés
@@ -236829,7 +235946,6 @@ s'enderiava
 s'enderiaven
 s'enderien
 s'enderiés
-s'enderroc
 s'enderroca
 s'enderrocà
 s'enderrocara
@@ -236842,7 +235958,6 @@ s'enderrocava
 s'enderrocaven
 s'enderroque
 s'enderroquen
-s'enderroques
 s'enderroqués
 s'enderroquessen
 s'enderroquessin
@@ -236884,25 +235999,20 @@ s'endimonia
 s'endimoniarien
 s'endimoniava
 s'endimoniés
-s'endins
 s'endinsa
 s'endinsà
 s'endinsara
 s'endinsarà
 s'endinsaran
-s'endinsarem
 s'endinsaren
 s'endinsaria
 s'endinsarien
 s'endinsàs
 s'endinsassin
 s'endinsava
-s'endinsàvem
 s'endinsaven
 s'endinse
-s'endinsem
 s'endinsen
-s'endinses
 s'endinsés
 s'endinsessin
 s'endinsi
@@ -236919,7 +236029,6 @@ s'endiumenjaven
 s'endoblaven
 s'endobleixen
 s'endoblen
-s'endol
 s'endola
 s'endolà
 s'endolava
@@ -237003,23 +236112,19 @@ s'endropeixen
 s'endropí
 s'endropia
 s'endú
-s'enduem
 s'enduen
 s'enduga
 s'endugué
 s'enduguen
 s'enduguera
 s'endugueren
-s'endugues
 s'endugués
 s'enduguessen
 s'enduguessin
-s'endugueu
 s'endugui
 s'enduguin
 s'enduia
 s'enduien
-s'endur
 s'endura
 s'endurà
 s'enduran
@@ -237030,7 +236135,6 @@ s'endureixen
 s'endureixi
 s'endureixin
 s'enduren
-s'endureu
 s'enduri
 s'endurí
 s'enduria
@@ -237046,8 +236150,6 @@ s'endurisca
 s'endurisquen
 s'endurissin
 s'endurix
-s'enduro
-s'endús
 s'enduu
 s'enemista
 s'enemistà
@@ -237076,7 +236178,6 @@ s'enfadara
 s'enfadarà
 s'enfadaran
 s'enfadaren
-s'enfadareu
 s'enfadaria
 s'enfadarien
 s'enfadàs
@@ -237086,13 +236187,10 @@ s'enfadava
 s'enfadaven
 s'enfade
 s'enfaden
-s'enfades
 s'enfadés
 s'enfadessin
-s'enfadeu
 s'enfadi
 s'enfadin
-s'enfadis
 s'enfaixa
 s'enfaixarà
 s'enfaixaran
@@ -237154,7 +236252,6 @@ s'enfebrava
 s'enfebren
 s'enfebressin
 s'enfebri
-s'enfebrí
 s'enfeixaven
 s'enfelloneix
 s'enfelloneixen
@@ -237183,24 +236280,19 @@ s'enfervoreixen
 s'enfervorí
 s'enfervoria
 s'enfigassa
-s'enfil
 s'enfila
 s'enfilà
 s'enfilara
 s'enfilarà
 s'enfilaran
-s'enfilarem
 s'enfilàrem
 s'enfilaren
 s'enfilaria
 s'enfilarien
-s'enfilat
 s'enfilava
 s'enfilaven
 s'enfile
-s'enfilem
 s'enfilen
-s'enfiles
 s'enfilés
 s'enfilessin
 s'enfili
@@ -237259,7 +236351,6 @@ s'enfondressin
 s'enfondri
 s'enfonen
 s'enfonia
-s'enfons
 s'enfonsa
 s'enfonsà
 s'enfonsara
@@ -237274,7 +236365,6 @@ s'enfonsava
 s'enfonsaven
 s'enfonse
 s'enfonsen
-s'enfonses
 s'enfonsés
 s'enfonsessen
 s'enfonsessin
@@ -237291,7 +236381,6 @@ s'enfonyessin
 s'enfonyin
 s'enfoque
 s'enfoquen
-s'enfoques
 s'enfoqués
 s'enfoquessin
 s'enfoqui
@@ -237345,7 +236434,6 @@ s'enfortisquen
 s'enfortissin
 s'enfortix
 s'enfortixen
-s'enfosc
 s'enfosca
 s'enfoscàs
 s'enfosqueix
@@ -237361,7 +236449,6 @@ s'enfosquirà
 s'enfosquiran
 s'enfosquiren
 s'enfosquiria
-s'enfosquis
 s'enfosquís
 s'enfosquissin
 s'enfosquix
@@ -237382,7 +236469,6 @@ s'enfredorís
 s'enfrena
 s'enfrenarà
 s'enfrenava
-s'enfront
 s'enfronta
 s'enfrontà
 s'enfrontara
@@ -237398,12 +236484,9 @@ s'enfrontassin
 s'enfrontava
 s'enfrontaven
 s'enfronte
-s'enfrontem
 s'enfronten
-s'enfrontes
 s'enfrontés
 s'enfrontessin
-s'enfronteu
 s'enfronti
 s'enfrontin
 s'enfugen
@@ -237464,7 +236547,6 @@ s'enfurismés
 s'enfurismessin
 s'enfurismi
 s'enfurismin
-s'enfurismo
 s'enfurissin
 s'enfurrunya
 s'enfurrunyà
@@ -237523,7 +236605,6 @@ s'engalzava
 s'engalzaven
 s'engalzen
 s'engalzi
-s'engan
 s'engana
 s'enganaren
 s'enganaria
@@ -237548,32 +236629,25 @@ s'enganxava
 s'enganxaven
 s'enganxe
 s'enganxen
-s'enganxes
 s'enganxés
 s'enganxessin
-s'enganxeu
 s'enganxi
 s'enganxin
-s'engany
 s'enganya
 s'enganyà
 s'enganyarà
 s'enganyaran
 s'enganyaren
-s'enganyareu
 s'enganyaria
-s'enganyaríem
 s'enganyarien
 s'enganyàs
 s'enganyassen
 s'enganyava
 s'enganyaven
 s'enganye
-s'enganyem
 s'enganyen
 s'enganyés
 s'enganyessin
-s'enganyeu
 s'enganyi
 s'enganyin
 s'engargamellava
@@ -237620,7 +236694,6 @@ s'engatussa
 s'engavanya
 s'engavanyà
 s'engavanyava
-s'engeg
 s'engega
 s'engegà
 s'engeganteix
@@ -237640,9 +236713,7 @@ s'engegassin
 s'engegava
 s'engegaven
 s'engegue
-s'engeguem
 s'engeguen
-s'engegues
 s'engegués
 s'engeguessin
 s'engegui
@@ -237658,7 +236729,6 @@ s'engelosiren
 s'engelosiria
 s'engelosís
 s'engelosissin
-s'engendr
 s'engendra
 s'engendrà
 s'engendrarà
@@ -237673,7 +236743,6 @@ s'engendrés
 s'engendressin
 s'engendri
 s'engendrin
-s'enginy
 s'enginya
 s'enginyà
 s'enginyarà
@@ -237807,7 +236876,6 @@ s'engreixi
 s'engreixin
 s'engreixinarà
 s'engreixini
-s'engresc
 s'engresca
 s'engrescà
 s'engrescarà
@@ -237819,7 +236887,6 @@ s'engrescàs
 s'engrescassin
 s'engrescava
 s'engrescaven
-s'engresquem
 s'engresquen
 s'engresqués
 s'engresquessin
@@ -237935,29 +237002,23 @@ s'enjudicien
 s'enjudiciï
 s'enjudiciïn
 s'enjullà
-s'enlair
 s'enlaira
 s'enlairà
 s'enlairara
 s'enlairarà
 s'enlairaran
-s'enlairarem
 s'enlairaren
 s'enlairaria
 s'enlairarien
 s'enlairàs
 s'enlairava
-s'enlairàvem
 s'enlairaven
 s'enlaire
-s'enlairem
 s'enlairen
-s'enlaires
 s'enlairés
 s'enlairessin
 s'enlairi
 s'enlairin
-s'enllaç
 s'enllaça
 s'enllaçà
 s'enllacarà
@@ -237971,13 +237032,11 @@ s'enllaçaven
 s'enllace
 s'enllacen
 s'enllacés
-s'enllacéssim
 s'enllacessin
 s'enllaci
 s'enllacin
 s'enllagrimaren
 s'enllagrimaven
-s'enllagrimí
 s'enllamineix
 s'enllamineixen
 s'enllaminia
@@ -238172,7 +237231,6 @@ s'enorgulli
 s'enorgullí
 s'enorgullia
 s'enorgullien
-s'enorgullim
 s'enorgullira
 s'enorgullirà
 s'enorgulliran
@@ -238261,7 +237319,6 @@ s'enrabiaven
 s'enrabien
 s'enrabiés
 s'enrabiessin
-s'enrabii
 s'enrabiï
 s'enrabiïn
 s'enraiava
@@ -238367,9 +237424,7 @@ s'enregistrassin
 s'enregistrava
 s'enregistraven
 s'enregistre
-s'enregistrem
 s'enregistren
-s'enregistres
 s'enregistrés
 s'enregistressin
 s'enregistri
@@ -238444,7 +237499,6 @@ s'enriquesquin
 s'enriquí
 s'enriquia
 s'enriquien
-s'enriquim
 s'enriquira
 s'enriquirà
 s'enriquiran
@@ -238458,7 +237512,6 @@ s'enriquisquen
 s'enriquissin
 s'enriquix
 s'enriquixen
-s'enriu
 s'enriuava
 s'enriuen
 s'enrobusteix
@@ -238470,7 +237523,6 @@ s'enrobustien
 s'enrobustirà
 s'enrobustiria
 s'enrobustís
-s'enroc
 s'enroca
 s'enrocà
 s'enrocarà
@@ -238481,7 +237533,6 @@ s'enrocarien
 s'enrocassin
 s'enrocava
 s'enrocaven
-s'enroco
 s'enrodà
 s'enrodilla
 s'enrodillà
@@ -238521,7 +237572,6 @@ s'enrojolen
 s'enrojolés
 s'enrojolessin
 s'enrojoli
-s'enrojolí
 s'enrojolin
 s'enrola
 s'enrolà
@@ -238573,7 +237623,6 @@ s'enrossinaven
 s'enrossiren
 s'enrossiria
 s'enrossissin
-s'enrotll
 s'enrotlla
 s'enrotllà
 s'enrotllara
@@ -238615,7 +237664,6 @@ s'ensabone
 s'ensabonen
 s'ensabonés
 s'ensabonessin
-s'ensaboneu
 s'ensaboni
 s'ensaca
 s'ensacava
@@ -238640,7 +237688,6 @@ s'ensarroni
 s'enseguesca
 s'ensella
 s'ensenderin
-s'enseny
 s'ensenya
 s'ensenyà
 s'ensenyara
@@ -238655,12 +237702,10 @@ s'ensenyava
 s'ensenyaven
 s'ensenye
 s'ensenyen
-s'ensenyes
 s'ensenyés
 s'ensenyessin
 s'ensenyi
 s'ensenyin
-s'ensenyo
 s'ensenyoreix
 s'ensenyoreixen
 s'ensenyoreixi
@@ -238782,12 +237827,10 @@ s'ensorrava
 s'ensorraven
 s'ensorre
 s'ensorren
-s'ensorres
 s'ensorrés
 s'ensorressen
 s'ensorressin
 s'ensorri
-s'ensorrí
 s'ensorrin
 s'ensostra
 s'ensostrà
@@ -238862,7 +237905,6 @@ s'entaforessin
 s'entafori
 s'entaforin
 senta'l
-s'entall
 s'entalla
 s'entallaran
 s'entallaren
@@ -238880,7 +237922,6 @@ s'entatxonaran
 s'entatxonava
 s'entatxonaven
 s'entatxonen
-s'entaul
 s'entaula
 s'entaulà
 s'entaularà
@@ -238917,7 +237958,6 @@ s'entelessin
 s'enteli
 s'entelin
 s'entén
-s'entenc
 sentencia'ls
 sentenciant-la
 sentenciant-les
@@ -238938,7 +237978,6 @@ sentenciem-los
 sentencieu-los
 sentencieu-me
 sentenciïn-me
-s'entend
 s'entendarà
 s'entendaran
 s'entendrà
@@ -238970,14 +238009,12 @@ s'entenebrien
 s'entenebrira
 s'entenebririen
 s'entenebrissin
-s'entenem
 s'entenen
 s'entenga
 s'entengué
 s'entenguen
 s'entenguera
 s'entengueren
-s'entengues
 s'entengués
 s'entenguessen
 s'entenguessin
@@ -238985,7 +238022,6 @@ s'entengui
 s'entenguin
 s'entenia
 s'entenien
-s'entens
 senten-se
 s'enteranyina
 s'enteranyinà
@@ -239026,10 +238062,8 @@ s'enterressen
 s'enterressin
 s'enterri
 s'enterrin
-s'enterro
 s'enterrossaren
 s'enterrossen
-s'entest
 s'entesta
 s'entestà
 s'entestara
@@ -239043,12 +238077,10 @@ s'entestassin
 s'entestava
 s'entestaven
 s'enteste
-s'entestem
 s'entesten
 s'entestés
 s'entestessin
 s'entesti
-s'entestí
 s'entestin
 sent-hi
 sent-ho
@@ -239218,7 +238250,6 @@ s'entomés
 s'entomessin
 s'entomi
 s'entomin
-s'enton
 s'entona
 s'entonà
 s'entonarà
@@ -239234,7 +238265,6 @@ s'entoni
 s'entorcilla
 s'entorcillava
 s'entorcillen
-s'entorn
 s'entorna
 s'entornà
 s'entornarà
@@ -239304,7 +238334,6 @@ s'entotsolà
 s'entotsolava
 s'entotsolen
 s'entotsolés
-s'entr
 s'entra
 s'entrà
 s'entramen
@@ -239324,7 +238353,6 @@ s'entrarien
 s'entràs
 s'entrava
 s'entraven
-s'entraves
 s'entravessa
 s'entravessà
 s'entravessara
@@ -239376,20 +238404,17 @@ s'entrecreuen
 s'entrecreuessin
 s'entrecreui
 s'entrecreuin
-s'entrecuix
 s'entredevoraren
 s'entredevoraven
 s'entredevoren
 s'entredevori
 s'entrediu
 s'entrefereixen
-s'entreforc
 s'entreforcà
 s'entreforcaren
 s'entreforcava
 s'entreforcaven
 s'entreforquen
-s'entreg
 s'entrega
 s'entregà
 s'entregara
@@ -239411,7 +238436,6 @@ s'entregirin
 s'entreguardava
 s'entregue
 s'entreguen
-s'entregues
 s'entregués
 s'entreguessin
 s'entregui
@@ -239490,14 +238514,11 @@ s'entrenarien
 s'entrenava
 s'entrenaven
 s'entrene
-s'entrenem
 s'entrenen
-s'entrenes
 s'entrenés
 s'entrenessin
 s'entreni
 s'entrenin
-s'entreno
 s'entrenyora
 s'entrenyorava
 s'entreobre
@@ -239512,7 +238533,6 @@ s'entreobriria
 s'entreobririen
 s'entreobrís
 s'entreobrissin
-s'entres
 s'entrés
 s'entresegueixen
 s'entreseguien
@@ -239551,7 +238571,6 @@ s'entretengui
 s'entretenguin
 s'entretenia
 s'entretenien
-s'entretenies
 s'entretindrà
 s'entretindran
 s'entretindria
@@ -239561,7 +238580,6 @@ s'entretingué
 s'entretinguen
 s'entretinguera
 s'entretingueren
-s'entretingues
 s'entretingués
 s'entretinguessin
 s'entretingui
@@ -239586,7 +238604,6 @@ s'entreveia
 s'entreveié
 s'entreveien
 s'entreveieren
-s'entreveies
 s'entreveiés
 s'entreveiessin
 s'entrevenen
@@ -239596,13 +238613,11 @@ s'entreveuen
 s'entreveurà
 s'entreveuran
 s'entreveuria
-s'entrevist
 s'entrevista
 s'entrevistà
 s'entrevistara
 s'entrevistarà
 s'entrevistaran
-s'entrevistaré
 s'entrevistàrem
 s'entrevistaren
 s'entrevistaria
@@ -239613,12 +238628,10 @@ s'entrevistava
 s'entrevistaven
 s'entreviste
 s'entrevisten
-s'entrevistes
 s'entrevistés
 s'entrevistessin
 s'entrevisti
 s'entrevistin
-s'entreviu
 s'entrexoca
 s'entrexocaren
 s'entrexocaven
@@ -239698,7 +238711,6 @@ s'entumeixen
 s'entumia
 s'entumien
 s'entura
-s'entusiasm
 s'entusiasma
 s'entusiasmà
 s'entusiasmarà
@@ -239711,7 +238723,6 @@ s'entusiasmava
 s'entusiasmaven
 s'entusiasme
 s'entusiasmen
-s'entusiasmes
 s'entusiasmés
 s'entusiasmessin
 s'entusiasmi
@@ -239725,7 +238736,6 @@ s'enumeraria
 s'enumerarien
 s'enumerava
 s'enumeraven
-s'enumerem
 s'enumeren
 s'enumeressin
 s'enumeri
@@ -239796,7 +238806,6 @@ s'envaní
 s'envania
 s'envaniran
 s'envaniria
-s'envàs
 s'envasa
 s'envasarà
 s'envasaran
@@ -239905,17 +238914,13 @@ s'envidriaran
 s'envidriaren
 s'envidrien
 s'envie
-s'enviem
 s'envien
-s'envies
 s'enviés
 s'enviessin
 s'envigoreix
 s'envigorí
 s'envigoria
 s'envigorirà
-s'envii
-s'envií
 s'enviï
 s'enviïn
 s'envileix
@@ -239927,7 +238932,6 @@ s'envilia
 s'envilien
 s'envilirà
 s'envilís
-s'envín
 s'envina
 s'envinagrara
 s'envinagren
@@ -240169,7 +239173,6 @@ separar-te'n
 separar-t'hi
 separar-vos
 separar-vos-en
-separa-se'n
 separa't
 separa-te'n
 separau-los
@@ -240253,10 +239256,8 @@ s'equilibrés
 s'equilibressin
 s'equilibri
 s'equilibrin
-s'equip
 s'equipa
 s'equipà
-s'equipar
 s'equipara
 s'equiparà
 s'equiparan
@@ -240286,7 +239287,6 @@ s'equipés
 s'equipessin
 s'equipi
 s'equipin
-s'equipo
 s'equival
 s'equivalen
 s'equivalia
@@ -240296,10 +239296,8 @@ s'equivocà
 s'equivocara
 s'equivocarà
 s'equivocaran
-s'equivocarem
 s'equivocaren
 s'equivocaria
-s'equivocaríem
 s'equivocarien
 s'equivocàs
 s'equivocassen
@@ -240307,18 +239305,13 @@ s'equivocassin
 s'equivocava
 s'equivocaven
 s'equivoque
-s'equivoquem
 s'equivoquen
-s'equivoques
 s'equivoqués
 s'equivoquessin
-s'equivoqueu
 s'equivoqui
 s'equivoquin
 s'era
-s'eregí
 s'eren
-s'eres
 ser-hi
 ser-ho
 seria-ho
@@ -240469,7 +239462,6 @@ serrar-nos
 serrar-se
 serrar-te
 serrar-te-la
-serra's
 s'erràs
 s'errassin
 s'errava
@@ -240480,7 +239472,6 @@ s'errés
 serreu-ne
 s'erri
 s'errin
-s'erro
 ser-se
 ser-s'hi
 ser-te
@@ -240543,8 +239534,6 @@ serveix-n'hi
 serveix-nos
 serveix-nos-el
 serveix-nos-en
-serveix-se
-serveix-se'n
 serveix-te
 serveix-te'n
 serveix-t'ho
@@ -240833,7 +239822,6 @@ s'esbiaixaven
 s'esbiaixen
 s'esbiaixés
 s'esbiaixi
-s'esblaim
 s'esblaima
 s'esblaimà
 s'esblaimaren
@@ -240899,7 +239887,6 @@ s'esbombaria
 s'esbombava
 s'esbombaven
 s'esbombe
-s'esbombem
 s'esbomben
 s'esbombés
 s'esbombessin
@@ -240927,7 +239914,6 @@ s'esborrassin
 s'esborrava
 s'esborraven
 s'esborre
-s'esborrem
 s'esborren
 s'esborrés
 s'esborressin
@@ -241003,7 +239989,6 @@ s'esbravés
 s'esbravessin
 s'esbravi
 s'esbravin
-s'esbrell
 s'esbrella
 s'esbrellen
 s'esbrina
@@ -241073,7 +240058,6 @@ s'esbutzaren
 s'esbutzava
 s'esbutzaven
 s'esbutzen
-s'esc
 s'esca
 s'escabella
 s'escabellarà
@@ -241136,7 +240120,6 @@ s'escalaran
 s'escalaren
 s'escalava
 s'escalaven
-s'escald
 s'escalda
 s'escaldà
 s'escaldarà
@@ -241170,7 +240153,6 @@ s'escalfaven
 s'escalfe
 s'escalfeí
 s'escalfen
-s'escalfes
 s'escalfés
 s'escalfessen
 s'escalfessin
@@ -241178,7 +240160,6 @@ s'escalfi
 s'escalfí
 s'escalfin
 s'escalfissin
-s'escalfo
 s'escali
 s'escalin
 s'escaliva
@@ -241197,7 +240178,6 @@ s'escalonaven
 s'escalonen
 s'escaloni
 s'escalonin
-s'escam
 s'escama
 s'escamà
 s'escamarà
@@ -241226,28 +240206,22 @@ s'escamoteja
 s'escamotejà
 s'escamotejava
 s'escamotejaven
-s'escamp
 s'escampa
 s'escampà
 s'escampara
 s'escamparà
 s'escamparan
-s'escamparem
 s'escamparen
 s'escamparia
 s'escamparien
 s'escampàs
 s'escampassin
 s'escampava
-s'escampàvem
 s'escampaven
 s'escampe
-s'escampem
 s'escampen
-s'escampes
 s'escampés
 s'escampessin
-s'escampeu
 s'escampi
 s'escampin
 s'escandalitza
@@ -241264,12 +240238,10 @@ s'escandalitzava
 s'escandalitzaven
 s'escandalitze
 s'escandalitzen
-s'escandalitzes
 s'escandalitzés
 s'escandalitzessin
 s'escandalitzi
 s'escandalitzin
-s'escandall
 s'escandallen
 s'escandeix
 s'escandeixen
@@ -241278,7 +240250,6 @@ s'escandís
 s'escanegen
 s'escanegi
 s'escanegin
-s'escaneig
 s'escaneja
 s'escanejà
 s'escanejarà
@@ -241315,7 +240286,6 @@ s'escanyussa
 s'escanyussà
 s'escanyussava
 s'escanyussés
-s'escap
 s'escapa
 s'escapà
 s'escapara
@@ -241339,15 +240309,11 @@ s'escapcés
 s'escapci
 s'escapcin
 s'escape
-s'escapem
 s'escapen
-s'escapes
 s'escapés
 s'escapessin
-s'escapeu
 s'escapi
 s'escapin
-s'escapo
 s'escapola
 s'escapolaria
 s'escapolava
@@ -241367,7 +240333,6 @@ s'escapoliran
 s'escapoliren
 s'escapoliria
 s'escapolirien
-s'escapolis
 s'escapolís
 s'escapolisquen
 s'escapolissin
@@ -241380,9 +240345,7 @@ s'escaqueja
 s'escaquejarà
 s'escaquejaria
 s'escaquejava
-s'escaquejàvem
 s'escaquejaven
-s'escar
 s'escarbarà
 s'escarbi
 s'escarbotaven
@@ -241394,7 +240357,6 @@ s'escardaria
 s'escardava
 s'escarificarà
 s'escarmenava
-s'escarment
 s'escarmenta
 s'escarmentà
 s'escarmentarà
@@ -241475,7 +240437,6 @@ s'escarxofin
 s'escàs
 s'escasseja
 s'escassejaven
-s'escat
 s'escata
 s'escatarà
 s'escataran
@@ -241594,7 +240555,6 @@ s'esclarissava
 s'esclarissaven
 s'esclarissen
 s'esclarissin
-s'esclat
 s'esclata
 s'esclatà
 s'esclatara
@@ -241622,20 +240582,17 @@ s'esclofollarà
 s'esclofollava
 s'esclofollen
 s'esclofolli
-s'esclop
 s'escloscaven
 s'esclosquen
 s'esclovella
 s'esclovellà
 s'esclovellava
 s'esclovellen
-s'esco
 s'escoden
 s'escodrinya
 s'escodrinyava
 s'escodrinyaven
 s'escodrinyen
-s'escol
 s'escola
 s'escolà
 s'escolara
@@ -241663,7 +240620,6 @@ s'escolava
 s'escolaven
 s'escole
 s'escolen
-s'escoles
 s'escolés
 s'escolessen
 s'escolessin
@@ -241686,12 +240642,10 @@ s'escolliran
 s'escolliren
 s'escolliria
 s'escollirien
-s'escollis
 s'escollís
 s'escollisca
 s'escollissen
 s'escollissin
-s'escolt
 s'escolta
 s'escoltà
 s'escoltara
@@ -241706,7 +240660,6 @@ s'escoltava
 s'escoltaven
 s'escolte
 s'escolten
-s'escoltes
 s'escoltés
 s'escoltessin
 s'escolti
@@ -241716,7 +240669,6 @@ s'escombrà
 s'escombrarà
 s'escombraran
 s'escombraria
-s'escombraries
 s'escombrava
 s'escombraven
 s'escombre
@@ -241758,7 +240710,6 @@ s'escopirà
 s'escopiran
 s'escopiren
 s'escopís
-s'escor
 s'escora
 s'escorà
 s'escorarà
@@ -241768,7 +240719,6 @@ s'escoraven
 s'escorça
 s'escorcen
 s'escorcés
-s'escorcoll
 s'escorcolla
 s'escorcollà
 s'escorcollarà
@@ -241815,7 +240765,6 @@ s'escorxaven
 s'escorxen
 s'escorxés
 s'escorxin
-s'escot
 s'escota
 s'escotaran
 s'escotàs
@@ -241840,7 +240789,6 @@ s'escrigué
 s'escriguen
 s'escriguera
 s'escrigueren
-s'escrigues
 s'escrigués
 s'escriguessin
 s'escrigui
@@ -241862,7 +240810,6 @@ s'escriurien
 s'escriví
 s'escrivia
 s'escrivien
-s'escrivim
 s'escrivira
 s'escriviren
 s'escrivís
@@ -241933,14 +240880,12 @@ s'escullaven
 s'escullen
 s'esculli
 s'escullin
-s'escullis
 s'esculpeix
 s'esculpeixen
 s'esculpí
 s'esculpia
 s'esculpien
 s'esculpirà
-s'esculpirem
 s'esculpiren
 s'esculpirien
 s'esculpís
@@ -241960,7 +240905,6 @@ s'escuncessin
 s'escup
 s'escupen
 s'escupi
-s'escur
 s'escura
 s'escurà
 s'escurarà
@@ -242000,7 +240944,6 @@ s'esderneguen
 s'esdernegués
 s'esdernegui
 s'esdevé
-s'esdevenc
 s'esdevendrà
 s'esdevendran
 s'esdevendria
@@ -242073,7 +241016,6 @@ s'esfloraria
 s'esflorava
 s'esfloren
 s'esflorés
-s'esfondr
 s'esfondra
 s'esfondrà
 s'esfondrara
@@ -242087,13 +241029,10 @@ s'esfondrava
 s'esfondraven
 s'esfondre
 s'esfondren
-s'esfondres
 s'esfondrés
 s'esfondressin
 s'esfondri
 s'esfondrin
-s'esfondro
-s'esforç
 s'esforça
 s'esforçà
 s'esforçara
@@ -242106,12 +241045,10 @@ s'esforçàs
 s'esforçava
 s'esforçaven
 s'esforce
-s'esforcem
 s'esforcen
 s'esforcés
 s'esforcessen
 s'esforcessin
-s'esforceu
 s'esforci
 s'esforcin
 s'esfreixura
@@ -242127,7 +241064,6 @@ s'esfullaven
 s'esfullen
 s'esfulli
 s'esfullin
-s'esfum
 s'esfuma
 s'esfumà
 s'esfumara
@@ -242140,12 +241076,10 @@ s'esfumava
 s'esfumaven
 s'esfume
 s'esfumen
-s'esfumes
 s'esfumés
 s'esfumessin
 s'esfumi
 s'esfumin
-s'esfumo
 s'esgaien
 s'esgalabraria
 s'esgaldinyava
@@ -242202,7 +241136,6 @@ s'esgarriaven
 s'esgarrien
 s'esgarriés
 s'esgarriessin
-s'esgarrif
 s'esgarrifa
 s'esgarrifà
 s'esgarrifarà
@@ -242240,7 +241173,6 @@ s'esgavellaven
 s'esgavellen
 s'esgavellés
 s'esgavelli
-s'esglai
 s'esglaï
 s'esglaia
 s'esglaià
@@ -242256,7 +241188,6 @@ s'esglaie
 s'esglaien
 s'esglaiés
 s'esglaiessin
-s'esglaieu
 s'esglaïn
 s'esglaona
 s'esglaonarà
@@ -242296,7 +241227,6 @@ s'esgote
 s'esgoten
 s'esgotés
 s'esgotessin
-s'esgoteu
 s'esgoti
 s'esgotima
 s'esgotin
@@ -242445,7 +241375,6 @@ s'esmalten
 s'esmaltessin
 s'esmaperdés
 s'esmarra
-s'esmarrí
 s'esmava
 s'esme
 s'esmen
@@ -242466,7 +241395,6 @@ s'esmenés
 s'esmenessin
 s'esmeni
 s'esmenin
-s'esment
 s'esmenta
 s'esmentà
 s'esmentara
@@ -242478,14 +241406,11 @@ s'esmentarien
 s'esmentava
 s'esmentaven
 s'esmente
-s'esmentem
 s'esmenten
 s'esmentés
 s'esmentessin
-s'esmenteu
 s'esmenti
 s'esmentin
-s'esmento
 s'esmerça
 s'esmerçà
 s'esmerçarà
@@ -242608,7 +241533,6 @@ s'esnifarà
 s'esnifava
 s'esnifen
 s'esnifi
-s'espai
 s'espaï
 s'espaia
 s'espaià
@@ -242625,7 +241549,6 @@ s'espaïn
 s'espalmava
 s'espalmen
 s'espampolaven
-s'espant
 s'espanta
 s'espantà
 s'espantara
@@ -242634,7 +241557,6 @@ s'espantaran
 s'espantaren
 s'espantaria
 s'espantarien
-s'espantaríeu
 s'espantàs
 s'espantassen
 s'espantassin
@@ -242644,7 +241566,6 @@ s'espante
 s'espanten
 s'espantés
 s'espantessin
-s'espanteu
 s'espanti
 s'espantin
 s'espanya
@@ -242715,9 +241636,7 @@ s'esparraquen
 s'esparraqués
 s'esparraqui
 s'esparraquin
-s'espart
 s'espartà
-s'esparver
 s'esparvera
 s'esparverà
 s'esparveraren
@@ -242761,16 +241680,13 @@ s'espatllava
 s'espatllaven
 s'espatlle
 s'espatllen
-s'espatlles
 s'espatllés
 s'espatllessin
 s'espatlli
 s'espatllin
-s'espatllo
 s'espaventa
 s'espaventà
 s'espaventi
-s'espavil
 s'espavila
 s'espavilà
 s'espavilara
@@ -242783,12 +241699,9 @@ s'espavilàs
 s'espavilava
 s'espavilaven
 s'espavile
-s'espavilem
 s'espavilen
-s'espaviles
 s'espavilés
 s'espavilessin
-s'espavileu
 s'espavili
 s'espavilin
 s'espea
@@ -242811,9 +241724,7 @@ s'especialitzarien
 s'especialitzava
 s'especialitzaven
 s'especialitze
-s'especialitzem
 s'especialitzen
-s'especialitzes
 s'especialitzés
 s'especialitzessin
 s'especialitzi
@@ -242831,9 +241742,7 @@ s'especificàs
 s'especificava
 s'especificaven
 s'especifique
-s'especifiquem
 s'especifiquen
-s'especifiques
 s'especifiqués
 s'especifiquessin
 s'especifiqui
@@ -242848,7 +241757,6 @@ s'especulava
 s'especulaven
 s'especule
 s'especulen
-s'especules
 s'especulés
 s'especuli
 s'especulin
@@ -242882,7 +241790,6 @@ s'espenjollava
 s'espenta
 s'espentà
 s'espentava
-s'espentàvem
 s'espentaven
 s'espente
 s'espentejava
@@ -242895,12 +241802,10 @@ s'espenyaria
 s'espenyàs
 s'espenyava
 s'espenyaven
-s'espenyem
 s'espenyen
 s'espenyés
 s'espenyi
 s'espenyin
-s'esper
 s'espera
 s'esperà
 s'esperança
@@ -242918,26 +241823,19 @@ s'esperàs
 s'esperassen
 s'esperassin
 s'esperava
-s'esperàvem
 s'esperaven
 s'esperdigolaren
 s'espere
-s'esperem
 s'esperen
-s'esperes
 s'esperés
-s'esperès
 s'esperesin
 s'esperessen
 s'esperessin
-s'espereu
 s'esperi
 s'esperin
-s'esperit
 s'esperitava
 s'esperités
 s'espernega
-s'espero
 s'esperona
 s'esperonà
 s'esperonarà
@@ -243045,7 +241943,6 @@ s'espixorra
 s'espixorraven
 s'espixorre
 s'espixorren
-s'esplai
 s'esplaï
 s'esplaia
 s'esplaià
@@ -243078,12 +241975,10 @@ s'espolià
 s'espoliava
 s'espolien
 s'espoliessin
-s'espolii
 s'espoliï
 s'espoliïn
 s'espolla
 s'espollaven
-s'espols
 s'espolsa
 s'espolsà
 s'espolsarà
@@ -243094,7 +241989,6 @@ s'espolsarien
 s'espolsava
 s'espolsaven
 s'espolse
-s'espolsem
 s'espolsen
 s'espolsés
 s'espolsessin
@@ -243152,7 +242046,6 @@ s'esposarien
 s'esposava
 s'esposaven
 s'esposen
-s'esposes
 s'esposessin
 s'esposi
 s'esposin
@@ -243170,7 +242063,6 @@ s'espremien
 s'espremin
 s'esprimatxa
 s'esprimatxen
-s'esprint
 s'espuçaven
 s'espucin
 s'espuen
@@ -243199,7 +242091,6 @@ s'esquarteren
 s'esquarteri
 s'esqueia
 s'esqueien
-s'esqueies
 s'esqueixa
 s'esqueixà
 s'esqueixarà
@@ -243216,18 +242107,15 @@ s'esqueixessin
 s'esqueixi
 s'esqueixin
 s'esquella
-s'esquellot
 s'esquematitza
 s'esquematitzaven
 s'esquematitze
 s'esquematitzen
 s'esquen
 s'esquena
-s'esquer
 s'esquera
 s'esqueraren
 s'esquerava
-s'esquerd
 s'esquerda
 s'esquerdà
 s'esquerdarà
@@ -243252,10 +242140,8 @@ s'esqueri
 s'esquerra
 s'esquerranitzés
 s'esquerràs
-s'esquerres
 s'esquerri
 s'esqui
-s'esquí
 s'esquia
 s'esquiarà
 s'esquiava
@@ -243283,7 +242169,6 @@ s'esquincés
 s'esquincessin
 s'esquinci
 s'esquincin
-s'esquit
 s'esquita
 s'esquitava
 s'esquitlla
@@ -243301,7 +242186,6 @@ s'esquitllés
 s'esquitllessin
 s'esquitlli
 s'esquitllin
-s'esquitx
 s'esquitxa
 s'esquitxà
 s'esquitxarà
@@ -243339,12 +242223,10 @@ s'estabilitzava
 s'estabilitzaven
 s'estabilitze
 s'estabilitzen
-s'estabilitzes
 s'estabilitzés
 s'estabilitzessin
 s'estabilitzi
 s'estabilitzin
-s'establ
 s'establarien
 s'estable
 s'estableix
@@ -243366,7 +242248,6 @@ s'establiran
 s'establiren
 s'establiria
 s'establirien
-s'establis
 s'establís
 s'establisca
 s'establisquen
@@ -243388,7 +242269,6 @@ s'estabulen
 s'estabulessin
 s'estaca
 s'estacava
-s'estacion
 s'estaciona
 s'estacionà
 s'estacionarà
@@ -243398,7 +242278,6 @@ s'estacionava
 s'estacionaven
 s'estacione
 s'estacionen
-s'estaciones
 s'estacionés
 s'estacionessin
 s'estacioni
@@ -243409,7 +242288,6 @@ s'estafarà
 s'estafava
 s'estafen
 s'estafi
-s'estai
 s'estaï
 s'estaia
 s'estalona
@@ -243428,23 +242306,16 @@ s'estalviarà
 s'estalviaran
 s'estalviaren
 s'estalviaria
-s'estalviaríem
 s'estalviarien
 s'estalviàs
 s'estalviava
-s'estalviàvem
 s'estalviaven
 s'estalvie
-s'estalviem
 s'estalvien
-s'estalvies
 s'estalviés
 s'estalviessin
-s'estalvii
-s'estalvií
 s'estalviï
 s'estalviïn
-s'estam
 s'estamenegen
 s'estamordeixen
 s'estamordí
@@ -243462,9 +242333,7 @@ s'estampava
 s'estampaven
 s'estampeix
 s'estampeixen
-s'estampem
 s'estampen
-s'estampes
 s'estampés
 s'estampessen
 s'estampessin
@@ -243477,7 +242346,6 @@ s'estampillaran
 s'estampillen
 s'estampin
 s'estan
-s'estanc
 s'estanca
 s'estancà
 s'estancarà
@@ -243509,7 +242377,6 @@ s'estanqui
 s'estanquin
 s'estantola
 s'estantolà
-s'estany
 s'estanya
 s'estanyà
 s'estanyaran
@@ -243523,7 +242390,6 @@ s'estaqui
 s'estaquin
 s'estarà
 s'estaran
-s'estareu
 s'estaria
 s'estarien
 s'estarrufa
@@ -243540,7 +242406,6 @@ s'estarrufés
 s'estarrufessin
 s'estarrufi
 s'estarrufin
-s'estàs
 s'estassà
 s'estassarà
 s'estassaran
@@ -243560,7 +242425,6 @@ s'estatgi
 s'estatgin
 s'estatitza
 s'estatitzin
-s'estatj
 s'estatja
 s'estatjà
 s'estatjara
@@ -243573,15 +242437,12 @@ s'estatueix
 s'estatueixen
 s'estatuí
 s'estatuïa
-s'estau
 s'estava
-s'estavell
 s'estavella
 s'estavellà
 s'estavellara
 s'estavellarà
 s'estavellaran
-s'estavellaràs
 s'estavellaren
 s'estavellaria
 s'estavellarien
@@ -243590,15 +242451,12 @@ s'estavellava
 s'estavellaven
 s'estavelle
 s'estavellen
-s'estavelles
 s'estavellés
 s'estavellessin
 s'estavelli
 s'estavellin
-s'estàvem
 s'estaven
 sestejar-hi
-s'estell
 s'estella
 s'estellà
 s'estellarà
@@ -243613,11 +242471,9 @@ s'estellés
 s'estellessin
 s'estelli
 s'estellin
-s'estem
 s'estén
 s'estenalla
 s'estenallà
-s'estenc
 s'estendrà
 s'estendran
 s'estendria
@@ -243628,17 +242484,12 @@ s'estengué
 s'estenguen
 s'estenguera
 s'estengueren
-s'estengues
 s'estengués
 s'estenguessin
 s'estengui
-s'estenguí
 s'estenguin
-s'estenguis
 s'estenia
 s'estenien
-s'estens
-s'estereotip
 s'estereotipa
 s'estereotipà
 s'estereotipaven
@@ -243671,20 +242522,17 @@ s'esternudi
 s'esterrossa
 s'esterrossaven
 s'esterrossi
-s'estès
 s'estesa
 s'estesessin
 s'estesin
 s'estetitzen
 s'estetitzi
-s'esteu
 s'esteva
 s'estibava
 s'estibaven
 s'estiben
 s'estibessin
 s'estibi
-s'estic
 s'estifolla
 s'estiga
 s'estigmatitza
@@ -243699,14 +242547,11 @@ s'estigué
 s'estiguen
 s'estiguera
 s'estigueren
-s'estigues
 s'estigués
 s'estiguessen
 s'estiguessin
 s'estigui
-s'estiguí
 s'estiguin
-s'estil
 s'estila
 s'estilà
 s'estilara
@@ -243729,7 +242574,6 @@ s'estilitzaria
 s'estilitzava
 s'estilitzen
 s'estilitzi
-s'estim
 s'estima
 s'estimà
 s'estimara
@@ -243741,9 +242585,7 @@ s'estimarien
 s'estimàs
 s'estimassin
 s'estimava
-s'estimàvem
 s'estimaven
-s'estimb
 s'estimba
 s'estimbà
 s'estimbara
@@ -243761,18 +242603,13 @@ s'estimbés
 s'estimbessin
 s'estimbi
 s'estimbin
-s'estimbo
 s'estime
-s'estimem
 s'estimen
-s'estimes
 s'estimés
 s'estimessen
 s'estimessin
-s'estimeu
 s'estimi
 s'estimin
-s'estimis
 s'estimula
 s'estimulà
 s'estimularà
@@ -243839,18 +242676,14 @@ s'estiregassaven
 s'estiregassen
 s'estiregassés
 s'estiren
-s'estires
 s'estirés
 s'estiressin
 s'estiri
 s'estirin
-s'estiro
 s'estisora
 s'estisoraven
-s'estiu
 s'estiueja
 s'estiuejava
-s'estiv
 s'estivava
 s'estivaven
 s'estofa
@@ -243869,13 +242702,10 @@ s'estomaquin
 s'estopa
 s'estopeja
 s'estopejava
-s'estor
 s'estora
 s'estorcen
 s'estorcia
-s'estores
 s'estori
-s'estorí
 s'estossega
 s'estosseguen
 s'estossina
@@ -243900,7 +242730,6 @@ s'estovava
 s'estovaven
 s'estove
 s'estoven
-s'estoves
 s'estovés
 s'estovessin
 s'estovi
@@ -243925,7 +242754,6 @@ s'estrangule
 s'estrangulen
 s'estrangulés
 s'estranguli
-s'estrany
 s'estranya
 s'estranyà
 s'estranyara
@@ -243940,7 +242768,6 @@ s'estranye
 s'estranyen
 s'estranyés
 s'estranyessin
-s'estranyeu
 s'estranyi
 s'estranyin
 s'estratifica
@@ -243982,7 +242809,6 @@ s'estrenà
 s'estrenara
 s'estrenarà
 s'estrenaran
-s'estrenaré
 s'estrenaren
 s'estrenaria
 s'estrenarien
@@ -243992,17 +242818,13 @@ s'estrenassin
 s'estrenava
 s'estrenaven
 s'estrene
-s'estrenem
 s'estrenen
-s'estrenes
 s'estrenés
 s'estrenessin
 s'estreni
 s'estrenin
-s'estreno
 s'estreny
 s'estrenyé
-s'estrenyem
 s'estrenyen
 s'estrenyerà
 s'estrenyeran
@@ -244012,11 +242834,9 @@ s'estrenyerien
 s'estrenyés
 s'estrenyessin
 s'estrenyi
-s'estrenyí
 s'estrenyia
 s'estrenyien
 s'estrenyin
-s'estrès
 s'estressa
 s'estressarà
 s'estressaran
@@ -244024,9 +242844,7 @@ s'estressaren
 s'estressaria
 s'estressava
 s'estressaven
-s'estressem
 s'estressen
-s'estresses
 s'estressés
 s'estressessin
 s'estressi
@@ -244070,7 +242888,6 @@ s'estripin
 s'estritlla
 s'estritllaria
 s'estrompassa
-s'estronc
 s'estronca
 s'estroncà
 s'estroncarà
@@ -244092,7 +242909,6 @@ s'estropellava
 s'estropelle
 s'estropellen
 s'estropelli
-s'estructur
 s'estructura
 s'estructurà
 s'estructurara
@@ -244105,9 +242921,7 @@ s'estructurassin
 s'estructurava
 s'estructuraven
 s'estructure
-s'estructurem
 s'estructuren
-s'estructures
 s'estructurés
 s'estructuressin
 s'estructuri
@@ -244120,7 +242934,6 @@ s'estudià
 s'estudiara
 s'estudiarà
 s'estudiaran
-s'estudiarem
 s'estudiaren
 s'estudiaria
 s'estudiarien
@@ -244130,11 +242943,8 @@ s'estudiava
 s'estudiaven
 s'estudie
 s'estudien
-s'estudies
 s'estudiés
 s'estudiessin
-s'estudii
-s'estudií
 s'estudiï
 s'estudiïn
 s'estufa
@@ -244157,7 +242967,6 @@ s'esvaeix
 s'esvaeixen
 s'esvaeixi
 s'esvaeixin
-s'esvaeixis
 s'esvaesca
 s'esvaí
 s'esvaïa
@@ -244239,7 +243048,6 @@ s'esveraria
 s'esverarien
 s'esveràs
 s'esverava
-s'esveràvem
 s'esveraven
 s'esvere
 s'esveren
@@ -244280,13 +243088,11 @@ s'etiquetaria
 s'etiquetava
 s'etiquetaven
 s'etiquete
-s'etiquetem
 s'etiqueten
 s'etiquetés
 s'etiquetessin
 s'etiqueti
 s'etiquetin
-s'ets
 s'etziba
 s'etzibà
 s'etzibarà
@@ -244375,7 +243181,6 @@ s'evaporava
 s'evaporaven
 s'evapore
 s'evaporen
-s'evapores
 s'evaporés
 s'evaporessin
 s'evapori
@@ -244393,15 +243198,11 @@ s'evidenciava
 s'evidenciaven
 s'evidencie
 s'evidencien
-s'evidencies
 s'evidenciés
 s'evidenciessin
-s'evidencii
 s'evidenciï
 s'evidenciïn
-s'evidencio
 s'evisceren
-s'evit
 s'evita
 s'evità
 s'evitara
@@ -244409,15 +243210,12 @@ s'evitarà
 s'evitaran
 s'evitaren
 s'evitaria
-s'evitaríem
 s'evitarien
 s'evitàs
 s'evitava
 s'evitaven
 s'evite
-s'evitem
 s'eviten
-s'evites
 s'evités
 s'evitessin
 s'eviti
@@ -244440,7 +243238,6 @@ s'evolucionés
 s'evolucioni
 s'evolucionin
 s'evoque
-s'evoquem
 s'evoquen
 s'evoqués
 s'evoquessin
@@ -244493,7 +243290,6 @@ s'exaltés
 s'exaltessin
 s'exalti
 s'exaltin
-s'exalto
 s'examina
 s'examinà
 s'examinara
@@ -244507,7 +243303,6 @@ s'examinassin
 s'examinava
 s'examinaven
 s'examine
-s'examinem
 s'examinen
 s'examinés
 s'examinessin
@@ -244582,7 +243377,6 @@ s'exceptuen
 s'exceptuessin
 s'exceptuï
 s'exceptuïn
-s'excit
 s'excita
 s'excità
 s'excitara
@@ -244596,7 +243390,6 @@ s'excitava
 s'excitaven
 s'excite
 s'exciten
-s'excites
 s'excités
 s'excitessin
 s'exciti
@@ -244625,7 +243418,6 @@ s'exclogué
 s'excloguen
 s'excloguera
 s'exclogueren
-s'exclogues
 s'exclogués
 s'excloguessin
 s'exclogui
@@ -244677,13 +243469,11 @@ s'excusava
 s'excusaven
 s'excuse
 s'excusen
-s'excuses
 s'excusés
 s'excusessin
 s'excusi
 s'excusin
 s'execraven
-s'execut
 s'executa
 s'executà
 s'executara
@@ -244698,9 +243488,7 @@ s'executassin
 s'executava
 s'executaven
 s'execute
-s'executem
 s'executen
-s'executes
 s'executés
 s'executessin
 s'executi
@@ -244740,12 +243528,10 @@ s'exercisca
 s'exercisquen
 s'exercissen
 s'exercissin
-s'exercit
 s'exercita
 s'exercità
 s'exercitarà
 s'exercitaran
-s'exercitaràs
 s'exercitaren
 s'exercitaria
 s'exercitàs
@@ -244801,7 +243587,6 @@ s'exhibesquin
 s'exhibí
 s'exhibia
 s'exhibien
-s'exhibim
 s'exhibira
 s'exhibirà
 s'exhibiran
@@ -244839,7 +243624,6 @@ s'exhumi
 s'exhumin
 s'exigeix
 s'exigeixen
-s'exigeixes
 s'exigeixi
 s'exigeixin
 s'exigesca
@@ -244871,7 +243655,6 @@ s'exiliarien
 s'exiliava
 s'exiliaven
 s'exilien
-s'exilies
 s'exiliés
 s'exiliessin
 s'exiliï
@@ -244970,7 +243753,6 @@ s'expedeixin
 s'expedí
 s'expedia
 s'expedien
-s'expedient
 s'expedienta
 s'expedientarà
 s'expedientaran
@@ -245001,7 +243783,6 @@ s'expengui
 s'expenguin
 s'expenia
 s'expenien
-s'experiment
 s'experimenta
 s'experimentà
 s'experimentara
@@ -245028,13 +243809,11 @@ s'expira
 s'expirava
 s'expiren
 s'expiri
-s'explan
 s'explana
 s'explanà
 s'explanarà
 s'explanaren
 s'explanava
-s'explic
 s'explica
 s'explicà
 s'explicara
@@ -245066,7 +243845,6 @@ s'expliciti
 s'explicitin
 s'explique
 s'expliquen
-s'expliques
 s'expliqués
 s'expliquessin
 s'expliqui
@@ -245127,7 +243905,6 @@ s'exportava
 s'exportaven
 s'exporte
 s'exporten
-s'exportes
 s'exportés
 s'exportessin
 s'exporti
@@ -245137,7 +243914,6 @@ s'exposà
 s'exposara
 s'exposarà
 s'exposaran
-s'exposarem
 s'exposaren
 s'exposaria
 s'exposarien
@@ -245146,7 +243922,6 @@ s'exposassin
 s'exposava
 s'exposaven
 s'expose
-s'exposem
 s'exposen
 s'exposés
 s'exposessen
@@ -245166,15 +243941,12 @@ s'expressassin
 s'expressava
 s'expressaven
 s'expresse
-s'expressem
 s'expressen
-s'expresses
 s'expressés
 s'expressessen
 s'expressessin
 s'expressi
 s'expressin
-s'expresso
 s'expropia
 s'expropià
 s'expropiara
@@ -245190,10 +243962,8 @@ s'expropie
 s'expropien
 s'expropiés
 s'expropiessin
-s'expropii
 s'expropiï
 s'expropiïn
-s'expuls
 s'expulsa
 s'expulsà
 s'expulsara
@@ -245206,7 +243976,6 @@ s'expulsava
 s'expulsaven
 s'expulse
 s'expulsen
-s'expulses
 s'expulsés
 s'expulsessin
 s'expulsi
@@ -245234,7 +244003,6 @@ s'extenuaven
 s'extenuen
 s'extenués
 s'extenuï
-s'exterioritz
 s'exterioritza
 s'exterioritzà
 s'exterioritzarà
@@ -245296,7 +244064,6 @@ s'extingisca
 s'extingisquen
 s'extingissen
 s'extingissin
-s'extingiu
 s'extingix
 s'extingixen
 s'extirpa
@@ -245332,7 +244099,6 @@ s'extradita
 s'extraditarà
 s'extraditen
 s'extraditi
-s'extradiu
 s'extraga
 s'extragué
 s'extraguen
@@ -245342,7 +244108,6 @@ s'extragués
 s'extraguessin
 s'extragui
 s'extraguin
-s'extraiem
 s'extralimita
 s'extralimità
 s'extralimitara
@@ -245356,7 +244121,6 @@ s'extralimitava
 s'extralimitaven
 s'extralimite
 s'extralimiten
-s'extralimites
 s'extralimités
 s'extralimitessin
 s'extralimiti
@@ -245395,10 +244159,8 @@ s'extraviava
 s'extraviaven
 s'extravie
 s'extravien
-s'extravies
 s'extraviés
 s'extraviessin
-s'extravii
 s'extraviï
 s'extraviïn
 s'extreguen
@@ -245406,7 +244168,6 @@ s'extregui
 s'extreguin
 s'extreia
 s'extreien
-s'extrem
 s'extrema
 s'extremà
 s'extremarà
@@ -245421,7 +244182,6 @@ s'extremen
 s'extremés
 s'extremessin
 s'extremi
-s'extremí
 s'extremin
 s'extreu
 s'extreuen
@@ -245435,10 +244195,8 @@ sexualitzar-les
 sexualitzar-lo
 sexualitzar-nos
 sexualitzar-se
-s'exult
 s'exulta
 s'ha
-s'habilit
 s'habilita
 s'habilità
 s'habilitara
@@ -245452,9 +244210,7 @@ s'habilitassen
 s'habilitava
 s'habilitaven
 s'habilite
-s'habilitem
 s'habiliten
-s'habilites
 s'habilités
 s'habilitessin
 s'habiliti
@@ -245487,43 +244243,25 @@ s'habitués
 s'habituessin
 s'habituï
 s'habituïn
-s'hac
 s'haga
 s'hage
-s'hagem
 s'hagen
-s'hages
 s'hagés
 s'hagessen
 s'hagessin
 s'hagi
-s'hagí
-s'hàgim
 s'hagin
-s'hagis
-s'hàgiu
 s'hagué
-s'haguem
 s'haguen
 s'haguera
 s'haguérem
 s'hagueren
-s'hagues
 s'hagués
 s'haguessen
-s'haguéssim
 s'haguessin
-s'haguessis
-s'haguéssiu
 s'hagui
-s'haguí
 s'haguin
-s'haguis
-s'haig
 s'haja
-s'hajau
-s'hal
-s'halo
 s'han
 s'harmonitza
 s'harmonitzarà
@@ -245539,24 +244277,13 @@ s'harmonitzés
 s'harmonitzessin
 s'harmonitzi
 s'harmonitzin
-s'has
 s'hau
 s'haurà
 s'hauran
-s'haurem
-s'haureu
 s'hauria
-s'hauríem
 s'haurien
-s'hauries
-s'hauríeu
-s'havem
-s'haveu
 s'havia
-s'havíem
 s'havien
-s'havies
-s'he
 s'hegemonitza
 s'hegemonitzen
 s'heguin
@@ -245565,7 +244292,6 @@ s'hel·lenitzà
 s'hel·lenitzaren
 s'hel·lenitzaven
 s'hel·lenitzés
-s'hem
 s'hereta
 s'heretà
 s'heretarà
@@ -245669,7 +244395,6 @@ s'hissaria
 s'hissava
 s'hissaven
 s'hissen
-s'hisses
 s'hissés
 s'hissessin
 s'hissi
@@ -245681,7 +244406,6 @@ s'historie
 s'historien
 s'historiï
 s'historiïn
-s'hivern
 s'hivernen
 s'homenatge
 s'homenatgen
@@ -245725,7 +244449,6 @@ s'homologués
 s'homologuessin
 s'homologui
 s'homologuin
-s'honor
 s'honora
 s'honorà
 s'honorara
@@ -245783,7 +244506,6 @@ s'hospitalitzen
 s'hospitalitzi
 s'hostatge
 s'hostatgen
-s'hostatges
 s'hostatgés
 s'hostatgessin
 s'hostatgi
@@ -245846,7 +244568,6 @@ s'humilie
 s'humilien
 s'humiliés
 s'humiliessin
-s'humilií
 s'humiliï
 s'humiliïn
 s'humitege
@@ -245877,7 +244598,6 @@ s'idearen
 s'ideava
 s'ideaven
 s'ideen
-s'idees
 s'ideés
 s'ideessin
 s'ideï
@@ -245895,9 +244615,7 @@ s'identificassin
 s'identificava
 s'identificaven
 s'identifique
-s'identifiquem
 s'identifiquen
-s'identifiques
 s'identifiqués
 s'identifiquessin
 s'identifiqui
@@ -246014,13 +244732,11 @@ s'ignoràs
 s'ignorava
 s'ignoraven
 s'ignore
-s'ignorem
 s'ignoren
 s'ignorés
 s'ignoressin
 s'ignori
 s'ignorin
-s'igual
 s'iguala
 s'igualà
 s'igualara
@@ -246034,7 +244750,6 @@ s'igualava
 s'igualaven
 s'iguale
 s'igualen
-s'iguales
 s'igualés
 s'igualessin
 s'iguali
@@ -246134,7 +244849,6 @@ s'il·luminàs
 s'il·luminava
 s'il·luminaven
 s'il·lumine
-s'il·luminem
 s'il·luminen
 s'il·luminés
 s'il·luminessin
@@ -246173,20 +244887,16 @@ s'imaginara
 s'imaginarà
 s'imaginaran
 s'imaginaren
-s'imaginareu
 s'imaginaria
 s'imaginarien
 s'imaginàs
 s'imaginassin
 s'imaginava
-s'imaginàvem
 s'imaginaven
 s'imagine
-s'imaginem
 s'imaginen
 s'imaginés
 s'imaginessin
-s'imagineu
 s'imagini
 s'imaginin
 s'imanta
@@ -246243,7 +244953,6 @@ s'imitava
 s'imitaven
 s'imite
 s'imiten
-s'imites
 s'imités
 s'imitessin
 s'imiti
@@ -246307,7 +245016,6 @@ s'immolava
 s'immolaven
 s'immole
 s'immolen
-s'immoles
 s'immolés
 s'immolessin
 s'immoli
@@ -246435,13 +245143,11 @@ s'impermeabilitzen
 s'impermeabilitzi
 s'impermeabilitzin
 s'impetraran
-s'implant
 s'implanta
 s'implantà
 s'implantara
 s'implantarà
 s'implantaran
-s'implantaré
 s'implantaren
 s'implantaria
 s'implantarien
@@ -246451,13 +245157,10 @@ s'implantava
 s'implantaven
 s'implante
 s'implanten
-s'implantes
 s'implantés
 s'implantessin
-s'implantessis
 s'implanti
 s'implantin
-s'implement
 s'implementa
 s'implementà
 s'implementara
@@ -246472,12 +245175,10 @@ s'implementava
 s'implementaven
 s'implemente
 s'implementen
-s'implementes
 s'implementés
 s'implementessin
 s'implementi
 s'implementin
-s'implic
 s'implica
 s'implicà
 s'implicara
@@ -246490,7 +245191,6 @@ s'implicàs
 s'implicassin
 s'implicava
 s'implicaven
-s'implico
 simplifica-ho
 simplifica-la
 simplificant-ho
@@ -246528,12 +245228,9 @@ simplifiquem-los
 simplifiquem-ne
 simplifiqueu-ho
 s'implique
-s'impliquem
 s'impliquen
-s'impliques
 s'impliqués
 s'impliquessin
-s'impliqueu
 s'impliqui
 s'impliquin
 s'implora
@@ -246544,7 +245241,6 @@ s'impondran
 s'imponen
 s'imponga
 s'impongueren
-s'import
 s'importa
 s'importà
 s'importara
@@ -246570,7 +245266,6 @@ s'imposà
 s'imposara
 s'imposarà
 s'imposaran
-s'imposarem
 s'imposaren
 s'imposaria
 s'imposarien
@@ -246578,18 +245273,13 @@ s'imposàs
 s'imposassen
 s'imposassin
 s'imposava
-s'imposàvem
 s'imposaven
 s'impose
-s'imposem
 s'imposen
-s'imposes
 s'imposés
 s'imposessin
 s'imposi
-s'imposí
 s'imposin
-s'imposis
 s'impossibilita
 s'impossibilità
 s'impossibilitarà
@@ -246600,7 +245290,6 @@ s'impossibilite
 s'impossibiliten
 s'impossibilités
 s'impossibiliti
-s'impost
 s'imposta
 s'impostà
 s'impostava
@@ -246636,12 +245325,10 @@ s'impressionen
 s'impressionés
 s'impressioni
 s'impressionin
-s'imprim
 s'imprima
 s'imprime
 s'imprimeix
 s'imprimeixen
-s'imprimeixes
 s'imprimeixi
 s'imprimeixin
 s'imprimi
@@ -246703,7 +245390,6 @@ s'impulsava
 s'impulsaven
 s'impulse
 s'impulsen
-s'impulses
 s'impulsés
 s'impulsessin
 s'impulsi
@@ -246775,14 +245461,11 @@ s'inadmetien
 s'inadmetin
 s'inadmetrà
 s'inadmetran
-s'inaugur
 s'inaugura
 s'inaugurà
 s'inaugurara
 s'inaugurarà
 s'inauguraran
-s'inauguraré
-s'inaugurarem
 s'inauguraren
 s'inauguraria
 s'inaugurarien
@@ -246792,11 +245475,9 @@ s'inaugurava
 s'inauguraven
 s'inaugure
 s'inauguren
-s'inaugures
 s'inaugurés
 s'inauguressin
 s'inauguri
-s'inaugurí
 s'inaugurin
 s'incapacita
 s'incapacitaven
@@ -246828,10 +245509,8 @@ s'incendiava
 s'incendiaven
 s'incendie
 s'incendien
-s'incendies
 s'incendiés
 s'incendiessin
-s'incendii
 s'incendiï
 s'incendiïn
 s'incentiva
@@ -246846,7 +245525,6 @@ s'incentivava
 s'incentivaven
 s'incentive
 s'incentiven
-s'incentives
 s'incentivés
 s'incentivessin
 s'incentivi
@@ -246924,11 +245602,9 @@ s'inclini
 s'inclinin
 s'incloga
 s'inclogué
-s'incloguem
 s'incloguen
 s'incloguera
 s'inclogueren
-s'inclogues
 s'inclogués
 s'incloguessen
 s'incloguessin
@@ -246940,10 +245616,8 @@ s'inclou
 s'inclouen
 s'inclourà
 s'inclouran
-s'inclouràs
 s'inclouria
 s'inclourien
-s'inclous
 s'incoa
 s'incoà
 s'incoarà
@@ -246997,13 +245671,11 @@ s'incomuniquen
 sincopar-lo
 sincopar-los
 sincopar-se
-s'incorpor
 s'incorpora
 s'incorporà
 s'incorporara
 s'incorporarà
 s'incorporaran
-s'incorporaré
 s'incorporaren
 s'incorporaria
 s'incorporarien
@@ -247012,15 +245684,11 @@ s'incorporassin
 s'incorporava
 s'incorporaven
 s'incorpore
-s'incorporem
 s'incorporen
-s'incorpores
 s'incorporés
 s'incorporessen
-s'incorporéssim
 s'incorporessin
 s'incorpori
-s'incorporí
 s'incorporin
 s'incorre
 s'incórrega
@@ -247035,14 +245703,11 @@ s'incorrerien
 s'incorri
 s'incorria
 s'incorrin
-s'incou
-s'increment
 s'incrementa
 s'incrementà
 s'incrementara
 s'incrementarà
 s'incrementaran
-s'incrementarem
 s'incrementaren
 s'incrementaria
 s'incrementarien
@@ -247052,7 +245717,6 @@ s'incrementava
 s'incrementaven
 s'incremente
 s'incrementen
-s'incrementes
 s'incrementés
 s'incrementessen
 s'incrementessin
@@ -247200,12 +245864,9 @@ s'independitzava
 s'independitzaven
 s'independitze
 s'independitzen
-s'independitzes
 s'independitzés
 s'independitzessin
-s'independitzeu
 s'independitzi
-s'independitzí
 s'independitzin
 s'indexa
 s'indexarà
@@ -247257,7 +245918,6 @@ s'indigestaven
 s'indigesten
 s'indigesti
 s'indigestin
-s'indign
 s'indigna
 s'indignà
 s'indignara
@@ -247270,7 +245930,6 @@ s'indignava
 s'indignaven
 s'indigne
 s'indignen
-s'indignes
 s'indignés
 s'indignessin
 s'indigni
@@ -247278,7 +245937,6 @@ s'indignin
 s'indique
 sindiquem-nos
 s'indiquen
-s'indiques
 s'indiqués
 s'indiquessin
 sindiqueu-vos
@@ -247310,7 +245968,6 @@ s'individualitzessin
 s'individualitzi
 s'individualitzin
 s'individuen
-s'individuo
 s'indueix
 s'indueixen
 s'indueixi
@@ -247325,7 +245982,6 @@ s'induís
 s'induïsca
 s'induïssin
 s'induïx
-s'indult
 s'indulta
 s'indultà
 s'indultarà
@@ -247348,17 +246004,13 @@ s'industrialitzarien
 s'industrialitzava
 s'industrialitzaven
 s'industrialitzen
-s'industrialitzes
 s'industrialitzés
 s'industrialitzessin
 s'industrialitzi
-s'industrialitzí
 s'industrialitzin
-s'inebrii
 s'inertitza
 s'inertitzen
 s'infama
-s'infant
 s'infanta
 s'infantà
 s'infantava
@@ -247432,13 +246084,11 @@ s'infiltrava
 s'infiltraven
 s'infiltre
 s'infiltren
-s'infiltres
 s'infiltrés
 s'infiltressin
 s'infiltri
 s'infiltrin
 s'infixaven
-s'infl
 s'infla
 s'inflà
 s'inflama
@@ -247454,7 +246104,6 @@ s'inflamava
 s'inflamaven
 s'inflame
 s'inflamen
-s'inflames
 s'inflamés
 s'inflamessin
 s'inflami
@@ -247471,7 +246120,6 @@ s'inflava
 s'inflaven
 s'infle
 s'inflen
-s'infles
 s'inflés
 s'inflessin
 s'inflexiona
@@ -247492,7 +246140,6 @@ s'infligirien
 s'infligís
 s'infligisca
 s'inflin
-s'inflo
 s'influeix
 s'influeixen
 s'influeixi
@@ -247526,14 +246173,12 @@ s'infonen
 s'infonguessin
 s'infongui
 s'infonia
-s'inform
 s'informa
 s'informà
 s'informara
 s'informarà
 s'informaran
 s'informaren
-s'informareu
 s'informaria
 s'informarien
 s'informàs
@@ -247548,12 +246193,9 @@ s'informatitzi
 s'informava
 s'informaven
 s'informe
-s'informem
 s'informen
-s'informes
 s'informés
 s'informessin
-s'informeu
 s'informi
 s'informin
 s'infrautilitza
@@ -247589,7 +246231,6 @@ s'infusiona
 s'infusionaran
 s'infusione
 s'infusionen
-s'infusiones
 s'infusionés
 s'infusionessin
 s'infusioni
@@ -247657,7 +246298,6 @@ s'inhabiliten
 s'inhabilités
 s'inhabiliti
 s'inhabilitin
-s'inhal
 s'inhala
 s'inhalarà
 s'inhalaria
@@ -247708,7 +246348,6 @@ s'inicialitzi
 s'iniciara
 s'iniciarà
 s'iniciaran
-s'iniciaràs
 s'iniciàrem
 s'iniciaren
 s'iniciaria
@@ -247718,16 +246357,11 @@ s'iniciassin
 s'iniciava
 s'iniciaven
 s'inicie
-s'iniciem
 s'inicien
-s'inicies
 s'iniciés
 s'iniciessin
-s'inicii
-s'inicií
 s'iniciï
 s'iniciïn
-s'inicio
 sinitzant-se
 sinitzar-se
 s'injecta
@@ -247810,7 +246444,6 @@ s'inscriu
 s'inscriuen
 s'inscriurà
 s'inscriuran
-s'inscriurem
 s'inscriuria
 s'inscriurien
 s'inscriví
@@ -247821,7 +246454,6 @@ s'inscriviren
 s'inscrivís
 s'inscrivissen
 s'inscrivissin
-s'inscriviu
 s'insemina
 s'inseminaran
 s'inseminaria
@@ -247880,12 +246512,10 @@ s'insistís
 s'insistisca
 s'insistix
 s'insola
-s'insolent
 s'insolenta
 s'insolentà
 s'insolentava
 s'insolenten
-s'insolentes
 s'insolentés
 s'insolenti
 s'insonoritza
@@ -247907,7 +246537,6 @@ s'inspeccionés
 s'inspeccionessin
 s'inspeccioni
 s'inspeccionin
-s'inspir
 s'inspira
 s'inspirà
 s'inspirara
@@ -247920,23 +246549,18 @@ s'inspiràs
 s'inspirava
 s'inspiraven
 s'inspire
-s'inspirem
 s'inspiren
-s'inspires
 s'inspirés
 s'inspiressin
 s'inspiri
 s'inspirin
-s'inst
 s'insta
 s'instà
-s'instal
 s'instal·la
 s'instal·là
 s'instal·lara
 s'instal·larà
 s'instal·laran
-s'instal·larem
 s'instal·laren
 s'instal·laria
 s'instal·larien
@@ -247946,14 +246570,11 @@ s'instal·lassin
 s'instal·lava
 s'instal·laven
 s'instal·le
-s'instal·lem
 s'instal·len
-s'instal·les
 s'instal·lés
 s'instal·lessen
 s'instal·lessin
 s'instal·li
-s'instal·lí
 s'instal·lin
 s'instancia
 s'instanciarà
@@ -247964,7 +246585,6 @@ s'instaran
 s'instaren
 s'instaria
 s'instàs
-s'instaur
 s'instaura
 s'instaurà
 s'instaurara
@@ -248049,7 +246669,6 @@ s'instruïsquen
 s'instruïssin
 s'instruïx
 s'instruïxen
-s'instrument
 s'instrumenta
 s'instrumentà
 s'instrumentalitza
@@ -248089,10 +246708,8 @@ s'insufla
 s'insuflava
 s'insuflaven
 s'insuflen
-s'insufles
 s'insufli
 s'insuflin
-s'insult
 s'insulta
 s'insultà
 s'insultarà
@@ -248102,7 +246719,6 @@ s'insultarien
 s'insultava
 s'insultaven
 s'insulte
-s'insultem
 s'insulten
 s'insultés
 s'insultessin
@@ -248123,7 +246739,6 @@ s'insurreccionaria
 s'insurreccionarien
 s'insurreccionen
 s'insurreccionés
-s'integr
 s'integra
 s'integrà
 s'integrara
@@ -248137,7 +246752,6 @@ s'integrassin
 s'integrava
 s'integraven
 s'integre
-s'integrem
 s'integren
 s'integrés
 s'integressen
@@ -248159,14 +246773,11 @@ s'intensificàs
 s'intensificava
 s'intensificaven
 s'intensifique
-s'intensifiquem
 s'intensifiquen
-s'intensifiques
 s'intensifiqués
 s'intensifiquessin
 s'intensifiqui
 s'intensifiquin
-s'intent
 s'intenta
 s'intentà
 s'intentara
@@ -248180,18 +246791,14 @@ s'intentava
 s'intentaven
 s'intente
 s'intenten
-s'intentes
 s'intentés
 s'intentessin
-s'intenteu
 s'intenti
 s'intentin
-s'intento
 s'interacciona
 s'interaccionarà
 s'interaccionava
 s'interaccionen
-s'interacciones
 s'interaccioni
 s'interaccionin
 s'interactua
@@ -248227,7 +246834,6 @@ s'intercanvie
 s'intercanvien
 s'intercanviés
 s'intercanviessin
-s'intercanvii
 s'intercanviï
 s'intercanviïn
 s'intercedeix
@@ -248266,7 +246872,6 @@ s'interconnectessin
 s'interconnecti
 s'interconnectin
 s'interdeia
-s'interès
 s'interessa
 s'interessà
 s'interessara
@@ -248281,11 +246886,8 @@ s'interessava
 s'interessaven
 s'interesse
 s'interessen
-s'interesses
 s'interessés
 s'interessessin
-s'interesséssiu
-s'interesseu
 s'interessi
 s'interessin
 s'interfereix
@@ -248311,7 +246913,6 @@ s'interioritzaria
 s'interioritzava
 s'interioritzaven
 s'interioritzen
-s'interioritzes
 s'interioritzés
 s'interioritzi
 s'interioritzin
@@ -248357,7 +246958,6 @@ s'internés
 s'internessin
 s'interni
 s'internin
-s'interpel
 s'interpel·la
 s'interpel·là
 s'interpel·lara
@@ -248375,7 +246975,6 @@ s'interpenetraran
 s'interpenetraren
 s'interpenetraven
 s'interpenetren
-s'interpol
 s'interpola
 s'interpolaven
 s'interpolen
@@ -248397,13 +246996,10 @@ s'interposava
 s'interposaven
 s'interpose
 s'interposen
-s'interposes
 s'interposés
 s'interposessin
 s'interposi
 s'interposin
-s'interposis
-s'interpret
 s'interpreta
 s'interpretà
 s'interpretara
@@ -248418,7 +247014,6 @@ s'interpretava
 s'interpretaven
 s'interprete
 s'interpreten
-s'interpretes
 s'interpretés
 s'interpretessin
 s'interpreti
@@ -248431,9 +247026,7 @@ s'interrelacionarien
 s'interrelacionassin
 s'interrelacionava
 s'interrelacionaven
-s'interrelacionem
 s'interrelacionen
-s'interrelaciones
 s'interrelacionés
 s'interrelacionessin
 s'interrelacioni
@@ -248463,11 +247056,9 @@ s'interromperen
 s'interrompés
 s'interrompessin
 s'interrompi
-s'interrompí
 s'interrompia
 s'interrompien
 s'interrompin
-s'interrompis
 s'interromprà
 s'interrompran
 s'interrompria
@@ -248478,7 +247069,6 @@ s'intersecarien
 s'intersecava
 s'intersecaven
 s'intersequen
-s'interseques
 s'intersequessin
 s'intersequi
 s'intersequin
@@ -248611,7 +247201,6 @@ s'introdueix
 s'introdueixen
 s'introdueixi
 s'introdueixin
-s'introdueixo
 s'introduesca
 s'introduesquen
 s'introduesquin
@@ -248713,7 +247302,6 @@ s'invalidés
 s'invalidessin
 s'invalidi
 s'invalidin
-s'invent
 s'inventa
 s'inventà
 s'inventara
@@ -248736,14 +247324,10 @@ s'inventariïn
 s'inventava
 s'inventaven
 s'invente
-s'inventem
 s'inventen
-s'inventes
 s'inventés
 s'inventessin
-s'inventeu
 s'inventi
-s'inventí
 s'inventin
 s'inverteix
 s'inverteixen
@@ -248789,10 +247373,8 @@ s'investigava
 s'investigaven
 s'investigue
 s'investiguen
-s'investigues
 s'investigués
 s'investiguessin
-s'investiguessis
 s'investigui
 s'investiguin
 s'investira
@@ -248853,9 +247435,7 @@ s'involucrassin
 s'involucrava
 s'involucraven
 s'involucre
-s'involucrem
 s'involucren
-s'involucres
 s'involucrés
 s'involucressin
 s'involucri
@@ -248878,10 +247458,8 @@ sirgant-hi
 sirgant-los
 sirgar-hi
 sirgar-lo
-sirga's
 s'iria
 s'irin
-s'iris
 s'irisa
 s'irisà
 s'irisava
@@ -248912,7 +247490,6 @@ s'irrigarà
 s'irrigava
 s'irrigaven
 s'irriguen
-s'irrigues
 s'irrigui
 s'irrita
 s'irrità
@@ -248931,7 +247508,6 @@ s'irrités
 s'irritessin
 s'irriti
 s'irritin
-s'irrito
 s'irroga
 s'irrogà
 s'irroguen
@@ -248981,7 +247557,6 @@ s'italianitzi
 s'itera
 s'iterarà
 s'iteren
-s'iteres
 s'iterin
 situa-hi
 situa-ho
@@ -249095,7 +247670,6 @@ s'objectarien
 s'objectava
 s'objecte
 s'objecten
-s'objectes
 s'objectés
 s'objecti
 s'objectiva
@@ -249110,7 +247684,6 @@ s'objectiven
 s'objectivessin
 s'objectivi
 s'objectivin
-s'oblic
 s'oblida
 s'oblidà
 s'oblidara
@@ -249125,16 +247698,11 @@ s'oblidassin
 s'oblidava
 s'oblidaven
 s'oblide
-s'oblidem
 s'obliden
-s'oblides
 s'oblidés
 s'oblidessin
-s'oblideu
 s'oblidi
-s'oblidí
 s'oblidin
-s'oblidis
 s'obliga
 s'obligà
 s'obligara
@@ -249147,7 +247715,6 @@ s'obligava
 s'obligaven
 s'obligue
 s'obliguen
-s'obligues
 s'obligués
 s'obliguessin
 s'obligui
@@ -249160,7 +247727,6 @@ s'obnubila
 s'obnubilava
 s'obnubilen
 s'obnubili
-s'obr
 s'obra
 s'obrà
 sobra'l
@@ -249391,7 +247957,6 @@ sobrepujar-les
 sobrepujar-lo
 sobrepujar-los
 sobrepujar-se
-s'obres
 sobre's
 s'obrés
 sobresaltant-la
@@ -249503,22 +248068,16 @@ s'obria
 s'obrien
 s'òbriga
 s'òbriguen
-s'obrim
 s'obrin
 s'obrira
 s'obrirà
 s'obriran
-s'obriràs
-s'obrirem
 s'obriren
 s'obriria
 s'obririen
-s'obris
 s'obrís
 s'obrissen
-s'obríssim
 s'obrissin
-s'obrissis
 s'obscureix
 s'obscureixen
 s'obscuresquen
@@ -249547,25 +248106,20 @@ s'obsequiava
 s'obsequiaven
 s'obsequien
 s'obsequiés
-s'obsequii
 s'obsequiïn
-s'observ
 s'observa
 s'observà
 s'observara
 s'observarà
 s'observaran
 s'observaren
-s'observareu
 s'observaria
 s'observarien
 s'observassin
 s'observava
 s'observaven
 s'observe
-s'observem
 s'observen
-s'observes
 s'observés
 s'observessin
 s'observi
@@ -249613,7 +248167,6 @@ s'obstinés
 s'obstinessin
 s'obstini
 s'obstinin
-s'obstino
 s'obstrueix
 s'obstrueixen
 s'obstrueixi
@@ -249670,12 +248223,10 @@ s'obtingué
 s'obtinguen
 s'obtinguera
 s'obtingueren
-s'obtingues
 s'obtingués
 s'obtinguessin
 s'obtingui
 s'obtinguin
-s'obtinguis
 s'obtura
 s'obturarà
 s'obturava
@@ -249697,7 +248248,6 @@ s'obvie
 s'obvien
 s'obviés
 s'obviessin
-s'obvii
 s'obviï
 s'obviïn
 socarra'l
@@ -249748,7 +248298,6 @@ socarrimar-te
 socarrimar-vos
 socarrimeu-lo
 socarrimeu-los
-s'ocasion
 s'ocasiona
 s'ocasionà
 s'ocasionarà
@@ -249837,7 +248386,6 @@ socórrer-nos
 socórrer-se
 socórrer-te
 socórrer-vos
-socorre's
 socorre't
 socorreu-la
 socorreu-lo
@@ -249864,7 +248412,6 @@ s'ocultés
 s'ocultessin
 s'oculti
 s'ocultin
-s'ocup
 s'ocupa
 s'ocupà
 s'ocupara
@@ -249879,14 +248426,10 @@ s'ocupassin
 s'ocupava
 s'ocupaven
 s'ocupe
-s'ocupem
 s'ocupen
-s'ocupes
 s'ocupés
 s'ocupessen
-s'ocupéssim
 s'ocupessin
-s'ocupeu
 s'ocupi
 s'ocupin
 s'odia
@@ -249900,10 +248443,8 @@ s'odiava
 s'odiaven
 s'odie
 s'odien
-s'odies
 s'odiés
 s'odiessin
-s'odii
 s'odiï
 s'odiïn
 sodomitza'm
@@ -249923,15 +248464,12 @@ s'ofegà
 s'ofegara
 s'ofegarà
 s'ofegaran
-s'ofegarem
 s'ofegaren
-s'ofegareu
 s'ofegaria
 s'ofegarien
 s'ofegàs
 s'ofegassin
 s'ofegava
-s'ofegàvem
 s'ofegaven
 s'ofegue
 s'ofeguen
@@ -249951,7 +248489,6 @@ s'ofengué
 s'ofenguen
 s'ofenguera
 s'ofengueren
-s'ofengues
 s'ofengués
 s'ofenguessin
 s'ofengui
@@ -249968,11 +248505,9 @@ s'oferesqui
 s'oferí
 s'oferia
 s'oferien
-s'oferim
 s'oferira
 s'oferirà
 s'oferiran
-s'oferirem
 s'oferiren
 s'oferiria
 s'oferirien
@@ -249983,7 +248518,6 @@ s'oferissen
 s'oferissin
 s'oferix
 s'oferixen
-s'ofert
 s'oferta
 s'ofertarà
 s'ofertaran
@@ -249994,7 +248528,6 @@ s'ofertava
 s'ofertaven
 s'oferte
 s'oferten
-s'ofertes
 s'ofertés
 s'ofertessin
 s'oferti
@@ -250155,7 +248688,6 @@ solapar-se
 solapar-te
 solar-nos
 solar-se
-sola's
 solcant-la
 solcant-li
 solcant-lo
@@ -250248,9 +248780,7 @@ solidificar-nos
 solidificar-se
 solidificar-se-li
 solidificar-te
-s'oliem
 s'olien
-s'olio
 s'oliva
 s'olivà
 sol-la
@@ -250355,7 +248885,6 @@ sol·liciti'n
 sol·licitin-ho
 sol·liciti'ns
 sol·liciti'ns-el
-s'olor
 s'olora
 s'olorà
 s'olorarà
@@ -250369,7 +248898,6 @@ s'oloren
 s'olorés
 s'olori
 s'olorin
-s'ols
 solsint-se
 solsir-ho
 solsir-les
@@ -250473,7 +249001,6 @@ s'ombreja
 s'ombrejà
 s'ombrejava
 s'ombrejaven
-s'ombres
 s'omet
 s'ometa
 s'ometé
@@ -250488,7 +249015,6 @@ s'ometin
 s'ometrà
 s'ometran
 s'ometria
-s'omets
 somia-hi
 somia-ho
 somia-la
@@ -250556,14 +249082,12 @@ somoure'ns
 somoure's
 s'omple
 s'omplen
-s'omples
 s'ompli
 s'omplí
 s'omplia
 s'omplien
 s'òmpliga
 s'òmpliguen
-s'omplim
 s'omplin
 s'omplira
 s'omplirà
@@ -250572,10 +249096,8 @@ s'ompliren
 s'omplires
 s'ompliria
 s'omplirien
-s'omplis
 s'omplís
 s'omplissin
-s'ompliu
 somrient-hi
 somrient-li
 somrient-los
@@ -250622,7 +249144,6 @@ sonar-se
 sonar-te
 sonar-vos
 sona't
-s'ond
 sonda'm
 sondant-la
 sondar-la
@@ -250699,7 +249220,6 @@ sopar-ho
 sopar-lo
 sopar-me'n
 sopar-ne
-s'oper
 s'opera
 s'operà
 s'operacionalitzen
@@ -250715,7 +249235,6 @@ s'operava
 s'operaven
 s'opere
 s'operen
-s'operes
 s'operés
 s'operessin
 s'operi
@@ -250756,22 +249275,16 @@ s'oposàs
 s'oposassin
 s'oposava
 s'oposaven
-s'oposaves
 s'opose
-s'oposem
 s'oposen
-s'oposes
 s'oposés
 s'oposessin
 s'oposi
-s'oposí
 s'oposin
-s'oposit
 s'oposita
 s'oposite
 s'opositen
 s'oposités
-s'oposo
 s'oprimeix
 s'oprimeixen
 s'oprimeixi
@@ -250793,7 +249306,6 @@ s'optava
 s'optaven
 s'opte
 s'opten
-s'optes
 s'optés
 s'opti
 s'optima
@@ -250814,7 +249326,6 @@ s'optimitzessin
 s'optimitzi
 s'optimitzin
 s'optin
-s'or
 s'ora
 s'oraren
 s'orava
@@ -250838,7 +249349,6 @@ s'ordenava
 s'ordenaven
 s'ordene
 s'ordenen
-s'ordenes
 s'ordenés
 s'ordenessin
 s'ordeni
@@ -250862,14 +249372,11 @@ s'orejava
 s'orejaven
 s'orella
 s'oren
-s'ores
-s'organitz
 s'organitza
 s'organitzà
 s'organitzara
 s'organitzarà
 s'organitzaran
-s'organitzarem
 s'organitzàrem
 s'organitzaren
 s'organitzaria
@@ -250879,12 +249386,9 @@ s'organitzassin
 s'organitzava
 s'organitzaven
 s'organitze
-s'organitzem
 s'organitzen
-s'organitzes
 s'organitzés
 s'organitzessin
-s'organitzeu
 s'organitzi
 s'organitzin
 sorgeixi'n
@@ -250905,10 +249409,7 @@ sorgir-nos
 sorgir-se
 sorgir-te
 sorgir-vos
-s'orgull
 s'ori
-s'orí
-s'orient
 s'orienta
 s'orientà
 s'orientalitzen
@@ -250922,12 +249423,10 @@ s'orientava
 s'orientaven
 s'oriente
 s'orienten
-s'orientes
 s'orientés
 s'orientessin
 s'orienti
 s'orientin
-s'orientis
 s'origina
 s'originà
 s'originara
@@ -250941,11 +249440,9 @@ s'originava
 s'originaven
 s'origine
 s'originen
-s'origines
 s'originés
 s'originessin
 s'origini
-s'originí
 s'originin
 s'orina
 s'orinà
@@ -250959,7 +249456,6 @@ s'orinin
 s'orla
 s'orlà
 s'orle
-s'ormeig
 s'ormejà
 s'ormejaven
 s'orna
@@ -250980,7 +249476,6 @@ s'ornaren
 s'ornava
 s'ornaven
 s'ornen
-s'ornes
 sorollant-la
 sorollant-lo
 sorollant-se
@@ -251152,7 +249647,6 @@ soscavar-nos
 soscavar-se
 s'oscaven
 soscaveu-la
-s'oscil
 s'oscil·la
 sospedrar-los
 sospesa-ho
@@ -251513,7 +250007,6 @@ s'oxidava
 s'oxidaven
 s'oxide
 s'oxiden
-s'oxides
 s'oxidés
 s'oxidessin
 s'oxidi
@@ -251653,7 +250146,6 @@ s'ubicava
 s'ubicaven
 s'ubique
 s'ubiquen
-s'ubiques
 s'ubiqués
 s'ubiquessin
 s'ubiqui
@@ -252187,7 +250679,6 @@ subvertir-me
 subvertir-ne
 subvertir-se
 subvertir-te
-s'uc
 suca-hi
 suca-ho
 suca'l
@@ -252278,7 +250769,6 @@ sucumbiu-vos
 s'udolaven
 suem-la
 sue's
-s'ufan
 s'ufana
 s'ufanà
 s'ufanaren
@@ -252439,7 +250929,6 @@ sulfurar-nos
 sulfurar-se
 sulfurar-te
 sulfurau-vos
-s'ull
 s'ullaren
 sullar-me
 s'ullaven
@@ -252454,7 +250943,6 @@ s'ultimaren
 s'ultimaria
 s'ultimava
 s'ultimaven
-s'ultimem
 s'ultimen
 s'ultimés
 s'ultimessin
@@ -252600,7 +251088,6 @@ s'umplen
 s'umplin
 s'uneix
 s'uneixen
-s'uneixes
 s'uneixi
 s'uneixin
 s'unesca
@@ -252668,21 +251155,17 @@ s'uniformitzaven
 s'uniformitzen
 s'uniformitzi
 s'uniformitzin
-s'unim
 s'unira
 s'unirà
 s'uniran
 s'uniren
-s'unireu
 s'uniria
 s'unirien
 s'unís
 s'unisca
 s'unisquen
 s'unissen
-s'uníssim
 s'unissin
-s'uniu
 s'universalitza
 s'universalitzà
 s'universalitzarà
@@ -253062,7 +251545,6 @@ surar-li
 surar-lo
 surar-los
 surar-ne
-s'urbanitz
 s'urbanitza
 s'urbanitzà
 s'urbanitzara
@@ -253115,13 +251597,11 @@ surt-me
 surt-ne
 surt-te
 surt-te'n
-s'ús
 s'usa
 s'usà
 s'usara
 s'usarà
 s'usaran
-s'usaré
 s'usaren
 s'usaria
 s'usarien
@@ -253152,15 +251632,11 @@ suscitar-se-li
 suscitar-s'hi
 suscitar-te
 s'use
-s'usem
 s'usen
-s'uses
 s'usés
 s'usessin
 s'usi
 s'usin
-s'usis
-s'uso
 suspendre-hi
 suspendre-ho
 suspendre'l
@@ -253225,14 +251701,12 @@ s'usurpassin
 s'usurpava
 s'usurpen
 s'usurpi
-s'utilitz
 s'utilitza
 s'utilitzà
 s'utilitzara
 s'utilitzarà
 s'utilitzaran
 s'utilitzaren
-s'utilitzareu
 s'utilitzaria
 s'utilitzarien
 s'utilitzàs
@@ -253240,16 +251714,12 @@ s'utilitzassin
 s'utilitzava
 s'utilitzaven
 s'utilitze
-s'utilitzem
 s'utilitzen
-s'utilitzes
 s'utilitzés
 s'utilitzessen
 s'utilitzessin
-s'utilitzeu
 s'utilitzi
 s'utilitzin
-s'utilitzis
 suturant-les
 suturant-lo
 suturar-la
@@ -253667,7 +252137,6 @@ tacar-te-la
 t'acartones
 tacar-vos
 tacar-vos-en
-taca's
 taca't
 t'acates
 t'accedeixes
@@ -255269,7 +253738,6 @@ tallar-t'hi
 tallar-t'ho
 tallar-vos
 tallar-vos-el
-talla's
 talla't
 talla-te'l
 talla-te-la
@@ -256224,7 +254692,6 @@ t'apartin
 t'apartis
 t'aparto
 tapar-vos
-tapa's
 t'apassiona
 t'apassionarà
 t'apassionaran
@@ -256649,7 +255116,6 @@ taral·lejar-me
 taral·lejar-ne
 tarar-lo
 tarar-los
-tara's
 tara-te-les
 t'arbitren
 t'arbitri
@@ -256667,7 +255133,6 @@ tardar-hi
 tardar-li
 tardar-ne
 tardar-se
-tarda's
 tarde'ls
 tarde's
 t'arena
@@ -259165,7 +257630,6 @@ t'empudegava
 t'empudeguen
 t'empudegues
 t'empunya
-tem-se
 t'emuli
 t'emulsionen
 t'enaigües
@@ -260488,7 +258952,6 @@ t'ensarronin
 t'ensarrono
 tensar-se
 tensar-se-li
-ten-se
 t'ensellaria
 tensem-la
 t'enseny
@@ -261246,7 +259709,6 @@ terraplenar-ho
 terraplenar-lo
 terraplenar-se
 t'erraries
-terra's
 terra't
 t'erre
 t'erren
@@ -264720,7 +263182,6 @@ tintar-los
 tintar-ne
 tintar-nos
 tintar-se
-tinta's
 tin-te
 t'integra
 t'integrarà
@@ -265618,7 +264079,6 @@ tocar-t'ho
 tocar-vos
 tocar-vos-els
 tocar-vos-les
-toca's
 t'ocasiona
 t'ocasionarà
 t'ocasionava
@@ -265895,7 +264355,6 @@ tomar-se
 tomar-se'l
 tomar-se'n
 tomar-te
-toma's
 toma-te'n
 tomba-hi
 tomba'l
@@ -266052,7 +264511,6 @@ topar-te'ls
 topar-te'n
 topar-t'hi
 topar-vos
-topa's
 topa't
 tope'm
 t'opera
@@ -266175,7 +264633,6 @@ torbar-se'ls
 torbar-s'hi
 torbar-te
 torbar-vos
-torba's
 torba't
 torbem-nos
 torca'l
@@ -266491,8 +264948,6 @@ tornar-vos-hi
 tornar-vos-ho
 tornar-vos-la
 tornar-vos-les
-torna's
-torna-se'n
 tornassolant-te
 tornassolar-lo
 tornassolar-se
@@ -266678,7 +265133,6 @@ torrar-nos
 torrar-nos-hi
 torrar-se
 torrar-te
-torra's
 torre-la
 torrem-ho
 torre's
@@ -266752,7 +265206,6 @@ t'oxidaràs
 t'oxigena
 t'oxigenes
 trabocar-la
-traboca's
 trabucant-ho
 trabucant-les
 trabucant-lo
@@ -267468,7 +265921,6 @@ transformar-s'hi
 transformar-te
 transformar-t'hi
 transformar-vos
-transforma's
 transforma't
 transforma-t'hi
 transformau-lo
@@ -268020,7 +266472,6 @@ traure't
 traure-te'l
 traure-te-la
 traure-us
-trau-se
 trau-te
 trau-te'l
 trau-t'ho
@@ -268356,7 +266807,6 @@ trencar-te-la
 trencar-t'hi
 trencar-vos
 trencar-vos-hi
-trenca's
 trenca't
 trenca-t'hi
 trenquem-hi
@@ -268921,7 +267371,6 @@ trobar-vos-en
 trobar-vos-hi
 trobar-vos-la
 trobar-vos-les
-troba's
 troba't
 troba-te'n
 troba-t'hi
@@ -269524,7 +267973,6 @@ uneix-les
 uneix-los
 uneix-me
 uneix-nos
-uneix-se
 uneix-te
 uneix-te'n
 uneix-te'ns
@@ -269827,7 +268275,6 @@ usar-se
 usar-se'n
 usar-te
 usar-vos
-usa's
 usau-ne
 usdefruitar-la
 usdefruitar-los
@@ -269947,7 +268394,6 @@ utilitzin-la
 utilitzin-lo
 utilitzi'ns
 utilitzi's
-vaca's
 vaccinant-se
 vaccinar-hi
 vaccinar-la
@@ -270342,7 +268788,6 @@ variar-los
 variar-ne
 variar-se
 variar-vos
-varia's
 varia-te-la
 varieu-ne
 vari-les
@@ -270399,7 +268844,6 @@ veges-los
 veges-te
 veges-t'ho
 vegetar-hi
-vegeta's
 vegeu-hi
 vegeu-ho
 vegeu-la
@@ -270817,8 +269261,6 @@ ven-me-les
 ven-me'n
 ven-ne
 ven-nos
-ven-se
-ven-se-li
 venta'l
 venta-li
 venta-li-la
@@ -271561,7 +270003,6 @@ vine'm
 vine-m'hi
 vine-m'ho
 vine'ns
-vine's
 vine't
 vine-te'n
 vine-t'hi
@@ -271616,7 +270057,6 @@ violar-nos
 violar-se
 violar-te
 violar-vos
-viola's
 violem-lo
 violentant-ho
 violentant-la
@@ -271671,7 +270111,6 @@ visar-li
 visar-lo
 visar-los
 visar-se
-visa's
 visca'l
 visca-la
 visca'ns
@@ -271762,7 +270201,6 @@ visitar-s'hi
 visitar-te
 visitar-t'hi
 visitar-vos
-visita's
 visita't
 visitau-la
 visitau-nos
@@ -271808,7 +270246,6 @@ vista'ns
 vista's
 visten-se
 vist-la
-vist-se
 vist-te
 visualitza-ho
 visualitza'l
@@ -271899,7 +270336,6 @@ viure-se'n
 viure-s'hi
 viure't
 viure-us
-viu-se
 viu-te
 viu-vos
 vivenciant-les
@@ -271995,7 +270431,6 @@ volar-se'n
 volar-te
 volar-te'n
 volar-vos
-vola's
 vola't
 volatilitzant-me
 volatilitzant-se
@@ -272144,7 +270579,6 @@ voltar-ne
 voltar-nos
 voltar-se
 voltar-te
-volta's
 volteja-les
 voltejant-la
 voltejant-les
@@ -272502,7 +270936,6 @@ xautant-se
 xautant-se'n
 xautar-se
 xautar-se'n
-xauta-se'n
 xauta-te'n
 xemicar-la
 xemicar-se
@@ -272577,7 +271010,6 @@ xillar-li
 xillar-te
 xina-la
 xinant-la
-xina's
 xinxollant-ho
 xinxollant-la
 xinxollar-la
@@ -272693,7 +271125,6 @@ xocar-nos-la
 xocar-nos-les
 xocar-se
 xocar-te
-xoca's
 xolla-les
 xollant-la
 xollar-les

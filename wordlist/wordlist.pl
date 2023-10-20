@@ -125,9 +125,13 @@ while ($line = <$fh>) {
 		print $ofh "l'".$forma."\n";
 	    }
 	} elsif ($postag =~ /^V.[SI].*$/ && Flexio::apostrofa_masculi($forma)) {
-	    print $ofh "m'".$forma."\n";
+		if ($postag !~/1P/) {
+	        print $ofh "m'".$forma."\n";
+	    }
 	    print $ofh "t'".$forma."\n";
-	    print $ofh "s'".$forma."\n";
+	    if ($postag =~/3/) {
+	       print $ofh "s'".$forma."\n";	
+	    }
 	    print $ofh "l'".$forma."\n";
 	    print $ofh "n'".$forma."\n";
 	} elsif ($postag =~ /^[NA].*$/) {

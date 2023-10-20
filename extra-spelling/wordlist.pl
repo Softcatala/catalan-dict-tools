@@ -109,9 +109,9 @@ while ($line = <$fh>) {
 	    &aplica_afixos($forma, $afixos, $lema, $postag);
 	} elsif ($postag =~ /^V.M.*$/) {
 	    if ($forma =~ /[aeiï]$/) {
-		$afixos="_D"; #imperatiu acabat en vocal: a, e, i, ï 
+		   $afixos="_D"; #imperatiu acabat en vocal: a, e, i, ï 
 	    } else {
-		$afixos="_C"; #imperatiu acabat en consonat o u
+		   $afixos="_C"; #imperatiu acabat en consonat o u
 	    }
 	    &aplica_afixos($forma, $afixos, $lema, $postag);
 	} elsif ($postag =~ /^V.P.*$/) {
@@ -125,9 +125,13 @@ while ($line = <$fh>) {
 		print $ofh "l'".$forma."\n";
 	    }
 	} elsif ($postag =~ /^V.[SI].*$/ && Flexio::apostrofa_masculi($forma)) {
-	    print $ofh "m'".$forma."\n";
+	    if ($postag !~/1P/) {
+	        print $ofh "m'".$forma."\n";
+	    }
 	    print $ofh "t'".$forma."\n";
-	    print $ofh "s'".$forma."\n";
+	    if ($postag =~/3/) {
+	       print $ofh "s'".$forma."\n";	
+	    }
 	    print $ofh "l'".$forma."\n";
 	    print $ofh "n'".$forma."\n";
 	} elsif ($postag =~ /^[NA].*$/) {
@@ -167,19 +171,26 @@ sub aplica_afixos {
 	    my $afegeix=$2;
 	    my $condicio=$3;
 	    if ($afegeix =~ /^0$/) {
-		$afegeix="";
+		   $afegeix="";
 	    }
 	    if ($afegeix =~ /^0(\/.*)$/) {
-		$afegeix=$1;
+		   $afegeix=$1;
 	    }
 	    if ($paraula =~ /$condicio$/) {
-		if ($lleva !~ /^0$/) {
-		    $forma =~ s/$lleva$/$afegeix/;
-		} else {
-		    $forma .= $afegeix;
-		}
-		$forma =~ s/\/$//; # Elimina / al final 
-		print $ofh "$forma\n";
+      		if ($lleva !~ /^0$/) {
+      		    $forma =~ s/$lleva$/$afegeix/;
+      		} else {
+      		    $forma .= $afegeix;
+      		}
+      		if ($postag =~ /V.M.2S../ && ($afegeix =~ /-se/ || $afegeix =~ /'s/)) {
+      		}
+      		else { 
+      		    $forma =~ s/\/$//; # Elimina / al final 
+      		    print $ofh "$forma\n";
+      		    #if ($forma =~ /a's$/) {
+      		    #  print "$forma, $postag $afegeix $lleva\n";
+      		    #}
+      		}
 	    }
 	}
     }

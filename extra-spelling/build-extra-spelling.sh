@@ -5,3 +5,7 @@ perl wordlist.pl ../resultats/lt/dicc.txt ../resultats/hunspell/catalan-valencia
 
 sort -u ./extra-spelling-1.txt -o ./extra-spelling-2.txt
 
+perl select-frequent.pl
+
+rm ./extra-spelling-1.txt
+rm ./extra-spelling-2.txt
