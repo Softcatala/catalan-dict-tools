@@ -10544,6 +10544,7 @@ Gardí Gardí NPCNSP0
 Gardó Gardó NPCNSP0
 Garenne-Colombes Garenne-Colombes NPFSG00
 Garet Garet NPCNSP0
+Gargallo Gargallo NPCNSP0
 Gargallà Gargallà NPCSG00
 Gargano Gargano NPCSG00
 Garganta Garganta NPCNSP0
@@ -16550,6 +16551,7 @@ Morioka Morioka NPCSG00
 Moripol Moripol NPCSG00
 Moriscot Moriscot NPCNSP0
 Morison Morison NPCNSP0 # medical
+Morisot Morisot NPCNSP0
 Moritz Moritz NPCNSP0
 Morlaix Morlaix NPCSG00
 Morlanes Morlanes NPCNSP0
@@ -21042,6 +21044,7 @@ Rosdevall Rosdevall NPCNSP0
 Roseau Roseau NPCSG00
 Rosella Rosella NPCNSP0
 Rosen Rosen NPCNSP0
+Rosenberg Rosenberg NPCNSP0
 Roser Roser NPCNSP0
 Roser Roser NPCSSP0
 Roseret Roseret NPMSG00
@@ -22695,6 +22698,7 @@ Sisenand Sisenand NPMSSP0
 Sisenands Sisenand NPMPSP0
 Sisini Sisini NPMSSP0
 Sisinis Sisini NPMPSP0
+Sisley Sisley NPCNSP0
 Sispony Sispony NPCSG00
 Sisquella Sisquella NPFSG00
 Sisquer Sisquer NPCSG00
