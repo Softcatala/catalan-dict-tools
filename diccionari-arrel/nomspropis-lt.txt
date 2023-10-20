@@ -4116,7 +4116,7 @@ Bikini Bikini NPCSG00
 Bilbao Bilbao NPCSG00
 Bilbeny Bilbeny NPCNSP0
 Bilbert Bilbert NPCNSP0
-Bilbo Bilbo NPMSP00
+Bilbo Bilbo NPMSSP00
 Bilderberg Bilderberg NPCNSP0
 Bildu Bildu NPMSO00
 Billarac Billarac NPCNSP0

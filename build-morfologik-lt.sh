@@ -2,12 +2,17 @@
 
 cd morfologik-lt
 
-
 #LanguageTool jar
-#jarfile=~/github/languagetool/languagetool-tools/target/languagetool-tools-3.5-SNAPSHOT-jar-with-dependencies.jar
 jarfile=~/target-lt/languagetool.jar
-
 target_dir=../resultats/java-lt/src/main/resources/org/languagetool/resource/ca
+
+# extra spelling dict
+java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ../extra-spelling/extra-spelling.txt -freq ca_wordlist.xml -info ca-ES.info -o ca-extra-spelling.dict
+# dump the extra-spelling dict 
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ca-extra-spelling.dict -info ca-ES.info -o ca-extra-spelling_lt.txt
+
+cp ca-extra-spelling.dict $target_dir
+cp ca-ES.info $target_dir/ca-extra-spelling.info
 
 #source dictionaries
 # catalan
@@ -55,3 +60,6 @@ do
     cp ${targetdict}.info $target_dir
     cp ${targetdict}_synth.info $target_dir
 done
+
+
+
