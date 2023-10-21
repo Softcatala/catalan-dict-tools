@@ -14392,6 +14392,7 @@ Lugo Lugo NPCSG00
 Luhansk Luhansk NPCSG00
 Luimneach Luimneach NPCSG00
 Lukaixenko Lukaixenko NPCNSP0
+Luke Luke NPMSSP0
 Lukács Lukács NPCNSP0
 Lula Lula NPMSSP0
 Lully Lully NPMSSP0
