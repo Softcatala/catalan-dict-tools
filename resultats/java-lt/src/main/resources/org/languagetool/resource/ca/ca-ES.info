@@ -9,6 +9,7 @@ fsa.dict.encoder=SUFFIX
 
 fsa.dict.frequency-included=true
 
+fsa.dict.speller.locale=ca_ES
 fsa.dict.speller.ignore-all-uppercase=false
 fsa.dict.speller.ignore-camel-case=false
 fsa.dict.speller.ignore-numbers=false

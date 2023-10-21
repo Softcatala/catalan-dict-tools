@@ -7,5 +7,7 @@ sort -u ./extra-spelling-1.txt -o ./extra-spelling-2.txt
 
 perl select-frequent.pl
 
+
+sed -i '/^$/d' extra-spelling.txt
 rm ./extra-spelling-1.txt
 rm ./extra-spelling-2.txt
