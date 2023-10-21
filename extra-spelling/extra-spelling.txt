@@ -38968,6 +38968,7 @@ d'anecdòtic
 d'anecdòtica
 d'anecdòtics
 d'anecdòtiques
+d'anecdotisme
 d'Anecoop
 d'ànecs
 d'anedons
@@ -39944,6 +39945,7 @@ d'anticristians
 d'anticristos
 d'anticrists
 d'antics
+d'anticultura
 d'anticultural
 d'antidegoteig
 d'antidemòcrata
@@ -42025,6 +42027,7 @@ d'Aracil
 d'Aracne
 d'aràcnid
 d'aràcnids
+d'aracnofòbia
 d'aracnoïditis
 d'aracnòleg
 d'aracnòlegs
@@ -48035,6 +48038,7 @@ d'ecogestió
 d'ecògraf
 d'ecografia
 d'ecografies
+d'ecografistes
 d'ecògrafs
 d'ecogrames
 d'ecoguiatge
@@ -48977,8 +48981,10 @@ d'Egidi
 d'Egina
 d'egipci
 d'egípcia
+d'egipcíaca
 d'Egipcíaca
 d'egipcianes
+d'egipcíaques
 d'Egipcíaques
 d'egípcies
 d'egipcis
@@ -63883,6 +63889,9 @@ desestructurar-los
 desestructurar-ne
 desestructurar-nos
 desestructurar-se
+desetiquetar-nos-en
+desetiqueta't
+desetiquetem-nos
 deseu-hi
 deseu-ho
 deseu-la
@@ -71686,6 +71695,7 @@ d'eurocèntrica
 d'eurocentrisme
 d'eurocentrismes
 d'eurocentrista
+d'eurociutadans
 d'eurocomunisme
 d'eurocomunista
 d'eurocomunistes
@@ -71710,7 +71720,9 @@ d'euroescèptics
 d'eurofans
 d'eurofederalista
 d'Eurofighter
+d'eurofília
 d'euròfils
+d'eurofuncionaris
 d'Eurogrup
 d'Eurolliga
 d'Euromed
@@ -131098,6 +131110,7 @@ l'anècdota
 l'anecdotari
 l'anecdòtic
 l'anecdòtica
+l'anecdotisme
 l'àneda
 l'anedó
 l'aneg
@@ -131541,6 +131554,7 @@ l'anisol
 l'anisole
 l'anisometropia
 l'anisòpter
+l'anisosil·labisme
 l'anisotropia
 l'anisset
 l'anit
@@ -132006,6 +132020,7 @@ l'anticoncepció
 l'anticonceptiu
 l'anticonceptiva
 l'anticongelant
+l'anticongestiva
 l'anticonstitucional
 l'anticonstitucionalitat
 l'anticonvencional
@@ -132020,6 +132035,7 @@ l'anticrisi
 l'anticrist
 l'anticristiana
 l'anticristianisme
+l'anticultura
 l'antidegoteig
 l'antidemòcrata
 l'antidemocràtic
@@ -132211,6 +132227,7 @@ l'antioxidant
 l'antipalúdic
 l'antipalúdica
 l'antipapa
+l'antipapat
 l'antiparal·lela
 l'antiparàsit
 l'antiparasitari
@@ -134096,6 +134113,7 @@ l'Aracil
 l'Aracne
 l'aràcnid
 l'aracnodactília
+l'aracnofòbia
 l'aracnoide
 l'aracnoïditis
 l'aracnòleg
@@ -139627,6 +139645,7 @@ l'ecogestió
 l'ecògraf
 l'ecografia
 l'ecogràfica
+l'ecografista
 l'ecograma
 l'ecoic
 l'ecolàlia
@@ -140023,6 +140042,7 @@ l'Egina
 l'egipci
 l'egipcià
 l'egípcia
+l'egipcíac
 l'egipciana
 l'Egipte
 l'egiptòleg
@@ -145863,6 +145883,7 @@ l'enllaunament
 l'enllaunat
 l'enlleferne
 l'enllefisca
+l'enllençolat
 l'enllepoleixen
 l'enllepolia
 l'enllepolien
@@ -148451,6 +148472,7 @@ l'equilibris
 l'equilibrisme
 l'equilibrista
 l'equilibro
+l'equilingüisme
 l'equimosi
 l'equina
 l'equinàcia
@@ -155361,6 +155383,7 @@ l'eurocomunisme
 l'eurocomunista
 l'euroconnector
 l'Eurocopa
+l'eurocràcia
 l'euròcrata
 l'eurodiputada
 l'eurodiputat
@@ -155374,6 +155397,9 @@ l'euroexèrcit
 l'eurofan
 l'Eurofighter
 l'euròfil
+l'eurofília
+l'eurofuncionari
+l'eurofuncionària
 l'Eurogrup
 l'Eurolliga
 l'Euromed
@@ -155400,6 +155426,7 @@ l'eurosiberià
 l'eurosiberiana
 l'Eurostar
 l'Eurostat
+l'eurosúper
 l'Eurotúnel
 l'eurovinyeta
 l'Eurovisió
