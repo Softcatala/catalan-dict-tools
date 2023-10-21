@@ -53,8 +53,6 @@ do
     java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_spelling.dict
     java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_spelling_lt.txt
 
-    rm ${targetdict}_tabs.txt
-    rm *.info
 
     #convert catalan_tags.txt to DOS file
     #sed 's/$'"/`echo \\\r`/" ${targetdict}_tags.txt > ${targetdict}_tags_dos.txt
@@ -69,7 +67,10 @@ do
     cp ${targetdict}.info $target_dir
     cp ${targetdict}_synth.dict $target_dir
     cp ${targetdict}_synth.info $target_dir
+    
+    rm ${targetdict}_tabs.txt
 done
+rm *.info
 
 exit
 
