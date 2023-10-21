@@ -5,14 +5,7 @@ cd morfologik-lt
 #LanguageTool jar
 jarfile=~/target-lt/languagetool.jar
 target_dir=../resultats/java-lt/src/main/resources/org/languagetool/resource/ca
-
-# extra spelling dict
-java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ../extra-spelling/extra-spelling.txt -freq ca_wordlist.xml -info ca-ES.info -o ca-extra-spelling.dict
-# dump the extra-spelling dict 
-java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ca-extra-spelling.dict -info ca-ES.info -o ca-extra-spelling_lt.txt
-
-cp ca-extra-spelling.dict $target_dir
-cp ca-ES.info $target_dir/ca-extra-spelling.info
+rm $target_dir/*
 
 #source dictionaries
 # catalan
@@ -26,11 +19,16 @@ sort -u /tmp/ca-ES-valencia.txt -o /tmp/ca-ES-valencia.txt
 
 for targetdict in ca-ES ca-ES-valencia
 do
+    cp tagger.masterinfo ${targetdict}.info
+    cp spelling.masterinfo ${targetdict}_spelling.info
+    cp synth.masterinfo ${targetdict}_synth.info
+    
     # exclude some words for LT dictionary
     sed -i -E '/ (aguar|ciar|emblar|binar) /d' /tmp/${targetdict}.txt
 
     # replace whitespaces with tabs
     perl sptotabs.pl </tmp/${targetdict}.txt >${targetdict}_tabs.txt
+    export LC_ALL=C && sort -u ${targetdict}_tabs.txt -o ${targetdict}_tabs.txt
 
     # create tagger dictionary with morfologik tools
     java -cp $jarfile org.languagetool.tools.POSDictionaryBuilder -i ${targetdict}_tabs.txt -info ${targetdict}.info -freq ca_wordlist.xml -o ${targetdict}.dict
@@ -46,31 +44,39 @@ do
 
     # dump synthesis dictionary
     java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_synth.dict -o ${targetdict}_synth_lt.txt -info ${targetdict}_synth.info
+    
+    # spelling dicts (alternative)
+    cp master.info ${targetdict}_spelling.info
+    perl -i -p -e 's/^(.+)\t.+\t.+$/$1/' ${targetdict}_tabs.txt
+    cat ../extra-spelling/extra-spelling.txt ${targetdict}_tabs.txt > ${targetdict}_spelling.txt
+    export LC_ALL=C && sort -u ${targetdict}_spelling.txt -o ${targetdict}_spelling.txt
+    java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_spelling.dict
+    java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_spelling_lt.txt
 
     rm ${targetdict}_tabs.txt
+    rm *.info
 
     #convert catalan_tags.txt to DOS file
     #sed 's/$'"/`echo \\\r`/" ${targetdict}_tags.txt > ${targetdict}_tags_dos.txt
     #rm ${targetdict}_tags.txt
-    rm $target_dir/*
+    
     mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt
 
+    cp ${targetdict}_spelling.dict $target_dir
+    cp ${targetdict}_spelling.info $target_dir/${targetdict}_spelling.info
     cp ${targetdict}_tags.txt $target_dir
     cp ${targetdict}.dict $target_dir
-    cp ${targetdict}_synth.dict $target_dir
     cp ${targetdict}.info $target_dir
+    cp ${targetdict}_synth.dict $target_dir
     cp ${targetdict}_synth.info $target_dir
 done
 
 exit
 
-    # spelling dicts (alternative)
-    perl -i -p -e 's/^(.+)\t.+\t.+$/$1/' ${targetdict}_tabs.txt
-    cat ../extra-spelling/extra-spelling.txt ${targetdict}_tabs.txt > ${targetdict}_spell.txt
-    sort -u ${targetdict}_spell.txt -o ${targetdict}_spell.txt
-    java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spell.txt -freq ca_wordlist.xml -info ca-ES.info -o ${targetdict}_spell.dict
-    cp ca-ES.info ${targetdict}_spell.info
-    java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spell.dict -info ${targetdict}_spell.info -o ${targetdict}_spell_lt.txt
-    cp ${targetdict}_spell.dict $target_dir
-    cp ca-ES.info $target_dir/${targetdict}_spell.info
+# extra spelling dict
+java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ../extra-spelling/extra-spelling.txt -freq ca_wordlist.xml -info ca-ES.info -o ca-extra-spelling.dict
+# dump the extra-spelling dict 
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ca-extra-spelling.dict -info ca-ES.info -o ca-extra-spelling_lt.txt
 
+cp ca-extra-spelling.dict $target_dir
+cp ca-ES.info $target_dir/ca-extra-spelling.info
