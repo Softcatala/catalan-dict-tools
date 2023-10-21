@@ -19,8 +19,8 @@ sort -u /tmp/ca-ES-valencia.txt -o /tmp/ca-ES-valencia.txt
 
 for targetdict in ca-ES ca-ES-valencia
 do
-    cp tagger.masterinfo ${targetdict}.info
-    cp spelling.masterinfo ${targetdict}_spelling.info
+    cp tagger-spelling.masterinfo ${targetdict}.info
+    cp tagger-spelling.masterinfo ${targetdict}_spelling.info
     cp synth.masterinfo ${targetdict}_synth.info
     
     # exclude some words for LT dictionary
