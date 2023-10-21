@@ -11,7 +11,9 @@
 lt_tools=~/target-lt/languagetool.jar
 
 # dump the tagger dictionary
+cp tagger-spelling.masterinfo ca-ES.info
 java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i ca-ES.dict -o ca-ES_lt.txt -info ca-ES.info
+rm ca-ES.info
 
 cp ca-ES_lt.txt diccionari_antic.txt
 echo "Preparant diccionari"

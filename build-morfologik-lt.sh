@@ -46,17 +46,12 @@ do
     java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_synth.dict -o ${targetdict}_synth_lt.txt -info ${targetdict}_synth.info
     
     # spelling dicts (alternative)
-    cp master.info ${targetdict}_spelling.info
+    cp tagger-spelling.masterinfo ${targetdict}_spelling.info
     perl -i -p -e 's/^(.+)\t.+\t.+$/$1/' ${targetdict}_tabs.txt
     cat ../extra-spelling/extra-spelling.txt ${targetdict}_tabs.txt > ${targetdict}_spelling.txt
     export LC_ALL=C && sort -u ${targetdict}_spelling.txt -o ${targetdict}_spelling.txt
     java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_spelling.dict
     java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_spelling_lt.txt
-
-
-    #convert catalan_tags.txt to DOS file
-    #sed 's/$'"/`echo \\\r`/" ${targetdict}_tags.txt > ${targetdict}_tags_dos.txt
-    #rm ${targetdict}_tags.txt
     
     mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt
 
@@ -75,9 +70,8 @@ rm *.info
 exit
 
 # extra spelling dict
-java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ../extra-spelling/extra-spelling.txt -freq ca_wordlist.xml -info ca-ES.info -o ca-extra-spelling.dict
+#java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ../extra-spelling/extra-spelling.txt -freq ca_wordlist.xml -info ca-ES.info -o ca-extra-spelling.dict
 # dump the extra-spelling dict 
-java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ca-extra-spelling.dict -info ca-ES.info -o ca-extra-spelling_lt.txt
-
-cp ca-extra-spelling.dict $target_dir
-cp ca-ES.info $target_dir/ca-extra-spelling.info
+#java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ca-extra-spelling.dict -info ca-ES.info -o ca-extra-spelling_lt.txt
+#cp ca-extra-spelling.dict $target_dir
+#cp ca-ES.info $target_dir/ca-extra-spelling.info
