@@ -52,6 +52,7 @@ do
     #convert catalan_tags.txt to DOS file
     #sed 's/$'"/`echo \\\r`/" ${targetdict}_tags.txt > ${targetdict}_tags_dos.txt
     #rm ${targetdict}_tags.txt
+    rm $target_dir/*
     mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt
 
     cp ${targetdict}_tags.txt $target_dir
@@ -61,5 +62,15 @@ do
     cp ${targetdict}_synth.info $target_dir
 done
 
+exit
 
+    # spelling dicts (alternative)
+    perl -i -p -e 's/^(.+)\t.+\t.+$/$1/' ${targetdict}_tabs.txt
+    cat ../extra-spelling/extra-spelling.txt ${targetdict}_tabs.txt > ${targetdict}_spell.txt
+    sort -u ${targetdict}_spell.txt -o ${targetdict}_spell.txt
+    java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spell.txt -freq ca_wordlist.xml -info ca-ES.info -o ${targetdict}_spell.dict
+    cp ca-ES.info ${targetdict}_spell.info
+    java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spell.dict -info ${targetdict}_spell.info -o ${targetdict}_spell_lt.txt
+    cp ${targetdict}_spell.dict $target_dir
+    cp ca-ES.info $target_dir/${targetdict}_spell.info
 
