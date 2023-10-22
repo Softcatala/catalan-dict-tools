@@ -1585,6 +1585,7 @@ Amarāvatī Amarāvatī NPCSG00
 Amasya Amasya NPCSG00
 Amat Amat NPCNSP0
 Amat Amat NPMSSP0
+Amat-Piniella Amat-Piniella NPCNSP0
 Amats Amat NPMPSP0
 Amazon Amazon NPCSO00
 Amazona Amazona NPFSSP0 # avl: noms de persona
@@ -21508,6 +21509,7 @@ Sakhalin Sakhalin NPCSG00
 Sakhir Sakhir NPCSG00
 Sala Sala NPCNSP0
 Sala Sala NPFSG00
+Sala-Sanahuja Sala-Sanahuja NPCNSP0
 Sala-rotllana Sala-rotllana NPCNSP0
 Salaam Salaam NPCNSP0 # medical
 Salabart Salabart NPCNSP0
@@ -21725,6 +21727,7 @@ Samària Samària NPCSG00
 Samòsata Samòsata NPCSG00
 Sanaag Sanaag NPCSG00
 Sanaga Sanaga NPCSG00
+Sanahuja Sanahuja NPCNSP0
 Sanandaj Sanandaj NPCSG00
 Sanarelli-Shwartzman Sanarelli-Shwartzman NPCNSP0 # medical
 Sanarús Sanarús NPCNSP0
