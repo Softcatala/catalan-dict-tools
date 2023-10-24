@@ -37523,6 +37523,7 @@ frinoderma=categories: M;fonts: LT;
 frinodèrmia=categories: F;fonts: LT;
 frinolisina=categories: F;fonts: dsalut;
 frinomèrid=categories: M;fonts: LT;
+friquisme=categories: M;fonts: derivat;
 fris=categories: M;fonts: LT;
 frisador frisadora=categories: MF;fonts: LT;
 frisança=categories: F;fonts: LT;
