@@ -2541,6 +2541,7 @@ Ashikaga Ashikaga NPCNSP0
 Ashikaga Ashikaga NPCSG00
 Ashkelon Ashkelon NPCSG00
 Ashquelon Ashquelon NPCSG00
+Asier Asier NPMSSP0
 Asimov Asimov NPCNSP0 # wiki
 Asinara Asinara NPCSG00
 Asincrit Asincrit NPMSSP0 # avl: noms de persona
@@ -18028,6 +18029,7 @@ Pabianice Pabianice NPCSG00
 Pablo Pablo NPMSSP0
 Pabó Pabó NPCNSP0
 Pac Pac NPCNSP0
+Pac-Man Pac-Man NPCNSP0
 Paca Paca NPFSSP0 # avl: noms de persona
 Pacareu Pacareu NPCNSP0
 Pacheco Pacheco NPCNSP0
