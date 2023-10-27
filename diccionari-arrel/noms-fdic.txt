@@ -7215,6 +7215,7 @@ arsonvalització=categories: F;fonts: dsalut;
 arstinol=categories: M;fonts: LT;
 arsàcida=categories: MF;fonts: LT;
 arsènic=categories: M;fonts: LT;
+art-déco=categories: MS;fonts: GDLC;
 art=categories: MF;fonts: LT;
 artaire=categories: MF;fonts: LT;
 artalet=categories: M;fonts: LT;
