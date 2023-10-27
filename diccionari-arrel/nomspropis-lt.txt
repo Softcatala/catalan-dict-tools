@@ -9115,7 +9115,6 @@ Estévez Estévez NPCNSP0
 Estíbalis Estíbalis NPFSSP0 # avl: noms de persona
 Estíria Estíria NPCSG00
 Estònia Estònia NPFSG00
-Esvetlana Esvetlana NPFSSP0 # avl: noms de persona
 Eswatini Eswatini NPCSG00
 Esztergom Esztergom NPCSG00
 Etelvina Etelvina NPFSSP0 # avl: noms de persona
@@ -9900,6 +9899,7 @@ Font-rabiosa Font-rabiosa NPCSG00
 Font-roja Font-roja NPFSG00
 Font-romeu Font-romeu NPCSG00
 Font-rubí Font-rubí NPFSG00
+Font-rúbia Font-rúbia NPFSG00
 Fontaine Fontaine NPCSG00
 Fontainebleau Fontainebleau NPCSG00
 Fontajau Fontajau NPCSG00
@@ -19947,6 +19947,7 @@ Pérez-Reverte Pérez-Reverte NPCNSP0
 Pérignon Pérignon NPCNSP0
 Périgueux Périgueux NPCSG00
 Péssah Péssah NPFSO00
+Pétain Pétain NPCNSP0
 Píndar Píndar NPMSSP0
 Píram Píram NPMSSP0 # avl: noms de persona
 Pòlit Pòlit NPCNSP0
@@ -21452,6 +21453,7 @@ Saint-Chamond Saint-Chamond NPCSG00
 Saint-Cloud Saint-Cloud NPCSG00
 Saint-Cyr Saint-Cyr NPCSG00
 Saint-Denis Saint-Denis NPCSG00
+Saint-Didier Saint-Didier NPMSG00
 Saint-Dizier Saint-Dizier NPCSG00
 Saint-Dié Saint-Dié NPCSG00
 Saint-Exupéry Saint-Exupéry NPCNSP0
@@ -21466,6 +21468,7 @@ Saint-Gervais Saint-Gervais NPCSG00
 Saint-Grégoire Saint-Grégoire NPCSG00
 Saint-Herblain Saint-Herblain NPCSG00
 Saint-Jacques Saint-Jacques NPCSG00
+Saint-Jean Saint-Jean NPMSSP0
 Saint-Jean-de-Maurienne Saint-Jean-de-Maurienne NPCSG00
 Saint-Lazare Saint-Lazare NPCSG00
 Saint-Louis Saint-Louis NPCSG00
@@ -23242,6 +23245,7 @@ Svanètia Svanètia NPCSG00
 Svealand Svealand NPCSG00
 Svendborg Svendborg NPCSG00
 Sverdrup Sverdrup NPCSG00
+Svetlana Svetlana NPFSSP0 # avl: Esvetlana
 Sviatoslav Sviatoslav NPMSSP0
 Swakopmund Swakopmund NPCSG00
 Swan-Ganz Swan-Ganz NPCNSP0 # medical
@@ -26182,7 +26186,7 @@ WinRAR WinRAR NPCNO00
 Winchester Winchester NPCNG00
 Windermere Windermere NPCSG00
 Windhoek Windhoek NPCSG00
-Windisch-Graetz Windisch-Graetz NPCNSP0
+Windisch-Grätz Windisch-Grätz NPCNSP0
 Windows Windows NPMSO00
 Windsor Windsor NPCNSP0
 Winnipeg Winnipeg NPCSG00
