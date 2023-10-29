@@ -12088,6 +12088,7 @@ Hokkaido Hokkaido NPCSG00
 Hokkaidō Hokkaidō NPCSG00
 Holanda Holanda NPFSG00
 Holguín Holguín NPCSG00
+Hollande Hollande NPCNSP0
 Hollywood Hollywood NPCSG00
 Holmes Holmes NPCNSP0
 Holofernes Holofernes NPMSSP0 # avl: noms de persona
@@ -16156,6 +16157,7 @@ Moncles Moncles NPCSG00
 Moncloa Moncloa NPFSG00
 Moncofa Moncofa NPFSG00
 Moncosí Moncosí NPCNSP0
+Moncton Moncton NPCSG00
 Mondego Mondego NPCSG00
 Mondell Mondell NPCNSP0
 Mondor Mondor NPCNSP0 # medical
@@ -24775,6 +24777,7 @@ Udaipur Udaipur NPCSG00
 Udalric Udalric NPMSSP0
 Udalrics Udalric NPMPSP0
 Uddevalla Uddevalla NPCSG00
+Udina Udina NPCNSP0
 Udine Udine NPCSG00
 Udmurts Udmurts NPMPG00
 Udunell Udunell NPCNSP0
@@ -25724,6 +25727,7 @@ Villargordo Villargordo NPCSG00
 Villarrobledo Villarrobledo NPCSG00
 Villarroel Villarroel NPCNSP0
 Villarroya Villarroya NPCNSP0
+Villas-Boas Villas-Boas NPCNSP0
 Villavieja Villavieja NPFSG00
 Villejuif Villejuif NPCSG00
 Villemomble Villemomble NPCSG00
