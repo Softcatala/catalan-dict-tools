@@ -8328,6 +8328,7 @@ Ebola Ebola NPMSG00
 Ebre Ebre NPCSG00
 Ebstein Ebstein NPCNSP0 # medical
 Ecbàtana Ecbàtana NPCSG00
+Echegaray Echegaray NPCNSP0
 Echternach Echternach NPCSG00
 Eckermann Eckermann NPCNSP0
 Eckhart Eckhart NPMSSP0
@@ -11758,6 +11759,7 @@ Hamàs Hamàs NPFSO00
 Hamílcar Hamílcar NPMSSP0 # avl: noms de persona
 Hamā Hamā NPCSG00
 Han Han NPCNSP0
+Hancock Hancock NPCNSP0
 Hand-Schüller-Christian Hand-Schüller-Christian NPCNSP0 # medical
 Hangouts Hangouts NPCNO00
 Hangzhou Hangzhou NPCSG00
@@ -16486,6 +16488,7 @@ Monza Monza NPCSG00
 Monzó Monzó NPCNSP0
 Monòver Monòver NPCSG00
 Moodle Moodle NPMNO00
+Moog Moog NPMSO00
 Moore Moore NPCNSP0
 Mooren Mooren NPCNSP0 # medical
 Mopti Mopti NPCSG00

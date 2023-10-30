@@ -1,4 +1,3 @@
-
 #abeltir=categories: V;model:servir;fonts: DNV;
 #autoimmolació=categories: F;fonts: DNV;
 #autoimmolar=categories: V;model:cantar;fonts: DNV;
