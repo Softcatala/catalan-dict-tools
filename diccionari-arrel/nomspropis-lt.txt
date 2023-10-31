@@ -26466,6 +26466,7 @@ Yoro Yoro NPCSG00
 Yosemite Yosemite NPCSG00
 YouTube YouTube NPMSO00
 Youngstown Youngstown NPCSG00
+Yourcenar Yourcenar NPCNSP0
 Youssef Youssef NPCNSP0 # medical
 Youssoufia Youssoufia NPCSG00
 Ypsilantis Ypsilantis NPCNSP0
