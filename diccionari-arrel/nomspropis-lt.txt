@@ -806,6 +806,7 @@ Al-Haouz Al-Haouz NPCSG00
 Al-Hilla Al-Hilla NPCSG00
 Al-Hindīya Al-Hindīya NPCSG00
 Al-Hoceima Al-Hoceima NPCSG00
+Al-Hàkam Al-Hàkam NPMSSP0
 Al-Jawf Al-Jawf NPCSG00
 Al-Kufra Al-Kufra NPCSG00
 Al-Kūfa Al-Kūfa NPCSG00
