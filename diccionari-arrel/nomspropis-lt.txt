@@ -2680,6 +2680,7 @@ Auckland Auckland NPCSG00
 Audacte Audacte NPMSSP0
 Audactes Audacte NPMPSP0
 Aude Aude NPCSG00
+Auden Auden NPCNSP0
 Audenis Audenis NPCNSP0
 Audet Audet NPCNSP0
 Audi Audi NPCNO00
@@ -10566,6 +10567,7 @@ Garizim Garizim NPCSG00
 Garland Garland NPCSG00
 Garlandí Garlandí NPCNSP0
 Garmoixent Garmoixent NPCSG00
+Garnier Garnier NPCNSP0
 Garona Garona NPFSG00
 Garonda Garonda NPCSG00
 Garrabella Garrabella NPCNSP0
