@@ -13325,7 +13325,6 @@ Konya Konya NPCSG00
 Koolhaas Koolhaas NPCNSP0
 Koper Koper NPCSG00
 Korhogo Korhogo NPCSG00
-Kórsakov Kórsakov NPCNSP0 # medical
 Kortrijk Kortrijk NPCSG00
 Korçë Korçë NPCSG00
 Korčula Korčula NPCSG00
@@ -13434,6 +13433,7 @@ Kénédougou Kénédougou NPCSG00
 Kêb Kêb NPCSG00
 Kíev Kíev NPCSG00
 Kíiv Kíiv NPCSG00
+Kórsakov Kórsakov NPCNSP0 # medical
 Köebner Köebner NPCNSP0 # medical
 Kültepe Kültepe NPCSG00
 Kütahya Kütahya NPCSG00
