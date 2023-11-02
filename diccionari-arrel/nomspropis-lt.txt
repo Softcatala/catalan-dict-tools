@@ -13325,7 +13325,7 @@ Konya Konya NPCSG00
 Koolhaas Koolhaas NPCNSP0
 Koper Koper NPCSG00
 Korhogo Korhogo NPCSG00
-Korsakov Korsakov NPCNSP0 # medical
+Kórsakov Kórsakov NPCNSP0 # medical
 Kortrijk Kortrijk NPCSG00
 Korçë Korçë NPCSG00
 Korčula Korčula NPCSG00
@@ -26110,7 +26110,7 @@ Werdnig-Hoffmann Werdnig-Hoffmann NPCNSP0
 Werdnig-Hoffmann Werdnig-Hoffmann NPCNSP0 # medical
 Werkbund Werkbund NPCSG00
 Wernicke Wernicke NPCNSP0 # medical
-Wernicke-Korsakov Wernicke-Korsakov NPCNSP0 # medical
+Wernicke-Kórsakov Wernicke-Kórsakov NPCNSP0 # medical
 Wernigerode Wernigerode NPCSG00
 Werra Werra NPCSG00
 Wertheim-Meigs Wertheim-Meigs NPCNSP0
