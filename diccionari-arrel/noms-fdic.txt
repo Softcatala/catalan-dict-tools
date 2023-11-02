@@ -11053,6 +11053,7 @@ biorientació=categories: F;fonts: termcat;
 bioritme=categories: M;fonts: LT;
 bioritmologia=categories: F;fonts: LT;
 biorobot=categories: M;fonts: esadir;
+biorobòtica=categories: F;fonts: termcat;
 biorreologia=categories: F;fonts: LT;
 bios=categories: MI;fonts: LT;
 biosa=categories: F;fonts: dsalut;

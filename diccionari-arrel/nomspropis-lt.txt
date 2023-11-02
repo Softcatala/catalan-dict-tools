@@ -21485,6 +21485,7 @@ Saint-Malo Saint-Malo NPCSG00
 Saint-Martin Saint-Martin NPCSG00
 Saint-Martin-d'Hères Saint-Martin-d'Hères NPCSG00
 Saint-Maur-des-Fossés Saint-Maur-des-Fossés NPCSG00
+Saint-Maurice Saint-Maurice NPMSG00
 Saint-Michel Saint-Michel NPCSG00
 Saint-Moritz Saint-Moritz NPCSG00
 Saint-Méen-le-Grand Saint-Méen-le-Grand NPCSG00
