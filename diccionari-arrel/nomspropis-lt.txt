@@ -6459,7 +6459,6 @@ Chromebooks Chromebook NPMPO00
 Chrysler Chrysler NPCNO00
 Chubut Chubut NPCSG00
 Chungyang Chungyang NPCSG00
-Chupa-Chups Chupa-Chups NPCNO00
 Chuquicamata Chuquicamata NPCSG00
 Chur Chur NPCSG00
 Churchill Churchill NPCSG00
