@@ -5587,7 +5587,6 @@ voliol=categories: M;fonts: DNV;
 voltaina=categories: F;fonts: DNV;
 voltonada=categories: F;fonts: DNV;
 voltó=categories: M;fonts: DNV;
-vomitera=categories: F;fonts: DNV;
 vuduisme=categories: M;fonts: DNV;
 vuduista=categories: A;fonts: DNV;
 vuduista=categories: MF;fonts: DNV;

@@ -26645,6 +26645,7 @@ Zúric Zúric NPCSG00
 Zābol Zābol NPCSG00
 al-Din al-Din NPCNSP0
 al-Hussein al-Hussein NPCNSP0
+al-Mansur al-Mansur NPCNSP0
 al-Sadat al-Sadat NPCNSP0
 al-Sadr al-Sadr NPCNSP0
 al-Àndalus al-Àndalus NPCSG00

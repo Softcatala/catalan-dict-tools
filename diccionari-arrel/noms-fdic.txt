@@ -85380,6 +85380,7 @@ volúmetre=categories: M;fonts: LT;
 volútid=categories: M;fonts: LT;
 vomicina=categories: F;fonts: dsalut;
 vomitada=categories: F;fonts: LT;
+vomitera=categories: F;fonts: DNV;
 vomitiu=categories: M;fonts: LT;
 vomitori=categories: M;fonts: LT;
 vomiturició=categories: F;fonts: LT;

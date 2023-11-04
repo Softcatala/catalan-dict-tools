@@ -72601,8 +72601,6 @@ voltonada voltonada NCFS000
 voltonades voltonada NCFP000
 voltons voltó NCMP000
 voltó voltó NCMS000
-vomitera vomitera NCFS000
-vomiteres vomitera NCFP000
 vuduisme vuduisme NCMS000
 vuduismes vuduisme NCMP000
 vuduista vuduista AQ0CS0
