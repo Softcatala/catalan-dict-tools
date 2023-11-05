@@ -822,6 +822,7 @@ Al-Quds Al-Quds NPFPO00
 Al-Raqqa Al-Raqqa NPCSG00
 Al-Riyād Al-Riyād NPCSG00
 Al-Ruṣāfa Al-Ruṣāfa NPCSG00
+Al-Shifa Al-Shifa NPCNO00
 Al-Tā'if Al-Tā'if NPCSG00
 Al-Zaqāziq Al-Zaqāziq NPCSG00
 Al-Àqaba Al-Àqaba NPCSG00
@@ -21776,6 +21777,7 @@ Sanha Sanha NPFSG00
 Sanisera Sanisera NPCSG00
 Sanitges Sanitges NPCNSP0
 Sanitja Sanitja NPCNSP0
+Sanjosex Sanjosex NPMSSP0
 Sanjurjo Sanjurjo NPCNSP0
 Sanmatenga Sanmatenga NPCSG00
 Sannois Sannois NPCSG00
