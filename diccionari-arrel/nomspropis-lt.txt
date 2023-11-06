@@ -6910,6 +6910,7 @@ Comella Comella NPCNSP0
 Comelles Comelles NPCNSP0
 Comenge Comenge NPCNSP0
 Comenge Comenge NPCSG00
+Comenius Comenius NPCNSP0
 Comerma Comerma NPCNSP0
 Comes Comes NPCNSP0
 Comes Comes NPFPG00
