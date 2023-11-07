@@ -5593,6 +5593,7 @@ Canudes Canudes NPCNSP0
 Canut Canut NPCNSP0
 Canut Canut NPMSSP0
 Canuts Canut NPMPSP0
+Canvas Canvas NPMNO00
 Canya Canya NPFSG00
 Canyadó Canyadó NPCNSP0
 Canyagueral Canyagueral NPCNSP0
@@ -24829,6 +24830,7 @@ Ulldecona Ulldecona NPFSG00
 Ulldemolins Ulldemolins NPCNSP0
 Ulldemolins Ulldemolins NPCSG00
 Ulldeter Ulldeter NPCSG00
+Ulloa Ulloa NPCNSP0
 Ullrich Ullrich NPCNSP0 # medical
 Ullà Ullà NPCNSP0
 Ullà Ullà NPCSG00
