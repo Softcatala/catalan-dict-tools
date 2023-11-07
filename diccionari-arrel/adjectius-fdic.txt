@@ -29719,6 +29719,7 @@ supernatural=categories: A;fonts: derivat;
 supernecessari supernecessària=categories: A;fonts: derivat;
 supernegre supernegra=categories: A;fonts: LT;
 supernerviós supernerviosa=categories: A;fonts: derivat;
+supernet superneta=categories: A;fonts: LT;
 supernormal=categories: A;fonts: derivat;
 supernumerari supernumerària=categories: A;fonts: LT;
 supernítid supernítida=categories: A;fonts: derivat;

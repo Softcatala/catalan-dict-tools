@@ -13037,6 +13037,7 @@ Kadijivka Kadijivka NPCSG00
 Kadiköy Kadiköy NPCSG00
 Kadoma Kadoma NPCSG00
 Kaduna Kaduna NPCSG00
+Kadírov Kadírov NPCNSP0
 Kaesǒng Kaesǒng NPCSG00
 Kaffir Kaffir NPCNSP0 # medical
 Kafka Kafka NPCNSP0
