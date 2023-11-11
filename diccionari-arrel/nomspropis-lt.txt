@@ -16819,6 +16819,7 @@ Màxims Màxim NPMPSP0
 Márquez Márquez NPCNSP0
 Mâcon Mâcon NPCSG00
 Mälar Mälar NPCSG00
+Mälzel Mälzel NPCNSP0
 Mèdia Mèdia NPFSG00
 Mèdici Mèdici NPCNSP0
 Mèdol Mèdol NPMSG00
@@ -18678,6 +18679,7 @@ Perdiguera Perdiguera NPFSG00
 Perdigó Perdigó NPCNSP0
 Pere Pere NPCNSP0
 Pere Pere NPMSSP0
+Perea Perea NPCNSP0
 Pereandreu Pereandreu NPCNSP0
 Pereanton Pereanton NPCNSP0
 Perearnau Perearnau NPCNSP0
