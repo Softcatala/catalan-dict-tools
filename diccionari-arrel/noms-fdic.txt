@@ -8932,6 +8932,7 @@ axènia=categories: F;fonts: LT;
 axòlisi=categories: F;fonts: dsalut;
 axòmetre=categories: M;fonts: dsalut;
 axó=categories: M;fonts: LT;
+ayahuasca=categories: FS;fonts: esadir;
 ayurveda=categories: F;fonts: LT;
 azaciclonol=categories: MS;fonts: dsalut;
 azacitidina=categories: F;fonts: dsalut;

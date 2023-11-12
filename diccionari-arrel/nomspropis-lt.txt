@@ -26280,6 +26280,7 @@ Xafart Xafart NPCNSP0
 Xafes Xafes NPCNSP0
 Xahrazad Xahrazad NPFSSP0
 Xaignabouri Xaignabouri NPCSG00
+Xakhtar Xakhtar NPMSO00
 Xalabarder Xalabarder NPCNSP0
 Xalabardera Xalabardera NPCNSP0
 Xalamera Xalamera NPCSG00
