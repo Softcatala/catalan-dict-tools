@@ -24085,7 +24085,7 @@ Tombali Tombali NPCSG00
 Tombatossals Tombatossals NPMSSP0
 Tombigbee Tombigbee NPCSG00
 Tomblaine Tomblaine NPCSG00
-Tombouctou Tombouctou NPCSG00
+Tombuctú Tombuctú NPCSG00
 Tomelloso Tomelloso NPMSG00
 Tomes Tomes NPCNSP0
 Tomet Tomet NPCNSP0
