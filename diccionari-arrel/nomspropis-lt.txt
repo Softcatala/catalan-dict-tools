@@ -14342,6 +14342,7 @@ Loreto Loreto NPCSSP0
 Loretos Loreto NPCPSP0
 Lorient Lorient NPCSG00
 Loriguilla Loriguilla NPFSG00
+Losantos Losantos NPCNSP0
 Losera Losera NPCSG00
 Losilla Losilla NPFSG00
 Lostau Lostau NPCNSP0
@@ -14498,6 +14499,7 @@ Ma'rib Ma'rib NPCSG00
 Maastricht Maastricht NPCSG00
 Mabel Mabel NPFSSP0 # avl: noms de persona
 Mac Mac NPCNSP0
+MacLeod MacLeod NPCNSP0
 Macabeu Macabeu NPMSSP0
 Macabeus Macabeu NPMPSP0
 Macapá Macapá NPCSG00
