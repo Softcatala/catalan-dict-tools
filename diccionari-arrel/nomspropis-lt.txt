@@ -26677,6 +26677,7 @@ eBay eBay NPCNO00
 es-Satty es-Satty NPCNSP0
 ex-Iugoslàvia ex-Iugoslàvia NPFSG00
 ex-URSS ex-URSS NPFSG00
+iCat iCat NPCNO00
 iMac iMac NPMSO00
 iMacs iMac NPMPO00
 iPad iPad NPMSO00
