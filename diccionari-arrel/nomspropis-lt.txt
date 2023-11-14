@@ -8312,6 +8312,7 @@ Džezkazgan Džezkazgan NPCSG00
 EAU EAU NPMPG00
 ECTS ECTS NPCNO00
 EGB EGB NPFSO00
+EGM EGM NPMSO00
 EI EI NPMSO00
 ENAIRE ENAIRE NPCSO00
 ERC ERC NPFSO00
@@ -13414,6 +13415,7 @@ Kuru Kuru NPCNSP0 # medical
 Kurume Kurume NPCSG00
 Kurunegala Kurunegala NPCSG00
 Kushiro Kushiro NPCSG00
+Kussevitski Kussevitski NPCNSP0
 Kussmaul Kussmaul NPCNSP0 # medical
 Kutaisi Kutaisi NPCSG00
 Kuwait Kuwait NPMSG00
@@ -19911,6 +19913,7 @@ Puntí Puntí NPCNSP0
 Punxuat Punxuat NPCSG00
 Punyet Punyet NPCNSP0
 Pura Pura NPFSSP0 # avl: noms de persona
+Purcell Purcell NPCNSP0
 Puresa Puresa NPFSSP0 # avl: noms de persona
 Puri Puri NPCSG00
 Purificacions Purificació NPFPSP0
@@ -26178,7 +26181,7 @@ Wieprz Wieprz NPCSG00
 Wiesbaden Wiesbaden NPCSG00
 Wigan Wigan NPCSG00
 Wight Wight NPCSG00
-Wii Wii NPFSO00
+Wii Wii NPFNO00
 WikiLeaks WikiLeaks NPMNO00
 Wikiloc Wikiloc NPCNO00
 Wikipedia Wikipedia NPFSO00
