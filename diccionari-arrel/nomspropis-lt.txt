@@ -4285,6 +4285,7 @@ Bobrujsk Bobrujsk NPCSG00
 Bocabella Bocabella NPCNSP0
 Bocairent Bocairent NPCSG00
 Boccaccio Boccaccio NPCNSP0
+Boccherini Boccherini NPCNSP0
 Bocchorum Bocchorum NPCSG00
 Bochdaleck Bochdaleck NPCNSP0 # medical
 Bochum Bochum NPCSG00
@@ -6372,6 +6373,7 @@ Charlot Charlot NPMSSP0
 Charlotte Charlotte NPCSG00
 Charlottetown Charlottetown NPCSG00
 Charolais Charolais NPCSG00
+Charpentier Charpentier NPCNSP0
 Chartres Chartres NPCSG00
 ChatGPT ChatGPT NPMSO00
 Chateaubriand Chateaubriand NPCNSP0
@@ -6485,6 +6487,7 @@ Cifre Cifre NPCNSP0
 Cifuentes Cifuentes NPCSG00
 Cilici Cilici NPCNSP0
 Cimadal Cimadal NPMSG00
+Cimarosa Cimarosa NPCNSP0
 Cimino-Brescia Cimino-Brescia NPCNSP0 # medical
 Cinca Cinca NPCNSP0
 Cinca Cinca NPMSG00
@@ -7515,6 +7518,7 @@ Cybo Cybo NPCNSP0
 Cynthia Cynthia NPFSSP0
 Czartoryski Czartoryski NPCNSP0
 Czepa Czepa NPCNSP0 # medical
+Czerny Czerny NPCNSP0
 Czestochowa Czestochowa NPCSG00
 Càceres Càceres NPCSG00
 Càlig Càlig NPCSG00
@@ -8257,6 +8261,7 @@ Duró Duró NPCNSP0
 Dusai Dusai NPCNSP0
 Duschlander Duschlander NPCNSP0 # medical
 Dusfort Dusfort NPCSG00
+Dutilleux Dutilleux NPCNSP0
 Dutrem Dutrem NPCNSP0
 Duvergie Duvergie NPCNSP0 # medical
 Duékoué Duékoué NPCSG00
@@ -9068,6 +9073,7 @@ Esteper Esteper NPCNSP0
 Estepona Estepona NPCSG00
 Ester Ester NPCNSP0
 Ester Ester NPFSSP0
+Esterházy Esterházy NPCNSP0
 Esterri Esterri NPCNSP0
 Esterri Esterri NPCSG00
 Esterriol Esterriol NPCNSP0
@@ -10176,6 +10182,7 @@ Freixneda Freixneda NPFSG00
 Freixó Freixó NPCNSP0
 Frener Frener NPCNSP0
 Fresc Fresc NPCNSP0
+Frescobaldi Frescobaldi NPCNSP0
 Freser Freser NPCNSP0
 Freser Freser NPMSG00
 Fresina Fresina NPFSSP0 # avl: noms de persona
@@ -10766,6 +10773,7 @@ Gelsenkirchen Gelsenkirchen NPCSG00
 Geltrú Geltrú NPCSG00
 Gelàsia Gelàsia NPFSSP0 # avl: noms de persona
 Gem Gem NPCNSP0
+Geminiani Geminiani NPCNSP0
 Geminians Geminià NPMPSP0
 Geminià Geminià NPMSSP0
 Gemma Gemma NPFSSP0
@@ -10867,6 +10875,7 @@ Gessa Gessa NPCSG00
 Gestalt Gestalt NPFSO00
 Gestapo Gestapo NPFSO00
 Gestí Gestí NPCNSP0
+Gesualdo Gesualdo NPCNSP0
 Getafe Getafe NPCSG00
 Getsemaní Getsemaní NPCSG00
 Getuli Getuli NPMSSP0
@@ -10950,6 +10959,7 @@ Giménez Giménez NPCNSP0
 Gimó Gimó NPCNSP0
 Gina Gina NPFSSP0
 Ginard Ginard NPCNSP0
+Ginastera Ginastera NPCNSP0
 Ginebra Ginebra NPFSG00
 Ginebre Ginebre NPCNSP0
 Ginebreda Ginebreda NPCNSP0
@@ -11218,6 +11228,7 @@ Gotós Gotós NPCNSP0
 Gou Gou NPCNSP0
 Gouda Gouda NPCSG00
 Goula Goula NPCNSP0
+Gounod Gounod NPCNSP0
 Gourette Gourette NPCSG00
 Gowers Gowers NPCNSP0 # medical
 Goya Goya NPCNSP0
@@ -12244,6 +12255,7 @@ Humiliana Humiliana NPFSSP0
 Humilianes Humiliana NPFPSP0
 Humilitat Humilitat NPFSSP0 # avl: noms de persona
 Humilià Humilià NPMSSP0 # avl: noms de persona
+Hummel Hummel NPCNSP0
 Hunan Hunan NPCSG00
 Hunedoara Hunedoara NPCSG00
 Hunspell Hunspell NPCNO00
@@ -14304,6 +14316,7 @@ Locatelli Locatelli NPCNSP0
 Locke Locke NPCNSP0
 Lodi Lodi NPCSG00
 Lodz Lodz NPCSG00
+Loewe Loewe NPCNSP0
 Lofa Lofa NPCSG00
 Lofoten Lofoten NPFPG00
 Logan Logan NPCSG00
@@ -14446,6 +14459,7 @@ Lutgard Lutgard NPMSSP0 # avl: noms de persona
 Lutgarda Lutgarda NPFSSP0
 Lutgardes Lutgarda NPFPSP0
 Luton Luton NPCSG00
+Lutosławski Lutosławski NPCNSP0
 Lutècia Lutècia NPFSSP0 # avl: noms de persona
 Luvi Luvi NPMSG00
 Luxemburg Luxemburg NPCNSP0
@@ -16620,6 +16634,7 @@ Mosa Mosa NPCSG00
 Mosca Mosca NPFSG00
 Moscardó Moscardó NPCNSP0
 Moscari Moscari NPCSG00
+Moscheles Moscheles NPCNSP0
 Moscou Moscou NPCSG00
 Moscòvia Moscòvia NPCSG00
 Mosel·la Mosel·la NPCSG00
@@ -17557,6 +17572,7 @@ Ofanto Ofanto NPCSG00
 Ofegat Ofegat NPCSG00
 Oferil Oferil NPCNSP0
 Offa Offa NPCSG00
+Offenbach Offenbach NPCNSP0
 Ofra Ofra NPCSG00
 Ofèlia Ofèlia NPFSSP0
 Ofèlies Ofèlia NPFPSP0
@@ -23061,6 +23077,7 @@ Split Split NPCSG00
 Spohr Spohr NPCNSP0
 Spokane Spokane NPCSG00
 Spoleto Spoleto NPCSG00
+Spontini Spontini NPCNSP0
 Sporting Sporting NPMSO00
 Spotify Spotify NPMSO00
 Spratly Spratly NPFPG00
@@ -23278,6 +23295,7 @@ Swakopmund Swakopmund NPCSG00
 Swan-Ganz Swan-Ganz NPCNSP0 # medical
 Swansea Swansea NPCSG00
 Swazilàndia Swazilàndia NPFSG00
+Sweelinck Sweelinck NPCNSP0
 Swidnica Swidnica NPCSG00
 Swietochlowice Swietochlowice NPCSG00
 Swift Swift NPCNSP0
@@ -25736,6 +25754,7 @@ Vilet Vilet NPMSG00
 Vileta Vileta NPCNSP0
 Vileta Vileta NPFSG00
 Viliella Viliella NPCSG00
+Villa-Lobos Villa-Lobos NPCNSP0
 Villablino Villablino NPCSG00
 Villacampa Villacampa NPCNSP0
 Villacarrillo Villacarrillo NPCSG00
@@ -26348,6 +26367,7 @@ Xeixar Xeixar NPCNSP0
 Xeldo Xeldo NPCSG00
 Xelo Xelo NPCSSP0 # avl: noms de persona
 Xena Xena NPCNSP0
+Xenakis Xenakis NPCNSP0
 Xenofont Xenofont NPMSSP0
 Xenòfanes Xenòfanes NPMSSP0 # avl: noms de persona
 Xeraco Xeraco NPCSG00

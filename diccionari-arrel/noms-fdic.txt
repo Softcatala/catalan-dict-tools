@@ -21538,6 +21538,7 @@ criptenamina=categories: F;fonts: dsalut;
 criptestèsia=categories: F;fonts: LT;
 cripticitat=categories: F;fonts: LT;
 criptitis=categories: FI;fonts: dsalut;
+cripto=categories: F;fonts: colloquial;
 criptoactiu=categories: M;fonts: fundeu;
 criptoanamnèsia=categories: F;fonts: dsalut;
 criptoanàlisi=categories: F;fonts: LT;
