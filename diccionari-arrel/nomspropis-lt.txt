@@ -3889,6 +3889,7 @@ Bering Bering NPMSG00
 Beringola Beringola NPCNSP0
 Berkeley Berkeley NPCSG00
 Berklee Berklee NPCSG00
+Berkshire Berkshire NPCSG00
 Berlandina Berlandina NPFSSP0 # avl: noms de persona
 Berlandí Berlandí NPMSSP0 # avl: noms de persona
 Berlanga Berlanga NPCNSP0
@@ -7229,6 +7230,7 @@ Cot Cot NPCNSP0
 Cot Cot NPFSG00
 Cotabato Cotabato NPCSG00
 Cotal Cotal NPCNSP0
+Cotarelo Cotarelo NPCNSP0
 Cotefablo Cotefablo NPCSG00
 Cotentin Cotentin NPCSG00
 Cotes Cotes NPCSG00
@@ -11049,6 +11051,7 @@ Gloucestershire Gloucestershire NPCSG00
 Glovo Glovo NPCNSP0
 Glua Glua NPCNSP0
 Gluck Gluck NPCNSP0
+Glyndebourne Glyndebourne NPCSG00
 Glåma Glåma NPCSG00
 Glòria Glòria NPFSSP0
 Glòries Glòria NPFPSP0
