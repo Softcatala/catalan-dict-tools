@@ -4557,6 +4557,7 @@ Borno Borno NPCSG00
 Bornu Bornu NPCSG00
 Bornís Bornís NPCNSP0
 Borodianka Borodianka NPCSG00
+Borodín Borodín NPCNSP0
 Boronat Boronat NPCNSP0
 Borrassell Borrassell NPCNSP0
 Borrasser Borrasser NPCNSP0
@@ -5038,6 +5039,7 @@ Butrot Butrot NPCSG00
 Butuan Butuan NPCSG00
 Butxa Butxa NPCSG00
 Butxaca Butxaca NPCNSP0
+Buxtehude Buxtehude NPCNSP0
 Buzǎu Buzǎu NPCSG00
 Byant Byant NPCNSP0 # medical
 Bydgoszcz Bydgoszcz NPCSG00
@@ -11045,12 +11047,14 @@ Glauc Glauc NPMSSP0 # avl: noms de persona
 Glauca Glauca NPFSSP0 # avl: noms de persona
 Glaucó Glaucó NPMSSP0
 Glaudis Glaudis NPCNSP0
+Glazunov Glazunov NPCNSP0
 Glenda Glenda NPFSSP0 # avl: noms de persona
 Glendale Glendale NPCSG00
 Glenn Glenn NPCNSP0
 Gliceri Gliceri NPMSSP0
 Gliceris Gliceri NPMPSP0
 Glicèria Glicèria NPFSSP0 # avl: noms de persona
+Glinka Glinka NPCNSP0
 Glisson Glisson NPCNSP0 # medical
 Gliwice Gliwice NPCSG00
 Gloin Gloin NPMSSP0
@@ -13046,6 +13050,7 @@ Jāmnagar Jāmnagar NPCSG00
 K2 K2 NPMSG00
 KGB KGB NPMSO00
 KMPlayer KMPlayer NPCNO00
+Kabalevski Kabalevski NPCNSP0
 Kabardins Kabardins NPMPG00
 Kabul Kabul NPCSG00
 Kabwe Kabwe NPCSG00
@@ -14673,6 +14678,7 @@ Mahé Mahé NPCSG00
 Mahābalipuram Mahābalipuram NPCSG00
 Mahārāṣhṭra Mahārāṣhṭra NPCSG00
 Maia Maia NPFSSP0 # avl: noms de persona
+Maiakovski Maiakovski NPCNSP0
 Maials Maials NPCNSP0
 Maials Maials NPCSG00
 Maians Maians NPCNSP0
@@ -19640,6 +19646,7 @@ Providence Providence NPCSG00
 Providència Providència NPFSSP0 # avl: noms de persona
 Provins Provins NPCNSP0
 Provins Provins NPCSG00
+Prozac Prozac NPMSO00
 Prudenci Prudenci NPMSSP0
 Prudenciana Prudenciana NPFSSP0
 Prudencianes Prudenciana NPFPSP0
@@ -21132,6 +21139,7 @@ Rostany Rostany NPCNSP0
 Rostock Rostock NPCSG00
 Rostollet Rostollet NPCNSP0
 Rostov Rostov NPCSG00
+Rostropóvitx Rostropóvitx NPCNSP0
 Rota Rota NPCNSP0
 Rota Rota NPCSG00
 Roteres Roteres NPCNSP0
@@ -21346,6 +21354,7 @@ Saane Saane NPCSG00
 Saar Saar NPCSG00
 Saarbrücken Saarbrücken NPCSG00
 Saaremaa Saaremaa NPCSG00
+Saariaho Saariaho NPCNSP0
 Saarland Saarland NPCSG00
 Saatchi Saatchi NPCNSP0
 Sabaci Sabaci NPMSSP0
@@ -22169,6 +22178,7 @@ Scott Scott NPCNSP0
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
 Scratch Scratch NPCNO00
+Scriabin Scriabin NPCNSP0
 Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
 Scunthorpe Scunthorpe NPCSG00
