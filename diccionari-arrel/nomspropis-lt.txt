@@ -2866,6 +2866,7 @@ BSC BSC NPMSO00
 BTS BTS NPMPO00
 BTV BTV NPCNO00
 BUP BUP NPMSO00
+Baader-Meinhof Baader-Meinhof NPCNO00
 Baal Baal NPMSSP0
 Babahoyo Babahoyo NPCSG00
 Babenberg Babenberg NPCNSP0
