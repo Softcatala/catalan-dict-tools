@@ -2626,6 +2626,7 @@ Atanàsies Atanàsia NPFPSP0
 Atapuerca Atapuerca NPFSG00
 Atar Atar NPCSG00
 Atard Atard NPCNSP0
+Atatürk Atatürk NPCNSP0
 Ataülf Ataülf NPMSSP0
 Ataülfs Ataülf NPMPSP0
 Atbara Atbara NPCSG00
@@ -5077,6 +5078,7 @@ Bòsnia Bòsnia NPFSG00
 Bòtnia Bòtnia NPCSG00
 Bóixols Bóixols NPCSG00
 Bóquer Bóquer NPCSG00
+Böhm Böhm NPCNSP0
 Búger Búger NPCSG00
 Bālī Bālī NPCSG00
 Bāmīān Bāmīān NPCSG00
@@ -9379,6 +9381,7 @@ Fages Fages NPCNSP0
 Fages Fages NPFPG00
 Faget Faget NPCNSP0
 Fagor Fagor NPCNO00
+Fagradalsfjall Fagradalsfjall NPMSG00
 Fahrenheit Fahrenheit NPCNSP0
 Faial Faial NPCSG00
 Faidella Faidella NPCNSP0
@@ -10288,6 +10291,7 @@ Furiol Furiol NPCNSP0
 Furió Furió NPCNSP0
 Furriol Furriol NPCNSP0
 Furriols Furriols NPCNSP0
+Furtwängler Furtwängler NPCNSP0
 Fuset Fuset NPCNSP0
 Fushun Fushun NPCSG00
 Fussimany Fussimany NPCNSP0
@@ -16706,6 +16710,7 @@ Muggia Muggia NPCSG00
 Mugodžary Mugodžary NPCSG00
 Muhammad Muhammad NPMSSP0
 Muharraq Muharraq NPCSG00
+Muhàmmad Muhàmmad NPMSSP0
 Muigheo Muigheo NPCSG00
 Muineachán Muineachán NPCSG00
 Muixacre Muixacre NPCSG00
@@ -22563,6 +22568,7 @@ Shaoxing Shaoxing NPCSG00
 Shaoyang Shaoyang NPCSG00
 Sharpeville Sharpeville NPCSG00
 Shashi Shashi NPCSG00
+Shaw Shaw NPCNSP0
 Sheehan Sheehan NPCNSP0 # medical
 Sheffield Sheffield NPCNSP0
 Sheffield Sheffield NPCSG00
@@ -24372,6 +24378,7 @@ Toríbio Toríbio NPCNSP0
 Tos Tos NPCNSP0
 Tosa Tosa NPCNSP0
 Toscana Toscana NPFSG00
+Toscanini Toscanini NPCNSP0
 Toscar Toscar NPMSG00
 Tosell Tosell NPCNSP0
 Toses Toses NPCNSP0
@@ -26717,6 +26724,7 @@ iPhones iPhone NPMPO00
 iPod iPod NPMSO00
 iPods iPod NPMPO00
 iTunes iTunes NPMNO00
+idCAT idCAT NPCNO00
 oXygen oXygen NPMSO00
 phpBB phpBB NPMSO00
 uTorrent uTorrent NPCNO00
