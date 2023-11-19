@@ -795,6 +795,7 @@ Akşehir Akşehir NPCSG00
 Al-Aaiun Al-Aaiun NPCSG00
 Al-Aqsa Al-Aqsa NPCSG00
 Al-Arid Al-Arid NPCSG00
+Al-Assad Al-Assad NPCSG00
 Al-Azhar Al-Azhar NPCSG00
 Al-Bayda Al-Bayda NPCSG00
 Al-Buraymī Al-Buraymī NPCSG00
@@ -803,6 +804,7 @@ Al-Dāḫila Al-Dāḫila NPCSG00
 Al-Fatah Al-Fatah NPCSO00
 Al-Fujayrah Al-Fujayrah NPCSG00
 Al-Haouz Al-Haouz NPCSG00
+Al-Hilal Al-Hilal NPMSO00
 Al-Hilla Al-Hilla NPCSG00
 Al-Hindīya Al-Hindīya NPCSG00
 Al-Hoceima Al-Hoceima NPCSG00
@@ -825,6 +827,7 @@ Al-Ruṣāfa Al-Ruṣāfa NPCSG00
 Al-Shifa Al-Shifa NPCNO00
 Al-Tā'if Al-Tā'if NPCSG00
 Al-Zaqāziq Al-Zaqāziq NPCSG00
+Al-Àndalus Al-Àndalus NPCSG00
 Al-Àqaba Al-Àqaba NPCSG00
 Al-Ǧifāra Al-Ǧifāra NPCSG00
 Al-Ḥasā Al-Ḥasā NPCSG00
@@ -18859,7 +18862,7 @@ Petrópolis Petrópolis NPCSG00
 Petrús Petrús NPCSG00
 Petén Petén NPCSG00
 Peugeot Peugeot NPCNO00
-Peutz-Jehgers Peutz-Jehgers NPCNSP0 # medical
+Peutz-Jeghers Peutz-Jeghers NPCNSP0 # medical
 Peyer Peyer NPCNSP0 # medical
 Peyresourde Peyresourde NPCSG00
 Peyrol Peyrol NPCSG00
