@@ -5865,6 +5865,7 @@ Cartellà Cartellà NPCNSP0
 Caruaru Caruaru NPCSG00
 Carull Carull NPCNSP0
 Carulla Carulla NPCNSP0
+Caruso Caruso NPCNSP0
 Carxe Carxe NPMSG00
 Carèlia Carèlia NPFSG00
 Caríntia Caríntia NPFSG00
@@ -18504,6 +18505,7 @@ Paulís Paulís NPCNSP0
 Pauló Pauló NPCNSP0
 Pausànias Pausànias NPMSSP0
 Pava Pava NPFSG00
+Pavarotti Pavarotti NPCNSP0
 Pavia Pavia NPCNSP0
 Pavia Pavia NPCSG00
 Pavlodar Pavlodar NPCSG00
