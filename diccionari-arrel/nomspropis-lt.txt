@@ -9769,6 +9769,7 @@ Firmat Firmat NPMSSP0
 Firmats Firmat NPMPSP0
 Firms Firm NPMPSP0
 Fischer Fischer NPCNSP0
+Fischer-Dieskau Fischer-Dieskau NPCNSP0
 Fita Fita NPCNSP0
 Fiter Fiter NPCNSP0
 Fiterol Fiterol NPCNSP0
@@ -14570,6 +14571,7 @@ Macip Macip NPCNSP0
 Macipó Macipó NPCNSP0
 Macià Macià NPCNSP0
 Macià Macià NPMSSP0
+Maclaurin Maclaurin NPCNSP0
 Macon Macon NPCSG00
 Macquari Macquari NPCSG00
 Macra Macra NPFSSP0
@@ -15892,6 +15894,7 @@ Milazzo Milazzo NPCSG00
 Milcíades Milcíades NPMSSP0
 Mildreda Mildreda NPFSSP0
 Mildredes Mildreda NPFPSP0
+Milei Milei NPCNSP0
 Milena Milena NPFSSP0
 Milet Milet NPMSG00
 Milhaud Milhaud NPCNSP0
