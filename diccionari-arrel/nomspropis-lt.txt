@@ -4201,6 +4201,7 @@ Bixkek Bixkek NPCSG00
 Bizacena Bizacena NPCSG00
 Bizanci Bizanci NPCSG00
 Bizerta Bizerta NPCSG00
+Bizet Bizet NPCNSP0
 Bizum Bizum NPMNO00
 Bié Bié NPCSG00
 Bjerrum Bjerrum NPCNSP0 # medical
