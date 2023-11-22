@@ -963,6 +963,7 @@ Albera Albera NPCSG00
 Alberc Alberc NPCNSP0
 Alberche Alberche NPCSG00
 Albercutx Albercutx NPCSG00
+Alberdi Alberdi NPCNSP0
 Alberdí Alberdí NPCNSP0
 Albereda Albereda NPCNSP0
 Albereda Albereda NPCSG00
@@ -10244,6 +10245,7 @@ Fréixens Fréixens NPCNSP0
 Frígia Frígia NPFSG00
 Frígola Frígola NPCNSP0
 Frísia Frísia NPFSG00
+Fröbel Fröbel NPCNSP0
 Fröehlich Fröehlich NPCNSP0 # medical
 Frúctul Frúctul NPMSSP0
 Frúctuls Frúctul NPMPSP0
@@ -12136,6 +12138,7 @@ Holon Holon NPCSG00
 Holstein Holstein NPCSG00
 Holyrood Holyrood NPCSG00
 Holyroodhouse Holyroodhouse NPCSG00
+Holzhausen Holzhausen NPCNSP0
 Homdedeu Homdedeu NPCNSP0
 Homer Homer NPMSSP0
 Homers Homer NPMPSP0
@@ -12910,6 +12913,7 @@ Josepes Josepa NPFPSP0
 Josepets Josepets NPMPG00
 Joseps Josep NPMPSP0
 Josies Josies NPMSSP0 # avl: noms de persona
+Josquin Josquin NPMSSP0
 Josuè Josuè NPMSSP0
 Josuè Josuè NPMSSP0 # avl: noms de persona
 Josuès Josuè NPMPSP0
@@ -12940,6 +12944,7 @@ Jovinià Jovinià NPMSSP0
 Jovins Joví NPMPSP0
 Jovita Jovita NPFSSP0
 Jovites Jovita NPFPSP0
+Jové Jové NPCNSP0
 Joví Joví NPMSSP0
 Jowzjān Jowzjān NPCSG00
 Joyce Joyce NPCNSP0
@@ -16924,11 +16929,11 @@ Nabilles Nabilles NPCSG00
 Nabiners Nabiners NPCNSP0
 Nabiners Nabiners NPCSG00
 Nablus Nablus NPCSG00
+Nabokov Nabokov NPCNSP0
 Nabot Nabot NPCNSP0 # medical
 Naboth Naboth NPCNSP0 # medical
 Nabucco Nabucco NPMSSP0
 Nabucodonosor Nabucodonosor NPMSSP0
-Nabókov Nabókov NPCNSP0
 Nacla Nacla NPCSG00
 Nadala Nadala NPFSSP0 # avl: noms de persona
 Nadalmai Nadalmai NPCNSP0
@@ -18838,6 +18843,7 @@ Pesillà Pesillà NPCSG00
 Pessac Pessac NPCSG00
 Pessoa Pessoa NPCNSP0
 Pessonada Pessonada NPCSG00
+Pestalozzi Pestalozzi NPCNSP0
 Pestell Pestell NPCNSP0
 Petare Petare NPCSG00
 Pete Pete NPMSSP0
@@ -21006,6 +21012,7 @@ Rokitansky-Küster Rokitansky-Küster NPCNSP0 # medical
 Roland Roland NPMSSP0
 Rolands Roland NPMPSP0
 Roldors Roldors NPCNSP0
+Roldós Roldós NPCNSP0
 Rolling Rolling NPCNSP0
 Rolls-Royce Rolls-Royce NPCNO00
 Rom Rom NPCNSP0
@@ -21540,6 +21547,7 @@ Saint-Lô Saint-Lô NPCSG00
 Saint-Malo Saint-Malo NPCSG00
 Saint-Martin Saint-Martin NPCSG00
 Saint-Martin-d'Hères Saint-Martin-d'Hères NPCSG00
+Saint-Maur Saint-Maur NPCSG00
 Saint-Maur-des-Fossés Saint-Maur-des-Fossés NPCSG00
 Saint-Maurice Saint-Maurice NPMSG00
 Saint-Michel Saint-Michel NPCSG00
