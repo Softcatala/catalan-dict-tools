@@ -1791,6 +1791,7 @@ Andrònics Andrònic NPMPSP0
 Andrópov Andrópov NPCNSP0
 Andurell Andurell NPCNSP0
 Andust Andust NPCSG00
+Andy Andy NPCNSP0
 Andèol Andèol NPMSSP0
 Andèols Andèol NPMPSP0
 Andújar Andújar NPCSG00
