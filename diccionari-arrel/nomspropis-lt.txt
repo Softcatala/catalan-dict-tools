@@ -8036,6 +8036,7 @@ Diví Diví NPCNSP0
 Diwaniya Diwaniya NPCSG00
 Diyarbakir Diyarbakir NPCSG00
 Dizzy Dizzy NPCNSP0
+Diàguilev Diàguilev NPCNSP0
 Diògenes Diògenes NPMPSP0
 Diògenes Diògenes NPMSSP0
 Djibouti Djibouti NPMSG00
@@ -10249,6 +10250,7 @@ Fröbel Fröbel NPCNSP0
 Fröehlich Fröehlich NPCNSP0 # medical
 Frúctul Frúctul NPMSSP0
 Frúctuls Frúctul NPMPSP0
+Fubini Fubini NPCNSP0
 Fucecchio Fucecchio NPCSG00
 Fuchs Fuchs NPCNSP0 # medical
 Fuchū Fuchū NPCSG00
@@ -17558,6 +17560,7 @@ Occitània Occitània NPFSG00
 Oceania Oceania NPFSG00
 Oceja Oceja NPFSG00
 Ochoa Ochoa NPCNSP0
+Ockeghem Ockeghem NPCNSP0
 Ocotepeque Ocotepeque NPCSG00
 Octant Octant NPCSG00
 Octavi Octavi NPMSSP0
