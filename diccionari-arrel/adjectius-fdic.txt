@@ -29554,6 +29554,7 @@ superbaix superbaixa=categories: A;fonts: LT;
 superbell superbella=categories: A;fonts: derivat;
 superbiós superbiosa=categories: A;fonts: LT;
 superbombarder=categories: A;fonts: LT;
+superbonic superbonica=categories: A; font: derivat;
 superbuit superbuida=categories: A;fonts: derivat;
 superbàsic superbàsica=categories: A;fonts: derivat;
 superbò superbona=categories: A;fonts: derivat, colloquial;

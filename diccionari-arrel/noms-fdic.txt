@@ -10118,6 +10118,7 @@ beateria=categories: F;fonts: LT;
 beatificació=categories: F;fonts: LT;
 beatitud=categories: F;fonts: LT;
 beatlemania=categories: FS;fonts: neolosfera;
+beatmaker [pl. beatmakers]=categories: MF;fonts: english;
 beaumontès beaumontesa=categories: MF;fonts: LT;
 bebop=categories: MS;fonts: LT;
 bebè [pl. bebès]=categories: M;fonts: LT;

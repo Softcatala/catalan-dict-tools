@@ -785,6 +785,7 @@ Akademgorodok Akademgorodok NPCSG00
 Akamba Akamba NPCSG00
 Akashi Akashi NPCSG00
 Akhelōos Akhelōos NPCSG00
+Akhenaton Akhenaton NPMSSP0
 Akhisar Akhisar NPCSG00
 Akhtuba Akhtuba NPCSG00
 Akita Akita NPCSG00
@@ -1618,6 +1619,8 @@ Amell Amell NPCSG00
 Amengual Amengual NPCNSP0
 Amengual Amengual NPMSSP0
 Amenguals Amengual NPMPSP0
+Amenhotep Amenhotep NPMSSP0
+Amenofis Amenofis NPMSSP0
 Amer Amer NPCNSP0
 Amer Amer NPCSG00
 Amerigo Amerigo NPMSSP0
@@ -1776,6 +1779,7 @@ Andreua Andreua NPFSSP0 # avl: noms de persona
 Andreus Andreu NPMPSP0
 Andreva Andreva NPFSSP0 # avl: noms de persona
 Andreví Andreví NPCNSP0
+Andrew Andrew NPCNSP0
 Andriol Andriol NPMSSP0 # avl: noms de persona
 Andriola Andriola NPFSSP0 # avl: noms de persona
 Andriot Andriot NPCNSP0
@@ -6453,6 +6457,7 @@ Chitral Chitral NPCSG00
 Chittagong Chittagong NPCSG00
 Chiusi Chiusi NPCSG00
 Chivasso Chivasso NPCSG00
+Chloe Chloe NPFSSP0
 Chocomeli Chocomeli NPCNSP0
 Chocó Chocó NPCSG00
 Choiseul Choiseul NPCSG00
@@ -6973,6 +6978,7 @@ Concs Concs NPCNSP0
 Concòrdia Concòrdia NPFSSP0
 Concòrdies Concòrdia NPFPSP0
 Condal Condal NPCNSP0
+Condis Condis NPMNO00
 Condom Condom NPCNSP0
 Condomina Condomina NPFSG00
 Condroz Condroz NPCSG00
@@ -8706,6 +8712,7 @@ Envall Envall NPCSG00
 Enveig Enveig NPCSG00
 Enviny Enviny NPCSG00
 Enviure Enviure NPCSG00
+Enzo Enzo NPMSSP0
 Eo Eo NPCSG00
 Eoghain Eoghain NPCSG00
 Epaminondes Epaminondes NPMSSP0
@@ -9736,6 +9743,7 @@ Fillol Fillol NPCNSP0
 Fillols Fillols NPCNSP0
 Fillols Fillols NPCSG00
 Filmin Filmin NPMSO00
+FilminCAT FilminCAT NPCNO00
 Filomena Filomena NPFSSP0
 Filomenes Filomena NPFPSP0
 Filomens Filomè NPMPSP0
@@ -9962,6 +9970,7 @@ Fontcalent Fontcalent NPCSG00
 Fontclara Fontclara NPCNSP0
 Fontcoberta Fontcoberta NPCNSP0
 Fontcoberta Fontcoberta NPFSG00
+Fontcuberta Fontcuberta NPCNSP0
 Fontdecava Fontdecava NPCNSP0
 Fontdeglòria Fontdeglòria NPCNSP0
 Fontdelsol Fontdelsol NPCNSP0
@@ -10166,6 +10175,7 @@ Frattamaggiore Frattamaggiore NPCSG00
 Frau Frau NPCNSP0
 Frazier Frazier NPCNSP0 # medical
 Freddie Freddie NPMSSP0
+Freddy Freddy NPMSSP0
 Fredera Fredera NPCNSP0
 Frederic Frederic NPMSSP0
 Frederica Frederica NPFSSP0
@@ -11394,6 +11404,7 @@ Grimoald Grimoald NPMSSP0
 Grimoalds Grimoald NPMPSP0
 Grimsby Grimsby NPCSG00
 Grina Grina NPCNSP0
+Grindavík Grindavík NPCSG00
 Grinyó Grinyó NPCNSP0
 Grions Grions NPCSG00
 Gris Gris NPCNSP0
@@ -11850,6 +11861,7 @@ Haspengouw Haspengouw NPCSG00
 Hassan Hassan NPMSSP0 # avl: noms de persona
 Hastings Hastings NPCSG00
 Hasél Hasél NPCNSP0
+Hatxepsut Hatxepsut NPFSSP0
 Haut-Folin Haut-Folin NPCSG00
 Hauteville Hauteville NPCNSP0
 Havana Havana NPFSG00
@@ -12208,6 +12220,7 @@ Hortunas Hortunas NPCSG00
 Hortènsia Hortènsia NPFSSP0
 Hortènsies Hortènsia NPFPSP0
 Hortós Hortós NPCNSP0
+Horus Horus NPMSSP0
 Horàcia Horàcia NPFSSP0 # avl: noms de persona
 Hospital Hospital NPCSG00
 Hospitalet Hospitalet NPCSG00
@@ -17222,6 +17235,7 @@ Niccolò Niccolò NPMSSP0
 Nicea Nicea NPFSG00
 Nichelino Nichelino NPCSG00
 Nicholson Nicholson NPCNSP0
+Nick Nick NPMSSP0
 Nickerie Nickerie NPCSG00
 Nico Nico NPCSSP0 # avl: noms de persona
 Nicobar Nicobar NPFPG00
@@ -18466,6 +18480,7 @@ Passoré Passoré NPCSG00
 Pastaza Pastaza NPCSG00
 Pastells Pastells NPCSG00
 Pasteral Pasteral NPMSG00
+Pasternak Pasternak NPCNSP0
 Pasteur Pasteur NPCNSP0
 Pasto Pasto NPCSG00
 Pastor Pastor NPCNSP0
@@ -20080,6 +20095,7 @@ Quatretonda Quatretonda NPFSG00
 Quatretondeta Quatretondeta NPFSG00
 Quebec Quebec NPMSG00
 Queckendstedt Queckendstedt NPCNSP0 # medical
+Queen Quenn NPCNO00
 Queens Queens NPCSG00
 Queensland Queensland NPCSG00
 Queiq Queiq NPCSG00
@@ -20235,6 +20251,8 @@ Rabós Rabós NPCSG00
 Racibórz Racibórz NPCSG00
 Racine Racine NPCNSP0
 Racó Racó NPMSG00
+Radamant Radamant NPMSSP0
+Radamantis Radamantis NPMSSP0
 Radamès Radamès NPMSSP0 # avl: noms de persona
 Radamés Radamès NPMSSP0 # avl: noms de persona
 Radebeul Radebeul NPCSG00
@@ -22374,6 +22392,7 @@ Senyús Senyús NPCSG00
 Senç Senç NPCSG00
 Senès Senès NPCNSP0
 Senén Senén NPMSSP0
+Seprona Seprona NPMSO00
 Septimània Septimània NPFSG00
 Septuaginta Septuaginta NPFSO00
 Sepúlveda Sepúlveda NPCSG00
@@ -22520,6 +22539,7 @@ Servat Servat NPCNSP0
 Servent Servent NPCNSP0
 Servet Servet NPCNSP0
 Serveto Serveto NPCSG00
+Servicaixa Servicaixa NPMNO00
 Servià Servià NPCNSP0
 Servàcia Servàcia NPFSSP0 # avl: noms de persona
 Servós Servós NPCNSP0
@@ -23985,6 +24005,7 @@ Thérèse Thérèse NPFSSP0
 Thórshavn Thórshavn NPCSG00
 Thāna Thāna NPCSG00
 Tiador Tiador NPCNSP0
+Tian Tian NPMSSP0
 Tiana Tiana NPCNSP0
 Tiana Tiana NPFSG00
 Tiananmen Tiananmen NPCSG00
@@ -25360,6 +25381,7 @@ Venlo Venlo NPCSG00
 Venom Venom NPMSSP0
 Venosa Venosa NPCSG00
 Vensilló Vensilló NPCSG00
+Ventadorn Ventadorn NPCNSP0
 Ventafarines Ventafarines NPCSG00
 Ventajol Ventajol NPCSG00
 Ventajola Ventajola NPCSG00
