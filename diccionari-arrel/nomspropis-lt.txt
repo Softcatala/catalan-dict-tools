@@ -12587,6 +12587,7 @@ Isern Isern NPCNSP0
 Isernia Isernia NPCSG00
 Iseu Iseu NPMSSP0 # avl: noms de persona
 Iseyin Iseyin NPCSG00
+Ishango Ishango NPCSG00
 Ishinomaki Ishinomaki NPCSG00
 Isidor Isidor NPMSSP0
 Isidora Isidora NPFSSP0 # avl: noms de persona
@@ -26308,6 +26309,7 @@ Wollstonecraft Wollstonecraft NPCNSP0
 Wolpe Wolpe NPCNSP0
 Wolpe Wolpe NPCNSP0 # medical
 Wolverhampton Wolverhampton NPCSG00
+Wonderland Wonderland NPCSG00
 Wood Wood NPCNSP0
 Wood Wood NPCNSP0 # medical
 Woodstock Woodstock NPCSG00
