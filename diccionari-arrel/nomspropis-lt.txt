@@ -12123,6 +12123,7 @@ Hodgkin Hodgkin NPCNSP0 # medical
 Hoehn-Yahr Hoehn-Yahr NPCNSP0 # medical
 Hof Hof NPCSG00
 Hoffmann Hoffmann NPCNSP0 # medical
+Hofmann Hofmann NPCNSP0
 Hofmannsthal Hofmannsthal NPCNSP0
 Hogwarts Hogwarts NPCSG00
 Hohenstaufen Hohenstaufen NPCNSP0
@@ -13979,6 +13980,7 @@ Llacuna Llacuna NPFSG00
 Llacunalba Llacunalba NPFSG00
 Llacunes Llacunes NPFPG00
 Llacuneta Llacuneta NPFSG00
+Lladonosa Lladonosa NPCNSP0
 Lladorre Lladorre NPCSG00
 Lladró Lladró NPCNSP0
 Lladrós Lladrós NPCSG00
@@ -14450,6 +14452,7 @@ Lugano Lugano NPCSG00
 Lugo Lugo NPCSG00
 Luhansk Luhansk NPCSG00
 Luimneach Luimneach NPCSG00
+Luján Luján NPCNSP0
 Lukaixenko Lukaixenko NPCNSP0
 Luke Luke NPMSSP0
 Lukács Lukács NPCNSP0
