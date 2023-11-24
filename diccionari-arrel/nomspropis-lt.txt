@@ -2629,6 +2629,7 @@ Asunción Asunción NPCSG00
 Asus Asus NPCNO00
 Asyūṭ Asyūṭ NPCSG00
 Atacama Atacama NPCSG00
+Atahualpa Atahualpa NPMSSP0
 Atakora Atakora NPCSG00
 Atanasi Atanasi NPMSSP0
 Atanasis Atanasi NPMPSP0
@@ -3235,6 +3236,7 @@ Barceloneta Barceloneta NPFSG00
 Barcelonès Barcelonès NPMSG00
 Barcelos Barcelos NPCSG00
 Barceló Barceló NPCNSP0
+Barcino Barcino NPCSG00
 Barcoo Barcoo NPCNSP0 # medical
 Bard Bard NPMSSP0
 Bardat Bardat NPCNSP0
@@ -16397,6 +16399,7 @@ Monteny Monteny NPCNSP0
 Montepulciano Montepulciano NPCSG00
 Montereau-Fault-Yonne Montereau-Fault-Yonne NPCSG00
 Montereau-faut-Yonne Montereau-faut-Yonne NPCSG00
+Montero Montero NPCNSP0
 Monterol Monterol NPCNSP0
 Monterola Monterola NPCNSP0
 Monterols Monterols NPCNSP0
@@ -20843,6 +20846,7 @@ Ris-Orangis Ris-Orangis NPCSG00
 Risaralda Risaralda NPCSG00
 Risent Risent NPCNSP0
 Rishi Rishi NPMSSP0
+Risorgimento Risorgimento NPMSO00
 Rispa Rispa NPCNSP0
 Rispau Rispau NPCNSP0
 Rissec Rissec NPCSG00
@@ -21676,6 +21680,7 @@ Salavat Salavat NPCSG00
 Salavedra Salavedra NPCNSP0
 Salaverri Salaverri NPCNSP0
 Salavia Salavia NPCNSP0
+Salazar Salazar NPCNSP0
 Salcedo Salcedo NPCSG00
 Saldes Saldes NPCNSP0
 Saldes Saldes NPCSG00
