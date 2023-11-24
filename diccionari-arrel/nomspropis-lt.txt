@@ -228,6 +228,7 @@
 ABC ABC NPMSO00
 ACA ACA NPFSO00
 ACB ACB NPFSO00
+ACIS ACIS NPCNO00
 ACN ACN NPFSO00
 ACNUR ACNUR NPMSO00
 ACPV ACPV NPFSO00
@@ -1097,6 +1098,7 @@ Alcibíades Alcibíades NPMPSP0
 Alcibíades Alcibíades NPMSSP0
 Alcides Alcides NPMSSP0 # avl: noms de persona
 Alciri Alciri NPCSG00
+Alcmena Alcmena NPFSSP0
 Alcoa Alcoa NPCSG00
 Alcobaça Alcobaça NPCSG00
 Alcobendas Alcobendas NPCSG00
@@ -6353,6 +6355,7 @@ Chamberlain Chamberlain NPCNSP0 # medical
 Chambéry Chambéry NPCSG00
 Chamonix-Mont-Blanc Chamonix-Mont-Blanc NPCSG00
 Chamorro Chamorro NPCNSP0
+Champagnat Champagnat NPCNSP0
 Champasak Champasak NPCSG00
 Champigny-sur-Marne Champigny-sur-Marne NPCSG00
 Champlain Champlain NPCSG00
@@ -8104,6 +8107,7 @@ Domní Domní NPMSSP0
 Domodédovo Domodédovo NPCSG00
 Domènec Domènec NPCNSP0
 Domènec Domènec NPMSSP0
+Domènech Domènech NPCNSP0
 Domènecs Domènec NPMPSP0
 Domínguez Domínguez NPCNSP0
 Don Don NPCSG00
@@ -9349,6 +9353,7 @@ FCC FCC NPCSO00
 FEDAC FEDAC NPFSO00
 FEDER FEDER NPMNO00
 FEN FEN NPFSO00
+FEP FEP NPFSO00
 FGC FGC NPMPO00
 FIAT FIAT NPFSO00
 FIBA FIBA NPFSO00
@@ -12354,6 +12359,7 @@ IMPIVA IMPIVA NPMSO00
 INE INE NPMSO00
 IOC IOC NPMSO00
 IPCC IPCC NPCNO00
+IPSI IPSI NPCNSP0
 IRTA IRTA NPMSO00
 IS IS NPCNO00
 ISBN ISBN NPMNO00
@@ -13819,6 +13825,7 @@ Lesotho Lesotho NPMSG00
 Lesplaces Lesplaces NPCNSP0
 Lesseps Lesseps NPCNSP0
 Lessing Lessing NPCNSP0
+Lestonnac Lestonnac NPMSO00
 Leszno Leszno NPCSG00
 Let Let NPMSSP0
 Lets Let NPMPSP0
@@ -16625,6 +16632,7 @@ Morgadell Morgadell NPCNSP0
 Morgadella Morgadella NPCNSP0
 Morgades Morgades NPCNSP0
 Morgagni Morgagni NPCNSP0 # medical
+Morgan Morgan NPCNSP0
 Morgana Morgana NPFSSP0 # avl: noms de persona
 Morgannwg Morgannwg NPCSG00
 Morgans Morgans NPCNSP0 # medical
@@ -23424,6 +23432,7 @@ Sòstenes Sòstenes NPMSSP0 # avl: noms de persona
 Sóller Sóller NPCSG00
 Södermanland Södermanland NPCSG00
 Södertälje Södertälje NPCSG00
+Súnion Súnion NPCNSP0
 Súria Súria NPFSG00
 Sāhiwāl Sāhiwāl NPCSG00
 Sāngli Sāngli NPCSG00
