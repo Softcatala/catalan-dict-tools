@@ -5358,6 +5358,7 @@ buscabaralles=categories: AI;fonts: LT;
 buscagatoses=categories: AI;fonts: LT;
 buscaire=categories: A;fonts: LT;
 buscat buscada [sup. buscadíssim]=categories: A;fonts: LT;
+business=categories: AI;fonts: english;
 busoter busotera=categories: A;fonts: LT;
 bussejador bussejadora=categories: A;fonts: LT;
 bustrofèdic bustrofèdica=categories: A;fonts: LT;
