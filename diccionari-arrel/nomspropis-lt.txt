@@ -16990,6 +16990,7 @@ Naiara Naiara NPFSSP0
 Naila Naila NPFSSP0 # avl: noms de persona
 Nairobi Nairobi NPCSG00
 Najaf Najaf NPCSG00
+Nakba Nakba NPFSO00
 Nakhitxevan Nakhitxevan NPCSG00
 Nakhodka Nakhodka NPCSG00
 Naktong-gang Naktong-gang NPCSG00

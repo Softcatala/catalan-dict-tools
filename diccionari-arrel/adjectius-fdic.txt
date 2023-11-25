@@ -18274,6 +18274,7 @@ kasimovià kasimoviana=categories: A;fonts: LT;
 kazakh=categories: A;fonts: LT;
 kazanià kazaniana=categories: A;fonts: LT;
 kenià keniana=categories: A;fonts: LT;
+kennedià kennediana=categories: A;fonts: derivat;
 kenyà kenyana=categories: A;fonts: LT;
 keplerià kepleriana=categories: A;fonts: LT;
 keynesià keynesiana=categories: A;fonts: LT;
