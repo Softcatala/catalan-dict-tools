@@ -26103,8 +26103,7 @@ Vorarlberg Vorarlberg NPCSG00
 Vorner Vorner NPCNSP0 # medical
 Voro Voro NPMSSP0 # avl: noms de persona
 Vorobiov Vorobiov NPCNSP0
-Voronej Voronej NPCSG00
-Voronež Voronež NPCSG00
+Vorónej Vorónej NPCSG00
 Vosges Vosges NPMPG00
 Vox Vox NPCNO00
 Voyager Voyager NPCNO00
