@@ -6661,6 +6661,7 @@ Claveria Claveria NPCNSP0
 Claverol Claverol NPCNSP0
 Claverol Claverol NPCSG00
 Claverí Claverí NPCNSP0
+Clavé Clavé NPCNSP0
 Clazòmenes Clazòmenes NPCSG00
 Cleandre Cleandre NPMSSP0 # avl: noms de persona
 Cleda Cleda NPCNSP0
@@ -8131,6 +8132,7 @@ Donats Donat NPMPSP0
 Donbàs Donbàs NPMSG00
 Doncaster Doncaster NPCSG00
 Donderis Donderis NPCNSP0
+Donets Donets NPMSG00
 Donetsk Donetsk NPCSG00
 Dongola Dongola NPCSG00
 Dongting Dongting NPCSG00
@@ -13394,6 +13396,7 @@ Konya Konya NPCSG00
 Koolhaas Koolhaas NPCNSP0
 Koper Koper NPCSG00
 Korhogo Korhogo NPCSG00
+Korngold Korngold NPCNSP0
 Kortrijk Kortrijk NPCSG00
 Korçë Korçë NPCSG00
 Korčula Korčula NPCSG00
@@ -14962,6 +14965,7 @@ Manlleu Manlleu NPCSG00
 Mannar Mannar NPCSG00
 Mannheim Mannheim NPCSG00
 Manol Manol NPMSG00
+Manolo Manolo NPMSSP0
 Manon Manon NPFSSP0
 Manonelles Manonelles NPCNSP0
 Manono Manono NPCSG00
@@ -23167,6 +23171,7 @@ Srebrenica Srebrenica NPCSG00
 Sri Sri NPCSG00
 Srinagar Srinagar NPCSG00
 Srīnagar Srīnagar NPCSG00
+Staatsoper Staatsoper NPFSO00
 Stabias Stabias NPCSG00
 Stafford Stafford NPCNSP0
 Stafford Stafford NPCSG00
@@ -23231,6 +23236,7 @@ Struthers Struthers NPCNSP0 # medical
 Strymón Strymón NPCSG00
 Stuart Stuart NPCNSP0
 Stuart-Power Stuart-Power NPCNSP0 # medical
+Studebaker Studebaker NPCNSP0
 Student Student NPCNSP0
 Stupino Stupino NPCSG00
 Sturge-Weber Sturge-Weber NPCNSP0 # medical
@@ -26070,6 +26076,7 @@ Volga Volga NPCSG00
 Volgograd Volgograd NPCSG00
 Voliac Voliac NPCNSP0
 Volkmann Volkmann NPCNSP0 # medical
+Volksoper Volksoper NPFSO00
 Volkswagen Volkswagen NPCNO00
 Voll-Damm Voll-Damm NPFNO00
 Volodímir Volodímir NPMSSP0
