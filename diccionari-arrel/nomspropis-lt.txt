@@ -25485,6 +25485,8 @@ Vergonyós Vergonyós NPCNSP0
 Vergés Vergés NPCNSP0
 Vergós Vergós NPCNSP0
 Veri Veri NPCSG00
+Veritas Veritas NPCNO00
+Veritas Veritas NPFSSP0
 Verkami Verkami NPMSO00
 Verkhojansk Verkhojansk NPCSG00
 Verlaine Verlaine NPCNSP0
