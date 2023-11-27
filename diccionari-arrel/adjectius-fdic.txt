@@ -2537,6 +2537,7 @@ antinobiliari antinobiliària=categories: A;fonts: derivat;
 antinodal=categories: A;fonts: LT;
 antinomià antinomiana=categories: A;fonts: LT;
 antinormatiu antinormativa=categories: A;fonts: derivat;
+antinoucentista=categories: A;fonts: derivat;
 antinuclear=categories: A;fonts: LT;
 antinàusees=categories: AI;fonts: dsalut;
 antinòmic antinòmica=categories: A;fonts: LT;

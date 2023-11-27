@@ -5647,6 +5647,7 @@ antinidificant=categories: M;fonts: LT;
 antinode=categories: M;fonts: LT;
 antinomisme=categories: M;fonts: LT;
 antinomià antinomiana=categories: MF;fonts: LT;
+antinoucentisme=categories: MS;fonts: derivat;
 antinovel·la=categories: F;fonts: LT;
 antinucleó=categories: M;fonts: LT;
 antinòmia=categories: F;fonts: LT;

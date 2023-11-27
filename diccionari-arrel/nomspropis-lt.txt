@@ -23240,6 +23240,7 @@ Stromboli Stromboli NPCSG00
 Strozzi Strozzi NPCNSP0
 Struthers Struthers NPCNSP0 # medical
 Strymón Strymón NPCSG00
+Stuani Stuani NPCNSP0
 Stuart Stuart NPCNSP0
 Stuart-Power Stuart-Power NPCNSP0 # medical
 Studebaker Studebaker NPCNSP0
