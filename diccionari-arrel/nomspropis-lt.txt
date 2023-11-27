@@ -8285,6 +8285,7 @@ Durgapur Durgapur NPCSG00
 Durham Durham NPCSG00
 Durkheim Durkheim NPCNSP0
 Durro Durro NPCSG00
+Durruti Durruti NPCNSP0
 Durrës Durrës NPCSG00
 Duró Duró NPCNSP0
 Dusai Dusai NPCNSP0
@@ -12128,6 +12129,7 @@ Hipòlita Hipòlita NPFSSP0 # avl: noms de persona
 Hipòlits Hipòlit NPMPSP0
 Hiram Hiram NPMSSP0 # avl: noms de persona
 Hiratsuka Hiratsuka NPCSG00
+Hirohito Hirohito NPMSSP0
 Hirosaki Hirosaki NPCSG00
 Hiroshima Hiroshima NPFSG00
 Hirschsprung Hirschsprung NPCNSP0 # medical
