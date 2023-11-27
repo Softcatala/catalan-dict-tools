@@ -3720,7 +3720,6 @@ metrorrea=categories: F;fonts: DNV;
 metxonar=categories: V;model:cantar;fonts: DNV;
 metxó=categories: M;fonts: DNV;
 metàfit=categories: M;fonts: DNV;
-mezzo=categories: F;fonts: DNV,italià;
 miatròfia=categories: F;fonts: DNV;
 micarró -ona=categories: MF;fonts: DNV,col·loquial;
 miconímia=categories: F;fonts: DNV;

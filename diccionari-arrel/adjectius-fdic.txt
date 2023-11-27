@@ -30721,6 +30721,7 @@ tingible=categories: A;fonts: dsalut;
 tingità tingitana=categories: A;fonts: LT;
 tinglat tinglada=categories: A;fonts: LT;
 tintinabular=categories: A;fonts: LT;
+tintinaire=categories: A;fonts: derivat;
 tintori tintòria=categories: A;fonts: LT;
 tintorial=categories: A;fonts: LT;
 tinyós tinyosa=categories: A;fonts: LT;

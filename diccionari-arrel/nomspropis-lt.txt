@@ -3612,6 +3612,7 @@ Bellfill Bellfill NPCNSP0
 Bellfort Bellfort NPCNSP0
 Bellfort Bellfort NPCSG00
 Bellida Bellida NPFSG00
+Bellini Bellini NPCNSP0
 Bellinzona Bellinzona NPCSG00
 Bellmirall Bellmirall NPCNSP0
 Bellmont Bellmont NPCNSP0
@@ -8137,6 +8138,7 @@ Donetsk Donetsk NPCSG00
 Dongola Dongola NPCSG00
 Dongting Dongting NPCSG00
 Donisa Donisa NPFSSP0 # avl: noms de persona
+Donizetti Donizetti NPCNSP0
 Donjó Donjó NPCNSP0
 Donné Donné NPCNSP0 # medical
 Donyac Donyac NPCNSP0
@@ -13794,6 +13796,7 @@ Leocàdia Leocàdia NPFSSP0
 Leocàdies Leocàdia NPFPSP0
 Leodovald Leodovald NPMSSP0 # avl: noms de persona
 Leonardo Leonardo NPMSSP0
+Leoncavallo Leoncavallo NPCNSP0
 Leonci Leonci NPMSSP0
 Leoncis Leonci NPMPSP0
 Leone Leone NPFSG00
@@ -14451,6 +14454,7 @@ Lucera Lucera NPCSG00
 Lucerna Lucerna NPCSG00
 Luci Luci NPMSSP0 # avl: noms de persona
 Lucia Lucia NPFSG00
+Lucien Lucien NPMSSP0
 Lucil Lucil NPMSSP0
 Lucils Lucil NPMPSP0
 Lucil·la Lucil·la NPFSSP0 # avl: noms de persona
