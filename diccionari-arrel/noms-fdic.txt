@@ -53580,6 +53580,7 @@ microbisme=categories: M;fonts: LT;
 microbiòleg microbiòloga=categories: MF;fonts: LT;
 microblast=categories: M;fonts: LT;
 microblefària=categories: F;fonts: dsalut;
+microblog=categories: M;fonts: termcat;
 microbraquicefàlia=categories: F;fonts: dsalut;
 microbrenner=categories: M;fonts: dsalut;
 microbràquia=categories: F;fonts: LT;
