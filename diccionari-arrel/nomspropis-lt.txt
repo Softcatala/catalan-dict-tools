@@ -26159,6 +26159,7 @@ Wabash Wabash NPCSG00
 Waco Waco NPCSG00
 Wada Wada NPCNSP0
 Wada Wada NPCNSP0 # medical
+Wagensberg Wagensberg NPCNSP0
 Wagner Wagner NPCNSP0
 Wainganga Wainganga NPCSG00
 Wakayama Wakayama NPCSG00

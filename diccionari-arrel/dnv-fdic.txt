@@ -2803,7 +2803,6 @@ glicosoma=categories: M;fonts: DNV;
 glide=categories: F;fonts: DNV;
 gliosi=categories: F;fonts: DNV;
 gliptologia=categories: F;fonts: DNV;
-glissando=categories: M;fonts: DNV;
 globiforme=categories: A;fonts: DNV;
 globularina=categories: F;fonts: DNV;
 globuliforme=categories: A;fonts: DNV;

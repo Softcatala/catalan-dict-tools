@@ -48991,8 +48991,6 @@ gliosi gliosi NCFS000
 gliosis gliosi NCFP000
 gliptologia gliptologia NCFS000
 gliptologies gliptologia NCFP000
-glissando glissando NCMS000
-glissandos glissando NCMP000
 globiforme globiforme AQ0CS0
 globiformes globiforme AQ0CP0
 globularina globularina NCFS000
