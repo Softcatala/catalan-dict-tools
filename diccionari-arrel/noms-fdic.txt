@@ -39697,6 +39697,7 @@ gliscrúria=categories: F;fonts: dsalut;
 glisentida=categories: F;fonts: dsalut;
 glisolamida=categories: F;fonts: dsalut;
 glisoxepida=categories: F;fonts: dsalut;
+glissando=categories: M;fonts: italià;
 glissonitis=categories: FI;fonts: dsalut;
 glitazona=categories: F;fonts: dsalut;
 gliàcit=categories: M;fonts: dsalut;

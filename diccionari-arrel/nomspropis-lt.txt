@@ -13476,6 +13476,7 @@ Kure Kure NPCSG00
 Kurgan Kurgan NPCSG00
 Kurils Kurils NPFPG00
 Kurnool Kurnool NPCSG00
+Kursaal Kursaal NPMSO00
 Kursk Kursk NPCSG00
 Kuru Kuru NPCNSP0 # medical
 Kurume Kurume NPCSG00
@@ -13998,6 +13999,7 @@ Livry-Gargan Livry-Gargan NPCSG00
 Livònia Livònia NPFSG00
 Lizarra Lizarra NPCSG00
 Lizondo Lizondo NPCNSP0
+Liàdov Liàdov NPCNSP0
 Lió Lió NPCSG00
 Ljouwert Ljouwert NPCSG00
 Ljubljana Ljubljana NPCSG00
@@ -21282,6 +21284,7 @@ Rubies Rubies NPCNSP0
 Rubik Rubik NPCNSP0
 Rubinat Rubinat NPCNSP0
 Rubinat Rubinat NPCSG00
+Rubinstein Rubinstein NPCNSP0
 Rubio Rubio NPCNSP0
 Rubiol Rubiol NPCNSP0
 Rubiola Rubiola NPCNSP0
