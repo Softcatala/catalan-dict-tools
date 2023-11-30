@@ -5301,6 +5301,7 @@ anseriforme=categories: M;fonts: LT;
 anserina=categories: F;fonts: LT;
 anseta=categories: F;fonts: LT;
 ansietat=categories: F;fonts: LT;
+ecoansietat=categories: F;fonts: derivat;
 ansiolític=categories: M;fonts: LT;
 ansèrid=categories: M;fonts: LT;
 ansí=categories: M;fonts: LT;
