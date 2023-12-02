@@ -13433,8 +13433,9 @@ Krajina Krajina NPCSG00
 Krakatoa Krakatoa NPCSG00
 Kras Kras NPCSG00
 Krasnoarmiis'k Krasnoarmiis'k NPCSG00
+Krasnodar Krasnodar NPCSG00
 Krasnogorsk Krasnogorsk NPCSG00
-Krasnojarsk Krasnojarsk NPCSG00
+Krasnoiarsk Krasnoiarsk NPCSG00
 Krause Krause NPCNSP0 # medical
 Krebs Krebs NPCNSP0
 Krebs Krebs NPCNSP0 # medical
@@ -20243,6 +20244,7 @@ Quneitra Quneitra NPCSG00
 Qustol Qustol NPCSG00
 Quthing Quthing NPCSG00
 Quzhou Quzhou NPCSG00
+Quílez Quílez NPCNSP0
 RAC RAC NPCSO00
 RAC1 RAC1 NPCNO00
 RACC RACC NPMSO00
@@ -24172,6 +24174,7 @@ Todolé Todolé NPCNSP0
 Todolí Todolí NPCNSP0
 Toga Toga NPCSG00
 Togdheer Togdheer NPCSG00
+Togliatti Togliatti NPCSG00
 Togo Togo NPCSG00
 Togores Togores NPCSG00
 Toia Toia NPFSSP0 # avl: noms de persona
@@ -24949,6 +24952,7 @@ Ulan-Ude Ulan-Ude NPCSG00
 Ulhāsnagar Ulhāsnagar NPCSG00
 Ulis Ulis NPFPG00
 Ulisses Ulisses NPMNSP0
+Uliànovsk Uliànovsk NPCSG00
 Ulla Ulla NPCSG00
 Ullaró Ullaró NPCSG00
 Ullastrar Ullastrar NPCSG00
