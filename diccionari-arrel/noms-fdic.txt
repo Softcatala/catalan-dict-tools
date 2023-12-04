@@ -21210,6 +21210,7 @@ coïssor=categories: F;fonts: LT;
 coïtja=categories: F;fonts: LT;
 crac=categories: M;fonts: LT;
 cracant=categories: M;fonts: LT;
+cracker=categories: MF;fonts: english;
 cracking=categories: M;fonts: LT;
 cracovià cracoviana=categories: MF;fonts: LT;
 craftivisme=categories: M;fonts: termcat;

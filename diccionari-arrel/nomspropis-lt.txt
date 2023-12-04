@@ -532,6 +532,7 @@ Adula Adula NPCSG00
 Adulf Adulf NPMSSP0
 Adulfs Adulf NPMPSP0
 Adulis Adulis NPCSG00
+Adulyadej Adulyadej NPCNSP0
 Adul·lam Adul·lam NPCSG00
 Adventor Adventor NPMSSP0 # avl: noms de persona
 Adzopé Adzopé NPCSG00
@@ -3962,6 +3963,7 @@ Bernburg Bernburg NPCSG00
 Bernial Bernial NPCNSP0
 Bernic Bernic NPCNSP0
 Bernina Bernina NPCSG00
+Bernini Bernini NPCNSP0
 Bernié Bernié NPCNSP0
 Bernoulli Bernoulli NPCNSP0
 Bernstein Bernstein NPCNSP0
@@ -4073,6 +4075,7 @@ Bhiwandi Bhiwandi NPCSG00
 Bhopāl Bhopāl NPCSG00
 Bhubaneswar Bhubaneswar NPCSG00
 Bhuj Bhuj NPCSG00
+Bhumibol Bhumibol NPMSSP0
 Bhusawal Bhusawal NPCSG00
 Bhutan Bhutan NPMSG00
 Bhāgalpur Bhāgalpur NPCSG00
@@ -4234,6 +4237,7 @@ Blaia Blaia NPCNSP0
 Blair Blair NPCNSP0
 Blais Blai NPMPSP0
 Blajot Blajot NPCNSP0
+Blake Blake NPCNSP0
 Blalock-Taussig Blalock-Taussig NPCNSP0 # medical
 Blanc Blanc NPCNSP0
 Blanca Blanca NPCNSP0
@@ -4464,6 +4468,7 @@ Bonfills Bonfill NPMPSP0
 Bong Bong NPCSG00
 Bongart Bongart NPCNSP0
 Bongouanou Bongouanou NPCSG00
+Bonheur Bonheur NPCNSP0
 Bonhom Bonhom NPCNSP0
 Bonhome Bonhome NPCNSP0
 Bonifaci Bonifaci NPMSSP0
@@ -4477,6 +4482,7 @@ Bonjorn Bonjorn NPCNSP0
 Bonmatí Bonmatí NPCNSP0
 Bonmatí Bonmatí NPCSG00
 Bonn Bonn NPCSG00
+Bonnard Bonnard NPCNSP0
 Bonnemaison Bonnemaison NPCNSP0
 Bonner Bonner NPCSG00
 Bonnet Bonnet NPCNSP0 # medical
@@ -4652,6 +4658,8 @@ Bottrop Bottrop NPCSG00
 Bou Bou NPCNSP0
 Bouaflé Bouaflé NPCSG00
 Bouaké Bouaké NPCSG00
+Boucher Boucher NPCNSP0
+Boudin Boudin NPCNSP0
 Bouenza Bouenza NPCSG00
 Boufarik Boufarik NPCSG00
 Bougainville Bougainville NPCSG00
@@ -4723,6 +4731,7 @@ Brangolí Brangolí NPCSG00
 Brangó Brangó NPCNSP0
 Branjó Branjó NPCNSP0
 Brantford Brantford NPCSG00
+Braque Braque NPCNSP0
 Brascó Brascó NPCNSP0
 Brasil Brasil NPMSG00
 Brasov Brasov NPCSG00
@@ -5533,6 +5542,7 @@ Canaleja Canaleja NPFSG00
 Canaleta Canaleta NPFSG00
 Canaletes Canaletes NPCNSP0
 Canaletes Canaletes NPFPG00
+Canaletto Canaletto NPCNSP0
 Canalies Canalies NPCNSP0
 Canalosa Canalosa NPFSG00
 Canals Canals NPCNG00
@@ -5836,6 +5846,7 @@ Carpi Carpi NPCNSP0
 Carpi Carpi NPCSG00
 Carpòfor Carpòfor NPMSSP0
 Carpòfors Carpòfor NPMPSP0
+Carracci Carracci NPCNSP0
 Carraixet Carraixet NPCSG00
 Carrara Carrara NPCNSP0
 Carrara Carrara NPCSG00
@@ -6347,6 +6358,7 @@ Ch'ŏngju Ch'ŏngju NPCSG00
 Chablis Chablis NPCSG00
 Chabàs Chabàs NPCNSP0
 Chaco Chaco NPCSG00
+Chagall Chagall NPCNSP0
 Chagang Chagang NPCSG00
 Chaghcharan Chaghcharan NPCSG00
 Chagos Chagos NPCSG00
@@ -6457,6 +6469,7 @@ Chioggia Chioggia NPCSG00
 Chipiona Chipiona NPCSG00
 Chiquimula Chiquimula NPCSG00
 Chiradzulu Chiradzulu NPCSG00
+Chirico Chirico NPCNSP0
 Chiriquí Chiriquí NPCSG00
 Chisinau Chisinau NPCSG00
 Chitipa Chitipa NPCSG00
@@ -7013,6 +7026,7 @@ Conrads Conrad NPMPSP0
 Consolacions Consolació NPFPSP0
 Consolació Consolació NPFSG00
 Consolació Consolació NPFSSP0
+Constable Constable NPCNSP0
 Constances Constança NPFPSP0
 Constanci Constanci NPMSSP0 # avl: noms de persona
 Constans Constans NPCNSP0
@@ -7138,6 +7152,7 @@ Coromí Coromí NPCNSP0
 Corones Corones NPCNSP0
 Coronie Coronie NPCSG00
 Coropuna Coropuna NPCSG00
+Corot Corot NPCNSP0
 Corozal Corozal NPCSG00
 Corpus Corpus NPCSSP0 # avl: noms de persona
 Corral Corral NPCNSP0
@@ -7278,6 +7293,7 @@ Cotxer Cotxer NPMSG00
 Cotxinxina Cotxinxina NPFSG00
 Coudekerque-Branche Coudekerque-Branche NPCSG00
 Couperin Couperin NPCNSP0
+Courbet Courbet NPCNSP0
 Courbevoie Courbevoie NPCSG00
 Cournand Cournand NPCNSP0 # medical
 Courtenay Courtenay NPCNSP0
@@ -7760,9 +7776,11 @@ Datius Datiu NPMPSP0
 Datong Datong NPCSG00
 Datu Datu NPCSG00
 Datzira Datzira NPCNSP0
+Daubigny Daubigny NPCNSP0
 Dauder Dauder NPCNSP0
 Daudí Daudí NPCNSP0
 Daugavpils Daugavpils NPCSG00
+Daumier Daumier NPCNSP0
 Dauner Dauner NPCNSP0
 Daura Daura NPCNSP0
 Daurell Daurell NPCNSP0
@@ -7803,6 +7821,7 @@ Dedza Dedza NPCSG00
 Dee Dee NPCSG00
 Defla Defla NPCSG00
 Defoe Defoe NPCNSP0
+Degas Degas NPCNSP0
 Degollada Degollada NPCNSP0
 Degos Degos NPCNSP0 # medical
 Deianira Deianira NPFSSP0 # avl: noms de persona
@@ -8242,6 +8261,7 @@ Dublín Dublín NPMSG00
 Dubrici Dubrici NPMSSP0
 Dubricis Dubrici NPMPSP0
 Dubrovnik Dubrovnik NPCSG00
+Dubuffet Dubuffet NPCNSP0
 Dubà Dubà NPCNSP0
 Duc Duc NPCNSP0
 Duca Duca NPCNSP0
@@ -8251,6 +8271,7 @@ Duchenne Duchenne NPCNSP0 # medical
 Duckett Duckett NPCNSP0 # medical
 Duero Duero NPCSG00
 Duesaigües Duesaigües NPCSG00
+Dufy Dufy NPCNSP0
 Duhamel Duhamel NPCNSP0 # medical
 Duisburg Duisburg NPMSG00
 Duixanbe Duixanbe NPCSG00
@@ -8343,6 +8364,7 @@ Dòrida Dòrida NPFSG00
 Dòvia Dòvia NPFSG00
 Dúnia Dúnia NPFSSP0 # avl: noms de persona
 Düren Düren NPCSG00
+Dürer Dürer NPCNSP0
 Düsseldorf Düsseldorf NPMSG00
 Dāmodar Dāmodar NPCSG00
 Džezkazgan Džezkazgan NPCSG00
@@ -8687,6 +8709,7 @@ Enghien-les-Bains Enghien-les-Bains NPCSG00
 Engiadina Engiadina NPCSG00
 Engilbert Engilbert NPMSSP0 # avl: noms de persona
 Englantina Englantina NPFSSP0 # avl: noms de persona
+Engolasters Engolasters NPMPG00
 Engordany Engordany NPCSG00
 Engraci Engraci NPMSSP0 # avl: noms de persona
 Engràcia Engràcia NPFSSP0
@@ -8713,6 +8736,7 @@ Ensenada Ensenada NPCSG00
 Ensenyat Ensenyat NPCNSP0
 Enseu Enseu NPCSG00
 Ensiola Ensiola NPCSG00
+Ensor Ensor NPCNSP0
 Entebbe Entebbe NPCSG00
 Entença Entença NPCNSP0
 Entorn Entorn NPCNSP0
@@ -9473,6 +9497,7 @@ Fanconi Fanconi NPCNSP0 # medical
 Faneca Faneca NPCNSP0
 Faneca Faneca NPCSG00
 Faneras Faneras NPCNSP0 # medical
+Fantin-Latour Fantin-Latour NPCNSP0
 Fanzara Fanzara NPFSG00
 Fanø Fanø NPCSG00
 Far Far NPCNSP0
@@ -9624,6 +9649,7 @@ Ferigle Ferigle NPCNSP0
 Ferkéssédougou Ferkéssédougou NPCSG00
 Ferlo Ferlo NPCSG00
 Fermanagh Fermanagh NPCSG00
+Fermat Fermat NPCNSP0
 Fermina Fermina NPFSSP0 # avl: noms de persona
 Fermins Fermí NPMPSP0
 Fermo Fermo NPCSG00
@@ -10139,6 +10165,7 @@ Fox-Fordyce Fox-Fordyce NPCNSP0 # medical
 Foyle Foyle NPCSG00
 Fraga Fraga NPCNSP0
 Fraga Fraga NPCSG00
+Fragonard Fragonard NPCNSP0
 Fraguerau Fraguerau NPCSG00
 Framis Framis NPCNSP0
 Franc Franc NPCNSP0
@@ -10423,6 +10450,7 @@ Gaietà Gaietà NPMSSP0
 Gaig Gaig NPCNSP0
 Gail Gail NPCSG00
 Gaina Gaina NPCSG00
+Gainsborough Gainsborough NPCNSP0
 Gaiol Gaiol NPCNSP0
 Gaiolà Gaiolà NPCNSP0
 Gairal Gairal NPCNSP0
@@ -10936,6 +10964,7 @@ Ghowr Ghowr NPCSG00
 Ghāghra Ghāghra NPCSG00
 Ghāziabād Ghāziabād NPCSG00
 Gia Gia NPFSG00
+Giacometti Giacometti NPCNSP0
 Giacomo Giacomo NPMSSP0
 Gianni Gianni NPMSSP0
 Giarre Giarre NPCSG00
@@ -11277,6 +11306,7 @@ Gounod Gounod NPCNSP0
 Gourette Gourette NPCSG00
 Gowers Gowers NPCNSP0 # medical
 Goya Goya NPCNSP0
+Goyen Goyen NPCNSP0
 Goyrand Goyrand NPCNSP0 # medical
 Goytisolo Goytisolo NPCNSP0
 Gozo Gozo NPCSG00
@@ -11393,6 +11423,7 @@ Greoles Greoles NPCNSP0
 Gresa Gresa NPCNSP0
 Greses Greses NPCNSP0
 Greta Greta NPFSSP0 # avl: noms de persona
+Greuze Greuze NPCNSP0
 Grevalosa Grevalosa NPCSG00
 Grevenmacher Grevenmacher NPCSG00
 Grevolat Grevolat NPCNSP0
@@ -11439,6 +11470,7 @@ Gros Gros NPCNSP0
 Grosset Grosset NPCNSP0
 Grosseto Grosseto NPCSG00
 Grossglockner Grossglockner NPCSG00
+Grosz Grosz NPCNSP0
 Grotius Grotius NPMSSP0
 Grottaferrata Grottaferrata NPCSG00
 Grottaglie Grottaglie NPCSG00
@@ -11545,6 +11577,7 @@ Guerau Guerau NPCNSP0
 Guerau Guerau NPMSSP0
 Gueraua Gueraua NPFSSP0 # avl: noms de persona
 Gueraus Guerau NPMPSP0
+Guercino Guercino NPCNSP0
 Guernica Guernica NPCSG00
 Guernsey Guernsey NPCSG00
 Guerra Guerra NPCNSP0
@@ -11739,6 +11772,7 @@ Gènesi Gènesi NPMS000
 Gènova Gènova NPFSG00
 Gèrs Gèrs NPCSG00
 Géant Géant NPCSG00
+Gérôme Gérôme NPCNSP0
 Gíger Gíger NPCSG00
 Gòlgota Gòlgota NPMSG00
 Gòl·lum Gòl·lum NPMSSP0
@@ -11807,6 +11841,7 @@ Halley Halley NPCNSP0
 Hallopeau Hallopeau NPCNSP0 # medical
 Halloween Halloween NPMSO00
 Halmstad Halmstad NPCSG00
+Hals Hals NPCNSP0
 Hama Hama NPCSG00
 Hamadan Hamadan NPCSG00
 Hamadān Hamadān NPCSG00
@@ -12063,6 +12098,7 @@ Herāt Herāt NPCSG00
 Hespèria Hespèria NPFSSP0 # avl: noms de persona
 Hespèrides Hespèrides NPFPSP0
 Hess Hess NPCNSP0 # medical
+Hesse Hesse NPCNSP0
 Hesse Hesse NPMSG00
 Hessen Hessen NPCSG00
 Hesíode Hesíode NPMSSP0
@@ -12146,6 +12182,7 @@ Hitler Hitler NPCNSP0
 Hobart Hobart NPCSG00
 Hobbes Hobbes NPCNSP0
 Hockenheim Hockenheim NPCSG00
+Hockney Hockney NPCNSP0
 Hodeida Hodeida NPCSG00
 Hodgkin Hodgkin NPCNSP0 # medical
 Hoehn-Yahr Hoehn-Yahr NPCNSP0 # medical
@@ -12153,6 +12190,7 @@ Hof Hof NPCSG00
 Hoffmann Hoffmann NPCNSP0 # medical
 Hofmann Hofmann NPCNSP0
 Hofmannsthal Hofmannsthal NPCNSP0
+Hogarth Hogarth NPCNSP0
 Hogwarts Hogwarts NPCSG00
 Hohenstaufen Hohenstaufen NPCNSP0
 Hohenstein-Ernstthal Hohenstein-Ernstthal NPCSG00
@@ -12160,6 +12198,7 @@ Hohenzollern Hohenzollern NPCNSP0
 Hohhot Hohhot NPCSG00
 Hokkaido Hokkaido NPCSG00
 Hokkaidō Hokkaidō NPCSG00
+Hokusai Hokusai NPCNSP0
 Holanda Holanda NPFSG00
 Holguín Holguín NPCSG00
 Hollande Hollande NPCNSP0
@@ -12920,6 +12959,7 @@ Joplin Joplin NPCSG00
 Jorba Jorba NPCNSP0
 Jorba Jorba NPFSG00
 Jorbeta Jorbeta NPCNSP0
+Jordaens Jordaens NPCNSP0
 Jordan Jordan NPCNSP0
 Jordana Jordana NPCNSP0
 Jordans Jordà NPMPSP0
@@ -13381,10 +13421,12 @@ Kohtla-Järve Kohtla-Järve NPCSG00
 Koinadugu Koinadugu NPCSG00
 Kojewnikow Kojewnikow NPCNSP0 # medical
 Kokand Kokand NPCSG00
+Kokoschka Kokoschka NPCNSP0
 Kola Kola NPCSG00
 Kolding Kolding NPCSG00
 Kolgujev Kolgujev NPCSG00
 Kolhāpur Kolhāpur NPCSG00
+Kolmogórov Kolmogórov NPCNSP0
 Kolontár Kolontár NPCSG00
 Kommunarsk Kommunarsk NPCSG00
 Komodo Komodo NPMSG00
@@ -13906,6 +13948,7 @@ Libération Libération NPCSO00
 Libòria Libòria NPFSSP0 # avl: noms de persona
 Licabet Licabet NPCSG00
 Licata Licata NPCSG00
+Lichtenstein Lichtenstein NPCNSP0
 Licini Licini NPMSSP0
 Licinis Licini NPMPSP0
 Licomedes Licomedes NPMSSP0 # avl: noms de persona
@@ -13918,6 +13961,7 @@ Liduvina Liduvina NPFSSP0
 Liduvines Liduvina NPFPSP0
 Liduví Liduví NPMSSP0 # avl: noms de persona
 Lieberkühn Lieberkühn NPCNSP0 # medical
+Liebermann Liebermann NPCNSP0
 Liechtenstein Liechtenstein NPCSG00
 Lieja Lieja NPFSG00
 Lielupe Lielupe NPCSG00
@@ -14423,6 +14467,7 @@ Loreto Loreto NPCSSP0
 Loretos Loreto NPCPSP0
 Lorient Lorient NPCSG00
 Loriguilla Loriguilla NPFSG00
+Lorrain Lorrain NPCNSP0
 Losantos Losantos NPCNSP0
 Losera Losera NPCSG00
 Losilla Losilla NPFSG00
@@ -14543,6 +14588,7 @@ Làrnaca Làrnaca NPCSG00
 Lèntul Lèntul NPMSSP0 # avl: noms de persona
 Lèpid Lèpid NPMSSP0 # avl: noms de persona
 Lèucada Lèucada NPCSG00
+Léger Léger NPCNSP0
 Lékoumou Lékoumou NPCSG00
 Léman Léman NPCSG00
 Lérmontov Lérmontov NPCNSP0
@@ -14991,6 +15037,7 @@ Mansfield Mansfield NPCSG00
 Mansuet Mansuet NPMSSP0
 Mansuets Mansuet NPMPSP0
 Mantaro Mantaro NPCSG00
+Mantegna Mantegna NPCNSP0
 Mantes-la-Jolie Mantes-la-Jolie NPCSG00
 Mantes-la-Ville Mantes-la-Ville NPCSG00
 Mantinea Mantinea NPCSG00
@@ -16136,6 +16183,7 @@ Modesta Modesta NPFSSP0
 Modestes Modesta NPFPSP0
 Modests Modest NPMPSP0
 Modica Modica NPCSG00
+Modigliani Modigliani NPCNSP0
 Modolell Modolell NPCNSP0
 Modugno Modugno NPCSG00
 Modula-2 Modula-2 NPMSSP0
@@ -16797,6 +16845,7 @@ Muller Muller NPCSG00
 Mulleracs Mulleracs NPCNSP0
 Mullerat Mullerat NPCNSP0
 Munar Munar NPCNSP0
+Munch Munch NPCNSP0
 Muncie Muncie NPCSG00
 Mundet Mundet NPCNSP0
 Mundo Mundo NPCSG00
@@ -19120,6 +19169,7 @@ Pirro Pirro NPMSSP0 # avl: noms de persona
 Pisa Pisa NPFSG00
 Piskacek Piskacek NPCNSP0 # medical
 Pisons Pisons NPCNSP0
+Pissarro Pissarro NPCNSP0
 Pisticci Pisticci NPCSG00
 Pistoia Pistoia NPCSG00
 Pisuerga Pisuerga NPCSG00
@@ -19556,6 +19606,7 @@ Pouminor Pouminor NPCNSP0
 Pouplana Pouplana NPCNSP0
 Pourodó Pourodó NPCNSP0
 Pous Pous NPCNSP0
+Poussin Poussin NPCNSP0
 Pouvilà Pouvilà NPCNSP0
 PowerPoint PowerPoint NPMNO00
 Powys Powys NPCSG00
@@ -20489,6 +20540,7 @@ Ravensbrück Ravensbrück NPCSG00
 Ravensburg Ravensburg NPCSG00
 Rawalpindi Rawalpindi NPCSG00
 Rawls Rawls NPCNSP0
+Ray Ray NPCNSP0
 Rayleigh Rayleigh NPCNSP0
 Raymond-Foville Raymond-Foville NPCNSP0 # medical
 Raynaud Raynaud NPCNSP0 # medical
@@ -20549,6 +20601,7 @@ Redbridge Redbridge NPCSG00
 Redempció Redempció NPFSSP0 # avl: noms de persona
 Redempt Redempt NPMSSP0 # avl: noms de persona
 Redempta Redempta NPFSSP0 # avl: noms de persona
+Redon Redon NPCNSP0
 Redon Redon NPCSG00
 Redonda Redonda NPFSG00
 Redondela Redondela NPCSG00
@@ -20811,6 +20864,7 @@ Rigalda Rigalda NPFSSP0 # avl: noms de persona
 Rigard Rigard NPCNSP0
 Rigardà Rigardà NPCSG00
 Rigau Rigau NPCNSP0
+Rigaud Rigaud NPCNSP0
 Rigo Rigo NPCNSP0
 Rigobert Rigobert NPMSSP0
 Rigoberta Rigoberta NPFSSP0 # avl: noms de persona
@@ -21210,6 +21264,7 @@ Rossend Rossend NPMSSP0
 Rossenda Rossenda NPFSSP0 # avl: noms de persona
 Rossends Rossend NPMPSP0
 Rosset Rosset NPCNSP0
+Rossetti Rossetti NPCNSP0
 Rossic Rossic NPCNSP0
 Rossini Rossini NPCNSP0
 Rossinyol Rossinyol NPCNSP0
@@ -21329,6 +21384,7 @@ Rugat Rugat NPCNSP0
 Rugat Rugat NPCSG00
 Rugby Rugby NPCSG00
 Ruhr Ruhr NPCSG00
+Ruisdael Ruisdael NPCNSP0
 Ruiz Ruiz NPCNSP0
 Rukum Rukum NPCSG00
 Rukwa Rukwa NPCSG00
@@ -21356,6 +21412,7 @@ Ruscino Ruscino NPCSG00
 Ruscla Ruscla NPCNSP0
 Ruse Ruse NPCSG00
 Rushdie Rushdie NPCNSP0
+Ruskin Ruskin NPCNSP0
 Russafa Russafa NPCNSP0
 Russafa Russafa NPCSG00
 Russell Russell NPCNSP0
@@ -21603,6 +21660,7 @@ Saint-Jean Saint-Jean NPMSSP0
 Saint-Jean-de-Maurienne Saint-Jean-de-Maurienne NPCSG00
 Saint-Lazare Saint-Lazare NPCSG00
 Saint-Louis Saint-Louis NPCSG00
+Saint-Léger Saint-Léger NPCSG00
 Saint-Lô Saint-Lô NPCSG00
 Saint-Malo Saint-Malo NPCSG00
 Saint-Martin Saint-Martin NPCSG00
@@ -22228,6 +22286,7 @@ Schleswig-Holstein Schleswig-Holstein NPCSG00
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lanterman Schmidt-Lanterman NPCNSP0 # medical
 Schneider Schneider NPCNSP0
+Schoenberg Schoenberg NPCNSP0
 Scholz Scholz NPCNSP0
 Schopenhauer Schopenhauer NPCNSP0
 Schröder Schröder NPCNSP0
@@ -22729,6 +22788,7 @@ Sigiriya Sigiriya NPCSG00
 Sigmaringen Sigmaringen NPCSG00
 Sigmund Sigmund NPMSSP0
 Signa Signa NPCSG00
+Signac Signac NPCNSP0
 Siguiri Siguiri NPCSG00
 Sigués Sigués NPCNSP0
 Sigüenza Sigüenza NPCSG00
@@ -23140,6 +23200,7 @@ Sotteville-lès-Rouen Sotteville-lès-Rouen NPCSG00
 Sotxi Sotxi NPCSG00
 Soubré Soubré NPCSG00
 Soudet Soudet NPMSG00
+Soulages Soulages NPCNSP0
 Soum Soum NPCSG00
 Sourou Sourou NPCSG00
 Sousse Sousse NPCSG00
@@ -23209,6 +23270,7 @@ Starhemberg Starhemberg NPCNSP0
 Starling Starling NPCNSP0 # medical
 Stavanger Stavanger NPCSG00
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
+Steen Steen NPCNSP0
 Steiner Steiner NPCNSP0
 Steinert Steinert NPCNSP0 # medical
 Steinway Steinway NPMNO00
@@ -23529,6 +23591,7 @@ Tagaste Tagaste NPCSG00
 Taggia Taggia NPCSG00
 Tagliamento Tagliamento NPCSG00
 Tagliavia Tagliavia NPCNSP0
+Tagore Tagore NPCNSP0
 Tahan Tahan NPCSG00
 Tahart Tahart NPCSG00
 Tahat Tahat NPCSG00
@@ -24074,6 +24137,7 @@ Ticià Ticià NPMSSP0
 Ticó Ticó NPCNSP0
 Tidjikja Tidjikja NPCSG00
 Tiel Tiel NPCNSP0
+Tiepolo Tiepolo NPCNSP0
 Tietze Tietze NPCNSP0 # medical
 Tietê Tietê NPCSG00
 Tiffany Tiffany NPCNO00
@@ -24112,6 +24176,7 @@ Tingis Tingis NPCSG00
 Tino Tino NPMSSP0 # avl: noms de persona
 Tinos Tinos NPCSG00
 Tinto Tinto NPMSG00
+Tintoretto Tintoretto NPCNSP0
 Tints Tints NPMPG00
 Tintín Tintín NPMSSP0
 Tipasa Tipasa NPCSG00
@@ -25095,6 +25160,7 @@ Utoya Utoya NPCSG00
 Utrecht Utrecht NPCSG00
 Utrera Utrera NPCSG00
 Utrillas Utrillas NPCSG00
+Utrillo Utrillo NPCNSP0
 Utsunomiya Utsunomiya NPCSG00
 Utxafava Utxafava NPFSG00
 Uvalde Uvalde NPCSG00
@@ -25280,6 +25346,7 @@ Vallnord Vallnord NPFSO00
 Vallori Vallori NPCNSP0
 Valloriola Valloriola NPCSG00
 Valloriola Valloriola NPFSG00
+Vallotton Vallotton NPCNSP0
 Vallpineda Vallpineda NPCSG00
 Vallribera Vallribera NPCNSP0
 Vallroja Vallroja NPFSG00
@@ -25357,6 +25424,7 @@ Varsòvia Varsòvia NPFSG00
 Varèse Varèse NPCNSP0
 Varínia Varínia NPFSSP0 # avl: noms de persona
 Vasa Vasa NPCNSP0
+Vasari Vasari NPCNSP0
 Vasto Vasto NPCSG00
 Vatan Vatan NPCSG00
 Vater Vater NPCNSP0 # medical
@@ -25532,6 +25600,7 @@ Vernús Vernús NPCNSP0
 Verola Verola NPCNSP0
 Veroli Veroli NPCSG00
 Verona Verona NPFSG00
+Veronese Veronese NPCNSP0
 Versalles Versalles NPCSG00
 Vertesszöllös Vertesszöllös NPCSG00
 Verviers Verviers NPCSG00
@@ -26078,6 +26147,7 @@ Vladikavkaz Vladikavkaz NPCSG00
 Vladivostok Vladivostok NPCSG00
 Vladímir Vladímir NPMSG00
 Vladímir Vladímir NPMSSP0
+Vlaminck Vlaminck NPCNSP0
 Vlissingen Vlissingen NPCSG00
 Vlorë Vlorë NPCSG00
 Vltava Vltava NPCSG00
@@ -26131,6 +26201,7 @@ Vox Vox NPCNO00
 Voyager Voyager NPCNO00
 Vraca Vraca NPCSG00
 Vueling Vueling NPCNO00
+Vuillard Vuillard NPCNSP0
 Vukovar Vukovar NPCSG00
 Vulcano Vulcano NPCSG00
 Vulci Vulci NPCSG00
@@ -26201,6 +26272,7 @@ Warangal Warangal NPCSG00
 Waregem Waregem NPCSG00
 Warenne Warenne NPCNSP0
 Wargla Wargla NPCSG00
+Warhol Warhol NPCNSP0
 Warley Warley NPCSG00
 Warmia Warmia NPCSG00
 Warner Warner NPCNO00
@@ -26294,6 +26366,7 @@ Whirlpool Whirlpool NPCNO00
 Whisper Whisper NPMSO00
 Whisplash Whisplash NPCNSP0
 Whisplash Whisplash NPCNSP0 # medical
+Whistler Whistler NPCNSP0
 White White NPCNSP0
 Whitehall Whitehall NPCSG00
 Whitman Whitman NPCNSP0
@@ -26799,6 +26872,7 @@ al-Hussein al-Hussein NPCNSP0
 al-Mansur al-Mansur NPCNSP0
 al-Sadat al-Sadat NPCNSP0
 al-Sadr al-Sadr NPCNSP0
+al-Thani al-Thani NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
 bonÀrea bonÀrea NPCNO00
 d'Alembert d'Alembert NPCNSP0
@@ -26968,6 +27042,7 @@ uTorrent uTorrent NPCNO00
 Ābādān Ābādān NPCSG00
 Ākōla Ākōla NPCSG00
 Čapajevsk Čapajevsk NPCSG00
+Čapek Čapek NPCNSP0
 Čardžou Čardžou NPCSG00
 Čeboksary Čeboksary NPCSG00
 Čel'abinsk Čel'abinsk NPCSG00
