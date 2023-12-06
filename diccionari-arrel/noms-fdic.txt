@@ -81742,6 +81742,7 @@ tresor=categories: M;fonts: LT;
 tresorejament=categories: M;fonts: LT;
 tresorer tresorera=categories: MF;fonts: LT;
 tresoreria=categories: F;fonts: LT;
+tresoret=categories: M;fonts: diminutiu;
 trespeus=categories: MI;fonts: LT;
 trespol=categories: M;fonts: LT;
 tresquarts=categories: MFI;fonts: LT;

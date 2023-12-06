@@ -6152,6 +6152,7 @@ Caterina Caterina NPFSSP0
 Caterines Caterina NPFPSP0
 Caterí Caterí NPMSSP0 # avl: noms de persona
 Cateura Cateura NPCNSP0
+Catilina Catilina NPMSSP0
 Catllar Catllar NPCNSP0
 Catllar Catllar NPMSG00
 Catllà Catllà NPCSG00
@@ -27080,3 +27081,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Eibar Eibar NPCSG00
