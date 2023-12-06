@@ -8479,6 +8479,7 @@ Egmidi Egmidi NPMSSP0 # avl: noms de persona
 Egídia Egídia NPFSSP0 # avl: noms de persona
 Ehlers-Danlos Ehlers-Danlos NPCNSP0 # medical
 Ehringsdorf Ehringsdorf NPCSG00
+Eibar Eibar NPCSG00
 Eichsfeld Eichsfeld NPCSG00
 Eidenbenz Eidenbenz NPCNSP0
 Eiffel Eiffel NPCNSP0
@@ -10234,6 +10235,7 @@ Fregoso Fregoso NPCNSP0
 Frei Frei NPCNSP0 # medical
 Freiberg Freiberg NPCNSP0 # medical
 Freiberg Freiberg NPCSG00
+Freire Freire NPCNSP0
 Freita Freita NPFSG00
 Freixa Freixa NPCNSP0
 Freixar Freixar NPCNSP0
@@ -10772,6 +10774,7 @@ Gausac Gausac NPCSG00
 Gausila Gausila NPCNSP0
 Gauss Gauss NPCNSP0 # medical
 Gausà Gausà NPCNSP0
+Gautama Gautama NPCNSP0
 Gauter Gauter NPCNSP0
 Gauteri Gauteri NPMSSP0 # avl: noms de persona
 Gautèria Gautèria NPFSSP0 # avl: noms de persona
@@ -22764,6 +22767,7 @@ Sició Sició NPCSG00
 Sicília Sicília NPFSG00
 Sidamo Sidamo NPCSG00
 Sidamon Sidamon NPCSG00
+Siddhartha Siddhartha NPMSSP0
 Siderac Siderac NPCNSP0
 Siderocàstron Siderocàstron NPCSG00
 Sidillà Sidillà NPCSG00
@@ -25076,6 +25080,7 @@ Unna Unna NPCSG00
 Unterwalden Unterwalden NPCSG00
 Unverricht-Lundborg Unverricht-Lundborg NPCNSP0 # medical
 Unís Unís NPCNSP0
+Upanixad Upanixad NPMSO00
 Upemba Upemba NPCSG00
 Uplands Uplands NPCPG00
 Upolu Upolu NPCSG00
@@ -27081,4 +27086,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Eibar Eibar NPCSG00
