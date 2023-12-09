@@ -16,6 +16,7 @@
 #postposar=categories: V;model:anquilosar;fonts: LT;
 #revoldre=categories: V;model:absoldre;fonts:LT no normatiu, només DCVB
 #revore=categories: V;model:vore;fonts: DNV;
+#rolar=categories: V;model:cantar;fonts: LT; inusual
 #titar=categories: V;model:cantar;fonts:LT, rar, confusions?
 #vidrar=categories: V;model:cantar;fonts: LT;
 #vidriar=categories: V;model:crear;fonts: LT;
@@ -9104,7 +9105,6 @@ rogejar=categories: V;model:envejar;fonts: LT;
 roinar=categories: V;model:cantar;fonts: LT;
 roinejar=categories: V;model:envejar;fonts: LT;
 rojar=categories: V;model:envejar;fonts: LT;
-rolar=categories: V;model:cantar;fonts: LT;
 rollar=categories: V;model:cantar;fonts: LT;
 romancejar=categories: V;model:envejar;fonts: LT;
 romandre=categories: V;model:romandre;fonts: LT;

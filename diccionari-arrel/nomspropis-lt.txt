@@ -25,6 +25,7 @@
 #Bertomeu Bertomeu NPMSSP0 # avl: noms de persona
 #Bertomeua Bertomeua NPFSSP0 # avl: noms de persona
 #Bertomeva Bertomeva NPFSSP0 # avl: noms de persona
+#Bonapart Bonapart NPCNSP0
 #Brunissén (o Brunissèn) Brunissén (o Brunissèn) NPFSSP0 # avl: noms de persona
 #Buenos Buenos NPCSG00
 #Busca Busca NPCSG00
@@ -4437,7 +4438,6 @@ Bonansa Bonansa NPFSG00
 Bonany Bonany NPCNSP0
 Bonany Bonany NPCSG00
 Bonança Bonança NPCSG00
-Bonapart Bonapart NPCNSP0
 Bonaparte Bonaparte NPCNSP0
 Bonaplata Bonaplata NPCNSP0
 Bonarrés Bonarrés NPCNSP0
@@ -9336,6 +9336,7 @@ Evast Evast NPMSSP0 # avl: noms de persona
 Eveli Eveli NPMSSP0 # avl: noms de persona
 Evelina Evelina NPFSSP0
 Evelines Evelina NPFPSP0
+Evelyn Evelyn NPCNSP0
 Evelí Evelí NPMSSP0 # avl: noms de persona
 Evenci Evenci NPMSSP0
 Evencis Evenci NPMPSP0
@@ -14059,6 +14060,7 @@ Ljusnan Ljusnan NPCSG00
 Llabià Llabià NPCSG00
 Llac Llac NPCNSP0
 Llacera Llacera NPCNSP0
+Llach Llach NPCNSP0
 Llacuna Llacuna NPCNSP0
 Llacuna Llacuna NPFSG00
 Llacunalba Llacunalba NPFSG00
@@ -14686,6 +14688,7 @@ Macron Macron NPCNSP0
 Macària Macària NPFSSP0 # avl: noms de persona
 Madagascar Madagascar NPCSG00
 Madara Madara NPCSG00
+Madariaga Madariaga NPCNSP0
 Madaula Madaula NPCNSP0
 Maddaloni Maddaloni NPCSG00
 Madeira Madeira NPCSG00
@@ -17619,6 +17622,7 @@ O'Neill O'Neill NPCNSP0
 O'Sullivan O'Sullivan NPCNSP0
 OAP OAP NPFSO00
 OCDE OCDE NPFSO00
+OCU OCU NPFSO00
 OECD OECD NPFSO00
 OIT OIT NPFSO00
 OMC OMC NPFSO00
