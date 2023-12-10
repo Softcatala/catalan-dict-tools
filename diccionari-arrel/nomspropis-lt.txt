@@ -13030,6 +13030,7 @@ Jowzjān Jowzjān NPCSG00
 Joyce Joyce NPCNSP0
 Joèu Joèu NPMSG00
 Joškar-Ola Joškar-Ola NPCSG00
+Juanola Juanola NPCNSP0
 Juba Juba NPCSG00
 Jubalcoi Jubalcoi NPCSG00
 Jubany Jubany NPMSSP0
