@@ -13891,6 +13891,7 @@ Lessing Lessing NPCNSP0
 Lestonnac Lestonnac NPMSO00
 Leszno Leszno NPCSG00
 Let Let NPMSSP0
+Letamendi Letamendi NPCNSP0
 Lets Let NPMPSP0
 Letterer-Siwe Letterer-Siwe NPCNSP0 # medical
 Letícia Letícia NPFSSP0
@@ -23093,6 +23094,7 @@ Solers Solers NPCNSP0
 Solers Solers NPMPG00
 Soleràs Soleràs NPMSG00
 Solhac Solhac NPCSG00
+Solidarność Solidarność NPCSO0
 Solihull Solihull NPCSG00
 Solikamsk Solikamsk NPCSG00
 Solimà Solimà NPMSSP0 # avl: noms de persona
