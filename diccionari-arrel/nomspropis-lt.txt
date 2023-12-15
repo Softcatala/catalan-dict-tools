@@ -2037,6 +2037,7 @@ Apgar Apgar NPCNSP0 # medical
 Api Api NPMSSP0 # avl: noms de persona
 Apia Apia NPCSG00
 Apians Apià NPMPSP0
+Apiretal Apiretal NPCSO00
 Apià Apià NPMSSP0
 Apolima Apolima NPCSG00
 Apollinaire Apollinaire NPCNSP0
@@ -12768,6 +12769,7 @@ Jacobines Jacobina NPFPSP0
 Jacobs Jacob NPMPSP0
 Jacobson Jacobson NPCNSP0 # medical
 Jacomet Jacomet NPCNSP0
+Jacqueline Jacqueline NPFSSP0
 Jacques Jacques NPMSSP0
 Jael Jael NPFSSP0 # avl: noms de persona
 Jaffa Jaffa NPCSG00
@@ -17569,6 +17571,7 @@ Nuremberg Nuremberg NPCSG00
 Nurestan Nurestan NPMSG00
 Nuristan Nuristan NPMSG00
 Nuseirat Nuseirat NPCSG00
+Nussbaum Nussbaum NPCNSP0
 Nuuk Nuuk NPCSG00
 Nuviola Nuviola NPCNSP0
 Nuzi Nuzi NPCSG00
