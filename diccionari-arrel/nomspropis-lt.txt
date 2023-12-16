@@ -5033,6 +5033,7 @@ Burney Burney NPCNSP0 # medical
 Burniac Burniac NPCNSP0
 Burniguer Burniguer NPCNSP0
 Burrià Burrià NPCNSP0
+Burroughs Burroughs NPCNSO0
 Burrow Burrow NPCNSP0 # medical
 Bursa Bursa NPCSG00
 Buru Buru NPCSG00
@@ -25826,6 +25827,7 @@ Vilagrà Vilagrà NPCNSP0
 Vilagut Vilagut NPCNSP0
 Vilaine Vilaine NPCSG00
 Vilajoan Vilajoan NPCSG00
+Vilajoana Vilajoana NPCNSP0
 Vilajosana Vilajosana NPCNSP0
 Vilajuïga Vilajuïga NPFSG00
 Vilajús Vilajús NPCNSP0
