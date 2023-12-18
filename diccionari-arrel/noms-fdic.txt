@@ -71321,6 +71321,7 @@ remeulo=categories: M;fonts: LT;
 remifentanil=categories: M;fonts: dsalut;
 remig [pl. remigs o remitjos]=categories: M;fonts: LT;
 remikirèn=categories: M;fonts: dsalut;
+remilitarització=categories: F;fonts: derivat;
 remimazolam=categories: M;fonts: dsalut;
 reminiscència=categories: F;fonts: LT;
 remirament=categories: M;fonts: LT;

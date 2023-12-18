@@ -3772,6 +3772,7 @@ australià australiana=categories: A;fonts: LT;
 australoide=categories: A;fonts: LT;
 australopapú [pl. australopapús]=categories: A;fonts: LT;
 austriacista=categories: A;fonts: LT;
+austroalemany austroalemanya=categories: A;fonts: derivat;
 austroasiàtic austroasiàtica=categories: A;fonts: LT;
 austrohongarès austrohongaresa=categories: A;fonts: LT;
 austromediterrani austromediterrània=categories: A;fonts: LT;

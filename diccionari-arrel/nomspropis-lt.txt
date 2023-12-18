@@ -1908,6 +1908,7 @@ Anscari Anscari NPMSSP0
 Anscarina Anscarina NPFSSP0
 Anscarines Anscarina NPFPSP0
 Anscaris Anscari NPMPSP0
+Anschluss Anschluss NPMSO00
 Anscària Anscària NPFSSP0 # avl: noms de persona
 Anselm Anselm NPMSSP0
 Anselma Anselma NPFSSP0 # avl: noms de persona
@@ -3897,6 +3898,7 @@ Berga Berga NPFSG00
 Bergantes Bergantes NPCNG00
 Bergen Bergen NPCSG00
 Bergey Bergey NPCNSP0 # medical
+Berghof Berghof NPMSG00
 Bergoglio Bergoglio NPCNSP0
 Bergonié-Tribondeau Bergonié-Tribondeau NPCNSP0 # medical
 Berguedà Berguedà NPCNSP0
@@ -11793,6 +11795,7 @@ Góngora Góngora NPCNSP0
 Gósol Gósol NPCSG00
 Göcek Göcek NPCSG00
 Göppingen Göppingen NPCSG00
+Göring Göring NPCNSP0
 Görlitz Görlitz NPCSG00
 Göta Göta NPCSG00
 Götaland Götaland NPCSG00
@@ -16922,6 +16925,7 @@ Musell Musell NPCNSP0
 Musella Musella NPCNSP0
 Museros Museros NPCSG00
 Mushin Mushin NPCSG00
+Musikverein Musikverein NPFSO00
 Musil Musil NPCNSP0
 Musitu Musitu NPCNSP0
 Musk Musk NPCNSP0
@@ -22312,6 +22316,7 @@ Schultz Schultz NPCNSP0 # medical
 Schultze Schultze NPCNSP0 # medical
 Schumann Schumann NPCNSP0
 Schumpeter Schumpeter NPCNSP0
+Schuschnigg Schuschnigg NPCNSP0
 Schuster Schuster NPCNSP0
 Schwann Schwann NPCNSP0 # medical
 Schwartz Schwartz NPCNSP0
