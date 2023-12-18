@@ -8662,6 +8662,8 @@ Emmanuela Emmanuela NPFSSP0 # avl: noms de persona
 Emmaús Emmaús NPCSG00
 Emmen Emmen NPCSG00
 Emmes Emma NPFPSP0
+Emmy Emmy NPMNO00
+Emmys Emmy NPMPO00
 Empanada Empanada NPCSG00
 Empar Empar NPFSSP0
 Empars Empar NPFPSP0
