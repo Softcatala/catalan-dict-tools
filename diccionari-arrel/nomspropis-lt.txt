@@ -3166,6 +3166,7 @@ Banjul Banjul NPCSG00
 Bankart Bankart NPCNSP0 # medical
 Bankia Bankia NPFSO00
 Bankinter Bankinter NPCNO00
+Bankman-Fried Bankman-Fried NPCNSP0
 Banksy Banksy NPMSSP0
 Banquells Banquells NPCNSP0
 Banquer Banquer NPCNSP0
