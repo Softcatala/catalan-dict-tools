@@ -770,6 +770,7 @@ Aix Aix NPCSG00
 Aix-les-Bains Aix-les-Bains NPCSG00
 Aixa Aixa NPFSSP0 # avl: noms de persona
 Aixac Aixac NPCNSP0
+Aixalà Aixalà NPCNSP0
 Aixandri Aixandri NPCNSP0
 Aixel Aixel NPMSSP0 # avl: noms de persona
 Aixirivall Aixirivall NPCSG00
@@ -11099,6 +11100,7 @@ Gironès Gironès NPMSG00
 Gironí Gironí NPCNSP0
 Girul Girul NPCSG00
 Girvés Girvés NPCNSP0
+Giráldez Giráldez NPCNSP0
 Girés Girés NPCNSP0
 Giró Giró NPCNSP0
 Girón Girón NPCNSP0
@@ -14814,7 +14816,6 @@ Maigmudella Maigmudella NPFSG00
 Maigmó Maigmó NPMSG00
 Mailí Mailí NPCNSP0
 Maimir Maimir NPCNSP0
-Maimònides Maimònides NPMPSP0
 Maimònides Maimònides NPMSSP0
 Maimó Maimó NPCNSP0
 Main Main NPMSG00
@@ -15049,6 +15050,7 @@ Manresa Manresa NPCNSP0
 Manresa Manresa NPFSG00
 Manresana Manresana NPFSG00
 Manric Manric NPCNSP0
+Manrique Manrique NPCNSP0
 Manriu Manriu NPCNSP0
 Mans Mans NPCNSP0
 Mansfield Mansfield NPCSG00
@@ -17068,6 +17070,7 @@ Nagorno Nagorno NPCSG00
 Nagoya Nagoya NPCSG00
 Nagrella Nagrella NPCNSP0
 Naha Naha NPCSG00
+Nahmànides Nahmànides NPMSSP0
 Nahori Nahori NPCSG00
 Nahum Nahum NPMSSP0
 Naiac Naiac NPCNSP0
