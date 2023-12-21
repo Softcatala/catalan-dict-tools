@@ -69008,6 +69008,7 @@ púrria=categories: F;fonts: LT;
 pústula=categories: F;fonts: LT;
 púsula=categories: F;fonts: LT;
 qatarià qatariana=categories: MF;fonts LT;
+qbit=categories: M;fonts: termcat;
 quad=categories: M;fonts: LT;
 quadern=categories: M;fonts: LT;
 quaderna=categories: F;fonts: LT;

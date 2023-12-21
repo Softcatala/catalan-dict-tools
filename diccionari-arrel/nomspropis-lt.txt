@@ -14625,6 +14625,7 @@ Lísies Lísies NPMSSP0 # avl: noms de persona
 Lívia Lívia NPFSSP0 # avl: noms de persona
 Lòria Lòria NPFSG00
 López López NPCNSP0
+López-Chávarri López-Chávarri NPCNSP0
 Löeffgren Löeffgren NPCNSP0 # medical
 Löffler Löffler NPCNSP0 # medical
 Lú Lú NPCSG00
@@ -23125,6 +23126,7 @@ Solivera Solivera NPCNSP0
 Soliveres Soliveres NPCNSP0
 Soliveret Soliveret NPCNSP0
 Soliveta Soliveta NPCSG00
+Soljenitsin Soljenitsin NPCNSP0
 Sollana Sollana NPFSG00
 Solleric Solleric NPCSG00
 Solna Solna NPCSG00
