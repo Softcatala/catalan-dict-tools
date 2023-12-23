@@ -68881,6 +68881,7 @@ puó=categories: M;fonts: LT;
 pàbul=categories: M;fonts: LT;
 pàdel=categories: M;fonts: LT;
 pàdoc=categories: M;fonts: LT;
+pàfia=categories: F;fonts: colloquial, rodamots;
 pàgina=categories: F;fonts: LT;
 pàguera=categories: F;fonts: LT;
 pàixera=categories: F;fonts: LT;

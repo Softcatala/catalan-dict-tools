@@ -9155,6 +9155,7 @@ Estival Estival NPCNSP0
 Estivalis Estivalis NPCNSP0
 Estivella Estivella NPFSG00
 Estivill Estivill NPCNSP0
+Estix Estix NPMSG00
 Estocolm Estocolm NPCSG00
 Estoer Estoer NPCSG00
 Estopa Estopa NPCNSP0
