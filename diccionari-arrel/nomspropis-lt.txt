@@ -2796,6 +2796,7 @@ Auxència Auxència NPFSSP0 # avl: noms de persona
 Ava Ava NPCSG00
 Avairon Avairon NPCSG00
 Avall Avall NPCSG00
+Avalon Avalon NPCSG00
 Avaris Avaris NPCSG00
 Avarua Avarua NPCSG00
 Aveiro Aveiro NPCSG00
@@ -7006,6 +7007,7 @@ Concs Concs NPCNSP0
 Concòrdia Concòrdia NPFSSP0
 Concòrdies Concòrdia NPFPSP0
 Condal Condal NPCNSP0
+Conde-Pumpido Conde-Pumpido NPCNSP0
 Condis Condis NPMNO00
 Condom Condom NPCNSP0
 Condomina Condomina NPFSG00
@@ -13725,6 +13727,7 @@ Lanyon Lanyon NPCNSP0
 Lanzarote Lanzarote NPCSG00
 Lanzhou Lanzhou NPCSG00
 Lançac Lançac NPCSG00
+Lançalot Lançalot NPMSSP0
 Lanús Lanús NPCSG00
 Lao Lao NPCSG00
 Laocont Laocont NPMSSP0 # avl: noms de persona
@@ -19266,6 +19269,7 @@ Planils Planils NPCSG00
 Planiol Planiol NPCNSP0
 Planoles Planoles NPCSG00
 Plantadís Plantadís NPMSG00
+Plantagenet Plantagenet NPCNSP0
 Plantalamor Plantalamor NPCSG00
 Plantalec Plantalec NPCNSP0
 Planuc Planuc NPCNSP0
