@@ -13228,6 +13228,7 @@ Kaplan Kaplan NPCNSP0 # medical
 Kapoeta Kapoeta NPCSG00
 Kaposi Kaposi NPCNSP0 # medical
 Kaposvár Kaposvár NPCSG00
+Kapuściński Kapuściński NPCNSP0
 Kara Kara NPCNSP0
 Kara Kara NPCSG00
 Karabakh Karabakh NPCSG00
@@ -21492,6 +21493,7 @@ Ròmula Ròmula NPFSSP0
 Ròmules Ròmula NPFPSP0
 Ròmuls Ròmul NPMPSP0
 Ròvol Ròvol NPMSG00
+Ródtxenko Ródtxenko NPCNSP0
 Róizman Róizman NPMSSP0
 Rúbies Rúbies NPCSG00
 Rússia Rússia NPFSG00
