@@ -56609,6 +56609,7 @@ necrotròfia=categories: F;fonts: LT;
 necròfag=categories: M;fonts: LT;
 necròfaga=categories: F;fonts: LT;
 necròfil necròfila=categories: MF;fonts LT;
+necròlisi=categories: F;fonts: termcat;
 necròpoli=categories: F;fonts: LT;
 necròpolis=categories: FI;fonts: LT;
 necròpsia=categories: F;fonts: LT;
