@@ -61952,6 +61952,7 @@ partitiu=categories: M;fonts: LT;
 partitocràcia=categories: F;fonts: LT;
 partitura=categories: F;fonts: LT;
 partió=categories: F;fonts: LT;
+partner=categories: M;fonts: english;
 parturició=categories: F;fonts: LT;
 parturifaent=categories: M;fonts: dsalut;
 partícip=categories: MF;fonts: LT;
