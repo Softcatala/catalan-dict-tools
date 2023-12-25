@@ -197,6 +197,7 @@
 #Simferopol Simferopol NPCSG00
 #Sir Sir NPMSSP0 # avl: noms de persona
 #Sufragi Sufragi NPFSSP0 # avl: noms de persona
+#Sèrvia Sèrvia NPFSSP0 # avl: noms de persona, confusió amb Sèrbia
 #Tanger Tanger NPCSG00
 #Tolomeu Tolomeu NPMSSP0 # avl: noms de persona
 #Torreón Torreón NPCSG00
@@ -23532,7 +23533,6 @@ Sèneca Sèneca NPMSSP0 # avl: noms de persona
 Sèptim Sèptim NPMSSP0
 Sèptims Sèptim NPMPSP0
 Sèrbia Sèrbia NPFSG00
-Sèrvia Sèrvia NPFSSP0 # avl: noms de persona
 Sète Sète NPCSG00
 Sèvres Sèvres NPCSG00
 Ségou Ségou NPCSG00
