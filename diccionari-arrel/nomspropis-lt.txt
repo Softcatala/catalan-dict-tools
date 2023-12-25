@@ -13384,6 +13384,7 @@ Kimura Kimura NPCNSP0 # medical
 Kindia Kindia NPCSG00
 Kindle Kindle NPMNO00
 King King NPCNSP0
+Kingsley Kingsley NPCNSP0
 Kingston Kingston NPCSG00
 Kingstown Kingstown NPCSG00
 Kinshasa Kinshasa NPCSG00
@@ -24222,6 +24223,7 @@ Tiraspol Tiraspol NPCSG00
 Tirijà Tirijà NPMSG00
 Tirint Tirint NPCSG00
 Tirisiti Tirisiti NPMSO00
+Tiristi Tiristi NPMSSP0
 Tirol Tirol NPMSG00
 Tirs Tirs NPMPSP0
 Tirs Tirs NPMSSP0
