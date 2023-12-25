@@ -51466,6 +51466,7 @@ marsapà=categories: M;fonts: LT;
 marsdenià=categories: M;fonts: LT;
 marseguera=categories: F;fonts: AVL;
 marsellès marsellesa=categories: MF;fonts: LT;
+marshmallow=categories: M;fonts: english;
 marsi màrsia=categories: MF;fonts: LT;
 marsileal=categories: F;fonts: LT;
 marsileàcia=categories: F;fonts: LT;
