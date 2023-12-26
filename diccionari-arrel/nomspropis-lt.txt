@@ -10515,6 +10515,7 @@ Galilea Galilea NPFSG00
 Galileu Galileu NPMSSP0
 Galimany Galimany NPCNSP0
 Galindo Galindo NPCNSP0
+Galinsoga Galinsoga NPCNSP0
 Galinyà Galinyà NPCNSP0
 Galitó Galitó NPCNSP0
 Galià Galià NPCNSP0
