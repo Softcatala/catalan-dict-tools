@@ -3582,6 +3582,7 @@ Belabre Belabre NPCNSP0
 Belait Belait NPCSG00
 Belarta Belarta NPCSG00
 Belau Belau NPCNSP0
+Belbel Belbel NPCNSP0
 Belchite Belchite NPCSG00
 Belda Belda NPCNSP0
 Belfast Belfast NPCSG00
@@ -25911,6 +25912,7 @@ Vilapúdua Vilapúdua NPCNSP0
 Vilar Vilar NPCNSP0
 Vilar Vilar NPMSG00
 Vilaragut Vilaragut NPCNSP0
+Vilarasau Vilarasau NPCNSP0
 Vilarassau Vilarassau NPCNSP0
 Vilardaga Vilardaga NPCNSP0
 Vilardebò Vilardebò NPCNSP0

@@ -30262,6 +30262,7 @@ tecnicojurídic tecnicojurídica=categories: A;fonts: derivat;
 tecnicopedagògic tecnicopedagògica=categories: A;fonts: derivat;
 tecnicosanitari tecnicosanitària=categories: A;fonts: dsalut;
 tecnoalimentari tecnoalimentària=categories: A;fonts: dsalut;
+tecnocapitalista=categories: A;fonts: derivat;
 tecnocientífic -a=categories: A; fonts: termcat;
 tecnocràtic tecnocràtica=categories: A;fonts: LT;
 tecnodependent=categories: A;fonts: derivat;
