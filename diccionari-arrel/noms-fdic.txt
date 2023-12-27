@@ -66464,6 +66464,7 @@ postexposició=categories: F;fonts: LT;
 postfaci=categories: M;fonts: DDLC;
 postfeminisme=categories: M;fonts: derivat;
 postfranquisme=categories: M;fonts: LT;
+postgala=categories: F;fonts: derivat;
 postgastrectomia=categories: F;fonts: termcat;
 postglossador postglossadora=categories: MF;fonts: LT;
 postgraduat postgraduada=categories: MF;fonts: LT;
