@@ -25899,6 +25899,7 @@ dissimilació=categories: F;fonts: LT;
 dissimilitud=categories: F;fonts: LT;
 dissimulació=categories: F;fonts: LT;
 dissinergia=categories: F;fonts: dsalut;
+dissintonia=categories: F;fonts: wiktionary;
 dissipació=categories: F;fonts: LT;
 dissipador dissipadora=categories: MF;fonts LT;
 dissipat dissipada=categories: MF;fonts LT;
