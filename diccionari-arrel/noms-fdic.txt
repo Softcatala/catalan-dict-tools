@@ -72313,6 +72313,7 @@ rieral=categories: M;fonts: LT;
 rierany=categories: M;fonts: LT;
 rierol=categories: M;fonts: LT;
 rieró=categories: M;fonts: LT;
+riesling=categories: M;fonts: wiki;
 rifa=categories: F;fonts: LT;
 rifabutina=categories: F;fonts: dsalut;
 rifada=categories: F;fonts: LT;
