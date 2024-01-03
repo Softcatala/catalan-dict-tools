@@ -16711,6 +16711,7 @@ checkout [pl. checkouts]=categories: M;fonts: english;
 cheddar=categories: M;fonts: termcat;
 cheerleader=categories: F;fonts: anglès;
 chel·lià=categories: M;fonts: LT;
+chemtrail=categories: M;fonts: english;
 cherokee=categories: MF;fonts: termcat;
 chi [pl. chis]=categories: F;fonts: LT;
 chikungunya=categories: M;fonts: dsalut;
