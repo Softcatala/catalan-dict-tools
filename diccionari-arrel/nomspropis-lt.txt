@@ -6607,6 +6607,7 @@ Citera Citera NPCSG00
 Citoler Citoler NPCNSP0
 Citroën Citroën NPCNO00
 City City NPFSG00
+City City NPMSO00
 Ciuró Ciuró NPCNSP0
 Ciutadella Ciutadella NPFSG00
 Ciutadilla Ciutadilla NPFSG00
@@ -13811,6 +13812,7 @@ Lawrence Lawrence NPCNSP0
 Lawrence-Moon-Bield Lawrence-Moon-Bield NPCNSP0 # medical
 Laxou Laxou NPCSG00
 Layret Layret NPCNSP0
+Lazio Lazio NPCSO00
 LeVeen LeVeen NPCNSP0 # medical
 Lea Lea NPFSSP0
 Leandra Leandra NPFSSP0 # avl: noms de persona
