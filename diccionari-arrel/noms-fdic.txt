@@ -51275,6 +51275,7 @@ marcgravina=categories: F;fonts: LT;
 marcgraviàcia=categories: F;fonts: LT;
 marcialitat=categories: F;fonts: LT;
 marcianada=categories: F;fonts: derivat;
+marcianet=categories: M;fonts: diminutiu;
 marciment=categories: M;fonts: LT;
 marcionita=categories: MF;fonts: LT;
 marcià marciana=categories: MF;fonts LT;

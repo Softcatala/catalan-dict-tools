@@ -17635,6 +17635,7 @@ Níger Níger NPMSG00
 Níjar Níjar NPCSG00
 Nínive Nínive NPCSG00
 Níobe Níobe NPFSSP0
+Nóos Nóos NPMSO00
 Núbia Núbia NPFSG00
 Núria Núria NPFSSP0
 Núries Núria NPFPSP0
@@ -25139,6 +25140,7 @@ Urbasa Urbasa NPCSG00
 Urbino Urbino NPCSG00
 Urbà Urbà NPMSSP0
 Urchillo Urchillo NPCSG00
+Urdangarin Urdangarin NPCNSP0
 Urfa Urfa NPCSG00
 Urgell Urgell NPCNSP0
 Urgell Urgell NPMSG00
