@@ -3233,6 +3233,7 @@ Barberí Barberí NPCNSP0
 Barbeta Barbeta NPCNSP0
 Barbie Barbie NPFSSP0
 Barbies Barbie NPFPSP0
+Barbizon Barbizon NPCSG00
 Barbosa Barbosa NPCNSP0
 Barbuñales Barbuñales NPCSG00
 Barbí Barbí NPCNSP0
@@ -11336,6 +11337,7 @@ Gozón Gozón NPCSG00
 Gra Gra NPCSG00
 Graaf Graaf NPCNSP0 # medical
 Grabuac Grabuac NPCSG00
+Graceland Graceland NPCSG00
 Graciana Graciana NPFSSP0 # avl: noms de persona
 Gracians Gracià NPMPSP0
 Graciel·la Graciel·la NPFSSP0 # avl: noms de persona
@@ -11825,6 +11827,7 @@ Gürtel Gürtel NPCSO00
 Güímar Güímar NPCSG00
 H&S H&S NPCNO00
 HAL HAL NPMSSP0
+HEC HEC NPFSO00 # HEC Paris
 Haab Haab NPCNSP0 # medical
 Haapsalu Haapsalu NPCSG00
 Haarlem Haarlem NPCSG00
@@ -12429,6 +12432,7 @@ IFS IFS NPCNO00
 IJssel IJssel NPCSG00
 IMPIVA IMPIVA NPMSO00
 INE INE NPMSO00
+INSS INSS NPMSSP0
 IOC IOC NPMSO00
 IPCC IPCC NPCNO00
 IPSI IPSI NPCNSP0
@@ -21377,6 +21381,7 @@ Rubcovsk Rubcovsk NPCSG00
 Rubens Rubens NPCNSP0
 Rubera Rubera NPCNSP0
 Ruberts Ruberts NPCSG00
+Rubiales Rubiales NPCNSP0
 Rubials Rubials NPCSG00
 Rubicó Rubicó NPCSG00
 Rubies Rubies NPCNSP0
