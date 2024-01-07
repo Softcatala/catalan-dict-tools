@@ -23424,6 +23424,7 @@ Sulpici Sulpici NPMSSP0
 Sulpicis Sulpici NPMPSP0
 Sulpícia Sulpícia NPFSSP0 # avl: noms de persona
 Sulu Sulu NPCSG00
+Sulzberger Sulzberger NPCNSP0
 Sul·la Sul·la NPMSSP0 # avl: noms de persona
 Sumacàrcer Sumacàrcer NPCSG00
 Sumatra Sumatra NPCSG00
