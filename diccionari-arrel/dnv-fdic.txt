@@ -2202,7 +2202,6 @@ esfambrat -ada=categories: A;fonts: DNV;
 esfinterial=categories: A;fonts: DNV;
 esfàgnide=categories: F;fonts: DNV;
 esgarracimals=categories: M;fonts: DNV;
-esgarramantes=categories: AI;fonts: DNV;
 esgarranxós -osa=categories: A;fonts: DNV;
 esgarranyós -osa=categories: A;fonts: DNV;
 esglaiadís -issa=categories: A;fonts: DNV;

@@ -42446,7 +42446,6 @@ esfàgnide esfàgnide NCFS000
 esfàgnides esfàgnide NCFP000
 esgarracimals esgarracimals NCMS000
 esgarracimalsos esgarracimals NCMP000
-esgarramantes esgarramantes AQ0CN0
 esgarranxosa esgarranxós AQ0FS0
 esgarranxoses esgarranxós AQ0FP0
 esgarranxosos esgarranxós AQ0MP0

@@ -52514,6 +52514,7 @@ menter=categories: M;fonts: LT;
 mentetenc mentetenca=categories: MF;fonts: LT;
 mentida=categories: F;fonts: LT;
 mentider mentidera=categories: MF;fonts LT;
+mentideta=categories: F;fonts: diminutiu;
 mentira=categories: F;fonts: AVL;
 mentirola=categories: M;fonts: LT;
 mentironera=categories: F;fonts: LT;
