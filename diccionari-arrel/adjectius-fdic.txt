@@ -12,6 +12,7 @@
 #eret ereta=categories: A;fonts: LT; arcaisme, es confon amb érets
 #junior juniora=categories: A;fonts: LT;
 #jóc joca=categories: A;fonts: LT; molt poc usual
+#mirant=categories: A;fonts: LT; inusual, només en heràldica
 #nostras=categories: AI;fonts: dsalut;
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
 #pèlvic pèlvica=categories: A;fonts: LT;
@@ -20491,7 +20492,6 @@ mirallenc mirallenca=categories: A;fonts: LT;
 miramarí miramarina=categories: A;fonts: LT;
 mirambellà mirambellana=categories: A;fonts: LT;
 miranius=categories: AI;fonts: LT;
-mirant=categories: A;fonts: LT;
 miravetà miravetana=categories: A;fonts: LT;
 mirmecocor mirmecocora=categories: A;fonts: LT;
 mirmecòfag mirmecòfaga=categories: A;fonts: LT;
