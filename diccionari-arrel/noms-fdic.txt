@@ -83242,6 +83242,7 @@ ultramuntanisme=categories: M;fonts: LT;
 ultramuntà ultramuntana=categories: MF;fonts LT;
 ultranacionalisme=categories: M;fonts: LT;
 ultranacionalista=categories: MF;fonts: LT;
+ultranormativització=categories: F;fonts: derivat;
 ultrapassament=categories: M;fonts: LT;
 ultrapasteurització=categories: F;fonts: LT;
 ultraplàncton=categories: M;fonts: LT;
