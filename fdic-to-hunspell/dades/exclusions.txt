@@ -124,6 +124,7 @@ candida
 candides
 
 #EXCLOU LEMA DE TOTS
+taco
 mònic
 exprimir
 infermetat

@@ -78010,6 +78010,7 @@ tacatac=categories: M;fonts: LT;
 tacaé [pl. tacaés]=categories: M;fonts: LT;
 taciturnitat=categories: F;fonts: LT;
 tacnode=categories: M;fonts: LT;
+taco=categories: M;fonts: menjar mexicà, termcat;
 tacografia=categories: F;fonts: dsalut;
 tacograma=categories: M;fonts: dsalut;
 tacometria=categories: F;fonts: LT;
