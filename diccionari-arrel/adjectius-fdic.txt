@@ -14571,6 +14571,7 @@ gruixat gruixada=categories: A;fonts: LT;
 gruixut gruixuda [sup. gruixudíssim]=categories: A; font:apertium;
 grumollós grumollosa=categories: A;fonts: LT;
 grumós grumosa=categories: A;fonts: LT;
+grunge=categories: AI;fonts: english;
 grunyidor grunyidora=categories: A;fonts: LT;
 grupal=categories: A;fonts: LT;
 grupuscular=categories: A;fonts: LT;

@@ -6839,6 +6839,7 @@ Colaua Colaua NPFSSP0 # avl: noms de persona
 Colchester Colchester NPCSG00
 Colera Colera NPCNSP0
 Coleraine Coleraine NPCSG00
+Coleridge Coleridge NPCNSP0
 Colet Colet NPCNSP0
 Colgate Colgate NPCNO00
 Coli Coli NPCNSP0
@@ -8435,6 +8436,7 @@ Edfu Edfu NPCSG00
 Edgar Edgar NPMSSP0
 Edgars Edgar NPMPSP0
 Edge Edge NPCSG00
+Edgeworth Edgeworth NPCNSP0
 Edilbert Edilbert NPMSSP0
 Edilberts Edilbert NPMPSP0
 Edilburga Edilburga NPFSSP0
@@ -12907,6 +12909,7 @@ Jesualda Jesualda NPFSSP0 # avl: noms de persona
 Jesucrist Jesucrist NPMSSP0
 Jesusa Jesusa NPFSSP0 # avl: noms de persona
 Jesús Jesús NPMSSP0
+Jevons Jevons NPCNSP0
 Jevpatorija Jevpatorija NPCSG00
 Jezabel Jezabel NPFSSP0 # avl: noms de persona
 Jiamusi Jiamusi NPCSG00

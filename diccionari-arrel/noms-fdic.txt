@@ -40635,6 +40635,7 @@ grumet=categories: MF;fonts: LT;
 grumol=categories: M;fonts: LT;
 grumoll=categories: M;fonts: LT;
 grunerita=categories: F;fonts: LT;
+grunge=categories: MS;fonts: english;
 gruny=categories: M;fonts: LT;
 grunya=categories: F;fonts: LT;
 grunyit=categories: M;fonts: LT;
