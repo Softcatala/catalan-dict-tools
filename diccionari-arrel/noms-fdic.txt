@@ -70923,6 +70923,7 @@ reexportació=categories: F;fonts: LT;
 reexposició=categories: F;fonts: LT;
 reextradició=categories: F;fonts: termcat;
 refacció=categories: F;fonts: LT;
+refacturació=categories: F;fonts: LT;
 refametinib=categories: M;fonts: dsalut;
 refecció=categories: F;fonts: LT;
 refectori=categories: M;fonts: LT;

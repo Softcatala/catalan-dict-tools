@@ -8628,6 +8628,7 @@ reexportar=categories: V;model:cantar;fonts: LT;
 reexposar=categories: V;model:anquilosar;fonts: LT;
 reexpressar=categories: V;model:entravessar;fonts: LT;
 refactoritzar=categories: V;model:cantar;fonts: derivat;
+refacturar=categories: V;model:cantar;fonts: derivat;
 refaldar=categories: V;model:cantar;fonts: LT;
 refallar=categories: V;model:cantar;fonts: LT;
 refegir=categories: V;model:servir;fonts: LT;

@@ -4119,6 +4119,7 @@ Biddent Biddent NPCNSP0 # medical
 Bidell Bidell NPCNSP0
 Bidellet Bidellet NPCNSP0
 Biden Biden NPCNSP0
+Bieito Bieito NPCNSP0
 Biel Biel NPCSG00
 Bielchowsky Bielchowsky NPCNSP0 # medical
 Bielefeld Bielefeld NPCSG00
@@ -19792,6 +19793,7 @@ Profitós Profitós NPCNSP0
 Progressos Progrés NPMPSP0
 Progrés Progrés NPMSG00
 Progrés Progrés NPMSSP0
+Prohens Prohens NPCNSP0
 Prokopjevsk Prokopjevsk NPCSG00
 Prokófiev Prokófiev NPCNSP0
 Prome Prome NPCSG00
@@ -20387,6 +20389,7 @@ Radebeul Radebeul NPCSG00
 Radegunda Radegunda NPFSSP0
 Radegundes Radegunda NPFPSP0
 Radermercker Radermercker NPCNSP0 # medical
+Radetzky Radetzky NPCNSP0
 Rado Rado NPCNSP0
 Radom Radom NPCSG00
 Raduà Raduà NPCNSP0
