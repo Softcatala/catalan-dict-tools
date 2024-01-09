@@ -6658,6 +6658,7 @@ Claret Claret NPCSG00
 Clariac Clariac NPCNSP0
 Clariana Clariana NPCNSP0
 Clariana Clariana NPCSG00
+Claridge Claridge NPCNSP0
 Clarimon Clarimon NPCNSP0
 Claris Claris NPCNSP0
 Clarissa Clarissa NPFSSP0 # avl: noms de persona
