@@ -176,6 +176,7 @@
 #Raimond Raimond NPMSSP0 # avl: noms de persona
 #Raimund Raimund NPMSSP0 # avl: noms de persona
 #Refugi Refugi NPFSSP0 # avl: noms de persona
+#Reial Reial NPCNSP0
 #Reis Reis NPFSSP0 # avl: noms de persona
 #Rosana Rosana NPFSSP0 # avl: noms de persona
 #Rosari Rosari NPFSSP0 # avl: noms de persona
@@ -15620,6 +15621,7 @@ Mathura Mathura NPCSG00
 Maties Maties NPMPSP0
 Maties Maties NPMSSP0
 Matifoll Matifoll NPCNSP0
+Matignon Matignon NPCSG00
 Matilda Matilda NPFSSP0 # avl: noms de persona
 Matilde Matilde NPFSSP0
 Matildes Matilde NPFPSP0
@@ -20691,7 +20693,6 @@ Regí Regí NPCNSP0
 Rehoboth Rehoboth NPCSG00
 Rehovot Rehovot NPCSG00
 Rei Rei NPCNSP0
-Reial Reial NPCNSP0
 Reich Reich NPCSG00
 Reichenau Reichenau NPCSG00
 Reichstadt Reichstadt NPCSG00
