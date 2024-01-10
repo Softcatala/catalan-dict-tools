@@ -504,6 +504,7 @@ XML=categories: MI;fonts: termcat;
 XS=categories: FI;fonts: esadir;
 XSS=categories: MI;fonts: sigla;
 XXSS=categories: FP;fonts: esadir;
+ZBE=categories: FI;fonts: sigla;
 ZER=categories: FI;fonts: sigla, zona escolar rural;
 Zeitgeist=categories: MS;fonts: alemany;
 a [pl. as]=categories: F;fonts: LT;

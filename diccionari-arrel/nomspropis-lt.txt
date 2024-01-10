@@ -5567,7 +5567,7 @@ Canavelles Canavelles NPCSG00
 Canaveral Canaveral NPMSG00
 Canavese Canavese NPCSG00
 Canberra Canberra NPCSG00
-Cancun Cancun NPCSG00
+Cancún Cancún NPCSG00
 Candasnos Candasnos NPCSG00
 Candela Candela NPCNSP0
 Candelera Candelera NPFSSP0
