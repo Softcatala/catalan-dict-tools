@@ -20722,6 +20722,7 @@ Reiter Reiter NPCNSP0
 Reiter Reiter NPCNSP0 # medical
 Reixac Reixac NPCNSP0
 Reixac Reixac NPCSG00
+Reixos Reixos NPMPSP0
 Relat Relat NPCNSP0
 Rella Rella NPCNSP0
 Relleu Relleu NPCNSP0
@@ -22176,6 +22177,7 @@ Sardenya Sardenya NPFSG00
 Sardes Sardes NPCSG00
 Sardina Sardina NPCNSP0
 Sards Sards NPCNSP0
+Sardà Sardà NPCNSP0
 Sardí Sardí NPCNSP0
 Sardó Sardó NPCNSP0
 Sareb Sareb NPFSO00

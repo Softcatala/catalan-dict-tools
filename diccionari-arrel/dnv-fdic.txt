@@ -2831,7 +2831,6 @@ gorrita=categories: F;fonts: DNV;
 gorritó gorritona=categories: A;fonts: DNV;
 gorritó gorritona=categories: MF;fonts: DNV;
 gorritós -osa=categories: A;fonts: DNV;
-gorro=categories: M;fonts: DNV,col·loquial;
 gorronera=categories: F;fonts: DNV;
 gorró=categories: M;fonts: DNV;
 gotarrada=categories: F;fonts: DNV;

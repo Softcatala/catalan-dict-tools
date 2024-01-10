@@ -49221,11 +49221,9 @@ gorritosos gorritós AQ0MP0
 gorritó gorritó AQ0MS0
 gorritó gorritó NCMS000
 gorritós gorritós AQ0MS0
-gorro gorro NCMS000
 gorronera gorronera NCFS000
 gorroneres gorronera NCFP000
 gorrons gorró NCMP000
-gorros gorro NCMP000
 gorrín gorrinar VMIP1S0B
 gorró gorró NCMS000
 gotarrada gotarrada NCFS000
