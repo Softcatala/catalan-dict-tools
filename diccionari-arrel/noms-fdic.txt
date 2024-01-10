@@ -145,6 +145,7 @@
 #reena=categories: F;fonts: LT; arcaisme
 #refex de Grünfelder=categories: M;fonts: dsalut;
 #rehena=categories: F;fonts: LT; arcaisme
+#reial=categories: M;fonts: LT; inusual com a nom
 #reix=categories: F;fonts: LT; lletra hebrea
 #rexi=categories: F;fonts: dsalut;
 #rosina=categories: F;fonts: dsalut;
@@ -71173,7 +71174,6 @@ regúlid=categories: M;fonts: LT;
 rehabilitació=categories: F;fonts: LT;
 rehidratació=categories: F;fonts: LT;
 rei=categories: M;fonts: LT;
-reial=categories: M;fonts: LT;
 reialenc=categories: M;fonts: LT;
 reialesa=categories: F;fonts: LT;
 reialisme=categories: M;fonts: LT;
