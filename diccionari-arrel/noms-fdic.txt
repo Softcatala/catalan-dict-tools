@@ -39962,6 +39962,7 @@ goethita=categories: F;fonts: LT;
 gofrat=categories: M;fonts: LT;
 gofratge=categories: M;fonts: LT;
 gofre=categories: M;fonts: DNV;
+gofrera=categories: F;fonts: termcat;
 gogista=categories: MF;fonts: LT;
 gogó [pl. gogós]=categories: MF;fonts: DNV,esadir;
 goidèlic=categories: M;fonts: LT;

@@ -8095,6 +8095,7 @@ Djibouti Djibouti NPMSG00
 Djokovic Djokovic NPCNSP0
 Dmitri Dmitri NPMSSP0
 Dnipropetrovsk Dnipropetrovsk NPCSG00
+Dnipró Dnipró NPCSG00
 Dnièster Dnièster NPCSG00
 Dniéper Dniéper NPMSG00
 Dobrutja Dobrutja NPCSG00
@@ -13551,6 +13552,7 @@ Kunming Kunming NPCSG00
 Kuomintang Kuomintang NPMSO00
 Kuopio Kuopio NPCSG00
 Kupffer Kupffer NPCNSP0 # medical
+Kuprín Kuprín NPCNSP0
 Kura Kura NPCSG00
 Kurdistan Kurdistan NPMSG00
 Kurdufān Kurdufān NPCSG00
