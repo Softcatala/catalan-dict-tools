@@ -26213,6 +26213,7 @@ dolador doladora=categories: MF;fonts LT;
 doladura=categories: F;fonts: LT;
 dolarització=categories: F;fonts: obeno;
 dolasetró=categories: M;fonts: dsalut;
+dolceria=categories: F;fonts: DNV;
 dolcesa=categories: F;fonts: LT;
 dolceta=categories: F;fonts: LT;
 dolent dolenta=categories: MF;fonts LT;
