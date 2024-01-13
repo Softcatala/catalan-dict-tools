@@ -25164,6 +25164,7 @@ Urgenč Urgenč NPCSG00
 Urgés Urgés NPCNSP0
 Uri Uri NPCSG00
 Uriac Uriac NPCNSP0
+Uriach Uriach NPCNSP0
 Urich Urich NPCNSP0
 Uriel Uriel NPMSSP0
 Uries Uries NPMSSP0 # avl: noms de persona

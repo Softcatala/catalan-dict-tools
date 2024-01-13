@@ -321,6 +321,10 @@ cinquanta-una cinquanta-un DN0FP0
 cinquanta-vuit cinquanta-vuit DN0CP0
 cl cl NCMN000
 cm cm NCMN000
+collins collins I # vulgar
+collinsa collinsa I # vulgar
+collinses collinses I # vulgar
+collona collona I # vulgar
 com com CS
 com com PR000000
 com com PT000000
@@ -455,11 +459,15 @@ fasc fascicle Y
 febr febrer Y
 fig figura Y
 fins fins SPS00
+fole fole I # vulgar
+folis folis I # vulgar
 força força DI0CN0
 fot fot I
 fotre fotre I
+fotris fotris I # vulgar
 fra factura Y
 fres factura Y
+fótrins fótrins I # vulgar
 g g NCMN000
 gaire gaire DI0CS0
 gaire gaire PI0CS000
@@ -483,6 +491,7 @@ home home I
 hop hop I
 hosanna hosanna I
 hosp hospital Y
+hosti hosti I # vulgar
 huit huit DN0CP0
 huit-centes huit-cents DN0FP0
 huit-cents huit-cents DN0MP0
