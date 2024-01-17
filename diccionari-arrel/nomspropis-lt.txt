@@ -9407,6 +9407,7 @@ FARC FARC NPFPO00
 FBI FBI NPMSO00
 FCB FCB NPMSO00
 FCC FCC NPCSO00
+FDA FDA NPCNO00
 FDP FDP NPMSO00
 FEDAC FEDAC NPFSO00
 FEDER FEDER NPMNO00
@@ -11136,6 +11137,7 @@ Giuseppe Giuseppe NPMSSP0
 Givors Givors NPCSG00
 Gjirokaster Gjirokaster NPCSG00
 Gladis Gladis NPFSSP0 # avl: noms de persona
+Gladwell Gladwell NPCNSP0
 Glandon Glandon NPMSG00
 Glanzmann Glanzmann NPCNSP0 # medical
 Glarus Glarus NPCSG00
@@ -14908,6 +14910,7 @@ Malavila Malavila NPCNSP0
 Malawi Malawi NPCSG00
 Malbec Malbec NPCNSP0
 Malbosc Malbosc NPCNSP0
+Malcolm Malcolm NPMSSP0
 Maldives Maldives NPFPG00
 Maldonado Maldonado NPCNSP0
 Maldonado Maldonado NPCSG00
@@ -17660,9 +17663,11 @@ Nīmrūz Nīmrūz NPCSG00
 O'Brien O'Brien NPCNSP0
 O'Connor O'Connor NPCNSP0
 O'Donnell O'Donnell NPCNSP0
+O'Higgins O'Higgins NPCNSP0
 O'Neill O'Neill NPCNSP0
 O'Sullivan O'Sullivan NPCNSP0
 OAP OAP NPFSO00
+OBC OBC NPFSO00
 OCDE OCDE NPFSO00
 OCU OCU NPFSO00
 OECD OECD NPFSO00
