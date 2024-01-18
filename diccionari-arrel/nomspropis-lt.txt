@@ -10196,6 +10196,7 @@ Framis Framis NPCNSP0
 Franc Franc NPCNSP0
 Franc Franc NPMSSP0
 Franca Franca NPCSG00
+France-Presse France-Presse NPCNO00
 Francesc Francesc NPCNSP0
 Francesc Francesc NPMSSP0
 Francesca Francesc NPFSSP0
