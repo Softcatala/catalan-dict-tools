@@ -3426,6 +3426,7 @@ desmassificar=categories: V;model:trencar;fonts: derivat;
 desmaterialitzar=categories: V;model:cantar;fonts: LT;
 desmatricular=categories: V;model:cantar;fonts: derivat;
 desmaximitzar=categories: V;model:cantar;fonts: softcatala;
+desmedicalitzar=categories: V;model:cantar;fonts: derivat;
 desmembrar=categories: V;model:cantar;fonts: LT;
 desmemoriar=categories: V;model:crear;fonts: LT;
 desmemoriejar=categories: V;model:envejar;fonts: LT;

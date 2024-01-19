@@ -5133,6 +5133,7 @@ CDC CDC NPFSO00
 CDR CDR NPMNO00
 CDS CDS NPMSO00
 CDU CDU NPFSO00
+CEDA CEDA NPFSO00
 CEE CEE NPFSO00
 CEO CEO NPCNO00
 CEOE CEOE NPFSO00
@@ -5551,6 +5552,7 @@ Canalbona Canalbona NPCSG00
 Canalda Canalda NPCNSP0
 Canalda Canalda NPCSG00
 Canaleja Canaleja NPFSG00
+Canalejas Canalejas NPCNSP0
 Canaleta Canaleta NPFSG00
 Canaletes Canaletes NPCNSP0
 Canaletes Canaletes NPFPG00
@@ -10389,6 +10391,7 @@ Fussimany Fussimany NPCNSP0
 Fustaner Fustaner NPCNSP0
 Fustanyà Fustanyà NPCSG00
 Fuster Fuster NPCNSP0
+Futbolíssims Futbolíssims NPMPO00
 Futuna Futuna NPFSG00
 Fuxin Fuxin NPCSG00
 Fuzhou Fuzhou NPCSG00
@@ -12381,6 +12384,7 @@ Humilitat Humilitat NPFSSP0 # avl: noms de persona
 Humilià Humilià NPMSSP0 # avl: noms de persona
 Hummel Hummel NPCNSP0
 Hunan Hunan NPCSG00
+Hundertwasser Hundertwasser NPCNSP0
 Hunedoara Hunedoara NPCSG00
 Hunspell Hunspell NPCNO00
 Hunsrück Hunsrück NPCSG00
@@ -20338,6 +20342,7 @@ Quiriguá Quiriguá NPCSG00
 Quirillac Quirillac NPCNSP0
 Quirina Quirina NPFSSP0 # avl: noms de persona
 Quirins Quirí NPMPSP0
+Quiroga Quiroga NPCNSP0
 Quirze Quirze NPMSSP0
 Quirzes Quirze NPMPSP0
 Quirí Quirí NPMSSP0
@@ -21473,6 +21478,7 @@ Ruscino Ruscino NPCSG00
 Ruscla Ruscla NPCNSP0
 Ruse Ruse NPCSG00
 Rushdie Rushdie NPCNSP0
+Rusiñol Rusiñol NPCNSP0
 Ruskin Ruskin NPCNSP0
 Russafa Russafa NPCNSP0
 Russafa Russafa NPCSG00
