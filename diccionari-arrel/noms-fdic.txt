@@ -243,6 +243,7 @@ CIF=categories: MI;fonts: LT;
 CMC=categories: FI;fonts: dsalut;
 CMOS=categories: MI;fonts: termcat;
 CNAE=categories: FS;fonts: wiki;
+CO=categories: MFI;fonts: sigla, centre ocupacional, monòxid de carboni...;
 COVID-19=categories: FS;fonts: termcat;
 COVID=categories: FS;fonts: esadir;
 CO₂=categories: MS;fonts: simbol;
