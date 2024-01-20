@@ -17337,6 +17337,7 @@ Nevald Nevald NPMSSP0 # avl: noms de persona
 Nevers Nevers NPCNSP0
 Nevers Nevers NPMSG00
 Neves Neves NPCSG00
+Nevski Nevski NPCNSP0
 Nevà Nevà NPCSG00
 Newark Newark NPCSG00
 Newcastle Newcastle NPCSG00

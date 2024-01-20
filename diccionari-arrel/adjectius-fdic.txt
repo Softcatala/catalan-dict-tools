@@ -25966,6 +25966,7 @@ pseudomunicipal=categories: A;fonts: LT;
 pseudomèdic pseudomèdica=categories: A;fonts: dsalut;
 pseudomòrfic pseudomòrfica=categories: A;fonts: LT;
 pseudonatural=categories: A;fonts: LT;
+pseudopedagògic pseudopedagògica=categories: A;fonts: derivat;
 pseudoperípter pseudoperíptera=categories: A;fonts: LT;
 pseudoplacentari pseudoplacentària=categories: A;fonts: LT;
 pseudoproliferatiu pseudoproliferativa=categories: A;fonts: dsalut;
