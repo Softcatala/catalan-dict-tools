@@ -20250,6 +20250,7 @@ metòdic metòdica=categories: A;fonts: LT;
 metòpic metòpica=categories: A;fonts: LT;
 mexica=categories: A;fonts: LT;
 mexicà mexicana=categories: A;fonts: LT;
+mezzoforte=categories: AI;fonts: italià;
 meàtic meàtica=categories: A;fonts: dsalut;
 mia=categories: A;fonts: LT;
 miasmàtic miasmàtica=categories: A;fonts: LT;

@@ -1345,6 +1345,7 @@ Aljandar Aljandar NPCSG00
 Aljorf Aljorf NPCSG00
 Aljubarrota Aljubarrota NPCSG00
 Alkaid Alkaid NPCSG00
+Alkan Alkan NPCNSP0
 Alkmaar Alkmaar NPCSG00
 All All NPCSG00
 All-Star All-Star NPMSO00
@@ -11202,6 +11203,7 @@ Godofrè Godofrè NPMSSP0
 Godofré Godofrè NPMSSP0
 Godomà Godomà NPCNSP0
 Godori Godori NPCNSP0
+Godowsky Godowsky NPCNSP0
 Godoy Godoy NPCNSP0
 Godés Godés NPCNSP0
 Godó Godó NPCNSP0
@@ -20848,6 +20850,7 @@ Rialb Rialb NPCNSP0
 Rialb Rialb NPMSG00
 Rialbo Rialbo NPMSG00
 Rialp Rialp NPCSG00
+Rialto Rialto NPMSO00
 Riambau Riambau NPCNSP0
 Rianjo Rianjo NPCSG00
 Riart Riart NPCNSP0
