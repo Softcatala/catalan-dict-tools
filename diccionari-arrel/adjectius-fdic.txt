@@ -29567,6 +29567,7 @@ superalt superalta=categories: A;fonts: derivat;
 superamable=categories: A;fonts: derivat;
 superambiciós superambiciosa=categories: A;fonts: derivat;
 superamic superamiga=categories: A;fonts: derivat;
+superapassionant=categories: A;fonts: derivat;
 superat superada [sup. superadíssim]=categories: A;fonts: participi;
 superatent superatenta=categories: A;fonts: LT;
 superatractiu superatractiva=categories: A;fonts: derivat;
