@@ -8070,6 +8070,7 @@ preassignar=categories: V;model:cantar;fonts: LT;
 preavisar=categories: V;model:abalisar;fonts: LT;
 precalcular=categories: V;model:cantar;fonts: LT;
 precalfar=categories: V;model:cantar;fonts: derivat;
+precancel·lar=categories: V;model:anul·lar;fonts: derivat;
 precaritzar=categories: V;model:cantar;fonts: LT;
 precarregar=categories: V;model:pregar;fonts: LT;
 precaucionar=categories: V;model:cantar;fonts: LT;

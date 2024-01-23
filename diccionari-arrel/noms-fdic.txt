@@ -479,6 +479,7 @@ TdR=categories: MI;fonts: sigles (treball de recerca);
 Tedax=categories: MI;fonts: esadir;
 Tomatina=categories: F;fonts: AVL;
 Totpoderós=categories: MS;fonts: LT;
+Trecento=categories: MS;fonts: italià;
 UC=categories: FI;fonts: sigles diverses;
 UCI=categories: FI;fonts: esadir, termcat;
 UEC=categories: FI;fonts: sigal;
