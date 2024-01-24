@@ -16430,6 +16430,7 @@ Montaigne Montaigne NPCNSP0
 Montalat Montalat NPCNSP0
 Montalba Montalba NPCSG00
 Montalban Montalban NPCSG00
+Montalbano Montalbano NPCNSP0
 Montalbà Montalbà NPCNSP0
 Montalbà Montalbà NPCSG00
 Montalegre Montalegre NPCSG00
@@ -23473,10 +23474,12 @@ Sunyer Sunyer NPCNSP0
 Sunyer Sunyer NPCSG00
 Sunyol Sunyol NPCNSP0
 Super3 Super3 NPMSO00
+SuperCollider SuperCollider NPCNO00
 Superlliga Superlliga NPFSO00
 Superman Superman NPMSSP0
 Supermirafiori Supermirafiori NPCNO00
 Superna Superna NPCSG00
+Supernanny Supernanny NPFSSP0
 Supernena Supernena NPFSSP0
 Supernenes Supernena NPFPSP0
 Suquet Suquet NPCNSP0
