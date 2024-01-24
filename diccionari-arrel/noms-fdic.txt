@@ -77092,6 +77092,7 @@ subraça=categories: F;fonts: LT;
 subrectangle=categories: M;fonts: derivat;
 subrefredament=categories: M;fonts: LT;
 subregistre=categories: M;fonts: LT;
+subregla=categories: F;fonts: LT;
 subregne=categories: M;fonts: LT;
 subrem=categories: M;fonts: LT;
 subrepció=categories: F;fonts: LT;
