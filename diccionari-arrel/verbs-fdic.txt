@@ -697,6 +697,7 @@ antecedir=categories: V;model:servir;fonts: LT;
 antedatar=categories: V;model:cantar;fonts: LT;
 anteposar=categories: V;model:anquilosar;fonts: LT;
 anticipar=categories: V;model:cantar;fonts: LT;
+antologar=categories: V;model:pregar;fonts: derivat;
 antologitzar=categories: V;model:cantar;fonts: termcat;
 antropomorfitzar=categories: V;model:cantar;fonts: dfrequencies;
 antullar=categories: V;model:cantar;fonts: LT;

@@ -13736,6 +13736,7 @@ Landolfa Landolfa NPFSSP0 # avl: noms de persona
 Landshut Landshut NPCSG00
 Lanester Lanester NPCSG00
 Lanfranc Lanfranc NPMSSP0 # avl: noms de persona
+Langdon Langdon NPCNSP0
 Langer Langer NPCNSP0 # medical
 Langerhans Langerhans NPCNSP0 # medical
 Langers Langers NPCNSP0 # medical
