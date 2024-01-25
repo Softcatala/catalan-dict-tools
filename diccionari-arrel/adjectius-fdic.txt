@@ -12444,6 +12444,7 @@ extraplantar=categories: A;fonts: dsalut;
 extrapleural=categories: A;fonts: dsalut;
 extraplà extraplana=categories: A;fonts: LT;
 extrapolable=categories: A;fonts: LT;
+extrapolític extrapolítica=categories: A;fonts: derivat;
 extrapressupostari extrapressupostària=categories: A;fonts: LT;
 extraprocessal=categories: A;fonts: LT;
 extraprostàtic extraprostàtica=categories: A;fonts: dsalut;
