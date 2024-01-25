@@ -11897,6 +11897,7 @@ Hamman Hamman NPCNSP0 # medical
 Hamman-Rich Hamman-Rich NPCNSP0 # medical
 Hammond Hammond NPCSG00
 Hammurabi Hammurabi NPMSSP0
+Hampshire Hampshire NPCSG00
 Hampton Hampton NPCSG00
 Hamàs Hamàs NPFSO00
 Hamílcar Hamílcar NPMSSP0 # avl: noms de persona
@@ -12331,6 +12332,7 @@ Houellebecq Houellebecq NPCNSP0
 Houla Houla NPCSG00
 Houston Houston NPCSG00
 Hove Hove NPCSG00
+Hovedstaden Hovedstaden NPCSG0
 Howard Howard NPCNSP0
 Howrah Howrah NPCSG00
 Howship Howship NPCNSP0 # medical
