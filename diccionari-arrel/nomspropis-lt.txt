@@ -2676,6 +2676,7 @@ Atotxa Atotxa NPFSSP0 # avl: noms de persona
 Atrato Atrato NPCSG00
 Attigny Attigny NPCSG00
 Atwood Atwood NPCNSP0
+Atxaga Atxaga NPCNSP0
 Atxon Atxon NPCSG00
 Atyrau Atyrau NPCSG00
 Atzavares Atzavares NPFPG00
