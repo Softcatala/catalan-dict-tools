@@ -3286,6 +3286,7 @@ Barjau Barjau NPCNSP0
 Barjoan Barjoan NPCNSP0
 Barletta Barletta NPCSG00
 Barnac Barnac NPCNSP0
+Barnasants Barnasants NPMNO00
 Barnaul Barnaul NPCSG00
 Barnei Barnei NPCNSP0
 Barnet Barnet NPCSG00
@@ -13479,6 +13480,7 @@ Kolgujev Kolgujev NPCSG00
 Kolhāpur Kolhāpur NPCSG00
 Kolmogórov Kolmogórov NPCNSP0
 Kolontár Kolontár NPCSG00
+Kol·lontai Kol·lontai NPFPO00
 Kommunarsk Kommunarsk NPCSG00
 Komodo Komodo NPMSG00
 Komsomol's-na-Amur Komsomol's-na-Amur NPCSG00
@@ -15288,6 +15290,7 @@ Maristany Maristany NPCNSP0
 Maritain Maritain NPCNSP0
 Marivent Marivent NPCSG00
 Marià Marià NPMSSP0
+Mariïnski Mariïnski NPMSO00
 Mariúpol Mariúpol NPCSG00
 Marjal Marjal NPFSG00
 Marjuquera Marjuquera NPFSG00
