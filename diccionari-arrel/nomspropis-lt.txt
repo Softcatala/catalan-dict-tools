@@ -9416,6 +9416,7 @@ FDA FDA NPCNO00
 FDP FDP NPMSO00
 FEDAC FEDAC NPFSO00
 FEDER FEDER NPMNO00
+FEEC FEEC NPFSO00
 FEN FEN NPFSO00
 FEP FEP NPFSO00
 FGC FGC NPMPO00
@@ -10580,6 +10581,7 @@ Galotxer Galotxer NPCNSP0
 Gals Gal NPMPSP0
 Galter Galter NPMSSP0 # avl: noms de persona
 Galton Galton NPCNSP0 # medical
+Galtés Galtés NPCNSP0
 Galvani Galvani NPCNSP0
 Galvany Galvany NPCNSP0
 Gal·la Gal·la NPFSSP0
@@ -16869,6 +16871,7 @@ Moyle Moyle NPCSG00
 Mozart Mozart NPCNSP0
 Mozilla Mozilla NPCNO00
 Moçambic Moçambic NPMSG00
+Mtsensk Mtsensk NPCSG00
 Mtwara Mtwara NPCSG00
 MuVIM MuVIM NPMSO00
 Mualles Mualles NPCNSP0
