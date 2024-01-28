@@ -15154,6 +15154,7 @@ Maranjó Maranjó NPCNSP0
 Maranyà Maranyà NPCNSP0
 Marata Marata NPCNSP0
 Marata Marata NPCSG00
+Maravall Maravall NPCNSP0
 Marañón Marañón NPCSG00
 Marbella Marbella NPCSG00
 Marboré Marboré NPCSG00
@@ -22523,6 +22524,7 @@ Semproniana Semproniana NPFSSP0
 Sempronianes Semproniana NPFPSP0
 Sempronis Semproni NPMPSP0
 Semprònia Semprònia NPFSSP0 # avl: noms de persona
+Semprún Semprún NPCNSP0
 Semur-en-Auxois Semur-en-Auxois NPCSG00
 Semíramis Semíramis NPFSSP0 # avl: noms de persona
 Sena Sena NPCSG00

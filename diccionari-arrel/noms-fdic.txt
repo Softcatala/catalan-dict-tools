@@ -63223,6 +63223,7 @@ perilabirintitis=categories: FI;fonts: dsalut;
 perilimfa=categories: F;fonts: LT;
 perilimfoadenitis=categories: FI;fonts: dsalut;
 perill=categories: M;fonts: LT;
+perilla=categories: F;fonts: esadir, castellanisme;
 perillositat=categories: F;fonts: LT;
 perilè=categories: M;fonts: LT;
 perimeningitis=categories: FI;fonts: dsalut;
