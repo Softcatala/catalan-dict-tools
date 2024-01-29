@@ -11312,6 +11312,7 @@ Gorgònia Gorgònia NPFSSP0
 Gorgònies Gorgònia NPFPSP0
 Gori Gori NPMSSP0 # avl: noms de persona
 Gorina Gorina NPCNSP0
+Gorki Gorki NPCNSP0
 Gorlic Gorlic NPCNSP0
 Gornal Gornal NPCSG00
 Gornals Gornals NPCNSP0
@@ -11512,6 +11513,7 @@ Gros Gros NPCNSP0
 Grosset Grosset NPCNSP0
 Grosseto Grosseto NPCSG00
 Grossglockner Grossglockner NPCSG00
+Grossman Grossman NPCNSP0
 Grosz Grosz NPCNSP0
 Grotius Grotius NPMSSP0
 Grottaferrata Grottaferrata NPCSG00
@@ -17082,6 +17084,7 @@ Mülhausen Mülhausen NPCSG00
 Müller Müller NPCNSP0
 Münchhausen Münchhausen NPCNSP0
 Münster Münster NPCSG00
+Münzenberg Münzenberg NPCNSP0
 Mālegaon Mālegaon NPCSG00
 Māri Māri NPCSG00
 Mḗlos Mḗlos NPCSG00
@@ -26907,6 +26910,7 @@ Zimbàbue Zimbàbue NPCSG00
 Zimmerman Zimmerman NPCNSP0 # medical
 Zinder Zinder NPCSG00
 Zintan Zintan NPCSG00
+Zinóviev Zinóviev NPCNSP0
 Zita Zita NPFSSP0
 Zites Zita NPFPSP0
 Zittau Zittau NPCSG00
