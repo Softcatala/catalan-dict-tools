@@ -228,6 +228,7 @@ BTT=categories: MFI;fonts: termcat;
 Botox=categories: MS;fonts: LT;
 CA [pl. CCAA]=categories: F;fonts: esadir;
 CB=categories: MI;fonts: sigla;
+CCD=categories: MI;fonts: sigla;
 CD-ROM=categories: MI;fonts: LT;
 CD=categories: MI;fonts: LT;
 CDIAP=categories: MI;fonts: sigla;
