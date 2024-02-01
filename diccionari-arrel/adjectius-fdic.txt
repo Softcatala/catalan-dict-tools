@@ -28950,6 +28950,7 @@ siuranenc siuranenca=categories: A;fonts: LT;
 sixtí sixtina=categories: A;fonts: viquipedia;
 sizigial=categories: A;fonts: dsalut;
 siàlic siàlica=categories: A;fonts: LT;
+ska=categories: AI;fonts: termcat;
 skinhead=categories: AI;fonts: english;
 soanyès soanyesa=categories: A;fonts: LT;
 soberg soberga=categories: A;fonts: LT;

@@ -75966,6 +75966,7 @@ sivina=categories: F;fonts: LT;
 sizigi=categories: M;fonts: LT;
 sizofiran=categories: M;fonts: dsalut;
 sizígia=categories: F;fonts: LT;
+ska=categories: MS;fonts: esadir;
 skarn=categories: M;fonts: LT;
 skenitis=categories: FI;fonts: dsalut;
 skenoscopi=categories: M;fonts: dsalut;
