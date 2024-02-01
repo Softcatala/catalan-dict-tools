@@ -12781,6 +12781,7 @@ Iwakuni Iwakuni NPCSG00
 Iwo Iwo NPCSG00
 Ix Ix NPCSG00
 Ixena Ixena NPFSSP0 # avl: noms de persona
+Ixtar Ixtar NPFSSP0
 Izan Izan NPMSSP0
 Izmaïl Izmaïl NPCSG00
 Izoard Izoard NPCSG00

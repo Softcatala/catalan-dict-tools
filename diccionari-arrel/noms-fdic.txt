@@ -76887,6 +76887,7 @@ subcepció=categories: F;fonts: dsalut;
 subcinerici subcinerícia=categories: MF;fonts: LT;
 subclasse=categories: F;fonts: LT;
 subclassificació=categories: F;fonts: dsalut;
+subclima=categories: M;fonts: LT;
 subcomandant subcomandanta=categories: MF;fonts: LT;
 subcomarca=categories: F;fonts: LT;
 subcomissari subcomissària=categories: MF;fonts: derivat;
