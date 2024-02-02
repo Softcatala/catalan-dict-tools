@@ -8404,6 +8404,7 @@ autoconsum=categories: M;fonts: LT;
 autoconsumidor autoconsumidora=categories: MF;fonts: derivat;
 autocontenció=categories: F;fonts: LT;
 autocontracte=categories: M;fonts: LT;
+autocontradicció=categories: F;fonts: derivat;
 autocontrol=categories: M;fonts: LT;
 autoconvecció=categories: F;fonts: termcat;
 autocop=categories: M;fonts: LT;
