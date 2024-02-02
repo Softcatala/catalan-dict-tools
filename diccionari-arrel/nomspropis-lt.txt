@@ -1,4 +1,5 @@
 #Abram Abram NPMSSP0 # avl: noms de persona
+#Alarma Alarma NPCNSP0
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
 #Alegries Alegries NPFSSP0 # avl: noms de persona
@@ -905,7 +906,6 @@ Alardí Alardí NPCNSP0
 Alaric Alaric NPCNSP0
 Alarica Alarica NPFSSP0 # avl: noms de persona
 Alarió Alarió NPCNSP0
-Alarma Alarma NPCNSP0
 Alart Alart NPCNSP0
 Alarí Alarí NPCNSP0
 Alaró Alaró NPCSG00
@@ -13525,6 +13525,7 @@ Koubia Koubia NPCSG00
 Kouilou Kouilou NPCSG00
 Kourou Kourou NPCSG00
 Kouroussa Kouroussa NPCSG00
+Koussevitzky Koussevitzky NPCNSP0
 Kovrov Kovrov NPCSG00
 Kowloon Kowloon NPCSG00
 Kozara Kozara NPCSG00
@@ -24916,6 +24917,7 @@ Tunísia Tunísia NPFSG00
 Tur Tur NPCNSP0
 Tura Tura NPCNSP0
 Tura Tura NPCSG00
+Turangalila Turangalila NPFSO00
 Turballos Turballos NPCSG00
 Turbiàs Turbiàs NPCNSP0
 Turbiàs Turbiàs NPCSG00
