@@ -7598,6 +7598,7 @@ odorar=categories: V;model:cantar;fonts: LT;
 ofegar=categories: V;model:pregar;fonts: LT;
 ofendre=categories: V;model:ofendre;fonts: LT;
 oferir=categories: V;model:oferir;fonts: LT;
+ofertar=categories: V;model:cantar;fonts: DNV;
 oficialitzar=categories: V;model:cantar;fonts: LT;
 oficiar=categories: V;model:crear;fonts: LT;
 ofrenar=categories: V;model:ofrenar;fonts: LT;
