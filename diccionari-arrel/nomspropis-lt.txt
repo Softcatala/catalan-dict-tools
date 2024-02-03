@@ -6535,6 +6535,7 @@ CiU CiU NPFSO00
 Ciara Ciara NPFSSP0
 Ciares Ciara NPFPSP0
 Ciarraí Ciarraí NPCSG00
+Cicely Cicely NPCSG00
 Cicerons Ciceró NPMPSP0
 Ciceró Ciceró NPMSSP0
 Cici Cici NPMSSP0
@@ -9893,6 +9894,7 @@ Flavià Flavià NPCNSP0
 Flavià Flavià NPMSSP0
 Flaçà Flaçà NPCSG00
 Flegel Flegel NPCNSP0 # medical
+Fleischmann Fleischmann NPCNSP0
 Fleix Fleix NPCSG00
 Fleming Fleming NPCNSP0
 Flequer Flequer NPCNSP0
