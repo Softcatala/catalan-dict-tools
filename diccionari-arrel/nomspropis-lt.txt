@@ -6310,6 +6310,7 @@ Cep Cep NPCNSP0
 Cera Cera NPCNSP0
 Cerbi Cerbi NPCSG00
 Cerc Cerc NPCSG00
+Cercas Cercas NPCNSP0
 Cercaterm Cercaterm NPMSO00
 Cercavins Cercavins NPCNSP0
 Cercavins Cercavins NPMSG00
