@@ -11277,6 +11277,7 @@ Gonçaga Gonçaga NPFSSP0
 Gonçagues Gonçaga NPFPSP0
 Gonçal Gonçal NPMSSP0
 Gonçals Gonçal NPMPSP0
+Goodhart Goodhart NPCNSP0
 Goodman Goodman NPCNSP0
 Goodpasture Goodpasture NPCNSP0 # medical
 Google Google NPMSO00
@@ -26349,6 +26350,7 @@ W3C W3C NPMSO00
 Waal Waal NPCSG00
 Waalwijk Waalwijk NPCSG00
 Wabash Wabash NPCSG00
+Wachowski Wachowski NPCNSP0
 Waco Waco NPCSG00
 Wada Wada NPCNSP0
 Wada Wada NPCNSP0 # medical
