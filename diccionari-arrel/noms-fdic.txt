@@ -86918,3 +86918,6 @@ zúdnic=categories: M;fonts: LT;
 úter=categories: M;fonts: LT;
 úvea=categories: F;fonts: LT;
 úvula=categories: F;fonts: LT;
+pel·liculeta=categories: F;fonts: diminutiu;
+gólem=categories: M;fonts: termcat;
+tardocapitalisme=categories: M;fonts: termcat;

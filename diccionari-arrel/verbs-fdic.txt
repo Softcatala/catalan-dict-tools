@@ -1333,6 +1333,7 @@ beure=categories: V;model:beure;fonts: LT;
 bevotejar=categories: V;model:envejar;fonts: LT;
 bifurcar=categories: V;model:trencar;fonts: LT;
 bilabialitzar=categories: V;model:cantar;fonts: LT;
+bilingüitzar=categories: V;model:cantar;fonts: derivat;
 billonar=categories: V;model:cantar;fonts: LT;
 binar=categories: V;model:cantar;fonts: LT;
 bioacumular=categories: V;model:cantar;fonts: dsalut;
