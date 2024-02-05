@@ -118,6 +118,7 @@
 #Jun #Jun NPCNSP0 # medical
 #Laure Laure NPMSSP0 # avl: noms de persona
 #Llibre Llibre NPCNSP0
+#Lucia Lucia NPFSG00
 #Major Major NPMSSP0 # avl: noms de persona
 #Malic Malic NPMSSP0 # avl: noms de persona
 #Mar Mar NPFSSP0 # avl: noms de persona
@@ -2877,6 +2878,7 @@ Aškhabad Aškhabad NPCSG00
 BBC BBC NPFSO00
 BBVA BBVA NPMSO00
 BCE BCE NPMSO00
+BCI BCI NPFSO00
 BCN BCN NPFSG00
 BEA BEA NPMSO00
 BMW BMW NPCNO00
@@ -12459,10 +12461,12 @@ ICF ICF NPCSO00
 ICO ICO NPMSO00
 ICV ICV NPFSO00
 IEC IEC NPMSO00
+IESE IESE NPMSO00
 IFS IFS NPCNO00
 IJssel IJssel NPCSG00
 IMPIVA IMPIVA NPMSO00
 INE INE NPMSO00
+INEF INEF NPMSO00
 INSS INSS NPMSSP0
 IOC IOC NPMSO00
 IPCC IPCC NPCNO00
@@ -14578,7 +14582,6 @@ Lucentum Lucentum NPCSG00
 Lucera Lucera NPCSG00
 Lucerna Lucerna NPCSG00
 Luci Luci NPMSSP0 # avl: noms de persona
-Lucia Lucia NPFSG00
 Lucien Lucien NPMSSP0
 Lucil Lucil NPMSSP0
 Lucils Lucil NPMPSP0
@@ -16839,6 +16842,7 @@ Moscou Moscou NPCSG00
 Moscòvia Moscòvia NPCSG00
 Mosel·la Mosel·la NPCSG00
 Moser Moser NPCNSP0
+Mosin-Nagant Mosin-Nagant NPCNO00
 Moskva Moskva NPCSG00
 Mosoll Mosoll NPCNSP0
 Mosoll Mosoll NPCSG00
@@ -17102,6 +17106,7 @@ N'Gounié N'Gounié NPCSG00
 N'Zérékoré N'Zérékoré NPCSG00
 NASA NASA NPFSO00
 NBA NBA NPFSO00
+NKVD NKVD NPMSO00
 Naab Naab NPCSG00
 Naaman Naaman NPMSSP0 # avl: noms de persona
 Nabau Nabau NPCNSP0
