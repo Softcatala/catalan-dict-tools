@@ -21220,6 +21220,7 @@ Roixel·la Roixel·la NPFSG00
 Roja Roja NPCNSP0
 Rojalons Rojalons NPCSG00
 Rojals Rojals NPCNSP0
+Rojas-Marcos Rojas-Marcos NPCNSP0
 Rojava Rojava NPFSG00
 Rokitansky-Küster Rokitansky-Küster NPCNSP0 # medical
 Roland Roland NPMSSP0
@@ -22068,6 +22069,7 @@ Sanitges Sanitges NPCNSP0
 Sanitja Sanitja NPCNSP0
 Sanjosex Sanjosex NPMSSP0
 Sanjurjo Sanjurjo NPCNSP0
+Sanliurfa Sanliurfa NPCSG00
 Sanmatenga Sanmatenga NPCSG00
 Sannois Sannois NPCSG00
 Sanosa Sanosa NPCNSP0
@@ -22815,6 +22817,7 @@ Shanxi Shanxi NPCSG00
 Shaolin Shaolin NPCSG00
 Shaoxing Shaoxing NPCSG00
 Shaoyang Shaoyang NPCSG00
+Sharon Sharon NPFSSP0
 Sharpeville Sharpeville NPCSG00
 Shashi Shashi NPCSG00
 Shaw Shaw NPCNSP0
@@ -27189,6 +27192,7 @@ uTorrent uTorrent NPCNO00
 Ōtsu Ōtsu NPCSG00
 Świdnica Świdnica NPCSG00
 Świętochłowice Świętochłowice NPCSG00
+Şanlıurfa Şanlıurfa NPCSG00
 Šakhty Šakhty NPCSG00
 Šiauliai Šiauliai NPCSG00
 Šibenik Šibenik NPCSG00

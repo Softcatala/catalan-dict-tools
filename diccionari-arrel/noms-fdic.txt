@@ -34375,6 +34375,7 @@ exvicepresidenta=categories: F;fonts: LT;
 exvirrei=categories: M;fonts: LT;
 exvirreina=categories: F;fonts: LT;
 exvocal=categories: MF;fonts: LT;
+exvocalista=categories: MF;fonts: derivat;
 exvot=categories: M;fonts: LT;
 exvotant=categories: MF;fonts: derivat;
 exwaterpolista=categories: MF;fonts: LT;
