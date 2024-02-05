@@ -26639,6 +26639,7 @@ Xan Xan NPCSG00
 Xancó Xancó NPCNSP0
 Xandiera Xandiera NPCNSP0
 Xandiu Xandiu NPCNSP0
+Xandri Xandri NPCNSP0
 Xandó Xandó NPCNSP0
 Xantal Xantal NPFSSP0 # avl: noms de persona
 Xanten Xanten NPCSG00
@@ -27209,3 +27210,6 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+AELC AELC NPMSO00
+Intersindical-CSC Intersindical-CSC NPFSO00
+I-CSC I-CSC NPFSO00
