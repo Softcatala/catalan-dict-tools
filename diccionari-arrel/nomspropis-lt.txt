@@ -17,6 +17,7 @@
 #Angústies Angústies NPFSSP0 # avl: noms de persona
 #Antic Antic NPCNSP0
 #Antic Antic NPCSG00
+#Antony Antony NPCSG00
 #Ariana Ariana NPFSSP0 # avl: noms de persona
 #Arquímedes Arquímedes NPMSSP0 # avl: noms de persona
 #Audaç Audaç NPMSSP0 # avl: noms de persona
@@ -239,6 +240,7 @@ ACNUR ACNUR NPMSO00
 ACPV ACPV NPFSO00
 ADDA ADDA NPMSO00
 AEAT AEAT NPFSO00
+AELC AELC NPMSO00
 AEMET AEMET NPFSO00
 AENA AENA NPFSO00
 AGPL AGPL NPCNO00
@@ -1977,7 +1979,6 @@ Antonines Antonina NPFPSP0
 Antonins Antoní NPMPSP0
 Antonio Antonio NPMSSP0
 Antonis Antoni NPMPSP0
-Antony Antony NPCSG00
 Antoní Antoní NPMSSP0
 Antratsit Antratsit NPCSG00
 Antrim Antrim NPCSG00
@@ -10882,6 +10883,7 @@ Gelida Gelida NPCNSP0
 Gelida Gelida NPFSG00
 Gelimany Gelimany NPCNSP0
 Geliu Geliu NPCNSP0
+Gellner Gellner NPCNSP0
 Gelmar Gelmar NPCNSP0
 Gelmir Gelmir NPCNSP0
 Gelonch Gelonch NPCNSP0
@@ -12454,6 +12456,7 @@ Hódmezövásárhely Hódmezövásárhely NPCSG00
 Hölderlin Hölderlin NPCNSP0
 Hünner Hünner NPCNSP0 # medical
 Hürthle Hürthle NPCNSP0 # medical
+I-CSC I-CSC NPFSO00
 IBM IBM NPCNO00
 ICAB ICAB NPMSO00
 ICE ICE NPMSO00
@@ -12648,6 +12651,7 @@ Instagram Instagram NPMSO00
 Insula Insula NPFSG00
 Intermón Intermón NPMSO00
 Interpol Interpol NPFSO00
+Intersindical-CSC Intersindical-CSC NPFSO00
 Intibucá Intibucá NPCSG00
 Inverness Inverness NPCSG00
 Invisalign Invisalign NPCNO00
@@ -27124,6 +27128,7 @@ uTorrent uTorrent NPCNO00
 Étampes Étampes NPCSG00
 Étienne Étienne NPMSSP0
 Évol Évol NPCSG00
+Évole Évole NPCNSP0
 Évora Évora NPCSG00
 Évreux Évreux NPCNSP0
 Évreux Évreux NPCSG00
@@ -27210,6 +27215,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-AELC AELC NPMSO00
-Intersindical-CSC Intersindical-CSC NPFSO00
-I-CSC I-CSC NPFSO00
