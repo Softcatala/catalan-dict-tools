@@ -21551,6 +21551,7 @@ Ràfol Ràfol NPMSG00
 Ràfols Ràfols NPCNSP0
 Ràpita Ràpita NPFSG00
 Rába Rába NPCSG00
+Räikkönen Räikkönen NPCNSP0
 Rätikon Rätikon NPCSG00
 Règola Règola NPFSG00
 Règul Règul NPMSSP0
@@ -22387,6 +22388,7 @@ Schindler Schindler NPCNSP0
 Schio Schio NPCSG00
 Schiötz Schiötz NPCNSP0 # medical
 Schlegel Schlegel NPCNSP0
+Schlesinger Schlesinger NPCNSP0
 Schleswig-Holstein Schleswig-Holstein NPCSG00
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lanterman Schmidt-Lanterman NPCNSP0 # medical
@@ -22879,6 +22881,7 @@ Sidoni Sidoni NPMSSP0
 Sidonis Sidoni NPMPSP0
 Sidó Sidó NPCSG00
 Siebengebirge Siebengebirge NPCSG00
+Siebold Siebold NPCNSP0
 Siedlce Siedlce NPCSG00
 Siegburg Siegburg NPCSG00
 Siegen Siegen NPCSG00
