@@ -4200,6 +4200,7 @@ Biot Biot NPCNSP0
 Birak Birak NPCSG00
 Birba Birba NPCNO00
 Birbeck Birbeck NPCNSP0 # medical
+Birendranagar Birendranagar NPCSG00
 Birkenau Birkenau NPCSG00
 Birmingham Birmingham NPCSG00
 Birmània Birmània NPFSG00
@@ -12462,8 +12463,10 @@ ICAB ICAB NPMSO00
 ICE ICE NPMSO00
 ICF ICF NPCSO00
 ICO ICO NPMSO00
+ICTV ICTV NPMSO00
 ICV ICV NPFSO00
 IEC IEC NPMSO00
+IEEE IEEE NPCNO00
 IESE IESE NPMSO00
 IFS IFS NPCNO00
 IJssel IJssel NPCSG00
@@ -21025,6 +21028,7 @@ Ris-Orangis Ris-Orangis NPCSG00
 Risaralda Risaralda NPCSG00
 Risent Risent NPCNSP0
 Rishi Rishi NPMSSP0
+Rishpon Rishpon NPCSG00
 Risorgimento Risorgimento NPMSO00
 Rispa Rispa NPCNSP0
 Rispau Rispau NPCNSP0
@@ -21596,7 +21600,9 @@ SNP SNP NPMSO00
 SPD SPD NPMSO00
 SQLite SQLite NPCNO00
 SS SS NPCNO00
+STEI STEI NPMSO00
 STEPV STEPV NPMSO00
+SUVEC SUVEC NPMSO00
 Sa'da Sa'da NPCSG00
 Saale Saale NPCSG00
 Saane Saane NPCSG00
@@ -24291,6 +24297,7 @@ Timoteu Timoteu NPMSSP0
 Timoteus Timoteu NPMPSP0
 Timó Timó NPMSSP0 # avl: noms de persona
 Tina Tina NPFSSP0 # avl: noms de persona
+Tindari Tindari NPCSG00
 Tindouf Tindouf NPCSG00
 Tinel Tinel NPCNSP0 # medical
 Tineo Tineo NPCSG00

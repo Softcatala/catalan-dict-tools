@@ -3853,6 +3853,7 @@ autoexploratori autoexploratòria=categories: A;fonts: dsalut;
 autoexplosiu autoexplosiva=categories: A;fonts: LT;
 autoextingible=categories: A;fonts: LT;
 autoextraïble=categories: A;fonts: derivat;
+autofiltrant=categories: A;fonts: esadir;
 autofundent=categories: A;fonts: LT;
 autogen autògena=categories: A;fonts: LT;
 autogenètic autogenètica=categories: A;fonts: LT;
