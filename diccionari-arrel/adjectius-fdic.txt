@@ -3745,6 +3745,7 @@ audioprotètic audioprotètica=categories: A;fonts: dsalut;
 audiovisual=categories: A;fonts: LT;
 auditable=categories: A;fonts: termcat;
 auditiu auditiva=categories: A;fonts: LT;
+audiòfil audiòfila=categories: A;fonts: wiki;
 augmentable=categories: A;fonts: LT;
 augmentador augmentadora=categories: A;fonts: LT;
 augmentatiu augmentativa=categories: A;fonts: LT;

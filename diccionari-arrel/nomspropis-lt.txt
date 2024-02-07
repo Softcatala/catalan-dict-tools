@@ -6463,6 +6463,7 @@ Chester Chester NPCSG00
 Chesterfield Chesterfield NPCSG00
 Chesterton Chesterton NPCNSP0
 Chevrolet Chevrolet NPCNO00
+Chewbacca Chewbacca NPMSSP0
 Cheyenne Cheyenne NPCSG00
 Cheyne-Stokes Cheyne-Stokes NPCNSP0 # medical
 Chełm Chełm NPCSG00
@@ -7459,6 +7460,7 @@ Cros Cros NPMSG00
 Crosa Crosa NPCNSP0
 Croscat Croscat NPMSG00
 Croselles Croselles NPCNSP0
+Crosse Crosse NPCNSP0
 Crotona Crotona NPCSG00
 Crouzon Crouzon NPCNSP0 # medical
 Croydon Croydon NPCSG00
@@ -8334,6 +8336,7 @@ Durban Durban NPCSG00
 Durbau Durbau NPCNSP0
 Durell Durell NPCNSP0
 Durença Durença NPFSG00
+Durex Durex NPCNSP0
 Durfort Durfort NPCNSP0
 Durg Durg NPCSG00
 Durgapur Durgapur NPCSG00
@@ -10622,6 +10625,7 @@ Gamir Gamir NPCNSP0
 Gamirans Gamirans NPCNSP0
 Gamirà Gamirà NPCNSP0
 Gampaha Gampaha NPCSG00
+Gampola Gampola NPCSG00
 Gamstorp Gamstorp NPCNSP0 # medical
 Gamundí Gamundí NPCNSP0
 Gandak Gandak NPCSG00
@@ -19132,6 +19136,7 @@ Piccolomini Piccolomini NPCNSP0
 Pichincha Pichincha NPCSG00
 Pichu Pichu NPMSSP0
 Pick Pick NPCNSP0 # medical
+Pickwick Pickwick NPCNSP0
 Picola Picola NPCNSP0
 Picoll Picoll NPCNSP0
 Picontor Picontor NPCSG00
@@ -20948,6 +20953,7 @@ Ricort Ricort NPCNSP0
 Ricós Ricós NPCNSP0
 Ridaura Ridaura NPCNSP0
 Ridecós Ridecós NPCSG00
+Ridley Ridley NPCNSP0
 Riedel Riedel NPCNSP0 # medical
 Rieger Rieger NPCNSP0 # medical
 Riells Riells NPCNSP0
@@ -21013,6 +21019,7 @@ Riolano Riolano NPCNSP0 # medical
 Riols Riols NPCNSP0
 Riom Riom NPCSG00
 Rioni Rioni NPCSG00
+Ripley Ripley NPCNSP0
 Ripoll Ripoll NPCNSP0
 Ripoll Ripoll NPMSG00
 Ripollet Ripollet NPCSG00
@@ -23101,6 +23108,7 @@ Smith Smith NPCNSP0
 Smith-Robinson Smith-Robinson NPCNSP0 # medical
 Smolensk Smolensk NPCSG00
 Snake Snake NPCSG00
+Snape Snape NPCNSP0
 So So NPCNSP0
 Soanyes Soanyes NPCSG00
 Sobat Sobat NPCSG00
