@@ -8292,6 +8292,7 @@ Duat Duat NPCNSP0
 Dubai Dubai NPCSG00
 Dubin-Johnson Dubin-Johnson NPCNSP0 # medical
 Dublín Dublín NPMSG00
+Dubois Dubois NPCNSP0
 Dubrici Dubrici NPMSSP0
 Dubricis Dubrici NPMPSP0
 Dubrovnik Dubrovnik NPCSG00
@@ -8412,6 +8413,7 @@ ENAIRE ENAIRE NPCSO00
 ERC ERC NPFSO00
 ERPV ERPV NPFSO00
 ESA ESA NPFSO00
+ESADE ESADE NPCNO00
 ESMUC ESMUC NPFSO00
 ESO ESO NPFSO00
 ETA ETA NPFSO00
@@ -18897,6 +18899,7 @@ Pep Pep NPMSSP0
 Pepa Pepa NPFSSP0 # avl: noms de persona
 Pepell Pepell NPCNSP0
 Pepephone Pepephone NPCNO00
+Pepet Pepet NPMSSP0
 Pepió Pepió NPCNSP0
 Peps Pep NPMPSP0
 Pepsi Pepsi NPFSO00
@@ -20289,6 +20292,7 @@ Queckendstedt Queckendstedt NPCNSP0 # medical
 Queen Quenn NPCNO00
 Queens Queens NPCSG00
 Queensland Queensland NPCSG00
+Queenstown Queenstown NPCSG00
 Queiq Queiq NPCSG00
 Queirola Queirola NPFSG00
 Queixal Queixal NPCNSP0
