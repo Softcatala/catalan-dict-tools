@@ -11528,6 +11528,7 @@ Groenlàndia Groenlàndia NPFSG00
 Grogués Grogués NPCNSP0
 Groningen Groningen NPCSG00
 Grony Grony NPCNSP0
+Gropius Gropius NPCNSP0
 Gros Gros NPCNSP0
 Grosset Grosset NPCNSP0
 Grosseto Grosseto NPCSG00
@@ -15783,6 +15784,7 @@ McCartney McCartney NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
+McFadden McFadden NPCNSP0
 McGraw-Hill McGraw-Hill NPCNO00
 McKinley McKinley NPCSG00
 McLaren McLaren NPCNO00
