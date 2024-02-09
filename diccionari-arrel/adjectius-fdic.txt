@@ -33320,6 +33320,7 @@ zamorà zamorana=categories: A;fonts: LT;
 zanclià zancliana=categories: A;fonts: LT;
 zanzibarès zanzibaresa=categories: A;fonts: LT;
 zapatista=categories: A;fonts: derivat;
+zaplanista=categories: A;fonts: derivat;
 zapoteca=categories: A;fonts: LT;
 zebrat zebrada=categories: A;fonts: LT;
 zegrita=categories: A;fonts: LT;
