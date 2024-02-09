@@ -1114,6 +1114,7 @@ autocensurar=categories: V;model:cantar;fonts: LT;
 autocitar=categories: V;model:cantar;fonts: derivat;
 autocompadir=categories: V;model:servir;fonts: LT;
 autocontrolar=categories: V;model:cantar;fonts: LT;
+autocrear=categories: V;model:crear;fonts: LT;
 autocriticar=categories: V;model:trencar;fonts: LT;
 autodegradar=categories: V;model:cantar;fonts: DNV;
 autodenominar=categories: V;model:abominar;fonts: LT;
