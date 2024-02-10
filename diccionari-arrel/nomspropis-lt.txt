@@ -6557,6 +6557,7 @@ Cimino-Brescia Cimino-Brescia NPCNSP0 # medical
 Cinca Cinca NPCNSP0
 Cinca Cinca NPMSG00
 Cincelles Cincelles NPCSG00
+Cincinnat Cincinnat NPCNSP0
 Cincinnati Cincinnati NPCSG00
 Cinctorres Cinctorres NPCSG00
 Cingala Cingala NPCNSP0
@@ -9439,6 +9440,7 @@ FIAT FIAT NPFSO00
 FIBA FIBA NPFSO00
 FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00
+FITUR FITUR NPFSO00
 FMI FMI NPMSO00
 FNAC FNAC NPFSO00
 FNEC FNEC NPFSO00
@@ -9875,6 +9877,7 @@ Fita Fita NPCNSP0
 Fiter Fiter NPCNSP0
 Fiterol Fiterol NPCNSP0
 Fitor Fitor NPCSG00
+Fitur Fitur NPFSO00
 Fitzgerald Fitzgerald NPCNSP0
 Fitzroy Fitzroy NPCSG00
 Fitó Fitó NPCNSP0
@@ -11066,6 +11069,7 @@ Gilbover Gilbover NPCNSP0
 Gilda Gilda NPFSSP0 # avl: noms de persona
 Gilet Gilet NPCNSP0
 Gilet Gilet NPCSG00
+Gilgamesh Gilgamesh NPMSSP0
 Gili Gili NPCNSP0
 Gilirribó Gilirribó NPCNSP0
 Gilles Gilles NPCNSP0 # medical
@@ -12476,6 +12480,7 @@ ICV ICV NPFSO00
 IEC IEC NPMSO00
 IEEE IEEE NPCNO00
 IESE IESE NPMSO00
+IFEMA IFEMA NPFSO00
 IFS IFS NPCNO00
 IJssel IJssel NPCSG00
 IMPIVA IMPIVA NPMSO00
@@ -12557,6 +12562,7 @@ Ievgueni Ievgueni NPMSSP0
 Ievtuixenko Ievtuixenko NPMSSP0
 Ifac Ifac NPMSG00
 Ife Ife NPCSG00
+Ifema Ifema NPFSO00
 Ifigeni Ifigeni NPMSSP0 # avl: noms de persona
 Ifigènia Ifigènia NPFSSP0
 Ifigènies Ifigènia NPFPSP0
@@ -14534,6 +14540,7 @@ Lolita Lolita NPFSSP0
 Lolland Lolland NPCSG00
 Lomami Lomami NPCSG00
 Lombarde Lombarde NPFSG00
+Lombardi Lombardi NPCNSP0
 Lomme Lomme NPCSG00
 Lomond Lomond NPCSG00
 Lomé Lomé NPCSG00
@@ -21162,6 +21169,7 @@ Rocati Rocati NPCNSP0
 Rocavella Rocavella NPCSG00
 Rocciamelone Rocciamelone NPCSG00
 Rocha Rocha NPCSG00
+Rochambeau Rochambeau NPCNSP0
 Rochdale Rochdale NPCSG00
 Roche Roche NPCNO00
 Roche-sur-Yon Roche-sur-Yon NPFSG00

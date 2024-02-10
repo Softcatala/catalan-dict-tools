@@ -3941,6 +3941,7 @@ autoregressiu autoregressiva=categories: A;fonts: LT;
 autoregulable=categories: A;fonts: LT;
 autoregulador autoreguladora=categories: A;fonts: LT;
 autoreparable=categories: A;fonts: derivat;
+autoreproductor autoreproductora=categories: A;fonts: derivat;
 autoresponsable=categories: A;fonts: dsalut;
 autoretort autoretorta=categories: A;fonts: LT;
 autoretorçat autoretorçada=categories: A;fonts: LT;
