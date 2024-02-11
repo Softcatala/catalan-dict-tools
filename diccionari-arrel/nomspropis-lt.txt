@@ -4589,6 +4589,7 @@ Boris Boris NPMPSP0
 Boris Boris NPMSSP0
 Borissov Borissov NPCSG00
 Borja Borja NPCNSP0
+Borja-Llançol Borja-Llançol NPCNSP0
 Borjons Borjons NPCNSP0
 Borkou Borkou NPCSG00
 Bornemisza Bornemisza NPCNSP0
@@ -5158,6 +5159,7 @@ COETTC COETTC NPMSO00
 COI COI NPMSO00
 COPE COPE NPFSO00
 COU COU NPMSO00
+CPE CPE NPCNO00
 CPNL CPNL NPMNO00
 CSIC CSIC NPMSO00
 CSIF CSIF NPCSO00
@@ -14598,6 +14600,7 @@ Lublín Lublín NPCSG00
 Lubombo Lubombo NPCSG00
 Lubumbashi Lubumbashi NPCSG00
 Luc'k Luc'k NPCSG00
+Luca Luca NPCNSP0
 Lucana Lucana NPFSSP0 # avl: noms de persona
 Lucca Lucca NPCSG00
 Lucentum Lucentum NPCSG00
@@ -26554,6 +26557,7 @@ Wilfreda Wilfreda NPFSSP0 # avl: noms de persona
 Wilhelm Wilhelm NPMSSP0
 Wilhelmshaven Wilhelmshaven NPCSG00
 Wilkes-Barre Wilkes-Barre NPCSG00
+Will Will NPCNSP0
 Willebrand Willebrand NPCNSP0
 Willebrand Willebrand NPCNSP0 # medical
 Willemstad Willemstad NPCSG00
@@ -26564,6 +26568,7 @@ William William NPMSSP0
 Williams Williams NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0 # medical
+Williamson Williamson NPCNSP0
 Wilma Wilma NPFSSP0
 Wilmersdorf Wilmersdorf NPCSG00
 Wilmington Wilmington NPCSG00

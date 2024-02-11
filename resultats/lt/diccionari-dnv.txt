@@ -69319,9 +69319,6 @@ setantó setantó AQ0MS0
 setantó setantó NCMS000
 setembral setembral AQ0CS0
 setembrals setembral AQ0CP0
-sex-appeal sex-appeal NCMS000
-sex-symbol sex-symbol NCCS000
-sex-symbols sex-symbol NCCP000
 sexador sexador NCMS000
 sexadora sexador NCFS000
 sexadores sexador NCFP000
