@@ -11421,6 +11421,7 @@ espanyolitzador -a=categories: A;fonts: derivat;
 espaordible=categories: A;fonts: LT;
 espaordidor espaordidora=categories: A;fonts: LT;
 espaordit espaordida [sup. espaordidíssim]=categories: A; font:apertium;
+espardalitzat -ada=categories: A;fonts: DNV;
 esparreguerí esparreguerina=categories: A;fonts: LT;
 espars esparsa=categories: A;fonts: LT;
 espartaquista=categories: A;fonts: LT;

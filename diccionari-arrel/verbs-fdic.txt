@@ -5619,6 +5619,7 @@ espantar=categories: V;model:cantar;fonts: LT;
 espanyar=categories: V;model:cantar;fonts: LT;
 espanyolitzar=categories: V;model:cantar;fonts: LT;
 espaordir=categories: V;model:servir;fonts: LT;
+espardalitzar=categories: V;model:cantar;fonts: DNV;
 espargir=categories: V;model:servir;fonts: LT;
 esparpallar=categories: V;model:cantar;fonts: LT;
 esparpellar=categories: V;model:cantar;fonts: LT;

@@ -31615,6 +31615,7 @@ espardenyada=categories: F;fonts: LT;
 espardenyer espardenyera=categories: MF;fonts LT;
 espardenyeria=categories: F;fonts: LT;
 espardenyeta=categories: F;fonts: LT;
+espardenyà [pl. espardenyaes]=categories: F;fonts: DNV,col·loquial;
 espareguera=categories: F;fonts: LT;
 esparfloxacina=categories: F;fonts: dsalut;
 esparga=categories: F;fonts: LT;
