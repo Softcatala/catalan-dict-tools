@@ -3509,6 +3509,7 @@ Baulí Baulí NPCNSP0
 Bauló Bauló NPCNSP0
 Baura Baura NPCNSP0
 Bausen Bausen NPCSG00
+Bausset Bausset NPCNSP0
 Bauçà Bauçà NPCNSP0
 Baviera Baviera NPFSG00
 Bavià Bavià NPCNSP0
@@ -10364,6 +10365,7 @@ Fuchs Fuchs NPCNSP0 # medical
 Fuchū Fuchū NPCSG00
 Fuengirola Fuengirola NPCSG00
 Fuenlabrada Fuenlabrada NPCSG00
+Fuensalida Fuensalida NPCSG00
 Fuente Fuente NPCSG00
 Fuenterrobles Fuenterrobles NPCSG00
 Fuerteventura Fuerteventura NPCSG00
@@ -19301,6 +19303,7 @@ Pisà Pisà NPCNSP0
 Pisístrat Pisístrat NPMSSP0 # avl: noms de persona
 Pita Pita NPCSG00
 Pitarc Pitarc NPCNSP0
+Pitarch Pitarch NPCNSP0
 Pitarra Pitarra NPCNSP0
 Pitart Pitart NPCNSP0
 Pitcairn Pitcairn NPCSG00
