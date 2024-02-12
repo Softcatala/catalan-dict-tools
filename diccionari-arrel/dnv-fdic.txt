@@ -4541,7 +4541,6 @@ preescriptura=categories: F;fonts: DNV;
 preforma=categories: F;fonts: DNV;
 preglacial=categories: A;fonts: DNV;
 pregravació=categories: F;fonts: DNV;
-pregravar=categories: V;model:cantar;fonts: DNV;
 preguisat -ada=categories: A;fonts: DNV;
 preinserció=categories: F;fonts: DNV;
 preixenaire=categories: A;fonts: DNV;
