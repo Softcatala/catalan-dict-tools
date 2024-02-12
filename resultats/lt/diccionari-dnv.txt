@@ -69961,8 +69961,6 @@ sovietitzésseu sovietitzar VMSI2P05
 sovietitzéssim sovietitzar VMSI1P02
 sovietitzéssiu sovietitzar VMSI2P02
 sovietitzí sovietitzar VMIS1S00
-stripper stripper NCMS000
-strippers stripper NCMP000
 subacidesa subacidesa NCFS000
 subacideses subacidesa NCFP000
 subauricular subauricular AQ0CS0

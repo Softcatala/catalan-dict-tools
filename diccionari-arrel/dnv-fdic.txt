@@ -5234,7 +5234,6 @@ soto=categories: M;fonts: DNV;
 sotsbatle=categories: M;fonts: DNV;
 sovietització=categories: F;fonts: DNV;
 sovietitzar=categories: V;model:cantar;fonts: DNV;
-stripper=categories: M;fonts: DNV,anglès;
 subacidesa=categories: F;fonts: DNV;
 subauricular=categories: A;fonts: DNV;
 suberificar=categories: V;model:trencar;fonts: DNV;
