@@ -7788,7 +7788,7 @@ Darfur Darfur NPCSG00
 Dari Dari NPMSSP0 # avl: noms de persona
 Daria Daria NPFSSP0 # avl: noms de persona
 Darier Darier NPCNSP0 # medical
-Darién Darién NPCSG00
+Darién Darién NPMSG00
 Darjeeling Darjeeling NPCSG00
 Darling Darling NPCNSP0
 Darling Darling NPCSG00
@@ -9624,6 +9624,7 @@ Febró Febró NPFSG00
 Fecsa Fecsa NPFSO00
 Fedavella Fedavella NPCNSP0
 Fede Fede NPCNSP0 # medical
+Fedea Fedea NPFSO00
 Fedelic Fedelic NPCNSP0
 Fedora Fedora NPCNO00
 Fedora Fedora NPFSSP0
