@@ -11988,6 +11988,7 @@ Haspengouw Haspengouw NPCSG00
 Hassan Hassan NPMSSP0 # avl: noms de persona
 Hastings Hastings NPCSG00
 Hasél Hasél NPCNSP0
+Hatay Hatay NPCSG00 # Turquia
 Hatxepsut Hatxepsut NPFSSP0
 Haut-Folin Haut-Folin NPCSG00
 Hauteville Hauteville NPCNSP0

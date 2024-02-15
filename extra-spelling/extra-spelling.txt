@@ -261337,7 +261337,6 @@ tintar-los
 tintar-ne
 tintar-nos
 tintar-se
-tin-te
 t'integra
 t'integrarà
 t'integraran
@@ -261348,7 +261347,6 @@ t'integres
 t'integressis
 t'integri
 t'integris
-tin-te'n
 t'intensificarem
 t'intent
 t'intenta
