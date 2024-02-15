@@ -78971,6 +78971,7 @@ tecnoagricultura=categories: FS;fonts: derivat;
 tecnocausi=categories: F;fonts: dsalut;
 tecnociència=categories: F;fonts: viquipedia;
 tecnocràcia=categories: F;fonts: LT;
+tecnocultura=categories: F;fonts: termcat;
 tecnodependència=categories: F;fonts: derivat;
 tecnoeducació=categories: FS;fonts: derivat;
 tecnoestructura=categories: F;fonts: LT;
