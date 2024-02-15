@@ -21068,6 +21068,8 @@ Risto Risto NPCNSP0
 Rita Rita NPFSSP0
 Rites Rita NPFPSP0
 Ritort Ritort NPMSG00
+Ritz Ritz NPCNSP0
+Ritz-Carlton Ritz-Carlton NPCNO00
 Riu Riu NPCNSP0
 Riubregós Riubregós NPCSG00
 Riubrogent Riubrogent NPCNSP0
