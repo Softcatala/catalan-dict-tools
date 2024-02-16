@@ -9731,6 +9731,7 @@ Ferrara Ferrara NPCSG00
 Ferrari Ferrari NPCNSP0
 Ferrater Ferrater NPCNSP0
 Ferratges Ferratges NPCNSP0
+Ferraz Ferraz NPCNSP0
 Ferre Ferre NPCNSP0
 Ferreny Ferreny NPCNSP0
 Ferreol Ferreol NPCNSP0
