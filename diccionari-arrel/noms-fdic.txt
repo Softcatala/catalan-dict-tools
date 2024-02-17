@@ -314,6 +314,7 @@ FTP=categories: MI;fonts: termcat;
 GPS=categories: MI;fonts: LT;
 GR=categories: MI;fonts: sigla;
 Generalitat=categories: F;fonts: LT;
+Gesamtkunstwerk=categories: FS;fonts: German;
 H1N1=categories: MFI;fonts: termcat;
 H5N1=categories: MI;fonts: esadir, sigla;
 H5N6=categories: MI;fonts: esadir, sigla;

@@ -6400,6 +6400,7 @@ Chalossa Chalossa NPCSG00
 Chaman Chaman NPCSG00
 Chamberlain Chamberlain NPCNSP0 # medical
 Chambéry Chambéry NPCSG00
+Chamfort Chamfort NPCNSP0
 Chamonix-Mont-Blanc Chamonix-Mont-Blanc NPCSG00
 Chamorro Chamorro NPCNSP0
 Champagnat Champagnat NPCNSP0
@@ -13340,6 +13341,7 @@ Kart Kart NPCNSP0
 Kartagener Kartagener NPCNSP0 # medical
 Karun Karun NPCSG00
 Karviná Karviná NPCSG00
+Karà-Murzà Karà-Murzà NPCNSP0
 Karènina Karènina NPFSSP0
 Karāchi Karāchi NPCSG00
 Karši Karši NPCSG00
@@ -23117,6 +23119,7 @@ Skene Skene NPCNSP0 # medical
 Skinner Skinner NPCNSP0
 Skopje Skopje NPCSG00
 Skriabin Skriabin NPCNSP0
+Skripal Skripal NPCNSP0
 Skype Skype NPMSO00
 Skyros Skyros NPCSG00
 Skòpelos Skòpelos NPCSG00
