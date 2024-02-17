@@ -12513,7 +12513,9 @@ IVAP IVAP NPMSO00
 Iago Iago NPMSSP0 # avl: noms de persona
 Iaiza Iaiza NPFSSP0 # avl: noms de persona
 Ialta Ialta NPCSG00
+Iamalo-Nènets Iamalo-Nènets NPCSG00
 Iammo Iammo NPCSG00
+Iamàlia Iamàlia NPFSG00
 Ian Ian NPMSSP0
 Iang-Tsé Iang-Tsé NPCSG00
 Ianukóvitx Ianukóvitx NPCNSP0
@@ -17651,7 +17653,7 @@ Novokuzneck Novokuzneck NPCSG00
 Novomoskovsk Novomoskovsk NPCSG00
 Novorossijsk Novorossijsk NPCSG00
 Novorossisk Novorossisk NPCSG00
-Novosibirsk Novosibirsk NPCSG00
+Novossibirsk Novossibirsk NPCSG00
 Novočerkassk Novočerkassk NPCSG00
 Novošakhtinsk Novošakhtinsk NPCSG00
 Novska Novska NPCSG00
@@ -23705,6 +23707,7 @@ TAC TAC NPCNO00
 TC TC NPMSO00
 TEDH TEDH NPMSO00
 TGUE TGUE NPMSO00
+TGV TGV NPMNO00
 TJUE TJUE NPMSO00
 TMB TMB NPMPO00
 TNC TNC NPMSO00
