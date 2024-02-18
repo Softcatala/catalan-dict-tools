@@ -7456,6 +7456,7 @@ multicopiar=categories: V;model:crear;fonts: LT;
 multiplexar=categories: V;model:cantar;fonts: LT;
 multiplicar=categories: V;model:trencar;fonts: LT;
 mundar=categories: V;model:cantar;fonts: LT;
+mundialitzar=categories: V;model:cantar;fonts: DNV;
 mundificar=categories: V;model:trencar;fonts: LT;
 municionar=categories: V;model:cantar;fonts: LT;
 municipalitzar=categories: V;model:cantar;fonts: LT;
