@@ -2599,6 +2599,7 @@ Aspró Aspró NPCNSP0
 Assagra Assagra NPCSG00
 Assam Assam NPMSG00
 Assan Assan NPMSSP0 # avl: noms de persona
+Assange Assange NPCNSP0
 Assen Assen NPCSG00
 Assenci Assenci NPMSSP0 # avl: noms de persona
 Assenç Assenç NPMSSP0 # avl: noms de persona
@@ -5830,6 +5831,7 @@ Carlit Carlit NPMSG00
 Carlota Carlota NPFSSP0
 Carlotes Carlota NPFPSP0
 Carlow Carlow NPCSG00
+Carlson Carlson NPCNSP0
 Carluset Carluset NPCNSP0
 Carlyle Carlyle NPCNSP0
 Carmanh Carmanh NPCSG00
@@ -6744,6 +6746,7 @@ Cliceris Cliceri NPMPSP0
 Clichy Clichy NPCSG00
 Clichy-sous-Bois Clichy-sous-Bois NPCSG00
 Clickedu Clickedu NPMSO00
+Clifford Clifford NPCNSP0Gràcies
 Climent Climent NPCNSP0
 Climent Climent NPMSSP0
 Climents Climent NPMPSP0
@@ -12521,6 +12524,7 @@ Iamàlia Iamàlia NPFSG00
 Ian Ian NPMSSP0
 Iang-Tsé Iang-Tsé NPCSG00
 Ianukóvitx Ianukóvitx NPCNSP0
+Iaroslav Iaroslav NPMSSP0
 Iasmina Iasmina NPFSSP0 # avl: noms de persona
 Iaşi Iaşi NPCSG00
 Ibadan Ibadan NPCSG00
@@ -14151,7 +14155,7 @@ Livermore Livermore NPCNG00
 Liverpool Liverpool NPCSG00
 Livi Livi NPMSSP0 # avl: noms de persona
 Livingston Livingston NPCSG00
-Livingstone Livingstone NPCSG00
+Livingstone Livingstone NPCNSP00
 Livorno Livorno NPCSG00
 Livry-Gargan Livry-Gargan NPCSG00
 Livònia Livònia NPFSG00
@@ -21120,6 +21124,7 @@ Rivoli Rivoli NPCSG00
 Rixart Rixart NPCNSP0
 Rià Rià NPCNSP0
 Rià Rià NPCSG00
+Riúrik Riúrik NPMSSP0
 Ro Ro NPCSG00
 Roaia Roaia NPCSG00
 Roanne Roanne NPCSG00
@@ -21618,6 +21623,7 @@ Ròvol Ròvol NPMSG00
 Ródtxenko Ródtxenko NPCNSP0
 Róizman Róizman NPMSSP0
 Rúbies Rúbies NPCSG00
+Rúrik Rúrik NPMSSP0
 Rússia Rússia NPFSG00
 Rügen Rügen NPCSG00
 Rājahmundry Rājahmundry NPCSG00
