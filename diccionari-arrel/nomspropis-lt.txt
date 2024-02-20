@@ -2348,6 +2348,7 @@ Armanda Armanda NPFSSP0 # avl: noms de persona
 Armandell Armandell NPCNSP0
 Armands Armand NPMPSP0
 Armanello Armanello NPCSG00
+Armani Armani NPCNSP0
 Armanyac Armanyac NPCNSP0
 Armanyac Armanyac NPMSG00
 Armanyà Armanyà NPCNSP0
