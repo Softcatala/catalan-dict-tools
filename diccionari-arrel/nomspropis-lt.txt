@@ -4924,6 +4924,7 @@ Brunells Brunells NPCNSP0
 Bruner Bruner NPCNSP0
 Brunes Brunes NPCNSP0
 Brunet Brunet NPCNSP0
+Brunete Brunete NPCSG00
 Brunilda Brunilda NPFSSP0 # avl: noms de persona
 Bruniquell Bruniquell NPCNSP0
 Bruniquer Bruniquer NPCNSP0
@@ -7435,6 +7436,7 @@ Crispí Crispí NPCNSP0
 Crispí Crispí NPMSSP0
 Crist Crist NPMSSP0 # avl: noms de persona
 Crista Crista NPFSSP0 # avl: noms de persona
+Cristancho Cristancho NPCNSP0
 Cristeta Cristeta NPFSSP0
 Cristetes Cristeta NPFPSP0
 Cristian Cristian NPMSSP0
@@ -7965,6 +7967,7 @@ Derbent Derbent NPCSG00
 Derbi Derbi NPMNO00
 Derby Derby NPCSG00
 Dercum Dercum NPCNSP0 # medical
+Derek Derek NPMSSP0
 Derna Derna NPCSG00
 Derner Derner NPCNSP0
 Derqui Derqui NPCNSP0
@@ -9260,6 +9263,7 @@ Etiòpia Etiòpia NPFSG00
 Etna Etna NPFSG00
 Etrúria Etrúria NPFSG00
 Etterbeek Etterbeek NPCSG00
+Etèocles Etèocles NPMSSP0
 Etèria Etèria NPFSSP0
 Etèries Etèria NPFPSP0
 Etòlia Etòlia NPFSG00
@@ -12327,6 +12331,7 @@ Honshu Honshu NPCSG00
 Honshū Honshū NPCSG00
 Honòria Honòria NPFSSP0 # avl: noms de persona
 Hooghly Hooghly NPCSG00
+Hooke Hooke NPCNSP0
 Hoover Hoover NPCNSP0
 Hopkins Hopkins NPCNSP0
 Hopkins-Cole Hopkins-Cole NPCNSP0
@@ -12849,6 +12854,7 @@ JMJ JMJ NPCNO00
 JNC JNC NPFSO00
 JOC JOC NPCSO00
 JONC JONC NPFSO00
+JONS JONS NPFPO00
 JQCV JQCV NPFSO00
 Jabaliya Jabaliya NPCSG00
 Jabalpur Jabalpur NPCSG00
@@ -13692,6 +13698,7 @@ L'Aquila L'Aquila NPCSG00
 L'ubercy L'ubercy NPCSG00
 LEC LEC NPFSO00
 LGPL LGPL NPCNO00
+LOE LOE NPFSO00
 LOGSE LOGSE NPFSO00
 LOMCE LMOCE NPFSO00
 LOMLOE LOMLOE NPFSO00
@@ -22133,6 +22140,7 @@ Sanisera Sanisera NPCSG00
 Sanitges Sanitges NPCNSP0
 Sanitja Sanitja NPCNSP0
 Sanjosex Sanjosex NPMSSP0
+Sanjurjada Sanjurjada NPFSO00
 Sanjurjo Sanjurjo NPCNSP0
 Sanliurfa Sanliurfa NPCSG00
 Sanmatenga Sanmatenga NPCSG00
@@ -23893,6 +23901,7 @@ Tanggu Tanggu NPCSG00
 Tangier Tangier NPCNSP0 # medical
 Tangshan Tangshan NPCSG00
 Tanis Tanis NPCSG00
+Tannenberg Tannenberg NPCSG00
 Tanner Tanner NPCNSP0 # medical
 Tannhäuser Tannhäuser NPMSSP0
 Tannu-Ola Tannu-Ola NPCSG00
