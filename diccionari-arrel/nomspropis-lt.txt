@@ -394,6 +394,7 @@ Acaç Acaç NPMSSP0 # avl: noms de persona
 Accad Accad NPMSG00
 Accra Accra NPCSG00
 Aceh Aceh NPCSG00
+Acemoglu Acemoglu NPCNSP0
 Acer Acer NPCNO00
 Acerra Acerra NPCSG00
 Acest Acest NPMSSP0 # avl: noms de persona
@@ -2808,6 +2809,7 @@ Avall Avall NPCSG00
 Avalon Avalon NPCSG00
 Avaris Avaris NPCSG00
 Avarua Avarua NPCSG00
+Avdíivka Avdíivka NPCSG00
 Aveiro Aveiro NPCSG00
 Avellaneda Avellaneda NPCNSP0
 Avellaneda Avellaneda NPCSG00
@@ -11495,6 +11497,7 @@ Gregori Gregori NPCNSP0
 Gregori Gregori NPMSSP0
 Gregoris Gregori NPMPSP0
 Gregòria Gregòria NPFSSP0 # avl: noms de persona
+Gremlins Gremlins NPMPSP0
 Grenada Grenada NPFSG00
 Grenadines Grenadines NPFPG00
 Grenlàndia Grenlàndia NPFSG00
@@ -12172,6 +12175,7 @@ Herté Herté NPMSSP0 # avl: noms de persona
 Herundina Herundina NPFSSP0
 Herundines Herundina NPFPSP0
 Hervella Hervella NPCNSP0
+Herzog Herzog NPCNSP0
 Heràclia Heràclia NPFSSP0 # avl: noms de persona
 Heràclides Heràclides NPMPSP0
 Heràclides Heràclides NPMSSP0
@@ -15005,6 +15009,7 @@ Mali Mali NPCSG00
 Malibú Malibú NPCSG00
 Malines Malines NPCSG00
 Malinowski Malinowski NPCNSP0
+Malkovich Malkovich NPCNSP0
 Malla Malla NPCNSP0
 Malla Malla NPCSG00
 Mallabecs Mallabecs NPCSG00
@@ -15920,6 +15925,7 @@ Melquisedec Melquisedec NPMSSP0
 Melquisedecs Melquisedec NPMPSP0
 Melquíades Melquíades NPMPSP0
 Melquíades Melquíades NPMSSP0
+Melrose Melrose NPCSG00
 Melun Melun NPCSG00
 Melusa Melusa NPFSG00
 Melville Melville NPCSG00
@@ -19864,6 +19870,7 @@ Priscil·lià Priscil·lià NPMSSP0
 Priscià Priscià NPMSSP0
 Priscoà Priscoà NPCSG00
 Prisques Prisca NPFPSP0
+Pritzker Pritzker NPCNSP0
 Privas Privas NPCSG00
 Privat Privat NPMSSP0
 Privats Privat NPMPSP0
@@ -23300,6 +23307,7 @@ Somport Somport NPCSG00
 Somàlia Somàlia NPFSG00
 Sonadelles Sonadelles NPCNSP0
 Sonarrossa Sonarrossa NPCSG00
+Sondheim Sondheim NPCNSP0
 Sondrio Sondrio NPCSG00
 Sonella Sonella NPCSG00
 Songhai Songhai NPCSG00
