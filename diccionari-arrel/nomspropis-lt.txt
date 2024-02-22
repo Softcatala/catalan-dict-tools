@@ -4803,6 +4803,7 @@ Breslow Breslow NPCNSP0 # medical
 Bresso Bresso NPCSG00
 Bressui Bressui NPCSG00
 Brest Brest NPCSG00
+Brest-Litovsk Brest-Litovsk NPCSG00
 Bretanya Bretanya NPFSG00
 Bretui Bretui NPCSG00
 Bretó Bretó NPCNSP0
