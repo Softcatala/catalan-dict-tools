@@ -4199,6 +4199,7 @@ Binèfar Binèfar NPCSG00
 Binéfar Binéfar NPCNSP0
 Bioko Bioko NPCSG00
 Biombo Biombo NPCSG00
+Bioparc Bioparc NPMSG00
 Biosca Biosca NPCNSP0
 Biosca Biosca NPFSG00
 Biot Biot NPCNSP0

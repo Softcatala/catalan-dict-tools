@@ -22545,6 +22545,7 @@ opac opaca=categories: A;fonts: LT;
 opalescent=categories: A;fonts: LT;
 opalí opalina=categories: A;fonts: LT;
 opcional=categories: A;fonts: LT;
+open-source=categories: AI;fonts: english;
 operable=categories: A;fonts: LT;
 operacional=categories: A;fonts: LT;
 operador operadora=categories: A;fonts: LT;
