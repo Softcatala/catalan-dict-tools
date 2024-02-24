@@ -13544,6 +13544,8 @@ Kokand Kokand NPCSG00
 Kokoschka Kokoschka NPCNSP0
 Kola Kola NPCSG00
 Kolding Kolding NPCSG00
+Koldo Koldo NPMSSP0
+Koldobika Koldobika NPMSSP0
 Kolgujev Kolgujev NPCSG00
 Kolhāpur Kolhāpur NPCSG00
 Kolmogórov Kolmogórov NPCNSP0
