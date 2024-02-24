@@ -61150,6 +61150,7 @@ pancaritat=categories: M;fonts: LT;
 pancarta=categories: F;fonts: LT;
 pancastellanisme=categories: M;fonts: derivat;
 pancatalanisme=categories: M;fonts: LT;
+pancatalanitat=categories: F;fonts: derivat;
 pancistitis=categories: FI;fonts: dsalut;
 pancitopènia=categories: F;fonts: LT;
 pancitòlisi=categories: F;fonts: dsalut;
