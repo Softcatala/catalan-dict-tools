@@ -23045,6 +23045,7 @@ Simplicians Simplicià NPMPSP0
 Simplicis Simplici NPMPSP0
 Simplicià Simplicià NPMSSP0
 Simplícia Simplícia NPFSSP0 # avl: noms de persona
+Simpson Simpson NPCNSP0
 Simyo Simyo NPCNO00
 Simó Simó NPCNSP0
 Simó Simó NPMSSP0
