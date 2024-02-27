@@ -9565,6 +9565,7 @@ Fanconi Fanconi NPCNSP0 # medical
 Faneca Faneca NPCNSP0
 Faneca Faneca NPCSG00
 Faneras Faneras NPCNSP0 # medical
+Fanta Fanta NPFSO00
 Fantin-Latour Fantin-Latour NPCNSP0
 Fanzara Fanzara NPFSG00
 Fanø Fanø NPCSG00
