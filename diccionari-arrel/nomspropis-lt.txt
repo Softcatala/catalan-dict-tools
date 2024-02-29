@@ -27166,6 +27166,7 @@ uTorrent uTorrent NPCNO00
 Àustria-Hongria Àustria-Hongria NPFSG00
 Àustries Àustria NPCPSP0
 Àvila Àvila NPFSG00
+Ábalos Ábalos NPCNSP0
 Ágreda Ágreda NPCSG00
 Álora Álora NPCSG00
 Álvarez Álvarez NPCNSP0

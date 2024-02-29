@@ -1949,6 +1949,7 @@ angiofol·licular=categories: A;fonts: dsalut;
 angiogràfic -a=categories: A;fonts: DNV;
 angiogràfic angiogràfica=categories: A;fonts: dsalut;
 angiogènic angiogènica=categories: A;fonts: dsalut;
+angiohemàtic angiohemàtica=categories: A;fonts: termcat;
 angioide=categories: A;fonts: dsalut;
 angioimmunoblàstic angioimmunoblàstica=categories: A;fonts: dsalut;
 angioinvasor angioinvasora=categories: A;fonts: dsalut;
