@@ -25551,6 +25551,7 @@ present=categories: A;fonts: LT;
 presentable=categories: A;fonts: LT;
 presentador presentadora=categories: A;fonts: LT;
 presentista=categories: A;fonts: DDLC;
+preservacionista=categories: A;fonts: derivat;
 preservador preservadora=categories: A;fonts: LT;
 preservatiu preservativa=categories: A;fonts: LT;
 presidenciable=categories: A;fonts: LT;

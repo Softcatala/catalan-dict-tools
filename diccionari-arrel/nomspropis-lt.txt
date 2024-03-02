@@ -14610,6 +14610,8 @@ Lot Lot NPMSSP0 # avl: noms de persona
 Lotari Lotari NPMSSP0
 Lotaris Lotari NPMPSP0
 Lothian Lothian NPCSG00
+Lotte Lotte NPCNO00
+Lotte Lotte NPFSSP0
 Louangphrabang Louangphrabang NPCSG00
 Loudenvielle Loudenvielle NPCSG00
 Louga Louga NPCSG00
@@ -14759,6 +14761,7 @@ MIDI MIDI NPMSO00
 MIME MIME NPMNO00
 MIR MIR NPCNO00
 MNAC MNAC NPMSO00
+MUHBA MUHBA NPMSO00
 MWC MWC NPMSO00
 Ma'rib Ma'rib NPCSG00
 Maastricht Maastricht NPCSG00
@@ -15830,6 +15833,7 @@ McCartney McCartney NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
+McDowell McDowell NPCNSP0
 McFadden McFadden NPCNSP0
 McGraw-Hill McGraw-Hill NPCNO00
 McKinley McKinley NPCSG00
