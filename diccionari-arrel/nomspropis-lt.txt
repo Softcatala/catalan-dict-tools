@@ -23461,6 +23461,7 @@ Stafford Stafford NPCNSP0
 Stafford Stafford NPCSG00
 Staffordshire Staffordshire NPCSG00
 Stains Stains NPCSG00
+Stakhànov Stakhànov NPCNSP0
 Stalin Stalin NPCNSP0
 Stalingrad Stalingrad NPCSG00
 Stallman Stallman NPCNSP0
