@@ -10927,6 +10927,7 @@ Gelsenkirchen Gelsenkirchen NPCSG00
 Geltrú Geltrú NPCSG00
 Gelàsia Gelàsia NPFSSP0 # avl: noms de persona
 Gem Gem NPCNSP0
+Gemini Gemini NPMSO00
 Geminiani Geminiani NPCNSP0
 Geminians Geminià NPMPSP0
 Geminià Geminià NPMSSP0
@@ -19522,6 +19523,7 @@ Polinyà Polinyà NPCSG00
 Polinèsia Polinèsia NPFSG00
 Polisario Polisario NPMSO00
 Polit Polit NPCNSP0
+Politico Politico NPMSO00
 Politkóvskaia Politkóvskaia NPCNSP0
 Polixena Polixena NPFSSP0
 Polixenes Polixena NPFPSP0
