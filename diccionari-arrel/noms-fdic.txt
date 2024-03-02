@@ -87107,3 +87107,5 @@ zúdnic=categories: M;fonts: LT;
 úter=categories: M;fonts: LT;
 úvea=categories: F;fonts: LT;
 úvula=categories: F;fonts: LT;
+demi-glace=categories: MF;fonts: francès, termcat;
+nugget=categories: M;fonts: english;
