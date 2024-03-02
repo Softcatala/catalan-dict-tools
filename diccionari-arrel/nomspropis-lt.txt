@@ -14878,6 +14878,7 @@ Magelang Magelang NPCSG00
 Magenta Magenta NPCSG00
 Magentí Magentí NPCNSP0
 Mages Mages NPCNSP0
+Maggie Maggie NPFSSP0
 Maghazi Maghazi NPCSG00
 Magill Magill NPCNSP0 # medical
 Magina Magina NPFSG00
@@ -26163,6 +26164,7 @@ Villarrobledo Villarrobledo NPCSG00
 Villarroel Villarroel NPCNSP0
 Villarroya Villarroya NPCNSP0
 Villas-Boas Villas-Boas NPCNSP0
+Villatoro Villatoro NPCNSP0
 Villavieja Villavieja NPFSG00
 Villejuif Villejuif NPCSG00
 Villemomble Villemomble NPCSG00

@@ -11275,6 +11275,7 @@ bipinnària=categories: F;fonts: LT;
 bipiràmide=categories: F;fonts: LT;
 biplosió=categories: F;fonts: LT;
 biplà=categories: M;fonts: LT;
+bipolarisme=categories: M;fonts: derivat;
 bipolaritat=categories: F;fonts: LT;
 bipolarització=categories: F;fonts: LT;
 biport=categories: M;fonts: LT;
