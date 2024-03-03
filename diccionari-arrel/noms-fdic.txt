@@ -22511,6 +22511,7 @@ càfila=categories: F;fonts: LT;
 càfrid càfrida=categories: MF;fonts: LT;
 càgola=categories: F;fonts: LT;
 càguila=categories: F;fonts: LT;
+càiron=categories: M;fonts: esadir;
 càlam=categories: M;fonts: LT;
 càlamus=categories: MI;fonts: LT;
 càlao=categories: M;fonts: LT;
