@@ -108,6 +108,7 @@
 #Ia Ia NPFSSP0 # avl: noms de persona
 #Igor Igor NPMSSP0 # avl: noms de persona
 #Imperi Imperi NPFSSP0 # avl: noms de persona
+#Insula Insula NPFSG00
 #Io Io NPFSSP0 # avl: noms de persona
 #Iola Iola NPFSSP0 # avl: noms de persona
 #Ione Ione NPFSSP0 # avl: noms de persona
@@ -12697,7 +12698,6 @@ Innovamat Innovamat NPCNO00
 Innsbruck Innsbruck NPCSG00
 Inowrocław Inowrocław NPCSG00
 Instagram Instagram NPMSO00
-Insula Insula NPFSG00
 Inter Inter NPMSO00
 Intermón Intermón NPMSO00
 Interpol Interpol NPFSO00
