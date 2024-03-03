@@ -811,6 +811,7 @@ Akşehir Akşehir NPCSG00
 Al-Aaiun Al-Aaiun NPCSG00
 Al-Aqsa Al-Aqsa NPCSG00
 Al-Arid Al-Arid NPCSG00
+Al-Assad Al-Assad NPCNSP0
 Al-Assad Al-Assad NPCSG00
 Al-Azhar Al-Azhar NPCSG00
 Al-Bayda Al-Bayda NPCSG00
@@ -27095,6 +27096,7 @@ Zòtics Zòtic NPMPSP0
 Zújar Zújar NPCSG00
 Zúric Zúric NPCSG00
 Zābol Zābol NPCSG00
+al-Assad al-Assad NPCNSP0
 al-Azraq al-Azraq NPMSSP0
 al-Din al-Din NPCNSP0
 al-Hussein al-Hussein NPCNSP0
