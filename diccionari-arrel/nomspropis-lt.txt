@@ -12698,6 +12698,7 @@ Innsbruck Innsbruck NPCSG00
 Inowrocław Inowrocław NPCSG00
 Instagram Instagram NPMSO00
 Insula Insula NPFSG00
+Inter Inter NPMSO00
 Intermón Intermón NPMSO00
 Interpol Interpol NPFSO00
 Intersindical-CSC Intersindical-CSC NPFSO00
