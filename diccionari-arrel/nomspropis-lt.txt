@@ -23692,6 +23692,7 @@ Székesfehérvár Székesfehérvár NPCSG00
 Sàbat Sàbat NPCNSP0
 Sàbrata Sàbrata NPCSG00
 Sàhara Sàhara NPMSG00
+Sàkharov Sàkharov NPCNSP0
 Sàlit Sàlit NPCSG00
 Sàlvia Sàlvia NPFSSP0 # avl: noms de persona
 Sàlzer Sàlzer NPCSG00
