@@ -7349,6 +7349,7 @@ Courbevoie Courbevoie NPCSG00
 Cournand Cournand NPCNSP0 # medical
 Courtenay Courtenay NPCNSP0
 Courvoisier Courvoisier NPCNSP0 # medical
+Cousteau Cousteau NPCNSP0
 Coutances Coutances NPCSG00
 Couvelaire Couvelaire NPCNSP0 # medical
 Cova Cova NPCNSP0
@@ -10236,7 +10237,7 @@ Fotolog Fotolog NPMSO00
 Fotí Fotí NPMSSP0
 Foucault Foucault NPCNSP0
 Fourier Fourier NPCNSP0
-Fox Fox NPFSO00
+Fox Fox NPCNO00
 Fox-Fordyce Fox-Fordyce NPCNSP0 # medical
 Foyle Foyle NPCSG00
 Fraga Fraga NPCNSP0
@@ -15781,7 +15782,7 @@ Mauá Mauá NPCSG00
 Maverick Maverick NPCNSP0
 Mavi Mavi NPFSSP0 # avl: noms de persona
 Mavromikhalis Mavromikhalis NPCNSP0
-Max Max NPMSSP0 # avl: noms de persona
+Max Max NPMNSP0 # avl: noms de persona
 Maximiana Maximiana NPFSSP0 # avl: noms de persona
 Maximians Maximià NPMPSP0
 Maximiliana Maximiliana NPFSSP0 # avl: noms de persona

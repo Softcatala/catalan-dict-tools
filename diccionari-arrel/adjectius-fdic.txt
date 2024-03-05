@@ -21636,6 +21636,7 @@ neoconservador neoconservadora=categories: A;fonts: LT;
 neoconvergent=categories: A;fonts: derivat;
 neocriticista=categories: A;fonts: LT;
 neodadaista=categories: A;fonts: LT;
+neodadà [pl. neodadàs]=categories: A;fonts: LT;
 neodarwinista=categories: A;fonts: LT;
 neodesenvolupista=categories: A;fonts: derivat;
 neoesclavista=categories: A;fonts: derivat;
