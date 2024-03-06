@@ -3805,6 +3805,7 @@ autentificador autentificadora=categories: A;fonts: derivat;
 autigènic autigènica=categories: A;fonts: LT;
 autinià autiniana=categories: A;fonts: LT;
 autista=categories: A;fonts: LT;
+autoadaptatiu autoadaptativa=categories: A;fonts: derivat;
 autoadhesiu autoadhesiva=categories: A;fonts: LT;
 autoadjunt autoadjunta=categories: A;fonts: derivat;
 autoadreçable=categories: A;fonts: derivat;

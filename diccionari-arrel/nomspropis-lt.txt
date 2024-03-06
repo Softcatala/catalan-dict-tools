@@ -5163,6 +5163,7 @@ CGT CGT NPFSO00
 CIDOB CIDOB NPMSO00
 CIS CIS NPMSO00
 CNI CNI NPMSO00
+CNMV CNMV NPFSO00
 CNN CNN NPFSO00
 CNP CNP NPMSO00
 CNT CNT NPFSO00
@@ -11384,6 +11385,7 @@ Gotards Gotard NPMPSP0
 Gotarta Gotarta NPCSG00
 Goterris Goterris NPCNSP0
 Gotha Gotha NPCSG00
+Gotham Gotham NPCSG00
 Gotland Gotland NPCSG00
 Gotleu Gotleu NPCNSP0
 Gotmar Gotmar NPCNSP0
@@ -22901,6 +22903,7 @@ Shakespeare Shakespeare NPCNSP0
 Shandong Shandong NPCSG00
 Shanghai Shanghai NPCSG00
 Shangqiu Shangqiu NPCSG00
+Shannon Shannon NPCNSP0
 Shantou Shantou NPCSG00
 Shanxi Shanxi NPCSG00
 Shaolin Shaolin NPCSG00
@@ -26481,6 +26484,7 @@ Waldenströn Waldenströn NPCNSP0
 Waldenströn Waldenströn NPCNSP0 # medical
 Waldorf Waldorf NPCNSP0
 Walensee Walensee NPCSG00
+Wallace Wallace NPCNSP0
 Wallapop Wallapop NPCNO00
 Wallasey Wallasey NPCSG00
 Wallbox Wallbox NPCNO00

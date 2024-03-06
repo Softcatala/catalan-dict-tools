@@ -58805,8 +58805,6 @@ ovolactovegetarians ovolactovegetarià AQ0MP0
 ovolactovegetarians ovolactovegetarià NCMP000
 ovolactovegetarià ovolactovegetarià AQ0MS0
 ovolactovegetarià ovolactovegetarià NCMS000
-pablo pablo NCMS000
-pablos pablo NCMP000
 pacense pacense AQ0CS0
 pacense pacense NCCS000
 pacenses pacense AQ0CP0
@@ -66210,8 +66208,6 @@ reticulació reticulació NCFS000
 reticuloide reticuloide AQ0CS0
 reticuloides reticuloide AQ0CP0
 reties retio NCFP000
-retinoscòpia retinoscòpia NCFS000
-retinoscòpies retinoscòpia NCFP000
 retinòsquisi retinòsquisi NCFS000
 retinòsquisis retinòsquisi NCFP000
 retio retio NCMS000
