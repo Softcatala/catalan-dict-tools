@@ -8869,6 +8869,7 @@ Erice Erice NPCSG00
 Eridà Eridà NPCSG00
 Erie Erie NPCSG00
 Erika Erika NPFSSP0
+Erik Erik NPMSSP0
 Erill Erill NPCNSP0
 Erinyà Erinyà NPCSG00
 Eritrea Eritrea NPFSG00
