@@ -21193,6 +21193,7 @@ multifuncional=categories: A;fonts: LT;
 multifunció=categories: AI;fonts: derivat;
 multiganglionar=categories: A;fonts: dsalut;
 multigeneracional=categories: A;fonts: derivat;
+multigovernamental=categories: A;fonts: derivat;
 multigrau=categories: AI;fonts: LT;
 multigràvida=categories: A;fonts: LT;
 multiimpuls=categories: AI;fonts: LT;

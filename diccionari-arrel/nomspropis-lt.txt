@@ -20000,6 +20000,7 @@ Pubill Pubill NPCNSP0
 Publi Publi NPMSSP0
 Publis Publi NPMPSP0
 Puccini Puccini NPCNSP0
+Pudong Pudong NPCSG00
 Pueio Pueio NPMSG00
 Puell Puell NPCNSP0
 Puelles Puelles NPFPG00
@@ -22906,6 +22907,7 @@ Shaftesbury Shaftesbury NPCNSP0
 Shakespeare Shakespeare NPCNSP0
 Shandong Shandong NPCSG00
 Shanghai Shanghai NPCSG00
+Shanghai-Pudong Shanghai-Pudong NPCSG00
 Shangqiu Shangqiu NPCSG00
 Shannon Shannon NPCNSP0
 Shantou Shantou NPCSG00
