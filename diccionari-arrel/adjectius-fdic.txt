@@ -5003,6 +5003,7 @@ blaugrana1=categories: A;fonts: DIEC;
 blaugrana2=categories: AI;fonts: DIEC;
 blavenc blavenca=categories: A;fonts: LT;
 blaver blavera=categories: A;fonts: LT;
+blaveret blavereta=categories: A;fonts: diminutiu;
 blavinós blavinosa=categories: A;fonts: LT;
 blavís blavissa=categories: A;fonts: LT;
 blavós blavosa=categories: A;fonts: LT;
