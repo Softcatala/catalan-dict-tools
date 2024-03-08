@@ -6361,6 +6361,7 @@ galibar=categories: V;model:cantar;fonts: LT;
 galindejar=categories: V;model:envejar;fonts: LT;
 galivar=categories: V;model:cantar;fonts: LT;
 gallardejar=categories: V;model:envejar;fonts: LT;
+galleguitzar=categories: V;model:cantar;fonts: DNV;
 gallejar=categories: V;model:envejar;fonts: LT;
 gallinejar=categories: V;model:envejar;fonts: LT;
 gallipontejar=categories: V;model:envejar;fonts: LT;

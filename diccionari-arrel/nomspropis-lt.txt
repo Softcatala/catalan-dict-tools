@@ -12180,6 +12180,7 @@ Herodies Herodies NPFSSP0 # avl: noms de persona
 Herons Heró NPMPSP0
 Heros Heros NPMSSP0 # avl: noms de persona
 Herragudo Herragudo NPCSG00
+Herralde Herralde NPCNSP0
 Herrera Herrera NPCSG00
 Herrero Herrero NPCNSP0
 Herring Herring NPCNSP0 # medical
@@ -17890,6 +17891,7 @@ Ohio Ohio NPCSG00
 Oio Oio NPCSG00
 Oise Oise NPCSG00
 Oix Oix NPCSG00
+Ojeda Ojeda NPCNSP0
 Ojika Ojika NPCSG00
 Ojm'akon Ojm'akon NPCSG00
 Oka Oka NPCSG00
@@ -19562,6 +19564,7 @@ Pomada Pomada NPCNSP0
 Pomar Pomar NPCNSP0
 Pomar Pomar NPCSG00
 Pomaré Pomaré NPCNSP0
+Pombo Pombo NPCNSP0
 Pomer Pomer NPCNSP0
 Pomerol Pomerol NPCNSP0
 Pomerola Pomerola NPCNSP0
@@ -21681,6 +21684,7 @@ SA SA NPCNO00
 SEPA SEPA NPMSO00
 SER SER NPCSO00
 SGAE SGAE NPFSO00
+SME SME NPCNO00
 SNP SNP NPMSO00
 SPD SPD NPMSO00
 SQLite SQLite NPCNO00
