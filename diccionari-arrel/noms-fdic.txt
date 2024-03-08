@@ -15149,6 +15149,7 @@ cardioanastròfia=categories: F;fonts: dsalut;
 cardioangiografia=categories: F;fonts: dsalut;
 cardioangiologia=categories: F;fonts: DNV, termcat;
 cardioatròfia=categories: F;fonts: dsalut;
+cardioboxa=categories: F;fonts: termcat;
 cardiocalàsia=categories: F;fonts: dsalut;
 cardiocele=categories: F;fonts: dsalut;
 cardiocentesi=categories: F;fonts: LT;

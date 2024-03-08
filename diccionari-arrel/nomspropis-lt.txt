@@ -5163,6 +5163,7 @@ CGT CGT NPFSO00
 CIDOB CIDOB NPMSO00
 CIS CIS NPMSO00
 CNI CNI NPMSO00
+CNMC CNMC NPFSO00
 CNMV CNMV NPFSO00
 CNN CNN NPFSO00
 CNP CNP NPMSO00
@@ -8572,6 +8573,7 @@ Eiximena Eiximena NPFSSP0 # avl: noms de persona
 Eiximenis Eiximenis NPCNSP0
 Eiximèn Eiximèn NPMSSP0 # avl: noms de persona
 Eiximén Eiximèn NPMSSP0 # avl: noms de persona
+Ekaizer Ekaizer NPCNSP0
 Ekaterinburg Ekaterinburg NPCSG00
 El-'Alamein El-'Alamein NPCSG00
 El-Jadida El-Jadida NPCSG00
@@ -12615,6 +12617,7 @@ Igualada Igualada NPFSG00
 Iguvium Iguvium NPMSG00
 Igüerri Igüerri NPCSG00
 Ikea Ikea NPCNO00
+Iker Iker NPMSSP0
 Ikrame Ikrame NPFSSP0
 Ilamatepec Ilamatepec NPMSG00
 Ilawe-Ekiti Ilawe-Ekiti NPCSG00
@@ -13596,6 +13599,7 @@ Kouilou Kouilou NPCSG00
 Kourou Kourou NPCSG00
 Kouroussa Kouroussa NPCSG00
 Koussevitzky Koussevitzky NPCNSP0
+Kovalévskaia Kovalévskaia NPCNSP0
 Kovrov Kovrov NPCSG00
 Kowloon Kowloon NPCSG00
 Kozara Kozara NPCSG00
