@@ -7030,6 +7030,7 @@ Compostel·la Compostel·la NPCSG00
 Compton Compton NPCNSP0 # medical
 Compàs Compàs NPMSG00
 Comte Comte NPCNSP0
+Comédie-Française Comédie-Française NPFSO00
 Comí Comí NPCNSP0
 Comín Comín NPCNSP0
 Conakry Conakry NPCSG00
