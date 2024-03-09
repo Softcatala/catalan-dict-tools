@@ -9023,6 +9023,7 @@ retrocedir=categories: V;model:servir;fonts: LT;
 retrogradar=categories: V;model:cantar;fonts: LT;
 retroil·luminar=categories: V;model:abominar;fonts: derivat;
 retronar=categories: V;model:cantar;fonts: LT;
+retropropagar=categories: V;model:pregar;fonts: derivat;
 retrossar=categories: V;model:adossar;fonts: LT;
 retrotreure=categories: V;model:abstreure;fonts: LT;
 retrovendre=categories: V;model:revendre;fonts: LT;
