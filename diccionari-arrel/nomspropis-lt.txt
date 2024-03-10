@@ -6838,6 +6838,7 @@ Cocos Cocos NPCSG00
 Cocteau Cocteau NPCNSP0
 Codalet Codalet NPCSG00
 Coderc Coderc NPCNSP0
+Coderch Coderch NPCNSP0
 Codina Codina NPCNSP0
 Codinac Codinac NPCNSP0
 Codivilla Codivilla NPCNSP0 # medical
@@ -7875,6 +7876,7 @@ Debussy Debussy NPCNSP0
 Decameró Decameró NPMSO00
 Deci Deci NPMSSP0 # avl: noms de persona
 Deciana Deciana NPCSG00
+Decroly Decroly NPCNSP0
 Dedeu Dedeu NPCNSP0
 Dedza Dedza NPCSG00
 Dee Dee NPCSG00
@@ -8978,6 +8980,7 @@ Escobet Escobet NPCNSP0
 Escobós Escobós NPCNSP0
 Escoda Escoda NPCNSP0
 Escofet Escofet NPCNSP0
+Escolano Escolano NPCNSP0
 Escolà Escolà NPCNSP0
 Escolàstic Escolàstic NPMSSP0 # avl: noms de persona
 Escolàstica Escolàstica NPFSSP0
@@ -13290,6 +13293,7 @@ Kafka Kafka NPCNSP0
 Kagera Kagera NPCSG00
 Kahneman Kahneman NPCNSP0
 Kahoot Kahoot NPCNO00
+Kai-shek Kai-shek NPCNSP0
 Kaifeng Kaifeng NPCSG00
 Kailahun Kailahun NPCSG00
 Kaili Kaili NPCSG00
@@ -18455,7 +18459,6 @@ Palatins Palatí NPMPSP0
 Palatí Palatí NPMSSP0
 Palau Palau NPCNSP0
 Palau-Sator Palau-Sator NPCSG00
-Palau-Saverdera Palau-Saverdera NPFSG00
 Palau-Solità Palau-Solità NPCSG00
 Palau-sacosta Palau-sacosta NPCSG00
 Palau-saverdera Palau-saverdera NPCSG00
@@ -21866,6 +21869,7 @@ Saint-Jacques Saint-Jacques NPCSG00
 Saint-Jean Saint-Jean NPMSSP0
 Saint-Jean-de-Maurienne Saint-Jean-de-Maurienne NPCSG00
 Saint-Lazare Saint-Lazare NPCSG00
+Saint-Lizier Saint-Lizier NPCSG00
 Saint-Louis Saint-Louis NPCSG00
 Saint-Léger Saint-Léger NPCSG00
 Saint-Lô Saint-Lô NPCSG00
