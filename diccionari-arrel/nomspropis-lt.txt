@@ -3923,6 +3923,7 @@ Bergey Bergey NPCNSP0 # medical
 Berghof Berghof NPMSG00
 Bergoglio Bergoglio NPCNSP0
 Bergonié-Tribondeau Bergonié-Tribondeau NPCNSP0 # medical
+Bergson Bergson NPCNSP0
 Berguedà Berguedà NPCNSP0
 Berguedà Berguedà NPCSG00
 Bergues Bergues NPCNSP0
@@ -4979,6 +4980,7 @@ Bucovina Bucovina NPCSG00
 Buda Buda NPMSSP0 # avl: noms de persona
 Budapest Budapest NPCSG00
 Budd-Chiari Budd-Chiari NPCNSP0 # medical
+Buddenbrook Buddenbrook NPCNSP0
 Budellera Budellera NPFSG00
 Budellers Budellers NPCNSP0
 Budó Budó NPCNSP0
@@ -11689,6 +11691,7 @@ Guernsey Guernsey NPCSG00
 Guerra Guerra NPCNSP0
 Guerrero Guerrero NPCNSP0
 Guerrero Guerrero NPCSG00
+Guersònides Guersònides NPMSSP0
 Gueugnon Gueugnon NPCSG00
 Guggenheim Guggenheim NPCNSP0
 Guia Guia NPCNSP0
@@ -25154,6 +25157,7 @@ Térmens Térmens NPCSG00
 Tíber Tíber NPCSG00
 Tírig Tírig NPCSG00
 Tírvia Tírvia NPFSG00
+Tísner Tísner NPMSSP0
 Tívoli Tívoli NPCSG00
 Tîrgovişte Tîrgovişte NPCSG00
 Tîrgu-Jiu Tîrgu-Jiu NPCSG00

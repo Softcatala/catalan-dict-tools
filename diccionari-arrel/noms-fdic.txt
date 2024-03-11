@@ -57348,6 +57348,7 @@ neuroderma=categories: M;fonts: dsalut;
 neurodermatitis=categories: FI;fonts: dsalut;
 neurodermitis=categories: FI;fonts: LT;
 neurodesenvolupament=categories: M;fonts: derivat;
+neurodetonant=categories: M;fonts: neolosfera;
 neurodeàlgia=categories: F;fonts: dsalut;
 neurodiagnòstic=categories: M;fonts: dsalut;
 neurodictitis=categories: FI;fonts: dsalut;
