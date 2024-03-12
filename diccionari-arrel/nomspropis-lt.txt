@@ -23187,8 +23187,8 @@ Skype Skype NPMSO00
 Skyros Skyros NPCSG00
 Skòpelos Skòpelos NPCSG00
 Skövde Skövde NPCSG00
-Slesvig Slesvig NPCSG00
-Slesvig-Holstein Slesvig-Holstein NPCSG00
+Sleswig Sleswig NPCSG00
+Sleswig-Holstein Sleswig-Holstein NPCSG00
 Slideshare Slideshare NPMSO00
 Sligeach Sligeach NPCSG00
 Sliven Sliven NPCSG00
