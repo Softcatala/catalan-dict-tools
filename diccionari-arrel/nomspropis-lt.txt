@@ -15105,6 +15105,7 @@ Malvina Malvina NPFSSP0 # avl: noms de persona
 Malvines Malvines NPFPG00
 Malví Malví NPMSSP0 # avl: noms de persona
 Malàisia Malàisia NPFSG00
+Mamadou Mamadou NPMSSP0
 Mamberamo Mamberamo NPCSG00
 Mambla Mambla NPFSG00
 Mamert Mamert NPMSSP0
@@ -22500,6 +22501,7 @@ Schio Schio NPCSG00
 Schiötz Schiötz NPCNSP0 # medical
 Schlegel Schlegel NPCNSP0
 Schlesinger Schlesinger NPCNSP0
+Schleswig Schleswig NPCSG00
 Schleswig-Holstein Schleswig-Holstein NPCSG00
 Schmidt Schmidt NPCNSP0 # medical
 Schmidt-Lanterman Schmidt-Lanterman NPCNSP0 # medical
