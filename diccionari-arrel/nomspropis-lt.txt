@@ -21639,6 +21639,7 @@ Rutília Rutília NPFSSP0 # avl: noms de persona
 Ruvuma Ruvuma NPCSG00
 Ruwenzori Ruwenzori NPCSG00
 Ruyigi Ruyigi NPCSG00
+Ruyra Ruyra NPCNSP0
 Rués Rués NPCNSP0
 Ruïc Ruïc NPCNSP0
 Ruïtlles Ruïtlles NPCSG00
