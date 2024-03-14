@@ -6421,6 +6421,7 @@ Chamorro Chamorro NPCNSP0
 Champagnat Champagnat NPCNSP0
 Champasak Champasak NPCSG00
 Champigny-sur-Marne Champigny-sur-Marne NPCSG00
+Champions Champions NPFNO00
 Champlain Champlain NPCSG00
 Chancelade Chancelade NPCSG00
 Chandigarh Chandigarh NPCSG00
