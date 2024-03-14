@@ -54480,6 +54480,7 @@ minifundi=categories: M;fonts: LT;
 minifundisme=categories: M;fonts: LT;
 minigira=categories: F;fonts: LT;
 minigolf=categories: M;fonts: LT;
+minigranja=categories: F;fonts: derivat;
 minigràfic=categories: M;fonts: termcat;
 minihamburguesa=categories: F;fonts: LT;
 minihistòria=categories: F;fonts: derivat;
