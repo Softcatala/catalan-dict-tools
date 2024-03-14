@@ -6761,7 +6761,7 @@ Cliceris Cliceri NPMPSP0
 Clichy Clichy NPCSG00
 Clichy-sous-Bois Clichy-sous-Bois NPCSG00
 Clickedu Clickedu NPMSO00
-Clifford Clifford NPCNSP0Gràcies
+Clifford Clifford NPCNSP0
 Climent Climent NPCNSP0
 Climent Climent NPMSSP0
 Climents Climent NPMPSP0
