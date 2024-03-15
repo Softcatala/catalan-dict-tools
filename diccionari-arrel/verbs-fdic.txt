@@ -1265,6 +1265,7 @@ barrinar=categories: V;model:abominar;fonts: LT;
 barriscar=categories: V;model:trencar;fonts: LT;
 barroquejar=categories: V;model:envejar;fonts: LT;
 barrotar=categories: V;model:cantar;fonts: LT;
+barrufar=categories: V;model:cantar;fonts: viccionari,rodamots;
 barutellar=categories: V;model:cantar;fonts: LT;
 basar=categories: V;model:cantar;fonts: LT;
 bascar=categories: V;model:trencar;fonts: LT;

@@ -26557,6 +26557,7 @@ Wazīristān Wazīristān NPCSG00
 Wałbrzych Wałbrzych NPCSG00
 Waššukkani Waššukkani NPCSG00
 Weald Weald NPCSG00
+Webb Webb NPCNSP0
 Weber Weber NPCNSP0
 Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0
