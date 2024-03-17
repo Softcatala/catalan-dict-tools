@@ -9826,6 +9826,7 @@ Fidenci Fidenci NPMSSP0
 Fidencians Fidencià NPMPSP0
 Fidencis Fidenci NPMPSP0
 Fidencià Fidencià NPMSSP0
+Fidesz Fidesz NPCSO00
 Fidèlia Fidèlia NPFSSP0 # avl: noms de persona
 Fidència Fidència NPFSSP0
 Fidències Fidència NPFPSP0
@@ -12197,6 +12198,7 @@ Herring Herring NPCNSP0 # medical
 Hers Hers NPCNSP0 # medical
 Herten Herten NPCSG00
 Hertfordshire Hertfordshire NPCSG00
+Hertz Hertz NPCNSP0
 Hertzsprung Hertzsprung NPCNSP0
 Herté Herté NPMSSP0 # avl: noms de persona
 Herundina Herundina NPFSSP0
@@ -18098,6 +18100,7 @@ Orba Orba NPCSG00
 Orbanyà Orbanyà NPCSG00
 Orbeta Orbeta NPCSG00
 Orbetello Orbetello NPCSG00
+Orbán Orbán NPCNSP0
 Orbí Orbí NPCNSP0
 Orcau Orcau NPCNSP0
 Orcau Orcau NPCSG00
@@ -26721,6 +26724,7 @@ Worcester Worcester NPCSG00
 Word Word NPMSO00
 WordPress WordPress NPMNO00
 Wordle Wordle NPMSO00
+Wordsworth Wordsworth NPCNSP0
 Woringer-Kolopp Woringer-Kolopp NPCNSP0
 Woringer-Kolopp Woringer-Kolopp NPCNSP0 # medical
 Worms Worms NPCSG00
