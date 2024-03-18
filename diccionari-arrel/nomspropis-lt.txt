@@ -19617,6 +19617,7 @@ Ponferrada Ponferrada NPCSG00
 Poni Poni NPCSG00
 Poniatowski Poniatowski NPCNSP0
 Pons Pons NPCNSP0
+Ponsatí Ponsatí NPCNSP0
 Ponsà Ponsà NPCNSP0
 Pont Pont NPCNSP0
 Pont-xetmar Pont-xetmar NPCSG00
