@@ -12834,6 +12834,7 @@ Isère Isère NPCSG00
 Isòcrates Isòcrates NPMSSP0 # avl: noms de persona
 Isòvol Isòvol NPCSG00
 Itabuna Itabuna NPCSG00
+Itaipú Itaipú NPCSG00
 Itapecuru Itapecuru NPCSG00
 Iturea Iturea NPCSG00
 Itzíar Itzíar NPFSSP0 # avl: noms de persona
