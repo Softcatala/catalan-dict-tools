@@ -60758,6 +60758,7 @@ paellada=categories: F;fonts: LT;
 paellaire=categories: MF;fonts: LT;
 paellam=categories: M;fonts: LT;
 paeller paellera=categories: MF;fonts LT;
+paelleta=categories: F;fonts: diminutiu;
 paelló=categories: M;fonts: LT;
 paer paera=categories: MF;fonts: LT;
 paeria=categories: F;fonts: LT;

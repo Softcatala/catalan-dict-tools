@@ -6715,6 +6715,7 @@ Clascar Clascar NPCNSP0
 Classroom Classroom NPCNO00
 Claude Claude NPMSSP0
 Claude-Bernard-Horner Claude-Bernard-Horner NPCNSP0 # medical
+Claudel Claudel NPCNSP0
 Claudi Claudi NPMSSP0
 Claudians Claudià NPMPSP0
 Claudina Claudina NPFSSP0 # avl: noms de persona
@@ -11431,6 +11432,7 @@ Gracilians Gracilià NPMPSP0
 Gracilià Gracilià NPMSSP0
 Gracià Gracià NPCNSP0
 Gracià Gracià NPMSSP0
+Gracián Gracián NPCNSP0
 Gradenigo Gradenigo NPCNSP0 # medical
 Gradignan Gradignan NPCSG00
 Grado Grado NPCSG00
@@ -13422,6 +13424,7 @@ Kazanlâk Kazanlâk NPCSG00
 Kazbek Kazbek NPCSG00
 Kearns-Sayre Kearns-Sayre NPCNSP0 # medical
 Keaton Keaton NPCNSP0
+Keats Keats NPCNSP0
 Kecsckemét Kecsckemét NPCSG00
 Kedah Kedah NPCSG00
 Kefa Kefa NPCSG00
@@ -17186,6 +17189,7 @@ Múrcia Múrcia NPFSG00
 Múria Múria NPFSG00
 Músser Músser NPCSG00
 Mûr-de-Bretagne Mûr-de-Bretagne NPCSG00
+Mühlberg Mühlberg NPCSG00
 Mülhausen Mülhausen NPCSG00
 Müller Müller NPCNSP0
 Münchhausen Münchhausen NPCNSP0
@@ -19879,6 +19883,7 @@ Presseguer Presseguer NPCNSP0
 Presta Presta NPCNSP0
 Presta Presta NPFSG00
 Preston Preston NPCSG00
+Pretenders Pretenders NPMPO00
 Pretextat Pretextat NPMSSP0
 Pretextats Pretextat NPMPSP0
 Pretòria Pretòria NPCSG00
@@ -24052,6 +24057,7 @@ Tassis Tassis NPCNSP0
 Tassos Tassos NPCSG00
 Tata Tata NPCSG00
 Tatabánya Tatabánya NPCSG00
+Tatano Tatano NPMSO00
 Tatiana Tatiana NPFSG00
 Tatoeba Tatoeba NPCNO00
 Tatxer Tatxer NPCNSP0
