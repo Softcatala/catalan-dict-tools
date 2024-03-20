@@ -2714,7 +2714,6 @@ gangosament=categories: RG;fonts: DNV;
 gangositat=categories: F;fonts: DNV;
 gangueig=categories: M;fonts: DNV;
 ganguejar=categories: V;model:envejar;fonts: DNV;
-gangós -osa=categories: A;fonts: DNV;
 ganivetam=categories: M;fonts: DNV;
 ganyolament=categories: M;fonts: DNV;
 garbam=categories: M;fonts: DNV;

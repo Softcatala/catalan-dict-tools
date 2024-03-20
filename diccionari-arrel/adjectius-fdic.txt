@@ -13924,6 +13924,7 @@ gangliforme=categories: A;fonts: LT;
 ganglionar=categories: A;fonts: LT;
 gangrenós gangrenosa=categories: A;fonts: LT;
 gangètic gangètica=categories: A;fonts: LT;
+gangós -osa=categories: A;fonts: DNV;
 ganoide=categories: A;fonts: LT;
 ganso gansa=categories: A;fonts: LT;
 gansoner gansonera=categories: A;fonts: LT;

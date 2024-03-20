@@ -48199,12 +48199,9 @@ gamoneres gamonera NCFP000
 gamussa gamussa NCFS000
 gamusses gamussa NCFP000
 gandumbes gandumbes AQ0CN0
-gangosa gangós AQ0FS0
 gangosament gangosament RG
-gangoses gangós AQ0FP0
 gangositat gangositat NCFS000
 gangositats gangositat NCFP000
-gangosos gangós AQ0MP0
 ganguege ganguejar VMIP1S0V
 ganguege ganguejar VMM03S0V
 ganguege ganguejar VMSP1S0V
@@ -48292,7 +48289,6 @@ ganguejàssim ganguejar VMSI1P04
 ganguejàssiu ganguejar VMSI2P04
 ganguejàvem ganguejar VMII1P00
 ganguejàveu ganguejar VMII2P00
-gangós gangós AQ0MS0
 ganivetam ganivetam NCMS000
 ganivetams ganivetam NCMP000
 ganyolament ganyolament NCMS000
