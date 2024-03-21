@@ -6519,6 +6519,7 @@ Chioggia Chioggia NPCSG00
 Chipiona Chipiona NPCSG00
 Chiquimula Chiquimula NPCSG00
 Chiradzulu Chiradzulu NPCSG00
+Chirbes Chirbes NPCNSP0
 Chirico Chirico NPCNSP0
 Chiriquí Chiriquí NPCSG00
 Chisinau Chisinau NPCSG00
@@ -22473,7 +22474,8 @@ Savinosa Savinosa NPFSG00
 Savoia Savoia NPCNSP0
 Savoia Savoia NPFSG00
 Savona Savona NPCSG00
-Savonarola Savonarola NPCNSP0
+Savonarola Savonarola NPMNSP0
+Savonaroles Savonarola NPMPSP0
 Savonlinna Savonlinna NPCSG00
 Sawhāǧ Sawhāǧ NPCSG00
 Saxònia Saxònia NPCNSP0

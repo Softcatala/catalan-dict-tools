@@ -18303,6 +18303,7 @@ juridicolegal=categories: A;fonts: dfrequencies;
 juridicolegislatiu juridicolegislativa=categories: A;fonts: derivat;
 juridicolingüístic juridicolingüística=categories: A;fonts: derivat;
 juridicomaterial=categories: A;fonts: derivat;
+juridicomediàtic juridicomediàtica=categories: A;fonts: derivat;
 juridicomercantil=categories: A;fonts: derivat;
 juridicomilitar=categories: A;fonts: derivat;
 juridicomoral=categories: A;fonts: derivat;
