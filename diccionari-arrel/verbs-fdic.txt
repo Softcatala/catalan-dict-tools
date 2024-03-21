@@ -2,6 +2,7 @@
 #ahuixar=categories: V;model:cantar;fonts: només DCVB, resta -> aüixar
 #arrocar=categories: V;model:trencar;fonts:LT dialectal, i crea confusions
 #avortir=categories: V;model:servir;fonts:LT #antic
+#baiar=categories: V;model:esglaiar;fonts: LT; antic
 #coldre=categories: V;model:absoldre;fonts: LT;
 #consellar=categories: V;model:cantar;fonts:LT #poc usual i crea confusions
 #corretejar=categories: V;model:envejar;fonts:LT #arcaisme que es confon amb castellanisme
@@ -1203,7 +1204,6 @@ bagassejar=categories: V;model:envejar;fonts: LT;
 bagolar=categories: V;model:cantar;fonts: LT;
 bagotar=categories: V;model:cantar;fonts: LT;
 baguejar=categories: V;model:envejar;fonts: LT;
-baiar=categories: V;model:esglaiar;fonts: LT;
 baixar=categories: V;model:cantar;fonts: LT;
 baixejar=categories: V;model:envejar;fonts: LT;
 baladrejar=categories: V;model:envejar;fonts: LT;

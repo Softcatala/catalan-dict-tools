@@ -68989,6 +68989,7 @@ punició=categories: F;fonts: LT;
 punicàcia=categories: F;fonts: LT;
 punidor punidora=categories: MF;fonts LT;
 puniment=categories: M;fonts: LT;
+punitivisme=categories: M;fonts: derivat;
 punk=categories: MF;fonts: esadir;
 punky=categories: MF;fonts: esadir;
 punt=categories: M;fonts: LT;

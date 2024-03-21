@@ -32,6 +32,7 @@
 #Buenos Buenos NPCSG00
 #Busca Busca NPCSG00
 #Bàrbera Bàrbera NPFSSP0 # avl: noms de persona
+#Cabacés Cabacés NPCSG00
 #Caetana Caetana NPFSSP0 # avl: noms de persona
 #Caetà Caetà NPMSSP0 # avl: noms de persona
 #Caietana Caietana NPFSSP0 # avl: noms de persona
@@ -5184,7 +5185,6 @@ CSU CSU NPFSO00
 CUP CUP NPFSO00
 Caacupé Caacupé NPCSG00
 Caazapá Caazapá NPCSG00
-Cabacés Cabacés NPCSG00
 Cabana Cabana NPCNSP0
 Cabanabona Cabanabona NPFSG00
 Cabanac Cabanac NPCNSP0
