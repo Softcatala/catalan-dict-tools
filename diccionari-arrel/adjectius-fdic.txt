@@ -7584,6 +7584,7 @@ consolidatiu consolidativa=categories: A;fonts: LT;
 consonant=categories: A;fonts: LT;
 consonàntic consonàntica=categories: A;fonts: LT;
 conspicu conspícua=categories: A;fonts: LT;
+conspiracionista=categories: A;fonts: derivat;
 conspiranoic -a=categories: A;fonts: neolosfera;
 conspiratiu conspirativa=categories: A;fonts: LT;
 constant=categories: A;fonts: LT;
