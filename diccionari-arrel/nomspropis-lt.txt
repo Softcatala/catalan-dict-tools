@@ -7361,6 +7361,7 @@ Courtenay Courtenay NPCNSP0
 Courvoisier Courvoisier NPCNSP0 # medical
 Cousteau Cousteau NPCNSP0
 Coutances Coutances NPCSG00
+Coutinho Coutinho NPCNSP0
 Couvelaire Couvelaire NPCNSP0 # medical
 Cova Cova NPCNSP0
 Cova Cova NPFSG00
@@ -26944,6 +26945,7 @@ Yatenga Yatenga NPCSG00
 Yatsushiro Yatsushiro NPCSG00
 Yazd Yazd NPCSG00
 Ybbs Ybbs NPCSG00
+Yeats Yeats NPCNSP0
 Yellowstone Yellowstone NPCSG00
 Yeongam Yeongam NPCSG00
 Yeonpyeong Yeonpyeong NPCSG00
