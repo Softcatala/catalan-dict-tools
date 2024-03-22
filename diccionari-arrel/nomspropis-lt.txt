@@ -5066,7 +5066,7 @@ Burney Burney NPCNSP0 # medical
 Burniac Burniac NPCNSP0
 Burniguer Burniguer NPCNSP0
 Burrià Burrià NPCNSP0
-Burroughs Burroughs NPCNSO0
+Burroughs Burroughs NPCNSP0
 Burrow Burrow NPCNSP0 # medical
 Bursa Bursa NPCSG00
 Buru Buru NPCSG00
@@ -12417,7 +12417,7 @@ Houellebecq Houellebecq NPCNSP0
 Houla Houla NPCSG00
 Houston Houston NPCSG00
 Hove Hove NPCSG00
-Hovedstaden Hovedstaden NPCSG0
+Hovedstaden Hovedstaden NPCSG00
 Howard Howard NPCNSP0
 Howrah Howrah NPCSG00
 Howship Howship NPCNSP0 # medical
@@ -14204,7 +14204,7 @@ Livermore Livermore NPCNG00
 Liverpool Liverpool NPCSG00
 Livi Livi NPMSSP0 # avl: noms de persona
 Livingston Livingston NPCSG00
-Livingstone Livingstone NPCNSP00
+Livingstone Livingstone NPCNSP0
 Livorno Livorno NPCSG00
 Livry-Gargan Livry-Gargan NPCSG00
 Livònia Livònia NPFSG00

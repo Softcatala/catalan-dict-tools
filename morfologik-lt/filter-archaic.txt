@@ -92,3 +92,9 @@ voràs	veure	VMIF2S0V
 voré	veure	VMIF1S0V
 voríem	veure	VMIC1P0V
 voríeu	veure	VMIC2P0V
+punta	punta	AQ0CN0
+havem	haver	VAIP1P00
+havem	heure	VMIP1P00
+haveu	haver	VAIP2P00
+haveu	heure	VMIP2P00
+haveu	heure	VMM02P00
