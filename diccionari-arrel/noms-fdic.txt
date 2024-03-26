@@ -8478,6 +8478,7 @@ autodecepció=categories: F;fonts: derivat;
 autodeclaració=categories: F;fonts: derivat;
 autodefensa=categories: F;fonts: LT;
 autodefinició=categories: F;fonts: LT;
+autodenigració=categories: F;fonts: derivat;
 autodenominació=categories: F;fonts: derivat;
 autodenúncia=categories: F;fonts: derivat;
 autodependència=categories: F;fonts: derivat;

@@ -5914,6 +5914,7 @@ Carrickfergus Carrickfergus NPCSG00
 Carrillo Carrilo NPCNSP0
 Carriol Carriol NPCNSP0
 Carritg Carritg NPCNSP0
+Carrizosa Carrizosa NPCNSP0
 Carrió Carrió NPCNSP0
 Carrión Carrión NPCSG00
 Carroja Carroja NPFSG00
@@ -24978,6 +24979,7 @@ Trnava Trnava NPCSG00
 Trobat Trobat NPCNSP0
 Troc Troc NPCNSP0
 Troia Troia NPFSG00
+Troiacord Troiacord NPMSO00
 Trollhättan Trollhättan NPCSG00
 Tromsø Tromsø NPCSG00
 Tronc Tronc NPCNSP0
