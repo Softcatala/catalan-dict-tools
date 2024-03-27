@@ -6734,6 +6734,7 @@ incrustar=categories: V;model:cantar;fonts: LT;
 incubar=categories: V;model:cantar;fonts: LT;
 inculcar=categories: V;model:trencar;fonts: LT;
 inculpar=categories: V;model:cantar;fonts: LT;
+inculturar=categories: V;model:cantar;fonts: termcat;
 incumbir=categories: V;model:servir;fonts: LT;
 incórrer=categories: V;model:acórrer;fonts: LT;
 indagar=categories: V;model:pregar;fonts: LT;
