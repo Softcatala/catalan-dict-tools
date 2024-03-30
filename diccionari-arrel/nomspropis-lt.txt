@@ -13438,6 +13438,7 @@ Kehr Kehr NPCNSP0 # medical
 Keitel Keitel NPCNSP0
 Keith-Flack Keith-Flack NPCNSP0 # medical
 Kelantan Kelantan NPCSG00
+Kelly Kelly NPCNSP0
 Kemerovo Kemerovo NPCSG00
 Kempen Kempen NPCSG00
 Kemper Kemper NPCSG00
