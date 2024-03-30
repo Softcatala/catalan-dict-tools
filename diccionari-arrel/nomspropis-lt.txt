@@ -8123,6 +8123,7 @@ Dionís Dionís NPCNSP0
 Dionís Dionís NPMSSP0
 Dionísia Dionísia NPFSSP0
 Dionísies Dionísia NPFPSP0
+Dior Dior NPCNSP0
 Dioscòrides Dioscòrides NPMSSP0
 Diourbel Diourbel NPCSG00
 Dipilo Dipilo NPCSG00
