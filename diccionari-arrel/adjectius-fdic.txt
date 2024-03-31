@@ -85,6 +85,7 @@ STEAM=categories: AI;fonts: sigla;
 STEM=categories: AI;fonts: sigla;
 SenseObraDerivada=categories: AI;fonts: CC;
 UHT=categories: AI;fonts: termcat;
+WASP=categories: AI;fonts: english;
 XL=categories: AI;fonts: wiki;
 XXL=categories: AI;fonts: wiki;
 XXXL=categories: AI;fonts: wiki;
