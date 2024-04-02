@@ -6153,6 +6153,7 @@ Casteràs Casteràs NPCNSP0
 Castesillo Castesillo NPMSG00
 Castielfabib Castielfabib NPCSG00
 Castigaleu Castigaleu NPCSG00
+Castillejos Castillejos NPMPG00
 Castillo Castillo NPCNSP0
 Castilló Castilló NPCSG00
 Castissent Castissent NPCSG00
@@ -7024,6 +7025,7 @@ Comet Comet NPCNSP0
 Comilla Comilla NPCSG00
 Cominal Cominal NPCNSP0
 Comino Comino NPCSG00
+Comintern Comintern NPMSO00
 Comiso Comiso NPCSG00
 Comià Comià NPCNSP0
 Commonwealth Commonwealth NPFSO00
@@ -12331,6 +12333,7 @@ Holguín Holguín NPCSG00
 Hollande Hollande NPCNSP0
 Hollywood Hollywood NPCSG00
 Holmes Holmes NPCNSP0
+Holodomor Holodomor NPMSO00
 Holofernes Holofernes NPMSSP0 # avl: noms de persona
 Holon Holon NPCSG00
 Holstein Holstein NPCSG00
@@ -12586,6 +12589,7 @@ Ibrahim Ibrahim NPMSSP0
 Ibrahima Ibrahima NPMSSP0
 Ibran Ibran NPCNSP0
 Ibsen Ibsen NPCNSP0
+Ibárruri Ibárruri NPCNSP0
 Ibáñez Ibáñez NPCNSP0
 Ibèria Ibèria NPFSG00
 Ica Ica NPCSG00
@@ -15392,6 +15396,7 @@ Marina Marina NPFSSP0
 Marinel·lo Marinel·lo NPCNSP0
 Marines Marina NPFPSP0
 Marines Marines NPFPG00
+Marinetti Marinetti NPCNSP0
 Marinhan Marinhan NPCSG00
 Marinyac Marinyac NPCNSP0
 Marinyà Marinyà NPCNSP0
@@ -18756,6 +18761,7 @@ Passapera Passapera NPCNSP0
 Passau Passau NPCSG00
 Passavant Passavant NPCSG00
 Passerell Passerell NPCNSP0
+Passionària Passionària NPFSSP0
 Passola Passola NPCNSP0
 Passoré Passoré NPCSG00
 Pastaza Pastaza NPCSG00
