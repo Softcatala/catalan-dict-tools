@@ -24309,7 +24309,7 @@ Tessàlia Tessàlia NPFSG00
 Testagorda Testagorda NPCNSP0
 Testard Testard NPCNSP0
 Tesà Tesà NPCSG00
-Tet Tet NPFSG00
+Tet Tet NPCSG00 # riu la Tet, ofensiva del Tet, muntanyes del Tet
 Tete Tete NPCSG00
 Tetes Tetes NPCNSP0
 Tetis Tetis NPFSSP0 # avl: noms de persona
@@ -25675,6 +25675,7 @@ Vancouver Vancouver NPCSG00
 Vanda Vanda NPCSSP0 # avl: noms de persona
 Vandellòs Vandellòs NPCNSP0
 Vandellòs Vandellòs NPCSG00
+Vanderbilt Vanderbilt NPCNSP0
 Vandoeuvre-les-Nancy Vandoeuvre-les-Nancy NPCSG00
 Vanessa Vanessa NPFSSP0 # avl: noms de persona
 Vannes Vannes NPCSG00
