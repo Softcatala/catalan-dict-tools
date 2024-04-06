@@ -8841,6 +8841,7 @@ desballestador desballestadora=categories: A;fonts: LT;
 desbaratador desbaratadora=categories: A;fonts: LT;
 desbarbador desbarbadora=categories: A;fonts: LT;
 desbatallat desbatallada=categories: A;fonts: LT;
+desbloquejable=categories: A;fonts: derivat;
 desbordant=categories: A;fonts: LT;
 desbordat desbordada [sup. desbordadíssim]=categories: A;fonts: participi;
 desbragat desbragada=categories: A;fonts: LT;

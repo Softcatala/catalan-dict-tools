@@ -48837,8 +48837,6 @@ glotonejàvem glotonejar VMII1P00
 glotonejàveu glotonejar VMII2P00
 glotoneria glotoneria NCFS000
 glotoneries glotoneria NCFP000
-glotònim glotònim NCMS000
-glotònims glotònim NCMP000
 gluc-gluc gluc-gluc NCMS000
 gluc-glucs gluc-gluc NCMP000
 glutinositat glutinositat NCFS000

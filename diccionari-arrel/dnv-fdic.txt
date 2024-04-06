@@ -2782,7 +2782,6 @@ glossàlgia=categories: F;fonts: DNV;
 glotonament=categories: RG;fonts: DNV;
 glotonejar=categories: V;model:envejar;fonts: DNV;
 glotoneria=categories: F;fonts: DNV;
-glotònim=categories: M;fonts: DNV;
 gluc-gluc=categories: M;fonts: DNV;
 glutinositat=categories: F;fonts: DNV;
 goal-average=categories: MS;fonts: DNV,anglès;
