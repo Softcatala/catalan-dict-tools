@@ -6484,6 +6484,7 @@ Chenoa Chenoa NPFSSP0
 Cher Cher NPMSG00
 Cherbourg Cherbourg NPCSG00
 Cherrapunji Cherrapunji NPCSG00
+Cherubini Cherubini NPCNSP0
 Cheshunt Cheshunt NPCSG00
 Chester Chester NPCSG00
 Chesterfield Chesterfield NPCSG00
@@ -12280,6 +12281,7 @@ Himeri Himeri NPMSSP0
 Himeris Himeri NPMPSP0
 Himmler Himmler NPCNSP0
 Himàlaia Himàlaia NPMSG00
+Hindemith Hindemith NPCNSP0
 Hindustan Hindustan NPMSG00
 Hinman Hinman NPCNSP0 # medical
 Hinnøy Hinnøy NPCSG00
@@ -16980,6 +16982,7 @@ Motes Motes NPCNSP0
 Motger Motger NPCNSP0
 MotoGP MotoGP NPCNO00
 Motorola Motorola NPCNO00
+Motown Motown NPCNO00
 Motril Motril NPCSG00
 Mottola Mottola NPCSG00
 Moudjéria Moudjéria NPCSG00

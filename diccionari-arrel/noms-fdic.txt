@@ -41080,6 +41080,7 @@ guindola=categories: F;fonts: LT;
 guinea=categories: F;fonts: LT;
 guinet=categories: M;fonts: LT;
 guineu=categories: F;fonts: LT;
+guineueta=categories: F;fonts: diminutiu;
 guineà guineana=categories: MF;fonts LT;
 guingueta=categories: F;fonts: LT;
 guinguetès guinguetesa=categories: MF;fonts: LT;

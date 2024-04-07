@@ -16310,6 +16310,7 @@ implantable=categories: A;fonts: dsalut;
 implantador implantadora=categories: A;fonts: LT;
 implantejable=categories: A;fonts: derivat;
 implegable=categories: A;fonts: LT;
+implementable=categories: A;fonts: derivat;
 implementador -a=categories: A; fonts: derivat;
 implex implexa=categories: A;fonts: LT;
 implicatori implicatòria=categories: A;fonts: LT;
