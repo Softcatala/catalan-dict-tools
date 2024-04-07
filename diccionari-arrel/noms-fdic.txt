@@ -50551,6 +50551,7 @@ macrodactilisme=categories: M;fonts: dsalut;
 macrodactília=categories: F;fonts: LT;
 macrodades=categories: FPfonts: derivat;
 macrodasiòdid=categories: M;fonts: LT;
+macrodesplegament=categories: M;fonts: derivat;
 macrodiscoteca=categories: F;fonts: LT;
 macrodispositiu=categories: M;fonts: derivat;
 macrodistribuïdor macrodistribuïdora=categories: MF;fonts: derivat;
