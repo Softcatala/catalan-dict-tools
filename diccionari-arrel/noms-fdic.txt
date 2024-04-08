@@ -79485,6 +79485,7 @@ templet=categories: M;fonts: LT;
 templàs [pl. templassos]=categories: M;fonts: LT;
 tempo=categories: M;fonts: LT;
 temporada=categories: F;fonts: LT;
+temporadeta=categories: F;fonts: diminutiu;
 temporal=categories: M;fonts: LT;
 temporalada=categories: F;fonts: LT;
 temporalisme=categories: M;fonts: LT;
