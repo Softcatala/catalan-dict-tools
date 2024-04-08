@@ -5939,6 +5939,7 @@ etiquetar=categories: V;model:cantar;fonts: LT;
 etzibar=categories: V;model:cantar;fonts: LT;
 europeïtzar=categories: V;model:cantar;fonts: LT;
 euskaldunitzar=categories: V;model:cantar;fonts: DNV;
+eutanasiar=categories: V;model:crear;fonts: LT;
 evacuar=categories: V;model:lloar;fonts: LT;
 evadir=categories: V;model:servir;fonts: LT;
 evaginar=categories: V;model:abominar;fonts: LT;

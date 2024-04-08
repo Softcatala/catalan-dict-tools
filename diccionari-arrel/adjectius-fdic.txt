@@ -2769,6 +2769,7 @@ antivici=categories: AI;fonts: LT;
 antiviral=categories: A;fonts: LT;
 antivirus=categories: AI;fonts: LT;
 antivíric antivírica=categories: A;fonts: LT;
+antiwoke=categories: AI;fonts: English;
 antixarampionós antixarampionosa=categories: A;fonts: termcat;
 antixeroftàlmic antixeroftàlmica=categories: A;fonts: LT;
 antixeroftàlmic antixeroftàlmica=categories: A;fonts: dsalut;
