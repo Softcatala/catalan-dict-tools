@@ -32034,6 +32034,7 @@ ultrabàsic ultrabàsica=categories: A;fonts: LT;
 ultracatòlic ultracatòlica=categories: A;fonts: derivat;
 ultracentenari ultracentenària=categories: A;fonts: LT;
 ultracentralista=categories: A;fonts: derivat;
+ultracodificat ultracodificada=categories: A;fonts: derivat;
 ultraconservador ultraconservadora=categories: A;fonts: LT;
 ultraconsumidor ultraconsumidora=categories: A;fonts: derivat;
 ultracuidat ultracuidada=categories: A;fonts: LT;

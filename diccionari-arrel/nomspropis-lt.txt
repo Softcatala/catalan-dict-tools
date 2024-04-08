@@ -23375,6 +23375,7 @@ Solà Solà NPCNSP0
 Solà Solà NPMSG00
 Solà-Morales Solà-Morales NPCNSP0
 Soló Soló NPMSSP0
+Somalilàndia Somalilàndia NPFSG00
 Somerset Somerset NPCSG00
 Somerville Somerville NPCSG00
 Someş Someş NPCSG00
