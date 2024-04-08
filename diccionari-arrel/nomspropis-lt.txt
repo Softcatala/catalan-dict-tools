@@ -2083,7 +2083,6 @@ Apurímac Apurímac NPCSG00
 Apòl·lon Apòl·lon NPMSSP0
 Apòl·lons Apòl·lon NPMPSP0
 Apúlia Apúlia NPFSG00
-Aqaba Aqaba NPCSG00
 Aquabrava Aquabrava NPFSG00
 Aquari Aquari NPCSG00
 Aqueront Aqueront NPMSSP0
@@ -17439,6 +17438,7 @@ Nemunas Nemunas NPCSG00
 Nemèsia Nemèsia NPFSSP0 # avl: noms de persona
 Neocretaci Neocretaci NPCSG00
 Neoloteca Neoloteca NPFSO00
+Neom Neom NPCSG00
 Neopàtria Neopàtria NPFSG00
 Nepal Nepal NPMSG00
 Nepomucè Nepomucè NPMSSP0 # avl: noms de persona
@@ -27226,6 +27226,7 @@ uTorrent uTorrent NPCNO00
 Àngels Àngels NPFSSP0
 Ànimes Ànimes NPFPG00
 Àpia Àpia NPFSSP0 # avl: noms de persona
+Àqaba Àqaba NPCSG00
 Àquila Àquila NPMSSP0
 Àreu Àreu NPCSG00
 Ària Ària NPFSSP0 # avl: noms de persona
