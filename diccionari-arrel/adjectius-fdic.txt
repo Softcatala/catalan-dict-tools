@@ -2597,6 +2597,7 @@ antipiròtic antipiròtica=categories: A;fonts: dsalut;
 antiplaquetari antiplaquetària=categories: A;fonts: dsalut;
 antiplasmodial=categories: A;fonts: dsalut;
 antiplatihelmíntic antiplatihelmíntica=categories: A;fonts: dsalut;
+antipluralista=categories: A;fonts: derivat;
 antiplàstic antiplàstica=categories: A;fonts: LT;
 antipneumocòccic -a=categories: A;fonts: dmedicina;
 antipneumocòccic antipneumocòccica=categories: A;fonts: dsalut;
