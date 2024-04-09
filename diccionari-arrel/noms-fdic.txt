@@ -61692,6 +61692,7 @@ paraciclofà=categories: M;fonts: LT;
 paraciesi=categories: F;fonts: dsalut;
 paracinèsia=categories: F;fonts: LT;
 paracistitis=categories: FI;fonts: dsalut;
+paraciència=categories: F;fonts: derivat;
 paraclorofenol=categories: M;fonts: dsalut;
 paraclímax=categories: F;fonts: LT;
 paracme=categories: F;fonts: LT;
