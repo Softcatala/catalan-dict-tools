@@ -67813,6 +67813,7 @@ proiomenorrea=categories: F;fonts: dsalut;
 proiòcia=categories: F;fonts: dsalut;
 projeccionista=categories: MF;fonts: LT;
 projecció=categories: F;fonts: LT;
+projectació=categories: F;fonts: termcat;
 projecte=categories: M;fonts: LT;
 projectil=categories: M;fonts: LT;
 projectisme=categories: M;fonts: LT;
