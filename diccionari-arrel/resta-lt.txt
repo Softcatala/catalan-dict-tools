@@ -757,6 +757,7 @@ qualcuns qualcun DI0MP0
 qualcuns qualcun PI0MP000
 qualcú qualcú PI0CS000
 qualque qualque DI0CS0
+qualques qualque DI0CP0 # inusual
 quals qual DR0CP0
 quals qual PR0CP000
 qualsevol qualsevol DI0CS0
