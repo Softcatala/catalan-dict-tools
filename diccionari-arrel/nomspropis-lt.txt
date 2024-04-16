@@ -13994,6 +13994,7 @@ Leire Leire NPFSSP0
 Leiria Leiria NPCSG00
 Lejárraga Lejárraga NPCNSP0
 Lel Lel NPCSG00
+Lemaître Lemaître NPCNSP0
 Lemdiyya Lemdiyya NPCSG00
 Lemnos Lemnos NPCSG00
 Lena Lena NPCSG00
