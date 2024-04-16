@@ -1,4 +1,5 @@
 #XL XL AO0CN0 # romans
+#la la I
 'en en PP3CN000
 'hi hi PP3CN000
 'ho ho PP3NN000
@@ -543,7 +544,6 @@ l' el DA0CS0
 l' ell PP3CSA00
 la el DA0FS0
 la ell PP3FSA00
-la la I
 les el DA0FP0
 les ell PP3FPA00
 li ell PP3CSD00

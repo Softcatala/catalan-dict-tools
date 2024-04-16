@@ -52345,6 +52345,7 @@ megacurie=categories: M;fonts: dsalut;
 megacàrdia=categories: F;fonts: dsalut;
 megacòlon=categories: M;fonts: LT;
 megadalton=categories: M;fonts: dsalut;
+megadecret=categories: M;fonts: derivat;
 megadermàtid=categories: M;fonts: LT;
 megaduc=categories: M;fonts: LT;
 megaduodè=categories: M;fonts: dsalut;
