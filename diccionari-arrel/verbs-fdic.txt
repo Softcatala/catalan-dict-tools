@@ -14,6 +14,7 @@
 #fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
 #malvore=categories: V;model:vore;fonts: DNV;
 #mercar=categories: V;model:trencar;fonts: LT;
+#microadministrar=categories: V;model:cantar;fonts: derivat;
 #postposar=categories: V;model:anquilosar;fonts: LT;
 #revoldre=categories: V;model:absoldre;fonts:LT no normatiu, només DCVB
 #revore=categories: V;model:vore;fonts: DNV;
@@ -7346,6 +7347,7 @@ metre=categories: V;model:metre;fonts: LT;
 metrificar=categories: V;model:trencar;fonts: LT;
 micorrizar=categories: V;model:cantar;fonts: orto2017;
 microfilmar=categories: V;model:cantar;fonts: LT;
+microgestionar=categories: V;model:cantar;fonts: derivat;
 microinjectar=categories: V;model:cantar;fonts: LT;
 micronitzar=categories: V;model:cantar;fonts: LT;
 midar=categories: V;model:cantar;fonts: LT;
