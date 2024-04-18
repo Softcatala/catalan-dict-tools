@@ -3833,6 +3833,7 @@ autobronzejador autobronzejadora=categories: A;fonts: derivat;
 autocarregable=categories: A;fonts: derivat;
 autocarregador autocarregadora=categories: A;fonts: termcat;
 autocentrador autocentradora=categories: A;fonts: LT;
+autocentrat autocentrada=categories: A;fonts: derivat;
 autocinètic autocinètica=categories: A;fonts: LT;
 autoclau=categories: AI;fonts: LT;
 autocoherent=categories: A;fonts: LT;

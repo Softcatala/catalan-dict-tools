@@ -8407,6 +8407,7 @@ autocateterisme=categories: M;fonts: dsalut;
 autocatàlisi=categories: F;fonts: LT;
 autocefàlia=categories: F;fonts: LT;
 autocensura=categories: F;fonts: LT;
+autocentrament=categories: M;fonts: derivat;
 autocertificació=categories: F;fonts: derivat;
 autocicle=categories: M;fonts: wiki;
 autocine=categories: M;fonts: LT;
