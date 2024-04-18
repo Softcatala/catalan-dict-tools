@@ -54385,6 +54385,7 @@ microvinificació=categories: F;fonts: derivat;
 microviscosímetre=categories: M;fonts: dsalut;
 microvisor=categories: M;fonts: termcat;
 microvivisecció=categories: F;fonts: dsalut;
+microxarxa=categories: F;fonts: wiki;
 microxeringa=categories: F;fonts: dsalut;
 microxip=categories: M;fonts: termcat;
 microzona=categories: F;fonts: derivat;
