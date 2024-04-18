@@ -26067,6 +26067,7 @@ protolític protolítica=categories: A;fonts: LT;
 protomental=categories: A;fonts: dsalut;
 protomàrtir=categories: A;fonts: LT;
 protonacional=categories: A;fonts: derivat;
+protonazi=categories: A;fonts: derivat;
 protoplasmàtic protoplasmàtica=categories: A;fonts: LT;
 protopolític -a=categories: A;fonts: derivat;
 protopàtic protopàtica=categories: A;fonts: dsalut;
