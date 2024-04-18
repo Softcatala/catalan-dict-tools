@@ -30480,8 +30480,6 @@ desronyament desronyament NCMS000
 desronyaments desronyament NCMP000
 dessaboriment dessaboriment NCMS000
 dessaboriments dessaboriment NCMP000
-dessalacions dessalació NCFP000
-dessalació dessalació NCFS000
 desseguidada desseguidat AQ0FS0
 desseguidades desseguidat AQ0FP0
 desseguidat desseguidat AQ0MS0

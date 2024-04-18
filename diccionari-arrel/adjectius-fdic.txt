@@ -9140,6 +9140,7 @@ desramificador desramificadora=categories: A;fonts: dsalut;
 desraonat desraonada=categories: A;fonts: LT;
 dessabeït dessabeïda=categories: A;fonts: LT;
 dessacralitzador -a=categories: A;fonts: DDLC;
+dessalador dessaladora=categories: A;fonts: DNV,esadir;
 dessalinitzador -a=categories: A;fonts: termcat;
 dessecant=categories: A;fonts: LT;
 dessecatiu dessecativa=categories: A;fonts: LT;

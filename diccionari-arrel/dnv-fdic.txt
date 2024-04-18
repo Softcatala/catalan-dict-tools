@@ -1700,7 +1700,6 @@ desrenyonar=categories: V;model:cantar;fonts: DNV;
 desronyador -a=categories: A;fonts: DNV;
 desronyament=categories: M;fonts: DNV;
 dessaboriment=categories: M;fonts: DNV;
-dessalació=categories: F;fonts: DNV;
 desseguidat -ada=categories: A;fonts: DNV;
 dessentit -ida=categories: A;fonts: DNV;
 desservici=categories: M;fonts: DNV;
