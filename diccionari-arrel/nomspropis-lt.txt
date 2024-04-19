@@ -8271,6 +8271,7 @@ Dorres Dorres NPCSG00
 Dorset Dorset NPCSG00
 Dorsten Dorsten NPCSG00
 Dortmund Dortmund NPMSG00
+Dortmund-Ems Dortmund-Ems NPMSG00
 Dorve Dorve NPCSG00
 Dorífor Dorífor NPMSSP0
 Dosaigües Dosaigües NPCNSP0
