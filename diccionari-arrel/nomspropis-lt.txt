@@ -3997,6 +3997,7 @@ Bernoulli Bernoulli NPCNSP0
 Bernstein Bernstein NPCNSP0
 Berné Berné NPCNSP0
 Bernés Bernés NPCNSP0
+Berria Berria NPMSO00
 Berrouaghia Berrouaghia NPCSG00
 Berruga Berruga NPFSG00
 Berry Berry NPMSG00
@@ -4173,6 +4174,7 @@ Bilbeny Bilbeny NPCNSP0
 Bilbert Bilbert NPCNSP0
 Bilbo Bilbo NPMSSP0
 Bilderberg Bilderberg NPCNSP0
+Bildu Bildu NPCSO00
 Bildu Bildu NPMSO00
 Billarac Billarac NPCNSP0
 Billeneta Billeneta NPFSG00
@@ -14124,6 +14126,7 @@ Libération Libération NPCSO00
 Libòria Libòria NPFSSP0 # avl: noms de persona
 Licabet Licabet NPCSG00
 Licata Licata NPCSG00
+Lichtenberg Lichtenberg NPCNSP0
 Lichtenstein Lichtenstein NPCNSP0
 Licini Licini NPMSSP0
 Licinis Licini NPMPSP0
@@ -18334,6 +18337,7 @@ Ottaviano Ottaviano NPCSG00
 Ottawa Ottawa NPCSG00
 Otto Otto NPCNSP0 # medical
 Otto Otto NPMSSP0
+Otxandiano Otxandiano NPCNSP0
 Otzet Otzet NPCNSP0
 Otília Otília NPFSSP0
 Otílies Otília NPFPSP0
@@ -23446,6 +23450,7 @@ Sort Sort NPCNSP0
 Sort Sort NPFSG00
 Sorts Sorts NPCNSP0
 Sorts Sorts NPFPG00
+Sortu Sortu NPCSO00
 Sorà Sorà NPCNSP0
 Sorís Sorís NPCNSP0
 Sos Sos NPCSG00
