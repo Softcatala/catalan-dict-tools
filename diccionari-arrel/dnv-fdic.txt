@@ -3872,7 +3872,6 @@ negrús -ussa=categories: A;fonts: DNV;
 neogasteròpode=categories: M;fonts: DNV;
 neonatològic -a=categories: A;fonts: DNV;
 neornite=categories: M;fonts: DNV;
-nepotista=categories: A;fonts: DNV;
 neroli=categories: M;fonts: DNV;
 nerviació=categories: F;fonts: DNV;
 nerviar=categories: V;model:crear;fonts: DNV;

@@ -21821,6 +21821,7 @@ neoàrab=categories: A;fonts: LT;
 neoàtic neoàtica=categories: A;fonts: LT;
 nepalès nepalesa=categories: A;fonts: LT;
 neperià neperiana=categories: A;fonts: LT;
+nepotista=categories: A;fonts: DNV;
 neptunista=categories: A;fonts: LT;
 neptunià neptuniana=categories: A;fonts: LT;
 neptúnic neptúnica=categories: A;fonts: LT;

@@ -22569,6 +22569,7 @@ Schwarzenegger Schwarzenegger NPCNSP0
 Schweinfurt Schweinfurt NPCSG00
 Schwerin Schwerin NPCSG00
 Schwyz Schwyz NPCSG00
+Schéhérazade Schéhérazade NPCSSP0 # francès
 Schönberg Schönberg NPCNSP0
 Schönebeck Schönebeck NPCSG00
 Schönlein-Henoch Schönlein-Henoch NPCNSP0 # medical
