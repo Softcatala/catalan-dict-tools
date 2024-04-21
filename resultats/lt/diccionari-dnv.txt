@@ -69915,8 +69915,6 @@ tabaira tabaira NCFS000
 tabaires tabaira NCFP000
 tabaquista tabaquista NCCS000
 tabaquistes tabaquista NCCP000
-tablet tablet NCFS000
-tablets tablet NCFP000
 tafarruda tafarrut AQ0FS0
 tafarrudes tafarrut AQ0FP0
 tafarrut tafarrut AQ0MS0

@@ -5224,7 +5224,6 @@ sígnic -a=categories: A;fonts: DNV;
 súbit -a=categories: A;fonts: DNV;
 tabaira=categories: F;fonts: DNV;
 tabaquista=categories: MF;fonts: DNV;
-tablet=categories: F;fonts: DNV,anglès;
 tafarrut -uda=categories: A;fonts: DNV;
 tagarnina=categories: F;fonts: DNV,col·loquial;
 tai-txi=categories: M;fonts: DNV;
