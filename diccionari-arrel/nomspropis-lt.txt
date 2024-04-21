@@ -15211,6 +15211,7 @@ Manipur Manipur NPCSG00
 Manises Manises NPCSG00
 Manitoba Manitoba NPCSG00
 Manizales Manizales NPCSG00
+Mankiewicz Mankiewicz NPCNSP0
 Mankono Mankono NPCSG00
 Manlleu Manlleu NPCNSP0
 Manlleu Manlleu NPCSG00
