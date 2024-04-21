@@ -5501,6 +5501,7 @@ anticoncepció=categories: F;fonts: LT;
 anticonceptiu=categories: M;fonts: LT;
 anticongelant=categories: M;fonts: LT;
 anticonstitucionalitat=categories: F;fonts: LT;
+anticonvencionalisme=categories: M;fonts: derivat;
 anticonvulsiu=categories: M;fonts: LT;
 anticorona=categories: F;fonts: LT;
 anticorrosiu=categories: M;fonts: LT;

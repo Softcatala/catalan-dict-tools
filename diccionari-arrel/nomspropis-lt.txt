@@ -9470,6 +9470,8 @@ Eòlia Eòlia NPFSG00
 Eötvös Eötvös NPCNSP0
 Eşfahān Eşfahān NPCSG00
 Ešnunna Ešnunna NPCSG00
+F-16 F-16 NPMNO00
+F-35 F-35 NPMNO00
 F1 F1 NPFSO00
 FAD FAD NPMSO00
 FAES FAES NPFSO00
@@ -15497,6 +15499,7 @@ Martines Martina NPFPSP0
 Martines Martines NPCNSP0
 Martines Martines NPFPG00
 Martinet Martinet NPCSG00
+Martini Martini NPMNO00
 Martiniana Martiniana NPFSSP0 # avl: noms de persona
 Martinians Martinià NPMPSP0
 Martinica Martinica NPFSG00
@@ -26727,6 +26730,7 @@ Windhoek Windhoek NPCSG00
 Windisch-Grätz Windisch-Grätz NPCNSP0
 Windows Windows NPMSO00
 Windsor Windsor NPCNSP0
+Wingfield Wingfield NPCNSP0
 Winnipeg Winnipeg NPCSG00
 Winston-Salem Winston-Salem NPCSG00
 Winterthur Winterthur NPCSG00
