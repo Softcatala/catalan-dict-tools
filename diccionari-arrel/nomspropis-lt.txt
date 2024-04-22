@@ -8565,6 +8565,7 @@ Egmidi Egmidi NPMSSP0 # avl: noms de persona
 Egídia Egídia NPFSSP0 # avl: noms de persona
 Ehlers-Danlos Ehlers-Danlos NPCNSP0 # medical
 Ehringsdorf Ehringsdorf NPCSG00
+EiTB EiTB NPFSO00
 Eibar Eibar NPCSG00
 Eichsfeld Eichsfeld NPCSG00
 Eidenbenz Eidenbenz NPCNSP0
@@ -10517,6 +10518,7 @@ GNU GNU NPMSO00
 GOB GOB NPMSO00
 GPL GPL NPCNO00
 GPT-3 GPT-3 NPMSO00
+GRAPO GRAPO NPMPO00
 GSM GSM NPCNO00
 GSMA GSMA NPFSO00
 Gabana Gabana NPCNSP0
@@ -14985,6 +14987,7 @@ Maiduguri Maiduguri NPCSG00
 Maier Maier NPCNSP0
 Maigmudella Maigmudella NPFSG00
 Maigmó Maigmó NPMSG00
+Maillard Maillard NPCNSP0
 Mailí Mailí NPCNSP0
 Maimir Maimir NPCNSP0
 Maimònides Maimònides NPMSSP0

@@ -18264,6 +18264,7 @@ jeffersonià jeffersoniana=categories: A;fonts: derivat;
 jejunal=categories: A;fonts: LT;
 jejunoileal=categories: A;fonts: dsalut;
 jejunojejunal=categories: A;fonts: dsalut;
+jeltzale=categories: A;fonts: esadir;
 jennerià jenneriana=categories: A;fonts: dsalut;
 jerarquitzador -a=categories: A;fonts: derivat;
 jerarquitzat jerarquitzada [sup. jerarquitzadíssim]=categories: A; font:apertium;
