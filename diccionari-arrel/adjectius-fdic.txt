@@ -14520,6 +14520,7 @@ goès goesa=categories: A;fonts: LT;
 goètic goètica=categories: A;fonts: LT;
 graciable=categories: A;fonts: LT;
 gracienc gracienca=categories: A;fonts: LT;
+gracioset gracioseta=categories: A;fonts: diminutiu;
 graciós graciosa [sup. graciosíssim]=categories: A; font:apertium;
 graduable=categories: A;fonts: LT;
 graduador graduadora=categories: A;fonts: LT;
