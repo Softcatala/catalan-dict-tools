@@ -214,6 +214,7 @@ API=categories: FI;fonts: softcatala, viquipedia;
 ARN=categories: MI;fonts: LT;
 ARNm=categories: MI;fonts: wiki;
 AT=categories: MS; fonts: sigla;
+ATP=categories: MFI;fonts: sigles, nom propi i comú;
 ATS=categories: MFI;fonts: esadir;
 AZT=categories: FI;fonts: dsalut;
 Apocalipsi=categories: M;fonts: GDLC;

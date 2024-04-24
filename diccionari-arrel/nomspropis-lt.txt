@@ -254,7 +254,6 @@ ANSI ANSI NPMSO00
 ARRO ARRO NPCNO00
 ATC ATC NPFSO00
 ATM ATM NPFSO00
-ATP ATP NPFSO00
 AVE AVE NPMNO00
 AVL AVL NPFSO00
 Aalborg Aalborg NPCSG00
@@ -4429,6 +4428,7 @@ Bolton Bolton NPCSG00
 Boltzmann Boltzmann NPCNSP0
 Boltà Boltà NPCNSP0
 Boltó Boltó NPCNSP0
+Bolufer Bolufer NPCNSP0
 Bolulla Bolulla NPFSG00
 Bolumar Bolumar NPCNSP0
 Bolunya Bolunya NPCNSP0
@@ -23527,6 +23527,7 @@ Sporting Sporting NPMSO00
 Spotify Spotify NPMSO00
 Spratly Spratly NPFPG00
 Spree Spree NPCSG00
+Springfield Springfield NPCNSP0
 Springfield Springfield NPCSG00
 Springs Springs NPCSG00
 Springsteen Springsteen NPCNSP0
