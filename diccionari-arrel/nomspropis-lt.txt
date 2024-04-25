@@ -16063,6 +16063,7 @@ Meravella Meravella NPCSG00
 Mercabarna Mercabarna NPCSO00
 Mercadal Mercadal NPCNSP0
 Mercadal Mercadal NPMSG00
+Mercadante Mercadante NPCNSP0
 Mercadell Mercadell NPCNSP0
 Mercader Mercader NPCNSP0
 Mercadona Mercadona NPCNO00
@@ -26688,6 +26689,7 @@ Whitney Whitney NPCSG00
 Wichita Wichita NPCSG00
 Wickam Wickam NPCNSP0
 Wickam Wickam NPCNSP0 # medical
+Widmann Widmann NPCNSP0
 Widnes Widnes NPCSG00
 Wied Wied NPCNSP0
 Wied Wied NPCSG00
