@@ -14961,6 +14961,7 @@ Magret Magret NPCNSP0
 Magrib Magrib NPMSG00
 Magrinyà Magrinyà NPCNSP0
 Magris Magris NPCNSP0
+Magritte Magritte NPCNSP0
 Magrià Magrià NPCNSP0
 Magrí Magrí NPCNSP0
 Maguindanao Maguindanao NPCSG00

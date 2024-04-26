@@ -5435,6 +5435,7 @@ antiarnes=categories: MI;fonts: LT;
 antiarrugues=categories: MI;fonts: LT;
 antiarrítmic=categories: M;fonts: orto2017;
 antiarsenina=categories: F;fonts: dsalut;
+antiart=categories: MS;fonts: wiki;
 antiartrític=categories: M;fonts: LT;
 antiasmàtic=categories: M;fonts: LT;
 antiateroescleròtic=categories: M;fonts: LT;
