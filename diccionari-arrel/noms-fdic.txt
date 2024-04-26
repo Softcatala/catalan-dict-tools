@@ -80979,6 +80979,7 @@ tit=categories: M;fonts: LT;
 tita=categories: F;fonts: LT;
 titafluixa=categories: M;fonts: colloquial;
 titafreda=categories: M;fonts: colloquial;
+titaina=categories: F;fonts: DNV;
 titanat=categories: M;fonts: LT;
 titani=categories: M;fonts: LT;
 titanil=categories: M;fonts: LT;

@@ -18800,6 +18800,8 @@ Pastora Pastora NPFSSP0 # avl: noms de persona
 Pastoret Pastoret NPCNSP0
 Pastoritx Pastoritx NPCSG00
 Pastors Pastor NPMPSP0
+Pastrana Pastrana NPCNSP0
+Pastrana Pastrana NPCSG00
 Pastre Pastre NPCNSP0
 Pasífae Pasífae NPFSSP0
 Patagònia Patagònia NPFSG00
@@ -24499,6 +24501,7 @@ Tis Tis NPMSG00
 Tisbe Tisbe NPFSSP0 # avl: noms de persona
 Tisza Tisza NPCSG00
 Tit Tit NPMSSP0 # avl: noms de persona
+Titaina Titaina NPFSSP0
 Titano Titano NPCSG00
 Titicaca Titicaca NPMSG00
 Tito Tito NPMSSP0

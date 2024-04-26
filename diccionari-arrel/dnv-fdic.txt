@@ -5329,7 +5329,6 @@ tirol=categories: M;fonts: DNV;
 tironada=categories: F;fonts: DNV;
 tirosinasa=categories: F;fonts: DNV;
 tisparís=categories: M;fonts: DNV;
-titaina=categories: F;fonts: DNV;
 toc-toc=categories: F;fonts: DNV;
 tocacollons=categories: MFI;fonts: DNV,col·loquial;
 tocamenta=categories: F;fonts: DNV,col·loquial;
