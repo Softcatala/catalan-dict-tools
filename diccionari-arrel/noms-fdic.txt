@@ -78541,6 +78541,7 @@ tabuladora=categories: F;fonts: LT;
 tabulari=categories: M;fonts: LT;
 tabulatura=categories: F;fonts: LT;
 tabulàrium=categories: M;fonts: LT;
+tabulé [pl. tabulés]=categories: M;fonts: esadir;
 tabust=categories: M;fonts: LT;
 tabustol=categories: M;fonts: LT;
 tabustoll=categories: M;fonts: LT;
