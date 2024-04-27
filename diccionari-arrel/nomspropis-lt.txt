@@ -4741,6 +4741,7 @@ Brabant Brabant NPCNSP0
 Brabant Brabant NPCSG00
 Bracht Bracht NPCNSP0 # medical
 Bracons Bracons NPCNSP0
+Bradley Bradley NPCNSP0
 Braga Braga NPCSG00
 Bragança Bragança NPCSG00
 Brageirac Brageirac NPCSG00
@@ -23627,6 +23628,7 @@ Subils Subils NPCNSP0
 Subirachs Subirachs NPCNSP0
 Subirats Subirats NPCNSP0
 Subirats Subirats NPCSG00
+Subirós Subirós NPCNSP0
 Subotica Subotica NPCSG00
 Subur Subur NPCSG00
 Subí Subí NPCNSP0
