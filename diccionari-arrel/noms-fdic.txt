@@ -76657,6 +76657,7 @@ sobrepès=categories: M;fonts: LT;
 sobrequalificació=categories: F;fonts: derivat;
 sobrequilla=categories: F;fonts: LT;
 sobreratlla=categories: F;fonts: softcatala;
+sobrereacció=categories: F;fonts: derivat, anglès;
 sobreregulació=categories: F;fonts: LT;
 sobrerepresentació=categories: F;fonts: derivat;
 sobrereserva=categories: F;fonts: LT;

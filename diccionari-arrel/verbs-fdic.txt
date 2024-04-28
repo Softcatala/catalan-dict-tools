@@ -9412,6 +9412,7 @@ sobreprendre=categories: V;model:ofendre;fonts: LT;
 sobreproduir=categories: V;model:traduir;fonts: LT;
 sobreprotegir=categories: V;model:servir;fonts: LT;
 sobrepujar=categories: V;model:envejar;fonts: LT;
+sobrereaccionar=categories: V;model:cantar;fonts: derivat, anglès;
 sobrerepresentar=categories: V;model:cantar;fonts: derivat;
 sobresaltar=categories: V;model:cantar;fonts: LT;
 sobresanar=categories: V;model:cantar;fonts: LT;
