@@ -17438,6 +17438,7 @@ Nebrija Nebrija NPMSSP0
 Neckar Neckar NPCSG00
 Ned Ned NPMSSP0
 Neera Neera NPFSSP0 # avl: noms de persona
+Neeskens Neeskens NPCNSP0
 Nefertiti Nefertiti NPFSSP0
 Nefiac Nefiac NPCSG00
 Neftalí Neftalí NPMSSP0
