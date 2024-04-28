@@ -13713,6 +13713,7 @@ Kushiro Kushiro NPCSG00
 Kussevitski Kussevitski NPCNSP0
 Kussmaul Kussmaul NPCNSP0 # medical
 Kutaisi Kutaisi NPCSG00
+Kutxa Kutxa NPFSO00
 Kuwait Kuwait NPMSG00
 Kveim Kveim NPCNSP0 # medical
 Kwangju Kwangju NPCSG00
@@ -25056,6 +25057,7 @@ Trullars Trullars NPCSG00
 Trullol Trullol NPCNSP0
 Trullols Trullols NPCNSP0
 Trulls Trulls NPCNSP0
+Trullàs Trullàs NPCNSP0
 Trulló Trulló NPCNSP0
 Truman Truman NPCNSP0
 Trump Trump NPCNSP0
