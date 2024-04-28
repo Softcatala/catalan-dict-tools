@@ -124,6 +124,7 @@ candida
 candides
 
 #EXCLOU LEMA DE TOTS
+ferla
 taco
 mònic
 exprimir
