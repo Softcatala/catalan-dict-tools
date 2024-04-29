@@ -47740,6 +47740,7 @@ koma=categories: M;fonts: LT;
 kombu=categories: M;fonts: LT;
 kombutxa=categories: M;fonts: wiki, terncat, esadir;
 komi=categories: MF;fonts: LT;
+kompromat=categories: MS;fonts: rus;
 kopek=categories: M;fonts: LT;
 kordofanià=categories: M;fonts: LT;
 korn=categories: M;fonts: LT;
