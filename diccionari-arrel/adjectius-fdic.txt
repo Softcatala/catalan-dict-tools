@@ -30043,6 +30043,7 @@ superreal=categories: A;fonts: derivat;
 superrealista=categories: A;fonts: LT;
 superreduït superreduïda=categories: A; fonts: derivat;
 superrefinat superrefinada=categories: A;fonts: derivat;
+superreforçat superreforçada=categories: A;fonts: derivat;
 superrefredat superrefredada=categories: A;fonts: derivat;
 superregeneratiu superregenerativa=categories: A;fonts: derivat;
 superrendible=categories: A;fonts: derivat;
