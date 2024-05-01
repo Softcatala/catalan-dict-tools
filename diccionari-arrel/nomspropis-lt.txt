@@ -6285,6 +6285,7 @@ Ceferí Ceferí NPMSSP0
 Cefeu Cefeu NPCSG00
 Cehegín Cehegín NPCSG00
 Cela Cela NPCNSP0
+Celan Celan NPCNSP0
 Celdoni Celdoni NPMSSP0
 Celdonis Celdoni NPMPSP0
 Celedoni Celedoni NPMSSP0
@@ -16281,6 +16282,7 @@ Mir Mir NPMSG00
 Mira Mira NPCNSP0
 Mira-rosa Mira-rosa NPCSG00
 Mira-sol Mira-sol NPCSG00
+Mirabeau Mirabeau NPCNSP0
 Mirabell Mirabell NPCNSP0
 Mirabonell Mirabonell NPCSG00
 Miracle Miracle NPCNSP0
@@ -23537,6 +23539,7 @@ Sporting Sporting NPMSO00
 Spotify Spotify NPMSO00
 Spratly Spratly NPFPG00
 Spree Spree NPCSG00
+Springer Springer NPCNSP0
 Springfield Springfield NPCNSP0
 Springfield Springfield NPCSG00
 Springs Springs NPCSG00
