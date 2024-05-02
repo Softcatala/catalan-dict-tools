@@ -25950,6 +25950,7 @@ promulgable=categories: A;fonts: LT;
 promulgador promulgadora=categories: A;fonts: LT;
 pron prona=categories: A;fonts: LT;
 pronador pronadora=categories: A;fonts: LT;
+pronatalista=categories: A;fonts: derivat;
 pronatoflexor pronatoflexora=categories: A;fonts: dsalut;
 pronominal=categories: A;fonts: LT;
 pronosticable=categories: A;fonts: LT;
