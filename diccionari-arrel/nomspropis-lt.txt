@@ -10666,6 +10666,7 @@ Gals Gal NPMPSP0
 Galter Galter NPMSSP0 # avl: noms de persona
 Galton Galton NPCNSP0 # medical
 Galtés Galtés NPCNSP0
+Galuppi Galuppi NPCNSP0
 Galvani Galvani NPCNSP0
 Galvany Galvany NPCNSP0
 Gal·la Gal·la NPFSSP0

@@ -57715,6 +57715,7 @@ neuromiopatia=categories: F;fonts: dsalut;
 neuromiositis=categories: FI;fonts: dsalut;
 neuromiotonia=categories: F;fonts: dsalut;
 neuromissor=categories: M;fonts: dsalut;
+neuromite=categories: M;fonts: derivat;
 neuromiàlgia=categories: F;fonts: dsalut;
 neuromiïtis=categories: FI;fonts: dsalut;
 neuromodulació=categories: F;fonts: dsalut;
