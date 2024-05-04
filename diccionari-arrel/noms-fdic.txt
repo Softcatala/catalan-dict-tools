@@ -64180,6 +64180,7 @@ petrologia=categories: F;fonts: LT;
 petrolàtum=categories: M;fonts: LT;
 petromax=categories: M;fonts: LT;
 petromizòntid=categories: M;fonts: LT;
+petromonarquia=categories: F;fonts: derivat;
 petroquímica=categories: F;fonts: LT;
 petrosectomia=categories: F;fonts: dsalut;
 petrositis=categories: FI;fonts: LT;

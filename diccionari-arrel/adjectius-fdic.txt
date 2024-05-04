@@ -8878,6 +8878,7 @@ descobrible=categories: A;fonts: LT;
 descobridor descobridora=categories: A;fonts: LT;
 descodificador descodificadora=categories: A;fonts: DIEC;
 descofat descofada=categories: A;fonts: LT;
+descolonial=categories: A;fonts: termcat;
 descolonitzador descolonitzadora=categories: A;fonts: LT;
 descolorant=categories: A;fonts: LT;
 descol·locat descol·locada [sup. descol·locadíssim]=categories: A; font:apertium;
