@@ -3515,6 +3515,7 @@ Baulenas Baulenas NPCNSP0
 Baulida Baulida NPCNSP0
 Baulí Baulí NPCNSP0
 Bauló Bauló NPCNSP0
+Baumgartner Baumgartner NPCNSP0
 Baura Baura NPCNSP0
 Bausen Bausen NPCSG00
 Bausset Bausset NPCNSP0
@@ -7338,6 +7339,7 @@ Costera Costera NPFSG00
 Costereta Costereta NPFSG00
 Costerà Costerà NPCNSP0
 Costitx Costitx NPCSG00
+Costner Costner NPCNSP0
 Costoja Costoja NPFSG00
 Costur Costur NPCSG00
 Costurer Costurer NPCNSP0
@@ -8991,6 +8993,7 @@ Escaules Escaules NPFPG00
 Esch-sur-Alzette Esch-sur-Alzette NPCSG00
 Eschweiler Eschweiler NPCSG00
 Escipió Escipió NPMSSP0
+Esclafamuntanyes Esclafamuntanyes NPMSSP0
 Esclanyà Esclanyà NPCSG00
 Esclaramund Esclaramund NPMSSP0 # avl: noms de persona
 Esclaramunda Esclaramunda NPFSSP0 # avl: noms de persona
@@ -11705,6 +11708,7 @@ Guastalla Guastalla NPCSG00
 Guatemala Guatemala NPFSG00
 Guaviare Guaviare NPCSG00
 Guayaquil Guayaquil NPCSG00
+Gubaidúlina Gubaidúlina NPCNSP0
 Gudenå Gudenå NPCSG00
 Guedel Guedel NPCNSP0 # medical
 Guelendjik Guelendjik NPCSG00
@@ -13429,6 +13433,7 @@ Kassel Kassel NPCSG00
 Kasugai Kasugai NPCSG00
 Kasungu Kasungu NPCSG00
 Kasupe Kasupe NPCSG00
+Kate Kate NPFSSP0
 Katherine Katherine NPFSSP0
 Katiola Katiola NPCSG00
 Katmandú Katmandú NPCSG00

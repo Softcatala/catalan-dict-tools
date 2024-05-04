@@ -366,6 +366,7 @@ LP=categories: MI;fonts: DNV;
 LSC=categories: FS;fonts: siga, llengua de sigles catalana;
 LSD=categories: MI;fonts: esadir;
 LUEV=categories: FI;fonts: sigla;
+MAT=categories: FS;fonts: sigla;
 MBA=categories: MI;fonts: sigla;
 MERS-CoV=categories: MS;fonts: esadir; 
 MERS=categories: FS;fonts: esadir,termcat;
