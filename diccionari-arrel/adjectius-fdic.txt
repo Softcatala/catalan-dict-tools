@@ -9939,6 +9939,7 @@ dècuple2 dècupla=categories: A;fonts: LT;
 dèlfic dèlfica=categories: A;fonts: LT;
 dèltic dèltica=categories: A;fonts: LT;
 dèrmic dèrmica=categories: A;fonts: LT;
+démodé démodée [pl. démodés]=categories: A;fonts: francès;
 dícrot dícrota=categories: A;fonts: dsalut;
 díctic díctica=categories: A;fonts: LT;
 dídim dídima=categories: A;fonts: LT;
