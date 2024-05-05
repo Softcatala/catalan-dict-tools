@@ -8515,6 +8515,7 @@ Edgar Edgar NPMSSP0
 Edgars Edgar NPMPSP0
 Edge Edge NPCSG00
 Edgeworth Edgeworth NPCNSP0
+Edigsa Edigsa NPFSO00
 Edilbert Edilbert NPMSSP0
 Edilberts Edilbert NPMPSP0
 Edilburga Edilburga NPFSSP0
@@ -19451,6 +19452,7 @@ Pius Pius NPMSSP0
 Pizzo Pizzo NPCSG00
 Pià Pià NPCSG00
 Piła Piła NPCSG00
+Piłsudski Piłsudski NPCNSP0
 Pla Pla NPCNSP0
 Pla Pla NPMSG00
 Pla-rodó Pla-rodó NPCNSP0
@@ -20963,6 +20965,7 @@ Remunta Remunta NPFSG00
 Remus Remus NPMSSP0 # avl: noms de persona
 Remígia Remígia NPFSSP0 # avl: noms de persona
 Renada Renada NPFSSP0 # avl: noms de persona
+Renan Renan NPCNSP0
 Renant Renant NPCSG00
 Renanué Renanué NPCSG00
 Renard Renard NPMSSP0 # avl: noms de persona
@@ -23282,6 +23285,7 @@ So So NPCNSP0
 Soanyes Soanyes NPCSG00
 Sobat Sobat NPCSG00
 Soberats Soberats NPCNSP0
+Sobieski Sobieski NPCNSP0
 Sobiracs Sobiracs NPCNSP0
 Sobirà Sobirà NPCNSP0
 Sobirànigues Sobirànigues NPCNSP0
@@ -26743,6 +26747,7 @@ William William NPMSSP0
 Williams Williams NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0
 Williams-Campbell Williams-Campbell NPCNSP0 # medical
+Williamsburg Williamsburg NPCSG00
 Williamson Williamson NPCNSP0
 Wilma Wilma NPFSSP0
 Wilmersdorf Wilmersdorf NPCSG00
