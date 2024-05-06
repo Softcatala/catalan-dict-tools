@@ -73486,6 +73486,7 @@ rotatiu=categories: M;fonts: LT;
 rotavirus=categories: MI;fonts: LT;
 rotenona=categories: F;fonts: LT;
 roter rotera=categories: MF;fonts LT;
+rotet=categories: M;fonts: diminutiu;
 rotigotina=categories: F;fonts: dsalut;
 rotlada=categories: F;fonts: LT;
 rotlana=categories: F;fonts: LT;
