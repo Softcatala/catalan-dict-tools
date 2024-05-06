@@ -3516,7 +3516,6 @@ malparlador -a=categories: A;fonts: DNV;
 malredó -ona=categories: A;fonts: DNV;
 malsentir=categories: V;model:dormir;fonts: DNV;
 maltar=categories: V;model:cantar;fonts: DNV;
-malvar=categories: V;model:cantar;fonts: DNV;
 malíccia=categories: F;fonts: DNV,col·loquial;
 mamela=categories: F;fonts: DNV,col·loquial;
 mamellera=categories: F;fonts: DNV;

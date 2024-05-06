@@ -7175,6 +7175,7 @@ malprendre=categories: V;model:ofendre;fonts: LT;
 malservir=categories: V;model:servir;fonts: LT;
 maltractar=categories: V;model:cantar;fonts: LT;
 malvantar=categories: V;model:cantar;fonts: LT;
+malvar=categories: V;model:cantar;fonts: DNV;
 malvendre=categories: V;model:revendre;fonts: LT;
 malversar=categories: V;model:cantar;fonts: LT;
 malvestir=categories: V;model:vestir;fonts: LT;
