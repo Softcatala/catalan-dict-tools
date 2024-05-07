@@ -1021,6 +1021,7 @@ Albeu Albeu NPCNSP0
 Albi Albi NPCNSP0
 Albi Albi NPCSG00
 Albiac Albiac NPCNSP0
+Albiach Albiach NPCNSP0
 Albial Albial NPCNSP0
 Albicà Albicà NPCSG00
 Albigès Albigès NPCSG00
@@ -9738,6 +9739,7 @@ Felícules Felícula NPFPSP0
 Femada Femada NPCNSP0
 Femades Femades NPCNSP0
 Femades Femades NPCSG00
+Femen Femen NPFPO00
 Femenies Femenies NPCNSP0
 Fene Fene NPCSG00
 Feners Feners NPCSG00
@@ -18423,6 +18425,7 @@ PDECat PDECat NPMSO00 # La Vanguardia
 PDS PDS NPMSO00
 PDeCAT PDeCAT NPMSO00 # esadir
 PEN PEN NPMNO00
+PEPLI PEPLI NPMNO00
 PISA PISA NPCNO00
 PNB PNB NPMSO00
 POUM POUM NPMSO00
