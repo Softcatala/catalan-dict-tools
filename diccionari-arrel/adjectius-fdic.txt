@@ -26943,6 +26943,7 @@ reblanidor reblanidora=categories: A;fonts: LT;
 rebobinador rebobinadora=categories: A;fonts: LT;
 rebolicat rebolicada=categories: A;fonts: LT;
 rebonic rebonica=categories: A;fonts: LT;
+rebotejador -a=categories: A;fonts: DNV,termcat;
 rebregadís rebregadissa=categories: A;fonts: LT;
 rebregadíssim rebregadíssima=categories: A;fonts: superlative;
 rebrut rebruta=categories: A;fonts: LT;
