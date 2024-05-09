@@ -50619,6 +50619,7 @@ macrocitèmia=categories: F;fonts: dsalut;
 macroclítoris=categories: MI;fonts: dsalut;
 macrocnèmia=categories: F;fonts: dsalut;
 macrocomplex=categories: M;fonts: LT;
+macrocomplot=categories: M;fonts: derivat;
 macroconcert=categories: M;fonts: LT;
 macroconidi=categories: M;fonts: dsalut;
 macrocosmos=categories: MI;fonts: LT;
