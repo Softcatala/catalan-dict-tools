@@ -59054,6 +59054,7 @@ octreòtida=categories: F;fonts: dsalut;
 octubrada=categories: F;fonts: LT;
 octubre=categories: M;fonts: LT;
 octubrera=categories: F;fonts: LT;
+octubrisme=categories: MS;fonts: derivat;
 octubrista=categories: MF;fonts: LT;
 octà=categories: M;fonts: LT;
 octàedre=categories: M;fonts: LT;

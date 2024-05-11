@@ -2877,6 +2877,7 @@ Azorín Azorín NPCNSP0
 Azov Azov NPCSG00
 Azua Azua NPCSG00
 Azuay Azuay NPCSG00
+Azurmendi Azurmendi NPCNSP0
 Açores Açores NPFPG00
 Aín Aín NPCSG00
 Aïda Aïda NPFSSP0 # avl: noms de persona
@@ -9307,6 +9308,7 @@ Etiòpia Etiòpia NPFSG00
 Etna Etna NPFSG00
 Etrúria Etrúria NPFSG00
 Etterbeek Etterbeek NPCSG00
+Etxepare Etxepare NPCNSP0
 Etèocles Etèocles NPMSSP0
 Etèria Etèria NPFSSP0
 Etèries Etèria NPFPSP0
@@ -12434,6 +12436,7 @@ Hortènsies Hortènsia NPFPSP0
 Hortós Hortós NPCNSP0
 Horus Horus NPMSSP0
 Horàcia Horàcia NPFSSP0 # avl: noms de persona
+Hosbec Hosbec NPFSO00
 Hospital Hospital NPCSG00
 Hospitalet Hospitalet NPCSG00
 Hostafrancs Hostafrancs NPCSG00
@@ -13205,6 +13208,7 @@ Joyce Joyce NPCNSP0
 Joèu Joèu NPMSG00
 Joškar-Ola Joškar-Ola NPCSG00
 Juanola Juanola NPCNSP0
+Juaristi Juaristi NPCNSP0
 Juba Juba NPCSG00
 Jubalcoi Jubalcoi NPCSG00
 Jubany Jubany NPMSSP0
@@ -15529,6 +15533,7 @@ Martinoi Martinoi NPCNSP0
 Martinoles Martinoles NPCNSP0
 Martins Martí NPMPSP0
 Martinyacs Martinyacs NPCNSP0
+Martinů Martinů NPCNSP0
 Martiriana Martiriana NPFSSP0 # avl: noms de persona
 Martirians Martirià NPMPSP0
 Martirià Martirià NPMSSP0

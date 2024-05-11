@@ -6590,6 +6590,7 @@ chavista=categories: A;fonts: derivat;
 chel·lià chel·liana=categories: A;fonts: LT;
 cherokee=categories: A;fonts: termcat;
 chokerià chokeriana=categories: A;fonts: LT;
+chopinià chopiniana=categories: A;fonts: derivat;
 cianhídric cianhídrica=categories: A;fonts: LT;
 cianobacterià cianobacteriana=categories: A;fonts: derivat;
 cianogenètic cianogenètica=categories: A;fonts: LT;
