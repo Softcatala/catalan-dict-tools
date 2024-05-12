@@ -21318,6 +21318,7 @@ multiestàtic multiestàtica=categories: A;fonts: termcat;
 multietapa=categories: AI;fonts: LT;
 multifactorial=categories: A;fonts: LT;
 multifacètic multifacètica=categories: A;fonts: DDLC;
+multifamiliar=categories: A;fonts: derivat;
 multifilar=categories: A;fonts: LT;
 multiflor multiflora=categories: A;fonts: LT;
 multifocal=categories: A;fonts: LT;

@@ -7006,6 +7006,7 @@ Comallentes Comallentes NPCSG00
 Comallonga Comallonga NPCNSP0
 Comalls Comalls NPCNSP0
 Comamala Comamala NPCNSP0
+Comanegra Comanegra NPCNSP0
 Comangés Comangés NPCNSP0
 Comaplà Comaplà NPCNSP0
 Comaposada Comaposada NPCNSP0
@@ -27447,4 +27448,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Comanegra Comanegra NPCNSP0

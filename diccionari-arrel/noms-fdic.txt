@@ -39935,6 +39935,7 @@ glicosa=categories: F;fonts: LT;
 glicosaminoglicà=categories: M;fonts: LT;
 glicosialorrea=categories: F;fonts: dsalut;
 glicosil=categories: M;fonts: dsalut;
+glicosilació=categories: F;fonts: wiki,termcat;
 glicosilfosfatidilinositol=categories: M;fonts: dsalut;
 glicosiltransferasa=categories: F;fonts: dsalut;
 glicosiàlia=categories: F;fonts: dsalut;
