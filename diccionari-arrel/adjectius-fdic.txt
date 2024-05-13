@@ -20143,6 +20143,7 @@ meniscal=categories: A;fonts: dsalut;
 meniscosinovial=categories: A;fonts: dsalut;
 menjable=categories: A;fonts: LT;
 menjador menjadora=categories: A;fonts: LT;
+menjahomes=categories: AI;fonts: derivat;
 menjaire=categories: A;fonts: LT;
 menjamosquits=categories: AI;fonts: LT;
 menjatiu menjativa=categories: A;fonts: LT;
