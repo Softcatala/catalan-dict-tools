@@ -3689,6 +3689,7 @@ Bellús Bellús NPCSG00
 Belmopan Belmopan NPCSG00
 Belo Belo NPCSG00
 Belodonte Belodonte NPCNSP0
+Beloússov Beloússov NPCNSP0
 Belsa Belsa NPCNSP0
 Belt Belt NPMNG00
 Beltran Beltran NPCNSP0
@@ -26981,6 +26982,7 @@ Xixona Xixona NPFSG00
 Xocainet Xocainet NPMSG00
 Xochicalco Xochicalco NPCSG00
 Xodos Xodos NPCSG00
+Xoigú Xoigú NPCNSP0
 Xoriguer Xoriguer NPCNSP0
 Xoriguera Xoriguera NPCNSP0
 Xoriguera Xoriguera NPCSG00

@@ -2761,6 +2761,7 @@ desconfiar=categories: V;model:crear;fonts: LT;
 desconfigurar=categories: V;model:cantar;fonts: LT;
 desconfinar=categories: V;model:abominar;fonts: termcat;
 desconfir=categories: V;model:servir;fonts: LT;
+desconflictivitzar=categories: V;model:cantar;fonts:derivat;
 desconfortar=categories: V;model:cantar;fonts: LT;
 descongelar=categories: V;model:cantar;fonts: LT;
 descongestionar=categories: V;model:cantar;fonts: LT;
