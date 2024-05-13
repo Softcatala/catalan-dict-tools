@@ -13596,6 +13596,7 @@ Klipper-Trenaunay-Weber Klipper-Trenaunay-Weber NPCNSP0 # medical
 Klopstock Klopstock NPCNSP0
 Klüver-Bucy Klüver-Bucy NPCNSP0 # medical
 Knesset Knesset NPFSO00
+Knicks Knicks NPMPO00
 Knin Knin NPCSG00
 Kobe Kobe NPCSG00
 Koch Koch NPCNSP0 # medical
