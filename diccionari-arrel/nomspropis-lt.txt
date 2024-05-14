@@ -2571,6 +2571,7 @@ Asherman Asherman NPCNSP0 # medical
 Ashikaga Ashikaga NPCNSP0
 Ashikaga Ashikaga NPCSG00
 Ashkelon Ashkelon NPCSG00
+Ashley Ashley NPCNSP0
 Ashquelon Ashquelon NPCSG00
 Asier Asier NPMSSP0
 Asimov Asimov NPCNSP0 # wiki
@@ -21067,6 +21068,7 @@ Riambau Riambau NPCNSP0
 Rianjo Rianjo NPCSG00
 Riart Riart NPCNSP0
 Riau Riau NPCSG00
+Riazor Riazor NPMSG00
 Riba Riba NPCNSP0
 Riba Riba NPFSG00
 Riba-roja Riba-roja NPCNSP0
