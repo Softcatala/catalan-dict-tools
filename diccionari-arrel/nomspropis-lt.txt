@@ -3189,6 +3189,7 @@ Bankia Bankia NPFSO00
 Bankinter Bankinter NPCNO00
 Bankman-Fried Bankman-Fried NPCNSP0
 Banksy Banksy NPMSSP0
+Bannon Bannon NPCNSP0
 Banquells Banquells NPCNSP0
 Banquer Banquer NPCNSP0
 Banqueta Banqueta NPFSG00
@@ -27454,4 +27455,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Bannon Bannon NPCNSP0
