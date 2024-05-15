@@ -18775,6 +18775,7 @@ Parrot Parrot NPMSG00
 Parry-Romberg Parry-Romberg NPCNSP0 # medical
 Parsifal Parsifal NPMSSP0
 Parsonage-Turner Parsonage-Turner NPCNSP0 # medical
+Partal Partal NPCNSP0
 Parteni Parteni NPMSSP0
 Partenis Parteni NPMPSP0
 Partenopea Partenopea NPFSG00
