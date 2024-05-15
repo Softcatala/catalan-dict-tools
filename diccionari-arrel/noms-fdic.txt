@@ -231,6 +231,7 @@ Botox=categories: MS;fonts: LT;
 CA=categories: FI;fonts: esadir;
 CB=categories: MI;fonts: sigla;
 CCAA=categories: FP;fonts: esadir;
+CCCat=categories: MS;fonts: abreviació;
 CCD=categories: MI;fonts: sigla;
 CCTV=categories: MI;fonts: sigla;
 CD-ROM=categories: MI;fonts: LT;
