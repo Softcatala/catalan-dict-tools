@@ -34723,6 +34723,7 @@ factura=categories: F;fonts: LT;
 facturació=categories: F;fonts: LT;
 facturador facturadora=categories: MF;fonts LT;
 facturatge=categories: M;fonts: LT;
+factureta=categories: F;fonts: diminutiu;
 factòtum=categories: MF;fonts: LT;
 facultat=categories: F;fonts: LT;
 facultatiu facultativa=categories: MF;fonts: LT;

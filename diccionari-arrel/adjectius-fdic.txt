@@ -21319,6 +21319,7 @@ multiestable=categories: A;fonts: LT;
 multiestatal=categories: A;fonts: derivat;
 multiestàndard=categories: A;fonts: LT;
 multiestàtic multiestàtica=categories: A;fonts: termcat;
+multiestéreo=categories: A;fonts: LT;
 multietapa=categories: AI;fonts: LT;
 multifactorial=categories: A;fonts: LT;
 multifacètic multifacètica=categories: A;fonts: DDLC;
