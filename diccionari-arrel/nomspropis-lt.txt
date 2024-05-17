@@ -14667,6 +14667,7 @@ Longí Longí NPMSSP0
 Lons-le-Saunier Lons-le-Saunier NPCSG00
 Loos Loos NPCSG00
 Looser Looser NPCNSP0 # medical
+Loquillo Loquillo NPMSSP0
 Lorca Lorca NPCNSP0
 Lorda Lorda NPCNSP0
 Lorena Lorena NPCNSP0
