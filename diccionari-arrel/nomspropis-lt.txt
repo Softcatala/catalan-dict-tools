@@ -19954,7 +19954,6 @@ Preses Preses NPCNSP0
 Preses Preses NPFPG00
 Preslav Preslav NPCSG00
 Presley Presley NPCNSP0
-Presov Presov NPCSG00
 Prespa Prespa NPCSG00
 Presseguer Presseguer NPCNSP0
 Presta Presta NPCNSP0
@@ -19965,6 +19964,7 @@ Pretextat Pretextat NPMSSP0
 Pretextats Pretextat NPMPSP0
 Pretòria Pretòria NPCSG00
 Prezi Prezi NPMSO00
+Prešov Prešov NPCSG00
 Pribnow Pribnow NPCNSP0 # medical
 Priestley Priestley NPCNSP0
 Prieto Prieto NPCNSP0
