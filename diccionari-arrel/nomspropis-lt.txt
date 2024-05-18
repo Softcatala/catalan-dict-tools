@@ -1640,6 +1640,7 @@ Amengual Amengual NPMSSP0
 Amenguals Amengual NPMPSP0
 Amenhotep Amenhotep NPMSSP0
 Amenofis Amenofis NPMSSP0
+Amenábar Amenábar NPCNSP0
 Amer Amer NPCNSP0
 Amer Amer NPCSG00
 Amerigo Amerigo NPMSSP0
@@ -17138,6 +17139,7 @@ Muro Muro NPCSG00
 Murom Murom NPCSG00
 Muroran Muroran NPCSG00
 Muros Muros NPCSG00
+Murphy Murphy NPCNSP0
 Murray Murray NPCNSP0
 Murray Murray NPCSG00
 Murrumbidgee Murrumbidgee NPCSG00
