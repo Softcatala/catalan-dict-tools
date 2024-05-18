@@ -16394,6 +16394,7 @@ Mitrovica Mitrovica NPCSG00
 Mitry-Mory Mitry-Mory NPCSG00
 Mitríades Mitríades NPMSSP0 # avl: noms de persona
 Mitsuda Mitsuda NPCNSP0 # medical
+Mitteleuropa Mitteleuropa NPFSG00
 Mittelmark Mittelmark NPCSG00
 Mitterrand Mitterrand NPCNSP0
 Miura Miura NPCNSP0
@@ -24357,6 +24358,7 @@ Terrers Terrers NPCNSP0
 Terri Terri NPCNSP0
 Terri Terri NPMSG00
 Terribas Terribas NPCNSP0
+Terricabras Terricabras NPCNSP0
 Terrien Terrien NPCNSP0 # medical
 Terris Terris NPCNSP0
 Terroc Terroc NPCNSP0

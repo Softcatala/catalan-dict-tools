@@ -8796,6 +8796,7 @@ rellogar=categories: V;model:pregar;fonts: LT;
 rellonejar=categories: V;model:envejar;fonts: LT;
 rellucar=categories: V;model:trencar;fonts: LT;
 relluir=categories: V;model:entrelluir;fonts: LT;
+relocalitzar=categories: V;model:cantar;fonts: derivat;
 remagencar=categories: V;model:trencar;fonts: LT;
 remallar=categories: V;model:cantar;fonts: LT;
 remar=categories: V;model:cantar;fonts: LT;
