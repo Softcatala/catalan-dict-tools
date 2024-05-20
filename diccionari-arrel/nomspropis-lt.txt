@@ -10744,6 +10744,7 @@ Garaikoetxea Garaikoetxea NPCNSP0
 Garait Garait NPCSG00
 Garajonay Garajonay NPCSG00
 Garalda Garalda NPCNSP0
+Garamendi Garamendi NPCNSP0
 Garamond Garamond NPCNSP0
 Garangou Garangou NPCNSP0
 Garanguell Garanguell NPCNSP0
@@ -21717,6 +21718,7 @@ Russafa Russafa NPCNSP0
 Russafa Russafa NPCSG00
 Russell Russell NPCNSP0
 Russell-Silver Russell-Silver NPCNSP0 # medical
+Rust Rust NPMSO00
 Rustavi Rustavi NPCSG00
 Rustenburg Rustenburg NPCSG00
 Rut Rut NPFSSP0
