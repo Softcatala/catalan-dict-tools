@@ -2185,6 +2185,7 @@ copilotar=categories: V;model:cantar;fonts:termcat;
 copolimeritzar=categories: V;model:cantar;fonts: LT;
 copresentar=categories: V;model:cantar;fonts: derivat;
 coproduir=categories: V;model:traduir;fonts: LT;
+coprotagonitzar=categories: V;model:cantar;fonts: derivat;
 copsar=categories: V;model:cantar;fonts: LT;
 copular=categories: V;model:cantar;fonts: LT;
 coquetejar=categories: V;model:envejar;fonts: LT;
