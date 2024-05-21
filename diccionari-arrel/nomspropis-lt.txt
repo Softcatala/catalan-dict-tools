@@ -251,6 +251,7 @@ AIReF AIReF NPFSO00
 AMS-800 AMS-800 NPCNSP0 # medical
 ANECA ANECA NPFSO00
 ANSI ANSI NPMSO00
+APM APM NPMSO00
 ARRO ARRO NPCNO00
 ATC ATC NPFSO00
 ATM ATM NPFSO00
@@ -5914,6 +5915,7 @@ Carrascull Carrascull NPCNSP0
 Carrascó Carrascó NPCNSP0
 Carrasquer Carrasquer NPCNSP0
 Carrasquer Carrasquer NPCSG00
+Carrasqueta Carrasqueta NPFSG00
 Carratalà Carratalà NPCNSP0
 Carrau Carrau NPCNSP0
 Carrefour Carrefour NPMNO00
@@ -23605,6 +23607,7 @@ Starbucks Starbucks NPMNO00
 Stargardt Stargardt NPCNSP0 # medical
 Starhemberg Starhemberg NPCNSP0
 Starling Starling NPCNSP0 # medical
+Stasi Stasi NPFSO00
 Stavanger Stavanger NPCSG00
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
 Steen Steen NPCNSP0
