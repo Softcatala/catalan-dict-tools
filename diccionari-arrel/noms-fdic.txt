@@ -68976,6 +68976,7 @@ pseudonuclèol=categories: M;fonts: dsalut;
 pseudonímia=categories: F;fonts: LT;
 pseudoobstrucció=categories: F;fonts: dsalut;
 pseudooclusió=categories: F;fonts: dsalut;
+pseudopacte=categories: M;fonts: derivat;
 pseudopapil·ledema=categories: M;fonts: dsalut;
 pseudoparaplegia=categories: F;fonts: dsalut;
 pseudoparaula=categories: F;fonts: derivat;
