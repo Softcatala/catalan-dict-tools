@@ -4883,7 +4883,7 @@ Brokopondo Brokopondo NPCSG00
 Brondby Brondby NPCSG00
 Brondo Brondo NPCNSP0
 Brontë Brontë NPCNSP0
-Bronx Bronx NPCSG00
+Bronx Bronx NPMSG00
 Brooke Brooke NPCNSP0 # medical
 Brooklyn Brooklyn NPCSG00
 Broquers Broquers NPCNSP0
