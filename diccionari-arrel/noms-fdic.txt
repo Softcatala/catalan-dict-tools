@@ -52452,6 +52452,7 @@ megaceront=categories: M;fonts: LT;
 megacicle=categories: M;fonts: LT;
 megaciutat=categories: F;fonts: termcat;
 megacolèdoc=categories: M;fonts: dsalut;
+megacreuer=categories: M;fonts: derivat;
 megacurie=categories: M;fonts: dsalut;
 megacàrdia=categories: F;fonts: dsalut;
 megacòlon=categories: M;fonts: LT;
