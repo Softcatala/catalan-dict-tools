@@ -19108,6 +19108,7 @@ lletrut lletruda=categories: A;fonts: LT;
 lletós lletosa=categories: A;fonts: LT;
 lleu [sup. levíssim]=categories: A; font:apertium;
 lleuger lleugera [sup. lleugeríssim]=categories: A; font:apertium;
+lleugeret lleugereta=categories: A;fonts: diminutiu;
 llevabocins=categories: AI;fonts: LT;
 llevador llevadora=categories: A;fonts: LT;
 llevadís llevadissa=categories: A;fonts: LT;
