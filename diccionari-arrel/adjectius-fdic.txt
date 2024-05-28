@@ -30751,6 +30751,7 @@ teomòrfic teomòrfica=categories: A;fonts: LT;
 teopasquita=categories: A;fonts: LT;
 teoremàtic teoremàtica=categories: A;fonts: LT;
 teoricista=categories: A;fonts: derivat;
+teoricocientífic teoricocientífica=categories: A;fonts: derivat;
 teoricopràctic teoricopràctica=categories: A;fonts: derivat;
 teorètic teorètica=categories: A;fonts: LT;
 teosòfic teosòfica=categories: A;fonts: LT;
