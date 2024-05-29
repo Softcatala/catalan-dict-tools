@@ -3106,6 +3106,7 @@ Balet Balet NPCNSP0
 Baleta Baleta NPCNSP0
 Baleària Baleària NPFSO00
 Baleàrica Baleàrica NPFSG00
+Balfour Balfour NPCNSP0
 Bali Bali NPCSG00
 Baliar Baliar NPCNSP0
 Baliarda Baliarda NPCNSP0
