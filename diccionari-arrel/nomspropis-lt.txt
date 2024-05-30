@@ -1754,6 +1754,7 @@ Anaxàgores Anaxàgores NPMSSP0
 Anaxímenes Anaxímenes NPMSSP0
 Anazarba Anazarba NPCSG00
 Anaís Anaís NPFSSP0
+Anaïs Anaïs NPFSSP0 # francès
 Ancash Ancash NPCSG00
 Anchorage Anchorage NPCSG00
 Ancils Ancils NPCSG00
