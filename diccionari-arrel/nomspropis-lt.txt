@@ -12049,6 +12049,7 @@ Harbin Harbin NPCSG00
 Harcourt Harcourt NPCNSP0
 Hardangerfjord Hardangerfjord NPCSG00
 Hardy-Weinberg Hardy-Weinberg NPCNSP0 # medical
+Harfuch Harfuch NPCNSP0
 Hariyāna Hariyāna NPCSG00
 Harlem Harlem NPCSG00
 Harmagedon Harmagedon NPMSG00
@@ -14831,6 +14832,7 @@ Lívia Lívia NPFSSP0 # avl: noms de persona
 Lòria Lòria NPFSG00
 López López NPCNSP0
 López-Chávarri López-Chávarri NPCNSP0
+López-Dóriga López-Dóriga NPCNSP0
 Löeffgren Löeffgren NPCNSP0 # medical
 Löffler Löffler NPCNSP0 # medical
 Lú Lú NPCSG00
@@ -23043,6 +23045,7 @@ Shaw Shaw NPCNSP0
 Sheehan Sheehan NPCNSP0 # medical
 Sheffield Sheffield NPCNSP0
 Sheffield Sheffield NPCSG00
+Sheinbaum Sheinbaum NPCNSP0
 Shelley Shelley NPCNSP0
 Shenyang Shenyang NPCSG00
 Shenzhen Shenzhen NPCSG00
@@ -25312,6 +25315,7 @@ UIC UIC NPFSO00
 UIMP UIMP NPFSO00
 UJI UJI NPFSO00
 UMH UMH NPFSO00
+UNAM UNAM NPFSO00
 UNE UNE NPCNO00
 UNED UNED NPFSO00
 UNESCO Unesco NPFSO00
