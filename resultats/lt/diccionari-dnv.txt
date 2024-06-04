@@ -64703,8 +64703,6 @@ refusament refusament NCMS000
 refusaments refusament NCMP000
 refusions refusió NCFP000
 refusió refusió NCFS000
-regable regable AQ0CS0
-regables regable AQ0CP0
 regalissier regalissier NCMS000
 regalissiera regalissier NCFS000
 regalissieres regalissier NCFP000
@@ -65256,7 +65254,6 @@ remitjot remitjot NCMS000
 remitjots remitjot NCMP000
 remitència remitència NCFS000
 remitències remitència NCFP000
-remix remix NCMS000
 remotiv remotivar VMIP1S0B
 remotiva remotivar VMIP3S00
 remotiva remotivar VMM02S00

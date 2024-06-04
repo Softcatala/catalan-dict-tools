@@ -72018,6 +72018,7 @@ remitent=categories: MF;fonts: LT;
 remitger remitgera=categories: MF;fonts: LT;
 remitjol=categories: M;fonts: LT;
 remitjó=categories: M;fonts: LT;
+remix=categories: MS;fonts: DNV,anglès;
 remoció=categories: F;fonts: LT;
 remodelació=categories: F;fonts: LT;
 remodelatge=categories: M;fonts: LT;

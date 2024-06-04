@@ -13517,6 +13517,7 @@ Kerulen Kerulen NPCSG00
 Kevin Kevin NPMSSP0
 Keynes Keynes NPCNSP0
 Khabarovsk Khabarovsk NPCSG00
+Khadija Khadija NPFSSP0
 Khafji Khafji NPCSG00
 Khakàssia Khakàssia NPCSG00
 Khambhāt Khambhāt NPCSG00
@@ -26609,6 +26610,7 @@ Víctors Víctor NPMPSP0
 Vílnius Vílnius NPCSG00
 Vínnitsia Vínnitsia NPCSG00
 Vístula Vístula NPCSG00
+Vólkhov Vólkhov NPCSG00
 Vólos Vólos NPCSG00
 Vöcklabruck Vöcklabruck NPCSG00
 W3C W3C NPMSO00
