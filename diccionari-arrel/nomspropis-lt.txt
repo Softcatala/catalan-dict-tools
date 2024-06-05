@@ -21587,6 +21587,7 @@ Rostov Rostov NPCSG00
 Rostropóvitx Rostropóvitx NPCNSP0
 Rota Rota NPCNSP0
 Rota Rota NPCSG00
+Rotary Rotary NPCNO00
 Roteres Roteres NPCNSP0
 Roters Roters NPCNSP0
 Rotes Rotes NPCNSP0

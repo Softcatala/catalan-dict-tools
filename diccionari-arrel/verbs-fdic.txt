@@ -8404,6 +8404,7 @@ reabsorbir=categories: V;model:servir;fonts: LT;
 reaccionar=categories: V;model:cantar;fonts: LT;
 reacreditar=categories: V;model:cantar;fonts: dsalut;
 reactivar=categories: V;model:cantar;fonts: LT;
+reactualitzar=categories: V;model:cantar;fonts: derivat;
 readaptar=categories: V;model:cantar;fonts: LT;
 readequar=categories: V;model:adequar;fonts: LT;
 readmetre=categories: V;model:admetre;fonts: LT;
