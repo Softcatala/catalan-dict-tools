@@ -2793,6 +2793,7 @@ Austen Austen NPCNSP0
 Austerlitz Austerlitz NPCSG00
 Austin Austin NPCSG00
 Austin-Flint Austin-Flint NPCNSP0 # medical
+Australàsia Australàsia NPFSG00
 Austrell Austrell NPCNSP0
 Austràlia Austràlia NPFSG00
 Austràsia Austràsia NPCSG00

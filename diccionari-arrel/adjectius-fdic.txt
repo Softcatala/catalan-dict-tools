@@ -13096,6 +13096,7 @@ filocatalanista=categories: A;fonts: derivat;
 filocatalà filocatalana=categories: A;fonts: derivat;
 filocomunista=categories: A;fonts: derivat;
 filoetarra=categories: A;fonts: derivat;
+filofalangista=categories: A;fonts: derivat;
 filofeixista=categories: A;fonts: derivat;
 filogenètic filogenètica=categories: A;fonts: LT;
 filogin filògina=categories: A;fonts: LT;
