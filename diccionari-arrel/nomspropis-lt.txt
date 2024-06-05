@@ -12865,7 +12865,7 @@ Islington Islington NPCSG00
 Islàndia Islàndia NPFSG00
 Ismael Ismael NPMSSP0
 Ismaels Ismael NPMPSP0
-Ismailia Ismailia NPCSG00
+Ismaïlia Ismaïlia NPCSG00
 Isolda Isolda NPFSSP0
 Isoldes Isolda NPFPSP0
 Isolina Isolina NPFSSP0 # avl: noms de persona
@@ -27270,6 +27270,7 @@ al-Hussein al-Hussein NPCNSP0
 al-Mansur al-Mansur NPCNSP0
 al-Sadat al-Sadat NPCNSP0
 al-Sadr al-Sadr NPCNSP0
+al-Sisi al-Sisi NPCNSP0
 al-Thani al-Thani NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
 bonÀrea bonÀrea NPCNO00

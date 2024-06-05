@@ -77470,6 +77470,7 @@ spessartina=categories: F;fonts: LT;
 spin-off=categories: MF;fonts: english;
 spin=categories: M;fonts: LT;
 spinor=categories: M; fonts: termcat;
+spitzenkandidat [pl. spitzenkandidaten]=categories: MF;fonts: German;
 spogomi=categories: MS;fonts: esadir;
 spritz=categories: MI;fonts: wiki;
 staccato [pl. staccati o staccatos]=categories: M;fonts: LT;
