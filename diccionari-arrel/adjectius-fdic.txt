@@ -4611,6 +4611,7 @@ benparlat benparlada=categories: A;fonts: LT;
 benpensant=categories: A;fonts: LT;
 bentogènic bentogènica=categories: A;fonts: LT;
 bentopelàgic bentopelàgica=categories: A;fonts: LT;
+bentornat bentornada=categories: A;fonts: optimot,viccionari;
 bentònic bentònica=categories: A;fonts: LT;
 benuecongolès benuecongolesa=categories: A;fonts: LT;
 benvingut benvinguda [sup. benvingudíssim]=categories: A; font:apertium;
