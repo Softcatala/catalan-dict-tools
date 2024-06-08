@@ -68,6 +68,7 @@
 #Duna Duna NPFSSP0 # avl: noms de persona
 #Durà Durà NPMSSP0 # avl: noms de persona
 #Elisén (o Elisèn) Elisén (o Elisèn) NPMSSP0 # avl: noms de persona
+#Emaús Emaús NPMSSP0 # avl: noms de persona
 #Emperador Emperador NPCNSP0
 #Emperador Emperador NPCSG00
 #Ena Ena NPFSSP0 # avl: noms de persona
@@ -2860,6 +2861,7 @@ Ayacucho Ayacucho NPCSG00
 Ayamonte Ayamonte NPCSG00
 Aydın Aydın NPCSG00
 Aylesbury Aylesbury NPCSG00
+Ayodhya Ayodhya NPCSG00
 Ayr Ayr NPCSG00
 Ayre Ayre NPCNSP0 # medical
 Ayreflor Ayreflor NPCNSP0
@@ -8738,7 +8740,6 @@ Elâziǧ Elâziǧ NPCSG00
 Elí Elí NPMSSP0 # avl: noms de persona
 Elòdia Elòdia NPFSSP0 # avl: noms de persona
 Elūru Elūru NPCSG00
-Emaús Emaús NPMSSP0 # avl: noms de persona
 Embden-Meyerhoff Embden-Meyerhoff NPCNSP0 # medical
 Embonui Embonui NPCSG00
 Embrun Embrun NPCSG00
@@ -13402,6 +13403,7 @@ Kanpur Kanpur NPCSG00
 Kansas Kansas NPCSG00
 Kant Kant NPMSSP0
 Kaohsiung Kaohsiung NPCSG00
+Kaokalam Kaokalam NPCSG00
 Kaolack Kaolack NPCSG00
 Kaouar Kaouar NPCSG00
 Kaplan Kaplan NPCNSP0 # medical
@@ -19267,6 +19269,7 @@ Peyer Peyer NPCNSP0 # medical
 Peyresourde Peyresourde NPCSG00
 Peyrol Peyrol NPCSG00
 Peyronie Peyronie NPCNSP0 # medical
+Pezinok Pezinok NPCSG00
 Peçarodona Peçarodona NPCNSP0
 Peçola Peçola NPCNSP0
 Peçoles Peçoles NPCNSP0
@@ -26621,6 +26624,7 @@ Vöcklabruck Vöcklabruck NPCSG00
 W3C W3C NPMSO00
 Waal Waal NPCSG00
 Waalwijk Waalwijk NPCSG00
+Wabag Wabag NPCSG00
 Wabash Wabash NPCSG00
 Wachowski Wachowski NPCNSP0
 Waco Waco NPCSG00
@@ -27047,6 +27051,7 @@ Yamagata Yamagata NPCSG00
 Yamaguchi Yamaguchi NPCSG00
 Yamaha Yamaha NPCNO00
 Yamato Yamato NPCSG00
+Yambali Yambali NPCSG00
 Yamoussoukro Yamoussoukro NPCSG00
 Yamuna Yamuna NPCSG00
 Yamunanagar Yamunanagar NPCSG00
