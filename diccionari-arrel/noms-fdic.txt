@@ -78300,6 +78300,7 @@ supermascle=categories: M;fonts: LT;
 supermemòria=categories: F;fonts: derivat;
 supermercat=categories: M;fonts: LT;
 supermicrobi=categories: M;fonts: LT;
+superministeri=categories: M;fonts: derivat;
 superministre superministra=categories: MF;fonts: derivat;
 supermodel=categories: MF;fonts: derivat;
 supermortalitat=categories: F;fonts: LT;
