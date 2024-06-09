@@ -57531,6 +57531,7 @@ neonatologia=categories: F;fonts: LT;
 neonatòleg neonatòloga=categories: MF;fonts: LT;
 neonazi=categories: MF;fonts: LT;
 neonazisme=categories: M;fonts: LT;
+neoorientalisme=categories: M;fonts: derivat, wiki;
 neopal·li=categories: M;fonts: LT;
 neoparlant=categories: MF;fonts: derivat;
 neopatia=categories: F;fonts: dsalut;

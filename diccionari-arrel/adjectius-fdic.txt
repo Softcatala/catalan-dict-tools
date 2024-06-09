@@ -21836,6 +21836,7 @@ neomedieval=categories: A;fonts: LT;
 neomorf neomorfa=categories: A;fonts: LT;
 neonatal=categories: A;fonts: LT;
 neonazi=categories: A;fonts: LT;
+neoorientalista=categories: A;fonts: derivat;
 neopagà neopagana=categories: A;fonts: DDLC;
 neopitagòric neopitagòrica=categories: A;fonts: LT;
 neoplasticista=categories: A;fonts: LT;
