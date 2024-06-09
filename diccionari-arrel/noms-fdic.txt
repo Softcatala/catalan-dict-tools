@@ -382,6 +382,7 @@ MPOC=categories: FI;fonts: sigles, salut;
 MRI=categories: MI;fonts: dsalut;
 MRSA=categories: MI;fonts: dsalut;
 MTS=categories: MFI;fonts: sigles;
+MVP=categories: MFI;fonts: sigles, anglès;
 MacGuffin [pl. MacGuffins]=categories: M;fonts: english;
 Muschelkalk=categories: MI;fonts: termcat;
 NAS=categories: MI;fonts: sigla;
