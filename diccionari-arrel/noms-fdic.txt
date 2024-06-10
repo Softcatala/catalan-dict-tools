@@ -21792,6 +21792,7 @@ criptoanamnèsia=categories: F;fonts: dsalut;
 criptoanàlisi=categories: F;fonts: LT;
 criptobanc=categories: M;fonts: fundeu;
 criptobiosi=categories: F;fonts: LT;
+criptobro=categories: MF;fonts: col·loquial;
 criptobrànquid=categories: M;fonts: LT;
 criptococ=categories: M;fonts: dsalut;
 criptococcoma=categories: M;fonts: dsalut;

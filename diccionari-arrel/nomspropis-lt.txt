@@ -5030,6 +5030,7 @@ Buixà Buixà NPCNSP0
 Bujosa Bujosa NPCNSP0
 Bujumbura Bujumbura NPCSG00
 Bukavu Bukavu NPCSG00
+Bukele Bukele NPCNSP0
 Bukhara Bukhara NPCSG00
 Bula Bula NPFSG00
 Bulaternera Bulaternera NPFSG00
