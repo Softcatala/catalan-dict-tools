@@ -17926,6 +17926,7 @@ involuntari involuntària=categories: A;fonts: LT;
 involuntomotor involuntomotora=categories: A;fonts: dsalut;
 involut involuta=categories: A;fonts: LT;
 involutiu involutiva=categories: A;fonts: LT;
+invotable=categories: A;fonts: derivat;
 invulnerable=categories: A;fonts: LT;
 invulnerat invulnerada=categories: A;fonts: LT;
 invàlid invàlida=categories: A;fonts: LT;
