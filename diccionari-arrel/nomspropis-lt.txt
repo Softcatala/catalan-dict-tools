@@ -1525,6 +1525,7 @@ Alubís Alubís NPCNSP0
 Aluig Aluig NPCNSP0
 Aluja Aluja NPCNSP0
 Alujà Alujà NPCNSP0
+Alvise Alvise NPMSSP0
 Alvèrnia Alvèrnia NPFSG00
 Alwar Alwar NPCSG00
 Alwaye Alwaye NPCSG00
