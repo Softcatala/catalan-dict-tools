@@ -20493,6 +20493,7 @@ Queixàs Queixàs NPCSG00
 Quelimane Quelimane NPCSG00
 Queluz Queluz NPCSG00
 Quemoy Quemoy NPCSG00
+Quentin Quentin NPCNSP0
 Quer Quer NPCNSP0
 Quera Quera NPCNSP0
 Quera Quera NPFSG00
