@@ -8442,6 +8442,7 @@ rebaixar=categories: V;model:cantar;fonts: LT;
 rebaldir=categories: V;model:servir;fonts: LT;
 reballar=categories: V;model:cantar;fonts: LT;
 rebalsar=categories: V;model:cantar;fonts: LT;
+rebaremar=categories: V;model:cantar;fonts: derivat;
 rebatejar=categories: V;model:envejar;fonts: LT;
 rebatre=categories: V;model:abatre;fonts: LT;
 rebecar=categories: V;model:assecar;fonts: LT;

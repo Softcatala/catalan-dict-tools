@@ -43574,6 +43574,7 @@ hipermetria=categories: F;fonts: LT;
 hipermetropia=categories: F;fonts: LT;
 hipermetròpic hipermetròpica=categories: MF;fonts: LT;
 hipermicrosomia=categories: F;fonts: dsalut;
+hipermilitància=categories: F;fonts: derivat;
 hipermineralització=categories: F;fonts: dsalut;
 hipermiotonia=categories: F;fonts: dsalut;
 hipermiotròfia=categories: F;fonts: dsalut;

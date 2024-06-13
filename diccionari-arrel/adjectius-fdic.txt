@@ -15376,6 +15376,7 @@ hipermetabòlic hipermetabòlica=categories: A;fonts: dsalut;
 hipermetilat hipermetilada=categories: A;fonts: derivat;
 hipermetrop=categories: A;fonts: LT;
 hipermetròpic hipermetròpica=categories: A;fonts: LT;
+hipermilitant=categories: A;fonts: derivat;
 hipermnèsic hipermnèsica=categories: A;fonts: dsalut;
 hipermodal=categories: A;fonts: dsalut;
 hipermodern hipermoderna=categories: A;fonts: derivat;
