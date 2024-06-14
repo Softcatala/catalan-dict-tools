@@ -246,6 +246,10 @@ atxem atxem I
 atxim atxim I
 au au I
 av avinguda Y
+azzurra azzurro AQ0FS0
+azzurre azzurro AQ0FP0
+azzurri azzurro AQ0MP0
+azzurro azzurro AQ0MS0
 açò açò PD0NS000
 bah bah I
 baldament baldament CS
