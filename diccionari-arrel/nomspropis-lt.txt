@@ -16721,7 +16721,6 @@ Montenegro Montenegro NPCSG00
 Monteny Monteny NPCNSP0
 Montepulciano Montepulciano NPCSG00
 Montereau-Fault-Yonne Montereau-Fault-Yonne NPCSG00
-Montereau-faut-Yonne Montereau-faut-Yonne NPCSG00
 Montero Montero NPCNSP0
 Monterol Monterol NPCNSP0
 Monterola Monterola NPCNSP0

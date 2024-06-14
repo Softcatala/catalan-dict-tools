@@ -17339,6 +17339,7 @@ integracionista=categories: A;fonts: LT;
 integrador integradora=categories: A;fonts: LT;
 integral=categories: A;fonts: LT;
 integrant=categories: A;fonts: LT;
+integrat integrada [pl. integradíssim]=categories: A;fonts: derivat;
 integratiu integrativa=categories: A;fonts: LT;
 integripal·lial=categories: A;fonts: LT;
 integrista=categories: A;fonts: LT;
