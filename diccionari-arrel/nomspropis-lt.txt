@@ -6292,6 +6292,7 @@ Cecabank Cecabank NPMSO00
 Cecili Cecili NPMSSP0
 Cecilis Cecili NPMPSP0
 Cecina Cecina NPCSG00
+Cecot Cecot NPFSO00
 Cecília Cecília NPFSSP0
 Cecílies Cecília NPFPSP0
 Cedraman Cedraman NPCSG00
@@ -10305,6 +10306,7 @@ Fraga Fraga NPCNSP0
 Fraga Fraga NPCSG00
 Fragonard Fragonard NPCNSP0
 Fraguerau Fraguerau NPCSG00
+Framingham Framingham NPCNSP0
 Framis Framis NPCNSP0
 Franc Franc NPCNSP0
 Franc Franc NPMSSP0
@@ -12336,6 +12338,7 @@ Hipercor Hipercor NPCNO00
 Hiperió Hiperió NPCSG00
 Hipona Hipona NPCSG00
 Hippel-Lindau Hippel-Lindau NPCNSP0 # medical
+Hipra Hipra NPFSO00
 Hipàtia Hipàtia NPFSSP0
 Hipòcrates Hipòcrates NPMSSP0
 Hipòlit Hipòlit NPCNSP0
@@ -15941,6 +15944,7 @@ McDonald's McDonald's NPCNO00
 McDowell McDowell NPCNSP0
 McFadden McFadden NPCNSP0
 McGraw-Hill McGraw-Hill NPCNO00
+McGuinness McGuinness NPCNSP0
 McKinley McKinley NPCSG00
 McLaren McLaren NPCNO00
 McLeod McLeod NPCNSP0 # medical
@@ -26706,6 +26710,7 @@ Webern Webern NPCNSP0
 Wegener Wegener NPCNSP0
 Weiden Weiden NPCSG00
 Weifang Weifang NPCSG00
+Weikersheim Weikersheim NPCSG00
 Weimar Weimar NPCSG00
 Weissenburg Weissenburg NPCSG00
 Weissenfels Weissenfels NPCSG00
