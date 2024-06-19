@@ -1371,6 +1371,7 @@ alsacià alsaciana=categories: A;fonts: LT;
 alt alta [sup. altíssim]=categories: A; font:apertium;
 alt-alemany alt-alemanya=categories: A;fonts: LT;
 alt-empordanès alt-empordanesa=categories: A;fonts: LT;
+alt-urgellenc alt-urgellenca=categories: A;fonts: optimot;
 altafullenc altafullenca=categories: A;fonts: LT;
 altaic altaica=categories: A;fonts: LT;
 altazimutal=categories: A;fonts: LT;
