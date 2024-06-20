@@ -33439,10 +33439,6 @@ embeneitíssem embeneitir VMSI1P05
 embeneitísseu embeneitir VMSI2P05
 embeneitíssim embeneitir VMSI1P02
 embeneitíssiu embeneitir VMSI2P02
-embetumador embetumador NCMS000
-embetumadora embetumador NCFS000
-embetumadores embetumador NCFP000
-embetumadors embetumador NCMP000
 embic embicar VMIP1S0B
 embica embicar VMIP3S00
 embica embicar VMM02S00
@@ -33531,10 +33527,6 @@ embiquésseu embicar VMSI2P05
 embiquéssim embicar VMSI1P02
 embiquéssiu embicar VMSI2P02
 embiquí embicar VMIS1S00
-embolador embolador AQ0MS0
-emboladora embolador AQ0FS0
-emboladores embolador AQ0FP0
-emboladors embolador AQ0MP0
 embolcament embolcament NCMS000
 embolcaments embolcament NCMP000
 embordeix embordir VMIP3S00
@@ -44188,8 +44180,6 @@ exemplaritzésseu exemplaritzar VMSI2P05
 exemplaritzéssim exemplaritzar VMSI1P02
 exemplaritzéssiu exemplaritzar VMSI2P02
 exemplaritzí exemplaritzar VMIS1S00
-exonímia exonímia NCFS000
-exonímies exonímia NCFP000
 exoparàsit exoparàsit NCMS000
 exoparàsits exoparàsit NCMP000
 exor exorar VMIP1S0B
