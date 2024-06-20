@@ -42,7 +42,9 @@ ortir urtes ir VMSP2S0V # surtes
 ortir urti ir VMSP3S0Y # surti
 ortir urta ir VMSP3S0V # surta
 r m ir VMSP1P00 # sortim
+r guem ir VMSP1P0B # sortiguem
 r u ir VMSP2P00 # sortiu
+r gueu ir VMSP2P0B # sortigueu
 ortir urtin ir VMSP3P0Y # surtin
 ortir urten ir VMSP3P0V # surten
 ir ís ir VMSI1S01 # sortís
