@@ -14234,6 +14234,7 @@ Linda Linda NPFSSP0 # avl: noms de persona
 Lindau Lindau NPCSG00
 Lindi Lindi NPCSG00
 Lineweaver-Burk Lineweaver-Burk NPCNSP0 # medical
+Linkat Linkat NPCNO00
 LinkedIn LinkedIn NPCNO00
 Linköping Linköping NPCSG00
 Linné Linné NPCNSP0

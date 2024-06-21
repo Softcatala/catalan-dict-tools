@@ -59,6 +59,7 @@
 #dimissòria=categories: F;fonts: LT;
 #diosa=categories: F;fonts: dsalut;
 #dornasa alfa=categories: F;fonts: dsalut;
+#dur dura=categories: MF;fonts: LT; # poc habitual
 #ecabet=categories: M;fonts: dsalut;
 #edetat=categories: M;fonts: dsalut;
 #er=categories: F;fonts: LT;
@@ -26906,7 +26907,6 @@ duplicidentat=categories: M;fonts: LT;
 duplicitat=categories: F;fonts: LT;
 dupondi=categories: M;fonts: LT;
 duquessa=categories: F;fonts: LT;
-dura=categories: F;fonts: LT;
 durabilitat=categories: F;fonts: LT;
 duració=categories: F;fonts: LT;
 durada=categories: F;fonts: LT;
