@@ -7169,6 +7169,7 @@ Coquells Coquells NPCSG00
 Coquimbo Coquimbo NPCSG00
 Cor-de-roure Cor-de-roure NPCSG00
 Cora Cora NPFSSP0 # avl: noms de persona
+Corachan Corachan NPCNSP0
 Coralí Coralí NPCNSP0
 Corato Corato NPCSG00
 Coratxan Coratxan NPCNSP0
