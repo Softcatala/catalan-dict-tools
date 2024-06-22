@@ -32176,6 +32176,7 @@ ultrafred ultrafreda=categories: A; font:derivat;
 ultrafí ultrafina=categories: A;fonts: LT;
 ultragasós ultragasosa=categories: A;fonts: LT;
 ultrahumà ultrahumana=categories: A;fonts: DNV;
+ultraindividualista=categories: A;fonts: derivat;
 ultraintel·ligent=categories: A;fonts: derivat;
 ultraista=categories: A;fonts: LT;
 ultralent ultralenta=categories: A;fonts: dsalut;
