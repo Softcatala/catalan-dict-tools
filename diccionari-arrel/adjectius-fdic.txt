@@ -6236,6 +6236,7 @@ catalanista=categories: A;fonts: LT;
 catalanitzador -a=categories: A;fonts: derivat;
 catalano-americà catalano-americana=categories: A;fonts: derivat;
 catalano-valenciano-balear=categories: A;fonts:derivat;
+catalanoafricà catalanoafricana=categories: A;fonts: derivat;
 catalanoamericà catalanoamericana=categories: A;fonts: derivat;
 catalanoaragonès catalanoaragonesa=categories: A;fonts: LT;
 catalanobalear=categories: A;fonts: GEC;
