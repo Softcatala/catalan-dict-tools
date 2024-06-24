@@ -23797,10 +23797,13 @@ Surós Surós NPCNSP0
 Susa Susa NPCSG00
 Susanna Susanna NPCNSP0
 Susanna Susanna NPFSSP0
+Susanne Susanne NPFSSP0
 Susannes Susanna NPFPSP0
+Susie Susie NPFSSP0
 Suso Suso NPMSSP0 # avl: noms de persona
 Susqueda Susqueda NPFSG00
 Susquehanna Susquehanna NPCSG00
+Sussex Sussex NPCSG00
 Sussiats Sussiats NPCSG00
 Suterranya Suterranya NPCSG00
 Sutilà Sutilà NPCNSP0
@@ -23811,6 +23814,7 @@ Sutton Sutton NPCSG00
 Suva Suva NPCSG00
 Suwałki Suwałki NPCSG00
 Suwon Suwon NPCSG00
+Suzanne Suzanne NPFSSP0
 Suzhou Suzhou NPCSG00
 Suzuka Suzuka NPCSG00
 Suzuki Suzuki NPCNSP0
