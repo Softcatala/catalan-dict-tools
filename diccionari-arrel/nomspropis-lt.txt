@@ -7722,6 +7722,7 @@ Cízic Cízic NPCSG00
 Còdol Còdol NPCNSP0
 Còlquida Còlquida NPFSG00
 Còrdova Còrdova NPFSG00
+Còrdova Còrdova NPMSO00
 Còrdul Còrdul NPMSSP0 # avl: noms de persona
 Còrdula Còrdula NPFSSP0
 Còrdules Còrdula NPFPSP0
