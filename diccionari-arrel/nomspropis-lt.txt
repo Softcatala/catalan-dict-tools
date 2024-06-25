@@ -1265,6 +1265,7 @@ Alfama Alfama NPCSG00
 Alfambra Alfambra NPCSG00
 Alfara Alfara NPCNSP0
 Alfara Alfara NPFSG00
+Alfaro Alfaro NPCNSP0
 Alfarrasí Alfarrasí NPCSG00
 Alfarràs Alfarràs NPCNSP0
 Alfarràs Alfarràs NPCSG00
@@ -11329,6 +11330,7 @@ Godofrè Godofrè NPMSSP0
 Godofré Godofrè NPMSSP0
 Godomà Godomà NPCNSP0
 Godori Godori NPCNSP0
+Godot Godot NPMSSP0
 Godowsky Godowsky NPCNSP0
 Godoy Godoy NPCNSP0
 Godés Godés NPCNSP0
@@ -17182,6 +17184,7 @@ Musell Musell NPCNSP0
 Musella Musella NPCNSP0
 Museros Museros NPCSG00
 Mushin Mushin NPCSG00
+Mushkaa Mushkaa NPFSSP0
 Musikverein Musikverein NPFSO00
 Musil Musil NPCNSP0
 Musitu Musitu NPCNSP0
@@ -22032,6 +22035,7 @@ Sainte-Croix Sainte-Croix NPFSG00
 Sainte-Enimie Sainte-Enimie NPCSG00
 Sainte-Geneviève-des-Bois Sainte-Geneviève-des-Bois NPCSG00
 Sainte-Marie Sainte-Marie NPFSG00
+Sainte-Suzanne Sainte-Suzanne NPCNG00
 Saintes Saintes NPCSG00
 Saintonge Saintonge NPCSG00
 Sainz Sainz NPCNSP0
@@ -27512,4 +27516,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Godot Godot NPMSSP0
