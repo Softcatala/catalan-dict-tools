@@ -20047,7 +20047,6 @@ Prizren Prizren NPCSG00
 Priština Priština NPCSG00
 Probus Probus NPMPSP0
 Probus Probus NPMSSP0
-Processos Procés NPMPSP0
 Procicat Procicat NPMSO00
 Procida Procida NPCSG00
 Proció Proció NPCSG00
@@ -20057,7 +20056,6 @@ Procmes Procmes NPMSSP0 # avl: noms de persona
 Procopi Procopi NPMSSP0
 Procopis Procopi NPMPSP0
 Procust Procust NPMSSP0
-Procés Procés NPMSSP0
 Proenç Proenç NPCNSP0
 Profitós Profitós NPCNSP0
 Progressos Progrés NPMPSP0
