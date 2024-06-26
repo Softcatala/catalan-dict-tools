@@ -77112,6 +77112,7 @@ soltesa=categories: F;fonts: LT;
 solubilitat=categories: F;fonts: LT;
 solubilització=categories: F;fonts: LT;
 solucionari=categories: M;fonts: LT;
+solucionisme=categories: MS;fonts: derivat;
 solució=categories: F;fonts: LT;
 solut=categories: M;fonts: LT;
 solutiu=categories: M;fonts: LT;

@@ -4810,6 +4810,7 @@ Bregós Bregós NPCNSP0
 Breisach Breisach NPCSG00
 Breitg Breitg NPCNSP0
 Breithorn Breithorn NPCSG00
+Breitkopf Breitkopf NPCNSP0
 Breix Breix NPCNSP0
 Brell Brell NPCNSP0
 Bremen Bremen NPMSG00
@@ -8335,6 +8336,7 @@ Draconci Draconci NPMSSP0
 Draghi Draghi NPCNSP0
 Draguignan Draguignan NPCSG00
 Dragó Dragó NPMSG00
+Drake Drake NPCNSP0
 Drakensberg Drakensberg NPCSG00
 Dramelay Dramelay NPCSG00
 Drammen Drammen NPCSG00
@@ -9789,6 +9791,7 @@ Ferkéssédougou Ferkéssédougou NPCSG00
 Ferlo Ferlo NPCSG00
 Fermanagh Fermanagh NPCSG00
 Fermat Fermat NPCNSP0
+Fermi Fermi NPCNSP0
 Fermina Fermina NPFSSP0 # avl: noms de persona
 Fermins Fermí NPMPSP0
 Fermo Fermo NPCSG00
@@ -10728,6 +10731,7 @@ Gamir Gamir NPCNSP0
 Gamirans Gamirans NPCNSP0
 Gamirà Gamirà NPCNSP0
 Gampaha Gampaha NPCSG00
+Gamper Gamper NPCNSP0
 Gampola Gampola NPCSG00
 Gamstorp Gamstorp NPCNSP0 # medical
 Gamundí Gamundí NPCNSP0
