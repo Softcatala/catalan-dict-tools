@@ -25357,6 +25357,7 @@ postpicnòtic postpicnòtica=categories: A;fonts: dsalut;
 postpituïtari postpituïtària=categories: A;fonts: dsalut;
 postpneumònic postpneumònica=categories: A;fonts: dsalut;
 postpoliomielític postpoliomielítica=categories: A;fonts: dsalut;
+postpolític postpolítica=categories: A;fonts: derivat;
 postporno=categories: AI;fonts: LT;
 postprandial=categories: A;fonts: LT;
 postprocedimental=categories: A;fonts: dsalut;
