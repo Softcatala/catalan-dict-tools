@@ -8113,6 +8113,7 @@ Diamond-Blackfan Diamond-Blackfan NPCNSP0 # medical
 Diana Diana NPCSG00
 Diana Diana NPFSSP0
 Dianes Diana NPFPSP0
+Diba Diba NPFSO00 # Diputació de Barcelona, col·loquial
 Dickens Dickens NPCNSP0
 Dickinson Dickinson NPCNSP0
 Dictini Dictini NPMSSP0
