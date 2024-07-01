@@ -19094,6 +19094,7 @@ llentillós llentillosa=categories: A;fonts: LT;
 llenyisser llenyissera=categories: A;fonts: LT;
 llenyós llenyosa=categories: A;fonts: LT;
 lleonat lleonada=categories: A;fonts: LT;
+lleonesista=categories: A;fonts: derivat,wikipedia;
 lleonià lleoniana=categories: A;fonts: LT;
 lleonès lleonesa=categories: A;fonts: LT;
 lleoní lleonina=categories: A;fonts: LT;

@@ -49745,6 +49745,7 @@ llençolet=categories: M;fonts: LT;
 lleonat=categories: M;fonts: LT;
 lleoner lleonera=categories: MF;fonts: LT;
 lleonera=categories: F;fonts: LT;
+lleonesisme=categories: MS;fonts: wikipedia;
 lleonet=categories: M;fonts: LT;
 lleonès lleonesa=categories: MF;fonts: LT;
 lleopard=categories: M;fonts: LT;

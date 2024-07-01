@@ -12339,6 +12339,7 @@ Himeris Himeri NPMPSP0
 Himmler Himmler NPCNSP0
 Himàlaia Himàlaia NPMSG00
 Hindemith Hindemith NPCNSP0
+Hindenburg Hindenburg NPCNSP0
 Hindustan Hindustan NPMSG00
 Hinman Hinman NPCNSP0 # medical
 Hinnøy Hinnøy NPCSG00
