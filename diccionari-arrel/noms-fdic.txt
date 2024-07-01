@@ -33900,6 +33900,7 @@ euroelecció=categories: F;fonts: DNV;
 euroemissió=categories: F;fonts: LT;
 euroescepticisme=categories: M;fonts: LT;
 euroescèptic euroescèptica=categories: MF;fonts: LT;
+euroescó=categories: M;fonts: derivat;
 euroesquerra=categories: F;fonts: LT;
 euroexèrcit=categories: MS;fonts: encCat;
 eurofan=categories: MF;fonts: derivat;
