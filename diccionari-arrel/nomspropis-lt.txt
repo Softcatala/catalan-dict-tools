@@ -12774,6 +12774,7 @@ Indore Indore NPCSG00
 Indostan Indostan NPMSG00
 Indoxina Indoxina NPFSG00
 Indre Indre NPCSG00
+Indurain Indurain NPCNSP0
 Indus Indus NPCSG00
 Indíbil Indíbil NPMSSP0 # avl: noms de persona
 InfoK InfoK NPMNO00
