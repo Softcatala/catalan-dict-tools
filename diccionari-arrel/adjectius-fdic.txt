@@ -20732,6 +20732,7 @@ mirallat mirallada=categories: A;fonts: LT;
 mirallenc mirallenca=categories: A;fonts: LT;
 miramarí miramarina=categories: A;fonts: LT;
 mirambellà mirambellana=categories: A;fonts: LT;
+mirandès mirandesa=categories: A;fonts: DIEC;
 miranius=categories: AI;fonts: LT;
 miravetà miravetana=categories: A;fonts: LT;
 mirmecocor mirmecocora=categories: A;fonts: LT;
