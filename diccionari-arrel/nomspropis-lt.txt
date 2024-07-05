@@ -19696,6 +19696,7 @@ Polvorí Polvorí NPMSG00
 Polzet Polzet NPMSSP0
 Polèsia Polèsia NPFSG00
 Polònia Polònia NPFSG00
+Polònia Polònia NPMSO00 # programa de TV
 Poma Poma NPCNSP0
 Pomada Pomada NPCNSP0
 Pomar Pomar NPCNSP0
