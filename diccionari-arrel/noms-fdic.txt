@@ -2512,6 +2512,7 @@ agroecosistema=categories: M;fonts: GEC;
 agroenergètica=categories: F;fonts: LT;
 agrogeologia=categories: F;fonts: LT;
 agroindústria=categories: F;fonts: LT;
+agrojardineria=categories: FS;fonts: derivat;
 agrologia=categories: F;fonts: LT;
 agromania=categories: F;fonts: dsalut;
 agrometeorologia=categories: F;fonts: termcat;

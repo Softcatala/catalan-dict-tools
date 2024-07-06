@@ -7495,6 +7495,7 @@ Cristeta Cristeta NPFSSP0
 Cristetes Cristeta NPFPSP0
 Cristian Cristian NPMSSP0
 Cristiana Cristiana NPFSSP0 # avl: noms de persona
+Cristiano Cristiano NPMSSP0
 Cristians Cristià NPMPSP0
 Cristina Cristina NPFSSP0
 Cristines Cristina NPFPSP0
