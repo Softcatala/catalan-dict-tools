@@ -18013,6 +18013,7 @@ irredempt irredempta=categories: A;fonts: LT;
 irredemptista=categories: A;fonts: LT;
 irredimible=categories: A;fonts: LT;
 irreductible=categories: A;fonts: LT;
+irreduïble=categories: A;fonts: derivat;
 irreelegible=categories: A;fonts: LT;
 irreemborsable=categories: A;fonts: LT;
 irreemplaçable=categories: A;fonts: LT;
