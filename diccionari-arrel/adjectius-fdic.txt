@@ -19420,6 +19420,7 @@ macrofil·le macrofil·la=categories: A;fonts: LT;
 macrohèmer macrohèmera=categories: A;fonts: LT;
 macromolecular=categories: A;fonts: LT;
 macromètric macromètrica=categories: A;fonts: termcat;
+macronista=categories: A;fonts: francès;
 macronodular=categories: A;fonts: dsalut;
 macroporós -osa=categories: A;fonts: LT;
 macroprudencial=categories: A;fonts: derivat;

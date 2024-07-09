@@ -1255,7 +1255,7 @@ Alexandres Alexandre NPMPSP0
 Alexandria Alexandria NPFSG00
 Alexandrina Alexandrina NPFSSP0 # avl: noms de persona
 Alexandrí Alexandrí NPMSSP0 # avl: noms de persona
-Alexandrúpolis Alexandrúpolis NPCSG00
+Alexandrúpoli Alexandrúpoli NPCSG00
 Alexis Alexis NPMSSP0 # avl: noms de persona
 Alf Alf NPCSG00
 Alfafar Alfafar NPCSG00
@@ -14049,6 +14049,7 @@ Legaspi Legaspi NPCSG00
 Legnano Legnano NPCSG00
 Legnica Legnica NPCSG00
 Lego Lego NPCNO00
+Legos Lego NPMPO00
 Leibnitz Leibnitz NPCNSP0
 Leibniz Leibniz NPCNSP0
 Leicester Leicester NPCSG00
