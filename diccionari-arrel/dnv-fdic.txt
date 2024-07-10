@@ -2378,7 +2378,6 @@ fargandà -ana=categories: MF;fonts: DNV;
 farinal=categories: M;fonts: DNV;
 farinassa=categories: F;fonts: DNV;
 farjar=categories: V;model:menjar;fonts: DNV;
-farlopa=categories: F;fonts: DNV,col·loquial;
 farmacosiderita=categories: F;fonts: DNV;
 farmacoteca=categories: F;fonts: DNV;
 faroleria=categories: F;fonts: DNV;

@@ -45136,8 +45136,6 @@ farjàssim farjar VMSI1P04
 farjàssiu farjar VMSI2P04
 farjàvem farjar VMII1P00
 farjàveu farjar VMII2P00
-farlopa farlopa NCFS000
-farlopes farlopa NCFP000
 farmacosiderita farmacosiderita NCFS000
 farmacosiderites farmacosiderita NCFP000
 farmacoteca farmacoteca NCFS000

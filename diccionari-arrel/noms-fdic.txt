@@ -35160,6 +35160,7 @@ farisea=categories: F;fonts: LT;
 fariseisme=categories: M;fonts: LT;
 fariseu=categories: M;fonts: LT;
 faristol=categories: M;fonts: LT;
+farlopa=categories: F;fonts: DNV,col·loquial,esadir;
 farmaciola=categories: F;fonts: LT;
 farmacocinètica=categories: F;fonts: LT;
 farmacodependència=categories: F;fonts: LT;
