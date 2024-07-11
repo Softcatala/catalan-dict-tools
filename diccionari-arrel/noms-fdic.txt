@@ -51647,6 +51647,7 @@ marabut=categories: M;fonts: LT;
 marabú [pl. marabús]=categories: M;fonts: LT;
 maraca=categories: F;fonts: LT;
 maracujà [pl. maracujàs]=categories: M;fonts: LT;
+maragallisme=categories: MS;fonts: derivat;
 maragda=categories: F;fonts: LT;
 maragdita=categories: F;fonts: LT;
 maranta=categories: F;fonts: LT;

@@ -19776,6 +19776,7 @@ maquiavèl·lic maquiavèl·lica=categories: A;fonts: LT;
 maquilladíssim maquilladíssima=categories: A;fonts: superlative;
 maquinador maquinadora=categories: A;fonts: LT;
 maquinal=categories: A;fonts: LT;
+maragallista=categories: A;fonts: derivat;
 maragallià maragalliana=categories: A;fonts: derivat;
 maragdí maragdina=categories: A;fonts: LT;
 marasmoide=categories: A;fonts: dsalut;
