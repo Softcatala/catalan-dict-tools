@@ -12053,6 +12053,7 @@ eticoclínic eticoclínica=categories: A;fonts: dsalut;
 eticocívic -a=categories: A;fonts: derivat;
 eticocívic eticocívica=categories: A;fonts: derivat;
 eticolegal=categories: A;fonts: dsalut;
+eticomoral=categories: A;fonts: derivat;
 eticopolític -a=categories: A;fonts: derivat;
 etilendiaminatetraacètic=categories: AMS;fonts: LT;
 etilendiaminotetracètic etilendiaminotetracètica=categories: A;fonts: dsalut;
