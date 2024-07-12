@@ -38880,6 +38880,7 @@ garrotera=categories: F;fonts: LT;
 garrotxa=categories: F;fonts: LT;
 garrotxina=categories: F;fonts: LT;
 garrotxí=categories: M;fonts: LT;
+garrotín=categories: M;fonts: DIEC;
 garrova=categories: F;fonts: LT;
 garrover=categories: M;fonts: LT;
 garrovera=categories: F;fonts: LT;
