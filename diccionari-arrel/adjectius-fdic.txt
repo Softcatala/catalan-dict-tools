@@ -14189,6 +14189,7 @@ genovesí genovesina=categories: A;fonts: LT;
 genovès genovesa=categories: A;fonts: LT;
 gentil [sup. gentilíssim]=categories: A;fonts: LT;
 gentilici gentilícia=categories: A;fonts: LT;
+gentrificador gentrificadora=categories: A;fonts: derivat;
 gentílic gentílica=categories: A;fonts: LT;
 genucubital=categories: A;fonts: dsalut;
 genufacial=categories: A;fonts: dsalut;
