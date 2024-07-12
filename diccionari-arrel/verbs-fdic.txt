@@ -17,6 +17,7 @@
 #microadministrar=categories: V;model:cantar;fonts: derivat;
 #postposar=categories: V;model:anquilosar;fonts: LT;
 #revoldre=categories: V;model:absoldre;fonts:LT no normatiu, només DCVB
+#revolotejar=categories: V;model:envejar;fonts: DCVB;
 #revore=categories: V;model:vore;fonts: DNV;
 #rolar=categories: V;model:cantar;fonts: LT; inusual
 #titar=categories: V;model:cantar;fonts:LT, rar, confusions?
@@ -9105,7 +9106,6 @@ revocar=categories: V;model:trencar;fonts: LT;
 revolantigar=categories: V;model:lligar;fonts: LT;
 revolar=categories: V;model:cantar;fonts: LT;
 revolejar=categories: V;model:envejar;fonts: LT;
-revolotejar=categories: V;model:envejar;fonts: LT;
 revoltar=categories: V;model:cantar;fonts: LT;
 revoltillar=categories: V;model:cantar;fonts: LT;
 revolucionar=categories: V;model:cantar;fonts: LT;
