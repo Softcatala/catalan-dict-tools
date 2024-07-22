@@ -69337,6 +69337,7 @@ publireportatge=categories: M;fonts: LT;
 publitramesa=categories: F;fonts: LT;
 puboplàstia=categories: F;fonts: dsalut;
 pubotomia=categories: F;fonts: dsalut;
+puceta=categories: F;fonts: diminutiu;
 pudelació=categories: F;fonts: LT;
 pudendagra=categories: F;fonts: dsalut;
 pudenta=categories: F;fonts: LT;
