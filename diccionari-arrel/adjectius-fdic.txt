@@ -28672,6 +28672,7 @@ semiestructurat semiestructurada=categories: A;fonts: LT;
 semiestructurat semiestructurada=categories: A;fonts: derivat;
 semiestàtic semiestàtica=categories: A;fonts: termcat;
 semiexterior=categories: A;fonts: derivat;
+semifeliç=categories: A;fonts: derivat;
 semifermentat semifermentada=categories: A;fonts: derivat;
 semifestiu semifestiva=categories: A;fonts: derivat;
 semifinal=categories: A;fonts: LT;
