@@ -76924,6 +76924,7 @@ socialdemòcrata=categories: MF;fonts: LT;
 socialisme=categories: M;fonts: LT;
 socialista=categories: MF;fonts: LT;
 socialització=categories: F;fonts: LT;
+sociata=categories: MF;fonts: colloquial;
 societat=categories: F;fonts: LT;
 socimi=categories: F;fonts: termcat;
 socinianisme=categories: M;fonts: LT;

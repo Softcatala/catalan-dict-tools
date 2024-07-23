@@ -6589,6 +6589,7 @@ Chuquicamata Chuquicamata NPCSG00
 Chur Chur NPCSG00
 Churchill Churchill NPCSG00
 Churg-Strauss Churg-Strauss NPCNSP0 # medical
+Churruca Churruca NPCNSP0
 Chvostek Chvostek NPCNSP0 # medical
 Châlons-en-Champagne Châlons-en-Champagne NPCSG00
 Châteauroux Châteauroux NPCSG00
@@ -6955,6 +6956,7 @@ Collet Collet NPCNSP0
 Collet-Sicart Collet-Sicart NPCNSP0 # medical
 Collformic Collformic NPCSG00
 Collfred Collfred NPCSG00
+Collingwood Collingwood NPCNSP0
 Collins Collins NPCNSP0
 Collmalivern Collmalivern NPCNSP0
 Collsacabra Collsacabra NPMSG00
@@ -26374,6 +26376,7 @@ Villavieja Villavieja NPFSG00
 Villejuif Villejuif NPCSG00
 Villemomble Villemomble NPCSG00
 Villena Villena NPFSG00
+Villeneuve Villeneuve NPCSG00
 Villeneuve-Saint-Georges Villeneuve-Saint-Georges NPCSG00
 Villeneuve-d'Ascq Villeneuve-d'Ascq NPCSG00
 Villeneuve-la-Garenne Villeneuve-la-Garenne NPCSG00
