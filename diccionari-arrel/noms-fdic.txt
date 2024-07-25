@@ -35797,6 +35797,7 @@ festeig=categories: M;fonts: LT;
 festejador festejadora=categories: MF;fonts LT;
 festejament=categories: M;fonts: LT;
 fester festera=categories: MF;fonts: LT;
+festeta=categories: F;fonts: diminutiu;
 festinació=categories: F;fonts: LT;
 festival=categories: M;fonts: LT;
 festivitat=categories: F;fonts: LT;
