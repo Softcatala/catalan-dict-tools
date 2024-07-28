@@ -53879,12 +53879,6 @@ lotiforme lotiforme AQ0CS0
 lotiformes lotiforme AQ0CP0
 luminograma luminograma NCMS000
 luminogrames luminograma NCMP000
-lusisme lusisme NCMS000
-lusismes lusisme NCMP000
-lusista lusista AQ0CS0
-lusista lusista NCCS000
-lusistes lusista AQ0CP0
-lusistes lusista NCCP000
 làmpara làmpara NCFS000
 làmpares làmpara NCFP000
 límnia limni AQ0FS0
@@ -62028,8 +62022,6 @@ portor portor NCMS000
 portora portor NCFS000
 portores portor NCFP000
 portors portor NCMP000
-portuguesisme portuguesisme NCMS000
-portuguesismes portuguesisme NCMP000
 porxi porxi NCMS000
 porxis porxi NCMP000
 positivadora positivadora NCFS000
