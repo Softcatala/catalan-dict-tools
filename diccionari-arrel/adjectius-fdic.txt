@@ -23721,6 +23721,7 @@ patrilateral=categories: A;fonts: LT;
 patrilineal=categories: A;fonts: LT;
 patrilocal=categories: A;fonts: LT;
 patrimonial=categories: A;fonts: LT;
+patrimonialista=categories: A;fonts: termcat;
 patrioter patriotera=categories: A;fonts: LT;
 patripassià patripassiana=categories: A;fonts: LT;
 patriòtic patriòtica=categories: A;fonts: LT;
