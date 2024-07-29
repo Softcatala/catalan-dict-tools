@@ -47616,6 +47616,7 @@ jungermanníide=categories: F;fonts: LT;
 jungla=categories: F;fonts: LT;
 juniorat=categories: M;fonts: LT;
 junquera=categories: F;fonts: LT;
+junquerisme=categories: MS;fonts: derivat;
 junt=categories: M;fonts: LT;
 junta=categories: F;fonts: LT;
 juntura=categories: F;fonts: LT;

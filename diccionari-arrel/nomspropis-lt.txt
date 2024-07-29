@@ -9898,6 +9898,7 @@ Figaró Figaró NPCSG00
 Figaró-Montmany Figaró-Montmany NPMSG00
 Figeac Figeac NPCSG00
 Figuera Figuera NPCNSP0
+Figuera Figuera NPFSG00
 Figuereda Figuereda NPCNSP0
 Figueres Figueres NPCNSP0
 Figuerol Figuerol NPCNSP0
