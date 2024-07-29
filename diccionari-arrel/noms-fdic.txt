@@ -62119,6 +62119,7 @@ paraflagel=categories: M;fonts: dsalut;
 parafoc=categories: M;fonts: LT;
 parafonia=categories: F;fonts: LT;
 paraformaldehid=categories: M;fonts: LT;
+parafraseig=categories: M;fonts: termcat;
 parafrast parafrasta=categories: MF;fonts: LT;
 parafrènia=categories: F;fonts: LT;
 parafrònia=categories: F;fonts: dsalut;
