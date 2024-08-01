@@ -15333,6 +15333,7 @@ hiperconcentrat hiperconcentrada=categories: A;fonts: derivat;
 hiperconductor hiperconductora=categories: A;fonts: derivat;
 hiperconnectat hiperconnectada=categories: A;fonts: derivat;
 hiperconscient=categories: A;fonts: derivat;
+hiperconsumista=categories: A;fonts: derivat;
 hipercontent hipercontenta=categories: A;fonts: derivat;
 hipercromàtic hipercromàtica=categories: A;fonts: dsalut;
 hipercrí -ina=categories: A;fonts: dsalut;
