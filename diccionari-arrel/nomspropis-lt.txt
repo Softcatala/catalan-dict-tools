@@ -7591,6 +7591,7 @@ Cudós Cudós NPCNSP0
 Cuenca Cuenca NPCNSP0
 Cuenca Cuenca NPCSG00
 Cuernavaca Cuernavaca NPCSG00
+Cuevas Cuevas NPCNSP0
 Cugat Cugat NPCNSP0
 Cugat Cugat NPMSSP0
 Cugats Cugat NPMPSP0
