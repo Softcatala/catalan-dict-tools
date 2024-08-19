@@ -15374,6 +15374,7 @@ hiperglicèmic hiperglicèmica=categories: A;fonts: derivat;
 hiperglobalitzat hiperglobalitzada=categories: A;fonts: derivat;
 hiperglucemiant=categories: A;fonts: LT;
 hiperglucèmic hiperglucèmica=categories: A;fonts: dsalut;
+hipergàmic hipergàmica=categories: A;fonts: derivat;
 hiperhemolític hiperhemolítica=categories: A;fonts: dsalut;
 hiperhidratat hiperhidratada=categories: A;fonts: derivat;
 hiperhidròtic hiperhidròtica=categories: A;fonts: dsalut;

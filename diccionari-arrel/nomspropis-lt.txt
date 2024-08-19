@@ -2691,6 +2691,7 @@ Atlàntida Atlàntida NPFSG00
 Atocha Atocha NPCSG00
 Atotxa Atotxa NPFSSP0 # avl: noms de persona
 Atrato Atrato NPCSG00
+Atresmedia Atresmedia NPCNSP0
 Attigny Attigny NPCSG00
 Atwood Atwood NPCNSP0
 Atxaga Atxaga NPCNSP0
