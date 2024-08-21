@@ -14603,6 +14603,7 @@ Llossà Llossà NPCNSP0
 Llot Llot NPCNSP0
 Llotes Llotes NPCSG00
 Llovic Llovic NPCNSP0
+Lloyd Lloyd NPCNSP0
 Lluart Lluart NPCNSP0
 Llubià Llubià NPCNSP0
 Llubí Llubí NPCSG00
