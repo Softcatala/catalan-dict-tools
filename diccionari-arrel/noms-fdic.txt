@@ -20165,6 +20165,7 @@ constitucionalització=categories: F;fonts: derivat;
 constitucioner=categories: M;fonts: LT;
 constitució=categories: F;fonts: LT;
 constituent=categories: M;fonts: LT;
+constituïdor -a=categories: MF;fonts: DNV;
 constrenyiment=categories: M;fonts: LT;
 constricció=categories: F;fonts: LT;
 constringència=categories: F;fonts: LT;
