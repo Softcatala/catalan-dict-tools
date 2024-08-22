@@ -3529,6 +3529,7 @@ Baulenas Baulenas NPCNSP0
 Baulida Baulida NPCNSP0
 Baulí Baulí NPCNSP0
 Bauló Bauló NPCNSP0
+Bauman Bauman NPCNSP0
 Baumgartner Baumgartner NPCNSP0
 Baura Baura NPCNSP0
 Bausen Bausen NPCSG00
@@ -3589,6 +3590,7 @@ Beders Beders NPCSG00
 Bedes Beda NPFPSP0
 Bedford Bedford NPCSG00
 Bedfordshire Bedfordshire NPCSG00
+Beefeater Beefeater NPCNO00
 Beethoven Beethoven NPCNSP0
 Befaràs Befaràs NPCNSP0
 Beget Beget NPCSG00
