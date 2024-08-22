@@ -57108,6 +57108,7 @@ nassí [pl. nassís]=categories: M;fonts: LT;
 nata=categories: F;fonts: LT;
 natació=categories: F;fonts: LT;
 natalici=categories: M;fonts: LT;
+natalisme=categories: M;fonts: derivat;
 natalitat=categories: F;fonts: LT;
 natalizumab=categories: M;fonts: dsalut;
 natamicina=categories: F;fonts: dsalut;

@@ -10064,6 +10064,7 @@ Florències Florència NPFPSP0
 Florí Florí NPCSG00
 Flotat Flotat NPCNSP0
 Flotats Flotats NPCNSP0
+Floyd Floyd NPCNSP0
 Fluixenc Fluixenc NPCNSP0
 Fluixà Fluixà NPCNSP0
 Fluixà Fluixà NPCSG00
