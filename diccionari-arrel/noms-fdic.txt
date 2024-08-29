@@ -56503,6 +56503,7 @@ multilateralisme=categories: MS;fonts: derivat;
 multilateralitat=categories: F;fonts: LT;
 multilingüisme=categories: M;fonts: LT;
 multimilionari multimilionària=categories: MF;fonts LT;
+multimodalitat=categories: F;fonts: derivat;
 multimorbiditat=categories: F;fonts: dsalut;
 multimàmia=categories: F;fonts: dsalut;
 multimèdia=categories: MI;fonts: LT;
