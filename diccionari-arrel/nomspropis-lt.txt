@@ -8488,6 +8488,7 @@ Dòria Dòria NPCNSP0
 Dòrida Dòrida NPFSG00
 Dòvia Dòvia NPFSG00
 Dúnia Dúnia NPFSSP0 # avl: noms de persona
+Dúrov Dúrov NPCNSP0
 Düren Düren NPCSG00
 Dürer Dürer NPCNSP0
 Düsseldorf Düsseldorf NPMSG00
@@ -13719,6 +13720,7 @@ Krabbe Krabbe NPCNSP0 # medical
 Kragujevac Kragujevac NPCSG00
 Krajina Krajina NPCSG00
 Krakatoa Krakatoa NPCSG00
+Kramatorsk Kramatorsk NPCSG00
 Kras Kras NPCSG00
 Krasnoarmiis'k Krasnoarmiis'k NPCSG00
 Krasnodar Krasnodar NPCSG00
@@ -19651,6 +19653,7 @@ Poitiers Poitiers NPCSG00
 Poitou Poitou NPCSG00
 Poitou-Charentes Poitou-Charentes NPCSG00
 Pokhara Pokhara NPCSG00
+Pokrovsk Pokrovsk NPCSG00
 Pokémon Pokémon NPMNSP0
 Pol Pol NPCNSP0
 Pola Pola NPCNSP0

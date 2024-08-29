@@ -23523,6 +23523,7 @@ paranoic paranoica=categories: A;fonts: LT;
 paranoicocrític paranoicocrítica=categories: A;fonts: derivat;
 paranoide=categories: A;fonts: LT;
 paranormal=categories: A;fonts: LT;
+paranormatiu paranormativa=categories: A;fonts: derivat;
 paranuclear=categories: A;fonts: dsalut;
 paranèfric paranèfrica=categories: A;fonts: dsalut;
 paraoficial=categories: A;fonts: LT;
