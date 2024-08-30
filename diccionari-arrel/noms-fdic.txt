@@ -43603,6 +43603,7 @@ hipermobilitat=categories: F;fonts: LT;
 hipermobilització=categories: F;fonts: derivat;
 hipermodernitat=categories: F;fonts: GEC, viquipedia;
 hipermotilitat=categories: F;fonts: dsalut;
+hipermusculació=categories: F;fonts: derivat;
 hipermutació=categories: F;fonts: dsalut;
 hipermàstia=categories: F;fonts: dsalut;
 hipermèdia=categories: M;fonts: LT;

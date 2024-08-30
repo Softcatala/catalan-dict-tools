@@ -2038,6 +2038,7 @@ Anšan Anšan NPCSG00
 Ao Ao NPCSG00
 Aomori Aomori NPCSG00
 Aosta Aosta NPFSG00
+Aotearoa Aotearoa NPFSG00
 Apalatxes Apalatxes NPMPG00
 Apamea Apamea NPCSG00
 Aparici Aparici NPCNSP0
@@ -7395,6 +7396,7 @@ Cots Cots NPFPG00
 Cottbus Cottbus NPCSG00
 Cotxer Cotxer NPMSG00
 Cotxinxina Cotxinxina NPFSG00
+Coubertin Coubertin NPCNSP0
 Coudekerque-Branche Coudekerque-Branche NPCSG00
 Couperin Couperin NPCNSP0
 Courbet Courbet NPCNSP0
@@ -14616,6 +14618,7 @@ Llubí Llubí NPCSG00
 Lluc Lluc NPCNSP0
 Lluc Lluc NPMSSP0
 Llucalari Llucalari NPCSG00
+Llucalcari Llucalcari NPCSG00
 Llucena Llucena NPFSG00
 Lluci Lluci NPMSSP0
 Lluciana Lluciana NPFSSP0
