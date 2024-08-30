@@ -77539,6 +77539,7 @@ start-up=categories: F;fonts; termcat, anglicisme;
 stassanització=categories: F;fonts: dsalut;
 stavkirke=categories: F;fonts: LT;
 steampunk=categories: MS;fonts: wiki;
+stent=categories: M;fonts: termcat;
 stephanià=categories: M;fonts: LT;
 stichtita=categories: F;fonts: LT;
 stickman=categories: M;fonts: LT;

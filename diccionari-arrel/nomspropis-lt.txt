@@ -200,6 +200,10 @@
 #Seré (o Serè) Seré (o Serè) NPMSSP0 # avl: noms de persona
 #Set Set NPMSSP0 # avl: noms de persona
 #Sever Sever NPCNSP0 # medical
+#Sever Sever NPMSSP0
+#Severa Severa NPFSSP0
+#Severes Severa NPFPSP0
+#Severs Sever NPMPSP0
 #Siles Siles NPMSSP0 # avl: noms de persona
 #Simferopol Simferopol NPCSG00
 #Sir Sir NPMSSP0 # avl: noms de persona
@@ -23047,9 +23051,6 @@ Seu Seu NPCSG00
 Seva Seva NPCNSP0
 Seva Seva NPFSG00
 Sevan Sevan NPCSG00
-Sever Sever NPMSSP0
-Severa Severa NPFSSP0
-Severes Severa NPFPSP0
 Severiana Severiana NPFSSP0
 Severianes Severiana NPFPSP0
 Severians Severià NPMPSP0
@@ -23058,7 +23059,6 @@ Severins Severí NPMPSP0
 Severià Severià NPMSSP0
 Severn Severn NPCSG00
 Severodvinsk Severodvinsk NPCSG00
-Severs Sever NPMPSP0
 Severí Severí NPMSSP0
 Seveso Seveso NPCSG00
 Sevilla Sevilla NPFSG00
