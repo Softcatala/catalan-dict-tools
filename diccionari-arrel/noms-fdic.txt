@@ -85010,6 +85010,7 @@ vegetació=categories: F;fonts: LT;
 vegetal=categories: M;fonts: LT;
 vegetalisme=categories: M;fonts: LT;
 vegetalista=categories: MF;fonts: LT;
+vegetalització=categories: F;fonts: termcat;
 vegetarianisme=categories: M;fonts: LT;
 vegetarisme=categories: M;fonts: termcat;
 vegetarià vegetariana=categories: MF;fonts LT;
