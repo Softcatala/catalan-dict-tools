@@ -3596,6 +3596,7 @@ Bedes Beda NPFPSP0
 Bedford Bedford NPCSG00
 Bedfordshire Bedfordshire NPCSG00
 Beefeater Beefeater NPCNO00
+Beerxeba Beerxeba NPFSG00
 Beethoven Beethoven NPCNSP0
 Befaràs Befaràs NPCNSP0
 Beget Beget NPCSG00
@@ -17899,6 +17900,7 @@ Nàuplia Nàuplia NPCSG00
 Nájera Nájera NPCSG00
 Näfels Näfels NPCSG00
 Nèfol Nèfol NPCSG00
+Nègueb Nègueb NPMSG00
 Nèlida Nèlida NPFSSP0 # avl: noms de persona
 Nèmesi Nèmesi NPFSSP0
 Nèstor Nèstor NPCSG00
@@ -24286,6 +24288,7 @@ Teixonera Teixonera NPFSG00
 Teià Teià NPCSG00
 Tejero Tejero NPCNSP0
 Tel-Aviv Tel-Aviv NPCSG00
+Tel-Aviv-Jafa Tel-Aviv-Jafa NPCSG00
 Tel-Aviv-Yafō Tel-Aviv-Yafō NPCSG00
 Telde Telde NPCSG00
 Telecinco Telecinco NPCNO00
