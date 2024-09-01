@@ -59666,6 +59666,7 @@ omentorràfia=categories: F;fonts: dsalut;
 omentotomia=categories: F;fonts: dsalut;
 omentovòlvul=categories: M;fonts: dsalut;
 omentumectomia=categories: F;fonts: dsalut;
+omeprazol=categories: M;fonts: esadir, colloquial;
 omeprazole=categories: M;fonts: dsalut;
 omertà=categories: FS;fonts: italià;
 ometenc ometenca=categories: MF;fonts: LT;
