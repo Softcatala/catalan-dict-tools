@@ -1530,6 +1530,7 @@ Alubís Alubís NPCNSP0
 Aluig Aluig NPCNSP0
 Aluja Aluja NPCNSP0
 Alujà Alujà NPCNSP0
+Alvia Alvia NPCNO00
 Alvise Alvise NPMSSP0
 Alvèrnia Alvèrnia NPFSG00
 Alwar Alwar NPCSG00
@@ -3539,6 +3540,7 @@ Baumgartner Baumgartner NPCNSP0
 Baura Baura NPCNSP0
 Bausen Bausen NPCSG00
 Bausset Bausset NPCNSP0
+Bautzen Bautzen NPCSG00
 Bauçà Bauçà NPCNSP0
 Baviera Baviera NPFSG00
 Bavià Bavià NPCNSP0

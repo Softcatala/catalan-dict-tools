@@ -3610,6 +3610,7 @@ desqualificar=categories: V;model:trencar;fonts: LT;
 desqueixalar=categories: V;model:cantar;fonts: LT;
 desqueixar=categories: V;model:cantar;fonts: LT;
 desquiratar=categories: V;model:cantar;fonts: LT;
+desradicalitzar=categories: V;model:cantar;fonts: LT;
 desramellar=categories: V;model:cantar;fonts: LT;
 desrapar=categories: V;model:cantar;fonts: LT;
 desratitzar=categories: V;model:cantar;fonts: LT;
