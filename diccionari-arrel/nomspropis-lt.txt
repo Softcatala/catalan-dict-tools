@@ -11941,6 +11941,7 @@ Gutenberg Gutenberg NPCNSP0
 Gutium Gutium NPMSG00
 Gutiérrez Gutiérrez NPCNSP0
 Gutland Gutland NPCSG00
+Guwahati Guwahati NPCSG00
 Guyana Guyana NPFSG00
 Guyón Guyón NPCNSP0 # medical
 Guzmán Guzmán NPCNSP0
