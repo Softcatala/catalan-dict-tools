@@ -9865,6 +9865,7 @@ Ferri Ferri NPCNSP0
 Ferriol Ferriol NPCNSP0
 Ferriol Ferriol NPMSSP0
 Ferriols Ferriol NPMPSP0
+Ferrmed Ferrmed NPCNO00
 Ferro Ferro NPCNSP0
 Ferrol Ferrol NPCSG00
 Ferrussola Ferrussola NPCNSP0
@@ -10031,6 +10032,7 @@ Flequer Flequer NPCNSP0
 Flers Flers NPCSG00
 Fleury-les-Aubrais Fleury-les-Aubrais NPCSG00
 Fleúve Fleúve NPCSG00
+Flick Flick NPCNSP0
 Flickr Flickr NPCNO00
 Flinders Flinders NPCSG00
 Flint Flint NPCSG00

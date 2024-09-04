@@ -34083,6 +34083,7 @@ exarca=categories: M;fonts: LT;
 exarcat=categories: M;fonts: LT;
 exarquebisbe=categories: M;fonts: LT;
 exarquia=categories: F;fonts: LT;
+exarquitecte exarquitecta=categories: MF;fonts: derivat;
 exarteritis=categories: FI;fonts: dsalut;
 exarticulació=categories: F;fonts: dsalut;
 exartrema=categories: M;fonts: LT;
