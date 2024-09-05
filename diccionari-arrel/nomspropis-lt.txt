@@ -355,6 +355,7 @@ Abió Abió NPCSG00
 Abkhàzia Abkhàzia NPFSG00
 Aboisso Aboisso NPCSG00
 Abomey Abomey NPCSG00
+Abouyaaqoub Abouyaaqoub NPCNSP0
 Abqayq Abqayq NPCSG00
 Abraham Abraham NPCNSP0
 Abraham Abraham NPMSSP0

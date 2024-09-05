@@ -5938,6 +5938,7 @@ antropomorf=categories: M;fonts: LT;
 antropomorfisme=categories: M;fonts: LT;
 antropomorfista=categories: MF;fonts: LT;
 antropomorfita=categories: MF;fonts: LT;
+antropomorfització=categories: F;fonts: derivat;
 antropomància=categories: F;fonts: LT;
 antroponosi=categories: F;fonts: LT;
 antroponímia=categories: F;fonts: LT;
