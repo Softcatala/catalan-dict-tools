@@ -6552,6 +6552,7 @@ Chieti Chieti NPCSG00
 Chihuahua Chihuahua NPFSG00
 Chikungunya Chikungunya NPCNSP0
 Chilecito Chilecito NPCSG00
+Chillida Chillida NPCNSP0
 Chillán Chillán NPCSG00
 Chiloé Chiloé NPCSG00
 Chimbote Chimbote NPCSG00
