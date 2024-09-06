@@ -26976,6 +26976,7 @@ rasquerà rasquerana=categories: A;fonts: LT;
 rasta=categories: A; fonts: termcat;
 rastafari=categories: A; fonts: termcat;
 rastafarià rastafariana=categories: A; fonts: termcat;
+rastrejable=categories: A;fonts: derivat;
 rastrejador rastrejadora=categories: A;fonts: LT;
 rat rata=categories: A;fonts: LT;
 ratador ratadora=categories: A;fonts: LT;
