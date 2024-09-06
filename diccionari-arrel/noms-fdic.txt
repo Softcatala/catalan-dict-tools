@@ -65897,6 +65897,7 @@ pluviòmetre=categories: M;fonts: LT;
 pluviós=categories: MI;fonts: LT;
 plàcet=categories: M;fonts: LT;
 plàncton=categories: M;fonts: LT;
+plàning=categories: M;fonts: esadir;
 plànol=categories: M;fonts: LT;
 plàntula=categories: F;fonts: LT;
 plànula=categories: F;fonts: LT;
