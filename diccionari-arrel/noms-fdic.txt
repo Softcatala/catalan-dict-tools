@@ -465,6 +465,7 @@ SARS=categories: FS;fonts: esadir;
 SD=categories: MI;fonts: dsalut;
 SDPI=categories: MI;fonts: sigles;
 SIEI=categories: MS;fonts: sigla;
+SIM=categories: FI;fonts: LT;
 SIP=categories: MFI;fonts: sigla;
 SL=categories: FI;fonts: sigla;
 SMI=categories: MS;fonts: sigla;
