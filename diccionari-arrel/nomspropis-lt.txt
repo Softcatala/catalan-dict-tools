@@ -10815,6 +10815,7 @@ Gardella Gardella NPCNSP0
 Gardenyes Gardenyes NPCNSP0
 Gardez Gardez NPCSG00
 Gardilans Gardilans NPCSG00
+Gardiner Gardiner NPCNSP0
 Gardner Gardner NPCNSP0
 Gardènia Gardènia NPFSSP0 # avl: noms de persona
 Gardí Gardí NPCNSP0
