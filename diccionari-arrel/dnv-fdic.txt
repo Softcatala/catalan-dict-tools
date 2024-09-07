@@ -311,7 +311,6 @@ arritranc=categories: M;fonts: DNV;
 arritranca=categories: F;fonts: DNV;
 arroglar=categories: V;model:cantar;fonts: DNV;
 arropir=categories: V;model:servir;fonts: dnv-;
-arrossal=categories: M;fonts: LT;
 arrugó=categories: M;fonts: DNV;
 arruixadina=categories: F;fonts: DNV;
 arruixim=categories: M;fonts: DNV;

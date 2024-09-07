@@ -7226,6 +7226,7 @@ arrop=categories: M;fonts: LT;
 arroper arropera=categories: MF;fonts LT;
 arrossada=categories: F;fonts: LT;
 arrossaire=categories: MF;fonts: LT;
+arrossal=categories: M;fonts: DNV;
 arrossar=categories: M;fonts: LT;
 arrossegada=categories: F;fonts: LT;
 arrossegadissa=categories: F;fonts: LT;
