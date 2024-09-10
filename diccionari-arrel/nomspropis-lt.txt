@@ -1228,6 +1228,7 @@ Aleksinac Aleksinac NPCSG00
 Aleksiévitx Aleksiévitx NPCNSP0
 Aleksàndrov Aleksàndrov NPCSG00
 Aleksàndrovsk-Sakhalinski Aleksàndrovsk-Sakhalinski NPCSG00
+Alekséievitx Alekséievitx NPMSSP0
 Alella Alella NPFSG00
 Alemany Alemany NPCNSP0
 Alemanya Alemanya NPFSG00
@@ -20459,6 +20460,7 @@ Pàndols Pàndols NPCNG00
 Pàrmenes Pàrmenes NPMSSP0 # avl: noms de persona
 Pàrtia Pàrtia NPCSG00
 Pàtrocle Pàtrocle NPMSSP0 # avl: noms de persona
+Pàvel Pàvel NPMSSP0
 Pàvlov Pàvlov NPCNSP0
 Pàvlovsk Pàvlovsk NPCSG00
 Páez Páez NPCNSP0
@@ -21728,6 +21730,7 @@ Rubionet Rubionet NPCNSP0
 Rubió Rubió NPCNSP0
 Rubió Rubió NPCSG00
 Rubižne Rubižne NPCSG00
+Rubtsov Rubtsov NPCNSP0
 Rubèn Rubèn NPMSSP0
 Rubén Rubèn NPMSSP0
 Rubí Rubí NPCNSP0
