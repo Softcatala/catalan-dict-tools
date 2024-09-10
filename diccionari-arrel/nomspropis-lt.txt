@@ -16651,6 +16651,7 @@ Monleón Monleón NPCSG00
 Monnars Monnars NPCSG00
 Monnàber Monnàber NPCSG00
 Mono Mono NPCSG00
+Mononoke Mononoke NPCNSP0
 Monopoli Monopoli NPCSG00
 Monrabà Monrabà NPCNSP0
 Monreale Monreale NPCSG00
