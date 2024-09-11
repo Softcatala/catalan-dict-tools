@@ -211,6 +211,7 @@
 #Sèrvia Sèrvia NPFSSP0 # avl: noms de persona, confusió amb Sèrbia
 #Tanger Tanger NPCSG00
 #Tolomeu Tolomeu NPMSSP0 # avl: noms de persona
+#Torrebaró Torrebaró NPCSG00
 #Torreón Torreón NPCSG00
 #Trànsit Trànsit NPFSSP0 # avl: noms de persona
 #Unna #Unna NPCNSP0 # medical
@@ -24832,7 +24833,6 @@ Torre-romeu Torre-romeu NPCSG00
 Torre-serona Torre-serona NPCSG00
 Torre-somera Torre-somera NPCSG00
 Torrebalari Torrebalari NPCNSP0
-Torrebaró Torrebaró NPCSG00
 Torrebesses Torrebesses NPCSG00
 Torreblanca Torreblanca NPCNSP0
 Torreblanca Torreblanca NPFSG00
