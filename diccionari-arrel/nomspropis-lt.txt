@@ -11398,6 +11398,7 @@ Golifàs Golifàs NPCSG00
 Golmés Golmés NPCSG00
 Golo Golo NPCSG00
 Golsa Golsa NPCNSP0
+Gomar Gomar NPCNSP0
 Gomara Gomara NPCNSP0
 Gombald Gombald NPMSSP0 # avl: noms de persona
 Gombard Gombard NPMSSP0 # avl: noms de persona
@@ -11410,6 +11411,7 @@ Gomila Gomila NPCNSP0
 Gomila Gomila NPCSG00
 Gomis Gomis NPCNSP0
 Gomorra Gomorra NPCSG00
+Gomà Gomà NPCNSP0
 Gomí Gomí NPCNSP0
 Gonda Gonda NPCNSP0 # medical
 Gondaí Gondaí NPCNSP0
@@ -21010,6 +21012,7 @@ Reichstadt Reichstadt NPCSG00
 Reichstag Reichstag NPMSO00
 Reid Reid NPCNSP0 # medical
 Reietó Reietó NPCNSP0
+Reig Reig NPCNSP0
 Reimbau Reimbau NPCNSP0
 Reims Reims NPCSG00
 Reimí Reimí NPCNSP0

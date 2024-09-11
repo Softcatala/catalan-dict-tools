@@ -33499,6 +33499,7 @@ estrígid=categories: M;fonts: LT;
 estrígil=categories: M;fonts: LT;
 estríjol=categories: M;fonts: LT;
 estríldid=categories: M;fonts: LT;
+estríming=categories: M;fonts: termcat;
 estròbil=categories: M;fonts: LT;
 estròful=categories: M;fonts: LT;
 estròngil=categories: M;fonts: dsalut;
