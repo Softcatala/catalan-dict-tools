@@ -12319,6 +12319,7 @@ Hess Hess NPCNSP0 # medical
 Hesse Hesse NPCNSP0
 Hesse Hesse NPMSG00
 Hessen Hessen NPCSG00
+Hessen-Darmstadt Hessen-Darmstadt NPCNSP0
 Hesíode Hesíode NPMSSP0
 Hewlett Hewlett NPCNSP0
 Hewlett-Packard Hewlett-Packard NPCNO00
