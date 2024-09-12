@@ -13920,6 +13920,7 @@ Lairet Lairet NPCNSP0
 Lairissa Lairissa NPCSG00
 Lajunta Lajunta NPCNSP0
 Lakers Lakers NPMPO00
+Lakoff Lakoff NPCNSP0
 Lakota Lakota NPCSG00
 Lakshadweep Lakshadweep NPCSG00
 Lalanda Lalanda NPCNSP0
