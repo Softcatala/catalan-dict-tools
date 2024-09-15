@@ -47751,6 +47751,7 @@ kasseri=categories: M;fonts: LT;
 katacalcina=categories: F;fonts: dsalut;
 katakana=categories: M;fonts: termcat;
 katayama=categories: F;fonts: dsalut;
+katiuska=categories: F;fonts: DNV;
 katiuska=categories: F;fonts: termcat, dnv;
 katxina=categories: F;fonts: LT;
 kauri=categories: M;fonts: LT;

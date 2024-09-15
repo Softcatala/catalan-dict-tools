@@ -3257,7 +3257,6 @@ jívaro -a=categories: A;fonts: DNV;
 jívaro -a=categories: MF;fonts: DNV;
 jóncera=categories: F;fonts: DNV;
 kakemono=categories: M;fonts: DNV;
-katiuska=categories: F;fonts: DNV;
 kibbuts=categories: M;fonts: DNV;
 kiribatià -ana=categories: A;fonts: DNV;
 kiribatià -ana=categories: MF;fonts: DNV;

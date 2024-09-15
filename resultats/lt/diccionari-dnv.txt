@@ -52614,8 +52614,6 @@ jóncera jóncera NCFS000
 jónceres jóncera NCFP000
 kakemono kakemono NCMS000
 kakemonos kakemono NCMP000
-katiuska katiuska NCFS000
-katiuskes katiuska NCFP000
 kibbuts kibbuts NCMS000
 kibbutsos kibbuts NCMP000
 kiribatiana kiribatià AQ0FS0
