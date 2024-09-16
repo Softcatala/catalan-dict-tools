@@ -53471,6 +53471,7 @@ metaestèrnum=categories: M;fonts: LT;
 metaetiqueta=categories: F;fonts: LT;
 metafase=categories: F;fonts: LT;
 metafenilè=categories: MS;fonts: dsalut;
+metaficció=categories: F;fonts: neolosfera;
 metafonia=categories: F;fonts: LT;
 metaforista=categories: MF;fonts: LT;
 metafosfat=categories: M;fonts: LT;
