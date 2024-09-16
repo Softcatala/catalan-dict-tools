@@ -9187,6 +9187,7 @@ Esponellà Esponellà NPCNSP0
 Esponellà Esponellà NPCSG00
 Espoo Espoo NPCSG00
 Esporles Esporles NPCSG00
+Esport3 Esport3 NPMSO00
 Esports3 Esports3 NPMSO00
 Esposende Esposende NPCSG00
 Esposolla Esposolla NPCSG00
@@ -10402,6 +10403,7 @@ Fredericton Fredericton NPCSG00
 Frederiksberg Frederiksberg NPCSG00
 Frederiques Frederica NPFPSP0
 FreeHand FreeHand NPMSO00
+FreeLing FreeLing NPCNO00
 Freetown Freetown NPCSG00
 Freginals Freginals NPCNSP0
 Freginals Freginals NPCSG00
