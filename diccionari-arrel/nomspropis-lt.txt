@@ -15152,6 +15152,7 @@ Malaquies Malaquies NPMPSP0
 Malaquies Malaquies NPMSSP0
 Malards Malards NPCSG00
 Malaret Malaret NPCNSP0
+Malasaña Malasaña NPCSG00
 Malatesta Malatesta NPCNSP0
 Malatosca Malatosca NPCNSP0
 Malats Malats NPCNSP0
