@@ -15754,6 +15754,7 @@ casi=categories: M;fonts: LT;
 casidulina=categories: F;fonts: LT;
 casimir=categories: M;fonts: LT;
 casimiroa=categories: F;fonts: LT;
+casinet=categories: M;fonts: diminutiu;
 casino=categories: M;fonts: LT;
 casinyot=categories: M;fonts: LT;
 casmant=categories: M;fonts: LT;

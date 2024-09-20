@@ -1,5 +1,9 @@
 *** DIFERÈNCIES ***
 ** Compara noms **
 ** Compara adjectius **
+14164c14164
+< azzurre azzurro AQ0FP0
+---
+> azzurres azzurro AQ0FP0
 ** Compara verbs **
 ** Altres errors **
