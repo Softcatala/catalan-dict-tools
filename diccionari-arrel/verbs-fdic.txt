@@ -4229,6 +4229,7 @@ empassolar=categories: V;model:cantar;fonts: LT;
 empastar=categories: V;model:cantar;fonts: LT;
 empastellar=categories: V;model:cantar;fonts: LT;
 empastifar=categories: V;model:cantar;fonts: LT;
+empastillar=categories: V;model:cantar;fonts: col·loquial;
 empastissar=categories: V;model:acarnissar;fonts: LT;
 empastrar=categories: V;model:cantar;fonts: LT;
 empatar=categories: V;model:cantar;fonts: LT;

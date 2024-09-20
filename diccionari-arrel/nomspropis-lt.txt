@@ -10093,6 +10093,7 @@ Flumendosa Flumendosa NPCSG00
 Flushing Flushing NPCSG00
 Fluvià Fluvià NPCNSP0
 Fluvià Fluvià NPMSG00
+Flynn Flynn NPCNSP0
 Flàvia Flàvia NPFSSP0
 Flàvies Flàvia NPFPSP0
 Flèrida Flèrida NPFSSP0 # avl: noms de persona
