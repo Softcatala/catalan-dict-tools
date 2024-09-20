@@ -26298,6 +26298,7 @@ pseudonatural=categories: A;fonts: LT;
 pseudopedagògic pseudopedagògica=categories: A;fonts: derivat;
 pseudoperípter pseudoperíptera=categories: A;fonts: LT;
 pseudoplacentari pseudoplacentària=categories: A;fonts: LT;
+pseudoprogre=categories: A;fonts: derivat;
 pseudoproliferatiu pseudoproliferativa=categories: A;fonts: dsalut;
 pseudopsicològic pseudopsicològica=categories: A;fonts: derivat;
 pseudopsòric pseudopsòrica=categories: A;fonts: dsalut;
