@@ -76868,6 +76868,7 @@ sobrenaixement=categories: M;fonts: LT;
 sobrenaixença=categories: F;fonts: LT;
 sobrenatural=categories: M;fonts: LT;
 sobrenaturalisme=categories: M;fonts: LT;
+sobrenaturalitat=categories: F;fonts: derivat;
 sobrenom=categories: M;fonts: LT;
 sobreoclusió=categories: F;fonts: dsalut;
 sobreocupació=categories: F;fonts: LT;
