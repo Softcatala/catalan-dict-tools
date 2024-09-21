@@ -2,12 +2,12 @@ r r ir VMN00000 # confugir
 r nt ir VMG00000 # confugint
 r t ir VMP00SM0 # confugit
 r da ir VMP00SF0 # confugida
-#gir it ir VMP00SMB # confuit
-#gir ita ir VMP00SFB # confuita
+gir it ir VMP00SMB # confuit
+gir ita ir VMP00SFB # confuita
 r ts ir VMP00PM0 # confugits
 r des ir VMP00PF0 # confugides
-#gir its ir VMP00PMB # confuits
-#gir ites ir VMP00PFB # confuites
+gir its ir VMP00PMB # confuits
+gir ites ir VMP00PFB # confuites
 gir ig ir VMIP1S0Z # confuig
 gir jo ir VMIP1S0C # confujo
 ir es ir VMIP2S00 # confuges
