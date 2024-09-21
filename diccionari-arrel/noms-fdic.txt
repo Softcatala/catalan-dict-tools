@@ -81509,6 +81509,7 @@ tonsil·lòlit=categories: M;fonts: dsalut;
 tonsura=categories: F;fonts: LT;
 tonsurat=categories: M;fonts: LT;
 tontina=categories: F;fonts: LT;
+tonto -a=categories: MF;fonts: DNV,col·loquial;
 tonus=categories: MI;fonts: LT;
 tonya=categories: F;fonts: LT;
 tonyina=categories: F;fonts: LT;

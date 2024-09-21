@@ -38143,6 +38143,8 @@ enrastrésseu enrastrar VMSI2P05
 enrastréssim enrastrar VMSI1P02
 enrastréssiu enrastrar VMSI2P02
 enrastrí enrastrar VMIS1S00
+enredro enredro NCMS000
+enredros enredro NCMP000
 enrengler enrenglerar VMIP1S0B
 enrenglera enrenglerar VMIP3S00
 enrenglera enrenglerar VMM02S00
@@ -70375,14 +70377,6 @@ tongà tongà AQ0MS0
 tongà tongà NCMS000
 tonografia tonografia NCFS000
 tonografies tonografia NCFP000
-tonta tonto AQ0FS0
-tonta tonto NCFS000
-tontes tonto AQ0FP0
-tontes tonto NCFP000
-tonto tonto AQ0MS0
-tonto tonto NCMS000
-tontos tonto AQ0MP0
-tontos tonto NCMP000
 topet topetar VMIP1S0B
 topeta topetar VMIP3S00
 topeta topetar VMM02S00

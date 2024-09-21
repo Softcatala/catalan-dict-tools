@@ -31251,6 +31251,7 @@ tonificant=categories: A;fonts: LT;
 tonostàtic tonostàtica=categories: A;fonts: dsalut;
 tonsil·lar=categories: A;fonts: LT;
 tonsil·lopriu tonsil·lopriva=categories: A;fonts: dsalut;
+tonto -a=categories: A;fonts: DNV,col·loquial;
 tonyinaire=categories: A;fonts: LT;
 tonyiner tonyinera=categories: A;fonts: LT;
 topador topadora=categories: A;fonts: LT;
