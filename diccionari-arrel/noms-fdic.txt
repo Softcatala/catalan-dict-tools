@@ -27115,6 +27115,7 @@ ecmofòbia=categories: F;fonts: dsalut;
 ecmovirus=categories: MI;fonts: dsalut;
 eco=categories: M;fonts: LT;
 ecoacúsia=categories: F;fonts: dsalut;
+ecoalfabetització=categories: F;fonts: GEC;
 ecoansietat=categories: F;fonts: derivat;
 ecoauditoria=categories: F;fonts: termcat;
 ecoblanqueig=categories: MS;fonts: termcat;
