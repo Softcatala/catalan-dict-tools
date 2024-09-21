@@ -86965,6 +86965,7 @@ ximbombada=categories: F;fonts: LT;
 ximelagatran=categories: M;fonts: dsalut;
 ximpanzé [pl. ximpanzés]=categories: M;fonts: LT;
 ximpleria=categories: F;fonts: LT;
+ximple=categories: MF;fonts: LT;
 ximplesa=categories: F;fonts: LT;
 xina=categories: F;fonts: LT;
 xindri=categories: M;fonts: LT;
