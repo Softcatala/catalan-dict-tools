@@ -3814,6 +3814,7 @@ austrohongarès austrohongaresa=categories: A;fonts: LT;
 austromediterrani austromediterrània=categories: A;fonts: LT;
 austromelanesi austromelanèsia=categories: A;fonts: LT;
 austronèsic austronèsica=categories: A;fonts: LT;
+austroprussià austroprussiana=categories: A;fonts: wiki;
 austràlid austràlida=categories: A;fonts: LT;
 austríac austríaca=categories: A;fonts: LT;
 auteci -ècia=categories: A;fonts: dsalut;
