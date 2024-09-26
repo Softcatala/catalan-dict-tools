@@ -19480,6 +19480,7 @@ madridista=categories: A;fonts: LT;
 madrigalesc madrigalesca=categories: A;fonts: LT;
 madrigalístic madrigalística=categories: A;fonts: LT;
 madrileny madrilenya=categories: A;fonts: LT;
+madrilenyocèntric madrilenyocèntrica=categories: A;fonts: derivat;
 madur madura [sup. maduríssim]=categories: A; font:apertium;
 maduratiu madurativa=categories: A;fonts: LT;
 maduret madureta=categories: A;fonts: LT;
