@@ -12327,6 +12327,7 @@ Hesíode Hesíode NPMSSP0
 Hewlett Hewlett NPCNSP0
 Hewlett-Packard Hewlett-Packard NPCNO00
 Hezbollah Hezbollah NPFSO00
+Hezbol·là Hezbol·là NPMSO00
 Hhohho Hhohho NPCSG00
 Hialeah Hialeah NPCSG00
 Hida Hida NPCSG00
@@ -12404,6 +12405,7 @@ Hispània Hispània NPFSG00
 Hitchcock Hitchcock NPCNSP0
 Hitchens Hitchens NPCNSP0
 Hitler Hitler NPCNSP0
+Hizbol·là Hizbol·là NPMSO00
 Hobart Hobart NPCSG00
 Hobbes Hobbes NPCNSP0
 Hockenheim Hockenheim NPCSG00
