@@ -9981,6 +9981,7 @@ Finestres Finestres NPCNSP0
 Finestret Finestret NPCSG00
 Finisterre Finisterre NPCSG00
 Finke Finke NPCSG00
+Finkielkraut Finkielkraut NPCNSP0
 Finlàndia Finlàndia NPFSG00
 Finsteraarhorn Finsteraarhorn NPCSG00
 Fintans Fintà NPMPSP0
