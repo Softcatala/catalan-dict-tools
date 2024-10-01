@@ -12843,6 +12843,8 @@ Iocasta Iocasta NPFSSP0 # avl: noms de persona
 Iolanda Iolanda NPFSSP0
 Iolandes Iolanda NPFPSP0
 Iolant Iolant NPFSSP0 # avl: noms de persona
+Iona Iona NPFSG00
+Iona Iona NPFSSP0
 Iowa Iowa NPCSG00
 Ipoh Ipoh NPCSG00
 Ipsos Ipsos NPCSG00
