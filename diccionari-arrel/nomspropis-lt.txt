@@ -23910,6 +23910,7 @@ Syracuse Syracuse NPCSG00
 Syrdarja Syrdarja NPCSG00
 Syriza Syriza NPFSO00
 Szczecin Szczecin NPCSG00
+Szczęsny Szczęsny NPCNSP0
 Szeged Szeged NPCSG00
 Szolnok Szolnok NPCSG00
 Szombathely Szombathely NPCSG00

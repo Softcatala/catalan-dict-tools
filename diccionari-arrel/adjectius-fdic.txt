@@ -1621,6 +1621,7 @@ amfipàtic -a=categories: A;fonts: dsalut;
 amfisci amfíscia=categories: A;fonts: LT;
 amfistomàtic amfistomàtica=categories: A;fonts: LT;
 amfistílic amfistílica=categories: A;fonts: LT;
+amfitrió amfitriona=categories: A;fonts: DNV;
 amfitàl·lic amfitàl·lica=categories: A;fonts: LT;
 amfocromatòfil amfocromatòfila=categories: A;fonts: dsalut;
 amfocromòfil amfocromòfila=categories: A;fonts: dsalut;
