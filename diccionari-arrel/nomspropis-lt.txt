@@ -11881,6 +11881,7 @@ Guipúscoa Guipúscoa NPFSG00
 Guiral Guiral NPCNSP0
 Guiret Guiret NPCNSP0
 Guiriguet Guiriguet NPCNSP0
+Guirilàndia Guirilàndia NPFSG00 # irònic
 Guisa Guisa NPCNSP0
 Guisard Guisard NPCNSP0
 Guiset Guiset NPCNSP0
