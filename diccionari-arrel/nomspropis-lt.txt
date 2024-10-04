@@ -19195,6 +19195,7 @@ Pereanton Pereanton NPCNSP0
 Perearnau Perearnau NPCNSP0
 Pereferrer Pereferrer NPCNSP0
 Pereira Pereira NPCSG00
+Perejaume Perejaume NPMSSP0
 Perejoan Perejoan NPCNSP0
 Perejordi Perejordi NPCNSP0
 Perellonet Perellonet NPMSG00
@@ -25950,6 +25951,7 @@ Venerandes Veneranda NPFPSP0
 Venerands Venerand NPMPSP0
 Veneçuela Veneçuela NPFSG00
 Venlo Venlo NPCSG00
+Venn Venn NPCNSP0
 Venom Venom NPMSSP0
 Venosa Venosa NPCSG00
 Vensilló Vensilló NPCSG00
@@ -27573,3 +27575,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Cuisenaire Cuisenaire NPCNSP0
