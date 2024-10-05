@@ -9386,6 +9386,7 @@ sobreactuar=categories: V;model:lloar;fonts: LT;
 sobreafegir=categories: V;model:afegir;fonts: LT;
 sobrealimentar=categories: V;model:cantar;fonts: LT;
 sobrealçar=categories: V;model:començar;fonts: LT;
+sobreanalitzar=categories: V;model:cantar;fonts: derivat;
 sobreargentar=categories: V;model:cantar;fonts: LT;
 sobrebaixar=categories: V;model:cantar;fonts: LT;
 sobrecalfar=categories: V;model:cantar;fonts: LT;

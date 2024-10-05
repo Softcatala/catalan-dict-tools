@@ -7614,6 +7614,7 @@ Cugats Cugat NPMPSP0
 Cugnaux Cugnaux NPCSG00
 Cuiabá Cuiabá NPCSG00
 Cuicul Cuicul NPCSG00
+Cuisenaire Cuisenaire NPCNSP0
 Cuitaví Cuitaví NPCNSP0
 Cuixacs Cuixacs NPCNSP0
 Cuixarró Cuixarró NPCNSP0
@@ -27575,4 +27576,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Cuisenaire Cuisenaire NPCNSP0
