@@ -17,6 +17,7 @@
 #monocomponent=categories: AI;fonts: LT;
 #multicomponent=categories: AI;fonts: LT;
 #nostras=categories: AI;fonts: dsalut;
+#nòmade=categories: A;fonts: LT; només GDLC!
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
 #pros=categories: AI;fonts: LT; infreqüent
 #pèlvic pèlvica=categories: A;fonts: LT;
@@ -22357,7 +22358,6 @@ nígric nígrica=categories: A;fonts: dsalut;
 nítid nítida=categories: A;fonts: LT;
 nítric nítrica=categories: A;fonts: LT;
 nòmada=categories: A;fonts: LT;
-nòmade=categories: A;fonts: LT;
 nònuple1=categories: A;fonts: LT;
 nònuple2 nònupla=categories: A;fonts: LT;
 nòrdic nòrdica=categories: A;fonts: LT;
