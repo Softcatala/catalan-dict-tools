@@ -7105,6 +7105,7 @@ Concepció Concepció NPFSSP0
 Concepción Concepción NPCSG00
 Concertgebouw Concertgebouw NPCSO00
 Conchos Conchos NPCSG00
+Concord Concord NPCSG00
 Concordi Concordi NPMSSP0
 Concordis Concordi NPMPSP0
 Concs Concs NPCNSP0
@@ -19536,6 +19537,7 @@ Pisticci Pisticci NPCSG00
 Pistoia Pistoia NPCSG00
 Pisuerga Pisuerga NPCSG00
 Pisà Pisà NPCNSP0
+Pisídia Pisídia NPFSG00
 Pisístrat Pisístrat NPMSSP0 # avl: noms de persona
 Pita Pita NPCSG00
 Pitarc Pitarc NPCNSP0

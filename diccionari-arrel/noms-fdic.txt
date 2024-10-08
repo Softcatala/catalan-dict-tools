@@ -32402,6 +32402,7 @@ espurna=categories: F;fonts: LT;
 espurnall=categories: M;fonts: LT;
 espurnegall=categories: M;fonts: LT;
 espurneig=categories: M;fonts: LT;
+espurneta=categories: F;fonts: diminutiu;
 esput=categories: M;fonts: LT;
 esputació=categories: F;fonts: LT;
 espuçada=categories: F;fonts: LT;
