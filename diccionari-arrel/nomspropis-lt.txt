@@ -5139,6 +5139,7 @@ Butxa Butxa NPCSG00
 Butxaca Butxaca NPCNSP0
 Buxtehude Buxtehude NPCNSP0
 Buzǎu Buzǎu NPCSG00
+Buñuel Buñuel NPCNSP0
 Byant Byant NPCNSP0 # medical
 Bydgoszcz Bydgoszcz NPCSG00
 Byron Byron NPCNSP0
