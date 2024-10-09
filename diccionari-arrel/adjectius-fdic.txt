@@ -21109,6 +21109,7 @@ monotemàtic monotemàtica=categories: A;fonts: LT;
 monotròpic monotròpica=categories: A;fonts: LT;
 monotècic monotècica=categories: A;fonts: LT;
 monotípic monotípica=categories: A;fonts: LT;
+monotònic monotònica=categories: A;fonts: derivat;
 monousuari monousuària=categories: A;fonts: LT;
 monovalent=categories: A;fonts: LT;
 monovarietal=categories: A;fonts: derivat;
