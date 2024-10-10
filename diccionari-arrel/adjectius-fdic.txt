@@ -22888,6 +22888,7 @@ ordenatiu ordenativa=categories: A;fonts: LT;
 ordidor ordidora=categories: A;fonts: LT;
 ordienc ordienca=categories: A;fonts: LT;
 ordier ordiera=categories: A;fonts: LT;
+ordinal=categories: A;fonts: DNV;
 ordinari ordinària=categories: A;fonts: LT;
 ordinatiu ordinativa=categories: A;fonts: LT;
 ordinenc ordinenca=categories: A;fonts: LT;
