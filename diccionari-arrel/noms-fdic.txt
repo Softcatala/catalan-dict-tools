@@ -65382,6 +65382,7 @@ plaga1=categories: F;fonts: LT;
 plaga2=categories: MF;fonts: LT;
 plagasitat=categories: F;fonts: LT;
 plagi=categories: M;fonts: LT;
+plagiador plagiadora=categories: MF;fonts: derivat;
 plagiadre=categories: M;fonts: LT;
 plagiari plagiària=categories: MF;fonts LT;
 plagiedre=categories: M;fonts: LT;

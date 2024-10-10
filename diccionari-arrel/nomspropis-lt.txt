@@ -5239,6 +5239,7 @@ Cabanes Cabanes NPCNSP0
 Cabanes Cabanes NPCSG00
 Cabanes Cabanes NPFPG00
 Cabanet Cabanet NPCNSP0
+Cabanilles Cabanilles NPCNSP0
 Cabanis Cabanis NPCNSP0
 Cabanyal Cabanyal NPMSG00
 Cabanyes Cabanyes NPCNSP0
