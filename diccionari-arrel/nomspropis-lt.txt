@@ -219,6 +219,7 @@
 #Valda Valda NPFSSP0 # avl: noms de persona
 #Valer Valer NPMSSP0 # avl: noms de persona
 #Ver Ver NPMSSP0 # avl: noms de persona
+#Via Via NPCNSP0
 #Vida Vida NPFSSP0 # avl: noms de persona
 #Virtuts Virtuts NPFSSP0 # avl: noms de persona
 #Vita Vita NPFSSP0 # avl: noms de persona
@@ -26100,7 +26101,6 @@ Vevey Vevey NPCSG00
 Veça Veça NPCNSP0
 Veí Veí NPCNSP0
 Veïs Veïs NPCSG00
-Via Via NPCNSP0
 Viabrea Viabrea NPFSG00
 Viacamp Viacamp NPCSG00
 Viadana Viadana NPCSG00
