@@ -30898,6 +30898,7 @@ termofílic termofílica=categories: A;fonts: dsalut;
 termofònic termofònica=categories: A;fonts: LT;
 termogen termògena=categories: A;fonts: LT;
 termogènic termogènica=categories: A;fonts: LT;
+termohigromètric termohigromètrica=categories: A;fonts: termcat;
 termoinhibidor termoinhibidora=categories: A;fonts: dsalut;
 termoiònic termoiònica=categories: A;fonts: LT;
 termoluminescent=categories: A;fonts: LT;

@@ -18141,6 +18141,7 @@ clitoroplàstia=categories: F;fonts: dsalut;
 clivatge=categories: M;fonts: LT;
 clivell=categories: M;fonts: LT;
 clivella=categories: F;fonts: LT;
+clivellament=categories: M;fonts: derivat;
 clivellat=categories: M;fonts: LT;
 clivus=categories: MI;fonts: dsalut;
 clixé [pl. clixés]=categories: M;fonts: LT;

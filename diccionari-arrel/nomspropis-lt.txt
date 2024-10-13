@@ -17571,6 +17571,7 @@ Nellore Nellore NPCSG00
 Nelo Nelo NPMSSP0 # avl: noms de persona
 Nelson Nelson NPCSG00
 Nelspruit Nelspruit NPCSG00
+Nel·lo Nel·lo NPCNSP0
 Nemea Nemea NPCSG00
 Nemesi Nemesi NPMSSP0
 Nemesians Nemesià NPMPSP0
