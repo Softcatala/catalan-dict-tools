@@ -12748,6 +12748,7 @@ Ignàsia Ignàsia NPFSSP0
 Ignàsies Ignàsia NPFPSP0
 Igual Igual NPCNSP0
 Igualada Igualada NPFSG00
+Igualada Igualada NPMSO00
 Iguvium Iguvium NPMSG00
 Igüerri Igüerri NPCSG00
 Ikea Ikea NPCNO00
@@ -16007,6 +16008,7 @@ McBurney McBurney NPCNSP0 # medical
 McCain McCain NPCNSP0
 McCarthy McCarthy NPCNSP0
 McCartney McCartney NPCNSP0
+McCloskey McCloskey NPCNSP0
 McCune-Albright McCune-Albright NPCNSP0 # medical
 McDonald McDonald NPCSG00
 McDonald's McDonald's NPCNO00
