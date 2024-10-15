@@ -27515,6 +27515,7 @@ uTorrent uTorrent NPCNO00
 Ístria Ístria NPCSG00
 Ítaca Ítaca NPFSG00
 Íxer Íxer NPCNSP0
+Íñigo Íñigo NPMSSP0
 Ñeembucú Ñeembucú NPCSG00
 Òdena Òdena NPCNSP0
 Òdena Òdena NPFSG00
