@@ -46791,8 +46791,6 @@ fotocromàtic fotocromàtic AQ0MS0
 fotocromàtica fotocromàtic AQ0FS0
 fotocromàtics fotocromàtic AQ0MP0
 fotocromàtiques fotocromàtic AQ0FP0
-fotodegradable fotodegradable AQ0CS0
-fotodegradables fotodegradable AQ0CP0
 fotogènesi fotogènesi NCFS000
 fotogènesis fotogènesi NCFP000
 fotoinduït fotoinduït AQ0CS0

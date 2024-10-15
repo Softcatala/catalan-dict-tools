@@ -13537,6 +13537,7 @@ fotocopiador fotocopiadora=categories: A;fonts: LT;
 fotocromogen fotocromògena=categories: A;fonts: dsalut;
 fotocromogènic fotocromogènica=categories: A;fonts: dsalut;
 fotocutani -ània=categories: A;fonts: dsalut;
+fotodegradable=categories: A;fonts: termcat,DNV;
 fotodegradant=categories: A;fonts: derivat;
 fotodinàmic fotodinàmica=categories: A;fonts: dsalut;
 fotoelectrònic fotoelectrònica=categories: A;fonts: LT;

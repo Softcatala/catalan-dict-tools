@@ -2551,7 +2551,6 @@ fotobacteri=categories: F;fonts: DNV;
 fotobiologia=categories: F;fonts: DNV;
 fotocarcinogènesi=categories: F;fonts: DNV;
 fotocromàtic -a=categories: A;fonts: DNV;
-fotodegradable=categories: A;fonts: DNV;
 fotogènesi=categories: F;fonts: DNV;
 fotoinduït=categories: A;fonts: DNV;
 fotonotícia=categories: F;fonts: DNV;

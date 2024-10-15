@@ -1168,6 +1168,7 @@ Alcúdia Alcúdia NPFSG00
 Alda Alda NPFSSP0
 Aldabó Aldabó NPCNSP0
 Aldaia Aldaia NPFSG00
+Aldama Aldama NPCNSP0
 Aldan Aldan NPCSG00
 Aldea Aldea NPCSG00
 Aldebaran Aldebaran NPCSG00
