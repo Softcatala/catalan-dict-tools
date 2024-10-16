@@ -4553,6 +4553,7 @@ Bonnemaison Bonnemaison NPCNSP0
 Bonner Bonner NPCSG00
 Bonnet Bonnet NPCNSP0 # medical
 Bonneval Bonneval NPCSG00
+Bonnie Bonnie NPCNSP0
 Bonnier Bonnier NPCNSP0 # medical
 Bonny Bonny NPCSG00
 Bonnín Bonnín NPCNSP0
@@ -6865,6 +6866,7 @@ Clusa Clusa NPFSG00
 Clutha Clutha NPCSG00
 Cluïlles Cluïlles NPCNSP0
 Clwyd Clwyd NPCSG00
+Clyde Clyde NPCNSP0
 Clyde Clyde NPCSG00
 Clydebank Clydebank NPCSG00
 Clàudia Clàudia NPFSSP0
