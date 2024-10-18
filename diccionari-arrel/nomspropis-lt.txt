@@ -12645,6 +12645,7 @@ IBM IBM NPCNO00
 ICAB ICAB NPMSO00
 ICE ICE NPMSO00
 ICF ICF NPCSO00
+ICGC ICGC NPMSO00
 ICO ICO NPMSO00
 ICTV ICTV NPMSO00
 ICV ICV NPFSO00
@@ -21391,6 +21392,7 @@ Robertina Robertina NPFSSP0 # avl: noms de persona
 Roberts Robert NPMPSP0
 Robertí Robertí NPMSSP0 # avl: noms de persona
 Robespierre Robespierre NPCNSP0
+Robin Robin NPMSSP0
 Robinson Robinson NPCNSP0
 Robles Robles NPCNSP0
 Robson Robson NPCSG00
@@ -27590,4 +27592,4 @@ uTorrent uTorrent NPCNO00
 Ǧidda Ǧidda NPCSG00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
-Ṭanṭā Ṭanṭā NPCSG00
+Ṭanṭā Ṭanṭā NPCSG00 
