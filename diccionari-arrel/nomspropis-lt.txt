@@ -13212,6 +13212,7 @@ Johnny Johnny NPMSSP0
 Johnson Johnson NPCNSP0
 Joigny Joigny NPCSG00
 Joinvile Joinvile NPCSG00
+Joker Joker NPMSSP0
 Jolís Jolís NPCNSP0
 Jonama Jonama NPCNSP0
 Jonatan Jonatan NPMSSP0
