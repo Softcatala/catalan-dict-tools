@@ -155,7 +155,6 @@ entresòl
 entresòls
 entrevéu
 estraféu
-fé
 féu
 fóra
 inframón
@@ -536,7 +535,6 @@ entresòl
 entresòls
 entrevéu
 estraféu
-fé
 féu
 fóra
 inframón
