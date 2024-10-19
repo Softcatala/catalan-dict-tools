@@ -665,7 +665,9 @@ for my $arxiucategoria (@categories) {
 	}
 	else 
 	{
-	    print "$line\n";
+	    if ($line !~ /^#/) {
+		    print "$line\n";
+		}
 	}
 
     }
