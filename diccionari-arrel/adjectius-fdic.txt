@@ -15700,7 +15700,7 @@ historicodoctrinal=categories: A;fonts: derivat;
 historicodocumental=categories: A;fonts: derivat;
 historicodogmàtic historicodogmàtica=categories: A;fonts: derivat;
 historicoeducatiu historicoeducativa=categories: A;fonts: derivat;
-historicoepistemològic historicoepistemològica
+historicoepistemològic historicoepistemològica=categories: A;fonts: derivat;
 historicoestructural=categories: A;fonts: derivat;
 historicoetnogràfic historicoetnogràfica=categories: A;fonts: derivat;
 historicoetnològic=categories: A;fonts: derivat;
