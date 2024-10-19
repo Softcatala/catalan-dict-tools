@@ -29394,6 +29394,7 @@ sociopolític sociopolítica=categories: A;fonts: LT;
 socioprofessional=categories: A;fonts: LT;
 sociopsicològic sociopsicològica=categories: A;fonts: LT;
 sociopàtic sociopàtica=categories: A;fonts: LT;
+sociorelacional=categories: A;fonts: derivat;
 socioreligiós socioreligiosa=categories: A;fonts: LT;
 sociosanitari sociosanitària=categories: A;fonts: LT;
 socioterapèutic socioterapèutica=categories: A;fonts: dsalut;
