@@ -27258,6 +27258,7 @@ Zarautz Zarautz NPCSG00
 Zaria Zaria NPCSG00
 Zarra Zarra NPCSG00
 Zarraica Zarraica NPCSG00
+Zarzalejos Zarzalejos NPCNSP0
 Zarzuela Zarzuela NPFSG00
 Zawiercie Zawiercie NPCSG00
 Zaïra Zaïra NPFSSP0 # avl: noms de persona

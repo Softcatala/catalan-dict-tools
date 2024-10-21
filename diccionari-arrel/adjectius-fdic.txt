@@ -30019,6 +30019,7 @@ superdolent superdolenta=categories: A;fonts: derivat;
 superdotat superdotada [sup. superdotadíssim]=categories: A; font:apertium;
 superdur superdura=categories: A;fonts: derivat;
 supereconòmic supereconòmica=categories: A;fonts: derivat;
+supereducat supereducada=categories: A; font:derivat;
 superefectiu superefectiva=categories: A;fonts: derivat;
 supereficient=categories: A;fonts: derivat;
 superelegant=categories: A; font:apertium;
