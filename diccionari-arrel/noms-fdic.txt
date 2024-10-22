@@ -43387,6 +43387,7 @@ hiperbúlia=categories: F;fonts: LT;
 hipercalcipèxia=categories: F;fonts: dsalut;
 hipercalcèmia=categories: F;fonts: LT;
 hipercalièmia=categories: F;fonts: LT;
+hipercapitalisme=categories: M;fonts: derivat;
 hipercarotenèmia=categories: F;fonts: dsalut;
 hipercarotinèmia=categories: F;fonts: dsalut;
 hipercatabolisme=categories: M;fonts: dsalut;
