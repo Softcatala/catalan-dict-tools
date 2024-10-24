@@ -66333,6 +66333,7 @@ polifibromatosi=categories: F;fonts: dsalut;
 polifiletisme=categories: M;fonts: LT;
 polifiodont=categories: M;fonts: LT;
 polifonia=categories: F;fonts: LT;
+polifonisme=categories: M;fonts: derivat;
 polifonista=categories: MF;fonts: LT;
 poliformaldehid=categories: M;fonts: LT;
 polifosfat=categories: M;fonts: LT;

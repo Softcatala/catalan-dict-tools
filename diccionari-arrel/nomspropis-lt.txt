@@ -7829,6 +7829,7 @@ Dalen-Fuchs Dalen-Fuchs NPCNSP0 # medical
 Dalian Dalian NPCSG00
 Dalila Dalila NPFSSP0
 Dallas Dallas NPCSG00
+Dalloway Dalloway NPCNSP0
 Dalmaci Dalmaci NPMSSP0 # avl: noms de persona
 Dalmau Dalmau NPCNSP0
 Dalmau Dalmau NPMSSP0
