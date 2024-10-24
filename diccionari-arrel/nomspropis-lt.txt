@@ -14843,6 +14843,7 @@ Ludwigsburg Ludwigsburg NPCSG00
 Lufthansa Lufthansa NPCNO00
 Luftwaffe Luftwaffe NPFSO00
 Lugano Lugano NPCSG00
+Luger Luger NPCNO00
 Lugo Lugo NPCSG00
 Luhansk Luhansk NPCSG00
 Luimneach Luimneach NPCSG00
@@ -15958,6 +15959,7 @@ Mauritània Mauritània NPFSG00
 Maurí Maurí NPCNSP0
 Maurí Maurí NPCSG00
 Maurícia Maurícia NPFSSP0 # avl: noms de persona
+Mauser Mauser NPCNO00
 Mauthausen Mauthausen NPCSG00
 Mauá Mauá NPCSG00
 Maverick Maverick NPCNSP0
@@ -16310,6 +16312,7 @@ Microscopi Microscopi NPMSG00
 Microsoft Microsoft NPCNO00
 Micó Micó NPCNSP0
 Middlesbrough Middlesbrough NPCSG00
+Middlesex Middlesex NPCSG00
 Middleton Middleton NPCSG00
 Midi Midi NPMSG00
 Midlands Midlands NPCPG00
@@ -18548,6 +18551,7 @@ PDeCAT PDeCAT NPMSO00 # esadir
 PEN PEN NPMNO00
 PEPLI PEPLI NPMNO00
 PISA PISA NPCNO00
+PKK PKK NPMSO00
 PNB PNB NPMSO00
 POUM POUM NPMSO00
 PP PP NPMSO00
@@ -18815,6 +18819,7 @@ Papuàsia Papuàsia NPFSG00
 Paqui Paqui NPFSSP0 # usuaris
 Par Par NPCNSP0
 Para Para NPCSG00
+Parabellum Parabellum NPCNO00
 Parabiago Parabiago NPCSG00
 Paracels Paracels NPMSSP0
 Paraclet Paraclet NPMSSP0 # avl: noms de persona
