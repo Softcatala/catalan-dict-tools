@@ -13718,6 +13718,7 @@ cairetes=categories: FP;fonts: LT;
 caironat=categories: M;fonts: LT;
 cairota=categories: MF;fonts: LT;
 cairó=categories: M;fonts: LT;
+caiuc=categories: M;fonts: termcat,avl;
 caixa=categories: F;fonts: LT;
 caixabanc=categories: M;fonts: LT;
 caixada=categories: F;fonts: LT;
