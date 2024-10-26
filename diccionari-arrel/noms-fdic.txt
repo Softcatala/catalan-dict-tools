@@ -28185,6 +28185,7 @@ emmudiment=categories: M;fonts: LT;
 emmurallament=categories: M;fonts: LT;
 emmurriament=categories: M;fonts: LT;
 emmusteïment=categories: M;fonts: LT;
+emocionalisme=categories: M;fonts: derivat;
 emocionalitat=categories: F;fonts: dfrequencies;
 emoció=categories: F;fonts: LT;
 emodina=categories: F;fonts: dsalut;

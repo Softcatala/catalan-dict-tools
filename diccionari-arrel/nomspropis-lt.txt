@@ -10294,6 +10294,7 @@ Fornons Fornons NPCNSP0
 Fornons Fornons NPCSG00
 Forns Forns NPCNSP0
 Fornós Fornós NPCNSP0
+ForoCoches ForoCoches NPCNO00
 Forques Forques NPFPG00
 Forquet Forquet NPCNSP0
 Forrellat Forrellat NPCNSP0
@@ -10977,6 +10978,7 @@ Gausà Gausà NPCNSP0
 Gautama Gautama NPCNSP0
 Gauter Gauter NPCNSP0
 Gauteri Gauteri NPMSSP0 # avl: noms de persona
+Gautier Gautier NPCNSP0
 Gautèria Gautèria NPFSSP0 # avl: noms de persona
 Gavaldà Gavaldà NPCNSP0
 Gavaldó Gavaldó NPCNSP0
@@ -22114,6 +22116,7 @@ Saint-Quentin Saint-Quentin NPCSG00
 Saint-Saëns Saint-Saëns NPCNSP0
 Saint-Simon Saint-Simon NPCNSP0
 Saint-Simon Saint-Simon NPCSG00
+Saint-Vincent-de-Paul Saint-Vincent-de-Paul NPCSG00
 Saint-Étienne Saint-Étienne NPCSG00
 Saint-Étienne-du-Rouvray Saint-Étienne-du-Rouvray NPCSG00
 Sainte-Beuve Sainte-Beuve NPCNSP0
