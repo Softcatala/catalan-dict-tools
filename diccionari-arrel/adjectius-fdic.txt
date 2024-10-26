@@ -22940,6 +22940,7 @@ orgàstic orgàstica=categories: A;fonts: LT;
 orgíac orgíaca=categories: A;fonts: LT;
 orictològic orictològica=categories: A;fonts: LT;
 orientable=categories: A;fonts: LT;
+orientacional=categories: A;fonts: derivat;
 orientador orientadora=categories: A;fonts: LT;
 oriental=categories: A;fonts: LT;
 orientalista=categories: A;fonts: LT;
