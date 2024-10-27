@@ -2955,6 +2955,7 @@ Bacus Bacus NPMSSP0
 Bada Bada NPCNSP0
 Badajoz Badajoz NPCSG00
 Badakhshan Badakhshan NPCSG00
+Badal Badal NPMSG00
 Badalona Badalona NPFSG00
 Badaló Badaló NPCNSP0
 Badaín Badaín NPCSG00
@@ -22489,6 +22490,8 @@ Santponç Santponç NPCNSP0
 Sants Sants NPCSG00
 Sants Sants NPMPSP0
 Sants Sants NPMSSP0
+Sants-Badal Sants-Badal NPCNG00
+Sants-Montjuïc Sants-Montjuïc NPCNG00
 Santsalvador Santsalvador NPCNSP0
 Santtirs Santtirs NPCNSP0
 Santurtzi Santurtzi NPCSG00
