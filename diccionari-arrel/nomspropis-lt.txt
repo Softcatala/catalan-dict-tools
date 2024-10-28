@@ -248,6 +248,7 @@ ACIS ACIS NPCNO00
 ACN ACN NPFSO00
 ACNUR ACNUR NPMSO00
 ACPV ACPV NPFSO00
+ACS ACS NPCSO00
 ADDA ADDA NPMSO00
 AEAT AEAT NPFSO00
 AELC AELC NPMSO00
@@ -1527,6 +1528,7 @@ Altofonte Altofonte NPCSG00
 Altona Altona NPCSG00
 Altoona Altoona NPCSG00
 Altron Altron NPCSG00
+Altsasu Altsasu NPCSG00
 Altura Altura NPCSG00
 Altés Altés NPCNSP0
 Altés Altés NPCSG00
@@ -5782,6 +5784,7 @@ Caplliure Caplliure NPCNSP0
 Capmany Capmany NPCNG00
 Capodimonte Capodimonte NPCSG00
 Capolat Capolat NPMSG00
+Capone Capone NPCNSP0
 Capote Capote NPCNSP0
 Caprabo Caprabo NPCNO00
 Caprala Caprala NPCSG00
@@ -8623,6 +8626,7 @@ Egeu Egeu NPMSG00
 Egidi Egidi NPMSSP0
 Egidis Egidi NPMPSP0
 Egidià Egidià NPMSSP0 # avl: noms de persona
+Egin Egin NPMSO00
 Egina Egina NPCSG00
 Egipcíaca Egipcíaca NPFSSP0
 Egipcíaques Egipcíaca NPFPSP0
@@ -8630,6 +8634,7 @@ Egipte Egipte NPMSG00
 Egist Egist NPMSSP0
 Egists Egist NPMPSP0
 Egmidi Egmidi NPMSSP0 # avl: noms de persona
+Egunkaria Egunkaria NPMSO00
 Egídia Egídia NPFSSP0 # avl: noms de persona
 Ehlers-Danlos Ehlers-Danlos NPCNSP0 # medical
 Ehringsdorf Ehringsdorf NPCSG00
@@ -13737,6 +13742,7 @@ Konstantín Konstantín NPMSSP0
 Konya Konya NPCSG00
 Koolhaas Koolhaas NPCNSP0
 Koper Koper NPCSG00
+Koplowitz Koplowitz NPCNSP0
 Korhogo Korhogo NPCSG00
 Korngold Korngold NPCNSP0
 Kortrijk Kortrijk NPCSG00
@@ -18318,6 +18324,7 @@ Orenga Orenga NPCNSP0
 Orenç Orenç NPMSSP0
 Orença Orença NPFSSP0 # avl: noms de persona
 Orenços Orenç NPMPSP0
+Oreo Oreo NPCNO00
 Orestes Orestes NPMPSP0
 Orestes Orestes NPMSSP0
 Orestíada Orestíada NPFSO00
@@ -19983,6 +19990,7 @@ Potau Potau NPCNSP0
 Potchefstroom Potchefstroom NPCSG00
 Potella Potella NPCNSP0
 Potelles Potelles NPCNSP0
+Potemkin Potemkin NPMSO00
 Potenza Potenza NPCSG00
 Potença Potença NPCNSP0
 Potocki Potocki NPCNSP0
