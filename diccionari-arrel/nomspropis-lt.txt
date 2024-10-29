@@ -788,6 +788,7 @@ Aitutaki Aitutaki NPCSG00
 Aituà Aituà NPCSG00
 Aitó Aitó NPMSSP0 # avl: noms de persona
 Aix Aix NPCSG00
+Aix-en-Provence Aix-en-Provence NPFSG00
 Aix-les-Bains Aix-les-Bains NPCSG00
 Aixa Aixa NPFSSP0 # avl: noms de persona
 Aixac Aixac NPCNSP0

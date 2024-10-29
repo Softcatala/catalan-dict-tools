@@ -75172,6 +75172,7 @@ segler=categories: M;fonts: LT;
 seglera=categories: F;fonts: LT;
 segment=categories: M;fonts: LT;
 segmentació=categories: F;fonts: LT;
+segmentador=categories: M;fonts: derivat;
 segmentectomia=categories: F;fonts: dsalut;
 segolar=categories: M;fonts: LT;
 segon segona=categories: MF;fonts LT;
