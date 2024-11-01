@@ -11732,6 +11732,7 @@ Grönholm Grönholm NPCNSP0
 Grüntzig Grüntzig NPCNSP0 # medical
 Gstaad Gstaad NPCSG00
 Guadalajara Guadalajara NPFSG00
+Guadalaviar Guadalaviar NPMSG00
 Guadalcanal Guadalcanal NPCSG00
 Guadalest Guadalest NPCSG00
 Guadalete Guadalete NPCSG00
