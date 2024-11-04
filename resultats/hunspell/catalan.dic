@@ -1,4 +1,4 @@
-211988
+212037
 10a
 10es
 10ns
@@ -107,6 +107,7 @@ ACIS/_Y_V
 ACN/_Y_V
 ACNUR/_Y_V
 ACPV/_Y_V
+ACS/_Y_V
 ACTP/_V_Y
 ADDA/_Y_V
 ADE/_V_Y
@@ -643,6 +644,7 @@ Aitor/_Y_V
 Aitutaki/_Y_V
 Aituà/_Y_V
 Aitó/_Y_V
+Aix-en-Provence/_Y_V
 Aix-les-Bains/_Y_V
 Aix/_Y_V
 Aixa/_Y_V
@@ -1320,6 +1322,7 @@ Altofonte/_Y_V
 Altona/_Y_V
 Altoona/_Y_V
 Altron/_Y_V
+Altsasu/_Y_V
 Altura/_Y_V
 Altés/_Y_V
 Aluart/_Y_V
@@ -2634,6 +2637,7 @@ Aïr/_Y_V
 Aķtöbe/_Y_V
 Aškhabad/_Y_V
 B/U1U4
+BATX
 BBC
 BBVA
 BCE
@@ -2690,6 +2694,7 @@ Bacus
 Bada
 Badajoz
 Badakhshan
+Badal
 Badalona
 Badaló
 Badaín
@@ -5366,6 +5371,7 @@ Caplliure
 Capmany
 Capodimonte
 Capolat
+Capone
 Capote
 Caprabo
 Caprala
@@ -7298,6 +7304,7 @@ Dalen-Fuchs
 Dalian
 Dalila
 Dallas
+Dalloway
 Dalmaci
 Dalmau
 Dalmaus
@@ -8085,6 +8092,7 @@ Egeu/_Y_V
 Egidi/_Y_V
 Egidis/_Y
 Egidià/_Y_V
+Egin/_Y_V
 Egina/_Y_V
 Egipcíaca/_Y_V
 Egipcíaques/_Y
@@ -8092,6 +8100,7 @@ Egipte/_Y_V
 Egist/_Y_V
 Egists/_Y
 Egmidi/_Y_V
+Egunkaria/_Y_V
 Egídia/_Y_V
 Ehlers-Danlos/_Y_V
 Ehringsdorf/_Y_V
@@ -8877,6 +8886,7 @@ Euromed/_Y_V
 Europa/_Y_V
 Europarlament/_Y_V
 Europes/_Y
+Europlug/_Y_V
 Eurosi/_Y_V
 Eurostar/_Y_V
 Eurostat/_Y_V
@@ -9673,6 +9683,7 @@ Fornillos
 Fornons
 Forns
 Fornós
+ForoCoches
 Forques
 Forquet
 Forrellat
@@ -10316,6 +10327,7 @@ Gausà
 Gautama
 Gauter
 Gauteri
+Gautier
 Gautèria
 Gavaldà
 Gavaldó
@@ -11027,6 +11039,7 @@ Grönholm
 Grüntzig
 Gstaad
 Guadalajara
+Guadalaviar
 Guadalcanal
 Guadalest
 Guadalete
@@ -13016,6 +13029,7 @@ Konstantín
 Konya
 Koolhaas
 Koper
+Koplowitz
 Korhogo
 Korngold
 Kortrijk
@@ -14127,6 +14141,7 @@ Ludwigsburg
 Lufthansa
 Luftwaffe
 Lugano
+Luger
 Lugo
 Luhansk
 Luimneach
@@ -15174,6 +15189,7 @@ Maurina
 Mauritània
 Maurí
 Maurícia
+Mauser
 Mauthausen
 Mauá
 Maverick
@@ -15453,6 +15469,7 @@ Mestres
 Mesull
 Meta
 Metapont
+Meteocat
 Metge
 Metimme
 Metis
@@ -15499,6 +15516,7 @@ Microscopi
 Microsoft
 Micó
 Middlesbrough
+Middlesex
 Middleton
 Midi
 Midlands
@@ -17391,6 +17409,7 @@ Orenga/_Y_V
 Orenç/_Y_V
 Orença/_Y_V
 Orenços/_Y
+Oreo/_Y_V
 Orestes/_Y
 Orestes/_Y_V
 Orestíada/_Y_V
@@ -17633,6 +17652,7 @@ PFI
 PIB
 PIME
 PISA
+PKK
 PLC
 PMF
 PMMA
@@ -17895,6 +17915,7 @@ Papuàsia
 Paqui
 Par
 Para
+Parabellum
 Parabiago
 Paracels
 Paraclet
@@ -18982,6 +19003,7 @@ Potau
 Potchefstroom
 Potella
 Potelles
+Potemkin
 Potenza
 Potença
 Potocki
@@ -20985,6 +21007,7 @@ Saint-Priest
 Saint-Quentin
 Saint-Saëns
 Saint-Simon
+Saint-Vincent-de-Paul
 Saint-Étienne
 Saint-Étienne-du-Rouvray
 Sainte-Beuve
@@ -21329,6 +21352,8 @@ Santpere
 Santpol
 Santponç
 Sants
+Sants-Badal
+Sants-Montjuïc
 Santsalvador
 Santtirs
 Santurtzi
@@ -21552,6 +21577,7 @@ Schröder
 Schrödinger
 Schubert
 Schuchardt
+Schuko
 Schuller
 Schultz
 Schultze
@@ -25905,6 +25931,7 @@ Zarautz
 Zaria
 Zarra
 Zarraica
+Zarzalejos
 Zarzuela
 Zawiercie
 Zaïra
@@ -49271,6 +49298,7 @@ barrancós/_J
 barranqueig/_E
 barranquejar/0C
 barranquera/_E
+barranquet/_E
 barranquisme/_E
 barraprim/_F
 barraquer/_F
@@ -55539,6 +55567,7 @@ caironat/_E
 cairota/_E
 cairut/_B
 cairó/_G
+caiuc/_E
 caixa/_E
 caixabanc/_E
 caixada/_E
@@ -68948,6 +68977,7 @@ coopositor/_F
 cooptació/_G
 cooptar/00
 coordenada/_E
+coordinabilitat/_E
 coordinable/_E
 coordinacionisme/_E
 coordinació/_G
@@ -72938,6 +72968,7 @@ damunt
 damà/_G
 damàs/_i
 dan/_E
+dana/_E
 danablú/_E
 danaide/_E
 danaparoide/_E
@@ -89114,6 +89145,7 @@ emocionadora/_V_Y
 emocionadíssim/_F_V_Y
 emocionadíssima/_V_Y
 emocional/_E_V_Y
+emocionalisme/_E_V_Y
 emocionalitat/_E_V_Y
 emocionalment/_Y_V
 emocionant/_E_V_Y
@@ -105979,6 +106011,7 @@ estàlvies/_Y
 estància/_E_V_Y
 estàndard/_E_V_Y
 estàndard/_V_Y
+estànding/_V_Y
 estànnic/_F_V_Y
 estànnica/_V_Y
 estàntol/_E_V_Y
@@ -114668,6 +114701,7 @@ fuites
 fuits
 fuja
 fuja/_D
+fujimorista/_E
 fujo
 ful/_F
 fulani/_E
@@ -122706,6 +122740,8 @@ hipercalcipèxia/_E_Y
 hipercalcèmia/_E_Y
 hipercalièmia/_E_Y
 hipercalòric/_F_V_Y
+hipercapitalisme/_E_V_Y
+hipercapitalista/_E_V_Y
 hipercardioide/_E_V_Y
 hipercarnívor/_F_V_Y
 hipercarotenèmia/_E_Y
@@ -123207,6 +123243,7 @@ hiperprotrombinèmia/_E_Y
 hiperpselafèsia/_E_Y
 hiperpsicosi/_E_Y
 hiperpurisme/_E_V_Y
+hiperpurista/_E_V_Y
 hiperpèpsia/_E_Y
 hiperpèxia/_E_Y
 hiperpícric/_F_V_Y
@@ -124924,6 +124961,7 @@ hortense/_E_V_Y
 hortera/_E_V_Y
 horterada/_E_V_Y
 hortet/_E_V_Y
+horteta/_E_V_Y
 horticultor/_F_V_Y
 horticultora/_V_Y
 horticultura/_E_V_Y
@@ -128297,6 +128335,8 @@ infosa/_Y
 infoses/_Y
 infosos/_Y
 infoxicació/_G_Y
+infraajust/_E_V_Y
+infraajustament/_E_V_Y
 infraassegurança/_E_Y
 infraauricular/_E_V_Y
 infracció/_G_Y
@@ -144339,6 +144379,7 @@ millorament/_E
 millorant/_E
 millorança/_E
 millorar/00
+milloret/_F
 milloria/_E
 millàs/_B
 milmilionari/_K
@@ -149036,6 +149077,7 @@ neofeixisme/_E
 neofeixista/_E
 neofetal/_E
 neofetus
+neofeudal/_E
 neofigurativisme/_E
 neofigurativista/_E
 neoforalisme/_E
@@ -154562,6 +154604,7 @@ orictòleg/_K_V_Y
 orictòloga/_V_Y
 orient/_E_V_Y
 orientable/_E_V_Y
+orientacional/_E_V_Y
 orientació/_G_V_Y
 orientada/_V_Y
 orientador/_F_V_Y
@@ -164827,6 +164870,7 @@ polifiodont/_F
 polifol·liculínic/_F
 polifonemàtic/_F
 polifonia/_E
+polifonisme/_E
 polifonista/_E
 poliformaldehid/_E
 polifosfat/_E
@@ -187323,6 +187367,7 @@ seglera/_E
 segment/_E
 segmentació/_G
 segmentadament
+segmentador/_E
 segmentadíssim/_F
 segmental/_E
 segmentar/00
@@ -190096,6 +190141,8 @@ sobreafigis
 sobreafija
 sobreafija/_D
 sobreagut/_B
+sobreajust/_E
+sobreajustament/_E
 sobrealiment/_E
 sobrealimentació/_G
 sobrealimentador/_E
@@ -194937,6 +194984,7 @@ superdotadíssim/_F
 superdotat/_B
 superdur/_F
 supereconòmic/_F
+supereducat/_B
 superefectiu/_B
 supereficient/_E
 superego/_E
@@ -205274,6 +205322,7 @@ ultraportàtil/_E_V_Y
 ultrapressió/_G_Y
 ultraprocessat/_B_V_Y
 ultraprotector/_F_V_Y
+ultrapurista/_E_V_Y
 ultrapurità/_H_V_Y
 ultrar/08
 ultraradical/_E_V_Y
