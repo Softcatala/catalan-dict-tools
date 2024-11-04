@@ -9449,6 +9449,7 @@ Euromed Euromed NPMNO00
 Europa Europa NPFSG00
 Europarlament Europarlament NPMSO00
 Europes Europa NPFPG00
+Europlug Europlug NPCNO00
 Eurosi Eurosi NPMSSP0 # avl: noms de persona
 Eurostar Eurostar NPMSO00
 Eurostat Eurostat NPCSO00
@@ -22748,6 +22749,7 @@ Schröder Schröder NPCNSP0
 Schrödinger Schrödinger NPCNSP0
 Schubert Schubert NPCNSP0
 Schuchardt Schuchardt NPCNSP0 # medical
+Schuko Schuko NPCNO00
 Schuller Schuller NPCNSP0 # medical
 Schultz Schultz NPCNSP0 # medical
 Schultze Schultze NPCNSP0 # medical
