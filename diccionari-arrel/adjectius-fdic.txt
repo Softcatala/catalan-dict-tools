@@ -14240,6 +14240,7 @@ geocronològic geocronològica=categories: A;fonts: LT;
 geocàrpic geocàrpica=categories: A;fonts: LT;
 geocèntric geocèntrica=categories: A;fonts: LT;
 geocíclic geocíclica=categories: A;fonts: LT;
+geodemogràfic geodemogràfica=categories: A;fonts: derivat;
 geodinàmic geodinàmica=categories: A;fonts: LT;
 geodèsic geodèsica=categories: A;fonts: LT;
 geoeconòmic -a=categories: A;fonts: derivat;

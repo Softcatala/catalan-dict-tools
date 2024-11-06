@@ -39436,6 +39436,7 @@ geocronometria=categories: F;fonts: LT;
 geocronòleg geocronòloga=categories: MF;fonts: LT;
 geocàrpia=categories: F;fonts: LT;
 geoda=categories: F;fonts: LT;
+geodemografia=categories: F;fonts: termcat;
 geodesista=categories: MF;fonts: LT;
 geodinàmica=categories: F;fonts: LT;
 geodèsia=categories: F;fonts: LT;
