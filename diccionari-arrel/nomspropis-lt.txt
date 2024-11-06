@@ -25901,6 +25901,7 @@ Vamba Vamba NPMSSP0 # avl: noms de persona
 Vanacloig Vanacloig NPCNSP0
 Vanacloig Vanacloig NPCSG00
 Vanaclotxa Vanaclotxa NPCNSP0
+Vance Vance NPCNSP0
 Vancouver Vancouver NPCSG00
 Vanda Vanda NPCSSP0 # avl: noms de persona
 Vandellòs Vandellòs NPCNSP0
