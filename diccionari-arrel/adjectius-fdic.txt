@@ -31198,6 +31198,7 @@ tirós tirosa=categories: A;fonts: LT;
 tisiogen tisiògena=categories: A;fonts: dsalut;
 tisiològic tisiològica=categories: A;fonts: LT;
 tissular=categories: A;fonts: LT;
+titafluixa=categories: A;fonts: colloquial;
 titaigüenc titaigüenca=categories: A;fonts: LT;
 titanífer titanífera=categories: A;fonts: LT;
 titanós titanosa=categories: A;fonts: LT;
