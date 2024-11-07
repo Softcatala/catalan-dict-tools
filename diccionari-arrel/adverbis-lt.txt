@@ -204,6 +204,7 @@ malbé malbé RG
 manco manco RG
 mantinent mantinent RG
 massa massa RG
+memorísticament memorísticament RG
 mentrestant mentrestant RG
 mentrimentres mentrimentres RG
 menys menys RG
