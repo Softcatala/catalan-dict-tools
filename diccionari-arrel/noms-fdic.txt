@@ -79753,6 +79753,7 @@ telefilm=categories: M;fonts: LT;
 telefluoroscòpia=categories: F;fonts: dsalut;
 telefonada=categories: F;fonts: LT;
 telefonema=categories: M;fonts: LT;
+telefonet=categories: M;fonts: diminutiu;
 telefonia=categories: F;fonts: LT;
 telefonista=categories: MF;fonts: LT;
 teleforal=categories: F;fonts: LT;
