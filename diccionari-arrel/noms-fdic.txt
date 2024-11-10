@@ -72583,6 +72583,7 @@ resorcina=categories: F;fonts: LT;
 resorcinisme=categories: M;fonts: dsalut;
 resorcinol=categories: M;fonts: LT;
 resorció=categories: F;fonts: LT;
+resort=categories: M;fonts: anglicisme;
 respatler=categories: M;fonts: LT;
 respatlera=categories: F;fonts: LT;
 respatller=categories: M;fonts: LT;
