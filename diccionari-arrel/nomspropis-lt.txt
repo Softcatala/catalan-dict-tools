@@ -18984,6 +18984,7 @@ Patreon Patreon NPMSO00
 Patres Patres NPCSG00
 Patrici Patrici NPMSSP0
 Patricis Patrici NPMPSP0
+Patricova Patricova NPMSO00
 Patrocini Patrocini NPMSSP0
 Patrocinis Patrocini NPMPSP0
 Patrocle Patrocle NPMSSP0 # avl: noms de persona

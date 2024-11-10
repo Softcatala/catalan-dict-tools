@@ -5671,6 +5671,7 @@ antilopí=categories: M;fonts: LT;
 antilul·lisme=categories: MS;fonts: derivat;
 antil·lis=categories: MI;fonts: LT;
 antimaculador=categories: M;fonts: LT;
+antimadridisme=categories: M;fonts: derivat;
 antimalarina=categories: F;fonts: dsalut;
 antimarxisme=categories: M;fonts: derivat;
 antimatèria=categories: F;fonts: LT;

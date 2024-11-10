@@ -9991,6 +9991,7 @@ tronar=categories: V;model:cantar;fonts: LT;
 troncar=categories: V;model:trencar;fonts: LT;
 trontollar=categories: V;model:cantar;fonts: LT;
 trontollejar=categories: V;model:envejar;fonts: LT;
+tropicalitzar=categories: V;model:cantar;fonts: derivat;
 trossar=categories: V;model:bressar;fonts: LT;
 trossejar=categories: V;model:envejar;fonts: LT;
 trossellar=categories: V;model:cantar;fonts: LT;
