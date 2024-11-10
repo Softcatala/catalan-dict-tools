@@ -5459,6 +5459,7 @@ butaner butanera=categories: A;fonts: LT;
 butiraci butiràcia=categories: A;fonts: LT;
 butirofenònic butirofenònica=categories: A;fonts: dsalut;
 butirós -osa=categories: A;fonts: dsalut;
+butlerià butleriana=categories: A;fonts: derivat;
 butxacós butxacosa=categories: A;fonts: LT;
 butà=categories: AI;fonts: LT;
 butílic butílica=categories: A;fonts: LT;

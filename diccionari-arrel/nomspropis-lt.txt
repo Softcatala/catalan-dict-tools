@@ -6465,6 +6465,7 @@ Chagall Chagall NPCNSP0
 Chagang Chagang NPCSG00
 Chaghcharan Chaghcharan NPCSG00
 Chagos Chagos NPCSG00
+Chaillot Chaillot NPMSG00
 Chaitén Chaitén NPCSG00
 Challenger Challenger NPCNO00
 Chalon-sur-Saône Chalon-sur-Saône NPCSG00
@@ -14905,6 +14906,7 @@ Luzon Luzon NPCSG00
 Lviv Lviv NPCSG00
 Lydda Lydda NPCSG00
 Lyell Lyell NPCNSP0 # medical
+Lyotard Lyotard NPCNSP0
 Lysyčans'k Lysyčans'k NPCSG00
 Làdoga Làdoga NPCSG00
 Làquesis Làquesis NPFSSP0 # avl: noms de persona
@@ -19720,6 +19722,7 @@ Poincaré Poincaré NPCNSP0
 Pointe-Noire Pointe-Noire NPCSG00
 Pointe-à-Pitre Pointe-à-Pitre NPCSG00
 Pointes Pointes NPCNSP0 # medical
+Poio Poio NPMSG00
 Poirot Poirot NPCNSP0
 Poisson Poisson NPCNSP0
 Poissy Poissy NPCSG00
@@ -25939,6 +25942,7 @@ Vasto Vasto NPCSG00
 Vatan Vatan NPCSG00
 Vater Vater NPCNSP0 # medical
 Vaticà Vaticà NPMSG00
+Vattimo Vattimo NPCNSP0
 Vaucluse Vaucluse NPCSG00
 Vaud Vaud NPCSG00
 Vaulx-en-Velin Vaulx-en-Velin NPCSG00
