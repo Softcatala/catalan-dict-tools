@@ -6320,6 +6320,7 @@ Cecabank Cecabank NPMSO00
 Cecili Cecili NPMSSP0
 Cecilis Cecili NPMPSP0
 Cecina Cecina NPCSG00
+Cecopi Cecopi NPMSO00
 Cecot Cecot NPFSO00
 Cecília Cecília NPFSSP0
 Cecílies Cecília NPFPSP0
@@ -13860,6 +13861,7 @@ Kàtmandu Kàtmandu NPCSG00
 Kálymnos Kálymnos NPCSG00
 Kárpas Kárpas NPCSG00
 Kárpathos Kárpathos NPCSG00
+Kärcher Kärcher NPCNO00
 Kènia Kènia NPFSG00
 Kénédougou Kénédougou NPCSG00
 Kêb Kêb NPCSG00
