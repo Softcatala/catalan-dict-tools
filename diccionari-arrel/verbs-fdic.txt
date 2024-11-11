@@ -2746,6 +2746,7 @@ descolorar=categories: V;model:cantar;fonts: LT;
 descolorir=categories: V;model:servir;fonts: LT;
 descol·locar=categories: V;model:trencar;fonts: LT;
 descomandar=categories: V;model:cantar;fonts: LT;
+descomentar=categories: V;model:cantar;fonts: derivat, argot d'informàtica;
 descompartir=categories: V;model:servir;fonts: LT;
 descompassar=categories: V;model:adobassar;fonts: LT;
 descompensar=categories: V;model:cantar;fonts: LT;
