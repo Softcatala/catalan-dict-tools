@@ -67244,6 +67244,7 @@ postiotomia=categories: F;fonts: dsalut;
 postirradiació=categories: F;fonts: dsalut;
 postissada=categories: F;fonts: LT;
 postitis=categories: FI;fonts: LT;
+postjubilació=categories: F;fonts: derivat;
 postlaminectomia=categories: F;fonts: dsalut;
 postleucotomia=categories: F;fonts: dsalut;
 postlimini=categories: M;fonts: LT;
