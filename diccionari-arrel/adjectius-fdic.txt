@@ -216,6 +216,7 @@ abreujadíssim abreujadíssima=categories: A;fonts: superlative;
 abreviable=categories: A;fonts: LT;
 abreviador abreviadora=categories: A;fonts: LT;
 abreviatiu abreviativa=categories: A;fonts: LT;
+abrigadet abrigadeta=categories: A;fonts: diminutiu;
 abrigadíssim abrigadíssima=categories: A;fonts: superlative;
 abrilat abrilada=categories: A;fonts: LT;
 abrilenc abrilenca=categories: A;fonts: LT;
