@@ -696,6 +696,7 @@ anquilosar=categories: V;model:anquilosar;fonts: LT;
 ansar=categories: V;model:cantar;fonts: LT;
 ansiar=categories: V;model:crear;fonts: LT;
 ansiejar=categories: V;model:envejar;fonts: LT;
+antagonitzar=categories: V;model:cantar;fonts: termcat;
 antecedir=categories: V;model:servir;fonts: LT;
 antedatar=categories: V;model:cantar;fonts: LT;
 anteposar=categories: V;model:anquilosar;fonts: LT;
