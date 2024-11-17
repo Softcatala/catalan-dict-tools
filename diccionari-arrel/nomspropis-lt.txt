@@ -9934,6 +9934,7 @@ Fidesz Fidesz NPCSO00
 Fidèlia Fidèlia NPFSSP0 # avl: noms de persona
 Fidència Fidència NPFSSP0
 Fidències Fidència NPFPSP0
+Fields Fields NPCNSP0
 Fier Fier NPCSG00
 Fiesole Fiesole NPCSG00
 Figa Figa NPCNSP0
@@ -11409,6 +11410,7 @@ Goiás Goiás NPCSG00
 Goiânia Goiânia NPCSG00
 Gojam Gojam NPCSG00
 Golan Golan NPMSG00
+Goldbach Goldbach NPCNSP0
 Goldberg Goldberg NPCNSP0
 Goldfinger Goldfinger NPCNSP0
 Goldman Goldman NPCNSP0
@@ -13870,6 +13872,7 @@ Kíev Kíev NPCSG00
 Kíiv Kíiv NPCSG00
 Kórsakov Kórsakov NPCNSP0 # medical
 Köebner Köebner NPCNSP0 # medical
+Königsberg Königsberg NPCSG00
 Kültepe Kültepe NPCSG00
 Kütahya Kütahya NPCSG00
 Kābul Kābul NPCSG00
@@ -25378,6 +25381,7 @@ Twitter Twitter NPMSO00
 Txad Txad NPMSG00
 Txaikovski Txaikovski NPCNSP0
 Txarango Txarango NPMNO00
+Txebixov Txebixov NPCNSP0
 Txeca Txeca NPFSG00
 Txecoslovàquia Txecoslovàquia NPFSG00
 Txeliàbinsk Txeliàbinsk NPCSG00
