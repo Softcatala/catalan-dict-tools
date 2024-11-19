@@ -2438,6 +2438,7 @@ antihipertensiu antihipertensiva=categories: A;fonts: LT;
 antihipnòtic antihipnòtica=categories: A;fonts: LT;
 antihipotensiu antihipotensiva=categories: A;fonts: dsalut;
 antihistamínic antihistamínica=categories: A;fonts: LT;
+antihistoricista=categories: A;fonts: derivat;
 antihistèric antihistèrica=categories: A;fonts: LT;
 antihistòric antihistòrica=categories: A;fonts: derivat;
 antihitlerià antihitleriana=categories: A;fonts: derivat;

@@ -5633,6 +5633,7 @@ antihidròpic=categories: M;fonts: LT;
 antihipnòtic=categories: M;fonts: LT;
 antihistamina=categories: F;fonts: dsalut;
 antihistamínic=categories: M;fonts: LT;
+antihistoricisme=categories: M;fonts: derivat;
 antihistèric=categories: M;fonts: LT;
 antihormona=categories: F;fonts: LT;
 antihumanisme=categories: M;fonts: derivat;
