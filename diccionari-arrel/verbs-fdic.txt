@@ -6581,6 +6581,7 @@ guimbar=categories: V;model:cantar;fonts: LT;
 guindar=categories: V;model:cantar;fonts: LT;
 guinyar=categories: V;model:cantar;fonts: LT;
 guinyolar=categories: V;model:cantar;fonts: LT;
+guionar=categories: V;model:cantar;fonts: esadir;
 guionitzar=categories: V;model:cantar;fonts: esadir;
 guipar=categories: V;model:cantar;fonts: LT;
 guisar=categories: V;model:cantar;fonts: LT;

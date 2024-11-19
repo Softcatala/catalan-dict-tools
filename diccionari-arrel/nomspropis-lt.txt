@@ -16532,6 +16532,7 @@ Mizar Mizar NPCSG00
 Mizorām Mizorām NPCSG00
 Miànigues Miànigues NPCSG00
 Miño Miño NPCSG00
+Miłosz Miłosz NPCNSP0
 Mjøsa Mjøsa NPCSG00
 Mljet Mljet NPCSG00
 Mmabatho Mmabatho NPCSG00
