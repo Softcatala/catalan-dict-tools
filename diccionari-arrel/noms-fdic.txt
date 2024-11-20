@@ -46127,6 +46127,7 @@ infrangibilitat=categories: F;fonts: LT;
 infranotificació=categories: F;fonts: dsalut;
 infraoclusió=categories: F;fonts: dsalut;
 infraoctava=categories: F;fonts: LT;
+infraoferta=categories: F;fonts: derivat;
 infraordre=categories: M;fonts: wiki;
 infrarecte=categories: M;fonts: dsalut;
 infrarepresentació=categories: F;fonts: derivat;
