@@ -9733,6 +9733,7 @@ tendrejar=categories: V;model:envejar;fonts: LT;
 tenir=categories: V;model:tenir;fonts: LT;
 tenotomitzar=categories: V;model:cantar;fonts:dsalut,termcat;
 tensar=categories: V;model:cantar;fonts: LT;
+tensionar=categories: V;model:cantar;fonts: AVL,esadir;
 tentinejar=categories: V;model:envejar;fonts: LT;
 tenyir=categories: V;model:tenyir;fonts: LT;
 teologitzar=categories: V;model:cantar;fonts: LT;
