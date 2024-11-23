@@ -26999,6 +26999,7 @@ rascador rascadora=categories: A;fonts: LT;
 rascanyós rascanyosa=categories: A;fonts: LT;
 rasclador rascladora=categories: A;fonts: LT;
 raser rasera=categories: A;fonts: LT;
+raspadet raspadeta=categories: A;fonts: diminutiu;
 raspador raspadora=categories: A;fonts: LT;
 raspallador -a=categories: A;fonts: Jané;
 raspallós raspallosa=categories: A;fonts: LT;
