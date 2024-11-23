@@ -20289,6 +20289,7 @@ merino merina=categories: A;fonts: LT;
 meristemàtic meristemàtica=categories: A;fonts: LT;
 meritable=categories: A;fonts: LT;
 meritocràtic meritocràtica=categories: A;fonts: LT;
+antimeritocràtic antimeritocràtica=categories: A;fonts: esadir;
 meritori meritòria [sup. meritoríssim]=categories: A;fonts: LT;
 meritíssim meritíssima=categories: AA;fonts: LT;
 meritós meritosa=categories: A;fonts: LT;

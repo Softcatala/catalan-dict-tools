@@ -53137,6 +53137,7 @@ merita=categories: F;fonts: LT;
 meritació=categories: F;fonts: LT;
 merital·lus=categories: MI;fonts: LT;
 meritocràcia=categories: F;fonts: LT;
+antimeritocràcia=categories: F;fonts: esadir;
 meritori meritòria=categories: MF;fonts: LT;
 merkelioma=categories: M;fonts: dsalut;
 merla=categories: F;fonts: LT;
