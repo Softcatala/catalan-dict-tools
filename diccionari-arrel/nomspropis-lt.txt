@@ -11437,6 +11437,7 @@ Gombard Gombard NPMSSP0 # avl: noms de persona
 Gombau Gombau NPCNSP0
 Gombelles Gombelles NPCNSP0
 Gombreny Gombreny NPCSG00
+Gombrowicz Gombrowicz NPCNSP0
 Gombrèn Gombrèn NPCSG00
 Gomera Gomera NPCSG00
 Gomila Gomila NPCNSP0
