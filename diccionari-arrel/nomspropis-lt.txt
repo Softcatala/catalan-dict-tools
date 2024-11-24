@@ -10259,6 +10259,7 @@ Forallac Forallac NPCSG00
 Forana Forana NPCNSP0
 Foranes Foranes NPCNSP0
 Foraster Foraster NPCNSP0
+Forata Forata NPCSG00
 Forbach Forbach NPCSG00
 Forbes Forbes NPCNO00
 Forbes-Albright Forbes-Albright NPCNSP0 # medical
@@ -11825,6 +11826,7 @@ Guerrero Guerrero NPCNSP0
 Guerrero Guerrero NPCSG00
 Guersònides Guersònides NPMSSP0
 Gueugnon Gueugnon NPCSG00
+Guevara Guevara NPCNSP0
 Guggenheim Guggenheim NPCNSP0
 Guia Guia NPCNSP0
 Guialmons Guialmons NPCSG00
@@ -16658,6 +16660,7 @@ Molí Molí NPMSG00
 Mombasa Mombasa NPCSG00
 Mombert Mombert NPCNSP0
 Mompou Mompou NPCNSP0
+Mompó Mompó NCNSP0
 Monadell Monadell NPCNSP0
 Monagas Monagas NPCSG00
 Monal Monal NPCNSP0
@@ -23706,6 +23709,7 @@ Sparta Sparta NPMSO00
 Spartak Spartak NPMSO00
 Spasski Spasski NPCNSP0
 Spencer Spencer NPCNSP0
+Spengler Spengler NPCNSP0
 Spessart Spessart NPCSG00
 Spiderman Spiderman NPMSSP0
 Spiegel Spiegel NPCNSP0 # medical
