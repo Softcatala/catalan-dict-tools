@@ -26001,6 +26001,7 @@ produïble=categories: A;fonts: LT;
 proemial=categories: A;fonts: LT;
 proencèfal proencèfala=categories: A;fonts: dsalut;
 proespanyol proespanyola=categories: A;fonts: derivat;
+proetarra=categories: A;fonts: derivat;
 proeuropeu proeuropea=categories: A;fonts: derivat;
 profanador profanadora=categories: A;fonts: LT;
 profectici profectícia=categories: A;fonts: LT;
