@@ -197,7 +197,6 @@ andamiada=categories: F;fonts: DNV,col·loquial;
 andragó=categories: M;fonts: DNV,col·loquial;
 angstrom=categories: M;fonts: DNV;
 anoploide=categories: M;fonts: DNV;
-anouera=categories: F;fonts: DNV;
 anouerar=categories: M;fonts: DNV;
 anoueta=categories: F;fonts: DNV;
 antedit -a=categories: A;fonts: DNV;

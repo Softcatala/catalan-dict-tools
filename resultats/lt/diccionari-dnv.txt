@@ -4580,10 +4580,8 @@ angstrom angstrom NCMS000
 angstroms angstrom NCMP000
 anoploide anoploide NCMS000
 anoploides anoploide NCMP000
-anouera anouera NCFS000
 anouerar anouerar NCMS000
 anouerars anouerar NCMP000
-anoueres anouera NCFP000
 anoueta anoueta NCFS000
 anouetes anoueta NCFP000
 antedit antedit AQ0MS0

@@ -12872,6 +12872,7 @@ Intermón Intermón NPMSO00
 Interpol Interpol NPFSO00
 Intersindical-CSC Intersindical-CSC NPFSO00
 Intibucá Intibucá NPCSG00
+Intxaurrondo Intxaurrondo NPCSG00
 Inverness Inverness NPCSG00
 Invisalign Invisalign NPCNO00
 Iocasta Iocasta NPFSSP0 # avl: noms de persona
