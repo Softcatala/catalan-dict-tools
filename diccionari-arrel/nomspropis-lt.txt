@@ -14133,6 +14133,7 @@ Lego Lego NPCNO00
 Legos Lego NPMPO00
 Leibnitz Leibnitz NPCNSP0
 Leibniz Leibniz NPCNSP0
+Leibovitz Leibovitz NPCNSP0
 Leicester Leicester NPCSG00
 Leicestershire Leicestershire NPCSG00
 Leiden Leiden NPCSG00
