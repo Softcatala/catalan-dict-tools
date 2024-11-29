@@ -10685,6 +10685,7 @@ Galatzó Galatzó NPCSG00
 Galavert Galavert NPCNSP0
 Galaţi Galaţi NPCSG00
 Galba Galba NPMSSP0 # avl: noms de persona
+Galbraith Galbraith NPCNSP0
 Galceran Galceran NPCNSP0
 Galceran Galceran NPCSG00
 Galcerà Galcerà NPMSSP0 # avl: noms de persona
