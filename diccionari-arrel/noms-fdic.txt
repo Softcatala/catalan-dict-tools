@@ -77742,6 +77742,7 @@ subdisciplina=categories: F;fonts: derivat;
 subdistinció=categories: F;fonts: LT;
 subdistribució=categories: F;fonts: derivat;
 subdistribuïdor subdistribuïdora=categories: MF;fonts: derivat;
+subdistricte=categories: M;fonts: derivat;
 subdivisió=categories: F;fonts: LT;
 subdominant=categories: F;fonts: LT;
 subdomini=categories: M;fonts: LT;
