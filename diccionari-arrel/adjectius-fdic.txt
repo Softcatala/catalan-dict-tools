@@ -17874,6 +17874,7 @@ intrapulmonar=categories: A;fonts: dsalut;
 intrapòntic intrapòntica=categories: A;fonts: dsalut;
 intraquístic intraquística=categories: A;fonts: dsalut;
 intrarectal=categories: A;fonts: dsalut;
+intraregional=categories: A;fonts: derivat;
 intrarenal=categories: A;fonts: dsalut;
 intrareticular=categories: A;fonts: dsalut;
 intraretinal=categories: A;fonts: dsalut;
