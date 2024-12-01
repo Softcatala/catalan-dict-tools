@@ -15142,8 +15142,6 @@ copalíferes copalífer AQ0FP0
 copalífers copalífer AQ0MP0
 copament copament NCMS000
 copaments copament NCMP000
-copernici copernici NCMS000
-copernicis copernici NCMP000
 copiatge copiatge NCMS000
 copiatges copiatge NCMP000
 copino copino NCMS000
@@ -46152,8 +46150,6 @@ flemó flemó NCMS000
 flemós flemós AQ0MS0
 flequeria flequeria NCFS000
 flequeries flequeria NCFP000
-flerovi flerovi NCMS000
-flerovis flerovi NCMP000
 fletx fletxar VMIP1S0B
 fletxa fletxar VMIP3S00
 fletxa fletxar VMM02S00
@@ -52960,8 +52956,6 @@ litòbida litòbid AQ0FS0
 litòbides litòbid AQ0FP0
 litòbids litòbid AQ0MP0
 litòbids litòbid NCMP000
-livermori livermori NCMS000
-livermoris livermori NCMP000
 lixosa lixosa NCFS000
 lixoses lixosa NCFP000
 llacorella llacorella NCFS000
@@ -70090,8 +70084,6 @@ temprabilitats temprabilitat NCFP000
 temprable temprable AQ0CS0
 temprables temprable AQ0CP0
 tempraplomes tempraplomes NCMN000
-tennessi tennessi NCMS000
-tennessis tennessi NCMP000
 tenquerol tenquerol NCMS000
 tenquerols tenquerol NCMP000
 teosa teós AQ0FS0
