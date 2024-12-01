@@ -21400,6 +21400,7 @@ cotreball=categories: M;fonts: termcat;
 cotrimoxazole=categories: M;fonts: LT;
 coturn=categories: M;fonts: LT;
 coturnicultura=categories: F;fonts: LT;
+cotutela=categories: F;fonts: termcat;
 cotutor cotutora=categories: MF;fonts LT;
 cotx=categories: M;fonts: LT;
 cotxa=categories: F;fonts: LT;
