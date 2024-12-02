@@ -27,6 +27,7 @@
 #bucket=categories: M;fonts: LT;
 #bullició=categories: F;fonts: LT; antic
 #bul·la=categories: F;fonts: dsalut;
+#búixola=categories: F;fonts: LT; només GDLC, DCVB
 #caf=categories: F;fonts: LT; lletra hebrea
 #calomelans=categories: MP;fonts: LT;
 #camelès camelesa=categories: MF;fonts: LT; RAR
@@ -13405,7 +13406,6 @@ búfag=categories: M;fonts: LT;
 búfal búfala=categories: MF;fonts: LT;
 búfol=categories: M;fonts: LT;
 búgula=categories: F;fonts: LT;
-búixola=categories: F;fonts: LT;
 búlgar búlgara=categories: MF;fonts LT;
 búndel=categories: M;fonts: LT;
 búngar=categories: M;fonts: dsalut;
