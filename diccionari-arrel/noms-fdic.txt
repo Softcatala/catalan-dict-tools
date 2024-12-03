@@ -5509,6 +5509,7 @@ anticinesi=categories: F;fonts: dsalut;
 anticipació=categories: F;fonts: LT;
 anticitolisina=categories: F;fonts: dsalut;
 anticitotoxina=categories: F;fonts: dsalut;
+anticiència=categories: FS;fonts: derivat;
 anticlerical=categories: MF;fonts: LT;
 anticlericalisme=categories: M;fonts: LT;
 anticlinal=categories: M;fonts: LT;
