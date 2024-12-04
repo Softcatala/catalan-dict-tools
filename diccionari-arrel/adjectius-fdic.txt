@@ -2354,6 +2354,7 @@ antiesquistosòmic antiesquistosòmica=categories: A;fonts: dsalut;
 antiestablishment=categories: AI;fonts: English;
 antiestafilocòccic antiestafilocòccica=categories: A;fonts: dsalut;
 antiestalinista=categories: A;fonts: derivat;
+antiestatal=categories: A;fonts: derivat;
 antiestatutari antiestatutària=categories: A;fonts: derivat;
 antiestreptocòccic antiestreptocòccica=categories: A;fonts: dsalut;
 antiestressant=categories: A;fonts: derivat;
