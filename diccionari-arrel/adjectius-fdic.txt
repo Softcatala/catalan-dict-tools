@@ -11180,6 +11180,7 @@ esbalaïdor esbalaïdora=categories: A;fonts: LT;
 esbarjós esbarjosa=categories: A;fonts: LT;
 esbarrellat esbarrellada=categories: A;fonts: LT;
 esbiaixat esbiaixada [sup. esbiaixadíssim]=categories: A; font:apertium;
+esbiaixat esbiaixada [sup. esbiaixadíssim]=categories: A; font:derivat;
 esbojarradíssim esbojarradíssima=categories: A;fonts: superlative;
 esborrable=categories: A;fonts: LT;
 esborrador esborradora=categories: A;fonts: LT;
