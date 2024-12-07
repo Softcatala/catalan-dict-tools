@@ -5343,6 +5343,7 @@ Caius Caius NPMSSP0
 CaixaBank CaixaBank NPCNO00
 CaixaForum CaixaForum NPMNO00
 Caixac Caixac NPCNSP0
+Caixaltea Caixaltea NPCNO00
 Caixans Caixans NPCNSP0
 Caixmir Caixmir NPMSG00
 Cajal Cajal NPCPSP0
