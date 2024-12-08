@@ -1259,6 +1259,7 @@ barbotegar=categories: V;model:pregar;fonts: LT;
 barbotejar=categories: V;model:envejar;fonts: LT;
 barbullir=categories: V;model:dormir;fonts: LT;
 barbutir=categories: V;model:servir;fonts: LT;
+barcelonitzar=categories: V;model:cantar;fonts: derivat;
 baremar=categories: V;model:cantar;fonts: LT;
 barloventejar=categories: V;model:envejar;fonts: LT;
 barquejar=categories: V;model:envejar;fonts: LT;

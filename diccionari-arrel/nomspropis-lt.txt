@@ -6289,6 +6289,7 @@ Causà Causà NPCNSP0
 Cava Cava NPCNSP0
 Cava Cava NPCSG00
 Cava-roques Cava-roques NPCNSP0
+Cavaillé-Coll Cavaillé-Coll NPCNSP0
 Cavalhon Cavalhon NPCSG00
 Cavaller Cavaller NPCNSP0
 Cavallera Cavallera NPCNSP0
