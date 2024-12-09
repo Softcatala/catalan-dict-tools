@@ -847,6 +847,7 @@ Al-Maḥwīt Al-Maḥwīt NPCSG00
 Al-Minyā Al-Minyā NPCSG00
 Al-Nafūd Al-Nafūd NPCSG00
 Al-Naǧaf Al-Naǧaf NPCSG00
+Al-Nusra Al-Nusra NPCNO00
 Al-Qaeda Al-Qaeda NPMSO00
 Al-Qaida Al-Qaida NPMSO00
 Al-Quds Al-Quds NPFPO00
@@ -2926,6 +2927,7 @@ BTV BTV NPCNO00
 BUP BUP NPMSO00
 Baader-Meinhof Baader-Meinhof NPCNO00
 Baal Baal NPMSSP0
+Baas Baas NPMSO00
 Babahoyo Babahoyo NPCSG00
 Babenberg Babenberg NPCNSP0
 Babia Babia NPCSG00
@@ -15323,6 +15325,7 @@ Manaus Manaus NPCSG00
 Manaut Manaut NPCNSP0
 Manauta Manauta NPCNSP0
 Manaén Manaén NPMSSP0 # avl: noms de persona
+Manbij Manbij NPCSG00
 Manche Manche NPCSG00
 Manchester Manchester NPCSG00
 Mancini Mancini NPCNSP0
