@@ -75,6 +75,7 @@
 #Enec Enec NPMSSP0 # avl: noms de persona
 #Erb #Erb NPCNSP0 # medical
 #Ermessén (o Ermessèn) Ermessén (o Ermessèn) NPFSSP0 # avl: noms de persona
+#Espós Espós NPCSG00 # poble molt petit, es confon amb "espòs"
 #Estel Estel NPFSSP0 # avl: noms de persona
 #Eu Eu NPMSSP0 # avl: noms de persona
 #Eugene Eugene NPCSG00
@@ -2624,6 +2625,7 @@ Asprer Asprer NPCNSP0
 Aspriu Aspriu NPCNSP0
 Aspriuet Aspriuet NPCNSP0
 Aspró Aspró NPCNSP0
+Assad Assad NPCNSP0
 Assagra Assagra NPCSG00
 Assam Assam NPMSG00
 Assan Assan NPMSSP0 # avl: noms de persona
@@ -9230,7 +9232,6 @@ Espés Espés NPCSG00
 Espí Espí NPCNSP0
 Espígol Espígol NPCNSP0
 Espòrades Espòrades NPFPG00
-Espós Espós NPCSG00
 Esquella Esquella NPCNSP0
 Esquer Esquer NPCNSP0
 Esquerda Esquerda NPCNSP0
@@ -24600,6 +24601,7 @@ Thaïs Thaïs NPFSSP0
 Theresienstadt Theresienstadt NPCSG00
 Thiago Thiago NPMSSP0
 Thiais Thiais NPCSG00
+Thiel Thiel NPCNSP0
 Thiene Thiene NPCSG00
 Thiessen Thiessen NPCNSP0
 Thimbu Thimbu NPCSG00
