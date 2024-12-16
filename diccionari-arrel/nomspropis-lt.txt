@@ -7178,6 +7178,7 @@ Constança Constança NPCSG00
 Constança Constança NPFSSP0
 Constanços Constanç NPMPSP0
 Constanţa Constanţa NPCSG00
+Construmat Construmat NPCNO00
 Constància Constància NPFSSP0 # avl: noms de persona
 Contarini Contarini NPCNSP0
 Contijoc Contijoc NPCNSP0

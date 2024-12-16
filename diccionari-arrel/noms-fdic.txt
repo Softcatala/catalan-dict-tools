@@ -78490,6 +78490,7 @@ superpetó=categories: M;fonts: derivat;
 superpigmentació=categories: F;fonts: dsalut;
 superplasticitat=categories: F;fonts: LT;
 superpoblació=categories: F;fonts: LT;
+superpoblament=categories: M;fonts: derivat;
 superpoder=categories: M;fonts: viquipedia;
 superpolicia=categories: MF;fonts: derivat;
 superportaavions=categories: MI;fonts: derivat;
