@@ -11535,6 +11535,7 @@ espaventós espaventosa=categories: A;fonts: LT;
 espavilat espavilada [sup. espaviladíssim]=categories: A; font:apertium;
 especial [sup. especialíssim]=categories: A;fonts: LT;
 especialista=categories: A;fonts: DDLC
+especialitzador especialitzadora=categories: A;fonts: derivat;
 especialitzat especialitzada [sup. especialitzadíssim]=categories: A; font:apertium;
 especificable=categories: A;fonts: LT;
 especificador especificadora=categories: A;fonts: LT;
