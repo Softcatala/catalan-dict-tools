@@ -9099,6 +9099,7 @@ revessegar=categories: V;model:pregar;fonts: LT;
 revessejar=categories: V;model:envejar;fonts: LT;
 revestir=categories: V;model:vestir;fonts: LT;
 reveure=categories: V;model:entreveure;fonts: LT;
+revictimitzar=categories: V;model:cantar;fonts: derivat;
 revifar=categories: V;model:cantar;fonts: LT;
 revigoritzar=categories: V;model:cantar;fonts: LT;
 revinclar=categories: V;model:cantar;fonts: LT;

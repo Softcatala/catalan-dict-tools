@@ -13539,6 +13539,7 @@ Karlsruhe Karlsruhe NPCSG00
 Karlstad Karlstad NPCSG00
 Karman Karman NPCNSP0 # medical
 Karnak Karnak NPCSG00
+Karnataka Karnataka NPCSG00
 Karnāl Karnāl NPCSG00
 Karnātaka Karnātaka NPCSG00
 Karol Karol NPCSSP0
