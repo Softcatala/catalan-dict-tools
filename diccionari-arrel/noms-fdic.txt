@@ -51930,6 +51930,7 @@ marqueteria=categories: F;fonts: LT;
 marquisme=categories: M;fonts: termcat;
 marquixanenc marquixanenca=categories: MF;fonts: LT;
 marquès marquesa=categories: MF;fonts LT;
+marra=categories: F;fonts: DNV;
 marraco=categories: M;fonts: LT;
 marrada=categories: F;fonts: LT;
 marraix=categories: M;fonts: LT;
