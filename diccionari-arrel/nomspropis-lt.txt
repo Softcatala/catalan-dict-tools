@@ -121,6 +121,7 @@
 #Iva Iva NPFSSP0 # avl: noms de persona
 #Ió Ió NPMSSP0 # avl: noms de persona
 #Jun #Jun NPCNSP0 # medical
+#Karnātaka Karnātaka NPCSG00
 #Laure Laure NPMSSP0 # avl: noms de persona
 #Llibre Llibre NPCNSP0
 #Lucia Lucia NPFSG00
@@ -13541,7 +13542,6 @@ Karman Karman NPCNSP0 # medical
 Karnak Karnak NPCSG00
 Karnataka Karnataka NPCSG00
 Karnāl Karnāl NPCSG00
-Karnātaka Karnātaka NPCSG00
 Karol Karol NPCSSP0
 Karonga Karonga NPCSG00
 Karoo Karoo NPCSG00

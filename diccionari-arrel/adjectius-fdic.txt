@@ -3,6 +3,7 @@
 #baador=categories: A;fontsg: GDLC, arcaisme;
 #baladí baladina=categories: A;fonts: LT; arcaisme
 #blauverda=categories: A;fonts: LT; error? de quina font? En el DDLC blauverd -a
+#burundià burundiana=categories: A;fonts: LT; no és en els diccionaris
 #camelès camelesa=categories: A;fonts: LT; RAR
 #cingalès cingalesa=categories: A;fonts: LT; Només GDLC, equivalent a singalès
 #cristal=categories: A;fonts: dsalut; #ATENCIÓ: relatiu a la cresta!
@@ -5450,7 +5451,6 @@ burral=categories: A;fonts: LT;
 burro burra=categories: A;fonts: LT;
 bursal=categories: A;fonts: dsalut;
 bursiforme=categories: A;fonts: dsalut;
-burundià burundiana=categories: A;fonts: LT;
 burundès burundesa=categories: A;fonts: LT;
 busca-raons=categories: AI;fonts: LT;
 buscabaralles=categories: AI;fonts: LT;
