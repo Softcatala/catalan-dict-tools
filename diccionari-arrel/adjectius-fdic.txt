@@ -14378,6 +14378,7 @@ gipsós gipsosa=categories: A;fonts: LT;
 girador giradora=categories: A;fonts: LT;
 giradís giradissa=categories: A;fonts: LT;
 giral=categories: A;fonts: dsalut;
+girardià girardiana=categories: A;fonts: derivat;
 giratori giratòria=categories: A;fonts: LT;
 girbat girbada=categories: A;fonts: LT;
 girell girella=categories: A;fonts: LT;
