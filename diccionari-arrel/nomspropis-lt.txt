@@ -828,6 +828,7 @@ Al-Arid Al-Arid NPCSG00
 Al-Assad Al-Assad NPCNSP0
 Al-Assad Al-Assad NPCSG00
 Al-Azhar Al-Azhar NPCSG00
+Al-Bashir Al-Bashir NPMSSP0
 Al-Bayda Al-Bayda NPCSG00
 Al-Buraymī Al-Buraymī NPCSG00
 Al-Dawḥa Al-Dawḥa NPCSG00
@@ -27437,6 +27438,7 @@ Zúric Zúric NPCSG00
 Zābol Zābol NPCSG00
 al-Assad al-Assad NPCNSP0
 al-Azraq al-Azraq NPMSSP0
+al-Bashir al-Bashir NPMSSP0
 al-Din al-Din NPCNSP0
 al-Hussein al-Hussein NPCNSP0
 al-Mansur al-Mansur NPCNSP0
