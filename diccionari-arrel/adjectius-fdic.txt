@@ -28505,6 +28505,7 @@ sardanista=categories: A;fonts: LT;
 sardanístic sardanística=categories: A;fonts: LT;
 sardesc sardesca=categories: A;fonts: LT;
 sardiner sardinera=categories: A;fonts: LT;
+sardopiemontès sardopiemontesa=categories: A;fonts: derivat;
 sardònic sardònica=categories: A;fonts: LT;
 sarmatià sarmatiana=categories: A;fonts: LT;
 sarmentós sarmentosa=categories: A;fonts: LT;

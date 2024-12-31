@@ -9536,6 +9536,7 @@ Excel Excel NPMNO00
 Expectació Expectació NPFSSP0 # avl: noms de persona
 Expedit Expedit NPMSSP0
 Expedits Expedit NPMPSP0
+Expojove Expojove NPMSO00
 Expósito Expósito NPCNSP0
 Extremadura Extremadura NPFSG00
 Extrems Extrems NPCNSP0
