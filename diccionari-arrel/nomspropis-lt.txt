@@ -8539,6 +8539,7 @@ EEI EEI NPFSSP0
 EGB EGB NPFSO00
 EGM EGM NPMSO00
 EI EI NPMSO00
+EMI EMI NPFSO00
 EMT EMT NPCNO00
 ENAIRE ENAIRE NPCSO00
 ERC ERC NPFSO00
@@ -8724,6 +8725,7 @@ Eleàzars Eleàzar NPMPSP0
 Elf Elf NPMSSP0 # avl: noms de persona
 Elfa Elfa NPFSSP0 # avl: noms de persona
 Elga Elga NPFSSP0 # avl: noms de persona
+Elgar Elgar NPCNSP0
 Elgoibar Elgoibar NPCSG00
 Eli Eli NPMSSP0 # avl: noms de persona
 Elia Elia NPFSSP0 # avl: noms de persona
@@ -24709,6 +24711,7 @@ Tintoretto Tintoretto NPCNSP0
 Tints Tints NPMPG00
 Tintín Tintín NPMSSP0
 Tipasa Tipasa NPCSG00
+Tippett Tippett NPCNSP0
 Tir Tir NPCSG00
 Tirana Tirana NPCSG00
 Tirant Tirant NPMSSP0 # avl: noms de persona
@@ -26817,6 +26820,7 @@ Walsall Walsall NPCSG00
 Walter Walter NPMSSP0
 Walthard Walthard NPCNSP0
 Walthard Walthard NPCNSP0 # medical
+Walton Walton NPCNSP0
 Wamba Wamba NPMSSP0 # avl: noms de persona
 Wanda Wanda NPCSSP0 # avl: noms de persona
 Wandsworth Wandsworth NPCSG00
