@@ -85701,6 +85701,7 @@ vicepresident vicepresidenta=categories: MF;fonts LT;
 vicepresidència=categories: F;fonts: LT;
 vicerector vicerectora=categories: MF;fonts: LT;
 vicerectorat=categories: M;fonts: LT;
+viceregent=categories: MF;fonts: derivat;
 vicesecretari vicesecretària=categories: MF;fonts: LT;
 vicesecretaria=categories: F;fonts: LT;
 vicesenescal=categories: M;fonts: LT;

@@ -28788,6 +28788,7 @@ semiinstitucionalitzat semiinstitucionalitzada=categories: A;fonts: derivat;
 semiinterquartílic semiinterquartílica=categories: A;fonts: termcat;
 semilent semilenta=categories: A;fonts: dsalut;
 semillarg semillarga=categories: A;fonts: derivat;
+semillegendari semillegendària=categories: A;fonts: derivat;
 semilunar=categories: A;fonts: LT;
 semilíquid semilíquida=categories: A;fonts: LT;
 semimembranós semimembranosa=categories: A;fonts: dsalut;
