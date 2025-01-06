@@ -23295,6 +23295,7 @@ paleolític paleolítica=categories: A;fonts: LT;
 paleològic -a=categories: A;fonts: DNV;
 paleològic paleològica=categories: A;fonts: dsalut;
 paleomelanèsid paleomelanèsida=categories: A;fonts: LT;
+paleometal·lúrgic paleometal·lúrgica=categories: A;fonts: derivat;
 paleomongòlid paleomongòlida=categories: A;fonts: LT;
 paleontogràfic paleontogràfica=categories: A;fonts: LT;
 paleontològic paleontològica=categories: A;fonts: LT;

@@ -6483,6 +6483,7 @@ Chaman Chaman NPCSG00
 Chamberlain Chamberlain NPCNSP0 # medical
 Chambéry Chambéry NPCSG00
 Chamfort Chamfort NPCNSP0
+Chamonix Chamonix NPCSG00
 Chamonix-Mont-Blanc Chamonix-Mont-Blanc NPCSG00
 Chamorro Chamorro NPCNSP0
 Champagnat Champagnat NPCNSP0
@@ -15493,6 +15494,7 @@ Marcianise Marcianise NPCSG00
 Marcians Marcià NPMPSP0
 Marcianòpolis Marcianòpolis NPCSG00
 Marcià Marcià NPMSSP0
+Marconi Marconi NPCNSP0
 Marcota Marcota NPCSG00
 Marcoule Marcoule NPCSG00
 Marcoussis Marcoussis NPCSG00
