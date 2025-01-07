@@ -75421,6 +75421,7 @@ semiglassa=categories: F;fonts: LT;
 semigrup=categories: M;fonts: LT;
 semigrès=categories: M;fonts: LT;
 semiimputabilitat=categories: F;fonts: termcat;
+semiinconsciència=categories: F;fonts: derivat;
 semiinstitucionalització=categories: F;fonts: derivat;
 semillibertat=categories: FS;fonts: termcat;
 semillí=categories: M;fonts: LT;

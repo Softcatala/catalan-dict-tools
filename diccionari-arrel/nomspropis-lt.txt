@@ -25266,6 +25266,7 @@ Trouvé Trouvé NPCNSP0
 Troyes Troyes NPCSG00
 Trubau Trubau NPCNSP0
 Truc Truc NPCNSP0
+Trudeau Trudeau NPCNSP0
 TrueType TrueType NPCNO00
 Trueba Trueba NPCNSP0
 Truells Truells NPCNSP0
