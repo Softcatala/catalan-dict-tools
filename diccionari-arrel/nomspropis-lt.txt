@@ -11754,6 +11754,7 @@ Grímsvötn Grímsvötn NPCSG00
 Grönholm Grönholm NPCNSP0
 Grüntzig Grüntzig NPCNSP0 # medical
 Gstaad Gstaad NPCSG00
+Guadagnini Guadagnini NPCNSP0
 Guadalajara Guadalajara NPFSG00
 Guadalaviar Guadalaviar NPMSG00
 Guadalcanal Guadalcanal NPCSG00

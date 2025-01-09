@@ -34606,6 +34606,7 @@ exsuflador=categories: M;fonts: dsalut;
 exsuperior exsuperiora=categories: MF;fonts: LT;
 exsurgència=categories: F;fonts: LT;
 extemporaneïtat=categories: F;fonts: LT;
+extenista=categories: MF;fonts: derivat;
 extensibilitat=categories: F;fonts: LT;
 extensió=categories: F;fonts: LT;
 extensometria=categories: F;fonts: termcat;

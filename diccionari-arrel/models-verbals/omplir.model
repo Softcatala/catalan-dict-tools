@@ -80,10 +80,13 @@ r ren ir VMSI3P03 # ompliren
 r ssen ir VMSI3P05 # omplissen
 ir e ir VMM02S0Y # omple
 r 0 ir VMM02S0V # ompli
+omplir umpl ir VMM02S0B # umpl
 r 0 ir VMM03S0Y # ompli
 omplir òmpliga ir VMM03S0V # òmpliga
+omplir umpli ir VMM03S0B # umpli
 r m ir VMM01P00 # omplim
 r guem ir VMM01P0B # ompliguem
 r u ir VMM02P00 # ompliu
 r n ir VMM03P0Y # omplin
 omplir òmpliguen ir VMM03P0V # òmpliguen
+omplir umplin ir VMM03P0B # umplin
