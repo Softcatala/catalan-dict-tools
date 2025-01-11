@@ -18000,6 +18000,7 @@ Nèstor Nèstor NPCSG00
 Nèstor Nèstor NPMSSP0
 Nèstors Nèstor NPMPSP0
 Néma Néma NPCSG00
+Némirovsky Némirovsky NPCNSP0
 Néstor Néstor NPCSG00
 Nét Nét NPCNSP0
 Nídia Nídia NPFSSP0 # avl: noms de persona
