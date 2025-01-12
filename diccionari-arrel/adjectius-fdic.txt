@@ -834,6 +834,7 @@ aferrant=categories: A;fonts: LT;
 aferrissat aferrissada [sup. aferrissadíssim]=categories: A; font:apertium;
 aferrissós aferrissosa=categories: A;fonts: LT;
 aferrugós -osa=categories: A; fonts: Jané;
+afgano-soviètic afgano-soviètica=categories: A;fonts: derivat;
 afganès afganesa=categories: A;fonts: LT;
 aficionat aficionada [sup. aficionadíssim]=categories: A; font:apertium;
 afidífag afidífaga=categories: A;fonts: LT;

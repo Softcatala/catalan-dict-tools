@@ -6097,6 +6097,7 @@ Casimir Casimir NPMSSP0
 Casimira Casimira NPFSSP0 # avl: noms de persona
 Casimirs Casimir NPMPSP0
 Casinos Casinos NPCSG00
+Casio Casio NPCNO00
 Casiquiare Casiquiare NPCSG00
 Casis Casi NPMPSP0
 Casivanyes Casivanyes NPCSG00
