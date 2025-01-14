@@ -19016,6 +19016,7 @@ colldejouenc colldejouenca=categories: MF;fonts: LT;
 coller collera=categories: MF;fonts LT;
 colleró=categories: M;fonts: LT;
 collet=categories: M;fonts: LT;
+colleta=categories: F;fonts: diminutiu;
 collferro=categories: M;fonts: LT;
 collidor collidora=categories: MF;fonts: LT;
 collita=categories: F;fonts: LT;
