@@ -74009,6 +74009,7 @@ rusquer=categories: M;fonts: LT;
 russa=categories: F;fonts: LT;
 russafeny russafenya=categories: MF;fonts: LT;
 russificació=categories: F;fonts: LT;
+russofòbia=categories: F;fonts: derivat;
 russulal=categories: F;fonts: LT;
 russulàcia=categories: F;fonts: LT;
 ruste=categories: M;fonts: LT;
