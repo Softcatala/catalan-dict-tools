@@ -15370,6 +15370,7 @@ Manfré Manfrè NPMSSP0
 Manganell Manganell NPCNSP0
 Manganell Manganell NPMSG00
 Mangghystaū Mangghystaū NPCSG00
+Mangione Mangione NPCNSP0
 Mangochi Mangochi NPCSG00
 Mangraners Mangraners NPMPG00
 Mangualde Mangualde NPCSG00

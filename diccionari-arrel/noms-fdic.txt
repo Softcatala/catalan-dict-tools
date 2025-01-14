@@ -79664,6 +79664,7 @@ tecnodependència=categories: F;fonts: derivat;
 tecnoeducació=categories: FS;fonts: derivat;
 tecnoestructura=categories: F;fonts: LT;
 tecnofinances=categories: FP;fonts: derivat;
+tecnofília=categories: F;fonts: derivat;
 tecnofòbia=categories: F;fonts: derivat;
 tecnografia=categories: F;fonts: LT;
 tecnoimmobiliària=categories: F;fonts: derivat;
