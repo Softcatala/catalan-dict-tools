@@ -16246,6 +16246,7 @@ Mercant Mercant NPCNSP0
 Mercator Mercator NPCNSP0
 Mercedes Mercedes NPCNO00
 Mercer Mercer NPCNSP0
+Mercosur Mercosur NPMSO00
 Mercuri Mercuri NPMSG00 # avl: noms de persona
 Mercè Mercè NPCNSP0
 Mercè Mercè NPFSSP0
