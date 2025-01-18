@@ -26886,6 +26886,7 @@ dublinès dublinesa=categories: MF;fonts: LT;
 dublé [pl. dublés]=categories: M;fonts: LT;
 dubni=categories: M;fonts: LT;
 duboisina=categories: FS;fonts: dsalut;
+dubstep=categories: MS;fonts: wiki;
 dubtança=categories: F;fonts: LT;
 dubte=categories: M;fonts: LT;
 duc=categories: M;fonts: LT;
