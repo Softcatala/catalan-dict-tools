@@ -83694,6 +83694,7 @@ tuca=categories: F;fonts: LT;
 tucaresol=categories: M;fonts: dsalut;
 tuciorisme=categories: M;fonts: LT;
 tuciorista=categories: MF;fonts: LT;
+tucuixi=categories: M;fonts: termcat;
 tucà=categories: M;fonts: LT;
 tudadissa=categories: F;fonts: LT;
 tudell=categories: M;fonts: LT;
