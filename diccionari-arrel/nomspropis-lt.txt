@@ -8054,6 +8054,7 @@ Demòcrits Demòcrit NPMPSP0
 Demòstenes Demòstenes NPMPSP0
 Demòstenes Demòstenes NPMSSP0
 Denain Denain NPCSG00
+Denali Denali NPMSG00
 Deneb Deneb NPCSG00
 Dener Dener NPCNSP0
 Denisa Denisa NPFSSP0 # avl: noms de persona
