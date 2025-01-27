@@ -24793,6 +24793,7 @@ Tokuyama Tokuyama NPCSG00
 Tol'atti Tol'atti NPCSG00
 Tolba Tolba NPFSG00
 Tolbukhin Tolbukhin NPCSG00
+Tolbàtxik Tolbàtxik NPMSG00
 Toldrà Toldrà NPCNSP0
 Toledo Toledo NPCSG00
 Tolentino Tolentino NPCSG00
