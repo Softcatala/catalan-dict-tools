@@ -31518,6 +31518,7 @@ tranquil tranquil·la [sup. tranquil·líssim]=categories: A;fonts: LT;
 tranquil·let tranquil·leta=categories: A;fonts: diminutiu;
 tranquil·litzador tranquil·litzadora=categories: A;fonts: LT;
 tranquil·litzant=categories: A;fonts: LT;
+tranquil·lot tranquil·lota=categories: A;fonts: augmentatiu;
 trans=categories: AI;fonts: termcat;
 transabdominal=categories: A;fonts: dsalut;
 transaccional=categories: A;fonts: LT;
