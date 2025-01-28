@@ -5236,6 +5236,7 @@ CRTVG CRTVG NPFSO00
 CSIC CSIC NPMSO00
 CSIF CSIF NPCSO00
 CSU CSU NPFSO00
+CSUC CSUC NPMSO00
 CUP CUP NPFSO00
 Caacupé Caacupé NPCSG00
 Caazapá Caazapá NPCSG00
@@ -17445,6 +17446,7 @@ Nador Nador NPCSG00
 Naegele Naegele NPCNSP0 # medical
 Naens Naens NPCSG00
 Naffziger-Jones Naffziger-Jones NPCNSP0 # medical
+Nafta Nafta NPMSO00
 Nagano Nagano NPCSG00
 Nagaoka Nagaoka NPCSG00
 Nagasaki Nagasaki NPCSG00
