@@ -17289,7 +17289,6 @@ Muriel Muriel NPFSSP0
 Murillo Murillo NPCNSP0
 Murià Murià NPCNSP0
 Murla Murla NPFSG00
-Murmansk Murmansk NPCSG00
 Muro Muro NPCSG00
 Murom Murom NPCSG00
 Muroran Muroran NPCSG00
@@ -17407,6 +17406,7 @@ Múnic Múnic NPMSG00
 Múnter Múnter NPCSG00
 Múrcia Múrcia NPFSG00
 Múria Múria NPFSG00
+Múrmansk Múrmansk NPCSG00
 Músser Músser NPCSG00
 Mûr-de-Bretagne Mûr-de-Bretagne NPCSG00
 Mühlberg Mühlberg NPCSG00
