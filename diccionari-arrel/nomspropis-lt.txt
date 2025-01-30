@@ -24237,6 +24237,7 @@ Tanganika Tanganika NPCSG00
 Tanganyika Tanganyika NPCSG00
 Tanggu Tanggu NPCSG00
 Tangier Tangier NPCNSP0 # medical
+Tanglewood Tanglewood NPCSG00
 Tangshan Tangshan NPCSG00
 Tanis Tanis NPCSG00
 Tannenberg Tannenberg NPCSG00
