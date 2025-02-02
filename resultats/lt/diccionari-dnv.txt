@@ -29309,12 +29309,6 @@ despartidores despartidor AQ0FP0
 despartidors despartidor AQ0MP0
 despartiment despartiment NCMS000
 despartiments despartiment NCMP000
-despatxador despatxador NCMS000
-despatxadora despatxador NCFS000
-despatxadores despatxador NCFP000
-despatxadors despatxador NCMP000
-despatxament despatxament NCMS000
-despatxaments despatxament NCMP000
 despea despear VMIP3S00
 despea despear VMM02S00
 despeada despear VMP00SF0

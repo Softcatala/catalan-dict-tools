@@ -8441,7 +8441,7 @@ Duesaigües Duesaigües NPCSG00
 Dufy Dufy NPCNSP0
 Duhamel Duhamel NPCNSP0 # medical
 Duisburg Duisburg NPMSG00
-Duixanbe Duixanbe NPCSG00
+Duixanbé Duixanbé NPCSG00
 Duixans Duixans NPCNSP0
 Dukas Dukas NPCNSP0
 Duke Duke NPCNSP0
@@ -12468,6 +12468,7 @@ Hof Hof NPCSG00
 Hoffmann Hoffmann NPCNSP0 # medical
 Hofmann Hofmann NPCNSP0
 Hofmannsthal Hofmannsthal NPCNSP0
+Hofmeister Hofmeister NPCNSP0
 Hogarth Hogarth NPCNSP0
 Hogwarts Hogwarts NPCSG00
 Hohenstaufen Hohenstaufen NPCNSP0
@@ -19023,6 +19024,7 @@ Patreon Patreon NPMSO00
 Patres Patres NPCSG00
 Patrici Patrici NPMSSP0
 Patricis Patrici NPMPSP0
+Patrick Patrick NPCNSP0
 Patricova Patricova NPMSO00
 Patrocini Patrocini NPMSSP0
 Patrocinis Patrocini NPMPSP0
@@ -26880,6 +26882,7 @@ Weber-Cockayne Weber-Cockayne NPCNSP0
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Webern Webern NPCNSP0
 Wegener Wegener NPCNSP0
+Wehrmacht Wehrmacht NPFSO00
 Weiden Weiden NPCSG00
 Weifang Weifang NPCSG00
 Weikersheim Weikersheim NPCSG00
