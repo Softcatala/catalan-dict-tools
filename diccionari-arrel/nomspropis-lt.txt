@@ -23011,7 +23011,7 @@ Seravezza Seravezza NPCSG00
 Serdinyà Serdinyà NPCSG00
 Seregno Seregno NPCSG00
 Serena Serena NPCNSP0
-Serengueti Serengueti NPMSG00
+Serengeti Serengeti NPMSG00
 Serenyana Serenyana NPCNSP0
 Sergi Sergi NPMSSP0
 Sergipe Sergipe NPCSG00
