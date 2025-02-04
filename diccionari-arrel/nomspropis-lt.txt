@@ -16276,6 +16276,7 @@ Merlès Merlès NPCSG00
 Merlí Merlí NPMSSP0
 Meroe Meroe NPCSG00
 Merola Merola NPCNSP0
+Meroveu Meroveu NPMSSP0
 Merrf Merrf NPCNSP0 # medical
 Merrit Merrit NPCNSP0 # medical
 Mersch Mersch NPCSG00
@@ -18823,6 +18824,7 @@ Panadella Panadella NPFSG00
 Panaji Panaji NPCSG00
 Panamà Panamà NPMSG00
 Panarell Panarell NPCNSP0
+Panathinaikos Panathinaikos NPCNO00
 Panay Panay NPCSG00
 Pancoast Pancoast NPCNSP0 # medical
 Pancraci Pancraci NPMSSP0 # avl: noms de persona
@@ -22828,6 +22830,7 @@ Scratch Scratch NPCNO00
 Scriabin Scriabin NPCNSP0
 Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
+Scully Scully NPCNSP0
 Scunthorpe Scunthorpe NPCSG00
 Seana Seana NPFSG00
 Seat Seat NPCNO00
