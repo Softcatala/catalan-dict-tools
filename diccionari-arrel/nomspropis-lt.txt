@@ -27053,7 +27053,7 @@ Woringer-Kolopp Woringer-Kolopp NPCNSP0 # medical
 Worms Worms NPCSG00
 Worthing Worthing NPCSG00
 Wrangel Wrangel NPCSG00
-Wroclaw Wroclaw NPCSG00
+Wrocław Wrocław NPCSG00
 Wuhan Wuhan NPCSG00
 Wuhu Wuhu NPCSG00
 Wunderlich Wunderlich NPCNSP0
