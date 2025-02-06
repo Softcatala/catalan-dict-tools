@@ -24920,6 +24920,7 @@ detenidor detenidora=categories: MF;fonts: LT;
 deteniment=categories: M;fonts: LT;
 detentor detentora=categories: MF;fonts LT;
 detergent=categories: M;fonts: LT;
+detergència=categories: F;fonts: termcat;
 deterioració=categories: F;fonts: LT;
 deteriorament=categories: M;fonts: LT;
 determinabilitat=categories: F;fonts: LT;
