@@ -11495,6 +11495,7 @@ Gordillo Gordillo NPCNSP0
 Gordils Gordils NPCNSP0
 Gordià Gordià NPMSSP0
 Gordomir Gordomir NPCNSP0
+Gordon Gordon NPCNSP0
 Gordí Gordí NPCNSP0
 Gordó Gordó NPCNSP0
 Gore-Tex Gore-Tex NPCNO00
@@ -20636,6 +20637,7 @@ Quatretonda Quatretonda NPFSG00
 Quatretondeta Quatretondeta NPFSG00
 Quebec Quebec NPMSG00
 Queckendstedt Queckendstedt NPCNSP0 # medical
+Queen Queen NPCNSP0
 Queen Quenn NPCNO00
 Queens Queens NPCSG00
 Queensland Queensland NPCSG00
