@@ -1680,6 +1680,7 @@ Amfions Amfió NPMPSP0
 Amfissa Amfissa NPCSG00
 Amfió Amfió NPMSSP0
 Amhara Amhara NPCSG00
+Amherst Amherst NPCSG00
 Amideu Amideu NPMSSP0
 Amideus Amideu NPMPSP0
 Amiell Amiell NPCNSP0
@@ -20540,6 +20541,7 @@ Puteaux Puteaux NPCSG00
 Putelles Putelles NPCNSP0
 Putignano Putignano NPCSG00
 Putin Putin NPCNSP0
+Putnam Putnam NPCNSP0
 Putorana Putorana NPCSG00
 Puttalam Puttalam NPCSG00
 Putti Putti NPCNSP0 # medical
