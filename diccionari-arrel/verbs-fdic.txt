@@ -8662,6 +8662,7 @@ reestrenar=categories: V;model:ordenar;fonts: LT;
 reestructurar=categories: V;model:cantar;fonts: LT;
 reetiquetar=categories: V;model:cantar;fonts: derivat;
 reexaminar=categories: V;model:abominar;fonts: LT;
+reexecutar=categories: V;model:cantar;fonts: derivat, informàtica;
 reexpedir=categories: V;model:servir;fonts: LT;
 reexplicar=categories: V;model:trencar;fonts: LT;
 reexportar=categories: V;model:cantar;fonts: LT;
