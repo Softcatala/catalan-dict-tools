@@ -18441,6 +18441,7 @@ Orriols Orriols NPMPG00
 Orrit Orrit NPCNSP0
 Orrit Orrit NPCSG00
 Ors Ors NPCNSP0
+Orsay Orsay NPCNG00
 Orseolo Orseolo NPCNSP0
 Orsini Orsini NPCNSP0
 Orsk Orsk NPCSG00

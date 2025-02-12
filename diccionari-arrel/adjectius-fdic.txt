@@ -28750,6 +28750,7 @@ semicomplex semicomplexa=categories: A; font:derivat;
 semiconductor semiconductora=categories: A;fonts: derivat;
 semiconservatiu semiconservativa=categories: A;fonts: derivat;
 semiconsonàntic semiconsonàntica=categories: A;fonts: LT;
+semicontinental=categories: A;fonts: derivat;
 semicrom semicroma=categories: A;fonts: LT;
 semicromàtic semicromàtica=categories: A;fonts: LT;
 semicrític semicrítica=categories: A;fonts: dsalut;

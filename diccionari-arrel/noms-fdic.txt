@@ -75403,6 +75403,7 @@ semicilindre=categories: M;fonts: LT;
 semicircumferència=categories: F;fonts: LT;
 semiclandestinitat=categories: F;fonts: derivat;
 semiconductor=categories: M;fonts: LT;
+semiconfinament=categories: M;fonts: derivat;
 semiconserva=categories: F;fonts: LT;
 semiconsonant=categories: F;fonts: LT;
 semicorxera=categories: F;fonts: LT;
