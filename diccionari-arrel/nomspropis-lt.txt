@@ -6876,6 +6876,7 @@ Cloterons Cloterons NPMPG00
 Clotet Clotet NPCNSP0
 Clotilde Clotilde NPFSSP0
 Clotildes Clotilde NPFPSP0
+Clovis Clovis NPMSSP0
 Cloward Cloward NPCNSP0 # medical
 Clua Clua NPCNSP0
 Cluc Cluc NPCNSP0
@@ -12184,6 +12185,7 @@ Hastings Hastings NPCSG00
 Hasél Hasél NPCNSP0
 Hatay Hatay NPCSG00 # Turquia
 Hatxepsut Hatxepsut NPFSSP0
+Haussmann Haussmann NPCNSP0
 Haut-Folin Haut-Folin NPCSG00
 Hauteville Hauteville NPCNSP0
 Havana Havana NPFSG00
