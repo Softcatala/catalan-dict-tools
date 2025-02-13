@@ -10967,6 +10967,7 @@ epiclètic epiclètica=categories: A;fonts: LT;
 epicondili -ília=categories: A;fonts: dsalut;
 epicondilocubital=categories: A;fonts: dsalut;
 epicondiloradial=categories: A;fonts: dsalut;
+epicontinental=categories: A;fonts: derivat;
 epicoracoidal=categories: A;fonts: dsalut;
 epicordal=categories: A;fonts: dsalut;
 epicostal=categories: A;fonts: dsalut;
