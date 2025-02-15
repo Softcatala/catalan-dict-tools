@@ -17102,6 +17102,7 @@ ciclocarpal=categories: F;fonts: LT;
 ciclocarpínia=categories: F;fonts: LT;
 ciclocefàlia=categories: F;fonts: LT;
 cicloceratitis=categories: FI;fonts: dsalut;
+ciclocomputador=categories: M;fonts: wiki;
 ciclocoroïditis=categories: FI;fonts: dsalut;
 ciclocròs=categories: MI;fonts: LT;
 ciclocàrpida=categories: F;fonts: LT;
