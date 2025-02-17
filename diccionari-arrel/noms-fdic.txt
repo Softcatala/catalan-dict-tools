@@ -53513,6 +53513,7 @@ metaciclina=categories: F;fonts: dsalut;
 metaciesi=categories: F;fonts: dsalut;
 metacinèsia=categories: F;fonts: dsalut;
 metacisme=categories: M;fonts: LT;
+metaciència=categories: F;fonts: termcat;
 metacognició=categories: F;fonts: LT;
 metacolina=categories: F;fonts: dsalut;
 metacon=categories: M;fonts: dsalut;

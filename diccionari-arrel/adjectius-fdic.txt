@@ -15482,6 +15482,7 @@ hiperqueratòtic hiperqueratòtica=categories: A;fonts: dsalut;
 hiperracional=categories: A;fonts: derivat;
 hiperreactiu hiperreactiva=categories: A;fonts: dsalut;
 hiperrealista=categories: A;fonts: LT;
+hiperregulador hiperreguladora=categories: A;fonts: derivat;
 hipersaludable=categories: A;fonts: derivat;
 hipersalí hipersalina=categories: A;fonts: derivat;
 hipersaturat hipersaturada=categories: A;fonts: derivat;
