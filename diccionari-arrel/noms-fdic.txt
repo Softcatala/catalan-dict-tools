@@ -72156,7 +72156,6 @@ remake=categories: M;fonts: esadir, anglicisme;
 remallosa=categories: F;fonts: LT;
 remarca=categories: F;fonts: LT;
 remasterització=categories: F;fonts: LT;
-remasterització=categories: F;fonts: derivat;
 rematada=categories: F;fonts: LT;
 rematador rematadora=categories: MF;fonts: DNV;
 rematant=categories: MF;fonts: LT;
