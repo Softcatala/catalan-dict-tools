@@ -68395,6 +68395,7 @@ pronació=categories: F;fonts: LT;
 pronador=categories: M;fonts: LT;
 pronaos=categories: MI;fonts: LT;
 pronasa=categories: FS;fonts: dsalut;
+pronatalisme=categories: M;fonts: derivat;
 pronefre=categories: M;fonts: LT;
 pronetalol=categories: MS;fonts: dsalut;
 pronom=categories: M;fonts: LT;
