@@ -4364,6 +4364,7 @@ Bloomsbury Bloomsbury NPCSG00
 Blount Blount NPCNSP0 # medical
 Bluetooth Bluetooth NPMNO00
 Blumberg Blumberg NPCNSP0 # medical
+Blumenthal Blumenthal NPCNSP0
 Blàsia Blàsia NPFSSP0 # avl: noms de persona
 Blàzquez Blàzquez NPCNSP0
 Bo Bo NPCNSP0
