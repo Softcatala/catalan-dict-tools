@@ -2252,6 +2252,7 @@ anticientífic anticientífica=categories: A;fonts: LT;
 anticipant=categories: A;fonts: LT;
 anticipatori -òria=categories: A;fonts: termcat;
 anticircumpolar=categories: A;fonts: LT;
+anticismàtic anticismàtica=categories: A;fonts: derivat;
 anticiència=categories: AI;fonts: derivat;
 anticlerical=categories: A;fonts: LT;
 anticlinal=categories: A;fonts: LT;
