@@ -7209,6 +7209,7 @@ Copons Copons NPCNSP0
 Copparo Copparo NPCSG00
 Copperbelt Copperbelt NPCSG00
 Copperfield Copperfield NPCNSP0
+Coppieters Coppieters NPCNSP0
 Coppola Coppola NPCNSP0
 Copra Copra NPCNSP0 # medical
 Coptos Coptos NPCSG00
@@ -16332,6 +16333,7 @@ Metohija Metohija NPCSG00
 Metro-Goldwyn-Mayer Metro-Goldwyn-Mayer NPFSO00
 Metrovacesa Metrovacesa NPCNO00
 Metrovalència Metrovalència NPFSO00
+Metternich Metternich NPCNSP0
 Metz Metz NPCSG00
 Metòdia Metòdia NPFSSP0 # avl: noms de persona
 Meudon Meudon NPCSG00
