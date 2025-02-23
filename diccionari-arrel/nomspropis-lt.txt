@@ -16292,6 +16292,7 @@ Mersey Mersey NPCSG00
 Merseyside Merseyside NPCSG00
 Mersin Mersin NPCSG00
 Merton Merton NPCSG00
+Merz Merz NPCNSP0
 Mesa Mesa NPCSG00
 Mesagne Mesagne NPCSG00
 Meseta Meseta NPFSG00
@@ -26898,6 +26899,7 @@ Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Webern Webern NPCNSP0
 Wegener Wegener NPCNSP0
 Wehrmacht Wehrmacht NPFSO00
+Weidel Weidel NPCNSP0
 Weiden Weiden NPCSG00
 Weifang Weifang NPCSG00
 Weikersheim Weikersheim NPCSG00
