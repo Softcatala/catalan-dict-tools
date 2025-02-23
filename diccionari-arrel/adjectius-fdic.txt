@@ -30291,6 +30291,7 @@ supertou supertova=categories: A;fonts: derivat;
 supertranquil supertranquil·la=categories: A;fonts: derivat;
 supertranquil·litzador supertranquil·litzadora=categories: A;fonts: derivat;
 supertransparent=categories: A;fonts: derivat;
+supertraumatitzat supertraumatitzada=categories: A;fonts: derivat;
 supertreballador supertreballadora=categories: A;fonts: derivat;
 supertrencador supertrencadora=categories: A;fonts: derivat;
 supertrist supertrista=categories: A;fonts: derivat;
