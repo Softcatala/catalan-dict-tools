@@ -53536,6 +53536,7 @@ metacrosi=categories: F;fonts: dsalut;
 metacònida=categories: F;fonts: dsalut;
 metacònul=categories: M;fonts: dsalut;
 metadada=categories: F;fonts: LT;
+metadescripció=categories: F;fonts: derivat;
 metadina=categories: F;fonts: LT;
 metadinamo=categories: F;fonts: LT;
 metadiscurs=categories: M;fonts: derivat;
