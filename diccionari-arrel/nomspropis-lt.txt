@@ -18629,6 +18629,7 @@ PSAN PSAN NPMSO00
 PSC PSC NPMSO00
 PSG PSG NPMSO00
 PSI PSI NPMSO00
+PSIB PSIB NPMSO00
 PSOE PSOE NPMSO00
 PSPV PSPV NPMSO00
 PSUC PSUC NPMSO00
@@ -23806,6 +23807,7 @@ Starhemberg Starhemberg NPCNSP0
 Starling Starling NPCNSP0 # medical
 Stasi Stasi NPFSO00
 Stavanger Stavanger NPCSG00
+Staël Staël NPCNSP0
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
 Steen Steen NPCNSP0
 Steiner Steiner NPCNSP0

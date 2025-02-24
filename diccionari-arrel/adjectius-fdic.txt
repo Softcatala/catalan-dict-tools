@@ -30749,6 +30749,7 @@ tecnocràtic tecnocràtica=categories: A;fonts: LT;
 tecnodependent=categories: A;fonts: derivat;
 tecnofeixista=categories: A;fonts: derivat;
 tecnofeudal=categories: A;fonts: derivat;
+tecnofeudalista=categories: A;fonts: derivat;
 tecnologicocientífic -a=categories: A;fonts: derivat;
 tecnològic tecnològica=categories: A;fonts: LT;
 tecnooptimista=categories: A;fonts: derivat;

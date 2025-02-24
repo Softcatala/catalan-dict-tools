@@ -6465,6 +6465,7 @@ generar=categories: V;model:cantar;fonts: LT;
 gentrificar=categories: V;model:trencar;fonts: termcat;
 geolocalitzar=categories: V;model:cantar;fonts: esadir;
 geomatitzar=categories: V;model:cantar;fonts: LT;
+geometritzar=categories: V;model:cantar;fonts: termcat;
 georeferenciar=categories: V;model:crear;fonts: termcat;
 germanitzar=categories: V;model:cantar;fonts: LT;
 germinar=categories: V;model:abominar;fonts: LT;
