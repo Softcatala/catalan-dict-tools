@@ -23874,6 +23874,7 @@ pedant=categories: A;fonts: LT;
 pedantesc pedantesca=categories: A;fonts: LT;
 pedantíssim pedantíssima=categories: A;fonts: superlative;
 pedat pedada=categories: A;fonts: LT;
+pederasta=categories: A;fonts: DNV;
 pederàstic pederàstica=categories: A;fonts: LT;
 pedestre=categories: A;fonts: LT;
 pedial=categories: A;fonts: LT;
