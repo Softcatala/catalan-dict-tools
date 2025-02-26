@@ -5659,6 +5659,7 @@ Canaveral Canaveral NPMSG00
 Canavese Canavese NPCSG00
 Canberra Canberra NPCSG00
 Cancún Cancún NPCSG00
+Candanchú Candanchú NPCSG00
 Candasnos Candasnos NPCSG00
 Candela Candela NPCNSP0
 Candelera Candelera NPFSSP0
@@ -10303,6 +10304,7 @@ Formentera Formentera NPCSG00
 Formentor Formentor NPCSG00
 Formgeschichte Formgeschichte NPCSG00
 Formiga Formiga NPCNSP0
+Formigal Formigal NPCSG00
 Formigals Formigals NPCSG00
 Formigine Formigine NPCSG00
 Formiguera Formiguera NPCNSP0
