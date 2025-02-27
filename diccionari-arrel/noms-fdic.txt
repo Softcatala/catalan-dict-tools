@@ -19222,6 +19222,7 @@ col·lapsoteràpia=categories: F;fonts: dsalut;
 col·largol=categories: M;fonts: LT;
 col·latari col·latària=categories: MF;fonts: LT;
 col·lateralitat=categories: F;fonts: LT;
+col·le=categories: M;fonts: esadir, informal;
 col·leccionador col·leccionadora=categories: MF;fonts: LT;
 col·leccionisme=categories: M;fonts: LT;
 col·leccionista=categories: MF;fonts: LT;
