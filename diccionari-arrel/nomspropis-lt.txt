@@ -27649,6 +27649,7 @@ uTorrent uTorrent NPCNO00
 Ódádhahraun Ódádhahraun NPCSG00
 Órbigo Órbigo NPCSG00
 Óros Óros NPCSG00
+Öcalan Öcalan NPCNSP0
 Öland Öland NPCSG00
 Örebro Örebro NPCSG00
 Östersund Östersund NPCSG00
