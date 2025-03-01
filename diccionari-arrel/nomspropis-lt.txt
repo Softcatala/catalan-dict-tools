@@ -26901,6 +26901,7 @@ Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Webern Webern NPCNSP0
+Weddell Weddell NPCNSP0
 Wegener Wegener NPCNSP0
 Wehrmacht Wehrmacht NPFSO00
 Weidel Weidel NPCNSP0
