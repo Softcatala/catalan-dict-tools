@@ -8407,6 +8407,7 @@ Dreux Dreux NPCSG00
 Dreyfus Dreyfus NPCNSP0
 Drin Drin NPCSG00
 Drina Drina NPCSG00
+Driouech Driouech NPCNSP0
 Drive Drive NPMSO00
 Droc Droc NPCNSP0
 Droguet Droguet NPCNSP0
