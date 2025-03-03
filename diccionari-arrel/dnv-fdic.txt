@@ -2479,7 +2479,6 @@ flato=categories: M;fonts: DNV,col·loquial;
 flauteig=categories: M;fonts: DNV;
 flautejar=categories: V;model:envejar;fonts: DNV;
 fleborràgia=categories: F;fonts: DNV;
-flema=categories: F;fonts: DNV;
 flemonós -osa=categories: A;fonts: DNV;
 flemàtic -a=categories: A;fonts: DNV;
 flemàtic -a=categories: MF;fonts: DNV;

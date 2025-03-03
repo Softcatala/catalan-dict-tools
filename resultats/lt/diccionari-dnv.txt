@@ -46121,8 +46121,6 @@ flautejàvem flautejar VMII1P00
 flautejàveu flautejar VMII2P00
 fleborràgia fleborràgia NCFS000
 fleborràgies fleborràgia NCFP000
-flema flema NCFS000
-flemes flema NCFP000
 flemonosa flemonós AQ0FS0
 flemonoses flemonós AQ0FP0
 flemonosos flemonós AQ0MP0

@@ -36696,6 +36696,7 @@ fleixador fleixadora=categories: MF;fonts: termcat;
 fleixar=categories: M;fonts: LT;
 fleixer=categories: M;fonts: LT;
 fleixera=categories: F;fonts: LT;
+flema=categories: F;fonts: DNV,esadir;
 flendi=categories: MI;fonts: LT;
 flequer flequera=categories: MF;fonts LT;
 flerovi=categories: M;fonts: DNV;
