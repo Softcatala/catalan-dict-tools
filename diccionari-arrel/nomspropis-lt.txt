@@ -7614,6 +7614,7 @@ Cuanca Cuanca NPCSG00
 Cuando Cuando NPCSG00
 Cuango Cuango NPCSG00
 Cuanza Cuanza NPCSG00
+Cuauhtémoc Cuauhtémoc NPMSSP0
 Cuautitlán Cuautitlán NPCSG00
 Cuba Cuba NPFSG00
 Cubango Cubango NPCSG00
