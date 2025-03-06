@@ -8556,6 +8556,7 @@ EMT EMT NPCNO00
 ENAIRE ENAIRE NPCSO00
 ERC ERC NPFSO00
 ERPV ERPV NPFSO00
+ES-Alert ES-Alert NPMSO00
 ESA ESA NPFSO00
 ESADE ESADE NPCNO00
 ESMUC ESMUC NPFSO00
@@ -13738,6 +13739,7 @@ Klimt Klimt NPCNSP0
 Klinefelter Klinefelter NPCNSP0 # medical
 Klippel-Feil Klippel-Feil NPCNSP0 # medical
 Klipper-Trenaunay-Weber Klipper-Trenaunay-Weber NPCNSP0 # medical
+Klondike Klondike NPCSG00
 Klopstock Klopstock NPCNSP0
 Klüver-Bucy Klüver-Bucy NPCNSP0 # medical
 Knesset Knesset NPFSO00
