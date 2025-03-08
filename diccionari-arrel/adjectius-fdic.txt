@@ -79,6 +79,7 @@ LGTBIQ=categories: AI; fonts: derivat;
 N95=categories: AI;fonts: fundeu;
 NP-complet NP-completa=categories: A;fonts: LT;
 NoComercial=categories: AI;fonts: CC;
+P2P=categories: AI;fonts: anglès;
 P3=categories: AI;fonts: wikipedia;
 P4=categories: AI;fonts: wikipedia;
 P5=categories: AI;fonts: wikipedia;

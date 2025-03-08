@@ -3639,6 +3639,7 @@ Bel Bel NPCNSP0
 Bela Bela NPCSG00
 Belabre Belabre NPCNSP0
 Belait Belait NPCSG00
+Belarra Belarra NPCNSP0
 Belarta Belarta NPCSG00
 Belau Belau NPCNSP0
 Belbel Belbel NPCNSP0
@@ -8333,6 +8334,7 @@ Donisa Donisa NPFSSP0 # avl: noms de persona
 Donizetti Donizetti NPCNSP0
 Donjó Donjó NPCNSP0
 Donné Donné NPCNSP0 # medical
+Donostia Donostia NPCSG00
 Donyac Donyac NPCNSP0
 Donyau Donyau NPCNSP0
 Donzell Donzell NPCSG00
