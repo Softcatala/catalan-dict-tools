@@ -60117,6 +60117,7 @@ opsonometria=categories: F;fonts: dsalut;
 opsonoteràpia=categories: F;fonts: dsalut;
 opsòclon=categories: M;fonts: dsalut;
 optació=categories: F;fonts: LT;
+optativitat=categories: F;fonts: derivat;
 optestèsia=categories: F;fonts: dsalut;
 opticociliotomia=categories: F;fonts: dsalut;
 opticocinèria=categories: F;fonts: dsalut;

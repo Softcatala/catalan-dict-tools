@@ -20946,6 +20946,7 @@ mogenc mogenca=categories: A;fonts: LT;
 mogol mogola=categories: A;fonts: LT;
 mogrebí mogrebina=categories: A;fonts: LT;
 mogribí mogribina=categories: A;fonts: LT;
+mogudet mogudeta=categories: A; font:diminutiu;
 mogut moguda [sup. mogudíssim]=categories: A; font:apertium;
 mohicà mohicana=categories: A;fonts: LT;
 moianès moianesa=categories: A;fonts: LT;
