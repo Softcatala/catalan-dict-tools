@@ -73828,6 +73828,7 @@ rotació=categories: F;fonts: LT;
 rotaire=categories: MF;fonts: LT;
 rotang=categories: M;fonts: LT;
 rotatiu=categories: M;fonts: LT;
+rotativitat=categories: F;fonts: derivat;
 rotavirus=categories: MI;fonts: LT;
 rotenona=categories: F;fonts: LT;
 roter rotera=categories: MF;fonts LT;

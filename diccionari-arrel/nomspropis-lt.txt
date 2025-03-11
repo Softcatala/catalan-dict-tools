@@ -10581,6 +10581,7 @@ Fuller Fuller NPCNSP0
 Fullera Fullera NPCNSP0
 Fullà Fullà NPCNSP0
 Fullà Fullà NPCSG00
+Fulton Fulton NPCNSP0
 Fulvi Fulvi NPMSSP0 # avl: noms de persona
 Fumanal Fumanal NPCNSP0
 Funabashi Funabashi NPCSG00
