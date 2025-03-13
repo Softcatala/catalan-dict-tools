@@ -76976,6 +76976,7 @@ sobrellinda=categories: F;fonts: LT;
 sobrellit=categories: M;fonts: LT;
 sobrellom=categories: M;fonts: LT;
 sobrelínia=categories: F;fonts: LT;
+sobremedicació=categories: F;fonts: derivat;
 sobremitjana=categories: F;fonts: LT;
 sobremodulació=categories: F;fonts: LT;
 sobremorro=categories: M;fonts: LT;
