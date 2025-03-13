@@ -54884,6 +54884,7 @@ millorament=categories: M;fonts: LT;
 millorança=categories: F;fonts: LT;
 milloria=categories: F;fonts: LT;
 millàs millassa=categories: MF;fonts: LT;
+milmilionari milmilionària=categories: MF;fonts: derivat;
 milnacipran=categories: M;fonts: dsalut;
 miloca=categories: F;fonts: LT;
 milonga=categories: F;fonts: LT;
