@@ -13675,6 +13675,7 @@ franjolí franjolina=categories: A;fonts: DIEC;
 franquejable=categories: A;fonts: LT;
 franquer franquera=categories: A;fonts: LT;
 franquesí franquesina=categories: A;fonts: LT;
+franquiciat franquiciada=categories: A;fonts: DNV;
 franquista=categories: A;fonts: LT;
 fraresc fraresca=categories: A;fonts: LT;
 fraseològic fraseològica=categories: A;fonts: LT;

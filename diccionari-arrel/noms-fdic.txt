@@ -52603,6 +52603,7 @@ megaelectró-volt=categories: M;fonts: LT;
 megaeritema=categories: M;fonts: dsalut;
 megaeritroblast=categories: M;fonts: dsalut;
 megaestrella=categories: F;fonts: derivat;
+megaestructura=categories: F;fonts: derivat;
 megaesòfag=categories: M;fonts: LT;
 megaevolució=categories: F;fonts: LT;
 megafil·le=categories: M;fonts: LT;

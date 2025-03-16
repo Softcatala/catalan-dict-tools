@@ -6306,6 +6306,7 @@ fragmentar=categories: V;model:cantar;fonts: LT;
 francesitzar=categories: V;model:cantar;fonts: LT;
 franjar=categories: V;model:menjar;fonts: LT;
 franquejar=categories: V;model:envejar;fonts: LT;
+franquiciar=categories: V;model:crear;fonts: esadir;
 frasejar=categories: V;model:envejar;fonts: LT;
 fraternitzar=categories: V;model:cantar;fonts: LT;
 fredejar=categories: V;model:envejar;fonts: LT;
