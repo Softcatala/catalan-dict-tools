@@ -57704,6 +57704,7 @@ neoprè=categories: M;fonts: LT;
 neopuritanisme=categories: M;fonts: derivat;
 neopurità neopuritana=categories: MF;fonts: derivat;
 neorama=categories: M;fonts: LT;
+neoreacció=categories: F;fonts: derivat;
 neorealisme=categories: M;fonts: LT;
 neorealista=categories: MF;fonts: LT;
 neorickèttsia=categories: F;fonts: dsalut;
