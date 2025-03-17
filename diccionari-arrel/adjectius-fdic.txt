@@ -29444,6 +29444,7 @@ societari societària=categories: A;fonts: LT;
 socinià sociniana=categories: A;fonts: LT;
 socioafectiu socioafectiva=categories: A;fonts: derivat;
 socioambiental=categories: A;fonts: derivat;
+sociobiològic sociobiològica=categories: A;fonts: derivat;
 sociocognitiu sociocognitiva=categories: A;fonts: derivat;
 sociocomunicatiu sociocomunicativa=categories: A;fonts: derivat;
 sociocomunitari sociocomunitària=categories: A;fonts: derivat;
