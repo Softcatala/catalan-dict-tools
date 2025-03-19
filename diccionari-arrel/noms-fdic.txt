@@ -6527,6 +6527,7 @@ aquafaba=categories: FS;fonts: esadir;
 aquafèresi=categories: F;fonts: dsalut;
 aquafòbia=categories: F;fonts: dsalut;
 aquagym=categories: MS;fonts: anglès, AVL;
+aquaplàning=categories: MS;fonts: esadir;
 aquaporina=categories: F;fonts: termcat;
 aquarel·la=categories: F;fonts: LT;
 aquarel·lista=categories: MF;fonts: LT;

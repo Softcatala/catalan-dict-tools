@@ -2663,7 +2663,7 @@ Astor Astor NPCSG00
 Astorga Astorga NPFSG00
 Astoria Astoria NPCNO00
 Astorina Astorina NPFSSP0 # avl: noms de persona
-Astrakhan Astrakhan NPCSG00
+Astracan Astracan NPCSG00
 Astrid Astrid NPFSSP0 # avl: noms de persona
 Asturiol Asturiol NPCNSP0
 Astàsia Astàsia NPFSSP0 # avl: noms de persona
