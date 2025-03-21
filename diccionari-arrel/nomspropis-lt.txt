@@ -3240,6 +3240,7 @@ Baoji Baoji NPCSG00
 Baoting Baoting NPCSG00
 Baotou Baotou NPCSG00
 Baptista Baptista NPMSSP0
+Baqueira Baqueira NPCSG00
 Baqueira-Beret Baqueira-Beret NPCSG00
 Bar Bar NPCNSP0
 Bar Bar NPCSG00
