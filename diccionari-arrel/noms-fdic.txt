@@ -87846,6 +87846,7 @@ zúdnic=categories: M;fonts: LT;
 òvul=categories: M;fonts: LT;
 òxford=categories: M;fonts: LT;
 òxid=categories: M;fonts: LT;
+óblast [pl. óblasts]=categories: M;fonts: nomenclator-iec;
 ós [pl. óssos]=categories: M;fonts: LT;
 óssa=categories: F;fonts: LT;
 úgric=categories: M;fonts: LT;
