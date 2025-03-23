@@ -26667,6 +26667,7 @@ Virosa Virosa NPCNSP0
 Virosella Virosella NPCNSP0
 Virovitica Virovitica NPCSG00
 Virrangues Virrangues NPCSG00
+Virtèlia Virtèlia NPCNO00
 Virunga Virunga NPCSG00
 Viry-Chatillon Viry-Chatillon NPCSG00
 Virà Virà NPCSG00
