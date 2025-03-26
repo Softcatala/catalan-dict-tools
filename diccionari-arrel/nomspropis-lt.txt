@@ -2461,6 +2461,7 @@ Arregall Arregall NPCNSP0
 Arrei Arrei NPCNSP0
 Arres Arres NPCSG00
 Arriaga Arriaga NPCNSP0
+Arrieta Arrieta NPCNSP0
 Arrià Arrià NPCNSP0
 Arro Arro NPCNSP0
 Arro Arro NPCSG00
@@ -13555,6 +13556,7 @@ Karajan Karajan NPCNSP0
 Karakalpakistan Karakalpakistan NPMSG00
 Karakoram Karakoram NPMNG00
 Karakorum Karakorum NPCSG00
+Karamàzov Karamàzov NPCNSP0
 Karangetang Karangetang NPCSG00
 Karatau Karatau NPCSG00
 Karatxais Karatxais NPMPG00
