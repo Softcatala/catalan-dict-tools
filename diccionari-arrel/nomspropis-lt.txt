@@ -13028,6 +13028,7 @@ Itabuna Itabuna NPCSG00
 Itaipú Itaipú NPCSG00
 Itapecuru Itapecuru NPCSG00
 Iturea Iturea NPCSG00
+Itziar Itziar NPFSSP0
 Itzíar Itzíar NPFSSP0 # avl: noms de persona
 Itàlia Itàlia NPFSG00
 Itàlica Itàlica NPFSG00
