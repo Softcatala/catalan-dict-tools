@@ -24661,7 +24661,7 @@ Thiais Thiais NPCSG00
 Thiel Thiel NPCNSP0
 Thiene Thiene NPCSG00
 Thiessen Thiessen NPCNSP0
-Thimbu Thimbu NPCSG00
+Thimphu Thimphu NPCSG00
 Thionville Thionville NPCSG00
 Thiès Thiès NPCSG00
 Thjórsá Thjórsá NPCSG00
