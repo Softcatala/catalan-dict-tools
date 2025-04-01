@@ -6620,6 +6620,7 @@ herboritzar=categories: V;model:cantar;fonts: LT;
 heretar=categories: V;model:cantar;fonts: LT;
 hermetitzar=categories: V;model:cantar;fonts: LT;
 herniar=categories: V;model:crear;fonts: LT;
+heroïtzar=categories: V;model:cantar;fonts: derivat;
 hesitar=categories: V;model:cantar;fonts: LT;
 heterodinar=categories: V;model:abominar;fonts: LT;
 heterogeneïtzar=categories: V;model:cantar;fonts: derivat;
