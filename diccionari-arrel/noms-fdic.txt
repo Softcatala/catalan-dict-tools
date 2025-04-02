@@ -15953,6 +15953,7 @@ catalanisme=categories: M;fonts: LT;
 catalanista=categories: MF;fonts: LT;
 catalanitat=categories: F;fonts: LT;
 catalanització=categories: F;fonts: LT;
+catalanofonia=categories: FS;fonts: derivat;
 catalanofília=categories: F;fonts: LT;
 catalanofòbia=categories: F;fonts: LT;
 catalanoparlant=categories: MF;fonts: LT;

@@ -12062,6 +12062,7 @@ Gòrdion Gòrdion NPCSG00
 Gòrgies Gòrgies NPMSSP0
 Gòrgona Gòrgona NPFSSP0
 Gòrgones Gòrgones NPFPSP0
+Gógol Gógol NPCNSP0
 Gómel Gómel NPCSG00
 Gómez Gómez NPCNSP0
 Góngora Góngora NPCNSP0
