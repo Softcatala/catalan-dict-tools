@@ -17598,6 +17598,7 @@ Navacerrada Navacerrada NPCSG00
 Navagero Navagero NPCNSP0
 Navaiol Navaiol NPCSG00
 Naval Naval NPCNSP0
+Navalcarnero Navalcarnero NPCSG00
 Navall Navall NPCNSP0
 Navalls Navalls NPCNSP0
 Navalni Navalni NPCNSP0
@@ -18044,6 +18045,7 @@ Níjar Níjar NPCSG00
 Nínive Nínive NPCSG00
 Níobe Níobe NPFSSP0
 Nóos Nóos NPMSO00
+Nördlingen Nördlingen NPCSG00
 Núbia Núbia NPFSG00
 Núria Núria NPFSSP0
 Núries Núria NPFPSP0
