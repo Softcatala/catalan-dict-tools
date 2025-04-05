@@ -14975,6 +14975,7 @@ Lèucada Lèucada NPCSG00
 Léger Léger NPCNSP0
 Lékoumou Lékoumou NPCSG00
 Léman Léman NPCSG00
+Léonin Léonin NPMSSP0
 Lérmontov Lérmontov NPCNSP0
 Lévi-Strauss Lévi-Strauss NPCNSP0
 Líban Líban NPMSG00
@@ -20614,6 +20615,7 @@ Pérez Pérez NPCNSP0
 Pérez-Reverte Pérez-Reverte NPCNSP0
 Pérignon Pérignon NPCNSP0
 Périgueux Périgueux NPCSG00
+Pérotin Pérotin NPMSSP0
 Péssah Péssah NPFSO00
 Pétain Pétain NPCNSP0
 Píndar Píndar NPMSSP0
