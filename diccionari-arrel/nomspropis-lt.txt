@@ -12117,6 +12117,7 @@ Hakanson Hakanson NPCNSP0 # medical
 Hakim Hakim NPCNSP0 # medical
 Hakodate Hakodate NPCSG00
 Hal Hal NPMSSP0
+Halberstadt Halberstadt NPCSG00
 Haldane Haldane NPCNSP0 # medical
 Halef Halef NPMSSP0 # avl: noms de persona
 Halesowen Halesowen NPCSG00
