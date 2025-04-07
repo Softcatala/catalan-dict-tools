@@ -18103,6 +18103,7 @@ Obispo Obispo NPCSG00
 Objective-C Objective-C NPMSO00
 Obon Obon NPCNSP0
 Obrador Obrador NPCNSP0
+Obrecht Obrecht NPCNSP0
 Obsidian Obsidian NPMSO00
 Obwalden Obwalden NPCSG00
 Obèlix Obèlix NPMSSP0

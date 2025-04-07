@@ -33934,3 +33934,6 @@ zírida=categories: A;fonts: LT;
 úric úrica=categories: A;fonts: LT;
 ústaixa=categories: A;fonts: LT;
 útil [sup. utilíssim]=categories: A;fonts: LT;
+pro-nord-americà pro-nord-americana=categories: A;fonts: derivat;
+pro-sud-africà pro-sud-africana=categories: A;fonts: derivat;
+anti-sud-africà anti-sud-africana=categories: A;fonts: derivat;
