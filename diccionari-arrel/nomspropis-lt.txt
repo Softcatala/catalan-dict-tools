@@ -20617,7 +20617,7 @@ Pérez-Reverte Pérez-Reverte NPCNSP0
 Pérignon Pérignon NPCNSP0
 Périgueux Périgueux NPCSG00
 Pérotin Pérotin NPMSSP0
-Péssah Péssah NPFSO00
+Péssah Péssah NPMSO00
 Pétain Pétain NPCNSP0
 Píndar Píndar NPMSSP0
 Píram Píram NPMSSP0 # avl: noms de persona
