@@ -196,6 +196,7 @@
 #San #San NPCNSP0 # medical
 #Santes Santes NPFSSP0 # avl: noms de persona
 #Saro Saro NPMSSP0 # avl: noms de persona
+#Scriabin Scriabin NPCNSP0 Skriabin
 #Sebastopol Sebastopol NPCSG00
 #Segona Segona NPFSSP0 # avl: noms de persona
 #Servi Servi NPMSSP0 # avl: noms de persona
@@ -12233,6 +12234,7 @@ Hegel Hegel NPCNSP0
 Heidegger Heidegger NPCNSP0
 Heidelberg Heidelberg NPCSG00
 Heidi Heidi NPFSSP0 # avl: noms de persona
+Heifetz Heifetz NPCNSP0
 Heilbronn Heilbronn NPCSG00
 Heilongjiang Heilongjiang NPCSG00
 Heimlich Heimlich NPCNSP0 # medical
@@ -12548,6 +12550,7 @@ Horkheimer Horkheimer NPCNSP0
 Horlivka Horlivka NPCSG00
 Horner Horner NPCNSP0 # medical
 Horney Horney NPCNSP0 # medical
+Horowitz Horowitz NPCNSP0
 Horrac Horrac NPCNSP0
 Horsens Horsens NPCSG00
 Horsley Horsley NPCNSP0 # medical
@@ -22868,7 +22871,6 @@ Scott Scott NPCNSP0
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
 Scratch Scratch NPCNO00
-Scriabin Scriabin NPCNSP0
 Scribd Scribd NPCNO00
 Scribner Scribner NPCNSP0 # medical
 Scully Scully NPCNSP0
@@ -24124,6 +24126,7 @@ TJUE TJUE NPMSO00
 TMB TMB NPMPO00
 TNC TNC NPMSO00
 TPI TPI NPMSO00
+TPP TPP NPCSO00
 TSJC TSJC NPMSO00
 TSJCV TSJCV NPMSO00
 TV3 TV3 NPFSO00

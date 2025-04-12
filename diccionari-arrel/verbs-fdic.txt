@@ -8664,6 +8664,7 @@ reestampar=categories: V;model:cantar;fonts: DNV;
 reestimar=categories: V;model:cantar;fonts: derivat;
 reestrenar=categories: V;model:ordenar;fonts: LT;
 reestructurar=categories: V;model:cantar;fonts: LT;
+reestudiar=categories: V;model:crear;fonts: derivat;
 reetiquetar=categories: V;model:cantar;fonts: derivat;
 reexaminar=categories: V;model:abominar;fonts: LT;
 reexecutar=categories: V;model:cantar;fonts: derivat, informàtica;
