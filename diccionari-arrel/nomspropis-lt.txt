@@ -18102,6 +18102,7 @@ Obiols Obiols NPCNSP0
 Obispo Obispo NPCSG00
 Objective-C Objective-C NPMSO00
 Obon Obon NPCNSP0
+Obradoiro Obradoiro NPMSG00
 Obrador Obrador NPCNSP0
 Obrecht Obrecht NPCNSP0
 Obsidian Obsidian NPMSO00
