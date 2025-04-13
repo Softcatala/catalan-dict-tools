@@ -1104,6 +1104,7 @@ Alcalatén Alcalatén NPCSG00
 Alcalà Alcalà NPCNSP0
 Alcalà Alcalà NPCSG00
 Alcamo Alcamo NPCSG00
+Alcampo Alcampo NPMNO00
 Alcamí Alcamí NPCNSP0
 Alcanada Alcanada NPCSG00
 Alcanadre Alcanadre NPCSG00
@@ -2686,6 +2687,7 @@ Atanàsies Atanàsia NPFPSP0
 Atapuerca Atapuerca NPFSG00
 Atar Atar NPCSG00
 Atard Atard NPCNSP0
+Atari Atari NPCNO00
 Atatürk Atatürk NPCNSP0
 Ataülf Ataülf NPMSSP0
 Ataülfs Ataülf NPMPSP0
@@ -4979,6 +4981,7 @@ Brull Brull NPCNSP0
 Brullà Brullà NPCSG00
 Brun Brun NPCNSP0
 Bruna Bruna NPCNSP0
+Brundtland Brundtland NPCNSP0
 Brunei Brunei NPCSG00
 Brunei-Muara Brunei-Muara NPCSG00
 Brunell Brunell NPCNSP0
@@ -8474,6 +8477,7 @@ Dungannon Dungannon NPCSG00
 Dunkerque Dunkerque NPCSG00
 Dunyac Dunyac NPCNSP0
 Dunyó Dunyó NPCNSP0
+Dupont Dupont NPCNSP0
 Dupuytren Dupuytren NPCNSP0 # medical
 Duran Duran NPCNSP0
 Durandell Durandell NPCNSP0
@@ -13186,6 +13190,7 @@ Jean-Paul Jean-Paul NPMSSP0
 Jean-Philippe Jean-Philippe NPMSSP0
 Jean-Pierre Jean-Pierre NPMSSP0
 Jean-Yves Jean-Yves NPMSSP0
+Jeanine Jeanine NPFSSP0
 Jebús Jebús NPMSG00
 Jedrzejów Jedrzejów NPCSG00
 Jefferson Jefferson NPCNSP0
@@ -13847,6 +13852,7 @@ Krebs Krebs NPCNSP0 # medical
 Krefeld Krefeld NPCSG00
 Krimsk Krimsk NPCSG00
 Kristeller Kristeller NPCNSP0 # medical
+Kristen Kristen NPCNSP0
 Kristiansand Kristiansand NPCSG00
 Krixna Krixna NPMSSP0
 Krk Krk NPCSG00
@@ -14129,6 +14135,7 @@ Laurentina Laurentina NPFSSP0 # avl: noms de persona
 Laurentins Laurentí NPMPSP0
 Laurentí Laurentí NPMSSP0
 Laures Laura NPFPSP0
+Laureus Laureus NPMNO00
 Laureà Laureà NPMSSP0
 Laurència Laurència NPFSSP0 # avl: noms de persona
 Laus Laus NPCNO00
@@ -17356,6 +17363,7 @@ Mussomeli Mussomeli NPCSG00
 Mussorgski Mussorgski NPCNSP0
 Mussuptà Mussuptà NPCSG00
 Mustafà Mustafà NPMSSP0
+Mustang Mustang NPCNSP0
 Mustard Mustard NPCNSP0 # medical
 Mustiola Mustiola NPCNSP0
 Mut Mut NPCNSP0
@@ -18654,6 +18662,7 @@ PP PP NPMSO00
 PPCC PPCC NPMPG00
 PPCV PPCV NPMSO00
 PPE PPE NPMSO00
+PRI PRI NPMSO00
 PROCICAT PROCICAT NPMSO00
 PSAN PSAN NPMSO00
 PSC PSC NPMSO00
@@ -19252,6 +19261,7 @@ Pensacola Pensacola NPCSG00
 Pensilvània Pensilvània NPFSG00
 Pentesilea Pentesilea NPFSSP0 # avl: noms de persona
 Pentinat Pentinat NPCNSP0
+Pentium Pentium NPCNO00
 Penya Penya NPCNSP0
 Penya Penya NPFSG00
 Penya-roja Penya-roja NPCNSP0
@@ -19443,6 +19453,7 @@ Petite-Synthe Petite-Synthe NPCSG00
 Petra Petra NPFSG00
 Petrarca Petrarca NPMSSP0
 Petrer Petrer NPCSG00
+Petri Petri NPCNSP0
 Petrinja Petrinja NPCSG00
 Petritxol Petritxol NPMSG00
 Petrodvorec Petrodvorec NPCSG00
@@ -22823,6 +22834,7 @@ Schiller Schiller NPCNSP0
 Schilling Schilling NPCNSP0 # medical
 Schiltigheim Schiltigheim NPCSG00
 Schimmelbusch Schimmelbusch NPCNSP0 # medical
+Schimmelpenninck Schimmelpenninck NPCNSP0
 Schindler Schindler NPCNSP0
 Schio Schio NPCSG00
 Schiötz Schiötz NPCNSP0 # medical
@@ -24634,6 +24646,7 @@ Tet Tet NPCSG00 # riu la Tet, ofensiva del Tet, muntanyes del Tet
 Tete Tete NPCSG00
 Tetes Tetes NPCNSP0
 Tetis Tetis NPFSSP0 # avl: noms de persona
+Tetris Tetris NPMNO00
 Tetuan Tetuan NPCSG00
 Teulada Teulada NPCNSP0
 Teulada Teulada NPFSG00
@@ -25175,6 +25188,7 @@ Toès Toès NPCSG00
 Trabal Trabal NPCNSP0
 Trabald Trabald NPMSSP0 # avl: noms de persona
 Trabucador Trabucador NPMSG00
+Tracy Tracy NPCNSP0
 Trafalgar Trafalgar NPCSG00
 Tragant Tragant NPCNSP0
 Traginer Traginer NPCNSP0
@@ -26882,6 +26896,7 @@ Wallasey Wallasey NPCSG00
 Wallbox Wallbox NPCNO00
 Wallers Wallers NPCSG00
 Wallis Wallis NPCSG00
+Wally Wally NPCNSP0
 Walsall Walsall NPCSG00
 Walter Walter NPMSSP0
 Walthard Walthard NPCNSP0
@@ -26911,6 +26926,7 @@ Wasatch Wasatch NPCSG00
 Washington Washington NPCSG00
 Wassy Wassy NPCSG00
 Waterbury Waterbury NPCSG00
+Waterfall Waterfall NPCNO00
 Watergate Watergate NPMSO00
 Waterloo Waterloo NPCSG00
 Waterston-Cooley Waterston-Cooley NPCNSP0
@@ -27088,6 +27104,7 @@ Wolverhampton Wolverhampton NPCSG00
 Wonderland Wonderland NPCSG00
 Wood Wood NPCNSP0
 Wood Wood NPCNSP0 # medical
+Woodbridge Woodbridge NPCSG00
 Woodstock Woodstock NPCSG00
 Woodward Woodward NPCNSP0
 Woody Woody NPMSSP0
