@@ -38833,6 +38833,7 @@ ganyoter ganyotera=categories: MF;fonts LT;
 ganàpia=categories: MF;fonts: LT;
 gara-gara=categories: FS;fonts: LT;
 garagot=categories: M;fonts: LT;
+garaig [pl. garaigs o garatjos]=categories: M;fonts: DNV, colloquial;
 garamond=categories: M;fonts: LT;
 garangola=categories: F;fonts: LT;
 garant=categories: MF;fonts: LT;

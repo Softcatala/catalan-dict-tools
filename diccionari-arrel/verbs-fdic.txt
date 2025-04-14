@@ -6593,6 +6593,7 @@ guionitzar=categories: V;model:cantar;fonts: esadir;
 guipar=categories: V;model:cantar;fonts: LT;
 guisar=categories: V;model:cantar;fonts: LT;
 guiscar=categories: V;model:trencar;fonts: LT;
+guisopar=categories: V;model:cantar;fonts: DNV;
 guitar=categories: V;model:cantar;fonts: LT;
 guixar=categories: V;model:cantar;fonts: LT;
 gunitar=categories: V;model:cantar;fonts: LT;
