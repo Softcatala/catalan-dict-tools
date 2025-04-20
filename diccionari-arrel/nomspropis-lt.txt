@@ -4741,6 +4741,7 @@ Botinyà Botinyà NPCNSP0
 Botjosa Botjosa NPFSG00
 Botoşani Botoşani NPCSG00
 Botswana Botswana NPFSG00
+Bottesini Bottesini NPCNSP0
 Botticelli Botticelli NPCNSP0
 Bottrop Bottrop NPCSG00
 Bou Bou NPCNSP0
