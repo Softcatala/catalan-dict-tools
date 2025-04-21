@@ -17459,6 +17459,7 @@ intemptable=categories: A;fonts: LT;
 intencional=categories: A;fonts: LT;
 intencionat intencionada [sup. intencionadíssim]=categories: A; font:apertium;
 intens intensa [sup. intensíssim]=categories: A; font:apertium;
+intenset intenseta=categories: A; font:diminutiu;
 intensificable=categories: A;fonts: LT;
 intensificador intensificadora=categories: A;fonts: LT;
 intensional=categories: A;fonts: LT;

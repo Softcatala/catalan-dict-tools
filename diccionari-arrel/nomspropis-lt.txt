@@ -15386,6 +15386,7 @@ Mandalay Mandalay NPCSG00
 Mandara Mandara NPCSG00
 Mandela Mandela NPCNSP0
 Mandelbrot Mandelbrot NPCNSP0
+Mandelstam Mandelstam NPCNSP0
 Mandiana Mandiana NPCSG00
 Mandoni Mandoni NPMSSP0 # avl: noms de persona
 Mandrès Mandrès NPCNSP0

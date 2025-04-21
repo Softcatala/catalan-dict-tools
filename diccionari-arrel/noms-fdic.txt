@@ -8897,6 +8897,7 @@ autotomia=categories: F;fonts: LT;
 autotomografia=categories: F;fonts: dsalut;
 autotopoagnòsia=categories: F;fonts: LT;
 autotorsió=categories: F;fonts: LT;
+autotortura=categories: F;fonts: derivat;
 autotoxicosi=categories: F;fonts: dsalut;
 autotoxina=categories: F;fonts: dsalut;
 autotoxèmia=categories: F;fonts: dsalut;
