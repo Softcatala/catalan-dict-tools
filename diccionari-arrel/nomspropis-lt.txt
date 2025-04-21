@@ -27088,6 +27088,7 @@ Wittenberg Wittenberg NPCSG00
 Wittgenstein Wittgenstein NPCNSP0
 Witwatersrand Witwatersrand NPCSG00
 Wojtyla Wojtyla NPCNSP0
+Wojtyła Wojtyła NPCNSP0
 Woking Woking NPCSG00
 Wolfenbüttel Wolfenbüttel NPCSG00
 Wolff Wolff NPCNSP0
