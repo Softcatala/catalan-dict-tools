@@ -21741,6 +21741,7 @@ Roraima Roraima NPCSG00
 Rorschach Rorschach NPCNSP0 # medical
 Rorty Rorty NPCNSP0
 Ros Ros NPCNSP0
+Ros-Marbà Ros-Marbà NPCNSP0
 Rosa Rosa NPCNSP0
 Rosa Rosa NPFSSP0
 Rosal Rosal NPCNSP0
