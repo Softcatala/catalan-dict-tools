@@ -28539,6 +28539,7 @@ encativador=categories: MS;fonts: LT;
 encativament=categories: M;fonts: LT;
 encauament=categories: M;fonts: LT;
 encauma=categories: M;fonts: LT;
+encausament=categories: M;fonts: derivat;
 encavalcament=categories: M;fonts: LT;
 encavallada=categories: F;fonts: LT;
 encavallament=categories: M;fonts: LT;
