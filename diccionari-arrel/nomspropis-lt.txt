@@ -12097,6 +12097,7 @@ H&S H&S NPCNO00
 HAL HAL NPMSSP0
 HEC HEC NPFSO00 # HEC Paris
 Haab Haab NPCNSP0 # medical
+Haakon Haakon NPMSSP0
 Haapsalu Haapsalu NPCSG00
 Haarlem Haarlem NPCSG00
 Haarlemmermeer Haarlemmermeer NPCSG00
