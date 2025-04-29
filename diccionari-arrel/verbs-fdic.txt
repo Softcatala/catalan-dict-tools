@@ -8651,6 +8651,7 @@ reencaixar=categories: V;model:cantar;fonts: derivat;
 reencaminar=categories: V;model:abominar;fonts: LT;
 reencarnar=categories: V;model:cantar;fonts: LT;
 reencunyar=categories: V;model:cantar;fonts: LT;
+reenergitzar=categories: V;model:cantar;fonts: derivat;
 reenfocar=categories: V;model:trencar;fonts: derivat;
 reenganxar=categories: V;model:cantar;fonts: LT;
 reenterrar=categories: V;model:cantar;fonts: LT;
