@@ -52591,6 +52591,7 @@ mega=categories: M;fonts: esadir, reduccio;
 megaal·lucinogen=categories: M;fonts: dsalut;
 megaassaig=categories: M;fonts: dsalut;
 megabacteri=categories: M;fonts: dsalut;
+megabateria=categories: F;fonts: derivat;
 megabit=categories: M;fonts: LT;
 megabyte=categories: M;fonts: LT;
 megacaliciosi=categories: F;fonts: LT;
