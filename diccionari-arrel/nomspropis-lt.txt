@@ -14048,6 +14048,7 @@ Lamberts Lambert NPMPSP0
 Lambeth Lambeth NPCSG00
 Lambán Lambán NPCNSP0
 Lamic Lamic NPCNSP0
+Lamine Lamine NPMSSP0
 Lamolla Lamolla NPCNSP0
 Lampedusa Lampedusa NPCSG00
 Lampung Lampung NPCSG00
