@@ -2178,6 +2178,7 @@ antianglès antianglesa=categories: A;fonts: derivat;
 antianorèctic antianorèctica=categories: A;fonts: LT;
 antiansietat=categories: AI;fonts: dsalut;
 antianèmic antianèmica=categories: A;fonts: dsalut;
+antiapagades=categories: AI;fonts: derivat;
 antiapartheid=categories: AI;fonts: LT;
 antiapoplèctic antiapoplèctica=categories: A;fonts: LT;
 antiariet=categories: AI;fonts: LT;

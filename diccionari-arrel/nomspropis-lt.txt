@@ -4944,6 +4944,7 @@ Brossosa Brossosa NPCNSP0
 Brotons Brotons NPCNSP0
 Brotó Brotó NPCNSP0
 Brouardel Brouardel NPCNSP0 # medical
+Brouwer Brouwer NPCNSP0
 Brown Brown NPCNSP0
 Brown-Séquard Brown-Séquard NPCNSP0 # medical
 Browning Browning NPCNSP0
@@ -7938,6 +7939,7 @@ Darnís Darnís NPCNSP0
 Daroca Daroca NPCSG00
 Daroquí Daroquí NPCNSP0
 Dartmoor Dartmoor NPCSG00
+Dartmouth Dartmouth NPCSG00
 Darwin Darwin NPCSG00
 Darwin Darwin NPMPSP0
 Darwin Darwin NPMSSP0
@@ -12429,6 +12431,7 @@ Hilarions Hilarió NPMPSP0
 Hilaris Hilari NPMPSP0
 Hilarió Hilarió NPMSSP0
 Hilary Hilary NPFSSP0
+Hilbert Hilbert NPCNSP0
 Hilbert Hilbert NPMSSP0 # avl: noms de persona
 Hilda Hilda NPFSSP0
 Hildebert Hildebert NPMSSP0
