@@ -1,5 +1,6 @@
 #aguar=categories: V;model:aguar;fonts:LT #antic i dialectal, crea confusions
 #ahuixar=categories: V;model:cantar;fonts: només DCVB, resta -> aüixar
+#almivarar=categories: V;model:cantar;fonts:termcat; #eliminat del termcat?
 #arrocar=categories: V;model:trencar;fonts:LT dialectal, i crea confusions
 #avortir=categories: V;model:servir;fonts:LT #antic
 #baiar=categories: V;model:esglaiar;fonts: LT; antic
@@ -540,7 +541,6 @@ alluentar=categories: V;model:cantar;fonts: LT;
 allunar=categories: V;model:cantar;fonts: LT;
 allunyar=categories: V;model:cantar;fonts: LT;
 almescar=categories: V;model:trencar;fonts: LT;
-almivarar=categories: V;model:cantar;fonts:termcat;
 almoinar=categories: V;model:abominar;fonts: LT;
 alquenar=categories: V;model:ofrenar;fonts: LT;
 alquilar=categories: V;model:cantar;fonts: LT;
