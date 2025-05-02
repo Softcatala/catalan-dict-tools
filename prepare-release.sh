@@ -1,4 +1,4 @@
-VERSION="9.9.9"
+VERSION="x.x.x"
 DATE=$(date "+%d/%m/%Y")
 YEAR=$(date "+%Y")
 
