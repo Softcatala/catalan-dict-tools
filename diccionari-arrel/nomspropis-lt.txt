@@ -16735,7 +16735,7 @@ Molí Molí NPMSG00
 Mombasa Mombasa NPCSG00
 Mombert Mombert NPCNSP0
 Mompou Mompou NPCNSP0
-Mompó Mompó NCNSP0
+Mompó Mompó NPCNSP0
 Monadell Monadell NPCNSP0
 Monagas Monagas NPCSG00
 Monal Monal NPCNSP0
