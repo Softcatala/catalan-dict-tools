@@ -10247,6 +10247,7 @@ electrocardiogràfic electrocardiogràfica=categories: A;fonts: dsalut;
 electrocinètic electrocinètica=categories: A;fonts: LT;
 electroconvulsiu electroconvulsiva=categories: A;fonts: termcat;
 electrocutador electrocutadora=categories: A;fonts: LT;
+electrodependent=categories: A;fonts: derivat;
 electrodinàmic electrodinàmica=categories: A;fonts: LT;
 electrodomèstic electrodomèstica=categories: A;fonts: LT;
 electroencefalogràfic electroencefalogràfica=categories: A;fonts: LT;

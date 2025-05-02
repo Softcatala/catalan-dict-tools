@@ -27140,6 +27140,7 @@ Wutongqiao Wutongqiao NPCSG00
 Wuxi Wuxi NPCSG00
 Wuxing Wuxing NPCSG00
 Wuzhou Wuzhou NPCSG00
+Wyatt Wyatt NPCNSP0
 Wye Wye NPCSG00
 Wyoming Wyoming NPCSG00
 Wílson Wílson NPMSSP0 # avl: noms de persona

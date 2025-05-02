@@ -27703,6 +27703,7 @@ electrocriptectomia=categories: F;fonts: dsalut;
 electrocromatografia=categories: F;fonts: LT;
 electrocució=categories: F;fonts: LT;
 electrocultura=categories: F;fonts: LT;
+electrodependència=categories: F;fonts: derivat;
 electrodeposició=categories: F;fonts: LT;
 electrodermàtom=categories: M;fonts: dsalut;
 electrodiafanoscopi=categories: M;fonts: dsalut;
