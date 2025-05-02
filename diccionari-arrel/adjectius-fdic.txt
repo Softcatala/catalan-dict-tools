@@ -2228,6 +2228,7 @@ antiburgès antiburgesa=categories: A;fonts: derivat;
 antiburocràtic antiburocràtica=categories: A;fonts: LT;
 antibèl·lic antibèl·lica=categories: A;fonts: LT;
 antic antiga [sup. antiquíssim]=categories: A; font:apertium;
+anticaiguda=categories: AI;fonts: derivat;
 anticalcari anticalcària=categories: A;fonts: LT;
 anticalculós anticalculosa=categories: A;fonts: dsalut;
 anticalç=categories: AI;fonts: derivat;
