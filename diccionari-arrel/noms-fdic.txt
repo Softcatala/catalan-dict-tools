@@ -51568,6 +51568,7 @@ manicurista=categories: MF;fonts: esadir;
 manidipina=categories: F;fonts: dsalut;
 manierisme=categories: M;fonts: LT;
 manierista=categories: MF;fonts: LT;
+manieta=categories: F;fonts: diminutiu;
 manifasseria=categories: F;fonts: LT;
 manifest=categories: M;fonts: LT;
 manifestació=categories: F;fonts: LT;
