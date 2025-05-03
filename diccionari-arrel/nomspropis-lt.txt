@@ -22456,6 +22456,7 @@ Samaná Samaná NPCSG00
 Samar Samar NPCSG00
 Samara Samara NPCSG00
 Samaranc Samaranc NPCNSP0
+Samaranch Samaranch NPCNSP0
 Samarcanda Samarcanda NPFSG00
 Samaria Samaria NPFSG00
 Samarinda Samarinda NPCSG00
