@@ -26219,6 +26219,7 @@ propulsiu propulsiva=categories: A;fonts: LT;
 propulsor propulsora=categories: A;fonts: LT;
 propvinent=categories: A;fonts: LT;
 propílic propílica=categories: A;fonts: LT;
+prorenovables=categories: AI;fonts: derivat;
 prorratejable=categories: A;fonts: LT;
 prorrogable=categories: A;fonts: LT;
 prorús prorussa=categories: A;fonts: derivat;
