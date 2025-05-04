@@ -21826,6 +21826,7 @@ Rotes Rotes NPCNSP0
 Rotes Rotes NPFPG00
 Rotglà Rotglà NPCSG00
 Roth Roth NPCNSP0 # medical
+Rothbard Rothbard NPCNSP0
 Rotherham Rotherham NPCSG00
 Rothschild Rothschild NPCNSP0
 Rotlan Rotlan NPCNSP0
