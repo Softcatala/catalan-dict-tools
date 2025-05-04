@@ -20581,6 +20581,7 @@ miceliat miceliada=categories: A;fonts: LT;
 miceliforme=categories: A;fonts: LT;
 micelioide=categories: A;fonts: LT;
 micelià miceliana=categories: A;fonts: LT;
+micel·lar=categories: A;fonts: termcat;
 micetogènic micetogènica=categories: A;fonts: dsalut;
 micmac=categories: A;fonts: LT;
 micobacterià micobacteriana=categories: A;fonts: dsalut;
