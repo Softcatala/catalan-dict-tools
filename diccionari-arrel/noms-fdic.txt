@@ -76728,6 +76728,7 @@ sirenomèlia=categories: F;fonts: dsalut;
 sirga=categories: F;fonts: LT;
 sirgador sirgadora=categories: MF;fonts: LT;
 siri=categories: M;fonts: LT;
+sirianització=categories: MS;fonts: derivat;
 siriasi=categories: F;fonts: dsalut;
 siriclòs=categories: M;fonts: LT;
 sirigme=categories: M;fonts: dsalut;
