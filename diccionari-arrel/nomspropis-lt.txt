@@ -10501,6 +10501,7 @@ Frescobaldi Frescobaldi NPCNSP0
 Freser Freser NPCNSP0
 Freser Freser NPMSG00
 Fresina Fresina NPFSSP0 # avl: noms de persona
+Fresnel Fresnel NPCNSP0
 Fresnillo Fresnillo NPCSG00
 Fresno Fresno NPCSG00
 Freud Freud NPCNSP0
@@ -22164,6 +22165,7 @@ Sageta Sageta NPCNSP0
 Sageta Sageta NPFSG00
 Saginer Saginer NPCNSP0
 Sagitari Sagitari NPMSG00
+Sagnac Sagnac NPCNSP0
 Sagnari Sagnari NPCSG00
 Sagol Sagol NPCNSP0
 Sagra Sagra NPFSG00
