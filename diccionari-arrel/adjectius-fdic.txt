@@ -21980,6 +21980,7 @@ neonatal=categories: A;fonts: LT;
 neonazi=categories: A;fonts: LT;
 neoorientalista=categories: A;fonts: derivat;
 neopagà neopagana=categories: A;fonts: DDLC;
+neopedagògic neopedagògica=categories: A;fonts: derivat;
 neopitagòric neopitagòrica=categories: A;fonts: LT;
 neoplasticista=categories: A;fonts: LT;
 neoplatònic neoplatònica=categories: A;fonts: LT;

@@ -76629,6 +76629,7 @@ sinodal=categories: F;fonts: LT;
 sinodòntid=categories: M;fonts: LT;
 sinofrídia=categories: F;fonts: dsalut;
 sinoftàlmia=categories: F;fonts: dsalut;
+sinofuturisme=categories: M;fonts: derivat;
 sinografia=categories: F;fonts: dsalut;
 sinologia=categories: F;fonts: LT;
 sinonímia=categories: F;fonts: LT;
