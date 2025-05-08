@@ -37695,6 +37695,7 @@ fovèola=categories: F;fonts: LT;
 fox-terrier=categories: M;fonts: DNV;
 fox=categories: M;fonts: LT;
 foxtrot=categories: M;fonts: LT;
+foyer=categories: M;fonts: francès;
 fra=categories: MS;fonts: LT;
 frac=categories: M;fonts: LT;
 fraccionament=categories: M;fonts: LT;
