@@ -76627,6 +76627,7 @@ sinització=categories: F;fonts: LT;
 sinizesi=categories: F;fonts: LT;
 sinneurosi=categories: F;fonts: LT;
 sinodal=categories: F;fonts: LT;
+sinodalitat=categories: F;fonts: GEC;
 sinodòntid=categories: M;fonts: LT;
 sinofrídia=categories: F;fonts: dsalut;
 sinoftàlmia=categories: F;fonts: dsalut;
