@@ -8514,6 +8514,7 @@ Dušanbe Dušanbe NPCSG00
 Dvorák Dvorák NPCNSP0
 Dvořák Dvořák NPCNSP0
 Dwalin Dwalin NPMSSP0
+Dwight Dwight NPCNSP0
 Dyfed Dyfed NPCSG00
 Dylan Dylan NPCNSP0
 Dzeržinsk Dzeržinsk NPCSG00
@@ -12133,6 +12134,7 @@ Halberstadt Halberstadt NPCSG00
 Haldane Haldane NPCNSP0 # medical
 Halef Halef NPMSSP0 # avl: noms de persona
 Halesowen Halesowen NPCSG00
+Halffter Halffter NPCNSP0
 Halifax Halifax NPCSG00
 Hallervorden-Spatz Hallervorden-Spatz NPCNSP0 # medical
 Halley Halley NPCNSP0
