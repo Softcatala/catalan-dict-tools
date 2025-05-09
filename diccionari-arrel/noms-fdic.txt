@@ -21146,6 +21146,7 @@ correntòmetre=categories: M;fonts: LT;
 corrença=categories: F;fonts: LT;
 correpetidor correpetidora=categories: MF;fonts termcat;
 correpressor=categories: M;fonts: LT;
+correquisit=categories: M;fonts: termcat;
 correra=categories: F;fonts: LT;
 correspondència=categories: F;fonts: LT;
 corresponent=categories: MF;fonts: LT;

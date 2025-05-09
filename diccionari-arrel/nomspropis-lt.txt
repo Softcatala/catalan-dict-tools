@@ -22878,6 +22878,7 @@ Schumann Schumann NPCNSP0
 Schumpeter Schumpeter NPCNSP0
 Schuschnigg Schuschnigg NPCNSP0
 Schuster Schuster NPCNSP0
+Schwab Schwab NPCNSP0
 Schwann Schwann NPCNSP0 # medical
 Schwartz Schwartz NPCNSP0
 Schwartz-Bartter Schwartz-Bartter NPCNSP0 # medical
