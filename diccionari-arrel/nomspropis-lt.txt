@@ -8275,6 +8275,7 @@ Doel Doel NPCSG00
 Doetinchem Doetinchem NPCSG00
 Dofí Dofí NPMSG00
 Doha Doha NPCSG00
+Doherty Doherty NPCNSP0
 Dohna Dohna NPCNSP0
 Dohnányi Dohnányi NPCNSP0
 Dois Dois NPCNSP0
