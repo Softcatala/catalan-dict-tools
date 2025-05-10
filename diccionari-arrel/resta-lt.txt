@@ -791,6 +791,10 @@ quants quant DI0MP0
 quants quant PI0MP000
 quants quants DT0MP0
 quants quants PT0MP000
+quantíssim quantíssim DE0MS0
+quantíssima quantíssim DE0FS0
+quantíssimes quantíssim DE0FP0
+quantíssims quantíssim DE0MP0
 quaranta quaranta DN0CP0
 quaranta-cinc quaranta-cinc DN0CP0
 quaranta-dos quaranta-dos DN0MP0
