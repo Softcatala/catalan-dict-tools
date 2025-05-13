@@ -47990,6 +47990,7 @@ kubisagaru=categories: M;fonts: dsalut;
 kufia=categories: F;fonts: LT;
 kulak=categories: M;fonts: LT;
 kumbaià [pl. kumbaiàs]=categories: MF;fonts: LT;
+kundaliní=categories: FS;fonts: termcat;
 kungfu=categories: M;fonts: LT;
 kungurià=categories: M;fonts: LT;
 kunzita=categories: F;fonts: LT;
