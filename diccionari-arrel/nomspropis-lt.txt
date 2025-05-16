@@ -5630,6 +5630,7 @@ Camps Camps NPCNSP0
 Camps Camps NPMPG00
 Campsaulina Campsaulina NPCNSP0
 Campsentelles Campsentelles NPCSG00
+Campuzano Campuzano NPCNSP0
 Campvern Campvern NPCNSP0
 Campà Campà NPCNSP0
 Campània Campània NPFSG00
