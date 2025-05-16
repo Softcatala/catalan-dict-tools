@@ -14,5 +14,5 @@ To make a release:
 
 * set the version to not include `SNAPSHOT`
 * `mvn clean deploy -P release`
-* go to https://oss.sonatype.org/#stagingRepositories
-* scroll to the bottom, select latest version, and click `Release`
+* go to https://central.sonatype.com/publishing/deployments
+* select the deployment, and click `Publish`
