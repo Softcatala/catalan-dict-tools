@@ -5151,6 +5151,7 @@ bonifaci bonifàcia=categories: A;fonts: LT;
 bonificable=categories: A;fonts: dfrequencies;
 bonificador bonificadora=categories: A;fonts: dfrequencies;
 boniquet -a=categories: AA;fonts: derivat;
+bonista=categories: A;fonts: derivat;
 bonmatinenc bonmatinenca=categories: A;fonts: LT;
 bonrepostí bonrepostina=categories: A;fonts: LT;
 bonreposí bonreposina=categories: A;fonts: LT;
