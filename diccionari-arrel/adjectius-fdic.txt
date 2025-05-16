@@ -15543,6 +15543,7 @@ hipervegetatiu hipervegetativa=categories: A;fonts: dsalut;
 hiperveloç=categories: A;fonts: derivat;
 hiperventilat -ada=categories: A;fonts: LT;
 hipervigilant=categories: A;fonts: derivat;
+hipervisible=categories: A;fonts: derivat;
 hipervolèmic hipervolèmica=categories: A;fonts: dsalut;
 hiperàcid hiperàcida=categories: A;fonts: derivat;
 hiperàrid hiperàrida=categories: A;fonts: derivat;

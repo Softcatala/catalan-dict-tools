@@ -43897,6 +43897,7 @@ hipervelocitat=categories: F;fonts: derivat;
 hiperventilació=categories: F;fonts: LT;
 hipervigilància=categories: F;fonts: dsalut;
 hiperviscositat=categories: F;fonts: dsalut;
+hipervisibilitat=categories: F;fonts: LT;
 hipervisor=categories: M; fonts: termcat;
 hipervitaminosi=categories: F;fonts: LT;
 hipervolum=categories: M;fonts: derivat;
