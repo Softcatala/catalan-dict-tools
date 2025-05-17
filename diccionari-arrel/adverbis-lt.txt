@@ -249,6 +249,7 @@ presto presto RG
 primer primer RG
 prompte prompte RG
 prop prop RG
+propet propet RG
 prou prou RG
 pus pus RG
 pàssim pàssim RG

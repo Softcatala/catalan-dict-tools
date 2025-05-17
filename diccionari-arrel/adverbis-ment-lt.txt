@@ -24,6 +24,7 @@ abrivadament abrivadament RG
 abruptament abruptament RG
 abrusadorament abrusadorament RG # extrets de corpus
 absolutament absolutament RG
+absolutíssimament absolutíssimament RG
 absorbentment absorbentment RG # extrets de corpus
 abstinentment abstinentment RG
 abstractament abstractament RG
@@ -32,13 +33,16 @@ abstretament abstretament RG
 abstrusament abstrusament RG
 absurdament absurdament RG
 abundantment abundantment RG
+abundantíssimament abundantíssimament RG
 abundosament abundosament RG
+abundosíssimament abundosíssimament RG
 aburgesadament aburgesadament RG
 abusivament abusivament RG
 abúlicament abúlicament RG # extrets de corpus
 acabadament acabadament RG
 acadèmicament acadèmicament RG
 acaloradament acaloradament RG
+acaloradíssimament acaloradíssimament RG
 acariciadorament acariciadorament RG # extrets de corpus
 acarnissadament acarnissadament RG # extrets de corpus
 acaronadorament acaronadorament RG # extrets de corpus
@@ -130,6 +134,7 @@ agnatíciament agnatíciament RG # extrets de corpus
 agosaradament agosaradament RG
 agradablement agradablement RG
 agradosament agradosament RG
+agradosíssimament agradosíssimament RG
 agrament agrament RG
 agraïdament agraïdament RG
 agregadament agregadament RG # extrets de corpus
@@ -138,6 +143,7 @@ agronòmicament agronòmicament RG # extrets de corpus
 agrícolament agrícolament RG # extrets de corpus
 agudament agudament RG
 aguditzadament aguditzadament RG # extrets de corpus
+agudíssimament agudíssimament RG
 agònicament agònicament RG # extrets de corpus
 airosament airosament RG
 ajornadament ajornadament RG # extrets de corpus
@@ -835,6 +841,7 @@ corpòriament corpòriament RG
 correccionalment correccionalment RG
 correctament correctament RG
 correctivament correctivament RG # extrets de corpus
+correctíssimament correctíssimament RG
 correlativament correlativament RG
 correntment correntment RG
 corresponentment corresponentment RG
@@ -871,6 +878,7 @@ cronomètricament cronomètricament RG
 cruament cruament RG
 crucialment crucialment RG # extrets de corpus
 cruelment cruelment RG
+cruelíssimament cruelíssimament RG
 cruentament cruentament RG
 crèdulament crèdulament RG
 crípticament crípticament RG # extrets de corpus
@@ -887,6 +895,7 @@ culturalment culturalment RG
 cumulativament cumulativament RG
 curialment curialment RG
 curiosament curiosament RG
+curiosíssimament curiosíssimament RG
 curosament curosament RG
 curtament curtament RG
 curullament curullament RG # extrets de corpus
@@ -1140,6 +1149,7 @@ detonantment detonantment RG # extrets de corpus
 deturadament deturadament RG # extrets de corpus
 devastadorament devastadorament RG # extrets de corpus
 devotament devotament RG
+devotíssimament devotíssimament RG
 diabòlicament diabòlicament RG
 diacrònicament diacrònicament RG # extrets de corpus
 diagonalment diagonalment RG
@@ -1161,6 +1171,7 @@ difícilment difícilment RG
 digestivament digestivament RG # extrets de corpus
 digitalment digitalment RG
 dignament dignament RG
+digníssimament digníssimament RG
 dilatadament dilatadament RG
 diligentment diligentment RG
 diluïdament diluïdament RG # extrets de corpus
@@ -1229,6 +1240,7 @@ dogmàticament dogmàticament RG
 dolgudament dolgudament RG # extrets de corpus
 doloridament doloridament RG # extrets de corpus
 dolorosament dolorosament RG
+dolorosíssimament dolorosíssimament RG
 dolosament dolosament RG
 dolçament dolçament RG
 domiciliàriament domiciliàriament RG # extrets de corpus
@@ -1589,6 +1601,7 @@ estremidament estremidament RG # extrets de corpus
 estremidorament estremidorament RG # extrets de corpus
 estrepitosament estrepitosament RG
 estretament estretament RG
+estretíssimament estretíssimament RG
 estrictament estrictament RG
 estridentment estridentment RG
 estroncadament estroncadament RG
@@ -2907,6 +2920,7 @@ mnemotècnicament mnemotècnicament RG # extrets de corpus
 mobilitzadorament mobilitzadorament RG # extrets de corpus
 moderadament moderadament RG
 modernament modernament RG
+moderníssimament moderníssimament RG
 modestament modestament RG
 modèlicament modèlicament RG
 moixament moixament RG

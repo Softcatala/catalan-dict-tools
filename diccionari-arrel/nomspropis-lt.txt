@@ -13234,6 +13234,7 @@ Jesuald Jesuald NPMSSP0 # avl: noms de persona
 Jesualda Jesualda NPFSSP0 # avl: noms de persona
 Jesucrist Jesucrist NPMSSP0
 Jesusa Jesusa NPFSSP0 # avl: noms de persona
+Jesuset Jesuset NPMSSP0
 Jesús Jesús NPMSSP0
 Jevons Jevons NPCNSP0
 Jevpatorija Jevpatorija NPCSG00
