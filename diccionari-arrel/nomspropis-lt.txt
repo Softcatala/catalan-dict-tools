@@ -26907,6 +26907,7 @@ Wakhan Wakhan NPCSG00
 Walcheren Walcheren NPCSG00
 Wald Wald NPMSSP0 # avl: noms de persona
 Walda Walda NPFSSP0 # avl: noms de persona
+Walden Walden NPCNSP0
 Waldenströn Waldenströn NPCNSP0
 Waldenströn Waldenströn NPCNSP0 # medical
 Waldorf Waldorf NPCNSP0

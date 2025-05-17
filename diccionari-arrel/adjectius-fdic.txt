@@ -17677,6 +17677,7 @@ interparroquial=categories: A;fonts: derivat;
 interpedicular=categories: A;fonts: dsalut;
 interpeduncular=categories: A;fonts: dsalut;
 interpelviabdominal=categories: A;fonts: dsalut;
+interpel·lador interpel·ladora=categories: A;fonts: derivat;
 interpel·lant=categories: A;fonts: LT;
 interpersonal=categories: A;fonts: LT;
 interpial=categories: A;fonts: dsalut;
