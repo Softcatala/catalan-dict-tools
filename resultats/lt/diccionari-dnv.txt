@@ -10123,8 +10123,6 @@ blandonera blandonera NCFS000
 blandoneres blandonera NCFP000
 blandons blandó NCMP000
 blandó blandó NCMS000
-blanquejament blanquejament NCMS000
-blanquejaments blanquejament NCMP000
 blanquissal blanquissal NCMS000
 blanquissals blanquissal NCMP000
 blanquissar blanquissar NCMS000

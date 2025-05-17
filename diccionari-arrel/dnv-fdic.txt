@@ -552,7 +552,6 @@ bitzoc -a=categories: MF;fonts: DNV;
 blair=categories: V;model:traduir;fonts: DNV;
 blandonera=categories: F;fonts: DNV;
 blandó=categories: M;fonts: DNV;
-blanquejament=categories: M;fonts: DNV;
 blanquissal=categories: M;fonts: DNV;
 blanquissar=categories: M;fonts: DNV;
 blasonador -a=categories: A;fonts: DNV;
