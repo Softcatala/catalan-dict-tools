@@ -6499,6 +6499,7 @@ central=categories: A;fonts: LT;
 centralista=categories: A;fonts: LT;
 centralitzable=categories: A;fonts: LT;
 centralitzador centralitzadora=categories: A;fonts: LT;
+centrat centrada [sup. centradíssim]=categories: A;fonts: derivat,participi;
 centreafricà centreafricana=categories: A;fonts: LT;
 centreamericà centreamericana=categories: A;fonts: LT;
 centreasiàtic centreasiàtica=categories: A;fonts: LT;
