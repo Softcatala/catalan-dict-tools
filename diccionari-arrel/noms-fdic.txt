@@ -86707,6 +86707,7 @@ winterització=categories: F;fonts: LT;
 wisterina=categories: FS;fonts: dsalut;
 witherita=categories: F;fonts: LT;
 wok=categories: M;fonts: LT;
+woke=categories: MF;fonts: english;
 wokisme=categories: MS;fonts: derivat;
 wolfram=categories: M;fonts: LT;
 wolframat=categories: M;fonts: LT;

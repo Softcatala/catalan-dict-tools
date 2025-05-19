@@ -33648,6 +33648,7 @@ wikipedista=categories: A;fonts: derivat;
 wiltonià wiltoniana=categories: A;fonts: LT;
 wittgensteinià wittgensteiniana=categories: A;fonts: derivat;
 woke=categories: AI;fonts: English;
+wokista=categories: A;fonts: derivat;
 wolffià wolffiana=categories: A;fonts: dsalut;
 wolfràmic wolfràmica=categories: A;fonts: LT;
 wolhynià wolhyniana=categories: A;fonts: dsalut;
