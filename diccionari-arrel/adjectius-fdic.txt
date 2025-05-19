@@ -24840,6 +24840,7 @@ plegat plegada=categories: A;fonts: LT;
 pleinairista=categories: A;fonts: LT;
 plenari plenària=categories: A;fonts: LT;
 plener plenera=categories: A;fonts: LT;
+plenet pleneta=categories: A;fonts: diminutiu;
 plenilunar=categories: A;fonts: LT;
 plenipotenciari plenipotenciària=categories: A;fonts: LT;
 pleocariocític pleocariocítica=categories: A;fonts: dsalut;
