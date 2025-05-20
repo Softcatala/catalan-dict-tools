@@ -266,6 +266,7 @@ APM APM NPMSO00
 ARRO ARRO NPCNO00
 ATC ATC NPFSO00
 ATM ATM NPFSO00
+AVAMET AVAMET NPFSO00
 AVE AVE NPMNO00
 AVL AVL NPFSO00
 Aalborg Aalborg NPCSG00
@@ -4595,6 +4596,7 @@ Bonthe Bonthe NPCSG00
 Bonveí Bonveí NPCNSP0
 Bonàs Bonàs NPCNSP0
 Boné Boné NPCNSP0
+Boole Boole NPCNSP0
 Boosaaso Boosaaso NPCSG00
 Boothia Boothia NPCSG00
 Bootle Bootle NPCSG00
@@ -14429,6 +14431,7 @@ Lisch Lisch NPCNSP0 # medical
 Lisfranc Lisfranc NPCNSP0 # medical
 Lisieux Lisieux NPCSG00
 Lisip Lisip NPMSSP0 # avl: noms de persona
+Lissenko Lissenko NPCNSP0
 Lissone Lissone NPCSG00
 Liszt Liszt NPCNSP0
 Lisímac Lisímac NPMSSP0 # avl: noms de persona
@@ -15593,6 +15596,7 @@ Margançol Margançol NPMSG00
 Margarida Margarida NPCSG00
 Margarida Margarida NPFSSP0
 Margarides Margarida NPFPSP0
+Margarideta Margarideta NPFSSP0
 Margarit Margarit NPCNSP0
 Margate Margate NPCSG00
 Margelí Margelí NPCNSP0
