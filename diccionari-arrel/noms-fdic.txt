@@ -60334,6 +60334,7 @@ ordinograma=categories: M;fonts: LT;
 ordinès ordinesa=categories: MF;fonts: LT;
 ordissatge=categories: M;fonts: LT;
 ordit=categories: M;fonts: LT;
+ordoliberalisme=categories: M;fonts: wiki;
 ordovicià=categories: M;fonts: LT;
 ordovícic=categories: M;fonts: LT;
 ordre1=categories: F;fonts: LT;

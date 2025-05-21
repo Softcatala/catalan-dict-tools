@@ -8292,6 +8292,7 @@ Dole Dole NPCSG00
 Dolgoprudnyj Dolgoprudnyj NPCSG00
 Dolgoruki Dolgoruki NPCNSP0
 Dollond Dollond NPCNSP0
+Dolly Dolly NPCNSP0
 Dolomites Dolomites NPFPG00
 Dolores Dolores NPCSG00
 Dolors Dolors NPCNSP0

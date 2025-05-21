@@ -23019,6 +23019,7 @@ ordinatiu ordinativa=categories: A;fonts: LT;
 ordinenc ordinenca=categories: A;fonts: LT;
 ordinès ordinesa=categories: A;fonts: LT;
 ordiós ordiosa=categories: A;fonts: LT;
+ordoliberal=categories: A;fonts: wiki;
 ordovicià ordoviciana=categories: A;fonts: LT;
 ordovícic ordovícica=categories: A;fonts: LT;
 orellut orelluda=categories: A;fonts: LT;
