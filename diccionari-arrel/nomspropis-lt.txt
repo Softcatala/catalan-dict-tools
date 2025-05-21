@@ -1931,6 +1931,7 @@ Annauir Annauir NPCSG00
 Annecy Annecy NPCSG00
 Annemasse Annemasse NPCSG00
 Annes Anna NPFPSP0
+Anneta Anneta NPFSSP0
 Anniston Anniston NPCSG00
 Annonay Annonay NPCSG00
 Annàs Annàs NPMSSP0 # avl: noms de persona
@@ -2005,6 +2006,7 @@ Antona Antona NPFSSP0 # avl: noms de persona
 Antonell Antonell NPCNSP0
 Antoni Antoni NPCNSP0
 Antoni Antoni NPMSSP0
+Antoniet Antoniet NPMSSP0
 Antonieta Antonieta NPFSSP0
 Antonijoan Antonijoan NPCNSP0
 Antonina Antonina NPFSSP0
@@ -13347,6 +13349,7 @@ Josefí Josefí NPMSSP0 # avl: noms de persona
 Josep Josep NPMSSP0
 Josepa Josepa NPFSSP0
 Josepes Josepa NPFPSP0
+Josepet Josepet NPMSSP0
 Josepets Josepets NPMPG00
 Joseps Josep NPMPSP0
 Josies Josies NPMSSP0 # avl: noms de persona
@@ -24784,6 +24787,7 @@ Tilburg Tilburg NPCSG00
 Tilimsen Tilimsen NPCSG00
 Tillot Tillot NPCNSP0
 Tilló Tilló NPCNSP0
+Times Times NPCNO00
 Timeu Timeu NPMSSP0 # avl: noms de persona
 Timeua Timeua NPFSSP0 # avl: noms de persona
 Timeva Timeva NPFSSP0 # avl: noms de persona
