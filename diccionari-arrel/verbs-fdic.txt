@@ -8934,6 +8934,7 @@ repolititzar=categories: V;model:cantar;fonts: derivat;
 reportar=categories: V;model:cantar;fonts: LT;
 reposar=categories: V;model:anquilosar;fonts: LT;
 reposicionar=categories: V;model:cantar;fonts: LT;
+repostar=categories: V;model:cantar;fonts: DNV,esadir;
 repotegar=categories: V;model:pregar;fonts: LT;
 repreguntar=categories: V;model:cantar;fonts: LT;
 reprendre=categories: V;model:ofendre;fonts: LT;
