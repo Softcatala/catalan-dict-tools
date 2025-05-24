@@ -57957,10 +57957,6 @@ oculat oculat AQ0MS0
 oculats oculat AQ0MP0
 ocupament ocupament NCMS000
 ocupaments ocupament NCMP000
-odontorràgia odontorràgia NCFS000
-odontorràgies odontorràgia NCFP000
-odontotècnia odontotècnia NCFS000
-odontotècnies odontotècnia NCFP000
 odorífic odorífic AQ0MS0
 odorífica odorífic AQ0FS0
 odorífics odorífic AQ0MP0
@@ -57974,16 +57970,6 @@ ofidiofòbia ofidiofòbia NCFS000
 ofidiofòbies ofidiofòbia NCFP000
 oganessons oganessó NCMP000
 oganessó oganessó NCMS000
-oleaci oleaci AQ0MS0
-oleacis oleaci AQ0MP0
-oleàcia oleaci AQ0FS0
-oleàcia oleàcia NCFS000
-oleàcies oleaci AQ0FP0
-oleàcies oleàcia NCFP000
-oliositat oliositat NCFS000
-oliositats oliositat NCFP000
-olivícola olivícola AQ0CS0
-olivícoles olivícola AQ0CP0
 olorina olorina NCFS000
 olorines olorina NCFP000
 omagra omagra NCFS000
