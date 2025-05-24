@@ -20345,6 +20345,7 @@ contraalisis=categories: MP;fonts: LT;
 contraalmirall=categories: M;fonts: LT;
 contraalmirallessa=categories: F;fonts: LT;
 contraantena=categories: F;fonts: LT;
+contraanàlisi=categories: F;fonts: DNV;
 contraargument=categories: M;fonts: LT;
 contraargumentació=categories: F;fonts: LT;
 contraassegurança=categories: F;fonts: LT;

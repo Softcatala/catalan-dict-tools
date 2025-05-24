@@ -1049,7 +1049,6 @@ contentar=categories: V;model:cantar;fonts: DNV;
 contertuli contertúlia=categories: MF;fonts: DNV;
 contraaleta=categories: F;fonts: DNV;
 contraamura=categories: F;fonts: DNV;
-contraanàlisi=categories: F;fonts: DNV;
 contrabalanceig=categories: M;fonts: DNV;
 contrabalancejar=categories: V;model:envejar;fonts: DNV;
 contrabandejar=categories: V;model:envejar;fonts: DNV;
