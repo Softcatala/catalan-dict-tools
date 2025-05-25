@@ -13781,6 +13781,7 @@ Klamath Klamath NPCSG00
 Klee Klee NPCNSP0
 Kleine-Levin Kleine-Levin NPCNSP0 # medical
 Kleist Kleist NPCNSP0
+Klemperer Klemperer NPCNSP0
 Klenow Klenow NPCNSP0 # medical
 Klimt Klimt NPCNSP0
 Klinefelter Klinefelter NPCNSP0 # medical
@@ -13958,6 +13959,7 @@ Kíiv Kíiv NPCSG00
 Kórsakov Kórsakov NPCNSP0 # medical
 Köebner Köebner NPCNSP0 # medical
 Königsberg Königsberg NPCSG00
+Königshütte Königshütte NPCSG00
 Kültepe Kültepe NPCSG00
 Kütahya Kütahya NPCSG00
 Kābul Kābul NPCSG00
