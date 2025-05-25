@@ -6732,6 +6732,7 @@ Ciríaca Ciríaca NPFSSP0
 Ciríacs Ciríac NPMPSP0
 Ciríaques Ciríaca NPFPSP0
 Ciscle Ciscle NPCNSP0
+Ciset Ciset NPMSSP0
 Cisjordània Cisjordània NPFSG00
 Cisneros Cisneros NPCNSP0
 Cisquella Cisquella NPCNSP0
@@ -17578,6 +17579,7 @@ Narbonès Narbonès NPMSG00
 Narcea Narcea NPCSG00
 Narcisa Narcisa NPFSSP0
 Narcises Narcisa NPFPSP0
+Narciset Narciset NPMSSP0
 Narcisos Narcís NPMPSP0
 Narcís Narcís NPMSSP0
 Nard Nard NPCNSP0
