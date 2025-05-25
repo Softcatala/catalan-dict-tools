@@ -85791,6 +85791,7 @@ vestibulopatia=categories: F;fonts: dsalut;
 vestibuloplàstia=categories: F;fonts: dsalut;
 vestibulotomia=categories: F;fonts: dsalut;
 vestició=categories: F;fonts: LT;
+vestidet=categories: M;fonts: diminutiu;
 vestidor=categories: M;fonts: LT;
 vestidura=categories: F;fonts: LT;
 vestigi=categories: M;fonts: LT;

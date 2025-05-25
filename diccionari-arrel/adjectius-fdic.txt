@@ -7107,6 +7107,7 @@ coital=categories: A;fonts: LT;
 coitocentrista=categories: A;fonts: derivat;
 coix coixa=categories: A;fonts: LT;
 coixenc coixenca=categories: A;fonts: LT;
+coixet coixeta=categories: A;fonts: diminutiu;
 coladís coladissa=categories: A;fonts: LT;
 colagog colagoga=categories: A;fonts: LT;
 colangiocel·lular=categories: A;fonts: dsalut;

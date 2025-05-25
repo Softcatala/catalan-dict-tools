@@ -770,6 +770,7 @@ Ainara Ainara NPFSSP0
 Aines Aina NPFPSP0
 Ainet Ainet NPCSG00
 Ainet Ainet NPFSSP0
+Aineta Aineta NPFSSP0
 Aineto Aineto NPCSG00
 Ainhoa Ainhoa NPFSSP0
 Ainoa Ainoa NPFSSP0
@@ -6684,6 +6685,8 @@ Cinquers Cinquers NPCNSP0
 Cinqueta Cinqueta NPMSG00
 Cinta Cinta NPFSSP0
 Cintes Cinta NPFPSP0
+Cintet Cintet NPMSSP0
+Cinteta Cinteta NPFSSP0
 Cinto Cinto NPMSSP0
 Cinyana Cinyana NPMSG00
 Ciociaria Ciociaria NPCSG00
@@ -27253,6 +27256,8 @@ Xerta Xerta NPCNSP0
 Xerta Xerta NPFSG00
 Xertó Xertó NPCNSP0
 Xerxes Xerxes NPMSSP0
+Xesc Xesc NPMSSP0
+Xesca Xesca NPFSSP0
 Xesco Xesco NPMSSP0
 Xeta Xeta NPCSG00
 Xevtxuk Xevtxuk NPMSSP0
