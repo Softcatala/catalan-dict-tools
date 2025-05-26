@@ -6976,6 +6976,7 @@ Cohn-Bendit Cohn-Bendit NPCNSP0
 Cohèlet Cohèlet NPMSO00
 Coimbatore Coimbatore NPCSG00
 Cointreau Cointreau NPMNO00
+Coixet Coixet NPCNSP0
 Coixós Coixós NPCSG00
 Colapinto Colapinto NPCNSP0 # medical
 Colata Colata NPCSG00
@@ -27183,6 +27184,7 @@ Włocławek Włocławek NPCSG00
 Wŏnju Wŏnju NPCSG00
 Wŏnsan Wŏnsan NPCSG00
 X-Men X-Men NPCNO00
+XESC XESC NPFSO00
 Xacarelleta Xacarelleta NPCSG00
 Xafart Xafart NPCNSP0
 Xafes Xafes NPCNSP0
