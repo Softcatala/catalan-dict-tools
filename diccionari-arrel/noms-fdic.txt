@@ -55159,6 +55159,7 @@ minyonada=categories: F;fonts: LT;
 minyoneria=categories: F;fonts: LT;
 minyonesa=categories: F;fonts: LT;
 minyonet=categories: M;fonts: LT;
+minyoneta=categories: F;fonts: diminutiu;
 minyonia=categories: F;fonts: LT;
 minyó minyona=categories: MF;fonts LT;
 minà [pl. minàs]=categories: M;fonts: LT;

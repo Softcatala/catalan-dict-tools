@@ -4219,6 +4219,7 @@ baixkirià baixkiriana=categories: A;fonts: LT;
 baixllatí baixllatina=categories: A;fonts: LT;
 baixmedieval=categories: A;fonts: LT;
 baixnavarrès baixnavarresa=categories: A;fonts: LT;
+baixotet baixoteta=categories: AA;fonts: diminutiu;
 bajocià bajociana=categories: A;fonts: LT;
 bajà bajana=categories: A;fonts: LT;
 bakuninista=categories: A;fonts: LT;
