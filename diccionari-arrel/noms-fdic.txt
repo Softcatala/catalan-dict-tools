@@ -85774,6 +85774,7 @@ vespista=categories: MF;fonts: LT;
 vespra=categories: F;fonts: LT;
 vesprada=categories: F;fonts: LT;
 vespre=categories: M;fonts: LT;
+vespreig=categories: MS;fonts: termcat, esadir; #esadir també tardeig
 vesquercí=categories: M;fonts: LT;
 vessa=categories: FS;fonts: DNV;
 vessada=categories: F;fonts: LT;
