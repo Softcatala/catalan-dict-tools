@@ -1143,6 +1143,7 @@ automarginat -ada=categories: A;fonts: DNV;
 automarginat -ada=categories: MF;fonts: DNV;
 automatitzar=categories: V;model:cantar;fonts: LT;
 automedicar=categories: V;model:trencar;fonts: LT;
+automillorar=categories: V;model:cantar;fonts: derivat;
 automutilar=categories: V;model:cantar;fonts: LT;
 autoproclamar=categories: V;model:cantar;fonts: LT;
 autopublicar=categories: V;model:trencar;fonts: derivat;
