@@ -1937,6 +1937,7 @@ Anniston Anniston NPCSG00
 Annonay Annonay NPCSG00
 Annàs Annàs NPMSSP0 # avl: noms de persona
 Anníbal Anníbal NPMSSP0
+Anoeta Anoeta NPMSG00
 Anoia Anoia NPCSG00
 Anoll Anoll NPCNSP0
 Anonai Anonai NPCSG00
@@ -7821,6 +7822,7 @@ D'Artagnan D'Artagnan NPMSSP0
 DCVB DCVB NPMSO00
 DEIEC DEIEC NPMSO00
 DGAIA DGAIA NPFSO00
+DGPPIA DGPPIA NPFSO00
 DGT DGT NPFSO00
 DIEC DIEC NPMSO00
 DIN DIN NPCNO00
@@ -11867,6 +11869,7 @@ Guarulhos Guarulhos NPCSG00
 Guasc Guasc NPCNSP0
 Guasp Guasp NPCNSP0
 Guastalla Guastalla NPCSG00
+Guastavino Guastavino NPCNSP0
 Guatemala Guatemala NPFSG00
 Guaviare Guaviare NPCSG00
 Guayaquil Guayaquil NPCSG00
@@ -12134,6 +12137,7 @@ Haddock Haddock NPCNSP0
 Haendel Haendel NPCNSP0
 Hagar Hagar NPFSSP0 # avl: noms de persona
 Hagen Hagen NPCSG00
+Hahn Hahn NPCNSP0
 Haia Haia NPFSG00
 Haifa Haifa NPCSG00
 Haikou Haikou NPCSG00
@@ -27130,6 +27134,7 @@ Witwatersrand Witwatersrand NPCSG00
 Wojtyla Wojtyla NPCNSP0
 Wojtyła Wojtyła NPCNSP0
 Woking Woking NPCSG00
+Wolf Wolf NPCNSP0
 Wolfenbüttel Wolfenbüttel NPCSG00
 Wolff Wolff NPCNSP0
 Wolff Wolff NPCNSP0 # medical

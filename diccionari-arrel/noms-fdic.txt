@@ -48995,6 +48995,7 @@ lidofenina=categories: FS;fonts: dsalut;
 lidoflazina=categories: F;fonts: dsalut;
 liechtensteinès -esa=categories: MF;fonts: DNV,esadir;
 lied [pl. lieder o lieds]=categories: M;fonts: LT;
+liederista=categories: MF;fonts: derivat;
 liencèfal=categories: M;fonts: dsalut;
 lienectomia=categories: F;fonts: dsalut;
 lienitis=categories: FI;fonts: dsalut;

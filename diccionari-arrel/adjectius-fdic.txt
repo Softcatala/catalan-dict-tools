@@ -18969,6 +18969,7 @@ licocèfal licocèfala=categories: A;fonts: LT;
 licorós licorosa=categories: A;fonts: LT;
 lidi lídia=categories: A;fonts: LT;
 liechtensteinès -esa=categories: A;fonts: DNV,esadir;
+liederista=categories: A;fonts: derivat;
 liegès liegesa=categories: A;fonts: LT;
 lienal=categories: A;fonts: dsalut;
 lienomedul·lar=categories: A;fonts: dsalut;
