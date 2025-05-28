@@ -2494,6 +2494,7 @@ Arsènia Arsènia NPFSSP0 # avl: noms de persona
 Arta Arta NPCSG00
 Artadi Artadi NPCNSP0
 Artafull Artafull NPCNSP0
+Artagnan Artagnan NPCNG00
 Artaix Artaix NPCSG00
 Artal Artal NPCNSP0
 Artald Artald NPMSSP0 # avl: noms de persona
@@ -7818,6 +7819,7 @@ Cúper Cúper NPCSG00
 Cúrcia Cúrcia NPFSSP0 # avl: noms de persona
 Cărtărescu Cărtărescu NPCNSP0
 Cǎlǎraşi Cǎlǎraşi NPCSG00
+D'Artagnan D'Artagnan NPCNSP0
 D'Artagnan D'Artagnan NPMSSP0
 DCVB DCVB NPMSO00
 DEIEC DEIEC NPMSO00
