@@ -34380,6 +34380,7 @@ exestudianta=categories: F;fonts: LT;
 exeurodiputat exeurodiputada=categories: MF;fonts: LT;
 exfalangista=categories: MF;fonts: LT;
 exfetació=categories: F;fonts: dsalut;
+exfiltració=categories: F;fonts: derivat;
 exflagel·lació=categories: F;fonts: dsalut;
 exfoliació=categories: F;fonts: LT;
 exfranquista=categories: MF;fonts: LT;

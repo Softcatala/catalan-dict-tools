@@ -5995,6 +5995,7 @@ exemplificar=categories: V;model:trencar;fonts: LT;
 exemptar=categories: V;model:cantar;fonts: LT;
 exercir=categories: V;model:servir;fonts: LT;
 exercitar=categories: V;model:cantar;fonts: LT;
+exfiltrar=categories: V;model:cantar;fonts: termcat, derivat;
 exfoliar=categories: V;model:crear;fonts: LT;
 exhalar=categories: V;model:cantar;fonts: LT;
 exhaurir=categories: V;model:servir;fonts: LT;
