@@ -18717,6 +18717,7 @@ codolell=categories: M;fonts: LT;
 codolla=categories: F;fonts: LT;
 codolí=categories: M;fonts: LT;
 codolís [pl. codolissos]=categories: M; fonts: Jané, Dgeologia;
+codomini=categories: M;fonts: termcat;
 codominància=categories: F;fonts: LT;
 codony=categories: M;fonts: LT;
 codonya=categories: F;fonts: LT;
