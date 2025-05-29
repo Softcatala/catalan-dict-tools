@@ -24732,6 +24732,7 @@ Thiel Thiel NPCNSP0
 Thiene Thiene NPCSG00
 Thiessen Thiessen NPCNSP0
 Thimphu Thimphu NPCSG00
+Thiong'o Thiong'o NPCNSP0
 Thionville Thionville NPCSG00
 Thiès Thiès NPCSG00
 Thjórsá Thjórsá NPCSG00
@@ -24755,6 +24756,7 @@ Thyolo Thyolo NPCSG00
 Thyssen Thyssen NPCNSP0
 Thyssen-Bornemisza Thyssen-Bornemisza NPCNSP0
 Thérèse Thérèse NPFSSP0
+Thévenot Thévenot NPCNSP0
 Thórshavn Thórshavn NPCSG00
 Thāna Thāna NPCSG00
 Tiador Tiador NPCNSP0

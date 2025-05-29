@@ -25427,6 +25427,7 @@ possible=categories: A;fonts: LT;
 post-COVID-19=categories: AI;fonts: derivat;
 post-COVID=categories: AI;fonts: derivat;
 post-hardcore=categories: AI;fonts: DNV;
+post-tradicional=categories: A;fonts: derivat;
 postabortiu postabortiva=categories: A;fonts: dsalut;
 postadolescent=categories: A;fonts: derivat;
 postadoptiu postadoptiva=categories: A;fonts: LT;

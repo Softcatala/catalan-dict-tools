@@ -87462,6 +87462,7 @@ xuixo=categories: M;fonts: LT;
 xuleria=categories: F; fonts: esadir;
 xulla=categories: F;fonts: LT;
 xullada=categories: F;fonts: LT;
+xulleta=categories: F;fonts: diminutiu;
 xumada=categories: F;fonts: LT;
 xumet=categories: M;fonts: LT;
 xunga=categories: F;fonts: LT;
