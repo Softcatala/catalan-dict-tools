@@ -3955,6 +3955,7 @@ amarrada=categories: F;fonts: LT;
 amarrador amarradora=categories: MF;fonts: LT;
 amarrament=categories: M;fonts: LT;
 amarratge=categories: M;fonts: LT;
+amartatge=categories: M;fonts: termcat;
 amartiocentrisme=categories: M;fonts: LT;
 amasesi=categories: F;fonts: LT;
 amassament=categories: M;fonts: LT;
