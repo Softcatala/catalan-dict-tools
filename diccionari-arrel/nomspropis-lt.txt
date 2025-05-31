@@ -4544,6 +4544,7 @@ Bonavida Bonavida NPCNSP0
 Bonavista Bonavista NPCNSP0
 Bonavista Bonavista NPCSG00
 Boncompte Boncompte NPCNSP0
+Bond Bond NPCNSP0
 Bondia Bondia NPCNSP0
 Bondia Bondia NPFSG00
 Bondoukou Bondoukou NPCSG00
