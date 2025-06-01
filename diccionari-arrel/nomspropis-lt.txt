@@ -23309,6 +23309,7 @@ Shandong Shandong NPCSG00
 Shanghai Shanghai NPCSG00
 Shanghai-Pudong Shanghai-Pudong NPCSG00
 Shangqiu Shangqiu NPCSG00
+Shangri-La Shangri-La NPCSG00
 Shannon Shannon NPCNSP0
 Shantou Shantou NPCSG00
 Shanxi Shanxi NPCSG00
@@ -27224,6 +27225,7 @@ Xandiera Xandiera NPCNSP0
 Xandiu Xandiu NPCNSP0
 Xandri Xandri NPCNSP0
 Xandó Xandó NPCNSP0
+Xangri-La Xangri-La NPCSG00
 Xantal Xantal NPFSSP0 # avl: noms de persona
 Xanten Xanten NPCSG00
 Xantipa Xantipa NPFSSP0
