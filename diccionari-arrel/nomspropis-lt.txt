@@ -18457,7 +18457,6 @@ Orenç Orenç NPMSSP0
 Orença Orença NPFSSP0 # avl: noms de persona
 Orenços Orenç NPMPSP0
 Oreo Oreo NPCNO00
-Oreshnik Oreshnik NPMNO00
 Orestes Orestes NPMPSP0
 Orestes Orestes NPMSSP0
 Orestíada Orestíada NPFSO00
@@ -18560,6 +18559,7 @@ Orxelles Orxelles NPCSG00
 Orxeta Orxeta NPFSG00
 Orà Orà NPCSG00
 Orència Orència NPFSSP0 # avl: noms de persona
+Oréixnik Oréixnik NPMNO00
 Orís Orís NPCSG00
 Oròsia Oròsia NPFSSP0
 Oròsies Oròsia NPFPSP0
