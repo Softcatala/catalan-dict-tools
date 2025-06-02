@@ -11282,6 +11282,7 @@ escandinau escandinava=categories: A;fonts: LT;
 escanyadís escanyadissa=categories: A;fonts: LT;
 escapadís escapadissa=categories: A;fonts: LT;
 escapiforme=categories: A;fonts: LT;
+escapista=categories: A;fonts: DNV;
 escapular=categories: A;fonts: LT;
 escapuloanterior=categories: A;fonts: dsalut;
 escapuloclavicular=categories: A;fonts: dsalut;

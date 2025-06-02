@@ -1391,6 +1391,7 @@ boleiar=categories: V;model:esglaiar;fonts: LT;
 bollar=categories: V;model:cantar;fonts: LT;
 bollir=categories: V;model:acollir;fonts: DNV;
 bombar=categories: V;model:cantar;fonts: LT;
+bombardar=categories: V;model:cantar;fonts: wiktionary;
 bombardejar=categories: V;model:envejar;fonts: LT;
 bombejar=categories: V;model:envejar;fonts: LT;
 bombollar=categories: V;model:cantar;fonts: LT;

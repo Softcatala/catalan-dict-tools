@@ -10679,6 +10679,7 @@ GOB GOB NPMSO00
 GPL GPL NPCNO00
 GPT-3 GPT-3 NPMSO00
 GRAPO GRAPO NPMPO00
+GRU GRU NPMSO00
 GSM GSM NPCNO00
 GSMA GSMA NPFSO00
 Gabana Gabana NPCNSP0
@@ -11784,6 +11785,7 @@ Groucho Groucho NPMSSP0
 Grover Grover NPCNSP0 # medical
 Grozni Grozni NPCSG00
 Groznyj Groznyj NPCSG00
+Gru Gru NPMSSP0
 Grua Grua NPCNSP0
 Grua Grua NPFSG00
 Gruart Gruart NPCNSP0
@@ -12987,6 +12989,7 @@ IrfanView IrfanView NPCNO00
 Iridi Iridi NPMSSP0 # avl: noms de persona
 Irina Irina NPFSSP0
 Iringa Iringa NPCSG00
+Irkutsk Irkutsk NPCSG00
 Irla Irla NPCNSP0
 Irlanda Irlanda NPFSG00
 Irles Irles NPFPG00
@@ -13081,7 +13084,6 @@ Iussuf Iussuf NPMSSP0 # avl: noms de persona
 Ivan Ivan NPMSSP0
 Ivano-Frankivs'k Ivano-Frankivs'k NPCSG00
 Ivano-Frankivsk Ivano-Frankivsk NPCSG00
-Ivanovo Ivanovo NPCSG00
 Ivars Ivars NPCNSP0
 Ivars Ivars NPCSG00
 Ivarsos Ivarsos NPMPG00
@@ -13094,6 +13096,7 @@ Ivorra Ivorra NPCNSP0
 Ivorra Ivorra NPFSG00
 Ivrea Ivrea NPCSG00
 Ivry-sur-Seine Ivry-sur-Seine NPCSG00
+Ivànovo Ivànovo NPCSG00
 Ivó Ivó NPMSSP0
 Iwaki Iwaki NPCSG00
 Iwakuni Iwakuni NPCSG00
@@ -21350,6 +21353,7 @@ Riambau Riambau NPCNSP0
 Rianjo Rianjo NPCSG00
 Riart Riart NPCNSP0
 Riau Riau NPCSG00
+Riazan Riazan NPCSG00
 Riazor Riazor NPMSG00
 Riba Riba NPCNSP0
 Riba Riba NPFSG00
@@ -22066,6 +22070,7 @@ Rīgestān Rīgestān NPCSG00
 S&P S&P NPCNO00
 S'Agaró S'Agaró NPCSG00
 SA SA NPCNO00
+SBU SBU NPMSO00
 SEPA SEPA NPMSO00
 SER SER NPCSO00
 SGAE SGAE NPFSO00
@@ -22078,6 +22083,7 @@ STEI STEI NPMSO00
 STEPV STEPV NPMSO00
 SUSE SUSE NPCNO00
 SUVEC SUVEC NPMSO00
+SVR SVR NPMSO00
 Sa'da Sa'da NPCSG00
 Saale Saale NPCSG00
 Saane Saane NPCSG00
@@ -25822,9 +25828,10 @@ Useu Useu NPCSG00
 Usher Usher NPCNSP0 # medical
 Ushuaia Ushuaia NPCSG00
 Usina Usina NPCNSP0
-Usolje-Sibirskoje Usolje-Sibirskoje NPCSG00
+Usolje-Sibirskoje Usolje-Sibirskoje NPCSG00 #GEC
 Ussuri Ussuri NPCSG00
 Ussurijsk Ussurijsk NPCSG00
+Ussólie-Sibírskoie Ussólie-Sibírskoie NPCSG00
 Ust'-Kamenogorsk Ust'-Kamenogorsk NPCSG00
 Ust'urt Ust'urt NPCSG00
 Ustrell Ustrell NPCNSP0
@@ -26897,6 +26904,7 @@ Vulpellac Vulpellac NPCSG00
 Vuze Vuze NPCNO00
 Vyčegda Vyčegda NPCSG00
 Vàlter Vàlter NPMSSP0 # avl: noms de persona
+Vània Vània NPCNSP0 # l'oncle Vània
 Vània Vània NPFSSP0 # avl: noms de persona
 Váh Váh NPCSG00
 Vázquez Vázquez NPCSG00

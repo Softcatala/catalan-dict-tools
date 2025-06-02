@@ -11899,6 +11899,7 @@ bombacàcia=categories: F;fonts: LT;
 bombada=categories: F;fonts: LT;
 bombament=categories: M;fonts: LT;
 bombarda=categories: F;fonts: LT;
+bombardament=categories: M;fonts: wiktionary;
 bombardeig=categories: M;fonts: LT;
 bombarder bombardera=categories: MF;fonts LT;
 bombardí=categories: M;fonts: LT;
