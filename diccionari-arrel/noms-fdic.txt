@@ -46988,6 +46988,7 @@ ionograma=categories: M;fonts: LT;
 ionona=categories: F;fonts: LT;
 ionosfera=categories: F;fonts: LT;
 ionoteràpia=categories: F;fonts: LT;
+ionqui=categories: MF;fonts: esadir,DNV;
 iontoforesi=categories: F;fonts: LT;
 iontoquantimetria=categories: F;fonts: dsalut;
 iontoteràpia=categories: F;fonts: dsalut;

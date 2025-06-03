@@ -23907,6 +23907,7 @@ Stavanger Stavanger NPCSG00
 Staël Staël NPCNSP0
 Steel-Richardson-Olzewski Steel-Richardson-Olzewski NPCNSP0 # medical
 Steen Steen NPCNSP0
+Steinbeck Steinbeck NPCNSP0
 Steiner Steiner NPCNSP0
 Steinert Steinert NPCNSP0 # medical
 Steinway Steinway NPMNO00
@@ -25599,6 +25600,7 @@ Tórshavn Tórshavn NPCSG00
 Tóveda Tóveda NPCSG00
 Tödi Tödi NPCSG00
 Túl·lia Túl·lia NPFSSP0 # avl: noms de persona
+Túpolev Túpolev NPCNO00
 Túria Túria NPMSG00
 Túsculum Túsculum NPCSG00
 Tübingen Tübingen NPCSG00
