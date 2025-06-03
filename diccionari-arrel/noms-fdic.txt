@@ -5843,6 +5843,7 @@ antitromboplastinèmia=categories: F;fonts: dsalut;
 antitropina=categories: F;fonts: dsalut;
 antituberculina=categories: F;fonts: dsalut;
 antituberculós=categories: M;fonts: LT;
+antiturisme=categories: MS;fonts: derivat;
 antitussigen=categories: M;fonts: LT;
 antitènar=categories: M;fonts: dsalut;
 antitèrmic=categories: M;fonts: LT;
