@@ -22646,6 +22646,7 @@ Santmiquel Santmiquel NPCNSP0
 Santoll Santoll NPCNSP0
 Santomà Santomà NPCNSP0
 Santonja Santonja NPCNSP0
+Santorini Santorini NPCSG0
 Santorí Santorí NPCSG00
 Santoña Santoña NPCSG00
 Santpau Santpau NPCNSP0
