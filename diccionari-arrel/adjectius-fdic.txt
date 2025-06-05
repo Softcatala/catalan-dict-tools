@@ -28980,6 +28980,7 @@ semipotençat semipotençada=categories: A;fonts: LT;
 semipreciós semipreciosa=categories: A;fonts: LT;
 semipresencial=categories: A;fonts: derivat;
 semipresidencial=categories: A;fonts: derivat;
+semipresidencialista=categories: A;fonts: derivat;
 semiprivat semiprivada=categories: A;fonts: derivat;
 semiprofessional=categories: A;fonts: LT;
 semipron semiprona=categories: A;fonts: dsalut;
