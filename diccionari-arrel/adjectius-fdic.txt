@@ -1,3 +1,4 @@
+
 #anidi -ídia=categories: A;fonts: dsalut;
 #avist avista=categories: A;fonts: LT; arcaisme
 #baador=categories: A;fontsg: GDLC, arcaisme;
@@ -9895,6 +9896,7 @@ domable=categories: A;fonts: LT;
 domenyenc domenyenca=categories: A;fonts: LT;
 domenyer domenyera=categories: A;fonts: LT;
 domesticable=categories: A;fonts: LT;
+domesticadíssim domesticadíssima=categories: AA;fonts: derivat, participi;
 domiciliari domiciliària=categories: A;fonts: LT;
 dominable=categories: A;fonts: LT;
 dominador dominadora=categories: A;fonts: LT;
