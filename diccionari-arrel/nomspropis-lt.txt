@@ -5045,6 +5045,7 @@ Bucard Bucard NPMSSP0
 Bucards Bucard NPMPSP0
 Bucarest Bucarest NPCSG00
 Bucart Bucart NPCNSP0
+Buchanan Buchanan NPCNSP0
 Buchenwald Buchenwald NPCSG00
 Buckingham Buckingham NPMSG00
 Buckinghamshire Buckinghamshire NPCSG00
@@ -5214,6 +5215,7 @@ Bóixols Bóixols NPCSG00
 Bóquer Bóquer NPCSG00
 Böhm Böhm NPCNSP0
 Búger Búger NPCSG00
+Bülow Bülow NPCNSP0
 Bālī Bālī NPCSG00
 Bāmīān Bāmīān NPCSG00
 Bāqarganj Bāqarganj NPCSG00
@@ -9293,6 +9295,7 @@ Esquerra Esquerra NPCNSP0
 Esquerra Esquerra NPCSG00
 Esquerrer Esquerrer NPCNSP0
 Esquerrà Esquerrà NPCNSP0
+Esquilache Esquilache NPCNSP0
 Esquirol Esquirol NPCNSP0
 Esquiu Esquiu NPCNSP0
 Esquiva Esquiva NPCNSP0
