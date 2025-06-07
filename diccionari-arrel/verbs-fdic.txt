@@ -8278,6 +8278,7 @@ prototipificar=categories: V;model:trencar;fonts: LT;
 provar=categories: V;model:cantar;fonts: LT;
 proveir=categories: V;model:traduir;fonts: LT;
 provenir=categories: V;model:advenir;fonts: LT;
+provincianitzar=categories: V;model:cantar;fonts: LT;=categories: F;fonts: derivat;
 provocar=categories: V;model:trencar;fonts: LT;
 pruir=categories: V;model:pruir;fonts: LT;
 prémer=categories: V;model:témer;fonts: LT;
