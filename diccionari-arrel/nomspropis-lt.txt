@@ -16216,6 +16216,7 @@ Meibomio Meibomio NPCNSP0 # medical
 Meifrén Meifrén NPCNSP0
 Meige Meige NPCNSP0 # medical
 Meigs Meigs NPCNSP0 # medical
+Meiji Meiji NPCNSP0
 Meissen Meissen NPCSG00
 Meissner Meissner NPCNSP0 # medical
 Meix Meix NPCNSP0
