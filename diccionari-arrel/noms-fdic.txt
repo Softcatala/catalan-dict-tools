@@ -21905,6 +21905,7 @@ criptograma=categories: M;fonts: LT;
 criptogàmia=categories: F;fonts: LT;
 criptogínia=categories: F;fonts: DNV;
 criptoinversió=categories: F;fonts: esadir;
+criptojudaisme=categories: M;fonts: derivat;
 criptoleucèmia=categories: F;fonts: dsalut;
 criptologia=categories: F;fonts: LT;
 criptomelana=categories: F;fonts: LT;
