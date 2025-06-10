@@ -25049,6 +25049,7 @@ Torquat Torquat NPMSSP0
 Torquata Torquata NPFSSP0 # avl: noms de persona
 Torquats Torquat NPMPSP0
 Torquay Torquay NPCSG00
+Torquemada Torquemada NPCNSP0
 Torques Torques NPCSG00
 Torra Torra NPCNSP0
 Torrades Torrades NPCNSP0
