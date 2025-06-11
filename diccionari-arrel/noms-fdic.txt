@@ -75302,6 +75302,7 @@ scherzo=categories: M;fonts: LT;
 schorl=categories: M;fonts: LT;
 schorlomita=categories: F;fonts: LT;
 schorolomita=categories: F;fonts: LT;
+schubertíada=categories: F;fonts: derivat;
 schwannitis=categories: FI;fonts: dsalut;
 schwannomatosi=categories: F;fonts: dsalut;
 schwannosi=categories: F;fonts: dsalut;
