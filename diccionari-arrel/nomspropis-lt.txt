@@ -12022,9 +12022,8 @@ Guixà Guixà NPCSG00
 Guiyang Guiyang NPCSG00
 Guiza Guiza NPCSG00
 Guizhou Guizhou NPCSG00
-Gujarat Gujarat NPMSG00
-Gujarāt Gujarāt NPMSG00
-Gujrānwāla Gujrānwāla NPCSG00
+Gujarat Gujarat NPMSG00 #Gujarāt Gujarāt NPMSG00
+Gujranwala Gujranwala NPCSG00 # Gujrānwāla Gujrānwāla NPCSG00
 Gulart Gulart NPCNSP0
 Gulf Gulf NPCSG00
 Gulliver Gulliver NPMSSP0
