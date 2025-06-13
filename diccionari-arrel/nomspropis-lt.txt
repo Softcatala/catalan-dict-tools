@@ -712,6 +712,7 @@ Ahlen Ahlen NPCSG00
 Ahmadabad Ahmadabad NPCSG00
 Ahmadnagar Ahmadnagar NPCSG00
 Ahmed Ahmed NPMSSP0
+Ahmedabad Ahmedabad NPCSG00
 Ahmet Ahmet NPMSSP0 # avl: noms de persona
 Ahuachapán Ahuachapán NPCSG00
 Ahumada Ahumada NPCNSP0 # medical
@@ -10865,6 +10866,7 @@ Gandak Gandak NPCSG00
 Gandesa Gandesa NPCNSP0
 Gandesa Gandesa NPFSG00
 Gandhi Gandhi NPCNSP0
+Gandhinagar Gandhinagar NPCSG00
 Gandia Gandia NPCNSP0
 Gandia Gandia NPFSG00
 Gandol Gandol NPCNSP0
@@ -11031,6 +11033,7 @@ Gater Gater NPCNSP0
 Gateshead Gateshead NPCSG00
 Gatielles Gatielles NPCNSP0
 Gatius Gatius NPCNSP0
+Gatwick Gatwick NPCSG00
 Gau Gau NPCNSP0
 Gaubert Gaubert NPCNSP0
 Gaucher Gaucher NPCNSP0 # medical
@@ -11239,6 +11242,7 @@ Gestí Gestí NPCNSP0
 Gesualdo Gesualdo NPCNSP0
 Getafe Getafe NPCSG00
 Getsemaní Getsemaní NPCSG00
+Gettysburg Gettysburg NPCSG00
 Getuli Getuli NPMSSP0
 Getulis Getuli NPMPSP0
 Getxo Getxo NPCSG00
@@ -12018,8 +12022,8 @@ Guixà Guixà NPCSG00
 Guiyang Guiyang NPCSG00
 Guiza Guiza NPCSG00
 Guizhou Guizhou NPCSG00
-Gujarat Gujarat NPCSG00
-Gujarāt Gujarāt NPCSG00
+Gujarat Gujarat NPMSG00
+Gujarāt Gujarāt NPMSG00
 Gujrānwāla Gujrānwāla NPCSG00
 Gulart Gulart NPCNSP0
 Gulf Gulf NPCSG00
@@ -27019,6 +27023,7 @@ Weber Weber NPCNSP0 # medical
 Weber-Cockayne Weber-Cockayne NPCNSP0
 Weber-Cockayne Weber-Cockayne NPCNSP0 # medical
 Webern Webern NPCNSP0
+Webster Webster NPCNSP0
 Weddell Weddell NPCNSP0
 Wegener Wegener NPCNSP0
 Wehrmacht Wehrmacht NPFSO00

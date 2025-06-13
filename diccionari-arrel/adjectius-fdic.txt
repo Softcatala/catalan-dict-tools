@@ -32478,6 +32478,7 @@ ultracodificat ultracodificada=categories: A;fonts: derivat;
 ultracompetitiu ultracompetitiva=categories: A;fonts: derivat;
 ultraconservador ultraconservadora=categories: A;fonts: LT;
 ultraconsumidor ultraconsumidora=categories: A;fonts: derivat;
+ultracorporativista=categories: A;fonts: derivat;
 ultracuidat ultracuidada=categories: A;fonts: LT;
 ultracurt ultracurta=categories: A;fonts: LT;
 ultradefensiu ultradefensiva=categories: A;fonts: LT;

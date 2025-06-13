@@ -84371,6 +84371,7 @@ ultracongelador=categories: M;fonts: LT;
 ultracongelador=categories: M;fonts: termcat;
 ultraconservador ultraconservadora=categories: MF;fonts LT;
 ultraconsum=categories: M;fonts: derivat;
+ultracorporativisme=categories: MS;fonts: derivat;
 ultracorrecció=categories: F;fonts: derivat;
 ultracuidament=categories: M;fonts: LT;
 ultracuidança=categories: F;fonts: LT;
