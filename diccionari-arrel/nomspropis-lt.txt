@@ -9116,6 +9116,7 @@ Escarlata Escarlata NPFSSP0 # avl: noms de persona
 Escarp Escarp NPCNSP0
 Escarp Escarp NPCSG00
 Escarpenter Escarpenter NPCNSP0
+Escarré Escarré NPCNSP0
 Escartí Escartí NPMSSP0 # avl: noms de persona
 Escaró Escaró NPCSG00
 Escat Escat NPCNSP0
@@ -10993,6 +10994,7 @@ Garòs Garòs NPCSG00
 Gasal Gasal NPCNSP0
 Gasc Gasc NPCNSP0
 Gasca Gasca NPCNSP0
+Gasch Gasch NPCNSP0
 Gascons Gascons NPCNSP0
 Gascoyne Gascoyne NPCSG00
 Gasculla Gasculla NPCNSP0
