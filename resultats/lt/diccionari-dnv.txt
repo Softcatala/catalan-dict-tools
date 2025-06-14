@@ -65858,10 +65858,6 @@ retrenquéssiu retrencar VMSI2P02
 retrenquí retrencar VMIS1S00
 retrognàtia retrognàtia NCFS000
 retrognàties retrognàtia NCFP000
-retronador retronador AQ0MS0
-retronadora retronador AQ0FS0
-retronadores retronador AQ0FP0
-retronadors retronador AQ0MP0
 retronament retronament NCMS000
 retronaments retronament NCMP000
 retropeu retropeu NCMS000
@@ -68701,10 +68697,6 @@ sobrebraç sobrebraç NCMS000
 sobrebraços sobrebraç NCMP000
 sobrecreu sobrecreu NCMS000
 sobrecreus sobrecreu NCMP000
-sobredit sobredit AQ0MS0
-sobredita sobredit AQ0FS0
-sobredites sobredit AQ0FP0
-sobredits sobredit AQ0MP0
 sobreexcel·lent sobreexcel·lent AQ0CS0
 sobreexcel·lents sobreexcel·lent AQ0CP0
 sobrefina sobrefí AQ0FS0
