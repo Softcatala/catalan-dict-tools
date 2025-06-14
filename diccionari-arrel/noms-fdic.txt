@@ -86761,6 +86761,7 @@ web=categories: MF;fonts: LT;
 webcam=categories: F;fonts: viquipedia;
 weber=categories: M;fonts: LT;
 webgrafia=categories: F;fonts: descartat pel Termcat;
+webmaster=categories: MF;fonts: english;
 wehnelt=categories: M;fonts: dsalut;
 weigèlia=categories: F;fonts: LT;
 weismannisme=categories: M;fonts: dsalut;

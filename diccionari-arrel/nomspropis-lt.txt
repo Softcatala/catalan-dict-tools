@@ -12214,6 +12214,7 @@ Harare Harare NPCSG00
 Harbin Harbin NPCSG00
 Harcourt Harcourt NPCNSP0
 Hardangerfjord Hardangerfjord NPCSG00
+Hardwick Hardwick NPCNSP0
 Hardy-Weinberg Hardy-Weinberg NPCNSP0 # medical
 Harfuch Harfuch NPCNSP0
 Hariyāna Hariyāna NPCSG00
