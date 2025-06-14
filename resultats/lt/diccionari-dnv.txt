@@ -14043,8 +14043,6 @@ comprovatòries comprovatori AQ0FP0
 comptahores comptahores NCMN000
 concatémer concatémer NCMS000
 concatémers concatémer NCMP000
-conclau conclau NCMS000
-conclaus conclau NCMP000
 condidor condidor AQ0MS0
 condidora condidor AQ0FS0
 condidores condidor AQ0FP0

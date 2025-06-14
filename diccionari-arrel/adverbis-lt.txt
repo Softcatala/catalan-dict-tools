@@ -265,6 +265,7 @@ ras ras RG
 rebé rebé RG
 rere rere RG
 ringo-rango ringo-rango RG
+scherzando scherzando RG
 sempre sempre RG
 sic sic RG
 sobre sobre RG

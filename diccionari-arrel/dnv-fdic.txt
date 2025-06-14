@@ -1023,7 +1023,6 @@ comprometiment=categories: M;fonts: DNV;
 comprovatori -òria=categories: A;fonts: DNV;
 comptahores=categories: MI;fonts: DNV;
 concatémer=categories: M;fonts: DNV;
-conclau=categories: M;fonts: DNV;
 condidor -a=categories: A;fonts: DNV;
 condroclast=categories: M;fonts: DNV;
 condrologia=categories: F;fonts: DNV;
