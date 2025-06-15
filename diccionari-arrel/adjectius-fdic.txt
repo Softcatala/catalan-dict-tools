@@ -10477,6 +10477,7 @@ emissor emissora=categories: A;fonts: LT;
 emmagatzemable=categories: A;fonts: derivat;
 emmagatzemador emmagatzemadora=categories: A;fonts: LT;
 emmandridor emmandridora=categories: A;fonts: LT;
+emmanyocat emmanyocada=categories: A;fonts: DCVB;
 emmarcable=categories: A;fonts: derivat;
 emmaregat emmaregada=categories: A;fonts: LT;
 emmascarador emmascaradora=categories: A;fonts: derivat;
