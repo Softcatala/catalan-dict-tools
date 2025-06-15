@@ -3981,6 +3981,7 @@ Bergantes Bergantes NPCNG00
 Bergen Bergen NPCSG00
 Bergey Bergey NPCNSP0 # medical
 Berghof Berghof NPMSG00
+Bergman Bergman NPCNSP0
 Bergoglio Bergoglio NPCNSP0
 Bergonié-Tribondeau Bergonié-Tribondeau NPCNSP0 # medical
 Bergson Bergson NPCNSP0
@@ -13747,6 +13748,7 @@ Khrusxov Khrusxov NPCNSP0
 Khulna Khulna NPCSG00
 Khuzestan Khuzestan NPCSG00
 Khàrkiv Khàrkiv NPCSG00
+Kiarostami Kiarostami NPCNSP0
 Kidal Kidal NPCSG00
 Kiel Kiel NPCSG00
 Kielce Kielce NPCSG00
