@@ -8655,6 +8655,7 @@ autografia=categories: F;fonts: LT;
 autografisme=categories: M;fonts: LT;
 autografòmetre=categories: M;fonts: LT;
 autograma=categories: M;fonts: dsalut;
+autogratificació=categories: F;fonts: derivat;
 autogrua=categories: F;fonts: derivat;
 autoguiatge=categories: M;fonts: LT;
 autogàmia=categories: F;fonts: LT;
