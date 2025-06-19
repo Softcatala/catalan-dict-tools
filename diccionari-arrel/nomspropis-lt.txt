@@ -9706,6 +9706,7 @@ Fajolar Fajolar NPCNSP0
 Falabrega Falabrega NPCNSP0
 Falaguera Falaguera NPCNSP0
 Falb Falb NPCNSP0
+Falcon Falcon NPCNO00
 Falconer Falconer NPCNSP0
 Falconera Falconera NPFSG00
 Falcons Falcons NPMPG00
@@ -13032,6 +13033,7 @@ Isaures Isaure NPMPSP0
 Isaval Isaval NPCNSP0
 Isaïes Isaïes NPMPSP0
 Isaïes Isaïes NPMSSP0
+Ischia Ischia NPFSG00
 Iscle Iscle NPCNSP0
 Iscle Iscle NPCSG00
 Iserlohn Iserlohn NPCSG00
