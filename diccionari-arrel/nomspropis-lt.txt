@@ -5660,6 +5660,7 @@ Camús Camús NPCNSP0
 Canaan Canaan NPMSG00
 Canada Canada NPFSG00
 Canadal Canadal NPCSG00
+Canadell Canadell NPCNSP0
 Canadà Canadà NPMSG00
 Canal Canal NPCNSP0
 Canalbona Canalbona NPCSG00
