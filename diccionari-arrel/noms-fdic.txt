@@ -39794,6 +39794,7 @@ giga=categories: F;fonts: LT;
 gigabit=categories: M;fonts: LT;
 gigabyte=categories: M;fonts: LT;
 gigafactoria=categories: F;fonts: derivat;
+gigafàbrica=categories: F;fonts: derivat;
 gigahertz=categories: M;fonts: LT;
 gigantisme=categories: M;fonts: LT;
 gigantoblast=categories: M;fonts: dsalut;
