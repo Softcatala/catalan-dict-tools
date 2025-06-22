@@ -30561,6 +30561,7 @@ errant=categories: M;fonts: LT;
 errata=categories: F;fonts: LT;
 erro=categories: M;fonts: LT;
 error=categories: MF;fonts: LT; # el femení és arcaic i infreqüent
+errància=categories: F;fonts: derivat;
 ertapenem=categories: M;fonts: dsalut;
 ertebol·lià=categories: M;fonts: LT;
 ertesa=categories: F;fonts: LT;
