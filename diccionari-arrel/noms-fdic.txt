@@ -16266,6 +16266,7 @@ caça=categories: MF;fonts: LT;
 caçada=categories: F;fonts: LT;
 caçador caçadora=categories: MF;fonts: LT;
 caçaescota=categories: M;fonts: LT;
+caçafantasmes=categories: MFI;fonts: wiki;
 caçafortunes=categories: MFI;fonts: LT;
 caçahereus=categories: FI;fonts: LT;
 caçaire=categories: MF;fonts: LT;
