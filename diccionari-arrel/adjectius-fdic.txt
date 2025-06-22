@@ -7806,6 +7806,7 @@ contrariós contrariosa=categories: A;fonts: LT;
 contrastable=categories: A;fonts: LT;
 contrastant=categories: A;fonts: LT;
 contrastiu contrastiva=categories: A;fonts: LT;
+contraterrorista=categories: A;fonts: derivat, poc usat?;
 contratònic contratònica=categories: A;fonts: LT;
 contravariant=categories: A;fonts: LT;
 contraïble=categories: A;fonts: derivat;

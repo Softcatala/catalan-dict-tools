@@ -20611,6 +20611,7 @@ contratalla=categories: F;fonts: LT;
 contratapa=categories: F;fonts: LT;
 contratemps=categories: MI;fonts: LT;
 contratenor=categories: M;fonts: LT;
+contraterrorisme=categories: M;fonts: termcat, poc usat?;
 contratestimoniatge=categories: M;fonts: LT;
 contratinció=categories: F;fonts: dsalut;
 contratip=categories: M;fonts: LT;
