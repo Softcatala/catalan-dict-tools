@@ -24888,6 +24888,7 @@ Tirèsies Tirèsies NPMSSP0 # avl: noms de persona
 Tis Tis NPCNSP0
 Tis Tis NPMSG00
 Tisbe Tisbe NPFSSP0 # avl: noms de persona
+Tisserand Tisserand NPCNSP0
 Tisza Tisza NPCSG00
 Tit Tit NPMSSP0 # avl: noms de persona
 Titaina Titaina NPFSSP0
