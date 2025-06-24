@@ -8615,6 +8615,7 @@ decalvant=categories: A;fonts: LT;
 decamètric decamètrica=categories: A;fonts: derivat;
 decandre decandra=categories: A;fonts: LT;
 decanormal=categories: A;fonts: dsalut;
+decantador decantadora=categories: A;fonts: derivat, DCVB;
 decapant=categories: A;fonts: LT;
 decasil·làbic decasil·làbica=categories: A;fonts: LT;
 decasíl·lab decasíl·laba=categories: A;fonts: LT;

@@ -10338,6 +10338,7 @@ Forcall Forcall NPCSG00
 Forcat Forcat NPCSG00
 Forcuda Forcuda NPCNSP0
 Ford Ford NPCNO00
+Fordow Fordow NPCSG00
 Forel Forel NPCNSP0 # medical
 Forest Forest NPCNSP0
 Forest Forest NPCSG00
@@ -13042,6 +13043,7 @@ Isern Isern NPCNSP0
 Isernia Isernia NPCSG00
 Iseu Iseu NPMSSP0 # avl: noms de persona
 Iseyin Iseyin NPCSG00
+Isfahan Isfahan NPCSG00
 Ishango Ishango NPCSG00
 Ishinomaki Ishinomaki NPCSG00
 Isidor Isidor NPMSSP0
@@ -17643,6 +17645,7 @@ Natan Natan NPMSSP0 # avl: noms de persona
 Natanael Natanael NPMSSP0 # avl: noms de persona
 Nataniel Nataniel NPMSSP0
 Nataniels Nataniel NPMPSP0
+Natanz Natanz NPCSG00
 Natatxa Natatxa NPFSSP0 # avl: noms de persona
 Nater Nater NPCNSP0
 Nati Nati NPFSSP0 # avl: noms de persona

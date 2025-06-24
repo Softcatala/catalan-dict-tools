@@ -57230,6 +57230,7 @@ nanocòrmia=categories: F;fonts: dsalut;
 nanodispositiu=categories: M;fonts: termcat;
 nanoelectrònica=categories: F;fonts: LT;
 nanoenginyeria=categories: F;fonts: derivat;
+nanoescala=categories: F;fonts: derivat;
 nanoestructuració=categories: F;fonts: termcat;
 nanofibra=categories: F;fonts: termcat;
 nanofietosi=categories: F;fonts: dsalut;
