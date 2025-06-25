@@ -3657,6 +3657,7 @@ Belait Belait NPCSG00
 Belarra Belarra NPCNSP0
 Belarta Belarta NPCSG00
 Belau Belau NPCNSP0
+Belausteguigoitia Belausteguigoitia NPCNSP0
 Belbel Belbel NPCNSP0
 Belchite Belchite NPCSG00
 Belda Belda NPCNSP0
@@ -14347,6 +14348,7 @@ Leviatà Leviatà NPMSSP0 # avl: noms de persona
 Levina Levina NPFSSP0 # avl: noms de persona
 Levàdia Levàdia NPCSG00
 Leví Leví NPMSSP0
+Lewinsky Lewinsky NPCNSP0
 Lewis Lewis NPCSG00
 Lewisham Lewisham NPCSG00
 Lewy Lewy NPCNSP0 # medical
