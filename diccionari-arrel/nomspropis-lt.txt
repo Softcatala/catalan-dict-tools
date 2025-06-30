@@ -6027,6 +6027,7 @@ Caruaru Caruaru NPCSG00
 Carull Carull NPCNSP0
 Carulla Carulla NPCNSP0
 Caruso Caruso NPCNSP0
+Carvajal Carvajal NPCNSP0
 Carxe Carxe NPMSG00
 Carèlia Carèlia NPFSG00
 Caríntia Caríntia NPFSG00
@@ -11365,6 +11366,7 @@ Girabald Girabald NPCNSP0
 Girabaltó Girabaltó NPCNSP0
 Girafa Girafa NPFSG00
 Girald Girald NPCNSP0
+Giralda Giralda NPFSG00
 Giraltó Giraltó NPCNSP0
 Giramé Giramé NPCNSP0
 Girard Girard NPCNSP0

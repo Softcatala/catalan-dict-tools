@@ -493,6 +493,7 @@ Supercopa=categories: F;fonts: esadir;
 TAE=categories: FI;fonts: sigla;
 TAPSD=categories: MFI; fonts: sigla;
 TCA=categories: MI; fonts: sigla;
+TCAI=categories: MFI;fonts: sigla;
 TCDD=categories: FI;fonts: dsalut;
 TDA=categories: MS;fonts: termcat;
 TDAH=categories: MS;fonts: termcat;
