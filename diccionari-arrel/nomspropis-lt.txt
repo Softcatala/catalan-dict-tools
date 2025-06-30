@@ -11381,6 +11381,7 @@ Girella Girella NPCNSP0
 Girgas Girgas NPCNSP0
 Giribert Giribert NPCNSP0
 Giro Giro NPMSO00
+Girocleta Girocleta NPFSO00
 Girol Girol NPCNSP0
 Girona Girona NPCNSP0
 Girona Girona NPCSG00
@@ -20095,6 +20096,7 @@ Port-de-Bouc Port-de-Bouc NPCSG00
 Port-of-Spain Port-of-Spain NPCSG00
 PortAventura PortAventura NPMSO00
 Porta Porta NPCNSP0
+Portabella Portabella NPCNSP0
 Portaceli Portaceli NPCNSP0
 Portaceli Portaceli NPCSG00
 Portaferrissa Portaferrissa NPFSG00

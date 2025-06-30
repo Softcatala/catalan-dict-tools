@@ -3609,6 +3609,7 @@ desprogramar=categories: V;model:cantar;fonts: LT;
 desproporcionar=categories: V;model:cantar;fonts: LT;
 desprotegir=categories: V;model:servir;fonts: derivat;
 desproveir=categories: V;model:traduir;fonts: LT;
+despublicar=categories: V;model:trencar;fonts: derivat;
 despullar=categories: V;model:cantar;fonts: LT;
 despumar=categories: V;model:cantar;fonts: LT;
 despuntar=categories: V;model:cantar;fonts: LT;
