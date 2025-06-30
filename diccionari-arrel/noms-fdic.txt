@@ -1740,6 +1740,7 @@ adequació=categories: F;fonts: LT;
 adermina=categories: F;fonts: LT;
 adermogènesi=categories: F;fonts: dsalut;
 adeu=categories: M;fonts: diacriticsDIEC;
+adhan=categories: MS;fonts: termcat;
 adherent=categories: M;fonts: LT;
 adheriment=categories: M;fonts: LT;
 adherència=categories: F;fonts: LT;
