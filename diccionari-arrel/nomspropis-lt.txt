@@ -6514,6 +6514,7 @@ Challenger Challenger NPCNO00
 Chalon-sur-Saône Chalon-sur-Saône NPCSG00
 Chalossa Chalossa NPCSG00
 Chaman Chaman NPCSG00
+Chamartín Chamartín NPCSG00
 Chamberlain Chamberlain NPCNSP0 # medical
 Chambéry Chambéry NPCSG00
 Chamfort Chamfort NPCNSP0
@@ -26022,6 +26023,7 @@ Valldòria Valldòria NPCSG00
 Valle Valle NPCSG00
 Vallecas Vallecas NPCSG00
 Valleix Valleix NPCNSP0 # medical
+Vallejo Vallejo NPCNSP0
 Vallençana Vallençana NPCSG00
 Vallera Vallera NPFSG00
 Valleró Valleró NPCNSP0
