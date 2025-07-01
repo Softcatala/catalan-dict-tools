@@ -67355,6 +67355,7 @@ portlandià=categories: M;fonts: LT;
 portmanyí portmanyina=categories: MF;fonts: LT;
 porto-riqueny porto-riquenya=categories: MF;fonts LT;
 porto=categories: M;fonts: LT;
+portobel·lo=categories: M;fonts: termcat;
 portoenterostomia=categories: F;fonts: dsalut;
 portografia=categories: F;fonts: dsalut;
 portolà=categories: M;fonts: LT;
