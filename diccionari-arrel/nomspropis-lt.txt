@@ -5298,6 +5298,7 @@ Cabdella Cabdella NPFSG00
 Cabdet Cabdet NPCSG00
 Cabestany Cabestany NPCNSP0
 Cabestany Cabestany NPCSG00
+Cabezón Cabezón NPCNSP0
 Cabeçó Cabeçó NPMSG00
 Cabiac Cabiac NPCNSP0
 Cabimas Cabimas NPCSG00
@@ -6035,6 +6036,7 @@ Cas Cas NPCSG00
 Casabella Casabella NPCNSP0
 Casablanca Casablanca NPCNSP0
 Casablanca Casablanca NPCSG00
+Casablancas Casablancas NPCNSP0
 Casabona Casabona NPCNSP0
 Casabosca Casabosca NPCNSP0
 Casabò Casabò NPCNSP0
@@ -8086,6 +8088,7 @@ Deltebre Deltebre NPCSG00
 Deltell Deltell NPCNSP0
 Delàs Delàs NPCNSP0
 Demer Demer NPCSG00
+Demessieux Demessieux NPCNSP0
 Demestre Demestre NPCNSP0
 Demetri Demetri NPMSSP0
 Demetris Demetri NPMPSP0
@@ -10463,6 +10466,7 @@ Francis Francis NPMSSP0
 Francisca Francisca NPFSSP0
 Francisco Francisco NPMSSP0
 Francisques Francisca NPFPSP0
+Franck Franck NPCNSP0
 Franco Franco NPCNSP0
 Francolí Francolí NPCNSP0
 Francolí Francolí NPCSG00
@@ -10709,6 +10713,7 @@ Gaborone Gaborone NPCSG00
 Gabriel Gabriel NPCNSP0
 Gabriel Gabriel NPMSSP0
 Gabriela Gabriela NPFSSP0
+Gabrieli Gabrieli NPCNSP0
 Gabriels Gabriel NPMPSP0
 Gabrovo Gabrovo NPCSG00
 Gabí Gabí NPMSSP0
@@ -11991,6 +11996,7 @@ Guinardó Guinardó NPMSG00
 Guinea Guinea NPFSG00
 Guineueta Guineueta NPFSG00
 Guingamp Guingamp NPCSG00
+Guinjoan Guinjoan NPCNSP0
 Guinness Guinness NPCNSP0
 Guinol Guinol NPCNSP0
 Guinovart Guinovart NPCNSP0
@@ -20696,6 +20702,7 @@ Pàvlovsk Pàvlovsk NPCSG00
 Páez Páez NPCNSP0
 Pájara Pájara NPCSG00
 Pánuco Pánuco NPCSG00
+Pärt Pärt NPCNSP0
 Pèrgam Pèrgam NPCSG00
 Pèricles Pèricles NPMSSP0
 Pèrmia Pèrmia NPFSG00
@@ -26418,6 +26425,7 @@ Viella Viella NPFSG00
 Viena Viena NPFSG00
 Vienne Vienne NPCSG00
 Vientiane Vientiane NPCSG00
+Vierne Vierne NPCNSP0
 Viersen Viersen NPCSG00
 Vierzon Vierzon NPCSG00
 Vieta Vieta NPCNSP0
@@ -27119,6 +27127,7 @@ Wickam Wickam NPCNSP0
 Wickam Wickam NPCNSP0 # medical
 Widmann Widmann NPCNSP0
 Widnes Widnes NPCSG00
+Widor Widor NPCNSP0
 Wied Wied NPCNSP0
 Wied Wied NPCSG00
 Wieland Wieland NPCNSP0
