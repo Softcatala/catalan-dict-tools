@@ -19197,6 +19197,7 @@ Paül Paül NPCSG00
 Paüls Paüls NPCNSP0
 Paüls Paüls NPFPG00
 Peace Peace NPCSG00
+Pearce Pearce NPCNSP0
 Pebbles Pebbles NPCNSP0
 Pebrades Pebrades NPFPG00
 Pec Pec NPCNSP0
