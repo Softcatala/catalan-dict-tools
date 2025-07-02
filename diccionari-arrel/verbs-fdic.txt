@@ -9090,6 +9090,7 @@ reunflar=categories: V;model:cantar;fonts: LT;
 reunificar=categories: V;model:trencar;fonts: LT;
 reunir=categories: V;model:servir;fonts: LT;
 reurbanitzar=categories: V;model:cantar;fonts: LT;
+reusar=categories: V;model:abrusar;fonts: derivat;
 reutilitzar=categories: V;model:cantar;fonts: LT;
 revaccinar=categories: V;model:abominar;fonts: LT;
 revacunar=categories: V;model:cantar;fonts: LT;
