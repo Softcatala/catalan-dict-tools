@@ -20276,6 +20276,7 @@ Pretenders Pretenders NPMPO00
 Pretextat Pretextat NPMSSP0
 Pretextats Pretextat NPMPSP0
 Pretòria Pretòria NPCSG00
+Preysler Preysler NPCNSP0
 Prezi Prezi NPMSO00
 Prešov Prešov NPCSG00
 Pribnow Pribnow NPCNSP0 # medical

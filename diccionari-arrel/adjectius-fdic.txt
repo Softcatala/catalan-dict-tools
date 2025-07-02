@@ -30269,6 +30269,7 @@ superconscient=categories: A;fonts: derivat;
 superconstant=categories: A;fonts: derivat;
 supercontagiador supercontagiadora=categories: A;fonts: derivat;
 supercontent supercontenta=categories: A;fonts: derivat;
+supercontundent=categories: A;fonts: derivat;
 supercool=categories: AI;fonts: English;
 supercostós supercostosa=categories: A;fonts: derivat;
 supercrític supercrítica=categories: A;fonts: LT;
