@@ -73335,6 +73335,7 @@ reògraf=categories: M;fonts: LT;
 reòmetre=categories: M;fonts: LT;
 reòstat=categories: M;fonts: LT;
 reòtom=categories: M;fonts: LT;
+reús [pl. reusos]=categories: M;fonts: termcat;
 reüll=categories: M;fonts: LT;
 rhe [pl. rhes]=categories: M;fonts: LT;
 rhebok=categories: M;fonts: DNV;
