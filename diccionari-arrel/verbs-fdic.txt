@@ -9739,6 +9739,7 @@ telefonar=categories: V;model:cantar;fonts: LT;
 telegovernar=categories: V;model:cantar;fonts: LT;
 telegrafiar=categories: V;model:crear;fonts: LT;
 teleportar=categories: V;model:cantar;fonts: termcat;
+teleprogramar=categories: V;model:cantar;fonts: derivat;
 teletransportar=categories: V;model:cantar;fonts: termcat;
 teletreballar=categories: V;model:cantar;fonts: LT;
 televisar=categories: V;model:abalisar;fonts: LT;
