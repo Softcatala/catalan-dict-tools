@@ -6453,6 +6453,7 @@ Cerdanyons Cerdanyons NPCNSP0
 Cerdanyès Cerdanyès NPMSG00
 Cerdà Cerdà NPCNSP0
 Cerdà Cerdà NPCSG00
+Cerdán Cerdán NPCNSP0
 Cerdó Cerdó NPCNSP0
 Cereal Cereal NPMSSP0
 Cereals Cereal NPMPSP0
