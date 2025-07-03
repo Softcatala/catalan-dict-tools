@@ -4603,6 +4603,7 @@ Bonshoms Bonshoms NPCNSP0
 Bonsirvent Bonsirvent NPCNSP0
 Bonthe Bonthe NPCSG00
 Bonveí Bonveí NPCNSP0
+BonÀrea BonÀrea NPCNO00
 Bonàs Bonàs NPCNSP0
 Boné Boné NPCNSP0
 Boole Boole NPCNSP0
@@ -27655,7 +27656,6 @@ al-Sadr al-Sadr NPCNSP0
 al-Sisi al-Sisi NPCNSP0
 al-Thani al-Thani NPCNSP0
 al-Àndalus al-Àndalus NPCSG00
-bonÀrea bonÀrea NPCNO00
 d'Alembert d'Alembert NPCNSP0
 d'Holbach d'Holbach NPCNSP0
 eBay eBay NPCNO00
