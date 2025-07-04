@@ -21787,6 +21787,7 @@ màfic màfica=categories: A;fonts: LT;
 màgic màgica=categories: A;fonts: LT;
 màlic màlica=categories: A;fonts: LT;
 màntic màntica=categories: A;fonts: LT;
+màntric màntrica=categories: A;fonts: derivat;
 màrgid màrgida=categories: A;fonts: LT;
 màrsic màrsica=categories: A;fonts: LT;
 màssic màssica=categories: A;fonts: LT;
