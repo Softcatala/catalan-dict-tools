@@ -197,6 +197,7 @@ llavors llavors RG
 lleu lleu RG
 lli lli RG
 lluny lluny RG
+maestoso maestoso RG
 mai mai RG
 mal mal RG
 malapler malapler RG
