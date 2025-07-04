@@ -4332,6 +4332,7 @@ barbamec barbameca=categories: A;fonts: LT;
 barbanegre barbanegra=categories: A;fonts: LT;
 barbapunyent=categories: A;fonts: LT;
 barbaresc barbaresca=categories: A;fonts: LT;
+barbastrí barbastrina=categories: A;fonts: esadir,wiki;
 barbatxo=categories: A;fonts: LT;
 barberenc barberenca=categories: A;fonts: LT;
 barbitúric barbitúrica=categories: A;fonts: LT;

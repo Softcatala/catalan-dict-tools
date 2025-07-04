@@ -51025,6 +51025,7 @@ macroquília=categories: F;fonts: dsalut;
 macroquíria=categories: F;fonts: dsalut;
 macroramfòsid=categories: M;fonts: LT;
 macrorrínia=categories: F;fonts: dsalut;
+macrosantuari=categories: M;fonts: derivat;
 macroscelideu=categories: M;fonts: termcat;
 macroscelídid=categories: M;fonts: termcat;
 macroscèlia=categories: F;fonts: dsalut;
