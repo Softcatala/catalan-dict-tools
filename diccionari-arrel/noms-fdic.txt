@@ -72495,6 +72495,7 @@ remunerador remuneradora=categories: MF;fonts LT;
 remunicipalització=categories: F;fonts: derivat;
 remunta=categories: F;fonts: LT;
 remuntador=categories: M;fonts: LT;
+remuntatge=categories: M;fonts: termcat;
 remuntista=categories: MF;fonts: LT;
 remàstegues=categories: FP;fonts: LT;
 remçó=categories: F;fonts: LT;
