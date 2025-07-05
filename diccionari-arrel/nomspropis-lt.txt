@@ -2710,6 +2710,7 @@ Atenògenes Atenògenes NPMPSP0
 Atenògenes Atenògenes NPMSSP0
 Athabasca Athabasca NPCSG00
 Athos Athos NPMSSP0
+Atienza Atienza NPCNSP0
 Atilana Atilana NPFSSP0 # avl: noms de persona
 Atilans Atilà NPMPSP0
 Atilà Atilà NPMSSP0
@@ -11429,6 +11430,7 @@ Glandon Glandon NPMSG00
 Glanzmann Glanzmann NPCNSP0 # medical
 Glarus Glarus NPCSG00
 Glasgow Glasgow NPCSG00
+Glastonbury Glastonbury NPCSG00
 Glatzel Glatzel NPCNSP0 # medical
 Glauc Glauc NPMSSP0 # avl: noms de persona
 Glauca Glauca NPFSSP0 # avl: noms de persona
