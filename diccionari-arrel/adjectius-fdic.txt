@@ -17024,6 +17024,7 @@ indolent=categories: A;fonts: LT;
 indologen indològena=categories: A;fonts: dsalut;
 indolor indolora=categories: A;fonts: LT;
 indomable=categories: A;fonts: LT;
+indomat indomada=categories: A;fonts: DCVB;
 indomdable=categories: A;fonts: LT;
 indomelànid indomelànida=categories: A;fonts: LT;
 indomesticable=categories: A;fonts: LT;
