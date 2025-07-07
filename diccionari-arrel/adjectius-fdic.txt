@@ -17250,7 +17250,6 @@ inframandibular=categories: A;fonts: dsalut;
 inframarginal=categories: A;fonts: derivat;
 inframaxil·lar=categories: A;fonts: dsalut;
 inframental=categories: A;fonts: derivat;
-inframostrejat inframostrejada=categories: A;fonts: derivat;
 inframunicipal=categories: A;fonts: idescat;
 infrangible=categories: A;fonts: LT;
 infranquejable=categories: A;fonts: LT;
