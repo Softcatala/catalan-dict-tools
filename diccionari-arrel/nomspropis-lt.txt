@@ -804,6 +804,7 @@ Aixel Aixel NPMSSP0 # avl: noms de persona
 Aixirivall Aixirivall NPCSG00
 Aixkhabad Aixkhabad NPCSG00
 Aixovall Aixovall NPCSG00
+Aixura Aixura NPFSO00
 Aixurà Aixurà NPFSO00
 Aixàviga Aixàviga NPCSG00
 Aizuwakamatsu Aizuwakamatsu NPCSG00
@@ -25904,8 +25905,7 @@ Uíge Uíge NPCSG00
 Uşak Uşak NPCSG00
 Užhorod Užhorod NPCSG00
 V'atka V'atka NPCSG00
-VLC VLC NPFSG00
-VLC VLC NPMSO00
+VLC VLC NPCNO00 #NPFSG00 NPMSO00
 Vaal Vaal NPCSG00
 Vaasa Vaasa NPCSG00
 Vacarisses Vacarisses NPCSG00
