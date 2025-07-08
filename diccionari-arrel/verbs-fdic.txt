@@ -9441,6 +9441,7 @@ sobreexcitar=categories: V;model:cantar;fonts: LT;
 sobreexplotar=categories: V;model:cantar;fonts: LT;
 sobreexposar=categories: V;model:anquilosar;fonts: LT;
 sobrefilar=categories: V;model:cantar;fonts: LT;
+sobrefinançar=categories: V;model:començar;fonts: derivat;
 sobreimprimir=categories: V;model:imprimir;fonts: LT;
 sobreinterpretar=categories: V;model:cantar;fonts: derivat;
 sobremedicar=categories: V;model:trencar;fonts: derivat;
