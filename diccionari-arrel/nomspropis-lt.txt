@@ -11035,6 +11035,7 @@ Gasser Gasser NPCNSP0 # medical
 Gassió Gassió NPCNSP0
 Gassol Gassol NPCNSP0
 Gassola Gassola NPCNSP0
+Gassull Gassull NPCNSP0
 Gastalt Gastalt NPCNSP0
 Gastart Gastart NPCNSP0
 Gastons Gastó NPMPSP0
@@ -14048,6 +14049,7 @@ Lacasa Lacasa NPCNSP0
 Lacavalleria Lacavalleria NPCNSP0
 Lacedemònia Lacedemònia NPFSG00
 Lacetània Lacetània NPFSG00
+Lachenmann Lachenmann NPCNSP0
 Laci Laci NPMSG00
 Laclau Laclau NPCNSP0
 Lacoma Lacoma NPCNSP0
