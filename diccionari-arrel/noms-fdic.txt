@@ -66403,6 +66403,7 @@ pobresa=categories: F;fonts: LT;
 pobret pobreta=categories: MF;fonts: LT;
 pobretalla=categories: F;fonts: LT;
 pobretat=categories: F;fonts: LT;
+pobrisme=categories: MS;fonts: derivat;
 pobrissalla=categories: F;fonts: LT;
 poc=categories: M;fonts: LT;
 poca-roba=categories: MF;fonts: LT;
