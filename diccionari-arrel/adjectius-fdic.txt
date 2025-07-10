@@ -25659,6 +25659,7 @@ postpolític postpolítica=categories: A;fonts: derivat;
 postporno=categories: AI;fonts: LT;
 postprandial=categories: A;fonts: LT;
 postprocedimental=categories: A;fonts: dsalut;
+postprocessista=categories: A;fonts: derivat;
 postpsicòtic postpsicòtica=categories: A;fonts: dsalut;
 postpuberal=categories: A;fonts: dsalut;
 postpubescent=categories: A;fonts: dsalut;

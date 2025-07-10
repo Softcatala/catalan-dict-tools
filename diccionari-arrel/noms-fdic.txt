@@ -161,6 +161,7 @@
 #ròtol (arcaisme)
 #sagrista=categories: M;fonts: LT; #forma antiga de sagristà
 #salma=categories: F;fonts: LT; molt poc usual
+#sanya=categories: F;fonts: només GDLC i DCVB, dialectal;
 #sarcomices=categories: M;fonts: dsalut;
 #semala=categories: F;fonts: LT; per què s'ha eliminat? Es pot confondre amb alguna cosa?
 #siqua=categories: F;fonts: dsalut;
@@ -67565,6 +67566,7 @@ postpolítica=categories: F;fonts: derivat;
 postpotencial=categories: M;fonts: dsalut;
 postprecipitació=categories: F;fonts: LT;
 postprocessament=categories: M;fonts: derivat;
+postprocessisme=categories: M;fonts: derivat;
 postprocés=categories: MS;fonts: derivat;
 postproducció=categories: F;fonts: LT;
 postpubertat=categories: F;fonts: dsalut;
@@ -75088,7 +75090,6 @@ santvicenter santvicentera=categories: MF;fonts: LT;
 santònic=categories: M;fonts: LT;
 santó=categories: M;fonts: LT;
 sanuienc sanuienca=categories: MF;fonts: LT;
-sanya=categories: F;fonts: LT;
 sanícula=categories: F;fonts: LT;
 saonada=categories: F;fonts: LT;
 saorrà saorrana=categories: MF;fonts: LT;
