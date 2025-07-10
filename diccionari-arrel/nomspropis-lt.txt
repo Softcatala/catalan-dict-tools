@@ -6522,6 +6522,7 @@ Chalossa Chalossa NPCSG00
 Chaman Chaman NPCSG00
 Chamartín Chamartín NPCSG00
 Chamberlain Chamberlain NPCNSP0 # medical
+Chamberí Chamberí NPCSG00
 Chambéry Chambéry NPCSG00
 Chamfort Chamfort NPCNSP0
 Chamonix Chamonix NPCSG00
