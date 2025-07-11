@@ -37042,6 +37042,7 @@ fluïdisme=categories: M;fonts: dsalut;
 fluïditat=categories: F;fonts: LT;
 fluïdització=categories: F;fonts: LT;
 fluïdoteràpia=categories: F;fonts: LT;
+flyer=categories: M;fonts: eadir, english;
 flàmula=categories: F;fonts: LT;
 flàvia=categories: F;fonts: LT;
 flòbia=categories: F;fonts: LT;
