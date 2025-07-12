@@ -19565,6 +19565,7 @@ Peyer Peyer NPCNSP0 # medical
 Peyresourde Peyresourde NPCSG00
 Peyrol Peyrol NPCSG00
 Peyronie Peyronie NPCNSP0 # medical
+Peyu Peyu NPMSSP0
 Pezinok Pezinok NPCSG00
 Peçarodona Peçarodona NPCNSP0
 Peçola Peçola NPCNSP0
