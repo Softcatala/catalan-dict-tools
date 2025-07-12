@@ -19255,6 +19255,7 @@ columel·la=categories: F;fonts: LT;
 columna=categories: F;fonts: LT;
 columnata=categories: F;fonts: LT;
 columneta=categories: F;fonts: LT;
+columnisme=categories: M;fonts: derivat;
 columnista=categories: MF;fonts: LT;
 columnització=categories: F;fonts: dsalut;
 columnífera=categories: F;fonts: LT;

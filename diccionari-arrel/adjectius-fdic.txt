@@ -26191,6 +26191,7 @@ probatori probatòria=categories: A;fonts: LT;
 probe proba=categories: A;fonts: LT;
 probenecid probenecida=categories: A;fonts: dsalut;
 probiòtic probiòtica=categories: A;fonts: LT;
+problematitzador problematitzadora=categories: A;fonts: derivat;
 problemàtic problemàtica=categories: A;fonts: LT;
 probàtica=categories: AF;fonts: LT;
 procariota=categories: A;fonts: LT;
