@@ -21672,6 +21672,7 @@ Rochester Rochester NPCSG00
 Rocina Rocina NPCSG00
 Rockefeller Rockefeller NPCNSP0
 Rockford Rockford NPCSG00
+Rocky Rocky NPCNSP0
 Rocosa Rocosa NPCNSP0
 Rocs Roc NPMPSP0
 Rocío Rocío NPCSSP0
