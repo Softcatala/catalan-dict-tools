@@ -48283,6 +48283,7 @@ lai=categories: M;fonts: LT;
 laic laica=categories: MF;fonts LT;
 laietà laietana=categories: MF;fonts LT;
 lakista=categories: MF;fonts: LT;
+lakota=categories: MF;fonts: LT;
 laliatria=categories: F;fonts: dsalut;
 lalofòbia=categories: F;fonts: LT;
 lalognosi=categories: F;fonts: dsalut;
