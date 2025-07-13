@@ -21451,6 +21451,7 @@ Richard Richard NPMSSP0
 Richelieu Richelieu NPMSSP0
 Richmond Richmond NPCSG00
 Richter Richter NPCNSP0
+Ricky Ricky NPMSSP0
 Ricomana Ricomana NPFSSP0 # avl: noms de persona
 Ricomà Ricomà NPCNSP0
 Ricort Ricort NPCNSP0
