@@ -5803,6 +5803,7 @@ camut camuda=categories: A;fonts: LT;
 camèfit camèfita=categories: A;fonts: LT;
 camític camítica=categories: A;fonts: LT;
 camús camusa=categories: A;fonts: LT;
+canac canaca=categories: A;fonts: GDLC;
 canadenc canadenca=categories: A;fonts: LT;
 canadenco-estatunidenc canadenco-estatunidenca=categories: A;fonts: derivat;
 canaler canalera=categories: A;fonts: LT;
