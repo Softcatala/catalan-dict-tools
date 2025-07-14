@@ -4006,10 +4006,6 @@ amanyacat amanyacat AQ0MS0
 amanyacats amanyacat AQ0MP0
 amanèixer amanèixer VMN00000
 amanéixer amanèixer VMN00000
-amargenador amargenador NCMS000
-amargenadora amargenador NCFS000
-amargenadores amargenador NCFP000
-amargenadors amargenador NCMP000
 amarron amarronar VMIP1S0B
 amarrona amarronar VMIP3S00
 amarrona amarronar VMM02S00

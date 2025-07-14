@@ -162,7 +162,6 @@ amansidor -a=categories: A;fonts: DNV;
 amansidor -a=categories: MF;fonts: DNV;
 amanyacat -ada=categories: A;fonts: DNV;
 amanèixer=categories: V;model:conèixer;fonts: DNV;
-amargenador -a=categories: MF;fonts: DNV;
 amarronar=categories: V;model:cantar;fonts: DNV;
 amartellament=categories: M;fonts: DNV;
 ambicionable=categories: A;fonts: DNV;
