@@ -471,6 +471,7 @@ SAP=categories: MFI;fonts: sigles;
 SARS-CoV-2=categories: MS;fonts: esadir;
 SARS-CoV=categories: MS;fonts: esadir; 
 SARS=categories: FS;fonts: esadir;
+SCCL=categories: FI;fonts: sigles;
 SD=categories: MI;fonts: dsalut;
 SDPI=categories: MI;fonts: sigles;
 SIEI=categories: MS;fonts: sigla;
