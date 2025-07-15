@@ -3494,6 +3494,7 @@ desnivellar=categories: V;model:cantar;fonts: LT;
 desnodrir=categories: V;model:servir;fonts: LT;
 desnombrar=categories: V;model:cantar;fonts: LT;
 desnonar=categories: V;model:cantar;fonts: LT;
+desnormalitzar=categories: V;model:cantar;fonts: derivat;
 desnuar=categories: V;model:lloar;fonts: LT;
 desnucar=categories: V;model:trencar;fonts: LT;
 desnuclearitzar=categories: V;model:cantar;fonts: LT;

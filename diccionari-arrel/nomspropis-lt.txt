@@ -7674,6 +7674,7 @@ Cucaló Cucaló NPCSG00
 Cucart Cucart NPCNSP0
 Cucarull Cucarull NPCNSP0
 Cucuc Cucuc NPCSG00
+Cucurella Cucurella NPCNSP0
 Cucurny Cucurny NPCNSP0
 Cucurulla Cucurulla NPCNSP0
 Cuddapah Cuddapah NPCSG00
