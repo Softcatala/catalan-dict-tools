@@ -27582,6 +27582,7 @@ regionalitzable=categories: A;fonts: DDLC;
 regionalitzador regionalitzadora=categories: A;fonts: derivat;
 regionari=categories: A;fonts: LT;
 regirador regiradora=categories: A;fonts: LT;
+regiradís regiradissa=categories: A;fonts: Coromines;
 regiradíssim regiradíssima=categories: A;fonts: superlative;
 registrable=categories: A;fonts: LT;
 registrador registradora=categories: A;fonts: LT;
