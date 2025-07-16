@@ -23548,6 +23548,7 @@ Singapur Singapur NPCSG00
 Singida Singida NPCSG00
 Singlar Singlar NPCNSP0
 Singuerlín Singuerlín NPCSG00
+Sinjil Sinjil NPCSG00
 Sinoe Sinoe NPCSG00
 Sinol Sinol NPCNSP0
 Sinope Sinope NPCSG00
@@ -25113,7 +25114,6 @@ Torrats Torrats NPCNSP0
 Torraubella Torraubella NPCNSP0
 Torre Torre NPCNSP0
 Torre Torre NPFSG00
-Torre-Pacheco Torre-Pacheco NPCSG00
 Torre-Serona Torre-Serona NPFSG00
 Torre-ramona Torre-ramona NPFSG00
 Torre-roja Torre-roja NPFSG00
