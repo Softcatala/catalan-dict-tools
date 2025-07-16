@@ -25814,6 +25814,7 @@ Unterwalden Unterwalden NPCSG00
 Unverricht-Lundborg Unverricht-Lundborg NPCNSP0 # medical
 Unís Unís NPCNSP0
 Upanixad Upanixad NPMSO00
+Upanixads Upanixad NPMPO00
 Upemba Upemba NPCSG00
 Uplands Uplands NPCPG00
 Upolu Upolu NPCSG00
