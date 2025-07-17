@@ -33825,6 +33825,7 @@ xacrat xacrada=categories: A;fonts: LT;
 xacrós xacrosa=categories: A;fonts: LT;
 xafable=categories: A;fonts: LT;
 xafador xafadora=categories: A;fonts: LT;
+xafadot xafadota=categories: A;fonts: intensiu;
 xafallós xafallosa=categories: A;fonts: LT;
 xafarder xafardera=categories: A;fonts: LT;
 xafarot=categories: A;fonts: LT;

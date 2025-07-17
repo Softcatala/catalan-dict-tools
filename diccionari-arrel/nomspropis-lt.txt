@@ -5272,6 +5272,7 @@ CUP CUP NPFSO00
 Caacupé Caacupé NPCSG00
 Caazapá Caazapá NPCSG00
 Caballero Caballero NPCNSP0
+Caballé Caballé NPCNSP0
 Cabana Cabana NPCNSP0
 Cabanabona Cabanabona NPFSG00
 Cabanac Cabanac NPCNSP0

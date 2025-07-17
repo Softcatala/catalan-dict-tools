@@ -72972,6 +72972,7 @@ ressenya=categories: F;fonts: LT;
 ressenyador ressenyadora=categories: MF;fonts: LT;
 ressenyisme=categories: MS;fonts: derivat;
 ressignificació=categories: F;fonts: derivat;
+ressincronització=categories: F;fonts: derivat;
 ressintonització=categories: F;fonts: derivat;
 ressituació=categories: F;fonts: dsalut;
 ressocialització=categories: F;fonts: termcat;

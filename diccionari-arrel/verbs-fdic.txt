@@ -9020,6 +9020,7 @@ ressenyar=categories: V;model:cantar;fonts: LT;
 ressequir=categories: V;model:servir;fonts: LT;
 resseure=categories: V;model:asseure;fonts: LT;
 ressignificar=categories: V;model:trencar;fonts: DNV;
+ressincronitzar=categories: V;model:cantar;fonts: derivat;
 ressintetitzar=categories: V;model:cantar;fonts: derivat;
 ressintonitzar=categories: V;model:cantar;fonts: derivat;
 ressituar=categories: V;model:lloar;fonts: LT;
