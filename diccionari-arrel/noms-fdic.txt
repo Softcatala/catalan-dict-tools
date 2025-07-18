@@ -79476,6 +79476,7 @@ tamaritar=categories: M;fonts: LT;
 tamarità tamaritana=categories: MF;fonts LT;
 tamariu=categories: M;fonts: LT;
 tamaró=categories: M;fonts: LT;
+tamazic=categories: MS;fonts: termcat;
 tambor=categories: M;fonts LT;
 tambora=categories: F;fonts LT;
 tamborer tamborera=categories: MF;fonts LT;
