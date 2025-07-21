@@ -4063,6 +4063,7 @@ Bernés Bernés NPCNSP0
 Berria Berria NPMSO00
 Berrouaghia Berrouaghia NPCSG00
 Berruga Berruga NPFSG00
+Berruguete Berruguete NPCNSP0
 Berry Berry NPMSG00
 Berrús Berrús NPCSG00
 Bersey Bersey NPCNSP0
@@ -14481,6 +14482,7 @@ Lionès Lionès NPMSG00
 Liorna Liorna NPCSG00
 Lipari Lipari NPCSG00
 Lipeck Lipeck NPCSG00
+Lipovetsky Lipovetsky NPCNSP0
 Lippe Lippe NPCSG00
 Lira Lira NPFSG00
 Lis Lis NPFSSP0 # avl: noms de persona
@@ -17251,6 +17253,7 @@ Morrell Morrell NPCNSP0
 Morri Morri NPCNSP0
 Morricone Morricone NPCNSP0
 Morrinyac Morrinyac NPCNSP0
+Morrison Morrison NPCNSP0
 Morrió Morrió NPCNSP0
 Morro Morro NPCNSP0
 Morrolla Morrolla NPCNSP0
