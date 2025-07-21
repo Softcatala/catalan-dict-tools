@@ -52241,6 +52241,7 @@ mascle=categories: M;fonts: LT;
 masclet=categories: M;fonts: LT;
 mascletada=categories: F;fonts: LT;
 masclisme=categories: M;fonts: LT;
+masclosfera=categories: FS;fonts: termcat;
 mascota=categories: F;fonts: LT;
 mascotí=categories: M;fonts: LT;
 masculinisme=categories: M;fonts: LT;
