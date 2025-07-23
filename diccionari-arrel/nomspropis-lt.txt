@@ -821,6 +821,7 @@ Akashi Akashi NPCSG00
 Akhelōos Akhelōos NPCSG00
 Akhenaton Akhenaton NPMSSP0
 Akhisar Akhisar NPCSG00
+Akhmàtova Akhmàtova NPCNSP0
 Akhtuba Akhtuba NPCSG00
 Akita Akita NPCSG00
 Akron Akron NPCSG00
@@ -12063,6 +12064,7 @@ Gumbric Gumbric NPCNSP0
 Gumersind Gumersind NPMSSP0
 Gumersinda Gumersinda NPFSSP0 # avl: noms de persona
 Gumersinds Gumersind NPMPSP0
+Gumiliov Gumiliov NPCNSP0
 Gumí Gumí NPCNSP0
 Guna Guna NPCNSP0
 Gundelina Gundelina NPFSSP0
@@ -16201,6 +16203,7 @@ McLaren McLaren NPCNO00
 McLeod McLeod NPCNSP0 # medical
 McLuhan McLuhan NPCNO00
 McNamara McNamara NPCNSP0
+McNulty McNulty NPCNSP0
 Mchinji Mchinji NPCSG00
 Meanes Meanes NPCSG00
 Meatpacking Meatpacking NPMSG00

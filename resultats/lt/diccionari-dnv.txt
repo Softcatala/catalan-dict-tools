@@ -38277,12 +38277,6 @@ enroscadissa enroscadís AQ0FS0
 enroscadisses enroscadís AQ0FP0
 enroscadissos enroscadís AQ0MP0
 enroscadís enroscadís AQ0MS0
-enroscament enroscament NCMS000
-enroscaments enroscament NCMP000
-ensabonament ensabonament NCMS000
-ensabonaments ensabonament NCMP000
-ensacament ensacament NCMS000
-ensacaments ensacament NCMP000
 ensage ensajar VMIP1S0V
 ensage ensajar VMM03S0V
 ensage ensajar VMSP1S0V
