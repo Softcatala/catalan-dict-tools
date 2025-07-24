@@ -18020,8 +18020,6 @@ Nord Nord NPCSG00
 Nord-Pas-de-Calais Nord-Pas-de-Calais NPCSG00
 Nord-Westfàlia Nord-Westfàlia NPMSG00
 Nord-amèrica Nord-amèrica NPFSG00
-Nord-est Nord-est NPCSG00
-Nord-oest Nord-oest NPCSG00
 Nordaustlandet Nordaustlandet NPCSG00
 Nordensel'da Nordensel'da NPCSG00
 Nordfjord Nordfjord NPCSG00
