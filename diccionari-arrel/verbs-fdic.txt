@@ -8664,6 +8664,7 @@ reenfocar=categories: V;model:trencar;fonts: derivat;
 reenganxar=categories: V;model:cantar;fonts: LT;
 reenterrar=categories: V;model:cantar;fonts: LT;
 reentrar=categories: V;model:cantar;fonts: derivat;
+reentrenar=categories: V;model:ordenar;fonts: derivat;
 reenviar=categories: V;model:crear;fonts: LT;
 reenvidar=categories: V;model:cantar;fonts: LT;
 reequilibrar=categories: V;model:cantar;fonts: LT;

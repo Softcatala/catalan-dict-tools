@@ -10794,6 +10794,8 @@ Galena Galena NPFSSP0 # avl: noms de persona
 Galera Galera NPCNSP0
 Galera Galera NPFSG00
 Galeri Galeri NPMSSP0 # avl: noms de persona
+Galeusca Galeusca NPCNO00
+Galeuscat Galeuscat NPCNO00
 Galhac Galhac NPCSG00
 Galiana Galiana NPCNSP0
 Galibern Galibern NPCNSP0
