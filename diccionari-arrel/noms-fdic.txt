@@ -73303,6 +73303,7 @@ revernacularització=categories: F;fonts: derivat;
 revers=categories: M;fonts: LT;
 reversibilitat=categories: F;fonts: LT;
 reversió=categories: F;fonts: LT;
+revertebració=categories: F;fonts: derivat;
 reverteri=categories: M;fonts: LT;
 reverència=categories: F;fonts: LT;
 revessa=categories: F;fonts: LT;

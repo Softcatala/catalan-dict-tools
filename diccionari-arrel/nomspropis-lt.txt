@@ -11062,6 +11062,7 @@ Gater Gater NPCNSP0
 Gateshead Gateshead NPCSG00
 Gatielles Gatielles NPCNSP0
 Gatius Gatius NPCNSP0
+Gattopardo Gattopardo NPMSSP0
 Gatwick Gatwick NPCSG00
 Gau Gau NPCNSP0
 Gaubert Gaubert NPCNSP0
@@ -15304,6 +15305,7 @@ Maiols Maiol NPMPSP0
 Maiques Maiques NPCNSP0
 Maiquetía Maiquetía NPCSG00
 Mairata Mairata NPCNSP0
+Maisonnave Maisonnave NPCNSP0
 Maisons-Alfort Maisons-Alfort NPCSG00
 Maite Maite NPFSSP0
 Maitino Maitino NPCSG00
