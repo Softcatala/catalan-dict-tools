@@ -8305,6 +8305,7 @@ cristal·loide=categories: A;fonts: LT;
 cristal·lí cristal·lina=categories: A;fonts: LT;
 cristal·lífer cristal·lífera=categories: A;fonts: LT;
 cristianitzador -a=categories: A;fonts: DNV;
+cristianobizantí cristianobizantina=categories: A;fonts: derivat;
 cristianodemòcrata=categories: A;fonts: LT;
 cristinenc cristinenca=categories: A;fonts: LT;
 cristià cristiana [sup. cristianíssim]=categories: A;fonts: LT;

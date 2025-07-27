@@ -1499,6 +1499,7 @@ Als Als NPCSG00
 Alsamora Alsamora NPCNSP0
 Alsamora Alsamora NPCSG00
 Alsius Alsius NPCNSP0
+Alstom Alstom NPCNSP0
 Alström Alström NPCNSP0 # medical
 Alsàcia Alsàcia NPFSG00
 Alsàcia-Lorena Alsàcia-Lorena NPCSG00
@@ -6570,6 +6571,7 @@ Charleville-Mézières Charleville-Mézières NPCSG00
 Charlie Charlie NPMSSP0
 Charlot Charlot NPMSSP0
 Charlotte Charlotte NPCSG00
+Charlottesville Charlottesville NPCSG00
 Charlottetown Charlottetown NPCSG00
 Charolais Charolais NPCSG00
 Charpentier Charpentier NPCNSP0
@@ -13992,6 +13994,7 @@ Kussmaul Kussmaul NPCNSP0 # medical
 Kutaisi Kutaisi NPCSG00
 Kutxa Kutxa NPFSO00
 Kuwait Kuwait NPMSG00
+Kuçovë Kuçovë NPCSG00
 Kveim Kveim NPCNSP0 # medical
 Kwangju Kwangju NPCSG00
 Kwara Kwara NPCSG00
@@ -21403,6 +21406,7 @@ Rhesus Rhesus NPCNSP0 # medical
 Rheydt Rheydt NPCSG00
 Rho Rho NPCSG00
 Rhode Rhode NPCSG00
+Rhodes Rhodes NPCNSP0
 Rhodèsia Rhodèsia NPFSG00
 Rhondda Rhondda NPCSG00
 Ria Ria NPCSG00
