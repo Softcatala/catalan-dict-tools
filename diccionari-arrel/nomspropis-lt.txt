@@ -3447,6 +3447,7 @@ Barxeta Barxeta NPFSG00
 Barà Barà NPCSG00
 Barça Barça NPMSO00
 Barés Barés NPCNSP0
+Baríxnikov Baríxnikov NPCNSP0
 Baró Baró NPCNSP0
 Barāhnagar Barāhnagar NPCSG00
 Bas Bas NPCNSP0
@@ -10695,6 +10696,7 @@ Fāshōda Fāshōda NPCSG00
 Fīrozābād Fīrozābād NPCSG00
 GAL GAL NPMPO00
 GAM GAM NPCNO00
+GATCPAC GATCPAC NPMSO00
 GDLC GDLC NPMSO00
 GDPR GDPR NPMSO00
 GEiEG GEiEG NPMSO00
@@ -25018,6 +25020,7 @@ Tomelloso Tomelloso NPMSG00
 Tomes Tomes NPCNSP0
 Tomet Tomet NPCNSP0
 Tomet Tomet NPMSG00
+Tomeu Tomeu NPMSSP0
 Tomeu Tomeu NPMSSP0 # avl: noms de persona
 Tomeua Tomeua NPFSSP0 # avl: noms de persona
 Tomeva Tomeva NPFSSP0 # avl: noms de persona
