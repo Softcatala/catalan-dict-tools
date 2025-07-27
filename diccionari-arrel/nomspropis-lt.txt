@@ -1,3 +1,4 @@
+
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Alarma Alarma NPCNSP0
 #Ald Ald NPMSSP0 # avl: noms de persona
@@ -13734,6 +13735,8 @@ Kenitra Kenitra NPCSG00
 Kenmare Kenmare NPCSG00
 Kennedy Kennedy NPCNSP0
 Kenneth Kenneth NPMSSP0
+Kennington Kennington NPCSG00
+Kensington Kensington NPCSG00
 Kent Kent NPCSG00
 Kentucky Kentucky NPCSG00
 Kenya Kenya NPFSG00
