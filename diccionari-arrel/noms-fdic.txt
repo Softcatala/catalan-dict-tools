@@ -72068,6 +72068,7 @@ referèndum=categories: M;fonts: LT;
 refeta=categories: F;fonts: LT;
 refetor=categories: M;fonts: LT;
 refetorer refetorera=categories: MF;fonts LT;
+refeudalització=categories: F;fonts: derivat;
 refiança=categories: F;fonts: LT;
 refil=categories: M;fonts: LT;
 refilada=categories: F;fonts: LT;

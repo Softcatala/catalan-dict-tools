@@ -8699,6 +8699,7 @@ referir=categories: V;model:servir;fonts: LT;
 refermar=categories: V;model:cantar;fonts: LT;
 referrar=categories: V;model:cantar;fonts: LT;
 refertilitzar=categories: V;model:cantar;fonts: LT;
+refeudalitzar=categories: V;model:cantar;fonts:derivat;
 refiar=categories: V;model:crear;fonts: LT;
 refiblar=categories: V;model:cantar;fonts: LT;
 refigurar=categories: V;model:cantar;fonts: LT;

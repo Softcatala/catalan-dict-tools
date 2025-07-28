@@ -27016,6 +27016,7 @@ Wachowski Wachowski NPCNSP0
 Waco Waco NPCSG00
 Wada Wada NPCNSP0
 Wada Wada NPCNSP0 # medical
+Wagenknecht Wagenknecht NPCNSP0
 Wagensberg Wagensberg NPCNSP0
 Wagner Wagner NPCNSP0
 Wainganga Wainganga NPCSG00
