@@ -9922,6 +9922,7 @@ Fenícia Fenícia NPFSG00
 Ferenczy Ferenczy NPCNSP0
 Ferentino Ferentino NPCSG00
 Fergana Fergana NPCSG00
+Ferguson Ferguson NPCNSP0
 Ferigle Ferigle NPCNSP0
 Ferkéssédougou Ferkéssédougou NPCSG00
 Ferlo Ferlo NPCSG00
