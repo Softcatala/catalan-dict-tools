@@ -14512,6 +14512,7 @@ Lisch Lisch NPCNSP0 # medical
 Lisfranc Lisfranc NPCNSP0 # medical
 Lisieux Lisieux NPCSG00
 Lisip Lisip NPMSSP0 # avl: noms de persona
+Lisp Lisp NPMSO00
 Lissenko Lissenko NPCNSP0
 Lissone Lissone NPCSG00
 Liszt Liszt NPCNSP0
