@@ -19694,6 +19694,7 @@ maduret madureta=categories: A;fonts: LT;
 madurès maduresa=categories: A;fonts: LT;
 maellà maellana=categories: A;fonts: LT;
 maestratenc maestratenca=categories: A;fonts: AVL;
+mafioset mafioseta=categories: A; font:diminutiu;
 mafiós mafiosa [sup. mafiosíssim]=categories: A; font:apertium;
 mag maga=categories: A;fonts: LT;
 maganxós maganxosa=categories: A;fonts: LT;
