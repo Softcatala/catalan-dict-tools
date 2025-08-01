@@ -18140,6 +18140,7 @@ cletxa=categories: F;fonts: LT;
 clevill=categories: M;fonts: LT;
 clic=categories: M;fonts: LT;
 clica-i-recull=categories: MS;fonts: termcat;
+clickbait=categories: MS;fonts: english;
 clidartritis=categories: FI;fonts: dsalut;
 clidectomia=categories: F;fonts: dsalut;
 clidini=categories: MS;fonts: dsalut;
