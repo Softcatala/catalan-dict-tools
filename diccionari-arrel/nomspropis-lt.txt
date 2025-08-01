@@ -14058,6 +14058,8 @@ Labraq Labraq NPCSG00
 Labritja Labritja NPFSG00
 Labró Labró NPCNSP0
 Labrós Labrós NPCNSP0
+Labubu Labubu NPCSSP0
+Labubus Labubu NPCPSP0
 Labèrnia Labèrnia NPCNSP0
 Labé Labé NPCSG00
 Labòria Labòria NPCNSP0
