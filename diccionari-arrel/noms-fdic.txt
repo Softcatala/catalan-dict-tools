@@ -77348,6 +77348,7 @@ sobretensió=categories: F;fonts: LT;
 sobretitulat=categories: M;fonts: LT;
 sobretot=categories: M;fonts: LT;
 sobretractament=categories: M;fonts: dsalut;
+sobreturisme=categories: MS;fonts: derivat;
 sobretítol=categories: M;fonts: LT;
 sobretò=categories: M;fonts: LT;
 sobreutilització=categories: F;fonts: derivat;
