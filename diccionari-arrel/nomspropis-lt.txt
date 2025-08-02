@@ -15389,7 +15389,7 @@ Malgrat Malgrat NPCNSP0
 Malgrat Malgrat NPCSG00
 Malhivern Malhivern NPCNSP0
 Mali Mali NPCSG00
-Malibú Malibú NPCSG00
+Malibu Malibu NPCSG00
 Malines Malines NPCSG00
 Malinowski Malinowski NPCNSP0
 Malkovich Malkovich NPCNSP0
