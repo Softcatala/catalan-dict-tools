@@ -78831,6 +78831,7 @@ superobjectiu=categories: M;fonts: derivat;
 superoferta=categories: F;fonts: derivat;
 superorde [pl. superordes o superórdens]=categories: M;fonts: LT;
 superordenació=categories: F;fonts: derivat;
+superordinació=categories: F;fonts: termcat;
 superordinador=categories: M;fonts: derivat;
 superordre=categories: M;fonts: LT;
 superorganisme=categories: M;fonts: GEC;
