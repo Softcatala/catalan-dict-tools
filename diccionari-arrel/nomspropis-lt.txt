@@ -23139,6 +23139,7 @@ Sencer Sencer NPCNSP0
 Sendai Sendai NPCSG00
 Sender Sender NPCNSP0
 Sendil Sendil NPCNSP0
+Sendra Sendra NPCNSP0
 Senegal Senegal NPMSG00
 Senegàmbia Senegàmbia NPCSG00
 Seneja Seneja NPCSG00
