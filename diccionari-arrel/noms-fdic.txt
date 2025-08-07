@@ -68119,6 +68119,7 @@ presentalla=categories: F;fonts: LT;
 presentisme=categories: M; fonts: termcat;
 presenyalització=categories: F;fonts: termcat;
 presepi=categories: M;fonts: LT;
+preserralada=categories: F;fonts: derivat;
 preservacionisme=categories: M;fonts: derivat;
 preservació=categories: F;fonts: LT;
 preservador preservadora=categories: MF;fonts LT;
