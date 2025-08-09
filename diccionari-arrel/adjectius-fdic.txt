@@ -25604,6 +25604,7 @@ postescarlatinós postescarlatinosa=categories: A;fonts: dsalut;
 postescolar=categories: A;fonts: derivat;
 postesfígmic postesfígmica=categories: A;fonts: dsalut;
 postesquizofrènic postesquizofrènica=categories: A;fonts: dsalut;
+postestalinista=categories: A;fonts: derivat;
 postestenòtic postestenòtica=categories: A;fonts: dsalut;
 postestructuralista=categories: A;fonts: termcat;
 postexantematós postexantematosa=categories: A;fonts: dsalut;
