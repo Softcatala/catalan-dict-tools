@@ -4956,6 +4956,7 @@ Brontë Brontë NPCNSP0
 Bronx Bronx NPMSG00
 Brooke Brooke NPCNSP0 # medical
 Brooklyn Brooklyn NPCSG00
+Brooks Brooks NPCNSP0
 Broquers Broquers NPCNSP0
 Broquet Broquet NPCNSP0
 Broquetes Broquetes NPCNSP0
@@ -8094,6 +8095,7 @@ Delmunts Delmunts NPCNSP0
 Delmàs Delmàs NPCNSP0
 Deloncle Deloncle NPCNSP0
 Delos Delos NPCSG00
+Delphi Delphi NPCNO00
 Delpont Delpont NPCNSP0
 Delprat Delprat NPCNSP0
 Delpuig Delpuig NPCNSP0

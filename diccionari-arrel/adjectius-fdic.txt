@@ -30096,6 +30096,7 @@ subprostàtic subprostàtica=categories: A;fonts: dsalut;
 subpulmonar=categories: A;fonts: dsalut;
 subpulpar=categories: A;fonts: dsalut;
 subpúbic subpúbica=categories: A;fonts: dsalut;
+subquadràtic subquadràtica=categories: A;fonts: derivat;
 subratllable=categories: A;fonts: LT;
 subratllador -a=categories: A;fonts: derivat;
 subregional=categories: A;fonts: LT;
