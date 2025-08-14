@@ -6832,6 +6832,7 @@ Claris Claris NPCNSP0
 Clarissa Clarissa NPFSSP0 # avl: noms de persona
 Clarià Clarià NPCNSP0
 Clarió Clarió NPCNSP0
+Clark Clark NPCNSP0
 Clarà Clarà NPCNSP0
 Clarà Clarà NPCSG00
 Clarí Clarí NPCNSP0
