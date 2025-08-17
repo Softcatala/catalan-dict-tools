@@ -14982,6 +14982,7 @@ habitacular=categories: A;fonts: LT;
 habitador habitadora=categories: A;fonts: LT;
 habitual [sup. habitualíssim]=categories: A;fonts: LT;
 habsburguès habsburguesa=categories: A;fonts: DDLC;
+hacker=categories: A;fonts: GDLC;
 hacktivista=categories: A;fonts: derivat;
 hadal=categories: A;fonts: LT;
 hadrònic hadrònica=categories: A;fonts: LT;
