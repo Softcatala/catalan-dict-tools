@@ -9221,6 +9221,7 @@ desordenat desordenada [sup. desordenadíssim]=categories: A; font:apertium;
 desorganitzador desorganitzadora=categories: A;fonts: LT;
 desorganitzat desorganitzada [sup. desorganitzadíssim]=categories: A; font:apertium;
 desorientador desorientadora=categories: A;fonts: LT;
+desorientat desorientada [sup. desorientadíssim]=categories: A;fonts: participi;
 desoxidant=categories: A;fonts: LT;
 desoxiribonucleic desoxiribonucleica=categories: A;fonts: LT;
 desparençador desparençadora=categories: A;fonts: LT;
