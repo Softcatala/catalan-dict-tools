@@ -73738,6 +73738,7 @@ robocop=categories: M;fonts: english;
 roboració=categories: F;fonts: LT;
 roborant=categories: M;fonts: LT;
 robot=categories: M;fonts: LT;
+robotaxi=categories: M;fonts: neologisme;
 robotització=categories: F;fonts: LT;
 roburita=categories: F;fonts: LT;
 robuster=categories: M;fonts: LT;
