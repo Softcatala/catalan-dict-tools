@@ -26293,6 +26293,7 @@ profètic profètica=categories: A;fonts: LT;
 profés professa=categories: A;fonts: LT;
 profús profusa=categories: A;fonts: LT;
 progenital=categories: A;fonts: dsalut;
+progermànic progermànica=categories: A;fonts: derivat;
 progestacional=categories: A;fonts: LT;
 progestomimètic progestomimètica=categories: A;fonts: dsalut;
 progihadista=categories: A;fonts: derivat;
