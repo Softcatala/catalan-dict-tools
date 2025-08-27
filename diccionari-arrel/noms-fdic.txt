@@ -55220,6 +55220,7 @@ ministril=categories: M;fonts: LT;
 minisubmarí=categories: M;fonts: LT;
 minisuite=categories: F;fonts: LT;
 minisèrie=categories: F;fonts: LT;
+minisúper=categories: M;fonts: derivat;
 minitractor=categories: M; fonts: termcat;
 minitrampolí=categories: M;fonts: LT;
 miniulleres=categories: FP;fonts: LT;
