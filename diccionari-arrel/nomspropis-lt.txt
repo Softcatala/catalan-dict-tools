@@ -12331,6 +12331,7 @@ Heilongjiang Heilongjiang NPCSG00
 Heimlich Heimlich NPCNSP0 # medical
 Heine Heine NPCNSP0
 Heinrich Heinrich NPMSSP0
+Heinz Heinz NPCNSP0
 Heisenberg Heisenberg NPCNSP0
 Hekla Hekla NPCSG00
 Heladi Heladi NPMSSP0 # avl: noms de persona
@@ -13934,6 +13935,7 @@ Kozara Kozara NPCSG00
 Košice Košice NPCSG00
 Kra Kra NPCSG00
 Krabbe Krabbe NPCNSP0 # medical
+Kraft Kraft NPCNSP0
 Kragujevac Kragujevac NPCSG00
 Krajina Krajina NPCSG00
 Krakatoa Krakatoa NPCSG00
@@ -27912,5 +27914,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Kraft Kraft NPCNSP0
-Heinz Heinz NPCNSP0
