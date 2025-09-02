@@ -27912,3 +27912,5 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Kraft Kraft NPCNSP0
+Heinz Heinz NPCNSP0
