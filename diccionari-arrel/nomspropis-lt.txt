@@ -2724,6 +2724,7 @@ Atitlan Atitlan NPCSG00
 Atjeh Atjeh NPCSG00
 Atlanta Atlanta NPCSG00
 Atles Atles NPMNG00
+Antiatles Antiatles NPMSG00
 Atles Atles NPMSSP0
 Atlàntida Atlàntida NPFSG00
 Atocha Atocha NPCSG00
