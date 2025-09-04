@@ -1986,6 +1986,7 @@ Antenor Antenor NPMSSP0 # avl: noms de persona
 Antequera Antequera NPCSG00
 Anter Anter NPMSSP0
 Anters Anter NPMPSP0
+Antiatles Antiatles NPMSG00
 Antibes Antibes NPCSG00
 Anticosti Anticosti NPCSG00
 Anticó Anticó NPCNSP0
@@ -2614,6 +2615,7 @@ Ashikaga Ashikaga NPCSG00
 Ashkelon Ashkelon NPCSG00
 Ashley Ashley NPCNSP0
 Ashquelon Ashquelon NPCSG00
+Ashton-under-Lyne Ashton-under-Lyne NPCSG00
 Asier Asier NPMSSP0
 Asimov Asimov NPCNSP0 # wiki
 Asinara Asinara NPCSG00
@@ -2724,7 +2726,6 @@ Atitlan Atitlan NPCSG00
 Atjeh Atjeh NPCSG00
 Atlanta Atlanta NPCSG00
 Atles Atles NPMNG00
-Antiatles Antiatles NPMSG00
 Atles Atles NPMSSP0
 Atlàntida Atlàntida NPFSG00
 Atocha Atocha NPCSG00
@@ -16831,6 +16832,7 @@ Mollà Mollà NPMSSP0
 Molló Molló NPCNSP0
 Molló Molló NPCSG00
 Molnell Molnell NPCSG00
+Moloc Moloc NPMSSP0
 Molons Molons NPCNSP0
 Molotov Molotov NPCNSP0
 Molsosa Molsosa NPFSG00

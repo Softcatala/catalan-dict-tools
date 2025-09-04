@@ -5682,6 +5682,7 @@ calentet calenteta=categories: A;fonts: LT;
 calentonet calentoneta=categories: A;fonts: diminutiu;
 calentó calentona=categories: A;fonts: LT;
 calfador calfadora=categories: A;fonts: LT;
+calibrable=categories: A;fonts: derivat;
 calicat calicada=categories: A;fonts: LT;
 caliciflor caliciflora=categories: A;fonts: LT;
 caliciforme=categories: A;fonts: LT;
