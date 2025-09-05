@@ -23981,6 +23981,7 @@ Stalin Stalin NPCNSP0
 Stalingrad Stalingrad NPCSG00
 Stallman Stallman NPCNSP0
 Stamford Stamford NPCSG00
+Stamitz Stamitz NPCNSP0
 Stanford Stanford NPCNSP0
 Stanford Stanford NPCSG00
 Stanislavski Stanislavski NPCNSP0
