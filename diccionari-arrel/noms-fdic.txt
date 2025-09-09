@@ -72624,6 +72624,7 @@ rentadora=categories: F;fonts: LT;
 rentadorada=categories: F;fonts: derivat;
 rentamans=categories: MI;fonts: LT;
 rentament=categories: M;fonts: LT;
+rentaparabrisa=categories: M;fonts: derivat;
 rentapeus=categories: MI;fonts: LT;
 rentaplats=categories: MFI;fonts: LT;
 rentat=categories: M;fonts: LT;

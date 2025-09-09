@@ -15536,6 +15536,7 @@ hipereutectoide=categories: A;fonts: LT;
 hipereutròfic hipereutròfica=categories: A;fonts: derivat;
 hipereutèctic hipereutèctica=categories: A;fonts: LT;
 hiperfemení hiperfemenina=categories: A;fonts: derivat;
+hiperfinançat hiperfinançada=categories: A;fonts: derivat;
 hiperflexible=categories: A;fonts: derivat;
 hiperfosforilat hiperfosforilada=categories: A;fonts: derivat;
 hiperfuncionant=categories: A;fonts: derivat;
