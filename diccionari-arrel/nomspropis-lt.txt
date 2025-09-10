@@ -14284,6 +14284,7 @@ Lecce Lecce NPCSG00
 Lecco Lecco NPCSG00
 Lech Lech NPCSG00
 Lecina Lecina NPFSSP0 # avl: noms de persona
+Lecornu Lecornu NPCNSP0
 Leda Leda NPFSSP0 # avl: noms de persona
 Leeds Leeds NPCSG00
 Lees Lea NPFPSP0

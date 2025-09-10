@@ -27642,6 +27642,7 @@ regular=categories: A;fonts: LT;
 regularitzable=categories: A;fonts: LT;
 regularitzador regularitzadora=categories: A;fonts: LT;
 regulatiu regulativa=categories: A;fonts: LT;
+regulatori regulatòria=categories: A;fonts: DNV,optimot;
 reguívol reguívola=categories: A;fonts: LT;
 rehabilitable=categories: A;fonts: LT;
 rehabilitador rehabilitadora=categories: A;fonts: dfrequencies;
