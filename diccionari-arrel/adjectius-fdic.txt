@@ -25791,6 +25791,7 @@ prealfabètic prealfabètica=categories: A;fonts: derivat;
 preanal=categories: A;fonts: dsalut;
 preanalític preanalítica=categories: A;fonts: dsalut;
 preanestèsic preanestèsica=categories: A;fonts: dsalut;
+preaprovat preaprovada=categories: A;fonts: derivat;
 prearqueà prearqueana=categories: A;fonts: LT;
 preatàxic preatàxica=categories: A;fonts: dsalut;
 preaural=categories: A;fonts: dsalut;
