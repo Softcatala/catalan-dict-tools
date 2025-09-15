@@ -22369,6 +22369,7 @@ Saint-Quentin Saint-Quentin NPCSG00
 Saint-Saëns Saint-Saëns NPCNSP0
 Saint-Simon Saint-Simon NPCNSP0
 Saint-Simon Saint-Simon NPCSG00
+Saint-Tropez Saint-Tropez NPCSG00
 Saint-Vincent-de-Paul Saint-Vincent-de-Paul NPCSG00
 Saint-Étienne Saint-Étienne NPCSG00
 Saint-Étienne-du-Rouvray Saint-Étienne-du-Rouvray NPCSG00
