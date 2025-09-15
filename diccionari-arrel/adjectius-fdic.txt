@@ -2530,6 +2530,7 @@ antilliscant=categories: A;fonts: LT;
 antillà antillana=categories: A;fonts: LT;
 antilul·lista=categories: A;fonts: LT;
 antiluètic antiluètica=categories: A;fonts: dsalut;
+antilàser=categories: AI;fonts: derivat;
 antilèmic antilèmica=categories: A;fonts: dsalut;
 antilèptic antilèptica=categories: A;fonts: LT;
 antilògic antilògica=categories: A;fonts: LT;
