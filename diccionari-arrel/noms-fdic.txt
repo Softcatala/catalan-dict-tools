@@ -72999,6 +72999,7 @@ ressentiment=categories: M;fonts: LT;
 ressenya=categories: F;fonts: LT;
 ressenyador ressenyadora=categories: MF;fonts: LT;
 ressenyisme=categories: MS;fonts: derivat;
+ressenyista=categories: MF;fonts: derivat;
 ressignificació=categories: F;fonts: derivat;
 ressincronització=categories: F;fonts: derivat;
 ressintonització=categories: F;fonts: derivat;
