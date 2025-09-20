@@ -12093,6 +12093,7 @@ Gurb Gurb NPCSG00
 Gurn Gurn NPMSG00
 Gurrera Gurrera NPCNSP0
 Gurriu Gurriu NPCNSP0
+Gurévitx Gurévitx NPCNSP0
 Gurí Gurí NPCNSP0
 Gusart Gusart NPCNSP0
 Gusils Gusils NPCNSP0
@@ -16539,6 +16540,8 @@ Migdònia Migdònia NPCSG00
 Mijaran Mijaran NPCSG00
 Mike Mike NPMSSP0
 Mikhaïl Mikhaïl NPMSSP0
+Mikoian Mikoian NPCNSP0
+Mikoian-Gurévitx Mikoian-Gurévitx NPCNSP0
 Mikulicz Mikulicz NPCNSP0 # medical
 Mila Mila NPFSSP0 # avl: noms de persona
 Milanesat Milanesat NPMSG00
@@ -22540,6 +22543,7 @@ Salvany Salvany NPCNSP0
 Salvanyà Salvanyà NPCNSP0
 Salvassòria Salvassòria NPCSG00
 Salvat Salvat NPCNSP0
+Salvat-Papasseit Salvat-Papasseit NPCNSP0
 Salvatella Salvatella NPCNSP0
 Salvaterra Salvaterra NPCNSP0
 Salvaterra Salvaterra NPCSG00
