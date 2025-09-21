@@ -27007,6 +27007,7 @@ Vulcà Vulcà NPMSSP0
 Vulpellac Vulpellac NPCNSP0
 Vulpellac Vulpellac NPCSG00
 Vuze Vuze NPCNO00
+Vučić Vučić NPCNSP0
 Vyčegda Vyčegda NPCSG00
 Vàlter Vàlter NPMSSP0 # avl: noms de persona
 Vània Vània NPCNSP0 # l'oncle Vània
