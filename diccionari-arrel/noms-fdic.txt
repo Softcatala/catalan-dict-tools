@@ -68705,6 +68705,7 @@ propagandisme=categories: M;fonts: LT;
 propagandista=categories: MF;fonts: LT;
 propalació=categories: F; fonts: Jané;
 propalador propaladora=categories: MF;fonts LT;
+propalestí propalestina=categories: MF;fonts: derivat;
 propal·lilonal=categories: M;fonts: dsalut;
 propamidina=categories: F;fonts: dsalut;
 propanal=categories: M;fonts: LT;
