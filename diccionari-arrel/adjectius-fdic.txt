@@ -22327,6 +22327,7 @@ nigral=categories: A;fonts: dsalut;
 nigromàntic nigromàntica=categories: A;fonts: LT;
 nigrostriatal=categories: A;fonts: termcat;
 nihilista=categories: A;fonts: LT;
+nikkei=categories: AI;fonts: esadir;
 nilosaharià nilosahariana=categories: A;fonts: LT;
 niloticosaharià niloticosahariana=categories: A;fonts: LT;
 nilpotent=categories: A;fonts: LT;
