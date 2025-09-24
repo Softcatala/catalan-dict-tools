@@ -12556,6 +12556,7 @@ Hipaci Hipaci NPMSSP0
 Hipacis Hipaci NPMPSP0
 Hipercor Hipercor NPCNO00
 Hiperió Hiperió NPCSG00
+Hipermapa Hipermapa NPMSO00
 Hipona Hipona NPCSG00
 Hippel-Lindau Hippel-Lindau NPCNSP0 # medical
 Hipra Hipra NPFSO00
@@ -13818,6 +13819,7 @@ Kilimanjaro Kilimanjaro NPCSG00
 Kilinochchi Kilinochchi NPCSG00
 Kilmer Kilmer NPCNSP0
 Kimberley Kimberley NPCSG00
+Kimmel Kimmel NPCNSP0
 Kimmelstiel-Wilson Kimmelstiel-Wilson NPCNSP0 # medical
 Kimura Kimura NPCNSP0 # medical
 Kinder Kinder NPCNSP0
