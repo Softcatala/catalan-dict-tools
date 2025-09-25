@@ -4861,6 +4861,7 @@ Brauli Brauli NPMSSP0
 Braulis Brauli NPMPSP0
 Braun Braun NPCNSP0 # medical
 Braunau Braunau NPCSG00
+Brave Brave NPMSO00
 Braveheart Braveheart NPCNSP0
 Bravo Bravo NPCNSP0
 Brazzaville Brazzaville NPCSG00
