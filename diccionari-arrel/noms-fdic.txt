@@ -24884,6 +24884,7 @@ dessecant=categories: M;fonts: LT;
 dessegregació=categories: F;fonts: termcat;
 dessensibilització=categories: F;fonts: LT;
 desservei=categories: M;fonts: LT;
+desservici=categories: M;fonts: DNV;
 desset1=categories: M;fonts: LT;
 desset=categories: MFI;fonts: LT;
 dessexualització=categories: F;fonts: derivat;
