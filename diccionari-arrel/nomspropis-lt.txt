@@ -4272,6 +4272,7 @@ Biniparrell Biniparrell NPCSG00
 Binissafúller Binissafúller NPCSG00
 Binissalem Binissalem NPCSG00
 Binixems Binixems NPCSG00
+Binoche Binoche NPCNSP0
 Binswanger Binswanger NPCNSP0 # medical
 Bintan Bintan NPCSG00
 Binèfar Binèfar NPCSG00
@@ -21258,6 +21259,7 @@ Redbridge Redbridge NPCSG00
 Redempció Redempció NPFSSP0 # avl: noms de persona
 Redempt Redempt NPMSSP0 # avl: noms de persona
 Redempta Redempta NPFSSP0 # avl: noms de persona
+Redford Redford NPCNSP0
 Redon Redon NPCNSP0
 Redon Redon NPCSG00
 Redonda Redonda NPFSG00
@@ -24126,6 +24128,7 @@ Sumi Sumi NPCSG00
 Summerhill Summerhill NPCSO00
 Sumy Sumy NPCSG00
 Sunak Sunak NPCNSP0
+Sundance Sundance NPCNSP0
 Sundarbans Sundarbans NPMPG00
 Sunderland Sunderland NPCSG00
 Sundsvall Sundsvall NPCSG00
