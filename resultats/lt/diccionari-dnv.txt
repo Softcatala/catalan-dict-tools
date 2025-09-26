@@ -49876,10 +49876,6 @@ himnejàssim himnejar VMSI1P04
 himnejàssiu himnejar VMSI2P04
 himnejàvem himnejar VMII1P00
 himnejàveu himnejar VMII2P00
-hiperenllaç hiperenllaç NCMS000
-hiperenllaços hiperenllaç NCMP000
-hipervincle hipervincle NCMS000
-hipervincles hipervincle NCMP000
 hipnal hipnal NCMS000
 hipnals hipnal NCMP000
 hipnofòbia hipnofòbia NCFS000
