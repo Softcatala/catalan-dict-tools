@@ -9515,6 +9515,7 @@ Eugènies Eugènia NPFPSP0
 Eulali Eulali NPMSSP0 # avl: noms de persona
 Eulampi Eulampi NPMSSP0
 Eulampis Eulampi NPMPSP0
+Euler Euler NPCNSP0
 Eulogi Eulogi NPMSSP0
 Eulogis Eulogi NPMPSP0
 Eulàlia Eulàlia NPFSSP0
