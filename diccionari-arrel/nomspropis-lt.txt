@@ -23702,6 +23702,7 @@ Slupsk Slupsk NPCSG00
 Smara Smara NPCSG00
 Smaug Smaug NPMSSP0
 Smeaton Smeaton NPCNSP0
+Smetana Smetana NPCNSP0
 Smith Smith NPCNSP0
 Smith-Robinson Smith-Robinson NPCNSP0 # medical
 Smolensk Smolensk NPCSG00
