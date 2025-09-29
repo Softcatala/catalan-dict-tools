@@ -16484,6 +16484,7 @@ Mesull Mesull NPMSG00
 Meta Meta NPCSG00
 Metapont Metapont NPCSG00
 Meteocat Meteocat NPMSO00
+Meteosat Meteosat NPMNO00
 Metge Metge NPCNSP0
 Metimme Metimme NPFSSP0 # avl: noms de persona
 Metis Metis NPCSG00
