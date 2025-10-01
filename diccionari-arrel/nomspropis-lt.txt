@@ -1,4 +1,3 @@
-
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Alarma Alarma NPCNSP0
 #Ald Ald NPMSSP0 # avl: noms de persona
@@ -16687,6 +16686,7 @@ Mischabel Mischabel NPCSG00
 Misep Misep NPCSG00
 Miserac Miserac NPCNSP0
 Misericòrdia Misericòrdia NPFSSP0 # avl: noms de persona
+Mishima Mishima NPMPSP0
 Misilmeri Misilmeri NPCSG00
 Miskolc Miskolc NPCSG00
 Mislata Mislata NPFSG00
@@ -20756,6 +20756,7 @@ Pàmfils Pàmfil NPMPSP0
 Pàmies Pàmies NPCNSP0
 Pàmies Pàmies NPCSG00
 Pàndols Pàndols NPCNG00
+Pàpies Pàpies NPMSSP0
 Pàrmenes Pàrmenes NPMSSP0 # avl: noms de persona
 Pàrtia Pàrtia NPCSG00
 Pàtrocle Pàtrocle NPMSSP0 # avl: noms de persona
