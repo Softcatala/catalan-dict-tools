@@ -9543,6 +9543,7 @@ Eurofighter Eurofighter NPMNO00
 Eurogrup Eurogrup NPMSO00
 Eurolliga Eurolliga NPFSO00
 Eurolligues Eurolliga NPFSO00
+Euromaidan Euromaidan NPCNO00
 Euromed Euromed NPMNO00
 Europa Europa NPFSG00
 Europarlament Europarlament NPMSO00
@@ -12595,6 +12596,7 @@ Hoffmann Hoffmann NPCNSP0 # medical
 Hofmann Hofmann NPCNSP0
 Hofmannsthal Hofmannsthal NPCNSP0
 Hofmeister Hofmeister NPCNSP0
+Hofstadter Hofstadter NPCNSP0
 Hogarth Hogarth NPCNSP0
 Hogwarts Hogwarts NPCSG00
 Hohenstaufen Hohenstaufen NPCNSP0
@@ -13677,6 +13679,7 @@ Karangetang Karangetang NPCSG00
 Karatau Karatau NPCSG00
 Karatxais Karatxais NPMPG00
 Karbala Karbala NPCSG00
+Kardaixov Kardaixov NPCNSP0
 Karen Karen NPCSG00
 Karkamiş Karkamiş NPCSG00
 Karl Karl NPMSSP0
@@ -15732,6 +15735,7 @@ Maribel Maribel NPFSSP0
 Maribor Maribor NPCSG00
 Maric Maric NPCNSP0
 Marica Marica NPCSG00
+Maricel Maricel NPMSG00
 Marie-Blanque Marie-Blanque NPCSG00
 Marie-Fox-Alajouanine Marie-Fox-Alajouanine NPCNSP0 # medical
 Marie-Galante Marie-Galante NPCSG00
