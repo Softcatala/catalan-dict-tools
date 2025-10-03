@@ -12392,6 +12392,7 @@ excedentari excedentària=categories: A;fonts: LT;
 excels excelsa [sup. excelsíssim]=categories: A; font:apertium;
 excel·lent [sup. excel·lentíssim]=categories: A;fonts: LT;
 excepcional [sup. excepcionalíssim]=categories: A;fonts: LT;
+excepcionalista=categories: A;fonts: derivat;
 exceptuable=categories: A;fonts: LT;
 excernent=categories: A;fonts: dsalut;
 excessiu excessiva=categories: A;fonts: LT;

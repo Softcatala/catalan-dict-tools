@@ -8226,6 +8226,7 @@ Dhaulāgiri Dhaulāgiri NPCSG00
 Dhofar Dhofar NPCSG00
 Dhānbād Dhānbād NPCSG00
 DiCaprio DiCaprio NPCNSP0
+DiEM25 DiEM25 NPMSO00
 Diabali Diabali NPCSG00
 Diadema Diadema NPCSG00
 Diafebus Diafebus NPMSSP0
@@ -9540,8 +9541,10 @@ Eurobasket Eurobasket NPMSO00
 Eurocambra Eurocambra NPFSO00
 Eurocopa Eurocopa NPFSO00
 Eurocopes Eurocopa NPFPO00
+Eurocòs Eurocòs NPMSO00
 Eurofighter Eurofighter NPMNO00
 Eurogrup Eurogrup NPMSO00
+Eurojust Eurojust NPMSO00
 Eurolliga Eurolliga NPFSO00
 Eurolligues Eurolliga NPFSO00
 Euromaidan Euromaidan NPCNO00
@@ -9663,6 +9666,7 @@ FBI FBI NPMSO00
 FCB FCB NPMSO00
 FCC FCC NPCSO00
 FDA FDA NPCNO00
+FDLR FDLR NPFPO00
 FDP FDP NPMSO00
 FEDAC FEDAC NPFSO00
 FEDER FEDER NPMNO00
@@ -9675,9 +9679,12 @@ FIAT FIAT NPFSO00
 FIBA FIBA NPFSO00
 FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00
+FINUL FINUL NPFSO00
 FITUR FITUR NPFSO00
 FLA FLA NPMNO00
+FLNC FLNC NPMSO00
 FMI FMI NPMSO00
+FMLN FMLN NPMSO00
 FNAC FNAC NPFSO00
 FNC FNC NPMSO00
 FNEC FNEC NPFSO00
@@ -13670,6 +13677,7 @@ Kara Kara NPCNSP0
 Kara Kara NPCSG00
 Karabakh Karabakh NPCSG00
 Karachi Karachi NPCSG00
+Karadžić Karadžić NPCNSP0
 Karaganda Karaganda NPCSG00
 Karajan Karajan NPCNSP0
 Karakalpakistan Karakalpakistan NPMSG00
@@ -16250,6 +16258,7 @@ McNamara McNamara NPCNSP0
 McNulty McNulty NPCNSP0
 Mchinji Mchinji NPCSG00
 Meanes Meanes NPCSG00
+Mearsheimer Mearsheimer NPCNSP0
 Meatpacking Meatpacking NPMSG00
 Meaux Meaux NPCSG00
 Meca Meca NPCNSP0
@@ -16741,6 +16750,7 @@ Miànigues Miànigues NPCSG00
 Miño Miño NPCSG00
 Miłosz Miłosz NPCNSP0
 Mjøsa Mjøsa NPCSG00
+Mladić Mladić NPCNSP0
 Mljet Mljet NPCSG00
 Mmabatho Mmabatho NPCSG00
 Mo Mo NPCNSP0
@@ -25557,6 +25567,7 @@ Tròfims Tròfim NPMPSP0
 Tròiol Tròiol NPMSSP0 # avl: noms de persona
 Tróodos Tróodos NPCSG00
 Trøndelag Trøndelag NPCSG00
+Tsahal Tsahal NPMSO00
 Tsaratanana Tsaratanana NPCSG00
 Tsavo Tsavo NPCSG00
 Tshāidam Tshāidam NPCSG00
