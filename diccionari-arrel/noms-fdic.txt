@@ -12001,6 +12001,7 @@ bonpassar=categories: M;fonts: LT;
 bonrepostí bonrepostina=categories: MF;fonts: LT;
 bonsai=categories: M;fonts: LT;
 bony=categories: M;fonts: LT;
+bonyet=categories: M;fonts: diminutiu;
 bonyiga=categories: F;fonts: LT;
 bonze=categories: M;fonts: LT;
 bonzessa=categories: F;fonts: LT;

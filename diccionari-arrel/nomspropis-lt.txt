@@ -630,6 +630,7 @@ Agerics Ageric NPMPSP0
 Agesilau Agesilau NPMSSP0 # avl: noms de persona
 Ageu Ageu NPMSSP0
 Ageus Ageu NPMPSP0
+Aghbala Aghbala NPCSG00 # esadir Marroc
 Agia Agia NPFSSP0 # avl: noms de persona
 Agilberta Agilberta NPFSSP0
 Agilbertes Agilberta NPFPSP0
@@ -1707,6 +1708,7 @@ Amir Amir NPMSSP0 # avl: noms de persona
 Amira Amira NPFSSP0 # avl: noms de persona
 Amit Amit NPMSSP0 # avl: noms de persona
 Amita Amita NPFSSP0 # avl: noms de persona
+Amizmiz Amizmiz NPCSG00 # esadir Marroc
 Amlekhganj Amlekhganj NPCSG00
 Amman Amman NPCSG00
 Ammersee Ammersee NPCSG00
@@ -2630,6 +2632,7 @@ Asmet Asmet NPMSSP0 # avl: noms de persona
 Asmonea Asmonea NPFSSP0
 Asmonees Asmonea NPFPSP0
 Asnar Asnar NPCSG00
+Asni Asni NPCSG00 # esadir Marroc
 Asnières-sur-Seine Asnières-sur-Seine NPCSG00
 Asnurri Asnurri NPCSG00
 Aso Aso NPCSG00
@@ -2917,6 +2920,7 @@ Azawad Azawad NPMSG00
 Azaña Azaña NPCNSP0
 Azcapotzalco Azcapotzalco NPCSG00
 Azcona Azcona NPCNSP0
+Azemmour Azemmour NPCSG00 # esadir Marroc
 Azerbaidjan Azerbaidjan NPMSG00
 Azgour Azgour NPCSG00
 Azilal Azilal NPCSG00
@@ -3660,6 +3664,7 @@ Beijing Beijing NPMSG00
 Beira Beira NPCSG00
 Beirut Beirut NPCSG00
 Beja Beja NPCSG00
+Bejaad Bejaad NPCSG00 # esadir Marroc
 Bel Bel NPCNSP0
 Bela Bela NPCSG00
 Belabre Belabre NPCNSP0
@@ -6627,6 +6632,7 @@ Chiba Chiba NPCNSP0 # medical
 Chiba Chiba NPCSG00
 Chibuto Chibuto NPCSG00
 Chicago Chicago NPCSG00
+Chichaoua Chichaoua NPCSG00 # esadir Marroc
 Chichester Chichester NPCSG00
 Chiclayo Chiclayo NPCSG00
 Chico Chico NPCSG00
@@ -9108,6 +9114,7 @@ Erols Erols NPMPG00
 Eros Eros NPCSG00
 Eroski Eroski NPCNO00
 Erra Erra NPCNSP0
+Errachidia Errachidia NPCSG00 # esadir Marroc
 Errejón Errejón NPCNSP0
 Erta Erta NPCSG00
 Erts Erts NPCSG00
@@ -13007,6 +13014,7 @@ Indre Indre NPCSG00
 Indurain Indurain NPCNSP0
 Indus Indus NPCSG00
 Indíbil Indíbil NPMSSP0 # avl: noms de persona
+Inezgane Inezgane NPCSG00 # esadir Marroc
 InfoK InfoK NPMNO00
 Ingla Ingla NPCNSP0
 Inglabaga Inglabaga NPCNSP0
@@ -15020,6 +15028,7 @@ Lowestoft Lowestoft NPCSG00
 Lowlands Lowlands NPCPG00
 Lozano Lozano NPCNSP0
 Lozère Lozère NPCSG00
+Lqliâa Lqliâa NPCSG00 # esadir Marroc
 Luanda Luanda NPCSG00
 Luapula Luapula NPCSG00
 Luba Luba NPCSG00
@@ -15148,6 +15157,7 @@ Lüneburg Lüneburg NPCSG00
 Lünen Lünen NPCSG00
 Lüshun Lüshun NPCSG00
 Lāhaur Lāhaur NPCSG00
+M'Rirt M'Rirt NPCSG00 # esadir Marroc
 MACBA MACBA NPMSO00
 MECRL MECRL NPMSO00 # sigla
 MI5 MI5 NPMSO00
@@ -17688,6 +17698,7 @@ Nanterre Nanterre NPCSG00
 Nantes Nantes NPCSG00
 Nantua Nantua NPCSG00
 Nantung Nantung NPCSG00
+Naour Naour NPCSG00 # esadir Marroc
 Napata Napata NPCSG00
 Napo Napo NPCSG00
 Napoleons Napoleó NPMPSP0
@@ -23155,6 +23166,7 @@ Sellick Sellick NPCNSP0 # medical
 Sellons Sellons NPCNSP0
 Selló Selló NPCNSP0
 Selma Selma NPFSG00
+Selouane Selouane NPCSG00 # esadir Marroc
 Sels Sels NPCNSP0
 Selva Selva NPCNSP0
 Selvasembrada Selvasembrada NPCNSP0
@@ -23699,6 +23711,7 @@ Skelleftea Skelleftea NPCSG00
 Skellefteälv Skellefteälv NPCSG00
 Skellefteå Skellefteå NPCSG00
 Skene Skene NPCNSP0 # medical
+Skhirat Skhirat NPCSG00 # esadir Marroc
 Skinner Skinner NPCNSP0
 Skopje Skopje NPCSG00
 Skriabin Skriabin NPCNSP0
@@ -25580,6 +25593,7 @@ Tuapse Tuapse NPCSG00
 Tubal Tubal NPMSSP0 # avl: noms de persona
 Tubau Tubau NPMSSP0 # avl: noms de persona
 Tubert Tubert NPCNSP0
+Tubkal Tubkal NPCSG00 # esadir Marroc
 Tubruq Tubruq NPCSG00
 Tucson Tucson NPCSG00
 Tucumán Tucumán NPCSG00
@@ -27628,6 +27642,7 @@ Zeebrugge Zeebrugge NPCSG00
 Zeferina Zeferina NPFSSP0 # avl: noms de persona
 Zeferins Zeferí NPMPSP0
 Zeferí Zeferí NPMSSP0
+Zeghanghane Zeghanghane NPCSG00 # esadir Marroc
 Zeiss Zeiss NPCNSP0 # medical
 Zeist Zeist NPCSG00
 Zeitz Zeitz NPCSG00
