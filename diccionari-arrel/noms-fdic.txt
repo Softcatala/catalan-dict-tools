@@ -69457,6 +69457,7 @@ pseudohipertròfia=categories: F;fonts: dsalut;
 pseudohipoaldosteronisme=categories: M;fonts: dsalut;
 pseudohiponatrèmia=categories: F;fonts: dsalut;
 pseudohipoparatiroïdisme=categories: M;fonts: LT;
+pseudohistoriador pseudohistoriadora=categories: MF;fonts: derivat;
 pseudohistòria=categories: F;fonts: derivat;
 pseudohèrnia=categories: F;fonts: dsalut;
 pseudoicterícia=categories: F;fonts: dsalut;
