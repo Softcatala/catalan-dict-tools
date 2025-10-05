@@ -28430,6 +28430,7 @@ russo-suec russo-sueca=categories: A;fonts: derivat;
 russo-ucraïnès russo-ucraïnesa=categories: A;fonts: derivat;
 russo-xinès russo-xinesa=categories: A;fonts: derivat;
 russoalemany russoalemanya=categories: A;fonts: derivat;
+russofinlandès russofinlandesa=categories: A;fonts: derivat;
 russòfil russòfila=categories: A;fonts: LT;
 russòfob russòfoba=categories: A;fonts: derivat;
 russòfon russòfona=categories: A;fonts: LT;
