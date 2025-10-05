@@ -28426,6 +28426,7 @@ russafeny russafenya=categories: A;fonts: LT;
 russafer russafera=categories: A;fonts: LT;
 russo-alemany russo-alemanya=categories: A;fonts: derivat;
 russo-llatinoamericà russo-llatinoamericana=categories: A;fonts: derivat;
+russo-suec russo-sueca=categories: A;fonts: derivat;
 russo-ucraïnès russo-ucraïnesa=categories: A;fonts: derivat;
 russo-xinès russo-xinesa=categories: A;fonts: derivat;
 russoalemany russoalemanya=categories: A;fonts: derivat;
