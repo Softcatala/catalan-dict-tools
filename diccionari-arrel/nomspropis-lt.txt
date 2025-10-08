@@ -8230,6 +8230,7 @@ Dezfūl Dezfūl NPCSG00
 Deífile Deífile NPFSSP0 # avl: noms de persona
 Deó Deó NPCNSP0
 Dhaka Dhaka NPCSG00
+Dharamshala Dharamshala NPCSG00
 Dhaulāgiri Dhaulāgiri NPCSG00
 Dhofar Dhofar NPCSG00
 Dhānbād Dhānbād NPCSG00
@@ -13200,6 +13201,7 @@ Ióssif Ióssif NPMSSP0
 Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
 Iževsk Iževsk NPCSG00
+JERC JERC NPFPO00
 JMJ JMJ NPCNO00
 JNC JNC NPFSO00
 JOC JOC NPCSO00
@@ -17576,6 +17578,7 @@ Mèdia Mèdia NPFSG00
 Mèdici Mèdici NPCNSP0
 Mèdol Mèdol NPMSG00
 Mègara Mègara NPFSG00
+Mèlich Mèlich NPCNSP0
 Mèrcia Mèrcia NPCSG00
 Mèrida Mèrida NPCSG00
 Mèrope Mèrope NPFSSP0 # avl: noms de persona
