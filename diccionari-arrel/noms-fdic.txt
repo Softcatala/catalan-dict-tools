@@ -34374,6 +34374,7 @@ excol·lega=categories: MF;fonts: LT;
 excolònia=categories: F;fonts: LT;
 excombatent=categories: MF;fonts: LT;
 excomissari excomissaria=categories: MF;fonts: LT;
+excomissionat excomissionada=categories: MF;fonts: derivat;
 excompany=categories: M;fonts: LT;
 excompanya=categories: F;fonts: LT;
 excomunicació=categories: F;fonts: LT;
