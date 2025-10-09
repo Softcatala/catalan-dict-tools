@@ -6691,6 +6691,7 @@ Chubut Chubut NPCSG00
 Chungyang Chungyang NPCSG00
 Chuquicamata Chuquicamata NPCSG00
 Chur Chur NPCSG00
+Church Church NPCNSP0
 Churchill Churchill NPCSG00
 Churg-Strauss Churg-Strauss NPCNSP0 # medical
 Churruca Churruca NPCNSP0
@@ -12183,6 +12184,7 @@ Gómez Gómez NPCNSP0
 Góngora Góngora NPCNSP0
 Gósol Gósol NPCSG00
 Göcek Göcek NPCSG00
+Gödel Gödel NPCNSP0
 Göppingen Göppingen NPCSG00
 Göring Göring NPCNSP0
 Görlitz Görlitz NPCSG00
@@ -14194,6 +14196,7 @@ Lancaster Lancaster NPCSG00
 Lancelot Lancelot NPMSSP0
 Lancelí Lancelí NPMSSP0 # avl: noms de persona
 Lanciano Lanciano NPCSG00
+Landau Landau NPCNSP0
 Landau-Klegffner Landau-Klegffner NPCNSP0 # medical
 Landeberta Landeberta NPFSSP0
 Landebertes Landeberta NPFPSP0
