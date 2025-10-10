@@ -4396,6 +4396,7 @@ Blois Blois NPCSG00
 Blondel Blondel NPCNSP0
 Bloom Bloom NPCNSP0
 Bloomberg Bloomberg NPCNSP0
+Bloomington Bloomington NPCSG00
 Bloomsbury Bloomsbury NPCSG00
 Blount Blount NPCNSP0 # medical
 Bluetooth Bluetooth NPMNO00
@@ -6696,6 +6697,7 @@ Churchill Churchill NPCSG00
 Churg-Strauss Churg-Strauss NPCNSP0 # medical
 Churruca Churruca NPCNSP0
 Chvostek Chvostek NPCNSP0 # medical
+Chávez Chávez NPCNSP0
 Châlons-en-Champagne Châlons-en-Champagne NPCSG00
 Châteauroux Châteauroux NPCSG00
 Châtenay-Malabry Châtenay-Malabry NPCSG00
@@ -10083,6 +10085,7 @@ FileZilla FileZilla NPCNO00
 Filemona Filemona NPFSSP0 # avl: noms de persona
 Filemons Filemó NPMPSP0
 Filemó Filemó NPMSSP0
+Filesa Filesa NPFSO00
 Filhos Filhos NPCNSP0 # medical
 Filibert Filibert NPMSSP0
 Filiberta Filiberta NPFSSP0 # avl: noms de persona
@@ -21430,6 +21433,7 @@ Requena Requena NPFSG00
 Requesens Requesens NPCNSP0
 Requesens Requesens NPCSG00
 Resclosa Resclosa NPCNSP0
+Resilis Resilis NPCSO00
 Resina Resina NPCSG00
 Respighi Respighi NPCNSP0
 Restitut Restitut NPMSSP0
