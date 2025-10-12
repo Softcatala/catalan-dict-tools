@@ -15430,6 +15430,7 @@ hidrolipídic hidrolipídica=categories: A;fonts: termcat;
 hidrolàbil=categories: A;fonts: dsalut;
 hidrolític hidrolítica=categories: A;fonts: LT;
 hidrològic hidrològica=categories: A;fonts: LT;
+hidrometeorològic hidrometeorològica=categories: A;fonts: derivat;
 hidromorf hidromorfa=categories: A;fonts: LT;
 hidromètric hidromètrica=categories: A;fonts: LT;
 hidropigen -ígena=categories: A;fonts: dsalut;
