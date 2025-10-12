@@ -29173,6 +29173,7 @@ semiretrinxat semiretrinxada=categories: A;fonts: LT;
 semireverencial=categories: A;fonts: derivat;
 semirodó semirodona=categories: A; font:derivat;
 semirural=categories: A;fonts: derivat;
+semiruïnós semiruïnosa=categories: A;fonts: derivat;
 semiràpid semiràpida=categories: A; font:derivat;
 semirígid semirígida=categories: A;fonts: LT;
 semisalvatge=categories: A;fonts: LT;
