@@ -22408,6 +22408,7 @@ nitrós nitrosa=categories: A;fonts: LT;
 nival=categories: A;fonts: LT;
 nivernès nivernesa=categories: A;fonts: LT;
 nivi nívia=categories: A;fonts: LT;
+nivometeorològic nivometeorològica=categories: A;fonts: derivat;
 nivopluvial=categories: A;fonts: GEC;
 nivós nivosa=categories: A;fonts: LT;
 nizaria=categories: A;fonts: LT;

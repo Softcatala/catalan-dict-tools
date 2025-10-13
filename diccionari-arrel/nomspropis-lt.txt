@@ -9536,6 +9536,7 @@ Eulàlia Eulàlia NPFSSP0
 Eulàlies Eulàlia NPFPSP0
 Eulària Eulària NPFSG00
 Eulògia Eulògia NPFSSP0 # avl: noms de persona
+Eumo Eumo NPCNO00
 Eunice Eunice NPFSSP0 # avl: noms de persona
 Eunòmia Eunòmia NPFSSP0
 Eunòmies Eunòmia NPFPSP0
