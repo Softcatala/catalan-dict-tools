@@ -55303,6 +55303,7 @@ minilaparotomia=categories: F;fonts: dsalut;
 minillenguatge=categories: M;fonts: derivat;
 minimal=categories: M;fonts: LT;
 minimalisme=categories: M;fonts: LT;
+minimarató=categories: F;fonts: derivat;
 minimis=categories: MP;fonts: termcat;
 minimista=categories: MF;fonts: LT;
 minimització=categories: F;fonts: LT;

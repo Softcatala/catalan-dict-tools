@@ -18515,6 +18515,7 @@ Onega Onega NPCSG00
 Oneguin Oneguin NPMSSP0
 Onesífor Onesífor NPMSSP0 # avl: noms de persona
 Onesífora Onesífora NPFSSP0 # avl: noms de persona
+Onești Onești NPCSG00
 Onil Onil NPCSG00
 Onitsha Onitsha NPCSG00
 Onofre Onofre NPCNSP0
