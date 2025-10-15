@@ -86541,6 +86541,7 @@ vip=categories: MF;fonts: LT;
 viprini=categories: MS;fonts: dsalut;
 vipèrid=categories: M;fonts: LT;
 viquidil=categories: M;fonts: dsalut;
+viquimarató=categories: F;fonts: wiki;
 viquipedista=categories: MF;fonts: LT;
 vira=categories: F;fonts: LT;
 virada=categories: F;fonts: LT;

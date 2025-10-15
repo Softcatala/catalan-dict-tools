@@ -18394,6 +18394,7 @@ Oleiros Oleiros NPCSG00
 Olen'ok Olen'ok NPCSG00
 Olesa Olesa NPCNSP0
 Olesa Olesa NPFSG00
+Olesti Olesti NPCNSP0
 Oleta Oleta NPFSG00
 Olf Olf NPMSSP0 # avl: noms de persona
 Olfó Olfó NPMSSP0 # avl: noms de persona
@@ -18515,6 +18516,7 @@ Onega Onega NPCSG00
 Oneguin Oneguin NPMSSP0
 Onesífor Onesífor NPMSSP0 # avl: noms de persona
 Onesífora Onesífora NPFSSP0 # avl: noms de persona
+Onetti Onetti NPCNSP0
 Onești Onești NPCSG00
 Onil Onil NPCSG00
 Onitsha Onitsha NPCSG00
@@ -20779,6 +20781,7 @@ Putorana Putorana NPCSG00
 Puttalam Puttalam NPCSG00
 Putti Putti NPCNSP0 # medical
 Putumayo Putumayo NPCSG00
+Putxet Putxet NPMSG00
 Puy-de-Dôme Puy-de-Dôme NPCSG00
 Puyehue Puyehue NPCSG00
 Puzo Puzo NPCNSP0
