@@ -67607,6 +67607,7 @@ postcirurgia=categories: F;fonts: derivat;
 postcisterna=categories: F;fonts: dsalut;
 postcolecistectomia=categories: F;fonts: dsalut;
 postcolonialisme=categories: M;fonts: LT;
+postcolonialitat=categories: F;fonts: derivat;
 postcombustió=categories: F;fonts: LT;
 postcomercialització=categories: F;fonts: dsalut;
 postcomissurotomia=categories: F;fonts: dsalut;
