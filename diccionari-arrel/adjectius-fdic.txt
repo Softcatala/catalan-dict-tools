@@ -13620,6 +13620,7 @@ formicant=categories: A;fonts: LT;
 formidable=categories: A;fonts: LT;
 formigat formigada=categories: A;fonts: LT;
 formiguejant=categories: A;fonts: LT;
+formiguer formiguera=categories: A;fonts: DDLC;
 formiguerenc formiguerenca=categories: A;fonts: LT;
 formigós formigosa=categories: A;fonts: LT;
 formulable=categories: A;fonts: DDLC;
