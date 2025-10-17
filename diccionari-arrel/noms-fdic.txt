@@ -5594,6 +5594,7 @@ antidàctil=categories: M;fonts: LT;
 antidípsia=categories: F;fonts: dsalut;
 antidòping=categories: M;fonts: LT;
 antielectró=categories: M;fonts: LT;
+antielitisme=categories: M;fonts: derivat;
 antiemulsina=categories: F;fonts: dsalut;
 antiemètic=categories: M;fonts: LT;
 antiendotoxina=categories: F;fonts: dsalut;
