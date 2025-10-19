@@ -3365,6 +3365,7 @@ Barnac Barnac NPCNSP0
 Barnasants Barnasants NPMNO00
 Barnaul Barnaul NPCSG00
 Barnei Barnei NPCNSP0
+Barnes Barnes NPCNSP0
 Barnet Barnet NPCSG00
 Barnils Barnils NPCNSP0
 Barnils Barnils NPMPSP0
@@ -4200,6 +4201,7 @@ Biarn Biarn NPMSG00
 Biarnès Biarnès NPCNSP0
 Biarritz Biarritz NPCSG00
 Biasques Biasques NPCSG00
+Białystok Białystok NPCSG00
 Bibesco Bibesco NPCNSP0
 Bibiana Bibiana NPFSSP0
 Bibianes Bibiana NPFPSP0
@@ -9379,6 +9381,7 @@ Estanyet Estanyet NPCSG00
 Estanyol Estanyol NPCNSP0
 Estanyol Estanyol NPCSG00
 Estanys Estany NPMPG00
+Estapé Estapé NPCNSP0
 Estarelles Estarelles NPCNSP0
 Estaron Estaron NPCSG00
 Estartit Estartit NPMSG00

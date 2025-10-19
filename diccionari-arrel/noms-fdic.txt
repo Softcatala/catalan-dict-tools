@@ -71964,6 +71964,7 @@ reconquesta=categories: F;fonts: LT;
 reconquista=categories: F;fonts: LT;
 reconquistador reconquistadora=categories: MF;fonts LT;
 reconsideració=categories: F;fonts: LT;
+reconsolidació=categories: F;fonts: derivat;
 reconstitució=categories: F;fonts: LT;
 reconstituent=categories: M;fonts: LT;
 reconstituïdor reconstituïdora=categories: MF;fonts LT;

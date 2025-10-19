@@ -8584,6 +8584,7 @@ reconnectar=categories: V;model:cantar;fonts: derivat;
 reconquerir=categories: V;model:servir;fonts: LT;
 reconquistar=categories: V;model:cantar;fonts: LT;
 reconsiderar=categories: V;model:cantar;fonts: LT;
+reconsolidar=categories: V;model:cantar;fonts: derivat;
 reconstituir=categories: V;model:traduir;fonts: LT;
 reconstruir=categories: V;model:traduir;fonts: LT;
 recontaminar=categories: V;model:abominar;fonts: dsalut;
