@@ -8150,6 +8150,7 @@ Denpasar Denpasar NPCSG00
 Denui Denui NPCSG00
 Denver Denver NPCSG00
 Denís Denís NPMSSP0 # avl: noms de persona
+Deníssova Deníssova NPCSG00
 Deodat Deodat NPMSSP0
 Deodata Deodata NPFSSP0 # avl: noms de persona
 Deodats Deodat NPMPSP0
