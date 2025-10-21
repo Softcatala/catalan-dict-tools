@@ -16544,6 +16544,7 @@ immòtic immòtica=categories: A;fonts: LT;
 impacient=categories: A;fonts: LT;
 impactant=categories: A;fonts: LT;
 impagable=categories: A;fonts: LT;
+impagador impagadora=categories: A;fonts: derivat;
 impagat impagada=categories: A;fonts: LT;
 impalpable=categories: A;fonts: LT;
 impar=categories: A;fonts: LT;

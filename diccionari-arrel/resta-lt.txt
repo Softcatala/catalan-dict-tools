@@ -553,8 +553,8 @@ les el DA0FP0
 les ell PP3FPA00
 li ell PP3CSD00
 llevat llevat SPS00
-llur son DP3CSP
-llurs son DP3CPP
+llur llur DP3CSP
+llurs llur DP3CPP
 lo lo DA0MS0
 los lo DA0MP0
 ls el DA0MP0
