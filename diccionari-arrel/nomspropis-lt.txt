@@ -16954,6 +16954,7 @@ Monjos Monjos NPMPG00
 Monleón Monleón NPCSG00
 Monnars Monnars NPCSG00
 Monnàber Monnàber NPCSG00
+Monné Monné NPCNSP0
 Mono Mono NPCSG00
 Mononoke Mononoke NPCNSP0
 Monopoli Monopoli NPCSG00
@@ -19093,6 +19094,7 @@ Pantin Pantin NPCSG00
 Pantoja Pantoja NPCNSP0
 Pantone Pantone NPMNO00
 Pantídia Pantídia NPFSSP0 # avl: noms de persona
+Panzer Panzer NPCNO00
 Panós Panós NPCNSP0
 Pančevo Pančevo NPCSG00
 Paola Paola NPCSG00
@@ -23068,6 +23070,7 @@ Schumann Schumann NPCNSP0
 Schumpeter Schumpeter NPCNSP0
 Schuschnigg Schuschnigg NPCNSP0
 Schuster Schuster NPCNSP0
+Schutzstaffel Schutzstaffel NPFPSP0
 Schwab Schwab NPCNSP0
 Schwann Schwann NPCNSP0 # medical
 Schwartz Schwartz NPCNSP0
@@ -27006,6 +27009,7 @@ Vixquert Vixquert NPCNSP0
 Vizcota Vizcota NPCSG00
 Vià Vià NPCNSP0
 Vià Vià NPCSG00
+Viète Viète NPCNSP0
 Vičuga Vičuga NPCSG00
 Vlaardingen Vlaardingen NPCSG00
 Vladikavkaz Vladikavkaz NPCSG00

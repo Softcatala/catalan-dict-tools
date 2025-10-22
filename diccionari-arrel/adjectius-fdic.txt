@@ -26562,6 +26562,7 @@ protrusible=categories: A;fonts: LT;
 protràctil=categories: A;fonts: LT;
 protrèptic protrèptica=categories: A;fonts: LT;
 protuberant=categories: A;fonts: LT;
+proturc proturca=categories: A;fonts: derivat;
 protàl·lic protàl·lica=categories: A;fonts: LT;
 protàtic protàtica=categories: A;fonts: LT;
 protètic protètica=categories: A;fonts: LT;
