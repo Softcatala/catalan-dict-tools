@@ -11798,6 +11798,7 @@ Gredos Gredos NPCSG00
 Green Green NPCNSP0
 Greenpeace Greenpeace NPFSO00
 Greensboro Greensboro NPCSG00
+Greenwald Greenwald NPCNSP0
 Greenwich Greenwich NPCSG00
 Gregoir Gregoir NPCNSP0 # medical
 Gregor Gregor NPCNSP0 # medical
