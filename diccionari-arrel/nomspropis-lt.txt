@@ -17472,6 +17472,7 @@ Mundó Mundó NPCNSP0
 Munell Munell NPCNSP0
 Mungia Mungia NPCSG00
 Muni Muni NPCSG00
+Munné Munné NPCNSP0
 Munné-Jordà Munné-Jordà NPCNSP0
 Munson Munson NPCNSP0 # medical
 Munster Munster NPCSG00
