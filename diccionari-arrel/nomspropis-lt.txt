@@ -15338,6 +15338,7 @@ Magwe Magwe NPCSG00
 Magí Magí NPCNSP0
 Magí Magí NPMSSP0
 Magúncia Magúncia NPFSG00
+Mahabharata Mahabharata NPMSO00
 Mahaim Mahaim NPCNSP0 # medical
 Mahajanga Mahajanga NPCSG00
 Mahakam Mahakam NPCSG00
@@ -21142,6 +21143,7 @@ Rama Rama NPCSG00
 Ramadi Ramadi NPCSG00
 Ramal·lah Ramal·lah NPCSG00
 Ramastué Ramastué NPCSG00
+Ramayana Ramayana NPMSO00
 Rambla Rambla NPFSG00
 Ramblar Ramblar NPMSG00
 Ramblelles Ramblelles NPFPG00

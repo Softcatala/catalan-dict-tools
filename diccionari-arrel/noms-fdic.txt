@@ -86529,6 +86529,7 @@ viola=categories: MF;fonts: LT;
 violaceïna=categories: F;fonts: dsalut;
 violació=categories: F;fonts: LT;
 violador violadora=categories: MF;fonts LT;
+violagambista=categories: MF;fonts: esadir;
 violament=categories: M;fonts: LT;
 violar=categories: M;fonts: LT;
 violari=categories: M;fonts: LT;
