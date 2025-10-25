@@ -31076,6 +31076,7 @@ taxatiu taxativa=categories: A;fonts: LT;
 taxidèrmic taxidèrmica=categories: A;fonts: LT;
 taxodont=categories: A;fonts: LT;
 taxonòmic taxonòmica=categories: A;fonts: LT;
+taylorista=categories: A;fonts: DDLC;
 teantròpic teantròpica=categories: A;fonts: LT;
 teatral=categories: A;fonts: LT;
 teatí teatina=categories: A;fonts: LT;
