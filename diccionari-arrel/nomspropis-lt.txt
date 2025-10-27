@@ -7154,8 +7154,10 @@ Comasolives Comasolives NPCNSP0
 Comassema Comassema NPCNSP0
 Comayagua Comayagua NPCSG00
 Comba Comba NPCNSP0
+Comba-Capèla Comba-Capèla NPCSG00
 Combalia Combalia NPCNSP0
 Comballer Comballer NPCNSP0
+Combe-Capelle Combe-Capelle NPCSG00
 Combell Combell NPCNSP0
 Combella Combella NPCNSP0
 Combeller Combeller NPCNSP0
@@ -26547,6 +26549,7 @@ Vidala Vidala NPCNSP0
 Vidalet Vidalet NPCNSP0
 Vidals Vidal NPMPSP0
 Vidaló Vidaló NPCNSP0
+Videla Videla NPCNSP0
 VideoLAN VideoLAN NPMSO00
 Vidiella Vidiella NPCNSP0
 Vidin Vidin NPCSG00
