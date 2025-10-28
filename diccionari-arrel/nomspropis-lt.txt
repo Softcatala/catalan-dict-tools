@@ -3423,6 +3423,7 @@ Barsimeu Barsimeu NPMSSP0 # avl: noms de persona
 Barsola Barsola NPCNSP0
 Bartalot Bartalot NPCNSP0
 Bartau Bartau NPCNSP0
+Barthes Barthes NPCNSP0
 Bartholino Bartholino NPCNSP0 # medical
 Bartimeu Bartimeu NPMSSP0 # avl: noms de persona
 Bartleby Bartleby NPCNSP0
@@ -19119,6 +19120,7 @@ Papiolet Papiolet NPMSG00
 Papua Papua NPFSG00
 Papuàsia Papuàsia NPFSG00
 Paqui Paqui NPFSSP0 # usuaris
+Paquirri Paquirri NPMSSP0
 Par Par NPCNSP0
 Para Para NPCSG00
 Parabellum Parabellum NPCNO00
