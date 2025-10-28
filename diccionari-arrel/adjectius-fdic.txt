@@ -8010,6 +8010,7 @@ corol·liflor corol·liflora=categories: A;fonts: LT;
 corol·liforme=categories: A;fonts: LT;
 corol·lí corol·lina=categories: A;fonts: LT;
 corològic corològica=categories: A;fonts: LT;
+corominià corominiana=categories: A;fonts: derivat;
 coronadís coronadissa=categories: A;fonts: LT;
 coronal=categories: A;fonts: LT;
 coronari coronària=categories: A;fonts: LT;
