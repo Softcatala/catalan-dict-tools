@@ -18530,6 +18530,7 @@ Onesífor Onesífor NPMSSP0 # avl: noms de persona
 Onesífora Onesífora NPFSSP0 # avl: noms de persona
 Onetti Onetti NPCNSP0
 Onești Onești NPCSG00
+Onganía Onganía NPCNSP0
 Onil Onil NPCSG00
 Onitsha Onitsha NPCSG00
 Onofre Onofre NPCNSP0

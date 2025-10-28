@@ -2658,6 +2658,7 @@ desbastar=categories: V;model:cantar;fonts: LT;
 desbastir=categories: V;model:servir;fonts: LT;
 desbatejar=categories: V;model:envejar;fonts: LT;
 desbellugar=categories: V;model:pregar;fonts: LT;
+desbilingüitzar=categories: V;model:cantar;fonts: derivat;
 desblocar=categories: V;model:trencar;fonts: LT;
 desbloquejar=categories: V;model:envejar;fonts: LT;
 desbocar=categories: V;model:trencar;fonts: LT;

@@ -10682,6 +10682,7 @@ endemoepidèmic endemoepidèmica=categories: A;fonts: dsalut;
 endengat endengada=categories: A;fonts: LT;
 endergònic endergònica=categories: A;fonts: LT;
 enderrocador enderrocadora=categories: A;fonts: LT;
+endeutat endeutada [sup. endeutadíssim]=categories: A;fonts: participi;
 endevinable=categories: A;fonts: LT;
 endevinatiu endevinativa=categories: A;fonts: LT;
 endevinatori endevinatòria=categories: A;fonts: LT;
