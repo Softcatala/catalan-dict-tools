@@ -229,6 +229,7 @@
 #Vital Vital NPMSSP0 # avl: noms de persona
 #Vladimir Vladimir NPMSSP0 # avl: noms de persona
 #Vladimira Vladimira NPFSSP0 # avl: noms de persona
+#Xarles Xarles NPCNSP0 # desconegut
 #Àngeles Àngela NPFPSP0
 #Àurea Àurea NPFSSP0 # avl: noms de persona
 #Ènova Ènova NPFSG00
@@ -6586,6 +6587,7 @@ Charente Charente NPCSG00
 Charenton-le-Pont Charenton-le-Pont NPCSG00
 Chari Chari NPCSG00
 Charleroi Charleroi NPCSG00
+Charles Charles NPCNSP0 # molt comú en anglès
 Charleston Charleston NPCSG00
 Charleville-Mézières Charleville-Mézières NPCSG00
 Charlie Charlie NPMSSP0
@@ -27440,7 +27442,6 @@ Xara Xara NPFSG00
 Xarabau Xarabau NPCSG00
 Xardó Xardó NPCNSP0
 Xargall Xargall NPCNSP0
-Xarles Xarles NPCNSP0
 Xarló Xarló NPCNSP0
 Xaro Xaro NPCSG00
 Xarpell Xarpell NPCNSP0
