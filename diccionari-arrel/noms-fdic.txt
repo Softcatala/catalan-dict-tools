@@ -8517,6 +8517,7 @@ autoclàsia=categories: F;fonts: dsalut;
 autocodificació=categories: F;fonts: derivat;
 autocolonització=categories: F;fonts: derivat;
 autocolp=categories: M;fonts: LT;
+autocol·lapse=categories: M;fonts: derivat;
 autocol·lateralització=categories: F;fonts: derivat;
 autocol·limació=categories: F;fonts: LT;
 autocol·limador=categories: M;fonts: termcat;
