@@ -14953,6 +14953,7 @@ Lluís Lluís NPCNSP0
 Lluís Lluís NPMSSP0
 Lluïsa Lluïsa NPFSSP0
 Lluïses Lluïsa NPFPSP0
+Lluïset Lluïset NPMSSP0
 Lluïsos Lluís NPMPSP0
 Llàcua Llàcua NPFSG00
 Llàtzer Llàtzer NPCNSP0
@@ -24718,6 +24719,8 @@ Telescopi Telescopi NPMSG00
 Telesfor Telesfor NPMSSP0
 Telesfora Telesfora NPFSSP0 # avl: noms de persona
 Telesfors Telesfor NPMPSP0
+Teletubbies Teletubby NPMPSP0
+Teletubby Teletubby NPMSSP0
 Telford Telford NPCSG00
 Tell Tell NPCNSP0
 Tella Tella NPCNSP0
