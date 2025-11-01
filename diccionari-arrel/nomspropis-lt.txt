@@ -4929,6 +4929,7 @@ Brienne Brienne NPCNSP0
 Briera Briera NPCNSP0
 Briganci Briganci NPCSG00
 Brighton Brighton NPCSG00
+Brigitte Brigitte NPFSSP0
 Brignoles Brignoles NPCSG00
 Briguets Briguets NPCNSP0
 Brill Brill NPCNSP0
