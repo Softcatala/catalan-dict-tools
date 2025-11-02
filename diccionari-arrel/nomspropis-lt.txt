@@ -239,6 +239,7 @@
 'Ndrangheta 'Ndrangheta NPFSO00
 's-Hertogenbosch 's-Hertogenbosch NPCSG00
 13TV 13TV NPCNO00
+2Cat 2Cat NPCNO00
 3Cat 3Cat NPCNO00
 3CatInfo 3CatInfo NPCNO00
 3XL 3XL NPMSO00
@@ -1841,6 +1842,8 @@ Andrew Andrew NPCNSP0
 Andriol Andriol NPMSSP0 # avl: noms de persona
 Andriola Andriola NPFSSP0 # avl: noms de persona
 Andriot Andriot NPCNSP0
+Andrić Andrić NPCSP0
+Andrićgrad Andrićgrad NPCSG00
 Android Android NPMNO00
 Andros Andros NPCSG00
 André André NPCNSP0
@@ -8062,6 +8065,7 @@ Decameró Decameró NPMSO00
 Deci Deci NPMSSP0 # avl: noms de persona
 Deciana Deciana NPCSG00
 Decroly Decroly NPCNSP0
+Dedekind Dedekind NPCNSP0
 Dedeu Dedeu NPCNSP0
 Dedza Dedza NPCSG00
 Dee Dee NPCSG00
@@ -8147,6 +8151,7 @@ Demòstenes Demòstenes NPMPSP0
 Demòstenes Demòstenes NPMSSP0
 Denain Denain NPCSG00
 Denali Denali NPMSG00
+Dencàs Dencàs NPCNSP0
 Deneb Deneb NPCSG00
 Dener Dener NPCNSP0
 Denisa Denisa NPFSSP0 # avl: noms de persona
@@ -12663,6 +12668,7 @@ Hondures Hondures NPFSG00
 Honegger Honegger NPCNSP0
 Honest Honest NPMSSP0
 Honests Honest NPMPSP0
+Honeywell Honeywell NPCSP0
 Hong-Kong Hong-Kong NPCSG00
 Hongria Hongria NPFSG00
 Honiara Honiara NPCSG00
@@ -14052,6 +14058,7 @@ Kurunegala Kurunegala NPCSG00
 Kushiro Kushiro NPCSG00
 Kussevitski Kussevitski NPCNSP0
 Kussmaul Kussmaul NPCNSP0 # medical
+Kusturica Kusturica NPCNSP0
 Kutaisi Kutaisi NPCSG00
 Kutxa Kutxa NPFSO00
 Kuwait Kuwait NPMSG00
@@ -19319,6 +19326,7 @@ Paül Paül NPCSG00
 Paüls Paüls NPCNSP0
 Paüls Paüls NPFPG00
 Peace Peace NPCSG00
+Peano Peano NPCNSP0
 Pearce Pearce NPCNSP0
 Pebbles Pebbles NPCNSP0
 Pebrades Pebrades NPFPG00
@@ -21483,6 +21491,7 @@ Revell Revell NPCNSP0
 Revella Revella NPCNSP0
 Revellat Revellat NPCNSP0
 Revelló Revelló NPCNSP0
+Reverte Reverte NPCNSP0
 Reverter Reverter NPCNSP0
 Revetllat Revetllat NPCNSP0
 Revillagigedo Revillagigedo NPCSG00
@@ -23107,6 +23116,7 @@ Scilly Scilly NPFPG00
 Sclater Sclater NPCNSP0
 Scorsese Scorsese NPCNSP0
 Scott Scott NPCNSP0
+Scottsdale Scottsdale NPCSG00
 Scrabble Scrabble NPMSO00
 Scranton Scranton NPCSG00
 Scratch Scratch NPCNO00
@@ -24060,6 +24070,7 @@ Squillace Squillace NPCSG00
 Srebrenica Srebrenica NPCSG00
 Sri Sri NPCSG00
 Srinagar Srinagar NPCSG00
+Srpska Srpska NPCSG00
 Srīnagar Srīnagar NPCSG00
 Staatsoper Staatsoper NPFSO00
 Stabias Stabias NPCSG00
@@ -26026,6 +26037,7 @@ Ussólie-Sibírskoie Ussólie-Sibírskoie NPCSG00
 Ust'-Kamenogorsk Ust'-Kamenogorsk NPCSG00
 Ust'urt Ust'urt NPCSG00
 Ustrell Ustrell NPCNSP0
+Ustvólskaia Ustvólskaia NPCNSP0
 Usulután Usulután NPCSG00
 Usumacinta Usumacinta NPCSG00
 Usès Usès NPCSG00
@@ -26965,6 +26977,8 @@ Visby Visby NPCSG00
 Viscarro Viscarro NPCNSP0
 Viscaí Viscaí NPCNSP0
 Visconti Visconti NPCNSP0
+Visegrad Visegrad NPCSG00 # forma catalanitzada
+Visegrád Visegrád NPCSG00 # Hongria
 Visern Visern NPCNSP0
 Viset Viset NPCNSP0
 Viseu Viseu NPCSG00
@@ -27029,6 +27043,7 @@ Vià Vià NPCNSP0
 Vià Vià NPCSG00
 Viète Viète NPCNSP0
 Vičuga Vičuga NPCSG00
+Višegrad Višegrad NPCSG00 # Srpska
 Vlaardingen Vlaardingen NPCSG00
 Vladikavkaz Vladikavkaz NPCSG00
 Vladivostok Vladivostok NPCSG00
