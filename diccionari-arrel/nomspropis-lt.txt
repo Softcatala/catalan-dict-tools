@@ -774,6 +774,7 @@ Aimelina Aimelina NPFSSP0 # avl: noms de persona
 Ain Ain NPCSG00
 Aina Aina NPFSSP0
 Ainara Ainara NPFSSP0
+Ainaud Ainaud NPCNSP0
 Aines Aina NPFPSP0
 Ainet Ainet NPCSG00
 Ainet Ainet NPFSSP0
@@ -4524,6 +4525,8 @@ Bolunya Bolunya NPCNSP0
 Bolvir Bolvir NPCSG00
 Bolxoi Bolxoi NPMSO00
 Bolzana Bolzana NPFSG00
+Bolzano Bolzano NPCNSP0
+Bolzano-Weierstrass Bolzano-Weierstrass NPCNSP0
 Bolívar Bolívar NPCSG00
 Bolívia Bolívia NPFSG00
 Bolòs Bolòs NPCNSP0
@@ -6173,6 +6176,7 @@ Casis Casi NPMPSP0
 Casivanyes Casivanyes NPCSG00
 Caslon Caslon NPCNSP0
 Casolà Casolà NPCNSP0
+Casorati-Weierstrass Casorati-Weierstrass NPCNSP0
 Casoria Casoria NPCSG00
 Casotes Casotes NPFPG00
 Casots Casots NPMPG00
@@ -19921,6 +19925,7 @@ Pladecorts Pladecorts NPCSG00
 Pladelasala Pladelasala NPCNSP0
 Pladellorenç Pladellorenç NPCNSP0
 Plademont Plademont NPCNSP0
+Pladevall Pladevall NPCNSP0
 Pladollers Pladollers NPCNSP0
 Plaerdemavida Plaerdemavida NPFSSP0
 Plaiensa Plaiensa NPCNSP0
@@ -24124,6 +24129,7 @@ Stockport Stockport NPCSG00
 Stockton-on-Tees Stockton-on-Tees NPCSG00
 Stoke-on-Trent Stoke-on-Trent NPCSG00
 Stokes-Adams Stokes-Adams NPCNSP0 # medical
+Stone-Weierstrass Stone-Weierstrass NPCNSP0
 Stonehenge Stonehenge NPMSG00
 Strabane Strabane NPCSG00
 Strachan Strachan NPCNSP0 # medical
@@ -27226,6 +27232,9 @@ Wegener Wegener NPCNSP0
 Wehrmacht Wehrmacht NPFSO00
 Weidel Weidel NPCNSP0
 Weiden Weiden NPCSG00
+Weierstrass Weierstrass NPCNSP0
+Weierstrass-Enneper Weierstrass-Enneper NPCNSP0
+Weierstrass-Erdmann Weierstrass-Erdmann NPCNSP0
 Weifang Weifang NPCSG00
 Weikersheim Weikersheim NPCSG00
 Weimar Weimar NPCSG00
