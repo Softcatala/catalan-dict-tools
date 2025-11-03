@@ -29,6 +29,7 @@
 #recorrible=categories: A;fonts: LT; ERROR!
 #resecable=categories: A;fonts: dsalut;
 #teb teba=categories: A;fonts: LT;
+#techno=categories: AI;fonts: DNV,anglès; adaptat en tecno
 #vende=categories: A;fonts: GDLC; inusual
 #vivace=categories: AMS;fonts: AVL,GDLC; Pot ser confús
 #víking=categories: A;fonts: LT; #eliminat de DIEC i DNV
@@ -31107,7 +31108,6 @@ tebi tèbia=categories: A;fonts: LT;
 tebà tebana=categories: A;fonts: LT;
 tecal=categories: A;fonts: LT;
 tech-friendly=categories: AI;fonts: anglès;
-techno=categories: AI;fonts: DNV,anglès;
 teclós teclosa=categories: A;fonts: LT;
 tecnicoassistencial=categories: A;fonts: dsalut;
 tecnicofarmacèutic tecnicofarmacèutica=categories: A;fonts: dsalut;
