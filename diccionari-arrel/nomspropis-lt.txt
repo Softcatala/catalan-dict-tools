@@ -4451,6 +4451,7 @@ Bofur Bofur NPMSSP0
 Bogatell Bogatell NPCNSP0
 Bogotà Bogotà NPCSG00
 Bogunyac Bogunyac NPCNSP0
+Bohigas Bohigas NPCNSP0
 Bohol Bohol NPCSG00
 Bohr Bohr NPCNSP0 # medical
 Bohèmia Bohèmia NPFSG00
@@ -5395,6 +5396,7 @@ Cafarnaüm Cafarnaüm NPCSG00
 Caffey Caffey NPCNSP0 # medical
 Cage Cage NPCNSP0
 Cahan Cahan NPCSG00
+Cahner Cahner NPCNSP0
 Cahors Cahors NPCSG00
 Cahué Cahué NPCNSP0
 Cai Cai NPMSSP0

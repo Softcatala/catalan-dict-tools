@@ -25550,6 +25550,7 @@ poral=categories: A;fonts: LT;
 porat porada=categories: A;fonts: LT;
 porc porca=categories: A;fonts: LT;
 porcellànic -a=categories: A;fonts: termcat;
+porciolista=categories: A;fonts: derivat;
 porcí porcina=categories: A;fonts: LT;
 porcó porcona=categories: A;fonts: LT;
 poregós poregosa [sup. poregosíssim]=categories: A; font:apertium;
