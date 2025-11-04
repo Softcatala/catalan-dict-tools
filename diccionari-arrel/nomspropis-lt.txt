@@ -9250,6 +9250,7 @@ Eslavònia Eslavònia NPFSG00
 Eslida Eslida NPFSG00
 Eslovàquia Eslovàquia NPFSG00
 Eslovènia Eslovènia NPFSG00
+Esmara Esmara NPCSG00
 Esmaragda Esmaragda NPFSSP0 # avl: noms de persona
 Esmaragde Esmaragde NPMSSP0
 Esmaragdes Esmaragde NPMPSP0
@@ -11995,6 +11996,7 @@ Guerau Guerau NPMSSP0
 Gueraua Gueraua NPFSSP0 # avl: noms de persona
 Gueraus Guerau NPMPSP0
 Guercino Guercino NPCNSP0
+Guerguerat Guerguerat NPCSG00
 Guernica Guernica NPCSG00
 Guernsey Guernsey NPCSG00
 Guerra Guerra NPCNSP0
@@ -25005,6 +25007,7 @@ Tiel Tiel NPCNSP0
 Tiepolo Tiepolo NPCNSP0
 Tietze Tietze NPCNSP0 # medical
 Tietê Tietê NPCSG00
+Tifariti Tifariti NPCSG00
 Tiffany Tiffany NPCNO00
 Tiffeneau Tiffeneau NPCNSP0 # medical
 Tigre Tigre NPCSG00
