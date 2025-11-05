@@ -6568,6 +6568,7 @@ Chamonix-Mont-Blanc Chamonix-Mont-Blanc NPCSG00
 Chamorro Chamorro NPCNSP0
 Champagnat Champagnat NPCNSP0
 Champasak Champasak NPCSG00
+Champfleury Champfleury NPCNSP0
 Champigny-sur-Marne Champigny-sur-Marne NPCSG00
 Champions Champions NPFNO00
 Champlain Champlain NPCSG00
