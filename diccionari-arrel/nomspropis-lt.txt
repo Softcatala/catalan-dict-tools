@@ -9522,6 +9522,7 @@ Eudald Eudald NPMSSP0
 Eudalda Eudalda NPFSSP0 # avl: noms de persona
 Eudalds Eudald NPMPSP0
 Eudeima Eudeima NPCSG00
+Eudora Eudora NPCSG00
 Eudosi Eudosi NPMSSP0
 Eudosis Eudosi NPMPSP0
 Eudoxi Eudoxi NPMSSP0 # avl: noms de persona

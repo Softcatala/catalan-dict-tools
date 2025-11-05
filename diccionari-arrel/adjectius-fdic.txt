@@ -31942,6 +31942,7 @@ transcricotiroidal=categories: A;fonts: dsalut;
 transcripcional=categories: A;fonts: termcat;
 transcriptiu transcriptiva=categories: A;fonts: termcat;
 transcultural=categories: A;fonts: termcat;
+transcutani transcutània=categories: A;fonts: termcat;
 transdisciplinari transdisciplinària=categories: A;fonts: termcat;
 transdural=categories: A;fonts: dsalut;
 transdèrmic transdèrmica=categories: A;fonts: dsalut;
