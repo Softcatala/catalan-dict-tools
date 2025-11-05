@@ -7769,6 +7769,7 @@ Cunit Cunit NPCSG00
 Cunningham Cunningham NPCNSP0
 Cunyat Cunyat NPCNSP0
 Cunyà Cunyà NPCSG00
+Cuomo Cuomo NPCNSP0
 Cupido Cupido NPMSSP0 # avl: noms de persona
 Cuqueró Cuqueró NPCNSP0
 Cuquet Cuquet NPCSG00
@@ -15540,6 +15541,7 @@ Malàisia Malàisia NPFSG00
 Mamadou Mamadou NPMSSP0
 Mamberamo Mamberamo NPCSG00
 Mambla Mambla NPFSG00
+Mamdani Mamdani NPCNSP0
 Mamert Mamert NPMSSP0
 Mamerta Mamerta NPFSSP0 # avl: noms de persona
 Mamerts Mamert NPMPSP0
