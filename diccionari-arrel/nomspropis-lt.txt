@@ -17461,6 +17461,7 @@ Mudug Mudug NPCSG00
 Muface Muface NPFSO00
 Mufulira Mufulira NPCSG00
 Muga Muga NPFSG00
+Mugabe Mugabe NPCNSP0
 Mugello Mugello NPCSG00
 Muggia Muggia NPCSG00
 Mugodžary Mugodžary NPCSG00
