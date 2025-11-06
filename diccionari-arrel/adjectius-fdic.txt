@@ -2344,6 +2344,7 @@ antidopaminèrgic -a=categories: A;fonts: termcat;
 antidopaminèrgic antidopaminèrgica=categories: A;fonts: dsalut;
 antidopatge=categories: AI;fonts: LT;
 antidroga=categories: AI;fonts: LT;
+antidèficit=categories: AI;fonts: derivat;
 antidínic antidínica=categories: A;fonts: dsalut;
 antidíptic antidíptica=categories: A;fonts: dsalut;
 antidòping=categories: AI;fonts: LT;
