@@ -12178,6 +12178,7 @@ Guàrdia Guàrdia NPCNSP0
 Guàrdia Guàrdia NPFSG00
 Guéckédou Guéckédou NPCSG00
 Guíxols Guíxols NPCSG00
+Guðnadóttir Guðnadóttir NPCNSP0
 Gwalior Gwalior NPCSG00
 Gwened Gwened NPCSG00
 Gwent Gwent NPCSG00
@@ -24964,6 +24965,7 @@ Thonon-les-Bains Thonon-les-Bains NPCSG00
 Thor Thor NPMSSP0
 Thoreau Thoreau NPCNSP0
 Thorin Thorin NPMSSP0
+Thorvaldsdottir Thorvaldsdottir NPCNSP0
 Thrain Thrain NPMSSP0
 Thror Thror NPMSSP0
 Thrànduil Thrànduil NPMSSP0
