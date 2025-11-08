@@ -27,7 +27,7 @@ foreach my $file (@files) {
 
 	    my $apostrofacions="";
 	    # apostrofa d'
-	    if ($postag =~ /^(RG.*|NP.*|D[DI].*|PD0NS000|PI.*|PP3[MF][SP]000|SPS00)$/) {
+	    if ($postag =~ /^(RG.*|NP.*|D[DI].*|PD0NS000|PI.*|PP3..N00|SPS00)$/) {
 		if (Flexio::apostrofa_masculi($forma)) {
 		    $apostrofacions.="_Y";
 		}
