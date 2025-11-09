@@ -21827,6 +21827,7 @@ creu=categories: F;fonts: LT;
 creuament=categories: M;fonts: LT;
 creuenda=categories: F;fonts: LT;
 creuer=categories: M;fonts: LT;
+macrocreuer=categories: M;fonts: derivat;
 creuera=categories: F;fonts: LT;
 creueria=categories: F;fonts: LT;
 creuerista=categories: MF; fonts: termcat;
