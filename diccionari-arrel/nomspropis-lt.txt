@@ -14295,6 +14295,7 @@ Larraix Larraix NPCSG00
 Larriba Larriba NPCNSP0
 Larrosa Larrosa NPCNSP0
 Larén Larén NPCSG00
+Lasa Lasa NPCNSP0
 Laspan Laspan NPCSG00
 Laspuña Laspuña NPCSG00
 Lasquarri Lasquarri NPCSG00
@@ -27673,6 +27674,7 @@ Yverdon-les-Bains Yverdon-les-Bains NPCSG00
 Yārkand Yārkand NPCSG00
 Yŏsu Yŏsu NPCSG00
 Zaanstad Zaanstad NPCSG00
+Zabala Zabala NPCNSP0
 Zabrze Zabrze NPCSG00
 Zabuló Zabuló NPMSSP0
 Zacapa Zacapa NPCSG00
