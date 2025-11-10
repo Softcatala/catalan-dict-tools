@@ -57775,14 +57775,6 @@ orendella orendella NCFS000
 orendelles orendella NCFP000
 orengar orengar NCMS000
 orengars orengar NCMP000
-orensana orensà AQ0FS0
-orensana orensà NCFS000
-orensanes orensà AQ0FP0
-orensanes orensà NCFP000
-orensans orensà AQ0MP0
-orensans orensà NCMP000
-orensà orensà AQ0MS0
-orensà orensà NCMS000
 oribins oribí NCMP000
 oribí oribí NCMS000
 orige orige NCMS000
