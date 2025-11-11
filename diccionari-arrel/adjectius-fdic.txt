@@ -21656,6 +21656,7 @@ multiclient=categories: AI;fonts: derivat;
 multicolor=categories: A;fonts: LT;
 multicompost multicomposta=categories: A;fonts: LT;
 multiconfessional=categories: A;fonts: LT;
+multicriteri=categories: AI;fonts: termcat;
 multicromàtic multicromàtica=categories: A;fonts: dsalut;
 multicultural=categories: A;fonts: LT;
 multiculturalista=categories: A;fonts: derivat;

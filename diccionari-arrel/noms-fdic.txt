@@ -79052,6 +79052,7 @@ supertempesta=categories: F;fonts: derivat;
 supertensió=categories: F;fonts: LT;
 superteoria=categories: F;fonts: derivat;
 superterra=categories: F;fonts: termcat;
+supertifó=categories: M;fonts: derivat;
 supertipus=categories: MI;fonts: derivat;
 superturisme=categories: M;fonts: wiki;
 supertònica=categories: F;fonts: derivat;
