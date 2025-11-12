@@ -11417,6 +11417,7 @@ Gimbernat Gimbernat NPCNSP0
 Gimbert Gimbert NPCNSP0
 Gimbeu Gimbeu NPCNSP0
 Gimenells Gimenells NPCSG00
+Gimeno Gimeno NPCNSP0
 Gimferrer Gimferrer NPCNSP0
 Gimfreu Gimfreu NPCNSP0
 Gimnèsies Gimnèsies NPFPG00
@@ -13393,6 +13394,7 @@ Jiangsu Jiangsu NPCSG00
 Jiangxi Jiangxi NPCSG00
 Jiddah Jiddah NPCSG00
 Jilin Jilin NPCSG00
+Jimeno Jimeno NPCNSP0
 Jiménez Jiménez NPCNSP0
 Jinan Jinan NPCSG00
 Jingdezhen Jingdezhen NPCSG00
