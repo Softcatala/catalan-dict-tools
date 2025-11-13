@@ -47019,6 +47019,7 @@ introvisió=categories: F;fonts: dsalut;
 intrusisme=categories: M;fonts: LT;
 intrusivitat=categories: F;fonts: derivat;
 intrusió=categories: F;fonts: LT;
+intríngulis=categories: MI;fonts: DNV;
 intró=categories: M;fonts: LT;
 intrús intrusa=categories: MF;fonts: LT;
 intubació=categories: F;fonts: LT;

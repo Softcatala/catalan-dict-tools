@@ -3095,7 +3095,6 @@ intralobular=categories: A;fonts: DNV;
 intranscendental=categories: A;fonts: DNV;
 intravaginal=categories: A;fonts: DNV;
 intrencable=categories: A;fonts: DNV;
-intríngulis=categories: MI;fonts: DNV;
 intubador=categories: M;fonts: DNV;
 intuïcionista=categories: A;fonts: DNV;
 intuïcionista=categories: MF;fonts: DNV;

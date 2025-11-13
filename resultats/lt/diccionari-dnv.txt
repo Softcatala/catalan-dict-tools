@@ -51718,7 +51718,6 @@ intravaginal intravaginal AQ0CS0
 intravaginals intravaginal AQ0CP0
 intrencable intrencable AQ0CS0
 intrencables intrencable AQ0CP0
-intríngulis intríngulis NCMN000
 intubador intubador NCMS000
 intubadors intubador NCMP000
 intuïcionista intuïcionista AQ0CS0
