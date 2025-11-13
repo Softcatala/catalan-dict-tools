@@ -21465,6 +21465,7 @@ montuïrer montuïrera=categories: A;fonts: LT;
 montuós montuosa=categories: A;fonts: LT;
 montà montana=categories: A;fonts: LT;
 monumental=categories: A;fonts: LT;
+monzonià monzoniana=categories: A;fonts: Quim Monzó;
 monàdic monàdica=categories: A;fonts: LT;
 monàrquic monàrquica=categories: A;fonts: LT;
 monàstic monàstica=categories: A;fonts: LT;

@@ -15025,6 +15025,7 @@ Lombarde Lombarde NPFSG00
 Lombardi Lombardi NPCNSP0
 Lomme Lomme NPCSG00
 Lomond Lomond NPCSG00
+Lomonóssov Lomonóssov NPCNSP0
 Lomé Lomé NPCSG00
 London London NPCSG00
 Londres Londres NPCSG00

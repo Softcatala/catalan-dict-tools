@@ -60831,6 +60831,8 @@ plurinervada plurinervat AQ0FS0
 plurinervades plurinervat AQ0FP0
 plurinervat plurinervat AQ0MS0
 plurinervats plurinervat AQ0MP0
+pneumonia pneumonia NCFS000
+pneumonies pneumonia NCFP000
 pneumostoma pneumostoma NCMS000
 pneumostomes pneumostoma NCMP000
 poadissa poadís AQ0FS0

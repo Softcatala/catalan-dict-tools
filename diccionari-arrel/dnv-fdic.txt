@@ -4301,6 +4301,7 @@ ploreguera=categories: F;fonts: DNV;
 plorimicar=categories: V;model:trencar;fonts: DNV;
 pluricolor=categories: A;fonts: DNV;
 plurinervat -ada=categories: A;fonts: DNV;
+pneumonia=categories: F;fonts: DNV; #potser hauria de ser la forma general, segons G. Bibiloni
 pneumostoma=categories: M;fonts: DNV;
 poadís -issa=categories: A;fonts: DNV;
 poaler -a=categories: MF;fonts: DNV;

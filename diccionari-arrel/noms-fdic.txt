@@ -79771,6 +79771,7 @@ tanàidid=categories: M;fonts: LT;
 tanàsia=categories: F;fonts: LT;
 taní=categories: M;fonts: LT;
 tao=categories: M;fonts: LT;
+taoiseach [pl. taoiseachs o taoisigh]=categories: MF;fonts: esadir;
 taoisme=categories: M;fonts: LT;
 taoista=categories: MF;fonts: LT;
 taona=categories: F;fonts: LT;
