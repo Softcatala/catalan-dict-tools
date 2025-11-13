@@ -24069,6 +24069,7 @@ Spessart Spessart NPCSG00
 Spiderman Spiderman NPMSSP0
 Spiegel Spiegel NPCNSP0 # medical
 Spielberg Spielberg NPCNSP0
+Spielmann Spielmann NPCNSP0
 Spielmeyer-Vogt Spielmeyer-Vogt NPCNSP0 # medical
 Spina Spina NPCSG00
 Spinea Spinea NPCSG00
