@@ -25728,6 +25728,7 @@ postkantià postkantiana=categories: A;fonts: LT;
 postkeynesià postkeynesiana=categories: A;fonts: derivat;
 postlegislatiu postlegislativa=categories: A;fonts: derivat;
 postlenticular=categories: A; fonts: termcat;
+postliberal=categories: A;fonts: derivat;
 postlingual=categories: A;fonts: LT;
 postliterari postliterària=categories: A;fonts: derivat;
 postlocutiu postlocutiva=categories: A;fonts: termcat;

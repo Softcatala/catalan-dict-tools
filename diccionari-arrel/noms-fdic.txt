@@ -67707,6 +67707,7 @@ postitis=categories: FI;fonts: LT;
 postjubilació=categories: F;fonts: derivat;
 postlaminectomia=categories: F;fonts: dsalut;
 postleucotomia=categories: F;fonts: dsalut;
+postliberalisme=categories: M;fonts: derivat;
 postlimini=categories: M;fonts: LT;
 postliposucció=categories: F;fonts: dsalut;
 postliteratura=categories: F;fonts: derivat;
