@@ -5988,6 +5988,7 @@ antropoide=categories: M;fonts: LT;
 antropolatria=categories: F;fonts: LT;
 antropologia=categories: F;fonts: LT;
 antropologisme=categories: M;fonts: LT;
+antropologització=categories: F;fonts: derivat;
 antropometria=categories: F;fonts: LT;
 antropometrista=categories: F;fonts: termcat;
 antropomorf=categories: M;fonts: LT;

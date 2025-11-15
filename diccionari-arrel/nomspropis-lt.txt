@@ -5731,6 +5731,7 @@ Canberra Canberra NPCSG00
 Cancún Cancún NPCSG00
 Candanchú Candanchú NPCSG00
 Candasnos Candasnos NPCSG00
+Candel Candel NPCNSP0
 Candela Candela NPCNSP0
 Candelera Candelera NPFSSP0
 Candeleres Candelera NPFPSP0
