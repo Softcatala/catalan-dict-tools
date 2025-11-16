@@ -15547,6 +15547,7 @@ Malvina Malvina NPFSSP0 # avl: noms de persona
 Malvines Malvines NPFPG00
 Malví Malví NPMSSP0 # avl: noms de persona
 Malàisia Malàisia NPFSG00
+Malèvitx Malèvitx NPCNSP0 # pintor ucraïnès
 Mamadou Mamadou NPMSSP0
 Mamberamo Mamberamo NPCSG00
 Mambla Mambla NPFSG00
