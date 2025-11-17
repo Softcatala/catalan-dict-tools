@@ -14312,6 +14312,7 @@ Latorre Latorre NPCNSP0
 Latzko Latzko NPCNSP0 # medical
 Laudelina Laudelina NPFSSP0 # avl: noms de persona
 Laudelí Laudelí NPMSSP0 # avl: noms de persona
+Lauderdale Lauderdale NPCSG00
 Laudio Laudio NPCSG00
 Laura Laura NPFSSP0
 Lauraguès Lauraguès NPCSG00
@@ -28066,4 +28067,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Lauderdale Lauderdale NPCSG00
