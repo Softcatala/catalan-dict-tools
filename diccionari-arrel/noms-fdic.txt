@@ -32819,6 +32819,7 @@ essa=categories: F;fonts: LT;
 esse=categories: F;fonts: LT;
 essencialisme=categories: M;fonts: LT;
 essencialitat=categories: F;fonts: LT;
+essencialització=categories: F;fonts: derivat;
 esseni=categories: M;fonts: LT;
 esser=categories: M;fonts: LT;
 essència=categories: F;fonts: LT;

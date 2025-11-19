@@ -5809,6 +5809,7 @@ esquitllar=categories: V;model:cantar;fonts: LT;
 esquitxar=categories: V;model:cantar;fonts: LT;
 esquitxotejar=categories: V;model:envejar;fonts: LT;
 esquivar=categories: V;model:cantar;fonts: LT;
+essencialitzar=categories: V;model:cantar;fonts: derivat;
 estabilitzar=categories: V;model:cantar;fonts: LT;
 establar=categories: V;model:cantar;fonts: LT;
 establir=categories: V;model:acomplir;fonts: LT;

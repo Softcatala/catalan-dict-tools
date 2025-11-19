@@ -2336,6 +2336,7 @@ Argullol Argullol NPCNSP0
 Argun Argun NPCSG00
 Argyll-Robertson Argyll-Robertson NPCNSP0 # medical
 Argòlida Argòlida NPFSG00
+Argüello Argüello NPCNSP0
 Ari Ari NPMSSP0 # avl: noms de persona
 Ariadna Ariadna NPFSSP0
 Ariadnes Ariadna NPFPSP0
