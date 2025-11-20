@@ -26420,6 +26420,7 @@ projectant=categories: A;fonts: LT;
 projectiu projectiva=categories: A;fonts: LT;
 projectual=categories: A;fonts: LT;
 projihadista=categories: A;fonts: derivat;
+projueu projueva=categories: A;fonts: derivat;
 prokurd prokurda=categories: A;fonts: derivat;
 prolat prolata=categories: A;fonts: LT;
 proletari proletària=categories: A;fonts: LT;
