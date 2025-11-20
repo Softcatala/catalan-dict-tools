@@ -2199,6 +2199,7 @@ antiartrític antiartrítica=categories: A;fonts: LT;
 antiartístic -a=categories: A;fonts: DNV;
 antiasmàtic antiasmàtica=categories: A;fonts: LT;
 antiassetjament=categories: AI;fonts: derivat;
+antiassociacionista=categories: A;fonts: derivat;
 antiastènic antiastènica=categories: A;fonts: dsalut;
 antiateroescleròtic antiateroescleròtica=categories: A;fonts: LT;
 antiateroescleròtic antiateroescleròtica=categories: A;fonts: dsalut;

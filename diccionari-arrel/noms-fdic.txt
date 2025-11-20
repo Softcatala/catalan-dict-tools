@@ -5498,6 +5498,7 @@ antiarsenina=categories: F;fonts: dsalut;
 antiart=categories: MS;fonts: wiki;
 antiartrític=categories: M;fonts: LT;
 antiasmàtic=categories: M;fonts: LT;
+antiassociacionisme=categories: MS;fonts: derivat;
 antiateroescleròtic=categories: M;fonts: LT;
 antiautolisina=categories: F;fonts: dsalut;
 antiautonomisme=categories: M;fonts: derivat;
