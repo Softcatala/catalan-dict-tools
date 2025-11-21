@@ -31172,6 +31172,7 @@ teixidor teixidora=categories: A;fonts: LT;
 teiós teiosa=categories: A;fonts: LT;
 tekrur=categories: A;fonts: LT;
 telangiectàtic telangiectàtica=categories: A;fonts: LT;
+teleaddicte teleaddicta=categories: A;fonts: DNV;
 telediastòlic telediastòlica=categories: A;fonts: dsalut;
 teledinàmic teledinàmica=categories: A;fonts: LT;
 teleespectador teleespectadora=categories: A;fonts: LT;
