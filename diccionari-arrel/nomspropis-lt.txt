@@ -10633,6 +10633,7 @@ Frigoler Frigoler NPCNSP0
 Frigolet Frigolet NPCNSP0
 Friné Friné NPFSSP0 # avl: noms de persona
 Friül Friül NPMSG00
+Frobisher Frobisher NPCNSP0
 Frodo Frodo NPMSSP0
 Frodobert Frodobert NPMSSP0
 Frodoberts Frodobert NPMPSP0
@@ -25853,6 +25854,7 @@ UDEF UDEF NPFSO00
 UE UE NPFSG00
 UEFA UEFA NPFSO00
 UER UER NPFSO00
+UFEC UFEC NPFSO00
 UGT UGT NPFSO00
 UIB UIB NPFSO00
 UIC UIC NPFSO00
