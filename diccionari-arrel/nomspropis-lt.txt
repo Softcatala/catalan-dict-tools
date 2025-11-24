@@ -24551,6 +24551,7 @@ Talló Talló NPMSG00
 Taltavull Taltavull NPCNSP0
 Talteüll Talteüll NPCSG00
 Taló Taló NPCNSP0
+Tamagotchi Tamagotchi NPMNO00
 Tamanrasset Tamanrasset NPCSG00
 Tamar Tamar NPCSG00
 Tamar Tamar NPFSSP0 # avl: noms de persona

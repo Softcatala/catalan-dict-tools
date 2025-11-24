@@ -79657,6 +79657,7 @@ talús [pl. talussos]=categories: M;fonts: LT;
 tam-tam=categories: M;fonts: LT;
 tam=categories: M;fonts: LT;
 tama=categories: F;fonts: dsalut;
+tamagotxi=categories: M;fonts: LT;
 tamany=categories: M; fonts: AVL;
 tamarell=categories: M;fonts: LT;
 tamarella=categories: F;fonts: LT;
