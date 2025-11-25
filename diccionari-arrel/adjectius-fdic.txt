@@ -29678,6 +29678,7 @@ sinojaponès sinojaponesa=categories: A;fonts: viquipedia, GEC;
 sinonasal=categories: A;fonts: dsalut;
 sinonímic sinonímica=categories: A;fonts: LT;
 sinople=categories: A;fonts: LT;
+sinosoviètic sinosoviètica=categories: A;fonts: derivat;
 sinostòtic sinostòtica=categories: A;fonts: dsalut;
 sinotibetà sinotibetana=categories: A;fonts: LT;
 sinoventricular=categories: A;fonts: dsalut;
