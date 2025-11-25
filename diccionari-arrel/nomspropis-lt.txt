@@ -26438,6 +26438,7 @@ Ventolra Ventolra NPCSG00
 Ventolrà Ventolrà NPCNSP0
 Ventolà Ventolà NPCNSP0
 Ventolà Ventolà NPCSG00
+Ventorro Ventorro NPMSO00
 Ventosa Ventosa NPCNSP0
 Ventoses Ventoses NPFPG00
 Ventoux Ventoux NPCSG00
