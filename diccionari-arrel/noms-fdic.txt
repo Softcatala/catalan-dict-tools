@@ -64583,6 +64583,7 @@ peronosporàcia=categories: F;fonts: LT;
 peroné [pl. peronés]=categories: M;fonts: LT;
 peroplàsia=categories: F;fonts: dsalut;
 peroració=categories: F;fonts: LT;
+perorata=categories: F;fonts: DNV;
 perosomia=categories: F;fonts: dsalut;
 perospirona=categories: F;fonts: dsalut;
 perot=categories: M;fonts: LT;

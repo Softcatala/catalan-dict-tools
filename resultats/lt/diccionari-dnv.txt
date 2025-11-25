@@ -59507,8 +59507,6 @@ peroliï peroliar VMSP3S0Y
 peroliïn peroliar VMM03P0Y
 peroliïn peroliar VMSP3P0Y
 peroliïs peroliar VMSP2S0Y
-perorata perorata NCFS000
-perorates perorata NCFP000
 perpissa perpissa NCMS000
 perpisses perpissa NCMP000
 perquisitiu perquisitiu AQ0MS0

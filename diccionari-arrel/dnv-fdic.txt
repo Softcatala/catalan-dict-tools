@@ -4165,7 +4165,6 @@ peritació=categories: F;fonts: DNV;
 perjudicable=categories: A;fonts: DNV;
 perlúcid=categories: AI;fonts: DNV;
 peroliar=categories: V;model:crear;fonts: DNV;
-perorata=categories: F;fonts: DNV;
 perpissa=categories: M;fonts: DNV;
 perquisitiu -iva=categories: A;fonts: DNV;
 perra=categories: F;fonts: DNV,col·loquial;
