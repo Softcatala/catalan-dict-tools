@@ -38853,6 +38853,7 @@ gal·licisme=categories: M;fonts: LT;
 gal·liforme=categories: M;fonts: LT;
 gal·lionel·la=categories: F;fonts: LT;
 gal·locianina=categories: F;fonts: dsalut;
+gal·lomania=categories: F;fonts: DIEC;
 gal·lopamil=categories: M;fonts: dsalut;
 gal·lès gal·lesa=categories: MF;fonts: LT;
 galàgid=categories: M;fonts: termcat;
