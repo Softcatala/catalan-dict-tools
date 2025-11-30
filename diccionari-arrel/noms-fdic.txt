@@ -51775,6 +51775,7 @@ mandant=categories: MF;fonts: LT;
 mandarina=categories: F;fonts: LT;
 mandarinat=categories: M;fonts: LT;
 mandariner=categories: M;fonts: LT;
+mandarinisme=categories: M;fonts: derivat;
 mandarí=categories: M;fonts: LT;
 mandat=categories: M;fonts: LT;
 mandatari mandatària=categories: MF;fonts: LT;
