@@ -30687,6 +30687,7 @@ supersòlid supersòlida=categories: A;fonts: derivat;
 supersònic supersònica=categories: A;fonts: LT;
 supertancat supertancada=categories: A;fonts: derivat;
 supertecnificat supertecnificada=categories: A;fonts: participi;
+supertendenciós supertendenciosa=categories: A;fonts: derivat;
 supertou supertova=categories: A;fonts: derivat;
 supertradicional=categories: A;fonts: derivat;
 supertranquil supertranquil·la=categories: A;fonts: derivat;
