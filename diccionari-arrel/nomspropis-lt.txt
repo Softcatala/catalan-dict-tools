@@ -13896,7 +13896,7 @@ Kimmel Kimmel NPCNSP0
 Kimmelstiel-Wilson Kimmelstiel-Wilson NPCNSP0 # medical
 Kimura Kimura NPCNSP0 # medical
 Kinder Kinder NPCNSP0
-Kindertotenlieder Kindertotenlieder NPMSSP0 
+Kindertotenlieder Kindertotenlieder NPMPSP0
 Kindia Kindia NPCSG00
 Kindle Kindle NPMNO00
 King King NPCNSP0
