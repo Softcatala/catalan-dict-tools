@@ -20127,6 +20127,7 @@ mareal=categories: A;fonts: LT;
 marejador marejadora=categories: A;fonts: LT;
 marejat marejada [sup. marejadíssim]=categories: A;fonts: LT;
 marengo=categories: AI;fonts: LT;
+mareogràfic mareogràfica=categories: A;fonts: derivat;
 mareomotor mareomotora [fem. mareomotriu]=categories: A;fonts: LT;
 marer marera=categories: A;fonts: LT;
 maresmenc maresmenca=categories: A;fonts: LT;

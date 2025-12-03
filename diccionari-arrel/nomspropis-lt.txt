@@ -6674,6 +6674,7 @@ Chinguetti Chinguetti NPCSG00
 Chioggia Chioggia NPCSG00
 Chipiona Chipiona NPCSG00
 Chiquimula Chiquimula NPCSG00
+Chirac Chirac NPCNSP0
 Chiradzulu Chiradzulu NPCSG00
 Chirbes Chirbes NPCNSP0
 Chirico Chirico NPCNSP0
@@ -13955,6 +13956,7 @@ Kodály Kodály NPCNSP0
 Koeman Koeman NPCNSP0
 Koeppe Koeppe NPCNSP0 # medical
 Koestler Koestler NPCNSP0
+Kohl Kohl NPCNSP0
 Kohlhaas Kohlhaas NPCNSP0
 Kohn Kohn NPCNSP0 # medical
 Kohtla-Järve Kohtla-Järve NPCSG00
