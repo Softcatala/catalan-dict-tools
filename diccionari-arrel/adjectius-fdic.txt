@@ -30783,6 +30783,7 @@ supramarginal=categories: A;fonts: termcat;
 supramastoidal=categories: A;fonts: dsalut;
 supramaxil·lar=categories: A;fonts: dsalut;
 suprameatal=categories: A;fonts: dsalut;
+supramediterrani supramediterrània=categories: A;fonts: termcat;
 supramental=categories: A;fonts: derivat;
 supramentonià supramentoniana=categories: A;fonts: dsalut;
 suprameàtic suprameàtica=categories: A;fonts: dsalut;
