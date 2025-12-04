@@ -15247,6 +15247,7 @@ Macarulla Macarulla NPCNSP0
 Macastre Macastre NPCSG00
 Macau Macau NPCNSP0
 Macau Macau NPCSG00
+Macaulay Macaulay NPCNSP0
 Macbeth Macbeth NPCNSP0
 Macedoni Macedoni NPMSSP0
 Macedonis Macedoni NPMPSP0
@@ -26508,6 +26509,7 @@ Vergonyós Vergonyós NPCNSP0
 Vergés Vergés NPCNSP0
 Vergós Vergós NPCNSP0
 Veri Veri NPCSG00
+Verifactu Verifactu NPMSO00
 Veritas Veritas NPCNO00
 Veritas Veritas NPFSSP0
 Verkami Verkami NPMSO00
