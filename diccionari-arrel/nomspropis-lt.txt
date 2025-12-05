@@ -4463,6 +4463,7 @@ Boi Boi NPMSG00
 Boi Boi NPMSSP0
 Boia Boia NPCNSP0
 Boileau Boileau NPCNSP0
+Boing Boing NPMSO00
 Boira Boira NPCNSP0
 Boirac Boirac NPCNSP0
 Boiro Boiro NPCSG00
