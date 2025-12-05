@@ -214,6 +214,7 @@ ADE=categories: FI;fonts: sigla;
 ADN=categories: MI;fonts: LT;
 ADSL=categories: MFI;fonts: AVL;
 AFA=categories: MFI;fonts: sigles;
+AFI=categories: MSI;fonts: sigla;
 AIS=categories: FI;fonts: sigles;
 AJD=categories: MI;fonts: sigla;
 AM=categories: FI;fonts: esadir;
