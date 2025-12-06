@@ -49885,16 +49885,8 @@ honradores honrador AQ0FP0
 honradors honrador AQ0MP0
 hoploteca hoploteca NCFS000
 hoploteques hoploteca NCFP000
-horrend horrend AQ0MS0
-horrenda horrend AQ0FS0
-horrendes horrend AQ0FP0
-horrends horrend AQ0MP0
 horridesa horridesa NCFS000
 horrideses horridesa NCFP000
-horrorífic horrorífic AQ0MS0
-horrorífica horrorífic AQ0FS0
-horrorífics horrorífic AQ0MP0
-horrorífiques horrorífic AQ0FP0
 hostada hostat AQ0FS0
 hostades hostat AQ0FP0
 hostalatenc hostalatenc AQ0MS0
