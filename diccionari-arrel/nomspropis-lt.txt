@@ -12265,6 +12265,7 @@ Hachinski Hachinski NPCNSP0 # medical
 Hachiōji Hachiōji NPCSG00
 Hacilar Hacilar NPCSG00
 Hackney Hackney NPCSG00
+Hadamard Hadamard NPCNSP0
 Haddock Haddock NPCNSP0
 Haendel Haendel NPCNSP0
 Hagar Hagar NPFSSP0 # avl: noms de persona
@@ -16538,6 +16539,7 @@ Merrf Merrf NPCNSP0 # medical
 Merrit Merrit NPCNSP0 # medical
 Mersch Mersch NPCSG00
 Merseburg Merseburg NPCSG00
+Mersenne Mersenne NPCNSP0
 Mersey Mersey NPCSG00
 Merseyside Merseyside NPCSG00
 Mersin Mersin NPCSG00
@@ -22272,6 +22274,7 @@ Ròmuls Ròmul NPMPSP0
 Ròvol Ròvol NPMSG00
 Ródtxenko Ródtxenko NPCNSP0
 Róizman Róizman NPMSSP0
+Rømer Rømer NPCNSP0
 Rúbies Rúbies NPCSG00
 Rúrik Rúrik NPMSSP0
 Rússia Rússia NPFSG00
