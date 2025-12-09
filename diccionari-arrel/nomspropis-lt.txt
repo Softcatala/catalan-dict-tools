@@ -6610,6 +6610,7 @@ Charleville-Mézières Charleville-Mézières NPCSG00
 Charlie Charlie NPMSSP0
 Charlot Charlot NPMSSP0
 Charlotte Charlotte NPCSG00
+Charlottenburg Charlottenburg NPCSG00
 Charlottesville Charlottesville NPCSG00
 Charlottetown Charlottetown NPCSG00
 Charolais Charolais NPCSG00
@@ -16283,6 +16284,7 @@ Maxwell Maxwell NPCNSP0
 Mayayo Mayayo NPCSG00
 Mayen Mayen NPCSG00
 Mayenne Mayenne NPCSG00
+Mayflower Mayflower NPMSO00
 Mayon Mayon NPCSG00
 Mayotte Mayotte NPCSG00
 Maysonneuve Maysonneuve NPCNSP0 # medical
@@ -24147,6 +24149,7 @@ Steen Steen NPCNSP0
 Steinbeck Steinbeck NPCNSP0
 Steiner Steiner NPCNSP0
 Steinert Steinert NPCNSP0 # medical
+Steinmeier Steinmeier NPCNSP0
 Steinway Steinway NPMNO00
 Stellwag Stellwag NPCNSP0 # medical
 Stenberg Stenberg NPCNSP0 # medical
