@@ -3424,6 +3424,7 @@ Barrot Barrot NPCNSP0
 Barruera Barruera NPFSG00
 Barrufet Barrufet NPCNSP0
 Barry Barry NPCNSP0
+Barrymore Barrymore NPCNSP0
 Bars Bars NPCNSP0
 Barset Barset NPCNSP0
 Barsimeu Barsimeu NPMSSP0 # avl: noms de persona
