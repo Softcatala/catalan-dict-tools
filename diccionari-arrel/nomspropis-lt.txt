@@ -7806,6 +7806,7 @@ Cushing Cushing NPCNSP0 # medical
 Cusinyac Cusinyac NPCNSP0
 Cusola Cusola NPCNSP0
 Cussons Cussons NPCSG00
+Custer Custer NPCNSP0
 Custodi Custodi NPMSSP0 # avl: noms de persona
 Custòdia Custòdia NPFSSP0 # avl: noms de persona
 Cuties Cuties NPCNSP0
