@@ -28949,6 +28949,7 @@ saxífrag saxífraga=categories: A;fonts: LT;
 saxó saxona=categories: A;fonts: LT;
 saïta=categories: A;fonts: LT;
 schenkerià schenkeriana=categories: A;fonts: derivat;
+schoenberguià schoenberguiana=categories: A;fonts: derivat;
 schopenhauerià schopenhaueriana=categories: A;fonts: LT;
 schumpeterià schumpeteriana=categories: A;fonts: derivat;
 sebaci sebàcia=categories: A;fonts: LT;

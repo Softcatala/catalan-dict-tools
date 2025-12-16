@@ -13324,6 +13324,7 @@ Janácek Janácek NPCNSP0
 Japó Japó NPMSG00
 Jaques Jaques NPCNSP0
 Jaquotot Jaquotot NPCNSP0
+Jara Jara NPCNSP0
 Jaraguas Jaraguas NPCSG00
 Jarama Jarama NPMSG00
 Jardí Jardí NPCNSP0
@@ -13787,6 +13788,7 @@ Kasese Kasese NPCSG00
 Kashiwa Kashiwa NPCSG00
 Kaspàrov Kaspàrov NPCNSP0
 Kassel Kassel NPCSG00
+Kast Kast NPCNSP0
 Kasugai Kasugai NPCSG00
 Kasungu Kasungu NPCSG00
 Kasupe Kasupe NPCSG00

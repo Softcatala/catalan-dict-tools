@@ -17148,6 +17148,7 @@ ciberllenguatge=categories: M;fonts: LT;
 cibernauta=categories: MF;fonts: LT;
 cibernètica=categories: F;fonts: LT;
 ciberocupació=categories: F;fonts: termcat;
+ciberoperació=categories: F;fonts: derivat;
 ciberperiodisme=categories: M;fonts: derivat;
 ciberpolicia=categories: MF;fonts: LT;
 ciberpunk=categories: MF;fonts: wiki;
