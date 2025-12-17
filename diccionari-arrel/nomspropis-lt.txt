@@ -9870,6 +9870,7 @@ Farigola Farigola NPCNSP0
 Farinelli Farinelli NPCNSP0
 Farinós Farinós NPCNSP0
 Farnals Farnals NPCSG00
+Farnborough Farnborough NPCSG00
 Farners Farners NPCNSP0
 Farners Farners NPCSG00
 Farnese Farnese NPCNSP0
