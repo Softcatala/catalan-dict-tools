@@ -24207,6 +24207,7 @@ Sturge-Weber Sturge-Weber NPCNSP0 # medical
 Sturgeon Sturgeon NPCNSP0
 Sturmdorf Sturmdorf NPCNSP0 # medical
 Stuttgart Stuttgart NPMSG00
+Stuyvesant Stuyvesant NPCNSP0
 Suagres Suagres NPCSG00
 Suai Suai NPCNSP0
 Suanya Suanya NPCNSP0
