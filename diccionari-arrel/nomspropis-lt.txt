@@ -17935,6 +17935,7 @@ Nemours Nemours NPCSG00
 Nemunas Nemunas NPCSG00
 Nemèsia Nemèsia NPFSSP0 # avl: noms de persona
 Neocretaci Neocretaci NPCSG00
+Neolosfera Neolosfera NPFSO00
 Neoloteca Neoloteca NPFSO00
 Neom Neom NPCSG00
 Neopàtria Neopàtria NPFSG00
