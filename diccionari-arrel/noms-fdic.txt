@@ -51539,6 +51539,7 @@ malcoratge=categories: M;fonts: LT;
 malcremat=categories: M;fonts: LT;
 malcriadesa=categories: F;fonts: LT;
 malcriament=categories: M;fonts: LT;
+malcriança=categories: F;fonts: DNV;
 malcuinat=categories: M;fonts: LT;
 maldanenc maldanenca=categories: MF;fonts: LT;
 maldat=categories: F;fonts: LT;

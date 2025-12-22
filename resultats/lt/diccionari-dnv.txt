@@ -53343,8 +53343,6 @@ malavesos malavés NCMP000
 malavés malavés NCMS000
 malcaratge malcaratge NCMS000
 malcaratges malcaratge NCMP000
-malcriances malcriança NCFP000
-malcriança malcriança NCFS000
 malea malea NCFS000
 malecons malecó NCMP000
 malecó malecó NCMS000

@@ -3394,7 +3394,6 @@ maixeta=categories: F;fonts: DNV;
 malafí=categories: FS;fonts: DNV;
 malavés=categories: M;fonts: DNV;
 malcaratge=categories: M;fonts: DNV;
-malcriança=categories: F;fonts: DNV;
 malea=categories: F;fonts: DNV;
 malecó=categories: M;fonts: DNV;
 malfarjat -ada=categories: A;fonts: DNV;
