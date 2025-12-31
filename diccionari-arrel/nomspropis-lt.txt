@@ -8617,7 +8617,7 @@ Dwalin Dwalin NPMSSP0
 Dwight Dwight NPCNSP0
 Dyfed Dyfed NPCSG00
 Dylan Dylan NPCNSP0
-Dzeržinsk Dzeržinsk NPCSG00
+Dzerjinsk Dzerjinsk NPCSG00
 Dzialyn'ski Dzialyn'ski NPCNSP0
 Dàcia Dàcia NPFSG00
 Dàlia Dàlia NPFSSP0 # avl: noms de persona
@@ -14587,6 +14587,7 @@ Limbiate Limbiate NPCSG00
 Limburg Limburg NPMSG00
 Limoux Limoux NPCSG00
 Limón Limón NPMSG00
+Limónov Limónov NPCNSP0
 Lina Lina NPFSSP0 # avl: noms de persona
 Linares Linares NPCSG00
 Lincoln Lincoln NPCNG00

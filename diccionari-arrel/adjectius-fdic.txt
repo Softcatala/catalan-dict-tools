@@ -21947,6 +21947,7 @@ n-èsim n-èsima=categories: A;fonts: derivat;
 nabateu nabatea=categories: A;fonts: LT;
 nabí [pl. nabís]=categories: A;fonts: LT;
 nachikufià nachikufiana=categories: A;fonts: LT;
+nacional-bolxevic=categories: A;fonts: wiki;
 nacional=categories: A;fonts: LT;
 nacionalcatòlic -a=categories: A;fonts: derivat;
 nacionalista=categories: A;fonts: LT;
