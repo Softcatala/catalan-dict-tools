@@ -59819,14 +59819,6 @@ petenera petenera NCFS000
 peteneres petenera NCFP000
 petrolat petrolat NCMS000
 petrolats petrolat NCMP000
-petroler petroler AQ0MS0
-petroler petroler NCMS000
-petrolera petroler AQ0FS0
-petrolera petroler NCFS000
-petroleres petroler AQ0FP0
-petroleres petroler NCFP000
-petrolers petroler AQ0MP0
-petrolers petroler NCMP000
 petxelina petxelina NCFS000
 petxelines petxelina NCFP000
 peuege peuejar VMIP1S0V

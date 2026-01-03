@@ -6676,6 +6676,7 @@ Chinandega Chinandega NPCSG00
 Chinatown Chinatown NPCSG00
 Chinchiná Chinchiná NPCSG00
 Chinguetti Chinguetti NPCSG00
+Chinook Chinook NPCNO00
 Chioggia Chioggia NPCSG00
 Chipiona Chipiona NPCSG00
 Chiquimula Chiquimula NPCSG00

@@ -24743,6 +24743,7 @@ petroestafilí petroestafilina=categories: A;fonts: dsalut;
 petrofaringi -íngia=categories: A;fonts: dsalut;
 petrogràfic petrogràfica=categories: A;fonts: LT;
 petrolanco petrolanca=categories: A;fonts: LT;
+petroler petrolera=categories: A;fonts: DNV;
 petrolier petroliera=categories: A;fonts: LT;
 petrolífer petrolífera=categories: A;fonts: LT;
 petrològic petrològica=categories: A;fonts: LT;
