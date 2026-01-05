@@ -4038,6 +4038,7 @@ autoreproductor autoreproductora=categories: A;fonts: derivat;
 autoresponsable=categories: A;fonts: dsalut;
 autoretort autoretorta=categories: A;fonts: LT;
 autoretorçat autoretorçada=categories: A;fonts: LT;
+autoretràctil=categories: A;fonts: derivat;
 autorevelable=categories: A;fonts: derivat;
 autoritari autoritària=categories: A;fonts: LT;
 autoritzable=categories: A;fonts: LT;
