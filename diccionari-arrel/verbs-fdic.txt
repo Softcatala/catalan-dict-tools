@@ -6896,6 +6896,7 @@ internacionalitzar=categories: V;model:cantar;fonts: LT;
 internalitzar=categories: V;model:cantar;fonts: LT;
 internar=categories: V;model:cantar;fonts: LT;
 internitzar=categories: V;model:cantar;fonts: LT;
+interoperar=categories: V;model:cantar;fonts: LT;
 interpel·lar=categories: V;model:anul·lar;fonts: LT;
 interpenetrar=categories: V;model:cantar;fonts: dfrequencies, derivat;
 interpolar=categories: V;model:cantar;fonts: LT;

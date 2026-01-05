@@ -57530,6 +57530,7 @@ narcosala=categories: F;fonts: DNV,esadir;
 narcosi=categories: F;fonts: LT;
 narcosuggestió=categories: F;fonts: dsalut;
 narcosíntesi=categories: F;fonts: dsalut;
+narcoterrorisme=categories: M;fonts: derivat;
 narcoteràpia=categories: F;fonts: LT;
 narcotil=categories: M;fonts: dsalut;
 narcotina=categories: F;fonts: LT;
