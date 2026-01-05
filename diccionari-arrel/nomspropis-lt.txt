@@ -15611,6 +15611,7 @@ Mandelbrot Mandelbrot NPCNSP0
 Mandelstam Mandelstam NPCNSP0
 Mandiana Mandiana NPCSG00
 Mandoni Mandoni NPMSSP0 # avl: noms de persona
+Mandri Mandri NPCSG00
 Mandrès Mandrès NPCNSP0
 Manduria Manduria NPCSG00
 Manegat Manegat NPCNSP0
@@ -24992,6 +24993,7 @@ Thar Thar NPCSG00
 Thatcher Thatcher NPCNSP0
 Thaís Thaís NPFSSP0 # avl: noms de persona
 Thaïs Thaïs NPFSSP0
+Theremin Theremin NPCNSP0
 Theresienstadt Theresienstadt NPCSG00
 Thiago Thiago NPMSSP0
 Thiais Thiais NPCSG00

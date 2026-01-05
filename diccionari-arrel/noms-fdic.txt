@@ -81384,6 +81384,7 @@ thanetià=categories: M;fonts: LT;
 thatcherisme=categories: MS;fonts: derivat;
 theilèria=categories: F;fonts: dsalut;
 thenardita=categories: F;fonts: LT;
+theremin=categories: M;fonts: termcat;
 thesaurus=categories: MI;fonts: LT;
 theta=categories: F;fonts: LT;
 thetacisme=categories: M;fonts: LT;
