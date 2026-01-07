@@ -132,6 +132,7 @@
 #osteartrosi=categories: F;fonts: dsalut;
 #osteartrotomia=categories: F;fonts: dsalut;
 #pac=categories: M;fonts: LT;
+#parotitis=categories: FI;fonts: dsalut; #manca en molts diccionaris
 #pater=categories: M;fonts: dsalut;
 #patotxada=categories: F;fonts: LT;
 #pecten=categories: M;fonts: dsalut;
@@ -63045,7 +63046,6 @@ parotiditis=categories: FI;fonts: LT;
 parotidoescirre=categories: M;fonts: dsalut;
 parotidoesclerosi=categories: F;fonts: dsalut;
 parotina=categories: F;fonts: dsalut;
-parotitis=categories: FI;fonts: dsalut;
 parovaritis=categories: FI;fonts: dsalut;
 paroxetina=categories: F;fonts: dsalut;
 paroxipropiona=categories: FS;fonts: dsalut;
