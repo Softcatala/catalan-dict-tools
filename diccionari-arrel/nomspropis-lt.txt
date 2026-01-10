@@ -6402,6 +6402,7 @@ Cea Cea NPCSG00
 Ceará Ceará NPCSG00
 Ceatharlach Ceatharlach NPCSG00
 Ceausescu Ceausescu NPCNSP0
+Ceaușescu Ceaușescu NPCNSP0
 Ceba-roja Ceba-roja NPCNSP0
 Cebenc Cebenc NPCNSP0
 Ceber Ceber NPCNSP0
@@ -25087,7 +25088,7 @@ Timeua Timeua NPFSSP0 # avl: noms de persona
 Timeva Timeva NPFSSP0 # avl: noms de persona
 Timisoara Timisoara NPCSG00
 Timiş Timiş NPCSG00
-Timişoara Timişoara NPCSG00
+Timișoara Timișoara NPCSG00
 Timoneda Timoneda NPCNSP0
 Timoneda Timoneda NPCSG00
 Timoner Timoner NPCNSP0
