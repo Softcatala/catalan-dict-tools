@@ -16223,6 +16223,7 @@ huracanat huracanada=categories: A;fonts: LT;
 hurrita=categories: A;fonts: LT;
 husseinita=categories: A;fonts: LT;
 husseiní [pl. husseinís]=categories: A;fonts: LT;
+husserlià husserliana=categories: A;fonts: derivat;
 hussita=categories: A;fonts: LT;
 hutu=categories: A;fonts: LT;
 hàbil [sup. habilíssim]=categories: A;fonts: LT;
