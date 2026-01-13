@@ -27216,6 +27216,7 @@ Vólkhov Vólkhov NPCSG00
 Vólos Vólos NPCSG00
 Vöcklabruck Vöcklabruck NPCSG00
 W3C W3C NPMSO00
+WSJ WSJ NPMSO00
 Waal Waal NPCSG00
 Waalwijk Waalwijk NPCSG00
 Wabag Wabag NPCSG00
