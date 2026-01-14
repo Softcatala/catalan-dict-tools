@@ -15275,6 +15275,7 @@ herculi hercúlia=categories: A;fonts: LT;
 herculà herculana=categories: A;fonts: LT;
 hercògam hercògama=categories: A;fonts: LT;
 hereditari hereditària=categories: A;fonts: LT;
+hereditarista=categories: A;fonts: derivat;
 heredobiològic heredobiològica=categories: A;fonts: dsalut;
 heredofamiliar=categories: A;fonts: dsalut;
 heredoluètic heredoluètica=categories: A;fonts: dsalut;
