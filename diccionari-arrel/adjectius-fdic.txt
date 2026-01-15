@@ -29790,6 +29790,7 @@ sobremostrejat sobremostrejada=categories: A;fonts: derivat;
 sobrenat sobrenada=categories: A;fonts: LT;
 sobrenatural=categories: A;fonts: LT;
 sobrenaturalista=categories: A;fonts: DDLC;
+sobreocupat sobreocupada=categories: A;fonts: derivat;
 sobreplè sobreplena=categories: A;fonts: LT;
 sobreprotector sobreprotectora=categories: A;fonts: LT;
 sobrepuntat sobrepuntada=categories: A;fonts: LT;
