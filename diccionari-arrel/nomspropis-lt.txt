@@ -8341,6 +8341,7 @@ Diourbel Diourbel NPCSG00
 Dipilo Dipilo NPCSG00
 Diplocat Diplocat NPMSO00
 Dirac Dirac NPCNSP0
+Dirichlet Dirichlet NPCNSP0
 Dirla Dirla NPCNSP0
 Discord Discord NPMSO00
 Disney Disney NPCNSP0
