@@ -8571,6 +8571,7 @@ autocontracte=categories: M;fonts: LT;
 autocontradicció=categories: F;fonts: derivat;
 autocontrol=categories: M;fonts: LT;
 autoconvecció=categories: F;fonts: termcat;
+autoconvenciment=categories: M;fonts: derivat;
 autocop=categories: M;fonts: LT;
 autocorologia=categories: F;fonts: LT;
 autocorrecció=categories: F;fonts: LT;

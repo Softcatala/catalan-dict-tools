@@ -11909,6 +11909,7 @@ Grosseto Grosseto NPCSG00
 Grossglockner Grossglockner NPCSG00
 Grossman Grossman NPCNSP0
 Grosz Grosz NPCNSP0
+Grothendieck Grothendieck NPCNSP0
 Grotius Grotius NPMSSP0
 Grottaferrata Grottaferrata NPCSG00
 Grottaglie Grottaglie NPCSG00
