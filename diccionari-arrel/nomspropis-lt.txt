@@ -6639,6 +6639,7 @@ Chelsea Chelsea NPCSG00
 Cheltenham Cheltenham NPCSG00
 Chemnitz Chemnitz NPCSG00
 Chengdu Chengdu NPCSG00
+Chennai Chennai NPCSG00 # nom oficial actula de Madràs
 Chenoa Chenoa NPFSSP0
 Cher Cher NPMSG00
 Cherbourg Cherbourg NPCSG00
@@ -19611,6 +19612,7 @@ Perelló Perelló NPCNSP0
 Perelló Perelló NPMSG00
 Perellós Perellós NPCNSP0
 Perellós Perellós NPCSG00
+Perelman Perelman NPCNSP0
 Peremarc Peremarc NPCNSP0
 Peremateu Peremateu NPCNSP0
 Peremiquel Peremiquel NPCNSP0

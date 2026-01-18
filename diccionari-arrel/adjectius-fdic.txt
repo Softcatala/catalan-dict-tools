@@ -16049,6 +16049,7 @@ homenívol homenívola=categories: A;fonts: LT;
 homeocrom homeocroma=categories: A;fonts: dsalut;
 homeohidre homeohidra=categories: A;fonts: LT;
 homeomorf homeomorfa=categories: A;fonts: LT;
+homeomòrfic homeomòrfica=categories: A;fonts: derivat d'homeomorfisme;
 homeopsòric homeopsòrica=categories: A;fonts: dsalut;
 homeopàtic homeopàtica=categories: A;fonts: LT;
 homeosifilític homeosifilítica=categories: A;fonts: dsalut;
