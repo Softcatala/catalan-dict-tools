@@ -363,6 +363,7 @@ Abili Abili NPMSSP0
 Abilis Abili NPMPSP0
 Abilé Abilé NPMSSP0 # avl: noms de persona
 Abimèlec Abimèlec NPMSSP0
+Abisko Abisko NPCSG00
 Abissínia Abissínia NPFSG00
 Abió Abió NPCSG00
 Abkhàzia Abkhàzia NPFSG00
@@ -24919,6 +24920,7 @@ Terrafort Terrafort NPCSG00
 Terragrossa Terragrossa NPCNSP0
 Terralba Terralba NPCSG00
 Terrall Terrall NPCNSP0
+Terramar Terramar NPFSO00
 Terranegra Terranegra NPCNSP0
 Terranova Terranova NPCSG00
 Terrantona Terrantona NPCSG00
