@@ -14579,6 +14579,7 @@ Likasi Likasi NPCSG00
 Likouala Likouala NPCSG00
 Likud Likud NPMSO00
 Lila Lila NPFSSP0
+Lildami Lildami NPMSSP0
 Liles Lila NPFPSP0
 Liliana Liliana NPFSSP0 # avl: noms de persona
 Lilit Lilit NPFSSP0 # avl: noms de persona

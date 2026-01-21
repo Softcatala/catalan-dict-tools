@@ -10863,6 +10863,7 @@ engonal=categories: A;fonts: LT;
 engorronidor engorronidora=categories: A;fonts: LT;
 engrapador engrapadora=categories: A;fonts: LT;
 engreixador engreixadora=categories: A;fonts: LT;
+engreixat engreixada [sup. engreixadíssim]=categories: A;fonts: participi;
 engrelat engrelada=categories: A;fonts: LT;
 engrescador engrescadora=categories: A;fonts: LT;
 engrescadíssim engrescadíssima=categories: A;fonts: superlative;
