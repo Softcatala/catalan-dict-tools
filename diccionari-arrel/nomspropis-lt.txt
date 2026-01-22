@@ -14072,6 +14072,7 @@ Krugman Krugman NPCNSP0
 Krujë Krujë NPCSG00
 Krukenberg Krukenberg NPCNSP0 # medical
 Krzysztof Krzysztof NPMSSP0
+Kràmnik Kràmnik NPCNSP0
 Kubala Kubala NPCNSP0
 Kubrick Kubrick NPCNSP0
 Kufs Kufs NPCNSP0 # medical
