@@ -514,6 +514,7 @@ Adidas Adidas NPCNO00
 Adie Adie NPCNSP0 # medical
 Adif Adif NPCNO00
 Adige Adige NPCSG00
+Adiguèsia Adiguèsia NPFSG00
 Adilons Adiló NPMPSP0
 Adiló Adiló NPMSSP0
 Adina Adina NPFSSP0 # avl: noms de persona
@@ -5172,6 +5173,7 @@ Burguet Burguet NPCNSP0
 Burguetó Burguetó NPCNSP0
 Burguès Burguès NPCNSP0
 Burgúndia Burgúndia NPFSG00
+Buriàtia Buriàtia NPFSG00
 Burjacs Burjacs NPCNSP0
 Burjassot Burjassot NPCSG00
 Burjons Burjons NPCNSP0
@@ -5519,6 +5521,7 @@ Calmett Calmett NPCNSP0 # medical
 Calmons Calmons NPCNSP0
 Calmé Calmé NPCNSP0
 Calmó Calmó NPCNSP0
+Calmúquia Calmúquia NPFSG00
 Calonge Calonge NPCNSP0
 Calonge Calonge NPCSG00
 Caloocan Caloocan NPCSG00
@@ -8890,6 +8893,7 @@ Elises Elisa NPFPSP0
 Eliseu Eliseu NPMSSP0
 Eliseus Eliseu NPMPSP0
 Elisi Elisi NPMSSP0 # avl: noms de persona
+Elistà Elistà NPCSG00
 Elizabeth Elizabeth NPCSG00
 Elizalde Elizalde NPCNSP0
 Elià Elià NPMSSP0 # avl: noms de persona
@@ -11705,7 +11709,7 @@ Gorki Gorki NPCNSP0
 Gorlic Gorlic NPCNSP0
 Gornal Gornal NPCSG00
 Gornals Gornals NPCNSP0
-Gorno-Altai Gorno-Altai NPMSG00
+Gorno-Altaisk Gorno-Altaisk NPMSG00
 Gorombau Gorombau NPCNSP0
 Gorries Gorries NPCNSP0
 Gortina Gortina NPCSG00
@@ -12927,8 +12931,10 @@ IVACE IVACE NPMSO00
 IVAJ IVAJ NPMSO00
 IVAM IVAM NPMSO00
 IVAP IVAP NPMSO00
+Iacútia Iacútia NPFSG00
 Iago Iago NPMSSP0 # avl: noms de persona
 Iaiza Iaiza NPFSSP0 # avl: noms de persona
+Iakutsk Iakutsk NPCSG00
 Ialta Ialta NPCSG00
 Iamalo-Nènets Iamalo-Nènets NPCSG00
 Iammo Iammo NPCSG00
@@ -13008,6 +13014,7 @@ Igualada Igualada NPFSG00
 Igualada Igualada NPMSO00
 Iguvium Iguvium NPMSG00
 Igüerri Igüerri NPCSG00
+Ijevsk Ijevsk NPCSG00
 Ikea Ikea NPCNO00
 Iker Iker NPMSSP0
 Ikrame Ikrame NPFSSP0
@@ -13108,6 +13115,7 @@ Intxaurrondo Intxaurrondo NPCSG00
 Inverness Inverness NPCSG00
 Invisalign Invisalign NPCNO00
 Iocasta Iocasta NPFSSP0 # avl: noms de persona
+Ioixkar-Olà Ioixkar-Olà NPCSG00
 Iolanda Iolanda NPFSSP0
 Iolandes Iolanda NPFPSP0
 Iolant Iolant NPFSSP0 # avl: noms de persona
@@ -13260,11 +13268,11 @@ Ixtar Ixtar NPFSSP0
 Izan Izan NPMSSP0
 Izmaïl Izmaïl NPCSG00
 Izoard Izoard NPCSG00
+Iàbloko Iàbloko NPMSO00 # partit rus
 Iñaki Iñaki NPMSSP0
 Ióssif Ióssif NPMSSP0
 Iō-jima Iō-jima NPCSG00
 Išim Išim NPCSG00
-Iževsk Iževsk NPCSG00
 JERC JERC NPFPO00
 JMJ JMJ NPCNO00
 JNC JNC NPFSO00
@@ -13308,7 +13316,6 @@ Jaire Jaire NPMSSP0 # avl: noms de persona
 Jaiza Jaiza NPFSSP0 # avl: noms de persona
 Jajce Jajce NPCSG00
 Jakarta Jakarta NPCSG00
-Jakutsk Jakutsk NPCSG00
 Jalalabad Jalalabad NPCSG00
 Jalapa Jalapa NPCSG00
 Jalenca Jalenca NPCNSP0
@@ -13563,7 +13570,6 @@ Joví Joví NPMSSP0
 Jowzjān Jowzjān NPCSG00
 Joyce Joyce NPCNSP0
 Joèu Joèu NPMSG00
-Joškar-Ola Joškar-Ola NPCSG00
 Juanola Juanola NPCNSP0
 Juaristi Juaristi NPCNSP0
 Juba Juba NPCSG00
@@ -13684,6 +13690,7 @@ K2 K2 NPMSG00
 KGB KGB NPMSO00
 KMPlayer KMPlayer NPCNO00
 Kabalevski Kabalevski NPCNSP0
+Kabardino-Balkària Kabardino-Balkària NPCSG00
 Kabardins Kabardins NPMPG00
 Kabul Kabul NPCSG00
 Kabwe Kabwe NPCSG00
@@ -13766,6 +13773,7 @@ Karakorum Karakorum NPCSG00
 Karamàzov Karamàzov NPCNSP0
 Karangetang Karangetang NPCSG00
 Karatau Karatau NPCSG00
+Karatxai-Txerquèssia Karatxai-Txerquèssia NPCSG00
 Karatxais Karatxais NPMPG00
 Karbala Karbala NPCSG00
 Kardaixov Kardaixov NPCNSP0
@@ -15403,6 +15411,7 @@ Magrià Magrià NPCNSP0
 Magrí Magrí NPCNSP0
 Maguindanao Maguindanao NPCSG00
 Magwe Magwe NPCSG00
+Magàs Magàs NPCSG00
 Magí Magí NPCNSP0
 Magí Magí NPMSSP0
 Magúncia Magúncia NPFSG00
@@ -15427,6 +15436,7 @@ Maiduguri Maiduguri NPCSG00
 Maier Maier NPCNSP0
 Maigmudella Maigmudella NPFSG00
 Maigmó Maigmó NPMSG00
+Maikop Maikop NPCSG00
 Maillard Maillard NPCNSP0
 Mailí Mailí NPCNSP0
 Maimir Maimir NPCNSP0
@@ -15459,7 +15469,6 @@ Maià Maià NPCNSP0
 Maià Maià NPCSG00
 Majenci Majenci NPMSSP0 # avl: noms de persona
 Majestic Majestic NPMSO00
-Majkop Majkop NPCSG00
 Majoral Majoral NPCNSP0
 Majordom Majordom NPCNSP0
 Makalu Makalu NPCSG00
@@ -15825,6 +15834,7 @@ Margets Margets NPCNSP0
 Margoret Margoret NPCNSP0
 Margot Margot NPFSSP0
 Marguí Marguí NPCNSP0
+Mari-El Mari-El NPCSG00
 Maria Maria NPCNSP0
 Maria Maria NPFSSP0
 MariaDB MariaDB NPCNO00
@@ -17359,6 +17369,7 @@ Morava Morava NPCSG00
 Morazán Morazán NPCSG00
 Morbihan Morbihan NPCSG00
 Mordred Mordred NPMSSP0
+Mordòvia Mordòvia NPFCG00
 Morecambe Morecambe NPCSG00
 Morei Morei NPCNSP0
 Morelia Morelia NPCSG00
@@ -17768,7 +17779,6 @@ Nakba Nakba NPFSO00
 Nakhitxevan Nakhitxevan NPCSG00
 Nakhodka Nakhodka NPCSG00
 Naktong-gang Naktong-gang NPCSG00
-Nal'čik Nal'čik NPCSG00
 Nalec Nalec NPCSG00
 Nalón Nalón NPCSG00
 Nam-Mun Nam-Mun NPCSG00
@@ -18241,14 +18251,14 @@ Noves Noves NPCNSP0
 Novetlè Novetlè NPCSG00
 Novials Novials NPCNSP0
 Novo-Ogariovo Novo-Ogariovo NPCSG00
+Novoixàkhtinsk Novoixàkhtinsk NPCSG00
 Novokujbyševsk Novokujbyševsk NPCSG00
 Novokuzneck Novokuzneck NPCSG00
 Novomoskovsk Novomoskovsk NPCSG00
 Novorossijsk Novorossijsk NPCSG00
 Novorossisk Novorossisk NPCSG00
 Novossibirsk Novossibirsk NPCSG00
-Novočerkassk Novočerkassk NPCSG00
-Novošakhtinsk Novošakhtinsk NPCSG00
+Novotxerkassk Novotxerkassk NPCSG00
 Novska Novska NPCSG00
 Noyon Noyon NPCSG00
 Noè Noè NPMSSP0
@@ -18295,6 +18305,7 @@ Nyus Nyus NPCSG00
 Nyíregyháza Nyíregyháza NPCSG00
 Nàdia Nàdia NPFSSP0
 Nàger Nàger NPCNSP0
+Nàltxik Nàltxik NPCSG00
 Nàpols Nàpols NPCSG00
 Nàquera Nàquera NPCSG00
 Nàrnia Nàrnia NPFSG00
@@ -23673,6 +23684,7 @@ Sigüenza Sigüenza NPCSG00
 Siirt Siirt NPCSG00
 Sikasso Sikasso NPCSG00
 Sikkim Sikkim NPCSG00
+Siktivkar Siktivkar NPCSG00
 Sil Sil NPCSG00
 Sila Sila NPCSG00
 Silas Silas NPMPSP0
@@ -24382,7 +24394,6 @@ Swyer Swyer NPCNSP0 # medical
 Swype Swype NPCNO00
 Sydenham Sydenham NPCNSP0 # medical
 Sydney Sydney NPCSG00
-Syktyvkar Syktyvkar NPCSG00
 Syracuse Syracuse NPCSG00
 Syrdarja Syrdarja NPCSG00
 Syriza Syriza NPFSO00
@@ -24729,6 +24740,7 @@ Tassos Tassos NPCSG00
 Tata Tata NPCSG00
 Tatabánya Tatabánya NPCSG00
 Tatano Tatano NPMSO00
+Tatarstan Tatarstan NPMSG00
 Tatiana Tatiana NPFSG00
 Tatoeba Tatoeba NPCNO00
 Tatxer Tatxer NPCNSP0
@@ -25827,14 +25839,22 @@ Txad Txad NPMSG00
 Txaikovski Txaikovski NPCNSP0
 Txarango Txarango NPMNO00
 Txebixov Txebixov NPCNSP0
+Txeboksari Txeboksari NPCSG00
 Txeca Txeca NPFSG00
 Txecoslovàquia Txecoslovàquia NPFSG00
 Txeliàbinsk Txeliàbinsk NPCSG00
 Txell Txell NPFSSP0
+Txeremkhovo Txeremkhovo NPCSG00
+Txerepovets Txerepovets NPCSG00
+Txerkassi Txerkassi NPCSG00
+Txerkessk Txerkessk NPCSG00
 Txerkessos Txerkessos NPMPG00
 Txernenko Txernenko NPCNSP0
+Txernivtsí Txernivtsí NPCSG00
+Txerníhiv Txerníhiv NPCSG00
 Txernòbil Txernòbil NPCSG00
 Txetxènia Txetxènia NPFSG00
+Txuvàixia Txuvàixia NPCSG00
 Txèquia Txèquia NPFSG00
 Txékhov Txékhov NPCNSP0
 Tychy Tychy NPCSG00
@@ -25979,7 +25999,7 @@ Ujjain Ujjain NPCSG00
 Ujpest Ujpest NPCSG00
 Ukkel Ukkel NPCSG00
 Ulaanbaatar Ulaanbaatar NPCSG00
-Ulan-Ude Ulan-Ude NPCSG00
+Ulan-Udé Ulan-Udé NPCSG00
 Ulhāsnagar Ulhāsnagar NPCSG00
 Ulis Ulis NPFPG00
 Ulisses Ulisses NPMNSP0
@@ -27198,7 +27218,6 @@ Vulpellac Vulpellac NPCNSP0
 Vulpellac Vulpellac NPCSG00
 Vuze Vuze NPCNO00
 Vučić Vučić NPCNSP0
-Vyčegda Vyčegda NPCSG00
 Vàlter Vàlter NPMSSP0 # avl: noms de persona
 Vània Vània NPCNSP0 # l'oncle Vània
 Vània Vània NPFSSP0 # avl: noms de persona
@@ -27221,6 +27240,7 @@ Víctors Víctor NPMPSP0
 Vílnius Vílnius NPCSG00
 Vínnitsia Vínnitsia NPCSG00
 Vístula Vístula NPCSG00
+Vítxegda Vítxegda NPCSG00
 Vólkhov Vólkhov NPCSG00
 Vólos Vólos NPCSG00
 Vöcklabruck Vöcklabruck NPCSG00
@@ -28087,13 +28107,6 @@ uTorrent uTorrent NPCNO00
 Čapajevsk Čapajevsk NPCSG00
 Čapek Čapek NPCNSP0
 Čardžou Čardžou NPCSG00
-Čeboksary Čeboksary NPCSG00
-Čel'abinsk Čel'abinsk NPCSG00
-Čeremkhovo Čeremkhovo NPCSG00
-Čerepovec Čerepovec NPCSG00
-Čerkasy Čerkasy NPCSG00
-Černihiv Černihiv NPCSG00
-Černivci Černivci NPCSG00
 Čimkent Čimkent NPCSG00
 Čirčiq Čirčiq NPCSG00
 Ču Ču NPCSG00
