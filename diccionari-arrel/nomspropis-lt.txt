@@ -14108,6 +14108,7 @@ Kurils Kurils NPFPG00
 Kurnool Kurnool NPCSG00
 Kursaal Kursaal NPMSO00
 Kursk Kursk NPCSG00
+Kurtxàtov Kurtxàtov NPCSG00
 Kuru Kuru NPCNSP0 # medical
 Kurume Kurume NPCSG00
 Kurunegala Kurunegala NPCSG00

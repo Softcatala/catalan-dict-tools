@@ -79244,6 +79244,7 @@ suspició=categories: F;fonts: LT;
 suspicàcia=categories: F;fonts: LT;
 suspès suspesa=categories: MF;fonts LT;
 susquedenc susquedenca=categories: MF;fonts: LT;
+sussú [pl. sussús]==categories: M;fonts: DNV;
 sustentació=categories: F;fonts: LT;
 sustentacle=categories: M;fonts: LT;
 sustentador sustentadora=categories: MF;fonts LT;
