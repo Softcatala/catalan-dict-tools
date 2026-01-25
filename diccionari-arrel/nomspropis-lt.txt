@@ -21282,7 +21282,9 @@ Ramons Ramon NPMPSP0
 Ramos Ramos NPCNSP0
 Rampins Rampins NPMPG00
 Rams Rams NPCNSP0
+Ramsay Ramsay NPCNSP0
 Ramsay-Hunt Ramsay-Hunt NPCNSP0 # medical
+Ramsey Ramsey NPCNSP0
 Ramsgate Ramsgate NPCSG00
 Ramsès Ramsès NPMSSP0
 Ramsès Ramsès NPMSSP0 # avl: noms de persona
@@ -22007,6 +22009,7 @@ Romeu Romeu NPCNSP0
 Romeva Romeva NPCNSP0
 Romia Romia NPCNSP0
 Romina Romina NPFSSP0 # avl: noms de persona
+Romney Romney NPCNSP0
 Romuald Romuald NPMSSP0
 Romualda Romualda NPFSSP0 # avl: noms de persona
 Romualds Romuald NPMPSP0

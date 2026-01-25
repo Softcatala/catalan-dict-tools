@@ -24081,6 +24081,7 @@ passatger passatgera=categories: A;fonts: LT;
 passatot=categories: AI;fonts: LT;
 passejable=categories: A;fonts: termcat;
 passejador passejadora=categories: A;fonts: LT;
+passeriforme=categories: A;fonts: derivat del nom;
 passible=categories: A;fonts: LT;
 passional=categories: A;fonts: LT;
 passiu passiva=categories: A;fonts: LT;
