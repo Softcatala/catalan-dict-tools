@@ -68472,6 +68472,7 @@ princeseta=categories: F;fonts: LT;
 principal=categories: MF;fonts: LT;
 principalitat=categories: F;fonts: LT;
 principat=categories: M;fonts: LT;
+principet=categories: M;fonts: DCVB,diminutiu, no *princepet;
 principi=categories: M;fonts: LT;
 principiant=categories: MF;fonts: LT;
 principisme=categories: M;fonts: termcat;
