@@ -4170,6 +4170,7 @@ Betriu Betriu NPCNSP0
 Betrià Betrià NPCNSP0
 Betsabé Betsabé NPFSSP0
 Betsaida Betsaida NPCSG00
+Betty Betty NPFSSP0
 Betxí Betxí NPCNSP0
 Betxí Betxí NPCSG00
 Betània Betània NPCSG00
