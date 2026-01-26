@@ -25615,6 +25615,7 @@ porrerenc porrerenca=categories: A;fonts: LT;
 porrerà porrerana=categories: A;fonts: LT;
 porretó porretona=categories: A;fonts: LT;
 portable=categories: A;fonts: LT;
+portacontenidors=categories: AI;fonts: termcat;
 portador portadora=categories: A;fonts: LT;
 portainforme=categories: A;fonts: dsalut;
 portalenca=categories: A;fonts: LT;

@@ -13978,6 +13978,7 @@ Klüver-Bucy Klüver-Bucy NPCNSP0 # medical
 Knesset Knesset NPFSO00
 Knicks Knicks NPMPO00
 Knin Knin NPCSG00
+Kobane Kobane NPCSG00
 Kobe Kobe NPCSG00
 Koch Koch NPCNSP0 # medical
 Kocher Kocher NPCNSP0 # medical
