@@ -51520,6 +51520,7 @@ malanança=categories: F;fonts: LT;
 malandrí=categories: M;fonts: LT;
 malany=categories: M;fonts: LT;
 malaparellament=categories: M;fonts: LT;
+malapropisme=categories: M;fonts: GEC;
 malaptesa=categories: F;fonts: LT;
 malaquita=categories: F;fonts: LT;
 malar=categories: M;fonts: LT;
