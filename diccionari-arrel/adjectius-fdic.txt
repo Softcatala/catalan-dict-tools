@@ -20754,6 +20754,7 @@ metasimpàtic metasimpàtica=categories: A;fonts: dsalut;
 metasomàtic metasomàtica=categories: A;fonts: LT;
 metastàtic metastàtica=categories: A;fonts: LT;
 metatarsià metatarsiana=categories: A;fonts: LT;
+metateatral=categories: A;fonts: derivat;
 metatoràcic metatoràcica=categories: A;fonts: LT;
 metatròfic -a=categories: A;fonts: dsalut;
 metatètic metatètica=categories: A;fonts: LT;
