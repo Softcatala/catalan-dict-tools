@@ -7832,6 +7832,7 @@ Czartoryski Czartoryski NPCNSP0
 Czepa Czepa NPCNSP0 # medical
 Czerny Czerny NPCNSP0
 Czestochowa Czestochowa NPCSG00
+Częstochowa Częstochowa NPCSG00
 Càceres Càceres NPCSG00
 Càlig Càlig NPCSG00
 Càller Càller NPCSG00
@@ -13820,6 +13821,7 @@ Katmandú Katmandú NPCSG00
 Katowice Katowice NPCSG00
 Katsina Katsina NPCSG00
 Kattegat Kattegat NPCSG00
+Katyn Katyn NPCSG00
 Kauai Kauai NPCSG00
 Kaufman Kaufman NPCNSP0 # medical
 Kaunas Kaunas NPCSG00
