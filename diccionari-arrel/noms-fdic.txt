@@ -34346,6 +34346,7 @@ exbatllessa=categories: F;fonts: LT;
 exbevedor exbevedora=categories: MF;fonts: derivat;
 exbisbe=categories: M;fonts: LT;
 exbisbessa=categories: F;fonts: LT;
+exboxejador exboxejadora=categories: MF;fonts: derivat;
 exbrigadista=categories: MF;fonts: LT;
 excalació=categories: F;fonts: dsalut;
 excampió excampiona=categories: MF;fonts: LT;

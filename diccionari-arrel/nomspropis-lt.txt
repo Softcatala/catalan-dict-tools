@@ -22301,6 +22301,7 @@ Ràfels Ràfels NPCSG00
 Ràfia Ràfia NPCSG00
 Ràfol Ràfol NPMSG00
 Ràfols Ràfols NPCNSP0
+Rània Rània NPFSSP0
 Ràpita Ràpita NPFSG00
 Rába Rába NPCSG00
 Räikkönen Räikkönen NPCNSP0
