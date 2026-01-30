@@ -20882,6 +20882,7 @@ copra=categories: F;fonts: LT;
 copracràsia=categories: F;fonts: dsalut;
 coprecipitació=categories: F;fonts: LT;
 coprecipitina=categories: F;fonts: dsalut;
+copresentador copresentadora=categories: MF;fonts: derivat;
 copresident copresidenta=categories: MF;fonts: derivat;
 copresidència=categories: F;fonts: derivat;
 coprincesa=categories: F;fonts: LT;

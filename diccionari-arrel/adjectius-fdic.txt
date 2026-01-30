@@ -32500,6 +32500,7 @@ truculent truculenta=categories: A;fonts: LT;
 trullanenc trullanenca=categories: A;fonts: LT;
 trullós trullosa=categories: A;fonts: LT;
 trumpista=categories: A;fonts: derivat;
+trumpià trumpiana=categories: A;fonts: derivat;
 truncal=categories: A;fonts: dsalut;
 truncular=categories: A;fonts: dsalut;
 tràgic tràgica=categories: A;fonts: LT;

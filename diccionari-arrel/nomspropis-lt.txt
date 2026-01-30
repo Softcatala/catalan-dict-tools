@@ -19419,6 +19419,7 @@ Pecullà Pecullà NPCNSP0
 Pedarrós Pedarrós NPCNSP0
 Pedascoll Pedascoll NPCNSP0
 Pedernales Pedernales NPCSG00
+Pedescoll Pedescoll NPCNSP0
 Pedra Pedra NPCNSP0
 Pedraforca Pedraforca NPMSG00
 Pedral Pedral NPCNSP0
@@ -20413,6 +20414,7 @@ Pourodó Pourodó NPCNSP0
 Pous Pous NPCNSP0
 Poussin Poussin NPCNSP0
 Pouvilà Pouvilà NPCNSP0
+Powell Powell NPCNSP0
 PowerPoint PowerPoint NPMNO00
 Powys Powys NPCSG00
 Poyang Poyang NPCSG00
@@ -27308,6 +27310,7 @@ Warnock Warnock NPCNSP0
 Warnock Warnock NPCNSP0 # medical
 Warren Warren NPCSG00
 Warrington Warrington NPCSG00
+Warsh Warsh NPCNSP0
 Warta Warta NPCSG00
 Warwick Warwick NPCSG00
 Warwickshire Warwickshire NPCSG00
