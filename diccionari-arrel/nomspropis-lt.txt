@@ -6358,6 +6358,7 @@ Catona Catona NPCSG00
 Catral Catral NPCSG00
 Catràdio Catràdio NPFSO00
 Catul Catul NPMSSP0 # avl: noms de persona
+Catwoman Catwoman NPFSSP0
 Catà Catà NPCNSP0
 Catània Catània NPCSG00
 Catí Catí NPCSG00
