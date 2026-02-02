@@ -16010,6 +16010,7 @@ hodiern hodierna=categories: A;fonts: LT;
 holagog holagoga=categories: A;fonts: dsalut;
 holandès holandesa=categories: A;fonts: LT;
 holergàstic holergàstica=categories: A;fonts: dsalut;
+holista=categories: A;fonts: derivat;
 hollywoodià hollywoodiana=categories: A;fonts: LT;
 holmesià holmesiana=categories: A;fonts: derivat;
 holoaxial=categories: A;fonts: LT;

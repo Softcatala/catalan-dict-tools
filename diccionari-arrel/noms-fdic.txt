@@ -44857,6 +44857,7 @@ holandeta=categories: F;fonts: LT;
 holandès holandesa=categories: MF;fonts: LT;
 holergàsia=categories: F;fonts: dsalut;
 holisme=categories: M;fonts: LT;
+holista=categories: MF;fonts: derivat;
 holmi=categories: M;fonts: LT;
 holoacardi=categories: M;fonts: dsalut;
 holoacrània=categories: F;fonts: dsalut;
