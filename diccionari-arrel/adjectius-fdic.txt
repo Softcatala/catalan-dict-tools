@@ -20378,6 +20378,7 @@ medicofarmacèutic medicofarmacèutica=categories: A;fonts: derivat;
 medicoforense=categories: A;fonts: LT;
 medicolegal=categories: A;fonts: LT;
 medicoquirúrgic medicoquirúrgica=categories: A;fonts: LT;
+medicorehabilitador medicorehabilitadora=categories: A;fonts: derivat;
 medicosanitari medicosanitària=categories: A;fonts: derivat;
 medicosocial=categories: A;fonts: dsalut;
 medieval=categories: A;fonts: LT;

@@ -8588,6 +8588,7 @@ autoctonisme=categories: M;fonts: LT;
 autoculpabilització=categories: F;fonts: derivat;
 autocultiu=categories: M;fonts: derivat;
 autocura=categories: F;fonts: dsalut;
+autocuratela=categories: F;fonts: derivat;
 autocàrrega=categories: F;fonts: derivat;
 autocàstig=categories: M;fonts: esadir;
 autocèfal=categories: MS;fonts: LT;
