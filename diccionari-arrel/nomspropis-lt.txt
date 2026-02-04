@@ -24046,6 +24046,7 @@ Sonella Sonella NPCSG00
 Songhai Songhai NPCSG00
 Songhua Songhua NPCSG00
 Sonora Sonora NPCSG00
+Sonotone Sonotone NPMNO00
 Sonsoles Sonsoles NPFSSP0 # avl: noms de persona
 Sonsonate Sonsonate NPCSG00
 Sony Sony NPCNO00

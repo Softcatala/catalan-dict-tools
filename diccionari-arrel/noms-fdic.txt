@@ -77966,6 +77966,7 @@ sonometria=categories: F;fonts: LT;
 sonoritat=categories: F;fonts: LT;
 sonorització=categories: F;fonts: LT;
 sonorografia=categories: F;fonts: dsalut;
+sonotone=categories: M;fonts: esadir;
 sonsa=categories: F;fonts: LT;
 sonsada=categories: F;fonts: LT;
 sonsera=categories: F;fonts: LT;
