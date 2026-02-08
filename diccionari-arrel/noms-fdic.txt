@@ -57962,6 +57962,7 @@ nenúfar=categories: M;fonts: LT;
 neoantigen=categories: M;fonts: dsalut;
 neoarsfenamina=categories: F;fonts: LT;
 neoartrosi=categories: F;fonts: LT;
+neoateisme=categories: M;fonts: derivat;
 neoautonomia=categories: F;fonts: derivat;
 neoautonomisme=categories: M;fonts: derivat;
 neobalènid=categories: M;fonts: termcat;

@@ -17482,6 +17482,7 @@ Mosquera Mosquera NPFSG00
 Mosqueres Mosqueres NPFPG00
 Mosqueroles Mosqueroles NPCNSP0
 Mosqueroles Mosqueroles NPCSG00
+Mossad Mossad NPMSO00
 Mosset Mosset NPCNSP0
 Mosset Mosset NPCSG00
 Mossul Mossul NPCSG00
@@ -21931,6 +21932,7 @@ Rodonyà Rodonyà NPCSG00
 Rodoreda Rodoreda NPCNSP0
 Rodrigues Rodrigues NPCSG00
 Rodriguillo Rodriguillo NPMSG00
+Rodrik Rodrik NPCNSP0
 Rodríguez Rodríguez NPCNSP0
 Rodès Rodès NPCSG00
 Rodés Rodés NPCNSP0
