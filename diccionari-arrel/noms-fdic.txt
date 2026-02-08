@@ -27338,6 +27338,7 @@ ecoencefalograma=categories: M;fonts: LT;
 ecoencefalògraf=categories: M;fonts: dsalut;
 ecoendoscòpia=categories: F;fonts: dsalut;
 ecoestructura=categories: F;fonts: dsalut;
+ecofeixisme=categories: M;fonts: derivat;
 ecofeminisme=categories: M; fonts: derivat;
 ecofilosofia=categories: F;fonts: termcat;
 ecofiscalitat=categories: F;fonts: termcat;

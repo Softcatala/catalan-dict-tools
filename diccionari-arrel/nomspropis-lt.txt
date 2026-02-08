@@ -9865,6 +9865,7 @@ Fanzara Fanzara NPFSG00
 Fanø Fanø NPCSG00
 Far Far NPCNSP0
 Far Far NPMSG00
+Farage Farage NPCNSP0
 Faraig Faraig NPMSSP0 # avl: noms de persona
 Farasān Farasān NPCSG00
 Farber Farber NPCNSP0 # medical
@@ -10703,6 +10704,7 @@ Fuenlabrada Fuenlabrada NPCSG00
 Fuensalida Fuensalida NPCSG00
 Fuente Fuente NPCSG00
 Fuenterrobles Fuenterrobles NPCSG00
+Fuentes Fuentes NPCNSP0
 Fuerteventura Fuerteventura NPCSG00
 Fugurull Fugurull NPMSG00
 Fuirosos Fuirosos NPCSG00
@@ -15636,6 +15638,7 @@ Mandara Mandara NPCSG00
 Mandela Mandela NPCNSP0
 Mandelbrot Mandelbrot NPCNSP0
 Mandelstam Mandelstam NPCNSP0
+Mandeville Mandeville NPCNSP0
 Mandiana Mandiana NPCSG00
 Mandoni Mandoni NPMSSP0 # avl: noms de persona
 Mandri Mandri NPCSG00

@@ -10010,6 +10010,7 @@ triangular=categories: V;model:cantar;fonts: LT;
 triangularitzar=categories: V;model:cantar;fonts: LT;
 triapedrar=categories: V;model:cantar;fonts: LT;
 triar=categories: V;model:crear;fonts: LT;
+tribalitzar=categories: V;model:cantar;fonts: derivat;
 tribanar=categories: V;model:cantar;fonts: LT;
 tribular=categories: V;model:cantar;fonts: LT;
 tributar=categories: V;model:cantar;fonts: LT;
