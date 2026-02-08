@@ -64149,6 +64149,7 @@ pepida=categories: F;fonts: LT;
 peple=categories: M;fonts: LT;
 peplomicina=categories: F;fonts: dsalut;
 peplòmer=categories: M;fonts: termcat;
+pepperoni=categories: MS;fonts: termcat;
 pepsina=categories: F;fonts: LT;
 pepsinogen=categories: M;fonts: LT;
 pepsinúria=categories: F;fonts: dsalut;
