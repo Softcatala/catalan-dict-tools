@@ -8520,6 +8520,7 @@ Drac Drac NPCNSP0
 Draconci Draconci NPMSSP0
 Draghi Draghi NPCNSP0
 Draguignan Draguignan NPCSG00
+Dragut Dragut NPMSSP0
 Dragó Dragó NPMSG00
 Drake Drake NPCNSP0
 Drakensberg Drakensberg NPCSG00
@@ -25140,6 +25141,7 @@ Tindouf Tindouf NPCSG00
 Tinel Tinel NPCNSP0 # medical
 Tineo Tineo NPCSG00
 Tingis Tingis NPCSG00
+Tiniànov Tiniànov NPCNSP0
 Tino Tino NPMSSP0 # avl: noms de persona
 Tinos Tinos NPCSG00
 Tinto Tinto NPMSG00
@@ -26198,6 +26200,7 @@ Valarties Valarties NPCSG00
 Valauri Valauri NPCSG00
 Valcamònica Valcamònica NPCSG00
 Valclusa Valclusa NPCSG00
+Valcárcel Valcárcel NPCNSP0
 Valdagno Valdagno NPCSG00
 Valdarno Valdarno NPCSG00
 Valdealgorfa Valdealgorfa NPCSG00
