@@ -58459,6 +58459,7 @@ neurosífilis=categories: FI;fonts: LT;
 neurotagma=categories: M;fonts: dsalut;
 neuroteca=categories: F;fonts: dsalut;
 neurotecitis=categories: FI;fonts: dsalut;
+neurotecnologia=categories: F;fonts: wiki;
 neurotele=categories: F;fonts: dsalut;
 neurotelitis=categories: FI;fonts: dsalut;
 neurotensina=categories: F;fonts: LT;

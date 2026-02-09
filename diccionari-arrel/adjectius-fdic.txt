@@ -21993,6 +21993,7 @@ namibià namibiana=categories: A;fonts: dnv;
 namurià namuriana=categories: A;fonts: LT;
 nan nana=categories: A;fonts: LT;
 nanocèfal nanocèfala=categories: A;fonts: dsalut;
+nanofísic nanofísica=categories: A;fonts: derivat;
 nanoide=categories: A;fonts: LT;
 nanomètric -a=categories: A; fonts: derivat;
 nanoscòpic nanoscòpica=categories: A;fonts: LT;
