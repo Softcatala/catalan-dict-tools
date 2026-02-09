@@ -15643,6 +15643,7 @@ hipermorf hipermorfa=categories: A;fonts: LT;
 hipermusculat hipermusculada=categories: A;fonts: derivat;
 hipermèdia=categories: AI;fonts: wiki;
 hipermètric hipermètrica=categories: A;fonts: LT;
+hipernarcisista=categories: A;fonts: derivat;
 hipernatrèmic hipernatrèmica=categories: A;fonts: dsalut;
 hiperneuròtic hiperneuròtica=categories: A;fonts: derivat;
 hiperoptmista=categories: A;fonts: LT;
