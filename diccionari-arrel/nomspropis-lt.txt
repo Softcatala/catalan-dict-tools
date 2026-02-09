@@ -7907,6 +7907,7 @@ Cúper Cúper NPCSG00
 Cúrcia Cúrcia NPFSSP0 # avl: noms de persona
 Cărtărescu Cărtărescu NPCNSP0
 Cǎlǎraşi Cǎlǎraşi NPCSG00
+D'Annunzio D'Annunzio NPCNSP0
 D'Artagnan D'Artagnan NPCNSP0
 D'Artagnan D'Artagnan NPMSSP0
 DCVB DCVB NPMSO00
