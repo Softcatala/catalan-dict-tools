@@ -13318,6 +13318,7 @@ Jafre Jafre NPCSG00
 Jafuda Jafuda NPMSSP0 # avl: noms de persona
 Jahvè Jahvè NPMSSP0
 Jahvé Jahvè NPMSSP0
+Jaimito Jaimito NPMSSP0
 Jaipur Jaipur NPCSG00
 Jaire Jaire NPMSSP0 # avl: noms de persona
 Jaiza Jaiza NPFSSP0 # avl: noms de persona
@@ -25856,6 +25857,7 @@ Tver Tver NPCSG00
 Tversky Tversky NPCNSP0
 Twain Twain NPCNSP0
 Tweety Tweety NPMSSP0
+Twingo Twingo NPCNO00
 Twitter Twitter NPMSO00
 Txad Txad NPMSG00
 Txaikovski Txaikovski NPCNSP0
