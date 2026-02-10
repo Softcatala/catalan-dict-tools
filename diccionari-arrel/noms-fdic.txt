@@ -53051,6 +53051,7 @@ megavolt=categories: M;fonts: dsalut;
 megavoltatge=categories: M;fonts: dsalut;
 megawatt=categories: M;fonts: derivat;
 megaxarxa=categories: F;fonts: derivat;
+megaèxit=categories: M;fonts: derivat;
 megaòhmmetre=categories: M;fonts: LT;
 megestrol=categories: MS;fonts: dsalut;
 meglenita=categories: MF;fonts: LT;
