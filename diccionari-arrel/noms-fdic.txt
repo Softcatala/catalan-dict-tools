@@ -18600,6 +18600,7 @@ cnidi cnídia=categories: MF;fonts: LT;
 cnidoblast=categories: M;fonts: LT;
 cnidocist=categories: M;fonts: LT;
 cnidosi=categories: F;fonts: dsalut;
+co-cap=categories: MF;fonts: derivat, estrany sense guionet;
 co-comissari co-comissària=categories: MF;fonts: derivat;
 co-coordinador co-coordinadora=categories: MF;fonts: derivat;
 co-rector co-rectora=categories: MF;fonts: derivat;

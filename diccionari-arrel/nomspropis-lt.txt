@@ -24577,6 +24577,7 @@ Tajo Tajo NPCSG00
 Tajura Tajura NPCSG00
 Tajuña Tajuña NPCSG00
 Tajà Tajà NPCNSP0
+Takaichi Takaichi NPCNSP0
 Takamatsu Takamatsu NPCSG00
 Takaoka Takaoka NPCSG00
 Takarazuka Takarazuka NPCSG00
