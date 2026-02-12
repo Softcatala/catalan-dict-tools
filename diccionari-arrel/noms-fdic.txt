@@ -69596,6 +69596,7 @@ pseudohèrnia=categories: F;fonts: dsalut;
 pseudoicterícia=categories: F;fonts: dsalut;
 pseudoinestabilitat=categories: F;fonts: termcat;
 pseudoinfart=categories: M;fonts: dsalut;
+pseudointel·lectualisme=categories: MS;fonts: derivat;
 pseudolepra=categories: F;fonts: dsalut;
 pseudoleucocitèmia=categories: F;fonts: dsalut;
 pseudoleucodèrmia=categories: F;fonts: dsalut;
