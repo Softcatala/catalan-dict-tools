@@ -24208,6 +24208,7 @@ pederasta=categories: A;fonts: DNV;
 pederàstic pederàstica=categories: A;fonts: LT;
 pedestre=categories: A;fonts: LT;
 pedial=categories: A;fonts: LT;
+antiblanqueig=categories: AI;fonts: derivat;
 pedicel·lat pedicel·lada=categories: A;fonts: LT;
 pedicular=categories: A;fonts: LT;
 pediculat pediculada=categories: A;fonts: LT;
