@@ -9057,6 +9057,7 @@ desconegut desconeguda [sup. desconegudíssim]=categories: A;font:apertium;
 desconeixedor desconeixedora=categories: A;fonts: LT;
 desconeixementat -ada=categories: A;fonts: DNV;
 desconeixent=categories: A;fonts: LT;
+antisubversiu antisubversiva=categories: A;fonts: derivat;
 desconfiadíssim desconfiadíssima=categories: A;fonts: superlative;
 descongelador descongeladora=categories: A;fonts: LT;
 descongestiu descongestiva=categories: A;fonts: LT;
