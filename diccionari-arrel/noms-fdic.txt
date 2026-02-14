@@ -5790,6 +5790,7 @@ antipatari=categories: M;fonts: LT;
 antipatia=categories: F;fonts: LT;
 antipatriota=categories: MF;fonts: LT;
 antipatriotisme=categories: M;fonts: LT;
+antipedagogisme=categories: M;fonts: derivat;
 antiperistalsi=categories: F;fonts: LT;
 antiperthita=categories: F;fonts: LT;
 antipirina=categories: F;fonts: LT;

@@ -2632,6 +2632,7 @@ antiparàsit antiparàsita=categories: A;fonts: LT;
 antipatinador antipatinadora=categories: A;fonts: LT;
 antipatriarcal=categories: A;fonts: derivat;
 antipatriòtic antipatriòtica=categories: A;fonts: LT;
+antipedagogista=categories: A;fonts: derivat;
 antipedagògic antipedagògica=categories: A;fonts: LT;
 antipedicular=categories: A;fonts: dsalut;
 antipediculòtic antipediculòtica=categories: A;fonts: dsalut;
