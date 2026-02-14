@@ -45759,14 +45759,10 @@ flemonós flemonós AQ0MS0
 flemosa flemós AQ0FS0
 flemoses flemós AQ0FP0
 flemosos flemós AQ0MP0
-flemàtic flemàtic AQ0MS0
 flemàtic flemàtic NCMS000
-flemàtica flemàtic AQ0FS0
 flemàtica flemàtic NCFS000
 flemàticament flemàticament RG
-flemàtics flemàtic AQ0MP0
 flemàtics flemàtic NCMP000
-flemàtiques flemàtic AQ0FP0
 flemàtiques flemàtic NCFP000
 flemó flemó NCMS000
 flemós flemós AQ0MS0
