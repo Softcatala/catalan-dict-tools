@@ -17872,6 +17872,7 @@ Nati Nati NPFSSP0 # avl: noms de persona
 Nativitat Nativitat NPFSSP0
 Nativitats Nativitat NPFPSP0
 Natjà Natjà NPCSG00
+Nature Nature NPCNO00
 Natxa Natxa NPFSSP0 # avl: noms de persona
 Natxo Natxo NPMSSP0
 Natzarena Natzarena NPFSSP0 # avl: noms de persona
