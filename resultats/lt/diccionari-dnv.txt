@@ -58754,8 +58754,6 @@ pastissejàvem pastissejar VMII1P00
 pastissejàveu pastissejar VMII2P00
 pastoria pastoria NCFS000
 pastories pastoria NCFP000
-pastoril pastoril AQ0CS0
-pastorils pastoril AQ0CP0
 pata pata NCFS000
 patada patada NCFS000
 patades patada NCFP000

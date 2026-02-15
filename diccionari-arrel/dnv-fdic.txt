@@ -4054,7 +4054,6 @@ pastenaga=categories: F;fonts: DNV;
 pasteta=categories: F;fonts: DNV;
 pastissejar=categories: V;model:envejar;fonts: DNV;
 pastoria=categories: F;fonts: DNV;
-pastoril=categories: A;fonts: DNV;
 pata=categories: F;fonts: DNV,col·loquial;
 patada=categories: F;fonts: DNV;
 pataquer -a=categories: MF;fonts: DNV;
