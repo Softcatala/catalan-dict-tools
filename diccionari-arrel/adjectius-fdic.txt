@@ -17527,6 +17527,7 @@ inobservable=categories: A;fonts: LT;
 inobservant=categories: A;fonts: LT;
 inoculable=categories: A;fonts: LT;
 inoculador inoculadora=categories: A;fonts: LT;
+inocultable=categories: A;fonts: DNV;
 inocupable=categories: A;fonts: derivat;
 inocupat inocupada=categories: A;fonts: LT;
 inodor inodora=categories: A;fonts: LT;

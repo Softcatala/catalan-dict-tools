@@ -46615,6 +46615,7 @@ inoliomioma=categories: M;fonts: dsalut;
 inoma=categories: M;fonts: dsalut;
 inomioma=categories: M;fonts: dsalut;
 inoperabilitat=categories: F;fonts: derivat;
+inoperativitat=categories: F;fonts: DNV;
 inoperància=categories: F;fonts: LT;
 inopinosi=categories: F;fonts: dsalut;
 inoportunitat=categories: F;fonts: LT;

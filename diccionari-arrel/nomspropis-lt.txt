@@ -7728,6 +7728,7 @@ Cuautitlán Cuautitlán NPCSG00
 Cuba Cuba NPFSG00
 Cubango Cubango NPCSG00
 Cubarsi Cubarsi NPCNSP0
+Cubarsí Cubarsí NPCNSP0
 Cubelles Cubelles NPCSG00
 Cubells Cubells NPCNSP0
 Cubells Cubells NPCSG00
@@ -19184,6 +19185,7 @@ Pando Pando NPCSG00
 Pandolf Pandolf NPMSSP0 # avl: noms de persona
 Pandolfa Pandolfa NPFSSP0 # avl: noms de persona
 Pandora Pandora NPFSSP0 # avl: noms de persona
+Paneque Paneque NPCNSP0
 Paner Paner NPCNSP0
 Panevėžys Panevėžys NPCSG00
 Pangea Pangea NPFSG00

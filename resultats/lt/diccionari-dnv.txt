@@ -51260,10 +51260,6 @@ innivéssiu innivar VMSI2P02
 inniví innivar VMIS1S00
 innoblesa innoblesa NCFS000
 innobleses innoblesa NCFP000
-inocultable inocultable AQ0CS0
-inocultables inocultable AQ0CP0
-inoperativitat inoperativitat NCFS000
-inoperativitats inoperativitat NCFP000
 inoposable inoposable AQ0CS0
 inoposables inoposable AQ0CP0
 inorganitzada inorganitzat AQ0FS0
