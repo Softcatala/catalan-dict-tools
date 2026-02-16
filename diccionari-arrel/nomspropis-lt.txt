@@ -12388,6 +12388,7 @@ Harīrūd Harīrūd NPCSG00
 Hasbro Hasbro NPCNO00
 Hashimoto Hashimoto NPCNSP0 # medical
 Haspengouw Haspengouw NPCSG00
+Hassabis Hassabis NPCNSP0
 Hassan Hassan NPMSSP0 # avl: noms de persona
 Hastings Hastings NPCSG00
 Hasél Hasél NPCNSP0
@@ -14304,6 +14305,7 @@ Langdon Langdon NPCNSP0
 Langer Langer NPCNSP0 # medical
 Langerhans Langerhans NPCNSP0 # medical
 Langers Langers NPCNSP0 # medical
+Langley Langley NPCSG00
 Langman Langman NPCNSP0 # medical
 Langreo Langreo NPCSG00
 Langres Langres NPCSG00
