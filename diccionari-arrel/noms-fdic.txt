@@ -79312,6 +79312,7 @@ suvorexant=categories: M;fonts: dsalut;
 suxametoni=categories: M;fonts: dsalut;
 suxetoni=categories: MS;fonts: dsalut;
 suxibuzona=categories: F;fonts: dsalut;
+suzetrigina=categories: FS;fonts: wiki;
 suècia=categories: F;fonts: LT;
 suèter=categories: M;fonts: LT;
 suís [pl. suïssos]=categories: M;fonts: LT;
