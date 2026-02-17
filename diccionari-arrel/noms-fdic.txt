@@ -55408,6 +55408,7 @@ minimista=categories: MF;fonts: LT;
 minimització=categories: F;fonts: LT;
 minioptèrid=categories: M;fonts: termcat;
 miniordinador=categories: M;fonts: LT;
+miniplaneta=categories: M;fonts: derivat;
 minipolèmica=categories: F;fonts: derivat;
 minipís=categories: M;fonts: derivat;
 miniranura=categories: F;fonts: LT;
