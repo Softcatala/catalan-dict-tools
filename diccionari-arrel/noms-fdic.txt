@@ -11807,6 +11807,7 @@ bobinatge=categories: M;fonts: LT;
 bobinot=categories: M;fonts: LT;
 bobiot=categories: M;fonts: LT;
 bobo=categories: MF;fonts: LT;
+bobtail=categories: M;fonts: termcat;
 bobò=categories: M;fonts: LT;
 boc=categories: M;fonts: LT;
 boca-orella=categories: MS;fonts: LT;
