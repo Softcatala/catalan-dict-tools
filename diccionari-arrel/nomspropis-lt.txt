@@ -17515,6 +17515,7 @@ Moudjéria Moudjéria NPCSG00
 Moulins Moulins NPCSG00
 Moulmein Moulmein NPCSG00
 Mounier Mounier NPCNSP0
+Mountbatten Mountbatten NPCNSP0
 Mouskron Mouskron NPCSG00
 Movistar Movistar NPCNO00
 Mowgli Mowgli NPMSSP0
@@ -27541,6 +27542,7 @@ Woringer-Kolopp Woringer-Kolopp NPCNSP0 # medical
 Worms Worms NPCSG00
 Worthing Worthing NPCSG00
 Wrangel Wrangel NPCSG00
+Wright Wright NPCNSP0
 Wrocław Wrocław NPCSG00
 Wuhan Wuhan NPCSG00
 Wuhu Wuhu NPCSG00

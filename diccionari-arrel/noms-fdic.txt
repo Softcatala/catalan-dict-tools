@@ -24844,6 +24844,7 @@ desparasitació=categories: F;fonts: LT;
 desparellament=categories: M;fonts: LT;
 despassivació=categories: F;fonts: termcat;
 despatologització=categories: F;fonts: termcat;
+despatrimonialització=categories: F;fonts: derivat;
 despatx=categories: M;fonts: LT;
 despatxador despatxadora=categories: MF;fonts: DNV;
 despatxament=categories: M;fonts: DNV;
