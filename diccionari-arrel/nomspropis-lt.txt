@@ -27501,6 +27501,7 @@ Wittelsbach Wittelsbach NPCNSP0
 Witten Witten NPCSG00
 Wittenberg Wittenberg NPCSG00
 Wittgenstein Wittgenstein NPCNSP0
+Wittig Wittig NPCNSP0
 Witwatersrand Witwatersrand NPCSG00
 Wojtyla Wojtyla NPCNSP0
 Wojtyła Wojtyła NPCNSP0
