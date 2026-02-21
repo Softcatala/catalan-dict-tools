@@ -1741,8 +1741,8 @@ Ample Ample NPCNSP0
 Amposta Amposta NPCNSP0
 Amposta Amposta NPFSG00
 Ampostell Ampostell NPCNSP0
+Amritsar Amritsar NPCSG00
 Amroha Amroha NPCSG00
-Amrítsar Amrítsar NPCSG00
 Amsler Amsler NPCNSP0 # medical
 Amstelveen Amstelveen NPCSG00
 Amsterdam Amsterdam NPCSG00
@@ -2623,6 +2623,7 @@ Asensi Asensi NPCNSP0
 Asensi Asensi NPMSSP0
 Asensis Asensi NPMPSP0
 Aser Aser NPMSSP0
+Asgabat Asgabat NPCSG00
 Ashanti Ashanti NPCSG00
 Ashdod Ashdod NPCSG00
 Asherman Asherman NPCNSP0 # medical
@@ -2650,6 +2651,7 @@ Asni Asni NPCSG00 # esadir Marroc
 Asnières-sur-Seine Asnières-sur-Seine NPCSG00
 Asnurri Asnurri NPCSG00
 Aso Aso NPCSG00
+Asobal Asobal NPFSO00
 Asopa Asopa NPCNSP0 # medical
 Aspa Aspa NPCSG00
 Aspasi Aspasi NPMSSP0
@@ -2978,6 +2980,7 @@ Babia Babia NPCSG00
 Babiera Babiera NPCNSP0
 Babiloni Babiloni NPCNSP0
 Babilònia Babilònia NPFSG00
+Babiló Babiló NPCSG00
 Babinski Babinski NPCNSP0 # medical
 Babinski-Froelich Babinski-Froelich NPCNSP0 # medical
 Baborés Baborés NPCNSP0
@@ -3102,6 +3105,7 @@ Baió Baió NPCNSP0
 Baja Baja NPCSG00
 Bajhang Bajhang NPCSG00
 Baker Baker NPCNSP0
+Bakersfield Bakersfield NPCSG00
 Bakhmut Bakhmut NPCSG00
 Bakunin Bakunin NPCNSP0
 Bakú Bakú NPCSG00
@@ -3377,6 +3381,7 @@ Barletta Barletta NPCSG00
 Barnac Barnac NPCNSP0
 Barnasants Barnasants NPMNO00
 Barnaul Barnaul NPCSG00
+Barnaül Barnaül NPCSG00
 Barnei Barnei NPCNSP0
 Barnes Barnes NPCNSP0
 Barnet Barnet NPCSG00
@@ -3697,7 +3702,6 @@ Belda Belda NPCNSP0
 Belfast Belfast NPCSG00
 Belfort Belfort NPCSG00
 Belgaum Belgaum NPCSG00
-Belgorod Belgorod NPCSG00
 Belgrad Belgrad NPCSG00
 Belianes Belianes NPCSG00
 Belina Belina NPFSSP0 # avl: noms de persona
@@ -4197,7 +4201,7 @@ Bhadrāvati Bhadrāvati NPCSG00
 Bharatpur Bharatpur NPCSG00
 Bharhut Bharhut NPCSG00
 Bhiwandi Bhiwandi NPCSG00
-Bhopāl Bhopāl NPCSG00
+Bhopal Bhopal NPCSG00
 Bhubaneswar Bhubaneswar NPCSG00
 Bhuj Bhuj NPCSG00
 Bhumibol Bhumibol NPMSSP0
@@ -4902,6 +4906,7 @@ Bravo Bravo NPCNSP0
 Brazzaville Brazzaville NPCSG00
 Brač Brač NPCSG00
 Braşov Braşov NPCSG00
+Brașov Brașov NPCSG00
 Brecht Brecht NPCNSP0
 Breda Breda NPCNSP0
 Breda Breda NPFSG00
@@ -5182,6 +5187,7 @@ Burgues Burgues NPCNSP0
 Burguet Burguet NPCNSP0
 Burguetó Burguetó NPCNSP0
 Burguès Burguès NPCNSP0
+Burgàs Burgàs NPCSG00
 Burgúndia Burgúndia NPFSG00
 Buriram Buriram NPCSG00
 Buriàtia Buriàtia NPFSG00
@@ -5206,6 +5212,7 @@ Burundi Burundi NPMSG00
 Bury Bury NPCSG00
 Busa Busa NPCSG00
 Busacca Busacca NPCNSP0 # medical
+Busan Busan NPCSG00
 Busanya Busanya NPCNSP0
 Buscader Buscader NPCNSP0
 Buscall Buscall NPCNSP0
@@ -5261,6 +5268,7 @@ Béixec Béixec NPCSG00
 Béja Béja NPCSG00
 Béjar Béjar NPCSG00
 Békéscsaba Békéscsaba NPCSG00
+Bélgorod Bélgorod NPCSG00
 Bétera Bétera NPCSG00
 Béthune Béthune NPCNSP0
 Béthune Béthune NPCSG00
@@ -6656,6 +6664,7 @@ Chelsea Chelsea NPCSG00
 Cheltenham Cheltenham NPCSG00
 Chemnitz Chemnitz NPCSG00
 Chengdu Chengdu NPCSG00
+Chennai Chennai NPCSG00
 Chennai Chennai NPCSG00 # nom oficial actula de Madràs
 Chenoa Chenoa NPFSSP0
 Cher Cher NPMSG00
@@ -7307,6 +7316,7 @@ Constança Constança NPCSG00
 Constança Constança NPFSSP0
 Constanços Constanç NPMPSP0
 Constanţa Constanţa NPCSG00
+Constanța Constanța NPCSG00
 Construmat Construmat NPCNO00
 Constància Constància NPFSSP0 # avl: noms de persona
 Contarini Contarini NPCNSP0
@@ -7384,6 +7394,7 @@ Corint Corint NPCSG00
 Coriolà Coriolà NPMSSP0
 Corisco Corisco NPCSG00
 Coristanco Coristanco NPCSG00
+Cork Cork NPCSG00
 Corleone Corleone NPCNSP0
 Corminals Corminals NPCNSP0
 Cornador Cornador NPCNSP0
@@ -9133,7 +9144,6 @@ Erecteu Erecteu NPMSSP0 # avl: noms de persona
 Eres Eres NPFPG00
 Eresma Eresma NPCSG00
 Eressué Eressué NPCSG00
-Erevan Erevan NPCSG00
 Ereǧli Ereǧli NPCSG00
 Erfurt Erfurt NPCSG00
 Eribert Eribert NPMSSP0 # avl: noms de persona
@@ -11249,6 +11259,7 @@ Gaziantep Gaziantep NPCSG00
 Gaziel Gaziel NPMSSP0
 Gdansk Gdansk NPCSG00
 Gdańsk Gdańsk NPCSG00
+Gdynia Gdynia NPCSG00
 Gea Gea NPFSSP0
 Geba Geba NPCSG00
 Gebrat Gebrat NPCNSP0
@@ -11559,7 +11570,7 @@ Gistaín Gistaín NPCSG00
 GitHub GitHub NPMSO00
 Giuseppe Giuseppe NPMSSP0
 Givors Givors NPCSG00
-Gjirokaster Gjirokaster NPCSG00
+Gjirokastër Gjirokastër NPCSG00
 Gladis Gladis NPFSSP0 # avl: noms de persona
 Gladwell Gladwell NPCNSP0
 Glandon Glandon NPMSG00
@@ -11974,6 +11985,7 @@ Grífol Grífol NPCNSP0
 Grífols Grífols NPCNSP0
 Grímsvötn Grímsvötn NPCSG00
 Grönholm Grönholm NPCNSP0
+Grünewald Grünewald NPCSG00
 Grüntzig Grüntzig NPCNSP0 # medical
 Gstaad Gstaad NPCSG00
 Guadagnini Guadagnini NPCNSP0
@@ -12335,6 +12347,7 @@ Halef Halef NPMSSP0 # avl: noms de persona
 Halesowen Halesowen NPCSG00
 Halffter Halffter NPCNSP0
 Halifax Halifax NPCSG00
+Halle Halle NPCSG00
 Hallervorden-Spatz Hallervorden-Spatz NPCNSP0 # medical
 Halley Halley NPCNSP0
 Hallopeau Hallopeau NPCNSP0 # medical
@@ -12975,8 +12988,10 @@ Ian Ian NPMSSP0
 Iang-Tsé Iang-Tsé NPCSG00
 Ianukóvitx Ianukóvitx NPCNSP0
 Iaroslav Iaroslav NPMSSP0
+Iaroslavl Iaroslavl NPCSG00
 Iasmina Iasmina NPFSSP0 # avl: noms de persona
 Iaşi Iaşi NPCSG00
+Iași Iași NPCSG00
 Ibadan Ibadan NPCSG00
 Ibagué Ibagué NPCSG00
 Ibarra Ibarra NPCNSP0
@@ -13100,7 +13115,7 @@ Inawashiro Inawashiro NPCSG00
 Inca Inca NPCSG00
 Incahuasi Incahuasi NPCSG00
 Incasòl Incasòl NPMSO00
-Inch'ŏn Inch'ŏn NPCSG00
+Incheon Incheon NPCSG00
 Indaleci Indaleci NPMSSP0
 Indalecis Indaleci NPMPSP0
 Indalècia Indalècia NPFSSP0 # avl: noms de persona
@@ -13806,6 +13821,7 @@ Karabakh Karabakh NPCSG00
 Karachi Karachi NPCSG00
 Karadžić Karadžić NPCNSP0
 Karaganda Karaganda NPCSG00
+Karagandí Karagandí NPCSG00
 Karajan Karajan NPCNSP0
 Karakalpakistan Karakalpakistan NPMSG00
 Karakoram Karakoram NPMNG00
@@ -13916,7 +13932,7 @@ Kertész Kertész NPCNSP0
 Kerulen Kerulen NPCSG00
 Kevin Kevin NPMSSP0
 Keynes Keynes NPCNSP0
-Khabarovsk Khabarovsk NPCSG00
+Khabàrovsk Khabàrovsk NPCSG00
 Khadija Khadija NPFSSP0
 Khafji Khafji NPCSG00
 Khakàssia Khakàssia NPCSG00
@@ -14023,6 +14039,7 @@ Kobane Kobane NPCSG00
 Kobe Kobe NPCSG00
 Koch Koch NPCNSP0 # medical
 Kocher Kocher NPCNSP0 # medical
+Kochi Kochi NPCSG00
 Kock Kock NPCNSP0 # medical
 Kodak Kodak NPCNO00
 Kodiak Kodiak NPCSG00
@@ -14160,6 +14177,7 @@ Kussevitski Kussevitski NPCNSP0
 Kussmaul Kussmaul NPCNSP0 # medical
 Kusturica Kusturica NPCNSP0
 Kutaisi Kutaisi NPCSG00
+Kutaissi Kutaissi NPCSG00
 Kutxa Kutxa NPFSO00
 Kuwait Kuwait NPMSG00
 Kuçovë Kuçovë NPCSG00
@@ -15169,7 +15187,7 @@ Lqliâa Lqliâa NPCSG00 # esadir Marroc
 Luanda Luanda NPCSG00
 Luapula Luapula NPCSG00
 Luba Luba NPCSG00
-Lublín Lublín NPCSG00
+Lublin Lublin NPCSG00
 Lubombo Lubombo NPCSG00
 Lubumbashi Lubumbashi NPCSG00
 Luc'k Luc'k NPCSG00
@@ -15519,6 +15537,7 @@ Majenci Majenci NPMSSP0 # avl: noms de persona
 Majestic Majestic NPMSO00
 Majoral Majoral NPCNSP0
 Majordom Majordom NPCNSP0
+Majuro Majuro NPCSG00
 Makalu Makalu NPCSG00
 Makarikari Makarikari NPCSG00
 Makeni Makeni NPCSG00
@@ -18332,6 +18351,7 @@ Nucia Nucia NPFSG00
 Nuell Nuell NPCNSP0
 Nugaal Nugaal NPCSG00
 Nuges Nuges NPCSG00
+Nuku'alofa Nuku'alofa NPCSG00
 Nukus Nukus NPCSG00
 Nules Nules NPCSG00
 Nulles Nulles NPCSG00
@@ -19880,6 +19900,7 @@ Picassó Picassó NPCNSP0
 Picazo Picazo NPCNSP0
 Piccadilly Piccadilly NPCNG00
 Piccolomini Piccolomini NPCNSP0
+Pichilemu Pichilemu NPCSG00
 Pichincha Pichincha NPCSG00
 Pichu Pichu NPMSSP0
 Pick Pick NPCNSP0 # medical
@@ -20525,6 +20546,7 @@ Pravia Pravia NPCSG00
 Praxedis Praxedis NPFPSP0
 Praxedis Praxedis NPFSSP0
 Praxíteles Praxíteles NPMSSP0
+Prayagraj Prayagraj NPCSG00
 Prealps Prealps NPMPG00
 Preciós Preciós NPCNSP0
 Pregona Pregona NPCNSP0
@@ -20988,6 +21010,7 @@ Pàvlovsk Pàvlovsk NPCSG00
 Páez Páez NPCNSP0
 Pájara Pájara NPCSG00
 Pánuco Pánuco NPCSG00
+Pärnu Pärnu NPCSG00
 Pärt Pärt NPCNSP0
 Pèrgam Pèrgam NPCSG00
 Pèricles Pèricles NPMSSP0
@@ -23059,7 +23082,6 @@ Saranya Saranya NPCNSP0
 Saranyana Saranyana NPCNSP0
 Saranyana Saranyana NPCSG00
 Sarapul Sarapul NPCSG00
-Saratov Saratov NPCSG00
 Saravan Saravan NPCSG00
 Saravillo Saravillo NPCSG00
 Sarawak Sarawak NPCSG00
@@ -23123,6 +23145,7 @@ Sarthe Sarthe NPCSG00
 Sartre Sartre NPCNSP0
 Sartrouville Sartrouville NPCSG00
 Sarzana Sarzana NPCSG00
+Saràtov Saràtov NPCSG00
 Sarònic Sarònic NPMSG00
 Sas Sas NPCNSP0
 Sas Sas NPCSG00
@@ -23855,6 +23878,7 @@ Sinoe Sinoe NPCSG00
 Sinol Sinol NPCNSP0
 Sinope Sinope NPCSG00
 Sint-Jans-Molenbeek Sint-Jans-Molenbeek NPCSG00
+Sint-Truiden Sint-Truiden NPCSG00
 Sintra Sintra NPCSG00
 Sinuijiu Sinuijiu NPCSG00
 Sinyén Sinyén NPCSG00
@@ -25117,6 +25141,7 @@ Thiessen Thiessen NPCNSP0
 Thimphu Thimphu NPCSG00
 Thiong'o Thiong'o NPCNSP0
 Thionville Thionville NPCSG00
+Thiruvananthapuram Thiruvananthapuram NPCSG00
 Thiès Thiès NPCSG00
 Thjórsá Thjórsá NPCSG00
 Tholonet Tholonet NPCSG00
@@ -25253,6 +25278,7 @@ Tito Tito NPMSSP0
 Titus Titus NPMPSP0
 Titus Titus NPMSSP0
 Titó Titó NPCNSP0
+Tiumén Tiumén NPCSG00
 Tiurana Tiurana NPFSG00
 Tivenys Tivenys NPCSG00
 Tivissa Tivissa NPFSG00
@@ -26076,6 +26102,7 @@ Udmurts Udmurts NPMPG00
 Udunell Udunell NPCNSP0
 Uele Uele NPCSG00
 Uelzen Uelzen NPCSG00
+Uetersen Uetersen NPCSG00
 Ufa Ufa NPCSG00
 Uffizi Uffizi NPMPO00
 Uganda Uganda NPFSG00
@@ -26256,7 +26283,6 @@ Uxmal Uxmal NPCSG00
 Uzbekistan Uzbekistan NPMSG00
 Uíge Uíge NPCSG00
 Uşak Uşak NPCSG00
-Užhorod Užhorod NPCSG00
 V'atka V'atka NPCSG00
 VLC VLC NPCNO00 #NPFSG00 NPMSO00
 Vaal Vaal NPCSG00
@@ -27338,6 +27364,7 @@ Víctors Víctor NPMPSP0
 Vílnius Vílnius NPCSG00
 Vínnitsia Vínnitsia NPCSG00
 Vístula Vístula NPCSG00
+Vítsiebsk Vítsiebsk NPCSG00
 Vítxegda Vítxegda NPCSG00
 Vólkhov Vólkhov NPCSG00
 Vólos Vólos NPCSG00
@@ -27811,6 +27838,7 @@ Yantai Yantai NPCSG00
 Yao Yao NPCSG00
 Yaoundé Yaoundé NPCSG00
 Yaracuy Yaracuy NPCSG00
+Yaren Yaren NPCSG00
 Yarmūk Yarmūk NPCSG00
 Yat-sen Yat-sen NPCNSP0
 Yatenga Yatenga NPCSG00
@@ -27821,6 +27849,7 @@ Yeats Yeats NPCNSP0
 Yellowstone Yellowstone NPCSG00
 Yeongam Yeongam NPCSG00
 Yeonpyeong Yeonpyeong NPCSG00
+Yerevan Yerevan NPCSG00
 Yeşılırmak Yeşılırmak NPCSG00
 Yibin Yibin NPCSG00
 Yichang Yichang NPCSG00
@@ -28198,10 +28227,12 @@ uTorrent uTorrent NPCNO00
 Øresund Øresund NPCSG00
 Ørsted Ørsted NPCNSP0
 Úbeda Úbeda NPCSG00
+Újhorod Újhorod NPCSG00
 Úmbria Úmbria NPFSG00
 Úrsula Úrsula NPFSSP0
 Úrsules Úrsula NPFPSP0
 Útica Útica NPCSG00
+Ürümchi Ürümchi NPCSG00
 ésAdir ésAdir NPMSO00
 Ābādān Ābādān NPCSG00
 Ākōla Ākōla NPCSG00
@@ -28213,6 +28244,7 @@ uTorrent uTorrent NPCNO00
 Ču Ču NPCSG00
 Čudskoje Čudskoje NPCSG00
 Ēlāmalai Ēlāmalai NPCSG00
+Łobez Łobez NPCSG00
 Łomża Łomża NPCSG00
 Łódź Łódź NPCSG00
 Ōita Ōita NPCSG00
