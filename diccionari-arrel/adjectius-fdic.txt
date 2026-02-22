@@ -2560,6 +2560,7 @@ antimefític antimefítica=categories: A;fonts: LT;
 antimeningococ=categories: AI;fonts: termcat;
 antimeningocòccic antimeningocòccica=categories: A;fonts: dsalut;
 antimeritocràtic antimeritocràtica=categories: A;fonts: esadir;
+antimessiànic antimessiànica=categories: A;fonts: derivat;
 antimetafísic antimetafísica=categories: A;fonts: derivat;
 antimiastènic antimiastènica=categories: A;fonts: dsalut;
 antimicobacterià antimicobacteriana=categories: A;fonts: dsalut;
