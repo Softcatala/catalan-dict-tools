@@ -331,6 +331,7 @@ Abdons Abdon NPMPSP0
 Abdul Abdul NPMSSP0 # avl: noms de persona
 Abdullah Abdullah NPMSSP0
 Abdó Abdó NPMSSP0 # avl: noms de persona
+Abdülaziz Abdülaziz NPMSSP0
 Abel Abel NPCNSP0
 Abel Abel NPMSSP0
 Abelard Abelard NPMSSP0
@@ -12363,6 +12364,7 @@ Hallopeau Hallopeau NPCNSP0 # medical
 Halloween Halloween NPMSO00
 Halmstad Halmstad NPCSG00
 Hals Hals NPCNSP0
+Halsey Halsey NPCNSP0
 Hama Hama NPCSG00
 Hamadan Hamadan NPCSG00
 Hamadān Hamadān NPCSG00
@@ -14073,6 +14075,7 @@ Kolhāpur Kolhāpur NPCSG00
 Kolmogórov Kolmogórov NPCNSP0
 Kolontár Kolontár NPCSG00
 Kol·lontai Kol·lontai NPFPO00
+Komitàs Komitàs NPMSSP0
 Kommunarsk Kommunarsk NPCSG00
 Komodo Komodo NPMSG00
 Komsomol's-na-Amur Komsomol's-na-Amur NPCSG00
