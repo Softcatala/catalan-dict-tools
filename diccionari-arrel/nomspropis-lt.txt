@@ -308,9 +308,16 @@ Abbot Abbot NPCNSP0 # medical
 Abbottabad Abbottabad NPCSG00
 Abbé Abbé NPCNSP0 # medical
 Abc Abc NPMSO00
+Abd-Al·lah Abd-Al·lah NPMSSP0
+Abd-al-Aziz Abd-al-Aziz NPMSSP0
+Abd-al-Qàdir Abd-al-Qàdir NPMSSP0
+Abd-al-Rahman Abd-al-Rahman NPMSSP0
+Abd-ar-Rahman Abd-ar-Rahman NPMSSP0
+Abdallah Abdallah NPMSSP0
 Abdalong Abdalong NPMSSP0
 Abdalongs Abdalong NPMPSP0
 Abdal·là Abdal·là NPMSSP0 # avl: noms de persona
+Abdel-Rahman Abdel-Rahman NPMSSP0
 Abdelasís Abdelasís NPMSSP0 # avl: noms de persona
 Abdelbaki Abdelbaki NPMSSP0
 Abdenagó Abdenagó NPMSSP0 # avl: noms de persona
@@ -322,6 +329,7 @@ Abdies Abdies NPMSSP0
 Abdon Abdon NPMSSP0
 Abdons Abdon NPMPSP0
 Abdul Abdul NPMSSP0 # avl: noms de persona
+Abdullah Abdullah NPMSSP0
 Abdó Abdó NPMSSP0 # avl: noms de persona
 Abel Abel NPCNSP0
 Abel Abel NPMSSP0
@@ -10012,6 +10020,7 @@ Fellini Fellini NPCNSP0
 Felluns Felluns NPCSG00
 Feltre Feltre NPCSG00
 Feltrer Feltrer NPCNSP0
+Feltrinelli Feltrinelli NPCNSP0
 Felty Felty NPCNSP0 # medical
 Felícia Felícia NPFSSP0
 Felícula Felícula NPFSSP0
@@ -25909,6 +25918,7 @@ Turena Turena NPCSG00
 Turer Turer NPCNSP0
 Turet Turet NPCNSP0
 Turfan Turfan NPCSG00
+Turguénev Turguénev NPCNSP0
 Turiga Turiga NPCNSP0
 Turigues Turigues NPCNSP0
 Turing Turing NPCNSP0
