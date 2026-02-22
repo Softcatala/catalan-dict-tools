@@ -14491,6 +14491,7 @@ Legos Lego NPMPO00
 Leibnitz Leibnitz NPCNSP0
 Leibniz Leibniz NPCNSP0
 Leibovitz Leibovitz NPCNSP0
+Leica Leica NPCNO00
 Leicester Leicester NPCSG00
 Leicestershire Leicestershire NPCSG00
 Leiden Leiden NPCSG00
@@ -19641,6 +19642,7 @@ Penguin Penguin NPCNO00
 Penina Penina NPCNSP0
 Penitents Penitents NPMPG00
 Penne Penne NPCSG00
+Pennsilvània Pennsilvània NPFSG00 # encara molt usat
 Penoleda Penoleda NPCNSP0
 Penoles Penoles NPCNSP0
 Penoso Penoso NPMSG00
