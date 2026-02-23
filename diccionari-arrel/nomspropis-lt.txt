@@ -24503,6 +24503,7 @@ Svendborg Svendborg NPCSG00
 Sverdrup Sverdrup NPCSG00
 Svetlana Svetlana NPFSSP0 # avl: Esvetlana
 Sviatoslav Sviatoslav NPMSSP0
+Swab Swab NPCNSP0
 Swakopmund Swakopmund NPCSG00
 Swan-Ganz Swan-Ganz NPCNSP0 # medical
 Swansea Swansea NPCSG00
