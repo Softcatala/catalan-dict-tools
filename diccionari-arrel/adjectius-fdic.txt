@@ -20146,6 +20146,7 @@ maori=categories: A;fonts: LT;
 maputxe=categories: A;fonts: LT;
 maquetador maquetadora=categories: A;fonts: LT;
 maquiavel·lista=categories: A;fonts: LT;
+maquiavel·lià maquiavel·liana=categories: A;fonts: derivat;
 maquiavèl·lic maquiavèl·lica=categories: A;fonts: LT;
 maquillable=categories: A;fonts: derivat;
 maquilladíssim maquilladíssima=categories: A;fonts: superlative;
