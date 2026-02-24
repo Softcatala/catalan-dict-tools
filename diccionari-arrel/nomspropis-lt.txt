@@ -1,4 +1,5 @@
 #Abram Abram NPMSSP0 # avl: noms de persona
+#Al-Ḥudayda Al-Ḥudayda NPCSG00  Hodeida
 #Alarma Alarma NPCNSP0
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
@@ -122,6 +123,7 @@
 #Ió Ió NPMSSP0 # avl: noms de persona
 #Jun #Jun NPCNSP0 # medical
 #Karnātaka Karnātaka NPCSG00
+#Komsomol's-na-Amur Komsomol's-na-Amur NPCSG00 Komsomolsk de l'Amur
 #Laure Laure NPMSSP0 # avl: noms de persona
 #Llibre Llibre NPCNSP0
 #Lucia Lucia NPFSG00
@@ -862,6 +864,8 @@ Al-Dāḫila Al-Dāḫila NPCSG00
 Al-Fatah Al-Fatah NPCSO00
 Al-Fujayrah Al-Fujayrah NPCSG00
 Al-Haouz Al-Haouz NPCSG00
+Al-Hassà Al-Hassà NPCSG00 # Al-Ḥasā?
+Al-Hijaz Al-Hijaz NPCSG00 # esadir
 Al-Hilal Al-Hilal NPMSO00
 Al-Hilla Al-Hilla NPCSG00
 Al-Hindīya Al-Hindīya NPCSG00
@@ -889,9 +893,6 @@ Al-Zaqāziq Al-Zaqāziq NPCSG00
 Al-Àndalus Al-Àndalus NPCSG00
 Al-Àqaba Al-Àqaba NPCSG00
 Al-Ǧifāra Al-Ǧifāra NPCSG00
-Al-Ḥasā Al-Ḥasā NPCSG00
-Al-Ḥiǧāz Al-Ḥiǧāz NPCSG00
-Al-Ḥudayda Al-Ḥudayda NPCSG00
 Ala Ala NPCNSP0
 Alabajos Alabajos NPCNSP0
 Alabal Alabal NPCNSP0
@@ -4648,6 +4649,7 @@ Bonny Bonny NPCSG00
 Bonnín Bonnín NPCNSP0
 Bono Bono NPCNSP0
 Bono Bono NPCSG00
+Bonoloto Bonoloto NPFSO00
 Bononi Bononi NPMSSP0
 Bononis Bononi NPMPSP0
 Bonora Bonora NPCNSP0
@@ -13701,9 +13703,11 @@ Junçana Junçana NPCSG00
 Junín Junín NPCSG00
 Juníper Juníper NPMSSP0
 Junípers Juníper NPMPSP0
+Jupol Jupol NPCNO00
 Jura Jura NPMSG00
 Jurado Jurado NPCNSP0
 Juruá Juruá NPCSG00
+Jusapol Jusapol NPCNO00
 Juscafresa Juscafresa NPCNSP0
 Jusseu Jusseu NPCSG00
 Just Just NPCNSP0
@@ -13754,6 +13758,7 @@ Jünger Jünger NPCNSP0
 Jāmnagar Jāmnagar NPCSG00
 K2 K2 NPMSG00
 KGB KGB NPMSO00
+KKR KKR NPCNO00
 KMPlayer KMPlayer NPCNO00
 Kabalevski Kabalevski NPCNSP0
 Kabardino-Balkària Kabardino-Balkària NPCSG00
@@ -13795,6 +13800,7 @@ Kama Kama NPCSG00
 Kamaishi Kamaishi NPCSG00
 Kamala Kamala NPFSSP0
 Kamarhati Kamarhati NPCSG00
+Kamasutra Kamasutra NPMSO00
 Kambia Kambia NPCSG00
 Kamensk-Šakhtinskij Kamensk-Šakhtinskij NPCSG00
 Kampala Kampala NPCSG00
@@ -14078,7 +14084,6 @@ Kol·lontai Kol·lontai NPFPO00
 Komitàs Komitàs NPMSSP0
 Kommunarsk Kommunarsk NPCSG00
 Komodo Komodo NPMSG00
-Komsomol's-na-Amur Komsomol's-na-Amur NPCSG00
 Komsomolsk Komsomolsk NPCSG00
 Kona Kona NPCSG00
 Konarhā Konarhā NPCSG00
@@ -14191,6 +14196,7 @@ Kusturica Kusturica NPCNSP0
 Kutaisi Kutaisi NPCSG00
 Kutaissi Kutaissi NPCSG00
 Kutxa Kutxa NPFSO00
+Kutxabank Kutxabank NPCNO00
 Kuwait Kuwait NPMSG00
 Kuçovë Kuçovë NPCSG00
 Kveim Kveim NPCNSP0 # medical
@@ -14621,6 +14627,7 @@ Liberat Liberat NPMSSP0
 Liberata Liberata NPFSSP0
 Liberates Liberata NPFPSP0
 Liberats Liberat NPMPSP0
+Liberbank Liberbank NPCNO00
 Liberec Liberec NPCSG00
 Libman-Sacks Libman-Sacks NPCNSP0 # medical
 Libori Libori NPCNSP0
@@ -15179,6 +15186,7 @@ Lotaris Lotari NPMPSP0
 Lothian Lothian NPCSG00
 Lotte Lotte NPCNO00
 Lotte Lotte NPFSSP0
+Lottomatica Lottomatica NPCNO00
 Louangphrabang Louangphrabang NPCSG00
 Loudenvielle Loudenvielle NPCSG00
 Louga Louga NPCSG00
@@ -15309,6 +15317,7 @@ Lídia Lídia NPFSG00
 Lídia Lídia NPFSSP0
 Lídies Lídia NPFPSP0
 Límits Límits NPMPG00
+Lírids Lírids NPMPO00
 Lísies Lísies NPMSSP0 # avl: noms de persona
 Lívia Lívia NPFSSP0 # avl: noms de persona
 Lòria Lòria NPFSG00
@@ -16572,6 +16581,7 @@ Menadella Menadella NPFSG00
 Menado Menado NPCSG00
 Menandre Menandre NPMSSP0
 Menandres Menandre NPMPSP0
+Mencho Mencho NPMSSP0
 Mencui Mencui NPCSG00
 Mende Mende NPCSG00
 Mendel Mendel NPCNSP0
@@ -17762,6 +17772,7 @@ Màxima Màxima NPFSSP0
 Màximes Màxima NPFPSP0
 Màxims Màxim NPMPSP0
 Márquez Márquez NPCNSP0
+MásMóvil MásMóvil NPCNO00
 Mâcon Mâcon NPCSG00
 Mälar Mälar NPCSG00
 Mälzel Mälzel NPCNSP0
@@ -17868,6 +17879,7 @@ Najaf Najaf NPCSG00
 Nakba Nakba NPFSO00
 Nakhitxevan Nakhitxevan NPCSG00
 Nakhodka Nakhodka NPCSG00
+Naksa Naksa NPFSO00
 Naktong-gang Naktong-gang NPCSG00
 Nalec Nalec NPCSG00
 Nalón Nalón NPCSG00
@@ -21534,6 +21546,7 @@ Redon Redon NPCSG00
 Redonda Redonda NPFSG00
 Redondela Redondela NPCSG00
 Redorta Redorta NPCNSP0
+Redsys Redsys NPCNO00
 Reduart Reduart NPCNSP0
 Refalgarí Refalgarí NPCSG00
 Refart Refart NPCNSP0
@@ -23638,6 +23651,7 @@ Servat Servat NPCNSP0
 Servent Servent NPCNSP0
 Servet Servet NPCNSP0
 Serveto Serveto NPCSG00
+ServiCaixa ServiCaixa NPCNO00
 Servicaixa Servicaixa NPMNO00
 Servià Servià NPCNSP0
 Servàcia Servàcia NPFSSP0 # avl: noms de persona
@@ -24407,6 +24421,7 @@ Sukhumi Sukhumi NPCSG00
 Sukkot Sukkot NPMSO00
 Sukkur Sukkur NPCSG00
 Sulaimaniya Sulaimaniya NPCSG00
+Sulayman Sulayman NPCNSP0
 Sulcis Sulcis NPCSG00
 Sulema Sulema NPFSSP0 # avl: noms de persona
 Sullastre Sullastre NPCNSP0
