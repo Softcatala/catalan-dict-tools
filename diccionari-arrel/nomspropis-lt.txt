@@ -1161,6 +1161,7 @@ Alcmena Alcmena NPFSSP0
 Alcoa Alcoa NPCSG00
 Alcobaça Alcobaça NPCSG00
 Alcobendas Alcobendas NPCSG00
+Alcoberro Alcoberro NPCNSP0
 Alcocó Alcocó NPCSG00
 Alcoi Alcoi NPCNSP0
 Alcoi Alcoi NPCSG00
@@ -2933,6 +2934,7 @@ Ayacucho Ayacucho NPCSG00
 Ayamonte Ayamonte NPCSG00
 Aydın Aydın NPCSG00
 Aylesbury Aylesbury NPCSG00
+Aymerich Aymerich NPCNSP0
 Ayodhya Ayodhya NPCSG00
 Ayr Ayr NPCSG00
 Ayre Ayre NPCNSP0 # medical
@@ -16162,6 +16164,7 @@ Masdovelles Masdovelles NPCNSP0
 Masdéu Masdéu NPCNSP0
 Masdéu Masdéu NPMSG00
 Masella Masella NPCSG00
+Masella Masella NPFSG00
 Maseres Maseres NPCNSP0
 Maseru Maseru NPCSG00
 Maset Maset NPCNSP0
@@ -19767,6 +19770,7 @@ Perfectes Perfecte NPMPSP0
 Pergolesi Pergolesi NPCNSP0
 Peric Peric NPCNSP0
 Perica Perica NPFSSP0 # avl: noms de persona
+Pericay Pericay NPCNSP0
 Pericàs Pericàs NPCNSP0
 Perigord Perigord NPCSG00
 Perigús Perigús NPCSG00
@@ -23713,6 +23717,7 @@ Shaanxi Shaanxi NPCSG00
 Shaba Shaba NPCSG00
 Shabeelle Shabeelle NPCSG00
 Shaftesbury Shaftesbury NPCNSP0
+Shahed Shahed NPCNSP0
 Shakespeare Shakespeare NPCNSP0
 Shandong Shandong NPCSG00
 Shanghai Shanghai NPCSG00

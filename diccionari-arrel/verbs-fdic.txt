@@ -7341,6 +7341,7 @@ menjucar=categories: V;model:trencar;fonts: LT;
 menjuquejar=categories: V;model:envejar;fonts: LT;
 menjussar=categories: V;model:capbussar;fonts: LT;
 menstruar=categories: V;model:lloar;fonts: LT;
+mensualitzar=categories: V;model:cantar;fonts: DNV;
 mentalitzar=categories: V;model:cantar;fonts: LT;
 mentir=categories: V;model:mentir;fonts: LT;
 mentorar=categories: V;model:cantar;fonts:termcat;
