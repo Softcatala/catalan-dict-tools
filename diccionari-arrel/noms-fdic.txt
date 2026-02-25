@@ -2349,6 +2349,7 @@ agamogènesi=categories: F;fonts: LT;
 agamospèrmia=categories: F;fonts: LT;
 agamí [pl. agamís]=categories: M;fonts: LT;
 agangliosi=categories: F;fonts: dsalut;
+agaons=categories: MP;fonts: DNV;
 agapant=categories: M;fonts: LT;
 agapeta=categories: F;fonts: LT;
 agapornis=categories: MI;fonts: LT;

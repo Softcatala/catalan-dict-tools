@@ -20373,6 +20373,8 @@ desbudellaments desbudellament NCMP000
 desburg desburgar VMIP1S0B
 desburga desburgar VMIP3S00
 desburga desburgar VMM02S00
+desburgable desburgable AQ0CS0
+desburgables desburgable AQ0CP0
 desburgada desburgada NCFS000
 desburgada desburgar VMP00SF0
 desburgades desburgada NCFP000
@@ -43781,7 +43783,9 @@ extractadors extractador AQ0MP0
 extradit extraditar VMIP1S0B
 extradita extraditar VMIP3S00
 extradita extraditar VMM02S00
+extraditable extraditable AQ0CS0
 extraditable extraditable NCCS000
+extraditables extraditable AQ0CP0
 extraditables extraditable NCCP000
 extraditada extraditar VMP00SF0
 extraditades extraditar VMP00PF0
@@ -50249,6 +50253,8 @@ inconformitat inconformitat NCFS000
 inconformitats inconformitat NCFP000
 inconstituïble inconstituïble AQ0CS0
 inconstituïbles inconstituïble AQ0CP0
+incontable incontable AQ0CS0
+incontables incontable AQ0CP0
 incordia incordiar VMIP3S00
 incordia incordiar VMM02S00
 incordiada incordiar VMP00SF0
@@ -68629,6 +68635,8 @@ templéssiu templar VMSI2P02
 templí templar VMIS1S00
 temprabilitat temprabilitat NCFS000
 temprabilitats temprabilitat NCFP000
+temprable temprable AQ0CS0
+temprables temprable AQ0CP0
 tempraplomes tempraplomes NCMN000
 tenquerol tenquerol NCMS000
 tenquerols tenquerol NCMP000
