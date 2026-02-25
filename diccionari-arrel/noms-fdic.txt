@@ -52018,6 +52018,7 @@ mantell=categories: M;fonts: LT;
 manteller mantellera=categories: MF;fonts LT;
 mantellet=categories: M;fonts: LT;
 mantellina=categories: F;fonts: LT;
+mantenibilitat=categories: F;fonts: derivat;
 mantenidor mantenidora=categories: MF;fonts LT;
 manteniment=categories: M;fonts: LT;
 manter mantera=categories: MF;fonts LT;

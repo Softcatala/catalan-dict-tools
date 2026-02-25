@@ -20184,6 +20184,7 @@ manso mansa=categories: A;fonts: LT;
 mansoi mansoia=categories: A;fonts: LT;
 mansuet mansueta=categories: A;fonts: LT;
 mantegós mantegosa=categories: A;fonts: LT;
+mantenible=categories: A;fonts: derivat;
 mantenidor mantenidora=categories: A;fonts: LT;
 mantuà mantuana=categories: A;fonts: LT;
 mantèl·lic mantèl·lica=categories: A;fonts: LT;

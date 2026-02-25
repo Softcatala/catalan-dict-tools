@@ -18884,6 +18884,7 @@ Ortega Ortega NPCNSP0
 Ortega Ortega NPFSSP0
 Ortegues Ortega NPFPSP0
 Orteig Orteig NPCNSP0
+Ortells Ortells NPCNSP0
 Ortenbach Ortenbach NPCNSP0
 Ortensi Ortensi NPCNSP0
 Orteu Orteu NPCNSP0
