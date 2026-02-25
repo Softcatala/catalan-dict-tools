@@ -40459,6 +40459,7 @@ glotó glotona=categories: MF;fonts LT;
 gloucester=categories: M;fonts: LT;
 gloxínia=categories: F;fonts: LT;
 glubionat=categories: M;fonts: dsalut;
+gluc-gluc=categories: MS;fonts: DNV;
 glucagonoma=categories: M;fonts: dsalut;
 glucagó=categories: M;fonts: LT;
 glucal=categories: M;fonts: dsalut;

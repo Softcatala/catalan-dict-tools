@@ -1,4 +1,3 @@
-
 #anidi -ídia=categories: A;fonts: dsalut;
 #avist avista=categories: A;fonts: LT; arcaisme
 #baador=categories: A;fontsg: GDLC, arcaisme;
@@ -13119,6 +13118,7 @@ feinater feinatera=categories: A;fonts: LT;
 feiner feinera=categories: A;fonts: LT;
 feinós -osa=categories: A; fonts: Jané;
 feixista=categories: A;fonts: LT;
+feixistitzant=categories: A;fonts: DNV;
 feixistoide=categories: A;fonts: dfrequencies;
 feixuc feixuga [sup. feixuguíssim]=categories: A; font:apertium;
 feixí feixina=categories: A;fonts: LT;

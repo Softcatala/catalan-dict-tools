@@ -44771,8 +44771,6 @@ faxejàvem faxejar VMII1P00
 faxejàveu faxejar VMII2P00
 febronada febronada NCFS000
 febronades febronada NCFP000
-feixistitzant feixistitzant AQ0CS0
-feixistitzants feixistitzant AQ0CP0
 feixugueria feixugueria NCFS000
 feixugueries feixugueria NCFP000
 felicitador felicitador NCMS000
@@ -48234,8 +48232,6 @@ glotonejàvem glotonejar VMII1P00
 glotonejàveu glotonejar VMII2P00
 glotoneria glotoneria NCFS000
 glotoneries glotoneria NCFP000
-gluc-gluc gluc-gluc NCMS000
-gluc-glucs gluc-gluc NCMP000
 glutinositat glutinositat NCFS000
 glutinositats glutinositat NCFP000
 goal-average goal-average NCMS000
