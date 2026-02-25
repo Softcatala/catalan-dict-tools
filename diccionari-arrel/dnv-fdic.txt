@@ -52,7 +52,6 @@ aforrament=categories: M;fonts: DNV,col·loquial;
 aforrar=categories: V;model:cantar;fonts: DNV;
 afortalar=categories: V;model:cantar;fonts: DNV;
 aganar=categories: V;model:cantar;fonts: DNV;
-agaons=categories: MP;fonts: DNV;
 agarbissonar=categories: V;model:cantar;fonts: DNV;
 agimponar=categories: V;model:cantar;fonts: DNV;
 agnòsic -a=categories: A;fonts: DNV;

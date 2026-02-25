@@ -2119,7 +2119,6 @@ aganésseu aganar VMSI2P05
 aganéssim aganar VMSI1P02
 aganéssiu aganar VMSI2P02
 aganí aganar VMIS1S00
-agaons agaons NCMP000
 agarbisson agarbissonar VMIP1S0B
 agarbissona agarbissonar VMIP3S00
 agarbissona agarbissonar VMM02S00
