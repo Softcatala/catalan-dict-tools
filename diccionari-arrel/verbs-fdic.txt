@@ -2088,6 +2088,7 @@ consolar=categories: V;model:cantar;fonts: LT;
 consoldar=categories: V;model:cantar;fonts: LT;
 consolidar=categories: V;model:cantar;fonts: LT;
 consonantar=categories: V;model:cantar;fonts: LT;
+consonantitzar=categories: V;model:cantar;fonts: DNV;
 consonar=categories: V;model:cantar;fonts: LT;
 consorciar=categories: V;model:crear;fonts: LT;
 conspirar=categories: V;model:cantar;fonts: LT;
