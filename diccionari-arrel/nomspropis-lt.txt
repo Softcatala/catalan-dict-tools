@@ -1410,6 +1410,7 @@ All-Star All-Star NPMSO00
 Allahābād Allahābād NPCSG00
 Allan Allan NPCNSP0
 Allau Allau NPCSG00
+Alleghe Alleghe NPCSG00 # esadir estacions d'esquí
 Allegheny Allegheny NPCNG00
 Allen Allen NPCNSP0
 Allen-Doisy Allen-Doisy NPCNSP0 # medical
@@ -1439,6 +1440,7 @@ Almar Almar NPCNSP0
 Almara Almara NPCNSP0
 Almarra Almarra NPCSG00
 Almarx Almarx NPCSG00
+Almasa Almasa NPCSG00 # esadir estacions d'esquí
 Almassereta Almassereta NPCSG00
 Almasseta Almasseta NPCSG00
 Almassor Almassor NPCSG00
@@ -1498,6 +1500,7 @@ Alp Alp NPCSG00
 Alpatró Alpatró NPCSG00
 Alpena Alpena NPCSG00
 Alpens Alpens NPCSG00
+Alpensia Alpensia NPCSG00 # esadir estacions d'esquí
 Alpera Alpera NPCSG00
 Alpers Alpers NPCNSP0 # medical
 Alpicat Alpicat NPCSG00
@@ -2138,6 +2141,7 @@ Apol·ló Apol·ló NPMSSP0 # avl: noms de persona
 Appenzell Appenzell NPCSG00
 Apple Apple NPCNO00
 Appleton Appleton NPCSG00
+Aprica Aprica NPCSG00 # esadir estacions d'esquí
 Apricena Apricena NPCSG00
 Aprilia Aprilia NPCSG00
 Apronians Apronià NPMPSP0
@@ -2201,6 +2205,7 @@ Aranguren Aranguren NPCNSP0
 Aranjassa Aranjassa NPCSG00
 Aranjuez Aranjuez NPCSG00
 Arans Arans NPCSG00
+Aransa Aransa NPCSG00 # esadir estacions d'esquí
 Aransís Aransís NPCSG00
 Arantxa Arantxa NPFSSP0
 Arantzazu Arantzazu NPCSG00
@@ -2718,6 +2723,7 @@ Astàsia Astàsia NPFSSP0 # avl: noms de persona
 Astèria Astèria NPFSSP0 # avl: noms de persona
 Astèrix Astèrix NPCNSP0
 Astíanax Astíanax NPMSSP0 # avl: noms de persona
+Astún Astún NPCSG00 # esadir estacions d'esquí
 Astúries Astúries NPCSG00
 Asunción Asunción NPCSG00
 Asus Asus NPCNO00
@@ -2929,6 +2935,7 @@ Avogadro Avogadro NPCNSP0
 Avogadro Avogadro NPCNSP0 # medical
 Avola Avola NPCSG00
 Avon Avon NPCSG00
+Ax Ax NPCSG00 # esadir estacions d'esquí
 Axenfeld Axenfeld NPCNSP0 # medical
 Ayacucho Ayacucho NPCSG00
 Ayamonte Ayamonte NPCSG00
@@ -3366,6 +3373,7 @@ Bardina Bardina NPCNSP0
 Bardinet Bardinet NPCNSP0
 Bardissa Bardissa NPCNSP0
 Bardolet Bardolet NPCNSP0
+Bardonecchia Bardonecchia NPCSG00 # esadir estacions d'esquí
 Bardou Bardou NPCNSP0
 Bards Bard NPMPSP0
 Bardí Bardí NPCNSP0
@@ -4520,6 +4528,7 @@ Bojosa Bojosa NPCNSP0
 Bojó Bojó NPCNSP0
 Boknfjord Boknfjord NPCSG00
 Boksburg Boksburg NPCSG00
+Bokwang Bokwang NPCSG00 # esadir estacions d'esquí
 Bolama-Bijagós Bolama-Bijagós NPCSG00
 Bolangé Bolangé NPCNSP0
 Bolart Bolart NPCNSP0
@@ -6620,6 +6629,7 @@ Champfleury Champfleury NPCNSP0
 Champigny-sur-Marne Champigny-sur-Marne NPCSG00
 Champions Champions NPFNO00
 Champlain Champlain NPCSG00
+Champoluc Champoluc NPCSG00 # esadir estacions d'esquí
 Chamrousse Chamrousse NPCSG00
 Chancelade Chancelade NPCSG00
 Chandigarh Chandigarh NPCSG00
@@ -6947,6 +6957,7 @@ Claveria Claveria NPCNSP0
 Claverol Claverol NPCNSP0
 Claverol Claverol NPCSG00
 Claverí Claverí NPCNSP0
+Claviere Claviere NPCSG00 # esadir estacions d'esquí
 Clavé Clavé NPCNSP0
 Clazòmenes Clazòmenes NPCSG00
 Cleandre Cleandre NPMSSP0 # avl: noms de persona
@@ -7589,6 +7600,7 @@ Coudekerque-Branche Coudekerque-Branche NPCSG00
 Couperin Couperin NPCNSP0
 Courbet Courbet NPCNSP0
 Courbevoie Courbevoie NPCSG00
+Courchevel Courchevel NPCSG00 # esadir estacions d'esquí
 Courmayeur Courmayeur NPCSG00
 Cournand Cournand NPCNSP0 # medical
 Courtenay Courtenay NPCNSP0
@@ -10259,7 +10271,9 @@ Fiònia Fiònia NPCSG00
 Fiódor Fiódor NPMSSP0
 Fiódorov Fiódorov NPMSSP0
 Fiódorovna Fiódorovna NPFSSP0
+Flachau Flachau NPCSG00 # esadir estacions d'esquí
 Flacq Flacq NPCSG00
+Flaine Flaine NPCSG00 # esadir estacions d'esquí
 Flameric Flameric NPCNSP0
 Flamini Flamini NPMSSP0
 Flaminis Flamini NPMPSP0
@@ -11000,6 +11014,7 @@ Gals Gal NPMPSP0
 Galter Galter NPMSSP0 # avl: noms de persona
 Galton Galton NPCNSP0 # medical
 Galtés Galtés NPCNSP0
+Galtür Galtür NPCSG00 # esadir estacions d'esquí
 Galuppi Galuppi NPCNSP0
 Galvani Galvani NPCNSP0
 Galvany Galvany NPCNSP0
@@ -13833,6 +13848,7 @@ Kaplan Kaplan NPCNSP0 # medical
 Kapoeta Kapoeta NPCSG00
 Kaposi Kaposi NPCNSP0 # medical
 Kaposvár Kaposvár NPCSG00
+Kaprun Kapurn NPCSG00 # esadir estacions d'esquí
 Kapuściński Kapuściński NPCNSP0
 Kara Kara NPCNSP0
 Kara Kara NPCSG00
@@ -13870,6 +13886,7 @@ Karoo Karoo NPCSG00
 Kars Kars NPCSG00
 Kart Kart NPCNSP0
 Kartagener Kartagener NPCNSP0 # medical
+Kartalkaya Kartalkaya NPCSG00 # esadir estacions d'esquí
 Karun Karun NPCSG00
 Karviná Karviná NPCSG00
 Karà-Murzà Karà-Murzà NPCNSP0
@@ -14202,6 +14219,7 @@ Kutxabank Kutxabank NPCNO00
 Kuwait Kuwait NPMSG00
 Kuçovë Kuçovë NPCSG00
 Kveim Kveim NPCNSP0 # medical
+Kvitfjell Kvitfjell NPCSG00 # esadir estacions d'esquí
 Kwangju Kwangju NPCSG00
 Kwara Kwara NPCSG00
 Kwashiorkor Kwashiorkor NPCNSP0
@@ -14512,6 +14530,7 @@ Leinster Leinster NPCSG00
 Leipzig Leipzig NPCSG00
 Leire Leire NPFSSP0
 Leiria Leiria NPCSG00
+Leitariegos Leitariegos NPCSG00 # esadir estacions d'esquí
 Lejárraga Lejárraga NPCNSP0
 Lel Lel NPCSG00
 Lemaître Lemaître NPCNSP0
@@ -15416,6 +15435,7 @@ Madeleine Madeleine NPFSG00
 Madella Madella NPCNSP0
 Madelung Madelung NPCNSP0 # medical
 Madern Madern NPCNSP0
+Madesimo Madesimo NPCSG00 # esadir estacions d'esquí
 Madison Madison NPCSG00
 Madiun Madiun NPCSG00
 Madonie Madonie NPCSG00
@@ -16414,6 +16434,7 @@ Mayenne Mayenne NPCSG00
 Mayflower Mayflower NPMSO00
 Mayon Mayon NPCSG00
 Mayotte Mayotte NPCSG00
+Mayrhofen Mayrhofen NPCSG00 # esadir estacions d'esquí
 Maysonneuve Maysonneuve NPCNSP0 # medical
 Mazamet Mazamet NPCSG00
 Mazarrón Mazarrón NPCSG00
@@ -16514,6 +16535,7 @@ Megacles Megacles NPMSSP0
 Megalòpolis Megalòpolis NPFSG00
 Meghālaya Meghālaya NPCSG00
 Megiddo Megiddo NPCSG00
+Megève Megève NPCSG00 # esadir estacions d'esquí
 Mehran Mehran NPCSG00
 Meibomio Meibomio NPCNSP0 # medical
 Meifrén Meifrén NPCNSP0
@@ -17507,6 +17529,7 @@ Morgana Morgana NPFSSP0 # avl: noms de persona
 Morgannwg Morgannwg NPCSG00
 Morgans Morgans NPCNSP0 # medical
 Morgat Morgat NPCNSP0
+Morgins Morgins NPCSG00 # esadir estacions d'esquí
 Mori Mori NPCSG00
 Morioka Morioka NPCSG00
 Moripol Moripol NPCSG00
@@ -17794,6 +17817,7 @@ Mélenchon Mélenchon NPCNSP0
 Méliès Méliès NPCNSP0
 Méndez Méndez NPCNSP0
 Ménière Ménière NPCNSP0 # medical
+Méribel Méribel NPCSG00 # esadir estacions d'esquí
 Méricourt Méricourt NPCSG00
 Mérida Mérida NPCSG00
 Mérimée Mérimée NPCNSP0
@@ -19882,6 +19906,7 @@ Petén Petén NPCSG00
 Peugeot Peugeot NPCNO00
 Peutz-Jeghers Peutz-Jeghers NPCNSP0 # medical
 Peyer Peyer NPCNSP0 # medical
+Peyragudes Peyragudes NPCSG00 # esadir estacions d'esquí
 Peyresourde Peyresourde NPCSG00
 Peyrol Peyrol NPCSG00
 Peyronie Peyronie NPCNSP0 # medical
@@ -19908,6 +19933,7 @@ Pia Pia NPFSSP0
 Piacenza Piacenza NPCSG00
 Piada Piada NPCSG00
 Piaget Piaget NPCNSP0
+Piancavallo Piancavallo NPCSG00 # esadir estacions d'esquí
 Piarnau Piarnau NPCNSP0
 Piatra-Neamţ Piatra-Neamţ NPCSG00
 Piauí Piauí NPCSG00
@@ -22479,6 +22505,7 @@ SUSE SUSE NPCNO00
 SUVEC SUVEC NPMSO00
 SVR SVR NPMSO00
 Sa'da Sa'da NPCSG00
+Saalbach Saalbach NPCSG00 # esadir estacions d'esquí
 Saale Saale NPCSG00
 Saane Saane NPCSG00
 Saar Saar NPCSG00
@@ -23675,6 +23702,7 @@ Sesrovires Sesrovires NPCSG00
 Sessué Sessué NPCSG00
 Sestany Sestany NPCNSP0
 Sestao Sestao NPCSG00
+Sestriere Sestriere NPCSG00 # esadir estacions d'esquí
 Sestrèr Sestrèr NPCSG00
 Seta Seta NPCSG00
 Setaigües Setaigües NPCSG00
@@ -24460,6 +24488,8 @@ Sunyer Sunyer NPCSG00
 Sunyol Sunyol NPCNSP0
 Super3 Super3 NPMSO00
 SuperCollider SuperCollider NPCNO00
+Superbagnères Superbagnères NPCSG00 # esadir estacions d'esquí
+Superdévoluy Superdévoluy NPCSG00 # esadir estacions d'esquí
 Superlliga Superlliga NPFSO00
 Superman Superman NPMSSP0
 Supermirafiori Supermirafiori NPCNO00
@@ -24597,6 +24627,7 @@ Sóller Sóller NPCSG00
 Sónar Sónar NPMSO00
 Södermanland Södermanland NPCSG00
 Södertälje Södertälje NPCSG00
+Sölden Sölden NPCSG00 # esadir estacions d'esquí
 Súnion Súnion NPCNSP0
 Súria Súria NPFSG00
 Sāhiwāl Sāhiwāl NPCSG00
@@ -26354,6 +26385,7 @@ Valdepeñas Valdepeñas NPCSG00
 Valderaduey Valderaduey NPCSG00
 Valdesca Valdesca NPFSSP0 # avl: noms de persona
 Valdesquí Valdesquí NPCSG00
+Valdezcaray Valdezcaray NPCSG00 # esadir estacions d'esquí
 Valdivia Valdivia NPCSG00
 Valdès Valdès NPCNSP0
 Valdés Valdés NPCNSP0
@@ -26382,6 +26414,7 @@ Valerians Valerià NPMPSP0
 Valeris Valeri NPMPSP0
 Valerià Valerià NPMSSP0
 Valero Valero NPCNSP0
+Valfréjus Valfréjus NPCSG00 # esadir estacions d'esquí
 Valhalla Valhalla NPMSG00
 Valhonesta Valhonesta NPCNSP0
 Valimaner Valimaner NPCNSP0
@@ -26508,6 +26541,7 @@ Vallseca Vallseca NPCNSP0
 Vallseca Vallseca NPCSG00
 Vallsera Vallsera NPCSG00
 Vallserena Vallserena NPCSG00
+Vallter Vallter NPCSG00 # esadir estacions d'esquí
 Vallterra Vallterra NPCNSP0
 Valltondrà Valltondrà NPCNSP0
 Vallvanera Vallvanera NPFSSP0 # avl: noms de persona
@@ -26519,6 +26553,7 @@ Vallvidrera Vallvidrera NPCSG00
 Vallès Vallès NPCNSP0
 Vallès Vallès NPCSG00
 Vallés Vallés NPCSG00
+Valmorel Valmorel NPCSG00 # esadir estacions d'esquí
 Valois Valois NPCNSP0
 Valois Valois NPCSG00
 Valor Valor NPCNSP0
@@ -27901,6 +27936,7 @@ Yokosuka Yokosuka NPCSG00
 Yomon Yomon NPCSG00
 Yonago Yonago NPCSG00
 Yongbyon Yongbyon NPCSG00
+Yongpyong Yongpyong NPCSG00 # esadir estacions d'esquí
 Yonkers Yonkers NPCSG00
 Yonne Yonne NPCSG00
 York York NPCNSP0
@@ -28073,6 +28109,7 @@ Zvornik Zvornik NPCSG00
 Zweibrücken Zweibrücken NPCSG00
 Zweig Zweig NPCNSP0
 Zwickau Zwickau NPCSG00
+Zwiesel Zwiesel NPCSG00 # esadir estacions d'esquí
 Zwolle Zwolle NPCSG00
 Zàmbia Zàmbia NPFSG00
 Záncara Záncara NPCSG00
