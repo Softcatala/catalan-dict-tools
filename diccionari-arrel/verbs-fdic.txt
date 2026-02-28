@@ -1677,6 +1677,7 @@ caracteritzar=categories: V;model:cantar;fonts: LT;
 carafeixar=categories: V;model:cantar;fonts: LT;
 caragirar=categories: V;model:cantar;fonts: LT;
 caragolar=categories: V;model:cantar;fonts: LT;
+caragolejar=categories: V;model:envejar;fonts: DNV;
 caramel·litzar=categories: V;model:cantar;fonts: LT;
 caramullar=categories: V;model:cantar;fonts: LT;
 carbassejar=categories: V;model:envejar;fonts: LT;
