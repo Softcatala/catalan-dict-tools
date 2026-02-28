@@ -1862,7 +1862,7 @@ Andrew Andrew NPCNSP0
 Andriol Andriol NPMSSP0 # avl: noms de persona
 Andriola Andriola NPFSSP0 # avl: noms de persona
 Andriot Andriot NPCNSP0
-Andrić Andrić NPCSP0
+Andrić Andrić NPCSP00
 Andrićgrad Andrićgrad NPCSG00
 Android Android NPMNO00
 Andros Andros NPCSG00
@@ -17500,7 +17500,7 @@ Morava Morava NPCSG00
 Morazán Morazán NPCSG00
 Morbihan Morbihan NPCSG00
 Mordred Mordred NPMSSP0
-Mordòvia Mordòvia NPFCG00
+Mordòvia Mordòvia NPFSG00
 Morecambe Morecambe NPCSG00
 Morei Morei NPCNSP0
 Morelia Morelia NPCSG00
@@ -19085,7 +19085,7 @@ PEPLI PEPLI NPMNO00
 PISA PISA NPCNO00
 PKK PKK NPMSO00
 PNB PNB NPMSO00
-PNC PNC NPCMO00 # esadir
+PNC PNC NPMSO00 # esadir
 PNPV PNPV NPMSO00
 PNUD PNUD NPMSO00
 POUM POUM NPMSO00
@@ -23081,7 +23081,7 @@ Santmiquel Santmiquel NPCNSP0
 Santoll Santoll NPCNSP0
 Santomà Santomà NPCNSP0
 Santonja Santonja NPCNSP0
-Santorini Santorini NPCSG0
+Santorini Santorini NPCSG00
 Santorí Santorí NPCSG00
 Santoña Santoña NPCSG00
 Santpau Santpau NPCNSP0
