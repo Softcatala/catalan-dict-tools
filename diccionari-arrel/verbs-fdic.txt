@@ -8567,6 +8567,7 @@ recar=categories: V;model:trencar;fonts: LT;
 recaragolar=categories: V;model:cantar;fonts: LT;
 recargolar=categories: V;model:cantar;fonts: LT;
 recarregar=categories: V;model:pregar;fonts: LT;
+recatalanitzar=categories: V;model:cantar;fonts: DNV;
 recaure=categories: V;model:caure;fonts: LT;
 recautxutar=categories: V;model:cantar;fonts: LT;
 recavar=categories: V;model:cantar;fonts: LT;
