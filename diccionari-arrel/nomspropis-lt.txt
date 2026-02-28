@@ -1862,7 +1862,7 @@ Andrew Andrew NPCNSP0
 Andriol Andriol NPMSSP0 # avl: noms de persona
 Andriola Andriola NPFSSP0 # avl: noms de persona
 Andriot Andriot NPCNSP0
-Andrić Andrić NPCSP00
+Andrić Andrić NPCNSP0
 Andrićgrad Andrićgrad NPCSG00
 Android Android NPMNO00
 Andros Andros NPCSG00
@@ -12793,7 +12793,7 @@ Hondures Hondures NPFSG00
 Honegger Honegger NPCNSP0
 Honest Honest NPMSSP0
 Honests Honest NPMPSP0
-Honeywell Honeywell NPCSP0
+Honeywell Honeywell NPCNO00
 Hong-Kong Hong-Kong NPCSG00
 Hongria Hongria NPFSG00
 Honiara Honiara NPCSG00
