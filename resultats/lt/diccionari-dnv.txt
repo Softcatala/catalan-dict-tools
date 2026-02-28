@@ -2546,7 +2546,6 @@ agramillésseu agramillar VMSI2P05
 agramilléssim agramillar VMSI1P02
 agramilléssiu agramillar VMSI2P02
 agramillí agramillar VMIS1S00
-agranacarrers agranacarrers NCCN000
 agravi agravi NCMS000
 agravia agraviar VMIP3S00
 agravia agraviar VMM02S00

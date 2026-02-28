@@ -71,7 +71,6 @@ agoniar=categories: V;model:crear;fonts: DNV;
 agoniós -osa=categories: A;fonts: DNV;
 agosar=categories: V;model:anquilosar;fonts:LT
 agramillar=categories: V;model:cantar;fonts: DNV;
-agranacarrers=categories: MFI;fonts: DNV;
 agravi=categories: M;fonts: DNV;
 agraviar=categories: V;model:crear;fonts: DNV;
 aguaitacossos=categories: MI;fonts: DNV;
