@@ -4337,6 +4337,7 @@ Biot Biot NPCNSP0
 Birak Birak NPCSG00
 Birba Birba NPCNO00
 Birbeck Birbeck NPCNSP0 # medical
+Birendra Birendra NPMSSP0 # wiki
 Birendranagar Birendranagar NPCSG00
 Birkenau Birkenau NPCSG00
 Birmingham Birmingham NPCSG00
@@ -4890,6 +4891,7 @@ Bragg Braff NPCNSP0
 Bragolat Bragolat NPCNSP0
 Bragulat Bragulat NPCNSP0
 Bragulí Bragulí NPCNSP0
+Brahma Brahma NPMSSP0 # esadir
 Brahms Brahms NPCNSP0
 Brai Brai NPCSG00
 Braida Braida NPCNSP0
@@ -6714,6 +6716,7 @@ Chiba Chiba NPCSG00
 Chibuto Chibuto NPCSG00
 Chicago Chicago NPCSG00
 Chichaoua Chichaoua NPCSG00 # esadir Marroc
+Chicharito Chicharito NPMSSP0 # esadir Mèxic
 Chichester Chichester NPCSG00
 Chiclayo Chiclayo NPCSG00
 Chico Chico NPCSG00
@@ -7842,6 +7845,7 @@ Cunyat Cunyat NPCNSP0
 Cunyà Cunyà NPCSG00
 Cuomo Cuomo NPCNSP0
 Cupido Cupido NPMSSP0 # avl: noms de persona
+Cuponàs Cuponàs NPMSO00
 Cuqueró Cuqueró NPCNSP0
 Cuquet Cuquet NPCSG00
 Curaçao Curaçao NPCSG00
@@ -9669,6 +9673,7 @@ Eurolliga Eurolliga NPFSO00
 Eurolligues Eurolliga NPFSO00
 Euromaidan Euromaidan NPCNO00
 Euromed Euromed NPMNO00
+Euromilions Euromilions NPMNO00
 Europa Europa NPFSG00
 Europarlament Europarlament NPMSO00
 Europes Europa NPFPG00
@@ -10854,6 +10859,7 @@ GAM GAM NPCNO00
 GATCPAC GATCPAC NPMSO00
 GDLC GDLC NPMSO00
 GDPR GDPR NPMSO00
+GEO GEO NPMNO00
 GEiEG GEiEG NPMSO00
 GIEC GIEC NPFSO00
 GIMP GIMP NPMSO00
@@ -10861,6 +10867,7 @@ GNOME GNOME NPMSO00
 GNU GNU NPMSO00
 GNV GNV NPFSO00
 GOB GOB NPMSO00
+GOE GOE NPMSO00
 GPL GPL NPCNO00
 GPT GPT NPCNO00
 GPT-3 GPT-3 NPMSO00
@@ -14237,6 +14244,7 @@ Kàrpov Kàrpov NPCNSP0
 Kàtia Kàtia NPFSSP0 # avl: noms de persona
 Kàtmandu Kàtmandu NPCSG00
 Kálymnos Kálymnos NPCSG00
+Kármán Kármán NPMSSP0
 Kárpas Kárpas NPCSG00
 Kárpathos Kárpathos NPCSG00
 Kärcher Kärcher NPCNO00
@@ -16762,6 +16770,7 @@ Mibelli Mibelli NPCNSP0 # medical
 Micaela Micaela NPFSSP0 # avl: noms de persona
 Micalet Micalet NPMSG00
 Micenes Micenes NPCSG00
+Micerí Micerí NPMSSP0 # esadir
 Michael Michael NPMSSP0
 Michaelis Michaelis NPCNSP0 # medical
 Michaelis-Menten Michaelis-Menten NPCNSP0 # medical
@@ -17743,6 +17752,7 @@ Musell Musell NPCNSP0
 Musella Musella NPCNSP0
 Museros Museros NPCSG00
 Mushin Mushin NPCSG00
+Mushka Mushka NPFSSP0 # esadir Catalunya
 Mushkaa Mushkaa NPFSSP0
 Musikverein Musikverein NPFSO00
 Musil Musil NPCNSP0
@@ -28054,6 +28064,7 @@ Zhejiang Zhejiang NPCSG00
 Zhengzhou Zhengzhou NPCSG00
 Zhenjiang Zhenjiang NPCSG00
 Zibo Zibo NPCSG00
+Zico NPMSSP0 NPMSSP0 # esadir Brasil
 Zigong Zigong NPCSG00
 Zika Zika NPMSG00
 Zilina Zilina NPCSG00

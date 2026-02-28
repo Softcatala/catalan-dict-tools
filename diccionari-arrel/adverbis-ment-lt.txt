@@ -1812,6 +1812,7 @@ fisiognòmicament fisiognòmicament RG # extrets de corpus
 fisiogràficament fisiogràficament RG # extrets de corpus
 fisiològicament fisiològicament RG
 fisonòmicament fisonòmicament RG
+fitament firament RG # DNV;
 fitament fitament RG # extrets de corpus
 fitogeogràficament fitogeogràficament RG # extrets de corpus
 fixament fixament RG
