@@ -7879,6 +7879,7 @@ Curniola Curniola NPCSG00
 Cursac Cursac NPCNSP0
 Curschmann Curschmann NPCNSP0 # medical
 Curt Curt NPCNSP0
+Curtis Curtis NPCNSP0
 Curullada Curullada NPFSG00
 Cuscatlán Cuscatlán NPCSG00
 Cusco Cusco NPCSG00
