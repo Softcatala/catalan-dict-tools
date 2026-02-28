@@ -9345,6 +9345,7 @@ aüixament=categories: M;fonts: LT;
 aüixó=categories: M;fonts: LT;
 aüllat=categories: M;fonts: LT;
 aürt=categories: M;fonts: LT;
+aüssada=categories: F;fonts: DNV;
 b-nicotirina=categories: F;fonts: dsalut;
 baasisme=categories: MS;fonts: wiki;
 baba=categories: F;fonts: LT;

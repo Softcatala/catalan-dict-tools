@@ -10525,7 +10525,6 @@ embafós embafosa=categories: A;fonts: LT;
 embainador embainadora=categories: A;fonts: dnv-;
 embalador embaladora=categories: A;fonts: LT;
 embalsamador embalsamadora=categories: A;fonts: LT;
-embalsemador embalsemadora=categories: A;fonts: dnv-;
 embanderolat embanderolada=categories: A;fonts: LT;
 embanyat embanyada=categories: A;fonts: LT;
 embarassat embarassada [sup. embarassadíssim]=categories: A; font:apertium;
