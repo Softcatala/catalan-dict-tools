@@ -7032,6 +7032,7 @@ lascar=categories: V;model:trencar;fonts: LT;
 laserar=categories: V;model:cantar;fonts: LT;
 lassar=categories: V;model:bressar;fonts: LT;
 lateralitzar=categories: V;model:cantar;fonts: LT;
+lateritzar=categories: V;model:cantar;fonts: DNV;
 laudanitzar=categories: V;model:cantar;fonts:dsalut,termcat;
 laudar=categories: V;model:cantar;fonts: LT;
 laxar=categories: V;model:cantar;fonts: LT;
