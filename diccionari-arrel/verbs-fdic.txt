@@ -8907,6 +8907,7 @@ remollir=categories: V;model:servir;fonts: LT;
 remordir=categories: V;model:servir;fonts: LT;
 remorejar=categories: V;model:envejar;fonts: LT;
 remosquejar=categories: V;model:envejar;fonts: LT;
+remotivar=categories: V;model:cantar;fonts: DNV;
 remoure=categories: V;model:beure;fonts: LT;
 remudar=categories: V;model:cantar;fonts: LT;
 remugar=categories: V;model:pregar;fonts: LT;
