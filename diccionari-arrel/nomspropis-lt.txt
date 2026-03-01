@@ -173,6 +173,7 @@
 #Milan Milan NPCN000 # wikidata
 #Minnesot Minnesot NPCNSP0 # medical
 #Mira Mira NPCSG00
+#Misiones Misiones NPCN000 # wikidata
 #Misteri Misteri NPFSSP0 # avl: noms de persona
 #Mohamet Mohamet NPMSSP0 # avl: noms de persona
 #Moldova Moldova NPCSG00
@@ -56541,7 +56542,6 @@ Mishmarot Mishmarot NPCN000 # wikidata
 Mishpacha Mishpacha NPCN000 # wikidata
 Misilmeri Misilmeri NPCSG00
 Misilyah Misilyah NPCN000 # wikidata
-Misiones Misiones NPCN000 # wikidata
 Miskolc Miskolc NPCSG00
 Mislata Mislata NPFSG00
 Misnà Misnà NPFSO00
