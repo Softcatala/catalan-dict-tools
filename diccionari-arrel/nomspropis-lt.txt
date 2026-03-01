@@ -80,6 +80,7 @@
 #Enec Enec NPMSSP0 # avl: noms de persona
 #Erb #Erb NPCNSP0 # medical
 #Ermessén (o Ermessèn) Ermessén (o Ermessèn) NPFSSP0 # avl: noms de persona
+#España España NPCN000 # wikidata
 #Espós Espós NPCSG00 # poble molt petit, es confon amb "espòs"
 #Estel Estel NPFSSP0 # avl: noms de persona
 #Eu Eu NPMSSP0 # avl: noms de persona
@@ -145,6 +146,7 @@
 #Komsomol's-na-Amur Komsomol's-na-Amur NPCSG00 Komsomolsk de l'Amur
 #Larrousse Larrousse NPCN000 # wikidata confusió amb Larousse
 #Laure Laure NPMSSP0 # avl: noms de persona
+#Leh Leh NPCN000 # wikidata
 #Llibre Llibre NPCNSP0
 #Lucia Lucia NPFSG00
 #Major Major NPMSSP0 # avl: noms de persona
@@ -179,6 +181,7 @@
 #Nadal Nadal NPMSSP0
 #Nel Nel NPMSSP0 # avl: noms de persona
 #Neto Neto NPMSSP0 # esadir
+#Nose Nose NPCN000 # wikidata
 #Nunya Nunya NPFSSP0 # avl: noms de persona
 #Nunyo Nunyo NPMSSP0 # avl: noms de persona
 #Nunó Nunó NPMSSP0 # avl: noms de persona
@@ -8961,7 +8964,7 @@ Bannalec Bannalec NPCN000 # wikidata
 Bannans Bannans NPCN000 # wikidata
 Bannay Bannay NPCN000 # wikidata
 Bannegon Bannegon NPCN000 # wikidata
-Banner Banner NPCN000 # wikidata
+Banner Banner NPCN000 # wikidata #confusió amb bàner
 Bannes Bannes NPCN000 # wikidata
 Banneville-la-Campagne Banneville-la-Campagne NPCN000 # wikidata
 Banneville-sur-Ajon Banneville-sur-Ajon NPCN000 # wikidata
@@ -30188,7 +30191,6 @@ Espases Espases NPCNSP0
 Espaubourg Espaubourg NPCN000 # wikidata
 Espaulella Espaulella NPCNSP0
 Espaén Espaén NPCSG00
-España España NPCN000 # wikidata
 Española Española NPCN000 # wikidata
 Espeja Espeja NPCN000 # wikidata
 Espejo Espejo NPCN000 # wikidata
@@ -48534,7 +48536,6 @@ Legorreta Legorreta NPCN000 # wikidata
 Legos Lego NPMPO00
 Legrandellus Legrandellus NPCN000 # wikidata
 Legé Legé NPCN000 # wikidata
-Leh Leh NPCN000 # wikidata
 Lehaucourt Lehaucourt NPCN000 # wikidata
 Lehava Lehava NPCN000 # wikidata
 Lehavoth Lehavoth NPCN000 # wikidata
@@ -61879,7 +61880,6 @@ Norðragøta Norðragøta NPCN000 # wikidata
 Norðskáli Norðskáli NPCN000 # wikidata
 Norðtoftir Norðtoftir NPCN000 # wikidata
 Norðurþing Norðurþing NPCN000 # wikidata
-Nose Nose NPCN000 # wikidata
 Nosferatu Nosferatu NPMSSP0
 Nosiola Nosiola NPCN000 # wikidata
 Nosophora Nosophora NPCN000 # wikidata
