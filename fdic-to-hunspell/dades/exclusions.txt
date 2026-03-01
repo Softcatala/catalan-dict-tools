@@ -265,6 +265,7 @@ véu
 óssos
 
 #EXCLOU LEMA DE TOTS
+liar
 taler
 comar
 ferla

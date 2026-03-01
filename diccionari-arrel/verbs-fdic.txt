@@ -13,6 +13,7 @@
 #encostipar=categories: V;model:cantar;fonts: esadir
 #escondir=categories: V;model:servir;fonts:DNV, GDLC, DIEC #és un arcaisme
 #fincar=categories: V;model:trencar;fonts: DIEC, GDLC # és reflexiu, crea confusions
+#liar=categories: V;model:crear;fonts: VERB INCORRECTE, només per a anàlisi!!;
 #malvore=categories: V;model:vore;fonts: DNV;
 #mercar=categories: V;model:trencar;fonts: LT;
 #microadministrar=categories: V;model:cantar;fonts: derivat;
