@@ -168,6 +168,7 @@
 #Mides Mides NPMSSP0 # avl: noms de persona
 #Miguel Miguel NPCN000 # wikidata
 #Miguel Miguel NPMSSP0
+#Milan Milan NPCN000 # wikidata
 #Minnesot Minnesot NPCNSP0 # medical
 #Mira Mira NPCSG00
 #Misteri Misteri NPFSSP0 # avl: noms de persona
@@ -192,9 +193,11 @@
 #Orquídea Orquídea NPFSSP0 # avl: noms de persona
 #Orquídia Orquídia NPFSSP0 # avl: noms de persona
 #Orígenes Orígenes NPMSSP0 # avl: noms de persona
+#Osama Osama NPCN000 # wikidata
 #Ota #Ota NPCNSP0 # medical
 #Ovidie Ovidie NPFSSP0 # esadir
 #Pap #Pap NPCNSP0 # medical
+#Park Park NPCN000 # wikidata
 #Patro Patro NPFSSP0 # avl: noms de persona
 #Pelegrina Pelegrina NPFSSP0 # avl: noms de persona
 #Penedes Penedes NPCNSP0
@@ -227,6 +230,7 @@
 #Saro Saro NPCN000 # wikidata
 #Saro Saro NPMSSP0 # avl: noms de persona
 #Scriabin Scriabin NPCNSP0 Skriabin
+#Sebastián Sebastián NPCN000 # wikidata
 #Sebastopol Sebastopol NPCSG00
 #Segona Segona NPFSSP0 # avl: noms de persona
 #Servi Servi NPMSSP0 # avl: noms de persona
@@ -56127,7 +56131,6 @@ Milaca Milaca NPCN000 # wikidata
 Milagro Milagro NPCN000 # wikidata
 Milagros Milagros NPCN000 # wikidata
 Milam Milam NPCN000 # wikidata
-Milan Milan NPCN000 # wikidata
 Milanesat Milanesat NPMSG00
 Milans Milans NPCNSP0
 Milas Milas NPCN000 # wikidata
@@ -64029,7 +64032,6 @@ Osadné Osadné NPCN000 # wikidata
 Osage Osage NPCN000 # wikidata
 Osaka Osaka NPFSG00
 Osakis Osakis NPCN000 # wikidata
-Osama Osama NPCN000 # wikidata
 Osani Osani NPCN000 # wikidata
 Osasco Osasco NPCSG00
 Osasio Osasio NPCN000 # wikidata
@@ -65755,7 +65757,6 @@ Paris-Soir Paris-Soir NPCN000 # wikidata
 Parisette Parisette NPCN000 # wikidata
 Parish Parish NPCN000 # wikidata
 Parisina Parisina NPCN000 # wikidata
-Park Park NPCN000 # wikidata
 Parkdale Parkdale NPCN000 # wikidata
 Parker Parker NPCNSP0
 Parkersburg Parkersburg NPCN000 # wikidata
@@ -80080,7 +80081,6 @@ Sebastianet Sebastianet NPMSSP0
 Sebastians Sebastià NPMPSP0
 Sebastià Sebastià NPCNSP0
 Sebastià Sebastià NPMSSP0
-Sebastián Sebastián NPCN000 # wikidata
 Sebastòpol Sebastòpol NPCSG00
 Sebec Sebec NPCN000 # wikidata
 Sebechleby Sebechleby NPCN000 # wikidata
