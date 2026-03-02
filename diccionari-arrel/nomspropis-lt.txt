@@ -54056,6 +54056,7 @@ Masgran Masgran NPCNSP0
 Masgrans Masgrans NPCNSP0
 Masgrau Masgrau NPCNSP0
 Masguaret Masguaret NPCNSP0
+Mashad Mashad NPCSG00
 Mashav Mashav NPCN000 # wikidata
 Masherbrum Masherbrum NPCN000 # wikidata
 Mashhad Mashhad NPCSG00
@@ -77496,6 +77497,7 @@ Saint-Point Saint-Point NPCN000 # wikidata
 Saint-Point-Lac Saint-Point-Lac NPCN000 # wikidata
 Saint-Pois Saint-Pois NPCN000 # wikidata
 Saint-Poix Saint-Poix NPCN000 # wikidata
+Saint-Pol Saint-Pol NPCSG00
 Saint-Pol-de-Léon Saint-Pol-de-Léon NPCN000 # wikidata
 Saint-Pol-sur-Mer Saint-Pol-sur-Mer NPCSG00
 Saint-Pol-sur-Ternoise Saint-Pol-sur-Ternoise NPCN000 # wikidata
@@ -77570,6 +77572,7 @@ Saint-Remy-sur-Bussy Saint-Remy-sur-Bussy NPCN000 # wikidata
 Saint-Renan Saint-Renan NPCN000 # wikidata
 Saint-Rhémy-en-Bosses Saint-Rhémy-en-Bosses NPCN000 # wikidata
 Saint-Rieul Saint-Rieul NPCN000 # wikidata
+Saint-Rigaud Saint-Rigaud NPCSG00
 Saint-Rigomer-des-Bois Saint-Rigomer-des-Bois NPCN000 # wikidata
 Saint-Rimay Saint-Rimay NPCN000 # wikidata
 Saint-Riquier Saint-Riquier NPCN000 # wikidata

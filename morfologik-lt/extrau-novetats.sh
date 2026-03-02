@@ -11,13 +11,15 @@
 lt_tools=~/target-lt/languagetool.jar
 
 # dump the tagger dictionary
-cp tagger-spelling.masterinfo ca-ES.info
+cp tagger.masterinfo ca-ES.info
 java -cp $lt_tools org.languagetool.tools.DictionaryExporter -i ca-ES.dict -o ca-ES_lt.txt -info ca-ES.info
 rm ca-ES.info
 
 cp ca-ES_lt.txt diccionari_antic.txt
 echo "Preparant diccionari"
 sed -i 's/^\(.*\)\t\(.*\)\t\(.*\)$/\1 \2 \3/' diccionari_antic.txt
+sed -i '/^.* .* 0.*$/d' diccionari_antic.txt # esborrem les formes marcades com a valencianes
+
 echo "Ordenant diccionari"
 export LC_ALL=C && sort -u diccionari_antic.txt -o diccionari_antic.txt
 echo "Comparant diccionaris"

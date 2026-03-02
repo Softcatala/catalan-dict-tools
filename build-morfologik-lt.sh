@@ -8,63 +8,73 @@ target_dir=../resultats/java-lt/src/main/resources/org/languagetool/resource/ca
 rm $target_dir/*
 
 #source dictionaries
-# catalan
-cp ../resultats/lt/diccionari.txt /tmp/ca-ES.txt
-#sed -i '/ VMIP1S0S/d' /tmp/ca-ES.txt
+cp ../resultats/lt/diccionari.txt /tmp/diccionari.txt
+cp ../resultats/lt/diccionari-dnv.txt /tmp/diccionari-dnv.txt
 
-#catalan including DNV
-cat ../resultats/lt/diccionari.txt ../resultats/lt/diccionari-dnv.txt > /tmp/ca-ES-valencia.txt
-#sed -i '/ VMIP1S0S/d' /tmp/ca-ES-valencia.txt
-sort -u /tmp/ca-ES-valencia.txt -o /tmp/ca-ES-valencia.txt
+#remove duplicates DNV
+python3 ./remove-duplicates-in-dicts.py /tmp/diccionari.txt /tmp/diccionari-dnv.txt
 
-for targetdict in ca-ES ca-ES-valencia
-do
-    cp tagger-spelling.masterinfo ${targetdict}.info
-    cp tagger-spelling.masterinfo ${targetdict}_spelling.info
-    cp synth.masterinfo ${targetdict}_synth.info
+#còpia de dnv, amb tags diferents
+cp /tmp/diccionari-dnv.txt /tmp/diccionari-dnv-0.txt
+#zero afegit al principi de cada tag
+perl -i -p -e 's/^(.+ .+ )(.+)$/${1}0${2}/' /tmp/diccionari-dnv-0.txt
+
+# exclude some words for LT dictionary
+sed -i -E '/ (aguar|ciar|emblar|binar) /d' /tmp/diccionari.txt
+
+
+targetdict='ca-ES'
+
+#TAGGER
+cp tagger.masterinfo ${targetdict}.info
+cat /tmp/diccionari.txt /tmp/diccionari-dnv-0.txt > /tmp/tagger.txt
+perl sptotabs.pl </tmp/tagger.txt >/tmp/tagger_tabs.txt
+export LC_ALL=C && sort -u /tmp/tagger_tabs.txt -o /tmp/tagger_tabs.txt
+java -cp $jarfile org.languagetool.tools.POSDictionaryBuilder -i /tmp/tagger_tabs.txt -info ${targetdict}.info -o ${targetdict}.dict
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}.dict -info ${targetdict}.info -o ${targetdict}_lt.txt
+
+
+#SYNTHESIZER
+cp synth.masterinfo ${targetdict}_synth.info
+cat /tmp/diccionari.txt /tmp/diccionari-dnv.txt > /tmp/synth.txt
+perl sptotabs.pl </tmp/synth.txt >/tmp/synth_tabs.txt
+export LC_ALL=C && sort -u /tmp/synth_tabs.txt -o /tmp/synth_tabs.txt
+java -cp $jarfile org.languagetool.tools.SynthDictionaryBuilder -i /tmp/synth_tabs.txt -info ${targetdict}_synth.info -o ${targetdict}_synth.dict
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_synth.dict -o ${targetdict}_synth_lt.txt -info ${targetdict}_synth.info
+
+# SPELLING
+cp spelling.masterinfo ${targetdict}_spelling.info
+cp /tmp/diccionari.txt /tmp/spelling.txt
+perl -i -p -e 's/^(.+) .+ .+$/$1/' /tmp/spelling.txt
+cat ../extra-spelling/extra-spelling.txt /tmp/spelling.txt > ${targetdict}_spelling.txt
+export LC_ALL=C && sort -u ${targetdict}_spelling.txt -o ${targetdict}_spelling.txt
+java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_spelling.dict
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_spelling_lt.txt
+
+
+
+# MULTITOKEN SPELLING
+cp spelling.masterinfo ${targetdict}_spelling.info
+cat /home/jaume/github/catalan-dict-tools/extra-multitokens/noms-propis-n-tokens-wikidata.txt > ${targetdict}_multitoken_spelling.txt
+export LC_ALL=C && sort -u ${targetdict}_multitoken_spelling.txt -o ${targetdict}_multitoken_spelling.txt
+java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_multitoken_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_multitoken_spelling.dict
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_multitoken_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_multitoken_spelling_lt.txt
+
+   
+mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt  
     
-    # exclude some words for LT dictionary
-    sed -i -E '/ (aguar|ciar|emblar|binar) /d' /tmp/${targetdict}.txt
 
-    # replace whitespaces with tabs
-    perl sptotabs.pl </tmp/${targetdict}.txt >${targetdict}_tabs.txt
-    export LC_ALL=C && sort -u ${targetdict}_tabs.txt -o ${targetdict}_tabs.txt
+cp ${targetdict}_spelling.dict $target_dir
+cp ${targetdict}_spelling.info $target_dir
+cp ${targetdict}_tags.txt $target_dir
+cp ${targetdict}.dict $target_dir
+cp ${targetdict}.info $target_dir
+cp ${targetdict}_synth.dict $target_dir
+cp ${targetdict}_synth.info $target_dir
 
-    # create tagger dictionary with morfologik tools
-    java -cp $jarfile org.languagetool.tools.POSDictionaryBuilder -i ${targetdict}_tabs.txt -info ${targetdict}.info -freq ca_wordlist.xml -o ${targetdict}.dict
 
-    # dump the tagger dictionary
-    java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}.dict -info ${targetdict}.info -o ${targetdict}_lt.txt
 
-    # create synthesis dictionary with morfologik tools
-    java -cp $jarfile org.languagetool.tools.SynthDictionaryBuilder -i ${targetdict}_tabs.txt -info ${targetdict}_synth.info -o ${targetdict}_synth.dict
 
-    #cp /tmp/SynthDictionaryBuilder*_tags.txt ./${targetdict}_tags.txt
-    #rm /tmp/SynthDictionaryBuilder*_tags.txt
-
-    # dump synthesis dictionary
-    java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_synth.dict -o ${targetdict}_synth_lt.txt -info ${targetdict}_synth.info
-    
-    # spelling dicts (alternative)
-    cp tagger-spelling.masterinfo ${targetdict}_spelling.info
-    perl -i -p -e 's/^(.+)\t.+\t.+$/$1/' ${targetdict}_tabs.txt
-    cat ../extra-spelling/extra-spelling.txt ${targetdict}_tabs.txt > ${targetdict}_spelling.txt
-    export LC_ALL=C && sort -u ${targetdict}_spelling.txt -o ${targetdict}_spelling.txt
-    java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_spelling.dict
-    java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_spelling_lt.txt
-    
-    mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt
-
-    cp ${targetdict}_spelling.dict $target_dir
-    cp ${targetdict}_spelling.info $target_dir/${targetdict}_spelling.info
-    cp ${targetdict}_tags.txt $target_dir
-    cp ${targetdict}.dict $target_dir
-    cp ${targetdict}.info $target_dir
-    cp ${targetdict}_synth.dict $target_dir
-    cp ${targetdict}_synth.info $target_dir
-    
-    rm ${targetdict}_tabs.txt
-done
 rm *.info
 
 exit
