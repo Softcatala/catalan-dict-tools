@@ -18,6 +18,7 @@
 #Ampliat Ampliat NPMSSP0 # avl: noms de persona
 #Ana Ana NPFSSP0
 #Andora Andora NPCN000 # wikidata
+#Andora Andora NPCSG00 # esadir topònims
 #Anglès Anglès NPCSG00
 #Angústies Angústies NPFSSP0 # avl: noms de persona
 #Antic Antic NPCNSP0
@@ -4581,7 +4582,6 @@ Andonville Andonville NPCN000 # wikidata
 Andoqui Andoqui NPMSSP0
 Andoquis Andoqui NPMPSP0
 Andor Andor NPCN000 # wikidata
-Andora Andora NPCSG00 # esadir topònims
 Andornay Andornay NPCN000 # wikidata
 Andorra Andorra NPCNSP0
 Andorra Andorra NPFSG00
@@ -27012,6 +27012,7 @@ Dianeura Dianeura NPCN000 # wikidata
 Diangounté Diangounté NPCN000 # wikidata
 Diania Diania NPCN000 # wikidata
 Diant Diant NPCN000 # wikidata
+Diaoyu Diaoyu NPFPG00
 Diaphania Diaphania NPCN000 # wikidata
 Diaphantania Diaphantania NPCN000 # wikidata
 Diaphora Diaphora NPCN000 # wikidata
@@ -82051,6 +82052,7 @@ Senio Senio NPCN000 # wikidata
 Seniola Seniola NPFSG00
 Senise Senise NPCN000 # wikidata
 Senja Senja NPCN000 # wikidata
+Senkaku Senkaku NPFPG00
 Senkivka Senkivka NPCSG00 # esadir topònims
 Senlecques Senlecques NPCN000 # wikidata
 Senlis Senlis NPCSG00
