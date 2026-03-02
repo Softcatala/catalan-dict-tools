@@ -8827,6 +8827,7 @@ automatrícula=categories: F;fonts: derivat;
 automatògraf=categories: M;fonts: dsalut;
 automedicació=categories: F;fonts: LT;
 automenyspreu=categories: M;fonts: derivat;
+automenysteniment=categories: M;fonts: derivat;
 autometralladora=categories: F;fonts: LT;
 automillora=categories: F;fonts: derivat;
 automillorament=categories: M;fonts: derivat;

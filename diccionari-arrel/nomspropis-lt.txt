@@ -1,7 +1,7 @@
-
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Adrogué Adrogué NPCN000 # wikidata
 #Aeropuerto Aeropuerto NPCN000 # wikidata
+#Al-Ḥasā Al-Ḥasā NP
 #Al-Ḥudayda Al-Ḥudayda NPCSG00  Hodeida
 #Alarma Alarma NPCNSP0
 #Ald Ald NPMSSP0 # avl: noms de persona
