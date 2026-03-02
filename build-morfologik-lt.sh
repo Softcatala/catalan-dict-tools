@@ -54,11 +54,11 @@ java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spe
 
 
 # MULTITOKEN SPELLING
-cp spelling.masterinfo ${targetdict}_spelling.info
-cat /home/jaume/github/catalan-dict-tools/extra-multitokens/noms-propis-n-tokens-wikidata.txt > ${targetdict}_multitoken_spelling.txt
-export LC_ALL=C && sort -u ${targetdict}_multitoken_spelling.txt -o ${targetdict}_multitoken_spelling.txt
-java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_multitoken_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_multitoken_spelling.dict
-java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_multitoken_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_multitoken_spelling_lt.txt
+#cp spelling.masterinfo ${targetdict}_spelling.info
+#cat /home/jaume/github/catalan-dict-tools/extra-multitokens/noms-propis-n-tokens-wikidata.txt > ${targetdict}_multitoken_spelling.txt
+#export LC_ALL=C && sort -u ${targetdict}_multitoken_spelling.txt -o ${targetdict}_multitoken_spelling.txt
+#java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_multitoken_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_multitoken_spelling.dict
+#java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_multitoken_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_multitoken_spelling_lt.txt
 
    
 mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt  
