@@ -128,6 +128,7 @@
 #Gesmí Gesmí NPFSSP0 # avl: noms de persona
 #Gessamí Gessamí NPFSSP0 # avl: noms de persona
 #Giner Giner NPMSSP0 # avl: noms de persona
+#Grand Grand NPCN000 # wikidata
 #Grande Grande NPCSG00
 #Grima Grima NPCNSP0
 #Génova Génova NPCSG00 # esadir topònims
@@ -37832,7 +37833,6 @@ Grancey-le-Château-Neuvelle Grancey-le-Château-Neuvelle NPCN000 # wikidata
 Grancey-sur-Ource Grancey-sur-Ource NPCN000 # wikidata
 Granchain Granchain NPCN000 # wikidata
 Grancy Grancy NPCN000 # wikidata
-Grand Grand NPCN000 # wikidata
 Grand'Landes Grand'Landes NPCN000 # wikidata
 Grand-Auverné Grand-Auverné NPCN000 # wikidata
 Grand-Bassam Grand-Bassam NPCN000 # wikidata
