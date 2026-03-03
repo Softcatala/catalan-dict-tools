@@ -93751,7 +93751,7 @@ Vicenta Vicent NPFSSP0
 Vicentet Vicentet NPMSSP0
 Vicenteta Vicentet NPFSSP0
 Vicentico Vicentico NPCN000 # wikidata
-Vicents Vicent NPMPSP0Aqua
+Vicents Vicent NPMPSP0
 Vicenza Vicenza NPCSG00
 Vicenç Vicenç NPCNSP0
 Vicenç Vicenç NPMPSP0
