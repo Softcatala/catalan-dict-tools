@@ -5,6 +5,7 @@
 #Al-Ḥasā Al-Ḥasā NP
 #Al-Ḥudayda Al-Ḥudayda NPCSG00  Hodeida
 #Alarma Alarma NPCNSP0
+#Alcoy Alcoy NPCN000 # wikidata
 #Ald Ald NPMSSP0 # avl: noms de persona
 #Alegria Alegria NPCNSP0
 #Alegries Alegries NPFSSP0 # avl: noms de persona
@@ -21,6 +22,7 @@
 #Andalucía Andalucía NPCN000 # wikidata
 #Andora Andora NPCN000 # wikidata
 #Andora Andora NPCSG00 # esadir topònims
+#Andres Andres NPCN000 # wikidata
 #Anglès Anglès NPCSG00
 #Angústies Angústies NPFSSP0 # avl: noms de persona
 #Antic Antic NPCNSP0
@@ -66,6 +68,7 @@
 #Consagració Consagració NPFSSP0 # avl: noms de persona
 #Consol Consol NPCSSP0 # avl: noms de persona
 #Constant Constant NPMSSP0 # avl: noms de persona
+#Constitución Constitución NPCN000 # wikidata
 #Coral Coral NPFSSP0 # avl: noms de persona
 #Corrad Corrad NPMSSP0 # avl: noms de persona
 #Darius Darius NPMSSP0 # avl: noms de persona
@@ -79,11 +82,13 @@
 #Duard Duard NPMSSP0 # avl: noms de persona
 #Duna Duna NPFSSP0 # avl: noms de persona
 #Durà Durà NPMSSP0 # avl: noms de persona
+#Ebro Ebro NPCN000 # wikidata
 #Elisén (o Elisèn) Elisén (o Elisèn) NPMSSP0 # avl: noms de persona
 #Emaús Emaús NPMSSP0 # avl: noms de persona
 #Emperador Emperador NPCNSP0
 #Emperador Emperador NPCSG00
 #Ena Ena NPFSSP0 # avl: noms de persona
+#Encarnación Encarnación NPCN000 # wikidata
 #Enec Enec NPMSSP0 # avl: noms de persona
 #Erb #Erb NPCNSP0 # medical
 #Ermessén (o Ermessèn) Ermessén (o Ermessèn) NPFSSP0 # avl: noms de persona
@@ -94,6 +99,7 @@
 #Eugene Eugene NPCN000 # wikidata
 #Eugene Eugene NPCSG00
 #Eugenes Eugenes NPCN000 # wikidata
+#Expropiación Expropiación NPCN000 # wikidata
 #Fab #Fab NPCNSP0 # medical
 #Fad Fad NPMSSP0 # avl: noms de persona
 #Fada Fada NPFSSP0 # avl: noms de persona
@@ -117,6 +123,7 @@
 #Friederich Friederich NPCNSP0 # medical
 #Gad Gad NPCN000 # wikidata
 #Gad Gad NPMSSP0 # avl: noms de persona
+#Geronación Geronación NPCN000 # wikidata
 #Gesmil Gesmil NPFSSP0 # avl: noms de persona
 #Gesmí Gesmí NPFSSP0 # avl: noms de persona
 #Gessamí Gessamí NPFSSP0 # avl: noms de persona
@@ -136,7 +143,12 @@
 #Ignaci Ignaci NPCN000 # wikidata
 #Igor Igor NPMSSP0 # avl: noms de persona
 #Imperi Imperi NPFSSP0 # avl: noms de persona
+#Informaciones Informaciones NPCN000 # wikidata
+#Información Información NPCN000 # wikidata
+#Instinción Instinción NPCN000 # wikidata
 #Insula Insula NPFSG00
+#Introduction Introduction NPCN000 # wikidata
+#Introspective Introspective NPCN000 # wikidata
 #Io Io NPFSSP0 # avl: noms de persona
 #Iola Iola NPFSSP0 # avl: noms de persona
 #Ione Ione NPCN000 # wikidata
@@ -156,6 +168,7 @@
 #Larrousse Larrousse NPCN000 # wikidata confusió amb Larousse
 #Laure Laure NPMSSP0 # avl: noms de persona
 #Leh Leh NPCN000 # wikidata
+#Leona Leona NPCN000 # wikidata
 #Llibre Llibre NPCNSP0
 #Lucia Lucia NPFSG00
 #Major Major NPMSSP0 # avl: noms de persona
@@ -203,6 +216,7 @@
 #Oportú Oportú NPMSSP0 # avl: noms de persona
 #Oria Oria NPCNSP0
 #Oria Oria NPCSG00
+#Oropesa Oropesa NPCN000 # wikidata
 #Orquídea Orquídea NPFSSP0 # avl: noms de persona
 #Orquídia Orquídia NPFSSP0 # avl: noms de persona
 #Orígenes Orígenes NPMSSP0 # avl: noms de persona
@@ -259,6 +273,7 @@
 #Siles Siles NPCN000 # wikidata
 #Siles Siles NPMSSP0 # avl: noms de persona
 #Simferopol Simferopol NPCSG00
+#Simón Simón NPCN000 # wikidata
 #Sir Sir NPMSSP0 # avl: noms de persona
 #Sufragi Sufragi NPFSSP0 # avl: noms de persona
 #Sèrvia Sèrvia NPFSSP0 # avl: noms de persona, confusió amb Sèrbia
@@ -269,6 +284,7 @@
 #Tolomeu Tolomeu NPMSSP0 # avl: noms de persona
 #Torrebaró Torrebaró NPCSG00
 #Torreón Torreón NPCSG00
+#Traición Traición NPCN000 # wikidata
 #Trànsit Trànsit NPFSSP0 # avl: noms de persona
 #Universidad Universidad NPCN000 # wikidata
 #Unna #Unna NPCNSP0 # medical
@@ -283,6 +299,7 @@
 #Virtuts Virtuts NPFSSP0 # avl: noms de persona
 #Vita Vita NPFSSP0 # avl: noms de persona
 #Vital Vital NPMSSP0 # avl: noms de persona
+#Vivant Vivant NPCN000 # wikidata
 #Vladimir Vladimir NPMSSP0 # avl: noms de persona
 #Vladimira Vladimira NPFSSP0 # avl: noms de persona
 #Xarles Xarles NPCNSP0 # desconegut
@@ -2914,7 +2931,6 @@ Alcott Alcott NPCN000 # wikidata
 Alcover Alcover NPCNSP0
 Alcover Alcover NPCSG00
 Alcoveró Alcoveró NPCNSP0
-Alcoy Alcoy NPCN000 # wikidata
 Alcubierre Alcubierre NPCSG00
 Alcubilla Alcubilla NPCN000 # wikidata
 Alcubillas Alcubillas NPCN000 # wikidata
@@ -4612,7 +4628,6 @@ Andrei Andrei NPMSSP0
 Andreianova Andreianova NPCN000 # wikidata
 Andreis Andreis NPCN000 # wikidata
 Andrejová Andrejová NPCN000 # wikidata
-Andres Andres NPCN000 # wikidata
 Andresito Andresito NPCN000 # wikidata
 Andrest Andrest NPCN000 # wikidata
 Andretta Andretta NPCN000 # wikidata
@@ -23299,7 +23314,6 @@ Constanços Constanç NPMPSP0
 Constanţa Constanţa NPCSG00
 Constanța Constanța NPCSG00
 Consthum Consthum NPCN000 # wikidata
-Constitución Constitución NPCN000 # wikidata
 Construmat Construmat NPCNO00
 Constància Constància NPFSSP0 # avl: noms de persona
 Consuegra Consuegra NPCN000 # wikidata
@@ -28960,7 +28974,6 @@ Ebolowa Ebolowa NPCN000 # wikidata
 Eborilaira Eborilaira NPCN000 # wikidata
 Ebosia Ebosia NPCN000 # wikidata
 Ebre Ebre NPCSG00
-Ebro Ebro NPCN000 # wikidata
 Ebru Ebru NPCN000 # wikidata
 Ebstein Ebstein NPCNSP0 # medical
 Ebuleodes Ebuleodes NPCN000 # wikidata
@@ -29826,7 +29839,6 @@ Encanyissada Encanyissada NPCSG00
 Encarna Encarna NPFSSP0 # avl: noms de persona
 Encarnacions Encarnació NPMPSP0
 Encarnació Encarnació NPMSSP0
-Encarnación Encarnación NPCN000 # wikidata
 Encarsia Encarsia NPCN000 # wikidata
 Encebres Encebres NPFPG00
 Encesa Encesa NPCNSP0
@@ -31554,7 +31566,6 @@ Explorer Explorer NPCN000 # wikidata
 Expojove Expojove NPMSO00
 Express Express NPCN000 # wikidata
 Express.js Express.js NPCN000 # wikidata
-Expropiación Expropiación NPCN000 # wikidata
 Expérience Expérience NPCN000 # wikidata
 Expósito Expósito NPCNSP0
 Externsteine Externsteine NPCN000 # wikidata
@@ -36346,7 +36357,6 @@ Gernika Gernika NPCSG00 # esadir topònims
 Gernika-Lumo Gernika-Lumo NPCSG00
 Gernsback Gernsback NPCN000 # wikidata
 Gerona Gerona NPCN000 # wikidata
-Geronación Geronación NPCN000 # wikidata
 Geronci Geronci NPMSSP0
 Geroncis Geronci NPMPSP0
 Geroni Geroni NPMSSP0 # avl: noms de persona
@@ -43439,8 +43449,6 @@ InfoJobs InfoJobs NPCN000 # wikidata
 InfoK InfoK NPMNO00
 InfoWorld InfoWorld NPCN000 # wikidata
 Infocom Infocom NPCN000 # wikidata
-Informaciones Informaciones NPCN000 # wikidata
-Información Información NPCN000 # wikidata
 Infostrada Infostrada NPCN000 # wikidata
 Infrasoinuak Infrasoinuak NPCN000 # wikidata
 Inga Inga NPCN000 # wikidata
@@ -43545,7 +43553,6 @@ Instagram Instagram NPMSO00
 Instalaza Instalaza NPCN000 # wikidata
 Instax Instax NPCN000 # wikidata
 Insted Insted NPCN000 # wikidata
-Instinción Instinción NPCN000 # wikidata
 Instinto Instinto NPCN000 # wikidata
 Instruction Instruction NPCN000 # wikidata
 Insviller Insviller NPCN000 # wikidata
@@ -43585,8 +43592,6 @@ Intragna Intragna NPCN000 # wikidata
 Intramuros Intramuros NPCN000 # wikidata
 Intraville Intraville NPCN000 # wikidata
 Introd Introd NPCN000 # wikidata
-Introduction Introduction NPCN000 # wikidata
-Introspective Introspective NPCN000 # wikidata
 Intruder Intruder NPCN000 # wikidata
 Intruders Intruders NPCN000 # wikidata
 Intréville Intréville NPCN000 # wikidata
@@ -49778,7 +49783,6 @@ Leocàdies Leocàdia NPFPSP0
 Leodovald Leodovald NPMSSP0 # avl: noms de persona
 Leola Leola NPCN000 # wikidata
 Leominster Leominster NPCN000 # wikidata
-Leona Leona NPCN000 # wikidata
 Leonard Leonard NPCN000 # wikidata
 Leonardo Leonardo NPMSSP0
 Leonardville Leonardville NPCN000 # wikidata
@@ -65218,7 +65222,6 @@ Orontius Orontius NPCN000 # wikidata
 Orontobates Orontobates NPCN000 # wikidata
 Orontze Orontze NPCSG00 # esadir topònims
 Oropa Oropa NPCSG00 # esadir topònims
-Oropesa Oropesa NPCN000 # wikidata
 Oropetium Oropetium NPCN000 # wikidata
 Orosi Orosi NPMSSP0
 Orosis Orosi NPMPSP0
@@ -81131,6 +81134,7 @@ Scardinius Scardinius NPCN000 # wikidata
 Scarface Scarface NPCN000 # wikidata
 Scarlatti Scarlatti NPCNSP0
 Scarlets Scarlets NPCN000 # wikidata
+Scarlett Scarlett NPCNSP0
 Scarlino Scarlino NPCN000 # wikidata
 Scarmagno Scarmagno NPCN000 # wikidata
 Scarpellini Scarpellini NPCN000 # wikidata
@@ -83289,7 +83293,6 @@ Simurrum Simurrum NPCN000 # wikidata
 Simyo Simyo NPCNO00
 Simó Simó NPCNSP0
 Simó Simó NPMSSP0
-Simón Simón NPCN000 # wikidata
 Sin Sin NPCSG00
 Sin-le-Noble Sin-le-Noble NPCN000 # wikidata
 Sinabung Sinabung NPCSG00 # esadir topònims
@@ -89812,7 +89815,6 @@ Traginer Traginer NPCNSP0
 Tragny Tragny NPCN000 # wikidata
 Tragoportax Tragoportax NPCN000 # wikidata
 Tragurà Tragurà NPCNSP0
-Traición Traición NPCN000 # wikidata
 Traiguera Traiguera NPCSG00
 Trail Trail NPCN000 # wikidata
 Trails Trails NPCN000 # wikidata
@@ -91403,7 +91405,7 @@ Ugny-le-Gay Ugny-le-Gay NPCN000 # wikidata
 Ugny-sur-Meuse Ugny-sur-Meuse NPCN000 # wikidata
 Uguell Uguell NPCNSP0
 Uguella Uguella NPCNSP0
-Uharte Uharte NPCSG00 # esadir topònims
+Uharte Uharte NPCNG00 # esadir topònims
 Uhartehiri Uhartehiri NPCSG00 # esadir topònims
 Uhliská Uhliská NPCN000 # wikidata
 Uhlwiller Uhlwiller NPCN000 # wikidata
@@ -93820,7 +93822,7 @@ Videla Videla NPCNSP0
 Videle Videle NPCN000 # wikidata
 Videlles Videlles NPCN000 # wikidata
 Videmala Videmala NPCN000 # wikidata
-VideoLAN VideoLAN NPMSO00
+VideoLAN VideoLAN NPCSO00
 VideoScribe VideoScribe NPCN000 # wikidata
 Videocracy Videocracy NPCN000 # wikidata
 Vidiella Vidiella NPCNSP0
@@ -95278,7 +95280,6 @@ Viuz-la-Chiésaz Viuz-la-Chiésaz NPCN000 # wikidata
 Vivaise Vivaise NPCN000 # wikidata
 Vivaldi Vivaldi NPCNSP0
 Vivans Vivans NPCN000 # wikidata
-Vivant Vivant NPCN000 # wikidata
 Vivario Vivario NPCN000 # wikidata
 Vivaro Vivaro NPCN000 # wikidata
 Vivartia Vivartia NPCN000 # wikidata

@@ -40012,6 +40012,7 @@ georadar=categories: M;fonts: termcat;
 georama=categories: M;fonts: LT;
 georeferenciació=categories: F;fonts: LT;
 georgià georgiana=categories: MF;fonts LT;
+georisc=categories: M;fonts: derivat;
 geosfera=categories: F;fonts: LT;
 geosinclinal=categories: M;fonts: LT;
 geosinònim=categories: M;fonts: LT;
