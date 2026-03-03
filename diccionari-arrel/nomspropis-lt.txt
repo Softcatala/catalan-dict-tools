@@ -1,3 +1,4 @@
+
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Adrogué Adrogué NPCN000 # wikidata
 #Aeropuerto Aeropuerto NPCN000 # wikidata
@@ -17,6 +18,7 @@
 #Ampliada Ampliada NPFSSP0 # avl: noms de persona
 #Ampliat Ampliat NPMSSP0 # avl: noms de persona
 #Ana Ana NPFSSP0
+#Andalucía Andalucía NPCN000 # wikidata
 #Andora Andora NPCN000 # wikidata
 #Andora Andora NPCSG00 # esadir topònims
 #Anglès Anglès NPCSG00
@@ -24,8 +26,11 @@
 #Antic Antic NPCNSP0
 #Antic Antic NPCSG00
 #Antony Antony NPCSG00
+#Aqua Aqua NPCN000 # wikidata
 #Ariana Ariana NPFSSP0 # avl: noms de persona
 #Arquímedes Arquímedes NPMSSP0 # avl: noms de persona
+#Arte Arte NPCN000 # wikidata
+#Atlas Atlas NPCN000 # wikidata
 #Audaç Audaç NPMSSP0 # avl: noms de persona
 #Batiste Batiste NPMSSP0 # avl: noms de persona
 #Benvenguda Benvenguda NPFSSP0 # avl: noms de persona
@@ -68,6 +73,7 @@
 #Daviu Daviu NPMSSP0 # avl: noms de persona
 #Dela Dela NPCNSP0
 #Desemparats Desemparats NPFSSP0 # avl: noms de persona
+#Dios Dios NPCN000 # wikidata
 #Doménec (o Domènec) Doménec (o Domènec) NPMSSP0 # avl: noms de persona
 #Dris Dris NPMSSP0 # avl: noms de persona
 #Duard Duard NPMSSP0 # avl: noms de persona
@@ -117,6 +123,7 @@
 #Giner Giner NPMSSP0 # avl: noms de persona
 #Grande Grande NPCSG00
 #Grima Grima NPCNSP0
+#Génova Génova NPCSG00 # esadir topònims
 #Gòria Gòria NPFSSP0 # avl: noms de persona
 #Harmonia Harmonia NPFSSP0 # avl: noms de persona
 #Hawkins Hawkins NPCN000 # wikidata
@@ -125,6 +132,7 @@
 #Her Her NPMSSP0 # avl: noms de persona
 #Hercules Hercules NPMSSP0 # esadir
 #Ia Ia NPFSSP0 # avl: noms de persona
+#Ibiza Ibiza NPCN000 # wikidata
 #Ignaci Ignaci NPCN000 # wikidata
 #Igor Igor NPMSSP0 # avl: noms de persona
 #Imperi Imperi NPFSSP0 # avl: noms de persona
@@ -223,6 +231,8 @@
 #Refugi Refugi NPFSSP0 # avl: noms de persona
 #Reial Reial NPCNSP0
 #Reis Reis NPFSSP0 # avl: noms de persona
+#Rey Rey NPCN000 # wikidata
+#Rio Rio NPCN000 # wikidata
 #Rosana Rosana NPFSSP0 # avl: noms de persona
 #Rosari Rosari NPFSSP0 # avl: noms de persona
 #Rubén (o Rubèn) Rubén (o Rubèn) NPMSSP0 # avl: noms de persona
@@ -254,11 +264,13 @@
 #Sèrvia Sèrvia NPFSSP0 # avl: noms de persona, confusió amb Sèrbia
 #Tanger Tanger NPCSG00
 #Tetê Tetê NPMSSP0 # esadir
+#Tierra Tierra NPCN000 # wikidata
 #Tizi-Ouzou Tizi-Ouzou NPCSG00
 #Tolomeu Tolomeu NPMSSP0 # avl: noms de persona
 #Torrebaró Torrebaró NPCSG00
 #Torreón Torreón NPCSG00
 #Trànsit Trànsit NPFSSP0 # avl: noms de persona
+#Universidad Universidad NPCN000 # wikidata
 #Unna #Unna NPCNSP0 # medical
 #Vald Vald NPMSSP0 # avl: noms de persona
 #Valda Valda NPCN000 # wikidata
@@ -266,6 +278,7 @@
 #Valer Valer NPMSSP0 # avl: noms de persona
 #Ver Ver NPMSSP0 # avl: noms de persona
 #Via Via NPCNSP0
+#Vicente Vicente NPCN000 # wikidata
 #Vida Vida NPFSSP0 # avl: noms de persona
 #Virtuts Virtuts NPFSSP0 # avl: noms de persona
 #Vita Vita NPFSSP0 # avl: noms de persona
@@ -273,6 +286,7 @@
 #Vladimir Vladimir NPMSSP0 # avl: noms de persona
 #Vladimira Vladimira NPFSSP0 # avl: noms de persona
 #Xarles Xarles NPCNSP0 # desconegut
+#Zaragoza Zaragoza NPCN000 # wikidata
 #Àngeles Àngela NPFPSP0
 #Àurea Àurea NPFSSP0 # avl: noms de persona
 #Ènova Ènova NPFSG00
@@ -632,7 +646,6 @@ AYB AYB NPCN000 # wikidata
 AYG AYG NPCN000 # wikidata
 AZM AZM NPCN000 # wikidata
 AZN AZN NPCN000 # wikidata
-Aa! Aa! NPCN000 # wikidata
 Aaata Aaata NPCN000 # wikidata
 Aabybro Aabybro NPCN000 # wikidata
 Aachen Aachen NPCN000 # wikidata
@@ -2275,7 +2288,6 @@ Akiaki Akiaki NPCN000 # wikidata
 Akialoa Akialoa NPCN000 # wikidata
 Akihabara Akihabara NPCN000 # wikidata
 Akihito Akihito NPCN000 # wikidata
-Akikan! Akikan! NPCN000 # wikidata
 Akiko Akiko NPCN000 # wikidata
 Akilia Akilia NPCN000 # wikidata
 Akinator Akinator NPCN000 # wikidata
@@ -2507,7 +2519,6 @@ Alaman Alaman NPCNSP0
 Alamance Alamance NPCN000 # wikidata
 Alamanda Alamanda NPFSSP0 # avl: noms de persona
 Alamar Alamar NPCNSP0
-Alambrista! Alambrista! NPCN000 # wikidata
 Alameda Alameda NPCSG00
 Alamedilla Alamedilla NPCN000 # wikidata
 Alamillo Alamillo NPCN000 # wikidata
@@ -3290,7 +3301,6 @@ Alitta Alitta NPCN000 # wikidata
 Alitus Alitus NPCSG00
 Aliu Aliu NPCNSP0
 Aliud Aliud NPCN000 # wikidata
-Alive! Alive! NPCN000 # wikidata
 Alix Alix NPCN000 # wikidata
 Alizay Alizay NPCN000 # wikidata
 Alizzz Alizzz NPMSSP0 # esadir
@@ -4511,7 +4521,6 @@ Andal Andal NPCNSP0
 Andalgalá Andalgalá NPCN000 # wikidata
 Andali Andali NPCN000 # wikidata
 Andalo Andalo NPCN000 # wikidata
-Andalucía Andalucía NPCN000 # wikidata
 Andalusia Andalusia NPFSG00
 Andalé Andalé NPCNSP0
 Andaman Andaman NPFPG00
@@ -5469,7 +5478,6 @@ Apúlia Apúlia NPFSG00
 Aqabah Aqabah NPCN000 # wikidata
 Aqmola Aqmola NPCSG00 # esadir topònims
 Aqraba Aqraba NPCN000 # wikidata
-Aqua Aqua NPCN000 # wikidata
 AquaDom AquaDom NPCN000 # wikidata
 Aquabrava Aquabrava NPFSG00
 Aqualandia Aqualandia NPCN000 # wikidata
@@ -6509,7 +6517,6 @@ Artau Artau NPMSSP0 # avl: noms de persona
 Artavardiya Artavardiya NPCN000 # wikidata
 Artaxes Artaxes NPCN000 # wikidata
 Artazu Artazu NPCN000 # wikidata
-Arte Arte NPCN000 # wikidata
 Arteaga Arteaga NPCN000 # wikidata
 Artediellus Artediellus NPCN000 # wikidata
 Artedius Artedius NPCN000 # wikidata
@@ -7148,7 +7155,6 @@ Atlantis Atlantis NPCN000 # wikidata
 Atlantoraja Atlantoraja NPCN000 # wikidata
 Atlantoxerus Atlantoxerus NPCN000 # wikidata
 Atlantropa Atlantropa NPCN000 # wikidata
-Atlas Atlas NPCN000 # wikidata
 Atlassian Atlassian NPCN000 # wikidata
 Atles Atles NPMNG00
 Atles Atles NPMSSP0
@@ -8432,7 +8438,6 @@ Bacalar Bacalar NPCN000 # wikidata
 Bacardí Bacardí NPCNSP0
 Bacares Bacares NPCN000 # wikidata
 Bacau Bacau NPCSG00 # esadir topònims
-Baccano! Baccano! NPCN000 # wikidata
 Baccara Baccara NPCN000 # wikidata
 Baccarat Baccarat NPCSG00
 Baccharis Baccharis NPCN000 # wikidata
@@ -9090,7 +9095,6 @@ Bamberg Bamberg NPCSG00
 Bambey Bambey NPCN000 # wikidata
 Bambiderstroff Bambiderstroff NPCN000 # wikidata
 Bambino Bambino NPCN000 # wikidata
-Bambino! Bambino! NPCN000 # wikidata
 Bamble Bamble NPCN000 # wikidata
 Bamboccianti Bamboccianti NPCN000 # wikidata
 Bambouk Bambouk NPCSG00
@@ -9830,7 +9834,6 @@ Baslieux-lès-Fismes Baslieux-lès-Fismes NPCN000 # wikidata
 Baslieux-sous-Châtillon Baslieux-sous-Châtillon NPCN000 # wikidata
 Basly Basly NPCN000 # wikidata
 Basma Basma NPCN000 # wikidata
-Basquash! Basquash! NPCN000 # wikidata
 Basquens Basquens NPCNSP0
 Basquer Basquer NPCNSP0
 Basquiat Basquiat NPCN000 # wikidata
@@ -27317,7 +27320,6 @@ Diophantus Diophantus NPCN000 # wikidata
 Dioptrornis Dioptrornis NPCN000 # wikidata
 Dior Dior NPCNSP0
 Diors Diors NPCN000 # wikidata
-Dios Dios NPCN000 # wikidata
 Diosaz Diosaz NPCN000 # wikidata
 Dioscuria Dioscuria NPCN000 # wikidata
 Dioscòrides Dioscòrides NPMSSP0
@@ -27376,7 +27378,6 @@ Dirla Dirla NPCNSP0
 Dirol Dirol NPCN000 # wikidata
 Dirshu Dirshu NPCN000 # wikidata
 Dirty Dirty NPCN000 # wikidata
-Disaster! Disaster! NPCN000 # wikidata
 Discharge Discharge NPCN000 # wikidata
 Discherodontus Discherodontus NPCN000 # wikidata
 Dischidodactylus Dischidodactylus NPCN000 # wikidata
@@ -32024,7 +32025,6 @@ Fallerans Fallerans NPCN000 # wikidata
 Falleron Falleron NPCN000 # wikidata
 Falletans Falletans NPCN000 # wikidata
 Falling Falling NPCN000 # wikidata
-Fallo! Fallo! NPCN000 # wikidata
 Fallon Fallon NPCN000 # wikidata
 Fallot Fallot NPCNSP0 # medical
 Fallout Fallout NPCN000 # wikidata
@@ -35377,7 +35377,6 @@ Galopa Galopa NPCNSP0
 Galotxer Galotxer NPCNSP0
 Galovany Galovany NPCN000 # wikidata
 Gals Gal NPMPSP0
-Gals! Gals! NPCN000 # wikidata
 Galt Galt NPCN000 # wikidata
 Galtellì Galtellì NPCN000 # wikidata
 Galter Galter NPMSSP0 # avl: noms de persona
@@ -39169,7 +39168,6 @@ Génave Génave NPCN000 # wikidata
 Génelard Génelard NPCN000 # wikidata
 Génicourt Génicourt NPCN000 # wikidata
 Génicourt-sur-Meuse Génicourt-sur-Meuse NPCN000 # wikidata
-Génova Génova NPCSG00 # esadir topònims
 Générac Générac NPCN000 # wikidata
 Géovreisset Géovreisset NPCN000 # wikidata
 Gérardmer Gérardmer NPCN000 # wikidata
@@ -40559,7 +40557,6 @@ Helopicus Helopicus NPCN000 # wikidata
 Helopsaltes Helopsaltes NPCN000 # wikidata
 Helosciadium Helosciadium NPCN000 # wikidata
 Heloïsa Heloïsa NPFSSP0 # avl: noms de persona
-Help! Help! NPCN000 # wikidata
 Helper Helper NPCN000 # wikidata
 Helpidi Helpidi NPMSSP0
 Helpidis Helpidi NPMPSP0
@@ -42575,7 +42572,6 @@ Hyogo Hyogo NPCSG00 # esadir topònims
 Hyopsodus Hyopsodus NPCN000 # wikidata
 Hyoseris Hyoseris NPCN000 # wikidata
 Hyparrhenia Hyparrhenia NPCN000 # wikidata
-Hype! Hype! NPCN000 # wikidata
 Hypecoum Hypecoum NPCN000 # wikidata
 Hypenia Hypenia NPCN000 # wikidata
 Hyper-Kamiokande Hyper-Kamiokande NPCN000 # wikidata
@@ -42657,7 +42653,6 @@ Hysham Hysham NPCN000 # wikidata
 Hyskeir Hyskeir NPCN000 # wikidata
 Hyssopus Hyssopus NPCN000 # wikidata
 Hyssuridae Hyssuridae NPCN000 # wikidata
-Hysteria! Hysteria! NPCN000 # wikidata
 Hystrichocampa Hystrichocampa NPCN000 # wikidata
 Hystrix Hystrix NPCN000 # wikidata
 Hytop Hytop NPCN000 # wikidata
@@ -42955,7 +42950,6 @@ Ibi Ibi NPCSG00
 Ibias Ibias NPCN000 # wikidata
 Ibieca Ibieca NPCN000 # wikidata
 Ibigny Ibigny NPCN000 # wikidata
-Ibiza Ibiza NPCN000 # wikidata
 Iborra Iborra NPCNSP0
 Ibrahim Ibrahim NPMSSP0
 Ibrahima Ibrahima NPMSSP0
@@ -43599,7 +43593,6 @@ Intréville Intréville NPCN000 # wikidata
 Intville-la-Guétard Intville-la-Guétard NPCN000 # wikidata
 Intxaurrondo Intxaurrondo NPCSG00
 Inu-Oh Inu-Oh NPCN000 # wikidata
-Inukami! Inukami! NPCN000 # wikidata
 Inuleae Inuleae NPCN000 # wikidata
 Inuri Inuri NPCN000 # wikidata
 Inuvik Inuvik NPCN000 # wikidata
@@ -45463,7 +45456,6 @@ KAJ KAJ NPCN000 # wikidata
 KASUMI KASUMI NPCN000 # wikidata
 KAT-TUN KAT-TUN NPCN000 # wikidata
 KAlgebra KAlgebra NPCN000 # wikidata
-KBO! KBO! NPCN000 # wikidata
 KBruch KBruch NPCN000 # wikidata
 KC-X KC-X NPCN000 # wikidata
 KCNE1 KCNE1 NPCN000 # wikidata
@@ -46298,7 +46290,6 @@ Kelmė Kelmė NPCN000 # wikidata
 Kelowna Kelowna NPCN000 # wikidata
 Kelseyville Kelseyville NPCN000 # wikidata
 Kelso Kelso NPCN000 # wikidata
-Keltoi! Keltoi! NPCN000 # wikidata
 Kelvinator Kelvinator NPCN000 # wikidata
 Kemah Kemah NPCN000 # wikidata
 Kemaliye Kemaliye NPCN000 # wikidata
@@ -50237,7 +50228,6 @@ Libby Libby NPCN000 # wikidata
 Libellula Libellula NPCN000 # wikidata
 Liber Liber NPMSSP0 # esadir
 Libera Libera NPCN000 # wikidata
-Libera! Libera! NPCN000 # wikidata
 Liberace Liberace NPCN000 # wikidata
 Liberat Liberat NPMSSP0
 Liberata Liberata NPFSSP0
@@ -51831,7 +51821,6 @@ Losilla Losilla NPFSG00
 Losne Losne NPCN000 # wikidata
 Losone Losone NPCN000 # wikidata
 Losser Losser NPCN000 # wikidata
-Lost! Lost! NPCN000 # wikidata
 LostAlone LostAlone NPCN000 # wikidata
 Lostallo Lostallo NPCN000 # wikidata
 Lostant Lostant NPCN000 # wikidata
@@ -57664,7 +57653,6 @@ Miramshah Miramshah NPCSG00 # esadir topònims
 Miramàs Miramàs NPCSG00 # esadir topònims
 Miranda Miranda NPCSG00
 Miranda Miranda NPFSG00
-Miranda! Miranda! NPCN000 # wikidata
 Mirandela Mirandela NPCN000 # wikidata
 Mirandilla Mirandilla NPCN000 # wikidata
 Mirandola Mirandola NPCSG00
@@ -59628,7 +59616,6 @@ Morganville Morganville NPCN000 # wikidata
 Morganza Morganza NPCN000 # wikidata
 Morgat Morgat NPCNSP0
 Morgemoulin Morgemoulin NPCN000 # wikidata
-Morgen! Morgen! NPCN000 # wikidata
 Morges Morges NPCN000 # wikidata
 Morgex Morgex NPCN000 # wikidata
 Morghab Morghab NPCSG00 # esadir topònims
@@ -62138,7 +62125,6 @@ Nettuno Nettuno NPCN000 # wikidata
 Netvibes Netvibes NPCN000 # wikidata
 Network Network NPCN000 # wikidata
 Netzarim Netzarim NPCSG00 # esadir topònims
-Neu! Neu! NPCN000 # wikidata
 Neu-Moresnet Neu-Moresnet NPCN000 # wikidata
 Neu-Seeland Neu-Seeland NPCN000 # wikidata
 Neuallermöhe Neuallermöhe NPCN000 # wikidata
@@ -64171,7 +64157,6 @@ Ofaqim Ofaqim NPCSG00 # esadir topònims
 Ofegat Ofegat NPCSG00
 Ofer Ofer NPCSG00 # esadir topònims
 Oferil Oferil NPCNSP0
-Off! Off! NPCN000 # wikidata
 Off-White Off-White NPCN000 # wikidata
 Offa Offa NPCSG00
 Offagna Offagna NPCN000 # wikidata
@@ -64475,7 +64460,6 @@ Olivella Olivella NPCNSP0
 Olivella Olivella NPCSG00
 Olivença Olivença NPCSG00 # esadir topònims
 Oliver Oliver NPCNSP0
-Oliver! Oliver! NPCN000 # wikidata
 Olivera Olivera NPCNSP0
 Oliveral Oliveral NPCSG00
 Oliveres Oliveres NPCNSP0
@@ -64776,7 +64760,6 @@ Oodectes Oodectes NPCN000 # wikidata
 Oodnadatta Oodnadatta NPCN000 # wikidata
 Oologah Oologah NPCN000 # wikidata
 Ooltewah Ooltewah NPCN000 # wikidata
-Oomph! Oomph! NPCN000 # wikidata
 Oonops Oonops NPCN000 # wikidata
 Oophaga Oophaga NPCN000 # wikidata
 Oost-Cappel Oost-Cappel NPCN000 # wikidata
@@ -69280,7 +69263,6 @@ Pite Pite NPCSG00
 Pitelová Pitelová NPCN000 # wikidata
 Pitesti Pitesti NPCSG00
 Piteşti Piteşti NPCSG00
-Pitfall! Pitfall! NPCN000 # wikidata
 Pitgam Pitgam NPCN000 # wikidata
 Pithecellobium Pithecellobium NPCN000 # wikidata
 Pithiviers Pithiviers NPCN000 # wikidata
@@ -71888,7 +71870,6 @@ Ptychodus Ptychodus NPCN000 # wikidata
 Ptychohyla Ptychohyla NPCN000 # wikidata
 Ptychopseustis Ptychopseustis NPCN000 # wikidata
 Ptyonoprogne Ptyonoprogne NPCN000 # wikidata
-Pu-put! Pu-put! NPCN000 # wikidata
 Puabi Puabi NPCN000 # wikidata
 Puberg Puberg NPCN000 # wikidata
 Pubill Pubill NPCNSP0
@@ -73965,7 +73946,6 @@ Reddi Reddi NPCN000 # wikidata
 Reddick Reddick NPCN000 # wikidata
 Redding Redding NPCN000 # wikidata
 Redditch Redditch NPCN000 # wikidata
-RedeTV! RedeTV! NPCN000 # wikidata
 Redempció Redempció NPFSSP0 # avl: noms de persona
 Redempt Redempt NPMSSP0 # avl: noms de persona
 Redempta Redempta NPFSSP0 # avl: noms de persona
@@ -74015,6 +73995,7 @@ Reest Reest NPCN000 # wikidata
 Reeuwijk Reeuwijk NPCN000 # wikidata
 Reeves Reeves NPCN000 # wikidata
 Reevesville Reevesville NPCN000 # wikidata
+RefSeq RefSeq NPCSO00
 RefTeX RefTeX NPCN000 # wikidata
 RefWorks RefWorks NPCN000 # wikidata
 Refalgarí Refalgarí NPCSG00
@@ -74493,7 +74474,6 @@ Rexea Rexea NPCN000 # wikidata
 Rexford Rexford NPCN000 # wikidata
 Rexingen Rexingen NPCN000 # wikidata
 Rexurdimento Rexurdimento NPCN000 # wikidata
-Rey Rey NPCN000 # wikidata
 Reydon Reydon NPCN000 # wikidata
 Reye Reye NPCNSP0 # medical
 Reyero Reyero NPCN000 # wikidata
@@ -75009,7 +74989,6 @@ Rinne Rinne NPCNSP0 # medical
 Rinorea Rinorea NPCN000 # wikidata
 Rinxent Rinxent NPCN000 # wikidata
 Rinzen Rinzen NPCN000 # wikidata
-Rio Rio NPCN000 # wikidata
 Riobamba Riobamba NPCN000 # wikidata
 Riocabado Riocabado NPCN000 # wikidata
 Riodeva Riodeva NPCSG00
@@ -75551,7 +75530,6 @@ Rohwer Rohwer NPCN000 # wikidata
 Roiate Roiate NPCN000 # wikidata
 Roiffé Roiffé NPCN000 # wikidata
 Roig Roig NPCNSP0
-Roig! Roig! NPCN000 # wikidata
 Roiglise Roiglise NPCN000 # wikidata
 Roilly Roilly NPCN000 # wikidata
 Roine Roine NPCSG00
@@ -80167,7 +80145,6 @@ Sandhja Sandhja NPCN000 # wikidata
 Sandhurst Sandhurst NPCSG00
 Sandi Sandi NPCN000 # wikidata
 Sandillon Sandillon NPCN000 # wikidata
-Sandinista! Sandinista! NPCN000 # wikidata
 Sandino Sandino NPCN000 # wikidata
 Sandisfield Sandisfield NPCN000 # wikidata
 Sandnes Sandnes NPCN000 # wikidata
@@ -82736,7 +82713,6 @@ Shaybah Shaybah NPCSG00 # esadir topònims
 Shayn Shayn NPCN000 # wikidata
 Shayrat Shayrat NPCSG00 # esadir topònims
 Shazam Shazam NPCN000 # wikidata
-Shazam! Shazam! NPCN000 # wikidata
 Sheberghan Sheberghan NPCSG00 # esadir topònims
 Sheboygan Sheboygan NPCN000 # wikidata
 Shedeh Shedeh NPCN000 # wikidata
@@ -82918,7 +82894,6 @@ Showgirls Showgirls NPCN000 # wikidata
 Showscan Showscan NPCN000 # wikidata
 Showtime Showtime NPCN000 # wikidata
 Shrek Shrek NPCN000 # wikidata
-Shrek! Shrek! NPCN000 # wikidata
 Shreve Shreve NPCN000 # wikidata
 Shreveport Shreveport NPCSG00
 Shrewsbury Shrewsbury NPCSG00
@@ -82933,7 +82908,7 @@ Shubert Shubert NPCN000 # wikidata
 Shubria Shubria NPCN000 # wikidata
 Shubuta Shubuta NPCN000 # wikidata
 Shueyville Shueyville NPCN000 # wikidata
-Shuffle! Shuffle! NPCN000 # wikidata
+Shuffle Shuffle NPCN000 # wikidata
 Shujaiya Shujaiya NPCSG00 # esadir topònims
 Shullsburg Shullsburg NPCN000 # wikidata
 Shum Shum NPCN000 # wikidata
@@ -84686,7 +84661,6 @@ SpaceWire SpaceWire NPCN000 # wikidata
 SpaceX SpaceX NPCNO00
 Spaceflight Spaceflight NPCN000 # wikidata
 Spaceguard Spaceguard NPCN000 # wikidata
-Spacewar! Spacewar! NPCN000 # wikidata
 Spacewatch Spacewatch NPCN000 # wikidata
 Spackenkill Spackenkill NPCN000 # wikidata
 Spadafora Spadafora NPCN000 # wikidata
@@ -85055,7 +85029,6 @@ Staplehurst Staplehurst NPCN000 # wikidata
 Staples Staples NPCN000 # wikidata
 Stapleton Stapleton NPCN000 # wikidata
 Star Star NPCN000 # wikidata
-Star! Star! NPCN000 # wikidata
 StarCraft StarCraft NPMNO00
 StarOffice StarOffice NPCN000 # wikidata
 Staranzano Staranzano NPCN000 # wikidata
@@ -86496,7 +86469,6 @@ TDP TDP NPCN000 # wikidata
 TEDH TEDH NPMSO00
 TEF TEF NPCN000 # wikidata
 TEP TEP NPCN000 # wikidata
-TF! TF! NPCN000 # wikidata
 TF1 TF1 NPCN000 # wikidata
 TFF TFF NPCN000 # wikidata
 TFI TFI NPCN000 # wikidata
@@ -87060,7 +87032,6 @@ Tannières Tannières NPCN000 # wikidata
 Tannois Tannois NPCN000 # wikidata
 Tannu-Ola Tannu-Ola NPCSG00
 Tano Tano NPMSSP0 # avl: noms de persona
-Tano! Tano! NPCN000 # wikidata
 Tanoli Tanoli NPCN000 # wikidata
 Tantarantana Tantarantana NPMSO00
 Tantinyà Tantinyà NPCNSP0
@@ -87174,7 +87145,6 @@ Tarifa Tarifa NPCSG00
 Tarigidia Tarigidia NPCN000 # wikidata
 Tarija Tarija NPCSG00
 Tarim Tarim NPCSG00
-Taringa! Taringa! NPCN000 # wikidata
 Tariácuri Tariácuri NPCN000 # wikidata
 Tarkio Tarkio NPCN000 # wikidata
 Tarkovski Tarkovski NPCNSP0
@@ -88581,7 +88551,6 @@ Tierceville Tierceville NPCN000 # wikidata
 Tiercé Tiercé NPCN000 # wikidata
 Tierga Tierga NPCN000 # wikidata
 Tiergarten Tiergarten NPCN000 # wikidata
-Tierra Tierra NPCN000 # wikidata
 Tierz Tierz NPCN000 # wikidata
 Tierzo Tierzo NPCN000 # wikidata
 Tieteberga Tieteberga NPCN000 # wikidata
@@ -89226,7 +89195,6 @@ Tor Tor NPCNSP0
 Tor Tor NPCSG00
 Tor-la-ribera Tor-la-ribera NPCSG00
 TorChat TorChat NPCN000 # wikidata
-Toradora! Toradora! NPCN000 # wikidata
 Toraixa Toraixa NPCSG00
 Toralla Toralla NPCSG00
 Toralles Toralles NPCNSP0
@@ -91649,7 +91617,6 @@ Unitkak Unitkak NPCN000 # wikidata
 Unity Unity NPCN000 # wikidata
 Universe Universe NPCN000 # wikidata
 Universia Universia NPCN000 # wikidata
-Universidad Universidad NPCN000 # wikidata
 University University NPCN000 # wikidata
 Unix Unix NPMSO00
 Unkei Unkei NPCN000 # wikidata
@@ -93781,11 +93748,10 @@ Viccionari Viccionari NPMSO00
 Vicco Vicco NPCN000 # wikidata
 Vicent Vicent NPMSSP0
 Vicenta Vicent NPFSSP0
-Vicente Vicente NPCN000 # wikidata
 Vicentet Vicentet NPMSSP0
 Vicenteta Vicentet NPFSSP0
 Vicentico Vicentico NPCN000 # wikidata
-Vicents Vicent NPMPSP0
+Vicents Vicent NPMPSP0Aqua
 Vicenza Vicenza NPCSG00
 Vicenç Vicenç NPCNSP0
 Vicenç Vicenç NPMPSP0
@@ -97578,7 +97544,6 @@ XeTeX XeTeX NPCN000 # wikidata
 Xebékino Xebékino NPCSG00 # esadir topònims
 Xeer Xeer NPCN000 # wikidata
 Xefelà Xefelà NPCSG00 # esadir topònims
-Xeic! Xeic! NPCN000 # wikidata
 Xeila Xeila NPFSSP0 # avl: noms de persona
 Xeixar Xeixar NPCNSP0
 Xeldo Xeldo NPCSG00
@@ -98093,7 +98058,6 @@ Ysmaïl Ysmaïl NPCSG00
 Ystradowen Ystradowen NPCN000 # wikidata
 Ytres Ytres NPCN000 # wikidata
 Ytunde Ytunde NPCN000 # wikidata
-Yu-Gi-Oh! Yu-Gi-Oh! NPCN000 # wikidata
 Yuan Yuan NPCN000 # wikidata
 Yuba Yuba NPCN000 # wikidata
 Yucaipa Yucaipa NPCN000 # wikidata
@@ -98191,7 +98155,6 @@ ZFS ZFS NPCN000 # wikidata
 ZMapp ZMapp NPCN000 # wikidata
 ZPP ZPP NPCN000 # wikidata
 ZPU ZPU NPCN000 # wikidata
-Za! Za! NPCN000 # wikidata
 Zaan Zaan NPCN000 # wikidata
 Zaandam Zaandam NPCN000 # wikidata
 Zaandijk Zaandijk NPCN000 # wikidata
@@ -98344,7 +98307,6 @@ Zaqueu Zaqueu NPMSSP0
 Zaqueus Zaqueu NPMPSP0
 Zara Zara NPCNO00
 Zarafa Zarafa NPCN000 # wikidata
-Zaragoza Zaragoza NPCN000 # wikidata
 Zarah Zarah NPCN000 # wikidata
 Zarama Zarama NPCN000 # wikidata
 Zaranj Zaranj NPCSG00 # esadir topònims
@@ -98934,6 +98896,7 @@ iCat iCat NPCNO00
 iMac iMac NPMSO00
 iMacs iMac NPMPO00
 iPad iPad NPMSO00
+iPadOS iPadOS NPMSO00
 iPads iPad NPMPO00
 iPhone iPhone NPMSO00
 iPhones iPhone NPMPO00
