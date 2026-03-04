@@ -25,6 +25,13 @@ sed -i -E '/ (aguar|ciar|emblar|binar) /d' /tmp/diccionari.txt
 
 targetdict='ca-ES'
 
+# MULTITOKEN SPELLING
+cp multitoken_spelling.masterinfo ${targetdict}_spelling_multitoken.info
+cat /home/jaume/github/catalan-dict-tools/extra-multitokens/noms-propis-n-tokens-wikidata-cleaned.txt > ${targetdict}_spelling_multitoken.txt
+export LC_ALL=C && sort -u ${targetdict}_spelling_multitoken.txt -o ${targetdict}_spelling_multitoken.txt
+java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling_multitoken.txt -info ${targetdict}_spelling_multitoken.info -o ${targetdict}_spelling_multitoken.dict
+java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling_multitoken.dict -info ${targetdict}_spelling_multitoken.info -o ${targetdict}_spelling_multitoken_lt.txt
+
 #TAGGER
 cp tagger.masterinfo ${targetdict}.info
 cat /tmp/diccionari.txt /tmp/diccionari-dnv-0.txt > /tmp/tagger.txt
@@ -52,14 +59,6 @@ java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}
 java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_spelling_lt.txt
 
 
-
-# MULTITOKEN SPELLING
-#cp spelling.masterinfo ${targetdict}_spelling.info
-#cat /home/jaume/github/catalan-dict-tools/extra-multitokens/noms-propis-n-tokens-wikidata.txt > ${targetdict}_multitoken_spelling.txt
-#export LC_ALL=C && sort -u ${targetdict}_multitoken_spelling.txt -o ${targetdict}_multitoken_spelling.txt
-#java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_multitoken_spelling.txt -freq ca_wordlist.xml -info ca-ES_spelling.info -o ${targetdict}_multitoken_spelling.dict
-#java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_multitoken_spelling.dict -info ${targetdict}_spelling.info -o ${targetdict}_multitoken_spelling_lt.txt
-
    
 mv ${targetdict}_synth.dict_tags.txt ${targetdict}_tags.txt  
     
@@ -72,6 +71,8 @@ cp ${targetdict}.info $target_dir
 cp ${targetdict}_synth.dict $target_dir
 cp ${targetdict}_synth.info $target_dir
 
+cp ${targetdict}_spelling_multitoken.dict $target_dir
+cp ${targetdict}_spelling_multitoken.info $target_dir
 
 
 

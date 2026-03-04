@@ -26093,6 +26093,7 @@ postsinodal=categories: A;fonts: derivat;
 postsinàptic postsinàptica=categories: A;fonts: LT;
 postsoviètic postsoviètica=categories: A;fonts: derivat;
 posttalaiòtic posttalaiòtica=categories: A;fonts: derivat;
+postteocràtic postteocràtica=categories: A;fonts: derivat;
 postterme=categories: AI;fonts: LT;
 posttest=categories: AI;fonts: LT;
 posttifoide=categories: A;fonts: dsalut;
