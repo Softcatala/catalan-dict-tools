@@ -21662,6 +21662,7 @@ cotramesa=categories: F;fonts: LT;
 cotransmissió=categories: F;fonts: dsalut;
 cotreball=categories: M;fonts: termcat;
 cotrimoxazole=categories: M;fonts: LT;
+cottolengo=categories: M;fonts: GEC;
 coturn=categories: M;fonts: LT;
 coturnicultura=categories: F;fonts: LT;
 cotutela=categories: F;fonts: termcat;
