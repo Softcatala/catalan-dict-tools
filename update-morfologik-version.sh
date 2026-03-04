@@ -1,4 +1,4 @@
-dictVers=3.2
+dictVers=3.3
 unzip ~/.m2/repository/org/softcatala/catalan-pos-dict/${dictVers}/catalan-pos-dict-${dictVers}.jar
 cp org/languagetool/resource/ca/* morfologik-lt/
 rm -rf org/
