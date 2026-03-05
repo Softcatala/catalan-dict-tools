@@ -28820,6 +28820,7 @@ ruà ruana=categories: A;fonts: LT;
 ruïniforme=categories: A;fonts: LT;
 ruïnós ruïnosa [sup. ruïnosíssim]=categories: A; font:apertium;
 ràbic ràbica=categories: A;fonts: LT;
+ràndom=categories: AI;fonts: esadir,col·loquial;
 rànger=categories: AM;fonts: LT;
 ràpid ràpida [sup. rapidíssim]=categories: A; font:apertium;
 rècord=categories: AI;fonts: LT;
