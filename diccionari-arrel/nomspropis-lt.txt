@@ -206,6 +206,7 @@
 #Morad Morad NPMSSP0 # esadir
 #Nadal Nadal NPCNSP0
 #Nadal Nadal NPMSSP0
+#Nakhitxevan Nakhitxevan NPCSG00
 #Nel Nel NPMSSP0 # avl: noms de persona
 #Neto Neto NPMSSP0 # esadir
 #Nose Nose NPCN000 # wikidata
@@ -61202,7 +61203,6 @@ Nakaibito Nakaibito NPCN000 # wikidata
 Nakamura Nakamura NPCN000 # wikidata
 Nakasendō Nakasendō NPCN000 # wikidata
 Nakba Nakba NPFSO00
-Nakhitxevan Nakhitxevan NPCSG00
 Nakhodka Nakhodka NPCSG00
 Naknek Naknek NPCN000 # wikidata
 Naksa Naksa NPFSO00
@@ -61653,6 +61653,7 @@ Nawele Nawele NPCN000 # wikidata
 Nawidemak Nawidemak NPCN000 # wikidata
 Naxos Naxos NPCSG00
 Naxxar Naxxar NPCN000 # wikidata
+Naxçivan Naxçivan NPCSG00
 Naxçivan Naxçivan NPCSG00 # esadir topònims
 Nay Nay NPCN000 # wikidata
 Nayak Nayak NPCN000 # wikidata
