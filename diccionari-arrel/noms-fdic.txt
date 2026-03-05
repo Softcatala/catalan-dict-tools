@@ -82158,6 +82158,7 @@ thatcherisme=categories: MS;fonts: derivat;
 theilèria=categories: F;fonts: dsalut;
 thenardita=categories: F;fonts: LT;
 theremin [pl. theremins]=categories: M;fonts: termcat;
+therian=categories: MF;fonts: esadir;
 thesaurus=categories: MI;fonts: LT;
 theta=categories: F;fonts: LT;
 thetacisme=categories: M;fonts: LT;

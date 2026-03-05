@@ -49478,6 +49478,7 @@ Leasburg Leasburg NPCN000 # wikidata
 Leatherman Leatherman NPCN000 # wikidata
 Leatxe Leatxe NPCSG00 # esadir topònims
 Leavenworth Leavenworth NPCN000 # wikidata
+Leavitt Leavitt NPCNSP0
 Leavittsburg Leavittsburg NPCN000 # wikidata
 Leawood Leawood NPCN000 # wikidata
 Lebach Lebach NPCN000 # wikidata

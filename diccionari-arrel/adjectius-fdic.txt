@@ -31877,6 +31877,7 @@ thai=categories: A;fonts: LT;
 thanetià thanetiana=categories: A;fonts: LT;
 thatcherista=categories: A;fonts: derivat;
 thatcherià thatcheriana=categories: A;fonts: derivat;
+therian=categories: A;fonts: esadir;
 tianenc tianenca=categories: A;fonts: LT;
 tiaprofènic=categories: AM;fonts: dsalut;
 tiazídic tiazídica=categories: A;fonts: termcat;
