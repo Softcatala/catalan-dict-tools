@@ -7470,6 +7470,7 @@ comunicatiu comunicativa=categories: A;fonts: LT;
 comunista=categories: A;fonts: LT;
 comunitari comunitària=categories: A;fonts: LT;
 comunitarista=categories: A;fonts: derivat;
+comunot comunota=categories: A;fonts: pejoratiu;
 comà comana=categories: A;fonts: LT;
 comòrbid comòrbida=categories: A;fonts:derivat,termcat;
 comós comosa=categories: A;fonts: LT;

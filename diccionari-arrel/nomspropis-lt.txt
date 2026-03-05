@@ -194,8 +194,6 @@
 #Mendelsson #Mendelsson NPCNSP0 # medical
 #Messages Messages NPMSO00
 #Mides Mides NPMSSP0 # avl: noms de persona
-#Miguel Miguel NPCN000 # wikidata
-#Miguel Miguel NPMSSP0
 #Milan Milan NPCN000 # wikidata
 #Minnesot Minnesot NPCNSP0 # medical
 #Mira Mira NPCSG00
@@ -299,7 +297,6 @@
 #Valer Valer NPMSSP0 # avl: noms de persona
 #Ver Ver NPMSSP0 # avl: noms de persona
 #Via Via NPCNSP0
-#Vicente Vicente NPCN000 # wikidata
 #Vida Vida NPFSSP0 # avl: noms de persona
 #Virtuts Virtuts NPFSSP0 # avl: noms de persona
 #Vita Vita NPFSSP0 # avl: noms de persona
@@ -27255,7 +27252,7 @@ Dimitrij Dimitrij NPCN000 # wikidata
 Dimitsana Dimitsana NPCN000 # wikidata
 Dimmuborgir Dimmuborgir NPCN000 # wikidata
 Dimock Dimock NPCN000 # wikidata
-Dimona Dimona NPCN000 # wikidata
+Dimona Dimona NPCSG00 # esadir
 Dimonios Dimonios NPCN000 # wikidata
 Dimont Dimont NPCN000 # wikidata
 Dimorphocrambus Dimorphocrambus NPCN000 # wikidata
@@ -57281,6 +57278,8 @@ Migné Migné NPCN000 # wikidata
 Migné-Auxances Migné-Auxances NPCN000 # wikidata
 Mignéville Mignéville NPCN000 # wikidata
 Migron Migron NPCN000 # wikidata
+Miguel Miguel NPCN000 # wikidata
+Miguel Miguel NPMSSP0
 Miguelete Miguelete NPCN000 # wikidata
 Miguelitos Miguelitos NPCN000 # wikidata
 Miguelturra Miguelturra NPCN000 # wikidata
@@ -61653,7 +61652,6 @@ Nawele Nawele NPCN000 # wikidata
 Nawidemak Nawidemak NPCN000 # wikidata
 Naxos Naxos NPCSG00
 Naxxar Naxxar NPCN000 # wikidata
-Naxçivan Naxçivan NPCSG00
 Naxçivan Naxçivan NPCSG00 # esadir topònims
 Nay Nay NPCN000 # wikidata
 Nayak Nayak NPCN000 # wikidata
@@ -93755,6 +93753,7 @@ Viccionari Viccionari NPMSO00
 Vicco Vicco NPCN000 # wikidata
 Vicent Vicent NPMSSP0
 Vicenta Vicent NPFSSP0
+Vicente Vicente NPCNSP0 # wikidata
 Vicentet Vicentet NPMSSP0
 Vicenteta Vicentet NPFSSP0
 Vicentico Vicentico NPCN000 # wikidata
