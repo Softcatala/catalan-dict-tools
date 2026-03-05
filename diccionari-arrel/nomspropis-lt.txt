@@ -1,5 +1,8 @@
 
 #Abram Abram NPMSSP0 # avl: noms de persona
+#Absalons Absalò NPMPSP0
+#Absalons Absaló NPMPSP0
+#Absalò Absalò NPMSSP0
 #Adrogué Adrogué NPCN000 # wikidata
 #Aeropuerto Aeropuerto NPCN000 # wikidata
 #Al-Ḥasā Al-Ḥasā NP
@@ -1002,9 +1005,6 @@ Abràmtsevo Abràmtsevo NPCSG00
 Abrí Abrí NPCNSP0
 Abs Abs NPCSG00 # esadir topònims
 Absalom Absalom NPMSSP0 # avl: noms de persona
-Absalons Absalò NPMPSP0
-Absalons Absaló NPMPSP0
-Absalò Absalò NPMSSP0
 Absaló Absaló NPMSSP0
 Absarokee Absarokee NPCN000 # wikidata
 Abscon Abscon NPCN000 # wikidata
@@ -2049,6 +2049,7 @@ Aiguabella Aiguabella NPCNSP0
 Aiguabella Aiguabella NPCSG00
 Aiguablava Aiguablava NPCSG00
 Aiguader Aiguader NPCNSP0
+Aiguadolç Aiguadolç NPMSG00
 Aiguafreda Aiguafreda NPCNSP0
 Aiguafreda Aiguafreda NPFSG00
 Aiguamòg Aiguamòg NPCSG00
@@ -73806,6 +73807,7 @@ Raynham Raynham NPCN000 # wikidata
 Rayquaza Rayquaza NPCN000 # wikidata
 Raytheon Raytheon NPCN000 # wikidata
 Raytown Raytown NPCN000 # wikidata
+Rayuela Rayuela NPFSO00
 Rayville Rayville NPCN000 # wikidata
 Raywick Raywick NPCN000 # wikidata
 Raze Raze NPCN000 # wikidata

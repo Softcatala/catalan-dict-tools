@@ -9034,6 +9034,7 @@ desaprofitadíssim desaprofitadíssima=categories: A;fonts: superlative;
 desaprovador desaprovadora=categories: A;fonts: LT;
 desaqueferat desaqueferada=categories: A;fonts: LT;
 desarmable=categories: A;fonts: LT;
+desarmant=categories: A;fonts: derivat, no en diccionaris;
 desarranjador desarranjadora=categories: A;fonts: LT;
 desassenyat desassenyada [sup. desassenyadíssim]=categories: A; font:apertium;
 desassossegador desassossegadora=categories: A;fonts: LT;
