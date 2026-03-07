@@ -58538,6 +58538,7 @@ neogòtic=categories: M;fonts: LT;
 neohebraisme=categories: M;fonts: LT;
 neohegelianisme=categories: M;fonts: LT;
 neohegelià neohegeliana=categories: MF;fonts LT;
+neohel·lenista=categories: MF;fonts: derivat;
 neohigienisme=categories: M;fonts: derivat;
 neohipocratisme=categories: M;fonts: dsalut;
 neohistoricisme=categories: M;fonts: LT;

@@ -91795,7 +91795,7 @@ Urou-et-Crennes Urou-et-Crennes NPCN000 # wikidata
 Urquinaona Urquinaona NPCNSP0
 Urraca Urraca NPCN000 # wikidata
 Urrea Urrea NPCNSP0
-Urriés Urriés NPCN000 # wikidata
+Urriés Urriés NPCSG00 # wikidata
 Urrutia Urrutia NPCNSP0
 Urruña Urruña NPCSG00 # esadir topònims
 Urrácal Urrácal NPCN000 # wikidata
