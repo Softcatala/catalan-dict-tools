@@ -1,4 +1,3 @@
-
 #Abram Abram NPMSSP0 # avl: noms de persona
 #Absalons Absalò NPMPSP0
 #Absalons Absaló NPMPSP0
@@ -30,6 +29,8 @@
 #Angústies Angústies NPFSSP0 # avl: noms de persona
 #Antic Antic NPCNSP0
 #Antic Antic NPCSG00
+#Antigua Antigua NPCN000 # wikidata
+#Antigüedad Antigüedad NPCN000 # wikidata
 #Antony Antony NPCSG00
 #Aqua Aqua NPCN000 # wikidata
 #Ariana Ariana NPFSSP0 # avl: noms de persona
@@ -65,19 +66,28 @@
 #Cellerers Cellerers NPCNSP0
 #Cellers Cellers NPCSG00
 #Celí Celí NPMSSP0 # avl: noms de persona
+#Centenario Centenario NPCN000 # wikidata
+#Chocolate Chocolate NPCN000 # wikidata
 #Cloé (o Cloè) Cloé (o Cloè) NPFSSP0 # avl: noms de persona
 #Colassa Colassa NPFSSP0 # avl: noms de persona
 #Colàs Colàs NPMSSP0 # avl: noms de persona
 #Consagració Consagració NPFSSP0 # avl: noms de persona
 #Consol Consol NPCSSP0 # avl: noms de persona
 #Constant Constant NPMSSP0 # avl: noms de persona
+#Constanţa Constanţa NPCSG00
 #Constitución Constitución NPCN000 # wikidata
 #Coral Coral NPFSSP0 # avl: noms de persona
 #Corrad Corrad NPMSSP0 # avl: noms de persona
+#Cuadros Cuadros NPCN000 # wikidata
+#Cuando Cuando NPCSG00
+#Cuatro Cuatro NPCN000 # wikidata
+#Dado Dado NPCN000 # wikidata
 #Darius Darius NPMSSP0 # avl: noms de persona
 #Dat Dat NPMSSP0 # avl: noms de persona
 #Daviu Daviu NPMSSP0 # avl: noms de persona
 #Dela Dela NPCNSP0
+#Deq Deq NPCN000 # wikidata
+#Der Der NPCN000 # wikidata
 #Desemparats Desemparats NPFSSP0 # avl: noms de persona
 #Dios Dios NPCN000 # wikidata
 #Doménec (o Domènec) Doménec (o Domènec) NPMSSP0 # avl: noms de persona
@@ -96,6 +106,7 @@
 #Erb #Erb NPCNSP0 # medical
 #Ermessén (o Ermessèn) Ermessén (o Ermessèn) NPFSSP0 # avl: noms de persona
 #España España NPCN000 # wikidata
+#Española Española NPCN000 # wikidata
 #Espós Espós NPCSG00 # poble molt petit, es confon amb "espòs"
 #Estel Estel NPFSSP0 # avl: noms de persona
 #Eu Eu NPMSSP0 # avl: noms de persona
@@ -175,6 +186,7 @@
 #Leona Leona NPCN000 # wikidata
 #Llibre Llibre NPCNSP0
 #Lucia Lucia NPFSG00
+#Létra Létra NPCN000 # wikidata
 #Major Major NPMSSP0 # avl: noms de persona
 #Malic Malic NPMSSP0 # avl: noms de persona
 #Mar Mar NPFSSP0 # avl: noms de persona
@@ -228,6 +240,7 @@
 #Ovidie Ovidie NPFSSP0 # esadir
 #Pap #Pap NPCNSP0 # medical
 #Park Park NPCN000 # wikidata
+#Partido Partido NPCN000 # wikidata
 #Patro Patro NPFSSP0 # avl: noms de persona
 #Pelegrina Pelegrina NPFSSP0 # avl: noms de persona
 #Penedes Penedes NPCNSP0
@@ -256,6 +269,7 @@
 #Sacrament Sacrament NPFSSP0 # avl: noms de persona
 #Sagrament Sagrament NPFSSP0 # avl: noms de persona
 #Sagrari Sagrari NPFSSP0 # avl: noms de persona
+#Salon Salon NPCN000 # wikidata
 #Salvada Salvada NPCNSP0
 #San #San NPCNSP0 # medical
 #Santes Santes NPFSSP0 # avl: noms de persona
@@ -5143,8 +5157,6 @@ Antigny-la-Ville Antigny-la-Ville NPCN000 # wikidata
 Antigone Antigone NPCN000 # wikidata
 Antigonish Antigonish NPCSG00
 Antigono Antigono NPCN000 # wikidata
-Antigua Antigua NPCN000 # wikidata
-Antigüedad Antigüedad NPCN000 # wikidata
 Antikýthēra Antikýthēra NPCSG00
 Antillac Antillac NPCNSP0
 Antillectual Antillectual NPCN000 # wikidata
@@ -19342,7 +19354,6 @@ Centaure Centaure NPCSG00
 Centauro Centauro NPCN000 # wikidata
 Centelles Centelles NPCNSP0
 Centelles Centelles NPCSG00
-Centenario Centenario NPCN000 # wikidata
 Centener Centener NPCNSP0
 Centenera Centenera NPCSG00
 Centenys Centenys NPCN000 # wikidata
@@ -21170,7 +21181,6 @@ Choara Choara NPCN000 # wikidata
 Chobera Chobera NPCN000 # wikidata
 Chocholná-Velčice Chocholná-Velčice NPCN000 # wikidata
 Chocolat Chocolat NPCN000 # wikidata
-Chocolate Chocolate NPCN000 # wikidata
 Chocomeli Chocomeli NPCNSP0
 Chocontá Chocontá NPCN000 # wikidata
 Chocowinity Chocowinity NPCN000 # wikidata
@@ -23311,7 +23321,6 @@ Constanç Constanç NPMSSP0
 Constança Constança NPCSG00
 Constança Constança NPFSSP0
 Constanços Constanç NPMPSP0
-Constanţa Constanţa NPCSG00
 Constanța Constanța NPCSG00
 Consthum Consthum NPCN000 # wikidata
 Construmat Construmat NPCNO00
@@ -24977,11 +24986,9 @@ Ctenus Ctenus NPCN000 # wikidata
 Ctesibius Ctesibius NPCN000 # wikidata
 Ctesifont Ctesifont NPCSG00
 Cthulhu Cthulhu NPCNSP0
-Cuadros Cuadros NPCN000 # wikidata
 Cualedro Cualedro NPCN000 # wikidata
 Cuamba Cuamba NPCN000 # wikidata
 Cuanca Cuanca NPCSG00
-Cuando Cuando NPCSG00
 Cuangar Cuangar NPCN000 # wikidata
 Cuango Cuango NPCSG00
 Cuanza Cuanza NPCSG00
@@ -24991,7 +24998,6 @@ Cuartelez Cuartelez NPCN000 # wikidata
 Cuaró Cuaró NPCN000 # wikidata
 Cuassacs Cuassacs NPCN000 # wikidata
 Cuatresia Cuatresia NPCN000 # wikidata
-Cuatro Cuatro NPCN000 # wikidata
 Cuauhtémoc Cuauhtémoc NPMSSP0
 Cuautitlán Cuautitlán NPCSG00
 Cuaña Cuaña NPCSG00 # esadir topònims
@@ -25783,7 +25789,6 @@ Dadafon Dadafon NPCN000 # wikidata
 Dadeville Dadeville NPCN000 # wikidata
 Dadiani Dadiani NPCN000 # wikidata
 Dadià Dadià NPCSG00 # esadir topònims
-Dado Dado NPCN000 # wikidata
 Dadonville Dadonville NPCN000 # wikidata
 Dadoo Dadoo NPCN000 # wikidata
 Daedalus Daedalus NPCN000 # wikidata
@@ -26735,8 +26740,6 @@ Deperetella Deperetella NPCN000 # wikidata
 Depew Depew NPCN000 # wikidata
 Dept. Dept. NPCN000 # wikidata
 Deptford Deptford NPCN000 # wikidata
-Deq Deq NPCN000 # wikidata
-Der Der NPCN000 # wikidata
 Derain Derain NPCN000 # wikidata
 Derbamont Derbamont NPCN000 # wikidata
 Derbent Derbent NPCSG00
@@ -30754,7 +30757,6 @@ Espases Espases NPCNSP0
 Espaubourg Espaubourg NPCN000 # wikidata
 Espaulella Espaulella NPCNSP0
 Espaén Espaén NPCSG00
-Española Española NPCN000 # wikidata
 Espeize-Undüreine Espeize-Undüreine NPCSG00 # esadir topònims
 Espeja Espeja NPCN000 # wikidata
 Espejo Espejo NPCN000 # wikidata
@@ -52596,7 +52598,6 @@ Lésigny Lésigny NPCN000 # wikidata
 Létanne Létanne NPCN000 # wikidata
 Lételon Lételon NPCN000 # wikidata
 Léthuin Léthuin NPCN000 # wikidata
-Létra Létra NPCN000 # wikidata
 Létricourt Létricourt NPCN000 # wikidata
 Léua Léua NPCN000 # wikidata
 Lévi-Strauss Lévi-Strauss NPCNSP0
@@ -67257,7 +67258,6 @@ Partenó Partenó NPMSG00
 Parthenay Parthenay NPCSG00
 Parthenay-de-Bretagne Parthenay-de-Bretagne NPCN000 # wikidata
 Parthenope Parthenope NPCN000 # wikidata
-Partido Partido NPCN000 # wikidata
 Partinello Partinello NPCN000 # wikidata
 Partinico Partinico NPCSG00
 Partisan Partisan NPCN000 # wikidata
@@ -79851,7 +79851,6 @@ Salomés Salomé NPFPSP0
 Salomó Salomó NPCNG00
 Salomó Salomó NPCNSP0
 Salomó Salomó NPMSSP0
-Salon Salon NPCN000 # wikidata
 Salona Salona NPCN000 # wikidata
 Saloni Saloni NPCN000 # wikidata
 Salonnes Salonnes NPCN000 # wikidata
