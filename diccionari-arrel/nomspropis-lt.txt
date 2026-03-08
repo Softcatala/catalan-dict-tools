@@ -75926,6 +75926,7 @@ Rossell Rossell NPCSG00
 Rossellini Rossellini NPCNSP0
 Rosselló Rosselló NPCNSP0
 Rosselló Rosselló NPMSG00
+Rosselló-Pòrcel Rosselló-Pòrcel NPCNSP0
 Rossend Rossend NPMSSP0
 Rossenda Rossenda NPFSSP0 # avl: noms de persona
 Rossends Rossend NPMPSP0
