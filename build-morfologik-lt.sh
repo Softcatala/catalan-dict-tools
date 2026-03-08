@@ -28,6 +28,12 @@ targetdict='ca-ES'
 # MULTITOKEN SPELLING
 cp multitoken_spelling.masterinfo ${targetdict}_spelling_multitoken.info
 cat /home/jaume/github/catalan-dict-tools/extra-multitokens/noms-propis-n-tokens-wikidata-cleaned.txt > ${targetdict}_spelling_multitoken.txt
+
+#Removing comments
+sed -i 's/ *#.*$//' ${targetdict}_spelling_multitoken.txt
+sed -i -E 's/\s+$//' ${targetdict}_spelling_multitoken.txt
+sed -i '/^$/d' ${targetdict}_spelling_multitoken.txt
+
 export LC_ALL=C && sort -u ${targetdict}_spelling_multitoken.txt -o ${targetdict}_spelling_multitoken.txt
 java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling_multitoken.txt -info ${targetdict}_spelling_multitoken.info -o ${targetdict}_spelling_multitoken.dict
 java -cp $jarfile org.languagetool.tools.DictionaryExporter -i ${targetdict}_spelling_multitoken.dict -info ${targetdict}_spelling_multitoken.info -o ${targetdict}_spelling_multitoken_lt.txt

@@ -22692,6 +22692,7 @@ Colin Colin NPCNSP0
 Colincamps Colincamps NPCN000 # wikidata
 Colindres Colindres NPCN000 # wikidata
 Colinus Colinus NPCN000 # wikidata
+Coliseum Coliseum NPMSO00
 Colita Colita NPFSSP0 # esadir
 Colius Colius NPCN000 # wikidata
 Coll Coll NPCNSP0

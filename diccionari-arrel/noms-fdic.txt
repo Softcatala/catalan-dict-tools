@@ -1,4 +1,3 @@
-
 #CCAA=categories: FP;fonts: esadir;
 #PCR=categories: FI;fonts: dsalut;
 #albuminina=categories: F;fonts: DNV; obsolet
@@ -44440,6 +44439,7 @@ hipersèpsia=categories: F;fonts: dsalut;
 hipersò=categories: M;fonts: LT;
 hipersòmnia=categories: F;fonts: LT;
 hipertaràquia=categories: F;fonts: dsalut;
+hiperteatralitat=categories: F;fonts: derivat;
 hipertecosi=categories: F;fonts: dsalut;
 hipertelorisme=categories: M;fonts: LT;
 hipertema=categories: M;fonts: termcat;
