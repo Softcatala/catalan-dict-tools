@@ -12019,6 +12019,7 @@ estalagmític estalagmítica=categories: A;fonts: LT;
 estalinista=categories: A;fonts: LT;
 estalinià estaliniana=categories: A;fonts: DDLC;
 estalvi estàlvia=categories: A;fonts: LT;
+estalviable=categories: A;fonts: DCVB,DDLC;
 estalviador estalviadora=categories: A;fonts: LT;
 estalviaire=categories: A;fonts: LT;
 estamental=categories: A;fonts: LT;
