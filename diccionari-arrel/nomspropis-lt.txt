@@ -9824,6 +9824,7 @@ Basians Basià NPMPSP0
 Basicò Basicò NPCN000 # wikidata
 Basidiodendron Basidiodendron NPCN000 # wikidata
 Basigó Basigó NPCNSP0
+Basij Basij NPFSO00
 Basil Basil NPCNSP0
 Basila Basila NPFSSP0
 Basilan Basilan NPCSG00

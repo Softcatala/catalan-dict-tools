@@ -10231,6 +10231,7 @@ basidiòspora=categories: F;fonts: LT;
 basidíol=categories: M;fonts: LT;
 basiesfenoide=categories: M;fonts: dsalut;
 basificació=categories: F;fonts: LT;
+basij [pl. basijs]=categories: MF;fonts: esadir;
 basilemma=categories: M;fonts: dsalut;
 basileu=categories: M;fonts: LT;
 basilicó=categories: M;fonts: LT;
