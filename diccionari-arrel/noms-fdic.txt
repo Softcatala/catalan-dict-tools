@@ -20584,6 +20584,7 @@ contracondicionament=categories: M;fonts: dsalut;
 contracop=categories: M;fonts: LT;
 contracorrent=categories: M;fonts: LT;
 contracorriola=categories: F;fonts: LT;
+contracrònica=categories: F;fonts: derivat;
 contracta=categories: F;fonts: LT;
 contractació=categories: F;fonts: LT;
 contractant=categories: MF;fonts: LT;
