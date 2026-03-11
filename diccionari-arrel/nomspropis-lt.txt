@@ -499,6 +499,7 @@ AHT AHT NPCN000 # wikidata
 AHV AHV NPCN000 # wikidata
 AIB AIB NPCN000 # wikidata
 AIDAstella AIDAstella NPCN000 # wikidata
+AIEA AIEA NPFSO00 # esadir, wiki
 AIF AIF NPCN000 # wikidata
 AIGLX AIGLX NPCN000 # wikidata
 AIH AIH NPCN000 # wikidata
