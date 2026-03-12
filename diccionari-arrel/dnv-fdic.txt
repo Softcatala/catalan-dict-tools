@@ -459,7 +459,6 @@ becassa=categories: F;fonts: DNV;
 becdur=categories: M;fonts: DNV;
 belenc -a=categories: A;fonts: DNV;
 belenc -a=categories: MF;fonts: DNV;
-bellea=categories: F;fonts: DNV;
 bellerola=categories: F;fonts: DNV;
 bellestarenc -a=categories: A;fonts: DNV;
 bellestarenc -a=categories: MF;fonts: DNV;

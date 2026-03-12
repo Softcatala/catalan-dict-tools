@@ -29,6 +29,7 @@
 #pèlvic pèlvica=categories: A;fonts: LT;
 #recorrible=categories: A;fonts: LT; ERROR!
 #resecable=categories: A;fonts: dsalut;
+#sentent=categories: A;fonts: termcat;
 #somordo somorda=categories: A;fonts: LT; dialectal
 #teb teba=categories: A;fonts: LT;
 #techno=categories: AI;fonts: DNV,anglès; adaptat en tecno
@@ -30008,6 +30009,7 @@ sinovietnamita=categories: A;fonts: derivat;
 sinsedimentari sinsedimentària=categories: A;fonts: LT;
 sinsèpal sinsèpala=categories: A;fonts: LT;
 sintagmàtic sintagmàtica=categories: A;fonts: LT;
+sintent=categories: A;fonts: termcat;
 sintetitzable=categories: A;fonts: LT;
 sintetitzador sintetitzadora=categories: A;fonts: LT;
 sintoista=categories: A;fonts: LT;
