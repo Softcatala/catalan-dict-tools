@@ -66505,9 +66505,9 @@ Palatka Palatka NPCN000 # wikidata
 Palatogobius Palatogobius NPCN000 # wikidata
 Palatí Palatí NPMSSP0
 Palau Palau NPCNSP0
-Palau-Sator Palau-Sator NPCSG00
 Palau-Solità Palau-Solità NPCSG00
 Palau-sacosta Palau-sacosta NPCSG00
+Palau-sator Palau-sator NPCSG00
 Palau-saverdera Palau-saverdera NPCSG00
 Palau-solità Palau-solità NPMSG00
 Palau-surroca Palau-surroca NPCSG00

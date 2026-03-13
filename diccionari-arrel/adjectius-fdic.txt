@@ -25776,6 +25776,7 @@ pollós pollosa [sup. pollosíssim]=categories: A; font:apertium;
 poloidal=categories: A;fonts: LT;
 polonès polonesa=categories: A;fonts: LT;
 polopí polopina=categories: A;fonts: LT;
+polovtsià polovtsiana=categories: A;fonts: wiki;
 polper polpera=categories: A;fonts: LT;
 polput polpuda=categories: A;fonts: LT;
 polpós polposa=categories: A;fonts: LT;
