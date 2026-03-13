@@ -5053,6 +5053,7 @@ Anseric Anseric NPMSSP0
 Anserics Anseric NPMPSP0
 Anserimimus Anserimimus NPCN000 # wikidata
 Anserma Anserma NPCN000 # wikidata
+Ansermet Ansermet NPCNSP0
 Anserville Anserville NPCN000 # wikidata
 Ansfelden Ansfelden NPCN000 # wikidata
 Ansgarius Ansgarius NPCN000 # wikidata
@@ -68449,6 +68450,7 @@ Petrovo Petrovo NPCN000 # wikidata
 Petrová Petrová NPCN000 # wikidata
 Petrozavodsk Petrozavodsk NPCSG00
 Petrucci Petrucci NPCN000 # wikidata
+Petruixka Petruixka NPCSSP0
 Petrus Petrus NPCNSP0
 Petrés Petrés NPCSG00
 Petrònia Petrònia NPFSSP0 # avl: noms de persona
