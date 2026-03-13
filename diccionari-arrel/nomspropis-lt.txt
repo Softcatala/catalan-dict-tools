@@ -68450,7 +68450,7 @@ Petrovo Petrovo NPCN000 # wikidata
 Petrová Petrová NPCN000 # wikidata
 Petrozavodsk Petrozavodsk NPCSG00
 Petrucci Petrucci NPCN000 # wikidata
-Petruixka Petruixka NPCSSP0
+Petruixka Petruixka NPCNSP0
 Petrus Petrus NPCNSP0
 Petrés Petrés NPCSG00
 Petrònia Petrònia NPFSSP0 # avl: noms de persona
