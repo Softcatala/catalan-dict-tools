@@ -2302,6 +2302,7 @@ afròmetre=categories: M;fonts: LT;
 afta=categories: F;fonts: LT;
 aftartodocetisme=categories: M;fonts: LT;
 aftassita=categories: M;fonts: LT;
+afterhours=categories: MI;fonts: esadir, anglès;
 aftoide=categories: M;fonts: dsalut;
 aftosi=categories: F;fonts: LT;
 aftèuxia=categories: F;fonts: dsalut;
