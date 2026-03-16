@@ -40699,6 +40699,7 @@ Henicophaps Henicophaps NPCN000 # wikidata
 Henicorhina Henicorhina NPCN000 # wikidata
 Henie Henie NPCN000 # wikidata
 Henipavirus Henipavirus NPCN000 # wikidata
+Henkell Henkell NPCNSP0
 Henle Henle NPCNSP0 # medical
 Henley-on-Thames Henley-on-Thames NPCN000 # wikidata
 Hennebont Hennebont NPCN000 # wikidata
