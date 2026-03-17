@@ -2834,6 +2834,7 @@ antivacuna=categories: AI;fonts: dsalut;
 antivacunació=categories: AI;fonts: derivat;
 antivacunes=categories: AI; derivat;
 antivaga=categories: AI;fonts: LT;
+antivaixell=categories: AI;fonts: termcat;
 antivalencianista=categories: A;fonts: LT;
 antivalencià antivalenciana=categories: A;fonts: LT;
 antivandàlic antivandàlica=categories: A;fonts: LT;
