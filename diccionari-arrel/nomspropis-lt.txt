@@ -98666,8 +98666,8 @@ Zolotarivka Zolotarivka NPCSG00 # esadir topònims
 Zoloté Zoloté NPCSG00 # esadir topònims
 Zoma Zoma NPCN000 # wikidata
 Zomba Zomba NPCSG00
-Zombie Zombie NPCN000 # wikidata
-Zombies Zombies NPCN000 # wikidata
+#Zombie Zombie NPCN000 # wikidata
+#Zombies Zombies NPCN000 # wikidata
 Zombor Zombor NPCN000 # wikidata
 Zomergem Zomergem NPCN000 # wikidata
 Zommange Zommange NPCN000 # wikidata
