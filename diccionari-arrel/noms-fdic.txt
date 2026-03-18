@@ -52968,6 +52968,7 @@ mastodont=categories: M;fonts: LT;
 mastodontoida=categories: M;fonts: LT;
 mastodínia=categories: F;fonts: LT;
 mastoescirre=categories: M;fonts: dsalut;
+mastofauna=categories: F;fonts: termcat;
 mastografia=categories: F;fonts: LT;
 mastoidectomia=categories: F;fonts: LT;
 mastoidocentesi=categories: F;fonts: dsalut;

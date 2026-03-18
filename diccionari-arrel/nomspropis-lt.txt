@@ -320,6 +320,8 @@
 #Vladimira Vladimira NPFSSP0 # avl: noms de persona
 #Xarles Xarles NPCNSP0 # desconegut
 #Zaragoza Zaragoza NPCN000 # wikidata
+#Zombie Zombie NPCN000 # wikidata
+#Zombies Zombies NPCN000 # wikidata
 #Àngeles Àngela NPFPSP0
 #Àurea Àurea NPFSSP0 # avl: noms de persona
 #Ènova Ènova NPFSG00
@@ -98666,8 +98668,6 @@ Zolotarivka Zolotarivka NPCSG00 # esadir topònims
 Zoloté Zoloté NPCSG00 # esadir topònims
 Zoma Zoma NPCN000 # wikidata
 Zomba Zomba NPCSG00
-#Zombie Zombie NPCN000 # wikidata
-#Zombies Zombies NPCN000 # wikidata
 Zombor Zombor NPCN000 # wikidata
 Zomergem Zomergem NPCN000 # wikidata
 Zommange Zommange NPCN000 # wikidata
