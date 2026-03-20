@@ -21870,6 +21870,7 @@ mullant=categories: A;fonts: LT;
 mullat mullada [sup. mulladíssim]=categories: A; font:apertium;
 mullerable=categories: A;fonts: DNV;
 multi-eix=categories: AI;fonts: derivat;
+multiagent=categories: AI;fonts: derivat;
 multial·lèlic multial·lèlica=categories: A;fonts: dsalut;
 multiangular=categories: A;fonts: LT;
 multiangulós multiangulosa=categories: A;fonts: dsalut;
