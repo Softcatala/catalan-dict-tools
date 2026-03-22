@@ -19359,6 +19359,7 @@ CentOS CentOS NPCN000 # wikidata
 Centa Centa NPFSSP0 # avl: noms de persona
 Centaure Centaure NPCSG00
 Centauro Centauro NPCN000 # wikidata
+Centcom Centcom NPMSO00
 Centelles Centelles NPCNSP0
 Centelles Centelles NPCSG00
 Centener Centener NPCNSP0
