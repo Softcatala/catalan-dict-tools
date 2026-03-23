@@ -38184,6 +38184,7 @@ Gries Gries NPCN000 # wikidata
 Griesbach-au-Val Griesbach-au-Val NPCN000 # wikidata
 Griesheim-près-Molsheim Griesheim-près-Molsheim NPCN000 # wikidata
 Griesheim-sur-Souffel Griesheim-sur-Souffel NPCN000 # wikidata
+Griezmann Griezmann NPCNSP0
 Grifell Grifell NPCNSP0
 Griffen Griffen NPCSG00 # esadir topònims
 Griffi Griffi NPCN000 # wikidata
@@ -48231,6 +48232,7 @@ LZ4 LZ4 NPCN000 # wikidata
 LaChanze LaChanze NPCN000 # wikidata
 LaCie LaCie NPCN000 # wikidata
 LaFee LaFee NPCN000 # wikidata
+LaGuardia LaGuardia NPCNG00
 LaMoure LaMoure NPCN000 # wikidata
 LaSiete LaSiete NPCN000 # wikidata
 Laakdal Laakdal NPCN000 # wikidata
