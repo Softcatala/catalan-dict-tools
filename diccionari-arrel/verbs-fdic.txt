@@ -2124,6 +2124,7 @@ continuar=categories: V;model:lloar;fonts: LT;
 contorbar=categories: V;model:cantar;fonts: LT;
 contornar=categories: V;model:cantar;fonts: LT;
 contornejar=categories: V;model:envejar;fonts: LT;
+contorsionar=categories: V;model:cantar;fonts: esadir;
 contorçar=categories: V;model:començar;fonts: LT;
 contraargumentar=categories: V;model:cantar;fonts: LT;
 contraatacar=categories: V;model:trencar;fonts: LT;
