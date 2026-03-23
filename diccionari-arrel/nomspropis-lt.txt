@@ -45750,6 +45750,7 @@ Kalkbrenner Kalkbrenner NPCN000 # wikidata
 Kalkriese Kalkriese NPCN000 # wikidata
 Kallakurichi Kallakurichi NPCSG00 # esadir topònims
 Kalma Kalma NPCN000 # wikidata
+Kalman Kalman NPCNSP0
 Kalmar Kalmar NPCN000 # wikidata
 Kalmthout Kalmthout NPCN000 # wikidata
 Kalnište Kalnište NPCN000 # wikidata
