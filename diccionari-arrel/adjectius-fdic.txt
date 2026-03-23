@@ -6015,6 +6015,7 @@ capmoix capmoixa=categories: A;fonts: LT;
 capnegre capnegra=categories: A;fonts: LT;
 capnòfil capnòfila=categories: A;fonts: dsalut;
 capolador capoladora=categories: A;fonts: LT;
+cappelat cappelada=categories: A;fonts: DCVB, rodamots;
 capreolat capreolada=categories: A;fonts: LT;
 capriciós capriciosa=categories: A;fonts: LT;
 capritxós capritxosa [sup. capritxosíssim]=categories: A; font:apertium;
