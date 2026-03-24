@@ -107,6 +107,7 @@
 #Ermessén (o Ermessèn) Ermessén (o Ermessèn) NPFSSP0 # avl: noms de persona
 #España España NPCN000 # wikidata
 #Española Española NPCN000 # wikidata
+#Espresso Espresso NPCN000 # wikidata
 #Espós Espós NPCSG00 # poble molt petit, es confon amb "espòs"
 #Estel Estel NPFSSP0 # avl: noms de persona
 #Eu Eu NPMSSP0 # avl: noms de persona
@@ -30842,7 +30843,6 @@ Esposende Esposende NPCSG00
 Esposolla Esposolla NPCSG00
 Espostoa Espostoa NPCN000 # wikidata
 Esprels Esprels NPCN000 # wikidata
-Espresso Espresso NPCN000 # wikidata
 Esprit Esprit NPCN000 # wikidata
 Espriu Espriu NPCNSP0
 Espronceda Espronceda NPCSG00

@@ -32823,6 +32823,7 @@ esprai=categories: M;fonts: LT;
 espremedora=categories: F;fonts: LT;
 espremors=categories: MP;fonts: LT;
 espremuda=categories: F;fonts: LT;
+espresso=categories: M;fonts: italià, esadir;
 esprimatxament=categories: M;fonts: LT;
 espring=categories: M;fonts: LT;
 esprint=categories: M;fonts: LT;
