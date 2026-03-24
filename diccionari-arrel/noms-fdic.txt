@@ -58964,6 +58964,7 @@ neurorrexi=categories: F;fonts: dsalut;
 neurorràfia=categories: F;fonts: LT;
 neuroröntgengrafia=categories: F;fonts: dsalut;
 neurosarcoma=categories: M;fonts: LT;
+neurosarcoïdosi=categories: F;fonts: wiki;
 neurosecreció=categories: F;fonts: LT;
 neurosi=categories: F;fonts: LT;
 neurosisme=categories: M;fonts: dsalut;

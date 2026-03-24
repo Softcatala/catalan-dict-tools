@@ -313,6 +313,7 @@
 #Ver Ver NPMSSP0 # avl: noms de persona
 #Via Via NPCNSP0
 #Vida Vida NPFSSP0 # avl: noms de persona
+#Vieja Vieja NPCN000 # wikidata
 #Virtuts Virtuts NPFSSP0 # avl: noms de persona
 #Vita Vita NPFSSP0 # avl: noms de persona
 #Vital Vital NPMSSP0 # avl: noms de persona
@@ -10580,6 +10581,7 @@ Behonne Behonne NPCN000 # wikidata
 Behorlegi Behorlegi NPCSG00 # esadir topònims
 Behren-lès-Forbach Behren-lès-Forbach NPCN000 # wikidata
 Behrendorf Behrendorf NPCN000 # wikidata
+Behçet Behçet NPCNSP0
 Beidweiler Beidweiler NPCN000 # wikidata
 Beiersdorf Beiersdorf NPCN000 # wikidata
 Beignon Beignon NPCN000 # wikidata
@@ -37973,6 +37975,7 @@ Grassó Grassó NPCNSP0
 Grat Grat NPMSSP0
 Grata Grata NPFSSP0
 Gratacòs Gratacòs NPCNSP0
+Gratacós Gratacós NPCNSP0
 Gratallops Gratallops NPCSG00
 Gratens Gratens NPCN000 # wikidata
 Grates Grata NPFPSP0
@@ -46553,10 +46556,10 @@ Khanti-Mansisk Khanti-Mansisk NPCSG00 # esadir topònims
 Kharagpur Kharagpur NPCSG00
 Kharayeb Kharayeb NPCN000 # wikidata
 Kharda Kharda NPCN000 # wikidata
+Kharg Kharg NPCSG00 # esadir topònims
 Kharga Kharga NPCSG00 # esadir topònims
 Kharlachi Kharlachi NPCSG00 # esadir topònims
 Kharp Kharp NPCSG00 # esadir topònims
-Kharq Kharq NPCSG00
 Khartsizk Khartsizk NPCSG00 # esadir topònims
 Khartum Khartum NPCSG00
 Khasi Khasi NPCN000 # wikidata
@@ -93867,7 +93870,6 @@ Vieilles-Maisons-sur-Joudry Vieilles-Maisons-sur-Joudry NPCN000 # wikidata
 Vieillevigne Vieillevigne NPCN000 # wikidata
 Vieilley Vieilley NPCN000 # wikidata
 Vieilmoulin Vieilmoulin NPCN000 # wikidata
-Vieja Vieja NPCN000 # wikidata
 Viekšniai Viekšniai NPCN000 # wikidata
 Viel-Arcy Viel-Arcy NPCN000 # wikidata
 Viel-Saint-Remy Viel-Saint-Remy NPCN000 # wikidata
