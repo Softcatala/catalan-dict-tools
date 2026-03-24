@@ -11922,6 +11922,7 @@ esporífer esporífera=categories: A;fonts: LT;
 esporípar esporípara=categories: A;fonts: dsalut;
 espotenc espotenca=categories: A;fonts: LT;
 espremedor espremedora=categories: A;fonts: LT;
+espresso=categories: AI;fonts: italià,esadir;
 esprimatxat esprimatxada=categories: A;fonts: GDLC;
 espriuà espriuana=categories: A;fonts: LT;
 espumejant=categories: A;fonts: LT;
