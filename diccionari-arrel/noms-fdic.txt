@@ -27108,6 +27108,7 @@ dramatització=categories: F;fonts: LT;
 dramaturg dramaturga=categories: MF;fonts LT;
 dramaturgista=categories: MF;fonts: termcat;
 dramatúrgia=categories: F;fonts: LT;
+dramot=categories: M;fonts: intensiu;
 dramàtic dramàtica=categories: MF;fonts LT;
 drang=categories: M;fonts: LT;
 drap=categories: M;fonts: LT;
