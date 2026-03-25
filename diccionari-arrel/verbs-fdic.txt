@@ -3321,6 +3321,7 @@ desfortificar=categories: V;model:trencar;fonts: DNV;
 desfosfatar=categories: V;model:cantar;fonts: LT;
 desfosforar=categories: V;model:cantar;fonts: LT;
 desfosforilar=categories: V;model:cantar;fonts: derivat;
+desfossilitzar=categories: V;model:cantar;fonts: derivat;
 desfragmentar=categories: V;model:cantar;fonts: LT;
 desfrarar=categories: V;model:cantar;fonts: LT;
 desfreixurar=categories: V;model:cantar;fonts: LT;

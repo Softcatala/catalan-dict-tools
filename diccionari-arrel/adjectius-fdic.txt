@@ -34486,6 +34486,7 @@ xisclaire=categories: A;fonts: LT;
 xiscló=categories: AM;fonts: LT;
 xiulador xiuladora=categories: A;fonts: LT;
 xiulaire=categories: A;fonts: LT;
+xiuxiuejador xiuxiuejadora=categories: A;fonts: derivat;
 xivatà xivatana=categories: A;fonts: LT;
 xivaïta=categories: A;fonts: LT;
 xivertenc xivertenca=categories: A;fonts: LT;
