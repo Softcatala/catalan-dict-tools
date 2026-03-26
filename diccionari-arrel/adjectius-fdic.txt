@@ -13316,6 +13316,7 @@ fibrocel·lular=categories: A;fonts: dsalut;
 fibrocol·lagenós fibrocol·lagenosa=categories: A;fonts: dsalut;
 fibroelàstic fibroelàstica=categories: A;fonts: dsalut;
 fibrofibrós fibrofibrosa=categories: A;fonts: dsalut;
+fibroglandular=categories: A;fonts: medical;
 fibrohistiocític fibrohistiocítica=categories: A;fonts: dsalut;
 fibroide=categories: A;fonts: LT;
 fibrolipomatós fibrolipomatosa=categories: A;fonts: dsalut;
