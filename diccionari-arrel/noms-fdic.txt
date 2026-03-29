@@ -2565,6 +2565,7 @@ agrometeorologia=categories: F;fonts: termcat;
 agronegoci=categories: M;fonts: termcat;
 agronometria=categories: F;fonts: LT;
 agronomia=categories: F;fonts: LT;
+agroparc=categories: M;fonts: derivat;
 agropir=categories: M;fonts: LT;
 agroquímica=categories: F;fonts: LT;
 agror=categories: F;fonts: LT;
