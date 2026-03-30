@@ -17,9 +17,9 @@ cat diccionari-arrel/*-lt.txt > $dir_resultat/others-lt.txt
 
 #remove comments
 echo "Removing comments..."
-sed -i 's/ *#.*$//' $dir_resultat/others-lt.txt
-sed -i -E 's/\s+$//' $dir_resultat/others-lt.txt
-sed -i '/^$/d' $dir_resultat/others-lt.txt
+perl -i -pe 's/ *#.*$//' $dir_resultat/others-lt.txt
+perl -i -pe 's/[ \t]+$//' $dir_resultat/others-lt.txt
+perl -i -ne 'print unless /^$/' $dir_resultat/others-lt.txt
 
 cat $dir_resultat/*-lt.txt > $dir_resultat/diccionari.txt
 rm $dir_resultat/*-lt.txt
@@ -50,4 +50,4 @@ cat $dir_resultat/diccionari* | sort > $dir_resultat/dicc.txt
 
 echo "Resultat en el directori $dir_resultat"
 echo "FET!"
-git --no-pager diff 
+#git --no-pager diff 

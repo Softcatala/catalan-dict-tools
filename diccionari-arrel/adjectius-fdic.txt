@@ -25298,6 +25298,7 @@ plantar=categories: A;fonts: LT;
 plantejable=categories: A;fonts: derivat;
 plantígrad plantígrada=categories: A;fonts: LT;
 plantós plantosa=categories: A;fonts: LT;
+planxadet planxadeta=categories: A;fonts: diminutiu;
 planxador planxadora=categories: A;fonts: LT;
 planxadíssim planxadíssima=categories: A;fonts: superlative;
 planyent=categories: A;fonts: LT;
