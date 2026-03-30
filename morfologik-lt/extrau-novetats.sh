@@ -49,8 +49,7 @@ perl -i -pe 's/^> //' removed-body.txt
 perl -i -pe 's/ /\t/g' removed-body.txt
 perl -i -ne 'print unless /^\s*$/' removed-body.txt
 cat removed-tagger.head removed-body.txt > removed.txt
-cp removed.txt /home/jaume/github/languagetool/languagetool-language-modules/ca/src/main/resources/org/languagetool/resource/ca/
-
+cp removed.txt ~/caresource
 
 echo "Resultats en spelling.txt manual-tagger.txt"
 # emacs novetats_* &
