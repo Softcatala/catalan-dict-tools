@@ -32050,6 +32050,7 @@ tiònic tiònica=categories: A;fonts: LT;
 tlaxcalteca=categories: A;fonts: LT;
 toarcià toarciana=categories: A;fonts: LT;
 tocable=categories: A;fonts: LT;
+tocadet tocadeta=categories: A;fonts: diminutiu;
 tocador tocadora=categories: A;fonts: LT;
 tocadís tocadissa=categories: A;fonts: LT;
 tocant=categories: A;fonts: LT;
