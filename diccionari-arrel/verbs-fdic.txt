@@ -8712,6 +8712,7 @@ reencunyar=categories: V;model:cantar;fonts: LT;
 reenergitzar=categories: V;model:cantar;fonts: derivat;
 reenfocar=categories: V;model:trencar;fonts: derivat;
 reenganxar=categories: V;model:cantar;fonts: LT;
+reenquadrar=categories: V;model:cantar;fonts: derivat;
 reenterrar=categories: V;model:cantar;fonts: LT;
 reentrar=categories: V;model:cantar;fonts: derivat;
 reentrenar=categories: V;model:ordenar;fonts: derivat;
