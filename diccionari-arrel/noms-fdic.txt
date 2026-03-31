@@ -74080,6 +74080,7 @@ retransmissió=categories: F;fonts: LT;
 retransmissor=categories: M;fonts: LT;
 retrat=categories: M;fonts: LT;
 retratador retratadora=categories: MF;fonts LT;
+retratisme=categories: M;fonts: GEC;
 retratista=categories: MF;fonts: LT;
 retraïment=categories: M;fonts: LT;
 retret=categories: M;fonts: LT;
