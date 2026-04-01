@@ -40083,8 +40083,6 @@ espillerésseu espillerar VMSI2P05
 espilleréssim espillerar VMSI1P02
 espilleréssiu espillerar VMSI2P02
 espillerí espillerar VMIS1S00
-espillet espillet NCMS000
-espillets espillet NCMP000
 espinarenc espinarenc AQ0MS0
 espinarenc espinarenc NCMS000
 espinarenca espinarenc AQ0FS0

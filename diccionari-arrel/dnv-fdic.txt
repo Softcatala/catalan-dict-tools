@@ -1908,7 +1908,6 @@ espertugada=categories: F;fonts: DNV;
 espigadora=categories: F;fonts: DNV;
 espigarrallat -ada=categories: A;fonts: DNV;
 espillerar=categories: V;model:cantar;fonts: DNV;
-espillet=categories: M;fonts: DNV;
 espinarenc -a=categories: A;fonts: DNV;
 espinarenc -a=categories: MF;fonts: DNV;
 espinella=categories: F;fonts: DNV;
