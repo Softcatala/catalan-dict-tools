@@ -39963,8 +39963,6 @@ espereons espereó NCMP000
 esperesons esperesó NCMP000
 esperesó esperesó NCMS000
 espereó espereó NCMS000
-espermiologia espermiologia NCFS000
-espermiologies espermiologia NCFP000
 espertugada espertugada NCFS000
 espertugades espertugada NCFP000
 espeà espear VMIS3S00

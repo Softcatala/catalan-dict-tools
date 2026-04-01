@@ -1903,7 +1903,6 @@ espentolament=categories: M;fonts: DNV;
 espenyament=categories: M;fonts: DNV;
 esperesó=categories: M;fonts: DNV;
 espereó=categories: M;fonts: DNV;
-espermiologia=categories: F;fonts: DNV;
 espertugada=categories: F;fonts: DNV;
 espigadora=categories: F;fonts: DNV;
 espigarrallat -ada=categories: A;fonts: DNV;

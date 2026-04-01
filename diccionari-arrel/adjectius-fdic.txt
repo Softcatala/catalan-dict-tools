@@ -19225,6 +19225,7 @@ leninista=categories: A;fonts: LT;
 lenitiu lenitiva=categories: A;fonts: LT;
 lent lenta [sup. lentíssim]=categories: A; font:apertium;
 lent2 lenta=categories: A;fonts: LT;
+lentet lenteta=categories: A;fonts: diminutiu;
 lenticular=categories: A;fonts: LT;
 lenticularis=categories: AI;fonts: LT;
 lenticulat lenticulada=categories: A;fonts: LT;
