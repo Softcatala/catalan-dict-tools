@@ -149,6 +149,7 @@
 #polià poliana=categories: MF;fonts: LT; es confon amb polaines
 #pori=categories: M;fonts: dsalut;
 #porosi=categories: F;fonts: dsalut;
+#procorrent=categories: M;fonts: LT; # arcaisme, sense gaire documentació
 #prosti=categories: M;fonts: dsalut;
 #pulegi=categories: M;fonts: dsalut;
 #pumpel·lita=categories: F;fonts: DNV; pumpel·lyita
@@ -69234,7 +69235,6 @@ proconsolat=categories: M;fonts: LT;
 proconvertina=categories: F;fonts: LT;
 procordat=categories: M;fonts: LT;
 procoresi=categories: F;fonts: dsalut;
-procorrent=categories: M;fonts: LT;
 procrastinació=categories: F;fonts: LT;
 procreació=categories: F;fonts: LT;
 procreador procreadora=categories: MF;fonts LT;
