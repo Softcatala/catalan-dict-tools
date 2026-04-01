@@ -15793,6 +15793,7 @@ hiperreduït hiperreduïda=categories: A; fonts: derivat;
 hiperregalat hiperregalada=categories: A;fonts: derivat;
 hiperregulador hiperreguladora=categories: A;fonts: derivat;
 hiperreligiós hiperreligiosa=categories: A;fonts: derivat;
+hiperràpid hiperràpida=categories: A;fonts: derivat;
 hipersaludable=categories: A;fonts: derivat;
 hipersalí hipersalina=categories: A;fonts: derivat;
 hipersaturat hipersaturada=categories: A;fonts: derivat;
