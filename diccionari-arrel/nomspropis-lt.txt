@@ -37125,7 +37125,8 @@ Gniezno Gniezno NPCSG00
 Gnieżdżewo Gnieżdżewo NPCN000 # wikidata
 Gnomonia Gnomonia NPCN000 # wikidata
 Gnosca Gnosca NPCN000 # wikidata
-Gnossiennes Gnossiennes NPCN000 # wikidata
+Gnossienne Gnossiennes NPFS000
+Gnossiennes Gnossiennes NPFP000 # wikidata
 GoPro GoPro NPCN000 # wikidata
 Goa Goa NPFSG00
 Goalpara Goalpara NPCN000 # wikidata
