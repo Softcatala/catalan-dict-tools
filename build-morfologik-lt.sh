@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# Cross-platform sed -i (Mac requires empty string argument, Linux does not)
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    sedi() { sed -i '' "$@"; }
+else
+    sedi() { sed -i "$@"; }
+fi
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 cd morfologik-lt
 
 #LanguageTool jar
@@ -20,19 +29,19 @@ cp /tmp/diccionari-dnv.txt /tmp/diccionari-dnv-0.txt
 perl -i -p -e 's/^(.+ .+ )(.+)$/${1}0${2}/' /tmp/diccionari-dnv-0.txt
 
 # exclude some words for LT dictionary
-sed -i -E '/ (aguar|ciar|emblar|binar) /d' /tmp/diccionari.txt
+sedi -E '/ (aguar|ciar|emblar|binar) /d' /tmp/diccionari.txt
 
 
 targetdict='ca-ES'
 
 # MULTITOKEN SPELLING
 cp multitoken_spelling.masterinfo ${targetdict}_spelling_multitoken.info
-cat /home/jaume/github/catalan-dict-tools/extra-multitokens/noms-propis-n-tokens-wikidata-cleaned.txt > ${targetdict}_spelling_multitoken.txt
+cat "$SCRIPT_DIR/diccionari-arrel/noms-propis-n-tokens-wikidata-cleaned.txt" > ${targetdict}_spelling_multitoken.txt
 
 #Removing comments
-sed -i 's/ *#.*$//' ${targetdict}_spelling_multitoken.txt
-sed -i -E 's/\s+$//' ${targetdict}_spelling_multitoken.txt
-sed -i '/^$/d' ${targetdict}_spelling_multitoken.txt
+sedi 's/ *#.*$//' ${targetdict}_spelling_multitoken.txt
+sedi -E 's/\s+$//' ${targetdict}_spelling_multitoken.txt
+sedi '/^$/d' ${targetdict}_spelling_multitoken.txt
 
 export LC_ALL=C && sort -u ${targetdict}_spelling_multitoken.txt -o ${targetdict}_spelling_multitoken.txt
 java -cp $jarfile org.languagetool.tools.SpellDictionaryBuilder -i ${targetdict}_spelling_multitoken.txt -info ${targetdict}_spelling_multitoken.info -o ${targetdict}_spelling_multitoken.dict
