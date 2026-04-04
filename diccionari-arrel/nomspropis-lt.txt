@@ -80223,7 +80223,7 @@ Sanglung Sanglung NPCN000 # wikidata
 Sangmélima Sangmélima NPCSG00 # esadir topònims
 Sangonera Sangonera NPCSG00
 Sangosta Sangosta NPCSG00
-Sangre Sangre NPCN000 # wikidata
+#Sangre Sangre NPCN000 # wikidata
 Sangrey Sangrey NPCN000 # wikidata
 Sangro Sangro NPCN000 # wikidata
 Sangueta Sangueta NPCN000 # wikidata
@@ -91649,7 +91649,7 @@ Unnan Unnan NPCN000 # wikidata
 Unnao Unnao NPCN000 # wikidata
 Unnim Unnim NPCN000 # wikidata
 Unniyarcha Unniyarcha NPCN000 # wikidata
-Uno Uno NPCN000 # wikidata
+#Uno Uno NPCN000 # wikidata
 Unorthodox Unorthodox NPCN000 # wikidata
 Unreal Unreal NPCN000 # wikidata
 Unsent Unsent NPCN000 # wikidata
