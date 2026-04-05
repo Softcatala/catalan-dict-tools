@@ -36,7 +36,7 @@ targetdict='ca-ES'
 
 # MULTITOKEN SPELLING
 cp multitoken_spelling.masterinfo ${targetdict}_spelling_multitoken.info
-cat "$SCRIPT_DIR/diccionari-arrel/noms-propis-n-tokens-wikidata-cleaned.txt" > ${targetdict}_spelling_multitoken.txt
+cat "$SCRIPT_DIR/diccionari-arrel/noms-propis-multitokens-wikidata.txt" > ${targetdict}_spelling_multitoken.txt
 
 #Removing comments
 sedi 's/ *#.*$//' ${targetdict}_spelling_multitoken.txt
