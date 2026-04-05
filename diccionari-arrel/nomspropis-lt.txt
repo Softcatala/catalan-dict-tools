@@ -55682,6 +55682,7 @@ Mauzé-Thouarsais Mauzé-Thouarsais NPCN000 # wikidata
 Mauzé-sur-le-Mignon Mauzé-sur-le-Mignon NPCN000 # wikidata
 Mauá Mauá NPCSG00
 Maués Maués NPCN000 # wikidata
+Maven Maven NPCNO00
 Maverick Maverick NPCNSP0
 Maves Maves NPCN000 # wikidata
 Mavi Mavi NPFSSP0 # avl: noms de persona
@@ -56476,6 +56477,7 @@ Menic Menic NPCNSP0
 Meninx Meninx NPCN000 # wikidata
 Meniscoessus Meniscoessus NPCN000 # wikidata
 Meniscomys Meniscomys NPCN000 # wikidata
+Menjòmetre Menjòmetre NPMSO00
 Menka Menka NPCN000 # wikidata
 Menkes Menkes NPCNSP0 # medical
 Menko Menko NPCN000 # wikidata

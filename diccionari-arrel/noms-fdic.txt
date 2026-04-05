@@ -51515,6 +51515,7 @@ macolí=categories: M;fonts: LT;
 macoré [pl. macorés]=categories: M;fonts: LT;
 macramé [pl. macramés]=categories: M;fonts: LT;
 macro=categories: F;fonts: LT;
+macroabocador=categories: M;fonts: derivat;
 macroadobadora=categories: F;fonts: termcat;
 macroaleuriòspora=categories: F;fonts: dsalut;
 macroamilasa=categories: F;fonts: dsalut;
