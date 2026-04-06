@@ -85868,6 +85868,7 @@ Sundgau Sundgau NPCN000 # wikidata
 Sundhnúksgígar Sundhnúksgígar NPCSG00 # esadir topònims
 Sundhoffen Sundhoffen NPCN000 # wikidata
 Sundhouse Sundhouse NPCN000 # wikidata
+Sundiata Sundiata NPMSSP0
 Sundini Sundini NPCN000 # wikidata
 Sundoreonectes Sundoreonectes NPCN000 # wikidata
 Sundown Sundown NPCN000 # wikidata
