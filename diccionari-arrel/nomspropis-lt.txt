@@ -46,6 +46,7 @@
 #Bertomeva Bertomeva NPFSSP0 # avl: noms de persona
 #Bonapart Bonapart NPCNSP0
 #Brunissén (o Brunissèn) Brunissén (o Brunissèn) NPFSSP0 # avl: noms de persona
+#Buca Buca NPCN000 # wikidata
 #Buenos Buenos NPCSG00
 #Busca Busca NPCSG00
 #Bàrbera Bàrbera NPFSSP0 # avl: noms de persona
@@ -15533,7 +15534,6 @@ Bubona Bubona NPCN000 # wikidata
 Bubry Bubry NPCN000 # wikidata
 Bubulcus Bubulcus NPCN000 # wikidata
 Buc Buc NPCNSP0
-Buca Buca NPCN000 # wikidata
 Bucamps Bucamps NPCN000 # wikidata
 Bucanetes Bucanetes NPCN000 # wikidata
 Bucaramanga Bucaramanga NPCSG00
@@ -37127,8 +37127,8 @@ Gniezno Gniezno NPCSG00
 Gnieżdżewo Gnieżdżewo NPCN000 # wikidata
 Gnomonia Gnomonia NPCN000 # wikidata
 Gnosca Gnosca NPCN000 # wikidata
-Gnossienne Gnossiennes NPFS000
-Gnossiennes Gnossiennes NPFP000 # wikidata
+Gnossienne Gnossiennes NPFSO00
+Gnossiennes Gnossiennes NPFPO00 # wikidata
 GoPro GoPro NPCN000 # wikidata
 Goa Goa NPFSG00
 Goalpara Goalpara NPCN000 # wikidata

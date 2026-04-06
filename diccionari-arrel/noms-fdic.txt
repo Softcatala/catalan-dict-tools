@@ -4780,6 +4780,7 @@ ancó=categories: M;fonts: LT;
 andador andadora=categories: MF;fonts: LT;
 andalusisme=categories: M;fonts: LT;
 andalusita=categories: F;fonts: LT;
+andalusització=categories: F;fonts: derivat;
 andalusià=categories: M;fonts: LT;
 andalusí andalusina=categories: MF;fonts: LT;
 andalús andalusa=categories: MF;fonts: LT;
