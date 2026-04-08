@@ -46197,6 +46197,7 @@ impartibilitat=categories: F;fonts: LT;
 impartició=categories: F;fonts: LT;
 impassibilitat=categories: F;fonts: LT;
 impavidesa=categories: F;fonts: LT;
+impeachment=categories: M;fonts: anglès,esadir;
 impecabilitat=categories: F;fonts: LT;
 impedanciometria=categories: F;fonts: dsalut;
 impedanciòmetre=categories: M;fonts: dsalut;
