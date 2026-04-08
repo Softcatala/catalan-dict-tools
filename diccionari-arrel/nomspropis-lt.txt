@@ -64827,6 +64827,7 @@ OpenCPN OpenCPN NPCN000 # wikidata
 OpenCity OpenCity NPCN000 # wikidata
 OpenClassrooms OpenClassrooms NPCN000 # wikidata
 OpenCms OpenCms NPCN000 # wikidata
+OpenCode OpenCode NPMSO00
 OpenCores OpenCores NPCN000 # wikidata
 OpenCourseWare OpenCourseWare NPCN000 # wikidata
 OpenDocument OpenDocument NPCN000 # wikidata
