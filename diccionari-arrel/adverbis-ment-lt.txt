@@ -857,6 +857,7 @@ cosmèticament cosmèticament RG # extrets de corpus
 costosament costosament RG
 covalentment covalentment RG # extrets de corpus
 covardament covardament RG
+cranialment cranialment RG
 crassament crassament RG
 creadorament creadorament RG # extrets de corpus
 creativament creativament RG

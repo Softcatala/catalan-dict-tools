@@ -158,6 +158,7 @@
 #Hercules Hercules NPMSSP0 # esadir
 #Ia Ia NPFSSP0 # avl: noms de persona
 #Ibiza Ibiza NPCN000 # wikidata
+#Ifigeni Ifigeni NPMSSP0 # avl: noms de persona, sense altres referències
 #Ignaci Ignaci NPCN000 # wikidata
 #Igor Igor NPMSSP0 # avl: noms de persona
 #Imperi Imperi NPFSSP0 # avl: noms de persona
@@ -42844,6 +42845,7 @@ IDEF IDEF NPCN000 # wikidata
 IDL IDL NPCN000 # wikidata
 IDLE IDLE NPCN000 # wikidata
 IEC IEC NPMSO00
+IECMA IECMA NPMSO00
 IEE IEE NPCN000 # wikidata
 IEEE IEEE NPCNO00
 IESE IESE NPMSO00
@@ -43104,7 +43106,8 @@ Ifema Ifema NPFSO00
 Iferni Iferni NPCN000 # wikidata
 Iffendic Iffendic NPCN000 # wikidata
 Iffou Iffou NPCN000 # wikidata
-Ifigeni Ifigeni NPMSSP0 # avl: noms de persona
+Ifigenia Ifigenia NPFSSP0
+Ifigenies Ifigenia NPFPSP0
 Ifigènia Ifigènia NPFSSP0
 Ifigènies Ifigènia NPFPSP0
 Ifis Ifis NPCN000 # wikidata
@@ -61221,6 +61224,7 @@ Nakadomari Nakadomari NPCN000 # wikidata
 Nakagawa Nakagawa NPCN000 # wikidata
 Nakai Nakai NPCN000 # wikidata
 Nakaibito Nakaibito NPCN000 # wikidata
+Nakamoto Nakamoto NPCNSP0
 Nakamura Nakamura NPCN000 # wikidata
 Nakasendō Nakasendō NPCN000 # wikidata
 Nakba Nakba NPFSO00

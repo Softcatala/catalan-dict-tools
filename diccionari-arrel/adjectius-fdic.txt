@@ -26086,6 +26086,7 @@ postpandèmic postpandèmica=categories: A;fonts: dsalut;
 postparalític postparalítica=categories: A;fonts: dsalut;
 postpart=categories: AI;fonts: termcat;
 postpartit=categories: AI;fonts: derivat;
+postpenitenciari postpenitenciària=categories: A;fonts: derivat;
 postpicnòtic postpicnòtica=categories: A;fonts: dsalut;
 postpituïtari postpituïtària=categories: A;fonts: dsalut;
 postpneumònic postpneumònica=categories: A;fonts: dsalut;
