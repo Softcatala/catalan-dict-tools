@@ -6327,6 +6327,7 @@ Arnalot Arnalot NPCNSP0
 Arnancourt Arnancourt NPCN000 # wikidata
 Arnasco Arnasco NPCN000 # wikidata
 Arnau Arnau NPMSSP0
+Arnaud Arnaud NPCNSP0
 Arnaudville Arnaudville NPCN000 # wikidata
 Arnaus Arnau NPMPSP0
 Arnauter Arnauter NPCNSP0
@@ -97472,6 +97473,7 @@ XMOS XMOS NPCN000 # wikidata
 XNU XNU NPCN000 # wikidata
 XO-3 XO-3 NPCN000 # wikidata
 XT9 XT9 NPCN000 # wikidata
+XTEC XTEC NPFSO00
 XVideos XVideos NPCN000 # wikidata
 XWiki XWiki NPCN000 # wikidata
 XXXX XXXX NPCN000 # wikidata
