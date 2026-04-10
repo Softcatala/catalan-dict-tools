@@ -6419,6 +6419,7 @@ Arques-la-Bataille Arques-la-Bataille NPCN000 # wikidata
 Arquian Arquian NPCN000 # wikidata
 Arquillinos Arquillinos NPCN000 # wikidata
 Arquillos Arquillos NPCN000 # wikidata
+Arquillué Arquillué NPCNSP0
 Arquimbald Arquimbald NPMSSP0 # avl: noms de persona
 Arquimbau Arquimbau NPMSSP0 # avl: noms de persona
 Arquimedes Arquimedes NPMSSP0
@@ -6553,6 +6554,7 @@ Artasires Artasires NPCN000 # wikidata
 Artasona Artasona NPCNSP0
 Artasona Artasona NPCSG00
 Artau Artau NPMSSP0 # avl: noms de persona
+Artaud Artaud NPCNSP0
 Artavardiya Artavardiya NPCN000 # wikidata
 Artaxes Artaxes NPCN000 # wikidata
 Artazu Artazu NPCN000 # wikidata
@@ -14790,6 +14792,7 @@ Bretigny Bretigny NPCN000 # wikidata
 Bretka Bretka NPCN000 # wikidata
 Bretnig-Hauswalde Bretnig-Hauswalde NPCN000 # wikidata
 Bretocino Bretocino NPCN000 # wikidata
+Breton Breton NPCNSP0
 Bretoncelles Bretoncelles NPCN000 # wikidata
 Bretonvillers Bretonvillers NPCN000 # wikidata
 Brettanomyces Brettanomyces NPCN000 # wikidata
