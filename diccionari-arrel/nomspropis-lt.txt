@@ -3032,6 +3032,7 @@ Aldfrith Aldfrith NPCN000 # wikidata
 Aldgate Aldgate NPCN000 # wikidata
 Aldini Aldini NPCNSP0
 Aldobrandini Aldobrandini NPCNSP0
+Aldocumar Aldocumar NPMSO00
 Aldoi Aldoi NPCNSP0
 Aldomar Aldomar NPCNSP0
 Aldonça Aldonça NPFSSP0 # avl: noms de persona
@@ -83424,6 +83425,7 @@ Sint-Truiden Sint-Truiden NPCSG00
 Sintel Sintel NPCN000 # wikidata
 Sintes Sintes NPCN000 # wikidata
 Sintra Sintra NPCSG00
+Sintrom Sintrom NPMSO00
 Sintula Sintula NPCN000 # wikidata
 Sinuessa Sinuessa NPCN000 # wikidata
 Sinuijiu Sinuijiu NPCSG00
@@ -93315,6 +93317,7 @@ Ventilair-Steria Ventilair-Steria NPCN000 # wikidata
 Ventimiglia Ventimiglia NPCSG00
 Ventisclar Ventisclar NPCSG00
 Ventiseri Ventiseri NPCN000 # wikidata
+Ventolin Ventolin NPMSO00
 Ventolra Ventolra NPCSG00
 Ventolrà Ventolrà NPCNSP0
 Ventolà Ventolà NPCNSP0
