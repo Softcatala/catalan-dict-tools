@@ -5462,6 +5462,7 @@ brullanenc brullanenca=categories: A;fonts: LT;
 brullenc brullenca=categories: A;fonts: LT;
 brument=categories: A;fonts: LT;
 brumidor brumidora=categories: A;fonts: LT;
+brunelleschià brunelleschiana=categories: A;fonts: derivat;
 brunenc brunenca=categories: A;fonts: LT;
 brunyolenc brunyolenca=categories: A;fonts: LT;
 brunzent=categories: A;fonts: LT;
