@@ -3556,6 +3556,7 @@ Almirall Almirall NPCNSP0
 Almirante Almirante NPCN000 # wikidata
 Almiserat Almiserat NPCSG00
 Almiserà Almiserà NPCSG00
+Almisrà Almisrà NPCSG00
 Almita Almita NPCN000 # wikidata
 Almochuel Almochuel NPCN000 # wikidata
 Almodóvar Almodóvar NPCNSP0
