@@ -53362,6 +53362,7 @@ Magstatt-le-Haut Magstatt-le-Haut NPCN000 # wikidata
 Maguilla Maguilla NPCN000 # wikidata
 Maguindanao Maguindanao NPCSG00
 Magwe Magwe NPCSG00
+Magyar Magyar NPCNSP0
 Magydaris Magydaris NPCN000 # wikidata
 Magàs Magàs NPCSG00
 Magán Magán NPCN000 # wikidata
