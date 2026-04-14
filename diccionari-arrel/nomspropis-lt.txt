@@ -245,6 +245,7 @@
 #Pap #Pap NPCNSP0 # medical
 #Park Park NPCN000 # wikidata
 #Partido Partido NPCN000 # wikidata
+#Pascual Pascual NPCN000 # wikidata
 #Patro Patro NPFSSP0 # avl: noms de persona
 #Pelegrina Pelegrina NPFSSP0 # avl: noms de persona
 #Penedes Penedes NPCNSP0
@@ -67346,7 +67347,6 @@ Paschiodes Paschiodes NPCN000 # wikidata
 Pasco Pasco NPCSG00
 Pascoag Pascoag NPCN000 # wikidata
 Pascola Pascola NPCN000 # wikidata
-Pascual Pascual NPCN000 # wikidata
 Pascualcobo Pascualcobo NPCN000 # wikidata
 Pascweten Pascweten NPCN000 # wikidata
 Pascàsia Pascàsia NPFSSP0 # avl: noms de persona
