@@ -16668,6 +16668,7 @@ CSH CSH NPCN000 # wikidata
 CSIC CSIC NPMSO00
 CSIF CSIF NPCSO00
 CSIRAC CSIRAC NPCN000 # wikidata
+CSKA CSKA NPMSO00
 CSL CSL NPCN000 # wikidata
 CSMV CSMV NPCN000 # wikidata
 CSNET CSNET NPCN000 # wikidata
@@ -42833,6 +42834,7 @@ IB3 IB3 NPCN000 # wikidata
 IBM IBM NPCNO00
 ICAB ICAB NPMSO00
 ICAN ICAN NPCN000 # wikidata
+ICCROM ICCROM NPMSO00
 ICD ICD NPCN000 # wikidata
 ICE ICE NPMSO00
 ICEC ICEC NPMSO00
@@ -65575,6 +65577,7 @@ Ostreville Ostreville NPCN000 # wikidata
 Ostricourt Ostricourt NPCN000 # wikidata
 Ostrinia Ostrinia NPCN000 # wikidata
 Ostritz Ostritz NPCN000 # wikidata
+Ostrom Ostrom NPCNSP0
 Ostrov Ostrov NPCN000 # wikidata
 Ostrovany Ostrovany NPCN000 # wikidata
 Ostrołęka Ostrołęka NPCSG00
