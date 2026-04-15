@@ -6309,6 +6309,7 @@ castellanocèntric castellanocèntrica=categories: A;fonts: derivat;
 castellanoespanyol castellanoespanyola=categories: A;fonts: derivat;
 castellanofòbic castellanofòbica=categories: A;fonts: derivat;
 castellanolleonès castellanolleonesa=categories: A;fonts: LT;
+castellanomadrileny castellanomadrilenya=categories: A;fonts: derivat;
 castellanomanxec castellanomanxega=categories: A;fonts: LT;
 castellanoparlant=categories: A;fonts: LT;
 castellanès castellanesa=categories: A;fonts: LT;
