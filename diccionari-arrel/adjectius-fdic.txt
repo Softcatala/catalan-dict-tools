@@ -30143,6 +30143,7 @@ sobtà sobtana=categories: A;fonts: LT;
 sobtós sobtosa=categories: A;fonts: LT;
 sobí -ina=categories: A;fonts: dsalut;
 socarrenc socarrenca=categories: A;fonts: LT;
+soci sòcia=categories: A;fonts: aposició;
 sociable=categories: A;fonts: LT;
 social=categories: A;fonts: LT;
 socialcomunista=categories: A;fonts: derivat;
