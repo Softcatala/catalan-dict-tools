@@ -33156,6 +33156,7 @@ ultrapatriòtic ultrapatriòtica=categories: A;fonts: derivat;
 ultraperifèric ultraperifèrica=categories: A;fonts: viquipedia;
 ultrapirinenc ultrapirinenca=categories: A;fonts: LT;
 ultraportàtil=categories: A;fonts: termcat;
+ultraprecari ultraprecària=categories: A;fonts: derivat;
 ultraprocessat ultraprocessada=categories: A;fonts: derivat;
 ultraprotector ultraprotectora=categories: A;fonts: LT;
 ultrapurista=categories: A;fonts: derivat;
