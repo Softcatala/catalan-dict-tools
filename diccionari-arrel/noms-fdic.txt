@@ -5908,6 +5908,7 @@ antitromboplastina=categories: F;fonts: dsalut;
 antitromboplastinogenèmia=categories: F;fonts: dsalut;
 antitromboplastinèmia=categories: F;fonts: dsalut;
 antitropina=categories: F;fonts: dsalut;
+antitrumpisme=categories: MS;fonts: derivat;
 antituberculina=categories: F;fonts: dsalut;
 antituberculós=categories: M;fonts: LT;
 antiturisme=categories: MS;fonts: derivat;

@@ -75987,6 +75987,7 @@ Rosston Rosston NPCN000 # wikidata
 Rossville Rossville NPCN000 # wikidata
 Rost Rost NPCNSP0
 Rostany Rostany NPCNSP0
+Rostec Rostec NPCNO00
 Rosteig Rosteig NPCN000 # wikidata
 Rostellariidae Rostellariidae NPCN000 # wikidata
 Rostock Rostock NPCSG00

@@ -2806,6 +2806,7 @@ antitricurs=categories: AI;fonts: dsalut;
 antitrinitari antitrinitària=categories: A;fonts: LT;
 antitripanosomal=categories: A;fonts: dsalut;
 antitrombòtic antitrombòtica=categories: A;fonts: dsalut;
+antitrumpista=categories: A;fonts: derivat;
 antitríptic antitríptica=categories: A;fonts: dsalut;
 antituberculós antituberculosa=categories: A;fonts: LT;
 antitumoral=categories: A;fonts: LT;
