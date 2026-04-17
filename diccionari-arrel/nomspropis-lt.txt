@@ -150,7 +150,9 @@
 #Grima Grima NPCNSP0
 #Génova Génova NPCSG00 # esadir topònims
 #Gòria Gòria NPFSSP0 # avl: noms de persona
+#Haria Haria NPCN000 # wikidata
 #Harmonia Harmonia NPFSSP0 # avl: noms de persona
+#Haría Haría NPCN000 # wikidata
 #Hawkins Hawkins NPCN000 # wikidata
 #Hawkins Hawkins NPCNSP0
 #Her Her NPCN000 # wikidata
@@ -39972,7 +39974,7 @@ Hargicourt Hargicourt NPCN000 # wikidata
 Hargnies Hargnies NPCN000 # wikidata
 Hargreaves Hargreaves NPCN000 # wikidata
 Harhaj Harhaj NPCN000 # wikidata
-Haria Haria NPCN000 # wikidata
+Hari Hari NPMSG00 # riu de l'Iran
 Hariana Hariana NPCN000 # wikidata
 Haribo Haribo NPCN000 # wikidata
 Harichovce Harichovce NPCN000 # wikidata
@@ -40103,7 +40105,6 @@ Harz Harz NPCSG00
 Harzgerode Harzgerode NPCN000 # wikidata
 Haràs Haràs NPFPG00
 Haréville Haréville NPCN000 # wikidata
-Haría Haría NPCN000 # wikidata
 Harīrūd Harīrūd NPCSG00
 Hasaka Hasaka NPCSG00 # esadir topònims
 Hasbaya Hasbaya NPCSG00 # esadir topònims
