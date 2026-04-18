@@ -17355,6 +17355,7 @@ inesborrable=categories: A;fonts: LT;
 inesbrinable=categories: A;fonts: LT;
 inescaient=categories: A;fonts: LT;
 inescamotejable=categories: A;fonts: derivat, DDLC;
+inescindible=categories: A;fonts: DDLC;
 inescrutable=categories: A;fonts: LT;
 inesgotable=categories: A;fonts: LT;
 inesmenable=categories: A;fonts: LT;

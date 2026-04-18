@@ -73306,6 +73306,7 @@ relaxina=categories: F;fonts: LT;
 relectura=categories: F;fonts: LT;
 relegació=categories: F;fonts: LT;
 relegament=categories: M;fonts: LT;
+relegitimació=categories: F;fonts: derivat;
 relicte=categories: M;fonts: LT;
 religionari religionària=categories: MF;fonts LT;
 religiositat=categories: F;fonts: LT;
