@@ -36,6 +36,7 @@
 #Ariana Ariana NPFSSP0 # avl: noms de persona
 #Arquímedes Arquímedes NPMSSP0 # avl: noms de persona
 #Arte Arte NPCN000 # wikidata
+#Artemis Artemi NPMPSP0
 #Atlas Atlas NPCN000 # wikidata
 #Audaç Audaç NPMSSP0 # avl: noms de persona
 #Batiste Batiste NPMSSP0 # avl: noms de persona
@@ -6575,7 +6576,6 @@ Artemare Artemare NPCN000 # wikidata
 Artemas Artemas NPCN000 # wikidata
 Artembares Artembares NPCN000 # wikidata
 Artemi Artemi NPMSSP0
-Artemis Artemi NPMPSP0
 Artemivs'k Artemivs'k NPCSG00
 Artemps Artemps NPCN000 # wikidata
 Artena Artena NPCN000 # wikidata
@@ -55965,6 +55965,8 @@ McMinnville McMinnville NPCN000 # wikidata
 McMullen McMullen NPCN000 # wikidata
 McNamara McNamara NPCNSP0
 McNary McNary NPCN000 # wikidata
+McNeil McNeil NPCNSP0
+McNeill McNeill NPCNSP0
 McNulty McNulty NPCNSP0
 McPherson McPherson NPCN000 # wikidata
 McQueeney McQueeney NPCN000 # wikidata
@@ -57610,6 +57612,7 @@ Minnesang Minnesang NPCN000 # wikidata
 Minnesota Minnesota NPCSG00
 Minnetonka Minnetonka NPCN000 # wikidata
 Minnewaukan Minnewaukan NPCN000 # wikidata
+Minnie Minnie NPFSSP0
 Minoa Minoa NPCN000 # wikidata
 Minong Minong NPCN000 # wikidata
 Minonk Minonk NPCN000 # wikidata
@@ -62560,6 +62563,7 @@ Nidwalden Nidwalden NPCSG00
 Nidzica Nidzica NPCN000 # wikidata
 Niebla Niebla NPCSG00
 Nieblum Nieblum NPCN000 # wikidata
+Niebuhr Niebuhr NPCNSP0
 Niebüll Niebüll NPCN000 # wikidata
 Niederanven Niederanven NPCN000 # wikidata
 Niederbronn-les-Bains Niederbronn-les-Bains NPCN000 # wikidata
