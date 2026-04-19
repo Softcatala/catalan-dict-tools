@@ -26678,6 +26678,7 @@ procomunista=categories: A;fonts: derivat;
 proconceptiu -iva=categories: A;fonts: DNV;
 proconsular=categories: A;fonts: LT;
 procordal=categories: A;fonts: dsalut;
+procrastinador procrastinadora=categories: A;fonts: termcat;
 procreador procreadora=categories: A;fonts: LT;
 proctogènic proctogènica=categories: A;fonts: dsalut;
 proctològic proctològica=categories: A;fonts: LT;

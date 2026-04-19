@@ -23773,6 +23773,7 @@ Correu Correu NPCNSP0
 Correà Correà NPCSG00
 Corribert Corribert NPCN000 # wikidata
 Corrientes Corrientes NPCN000 # wikidata
+Corriere Corriere NPMSO00 # Corriere della Sera
 Corrigan Corrigan NPCNSP0 # medical
 Corriol Corriol NPCNSP0
 Corriu Corriu NPCNSP0
