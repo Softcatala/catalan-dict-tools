@@ -72876,6 +72876,7 @@ Quincy-le-Vicomte Quincy-le-Vicomte NPCN000 # wikidata
 Quincy-sous-Sénart Quincy-sous-Sénart NPCN000 # wikidata
 Quincy-sous-le-Mont Quincy-sous-le-Mont NPCN000 # wikidata
 Quindío Quindío NPCSG00
+Quine Quine NPCNSP0
 Quinet Quinet NPCSG00
 Quingentole Quingentole NPCN000 # wikidata
 Quingey Quingey NPCN000 # wikidata
