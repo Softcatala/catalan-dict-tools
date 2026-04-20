@@ -49962,6 +49962,7 @@ Lerma Lerma NPCSG00
 Lerman Lerman NPCN000 # wikidata
 Lermanda Lermanda NPCN000 # wikidata
 Lermoyez Lermoyez NPCNSP0 # medical
+Lerna Lerna NPFSG00
 Lerné Lerné NPCN000 # wikidata
 Leroy Leroy NPCN000 # wikidata
 Lerrain Lerrain NPCN000 # wikidata
