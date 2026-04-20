@@ -86033,6 +86033,7 @@ Susanna Susanna NPFSSP0
 Susannah Susannah NPCN000 # wikidata
 Susanne Susanne NPFSSP0
 Susannes Susanna NPFPSP0
+Susanoo Susanoo NPMSSP0
 Susanville Susanville NPCN000 # wikidata
 Susie Susie NPFSSP0
 Susilla Susilla NPCN000 # wikidata
