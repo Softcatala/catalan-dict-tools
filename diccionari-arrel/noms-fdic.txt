@@ -53446,6 +53446,7 @@ megaestrella=categories: F;fonts: derivat;
 megaestructura=categories: F;fonts: derivat;
 megaesòfag=categories: M;fonts: LT;
 megaevolució=categories: F;fonts: LT;
+megafauna=categories: F;fonts: wiki;
 megafil·le=categories: M;fonts: LT;
 megafonia=categories: F;fonts: LT;
 megafòrbia=categories: F;fonts: LT;

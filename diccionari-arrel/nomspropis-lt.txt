@@ -31933,6 +31933,7 @@ Faemino-Faema Faemino-Faema NPCN000 # wikidata
 Faenza Faenza NPCSG00
 Faetano Faetano NPCN000 # wikidata
 Fafe Fafe NPCN000 # wikidata
+Fafni Fafni NPMSSP0
 Fagagna Fagagna NPCN000 # wikidata
 Fage Fage NPCN000 # wikidata
 Fageca Fageca NPFSG00
@@ -34905,6 +34906,7 @@ Fàbia Fàbia NPCNSP0
 Fàbrega Fàbrega NPCNSP0
 Fàbregas Fàbregas NPCNSP0
 Fàbregues Fàbregues NPCNSP0
+Fàfnir Fàfnir NPMSSP0
 Fànnia Fànnia NPCNSP0
 Fàrgolos Fàrgolos NPCSG00
 Fàtima Fàtima NPCSG00
@@ -42476,6 +42478,7 @@ Huy Huy NPCSG00
 Huya Huya NPCN000 # wikidata
 Huygens Huygens NPCNSP0
 Huyghe Huyghe NPCN000 # wikidata
+Huysmans Huysmans NPCNSP0
 Huzhou Huzhou NPCN000 # wikidata
 Huzzia Huzzia NPCN000 # wikidata
 Huánuco Huánuco NPCN000 # wikidata

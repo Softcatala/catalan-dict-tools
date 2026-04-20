@@ -20474,6 +20474,7 @@ masturbatori masturbatòria=categories: A;fonts: LT;
 mat=categories: A;fonts: LT;
 matadeperenc matadeperenca=categories: A;fonts: LT;
 matador matadora=categories: A;fonts: LT;
+matadracs=categories: AI;fonts: derivat;
 matamalès matamalesa=categories: A;fonts: LT;
 mataroní mataronina=categories: A;fonts: LT;
 mateix mateixa [sup. mateixíssim]=categories: A;fonts: LT;
