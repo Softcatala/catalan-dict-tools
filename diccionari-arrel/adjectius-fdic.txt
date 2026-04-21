@@ -6075,6 +6075,7 @@ carafresc carafresca=categories: A;fonts: LT;
 caragoladís caragoladissa=categories: A;fonts: LT;
 caragròs caragrossa=categories: A;fonts: LT;
 carallarg carallarga=categories: A;fonts: LT;
+carallot=categories: AM;fonts: DDLC;
 caramellaire=categories: A;fonts: derivat;
 caramenut caramenuda=categories: A;fonts: LT;
 caranegre caranegra=categories: A;fonts: LT;

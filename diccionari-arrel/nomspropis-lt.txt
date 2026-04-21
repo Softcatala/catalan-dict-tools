@@ -23080,6 +23080,7 @@ Compans Compans NPCN000 # wikidata
 Compans-Caffarelli Compans-Caffarelli NPCN000 # wikidata
 Company Company NPCNSP0
 Companyó Companyó NPCNSP0
+Compaq Compaq NPCNSP0
 Compañeros Compañeros NPCN000 # wikidata
 Compertrix Compertrix NPCN000 # wikidata
 Compiano Compiano NPCN000 # wikidata
