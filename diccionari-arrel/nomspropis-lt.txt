@@ -93944,6 +93944,7 @@ Viestards Viestards NPCN000 # wikidata
 Vieste Vieste NPCN000 # wikidata
 Viesīte Viesīte NPCN000 # wikidata
 Vieta Vieta NPCNSP0
+Vietcong Vietcong NPMSO00
 Vietnam Vietnam NPMSG00
 Vietnamochloa Vietnamochloa NPCN000 # wikidata
 Viettessa Viettessa NPCN000 # wikidata
