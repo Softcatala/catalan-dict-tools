@@ -17369,6 +17369,7 @@ inesperable=categories: A;fonts: LT;
 inesperat inesperada [sup. inesperadíssim]=categories: A; font:apertium;
 inesquinçable=categories: A;fonts: LT;
 inesquivable=categories: A;fonts: LT;
+inessencial=categories: A;fonts: derivat;
 inessiu inessiva=categories: A;fonts: LT;
 inestable=categories: A;fonts: LT;
 inestancable=categories: A;fonts: LT;

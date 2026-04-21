@@ -61597,7 +61597,7 @@ Naulart Naulart NPCNSP0
 Naumburg Naumburg NPCSG00
 Naupacte Naupacte NPCSG00
 Nauroy Nauroy NPCN000 # wikidata
-Nauru Nauru NPMSG00
+Nauru Nauru NPCSG00
 Nauset Nauset NPCN000 # wikidata
 Naushahro Naushahro NPCN000 # wikidata
 Nausica Nausica NPFSSP0
