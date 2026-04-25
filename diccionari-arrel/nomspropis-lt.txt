@@ -12321,6 +12321,7 @@ Biniamar Biniamar NPCSG00
 Biniarroi Biniarroi NPCSG00
 Biniati Biniati NPCSG00
 Binibassí Binibassí NPCSG00
+Binibèquer Binibèquer NPCSG00
 Binic Binic NPCN000 # wikidata
 Binidalfà Binidalfà NPCSG00
 Binillautí Binillautí NPCSG00
@@ -31861,6 +31862,7 @@ FTV FTV NPCN000 # wikidata
 FTX FTX NPCN000 # wikidata
 FTZ FTZ NPCN000 # wikidata
 FUC FUC NPCN000 # wikidata
+FUNDAE FUNDAE NPFSO00
 FVB FVB NPCN000 # wikidata
 FVC FVC NPCN000 # wikidata
 FVD FVD NPCN000 # wikidata
@@ -33886,6 +33888,7 @@ Fort-du-Plasne Fort-du-Plasne NPCN000 # wikidata
 Fortaleny Fortaleny NPCSG00
 Fortaleza Fortaleza NPCSG00 # esadir topònims
 Fortan Fortan NPCN000 # wikidata
+Fortasec Fortasec NPMSO00
 Fortel-en-Artois Fortel-en-Artois NPCN000 # wikidata
 Fortesa Fortesa NPCNSP0
 Fortesa Fortesa NPFSG00
@@ -39733,6 +39736,7 @@ Hammerhead Hammerhead NPCN000 # wikidata
 Hammershus Hammershus NPCN000 # wikidata
 Hammett Hammett NPCN000 # wikidata
 Hammeville Hammeville NPCN000 # wikidata
+Hamming Hamming NPCNSP0
 Hammon Hammon NPCN000 # wikidata
 Hammond Hammond NPCSG00
 Hammondsport Hammondsport NPCN000 # wikidata
