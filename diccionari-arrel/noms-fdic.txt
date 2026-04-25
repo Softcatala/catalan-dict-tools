@@ -16193,6 +16193,7 @@ catasta=categories: F;fonts: LT;
 catastalsi=categories: F;fonts: dsalut;
 catastrofisme=categories: M;fonts: LT;
 catastrofista=categories: MF;fonts: LT;
+catastrofització=categories: F;fonts: derviat;
 catatasi=categories: F;fonts: dsalut;
 catatermòmetre=categories: M;fonts: LT;
 catatonia=categories: F;fonts: LT;
