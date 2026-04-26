@@ -36060,6 +36060,7 @@ Gegeneophis Gegeneophis NPCN000 # wikidata
 Gegenes Gegenes NPCN000 # wikidata
 Gego Gego NPCN000 # wikidata
 Gehon Gehon NPCN000 # wikidata
+Gehry Gehry NPCNSP0
 Gehyra Gehyra NPCN000 # wikidata
 Gehée Gehée NPCN000 # wikidata
 Geiger Geiger NPCNSP0 # medical
