@@ -22504,6 +22504,7 @@ neopositivista=categories: A;fonts: LT;
 neoprotozoic neoprotozoica=categories: A;fonts: LT;
 neopurità neopuritana=categories: A;fonts: derivat;
 neopúnic neopúnica=categories: A;fonts: LT;
+neoracista=categories: A;fonts: derivat;
 neoreaccionari neoreaccionària=categories: A;fonts: derivat;
 neorealista=categories: A;fonts: LT;
 neorenaixentista=categories: A;fonts: derivat;
