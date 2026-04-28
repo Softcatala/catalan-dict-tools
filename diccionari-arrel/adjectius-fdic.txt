@@ -12374,6 +12374,7 @@ etnicolingüístic -a=categories: A;fonts: derivat;
 etnobotànic etnobotànica=categories: A;fonts: LT;
 etnocentrista=categories: A;fonts: derivat;
 etnocida=categories: A;fonts: derivat;
+etnocràtic etnocràtica=categories: A;fonts: wiki;
 etnocultural=categories: A; fonts: dfrequencies;
 etnocèntric etnocèntrica=categories: A;fonts: LT;
 etnogràfic etnogràfica=categories: A;fonts: LT;

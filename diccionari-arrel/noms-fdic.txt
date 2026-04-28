@@ -34197,6 +34197,7 @@ etnobotànica=categories: F;fonts: LT;
 etnocentrisme=categories: M;fonts: LT;
 etnocidi=categories: M;fonts: LT;
 etnociència=categories: F;fonts: LT;
+etnocràcia=categories: F;fonts: wiki;
 etnoecologia=categories: F;fonts: termcat;
 etnografia=categories: F;fonts: LT;
 etnogènesi=categories: F;fonts: LT;
