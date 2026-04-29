@@ -23939,6 +23939,7 @@ Cosnes-et-Romain Cosnes-et-Romain NPCN000 # wikidata
 Cosoleto Cosoleto NPCN000 # wikidata
 Cosoryx Cosoryx NPCN000 # wikidata
 Cosp Cosp NPCNSP0
+Cospedal Cospedal NPCNSP0
 Cospeito Cospeito NPCN000 # wikidata
 Cospineda Cospineda NPCNSP0
 Cospinera Cospinera NPCNSP0
