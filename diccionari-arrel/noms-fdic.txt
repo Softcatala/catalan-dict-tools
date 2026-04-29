@@ -43227,6 +43227,7 @@ heterolecit=categories: M;fonts: LT;
 heterolisina=categories: F;fonts: dsalut;
 heterologia=categories: F;fonts: LT;
 heterolàlia=categories: F;fonts: dsalut;
+heteromasclisme=categories: M;fonts: derivat;
 heterometaplàsia=categories: F;fonts: dsalut;
 heterometria=categories: F;fonts: dsalut;
 heterometropia=categories: F;fonts: dsalut;
