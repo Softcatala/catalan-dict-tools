@@ -36531,6 +36531,7 @@ ficaci=categories: M;fonts: LT;
 ficada=categories: F;fonts: LT;
 ficador ficadora=categories: MF;fonts: LT;
 ficcionalisme=categories: M;fonts: LT;
+ficcionament=categories: M;fonts: derivat de ficcionar;
 ficció=categories: F;fonts: LT;
 ficel·la=categories: F;fonts: LT;
 ficina=categories: F;fonts: LT;
