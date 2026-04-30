@@ -6181,6 +6181,7 @@ Aristeu Aristeu NPMSSP0
 Aristeus Aristeu NPMPSP0
 Aristillus Aristillus NPCN000 # wikidata
 Aristions Aristió NPMPSP0
+Aristip Aristip NPMSSP0
 Aristió Aristió NPMSSP0
 Aristobul Aristobul NPMSSP0 # avl: noms de persona
 Aristochromis Aristochromis NPCN000 # wikidata

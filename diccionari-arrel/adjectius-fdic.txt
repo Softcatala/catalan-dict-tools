@@ -21787,6 +21787,7 @@ morfoclimàtic morfoclimàtica=categories: A;fonts: termcat;
 morfofonemàtic morfofonemàtica=categories: A;fonts: LT;
 morfofonològic morfofonològica=categories: A;fonts: LT;
 morfogen morfògena=categories: A;fonts: LT;
+morfogenètic morfogenètica=categories: A;fonts: termcat;
 morfogènic morfogènica=categories: A;fonts: LT;
 morfològic morfològica=categories: A;fonts: LT;
 morfomètric morfomètrica=categories: A;fonts: LT;
