@@ -93,6 +93,7 @@
 #hipersomia=categories: F;fonts: dsalut; no documentat?
 #iar=categories: M;fonts: LT; mes hebreu
 #ice=categories: M;fonts: dsalut;
+#inamobilitat=categories: F;fonts: DDLC,esadir (inamovibilitat, immobilitat?);
 #indole=categories: M;fonts: LT; terme de química, es confon amb índole
 #indole=categories: M;fonts: dsalut;
 #indusium griseum=categories: M;fonts: dsalut;
@@ -27436,6 +27437,7 @@ dúplica=categories: F;fonts: LT;
 dúrio=categories: M;fonts: LT;
 e-book=categories: M;fonts: esadir, neolosfera;
 e-mail=categories: M;fonts: esadir, GDLC;
+e-single=categories: M;fonts: anglès;
 e=categories: F;fonts: LT;
 ebastina=categories: F;fonts: dsalut;
 eben [pl. ébens]=categories: M;fonts: LT;
