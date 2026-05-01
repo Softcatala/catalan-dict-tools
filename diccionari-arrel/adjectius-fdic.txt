@@ -3471,6 +3471,7 @@ artisticomusical=categories: A;fonts: derivat;
 artisticopolític artisticopolítica=categories: A;fonts: derivat;
 artisticopoètic artisticopoètica=categories: A;fonts: derivat;
 artisticosocial=categories: A;fonts: derivat;
+artistoide=categories: A;fonts: derivat;
 artitzat artitzada=categories: A;fonts: LT;
 artoide=categories: A;fonts: LT;
 artoterciari artoterciària=categories: A;fonts: LT;
