@@ -56301,6 +56301,7 @@ Melekeok Melekeok NPCN000 # wikidata
 Melendi Melendi NPCN000 # wikidata
 Melendres Melendres NPCNSP0
 Meler Meler NPCNSP0
+Melero Melero NPCNSP0
 Melesse Melesse NPCN000 # wikidata
 Melfa Melfa NPCN000 # wikidata
 Melfi Melfi NPCSG00
