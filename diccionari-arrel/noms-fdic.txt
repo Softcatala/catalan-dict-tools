@@ -47514,6 +47514,7 @@ invariació=categories: F;fonts: DNV;
 invariant=categories: F;fonts: LT;
 invariància=categories: F;fonts: LT;
 invasina=categories: F;fonts: dsalut;
+invasivitat=categories: F;fonts: derivat;
 invasió=categories: F;fonts: LT;
 invasor invasora=categories: MF;fonts LT;
 invectiva=categories: F;fonts: LT;
