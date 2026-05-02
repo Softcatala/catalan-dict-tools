@@ -16225,6 +16225,8 @@ Bâgé-la-Ville Bâgé-la-Ville NPCN000 # wikidata
 Bâgé-le-Châtel Bâgé-le-Châtel NPCN000 # wikidata
 Bârlad Bârlad NPCN000 # wikidata
 Bârsana Bârsana NPCN000 # wikidata
+Bärenreiter Bärenreiter NPCNO00
+Bärenreiter-Verlag Bärenreiter-Verlag NPCSO00
 Bättwil Bättwil NPCN000 # wikidata
 Bèglas Bèglas NPCSG00
 Bèlagarda Bèlagarda NPCSG00 # esadir topònims
@@ -68673,6 +68675,7 @@ Philco Philco NPCN000 # wikidata
 Philentoma Philentoma NPCN000 # wikidata
 Philepitta Philepitta NPCN000 # wikidata
 Philesturnus Philesturnus NPCN000 # wikidata
+Philharmonie Philharmonie NPFSO00 # francès i alemany
 Philidor Philidor NPCN000 # wikidata
 Philip Philip NPCN000 # wikidata
 Philippeville Philippeville NPCN000 # wikidata
@@ -99856,3 +99859,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Queensferry Queensferry NPCSG00
