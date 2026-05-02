@@ -36486,6 +36486,7 @@ fibroesclerosi=categories: F;fonts: dsalut;
 fibrogastroscopi=categories: M;fonts: dsalut;
 fibroglioma=categories: M;fonts: dsalut;
 fibrogliosi=categories: F;fonts: dsalut;
+fibrogènesi=categories: F;fonts: termcat;
 fibroidectomia=categories: F;fonts: dsalut;
 fibrolipoma=categories: M;fonts: LT;
 fibroliposarcoma=categories: M;fonts: dsalut;

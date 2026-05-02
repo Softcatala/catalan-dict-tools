@@ -72717,6 +72717,7 @@ Queckendstedt Queckendstedt NPCNSP0 # medical
 Queen Queen NPCNSP0
 Queen Quenn NPCNO00
 Queens Queens NPCSG00
+Queensferry Queensferry NPCSG00
 Queensland Queensland NPCSG00
 Queensrÿche Queensrÿche NPCN000 # wikidata
 Queenstown Queenstown NPCSG00
@@ -99859,4 +99860,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Queensferry Queensferry NPCSG00
