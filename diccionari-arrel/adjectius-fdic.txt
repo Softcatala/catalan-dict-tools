@@ -28092,6 +28092,7 @@ registrador registradora=categories: A;fonts: LT;
 registral=categories: A;fonts: LT;
 reglamentador reglamentadora=categories: A;fonts: LT;
 reglamentari reglamentària=categories: A;fonts: LT;
+reglamentista=categories: A;fonts: LT, AVL;
 regmatogènic regmatogènica=categories: A;fonts: dsalut;
 regnant=categories: A;fonts: LT;
 regnícola=categories: A;fonts: LT;
