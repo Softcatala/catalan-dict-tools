@@ -49141,6 +49141,7 @@ Larivière Larivière NPCN000 # wikidata
 Larivière-Arnoncourt Larivière-Arnoncourt NPCN000 # wikidata
 Larkana Larkana NPCN000 # wikidata
 Larkfield-Wikiup Larkfield-Wikiup NPCN000 # wikidata
+Larkin Larkin NPCNSP0
 Larkspur Larkspur NPCN000 # wikidata
 Larksville Larksville NPCN000 # wikidata
 Larmor Larmor NPCNSP0 # medical
