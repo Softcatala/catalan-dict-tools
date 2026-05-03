@@ -63048,6 +63048,7 @@ papereta=categories: F;fonts: LT;
 paperina=categories: F;fonts: LT;
 paperinada=categories: F;fonts: LT;
 paperot=categories: M;fonts: LT;
+paperàs [pl. paperassos]=categories: M;fonts: augmentatiu,DCVB;
 paperí=categories: M;fonts: LT;
 papessa=categories: F;fonts: LT;
 papiament=categories: M;fonts: LT;
