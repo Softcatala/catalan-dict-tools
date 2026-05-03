@@ -442,6 +442,7 @@ OTT=categories: FI;fonts: termcat;
 Oscar=categories: M;fonts: esadir;
 Ostpolitik=categories: FS;fonts: alemany;
 PABA=categories: MI;fonts: dsalut;
+PAI=categories: MI;fonts: sigla;
 PAU=categories: MFI;fonts: termcat;
 PBB=categories: MI;fonts: dsalut;
 PC=categories: MI;fonts: esadir;
