@@ -32252,6 +32252,7 @@ Farscape Farscape NPCN000 # wikidata
 Farschviller Farschviller NPCN000 # wikidata
 Farson Farson NPCN000 # wikidata
 Fartàritx Fartàritx NPCSG00
+Faruk Faruk NPCN000 # wiki, Faruk I
 Farwell Farwell NPCN000 # wikidata
 Faryab Faryab NPCSG00 # esadir topònims
 Farébersviller Farébersviller NPCN000 # wikidata
@@ -32693,7 +32694,6 @@ Fertile Fertile NPCN000 # wikidata
 Fertrève Fertrève NPCN000 # wikidata
 Fertília Fertília NPCSG00
 Fertőrákos Fertőrákos NPCN000 # wikidata
-Feruk Feruk NPCN000 # wikidata
 Fervaches Fervaches NPCN000 # wikidata
 Fervaques Fervaques NPCN000 # wikidata
 Ferwerderadiel Ferwerderadiel NPCN000 # wikidata
@@ -91601,6 +91601,7 @@ Umeda Umeda NPCN000 # wikidata
 Umeå Umeå NPCSG00
 Umia Umia NPCSG00
 Umkana Umkana NPCN000 # wikidata
+Umm-Kulthum Umm-Kulthum NPFSSP0
 Umma Umma NPCSG00
 Ummagumma Ummagumma NPCN000 # wikidata
 Ummeliata Ummeliata NPCN000 # wikidata
