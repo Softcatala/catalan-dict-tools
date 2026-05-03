@@ -72946,6 +72946,7 @@ reedificador reedificadora=categories: MF;fonts LT;
 reeducació=categories: F;fonts: LT;
 reeixida=categories: F;fonts: LT;
 reeiximent=categories: M;fonts: LT;
+reel=categories: M;fonts: anglès, Instagram; # crea confusions?
 reelaboració=categories: F;fonts: LT;
 reelecció=categories: F;fonts: LT;
 reembarcada=categories: F;fonts: LT;

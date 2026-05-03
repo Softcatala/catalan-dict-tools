@@ -40766,6 +40766,7 @@ Henryville Henryville NPCN000 # wikidata
 Hensies Hensies NPCN000 # wikidata
 Hensley Hensley NPCN000 # wikidata
 Henvic Henvic NPCN000 # wikidata
+Henze Henze NPCNSP0
 Henítxesk Henítxesk NPCSG00 # esadir topònims
 Heortia Heortia NPCN000 # wikidata
 Hepacivirus Hepacivirus NPCN000 # wikidata
