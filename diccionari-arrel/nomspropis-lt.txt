@@ -35874,6 +35874,7 @@ Gatineau Gatineau NPCN000 # wikidata
 Gatius Gatius NPCNSP0
 Gatlinburg Gatlinburg NPCN000 # wikidata
 Gatlopp Gatlopp NPCN000 # wikidata
+Gatsby Gatsby NPMSSP0
 Gatteville-le-Phare Gatteville-le-Phare NPCN000 # wikidata
 Gattman Gattman NPCN000 # wikidata
 Gattopardo Gattopardo NPMSSP0
