@@ -8712,6 +8712,7 @@ autoestop=categories: M;fonts: LT;
 autoestopista=categories: MF;fonts: LT;
 autoetnografia=categories: F;fonts: derivat;
 autoevangelització=categories: F;fonts: derivat;
+autoexaltació=categories: F;fonts: derivat;
 autoexamen=categories: M;fonts: LT;
 autoexcitació=categories: F;fonts: LT;
 autoexclusió=categories: F;fonts: derivat;
