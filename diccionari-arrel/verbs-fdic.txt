@@ -8642,6 +8642,7 @@ reconstruir=categories: V;model:traduir;fonts: LT;
 recontaminar=categories: V;model:abominar;fonts: dsalut;
 recontar=categories: V;model:cantar;fonts: LT;
 recontextualitzar=categories: V;model:cantar;fonts: derivat;
+recontractar=categories: V;model:cantar;fonts: derivat;
 reconvenir=categories: V;model:prevenir;fonts: LT;
 reconvertir=categories: V;model:servir;fonts: LT;
 reconèixer=categories: V;model:conèixer;fonts: LT;

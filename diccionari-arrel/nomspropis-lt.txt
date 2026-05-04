@@ -53801,6 +53801,7 @@ Mallac Mallac NPCNSP0
 Mallacán Mallacán NPCN000 # wikidata
 Mallada Mallada NPCNSP0
 Mallafrè Mallafrè NPCNSP0
+Mallafré Mallafré NPCNSP0
 Mallahle Mallahle NPCN000 # wikidata
 Mallampati Mallampati NPCNSP0 # medical
 Mallandric Mallandric NPCNSP0
