@@ -24230,6 +24230,7 @@ desarrendament=categories: M;fonts: LT;
 desarrengament=categories: M;fonts: LT;
 desarrenglament=categories: M;fonts: LT;
 desarrenglerament=categories: M;fonts: LT;
+desarrollismo=categories: MS;fonts: castellà;
 desarrugament=categories: M;fonts: LT;
 desarticulació=categories: F;fonts: LT;
 desarxivament=categories: M;fonts: derivat;

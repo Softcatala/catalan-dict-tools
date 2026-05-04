@@ -9057,6 +9057,7 @@ desaqueferat desaqueferada=categories: A;fonts: LT;
 desarmable=categories: A;fonts: LT;
 desarmant=categories: A;fonts: derivat, no en diccionaris;
 desarranjador desarranjadora=categories: A;fonts: LT;
+desarrollista=categories: A;fonts: castellà;
 desassenyat desassenyada [sup. desassenyadíssim]=categories: A; font:apertium;
 desassossegador desassossegadora=categories: A;fonts: LT;
 desastrat desastrada=categories: A;fonts: LT;
