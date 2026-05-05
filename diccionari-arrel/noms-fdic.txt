@@ -76008,6 +76008,7 @@ sanaügenc sanaügenca=categories: MF;fonts: LT;
 sanaügí sanaügina=categories: MF;fonts: LT;
 sancallosa=categories: F;fonts: LT;
 sancallós=categories: M;fonts: LT;
+sanchisme=categories: MS;fonts: esadir;
 sanció=categories: F;fonts: LT;
 sanctus=categories: MI;fonts: LT;
 sandinisme=categories: M;fonts: LT;

@@ -29129,6 +29129,7 @@ sanatorial=categories: A;fonts: DNV;
 sanaügenc sanaügenca=categories: A;fonts: LT;
 sanaügí sanaügina=categories: A;fonts: LT;
 sancallós sancallosa=categories: A;fonts: LT;
+sanchista=categories: A;fonts: esadir;
 sancionable=categories: A;fonts: LT;
 sancionador sancionadora=categories: A;fonts: LT;
 sandinista=categories: A;fonts: LT;
