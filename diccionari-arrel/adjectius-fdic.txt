@@ -30116,6 +30116,7 @@ sisavat sisavada=categories: A;fonts: LT;
 siscentista=categories: A;fonts: LT;
 sismogràfic sismogràfica=categories: A;fonts: LT;
 sismològic sismològica=categories: A;fonts: LT;
+sismoresistent=categories: A;fonts: termcat;
 sissarcòtic sissarcòtica=categories: A;fonts: dsalut;
 sistematitzador -a=categories: A;fonts: derivat;
 sistematològic sistematològica=categories: A;fonts: LT;

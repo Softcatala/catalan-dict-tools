@@ -61,6 +61,8 @@
 #Carp Carp NPMSSP0 # avl: noms de persona
 #Carrossa Carrossa NPFSSP0 # avl: noms de persona
 #Carí Carí NPMSSP0 # avl: noms de persona
+#Catalan Catalan NPCN000 # wikidata
+#Catalán Catalán NPCN000 # wikidata
 #Caïm Caïm NPMSSP0 # avl: noms de persona
 #Cel Cel NPFSSP0 # avl: noms de persona
 #Celest Celest NPFSSP0 # avl: noms de persona
@@ -18960,7 +18962,6 @@ Catadau Catadau NPCSG00
 Catagela Catagela NPCN000 # wikidata
 Cataglyphis Cataglyphis NPCN000 # wikidata
 Catai Catai NPCSG00
-Catalan Catalan NPCN000 # wikidata
 Catalana Catalana NPFSG00
 Catalangate Catalangate NPMSO00
 Catalanitzador Catalanitzador NPMSO00
@@ -18970,7 +18971,6 @@ Catalluna Catalluna NPCN000 # wikidata
 Catalunya Catalunya NPFSG00
 CatalunyaCaixa CatalunyaCaixa NPCN000 # wikidata
 Català Català NPCNSP0
-Catalán Catalán NPCN000 # wikidata
 Catalão Catalão NPCN000 # wikidata
 Catamarca Catamarca NPCSG00
 Catamarruc Catamarruc NPCSG00
