@@ -30846,6 +30846,7 @@ supercontundent=categories: A;fonts: derivat;
 supercool=categories: AI;fonts: English;
 supercorrecte supercorrecta=categories: A;fonts: derivat;
 supercostós supercostosa=categories: A;fonts: derivat;
+supercreatiu supercreativa=categories: A;fonts: derivat;
 supercrític supercrítica=categories: A;fonts: LT;
 supercuidat supercuidada=categories: A;fonts: derivat;
 supercuriós supercuriosa=categories: A;fonts: derivat;
