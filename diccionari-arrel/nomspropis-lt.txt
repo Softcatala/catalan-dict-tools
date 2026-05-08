@@ -42962,8 +42962,8 @@ Iamàlia Iamàlia NPFSG00
 Ian Ian NPMSSP0
 Ianassa Ianassa NPCN000 # wikidata
 Ianca Ianca NPCN000 # wikidata
-Iang-Tsé Iang-Tsé NPCSG00
-Iangtsé Iangtsé NPCSG00 # esadir topònims
+Iang-Tsé Iang-Tsé NPMSG00
+Iangtsé Iangtsé NPMSG00 # esadir topònims
 Ianthocincla Ianthocincla NPCN000 # wikidata
 Ianukóvitx Ianukóvitx NPCNSP0
 Iapygia Iapygia NPCN000 # wikidata
