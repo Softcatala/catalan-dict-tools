@@ -86876,6 +86876,7 @@ Takht-i-Bahi Takht-i-Bahi NPCN000 # wikidata
 Takhār Takhār NPCSG00
 Takikawa Takikawa NPCN000 # wikidata
 Takko Takko NPCN000 # wikidata
+Taklamakan Taklamakan NPMSG00
 Tako Tako NPCN000 # wikidata
 Takotna Takotna NPCN000 # wikidata
 Takrouna Takrouna NPCN000 # wikidata
