@@ -552,6 +552,7 @@ ALH ALH NPCN000 # wikidata
 ALJ ALJ NPCN000 # wikidata
 ALN ALN NPCN000 # wikidata
 ALR ALR NPCN000 # wikidata
+ALSA ALSA NPCNO00
 ALV ALV NPCN000 # wikidata
 AMC AMC NPCN000 # wikidata
 AMD AMD NPCN000 # wikidata
@@ -82883,6 +82884,7 @@ Shimoda Shimoda NPCN000 # wikidata
 Shimoga Shimoga NPCSG00
 Shimonoseki Shimonoseki NPCSG00
 Shimotsuke Shimotsuke NPCN000 # wikidata
+Shin-chan Shin-chan NPMSO00
 Shinano Shinano NPCSG00
 Shindand Shindand NPCN000 # wikidata
 Shiner Shiner NPCN000 # wikidata

@@ -79923,6 +79923,7 @@ superrebaixa=categories: F;fonts: derivat;
 superregal=categories: M;fonts: derivat;
 superregne=categories: M;fonts: derivat;
 superresistència=categories: F;fonts: LT;
+superrobot=categories: M;fonts: derivat;
 superrotació=categories: F;fonts: wiki;
 supersaturació=categories: M;fonts: derivat;
 superscripció=categories: F;fonts: dsalut;
