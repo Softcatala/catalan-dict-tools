@@ -59825,6 +59825,7 @@ nul·liparitat=categories: F;fonts: LT;
 nul·litat=categories: F;fonts: LT;
 numantinisme=categories: M;fonts: DNV;
 numantí numantina=categories: MF;fonts: LT;
+numberblock=categories: M;fonts: televisió;
 numen=categories: M;fonts: LT;
 numerabilitat=categories: F;fonts: LT;
 numeració=categories: F;fonts: LT;

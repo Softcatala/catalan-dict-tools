@@ -98736,6 +98736,7 @@ Zolotarivka Zolotarivka NPCSG00 # esadir topònims
 Zoloté Zoloté NPCSG00 # esadir topònims
 Zoma Zoma NPCN000 # wikidata
 Zomba Zomba NPCSG00
+ZombieLars ZombieLars NPCNO00
 Zombor Zombor NPCN000 # wikidata
 Zomergem Zomergem NPCN000 # wikidata
 Zommange Zommange NPCN000 # wikidata
