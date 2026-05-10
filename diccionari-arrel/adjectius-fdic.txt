@@ -25,6 +25,7 @@
 #nostras=categories: AI;fonts: dsalut;
 #nòmade=categories: A;fonts: LT; només GDLC!
 #polià poliana=categories: A;fonts: LT; es confon amb polaines
+#proamnistia=categories: AI;fonts: derivat;
 #pros=categories: AI;fonts: LT; infreqüent
 #pèlvic pèlvica=categories: A;fonts: LT;
 #recorrible=categories: A;fonts: LT; ERROR!
@@ -26670,7 +26671,6 @@ pro-nord-americà pro-nord-americana=categories: A;fonts: derivat;
 pro-sud-africà pro-sud-africana=categories: A;fonts: derivat;
 proactiu proactiva=categories: A;fonts: LT;
 proafricà proafricana=categories: A;fonts: derivat;
-proamnistia=categories: AI;fonts: derivat;
 proaterogènic proaterogènica=categories: A;fonts: dsalut;
 proatlantista=categories: A;fonts: derivat;
 proavortista=categories: A;fonts: derivat;
