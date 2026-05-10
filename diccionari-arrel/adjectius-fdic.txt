@@ -2515,6 +2515,7 @@ antiinfecciós antiinfecciosa=categories: A;fonts: LT;
 antiinflacionari antiinflacionària=categories: A;fonts: derivat;
 antiinflacionista=categories: A;fonts: LT;
 antiinflamatori antiinflamatòria=categories: A;fonts: LT;
+antiinformatiu antiinformativa=categories: A;fonts: derivat;
 antiinstitucional=categories: A;fonts: LT;
 antiintel·lectual=categories: A;fonts: LT;
 antiintel·lectualista=categories: A;fonts: LT;
