@@ -89958,6 +89958,7 @@ Transandinomys Transandinomys NPCN000 # wikidata
 Transardània Transardània NPCN000 # wikidata
 Transbaikal Transbaikal NPCSG00
 Transcarpàcia Transcarpàcia NPFSG00
+Transcaucàsia Transcaucàsia NPFSG00
 Transdanubi Transdanubi NPMSG00
 Transdnièster Transdnièster NPMSG00
 Transformer Transformer NPCN000 # wikidata
