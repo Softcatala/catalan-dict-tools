@@ -272,6 +272,7 @@
 #Refugi Refugi NPFSSP0 # avl: noms de persona
 #Reial Reial NPCNSP0
 #Reis Reis NPFSSP0 # avl: noms de persona
+#Relevant Relevant NPCN000 # wikidata
 #Rey Rey NPCN000 # wikidata
 #Rio Rio NPCN000 # wikidata
 #Rosana Rosana NPFSSP0 # avl: noms de persona
@@ -74254,7 +74255,6 @@ Relayer Relayer NPCN000 # wikidata
 Relchela Relchela NPCN000 # wikidata
 Release Release NPCN000 # wikidata
 Relentless Relentless NPCN000 # wikidata
-Relevant Relevant NPCN000 # wikidata
 Reliance Reliance NPCN000 # wikidata
 Relic Relic NPCN000 # wikidata
 Relicanth Relicanth NPCN000 # wikidata
