@@ -46556,6 +46556,7 @@ indecisió=categories: F;fonts: LT;
 indeclinabilitat=categories: F;fonts: LT;
 indecorositat=categories: F; fonts: Jané;
 indecència=categories: F;fonts: LT;
+indecís indecisa=categories: MF;fonts: DDLC;
 indecòrum=categories: M;fonts: derivat;
 indefectibilitat=categories: F;fonts: LT;
 indefensió=categories: F;fonts: LT;
