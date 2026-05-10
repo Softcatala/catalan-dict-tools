@@ -17284,6 +17284,7 @@ individu indivídua=categories: A;fonts: LT;
 individual [sup. individualíssim]=categories: A;fonts: LT;
 individualista=categories: A;fonts: LT;
 individualitzable=categories: A;fonts: derivat;
+individualitzador individualitzadora=categories: A;fonts: derivat;
 individualitzat individualitzada [sup. individualitzadíssim]=categories: A; font:apertium;
 indivisible=categories: A;fonts: LT;
 indivulgable=categories: A;fonts: LT;

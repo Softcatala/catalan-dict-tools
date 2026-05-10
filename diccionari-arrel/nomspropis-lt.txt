@@ -143,6 +143,7 @@
 #Friederich Friederich NPCNSP0 # medical
 #Gad Gad NPCN000 # wikidata
 #Gad Gad NPMSSP0 # avl: noms de persona
+#Gené Gené NPCN000 # wikidata
 #Geronación Geronación NPCN000 # wikidata
 #Gesmil Gesmil NPFSSP0 # avl: noms de persona
 #Gesmí Gesmí NPFSSP0 # avl: noms de persona
@@ -594,6 +595,7 @@ AOT AOT NPCN000 # wikidata
 AOU AOU NPCN000 # wikidata
 AOV AOV NPCN000 # wikidata
 AOW AOW NPCN000 # wikidata
+APDCAT APDCAT NPFSO00
 APF APF NPCN000 # wikidata
 APH APH NPCN000 # wikidata
 APJ APJ NPCN000 # wikidata
@@ -10366,6 +10368,7 @@ Beaufremont Beaufremont NPCN000 # wikidata
 Beaugeay Beaugeay NPCN000 # wikidata
 Beaugency Beaugency NPCN000 # wikidata
 Beaugies-sous-Bois Beaugies-sous-Bois NPCN000 # wikidata
+Beauharnais Beauharnais NPCNSP0
 Beaujeu Beaujeu NPCN000 # wikidata
 Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur NPCN000 # wikidata
 Beaujolais Beaujolais NPCN000 # wikidata
@@ -36265,7 +36268,6 @@ Genària Genària NPFSSP0 # avl: noms de persona
 Gençana Gençana NPCNSP0
 Gençay Gençay NPCN000 # wikidata
 Gençà Gençà NPCNSP0
-Gené Gené NPCN000 # wikidata
 Genís Genís NPCNSP0
 Genís Genís NPMSSP0
 GeoGebra GeoGebra NPMSO00
@@ -53844,6 +53846,7 @@ Mallos Mallos NPCN000 # wikidata
 Malloué Malloué NPCN000 # wikidata
 Mallow Mallow NPCN000 # wikidata
 Mallén Mallén NPCNSP0
+Malmaison Malmaison NPCSG00
 Malmercat Malmercat NPCSG00
 Malmerspach Malmerspach NPCN000 # wikidata
 Malmkrog Malmkrog NPCN000 # wikidata
