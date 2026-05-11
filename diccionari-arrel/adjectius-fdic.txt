@@ -5914,6 +5914,7 @@ caneter canetera=categories: A;fonts: LT;
 canetà canetana=categories: A;fonts: LT;
 canibalesc canibalesca=categories: A;fonts: LT;
 canicular=categories: A;fonts: LT;
+caniforme=categories: A;fonts: wikipedia;
 canigonenc canigonenca=categories: A;fonts: LT;
 canillenc canillenca=categories: A;fonts: LT;
 caniniforme=categories: A;fonts: dsalut;

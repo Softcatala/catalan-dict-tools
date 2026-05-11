@@ -1,12 +1,12 @@
 r r ir VMN00000 # omplir
 r nt ir VMG00000 # omplint
-ir ert ir VMP00SM0 # omplert
+ir ert ir VMP00SMC # omplert
 r t ir VMP00SM0 # omplit
-ir erta ir VMP00SF0 # omplerta
+ir erta ir VMP00SFC # omplerta
 r da ir VMP00SF0 # omplida
-ir erts ir VMP00PM0 # omplerts
+ir erts ir VMP00PMC # omplerts
 r ts ir VMP00PM0 # omplits
-ir ertes ir VMP00PF0 # omplertes
+ir ertes ir VMP00PFC # omplertes
 r des ir VMP00PF0 # omplides
 ir o ir VMIP1S0C # omplo
 omplir òmplic ir VMIP1S0V # òmplic
