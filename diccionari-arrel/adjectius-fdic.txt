@@ -29518,6 +29518,7 @@ semidefinit semidefinida=categories: A;fonts: LT;
 semidemocràtic semidemocràtica=categories: A;fonts: derivat;
 semideponent=categories: A;fonts: LT;
 semiderruït semiderruïda=categories: A;fonts: derivat;
+semidesconegut semidesconeguda=categories: A;fonts: derivat;
 semidescremat semidescremada=categories: A;fonts: LT;
 semidesnatat semidesnatada=categories: A;fonts: LT;
 semidestruït semidestruïda=categories: A;fonts: derivat;
