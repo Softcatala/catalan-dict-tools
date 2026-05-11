@@ -16488,6 +16488,7 @@ idioretinal=categories: A;fonts: dsalut;
 idiorítmic idiorítmica=categories: A;fonts: LT;
 idiosincràtic idiosincràtica=categories: A;fonts: LT;
 idiota=categories: A;fonts: LT;
+idiotitzador idiotitzadora=categories: A;fonts: derivat;
 idiotròfic idiotròfica=categories: A;fonts: dsalut;
 idiotròpic idiotròpica=categories: A;fonts: dsalut;
 idioventricular=categories: A;fonts: dsalut;
