@@ -1,13 +1,13 @@
 r r ir VMN00000 # sofrir
 r nt ir VMG00000 # sofrint
 rir ert ir VMP00SM0 # sofert
-r t ir VMP00SM0 # sofrit
+r t ir VMP00SMV # sofrit
 rir erta ir VMP00SF0 # soferta
-r da ir VMP00SF0 # sofrida
+r da ir VMP00SFV # sofrida
 rir erts ir VMP00PM0 # soferts
-r ts ir VMP00PM0 # sofrits
+r ts ir VMP00PMV # sofrits
 rir ertes ir VMP00PF0 # sofertes
-r des ir VMP00PF0 # sofrides
+r des ir VMP00PFV # sofrides
 ir esc ir VMIP1S0Z # sofresc
 ir eixo ir VMIP1S0C # sofreixo
 r sc ir VMIP1S0V # sofrisc

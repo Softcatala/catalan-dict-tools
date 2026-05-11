@@ -1,12 +1,12 @@
 r r ir VMN00000 # oferir
 r nt ir VMG00000 # oferint
-r t ir VMP00SM0 # oferit
+r t ir VMP00SMV # oferit
 ir t ir VMP00SM0 # ofert
-r da ir VMP00SF0 # oferida
+r da ir VMP00SFV # oferida
 ir ta ir VMP00SF0 # oferta
-r ts ir VMP00PM0 # oferits
+r ts ir VMP00PMV # oferits
 ir ts ir VMP00PM0 # oferts
-r des ir VMP00PF0 # oferides
+r des ir VMP00PFV # oferides
 ir tes ir VMP00PF0 # ofertes
 ir esc ir VMIP1S0Z # oferesc
 ir eixo ir VMIP1S0C # ofereixo
