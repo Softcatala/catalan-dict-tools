@@ -1,12 +1,12 @@
 r r ir VMN00000 # acomplir
 r nt ir VMG00000 # acomplint
-ir ert ir VMP00SM0 # acomplert
+ir ert ir VMP00SMC # acomplert
 r t ir VMP00SM0 # acomplit
-ir erta ir VMP00SF0 # acomplerta
+ir erta ir VMP00SFC # acomplerta
 r da ir VMP00SF0 # acomplida
-ir erts ir VMP00PM0 # acomplerts
+ir erts ir VMP00PMC # acomplerts
 r ts ir VMP00PM0 # acomplits
-ir ertes ir VMP00PF0 # acomplertes
+ir ertes ir VMP00PFC # acomplertes
 r des ir VMP00PF0 # acomplides
 ir esc ir VMIP1S0Z # acomplesc
 ir eixo ir VMIP1S0C # acompleixo
