@@ -52970,6 +52970,7 @@ massalota=categories: F;fonts: LT;
 massanenc massanenca=categories: MF;fonts: LT;
 massapà=categories: M;fonts: LT;
 massatge=categories: M;fonts: LT;
+massatget=categories: M;fonts: diminutiu;
 massatgista=categories: MF;fonts: LT;
 masser=categories: M;fonts: LT;
 masseter=categories: M;fonts: LT;
