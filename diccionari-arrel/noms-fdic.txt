@@ -19325,6 +19325,7 @@ coloració=categories: F;fonts: LT;
 coloraina=categories: F;fonts: LT;
 colorament=categories: M;fonts: LT;
 colorant=categories: M;fonts: LT;
+coloratura=categories: F;fonts: música,AVL,termcat;
 colorectostomia=categories: F;fonts: dsalut;
 coloret=categories: M;fonts: LT;
 colorimetria=categories: F;fonts: LT;
