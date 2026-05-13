@@ -15803,6 +15803,7 @@ hiperplàstic hiperplàstica=categories: A;fonts: dsalut;
 hiperpneic hiperpneica=categories: A;fonts: dsalut;
 hiperpolaritzant=categories: A;fonts: derivat;
 hiperpolaritzat hiperpolaritzada=categories: A;fonts: derivat;
+hiperpolític hiperpolítica=categories: A;fonts: derivat;
 hiperpotassèmic hiperpotassèmica=categories: A;fonts: dsalut;
 hiperpredador hiperpredadora=categories: A;fonts: LT;
 hiperproductiu hiperproductiva=categories: A;fonts: derivat;

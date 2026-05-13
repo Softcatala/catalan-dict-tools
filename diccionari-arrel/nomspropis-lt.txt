@@ -44311,6 +44311,7 @@ Jacurso Jacurso NPCN000 # wikidata
 Jadraque Jadraque NPCN000 # wikidata
 Jadrtovac Jadrtovac NPCN000 # wikidata
 Jaecoo Jaecoo NPCN000 # wikidata
+Jaeger Jaeger NPCNSP0
 Jaekelopterus Jaekelopterus NPCN000 # wikidata
 Jael Jael NPFSSP0 # avl: noms de persona
 Jafa Jafa NPCSG00 # esadir topònims
@@ -45477,6 +45478,7 @@ Jánovas Jánovas NPCN000 # wikidata
 Jánovce Jánovce NPCN000 # wikidata
 Játar Játar NPCN000 # wikidata
 Játékok Játékok NPCN000 # wikidata
+Jäger Jäger NPCNSP0
 Jägermeister Jägermeister NPCN000 # wikidata
 Jämsä Jämsä NPCN000 # wikidata
 Jämtland Jämtland NPCN000 # wikidata
