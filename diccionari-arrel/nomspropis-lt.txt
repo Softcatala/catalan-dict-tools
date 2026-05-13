@@ -31365,6 +31365,8 @@ Eurocephalus Eurocephalus NPCN000 # wikidata
 Eurocities Eurocities NPCN000 # wikidata
 Eurocopa Eurocopa NPFSO00
 Eurocopes Eurocopa NPFPO00
+Eurocup Eurocup NPFSO00
+Eurocups Eurocup NPFPO00
 Eurocòs Eurocòs NPMSO00
 Eurodoc Eurodoc NPCN000 # wikidata
 Eurofighter Eurofighter NPMNO00
