@@ -340,6 +340,7 @@ ETF=categories: MI;fonts: sigla, english;
 ETT=categories: FI;fonts: sigla;
 EUR=categories: MI;fonts: abreviatura;
 Eurobaròmetre=categories: M;fonts: esadir;
+Eurocup=categories: F;fonts: esadir;
 Excelsior=categories: M; fonts: termcat;
 FC=categories: MI;fonts: sigla;
 FIC=categories: MFI;fonts: sigla;
