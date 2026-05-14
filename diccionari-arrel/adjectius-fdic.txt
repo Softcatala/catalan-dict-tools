@@ -16646,6 +16646,7 @@ immanentista=categories: A;fonts: LT;
 immarcescible=categories: A;fonts: LT;
 immaridable=categories: A;fonts: LT;
 immaterial=categories: A;fonts: LT;
+immatriculable=categories: A;fonts: derivat,termcat;
 immatur immatura=categories: A;fonts: LT;
 immediat immediata [sup. immediatíssim]=categories: A;fonts: LT;
 immedicable=categories: A;fonts: LT;

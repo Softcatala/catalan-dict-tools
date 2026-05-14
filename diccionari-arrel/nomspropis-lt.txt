@@ -195,6 +195,7 @@
 #Laure Laure NPMSSP0 # avl: noms de persona
 #Leh Leh NPCN000 # wikidata
 #Leona Leona NPCN000 # wikidata
+#Libros Libros NPCN000 # wikidata
 #Llibre Llibre NPCNSP0
 #Lucia Lucia NPFSG00
 #Létra Létra NPCN000 # wikidata
@@ -50331,7 +50332,6 @@ Libreville Libreville NPCSG00
 LibriVox LibriVox NPCN000 # wikidata
 Librilla Librilla NPCN000 # wikidata
 Librizzi Librizzi NPCN000 # wikidata
-Libros Libros NPCN000 # wikidata
 Libuci Libuci NPCN000 # wikidata
 Libuna Libuna NPCN000 # wikidata
 Libya Libya NPCN000 # wikidata
