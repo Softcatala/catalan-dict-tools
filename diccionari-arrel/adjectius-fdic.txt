@@ -30836,6 +30836,7 @@ supercarismàtic supercarismàtica=categories: A;fonts: derivat;
 supercarregat supercarregada=categories: A;fonts: derivat;
 supercatalà supercatalana=categories: A;fonts: derivat;
 supercatastròfic supercatastròfica=categories: A;fonts: derivat;
+supercavitant=categories: A;fonts: derivat;
 supercel·lular=categories: A;fonts: derivat;
 supercentenari supercentenària=categories: A;fonts: wiki;
 superciliar=categories: A;fonts: dsalut;
