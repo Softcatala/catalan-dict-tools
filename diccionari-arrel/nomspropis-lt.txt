@@ -141,6 +141,7 @@
 #Frankfort Frankfort NPCN000 # wikidata
 #Frankfort Frankfort NPCSG00 # ciutat petita, es pot confondre anb Frankfurt
 #Friederich Friederich NPCNSP0 # medical
+#Fundamental Fundamental NPCN000 # wikidata
 #Gad Gad NPCN000 # wikidata
 #Gad Gad NPMSSP0 # avl: noms de persona
 #Gené Gené NPCN000 # wikidata
@@ -34845,7 +34846,6 @@ Funafuti Funafuti NPCSG00
 Funchal Funchal NPCSG00
 Funchalia Funchalia NPCN000 # wikidata
 Funcor-Munguia Funcor-Munguia NPCN000 # wikidata
-Fundamental Fundamental NPCN000 # wikidata
 Fundania Fundania NPCN000 # wikidata
 FundiPau FundiPau NPCN000 # wikidata
 Fundulea Fundulea NPCN000 # wikidata
