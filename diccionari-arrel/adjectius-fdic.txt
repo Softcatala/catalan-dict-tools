@@ -14007,6 +14007,7 @@ freqüent [sup. freqüentíssim]=categories: A; font:apertium;
 freqüentador freqüentadora=categories: A;fonts: LT;
 freqüentat freqüentada [sup. freqüentadíssim]=categories: A;fonts: LT;
 freqüentatiu freqüentativa=categories: A;fonts: LT;
+freqüentista=categories: A;fonts: termcat,
 fresc fresca [sup. fresquíssim]=categories: A;fonts: LT;
 frescal=categories: A;fonts: LT;
 frescós frescosa=categories: A;fonts: LT;

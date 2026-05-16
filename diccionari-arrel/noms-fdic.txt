@@ -38401,6 +38401,7 @@ frenòpata=categories: MF;fonts: LT;
 freqüencímetre=categories: M;fonts: LT;
 freqüentació=categories: F;fonts: LT;
 freqüentador freqüentadora=categories: MF;fonts LT;
+freqüentisme=categories: M;fonts: termcat,
 freqüència=categories: F;fonts: LT;
 fres=categories: M;fonts: LT;
 fresa=categories: F;fonts: LT;

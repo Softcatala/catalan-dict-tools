@@ -27601,6 +27601,7 @@ Dock Dock NPCN000 # wikidata
 Dockanema Dockanema NPCN000 # wikidata
 Doclisboa Doclisboa NPCN000 # wikidata
 Docodon Docodon NPCN000 # wikidata
+Doctorow Doctorow NPCNSP0
 Doda Doda NPFSSP0
 Dodanga Dodanga NPCN000 # wikidata
 Dodat Dodat NPCNSP0
