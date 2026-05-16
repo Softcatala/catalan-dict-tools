@@ -7506,6 +7506,7 @@ concarrí concarrina=categories: A;fonts: LT;
 concavat concavada=categories: A;fonts: LT;
 concavoconvex concavoconvexa=categories: A;fonts: LT;
 concebible=categories: A;fonts: LT;
+concedent=categories: A;fonts: termcat;
 concedible=categories: A;fonts: LT;
 concentrable=categories: A;fonts: LT;
 concentracionari concentracionària=categories: A;fonts: LT;

@@ -255,6 +255,7 @@
 #Partido Partido NPCN000 # wikidata
 #Pascual Pascual NPCN000 # wikidata
 #Patro Patro NPFSSP0 # avl: noms de persona
+#Pekin Pekin NPCN000 # wikidata
 #Pelegrina Pelegrina NPFSSP0 # avl: noms de persona
 #Penedes Penedes NPCNSP0
 #Penedes Penedes NPCSG00
@@ -586,6 +587,7 @@ ANSI ANSI NPMSO00
 ANW ANW NPCN000 # wikidata
 AOA AOA NPCN000 # wikidata
 AOB AOB NPCN000 # wikidata
+AOC AOC NPCSO00
 AOD AOD NPCN000 # wikidata
 AOE AOE NPCN000 # wikidata
 AOF AOF NPCN000 # wikidata
@@ -6887,7 +6889,7 @@ Asmarats Asmarats NPCNSP0
 Asmet Asmet NPMSSP0 # avl: noms de persona
 Asmik Asmik NPCN000 # wikidata
 Asmithwoodwardia Asmithwoodwardia NPCN000 # wikidata
-Asmodeus Asmodeus NPCN000 # wikidata
+Asmodeu Asmodeu NPMSSP0
 Asmodexia Asmodexia NPCN000 # wikidata
 Asmonea Asmonea NPFSSP0
 Asmonees Asmonea NPFPSP0
@@ -67821,7 +67823,6 @@ Pekalongan Pekalongan NPCSG00
 Pekanbaru Pekanbaru NPCN000 # wikidata
 Pekania Pekania NPCN000 # wikidata
 Pekela Pekela NPCN000 # wikidata
-Pekin Pekin NPCN000 # wikidata
 Peksater Peksater NPCN000 # wikidata
 Pel-et-Der Pel-et-Der NPCN000 # wikidata
 Pelabravo Pelabravo NPCN000 # wikidata
@@ -73011,6 +73012,7 @@ Qustul Qustul NPCN000 # wikidata
 QuteCom QuteCom NPCN000 # wikidata
 Quthing Quthing NPCSG00
 Quzhou Quzhou NPCSG00
+Quèops Quèops NPMSSP0
 Quèquicom Quèquicom NPCN000 # wikidata
 Quéant Quéant NPCN000 # wikidata
 Québriac Québriac NPCN000 # wikidata
