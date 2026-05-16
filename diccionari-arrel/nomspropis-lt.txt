@@ -37,6 +37,8 @@
 #Arquímedes Arquímedes NPMSSP0 # avl: noms de persona
 #Arte Arte NPCN000 # wikidata
 #Artemis Artemi NPMPSP0
+#Asmonea Asmonea NPFSSP0
+#Asmonees Asmonea NPFPSP0
 #Atlas Atlas NPCN000 # wikidata
 #Audaç Audaç NPMSSP0 # avl: noms de persona
 #Batiste Batiste NPMSSP0 # avl: noms de persona
@@ -6891,8 +6893,6 @@ Asmik Asmik NPCN000 # wikidata
 Asmithwoodwardia Asmithwoodwardia NPCN000 # wikidata
 Asmodeu Asmodeu NPMSSP0
 Asmodexia Asmodexia NPCN000 # wikidata
-#Asmonea Asmonea NPFSSP0
-#Asmonees Asmonea NPFPSP0
 Asnan Asnan NPCN000 # wikidata
 Asnans-Beauvoisin Asnans-Beauvoisin NPCN000 # wikidata
 Asnar Asnar NPCSG00
@@ -22183,6 +22183,7 @@ Cleistachne Cleistachne NPCN000 # wikidata
 Cleistocactus Cleistocactus NPCN000 # wikidata
 Cleistochloa Cleistochloa NPCN000 # wikidata
 Clelandina Clelandina NPCN000 # wikidata
+Clemenceau Clemenceau NPCNSP0
 Clemenci Clemenci NPMSSP0 # avl: noms de persona
 Clement Clement NPMSSP0 # avl: noms de persona
 Clementa Clementa NPFSSP0 # avl: noms de persona
