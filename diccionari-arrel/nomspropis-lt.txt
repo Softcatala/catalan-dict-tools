@@ -32410,6 +32410,7 @@ Februus Februus NPCN000 # wikidata
 Febrònia Febrònia NPFSSP0
 Febrònies Febrònia NPFPSP0
 Febró Febró NPFSG00
+Febus Febus NPMSSP0
 Febvin-Palfart Febvin-Palfart NPCN000 # wikidata
 Fecenia Fecenia NPCN000 # wikidata
 Fechner Fechner NPCN000 # wikidata
@@ -35887,6 +35888,7 @@ Gatielles Gatielles NPCNSP0
 Gatineau Gatineau NPCN000 # wikidata
 Gatius Gatius NPCNSP0
 Gatlinburg Gatlinburg NPCN000 # wikidata
+Gatling Gatling NPCNSP0
 Gatlopp Gatlopp NPCN000 # wikidata
 Gatsby Gatsby NPMSSP0
 Gatteville-le-Phare Gatteville-le-Phare NPCN000 # wikidata
@@ -79903,6 +79905,7 @@ Sallgast Sallgast NPCN000 # wikidata
 Sallisaw Sallisaw NPCN000 # wikidata
 Salliura Salliura NPCNSP0
 Sallot Sallot NPCNSP0
+Sally Sally NPFSSP0
 Sallywalkerana Sallywalkerana NPCN000 # wikidata
 Salm-Dhaun Salm-Dhaun NPCN000 # wikidata
 Salm-Horstmar Salm-Horstmar NPCN000 # wikidata
@@ -91171,6 +91174,7 @@ Tyndall Tyndall NPCNSP0 # medical
 Tyne Tyne NPCSG00
 Tyneham Tyneham NPCN000 # wikidata
 Tynemouth Tynemouth NPCSG00
+Tyneside Tyneside NPCSG00
 Tynwald Tynwald NPCN000 # wikidata
 Tyonek Tyonek NPCN000 # wikidata
 Typhistes Typhistes NPCN000 # wikidata

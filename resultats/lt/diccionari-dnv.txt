@@ -55321,8 +55321,6 @@ picamatalafs picamatalafs NCMN000
 picapleits picapleits NCCN000
 picarassa picarassa NCFS000
 picarasses picarassa NCFP000
-picardons picardó NCMP000
-picardó picardó NCMS000
 picatort picatort NCMS000
 picatorts picatort NCMP000
 picatroncs picatroncs NCMN000

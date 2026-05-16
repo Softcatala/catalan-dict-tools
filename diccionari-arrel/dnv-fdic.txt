@@ -3410,7 +3410,6 @@ picafort=categories: M;fonts: DNV;
 picamatalafs=categories: MI;fonts: DNV;
 picapleits=categories: MFI;fonts: DNV;
 picarassa=categories: F;fonts: DNV;
-picardó=categories: M;fonts: DNV;
 picatort=categories: M;fonts: DNV;
 picatroncs=categories: MI;fonts: DNV;
 picatxo=categories: M;fonts: DNV;
