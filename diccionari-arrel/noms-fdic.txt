@@ -10648,6 +10648,7 @@ benaventí benaventina=categories: MF;fonts: LT;
 benavindre=categories: M;fonts: LT;
 benavinença=categories: F;fonts: LT;
 benazepril=categories: M;fonts: dsalut;
+benchmark=categories: M;fonts: English;
 benchmarking=categories: M;fonts: English;
 benciclà=categories: M;fonts: dsalut;
 bendamustina=categories: F;fonts: dsalut;
