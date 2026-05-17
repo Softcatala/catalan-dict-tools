@@ -31361,6 +31361,7 @@ Euristeva Euristeva NPFSSP0 # avl: noms de persona
 Euro-Collins Euro-Collins NPCNSP0 # medical
 EuroBillTracker EuroBillTracker NPCN000 # wikidata
 EuroCity EuroCity NPCN000 # wikidata
+EuroLLM EuroLLM NPMNO00
 EuroNight EuroNight NPCN000 # wikidata
 EuroVelo EuroVelo NPCN000 # wikidata
 Eurobasket Eurobasket NPMSO00
@@ -48184,6 +48185,7 @@ LLS LLS NPCN000 # wikidata
 LLV LLV NPCN000 # wikidata
 LLVM LLVM NPCN000 # wikidata
 LLYLM LLYLM NPCN000 # wikidata
+LLaMA LLaMA NPMNO00
 LM317 LM317 NPCN000 # wikidata
 LMA LMA NPCN000 # wikidata
 LMB LMB NPCN000 # wikidata
@@ -64711,6 +64713,7 @@ Ommen Ommen NPCN000 # wikidata
 Ommeray Ommeray NPCN000 # wikidata
 Ommoy Ommoy NPCN000 # wikidata
 Omméel Omméel NPCN000 # wikidata
+OmniASR OmniASR NPCNO00
 OmniCompete OmniCompete NPCN000 # wikidata
 Omniversum Omniversum NPCN000 # wikidata
 Omo Omo NPCSG00
