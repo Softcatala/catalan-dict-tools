@@ -58027,6 +58027,7 @@ Modesta Modesta NPFSSP0
 Modestes Modesta NPFPSP0
 Modesto Modesto NPCN000 # wikidata
 Modests Modest NPMPSP0
+Modi Modi NPCNSP0
 Modica Modica NPCSG00
 Modigliani Modigliani NPCNSP0
 Modin Modin NPCN000 # wikidata
