@@ -22174,6 +22174,7 @@ museològic museològica=categories: A;fonts: LT;
 muser musera=categories: A;fonts: LT;
 muserenc muserenca=categories: A;fonts: LT;
 museístic museística=categories: A;fonts: LT;
+museïtzable=categories: A;fonts: termcat;
 musicable=categories: A;fonts: LT;
 musical=categories: A;fonts: LT;
 musicològic musicològica=categories: A;fonts: LT;
