@@ -81779,6 +81779,7 @@ Sedegliano Sedegliano NPCN000 # wikidata
 Sedella Sedella NPCN000 # wikidata
 Sedenia Sedenia NPCN000 # wikidata
 Seder Seder NPCNSP0
+Sedeta Sedeta NPFSG00
 Sedgewickville Sedgewickville NPCN000 # wikidata
 Sedgwick Sedgwick NPCN000 # wikidata
 Sediles Sediles NPCN000 # wikidata
