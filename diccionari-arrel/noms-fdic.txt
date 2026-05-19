@@ -79186,6 +79186,7 @@ subcutis=categories: MI;fonts: dsalut;
 subcàs=categories: M;fonts: derivat;
 subcòrtex=categories: M;fonts: dsalut;
 subcòs [pl. subcossos]=categories: M;fonts: LT;
+subdebat=categories: M;fonts: derivat;
 subdelegació=categories: F;fonts: LT;
 subdelegat subdelegada=categories: MF;fonts: LT;
 subdeliri=categories: M;fonts: LT;
