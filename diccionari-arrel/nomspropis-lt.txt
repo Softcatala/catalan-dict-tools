@@ -4630,6 +4630,7 @@ Andeville Andeville NPCN000 # wikidata
 Andevo Andevo NPCN000 # wikidata
 Andhra Andhra NPCN000 # wikidata
 Andia Andia NPCN000 # wikidata
+Andic Andic NPCNSP0
 Andigné Andigné NPCN000 # wikidata
 Andijk Andijk NPCN000 # wikidata
 Andijon Andijon NPCSG00 # esadir topònims

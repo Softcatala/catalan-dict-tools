@@ -41169,6 +41169,7 @@ governament=categories: M;fonts: LT;
 governant=categories: MF;fonts: LT;
 governanta=categories: F;fonts: LT;
 governança=categories: F;fonts: LT;
+governet=categories: M;fonts: diminutiu;
 goyazita=categories: F;fonts: LT;
 goècia=categories: F;fonts: LT;
 gra=categories: M;fonts: LT;

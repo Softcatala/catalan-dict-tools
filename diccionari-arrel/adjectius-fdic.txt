@@ -67,6 +67,8 @@
 8è 8a [pl. 8ns]=categories: AO;fonts: LT;
 9è 9a [pl. 9ns]=categories: AO;fonts: LT;
 ABS=categories: AI;fonts: termcat;
+B2B=categories: AI;fonts: sigla;
+B2C=categories: AI;fonts: sigla;
 CMYK=categories: AI; fonts: termcat;
 CompartirIgual=categories: AI;fonts: CC;
 FFP2=categories: AI;fonts: fundeu;
