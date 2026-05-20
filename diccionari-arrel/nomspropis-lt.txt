@@ -86244,6 +86244,7 @@ Swimming Swimming NPCN000 # wikidata
 Swindon Swindon NPCSG00
 Swingers Swingers NPCN000 # wikidata
 Swink Swink NPCN000 # wikidata
+Swinney Swinney NPCNSP0
 Swisher Swisher NPCN000 # wikidata
 Swiss-Prot Swiss-Prot NPCN000 # wikidata
 Swissair Swissair NPCN000 # wikidata
