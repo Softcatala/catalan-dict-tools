@@ -65,6 +65,7 @@
 #Carí Carí NPMSSP0 # avl: noms de persona
 #Catalan Catalan NPCN000 # wikidata
 #Catalán Catalán NPCN000 # wikidata
+#Catarina Catarina NPCN000 # wikidata
 #Caïm Caïm NPMSSP0 # avl: noms de persona
 #Cel Cel NPFSSP0 # avl: noms de persona
 #Celest Celest NPFSSP0 # avl: noms de persona
@@ -18996,7 +18997,6 @@ Catanzaro Catanzaro NPCSG00
 Cataonia Cataonia NPCN000 # wikidata
 Catapodium Catapodium NPCN000 # wikidata
 Catapsephis Catapsephis NPCN000 # wikidata
-Catarina Catarina NPCN000 # wikidata
 Catarineu Catarineu NPCNSP0
 Catarroja Catarroja NPFSG00
 Catassús Catassús NPCNSP0
