@@ -66859,6 +66859,7 @@ Paniza Paniza NPCN000 # wikidata
 Panjab Panjab NPMSG00
 Panjdeh Panjdeh NPCN000 # wikidata
 Panjin Panjin NPCN000 # wikidata
+Pankhurst Pankhurst NPCNSP0
 Pankow Pankow NPCSG00
 Panmunjeom Panmunjeom NPCSG00
 Panmunjom Panmunjom NPCSG00 # esadir topònims
