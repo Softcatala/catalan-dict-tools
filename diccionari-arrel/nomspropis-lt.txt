@@ -83775,6 +83775,7 @@ Skuodas Skuodas NPCN000 # wikidata
 Skwentna Skwentna NPCN000 # wikidata
 SkyGames SkyGames NPCN000 # wikidata
 SkyShowtime SkyShowtime NPCN000 # wikidata
+Skydance Skydance NPCNO00
 Skyjo Skyjo NPCN000 # wikidata
 Skykomish Skykomish NPCN000 # wikidata
 Skylab Skylab NPCN000 # wikidata
