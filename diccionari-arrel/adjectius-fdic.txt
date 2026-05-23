@@ -17268,6 +17268,7 @@ indeterminat indeterminada=categories: A;fonts: LT;
 indeterminista=categories: A;fonts: LT;
 indeturable=categories: A;fonts: LT;
 indevot indevota=categories: A;fonts: LT;
+indexable=categories: A;fonts: derivat;
 indi índia=categories: A;fonts: LT;
 indicador indicadora=categories: A;fonts: LT;
 indicatiu indicativa=categories: A;fonts: LT;

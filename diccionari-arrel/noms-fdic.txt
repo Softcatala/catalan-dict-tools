@@ -46607,6 +46607,7 @@ indeterminada=categories: F;fonts: LT;
 indeterminisme=categories: M;fonts: LT;
 indeterminista=categories: MF;fonts: LT;
 indevoció=categories: F;fonts: LT;
+indexabilitat=categories: F;fonts: derivat;
 indexació=categories: F;fonts: LT;
 indexador=categories: M;fonts: LT;
 indexatge=categories: M;fonts: LT;
