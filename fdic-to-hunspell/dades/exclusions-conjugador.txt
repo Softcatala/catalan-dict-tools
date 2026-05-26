@@ -20,4 +20,8 @@ alcançar
 mangar
 currar
 
+#arcaismes o errades
+júnyer
+atrontollar
+
 # aborregar, afiançar, afincar, aguar, aguardar, amurallar, ansiar, apenar, atronar, beneficar, binar, birlar, bollir, ciar, composar, custodir, decepcionar, depenjar, descollonar, despedir, disfrutar, emblar, encorsetar, endarreriar, estropejar, gabar, ganyar, mediar, midar, mundar, raportar, rossegar, secar, tatxar, transir, tupar, 
