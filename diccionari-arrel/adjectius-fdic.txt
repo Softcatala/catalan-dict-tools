@@ -12843,6 +12843,7 @@ extrainstitucional=categories: A;fonts: derivat;
 extraintestinal=categories: A;fonts: dsalut;
 extrajudicial=categories: A;fonts: LT;
 extrajurídic extrajurídica=categories: A;fonts: derivat;
+extralaboral=categories: A;fonts: derivat;
 extralegal=categories: A;fonts: LT;
 extralingüístic extralingüística=categories: A;fonts: LT;
 extraliterari extraliterària=categories: A;fonts: LT;
