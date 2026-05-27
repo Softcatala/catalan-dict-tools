@@ -17298,6 +17298,7 @@ Calzadilla Calzadilla NPCN000 # wikidata
 Calzan Calzan NPCN000 # wikidata
 Cal·limer Cal·limer NPMSSP0 # avl: noms de persona
 Cal·limera Cal·limera NPFSSP0 # avl: noms de persona
+Cal·listo Cal·listo NPCSSP0
 Cal·lícrates Cal·lícrates NPMSSP0
 Cal·lídia Cal·lídia NPFSSP0 # avl: noms de persona
 Cal·límac Cal·límac NPMSSP0 # avl: noms de persona
@@ -41403,6 +41404,7 @@ Hintonia Hintonia NPCN000 # wikidata
 Hinwil Hinwil NPCN000 # wikidata
 Hipaci Hipaci NPMSSP0
 Hipacis Hipaci NPMPSP0
+Hiparc Hiparc NPMSSP0
 Hipati Hipati NPCN000 # wikidata
 Hipercor Hipercor NPCNO00
 Hiperequi Hiperequi NPCN000 # wikidata
@@ -42870,7 +42872,9 @@ IB3 IB3 NPCN000 # wikidata
 IBM IBM NPCNO00
 ICAB ICAB NPMSO00
 ICAN ICAN NPCN000 # wikidata
+ICC ICC NPCNO00
 ICCROM ICCROM NPMSO00
+ICCUB ICCUB NPMSO00
 ICD ICD NPCN000 # wikidata
 ICE ICE NPMSO00
 ICEC ICEC NPMSO00
@@ -44142,6 +44146,7 @@ Ivry-sur-Seine Ivry-sur-Seine NPCSG00
 Ivy Ivy NPCN000 # wikidata
 Ivànivka Ivànivka NPCSG00 # esadir topònims
 Ivànkiv Ivànkiv NPCSG00 # esadir topònims
+Ivànovitx Ivànovitx NPMSSP0
 Ivànovo Ivànovo NPCSG00
 Ivó Ivó NPMSSP0
 Iwade Iwade NPCN000 # wikidata
@@ -66883,6 +66888,7 @@ Pansarskott Pansarskott NPCN000 # wikidata
 Panschwitz-Kuckau Panschwitz-Kuckau NPCN000 # wikidata
 Pansey Pansey NPCN000 # wikidata
 Pantagruel Pantagruel NPMSSP0
+Pantalassa Pantalassa NPCSG00
 Pantaleons Pantaleó NPMPSP0
 Pantaleu Pantaleu NPCSG00
 Pantaleó Pantaleó NPMSSP0
