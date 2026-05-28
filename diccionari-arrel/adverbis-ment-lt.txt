@@ -2943,6 +2943,7 @@ monumentalment monumentalment RG # extrets de corpus
 monàrquicament monàrquicament RG
 monàsticament monàsticament RG
 monòdicament monòdicament RG # extrets de corpus
+monògamament monògamament RG
 monòtonament monòtonament RG
 moralment moralment RG
 morbosament morbosament RG
