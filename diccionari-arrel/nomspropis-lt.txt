@@ -58,6 +58,7 @@
 #Caetà Caetà NPMSSP0 # avl: noms de persona
 #Caietana Caietana NPFSSP0 # avl: noms de persona
 #Caietà Caietà NPMSSP0 # avl: noms de persona
+#Calcutta Calcutta NPCN000 # wikidata
 #Calixte Calixte NPMSSP0 # avl: noms de persona
 #Cam Cam NPMSSP0 # avl: noms de persona
 #Carp Carp NPMSSP0 # avl: noms de persona
@@ -17062,7 +17063,6 @@ Calcis Calcis NPCSG00
 Calcium Calcium NPCN000 # wikidata
 Calcochloris Calcochloris NPCN000 # wikidata
 Calcuta Calcuta NPFSG00
-Calcutta Calcutta NPCN000 # wikidata
 Calcídica Calcídica NPCSG00
 Caldas Caldas NPCSG00
 Caldea Caldea NPFSG00
