@@ -81154,6 +81154,7 @@ tecnicitat=categories: F;fonts: LT;
 tecnicolor=categories: M;fonts: LT;
 tecnificació=categories: F;fonts: LT;
 tecno=categories: MS;fonts: DNV;
+tecnoabsolutisme=categories: M;fonts: derivat;
 tecnoagricultura=categories: FS;fonts: derivat;
 tecnoaristocràcia=categories: F;fonts: derivat;
 tecnocapitalisme=categories: M;fonts: derivat;
