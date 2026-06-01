@@ -12687,6 +12687,7 @@ exorable=categories: A;fonts: LT;
 exorbitant=categories: A;fonts: LT;
 exorcitzador exorcitzadora=categories: A;fonts: LT;
 exorreic exorreica=categories: A;fonts: LT;
+exosfèric exosfèrica=categories: A;fonts: derivat;
 exostòtic exostòtica=categories: A;fonts: dsalut;
 exotròpic exotròpica=categories: A;fonts: dsalut;
 exotèric exotèrica=categories: A;fonts: LT;
