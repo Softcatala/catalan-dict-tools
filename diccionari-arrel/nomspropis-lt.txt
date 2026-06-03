@@ -736,6 +736,8 @@ Aardbeieneiland Aardbeieneiland NPCN000 # wikidata
 Aare Aare NPCSG00
 Aargau Aargau NPCSG00
 Aarhus Aarhus NPCSG00
+Aarne-Thompson Aarne-Thompson NPCNSP0
+Aarne-Thompson-Uther Aarne-Thompson-Uther NPCNSP0
 Aaron Aaron NPMSSP0
 Aarons Aaró NPMPSP0
 Aaronsohnia Aaronsohnia NPCN000 # wikidata
@@ -9387,6 +9389,7 @@ Barañain Barañain NPCSG00 # esadir topònims
 Barba Barba NPCNSP0
 Barba-roja Barba-roja NPCSG00
 Barba-rossa Barba-rossa NPCNSP0
+Barbablava Barbablava NPMSSP0
 Barbadillo Barbadillo NPCN000 # wikidata
 Barbados Barbados NPFPG00
 Barbaggio Barbaggio NPCN000 # wikidata
