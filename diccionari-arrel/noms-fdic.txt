@@ -46207,6 +46207,7 @@ immunoincompetència=categories: F;fonts: dsalut;
 immunologia=categories: F;fonts: LT;
 immunomodulació=categories: F;fonts: LT;
 immunomodulador=categories: M;fonts: dsalut;
+immunonefelometria=categories: F;fonts: UB;
 immunoparasitologia=categories: F;fonts: dsalut;
 immunoparàlisi=categories: F;fonts: dsalut;
 immunopatogènesi=categories: F;fonts: dsalut;

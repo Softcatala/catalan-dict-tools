@@ -15934,6 +15934,7 @@ Burhinus Burhinus NPCN000 # wikidata
 Burhunka Burhunka NPCSG00 # esadir topònims
 Burial Burial NPCN000 # wikidata
 Buriasco Buriasco NPCN000 # wikidata
+Buridan Buridan NPCNSP0
 Burie Burie NPCN000 # wikidata
 Burien Burien NPCN000 # wikidata
 Buriram Buriram NPCSG00

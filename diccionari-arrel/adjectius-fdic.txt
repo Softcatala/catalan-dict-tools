@@ -10710,6 +10710,7 @@ emplorallat emplorallada=categories: A;fonts: LT;
 emplugencat emplugencada=categories: A;fonts: LT;
 emplàstic emplàstica=categories: A;fonts: LT;
 empobridor empobridora=categories: A;fonts: LT;
+empobrit empobrida [sup. empobridíssim]=categories: A;fonts: participi;
 empoderador empoderadora=categories: A;fonts: derivat;
 empordanès empordanesa=categories: A;fonts: LT;
 emporità emporitana=categories: A;fonts: LT;
