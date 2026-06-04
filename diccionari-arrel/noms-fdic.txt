@@ -79332,6 +79332,7 @@ subllista=categories: F;fonts: derivat;
 sublobel=categories: M;fonts: dsalut;
 subluxació=categories: F;fonts: LT;
 sublínia=categories: F;fonts: derivat;
+submarca=categories: F;fonts: termcat;
 submarinisme=categories: M;fonts: LT;
 submarinista=categories: MF;fonts: LT;
 submarí=categories: M;fonts: LT;
