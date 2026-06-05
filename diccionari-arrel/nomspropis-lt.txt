@@ -46867,6 +46867,7 @@ Kirbyville Kirbyville NPCN000 # wikidata
 Kirchbach Kirchbach NPCN000 # wikidata
 Kirchberg Kirchberg NPCN000 # wikidata
 Kirchheim Kirchheim NPCN000 # wikidata
+Kirchhoff Kirchhoff NPCNSP0
 Kirchlengern Kirchlengern NPCN000 # wikidata
 Kirchner Kirchner NPCNSP0
 Kirchwerder Kirchwerder NPCN000 # wikidata
