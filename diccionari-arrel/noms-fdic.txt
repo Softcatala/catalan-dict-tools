@@ -80728,6 +80728,7 @@ tannoform=categories: M;fonts: LT;
 tanoca=categories: MF;fonts: LT;
 tanquea=categories: F;fonts: LT;
 tanqueta=categories: F;fonts: LT;
+tanquista=categories: MF;fonts: termcat;
 tant=categories: M;fonts: LT;
 tantalat=categories: M;fonts: LT;
 tantalita=categories: F;fonts: LT;
