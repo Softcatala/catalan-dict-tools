@@ -1846,6 +1846,7 @@ cloroformitzar=categories: V;model:cantar;fonts: LT;
 closcar=categories: V;model:trencar;fonts: LT;
 clotar=categories: V;model:cantar;fonts: LT;
 cloure=categories: V;model:cloure;fonts: LT;
+clucar=categories: V;model:trencar;fonts: DNV,DCVB;
 clusteritzar=categories: V;model:cantar;fonts: LT;
 coaccionar=categories: V;model:cantar;fonts: LT;
 coacervar=categories: V;model:cantar;fonts: LT;

@@ -887,7 +887,6 @@ clotxinada=categories: F;fonts: DNV;
 clotxiner -a=categories: A;fonts: DNV;
 clotxiner -a=categories: MF;fonts: DNV;
 clucada=categories: F;fonts: DNV;
-clucar=categories: V;model:trencar;fonts: DNV;
 cluixca=categories: F;fonts: DNV;
 cluixida=categories: F;fonts: DNV,col·loquial;
 cluixidell=categories: M;fonts: DNV;
