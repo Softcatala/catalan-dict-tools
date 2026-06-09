@@ -73354,6 +73354,7 @@ Rafinesquia Rafinesquia NPCN000 # wikidata
 Rafinha Rafinha NPCN000 # wikidata
 Rafita Rafita NPCN000 # wikidata
 Rafohy Rafohy NPCN000 # wikidata
+Rafsanjani Rafsanjani NPCNSP0
 Raft Raft NPCN000 # wikidata
 Rafí Rafí NPCNSP0
 Ragalna Ragalna NPCN000 # wikidata

@@ -62704,6 +62704,7 @@ palomina=categories: F;fonts: LT;
 palomí=categories: M;fonts: LT;
 palonosetró=categories: M;fonts: dsalut;
 palop=categories: M;fonts: LT;
+palot=categories: M;fonts: termcat,DCVB;
 palp=categories: M;fonts: LT;
 palpabilitat=categories: F;fonts: DNV;
 palpació=categories: F;fonts: LT;
