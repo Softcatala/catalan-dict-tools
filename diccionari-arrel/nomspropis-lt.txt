@@ -18031,6 +18031,7 @@ Carabantes Carabantes NPCN000 # wikidata
 Carabassa Carabassa NPCNSP0
 Carabaña Carabaña NPCSG00
 Carabias Carabias NPCN000 # wikidata
+Carabinieri Carabinieri NPMPO00
 Carabobo Carabobo NPCSG00
 Carabona Carabona NPCSG00
 Caracal·la Caracal·la NPCNSP0
