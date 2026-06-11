@@ -76805,6 +76805,7 @@ Rúbaň Rúbaň NPCN000 # wikidata
 Rúbies Rúbies NPCSG00
 Rúrik Rúrik NPMSSP0
 Rússia Rússia NPFSG00
+Rússies Rússia NPFPG00
 Rückersdorf Rückersdorf NPCN000 # wikidata
 Rückerskanal Rückerskanal NPCN000 # wikidata
 Rückert-Lieder Rückert-Lieder NPCN000 # wikidata
