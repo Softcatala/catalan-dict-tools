@@ -3671,6 +3671,7 @@ AlphaFold AlphaFold NPCN000 # wikidata
 AlphaGalileo AlphaGalileo NPCN000 # wikidata
 AlphaGo AlphaGo NPCN000 # wikidata
 AlphaZero AlphaZero NPCN000 # wikidata
+Alphabet Alphabet NPCSO00
 Alphacoronavirus Alphacoronavirus NPCN000 # wikidata
 Alphacrambus Alphacrambus NPCN000 # wikidata
 Alphadon Alphadon NPCN000 # wikidata
@@ -4529,6 +4530,7 @@ Ancarano Ancarano NPCN000 # wikidata
 Ancash Ancash NPCSG00
 Anceaumeville Anceaumeville NPCN000 # wikidata
 Anceins Anceins NPCN000 # wikidata
+Ancelotti Ancelotti NPCNSP0
 Ancemont Ancemont NPCN000 # wikidata
 Ancenis Ancenis NPCN000 # wikidata
 Ancerville Ancerville NPCN000 # wikidata
@@ -24667,6 +24669,7 @@ Criquetot-le-Mauconduit Criquetot-le-Mauconduit NPCN000 # wikidata
 Criquetot-sur-Longueville Criquetot-sur-Longueville NPCN000 # wikidata
 Criquetot-sur-Ouville Criquetot-sur-Ouville NPCN000 # wikidata
 Criquiers Criquiers NPCN000 # wikidata
+Cris Cris NPCNSP0
 Crisan Crisan NPCSG00 # esadir topònims
 Crisant Crisant NPMSSP0
 Crisanta Crisanta NPFSSP0 # avl: noms de persona
@@ -35943,6 +35946,7 @@ Gauja Gauja NPCSG00
 Gaujac Gaujac NPCN000 # wikidata
 Gaujan Gaujan NPCN000 # wikidata
 Gauleiter Gauleiter NPCN000 # wikidata
+Gaultier Gaultier NPCNSP0
 Gaumata Gaumata NPCN000 # wikidata
 Gaumont Gaumont NPCNSP0
 Gauntlet Gauntlet NPCN000 # wikidata
@@ -36474,6 +36478,7 @@ Gestalt Gestalt NPFSO00
 Gestapo Gestapo NPFSO00
 Gestel Gestel NPCN000 # wikidata
 Gesternova Gesternova NPCN000 # wikidata
+Gestmusic Gestmusic NPCNO00
 Gesturi Gesturi NPCN000 # wikidata
 Gestí Gestí NPCNSP0
 Gesualdo Gesualdo NPCNSP0
@@ -42876,7 +42881,8 @@ IATA IATA NPCN000 # wikidata
 IB3 IB3 NPCN000 # wikidata
 IBM IBM NPCNO00
 ICAB ICAB NPMSO00
-ICAN ICAN NPCN000 # wikidata
+ICAM ICAM NPMSO00
+ICAN ICAN NPMSO00 # wikidata
 ICC ICC NPCNO00
 ICCROM ICCROM NPMSO00
 ICCUB ICCUB NPMSO00
@@ -42964,6 +42970,7 @@ ISIL ISIL NPMSO00
 ISIS ISIS NPMSO00
 ISM ISM NPCN000 # wikidata
 ISO ISO NPFSO00
+ISPC ISPC NPMSO00
 ISSN ISSN NPMNO00
 ISU-122 ISU-122 NPCN000 # wikidata
 ITC ITC NPCNO00
@@ -44866,11 +44873,13 @@ Jikji Jikji NPCN000 # wikidata
 Jikki Jikki NPCN000 # wikidata
 Jilin Jilin NPCSG00
 Jiloca Jiloca NPCN000 # wikidata
+Jim Jim NPMSSP0
 Jima Jima NPCN000 # wikidata
 Jimbo Jimbo NPCN000 # wikidata
 Jimena Jimena NPCN000 # wikidata
 Jimeno Jimeno NPCNSP0
 Jimeta Jimeta NPCSG00 # esadir topònims
+Jimmy Jimmy NPMSSP0
 Jiménez Jiménez NPCNSP0
 Jin Jin NPCN000 # wikidata
 Jinan Jinan NPCSG00
@@ -48228,6 +48237,7 @@ LOL LOL NPCN000 # wikidata
 LOLCODE LOLCODE NPCN000 # wikidata
 LOMCE LMOCE NPFSO00
 LOMLOE LOMLOE NPFSO00
+LOPD LOPD NPFSO00
 LORAN LORAN NPCN000 # wikidata
 LOXL1 LOXL1 NPCN000 # wikidata
 LPA LPA NPCN000 # wikidata
@@ -86596,6 +86606,7 @@ TGA TGA NPCN000 # wikidata
 TGC TGC NPCN000 # wikidata
 TGF TGF NPCN000 # wikidata
 TGR TGR NPCN000 # wikidata
+TGSS TGSS NPFSO00
 TGUE TGUE NPMSO00
 TGV TGV NPMNO00
 THQ THQ NPCN000 # wikidata

@@ -31637,6 +31637,7 @@ tecnollibertari tecnollibertària=categories: A;fonts: derivat;
 tecnologicocientífic -a=categories: A;fonts: derivat;
 tecnològic tecnològica=categories: A;fonts: LT;
 tecnooptimista=categories: A;fonts: derivat;
+tecnopedagògic tecnopedagògica=categories: A;fonts: derivat;
 tecnopessimista=categories: A;fonts: derivat;
 tecnoutòpic tecnoutòpica=categories: A; fonts: derivat;
 tecnòcrata=categories: A;fonts: DDLC;
