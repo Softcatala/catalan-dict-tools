@@ -13410,6 +13410,7 @@ Bonafilla Bonafilla NPFSSP0 # avl: noms de persona
 Bonafè Bonafè NPCNSP0
 Bonafós Bonafós NPCNSP0
 Bonai Bonai NPCNSP0
+Bonaigua Bonaigua NPFSG00
 Bonaire Bonaire NPCNSP0
 Bonaire Bonaire NPCSG00
 Bonald Bonald NPCNSP0
@@ -15991,6 +15992,7 @@ Burnsville Burnsville NPCN000 # wikidata
 Burolo Burolo NPCN000 # wikidata
 Burr Burr NPCN000 # wikidata
 Burramys Burramys NPCN000 # wikidata
+Burriac Burriac NPMSG00
 Burrillville Burrillville NPCN000 # wikidata
 Burrià Burrià NPCNSP0
 Burroughs Burroughs NPCNSP0
@@ -28851,6 +28853,7 @@ E-Plus E-Plus NPCN000 # wikidata
 E-Tower E-Tower NPCN000 # wikidata
 E.R. E.R. NPCN000 # wikidata
 E.T. E.T. NPCN000 # wikidata
+EAPC EAPC NPFSO00
 EAU EAU NPMPG00
 EBA EBA NPCN000 # wikidata
 EBU EBU NPCN000 # wikidata
@@ -28912,6 +28915,7 @@ ES-Alert ES-Alert NPCNO00
 ESA ESA NPFSO00
 ESADE ESADE NPCNO00
 ESB ESB NPCN000 # wikidata
+ESDAPC ESDAPC NPFSO00
 ESM1 ESM1 NPCN000 # wikidata
 ESMUC ESMUC NPFSO00
 ESO ESO NPFSO00
@@ -31845,6 +31849,7 @@ FOSDEM FOSDEM NPCN000 # wikidata
 FPA FPA NPCN000 # wikidata
 FPB FPB NPCN000 # wikidata
 FPC FPC NPCN000 # wikidata
+FPCAT FPCAT NPFSO00
 FPD FPD NPCN000 # wikidata
 FPF FPF NPCN000 # wikidata
 FPG FPG NPCN000 # wikidata
@@ -42929,6 +42934,7 @@ IN-SO IN-SO NPCN000 # wikidata
 INC INC NPCN000 # wikidata
 INE INE NPMSO00
 INEF INEF NPMSO00
+INEFC INEFC NPMSO00
 INEM INEM NPMSO00
 INSPIRE-HEP INSPIRE-HEP NPCN000 # wikidata
 INSS INSS NPMSSP0
@@ -52893,6 +52899,7 @@ MMR MMR NPCN000 # wikidata
 MMT MMT NPCN000 # wikidata
 MMX MMX NPCN000 # wikidata
 MNAC MNAC NPMSO00
+MNACTEC MNACTEC NPMSO00
 MNC MNC NPCN000 # wikidata
 MNF MNF NPCN000 # wikidata
 MNH MNH NPCN000 # wikidata
@@ -67185,6 +67192,7 @@ Pardina Pardina NPCNSP0
 Pardinella Pardinella NPCSG00
 Pardines Pardines NPCNSP0
 Pardines Pardines NPFPG00
+Pardinyes Pardinyes NPCNSP0
 Pardirallus Pardirallus NPCN000 # wikidata
 Pardo Pardo NPCNSP0
 Pardomima Pardomima NPCN000 # wikidata
@@ -76895,6 +76903,7 @@ SDI SDI NPCN000 # wikidata
 SDN SDN NPCN000 # wikidata
 SENP5 SENP5 NPCN000 # wikidata
 SEPA SEPA NPMSO00
+SEPC SEPC NPMSO00
 SEPI SEPI NPFSO00
 SEPU SEPU NPCN000 # wikidata
 SER SER NPCSO00
@@ -76921,12 +76930,14 @@ SHC SHC NPCN000 # wikidata
 SHG SHG NPCN000 # wikidata
 SHOUTcast SHOUTcast NPCN000 # wikidata
 SHRDLU SHRDLU NPCN000 # wikidata
+SIAD SIAD NPMNO00
 SID SID NPCN000 # wikidata
 SINACTRAHO SINACTRAHO NPCN000 # wikidata
 SINAD SINAD NPCN000 # wikidata
 SINTEF SINTEF NPCN000 # wikidata
 SIRCA SIRCA NPCN000 # wikidata
 SIRENE SIRENE NPCN000 # wikidata
+SISCAT SISCAT NPMSO00
 SJF SJF NPCN000 # wikidata
 SJG SJG NPCN000 # wikidata
 SJN SJN NPCN000 # wikidata
@@ -76946,6 +76957,7 @@ SNFU SNFU NPCN000 # wikidata
 SNP SNP NPMSO00
 SOA SOA NPCN000 # wikidata
 SOCKS SOCKS NPCN000 # wikidata
+SOIB SOIB NPMSO00
 SPARQL SPARQL NPCN000 # wikidata
 SPD SPD NPMSO00
 SPDY SPDY NPCN000 # wikidata
@@ -92354,6 +92366,7 @@ Valdeprados Valdeprados NPCN000 # wikidata
 Valderaduey Valderaduey NPCSG00
 Valderas Valderas NPCN000 # wikidata
 Valderice Valderice NPCN000 # wikidata
+Valderrama Valderrama NPCNSP0
 Valderrebollo Valderrebollo NPCN000 # wikidata
 Valderredible Valderredible NPCN000 # wikidata
 Valderrey Valderrey NPCN000 # wikidata
@@ -92653,6 +92666,7 @@ Vallori Vallori NPCNSP0
 Valloriola Valloriola NPCSG00
 Valloriola Valloriola NPFSG00
 Vallotton Vallotton NPCNSP0
+Vallparadís Vallparadís NPMSG00
 Vallpineda Vallpineda NPCSG00
 Vallribera Vallribera NPCNSP0
 Vallroja Vallroja NPFSG00

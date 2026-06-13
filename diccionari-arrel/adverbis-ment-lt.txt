@@ -3408,6 +3408,7 @@ prioritàriament prioritàriament RG
 privadament privadament RG
 privativament privativament RG
 privilegiadament privilegiadament RG
+proactivament proactivament RG
 probabilísticament probabilísticament RG # extrets de corpus
 probablement probablement RG
 probament probament RG
