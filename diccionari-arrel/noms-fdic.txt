@@ -36897,6 +36897,7 @@ fisetèrid=categories: M;fonts: LT;
 fisiatre fisiatra=categories: MF;fonts: LT;
 fisiatria=categories: F;fonts: LT;
 fisicalisme=categories: M;fonts: LT;
+fisicitat=categories: F;fonts: DNV;
 fisicoquímica=categories: F;fonts: LT;
 fisicoteologia=categories: F;fonts: LT;
 fisicoteràpia=categories: F;fonts: dsalut;
