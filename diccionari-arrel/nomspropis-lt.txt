@@ -15386,6 +15386,7 @@ Brunes Brunes NPCNSP0
 Brunet Brunet NPCNSP0
 Brunete Brunete NPCSG00
 Brunette Brunette NPCN000 # wikidata
+Brunetti Brunetti NPCNSP0
 Brunettia Brunettia NPCN000 # wikidata
 Brunfelsia Brunfelsia NPCN000 # wikidata
 Brunhilda Brunhilda NPCN000 # wikidata
@@ -96166,6 +96167,7 @@ Wallacea Wallacea NPCN000 # wikidata
 Wallaceton Wallaceton NPCN000 # wikidata
 Wallach Wallach NPCN000 # wikidata
 Wallagrass Wallagrass NPCN000 # wikidata
+Wallander Wallander NPCNSP0
 Wallapop Wallapop NPCNO00
 Wallasey Wallasey NPCSG00
 Wallbox Wallbox NPCNO00
