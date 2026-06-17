@@ -6687,6 +6687,7 @@ hiperbolitzar=categories: V;model:cantar;fonts: LT;
 hiperestendre=categories: V;model:atendre;fonts: LT;
 hiperestesiar=categories: V;model:crear;fonts: LT;
 hiperexcitar=categories: V;model:cantar;fonts: DNV;
+hiperideologitzar=categories: V;model:cantar;fonts: derivat;
 hipersalivar=categories: V;model:cantar;fonts: LT;
 hipersexualitzar=categories: V;model:cantar;fonts: termcat;
 hipertrofiar=categories: V;model:crear;fonts: LT;
