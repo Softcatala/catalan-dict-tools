@@ -6340,6 +6340,7 @@ castellanomadrileny castellanomadrilenya=categories: A;fonts: derivat;
 castellanomanxec castellanomanxega=categories: A;fonts: LT;
 castellanoparlant=categories: A;fonts: LT;
 castellanès castellanesa=categories: A;fonts: LT;
+castellanòfob castellanòfoba=categories: A;fonts: derivat;
 castellanòfon castellanòfona=categories: A;fonts: LT;
 castellarenc castellarenca=categories: A;fonts: LT;
 castellbisbalenc castellbisbalenca=categories: A;fonts: esadir;
