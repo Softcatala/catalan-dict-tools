@@ -5973,6 +5973,7 @@ canyadí canyadina=categories: A;fonts: LT;
 canyauli=categories: A;fonts: DNV;
 canyellat canyellada=categories: A;fonts: LT;
 canyellenc canyellenca=categories: A;fonts: LT;
+canyer canyera=categories: A;fonts: col·loquial;
 canyiula=categories: A;fonts: LT;
 cançoner cançonera=categories: A;fonts: LT;
 caní canina=categories: A;fonts: LT;
