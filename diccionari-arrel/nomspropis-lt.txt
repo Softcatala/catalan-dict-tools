@@ -68608,6 +68608,7 @@ Peyrol Peyrol NPCSG00
 Peyronie Peyronie NPCNSP0 # medical
 Peyu Peyu NPMSSP0
 Peyzieux-sur-Saône Peyzieux-sur-Saône NPCN000 # wikidata
+Pezeshkian Pezeshkian NPCNSP0
 Pezinok Pezinok NPCSG00
 Pezou Pezou NPCN000 # wikidata
 Pezé-le-Robert Pezé-le-Robert NPCN000 # wikidata
