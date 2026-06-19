@@ -1822,6 +1822,7 @@ flagrantment flagrantment RG # extrets de corpus
 flairosament flairosament RG
 flamígerament flamígerament RG # extrets de corpus
 flegmàticament flegmàticament RG
+flemàticament flemàticament RG
 flexiblement flexiblement RG
 flonjament flonjament RG
 floridament floridament RG

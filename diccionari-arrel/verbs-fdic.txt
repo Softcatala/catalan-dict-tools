@@ -6251,6 +6251,7 @@ flamulejar=categories: V;model:envejar;fonts: LT;
 flanquejar=categories: V;model:envejar;fonts: LT;
 flaquejar=categories: V;model:envejar;fonts: LT;
 flastomar=categories: V;model:cantar;fonts: LT;
+flautejar=categories: V;model:envejar;fonts: DNV;
 flebotomitzar=categories: V;model:cantar;fonts:dsalut,termcat;
 flectar=categories: V;model:cantar;fonts: LT;
 flectir=categories: V;model:servir;fonts: LT;
