@@ -17926,6 +17926,7 @@ intensiu intensiva=categories: A;fonts: LT;
 intentable=categories: A;fonts: DNV;
 interaccessori interaccessòria=categories: A;fonts: dsalut;
 interactiu interactiva=categories: A;fonts: LT;
+interactuant=categories: A;fonts: derivat;
 interacínic interacínica=categories: A;fonts: dsalut;
 interadministratiu interadministrativa=categories: A;fonts: derivat;
 interaliat interaliada=categories: A;fonts: LT;

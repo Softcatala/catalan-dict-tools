@@ -32782,6 +32782,7 @@ Fexhe-le-Haut-Clocher Fexhe-le-Haut-Clocher NPCN000 # wikidata
 Fey Fey NPCN000 # wikidata
 Fey-en-Haye Fey-en-Haye NPCN000 # wikidata
 Feyerabend Feyerabend NPCNSP0
+Feynman Feynman NPCNSP0
 Feyzin Feyzin NPCN000 # wikidata
 Fezzān Fezzān NPCSG00
 Fgura Fgura NPCN000 # wikidata
