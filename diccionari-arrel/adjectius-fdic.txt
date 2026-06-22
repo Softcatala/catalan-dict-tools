@@ -27128,6 +27128,7 @@ pseudocàrpic pseudocàrpica=categories: A;fonts: LT;
 pseudocònic pseudocònica=categories: A;fonts: LT;
 pseudodemocràtic pseudodemocràtica=categories: A;fonts: derivat;
 pseudodominant=categories: A;fonts: dsalut;
+pseudoecològic pseudoecològica=categories: A;fonts: derivat;
 pseudoencèfal pseudoencèfala=categories: A;fonts: dsalut;
 pseudoepigràfic pseudoepigràfica=categories: A;fonts: LT;
 pseudofilosòfic pseudofilosòfica=categories: A;fonts: LT;

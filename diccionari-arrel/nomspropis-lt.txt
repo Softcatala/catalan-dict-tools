@@ -32969,6 +32969,7 @@ Filton Filton NPCN000 # wikidata
 Filzbach Filzbach NPCN000 # wikidata
 Fil·lis Fil·lis NPFSSP0 # avl: noms de persona
 Filèmon Filèmon NPMSSP0
+Filòstrat Filòstrat NPMSSP0
 Filó Filó NPMSSP0
 Fiménil Fiménil NPCN000 # wikidata
 FinFET FinFET NPCN000 # wikidata
