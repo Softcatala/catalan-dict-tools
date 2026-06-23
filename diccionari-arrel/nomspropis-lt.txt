@@ -9708,6 +9708,7 @@ Barringer Barringer NPCN000 # wikidata
 Barrington Barrington NPCN000 # wikidata
 Barringtonia Barringtonia NPCN000 # wikidata
 Barrio Barrio NPCN000 # wikidata
+Barrionuevo Barrionuevo NPCNSP0
 Barriopedro Barriopedro NPCN000 # wikidata
 Barris Barris NPCNSP0
 Barroca Barroca NPFSG00
@@ -16046,6 +16047,7 @@ Buschke Buschke NPCNSP0 # medical
 Buschke-Löwenstein Buschke-Löwenstein NPCNSP0 # medical
 Buschwiller Buschwiller NPCN000 # wikidata
 Buscó Buscó NPCNSP0
+Buscón Buscón NPMSSP0
 Buseno Buseno NPCN000 # wikidata
 Buseu Buseu NPCNSP0
 Bush Bush NPCNSP0
@@ -30857,6 +30859,7 @@ Espinauga Espinauga NPCSG00
 Espinavell Espinavell NPCSG00
 Espinavessa Espinavessa NPCSG00
 Espinchal Espinchal NPCN000 # wikidata
+Espinel Espinel NPCNSP0
 Espinelves Espinelves NPCSG00
 Espinet Espinet NPCNSP0
 Espinhel Espinhel NPCN000 # wikidata
