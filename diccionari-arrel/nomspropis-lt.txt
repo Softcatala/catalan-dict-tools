@@ -41,6 +41,7 @@
 #Asmonees Asmonea NPFPSP0
 #Atlas Atlas NPCN000 # wikidata
 #Audaç Audaç NPMSSP0 # avl: noms de persona
+#Barrio Barrio NPCN000 # wikidata
 #Batiste Batiste NPMSSP0 # avl: noms de persona
 #Benvenguda Benvenguda NPFSSP0 # avl: noms de persona
 #Benvengut Benvengut NPMSSP0 # avl: noms de persona
@@ -9707,7 +9708,6 @@ Barrier Barrier NPCN000 # wikidata
 Barringer Barringer NPCN000 # wikidata
 Barrington Barrington NPCN000 # wikidata
 Barringtonia Barringtonia NPCN000 # wikidata
-Barrio Barrio NPCN000 # wikidata
 Barrionuevo Barrionuevo NPCNSP0
 Barriopedro Barriopedro NPCN000 # wikidata
 Barris Barris NPCNSP0
