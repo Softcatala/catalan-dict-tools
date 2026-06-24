@@ -29640,6 +29640,7 @@ semifosc semifosca=categories: A;fonts: derivat;
 semifred semifreda=categories: A;fonts: LT;
 semifós semifosa=categories: A;fonts: LT;
 semigironat semigironada=categories: A;fonts: LT;
+semihistòric semihistòrica=categories: A;fonts: derivat;
 semiinconscient=categories: A;fonts: derivat;
 semiindependent=categories: A;fonts: derivat;
 semiindustrial=categories: A;fonts: derivat;
