@@ -38878,6 +38878,7 @@ futilitat=categories: F;fonts: LT;
 futil·la=categories: F;fonts: LT;
 futims=categories: MP;fonts: LT;
 futon=categories: M;fonts: LT;
+futsal=categories: MS;fonts: termcat, GDLC;
 futur=categories: M;fonts: LT;
 futurible=categories: M;fonts: LT;
 futurició=categories: F;fonts: LT;
