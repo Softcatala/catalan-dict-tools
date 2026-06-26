@@ -79451,6 +79451,7 @@ subpoblació=categories: F;fonts: LT;
 subportadora=categories: F;fonts: LT;
 subprefecte subprefecta=categories: MF;fonts: LT;
 subprefectura=categories: F;fonts: LT;
+subpregunta=categories: F;fonts: derivat;
 subpressió=categories: F;fonts: termcat;
 subprior subpriora=categories: MF;fonts: LT;
 subprioressa=categories: F;fonts: LT;
