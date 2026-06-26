@@ -2502,6 +2502,7 @@ antihiàtic antihiàtica=categories: A;fonts: LT;
 antihomosexual=categories: A;fonts: derivat;
 antihomotòxic antihomotòxica=categories: A;fonts: dsalut;
 antihorari -ària=categories: A;fonts: LT;
+antihospitalari antihospitalària=categories: A;fonts: derivat;
 antihumanista=categories: A;fonts: derivat;
 antihumitat=categories: AI;fonts: derivat;
 antihumà antihumana=categories: A;fonts: LT;
