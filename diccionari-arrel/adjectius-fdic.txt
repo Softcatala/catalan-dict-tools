@@ -31177,6 +31177,7 @@ supersubvencionat supersubvencionada=categories: A;fonts: derivat;
 supersòlid supersòlida=categories: A;fonts: derivat;
 supersònic supersònica=categories: A;fonts: LT;
 supertancat supertancada=categories: A;fonts: derivat;
+supertaquiller supertaquillera=categories: A;fonts: derivat;
 supertecnificat supertecnificada=categories: A;fonts: participi;
 supertendenciós supertendenciosa=categories: A;fonts: derivat;
 supertou supertova=categories: A;fonts: derivat;
