@@ -19295,6 +19295,7 @@ lector lectora=categories: A;fonts: LT;
 lectroescriptor lectroescriptora=categories: A;fonts: wiki;
 lectual=categories: A;fonts: dsalut;
 lecític lecítica=categories: A;fonts: LT;
+lefebvrià lefebvriana=categories: A;fonts: derivat;
 legal=categories: A;fonts: LT;
 legalista=categories: A;fonts: LT;
 legalitzable=categories: A;fonts: LT;

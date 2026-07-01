@@ -49669,6 +49669,7 @@ Leetonia Leetonia NPCN000 # wikidata
 Leetsdale Leetsdale NPCN000 # wikidata
 Leeuwarderadeel Leeuwarderadeel NPCN000 # wikidata
 Lefaux Lefaux NPCN000 # wikidata
+Lefebvre Lefebvre NPCNSP0
 Leffard Leffard NPCN000 # wikidata
 Leffe Leffe NPCN000 # wikidata
 Leffincourt Leffincourt NPCN000 # wikidata
@@ -99298,6 +99299,7 @@ uTorrent uTorrent NPCNO00
 Écutigny Écutigny NPCN000 # wikidata
 Écuvilly Écuvilly NPCN000 # wikidata
 Écuélin Écuélin NPCN000 # wikidata
+Écône Écône NPCSG00
 Éghezée Éghezée NPCN000 # wikidata
 Égleny Égleny NPCN000 # wikidata
 Égligny Égligny NPCN000 # wikidata
