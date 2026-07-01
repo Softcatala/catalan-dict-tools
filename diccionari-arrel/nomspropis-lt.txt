@@ -28438,6 +28438,7 @@ Dublinia Dublinia NPCN000 # wikidata
 Dublín Dublín NPMSG00
 Dubnička Dubnička NPCN000 # wikidata
 Dubno Dubno NPCN000 # wikidata
+Dubnà Dubnà NPCSG00
 Dubník Dubník NPCN000 # wikidata
 Dubodiel Dubodiel NPCN000 # wikidata
 Dubois Dubois NPCNSP0
