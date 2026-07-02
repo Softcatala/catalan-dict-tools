@@ -85481,6 +85481,7 @@ Stoeber Stoeber NPCN000 # wikidata
 Stoffel Stoffel NPCN000 # wikidata
 Stoianka Stoianka NPCSG00 # esadir topònims
 Stoke-on-Trent Stoke-on-Trent NPCSG00
+Stoker Stoker NPCNSP0
 Stokes-Adams Stokes-Adams NPCNSP0 # medical
 Stokesdale Stokesdale NPCN000 # wikidata
 Stokkem Stokkem NPCN000 # wikidata
