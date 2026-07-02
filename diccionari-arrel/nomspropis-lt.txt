@@ -65682,7 +65682,6 @@ Oswayo Oswayo NPCN000 # wikidata
 Oswego Oswego NPCN000 # wikidata
 Osweiler Osweiler NPCN000 # wikidata
 Oswestry Oswestry NPCN000 # wikidata
-Oswiecim Oswiecim NPCSG00
 Osyka Osyka NPCN000 # wikidata
 Osyris Osyris NPCN000 # wikidata
 Osádka Osádka NPCN000 # wikidata
@@ -66063,6 +66062,7 @@ Oľšinkov Oľšinkov NPCN000 # wikidata
 Oľšov Oľšov NPCN000 # wikidata
 Ołowianka Ołowianka NPCN000 # wikidata
 Oświecin Oświecin NPCSG00
+Oświęcim Oświęcim NPCSG00
 Oš Oš NPCSG00
 Oštarije Oštarije NPCN000 # wikidata
 Oščadnica Oščadnica NPCN000 # wikidata
