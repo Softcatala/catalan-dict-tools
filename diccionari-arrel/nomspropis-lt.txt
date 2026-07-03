@@ -8476,6 +8476,7 @@ Babenberg Babenberg NPCNSP0
 Babia Babia NPCSG00
 Babiana Babiana NPCN000 # wikidata
 Babie Babie NPCN000 # wikidata
+Babieca Babieca NPMSSP0
 Babiera Babiera NPCNSP0
 Babilafuente Babilafuente NPCN000 # wikidata
 Babiloni Babiloni NPCNSP0
@@ -15630,6 +15631,7 @@ Bucy-le-Roi Bucy-le-Roi NPCN000 # wikidata
 Bucy-lès-Cerny Bucy-lès-Cerny NPCN000 # wikidata
 Bucy-lès-Pierrepont Bucy-lès-Pierrepont NPCN000 # wikidata
 Bucyrus Bucyrus NPCN000 # wikidata
+Bucèfal Bucèfal NPMSSP0
 Bucéels Bucéels NPCN000 # wikidata
 Buda Buda NPMSSP0 # avl: noms de persona
 Budapest Budapest NPCSG00
@@ -35641,6 +35643,7 @@ Garanguer Garanguer NPCNSP0
 Garantó Garantó NPCNSP0
 Garat Garat NPCN000 # wikidata
 Garath Garath NPCN000 # wikidata
+Garaudy Garaudy NPCNSP0
 Garavito Garavito NPCN000 # wikidata
 Garbage Garbage NPCN000 # wikidata
 Garbagna Garbagna NPCN000 # wikidata
@@ -75477,6 +75480,7 @@ Rochonvillers Rochonvillers NPCN000 # wikidata
 Rochovce Rochovce NPCN000 # wikidata
 Rochy-Condé Rochy-Condé NPCN000 # wikidata
 Rocina Rocina NPCSG00
+Rocinante Rocinante NPMSSP0
 Rocinha Rocinha NPCN000 # wikidata
 Rockall Rockall NPCN000 # wikidata
 Rockaway Rockaway NPCN000 # wikidata
