@@ -21,6 +21,7 @@
 #Ampliada Ampliada NPFSSP0 # avl: noms de persona
 #Ampliat Ampliat NPMSSP0 # avl: noms de persona
 #Ana Ana NPFSSP0
+#Anacréon Anacréon NPCN000 # wikidata
 #Andalucía Andalucía NPCN000 # wikidata
 #Andora Andora NPCN000 # wikidata
 #Andora Andora NPCSG00 # esadir topònims
@@ -4438,8 +4439,8 @@ Anacoco Anacoco NPCN000 # wikidata
 Anacodon Anacodon NPCN000 # wikidata
 Anaconda Anaconda NPCSG00
 Anacortes Anacortes NPCN000 # wikidata
+Anacreont Anacreont NPMSSP0
 Anacroneuria Anacroneuria NPCN000 # wikidata
-Anacréon Anacréon NPCN000 # wikidata
 Anadarko Anadarko NPCN000 # wikidata
 Anadasypus Anadasypus NPCN000 # wikidata
 Anadelphia Anadelphia NPCN000 # wikidata
