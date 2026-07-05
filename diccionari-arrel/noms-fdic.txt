@@ -81237,6 +81237,7 @@ tecnooptimisme=categories: M;fonts: derivat;
 tecnopessimisme=categories: M;fonts: derivat;
 tecnopsicologia=categories: F;fonts: dsalut;
 tecnoutopia=categories: F;fonts: derivat;
+tecnoètica=categories: F;fonts: wiki;
 tecnígraf=categories: M;fonts: LT;
 tecnòcit=categories: M;fonts: dsalut;
 tecnòcrata=categories: MF;fonts: LT;
