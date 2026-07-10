@@ -2796,6 +2796,7 @@ antitabètic antitabètica=categories: A;fonts: dsalut;
 antitancs=categories: AI;fonts: LT;
 antitaques=categories: AI;fonts: LT;
 antitaurí antitaurina=categories: A;fonts: LT;
+antitecnologia=categories: AI;fonts: derivat;
 antiteista=categories: A;fonts: viquipedia;
 antiterrorista=categories: A;fonts: LT;
 antitetànic antitetànica=categories: A;fonts: LT;
