@@ -51003,6 +51003,7 @@ Lixy Lixy NPCN000 # wikidata
 Liza Liza NPCN000 # wikidata
 Lizant Lizant NPCN000 # wikidata
 Lizarra Lizarra NPCSG00
+Lizarran Lizarran NPCNO00
 Lizeray Lizeray NPCN000 # wikidata
 Lizine Lizine NPCN000 # wikidata
 Lizines Lizines NPCN000 # wikidata
@@ -55271,6 +55272,7 @@ Masblanc Masblanc NPCNSP0
 Masbranquer Masbranquer NPCNSP0
 Masca Masca NPCN000 # wikidata
 Mascabrers Mascabrers NPCSG00
+Mascagni Mascagni NPCNSP0
 Mascali Mascali NPCN000 # wikidata
 Mascalucia Mascalucia NPCN000 # wikidata
 Mascaraque Mascaraque NPCN000 # wikidata

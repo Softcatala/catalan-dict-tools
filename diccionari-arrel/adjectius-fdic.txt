@@ -13341,6 +13341,7 @@ fetorós fetorosa=categories: A;fonts: LT;
 fetoscòpic fetoscòpica=categories: A;fonts: dsalut;
 feudal=categories: A;fonts: LT;
 feudalitzant=categories: A;fonts: DCC;
+feudatari feudatària=categories: A;fonts: DCC;
 feudovassallàtic feudovassallàtica=categories: A;fonts: derivat;
 fi fina [sup. finíssim]=categories: A; font:apertium;
 fiable=categories: A;fonts: LT;
