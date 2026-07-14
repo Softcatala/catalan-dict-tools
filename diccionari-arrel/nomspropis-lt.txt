@@ -42939,6 +42939,7 @@ IJse IJse NPCN000 # wikidata
 IJssel IJssel NPCSG00
 IJsselstein IJsselstein NPCN000 # wikidata
 IKAROS IKAROS NPCN000 # wikidata
+IMAX IMAX NPCNO00
 IME IME NPCN000 # wikidata
 IMPIVA IMPIVA NPMSO00
 IN-SO IN-SO NPCN000 # wikidata
