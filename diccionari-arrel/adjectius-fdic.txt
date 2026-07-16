@@ -1158,6 +1158,7 @@ albesà albesana=categories: A;fonts: LT;
 albicans=categories: AI;fonts: dsalut;
 albicant=categories: A;fonts: LT;
 albicaule=categories: A;fonts: LT;
+albiceleste=categories: A;fonts: esadir;
 albicorni albicòrnia=categories: A;fonts: LT;
 albigès albigesa=categories: A;fonts: LT;
 albinenc albinenca=categories: A;fonts: LT;
