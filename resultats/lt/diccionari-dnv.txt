@@ -54246,8 +54246,6 @@ peada peada NCFS000
 peades peada NCFP000
 pebreral pebreral NCMS000
 pebrerals pebreral NCMP000
-pecari pecari NCMS000
-pecaris pecari NCMP000
 pecege pecejar VMIP1S0V
 pecege pecejar VMM03S0V
 pecege pecejar VMSP1S0V

@@ -54561,6 +54561,7 @@ Marcillé-Raoul Marcillé-Raoul NPCN000 # wikidata
 Marcillé-Robert Marcillé-Robert NPCN000 # wikidata
 Marcillé-la-Ville Marcillé-la-Ville NPCN000 # wikidata
 Marcià Marcià NPMSSP0
+Marció Marció NPMSSP0
 Marck Marck NPCN000 # wikidata
 Marckolsheim Marckolsheim NPCN000 # wikidata
 Marclopt Marclopt NPCN000 # wikidata
@@ -99956,4 +99957,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Marció Marció NPMSSP0
