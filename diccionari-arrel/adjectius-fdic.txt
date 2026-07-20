@@ -31062,6 +31062,7 @@ superincreïble=categories: A;fonts: derivat;
 superindustrialitzat superindustrialitzada=categories: A;fonts: participi;
 superintel·ligent=categories: A;fonts: derivat;
 superintens superintensa=categories: A;fonts: derivat;
+superintensiu superintensiva=categories: A;fonts: derivat;
 superinteressant=categories: A; font:derivat;
 superior=categories: A;fonts: LT;
 superioríssim superioríssima=categories: A;fonts: superlative;
