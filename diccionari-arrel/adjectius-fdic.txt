@@ -5949,6 +5949,7 @@ cansadet cansadeta=categories: A;fonts: diminutiu;
 cansador cansadora=categories: A;fonts: DCVB;
 cansat cansada [sup. cansadíssim]=categories: A; font:apertium;
 cansós cansosa=categories: A;fonts: LT;
+cantabile=categories: A;fonts: italià;
 cantable=categories: A;fonts: LT;
 cantabrià cantabriana=categories: A;fonts: LT;
 cantador cantadora=categories: A;fonts: LT;
