@@ -40018,6 +40018,7 @@ gent=categories: F;fonts: LT;
 gentada=categories: F;fonts: LT;
 gentalla=categories: F;fonts: LT;
 gentamicina=categories: F;fonts: LT;
+gentassa=categories: F; fonts: DCVB;
 gentegassa=categories: F;fonts: LT;
 genterola=categories: F;fonts: DNV;
 genteta=categories: F;fonts: LT;
