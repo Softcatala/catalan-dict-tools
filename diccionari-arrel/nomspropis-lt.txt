@@ -31320,6 +31320,7 @@ Eumeces Eumeces NPCN000 # wikidata
 Eumegamys Eumegamys NPCN000 # wikidata
 Eumel Eumel NPCN000 # wikidata
 Eumesocampa Eumesocampa NPCN000 # wikidata
+Eumeu Eumeu NPMSSP0
 Eumo Eumo NPCNO00
 Eumolpe Eumolpe NPCN000 # wikidata
 Eumorphobotys Eumorphobotys NPCN000 # wikidata
@@ -99960,4 +99961,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Eumeu Eumeu NPMSSP0
