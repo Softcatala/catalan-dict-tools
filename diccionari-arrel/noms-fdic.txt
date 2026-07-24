@@ -51357,6 +51357,7 @@ loteria=categories: F;fonts: LT;
 loto=categories: MF;fonts: LT;
 lotocràcia=categories: F;fonts: derivat;
 lotus=categories: MI;fonts: LT;
+lotòfag lotòfaga=categories: MF;fonts: wiki;
 louro=categories: M;fonts: LT;
 lovastatina=categories: F;fonts: dsalut;
 loxapina=categories: F;fonts: dsalut;

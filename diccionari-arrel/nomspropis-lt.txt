@@ -5279,6 +5279,7 @@ Antígon Antígon NPMSSP0
 Antígona Antígona NPFSSP0
 Antígones Antígona NPFPSP0
 Antígons Antígon NPMPSP0
+Antínous Antínous NPMSSP0
 Antíoc Antíoc NPMSSP0
 Antíocs Antíoc NPMPSP0
 Antístenes Antístenes NPMSSP0
@@ -65195,6 +65196,7 @@ Oreské Oreské NPCN000 # wikidata
 Oresmaux Oresmaux NPCN000 # wikidata
 Oresme Oresme NPCN000 # wikidata
 Oreste Oreste NPCN000 # wikidata
+Orestea Orestea NPFSO00
 Orestes Orestes NPMPSP0
 Orestes Orestes NPMSSP0
 Orestíada Orestíada NPFSO00
@@ -99958,3 +99960,4 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
+Eumeu Eumeu NPMSSP0

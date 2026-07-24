@@ -253,6 +253,7 @@ absentista=categories: A;fonts: LT;
 absidal=categories: A;fonts: LT;
 absolut absoluta [sup. absolutíssim]=categories: A;fonts: LT; # absolutíssim és incoherent?
 absolutista=categories: A;fonts: LT;
+absolutitzador absolutitzadora=categories: A;fonts: derivat;
 absolutori absolutòria=categories: A;fonts: LT;
 absorbefaent=categories: A;fonts: LT;
 absorbent=categories: A;fonts: LT;
