@@ -8712,6 +8712,7 @@ autoemancipació=categories: F;fonts: derivat;
 autoemasculació=categories: F;fonts: derivat;
 autoempelt=categories: M;fonts: LT;
 autoempoderament=categories: M;fonts: derivat;
+autoenaltiment=categories: M;fonts: derivat;
 autoencebament=categories: M;fonts: LT;
 autoencesa=categories: F;fonts: LT;
 autoenfocament=categories: M;fonts: LT;

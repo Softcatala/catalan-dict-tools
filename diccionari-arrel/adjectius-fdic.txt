@@ -33091,6 +33091,7 @@ tunisenc tunisenca=categories: A;fonts: LT;
 tunisià tunisiana=categories: A;fonts: LT;
 tupí3 [pl. tupís]=categories: A;fonts: LT;
 turbinal=categories: A;fonts: dsalut;
+turbocapitalista=categories: A;fonts: derivat;
 turbodièsel=categories: AI;fonts: LT;
 turbulent turbulenta=categories: A;fonts: LT;
 turc turca=categories: A;fonts: LT;
