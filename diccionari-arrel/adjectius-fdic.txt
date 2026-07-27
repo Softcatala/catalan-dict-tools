@@ -28973,6 +28973,7 @@ russo-xinès russo-xinesa=categories: A;fonts: derivat;
 russoalemany russoalemanya=categories: A;fonts: derivat;
 russofinlandès russofinlandesa=categories: A;fonts: derivat;
 russoparlant=categories: A;fonts: derivat;
+russopolonès russopolonesa=categories: A;fonts: derivat;
 russòfil russòfila=categories: A;fonts: LT;
 russòfob russòfoba=categories: A;fonts: derivat;
 russòfon russòfona=categories: A;fonts: LT;
