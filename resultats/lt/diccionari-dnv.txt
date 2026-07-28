@@ -29397,8 +29397,8 @@ durelló durelló NCMS000
 dàquia dàquia NCFS000
 dàquies dàquia NCFP000
 dèneu dèneu NCCN000
-dèneu dèneu1 NCMS000
-dèneus dèneu1 NCMP000
+dèneu dèneu_1 NCMS000
+dèneus dèneu_1 NCMP000
 dèpsid dèpsid NCMS000
 dèpsids dèpsid NCMP000
 ebola ebola NCMS000

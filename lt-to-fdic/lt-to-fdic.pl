@@ -75,7 +75,7 @@ while ( my $line = <$fh> ) {
             $numAccepcio = "";
             if ( $prevLemma !~ /$Flexio::number_exceptions/ )
             {    #Excepcions: el número forma part de la paraula
-                if ( $prevLemma =~ /([0-9])$/ ) {
+                if ( $prevLemma =~ /(_[0-9])$/ ) {
                     $numAccepcio = $1;
                 }
             }

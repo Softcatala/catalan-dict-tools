@@ -88,7 +88,7 @@ for my $arxiucategoria (@categories) {
 
 	    $numAccepcio = "";
 	    if ($mot_masc !~ /$Flexio::number_exceptions/) { # Excepció: el número forma part del mot
-		if ($mot_masc =~ /^(.+)([0-9])$/) {
+		if ($mot_masc =~ /^(.+)(_[0-9])$/) {
 		    $mot_masc = $1;
 		    $numAccepcio = $2;
 		}
@@ -311,7 +311,7 @@ for my $arxiucategoria (@categories) {
 		$singular = $1;
 		$numAccepcio = "";
 		if ($singular !~ /$Flexio::number_exceptions/) { # Excepció: el número forma part del mot
-		    if ($singular =~ /^(.+)([0-9])$/) {
+		    if ($singular =~ /^(.+)(_[0-9])$/) {
 			$singular = $1;
 			$numAccepcio = $2;
 		    }

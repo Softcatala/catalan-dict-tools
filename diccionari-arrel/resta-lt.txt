@@ -275,7 +275,7 @@ bufa bufa I
 bxs baixos Y
 bé bé CC
 bé bé I
-ca ca4 I
+ca ca_4 I
 ca circa Y
 cada cada DI0CS0
 cadascun cadascun PI0MS000
