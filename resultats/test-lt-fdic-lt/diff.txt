@@ -1,14 +1,14 @@
 *** DIFERÈNCIES ***
 ** Compara noms **
-46,47c46
+48,49c48
 < CA CA NCFP000
 < CA CA NCFS000
 ---
 > CA CA NCFN000
-49d47
+51d49
 < CCAA CA NCFP000
 ** Compara adjectius **
-14360c14360
+14421c14421
 < azzurre azzurro AQ0FP0
 ---
 > azzurres azzurro AQ0FP0
