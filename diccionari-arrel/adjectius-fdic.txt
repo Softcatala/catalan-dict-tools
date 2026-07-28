@@ -26336,6 +26336,7 @@ prebostal=categories: A;fonts: LT;
 preburgès preburgesa=categories: A;fonts: derivat, dfrequencies;
 prebèl·lic prebèl·lica=categories: A;fonts: derivat;
 prebètic prebètica=categories: A;fonts: GEC;
+prebíblic prebíblica=categories: A;fonts: derivat;
 precambrià precambriana=categories: A;fonts: LT;
 precancerós precancerosa=categories: A;fonts: dsalut;
 precapil·lar=categories: A;fonts: dsalut;

@@ -81848,6 +81848,7 @@ tercelet=categories: M;fonts: DNV,termcat;
 tercera=categories: F;fonts: LT;
 terceria=categories: F;fonts: LT;
 tercermundisme=categories: M;fonts: LT;
+tercermundització=categories: F;fonts: derivat;
 tercerol tercerola=categories: MF;fonts LT;
 tercet=categories: M;fonts: LT;
 terciaire=categories: MF;fonts: LT;

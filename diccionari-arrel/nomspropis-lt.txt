@@ -1996,6 +1996,7 @@ Agàtocles Agàtocles NPMSSP0
 Agón Agón NPCN000 # wikidata
 Agüero Agüero NPCN000 # wikidata
 Agüimes Agüimes NPCSG00
+Ahab Ahab NPMSSP0
 Ahaggar Ahaggar NPCSG00
 Ahal Ahal NPCSG00 # esadir topònims
 Ahar Ahar NPCN000 # wikidata
