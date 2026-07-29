@@ -74349,6 +74349,7 @@ retrunyiment=categories: M;fonts: LT;
 retrusió=categories: F;fonts: DNV,termcat;
 retrusió=categories: F;fonts: termcat;
 retrò=categories: M;fonts: LT;
+retsina=categories: MS;fonts: DNV;
 retuit=categories: M;fonts: derivat;
 retweet=categories: M;fonts: anglès;
 retxa=categories: F;fonts: LT;
