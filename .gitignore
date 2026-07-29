@@ -6,6 +6,7 @@ ngrams/*.txt
 ngrams/database*
 *.dict
 resultats/release
+resultats/hf-dataset/*
 *.oxt
 *.xpi
 #*
