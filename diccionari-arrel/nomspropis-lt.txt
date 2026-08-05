@@ -287,6 +287,7 @@
 #Rosana Rosana NPFSSP0 # avl: noms de persona
 #Rosari Rosari NPFSSP0 # avl: noms de persona
 #Rubén (o Rubèn) Rubén (o Rubèn) NPMSSP0 # avl: noms de persona
+#Rusafa Rusafa NPCN000 # wikidata
 #Sacrament Sacrament NPFSSP0 # avl: noms de persona
 #Sagrament Sagrament NPFSSP0 # avl: noms de persona
 #Sagrari Sagrari NPFSSP0 # avl: noms de persona
@@ -16699,6 +16700,7 @@ CRIME CRIME NPCN000 # wikidata
 CRIP1 CRIP1 NPCN000 # wikidata
 CRJ CRJ NPCN000 # wikidata
 CRTVG CRTVG NPFSO00
+CRUE CRUE NPFSO00
 CS-22 CS-22 NPCN000 # wikidata
 CSA CSA NPCN000 # wikidata
 CSG CSG NPCN000 # wikidata
@@ -76612,7 +76614,6 @@ Rurey Rurey NPCN000 # wikidata
 Rurrenabaque Rurrenabaque NPCN000 # wikidata
 Rurutu Rurutu NPCN000 # wikidata
 Rusa Rusa NPCN000 # wikidata
-Rusafa Rusafa NPCN000 # wikidata
 Rusalka Rusalka NPFSSP0
 Rusca Rusca NPCNSP0
 Ruscalleda Ruscalleda NPCNSP0
@@ -76646,7 +76647,7 @@ Ruspina Ruspina NPCN000 # wikidata
 Russ Russ NPCN000 # wikidata
 Russ-Baikal Russ-Baikal NPCN000 # wikidata
 Russafa Russafa NPCNSP0
-Russafa Russafa NPCSG00
+Russafa Russafa NPFSG00
 Russange Russange NPCN000 # wikidata
 Russeifa Russeifa NPCN000 # wikidata
 Russell Russell NPCNSP0

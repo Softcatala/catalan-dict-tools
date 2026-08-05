@@ -29607,6 +29607,7 @@ semicontinental=categories: A;fonts: derivat;
 semicrom semicroma=categories: A;fonts: LT;
 semicromàtic semicromàtica=categories: A;fonts: LT;
 semicrític semicrítica=categories: A;fonts: dsalut;
+semicrú semicrua [pl. semicrús]=categories: A;fonts: derivat;
 semicuit semicuita=categories: A;fonts: LT;
 semiculte semiculta=categories: A;fonts: LT;
 semicurat semicurada=categories: A;fonts: derivat;
