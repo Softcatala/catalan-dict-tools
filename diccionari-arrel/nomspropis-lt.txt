@@ -5635,6 +5635,7 @@ Aral Aral NPCSG00
 Aralkum Aralkum NPCN000 # wikidata
 Arama Arama NPCN000 # wikidata
 Aramazd Aramazd NPCN000 # wikidata
+Aramco Aramco NPCNO00
 Aramengo Aramengo NPCN000 # wikidata
 Aramides Aramides NPCN000 # wikidata
 Aramil Aramil NPCN000 # wikidata
@@ -23808,6 +23809,7 @@ Corresa Corresa NPCSG00
 Corretger Corretger NPCNSP0
 Corretja Corretja NPCNSP0
 Correu Correu NPCNSP0
+Correus Correus NPCNO00
 Correà Correà NPCSG00
 Corribert Corribert NPCN000 # wikidata
 Corrientes Corrientes NPCN000 # wikidata
