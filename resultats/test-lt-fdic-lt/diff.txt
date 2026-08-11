@@ -8,7 +8,7 @@
 51d49
 < CCAA CA NCFP000
 ** Compara adjectius **
-14421c14421
+14430c14430
 < azzurre azzurro AQ0FP0
 ---
 > azzurres azzurro AQ0FP0

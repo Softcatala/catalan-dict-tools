@@ -24,12 +24,10 @@ echo "Ordenant diccionari"
 export LC_ALL=C && sort -u diccionari_antic.txt -o diccionari_antic.txt
 echo "Comparant diccionaris"
 diff ../resultats/lt/diccionari.txt diccionari_antic.txt > diff.txt
-cp diff.txt novetats_amb_tag.txt
+comm -23 ../resultats/lt/diccionari.txt diccionari_antic.txt > novetats_amb_tag.txt
 echo "Extraient novetats"
 perl -i -ne 'print unless / aguar /' novetats_amb_tag.txt #excloure aguar
 perl -i -ne 'print unless / VMIP1S0S/' novetats_amb_tag.txt #excloure formes del septentrional
-perl -i -pe 's/^[^<].*$//' novetats_amb_tag.txt
-perl -i -pe 's/^< //' novetats_amb_tag.txt
 perl -i -ne 'print unless / (aguar|ciar|emblar|binar) /' novetats_amb_tag.txt #EXCLUSIÓ D'ALGUNS VERBS
 perl -i -pe 's/ /\t/g' novetats_amb_tag.txt
 perl -i -ne 'print unless /^\s*$/' novetats_amb_tag.txt
@@ -44,8 +42,7 @@ cp spelling.txt ~/caresource
 
 
 echo "Extraient paraules esborrades"
-grep -E "^> " diff.txt > removed-body.txt
-perl -i -pe 's/^> //' removed-body.txt
+comm -13 ../resultats/lt/diccionari.txt diccionari_antic.txt > removed-body.txt
 perl -i -pe 's/ /\t/g' removed-body.txt
 perl -i -ne 'print unless /^\s*$/' removed-body.txt
 cat removed-tagger.head removed-body.txt > removed.txt
