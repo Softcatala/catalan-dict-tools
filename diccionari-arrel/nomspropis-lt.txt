@@ -9828,6 +9828,7 @@ Barzy-sur-Marne Barzy-sur-Marne NPCN000 # wikidata
 Barà Barà NPCSG00
 Barànavitxi Barànavitxi NPCSG00 # esadir topònims
 Barça Barça NPMSO00
+Barçagate Barçagate NPMSO00
 Barés Barés NPCNSP0
 Baríssau Baríssau NPCSG00 # esadir topònims
 Baríxnikov Baríxnikov NPCNSP0
@@ -27230,6 +27231,7 @@ Dieren Dieren NPCN000 # wikidata
 Dierre Dierre NPCN000 # wikidata
 Dierrey-Saint-Julien Dierrey-Saint-Julien NPCN000 # wikidata
 Dierrey-Saint-Pierre Dierrey-Saint-Pierre NPCN000 # wikidata
+Dieselgate Dieselgate NPMSO00
 Diesen Diesen NPCN000 # wikidata
 Diessenhofen Diessenhofen NPCN000 # wikidata
 Diest Diest NPCN000 # wikidata
@@ -31801,6 +31803,7 @@ FIB FIB NPCN000 # wikidata
 FIBA FIBA NPFSO00
 FIDE FIDE NPFSO00
 FIFA FIFA NPFSO00
+FIFA-gate FIFA-gate NPMSO00
 FIH FIH NPCN000 # wikidata
 FINUL FINUL NPFSO00
 FITUR FITUR NPFSO00
@@ -32630,6 +32633,7 @@ Fermí Fermí NPMSSP0
 Fernana Fernana NPCN000 # wikidata
 Fernandel Fernandel NPCN000 # wikidata
 Fernandes Fernandes NPCN000 # wikidata
+Fernandezgate Fernandezgate NPMSO00
 Fernandezia Fernandezia NPCN000 # wikidata
 Fernandina Fernandina NPCN000 # wikidata
 Fernandisco Fernandisco NPCN000 # wikidata
@@ -67407,6 +67411,7 @@ Partizan Partizan NPCNO00
 Partizánske Partizánske NPCN000 # wikidata
 Partridge Partridge NPCN000 # wikidata
 Party Party NPCN000 # wikidata
+Partygate Partygate NPMSO00
 Parula Parula NPCN000 # wikidata
 Paruma Paruma NPCN000 # wikidata
 Parun Parun NPCN000 # wikidata
@@ -68679,6 +68684,7 @@ Pfeiffer Pfeiffer NPCN000 # wikidata
 Pfetterhouse Pfetterhouse NPCN000 # wikidata
 Pfettisheim Pfettisheim NPCN000 # wikidata
 Pfizer Pfizer NPCN000 # wikidata
+Pfizergate Pfizergate NPMSO00
 Pflugerville Pflugerville NPCN000 # wikidata
 Pforzheim Pforzheim NPCSG00
 Pfulgriesheim Pfulgriesheim NPCN000 # wikidata
@@ -72696,6 +72702,7 @@ Qataban Qataban NPCN000 # wikidata
 Qatana Qatana NPCSG00 # esadir topònims
 Qatanna Qatanna NPCN000 # wikidata
 Qatar Qatar NPCSG00
+Qatargate Qatargate NPMSO00
 Qatna Qatna NPCSG00
 Qawra Qawra NPCN000 # wikidata
 Qaydu Qaydu NPCN000 # wikidata
@@ -76656,6 +76663,7 @@ Russell Russell NPCNSP0
 Russell-Silver Russell-Silver NPCNSP0 # medical
 Russellton Russellton NPCN000 # wikidata
 Russellville Russellville NPCN000 # wikidata
+Russiagate Russiagate NPMSO00
 Russiaville Russiaville NPCN000 # wikidata
 Russki Russki NPCN000 # wikidata
 Russocampus Russocampus NPCN000 # wikidata
@@ -87124,6 +87132,7 @@ Tampere Tampere NPCSG00
 Tampichthys Tampichthys NPCN000 # wikidata
 Tampico Tampico NPCSG00
 Tampin Tampin NPCN000 # wikidata
+Tampongate Tampongate NPMSO00
 Tampopo Tampopo NPCN000 # wikidata
 Tamra Tamra NPCN000 # wikidata
 Tamri Tamri NPCN000 # wikidata
