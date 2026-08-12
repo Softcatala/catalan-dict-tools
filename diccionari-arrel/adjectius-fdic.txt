@@ -24597,6 +24597,7 @@ pedralbí pedralbina=categories: A;fonts: LT;
 pedreguerí pedreguerina=categories: A;fonts: LT;
 pedregós pedregosa=categories: A;fonts: LT;
 pedrenc pedrenca=categories: A;fonts: LT;
+pedrolià pedroliana=categories: A;fonts: derivat;
 pedrós pedrosa=categories: A;fonts: LT;
 peduncular=categories: A;fonts: LT;
 pedunculat pedunculada=categories: A;fonts: LT;
