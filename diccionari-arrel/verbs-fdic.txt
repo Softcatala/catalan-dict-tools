@@ -1154,6 +1154,7 @@ autoproclamar=categories: V;model:cantar;fonts: LT;
 autopublicar=categories: V;model:trencar;fonts: derivat;
 autoqualificar=categories: V;model:trencar;fonts: DNV;
 autoregular=categories: V;model:cantar;fonts: DNV;
+autoreiniciar=categories: V;model:crear;fonts: derivat;
 autorelaxar=categories: V;model:cantar;fonts: DNV;
 autoreproduir=categories: V;model:traduir;fonts: DNV;
 autoretratar=categories: V;model:cantar;fonts: LT;
