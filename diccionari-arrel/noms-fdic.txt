@@ -60493,6 +60493,7 @@ oferter ofertera=categories: MF;fonts: LT;
 ofertor ofertora=categories: MF;fonts LT;
 ofertori=categories: M;fonts: LT;
 office=categories: M;fonts: GDLC;
+offshore=categories: MF;fonts: LT;
 ofiasi=categories: F;fonts: LT;
 ofici=categories: M;fonts: LT;
 oficial=categories: MF;fonts: LT;

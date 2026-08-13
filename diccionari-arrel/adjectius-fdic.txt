@@ -23289,6 +23289,7 @@ oferent=categories: A;fonts: LT;
 oferidor oferidora=categories: A;fonts: LT;
 off-line=categories: AI;fonts: anglès;
 offline=categories: AI;fonts: anglès;
+offshore=categories: AI;fonts: esadir;
 oficial=categories: A;fonts: LT;
 oficialista=categories: A;fonts: LT;
 oficiant=categories: A;fonts: LT;
