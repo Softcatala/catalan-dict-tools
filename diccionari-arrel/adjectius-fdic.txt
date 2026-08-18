@@ -3953,6 +3953,7 @@ autobronzejador autobronzejadora=categories: A;fonts: derivat;
 autocarregable=categories: A;fonts: derivat;
 autocarregador autocarregadora=categories: A;fonts: termcat;
 autocastrador autocastradora=categories: A;fonts: derivat;
+autocatalític autocatalítica=categories: A;fonts: derivat;
 autocentrador autocentradora=categories: A;fonts: LT;
 autocentrat autocentrada=categories: A;fonts: derivat;
 autocinètic autocinètica=categories: A;fonts: LT;
