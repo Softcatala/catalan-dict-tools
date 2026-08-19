@@ -40056,6 +40056,7 @@ geobotànic geobotànica=categories: MF;fonts LT;
 geocentrisme=categories: M;fonts: LT;
 geocerca=categories: F;fonts: LT;
 geocercador geocercadora=categories: MF;fonts: LT;
+geociències=categories: FP;fonts: wiki;
 geocodificació=categories: F;fonts: termcat;
 geocronologia=categories: F;fonts: LT;
 geocronometria=categories: F;fonts: LT;
