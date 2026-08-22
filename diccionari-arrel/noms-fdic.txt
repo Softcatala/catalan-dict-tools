@@ -3460,7 +3460,6 @@ aljuber aljubera=categories: MF;fonts: LT;
 aljófar=categories: M;fonts: LT;
 alkavervir=categories: MS;fonts: dsalut;
 all-star [pl. all-stars]=categories: M;fonts: english;
-all-star=categories: M;fonts: esadir;
 all=categories: M;fonts: LT;
 allada=categories: F;fonts: LT;
 allar=categories: M;fonts: LT;
