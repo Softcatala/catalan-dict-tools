@@ -34305,6 +34305,7 @@ virostàtic virostàtica=categories: A;fonts: dsalut;
 virosòmic virosòmica=categories: A;fonts: dsalut;
 virregnal=categories: A;fonts: LT;
 virtual=categories: A;fonts: LT;
+virtuosista=categories: A;fonts: derivat;
 virtuosístic virtuosística=categories: A;fonts: LT;
 virtuós virtuosa [sup. virtuosíssim]=categories: A; font:apertium;
 virulent virulenta=categories: A;fonts: LT;
