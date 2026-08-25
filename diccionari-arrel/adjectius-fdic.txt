@@ -901,6 +901,7 @@ afroamericà afroamericana=categories: A;fonts: LT;
 afroanglès afroanglesa=categories: A;fonts: derivat;
 afroasiàtic afroasiàtica=categories: A;fonts: LT;
 afrobrasiler afrobrasilera=categories: A;fonts: LT;
+afrocaribeny afrocaribenya=categories: A;fonts: termcat;
 afrocatalà afrocatalana=categories: A;fonts: derivat;
 afrocolombià afrocolombiana=categories: A;fonts: derivat;
 afrocubà afrocubana=categories: A;fonts: LT;
