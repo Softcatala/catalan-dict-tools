@@ -104,6 +104,7 @@
 #jugaroi=categories: M;fonts: LT; canviat en el DIEC -> jogueroi
 #junior juniora=categories: MF;fonts: LT; rar, no DIEC, DNV
 #lab=categories: M;fonts: dsalut;
+#lactuca=categories: M;fonts: dsalut;
 #legibilitat=categories: F;fonts: LT; error, d'on ve?
 #lentor=categories: F;fonts: dsalut;
 #limen de l'ínsula=categories: M;fonts: dsalut;
@@ -48959,7 +48960,6 @@ lactosúria=categories: F;fonts: LT;
 lactoteràpia=categories: F;fonts: dsalut;
 lactotoxina=categories: F;fonts: dsalut;
 lactotropina=categories: F;fonts: dsalut;
-lactuca=categories: M;fonts: dsalut;
 lactucari=categories: M;fonts: LT;
 lactucina=categories: F;fonts: dsalut;
 lactucisme=categories: M;fonts: dsalut;
