@@ -13835,6 +13835,7 @@ Borén Borén NPCSG00
 Borés Borés NPCNSP0
 Borís Borís NPMSSP0
 Boríspil Boríspil NPCSG00 # esadir topònims
+Boríssov Boríssov NPCSG00 # esadir topònims, forma russa de la bielorussa Baríssau
 Boríssovka Boríssovka NPCSG00 # esadir topònims
 Borðoy Borðoy NPCN000 # wikidata
 Borčany Borčany NPCN000 # wikidata
