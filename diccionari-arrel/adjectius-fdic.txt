@@ -33121,6 +33121,7 @@ turingià turingiana=categories: A;fonts: LT;
 turismofòbic turismofòbica=categories: A;fonts: esadir;
 turismòfob turismòfoba=categories: A;fonts: esadir;
 turista=categories: A;fonts: DDLC;
+turistificador turistificadora=categories: A;fonts: derivat;
 turmeller turmellera=categories: A;fonts: LT;
 turmentador turmentadora=categories: A;fonts: LT;
 turmentós turmentosa=categories: A;fonts: LT;
