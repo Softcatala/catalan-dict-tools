@@ -79833,13 +79833,14 @@ Salamanga Salamanga NPCN000 # wikidata
 Salamansa Salamansa NPCN000 # wikidata
 Salamanya Salamanya NPCNSP0
 Salamatof Salamatof NPCN000 # wikidata
-Salambô Salambô NPCN000 # wikidata
+Salambó Salambó NPFSSP0
+Salambô Salambô NPCSG00 # wikidata
 Salamera Salamera NPCNSP0
 Salamic Salamic NPCNSP0
 Salamina Salamina NPCSG00
 Salamiyah Salamiyah NPCSG00 # esadir topònims
 Salamià Salamià NPCNSP0
-Salammbô Salammbô NPCN000 # wikidata
+Salammbô Salammbô NPFSSP0 # wikidata
 Salamonia Salamonia NPCN000 # wikidata
 Salamí Salamí NPCNSP0
 Salamó Salamó NPCNSP0
