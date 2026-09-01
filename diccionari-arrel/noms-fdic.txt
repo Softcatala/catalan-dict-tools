@@ -44133,6 +44133,7 @@ hipercel·lularitat=categories: F;fonts: dsalut;
 hipercementosi=categories: F;fonts: dsalut;
 hipercenestèsia=categories: F;fonts: dsalut;
 hipercenosi=categories: F;fonts: dsalut;
+hipercentralització=categories: F;fonts: derivat;
 hiperceratinització=categories: F;fonts: dsalut;
 hiperceratosi=categories: F;fonts: LT;
 hipercetonèmia=categories: F;fonts: dsalut;
