@@ -26551,6 +26551,7 @@ premòrbid premòrbida=categories: A;fonts: termcat;
 prenadalenc prenadalenca=categories: A;fonts: Neolosfera;
 prenatal=categories: A;fonts: LT;
 prenedor prenedora=categories: A;fonts: LT;
+prenominal=categories: A;fonts: giec;
 prensor prensora=categories: A;fonts: LT;
 prenupcial=categories: A;fonts: LT;
 prenyat prenyada [sup. prenyadíssim]=categories: A; font:apertium;
