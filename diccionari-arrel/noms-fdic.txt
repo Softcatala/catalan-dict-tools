@@ -47202,6 +47202,7 @@ inspissació=categories: F;fonts: dsalut;
 instagramer instagramera=categories: MF;fonts: termcat;
 instal·lació=categories: F;fonts: LT;
 instal·lador instal·ladora=categories: MF;fonts LT;
+instanciació=categories: F;fonts: termcat;
 instant=categories: M;fonts: LT;
 instantaneïtat=categories: F;fonts: LT;
 instantització=categories: F;fonts: LT;

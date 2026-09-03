@@ -4007,6 +4007,7 @@ autoexcitat autoexcitada=categories: A;fonts: LT;
 autoexecutable=categories: A;fonts: derivat;
 autoexigent=categories: A;fonts: esadir;
 autoexpandible=categories: A;fonts: derivat;
+autoexplicatiu autoexplicativa=categories: A;fonts: derivat;
 autoexploratori autoexploratòria=categories: A;fonts: dsalut;
 autoexplosiu autoexplosiva=categories: A;fonts: LT;
 autoextingible=categories: A;fonts: LT;
