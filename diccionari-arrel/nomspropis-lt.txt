@@ -62938,6 +62938,8 @@ Niàgara Niàgara NPMSG00
 Niça Niça NPCSG00
 Nièvre Nièvre NPCSG00
 Niévroz Niévroz NPCN000 # wikidata
+Niña Niña NPFSO00
+Niño Niño NPMSO00
 Niño-Becerra Niño-Becerra NPCNSP0
 Niğde Niğde NPCN000 # wikidata
 Niš Niš NPCSG00
@@ -86068,6 +86070,7 @@ Superna Superna NPCSG00
 Supernanny Supernanny NPFSSP0
 Supernena Supernena NPFSSP0
 Supernenes Supernena NPFPSP0
+Superniño Superniño NPMSO00
 Supersubmarina Supersubmarina NPCN000 # wikidata
 Supertec Supertec NPCN000 # wikidata
 Supertramp Supertramp NPCN000 # wikidata
