@@ -73112,6 +73112,7 @@ reentrenament=categories: M;fonts: dsalut;
 reenviament=categories: M;fonts: LT;
 reenvit=categories: M;fonts: LT;
 reequilibrament=categories: M;fonts: derivat;
+reequilibratge=categories: M;fonts: derivat;
 reequilibri=categories: M;fonts: LT;
 reerecció=categories: F;fonts: LT;
 reescalf=categories: M;fonts: LT;
