@@ -6082,6 +6082,7 @@ antrostomia=categories: F;fonts: dsalut;
 antrosòl=categories: M;fonts: LT;
 antrotimpanitis=categories: FI;fonts: dsalut;
 antrotomia=categories: F;fonts: LT;
+antrozoologia=categories: FS;fonts: wiki;
 antrustió=categories: M;fonts: LT;
 antrè=categories: M;fonts: LT;
 antròfor=categories: M;fonts: dsalut;

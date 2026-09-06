@@ -10578,6 +10578,7 @@ Beersel Beersel NPCN000 # wikidata
 Beerxeba Beerxeba NPFSG00
 Beesel Beesel NPCN000 # wikidata
 Beethoven Beethoven NPCNSP0
+Beethoven-Haus Beethoven-Haus NPFSG00
 Beetlejuice Beetlejuice NPCN000 # wikidata
 Beeville Beeville NPCN000 # wikidata
 Befana Befana NPCN000 # wikidata
@@ -42428,6 +42429,7 @@ Hummelstown Hummelstown NPCN000 # wikidata
 Hummer Hummer NPCN000 # wikidata
 Humoresque Humoresque NPCN000 # wikidata
 Humpata Humpata NPCN000 # wikidata
+Humperdinck Humperdinck NPCNSP0
 Humphrey Humphrey NPCN000 # wikidata
 Humphreys Humphreys NPCN000 # wikidata
 Humptrup Humptrup NPCN000 # wikidata
@@ -70248,6 +70250,7 @@ Polistena Polistena NPCN000 # wikidata
 Polistrat Polistrat NPCN000 # wikidata
 Polisy Polisy NPCN000 # wikidata
 Polit Polit NPCNSP0
+Politbarometer Politbarometer NPMSO00
 Politicalamity Politicalamity NPCN000 # wikidata
 Politico Politico NPMSO00
 Politiken Politiken NPCN000 # wikidata
