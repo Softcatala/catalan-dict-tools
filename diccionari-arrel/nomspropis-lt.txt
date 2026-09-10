@@ -22618,6 +22618,7 @@ Coen Coen NPCNSP0
 Coenobita Coenobita NPCN000 # wikidata
 Coenocorypha Coenocorypha NPCN000 # wikidata
 Coenostolopsis Coenostolopsis NPCN000 # wikidata
+Coetzee Coetzee NPCNSP0
 Coevorden Coevorden NPCN000 # wikidata
 Coeymans Coeymans NPCN000 # wikidata
 Cofersa Cofersa NPCN000 # wikidata
@@ -46592,6 +46593,7 @@ Kesovce Kesovce NPCN000 # wikidata
 Kesra Kesra NPCN000 # wikidata
 Kessel Kessel NPCN000 # wikidata
 Kesseldorf Kesseldorf NPCN000 # wikidata
+Kessler Kessler NPCNSP0
 Kesswil Kesswil NPCN000 # wikidata
 Kestenholz Kestenholz NPCN000 # wikidata
 Kestilä Kestilä NPCN000 # wikidata
