@@ -6577,6 +6577,7 @@ aprovisionador aprovisionadora=categories: MF;fonts: LT;
 aprovisionament=categories: M;fonts: LT;
 aproximació=categories: F;fonts: LT;
 aproximament=categories: M;fonts: LT;
+aproximantització=categories: F;fonts: GIEC;
 apràxia=categories: F;fonts: LT;
 aprés [pl. apressos]=categories: M;fonts: LT;
 aprísia=categories: F;fonts: LT;
