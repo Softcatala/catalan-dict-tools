@@ -34770,7 +34770,6 @@ engrauésseu engrauar VMSI2P05
 engrauéssim engrauar VMSI1P02
 engrauéssiu engrauar VMSI2P02
 engrauí engrauar VMIS1S00
-engris engrisar VMIP1S0B
 engrisa engrisar VMIP3S00
 engrisa engrisar VMM02S00
 engrisada engrisar VMP00SF0
@@ -34946,7 +34945,6 @@ engronyoníssem engronyonir VMSI1P05
 engronyonísseu engronyonir VMSI2P05
 engronyoníssim engronyonir VMSI1P02
 engronyoníssiu engronyonir VMSI2P02
-engross engrossar VMIP1S0B
 engrossa engrossar VMIP3S00
 engrossa engrossar VMM02S00
 engrossada engrossar VMP00SF0
@@ -35034,6 +35032,8 @@ engrum engrum NCMS000
 engrums engrum NCMP000
 engrunsons engrunsó NCMP000
 engrunsó engrunsó NCMS000
+engrís engrisar VMIP1S0B
+engròs engrossar VMIP1S0B
 enguat enguatar VMIP1S0B
 enguata enguatar VMIP3S00
 enguata enguatar VMM02S00
