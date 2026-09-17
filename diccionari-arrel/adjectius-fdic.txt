@@ -2008,6 +2008,7 @@ anglicà anglicana=categories: A;fonts: LT;
 anglo-nord-americà anglo-nord-americana=categories: A;fonts: derivat;
 angloafricà angloafricana=categories: A;fonts: derivat;
 angloamericà angloamericana=categories: A;fonts: LT;
+anglocèntric anglocèntrica=categories: A;fonts: derivat;
 anglogermànic anglogermànica=categories: A;fonts: derivat;
 angloindi angloíndia=categories: A;fonts: LT;
 angloirlandès angloirlandesa=categories: A;fonts: derivat;

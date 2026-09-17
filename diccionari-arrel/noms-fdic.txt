@@ -5132,6 +5132,7 @@ anglicista=categories: MF;fonts: LT;
 anglicització=categories: FS;fonts: derivat;
 anglicà anglicana=categories: MF;fonts: LT;
 anglocatòlic anglocatòlica=categories: MF;fonts: LT;
+anglocentrisme=categories: MS;fonts: wiki;
 angloesfera=categories: F;fonts: derivat;
 anglofília=categories: F;fonts: LT;
 anglofòbia=categories: F;fonts: LT;
