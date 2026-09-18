@@ -3810,6 +3810,7 @@ Altishofen Altishofen NPCN000 # wikidata
 Altissimo Altissimo NPCN000 # wikidata
 Altkirch Altkirch NPCN000 # wikidata
 Altlinster Altlinster NPCN000 # wikidata
+Altman Altman NPCNSP0
 Altmar Altmar NPCN000 # wikidata
 Altmark Altmark NPCSG00
 Altnaharra Altnaharra NPCN000 # wikidata
@@ -4294,6 +4295,7 @@ Amnirana Amnirana NPCN000 # wikidata
 Amné Amné NPCN000 # wikidata
 Amnéville Amnéville NPCN000 # wikidata
 Amod Amod NPCN000 # wikidata
+Amodei Amodei NPCNSP0
 Amoeba Amoeba NPCN000 # wikidata
 Amoeiro Amoeiro NPCN000 # wikidata
 Amomum Amomum NPCN000 # wikidata

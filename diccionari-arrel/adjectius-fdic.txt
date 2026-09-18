@@ -7942,6 +7942,7 @@ contrariador -a=categories: A;fonts: DNV;
 contrariós contrariosa=categories: A;fonts: LT;
 contrastable=categories: A;fonts: LT;
 contrastant=categories: A;fonts: LT;
+contrastat contrastada [sup. contrastadíssim]=categories: A;fonts: participi;
 contrastiu contrastiva=categories: A;fonts: LT;
 contraterrorista=categories: A;fonts: derivat, poc usat?;
 contratònic contratònica=categories: A;fonts: LT;
