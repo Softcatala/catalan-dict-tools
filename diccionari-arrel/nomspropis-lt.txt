@@ -39262,7 +39262,7 @@ Gällivare Gällivare NPCSG00
 Gärtner Gärtner NPCNSP0
 Gävle Gävle NPCSG00
 Gåte Gåte NPCN000 # wikidata
-Gènesi Gènesi NPMS000
+Gènesi Gènesi NPMSO00
 Gènova Gènova NPFSG00
 Gèrs Gèrs NPCSG00
 Géant Géant NPCSG00
@@ -60585,6 +60585,7 @@ MusicXML MusicXML NPCN000 # wikidata
 Musical.ly Musical.ly NPCN000 # wikidata
 Musidora Musidora NPCN000 # wikidata
 Musigny Musigny NPCN000 # wikidata
+Musikene Musikene NPMSO00
 Musikverein Musikverein NPFSO00
 Musil Musil NPCNSP0
 Musiqq Musiqq NPCN000 # wikidata
