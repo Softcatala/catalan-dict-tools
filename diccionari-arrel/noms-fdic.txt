@@ -379,6 +379,7 @@ HTTPS=categories: MI;fonts: sigla;
 H₂O=categories: MS;fonts: simbol;
 IA=categories: FI;fonts: sigla;
 IAE=categories: MS;fonts: esadir;
+IAG=categories: FI;fonts: sigla;
 IBAN=categories: MI;fonts: termcat,sigla;
 IC=categories: FI;fonts: dsalut;
 ID=categories: MFI;fonts: sigla;

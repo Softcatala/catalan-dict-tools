@@ -2238,6 +2238,7 @@ antibloqueig=categories: AI;fonts: termcat;
 antiblàstic antiblàstica=categories: A;fonts: dsalut;
 antiboira=categories: AI;fonts: LT;
 antiborbònic antiborbònica=categories: A;fonts: derivat;
+antibots=categories: AI;fonts: derivat;
 antibritànic antibritànica=categories: A;fonts: derivat;
 antibromera=categories: AI;fonts: DNV;
 antibrutícia=categories: AI;fonts: LT;
