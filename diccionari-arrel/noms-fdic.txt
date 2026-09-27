@@ -50534,6 +50534,7 @@ llatinisme=categories: M;fonts: LT;
 llatinista=categories: MF;fonts: LT;
 llatinitat=categories: F;fonts: LT;
 llatinització=categories: F;fonts: LT;
+llatinoamericanització=categories: FS;fonts: derivat;
 llatinoamericà llatinoamericana=categories: MF;fonts LT;
 llatinòrum=categories: M;fonts: LT;
 llatzeret=categories: M;fonts: LT;
