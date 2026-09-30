@@ -62534,6 +62534,7 @@ paleoceanografia=categories: F;fonts: LT;
 paleocerebel=categories: M;fonts: dsalut;
 paleoclima=categories: M;fonts: LT;
 paleoclimatologia=categories: F;fonts: LT;
+paleoclimatòleg paleoclimatòloga=categories: MF;fonts: derivat;
 paleocorrent=categories: M;fonts: LT;
 paleocè=categories: M;fonts: LT;
 paleoecologia=categories: F;fonts: LT;

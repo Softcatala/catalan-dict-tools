@@ -42,6 +42,7 @@
 #Asmonees Asmonea NPFPSP0
 #Atlas Atlas NPCN000 # wikidata
 #Audaç Audaç NPMSSP0 # avl: noms de persona
+#Autómata Autómata NPCN000 # wikidata
 #Barrio Barrio NPCN000 # wikidata
 #Batiste Batiste NPMSSP0 # avl: noms de persona
 #Benvenguda Benvenguda NPFSSP0 # avl: noms de persona
@@ -7767,7 +7768,6 @@ Autrécourt-sur-Aire Autrécourt-sur-Aire NPCN000 # wikidata
 Autréville-Saint-Lambert Autréville-Saint-Lambert NPCN000 # wikidata
 Autrêches Autrêches NPCN000 # wikidata
 Autun Autun NPCSG00
-Autómata Autómata NPCN000 # wikidata
 Auve Auve NPCN000 # wikidata
 Auvernaux Auvernaux NPCN000 # wikidata
 Auvernier Auvernier NPCN000 # wikidata
