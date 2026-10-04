@@ -33053,6 +33053,7 @@ Firebaugh Firebaugh NPCN000 # wikidata
 Firebird Firebird NPCN000 # wikidata
 Firefox Firefox NPMSO00
 Firenzuola Firenzuola NPCN000 # wikidata
+Firestone Firestone NPCNSP0
 Firewatch Firewatch NPCN000 # wikidata
 Fireworks Fireworks NPCN000 # wikidata
 Firfol Firfol NPCN000 # wikidata
@@ -40768,7 +40769,7 @@ Hendecasis Hendecasis NPCN000 # wikidata
 Hendecourt-lès-Cagnicourt Hendecourt-lès-Cagnicourt NPCN000 # wikidata
 Hendecourt-lès-Ransart Hendecourt-lès-Ransart NPCN000 # wikidata
 Henderson Henderson NPCN000 # wikidata
-Henderson-Hasselbach Henderson-Hasselbach NPCNSP0 # medical
+Henderson-Hasselbalch Henderson-Hasselbalch NPCNSP0 # medical
 Hendersonville Hendersonville NPCN000 # wikidata
 Hendley Hendley NPCN000 # wikidata
 Hendon Hendon NPCN000 # wikidata
