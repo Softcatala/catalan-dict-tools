@@ -15012,6 +15012,7 @@ Brihuega Brihuega NPCN000 # wikidata
 Briis-sous-Forges Briis-sous-Forges NPCN000 # wikidata
 Brijesta Brijesta NPCSG00 # esadir topònims
 Brill Brill NPCNSP0
+Brillat-Savarin Brillat-Savarin NPCNSP0
 Brillecourt Brillecourt NPCN000 # wikidata
 Brillevast Brillevast NPCN000 # wikidata
 Brilliant Brilliant NPCN000 # wikidata
@@ -91196,6 +91197,7 @@ Twelve Twelve NPCN000 # wikidata
 Twenterand Twenterand NPCN000 # wikidata
 Twenty Twenty NPCN000 # wikidata
 Twice Twice NPCN000 # wikidata
+Twiggy Twiggy NPFSSP0
 Twike Twike NPCN000 # wikidata
 Twilight Twilight NPCN000 # wikidata
 Twine Twine NPCN000 # wikidata

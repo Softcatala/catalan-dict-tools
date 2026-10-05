@@ -25763,6 +25763,7 @@ dicrotofós=categories: MS;fonts: dsalut;
 dicroïta=categories: F;fonts: LT;
 dicrà=categories: M;fonts: LT;
 dicrànum=categories: M;fonts: LT;
+dictablanda=categories: FS;fonts: castellà;
 dictador dictadora=categories: MF;fonts: LT;
 dictadura=categories: F;fonts: LT;
 dictam=categories: M;fonts: LT;
