@@ -86039,6 +86039,7 @@ Sunifred Sunifred NPMSSP0
 Sunja Sunja NPCSG00
 Sunman Sunman NPCN000 # wikidata
 Sunnfjord Sunnfjord NPCN000 # wikidata
+Sunningdale Sunningdale NPCSG00
 Sunnyside Sunnyside NPCN000 # wikidata
 Sunnyslope Sunnyslope NPCN000 # wikidata
 Sunnyvale Sunnyvale NPCSG00

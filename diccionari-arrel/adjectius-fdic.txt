@@ -34694,6 +34694,7 @@ zoològic zoològica=categories: A;fonts: LT;
 zoomorf zoomorfa=categories: A;fonts: LT;
 zoomòrfic zoomòrfica=categories: A;fonts: LT;
 zoonòtic zoonòtica=categories: A;fonts: dsalut;
+zooplanctònic zooplanctònica=categories: A;fonts: derivat;
 zooplàstic zooplàstica=categories: A;fonts: dsalut;
 zoosanitari zoosanitària=categories: A;fonts: termcat;
 zootròfic zootròfica=categories: A;fonts: dsalut;
