@@ -55171,6 +55171,7 @@ microclisteri=categories: M;fonts: dsalut;
 micrococ=categories: M;fonts: LT;
 micrococcal=categories: M;fonts: LT;
 micrococcàcia=categories: F;fonts: LT;
+microcodi=categories: M;fonts: wikipedia;
 microcogeneració=categories: F;fonts: derivat;
 microcolònia=categories: F;fonts: dsalut;
 microcomarca=categories: F;fonts: derivat;

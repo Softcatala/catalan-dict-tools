@@ -99147,6 +99147,7 @@ uTorrent uTorrent NPCNO00
 Àries Àries NPCSG00
 Àrreu Àrreu NPCSG00
 Àrtemis Àrtemis NPFSSP0
+Àrtida Àrtida NPFSG00
 Àsdrubal Àsdrubal NPMSSP0
 Àsia Àsia NPFSG00
 Àsina Àsina NPCSG00

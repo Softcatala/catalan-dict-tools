@@ -13131,6 +13131,7 @@ fatxendós fatxendosa=categories: A;fonts: LT;
 fatídic fatídica=categories: A;fonts: LT;
 faucal=categories: A;fonts: LT;
 faucial=categories: A;fonts: dsalut;
+faulknerià faulkneriana=categories: A;fonts: derivat;
 faunesc faunesca=categories: A;fonts: LT;
 faunístic faunística=categories: A;fonts: LT;
 faurer faurera=categories: A;fonts: LT;
