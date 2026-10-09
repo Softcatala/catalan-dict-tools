@@ -83344,6 +83344,7 @@ Silly-le-Long Silly-le-Long NPCN000 # wikidata
 Silly-sur-Nied Silly-sur-Nied NPCN000 # wikidata
 Sillé-le-Guillaume Sillé-le-Guillaume NPCN000 # wikidata
 Sillé-le-Philippe Sillé-le-Philippe NPCN000 # wikidata
+Silmaríl·lion Silmaríl·lion NPMSG00
 Silmont Silmont NPCN000 # wikidata
 Siloam Siloam NPCN000 # wikidata
 Silometopoides Silometopoides NPCN000 # wikidata
