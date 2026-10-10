@@ -6592,6 +6592,7 @@ Artasona Artasona NPCSG00
 Artau Artau NPMSSP0 # avl: noms de persona
 Artaud Artaud NPCNSP0
 Artavardiya Artavardiya NPCN000 # wikidata
+Artaxerxes Artaxerxes NPMSSP0
 Artaxes Artaxes NPCN000 # wikidata
 Artazu Artazu NPCN000 # wikidata
 Arteaga Arteaga NPCN000 # wikidata
