@@ -412527,6 +412527,8 @@ descobríssiu descobrir VMSI2P02
 descodific descodificar VMIP1S0B
 descodifica descodificar VMIP3S00
 descodifica descodificar VMM02S00
+descodificable descodificable AQ0CS0
+descodificables descodificable AQ0CP0
 descodificacions descodificació NCFP000
 descodificació descodificació NCFS000
 descodificada descodificar VMP00SF0
@@ -1157857,6 +1157859,8 @@ semicec semicec AQ0MS0
 semicecs semicec AQ0MP0
 semicega semicec AQ0FS0
 semicegues semicec AQ0FP0
+semicel·la semicel·la NCFS000
+semicel·les semicel·la NCFP000
 semicercle semicercle NCMS000
 semicercles semicercle NCMP000
 semicicle semicicle NCMS000
@@ -1158497,6 +1158501,8 @@ semiperíode semiperíode NCMS000
 semiperíodes semiperíode NCMP000
 semipesant semipesant AQ0CS0
 semipesants semipesant AQ0CP0
+semipila semipila NCFS000
+semipiles semipila NCFP000
 semiplacenta semiplacenta NCFS000
 semiplacentes semiplacenta NCFP000
 semiplans semiplà NCMP000

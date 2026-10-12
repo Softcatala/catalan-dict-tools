@@ -9104,6 +9104,7 @@ descoat descoada=categories: A;fonts: LT;
 descobert descoberta [sup. descobertíssim]=categories: A; font:apertium;
 descobrible=categories: A;fonts: LT;
 descobridor descobridora=categories: A;fonts: LT;
+descodificable=categories: A;fonts: derivat;
 descodificador descodificadora=categories: A;fonts: DIEC;
 descofat descofada=categories: A;fonts: LT;
 descolonial=categories: A;fonts: termcat;
