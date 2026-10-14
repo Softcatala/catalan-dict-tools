@@ -34884,6 +34884,7 @@ exlíder=categories: MF;fonts: LT;
 exmagistrat exmagistrada=categories: MF;fonts: derivat;
 exmandatari exmandatària=categories: MF;fonts: derivat;
 exmarit=categories: M;fonts: LT;
+exmatador=categories: M;fonts: derivat;
 exmembre=categories: MF;fonts: LT;
 exmestre exmestra=categories: MF;fonts: LT;
 exmetge=categories: MF;fonts: LT;

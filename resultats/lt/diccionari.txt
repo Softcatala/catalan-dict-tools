@@ -725839,6 +725839,8 @@ exmandatària exmandatari NCFS000
 exmandatàries exmandatari NCFP000
 exmarit exmarit NCMS000
 exmarits exmarit NCMP000
+exmatador exmatador NCMS000
+exmatadors exmatador NCMP000
 exmembre exmembre NCCS000
 exmembres exmembre NCCP000
 exmestra exmestre NCFS000
