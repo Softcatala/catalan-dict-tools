@@ -41335,6 +41335,7 @@ Higbee Higbee NPCN000
 Higgins Higgins NPCN000
 Higginsport Higginsport NPCN000
 Higginsville Higginsville NPCN000
+Higgs Higgs NPCNSP0
 Higgston Higgston NPCN000
 High High NPCN000
 High-King High-King NPCN000
@@ -92871,7 +92872,6 @@ Valdunquillo Valdunquillo NPCN000
 Valdáliga Valdáliga NPCN000
 Valdès Valdès NPCNSP0
 Valdés Valdés NPCNSP0
-Vale Vale NPCN000
 Valeille Valeille NPCN000
 Valeins Valeins NPCN000
 Valempoulières Valempoulières NPCN000

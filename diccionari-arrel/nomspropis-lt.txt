@@ -333,6 +333,7 @@
 #Vald Vald NPMSSP0 # avl: noms de persona
 #Valda Valda NPCN000 # wikidata
 #Valda Valda NPFSSP0 # avl: noms de persona
+#Vale Vale NPCN000 # wikidata
 #Valer Valer NPMSSP0 # avl: noms de persona
 #Ver Ver NPMSSP0 # avl: noms de persona
 #Via Via NPCNSP0
@@ -41289,6 +41290,7 @@ Higbee Higbee NPCN000 # wikidata
 Higgins Higgins NPCN000 # wikidata
 Higginsport Higginsport NPCN000 # wikidata
 Higginsville Higginsville NPCN000 # wikidata
+Higgs Higgs NPCNSP0
 Higgston Higgston NPCN000 # wikidata
 High High NPCN000 # wikidata
 High-King High-King NPCN000 # wikidata
@@ -92459,7 +92461,6 @@ Valdunquillo Valdunquillo NPCN000 # wikidata
 Valdáliga Valdáliga NPCN000 # wikidata
 Valdès Valdès NPCNSP0
 Valdés Valdés NPCNSP0
-Vale Vale NPCN000 # wikidata
 Valeille Valeille NPCN000 # wikidata
 Valeins Valeins NPCN000 # wikidata
 Valempoulières Valempoulières NPCN000 # wikidata
@@ -99991,4 +99992,3 @@ uTorrent uTorrent NPCNO00
 Ḥaǧǧa Ḥaǧǧa NPCSG00
 Ḥaḍramawt Ḥaḍramawt NPCSG00
 Ṭanṭā Ṭanṭā NPCSG00
-Higgs Higgs NPCNSP0
