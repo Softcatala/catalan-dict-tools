@@ -55853,6 +55853,7 @@ miligó=categories: M;fonts: dsalut;
 miliobàtid=categories: M;fonts: LT;
 milionada=categories: F;fonts: LT;
 milionari milionària=categories: MF;fonts LT;
+milionet=categories: M;fonts: diminutiu;
 militant=categories: MF;fonts: LT;
 militar=categories: MF;fonts: LT;
 militarada=categories: F;fonts: LT;

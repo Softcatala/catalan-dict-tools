@@ -917788,6 +917788,8 @@ milionari milionari AQ0MS0
 milionari milionari NCMS000
 milionaris milionari AQ0MP0
 milionaris milionari NCMP000
+milionet milionet NCMS000
+milionets milionet NCMP000
 milions milió NCMP000
 milionària milionari AQ0FS0
 milionària milionari NCFS000
