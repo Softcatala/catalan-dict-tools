@@ -67,6 +67,7 @@
 #Carp Carp NPMSSP0 # avl: noms de persona
 #Carrossa Carrossa NPFSSP0 # avl: noms de persona
 #Carí Carí NPMSSP0 # avl: noms de persona
+#Castilla Castilla NPCN000 # wikidata
 #Catalan Catalan NPCN000 # wikidata
 #Catalán Catalán NPCN000 # wikidata
 #Catarina Catarina NPCN000 # wikidata
@@ -18900,7 +18901,6 @@ Castilfalé Castilfalé NPCN000 # wikidata
 Castilforte Castilforte NPCN000 # wikidata
 Castilhon Castilhon NPCN000 # wikidata
 Castiliscar Castiliscar NPCN000 # wikidata
-Castilla Castilla NPCN000 # wikidata
 Castillazuelo Castillazuelo NPCN000 # wikidata
 Castillejo Castillejo NPCN000 # wikidata
 Castillejo-Sierra Castillejo-Sierra NPCN000 # wikidata

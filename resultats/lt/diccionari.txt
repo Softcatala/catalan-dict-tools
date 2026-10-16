@@ -18831,7 +18831,6 @@ Castilfalé Castilfalé NPCN000
 Castilforte Castilforte NPCN000
 Castilhon Castilhon NPCN000
 Castiliscar Castiliscar NPCN000
-Castilla Castilla NPCN000
 Castillazuelo Castillazuelo NPCN000
 Castillejo Castillejo NPCN000
 Castillejo-Sierra Castillejo-Sierra NPCN000
