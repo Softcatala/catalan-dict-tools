@@ -49622,6 +49622,7 @@ Lebbeke Lebbeke NPCN000 # wikidata
 Lebec Lebec NPCN000 # wikidata
 Lebedín Lebedín NPCSG00 # esadir topònims
 Leber Leber NPCNSP0 # medical
+Lebesgue Lebesgue NPCNSP0
 Lebetain Lebetain NPCN000 # wikidata
 Lebetus Lebetus NPCN000 # wikidata
 Lebeuville Lebeuville NPCN000 # wikidata

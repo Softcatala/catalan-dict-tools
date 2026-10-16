@@ -49784,6 +49784,7 @@ Lebec Lebec NPCN000
 Lebedín Lebedín NPCSG00
 Lebensraum Lebensraum NCMS000
 Leber Leber NPCNSP0
+Lebesgue Lebesgue NPCNSP0
 Lebetain Lebetain NPCN000
 Lebetus Lebetus NPCN000
 Lebeuville Lebeuville NPCN000
@@ -367136,6 +367137,8 @@ cristianodemòcrata cristianodemòcrata AQ0CS0
 cristianodemòcrata cristianodemòcrata NCCS000
 cristianodemòcrates cristianodemòcrata AQ0CP0
 cristianodemòcrates cristianodemòcrata NCCP000
+cristianosocial cristianosocial AQ0CS0
+cristianosocials cristianosocial AQ0CP0
 cristians cristià AQ0MP0
 cristians cristià NCMP000
 cristianà cristianar VMIS3S00
@@ -971015,6 +971018,10 @@ paleològics paleològic AQ0MP0
 paleològiques paleològic AQ0FP0
 paleomagnetisme paleomagnetisme NCMS000
 paleomagnetismes paleomagnetisme NCMP000
+paleomagnètic paleomagnètic AQ0MS0
+paleomagnètica paleomagnètic AQ0FS0
+paleomagnètics paleomagnètic AQ0MP0
+paleomagnètiques paleomagnètic AQ0FP0
 paleomastologia paleomastologia NCFS000
 paleomastologies paleomastologia NCFP000
 paleomelanèsid paleomelanèsid AQ0MS0
@@ -1140572,7 +1140579,9 @@ rota rotar VMM02S00
 rotaboc rotaboc NCMS000
 rotabocs rotaboc NCMP000
 rotaci rotaci AQ0MS0
+rotacional rotacional AQ0CS0
 rotacional rotacional NCMS000
+rotacionals rotacional AQ0CP0
 rotacionals rotacional NCMP000
 rotacions rotació NCFP000
 rotacis rotaci AQ0MP0
