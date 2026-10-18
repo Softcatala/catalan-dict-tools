@@ -61301,6 +61301,7 @@ Naglfar Naglfar NPCN000 # wikidata
 Nago Nago NPCN000 # wikidata
 Nagod Nagod NPCN000 # wikidata
 Nagol Nagol NPCSG00
+Nagore Nagore NPFSSP0
 Nagorno Nagorno NPCSG00
 Nagoya Nagoya NPCSG00
 Nagra Nagra NPCN000 # wikidata

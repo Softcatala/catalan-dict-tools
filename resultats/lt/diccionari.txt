@@ -61497,6 +61497,7 @@ Naglfar Naglfar NPCN000
 Nago Nago NPCN000
 Nagod Nagod NPCN000
 Nagol Nagol NPCSG00
+Nagore Nagore NPFSSP0
 Nagorno Nagorno NPCSG00
 Nagoya Nagoya NPCSG00
 Nagra Nagra NPCN000
