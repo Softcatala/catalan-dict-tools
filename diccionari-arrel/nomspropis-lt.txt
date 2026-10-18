@@ -87904,7 +87904,7 @@ Teraina Teraina NPCN000 # wikidata
 Teramo Teramo NPCSG00
 Teramulus Teramulus NPCN000 # wikidata
 Terany Terany NPCN000 # wikidata
-Terapia Terapia NPCNSP0 # medical
+#Terapia Terapia NPCNSP0 # medical
 Terapon Terapon NPCN000 # wikidata
 Terastia Terastia NPCN000 # wikidata
 Teratausta Teratausta NPCN000 # wikidata
