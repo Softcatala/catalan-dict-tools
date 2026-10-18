@@ -88268,7 +88268,6 @@ Teraina Teraina NPCN000
 Teramo Teramo NPCSG00
 Teramulus Teramulus NPCN000
 Terany Terany NPCN000
-Terapia Terapia NPCNSP0
 Terapon Terapon NPCN000
 Terastia Terastia NPCN000
 Teratausta Teratausta NPCN000
@@ -708412,8 +708411,6 @@ estilitzí estilitzar VMIS1S00
 estilnovista estilnovista AQ0CS0
 estilnovistes estilnovista AQ0CP0
 estilo estilar VMIP1S0C
-estilobat estilobat NCMS000
-estilobats estilobat NCMP000
 estiloestafilina estiloestafilí AQ0FS0
 estiloestafilines estiloestafilí AQ0FP0
 estiloestafilins estiloestafilí AQ0MP0
