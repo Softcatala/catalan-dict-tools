@@ -42972,6 +42972,7 @@ INE INE NPMSO00
 INEF INEF NPMSO00
 INEFC INEFC NPMSO00
 INEM INEM NPMSO00
+ING ING NPCNO00
 INSPIRE-HEP INSPIRE-HEP NPCN000 # wikidata
 INSS INSS NPMSSP0
 INTA-255 INTA-255 NPCN000 # wikidata
@@ -83219,6 +83220,7 @@ Sieradz Sieradz NPCSG00
 Sierck-les-Bains Sierck-les-Bains NPCN000 # wikidata
 Sierentz Sierentz NPCN000 # wikidata
 Siero Siero NPCSG00
+Sierpiński Sierpiński NPCNSP0
 Sierra Sierra NPCN000 # wikidata
 Sierre Sierre NPCSG00 # esadir topònims
 Sierro Sierro NPCN000 # wikidata

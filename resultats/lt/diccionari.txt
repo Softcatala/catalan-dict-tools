@@ -43035,6 +43035,7 @@ INE INE NPMSO00
 INEF INEF NPMSO00
 INEFC INEFC NPMSO00
 INEM INEM NPMSO00
+ING ING NPCNO00
 INS INS NCMN000
 INSPIRE-HEP INSPIRE-HEP NPCN000
 INSS INSS NPMSSP0
@@ -83535,6 +83536,7 @@ Sieradz Sieradz NPCSG00
 Sierck-les-Bains Sierck-les-Bains NPCN000
 Sierentz Sierentz NPCN000
 Siero Siero NPCSG00
+Sierpiński Sierpiński NPCNSP0
 Sierra Sierra NPCN000
 Sierre Sierre NPCSG00
 Sierro Sierro NPCN000
@@ -809553,6 +809555,7 @@ hiperactivi hiperactivar VMSP3S0Y
 hiperactivin hiperactivar VMM03P0Y
 hiperactivin hiperactivar VMSP3P0Y
 hiperactivis hiperactivar VMSP2S0Y
+hiperactivisme hiperactivisme NCMS000
 hiperactivitat hiperactivitat NCFS000
 hiperactivitats hiperactivitat NCFP000
 hiperactivo hiperactivar VMIP1S0C
@@ -910439,8 +910442,8 @@ mesocel mesocel NCMS000
 mesocels mesocel NCMP000
 mesocicle mesocicle NCMS000
 mesocicles mesocicle NCMP000
-mesociclons mesocicló NCFP000
-mesocicló mesocicló NCFS000
+mesociclons mesocicló NCMP000
+mesocicló mesocicló NCMS000
 mesocist mesocist NCMS000
 mesocistos mesocist NCMP000
 mesocists mesocist NCMP000
