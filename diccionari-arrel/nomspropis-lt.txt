@@ -57456,6 +57456,7 @@ Mikey Mikey NPCN000 # wikidata
 Mikhaïl Mikhaïl NPMSSP0
 Miki Miki NPCN000 # wikidata
 Mikilske Mikilske NPCSG00 # esadir topònims
+Mikimoto Mikimoto NPMSSP0
 Mikir Mikir NPCN000 # wikidata
 Mikkeli Mikkeli NPCN000 # wikidata
 Mikkeller Mikkeller NPCN000 # wikidata
