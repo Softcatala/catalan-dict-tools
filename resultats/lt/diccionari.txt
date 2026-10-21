@@ -883276,6 +883276,10 @@ macroestèsia macroestèsia NCFS000
 macroestèsies macroestèsia NCFP000
 macroevolucions macroevolució NCFP000
 macroevolució macroevolució NCFS000
+macroevolutiu macroevolutiu AQ0MS0
+macroevolutius macroevolutiu AQ0MP0
+macroevolutiva macroevolutiu AQ0FS0
+macroevolutives macroevolutiu AQ0FP0
 macroexplotacions macroexplotació NCFP000
 macroexplotació macroexplotació NCFS000
 macroexposicions macroexposició NCFP000
@@ -1037906,9 +1037910,13 @@ progabida progabida NCFS000
 progabides progabida NCFP000
 progenital progenital AQ0CS0
 progenitals progenital AQ0CP0
+progenitor progenitor AQ0MS0
 progenitor progenitor NCMS000
+progenitora progenitor AQ0FS0
 progenitora progenitor NCFS000
+progenitores progenitor AQ0FP0
 progenitores progenitor NCFP000
+progenitors progenitor AQ0MP0
 progenitors progenitor NCMP000
 progenitura progenitura NCFS000
 progenitures progenitura NCFP000
