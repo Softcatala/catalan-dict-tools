@@ -50561,7 +50561,6 @@ Libori Libori NPMSSP0
 Liboris Libori NPMPSP0
 Liborna Liborna NPCSG00
 Libramont-Chevigny Libramont-Chevigny NPCN000
-Libre Libre NPCN000
 LibreCAD LibreCAD NPCNO00
 LibreOffice LibreOffice NPMSO00
 Libreville Libreville NPCSG00

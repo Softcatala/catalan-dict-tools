@@ -13,6 +13,7 @@
 #Neighborhood #3
 #Partido Liberal
 #Partido Respublika de Kirguistán
+#Premio Fryderyk
 #San Agustin
 #Santa María
 #The Adventures of Sherlock Holmes #8: The Man with the Twisted Lip
@@ -659733,7 +659734,6 @@ Premier Padel
 Premier Reserve League
 Premier VD
 Premiere Networks
-Premio Fryderyk
 Premis Ciutat de Manacor
 Premium Rush
 Premjit Lall

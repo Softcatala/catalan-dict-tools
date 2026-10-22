@@ -203,6 +203,7 @@
 #Laure Laure NPMSSP0 # avl: noms de persona
 #Leh Leh NPCN000 # wikidata
 #Leona Leona NPCN000 # wikidata
+#Libre Libre NPCN000 # wikidata
 #Libros Libros NPCN000 # wikidata
 #Llibre Llibre NPCNSP0
 #Lucia Lucia NPFSG00
@@ -50402,7 +50403,6 @@ Libori Libori NPMSSP0
 Liboris Libori NPMPSP0
 Liborna Liborna NPCSG00
 Libramont-Chevigny Libramont-Chevigny NPCN000 # wikidata
-Libre Libre NPCN000 # wikidata
 LibreCAD LibreCAD NPCNO00
 LibreOffice LibreOffice NPMSO00
 Libreville Libreville NPCSG00
