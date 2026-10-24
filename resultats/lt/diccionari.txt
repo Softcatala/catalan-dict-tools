@@ -175560,6 +175560,10 @@ antidíptiques antidíptic AQ0FP0
 antidòping antidòping AQ0CN0
 antidòping antidòping NCMS000
 antidòpings antidòping NCMP000
+antieclesiàstic antieclesiàstic AQ0MS0
+antieclesiàstica antieclesiàstic AQ0FS0
+antieclesiàstics antieclesiàstic AQ0MP0
+antieclesiàstiques antieclesiàstic AQ0FP0
 antiecològic antiecològic AQ0MS0
 antiecològica antiecològic AQ0FS0
 antiecològics antiecològic AQ0MP0
@@ -321852,6 +321856,10 @@ cointeressada cointeressat AQ0FS0
 cointeressades cointeressat AQ0FP0
 cointeressat cointeressat AQ0MS0
 cointeressats cointeressat AQ0MP0
+coinventor coinventor NCMS000
+coinventora coinventor NCFS000
+coinventores coinventor NCFP000
+coinventors coinventor NCMP000
 coions coió NCMP000
 coiot coiot NCMS000
 coiots coiot NCMP000
@@ -368352,6 +368360,10 @@ cronofarmacologia cronofarmacologia NCFS000
 cronofarmacologies cronofarmacologia NCFP000
 cronofotografia cronofotografia NCFS000
 cronofotografies cronofotografia NCFP000
+cronofotogràfic cronofotogràfic AQ0MS0
+cronofotogràfica cronofotogràfic AQ0FS0
+cronofotogràfics cronofotogràfic AQ0MP0
+cronofotogràfiques cronofotogràfic AQ0FP0
 cronofòbia cronofòbia NCFS000
 cronofòbies cronofòbia NCFP000
 cronografia cronografia NCFS000
@@ -385429,8 +385441,16 @@ dendrocolàptid dendrocolàptid NCMS000
 dendrocolàptids dendrocolàptid NCMP000
 dendrocronologia dendrocronologia NCFS000
 dendrocronologies dendrocronologia NCFP000
+dendrocronològic dendrocronològic AQ0MS0
+dendrocronològica dendrocronològic AQ0FS0
+dendrocronològics dendrocronològic AQ0MP0
+dendrocronològiques dendrocronològic AQ0FP0
 dendrocronògraf dendrocronògraf NCMS000
 dendrocronògrafs dendrocronògraf NCMP000
+dendrocronòleg dendrocronòleg NCMS000
+dendrocronòlegs dendrocronòleg NCMP000
+dendrocronòloga dendrocronòleg NCFS000
+dendrocronòlogues dendrocronòleg NCFP000
 dendrodendrític dendrodendrític AQ0MS0
 dendrodendrítica dendrodendrític AQ0FS0
 dendrodendrítics dendrodendrític AQ0MP0
@@ -783329,6 +783349,10 @@ geostròfic geostròfic AQ0MS0
 geostròfica geostròfic AQ0FS0
 geostròfics geostròfic AQ0MP0
 geostròfiques geostròfic AQ0FP0
+geosíncron geosíncron AQ0MS0
+geosíncrona geosíncron AQ0FS0
+geosíncrones geosíncron AQ0FP0
+geosíncrons geosíncron AQ0MP0
 geotactisme geotactisme NCMS000
 geotactismes geotactisme NCMP000
 geotaxi geotaxi NCFS000
@@ -893496,6 +893520,7 @@ mangàveu mangar VMII2P00
 mani manar VMM03S0Y
 mani manar VMSP1S0Y
 mani manar VMSP3S0Y
+mani mani NCFS000
 mania mania NCFS000
 maniacodepressiu maniacodepressiu AQ0MS0
 maniacodepressius maniacodepressiu AQ0MP0
@@ -893957,6 +893982,7 @@ maniqueus maniqueu NCMP000
 maniquins maniquí NCCP000
 maniquí maniquí NCCS000
 manis manar VMSP2S0Y
+manis mani NCFP000
 manisa manisa NCFS000
 maniser maniser AQ0MS0
 maniser maniser NCMS000
@@ -913122,6 +913148,8 @@ metateatral metateatral AQ0CS0
 metateatrals metateatral AQ0CP0
 metatela metatela NCFS000
 metateles metatela NCFP000
+metateorema metateorema NCMS000
+metateoremes metateorema NCMP000
 metateoria metateoria NCFS000
 metateories metateoria NCFP000
 metateri metateri NCMS000
@@ -970055,7 +970083,9 @@ paisatge paisatge NCMS000
 paisatges paisatge NCMP000
 paisatgisme paisatgisme NCMS000
 paisatgismes paisatgisme NCMP000
+paisatgista paisatgista AQ0CS0
 paisatgista paisatgista NCCS000
+paisatgistes paisatgista AQ0CP0
 paisatgistes paisatgista NCCP000
 paisatgístic paisatgístic AQ0MS0
 paisatgística paisatgístic AQ0FS0
@@ -1045572,9 +1045602,11 @@ pseudoreferèndum pseudoreferèndum NCMS000
 pseudoreferèndums pseudoreferèndum NCMP000
 pseudoreflexions pseudoreflexió NCFP000
 pseudoreflexió pseudoreflexió NCFS000
+pseudoreligions pseudoreligió NCFP000
 pseudoreligiosa pseudoreligiós AQ0FS0
 pseudoreligioses pseudoreligiós AQ0FP0
 pseudoreligiosos pseudoreligiós AQ0MP0
+pseudoreligió pseudoreligió NCFS000
 pseudoreligiós pseudoreligiós AQ0MS0
 pseudoreminiscència pseudoreminiscència NCFS000
 pseudoreminiscències pseudoreminiscència NCFP000
