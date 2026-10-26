@@ -53783,6 +53783,7 @@ melitúria=categories: F;fonts: dsalut;
 meliàcia=categories: F;fonts: LT;
 melmelada=categories: F;fonts: LT;
 melodia=categories: F;fonts: LT;
+melodisme=categories: MS;fonts: derivat;
 melodista=categories: MF;fonts: LT;
 melodrama=categories: M;fonts: LT;
 meloid=categories: M;fonts: LT;

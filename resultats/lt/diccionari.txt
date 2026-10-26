@@ -763315,6 +763315,10 @@ francogermànic francogermànic AQ0MS0
 francogermànica francogermànic AQ0FS0
 francogermànics francogermànic AQ0MP0
 francogermàniques francogermànic AQ0FP0
+francoitaliana francoitalià AQ0FS0
+francoitalianes francoitalià AQ0FP0
+francoitalians francoitalià AQ0MP0
+francoitalià francoitalià AQ0MS0
 francolins francolí AQ0MP0
 francolins francolí NCMP000
 francolita francolita NCFS000
@@ -905965,6 +905969,7 @@ melodiosa melodiós AQ0FS0
 melodiosament melodiosament RG
 melodioses melodiós AQ0FP0
 melodiosos melodiós AQ0MP0
+melodisme melodisme NCMS000
 melodista melodista NCCS000
 melodistes melodista NCCP000
 melodiós melodiós AQ0MS0
@@ -1137823,6 +1137828,10 @@ romans romà AQ0MP0
 romans romà NCMP000
 romanticisme romanticisme NCMS000
 romanticismes romanticisme NCMP000
+romanticosimfònic romanticosimfònic AQ0MS0
+romanticosimfònica romanticosimfònic AQ0FS0
+romanticosimfònics romanticosimfònic AQ0MP0
+romanticosimfòniques romanticosimfònic AQ0FP0
 romantitz romantitzar VMIP1S0B
 romantitza romantitzar VMIP3S00
 romantitza romantitzar VMM02S00
