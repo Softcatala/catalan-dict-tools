@@ -718685,6 +718685,8 @@ etnològica etnològic AQ0FS0
 etnològicament etnològicament RG
 etnològics etnològic AQ0MP0
 etnològiques etnològic AQ0FP0
+etnomedicinal etnomedicinal AQ0CS0
+etnomedicinals etnomedicinal AQ0CP0
 etnometodologia etnometodologia NCFS000
 etnometodologies etnometodologia NCFP000
 etnomusicologia etnomusicologia NCFS000
@@ -950711,10 +950713,6 @@ nutant nutant AQ0CS0
 nutants nutant AQ0CP0
 nutramina nutramina NCFS000
 nutramines nutramina NCFP000
-nutreòleg nutreòleg NCMS000
-nutreòlegs nutreòleg NCMP000
-nutreòloga nutreòleg NCFS000
-nutreòlogues nutreòleg NCFP000
 nutrici nutrici AQ0MS0
 nutricional nutricional AQ0CS0
 nutricionalment nutricionalment RG
@@ -1007435,6 +1007433,8 @@ plantessen plantar VMSI3P05
 plantesses plantar VMSI2S05
 plantessin plantar VMSI3P02
 plantessis plantar VMSI2S02
+planteta planteta NCFS000
+plantetes planteta NCFP000
 planteu plantar VMIP2P00
 planteu plantar VMM02P0X
 planteu plantar VMSP2P00

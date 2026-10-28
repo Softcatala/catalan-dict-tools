@@ -12394,6 +12394,7 @@ etnogràfic etnogràfica=categories: A;fonts: LT;
 etnogènic etnogènica=categories: A;fonts: LT;
 etnolingüístic etnolingüística=categories: A;fonts: LT;
 etnològic etnològica=categories: A;fonts: LT;
+etnomedicinal=categories: A;fonts: derivat;
 etnomusicològic etnomusicològica=categories: A;fonts: derivat;
 etnonacionalista=categories: A;fonts: derivat;
 etnopoètic etnopoètica=categories: A;fonts: LT;
