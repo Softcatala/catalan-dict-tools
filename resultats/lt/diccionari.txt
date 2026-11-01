@@ -28931,6 +28931,7 @@ ERO ERO NCMN000
 ERP ERP NCMN000
 ERPV ERPV NPFSO00
 ERS ERS NPCN000
+ERTMS ERTMS NPMSO00
 ERTO ERTO NCMN000
 ES-Alert ES-Alert NPCNO00
 ESA ESA NPFSO00
@@ -28949,6 +28950,7 @@ ESTCube-1 ESTCube-1 NPCN000
 ESTRACK ESTRACK NPCN000
 ETA ETA NPFSO00
 ETB ETB NPCNO00
+ETCS ETCS NPMSO00
 ETF ETF NCMN000
 ETSAV ETSAV NPCN000
 ETT ETT NCFN000
@@ -37051,7 +37053,6 @@ Glaire Glaire NPCN000
 Glaisher Glaisher NPCN000
 Glamondans Glamondans NPCN000
 Glamorous Glamorous NPCN000
-Glamour Glamour NPCN000
 Glandage Glandage NPCN000
 Glandieu Glandieu NPCN000
 Glandirana Glandirana NPCN000
@@ -40692,7 +40693,6 @@ Hellman Hellman NPCN000
 Hellmayr Hellmayr NPCNSP0
 Hellnation Hellnation NPCN000
 Hello Hello NPCN000
-Helloween Helloween NPCN000
 Hellschreiber Hellschreiber NPCN000
 Helltaker Helltaker NPCN000
 Hellula Hellula NPCN000
@@ -42370,6 +42370,7 @@ Huetter Huetter NPCN000
 Hueva Hueva NPCN000
 Huey Huey NPCN000
 Hueytown Hueytown NPCN000
+Huffington Huffington NPCNSP0
 Huftarøy Huftarøy NPCN000
 Hufuf Hufuf NPCSG00
 Hug Hug NPCNSP0
@@ -80445,6 +80446,7 @@ Salzeda Salzeda NPCNSP0
 Salzedella Salzedella NPFSG00
 Salzet Salzet NPCNSP0
 Salzgitter Salzgitter NPCSG00
+Salzillo Salzillo NPCNSP0
 Salzkammergut Salzkammergut NPCSG00
 Salzmann Salzmann NPCNSP0
 Salzuit Salzuit NPCN000
@@ -719379,6 +719381,8 @@ euroatlàntic euroatlàntic AQ0MS0
 euroatlàntica euroatlàntic AQ0FS0
 euroatlàntics euroatlàntic AQ0MP0
 euroatlàntiques euroatlàntic AQ0FP0
+eurobalisa eurobalisa NCFS000
+eurobalises eurobalisa NCFP000
 eurobanc eurobanc NCMS000
 eurobancs eurobanc NCMP000
 eurobons eurobò NCMP000
@@ -793881,6 +793885,10 @@ greco-turc greco-turc AQ0MS0
 greco-turca greco-turc AQ0FS0
 greco-turcs greco-turc AQ0MP0
 greco-turques greco-turc AQ0FP0
+grecoamericana grecoamericà AQ0FS0
+grecoamericanes grecoamericà AQ0FP0
+grecoamericans grecoamericà AQ0MP0
+grecoamericà grecoamericà AQ0MS0
 grecobúdic grecobúdic AQ0MS0
 grecobúdica grecobúdic AQ0FS0
 grecobúdics grecobúdic AQ0MP0
@@ -833363,6 +833371,10 @@ indogermànics indogermànic AQ0MP0
 indogermànics indogermànic NCMP000
 indogermàniques indogermànic AQ0FP0
 indogermàniques indogermànic NCFP000
+indoiraniana indoiranià AQ0FS0
+indoiranianes indoiranià AQ0FP0
+indoiranians indoiranià AQ0MP0
+indoiranià indoiranià AQ0MS0
 indoirànic indoirànic AQ0MS0
 indoirànic indoirànic NCMS000
 indoirànica indoirànic AQ0FS0
@@ -1000599,6 +1000611,7 @@ picòmetres picòmetre NCMP000
 picó picó AQ0MS0
 picó picó NCMS000
 pidgin pidgin NCMS000
+pidgins pidgin NCMP000
 pidol pidolar VMIP1S0B
 pidola pidolar VMIP3S00
 pidola pidolar VMM02S00

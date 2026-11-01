@@ -158,6 +158,7 @@
 #Gesmí Gesmí NPFSSP0 # avl: noms de persona
 #Gessamí Gessamí NPFSSP0 # avl: noms de persona
 #Giner Giner NPMSSP0 # avl: noms de persona
+#Glamour Glamour NPCN000 # wikidata
 #Grand Grand NPCN000 # wikidata
 #Grande Grande NPCSG00
 #Grima Grima NPCNSP0
@@ -168,6 +169,7 @@
 #Haría Haría NPCN000 # wikidata
 #Hawkins Hawkins NPCN000 # wikidata
 #Hawkins Hawkins NPCNSP0
+#Helloween Helloween NPCN000 # wikidata
 #Her Her NPCN000 # wikidata
 #Her Her NPMSSP0 # avl: noms de persona
 #Hercules Hercules NPMSSP0 # esadir
@@ -28936,6 +28938,7 @@ ERC32 ERC32 NPCN000 # wikidata
 ERCC1 ERCC1 NPCN000 # wikidata
 ERPV ERPV NPFSO00
 ERS ERS NPCN000 # wikidata
+ERTMS ERTMS NPMSO00
 ES-Alert ES-Alert NPCNO00
 ESA ESA NPFSO00
 ESADE ESADE NPCNO00
@@ -28952,6 +28955,7 @@ ESTCube-1 ESTCube-1 NPCN000 # wikidata
 ESTRACK ESTRACK NPCN000 # wikidata
 ETA ETA NPFSO00
 ETB ETB NPCNO00
+ETCS ETCS NPMSO00
 ETSAV ETSAV NPCN000 # wikidata
 EU-Alert EU-Alert NPCNO00
 EU-EV EU-EV NPCN000 # wikidata
@@ -37024,7 +37028,6 @@ Glaire Glaire NPCN000 # wikidata
 Glaisher Glaisher NPCN000 # wikidata
 Glamondans Glamondans NPCN000 # wikidata
 Glamorous Glamorous NPCN000 # wikidata
-Glamour Glamour NPCN000 # wikidata
 Glandage Glandage NPCN000 # wikidata
 Glandieu Glandieu NPCN000 # wikidata
 Glandirana Glandirana NPCN000 # wikidata
@@ -40651,7 +40654,6 @@ Hellman Hellman NPCN000 # wikidata
 Hellmayr Hellmayr NPCNSP0
 Hellnation Hellnation NPCN000 # wikidata
 Hello Hello NPCN000 # wikidata
-Helloween Helloween NPCN000 # wikidata
 Hellschreiber Hellschreiber NPCN000 # wikidata
 Helltaker Helltaker NPCN000 # wikidata
 Hellula Hellula NPCN000 # wikidata
@@ -42326,6 +42328,7 @@ Huetter Huetter NPCN000 # wikidata
 Hueva Hueva NPCN000 # wikidata
 Huey Huey NPCN000 # wikidata
 Hueytown Hueytown NPCN000 # wikidata
+Huffington Huffington NPCNSP0
 Huftarøy Huftarøy NPCN000 # wikidata
 Hufuf Hufuf NPCSG00 # esadir topònims
 Hug Hug NPCNSP0
@@ -80133,6 +80136,7 @@ Salzeda Salzeda NPCNSP0
 Salzedella Salzedella NPFSG00
 Salzet Salzet NPCNSP0
 Salzgitter Salzgitter NPCSG00
+Salzillo Salzillo NPCNSP0
 Salzkammergut Salzkammergut NPCSG00
 Salzmann Salzmann NPCNSP0 # medical
 Salzuit Salzuit NPCN000 # wikidata
