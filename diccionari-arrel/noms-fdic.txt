@@ -79379,6 +79379,7 @@ submarinisme=categories: M;fonts: LT;
 submarinista=categories: MF;fonts: LT;
 submarí=categories: M;fonts: LT;
 submatitat=categories: F;fonts: LT;
+submatriu=categories: F;fonts: derivat;
 submaxil·laritis=categories: FI;fonts: dsalut;
 submaxil·lectomia=categories: F;fonts: dsalut;
 submaxil·litis=categories: FI;fonts: dsalut;

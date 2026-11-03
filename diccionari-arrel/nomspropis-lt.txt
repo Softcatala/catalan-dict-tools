@@ -39671,6 +39671,7 @@ Halffter Halffter NPCNSP0
 Halfway Halfway NPCN000 # wikidata
 Halhul Halhul NPCN000 # wikidata
 Haliastur Haliastur NPCN000 # wikidata
+Halicarnàs Halicarnàs NPCSG00
 Halichoeres Halichoeres NPCN000 # wikidata
 Halictus Halictus NPCN000 # wikidata
 Halifax Halifax NPCSG00
@@ -86257,7 +86258,7 @@ Sućuraj Sućuraj NPCN000 # wikidata
 Sučany Sučany NPCN000 # wikidata
 Sušany Sušany NPCN000 # wikidata
 Sva-ters Sva-ters NPCN000 # wikidata
-Svalbard Svalbard NPCSG00
+Svalbard Svalbard NPCNG00
 Svalbardposten Svalbardposten NPCN000 # wikidata
 Svangaskarð Svangaskarð NPCN000 # wikidata
 Svanètia Svanètia NPCSG00

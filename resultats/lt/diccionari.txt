@@ -39710,6 +39710,7 @@ Halffter Halffter NPCNSP0
 Halfway Halfway NPCN000
 Halhul Halhul NPCN000
 Haliastur Haliastur NPCN000
+Halicarnàs Halicarnàs NPCSG00
 Halichoeres Halichoeres NPCN000
 Halictus Halictus NPCN000
 Halifax Halifax NPCSG00
@@ -86588,7 +86589,7 @@ Sućuraj Sućuraj NPCN000
 Sučany Sučany NPCN000
 Sušany Sušany NPCN000
 Sva-ters Sva-ters NPCN000
-Svalbard Svalbard NPCSG00
+Svalbard Svalbard NPCNG00
 Svalbardposten Svalbardposten NPCN000
 Svangaskarð Svangaskarð NPCN000
 Svanètia Svanètia NPCSG00
@@ -434170,6 +434171,10 @@ desencadena desencadenar VMIP3S00
 desencadena desencadenar VMM02S00
 desencadenada desencadenar VMP00SF0
 desencadenades desencadenar VMP00PF0
+desencadenador desencadenador AQ0MS0
+desencadenadora desencadenador AQ0FS0
+desencadenadores desencadenador AQ0FP0
+desencadenadors desencadenador AQ0MP0
 desencadenam desencadenar VMIP1P0B
 desencadenament desencadenament NCMS000
 desencadenaments desencadenament NCMP000
@@ -1189881,6 +1189886,8 @@ submarí submarí AQ0MS0
 submarí submarí NCMS000
 submatitat submatitat NCFS000
 submatitats submatitat NCFP000
+submatriu submatriu NCFS000
+submatrius submatriu NCFP000
 submaxil·lar submaxil·lar AQ0CS0
 submaxil·laritis submaxil·laritis NCFN000
 submaxil·lars submaxil·lar AQ0CP0

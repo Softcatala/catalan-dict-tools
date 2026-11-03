@@ -9175,6 +9175,7 @@ desemparat desemparada [sup. desemparadíssim]=categories: A; font:apertium;
 desemparentat desemparentada=categories: A;fonts: LT;
 desenal=categories: A;fonts: LT;
 desenari desenària=categories: A;fonts: LT;
+desencadenador desencadenadora=categories: A;fonts: derivat;
 desencadenant=categories: A;fonts: LT;
 desencantat desencantada [sup. desencantadíssim]=categories: A; font:apertium;
 desencertadíssim desencertadíssima=categories: A;fonts: superlative;
