@@ -269118,6 +269118,10 @@ brucines brucina NCFP000
 brucis bruci NCMP000
 brucita brucita NCFS000
 brucites brucita NCFP000
+bruckneriana brucknerià AQ0FS0
+brucknerianes brucknerià AQ0FP0
+brucknerians brucknerià AQ0MP0
+brucknerià brucknerià AQ0MS0
 brucs bruc NCMP000
 bruel bruel NCMS000
 bruel bruelar VMIP1S0B

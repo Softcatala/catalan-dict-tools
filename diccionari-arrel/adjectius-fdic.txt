@@ -5460,6 +5460,7 @@ brovós brovosa=categories: A;fonts: LT;
 brownià browniana=categories: A;fonts: LT;
 bru bruna [sup. bruníssim]=categories: A; font:apertium;
 brucel·lar=categories: A;fonts: dsalut;
+brucknerià bruckneriana=categories: A;fonts: derivat;
 brugent=categories: A;fonts: LT;
 bruguerenc bruguerenca=categories: A;fonts: LT;
 brullanenc brullanenca=categories: A;fonts: LT;
