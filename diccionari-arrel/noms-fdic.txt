@@ -572,6 +572,7 @@ Trecento=categories: MS;fonts: italià;
 UC=categories: FI;fonts: sigles diverses;
 UCI=categories: FI;fonts: esadir, termcat;
 UEC=categories: FI;fonts: sigal;
+UHD=categories: FS;fonts: sigla;
 UPU=categories: FI;fonts: dsalut;
 URI=categories: MI;fonts: sigla;
 URL=categories: MI;fonts: LT;

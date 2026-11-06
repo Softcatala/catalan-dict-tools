@@ -45235,6 +45235,7 @@ Jorit Jorit NPCN000
 Jork Jork NPCN000
 Jorkyball Jorkyball NPCN000
 Jormungand Jormungand NPCN000
+Jornalet Jornalet NPMSO00
 Jornet Jornet NPCNSP0
 Jorquera Jorquera NPCN000
 Jort Jort NPCN000
@@ -91828,6 +91829,7 @@ UFO UFO NPCN000
 UFRaw UFRaw NPCN000
 UGA UGA NPCN000
 UGT UGT NPFSO00
+UHD UHD NCFS000
 UHT UHT AQ0CN0
 UHZ1 UHZ1 NPCN000
 UIB UIB NPFSO00
@@ -793910,6 +793912,10 @@ grecoegipci grecoegipci AQ0MS0
 grecoegipcis grecoegipci AQ0MP0
 grecoegípcia grecoegipci AQ0FS0
 grecoegípcies grecoegipci AQ0FP0
+grecoibèric grecoibèric AQ0MS0
+grecoibèrica grecoibèric AQ0FS0
+grecoibèrics grecoibèric AQ0MP0
+grecoibèriques grecoibèric AQ0FP0
 grecollatina grecollatí AQ0FS0
 grecollatines grecollatí AQ0FP0
 grecollatins grecollatí AQ0MP0
@@ -948397,6 +948403,10 @@ nord-americans nord-americà AQ0MP0
 nord-americans nord-americà NCMP000
 nord-americà nord-americà AQ0MS0
 nord-americà nord-americà NCMS000
+nord-asiàtic nord-asiàtic AQ0MS0
+nord-asiàtica nord-asiàtic AQ0FS0
+nord-asiàtics nord-asiàtic AQ0MP0
+nord-asiàtiques nord-asiàtic AQ0FP0
 nord-atlàntid nord-atlàntid AQ0MS0
 nord-atlàntida nord-atlàntid AQ0FS0
 nord-atlàntides nord-atlàntid AQ0FP0
@@ -1193241,6 +1193251,10 @@ sud-aràbic sud-aràbic AQ0MS0
 sud-aràbics sud-aràbic AQ0MP0
 sud-aràbiga sud-aràbic AQ0FS0
 sud-aràbigues sud-aràbic AQ0FP0
+sud-asiàtic sud-asiàtic AQ0MS0
+sud-asiàtica sud-asiàtic AQ0FS0
+sud-asiàtics sud-asiàtic AQ0MP0
+sud-asiàtiques sud-asiàtic AQ0FP0
 sud-coreana sud-coreà AQ0FS0
 sud-coreanes sud-coreà AQ0FP0
 sud-coreans sud-coreà AQ0MP0
@@ -1252001,6 +1252015,10 @@ ultra ultrar VMIP3S00
 ultra ultrar VMM02S00
 ultraactivitat ultraactivitat NCFS000
 ultraactivitats ultraactivitat NCFP000
+ultraalt ultraalt AQ0MS0
+ultraalta ultraalt AQ0FS0
+ultraaltes ultraalt AQ0FP0
+ultraalts ultraalt AQ0MP0
 ultraampla ultraample AQ0FS0
 ultraample ultraample AQ0MS0
 ultraamples ultraample AQ0CP0

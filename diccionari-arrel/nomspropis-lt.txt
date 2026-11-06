@@ -45153,6 +45153,7 @@ Jorit Jorit NPCN000 # wikidata
 Jork Jork NPCN000 # wikidata
 Jorkyball Jorkyball NPCN000 # wikidata
 Jormungand Jormungand NPCN000 # wikidata
+Jornalet Jornalet NPMSO00
 Jornet Jornet NPCNSP0
 Jorquera Jorquera NPCN000 # wikidata
 Jort Jort NPCN000 # wikidata
