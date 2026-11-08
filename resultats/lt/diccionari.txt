@@ -175129,6 +175129,10 @@ anticipació anticipació NCFS000
 anticipada anticipar VMP00SF0
 anticipadament anticipadament RG
 anticipades anticipar VMP00PF0
+anticipador anticipador AQ0MS0
+anticipadora anticipador AQ0FS0
+anticipadores anticipador AQ0FP0
+anticipadors anticipador AQ0MP0
 anticipam anticipar VMIP1P0B
 anticipant anticipant AQ0CS0
 anticipant anticipar VMG00000
@@ -912269,6 +912273,8 @@ metagoge metagoge NCFS000
 metagoges metagoge NCFP000
 metagonimosi metagonimosi NCFS000
 metagonimosis metagonimosi NCFP000
+metagovernances metagovernança NCFP000
+metagovernança metagovernança NCFS000
 metagripal metagripal AQ0CS0
 metagripals metagripal AQ0CP0
 metagàstrula metagàstrula NCFS000
@@ -1087854,6 +1087860,10 @@ reestructuracions reestructuració NCFP000
 reestructuració reestructuració NCFS000
 reestructurada reestructurar VMP00SF0
 reestructurades reestructurar VMP00PF0
+reestructurador reestructurador AQ0MS0
+reestructuradora reestructurador AQ0FS0
+reestructuradores reestructurador AQ0FP0
+reestructuradors reestructurador AQ0MP0
 reestructuram reestructurar VMIP1P0B
 reestructurant reestructurar VMG00000
 reestructurar reestructurar VMN00000
@@ -1158709,6 +1158719,10 @@ semisalvatges semisalvatge AQ0CP0
 semisec semisec AQ0MS0
 semiseca semisec AQ0FS0
 semisecs semisec AQ0MP0
+semisedentari semisedentari AQ0MS0
+semisedentaris semisedentari AQ0MP0
+semisedentària semisedentari AQ0FS0
+semisedentàries semisedentari AQ0FP0
 semiseques semisec AQ0FP0
 semisintètic semisintètic AQ0MS0
 semisintètica semisintètic AQ0FS0

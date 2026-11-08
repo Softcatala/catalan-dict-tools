@@ -54545,6 +54545,7 @@ metaglutinina=categories: F;fonts: dsalut;
 metagnòmia=categories: F;fonts: LT;
 metagoge=categories: F;fonts: LT;
 metagonimosi=categories: F;fonts: dsalut;
+metagovernança=categories: F;fonts: derivat;
 metagàstrula=categories: F;fonts: dsalut;
 metagènesi=categories: F;fonts: LT;
 metahemalbúmina=categories: F;fonts: dsalut;
