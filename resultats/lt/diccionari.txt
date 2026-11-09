@@ -936164,6 +936164,10 @@ musicològics musicològic AQ0MP0
 musicològiques musicològic AQ0FP0
 musicomania musicomania NCFS000
 musicomanies musicomania NCFP000
+musicopoètic musicopoètic AQ0MS0
+musicopoètica musicopoètic AQ0FS0
+musicopoètics musicopoètic AQ0MP0
+musicopoètiques musicopoètic AQ0FP0
 musicoteatral musicoteatral AQ0CS0
 musicoteatrals musicoteatral AQ0CP0
 musicoterapeuta musicoterapeuta NCCS000
@@ -1013284,6 +1013288,8 @@ poeti poetar VMSP1S0Y
 poeti poetar VMSP3S0Y
 poeticitat poeticitat NCFS000
 poeticitats poeticitat NCFP000
+poeticomusical poeticomusical AQ0CS0
+poeticomusicals poeticomusical AQ0CP0
 poetin poetar VMM03P0Y
 poetin poetar VMSP3P0Y
 poetis poetar VMSP2S0Y
