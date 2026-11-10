@@ -175703,6 +175703,7 @@ antiestalinista antiestalinista AQ0CS0
 antiestalinistes antiestalinista AQ0CP0
 antiestatal antiestatal AQ0CS0
 antiestatals antiestatal AQ0CP0
+antiestatisme antiestatisme NCMS000
 antiestatutari antiestatutari AQ0MS0
 antiestatutaris antiestatutari AQ0MP0
 antiestatutària antiestatutari AQ0FS0
@@ -718716,6 +718717,8 @@ etnomusicòleg etnomusicòleg NCMS000
 etnomusicòlegs etnomusicòleg NCMP000
 etnomusicòloga etnomusicòleg NCFS000
 etnomusicòlogues etnomusicòleg NCFP000
+etnonacionalisme etnonacionalisme NCMS000
+etnonacionalismes etnonacionalisme NCMP000
 etnonacionalista etnonacionalista AQ0CS0
 etnonacionalistes etnonacionalista AQ0CP0
 etnonímia etnonímia NCFS000
@@ -858476,6 +858479,10 @@ judaïtzésseu judaïtzar VMSI2P05
 judaïtzéssim judaïtzar VMSI1P02
 judaïtzéssiu judaïtzar VMSI2P02
 judaïtzí judaïtzar VMIS1S00
+judeo-romana judeo-romà AQ0FS0
+judeo-romanes judeo-romà AQ0FP0
+judeo-romans judeo-romà AQ0MP0
+judeo-romà judeo-romà AQ0MS0
 judeoalemany judeoalemany AQ0MS0
 judeoalemanya judeoalemany AQ0FS0
 judeoalemanyes judeoalemany AQ0FP0
@@ -926766,6 +926773,8 @@ monoculars monocular AQ0CP0
 monocultiu monocultiu NCMS000
 monocultius monocultiu NCMP000
 monocultura monocultura NCFS000
+monocultural monocultural AQ0CS0
+monoculturals monocultural AQ0CP0
 monocultures monocultura NCFP000
 monocàrpic monocàrpic AQ0MS0
 monocàrpica monocàrpic AQ0FS0
@@ -937475,6 +937484,10 @@ nachikufians nachikufià NCMP000
 nachikufià nachikufià AQ0MS0
 nachikufià nachikufià NCMS000
 nacional nacional AQ0CS0
+nacional-anarquisme nacional-anarquisme NCMS000
+nacional-anarquismes nacional-anarquisme NCMP000
+nacional-anarquista nacional-anarquista AQ0CS0
+nacional-anarquistes nacional-anarquista AQ0CP0
 nacional-bolxevic nacional-bolxevic AQ0CS0
 nacional-bolxevics nacional-bolxevic AQ0CP0
 nacional-bolxevisme nacional-bolxevisme NCMS000
@@ -974562,6 +974575,7 @@ panmíctica panmíctic AQ0FS0
 panmíctics panmíctic AQ0MP0
 panmíctiques panmíctic AQ0FP0
 panna panna NCFS000
+pannacionalisme pannacionalisme NCMS000
 pannacotta pannacotta NCFS000
 pannacottes pannacotta NCFP000
 pannes panna NCFP000
@@ -1088065,6 +1088079,8 @@ reetiquetasses reetiquetar VMSI2S06
 reetiquetassin reetiquetar VMSI3P04
 reetiquetassis reetiquetar VMSI2S04
 reetiquetat reetiquetar VMP00SM0
+reetiquetatge reetiquetatge NCMS000
+reetiquetatges reetiquetatge NCMP000
 reetiquetats reetiquetar VMP00PM0
 reetiquetau reetiquetar VMIP2P0B
 reetiquetau reetiquetar VMM02P0B
