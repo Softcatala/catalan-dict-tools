@@ -76842,6 +76842,7 @@ semicicle=categories: M;fonts: LT;
 semicilindre=categories: M;fonts: LT;
 semicircumferència=categories: F;fonts: LT;
 semiclandestinitat=categories: F;fonts: derivat;
+semicol·lapse=categories: M;fonts: derivat;
 semicoma=categories: M;fonts: DNV;
 semiconductor=categories: M;fonts: LT;
 semiconfinament=categories: M;fonts: derivat;

@@ -1158022,6 +1158022,8 @@ semicobertes semicobert AQ0FP0
 semicoberts semicobert AQ0MP0
 semicolonial semicolonial AQ0CS0
 semicolonials semicolonial AQ0CP0
+semicol·lapse semicol·lapse NCMS000
+semicol·lapses semicol·lapse NCMP000
 semicoma semicoma NCMS000
 semicomatosa semicomatós AQ0FS0
 semicomatoses semicomatós AQ0FP0
