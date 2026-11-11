@@ -8746,6 +8746,7 @@ reentrenar=categories: V;model:ordenar;fonts: derivat;
 reenviar=categories: V;model:crear;fonts: LT;
 reenvidar=categories: V;model:cantar;fonts: LT;
 reequilibrar=categories: V;model:cantar;fonts: LT;
+reequipar=categories: V;model:cantar;fonts: derivat;
 reerigir=categories: V;model:servir;fonts: LT;
 reescalfar=categories: V;model:cantar;fonts: LT;
 reescriure=categories: V;model:adscriure;fonts: LT;

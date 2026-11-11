@@ -1996,6 +1996,7 @@ angloamericà angloamericana=categories: A;fonts: LT;
 anglocèntric anglocèntrica=categories: A;fonts: derivat;
 angloegipci angloegípcia=categories: A;fonts: derivat;
 anglogermànic anglogermànica=categories: A;fonts: derivat;
+angloholandès angloholandesa=categories: A;fonts: derivat;
 angloindi angloíndia=categories: A;fonts: LT;
 angloirlandès angloirlandesa=categories: A;fonts: derivat;
 angloitalià angloitaliana=categories: A;fonts: derivat;
