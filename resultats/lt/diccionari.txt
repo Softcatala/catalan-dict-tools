@@ -763366,6 +763366,11 @@ francoprussiana francoprussià AQ0FS0
 francoprussianes francoprussià AQ0FP0
 francoprussians francoprussià AQ0MP0
 francoprussià francoprussià AQ0MS0
+francoromanesa francoromanès AQ0FS0
+francoromaneses francoromanès AQ0FP0
+francoromanesos francoromanès AQ0MP0
+francoromanès francoromanès AQ0MS0
+francoromanés francoromanès AQ0MS0
 francquarter francquarter NCMS000
 francquarters francquarter NCMP000
 francs franc AQ0MP0

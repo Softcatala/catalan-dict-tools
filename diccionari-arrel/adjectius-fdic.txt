@@ -13960,6 +13960,7 @@ francolí=categories: AM;fonts: LT;
 franconià franconiana=categories: A;fonts: LT;
 francoparlant=categories: A;fonts: derivat;
 francoprussià francoprussiana=categories: A;fonts: derivat;
+francoromanès francoromanesa=categories: A;fonts: derivat;
 francès francesa=categories: A;fonts: LT;
 francòfil francòfila=categories: A;fonts: LT;
 francòfob francòfoba=categories: A;fonts: LT;
