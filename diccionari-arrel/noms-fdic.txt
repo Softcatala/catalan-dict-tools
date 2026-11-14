@@ -48479,6 +48479,7 @@ judaïcitat=categories: F;fonts: termcat;
 judaïtzació=categories: F;fonts: LT;
 judaïtzador judaïtzadora=categories: MF;fonts: LT;
 judaïtzant=categories: MF;fonts: LT;
+judeobolxevisme=categories: MS;fonts: derivat;
 judeocastellà=categories: M;fonts: LT;
 judeocatalà=categories: M;fonts: LT;
 judeoconvers -a=categories: MF;fonts: DNV;

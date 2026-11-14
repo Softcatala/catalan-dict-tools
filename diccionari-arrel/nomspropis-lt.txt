@@ -62754,6 +62754,7 @@ Nieuw-Lekkerland Nieuw-Lekkerland NPCN000 # wikidata
 Nieuwegein Nieuwegein NPCN000 # wikidata
 Nieuwerkerken Nieuwerkerken NPCN000 # wikidata
 Nieuwkoop Nieuwkoop NPCN000 # wikidata
+Nieuwpoort Nieuwpoort NPCSG00
 Nieva Nieva NPCSG00
 Niffer Niffer NPCN000 # wikidata
 Niflheim Niflheim NPCN000 # wikidata
@@ -67518,6 +67519,7 @@ Passavant-la-Rochère Passavant-la-Rochère NPCN000 # wikidata
 Passavant-sur-Layon Passavant-sur-Layon NPCN000 # wikidata
 Passel Passel NPCN000 # wikidata
 Passenans Passenans NPCN000 # wikidata
+Passendale Passendale NPCSG00
 Passenger Passenger NPCN000 # wikidata
 Passengers Passengers NPCN000 # wikidata
 Passerell Passerell NPCNSP0
@@ -69655,6 +69657,7 @@ Plasnes Plasnes NPCN000 # wikidata
 Plassac Plassac NPCN000 # wikidata
 Plassac-Rouffiac Plassac-Rouffiac NPCN000 # wikidata
 Plassay Plassay NPCN000 # wikidata
+Plassendale Plassendale NPCSG00
 Plastun Plastun NPCN000 # wikidata
 Plaszów Plaszów NPCSG00 # esadir topònims
 Plasència Plasència NPCSG00

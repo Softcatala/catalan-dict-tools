@@ -62948,6 +62948,7 @@ Nieuw-Lekkerland Nieuw-Lekkerland NPCN000
 Nieuwegein Nieuwegein NPCN000
 Nieuwerkerken Nieuwerkerken NPCN000
 Nieuwkoop Nieuwkoop NPCN000
+Nieuwpoort Nieuwpoort NPCSG00
 Nieva Nieva NPCSG00
 Niffer Niffer NPCN000
 Niflheim Niflheim NPCN000
@@ -67769,6 +67770,7 @@ Passavant-la-Rochère Passavant-la-Rochère NPCN000
 Passavant-sur-Layon Passavant-sur-Layon NPCN000
 Passel Passel NPCN000
 Passenans Passenans NPCN000
+Passendale Passendale NPCSG00
 Passenger Passenger NPCN000
 Passengers Passengers NPCN000
 Passerell Passerell NPCNSP0
@@ -69910,6 +69912,7 @@ Plasnes Plasnes NPCN000
 Plassac Plassac NPCN000
 Plassac-Rouffiac Plassac-Rouffiac NPCN000
 Plassay Plassay NPCN000
+Plassendale Plassendale NPCSG00
 Plastun Plastun NPCN000
 Plaszów Plaszów NPCSG00
 Plasència Plasència NPCSG00
@@ -176172,6 +176175,8 @@ antiincrustants antiincrustant NCMP000
 antiindependentista antiindependentista AQ0CS0
 antiindependentistes antiindependentista AQ0CP0
 antiindividualisme antiindividualisme NCMS000
+antiindividualista antiindividualista AQ0CS0
+antiindividualistes antiindividualista AQ0CP0
 antiinductiu antiinductiu AQ0MS0
 antiinductius antiinductiu AQ0MP0
 antiinductiva antiinductiu AQ0FS0
@@ -858497,6 +858502,9 @@ judeoalemany judeoalemany AQ0MS0
 judeoalemanya judeoalemany AQ0FS0
 judeoalemanyes judeoalemany AQ0FP0
 judeoalemanys judeoalemany AQ0MP0
+judeobolxevic judeobolxevic AQ0CS0
+judeobolxevics judeobolxevic AQ0CP0
+judeobolxevisme judeobolxevisme NCMS000
 judeocastellana judeocastellà AQ0FS0
 judeocastellanes judeocastellà AQ0FP0
 judeocastellans judeocastellà AQ0MP0
@@ -858525,6 +858533,8 @@ judeocristians judeocristià AQ0MP0
 judeocristià judeocristià AQ0MS0
 judeofòbia judeofòbia NCFS000
 judeofòbies judeofòbia NCFP000
+judeomarxista judeomarxista AQ0CS0
+judeomarxistes judeomarxista AQ0CP0
 judeovalenciana judeovalencià AQ0FS0
 judeovalencianes judeovalencià AQ0FP0
 judeovalencians judeovalencià AQ0MP0
