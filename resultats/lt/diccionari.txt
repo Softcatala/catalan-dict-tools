@@ -266390,7 +266390,9 @@ brigadier brigadier NCMS000
 brigadiera brigadier NCFS000
 brigadieres brigadier NCFP000
 brigadiers brigadier NCMP000
+brigadista brigadista AQ0CS0
 brigadista brigadista NCCS000
+brigadistes brigadista AQ0CP0
 brigadistes brigadista NCCP000
 brigant brigant AQ0CS0
 brigant brigant NCCS000

@@ -5401,6 +5401,7 @@ brevirostre=categories: A;fonts: LT;
 brevistil brevistila=categories: A;fonts: LT;
 brevídom brevídoma=categories: A;fonts: LT;
 brianós brianosa=categories: A;fonts: LT;
+brigadista=categories: A;fonts: DCC;
 brigant=categories: A;fonts: LT;
 brightic brightica=categories: A;fonts: dsalut;
 brillant [sup. brillantíssim]=categories: A; font:apertium;
