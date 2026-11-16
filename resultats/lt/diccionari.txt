@@ -223259,6 +223259,8 @@ autodescripcions autodescripció NCFP000
 autodescripció autodescripció NCFS000
 autodescàrrega autodescàrrega NCFS000
 autodescàrregues autodescàrrega NCFP000
+autodesenvolupament autodesenvolupament NCMS000
+autodesenvolupaments autodesenvolupament NCMP000
 autodesplaçable autodesplaçable AQ0CS0
 autodesplaçables autodesplaçable AQ0CP0
 autodesplegable autodesplegable AQ0CS0
@@ -252223,6 +252225,8 @@ biosintètics biosintètic AQ0MP0
 biosintètiques biosintètic AQ0FP0
 biosistemàtica biosistemàtica NCFS000
 biosistemàtiques biosistemàtica NCFP000
+biosocial biosocial AQ0CS0
+biosocials biosocial AQ0CP0
 biosociologia biosociologia NCFS000
 biosociologies biosociologia NCFP000
 biosoma biosoma NCMS000
@@ -320777,6 +320781,8 @@ cognitivolingüístic cognitivolingüístic AQ0MS0
 cognitivolingüística cognitivolingüístic AQ0FS0
 cognitivolingüístics cognitivolingüístic AQ0MP0
 cognitivolingüístiques cognitivolingüístic AQ0FP0
+cognitivosocial cognitivosocial AQ0CS0
+cognitivosocials cognitivosocial AQ0CP0
 cognom cognom NCMS000
 cognomena cognomenar VMIP3S00
 cognomena cognomenar VMM02S00
@@ -467011,6 +467017,8 @@ desidealitzésseu desidealitzar VMSI2P05
 desidealitzéssim desidealitzar VMSI1P02
 desidealitzéssiu desidealitzar VMSI2P02
 desidealitzí desidealitzar VMIS1S00
+desidentificacions desidentificació NCFP000
+desidentificació desidentificació NCFS000
 desideologitz desideologitzar VMIP1S0B
 desideologitza desideologitzar VMIP3S00
 desideologitza desideologitzar VMM02S00
@@ -992887,6 +992895,8 @@ perim perir VMSP1P00
 perimedul·lar perimedul·lar AQ0CS0
 perimedul·lars perimedul·lar AQ0CP0
 perimeningitis perimeningitis NCFN000
+perimenopausa perimenopausa NCFS000
+perimenopauses perimenopausa NCFP000
 perimenopàusic perimenopàusic AQ0MS0
 perimenopàusica perimenopàusic AQ0FS0
 perimenopàusics perimenopàusic AQ0MP0
@@ -1021498,6 +1021508,8 @@ postflebític postflebític AQ0MS0
 postflebítica postflebític AQ0FS0
 postflebítics postflebític AQ0MP0
 postflebítiques postflebític AQ0FP0
+postformal postformal AQ0CS0
+postformals postformal AQ0CP0
 postfranquisme postfranquisme NCMS000
 postfranquismes postfranquisme NCMP000
 postfranquista postfranquista AQ0CS0
@@ -1074068,6 +1074080,8 @@ recentralitzésseu recentralitzar VMSI2P05
 recentralitzéssim recentralitzar VMSI1P02
 recentralitzéssiu recentralitzar VMSI2P02
 recentralitzí recentralitzar VMIS1S00
+recentrament recentrament NCMS000
+recentraments recentrament NCMP000
 recents recent AQ0CP0
 recentíssim recentíssim AQAMS0
 recentíssima recentíssim AQAFS0
@@ -1171313,6 +1171327,10 @@ sobrecongeléssiu sobrecongelar VMSI2P02
 sobrecongelí sobrecongelar VMIS1S00
 sobreconsum sobreconsum NCMS000
 sobreconsums sobreconsum NCMP000
+sobrecontrolada sobrecontrolat AQ0FS0
+sobrecontrolades sobrecontrolat AQ0FP0
+sobrecontrolat sobrecontrolat AQ0MS0
+sobrecontrolats sobrecontrolat AQ0MP0
 sobrecopa sobrecopa NCFS000
 sobrecopes sobrecopa NCFP000
 sobrecor sobrecor NCMS000
@@ -1177107,6 +1177125,10 @@ socioafectiva socioafectiu AQ0FS0
 socioafectives socioafectiu AQ0FP0
 socioambiental socioambiental AQ0CS0
 socioambientals socioambiental AQ0CP0
+sociobiogràfic sociobiogràfic AQ0MS0
+sociobiogràfica sociobiogràfic AQ0FS0
+sociobiogràfics sociobiogràfic AQ0MP0
+sociobiogràfiques sociobiogràfic AQ0FP0
 sociobiologia sociobiologia NCFS000
 sociobiologies sociobiologia NCFP000
 sociobiològic sociobiològic AQ0MS0
@@ -1187919,6 +1187941,10 @@ subcontrari subcontrari AQ0MS0
 subcontrarietat subcontrarietat NCFS000
 subcontrarietats subcontrarietat NCFP000
 subcontraris subcontrari AQ0MP0
+subcontrolada subcontrolat AQ0FS0
+subcontrolades subcontrolat AQ0FP0
+subcontrolat subcontrolat AQ0MS0
+subcontrolats subcontrolat AQ0MP0
 subcontrària subcontrari AQ0FS0
 subcontràries subcontrari AQ0FP0
 subcoordinador subcoordinador NCMS000
@@ -1190754,6 +1190780,8 @@ subprostàtic subprostàtic AQ0MS0
 subprostàtica subprostàtic AQ0FS0
 subprostàtics subprostàtic AQ0MP0
 subprostàtiques subprostàtic AQ0FP0
+subprova subprova NCFS000
+subproves subprova NCFP000
 subpulmonar subpulmonar AQ0CS0
 subpulmonars subpulmonar AQ0CP0
 subpulpar subpulpar AQ0CS0
