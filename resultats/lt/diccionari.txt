@@ -43843,6 +43843,7 @@ Ionopsidium Ionopsidium NPCN000
 Ios Ios NPCN000
 Iowa Iowa NPCSG00
 Ioànnina Ioànnina NPCSG00
+Iparralde Iparralde NPCSG00
 Iparretarrak Iparretarrak NPCN000
 Ipava Ipava NPCN000
 Ipermestra Ipermestra NPCN000
@@ -741163,6 +741164,8 @@ femto femtar VMIP1S0C
 femtolitre femtolitre NCMS000
 femtolitres femtolitre NCMP000
 femtosa femtós AQ0FS0
+femtosegon femtosegon NCMS000
+femtosegons femtosegon NCMP000
 femtoses femtós AQ0FP0
 femtosos femtós AQ0MP0
 femtà femtar VMIS3S00
@@ -998632,6 +998635,8 @@ petava petar VMII1S00
 petava petar VMII3S00
 petaven petar VMII3P00
 petaves petar VMII2S00
+petawatt petawatt NCMS000
+petawatts petawatt NCMP000
 pete petar VMIP1S0V
 pete petar VMM03S0V
 pete petar VMSP1S0V
@@ -1213506,6 +1213511,8 @@ teratògens teratogen AQ0MP0
 teratògens teratogen NCMP000
 teratòpag teratòpag NCMS000
 teratòpags teratòpag NCMP000
+terawatt terawatt NCMS000
+terawatts terawatt NCMP000
 terazosina terazosina NCFS000
 terazosines terazosina NCFP000
 terbi terbi NCMS000

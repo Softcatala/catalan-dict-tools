@@ -43767,6 +43767,7 @@ Ionopsidium Ionopsidium NPCN000 # wikidata
 Ios Ios NPCN000 # wikidata
 Iowa Iowa NPCSG00
 Ioànnina Ioànnina NPCSG00 # esadir topònims
+Iparralde Iparralde NPCSG00
 Iparretarrak Iparretarrak NPCN000 # wikidata
 Ipava Ipava NPCN000 # wikidata
 Ipermestra Ipermestra NPCN000 # wikidata
