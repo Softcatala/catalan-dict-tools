@@ -101,6 +101,7 @@
 #inotuzumab ozogamicina=categories: M;fonts: dsalut;
 #input-output=categories: MS;fonts: DNV,anglès;
 #intima=categories: F;fonts: LT; arcaisme
+#jacobeu jacobea=categories: MF;fonts: LT; és adjectiu
 #japó=categories: M;fonts: LT;
 #jugaroi=categories: M;fonts: LT; canviat en el DIEC -> jogueroi
 #junior juniora=categories: MF;fonts: LT; rar, no DIEC, DNV
@@ -48261,7 +48262,6 @@ jacint=categories: M;fonts: LT;
 jack=categories: M;fonts: LT;
 jaclet=categories: M;fonts: LT;
 jaco=categories: M;fonts: LT;
-jacobeu jacobea=categories: MF;fonts: LT;
 jacobinisme=categories: M;fonts: LT;
 jacobita=categories: MF;fonts: LT;
 jacobí jacobina=categories: MF;fonts: LT;

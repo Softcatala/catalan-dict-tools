@@ -856311,10 +856311,10 @@ jacksonià jacksonià AQ0MS0
 jaclet jaclet NCMS000
 jaclets jaclet NCMP000
 jaco jaco NCMS000
-jacobea jacobeu NCFS000
-jacobees jacobeu NCFP000
-jacobeu jacobeu NCMS000
-jacobeus jacobeu NCMP000
+jacobea jacobeu AQ0FS0
+jacobees jacobeu AQ0FP0
+jacobeu jacobeu AQ0MS0
+jacobeus jacobeu AQ0MP0
 jacobiana jacobià AQ0FS0
 jacobianes jacobià AQ0FP0
 jacobians jacobià AQ0MP0
@@ -955240,6 +955240,10 @@ octaploïdies octaploïdia NCFP000
 octapèptid octapèptid NCMS000
 octapèptids octapèptid NCMP000
 octatropina octatropina NCFS000
+octatònic octatònic AQ0MS0
+octatònica octatònic AQ0FS0
+octatònics octatònic AQ0MP0
+octatòniques octatònic AQ0FP0
 octau octau AO0MS0
 octaus octau AO0MP0
 octava octau AO0FS0
