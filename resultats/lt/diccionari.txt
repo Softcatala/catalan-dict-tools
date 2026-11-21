@@ -805840,8 +805840,8 @@ heroïnòmans heroïnòman NCMP000
 heroïtz heroïtzar VMIP1S0B
 heroïtza heroïtzar VMIP3S00
 heroïtza heroïtzar VMM02S00
-heroïtzacions heroïtzació NCMP000
-heroïtzació heroïtzació NCMS000
+heroïtzacions heroïtzació NCFP000
+heroïtzació heroïtzació NCFS000
 heroïtzada heroïtzar VMP00SF0
 heroïtzades heroïtzar VMP00PF0
 heroïtzam heroïtzar VMIP1P0B
@@ -943553,8 +943553,8 @@ neuroanastomosi neuroanastomosi NCFS000
 neuroanastomosis neuroanastomosi NCFP000
 neuroanatomia neuroanatomia NCFS000
 neuroanatomies neuroanatomia NCFP000
-neuroanatomista neuroanatomista NCMS000
-neuroanatomistes neuroanatomista NCMP000
+neuroanatomista neuroanatomista NCCS000
+neuroanatomistes neuroanatomista NCCP000
 neuroanatòmic neuroanatòmic AQ0MS0
 neuroanatòmica neuroanatòmic AQ0FS0
 neuroanatòmics neuroanatòmic AQ0MP0
@@ -1272219,8 +1272219,8 @@ virginians virginià AQ0MP0
 virginitat virginitat NCFS000
 virginitats virginitat NCFP000
 virginià virginià AQ0MS0
-virgo virgo NCMS000
-virgos virgo NCMP000
+virgo virgo NCCS000
+virgos virgo NCCP000
 virguer virguer AQ0MS0
 virguera virguer AQ0FS0
 virgueres virguer AQ0FP0
