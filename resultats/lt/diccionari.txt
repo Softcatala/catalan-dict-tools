@@ -1220188,8 +1220188,10 @@ tiracrins tiracrín NCMP000
 tiracrín tiracrín NCMS000
 tirada tirada NCFS000
 tirada tirar VMP00SF0
+tirada tirat AQ0FS0
 tirades tirada NCFP000
 tirades tirar VMP00PF0
+tirades tirat AQ0FP0
 tirador tirador AQ0MS0
 tirador tirador NCMS000
 tiradora tirador AQ0FS0
@@ -1220198,6 +1220200,10 @@ tiradores tirador AQ0FP0
 tiradores tirador NCFP000
 tiradors tirador AQ0MP0
 tiradors tirador NCMP000
+tiradíssim tiradíssim AQAMS0
+tiradíssima tiradíssim AQAFS0
+tiradíssimes tiradíssim AQAFP0
+tiradíssims tiradíssim AQAMP0
 tiraespasa tiraespasa NCMS000
 tiraespases tiraespasa NCMP000
 tirafons tirafons NCMN000
@@ -1220534,6 +1220540,7 @@ tirasséssim tirassar VMSI1P02
 tirasséssiu tirassar VMSI2P02
 tirassí tirassar VMIS1S00
 tirat tirar VMP00SM0
+tirat tirat AQ0MS0
 tirat tirat NCMS000
 tiratac tiratac NCMS000
 tiratacs tiratac NCMP000
@@ -1220544,6 +1220551,7 @@ tiratricols tiratricol NCMP000
 tiratrons tiratró NCMP000
 tiratró tiratró NCMS000
 tirats tirar VMP00PM0
+tirats tirat AQ0MP0
 tirats tirat NCMP000
 tirau tirar VMIP2P0B
 tirau tirar VMM02P0B

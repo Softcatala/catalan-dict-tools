@@ -32123,6 +32123,7 @@ tipològic tipològica=categories: A;fonts: LT;
 tipomòrfic tipomòrfica=categories: A;fonts: LT;
 tirador tiradora=categories: A;fonts: LT;
 tiranicida=categories: A;fonts: LT;
+tirat tirada [sup. tiradíssim]=categories: A; font:participi;
 tireganyós tireganyosa=categories: A;fonts: LT;
 tiri tíria=categories: A;fonts: LT;
 tirijà tirijana=categories: A;fonts: LT;
