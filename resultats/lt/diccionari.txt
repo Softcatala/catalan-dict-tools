@@ -3541,6 +3541,7 @@ Alpsee Alpsee NPCN000
 Alpthal Alpthal NPCN000
 Alpuente Alpont NPCSG0O
 Alpí Alpí NPCNSP0
+Alpöge Alpöge NPCNSP0
 Alqualondë Alqualondë NPCN000
 Alquebla Alquebla NPCSG00
 Alquenènsia Alquenènsia NPCSG00
@@ -15516,6 +15517,7 @@ Buckland Buckland NPCN000
 Buckley Buckley NPCN000
 Bucklin Bucklin NPCN000
 Buckman Buckman NPCN000
+Buckmaster Buckmaster NPCNSP0
 Buckner Buckner NPCN000
 Bucksport Bucksport NPCN000
 Buckten Buckten NPCN000
@@ -33041,6 +33043,7 @@ Fingig Fingig NPCN000
 Fingolfin Fingolfin NPCN000
 Finhan Finhan NPCN000
 Finhaut Finhaut NPCN000
+Fininvest Fininvest NPCNO00
 Finisterre Finisterre NPCSG00
 Fink Fink NPCN000
 Finke Finke NPCSG00
@@ -38329,6 +38332,7 @@ Grignon Grignon NPCN000
 Grignoncourt Grignoncourt NPCN000
 Grigny Grigny NPCN000
 Grijalba Grijalba NPCN000
+Grijalbo Grijalbo NPCNO00
 Grijota Grijota NPCN000
 Grilly Grilly NPCN000
 Grimacco Grimacco NPCN000
@@ -58670,6 +58674,7 @@ Moncton Moncton NPCSG00
 Moncy Moncy NPCN000
 Moncé-en-Belin Moncé-en-Belin NPCN000
 Moncé-en-Saosnois Moncé-en-Saosnois NPCN000
+Mondadori Mondadori NPCNO00
 Mondamin Mondamin NPCN000
 Mondariz Mondariz NPCN000
 Mondariz-Balneario Mondariz-Balneario NPCN000

@@ -3705,6 +3705,7 @@ Alps Alps NPMPG00
 Alpsee Alpsee NPCN000 # wikidata
 Alpthal Alpthal NPCN000 # wikidata
 Alpí Alpí NPCNSP0
+Alpöge Alpöge NPCNSP0
 Alqualondë Alqualondë NPCN000 # wikidata
 Alquebla Alquebla NPCSG00
 Alquenènsia Alquenènsia NPCSG00
@@ -15636,6 +15637,7 @@ Buckland Buckland NPCN000 # wikidata
 Buckley Buckley NPCN000 # wikidata
 Bucklin Bucklin NPCN000 # wikidata
 Buckman Buckman NPCN000 # wikidata
+Buckmaster Buckmaster NPCNSP0
 Buckner Buckner NPCN000 # wikidata
 Bucksport Bucksport NPCN000 # wikidata
 Buckten Buckten NPCN000 # wikidata
@@ -33027,6 +33029,7 @@ Fingig Fingig NPCN000 # wikidata
 Fingolfin Fingolfin NPCN000 # wikidata
 Finhan Finhan NPCN000 # wikidata
 Finhaut Finhaut NPCN000 # wikidata
+Fininvest Fininvest NPCNO00
 Finisterre Finisterre NPCSG00
 Fink Fink NPCN000 # wikidata
 Finke Finke NPCSG00
@@ -38305,6 +38308,7 @@ Grignon Grignon NPCN000 # wikidata
 Grignoncourt Grignoncourt NPCN000 # wikidata
 Grigny Grigny NPCN000 # wikidata
 Grijalba Grijalba NPCN000 # wikidata
+Grijalbo Grijalbo NPCNO00
 Grijota Grijota NPCN000 # wikidata
 Grilly Grilly NPCN000 # wikidata
 Grimacco Grimacco NPCN000 # wikidata
@@ -58498,6 +58502,7 @@ Moncton Moncton NPCSG00
 Moncy Moncy NPCN000 # wikidata
 Moncé-en-Belin Moncé-en-Belin NPCN000 # wikidata
 Moncé-en-Saosnois Moncé-en-Saosnois NPCN000 # wikidata
+Mondadori Mondadori NPCNO00
 Mondamin Mondamin NPCN000 # wikidata
 Mondariz Mondariz NPCN000 # wikidata
 Mondariz-Balneario Mondariz-Balneario NPCN000 # wikidata
