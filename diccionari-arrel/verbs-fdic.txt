@@ -8359,6 +8359,7 @@ prémer=categories: V;model:témer;fonts: LT;
 pseudomorfitzar=categories: V;model:cantar;fonts: LT;
 psicoanalitzar=categories: V;model:cantar;fonts: LT;
 psicologitzar=categories: V;model:cantar;fonts: termcat;
+psiquiatritzar=categories: V;model:cantar;fonts: neolosfera;
 ptialitzar=categories: V;model:cantar;fonts:dsalut;
 publicar=categories: V;model:trencar;fonts: LT;
 publicitar=categories: V;model:cantar;fonts: LT;
