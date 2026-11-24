@@ -66489,6 +66489,7 @@ PMC PMC NPCN000
 PME PME NPCN000
 PMF PMF NCFP000
 PMH PMH NPCN000
+PMI PMI NPCNO00
 PMJ PMJ NPCN000
 PMK PMK NPCN000
 PML PML NPCN000
@@ -530409,7 +530410,9 @@ eixugades eixugar VMP00PF0
 eixugador eixugador AQ0MS0
 eixugador eixugador NCMS000
 eixugadora eixugador AQ0FS0
+eixugadora eixugadora NCFS000
 eixugadores eixugador AQ0FP0
+eixugadores eixugadora NCFP000
 eixugadors eixugador AQ0MP0
 eixugadors eixugador NCMP000
 eixugall eixugall NCMS000
@@ -656972,6 +656975,10 @@ escalí escalar VMIS1S00
 escalí escalí NCMS000
 escalímetre escalímetre NCMS000
 escalímetres escalímetre NCMP000
+escalístic escalístic AQ0MS0
+escalística escalístic AQ0FS0
+escalístics escalístic AQ0MP0
+escalístiques escalístic AQ0FP0
 escaló escaló NCMS000
 escam escamar VMIP1S0B
 escam escar VMIP1P0B
@@ -1031063,6 +1031070,8 @@ prerectals prerectal AQ0CP0
 prereforma prereforma NCFS000
 prerefredament prerefredament NCMS000
 prerefredaments prerefredament NCMP000
+prerefrigeracions prerefrigeració NCFP000
+prerefrigeració prerefrigeració NCFS000
 preregistr preregistrar VMIP1S0B
 preregistra preregistrar VMIP3S00
 preregistra preregistrar VMM02S00
@@ -1077517,6 +1077526,8 @@ reconcentrésseu reconcentrar VMSI2P05
 reconcentréssim reconcentrar VMSI1P02
 reconcentréssiu reconcentrar VMSI2P02
 reconcentrí reconcentrar VMIS1S00
+reconceptualitzacions reconceptualització NCFP000
+reconceptualització reconceptualització NCFS000
 reconcilia reconciliar VMIP3S00
 reconcilia reconciliar VMM02S00
 reconciliable reconciliable AQ0CS0
@@ -1192349,6 +1192360,10 @@ subtitulacions subtitulació NCFP000
 subtitulació subtitulació NCFS000
 subtitulada subtitular VMP00SF0
 subtitulades subtitular VMP00PF0
+subtitulador subtitulador NCMS000
+subtituladora subtitulador NCFS000
+subtituladores subtitulador NCFP000
+subtituladors subtitulador NCMP000
 subtitulam subtitular VMIP1P0B
 subtitulant subtitular VMG00000
 subtitular subtitular VMN00000

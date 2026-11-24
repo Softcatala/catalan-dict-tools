@@ -11484,6 +11484,7 @@ escalonat escalonada [sup. escalonadíssim]=categories: A; font:apertium;
 escalpriforme=categories: A;fonts: dsalut;
 escalè escalena=categories: A;fonts: LT;
 escalènic escalènica=categories: A;fonts: dsalut;
+escalístic escalística=categories: A;fonts: derivat;
 escamarrat escamarrada=categories: A;fonts: LT;
 escamiforme=categories: A;fonts: LT;
 escamotejador escamotejadora=categories: A;fonts: LT;

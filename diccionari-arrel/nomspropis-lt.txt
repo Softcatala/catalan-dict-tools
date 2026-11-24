@@ -66258,6 +66258,7 @@ PMA PMA NPCN000 # wikidata
 PMC PMC NPCN000 # wikidata
 PME PME NPCN000 # wikidata
 PMH PMH NPCN000 # wikidata
+PMI PMI NPCNO00
 PMJ PMJ NPCN000 # wikidata
 PMK PMK NPCN000 # wikidata
 PML PML NPCN000 # wikidata
