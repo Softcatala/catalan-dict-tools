@@ -38689,6 +38689,7 @@ Guargualé Guargualé NPCN000 # wikidata
 Guarines Guarines NPCNSP0
 Guarini Guarini NPCNSP0
 Guarner Guarner NPCNSP0
+Guarneri Guarneri NPCNSP0
 Guaro Guaro NPCN000 # wikidata
 Guarrate Guarrate NPCN000 # wikidata
 Guarromán Guarromán NPCN000 # wikidata
