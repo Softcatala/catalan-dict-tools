@@ -86693,6 +86693,7 @@ Swimming Swimming NPCN000
 Swindon Swindon NPCSG00
 Swingers Swingers NPCN000
 Swink Swink NPCN000
+Swinnerton-Dyer Swinnerton-Dyer NPCNSP0
 Swinney Swinney NPCNSP0
 Swisher Swisher NPCN000
 Swiss-Prot Swiss-Prot NPCN000
@@ -174843,6 +174844,7 @@ anti-nord-americana anti-nord-americà AQ0FS0
 anti-nord-americanes anti-nord-americà AQ0FP0
 anti-nord-americans anti-nord-americà AQ0MP0
 anti-nord-americà anti-nord-americà AQ0MS0
+anti-spam anti-spam AQ0CN0
 anti-sud-africana anti-sud-africà AQ0FS0
 anti-sud-africanes anti-sud-africà AQ0FP0
 anti-sud-africans anti-sud-africà AQ0MP0
@@ -766418,6 +766420,8 @@ frivolitats frivolitat NCFP000
 frivolitz frivolitzar VMIP1S0B
 frivolitza frivolitzar VMIP3S00
 frivolitza frivolitzar VMM02S00
+frivolitzacions frivolització NCFP000
+frivolització frivolització NCFS000
 frivolitzada frivolitzar VMP00SF0
 frivolitzades frivolitzar VMP00PF0
 frivolitzam frivolitzar VMIP1P0B
@@ -1012117,6 +1012121,8 @@ plurisexual plurisexual AQ0CS0
 plurisexualitat plurisexualitat NCFS000
 plurisexualitats plurisexualitat NCFP000
 plurisexuals plurisexual AQ0CP0
+pluriterritorial pluriterritorial AQ0CS0
+pluriterritorials pluriterritorial AQ0CP0
 plurivalent plurivalent AQ0CS0
 plurivalents plurivalent AQ0CP0
 plurivalència plurivalència NCFS000
@@ -1031849,9 +1031855,13 @@ prescriptiu prescriptiu AQ0MS0
 prescriptius prescriptiu AQ0MP0
 prescriptiva prescriptiu AQ0FS0
 prescriptives prescriptiu AQ0FP0
+prescriptor prescriptor AQ0MS0
 prescriptor prescriptor NCMS000
+prescriptora prescriptor AQ0FS0
 prescriptora prescriptor NCFS000
+prescriptores prescriptor AQ0FP0
 prescriptores prescriptor NCFP000
+prescriptors prescriptor AQ0MP0
 prescriptors prescriptor NCMP000
 prescrit prescrit NCMS000
 prescrit prescriure VMP00SM0
@@ -1056454,8 +1056464,10 @@ rabieu rabiar VMSP2P00
 rabiforme rabiforme AQ0CS0
 rabiformes rabiforme AQ0CP0
 rabii rabiar VMIP1S0B
+rabina rabí NCFS000
 rabinada rabinada NCFS000
 rabinades rabinada NCFP000
+rabines rabí NCFP000
 rabinisme rabinisme NCMS000
 rabinismes rabinisme NCMP000
 rabinista rabinista NCCS000
@@ -1098163,6 +1098175,8 @@ reimplantésseu reimplantar VMSI2P05
 reimplantéssim reimplantar VMSI1P02
 reimplantéssiu reimplantar VMSI2P02
 reimplantí reimplantar VMIS1S00
+reimplementacions reimplementació NCFP000
+reimplementació reimplementació NCFS000
 reimport reimportar VMIP1S0B
 reimporta reimportar VMIP3S00
 reimporta reimportar VMM02S00
@@ -1177727,6 +1177741,8 @@ sociomètric sociomètric AQ0MS0
 sociomètrica sociomètric AQ0FS0
 sociomètrics sociomètric AQ0MP0
 sociomètriques sociomètric AQ0FP0
+socionatural socionatural AQ0CS0
+socionaturals socionatural AQ0CP0
 sociopatia sociopatia NCFS000
 sociopaties sociopatia NCFP000
 sociopatologia sociopatologia NCFS000
@@ -1191366,6 +1191382,8 @@ subratllí subratllar VMIS1S00
 subraça subraça NCFS000
 subrectangle subrectangle NCMS000
 subrectangles subrectangle NCMP000
+subreddit subreddit NCMS000
+subreddits subreddit NCMP000
 subrefredament subrefredament NCMS000
 subrefredaments subrefredament NCMP000
 subregional subregional AQ0CS0
@@ -1196279,6 +1196297,10 @@ superbaixa superbaix AQ0FS0
 superbaixes superbaix AQ0FP0
 superbaixos superbaix AQ0MP0
 superbament superbament RG
+superbarat superbarat AQ0MS0
+superbarata superbarat AQ0FS0
+superbarates superbarat AQ0FP0
+superbarats superbarat AQ0MP0
 superbell superbell AQ0MS0
 superbella superbell AQ0FS0
 superbelles superbell AQ0FP0
